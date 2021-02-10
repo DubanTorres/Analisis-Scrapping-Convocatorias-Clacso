@@ -1,0 +1,29 @@
+name: scraping-clacso
+
+channels:
+- anaconda
+- conda-forge
+
+dependencies:
+- anaconda::python=3.8.5
+- conda-forge::pip=20.3.3
+- conda-forge::yapf=0.30.0
+- conda-forge::pylama=7.7.1
+- conda-forge::pep257=0.7.0
+- anaconda::pep8=1.7.1
+- anaconda::mccabe=0.6.1
+- conda-forge::mypy=0.790
+- anaconda::pylint=2.6.0
+- conda-forge::lxml=4.6.2
+- conda-forge::sphinx=3.4.3
+- conda-forge::pandas=1.2.1
+- conda-forge::numpy=1.19.2
+- conda-forge::beautifulsoup4=4.9.3 
+- conda-forge::scrapy=2.4.1
+- conda-forge::requests=2.25.1
+- conda-forge::pillow=8.1.0
+
+- pip:
+  - vulture==1.3
+  - pymongo==3.11.3
+  - selenium==3.141.0
