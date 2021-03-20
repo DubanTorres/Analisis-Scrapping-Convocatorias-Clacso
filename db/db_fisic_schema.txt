@@ -1,0 +1,27 @@
+db/
+├── country1
+│   ├── announcement0
+│   │   ├── doc0.txt
+│   │   └── doc1.txt
+│   └── announcement1
+│       ├── doc0.txt
+│       ├── doc1.txt
+│       └── doc2.txt
+├── country2
+│   ├── announcement0
+│   │   ├── doc0.txt
+│   │   ├── doc1.txt
+│   │   └── doc2.txt
+│   └── announcement1
+│       ├── doc0.txt
+│       ├── doc1.txt
+│       └── doc2.txt
+└── country3
+    ├── announcement0
+    │   ├── doc0.txt
+    │   └── doc1.txt
+    └── announcement1
+        ├── doc0.txt
+        └── doc1.txt
+
+9 directories, 15 files
