@@ -5,7 +5,7 @@ from urllib.error import URLError
 
 def download_document(download_url, path_store, file_name):
     ''' Download a specific pdf alocated in
-        download_url and store in path_store_ with a specific
+        download_url and store in path_store with a specific
         file_name.
     '''
 
@@ -19,7 +19,7 @@ def download_document(download_url, path_store, file_name):
     except URLError as e:
 
         print(e)
-        pass            # flag: that document pdf url of thar announcement don´t work
+        pass            # Flag: that document pdf url of that announcement don´t work
                         # build store fail information somewhere...
 
 if __name__=="__main__":
