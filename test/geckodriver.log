@@ -35340,3 +35340,1309 @@ Sandbox: Unexpected EOF, op 0 flags 02000000 path /etc/localtime
 Gdk-Message: 06:31:52.004: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
 
 Exiting due to channel error.
+1620169918399	geckodriver	INFO	Listening on 127.0.0.1:49705
+1620169919407	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilencixTb"
+1620169920030	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilencixTb/search.json.mozlz4", (void 0)))
+1620169921529	Marionette	INFO	Listening on port 41885
+1620169921636	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620169960250	Marionette	INFO	Stopped listening on port 41885
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620170118430	geckodriver	INFO	Listening on 127.0.0.1:51051
+1620170118434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDG54KP"
+1620170119035	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDG54KP/search.json.mozlz4", (void 0)))
+1620170120683	Marionette	INFO	Listening on port 37057
+1620170120756	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620170137888	Marionette	INFO	Stopped listening on port 37057
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620170223419	geckodriver	INFO	Listening on 127.0.0.1:57435
+1620170223422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIc3vNX"
+1620170223985	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIc3vNX/search.json.mozlz4", (void 0)))
+1620170225465	Marionette	INFO	Listening on port 33683
+1620170225543	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620170257449	geckodriver	INFO	Listening on 127.0.0.1:54515
+1620170257453	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCJc3Yt"
+1620170258059	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCJc3Yt/search.json.mozlz4", (void 0)))
+1620170259700	Marionette	INFO	Listening on port 38607
+1620170259779	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620170274087	geckodriver	INFO	Listening on 127.0.0.1:38271
+1620170274090	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileduaYBD"
+1620170274696	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileduaYBD/search.json.mozlz4", (void 0)))
+1620170276488	Marionette	INFO	Listening on port 34515
+1620170276515	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620170293212	geckodriver	INFO	Listening on 127.0.0.1:59387
+1620170293216	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilew4bxzq"
+1620170293809	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilew4bxzq/search.json.mozlz4", (void 0)))
+1620170295494	Marionette	INFO	Listening on port 45585
+1620170295537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620170309822	Marionette	INFO	Stopped listening on port 45585
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620170311889	Marionette	INFO	Stopped listening on port 34515
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620170314055	Marionette	INFO	Stopped listening on port 38607
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620170316383	Marionette	INFO	Stopped listening on port 33683
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620170531497	geckodriver	INFO	Listening on 127.0.0.1:55417
+1620170531501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebsL0iX"
+1620170532069	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebsL0iX/search.json.mozlz4", (void 0)))
+1620170533481	Marionette	INFO	Listening on port 37159
+1620170533527	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620170547629	Marionette	INFO	Stopped listening on port 37159
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620170610116	geckodriver	INFO	Listening on 127.0.0.1:42605
+1620170610119	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSgn6FH"
+1620170610728	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSgn6FH/search.json.mozlz4", (void 0)))
+1620170612497	Marionette	INFO	Listening on port 35781
+1620170612543	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620170618385	Marionette	INFO	Stopped listening on port 35781
+1620171700540	geckodriver	INFO	Listening on 127.0.0.1:53179
+1620171700543	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejJQt2S"
+1620171701113	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejJQt2S/search.json.mozlz4", (void 0)))
+1620171702775	Marionette	INFO	Listening on port 40929
+1620171702866	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620171732273	geckodriver	INFO	Listening on 127.0.0.1:34773
+1620171732278	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVod2eb"
+1620171732912	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVod2eb/search.json.mozlz4", (void 0)))
+1620171734545	Marionette	INFO	Listening on port 44077
+1620171734601	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620171755466	Marionette	INFO	Stopped listening on port 44077
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620171756492	Marionette	INFO	Stopped listening on port 40929
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620171807735	geckodriver	INFO	Listening on 127.0.0.1:40579
+1620171807739	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesQ1kxn"
+1620171808354	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesQ1kxn/search.json.mozlz4", (void 0)))
+1620171809848	Marionette	INFO	Listening on port 42353
+1620171809958	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620171818747	Marionette	INFO	Stopped listening on port 42353
+1620171836885	geckodriver	INFO	Listening on 127.0.0.1:45797
+1620171836890	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekgQDkP"
+1620171837492	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekgQDkP/search.json.mozlz4", (void 0)))
+1620171839164	Marionette	INFO	Listening on port 41695
+1620171839215	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+1620171845564	Marionette	INFO	Stopped listening on port 41695
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620171854759	geckodriver	INFO	Listening on 127.0.0.1:59519
+1620171854762	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5RwR04"
+1620171855369	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5RwR04/search.json.mozlz4", (void 0)))
+1620171857088	Marionette	INFO	Listening on port 39595
+1620171857195	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620171932514	geckodriver	INFO	Listening on 127.0.0.1:60953
+1620171932517	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLioOlw"
+1620171933124	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLioOlw/search.json.mozlz4", (void 0)))
+1620171934867	Marionette	INFO	Listening on port 38257
+1620171934940	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620171942497	Marionette	INFO	Stopped listening on port 38257
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620171948776	Marionette	INFO	Stopped listening on port 39595
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620172029265	geckodriver	INFO	Listening on 127.0.0.1:34413
+1620172029270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaF9S5m"
+1620172029904	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaF9S5m/search.json.mozlz4", (void 0)))
+1620172031432	Marionette	INFO	Listening on port 38925
+1620172031498	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620172205735	Marionette	INFO	Stopped listening on port 38925
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620172907483	geckodriver	INFO	Listening on 127.0.0.1:39917
+1620172907486	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemyskgU"
+1620172908110	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemyskgU/search.json.mozlz4", (void 0)))
+1620172909759	Marionette	INFO	Listening on port 40733
+1620172909808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620172927815	geckodriver	INFO	Listening on 127.0.0.1:49593
+1620172927819	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRo5KoG"
+1620172928407	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRo5KoG/search.json.mozlz4", (void 0)))
+1620172929965	Marionette	INFO	Listening on port 34483
+1620172930042	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 139"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:139:62
+takeScreenshot@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:259:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 139"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:139:62
+takeScreenshot@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:259:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 139"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:139:62
+takeScreenshot@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:259:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 139"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:139:62
+takeScreenshot@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:259:32
+
+1620173159278	Marionette	INFO	Stopped listening on port 34483
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620173159948	Marionette	INFO	Stopped listening on port 40733
+1620173445693	geckodriver	INFO	Listening on 127.0.0.1:34011
+1620173445697	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledn5xw9"
+1620173446302	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledn5xw9/search.json.mozlz4", (void 0)))
+1620173448089	Marionette	INFO	Listening on port 41037
+1620173448134	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620173640210	geckodriver	INFO	Listening on 127.0.0.1:50391
+1620173640214	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUtLsU8"
+1620173640779	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUtLsU8/search.json.mozlz4", (void 0)))
+1620173642438	Marionette	INFO	Listening on port 39879
+1620173642543	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 139"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:139:62
+takeScreenshot@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:259:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 139"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:139:62
+takeScreenshot@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:259:32
+
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 789: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+1620173967123	geckodriver	INFO	Listening on 127.0.0.1:52491
+1620173967127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehYcFuo"
+1620173967743	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehYcFuo/search.json.mozlz4", (void 0)))
+1620173969662	Marionette	INFO	Listening on port 42875
+1620173969754	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620174048761	geckodriver	INFO	Listening on 127.0.0.1:40173
+1620174048766	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFoBhFU"
+1620174049396	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFoBhFU/search.json.mozlz4", (void 0)))
+1620174051109	Marionette	INFO	Listening on port 42351
+1620174051198	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620174085688	Marionette	INFO	Stopped listening on port 41037
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620174087590	Marionette	INFO	Stopped listening on port 39879
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620174088763	Marionette	INFO	Stopped listening on port 42875
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620174090051	Marionette	INFO	Stopped listening on port 42351
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620174124118	geckodriver	INFO	Listening on 127.0.0.1:52283
+1620174124123	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA35Y8H"
+1620174124725	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileA35Y8H/search.json.mozlz4", (void 0)))
+1620174126597	Marionette	INFO	Listening on port 45513
+1620174126654	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620174189352	Marionette	INFO	Stopped listening on port 45513
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620174563271	geckodriver	INFO	Listening on 127.0.0.1:60925
+1620174563274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0ACw7g"
+1620174563874	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0ACw7g/search.json.mozlz4", (void 0)))
+1620174565288	Marionette	INFO	Listening on port 36491
+1620174565396	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 139"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:139:62
+takeScreenshot@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:259:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 139"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:139:62
+takeScreenshot@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:259:32
+
+1620174989941	geckodriver	INFO	Listening on 127.0.0.1:49749
+1620174989947	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV0MJxy"
+1620174990521	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileV0MJxy/search.json.mozlz4", (void 0)))
+1620174992138	Marionette	INFO	Listening on port 42489
+1620174992168	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620175082045	geckodriver	INFO	Listening on 127.0.0.1:41495
+1620175082049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKrSl4m"
+1620175082637	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKrSl4m/search.json.mozlz4", (void 0)))
+1620175084282	Marionette	INFO	Listening on port 46387
+1620175084373	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620175125187	Marionette	INFO	Stopped listening on port 46387
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 789: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+1620176704646	geckodriver	INFO	Listening on 127.0.0.1:48919
+1620176704652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerdz7GD"
+1620176705272	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerdz7GD/search.json.mozlz4", (void 0)))
+1620176706904	Marionette	INFO	Listening on port 38143
+1620176706983	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 789: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+1620177083158	Marionette	INFO	Stopped listening on port 38143
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620177087492	Marionette	INFO	Stopped listening on port 36491
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620177088595	Marionette	INFO	Stopped listening on port 42489
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620177425734	geckodriver	INFO	Listening on 127.0.0.1:53211
+1620177425737	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVB3PSG"
+1620177426339	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVB3PSG/search.json.mozlz4", (void 0)))
+1620177427817	Marionette	INFO	Listening on port 41375
+1620177427859	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620177491462	Marionette	INFO	Stopped listening on port 41375
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620177582436	geckodriver	INFO	Listening on 127.0.0.1:50393
+1620177582440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile28rrvD"
+1620177583029	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile28rrvD/search.json.mozlz4", (void 0)))
+1620177584496	Marionette	INFO	Listening on port 34207
+1620177584563	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620177731942	geckodriver	INFO	Listening on 127.0.0.1:59669
+1620177732953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXfHp6M"
+1620177733521	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXfHp6M/search.json.mozlz4", (void 0)))
+1620177734979	Marionette	INFO	Listening on port 45953
+1620177735080	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 789: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 789: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+1620178367163	geckodriver	INFO	Listening on 127.0.0.1:34377
+1620178367168	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2DL4Hb"
+1620178367815	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2DL4Hb/search.json.mozlz4", (void 0)))
+1620178369556	Marionette	INFO	Listening on port 37383
+1620178369609	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1620178689881	geckodriver	INFO	Listening on 127.0.0.1:54145
+1620178689885	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL9Kd1C"
+1620178690460	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileL9Kd1C/search.json.mozlz4", (void 0)))
+1620178692095	Marionette	INFO	Listening on port 34905
+1620178692126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 789: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+1620179327769	geckodriver	INFO	Listening on 127.0.0.1:52675
+1620179327774	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ5rFCo"
+1620179328394	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZ5rFCo/search.json.mozlz4", (void 0)))
+1620179330434	Marionette	INFO	Listening on port 36713
+1620179330500	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620179438650	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1620179438871	Marionette	INFO	Stopped listening on port 36713
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620179439506	geckodriver	INFO	Listening on 127.0.0.1:50903
+1620179439513	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevJJuP8"
+1620179440179	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevJJuP8/search.json.mozlz4", (void 0)))
+1620179442200	Marionette	INFO	Listening on port 37077
+1620179442239	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+1620179475699	Marionette	INFO	Stopped listening on port 37077
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620179667258	geckodriver	INFO	Listening on 127.0.0.1:44535
+1620179667262	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSI7d3h"
+1620179667901	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSI7d3h/search.json.mozlz4", (void 0)))
+1620179669592	Marionette	INFO	Listening on port 33355
+1620179669701	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 789: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+1620179983335	geckodriver	INFO	Listening on 127.0.0.1:35819
+1620179983339	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewaeW2v"
+1620179984001	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewaeW2v/search.json.mozlz4", (void 0)))
+1620179985715	Marionette	INFO	Listening on port 37475
+1620179985764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620180087914	Marionette	INFO	Stopped listening on port 37475
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620180088473	geckodriver	INFO	Listening on 127.0.0.1:57827
+1620180088483	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiGVbih"
+1620180089090	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiGVbih/search.json.mozlz4", (void 0)))
+1620180090909	Marionette	INFO	Listening on port 40695
+1620180091015	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+1620180127136	Marionette	INFO	Stopped listening on port 40695
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620180721093	Marionette	INFO	Stopped listening on port 33355
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620180725460	Marionette	INFO	Stopped listening on port 34905
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620180735291	geckodriver	INFO	Listening on 127.0.0.1:44043
+1620180735296	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel9t7LT"
+1620180735899	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilel9t7LT/search.json.mozlz4", (void 0)))
+1620180737592	Marionette	INFO	Listening on port 40901
+1620180737621	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620180832216	Marionette	INFO	Stopped listening on port 40901
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620180832746	geckodriver	INFO	Listening on 127.0.0.1:41525
+1620180832749	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqavje5"
+1620180833417	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqavje5/search.json.mozlz4", (void 0)))
+1620180835144	Marionette	INFO	Listening on port 38753
+1620180835185	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620180870030	Marionette	INFO	Stopped listening on port 38753
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620181231786	geckodriver	INFO	Listening on 127.0.0.1:33877
+1620181231791	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEIbLLm"
+1620181232430	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEIbLLm/search.json.mozlz4", (void 0)))
+1620181234370	Marionette	INFO	Listening on port 42211
+1620181234419	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620181361772	Marionette	INFO	Stopped listening on port 42211
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620181362288	geckodriver	INFO	Listening on 127.0.0.1:59099
+1620181362291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXc7Q9X"
+1620181362937	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXc7Q9X/search.json.mozlz4", (void 0)))
+1620181364767	Marionette	INFO	Listening on port 43675
+1620181364823	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620181422630	Marionette	INFO	Stopped listening on port 43675
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620181646431	geckodriver	INFO	Listening on 127.0.0.1:42997
+1620181646437	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledxdAP0"
+1620181647086	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledxdAP0/search.json.mozlz4", (void 0)))
+1620181648940	Marionette	INFO	Listening on port 42053
+1620181648969	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620181705343	geckodriver	INFO	Listening on 127.0.0.1:33995
+1620181705347	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMpCGdw"
+1620181706008	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMpCGdw/search.json.mozlz4", (void 0)))
+1620181707870	Marionette	INFO	Listening on port 41895
+1620181707981	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Themes/ProdestBoxTheme/scripts/slider/slider-thumb.min.js, line 1: TypeError: n(...).sliderMenuVertical is not a function
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620181816796	Marionette	INFO	Stopped listening on port 41895
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620181817507	geckodriver	INFO	Listening on 127.0.0.1:52891
+1620181818519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepUbKFT"
+1620181819245	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepUbKFT/search.json.mozlz4", (void 0)))
+1620181821199	Marionette	INFO	Listening on port 40677
+1620181821247	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620181864837	Marionette	INFO	Stopped listening on port 40677
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 789: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+1620182658331	Marionette	INFO	Stopped listening on port 42053
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620184452153	geckodriver	INFO	Listening on 127.0.0.1:33009
+1620184452157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb7JIZs"
+1620184452801	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileb7JIZs/search.json.mozlz4", (void 0)))
+1620184454551	Marionette	INFO	Listening on port 44819
+1620184454597	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620184523302	Marionette	INFO	Stopped listening on port 44819
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620184523832	geckodriver	INFO	Listening on 127.0.0.1:45297
+1620184523839	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEBlM4V"
+1620184524446	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEBlM4V/search.json.mozlz4", (void 0)))
+1620184526218	Marionette	INFO	Listening on port 37085
+1620184526261	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620184544239	Marionette	INFO	Stopped listening on port 37085
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620184965003	geckodriver	INFO	Listening on 127.0.0.1:46577
+1620184965008	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUEQrC5"
+1620184965668	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUEQrC5/search.json.mozlz4", (void 0)))
+1620184967576	Marionette	INFO	Listening on port 33343
+1620184967643	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620185059681	Marionette	INFO	Stopped listening on port 33343
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620185060212	geckodriver	INFO	Listening on 127.0.0.1:40171
+1620185060215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9z1o2d"
+1620185060895	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9z1o2d/search.json.mozlz4", (void 0)))
+1620185062614	Marionette	INFO	Listening on port 46719
+1620185062645	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620185079426	Marionette	INFO	Stopped listening on port 46719
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620185187377	geckodriver	INFO	Listening on 127.0.0.1:54495
+1620185187382	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMqMW7l"
+1620185188062	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMqMW7l/search.json.mozlz4", (void 0)))
+1620185189846	Marionette	INFO	Listening on port 38043
+1620185189917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620185257164	Marionette	INFO	Stopped listening on port 38043
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620185257827	geckodriver	INFO	Listening on 127.0.0.1:43957
+1620185257830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile98Aoyw"
+1620185258458	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile98Aoyw/search.json.mozlz4", (void 0)))
+1620185260323	Marionette	INFO	Listening on port 40755
+1620185260356	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620185276538	Marionette	INFO	Stopped listening on port 40755
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620185745107	geckodriver	INFO	Listening on 127.0.0.1:33401
+1620185745111	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6w4Wyf"
+1620185745775	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6w4Wyf/search.json.mozlz4", (void 0)))
+1620185747656	Marionette	INFO	Listening on port 44067
+1620185747735	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620185803771	Marionette	INFO	Stopped listening on port 44067
+1620185804417	geckodriver	INFO	Listening on 127.0.0.1:53031
+1620185804425	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebfcsg6"
+1620185805068	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebfcsg6/search.json.mozlz4", (void 0)))
+1620185806954	Marionette	INFO	Listening on port 38489
+1620185807062	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620185821547	Marionette	INFO	Stopped listening on port 38489
+1620185852213	geckodriver	INFO	Listening on 127.0.0.1:39457
+1620185852217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ9Aeg1"
+1620185852829	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZ9Aeg1/search.json.mozlz4", (void 0)))
+1620185854571	Marionette	INFO	Listening on port 43771
+1620185854645	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620185910873	Marionette	INFO	Stopped listening on port 43771
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620185911392	geckodriver	INFO	Listening on 127.0.0.1:58779
+1620185911395	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoTX2yc"
+1620185911996	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoTX2yc/search.json.mozlz4", (void 0)))
+1620185913723	Marionette	INFO	Listening on port 35567
+1620185913830	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620185921487	Marionette	INFO	Stopped listening on port 35567
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620186047895	geckodriver	INFO	Listening on 127.0.0.1:36097
+1620186047901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebViIKj"
+1620186048543	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebViIKj/search.json.mozlz4", (void 0)))
+1620186050389	Marionette	INFO	Listening on port 44341
+1620186050428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620186082884	geckodriver	INFO	Listening on 127.0.0.1:35089
+1620186082888	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebam64j"
+1620186083509	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebam64j/search.json.mozlz4", (void 0)))
+1620186085337	Marionette	INFO	Listening on port 38213
+1620186085416	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620186164439	Marionette	INFO	Stopped listening on port 38213
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620186164960	geckodriver	INFO	Listening on 127.0.0.1:50993
+1620186164965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileh2Jwy1"
+1620186165552	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileh2Jwy1/search.json.mozlz4", (void 0)))
+1620186167554	Marionette	INFO	Listening on port 36783
+1620186167594	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620186175371	Marionette	INFO	Stopped listening on port 36783
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620186197035	geckodriver	INFO	Listening on 127.0.0.1:38699
+1620186197040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile31ZrRa"
+1620186197746	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile31ZrRa/search.json.mozlz4", (void 0)))
+1620186199592	Marionette	INFO	Listening on port 42371
+1620186199666	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620186262615	Marionette	INFO	Stopped listening on port 42371
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620186263240	geckodriver	INFO	Listening on 127.0.0.1:50707
+1620186263243	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecieEUc"
+1620186263972	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecieEUc/search.json.mozlz4", (void 0)))
+1620186265882	Marionette	INFO	Listening on port 46539
+1620186265975	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620186274704	Marionette	INFO	Stopped listening on port 46539
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620186626848	geckodriver	INFO	Listening on 127.0.0.1:52371
+1620186626854	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYE8hHj"
+1620186627506	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYE8hHj/search.json.mozlz4", (void 0)))
+1620186629291	Marionette	INFO	Listening on port 45541
+1620186629390	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620186872726	Marionette	INFO	Stopped listening on port 45541
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620186873090	geckodriver	INFO	Listening on 127.0.0.1:59863
+1620186873094	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelLakv4"
+1620186873783	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelLakv4/search.json.mozlz4", (void 0)))
+1620186876144	Marionette	INFO	Listening on port 41461
+1620186876245	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620186885595	Marionette	INFO	Stopped listening on port 41461
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620187081932	geckodriver	INFO	Listening on 127.0.0.1:37947
+1620187081938	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSf3umX"
+1620187082698	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSf3umX/search.json.mozlz4", (void 0)))
+1620187084610	Marionette	INFO	Listening on port 45543
+1620187084662	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620187152568	Marionette	INFO	Stopped listening on port 45543
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620187153072	geckodriver	INFO	Listening on 127.0.0.1:33989
+1620187153075	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileM7UxPy"
+1620187153627	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileM7UxPy/search.json.mozlz4", (void 0)))
+1620187155389	Marionette	INFO	Listening on port 39037
+1620187155513	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620187167308	Marionette	INFO	Stopped listening on port 39037
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620187350186	geckodriver	INFO	Listening on 127.0.0.1:52453
+1620187350191	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJlRTBg"
+1620187350858	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJlRTBg/search.json.mozlz4", (void 0)))
+1620187352629	Marionette	INFO	Listening on port 36111
+1620187352719	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620187415338	Marionette	INFO	Stopped listening on port 36111
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620187415889	geckodriver	INFO	Listening on 127.0.0.1:44387
+1620187415893	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilec0P7zF"
+1620187416547	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilec0P7zF/search.json.mozlz4", (void 0)))
+1620187418462	Marionette	INFO	Listening on port 37471
+1620187418519	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620187428770	Marionette	INFO	Stopped listening on port 37471
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620187847835	geckodriver	INFO	Listening on 127.0.0.1:40019
+1620187847839	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUOhG4r"
+1620187848501	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUOhG4r/search.json.mozlz4", (void 0)))
+1620187850373	Marionette	INFO	Listening on port 34305
+1620187850469	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1620187853823	Marionette	INFO	Stopped listening on port 34305
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript error: https://translate.googleapis.com/element/TE_20210224_00/e/js/element/element_main.js, line 478: TypeError: this.l is undefined
+1620187854337	geckodriver	INFO	Listening on 127.0.0.1:48199
+1620187854340	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebGoMum"
+1620187854907	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebGoMum/search.json.mozlz4", (void 0)))
+1620187856422	Marionette	INFO	Listening on port 44013
+1620187856467	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+1620187862164	Marionette	INFO	Stopped listening on port 44013
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620188150728	geckodriver	INFO	Listening on 127.0.0.1:42287
+1620188150732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen6cOJ9"
+1620188151409	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilen6cOJ9/search.json.mozlz4", (void 0)))
+1620188153184	Marionette	INFO	Listening on port 46651
+1620188153267	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620188221817	Marionette	INFO	Stopped listening on port 46651
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620188222349	geckodriver	INFO	Listening on 127.0.0.1:56399
+1620188222353	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaFIcFp"
+1620188222976	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaFIcFp/search.json.mozlz4", (void 0)))
+1620188224739	Marionette	INFO	Listening on port 43927
+1620188224788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620188234985	Marionette	INFO	Stopped listening on port 43927
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620188442953	geckodriver	INFO	Listening on 127.0.0.1:52299
+1620188442957	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU0mZF8"
+1620188443659	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileU0mZF8/search.json.mozlz4", (void 0)))
+1620188445429	Marionette	INFO	Listening on port 45829
+1620188445481	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620188517291	Marionette	INFO	Stopped listening on port 45829
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620188517853	geckodriver	INFO	Listening on 127.0.0.1:58089
+1620188517859	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAIJ6Z5"
+1620188518505	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAIJ6Z5/search.json.mozlz4", (void 0)))
+1620188520317	Marionette	INFO	Listening on port 44653
+1620188520390	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620188529342	Marionette	INFO	Stopped listening on port 44653
+1620188650572	geckodriver	INFO	Listening on 127.0.0.1:58081
+1620188650577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMX9MAG"
+1620188651227	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMX9MAG/search.json.mozlz4", (void 0)))
+1620188652952	Marionette	INFO	Listening on port 37035
+1620188653001	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620188706267	Marionette	INFO	Stopped listening on port 37035
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620188706975	geckodriver	INFO	Listening on 127.0.0.1:44053
+1620188706979	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletHkFEn"
+1620188707601	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletHkFEn/search.json.mozlz4", (void 0)))
+1620188709510	Marionette	INFO	Listening on port 41129
+1620188709608	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620188720240	Marionette	INFO	Stopped listening on port 41129
+1620189016919	geckodriver	INFO	Listening on 127.0.0.1:40829
+1620189016924	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0jKbL1"
+1620189017571	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0jKbL1/search.json.mozlz4", (void 0)))
+1620189019351	Marionette	INFO	Listening on port 33745
+1620189019455	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620189137251	geckodriver	INFO	Listening on 127.0.0.1:51121
+1620189137257	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9be4LK"
+1620189137872	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9be4LK/search.json.mozlz4", (void 0)))
+1620189139757	Marionette	INFO	Listening on port 41689
+1620189139786	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620189192363	Marionette	INFO	Stopped listening on port 41689
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620189193062	geckodriver	INFO	Listening on 127.0.0.1:58639
+1620189193067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilec41L6P"
+1620189193695	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilec41L6P/search.json.mozlz4", (void 0)))
+1620189195449	Marionette	INFO	Listening on port 41895
+1620189195500	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620189204189	Marionette	INFO	Stopped listening on port 41895
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620189369111	geckodriver	INFO	Listening on 127.0.0.1:47445
+1620189369116	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGAUCgW"
+1620189369761	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGAUCgW/search.json.mozlz4", (void 0)))
+1620189371653	Marionette	INFO	Listening on port 44041
+1620189371743	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620189423534	Marionette	INFO	Stopped listening on port 44041
+1620189424235	geckodriver	INFO	Listening on 127.0.0.1:49283
+1620189424239	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYaqfXG"
+1620189424904	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYaqfXG/search.json.mozlz4", (void 0)))
+1620189426784	Marionette	INFO	Listening on port 32877
+1620189426865	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620189438079	Marionette	INFO	Stopped listening on port 32877
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620189550891	geckodriver	INFO	Listening on 127.0.0.1:38985
+1620189550896	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP4f87R"
+1620189551574	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileP4f87R/search.json.mozlz4", (void 0)))
+1620189553500	Marionette	INFO	Listening on port 37693
+1620189553540	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620189651798	Marionette	INFO	Stopped listening on port 37693
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620189652490	geckodriver	INFO	Listening on 127.0.0.1:55939
+1620189652494	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqrWLAX"
+1620189653141	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqrWLAX/search.json.mozlz4", (void 0)))
+1620189655054	Marionette	INFO	Listening on port 38079
+1620189655121	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620189683595	Marionette	INFO	Stopped listening on port 38079
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620190101658	geckodriver	INFO	Listening on 127.0.0.1:58453
+1620190101663	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLh54hU"
+1620190102267	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLh54hU/search.json.mozlz4", (void 0)))
+1620190104168	Marionette	INFO	Listening on port 40681
+1620190104287	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620190313628	geckodriver	INFO	Listening on 127.0.0.1:55735
+1620190313632	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegm9QP7"
+1620190314195	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegm9QP7/search.json.mozlz4", (void 0)))
+1620190315911	Marionette	INFO	Listening on port 36049
+1620190315953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620190374622	Marionette	INFO	Stopped listening on port 36049
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620190375262	geckodriver	INFO	Listening on 127.0.0.1:53071
+1620190375265	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCWA548"
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 789: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+1620190375888	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCWA548/search.json.mozlz4", (void 0)))
+1620190377687	Marionette	INFO	Listening on port 40079
+1620190377791	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620190392867	Marionette	INFO	Stopped listening on port 40079
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620190463182	Marionette	INFO	Stopped listening on port 40681
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620190694488	geckodriver	INFO	Listening on 127.0.0.1:42871
+1620190694493	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejhn39d"
+1620190695127	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejhn39d/search.json.mozlz4", (void 0)))
+1620190697104	Marionette	INFO	Listening on port 46289
+1620190697221	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620190759601	Marionette	INFO	Stopped listening on port 46289
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620190927166	geckodriver	INFO	Listening on 127.0.0.1:47155
+1620190927170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelBQvLZ"
+1620190927805	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelBQvLZ/search.json.mozlz4", (void 0)))
+1620190929633	Marionette	INFO	Listening on port 37953
+1620190929699	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1620191068368	geckodriver	INFO	Listening on 127.0.0.1:36769
+1620191068372	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles6q5TE"
+1620191068991	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiles6q5TE/search.json.mozlz4", (void 0)))
+1620191070700	Marionette	INFO	Listening on port 44883
+1620191070799	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1620191180767	geckodriver	INFO	Listening on 127.0.0.1:33737
+1620191180771	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO5tyFM"
+1620191181325	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileO5tyFM/search.json.mozlz4", (void 0)))
+1620191183000	Marionette	INFO	Listening on port 41479
+1620191183096	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1620191242746	geckodriver	INFO	Listening on 127.0.0.1:41197
+1620191242750	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3roTZn"
+1620191243396	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3roTZn/search.json.mozlz4", (void 0)))
+1620191245026	Marionette	INFO	Listening on port 39131
+1620191245070	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1620191266778	geckodriver	INFO	Listening on 127.0.0.1:36355
+1620191266782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6coBBS"
+1620191267395	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6coBBS/search.json.mozlz4", (void 0)))
+1620191269052	Marionette	INFO	Listening on port 38285
+1620191269105	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1620191301637	geckodriver	INFO	Listening on 127.0.0.1:42043
+1620191301643	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTE99SD"
+1620191302286	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTE99SD/search.json.mozlz4", (void 0)))
+1620191304099	Marionette	INFO	Listening on port 41655
+1620191304170	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1620191340494	geckodriver	INFO	Listening on 127.0.0.1:40369
+1620191340498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZIC61h"
+1620191341101	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZIC61h/search.json.mozlz4", (void 0)))
+1620191342991	Marionette	INFO	Listening on port 41459
+1620191343023	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1620191409649	geckodriver	INFO	Listening on 127.0.0.1:59901
+1620191409653	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHK8o3r"
+1620191410240	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHK8o3r/search.json.mozlz4", (void 0)))
+1620191411943	Marionette	INFO	Listening on port 45903
+1620191411999	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1620191438190	geckodriver	INFO	Listening on 127.0.0.1:55121
+1620191438194	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletdAR9R"
+1620191438774	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletdAR9R/search.json.mozlz4", (void 0)))
+1620191440486	Marionette	INFO	Listening on port 44905
+1620191440517	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620191526202	Marionette	INFO	Stopped listening on port 44905
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620191559564	geckodriver	INFO	Listening on 127.0.0.1:42167
+1620191559569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejO3J8G"
+1620191560240	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejO3J8G/search.json.mozlz4", (void 0)))
+1620191562159	Marionette	INFO	Listening on port 39107
+1620191562194	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1620191625948	geckodriver	INFO	Listening on 127.0.0.1:33471
+1620191625952	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledzt9F6"
+1620191626572	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledzt9F6/search.json.mozlz4", (void 0)))
+1620191628220	Marionette	INFO	Listening on port 44209
+1620191628276	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620191707860	Marionette	INFO	Stopped listening on port 44209
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620191823618	geckodriver	INFO	Listening on 127.0.0.1:57309
+1620191823622	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerdxMMm"
+1620191824256	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerdxMMm/search.json.mozlz4", (void 0)))
+1620191826117	Marionette	INFO	Listening on port 39851
+1620191826151	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1620191888682	geckodriver	INFO	Listening on 127.0.0.1:48991
+1620191888687	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJJ8Wz6"
+1620191889341	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJJ8Wz6/search.json.mozlz4", (void 0)))
+1620191891244	Marionette	INFO	Listening on port 43795
+1620191891314	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620191975764	Marionette	INFO	Stopped listening on port 43795
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620192256022	geckodriver	INFO	Listening on 127.0.0.1:46233
+1620192256026	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVxhe95"
+1620192256708	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVxhe95/search.json.mozlz4", (void 0)))
+1620192258576	Marionette	INFO	Listening on port 40567
+1620192258656	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620192303895	Marionette	INFO	Stopped listening on port 40567
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620193275751	geckodriver	INFO	Listening on 127.0.0.1:37393
+1620193275757	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSO91Kc"
+1620193276444	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSO91Kc/search.json.mozlz4", (void 0)))
+1620193278147	Marionette	INFO	Listening on port 35011
+1620193278179	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620193287256	geckodriver	INFO	Listening on 127.0.0.1:49839
+1620193287260	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTqnh41"
+1620193287915	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTqnh41/search.json.mozlz4", (void 0)))
+1620193289876	Marionette	INFO	Listening on port 42415
+1620193289984	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript error: https://fapes.es.gov.br/Modules/Orchard.jQuery/scripts/jquery-1.11.1.min.js, line 2: Error: Syntax error, unrecognized expression: [data-language=Select Language]
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJGkvG.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1620193345810	Marionette	INFO	Stopped listening on port 42415
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620193347941	Marionette	INFO	Stopped listening on port 35011
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
