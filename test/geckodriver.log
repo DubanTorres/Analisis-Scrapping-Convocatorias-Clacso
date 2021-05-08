@@ -36646,3 +36646,527 @@ JavaScript warning: https://www.facebook.com/rsrc.php/v3iHxA4/yK/l/pt_BR/TQcRIRJ
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
 Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620505451836	geckodriver	INFO	Listening on 127.0.0.1:40163
+1620505452843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletsWKDm"
+1620505453584	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletsWKDm/search.json.mozlz4", (void 0)))
+1620505455503	Marionette	INFO	Listening on port 37665
+1620505455576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620505466053	Marionette	INFO	Stopped listening on port 37665
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620505467705	geckodriver	INFO	Listening on 127.0.0.1:41123
+1620505467711	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL9WrUb"
+1620505468374	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileL9WrUb/search.json.mozlz4", (void 0)))
+1620505470191	Marionette	INFO	Listening on port 36631
+1620505470254	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620505481648	Marionette	INFO	Stopped listening on port 36631
+1620505483269	geckodriver	INFO	Listening on 127.0.0.1:58363
+1620505483273	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeGfiNI"
+1620505483958	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeGfiNI/search.json.mozlz4", (void 0)))
+1620505485832	Marionette	INFO	Listening on port 36689
+1620505485899	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620505520260	Marionette	INFO	Stopped listening on port 36689
+1620506276555	geckodriver	INFO	Listening on 127.0.0.1:53151
+1620506276560	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKvcFmT"
+1620506277352	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKvcFmT/search.json.mozlz4", (void 0)))
+1620506279150	Marionette	INFO	Listening on port 45211
+1620506279187	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620506345792	Marionette	INFO	Stopped listening on port 45211
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620510784279	geckodriver	INFO	Listening on 127.0.0.1:41293
+1620510784283	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHApKD0"
+1620510784888	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHApKD0/search.json.mozlz4", (void 0)))
+1620510786442	Marionette	INFO	Listening on port 44785
+1620510786506	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620510803063	geckodriver	INFO	Listening on 127.0.0.1:55707
+1620510803067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZwf3lK"
+1620510803677	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZwf3lK/search.json.mozlz4", (void 0)))
+1620510805283	Marionette	INFO	Listening on port 45565
+1620510805393	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620510826025	Marionette	INFO	Stopped listening on port 45565
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620510827516	Marionette	INFO	Stopped listening on port 44785
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620510880534	geckodriver	INFO	Listening on 127.0.0.1:51651
+1620510880538	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo5sMaY"
+1620510881099	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileo5sMaY/search.json.mozlz4", (void 0)))
+1620510882816	Marionette	INFO	Listening on port 38925
+1620510882870	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620510896837	geckodriver	INFO	Listening on 127.0.0.1:57017
+1620510896841	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileweEC5Y"
+1620510897428	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileweEC5Y/search.json.mozlz4", (void 0)))
+1620510899031	Marionette	INFO	Listening on port 46711
+1620510899063	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620510912543	geckodriver	INFO	Listening on 127.0.0.1:60407
+1620510912547	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiptZLP"
+1620510913153	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiptZLP/search.json.mozlz4", (void 0)))
+1620510914580	Marionette	INFO	Listening on port 41759
+1620510914670	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620510925749	Marionette	INFO	Stopped listening on port 41759
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620510927294	Marionette	INFO	Stopped listening on port 46711
+1620510931107	Marionette	INFO	Stopped listening on port 38925
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620511078147	geckodriver	INFO	Listening on 127.0.0.1:40011
+1620511078152	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejWthKO"
+1620511078749	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejWthKO/search.json.mozlz4", (void 0)))
+1620511080158	Marionette	INFO	Listening on port 38585
+1620511080273	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620511091853	geckodriver	INFO	Listening on 127.0.0.1:35767
+1620511091857	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen6fvHa"
+1620511092460	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilen6fvHa/search.json.mozlz4", (void 0)))
+1620511093930	Marionette	INFO	Listening on port 44677
+1620511093985	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620511152249	Marionette	INFO	Stopped listening on port 44677
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620511154590	Marionette	INFO	Stopped listening on port 38585
+1620511191476	geckodriver	INFO	Listening on 127.0.0.1:39913
+1620511191481	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOdfbFY"
+1620511192089	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOdfbFY/search.json.mozlz4", (void 0)))
+1620511193599	Marionette	INFO	Listening on port 38743
+1620511193713	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620511212464	geckodriver	INFO	Listening on 127.0.0.1:49651
+1620511212467	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDiJSKo"
+1620511213051	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDiJSKo/search.json.mozlz4", (void 0)))
+1620511214525	Marionette	INFO	Listening on port 35919
+1620511214589	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620511219497	Marionette	INFO	Stopped listening on port 35919
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620511221838	Marionette	INFO	Stopped listening on port 38743
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620511514154	geckodriver	INFO	Listening on 127.0.0.1:38757
+1620511514159	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZdtg5t"
+1620511514780	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZdtg5t/search.json.mozlz4", (void 0)))
+1620511516230	Marionette	INFO	Listening on port 41541
+1620511516280	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620511525350	Marionette	INFO	Stopped listening on port 41541
+1620511544819	geckodriver	INFO	Listening on 127.0.0.1:48961
+1620511544823	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefMY4i4"
+1620511545419	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefMY4i4/search.json.mozlz4", (void 0)))
+1620511546915	Marionette	INFO	Listening on port 43903
+1620511546960	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620511558484	Marionette	INFO	Stopped listening on port 43903
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620511628402	geckodriver	INFO	Listening on 127.0.0.1:45329
+1620511628405	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledZWBHv"
+1620511628931	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledZWBHv/search.json.mozlz4", (void 0)))
+1620511630280	Marionette	INFO	Listening on port 44943
+1620511630340	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620511641792	geckodriver	INFO	Listening on 127.0.0.1:33147
+1620511641802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEdkQAe"
+1620511642379	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEdkQAe/search.json.mozlz4", (void 0)))
+1620511643825	Marionette	INFO	Listening on port 37331
+1620511643924	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620511658413	Marionette	INFO	Stopped listening on port 37331
+1620511666033	Marionette	INFO	Stopped listening on port 44943
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620511725740	geckodriver	INFO	Listening on 127.0.0.1:38253
+1620511725744	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenwDzHc"
+1620511726317	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenwDzHc/search.json.mozlz4", (void 0)))
+1620511727819	Marionette	INFO	Listening on port 45021
+1620511727866	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620511739465	geckodriver	INFO	Listening on 127.0.0.1:34343
+1620511739469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG1s18E"
+1620511740015	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileG1s18E/search.json.mozlz4", (void 0)))
+1620511741594	Marionette	INFO	Listening on port 38465
+1620511741692	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620511761629	Marionette	INFO	Stopped listening on port 38465
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620511766974	Marionette	INFO	Stopped listening on port 45021
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620511830152	geckodriver	INFO	Listening on 127.0.0.1:56543
+1620511830156	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCZWEIW"
+1620511830748	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCZWEIW/search.json.mozlz4", (void 0)))
+1620511832202	Marionette	INFO	Listening on port 41205
+1620511832281	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620511850887	Marionette	INFO	Stopped listening on port 41205
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620511937969	geckodriver	INFO	Listening on 127.0.0.1:53959
+1620511937973	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevFMhVt"
+1620511938525	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevFMhVt/search.json.mozlz4", (void 0)))
+1620511940055	Marionette	INFO	Listening on port 41189
+1620511940099	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620511962792	Marionette	INFO	Stopped listening on port 41189
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620512027197	geckodriver	INFO	Listening on 127.0.0.1:38625
+1620512027201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletraIS9"
+1620512027800	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletraIS9/search.json.mozlz4", (void 0)))
+1620512029308	Marionette	INFO	Listening on port 43515
+1620512029425	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620512050399	geckodriver	INFO	Listening on 127.0.0.1:54937
+1620512050402	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepLpWxR"
+1620512051000	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepLpWxR/search.json.mozlz4", (void 0)))
+1620512052498	Marionette	INFO	Listening on port 41683
+1620512052525	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620512076857	geckodriver	INFO	Listening on 127.0.0.1:54475
+1620512076861	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWiAe67"
+1620512077466	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWiAe67/search.json.mozlz4", (void 0)))
+1620512078934	Marionette	INFO	Listening on port 35669
+1620512078983	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620512089585	Marionette	INFO	Stopped listening on port 35669
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620512113469	Marionette	INFO	Stopped listening on port 41683
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620512115009	Marionette	INFO	Stopped listening on port 43515
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620512279019	geckodriver	INFO	Listening on 127.0.0.1:55973
+1620512279024	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletsP5qj"
+1620512279637	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletsP5qj/search.json.mozlz4", (void 0)))
+1620512281339	Marionette	INFO	Listening on port 33479
+1620512281447	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620512287656	Marionette	INFO	Stopped listening on port 33479
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620512292944	geckodriver	INFO	Listening on 127.0.0.1:46293
+1620512292949	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSaYP9h"
+1620512293542	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSaYP9h/search.json.mozlz4", (void 0)))
+1620512295325	Marionette	INFO	Listening on port 36809
+1620512295377	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620512307129	geckodriver	INFO	Listening on 127.0.0.1:56103
+1620512307137	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5drVQV"
+1620512307716	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5drVQV/search.json.mozlz4", (void 0)))
+1620512309452	Marionette	INFO	Listening on port 33219
+1620512309563	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620512322960	geckodriver	INFO	Listening on 127.0.0.1:39053
+1620512322964	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0ABLb4"
+1620512323575	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0ABLb4/search.json.mozlz4", (void 0)))
+1620512325768	Marionette	INFO	Listening on port 39649
+1620512325801	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620512336395	Marionette	INFO	Stopped listening on port 39649
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620512338703	Marionette	INFO	Stopped listening on port 33219
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620512341582	Marionette	INFO	Stopped listening on port 36809
+1620512372393	geckodriver	INFO	Listening on 127.0.0.1:51785
+1620512372398	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7U6zJ3"
+1620512373051	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7U6zJ3/search.json.mozlz4", (void 0)))
+1620512374707	Marionette	INFO	Listening on port 43365
+1620512374822	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620512553323	geckodriver	INFO	Listening on 127.0.0.1:42909
+1620512553329	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRK0APY"
+1620512553979	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRK0APY/search.json.mozlz4", (void 0)))
+1620512555711	Marionette	INFO	Listening on port 45345
+1620512555762	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620512565592	geckodriver	INFO	Listening on 127.0.0.1:54029
+1620512565597	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW6sKtK"
+1620512566305	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileW6sKtK/search.json.mozlz4", (void 0)))
+1620512568097	Marionette	INFO	Listening on port 35333
+1620512568126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620512581065	geckodriver	INFO	Listening on 127.0.0.1:41457
+1620512581069	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDoMebE"
+1620512581764	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDoMebE/search.json.mozlz4", (void 0)))
+1620512583557	Marionette	INFO	Listening on port 35941
+1620512583602	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620512618486	Marionette	INFO	Stopped listening on port 35941
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620512619800	Marionette	INFO	Stopped listening on port 35333
+1620512622064	Marionette	INFO	Stopped listening on port 45345
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 789: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+1620512673195	geckodriver	INFO	Listening on 127.0.0.1:48983
+1620512673199	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerYjZm7"
+1620512674022	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerYjZm7/search.json.mozlz4", (void 0)))
+1620512675920	Marionette	INFO	Listening on port 33699
+1620512676027	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620512725480	geckodriver	INFO	Listening on 127.0.0.1:54631
+1620512725494	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileedDCP7"
+1620512726232	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileedDCP7/search.json.mozlz4", (void 0)))
+1620512728100	Marionette	INFO	Listening on port 42457
+1620512728215	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620512741499	Marionette	INFO	Stopped listening on port 42457
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620512807216	Marionette	INFO	Stopped listening on port 43365
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620512808222	Marionette	INFO	Stopped listening on port 33699
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620512812500	geckodriver	INFO	Listening on 127.0.0.1:46867
+1620512812505	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRmMTps"
+1620512813173	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRmMTps/search.json.mozlz4", (void 0)))
+1620512815109	Marionette	INFO	Listening on port 43599
+1620512815138	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620513019217	Marionette	INFO	Stopped listening on port 43599
+1620513283439	geckodriver	INFO	Listening on 127.0.0.1:39871
+1620513283444	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHDChDv"
+1620513284173	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHDChDv/search.json.mozlz4", (void 0)))
+1620513286028	Marionette	INFO	Listening on port 45133
+1620513286068	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620513323477	geckodriver	INFO	Listening on 127.0.0.1:59363
+1620513323481	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekrk4Cj"
+1620513324199	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekrk4Cj/search.json.mozlz4", (void 0)))
+1620513325981	Marionette	INFO	Listening on port 45205
+1620513326012	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620513363815	geckodriver	INFO	Listening on 127.0.0.1:39515
+1620513363819	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebZnhT7"
+1620513364517	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebZnhT7/search.json.mozlz4", (void 0)))
+1620513366431	Marionette	INFO	Listening on port 35003
+1620513366565	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+Marionette threw an error: TypeError: chromeWindow is null
+waitForNavigationCompleted@chrome://marionette/content/navigate.js:337:3
+GeckoDriver.prototype.clickElement@chrome://marionette/content/driver.js:1724:18
+
+1620513369935	Marionette	INFO	Stopped listening on port 35003
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620513393338	geckodriver	INFO	Listening on 127.0.0.1:35205
+1620513393344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel3Cj36"
+1620513394051	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilel3Cj36/search.json.mozlz4", (void 0)))
+1620513396132	Marionette	INFO	Listening on port 33019
+1620513396192	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620513544669	geckodriver	INFO	Listening on 127.0.0.1:42159
+1620513544676	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVKy3FM"
+1620513545443	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVKy3FM/search.json.mozlz4", (void 0)))
+1620513547513	Marionette	INFO	Listening on port 37317
+1620513547613	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620513577392	geckodriver	INFO	Listening on 127.0.0.1:38341
+1620513577397	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeKVUMH"
+1620513578047	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeKVUMH/search.json.mozlz4", (void 0)))
+1620513579905	Marionette	INFO	Listening on port 35503
+1620513580030	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620513721211	geckodriver	INFO	Listening on 127.0.0.1:59175
+1620513721215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei9qRY2"
+1620513721855	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilei9qRY2/search.json.mozlz4", (void 0)))
+1620513723705	Marionette	INFO	Listening on port 36033
+1620513723744	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620513745269	geckodriver	INFO	Listening on 127.0.0.1:58125
+1620513745273	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA2ywqB"
+1620513746045	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileA2ywqB/search.json.mozlz4", (void 0)))
+1620513747974	Marionette	INFO	Listening on port 44587
+1620513748012	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620513789415	geckodriver	INFO	Listening on 127.0.0.1:39247
+1620513789420	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecAVsN6"
+1620513790038	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecAVsN6/search.json.mozlz4", (void 0)))
+1620513791823	Marionette	INFO	Listening on port 39069
+1620513791853	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620513815161	geckodriver	INFO	Listening on 127.0.0.1:35263
+1620513815167	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilectxzaK"
+1620513815809	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilectxzaK/search.json.mozlz4", (void 0)))
+1620513817542	Marionette	INFO	Listening on port 38199
+1620513817594	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620513922942	geckodriver	INFO	Listening on 127.0.0.1:59425
+1620513922949	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileStO03X"
+1620513923651	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileStO03X/search.json.mozlz4", (void 0)))
+1620513925544	Marionette	INFO	Listening on port 42121
+1620513925586	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620514124720	geckodriver	INFO	Listening on 127.0.0.1:46371
+1620514124725	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaCwNFO"
+1620514125389	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaCwNFO/search.json.mozlz4", (void 0)))
+1620514127097	Marionette	INFO	Listening on port 45733
+1620514127150	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 789: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+1620514534411	Marionette	INFO	Stopped listening on port 45733
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1620514724195	geckodriver	INFO	Listening on 127.0.0.1:47447
+1620514724201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWYpKJK"
+1620514724937	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWYpKJK/search.json.mozlz4", (void 0)))
+1620514726786	Marionette	INFO	Listening on port 32877
+1620514726831	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620514882398	Marionette	INFO	Stopped listening on port 32877
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620515080988	geckodriver	INFO	Listening on 127.0.0.1:60353
+1620515080993	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileziwhVY"
+1620515081655	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileziwhVY/search.json.mozlz4", (void 0)))
+1620515083173	Marionette	INFO	Listening on port 45929
+1620515083219	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620515096134	Marionette	INFO	Stopped listening on port 45929
+1620515219543	geckodriver	INFO	Listening on 127.0.0.1:40821
+1620515219547	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileId0Ilr"
+1620515220118	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileId0Ilr/search.json.mozlz4", (void 0)))
+1620515221564	Marionette	INFO	Listening on port 38303
+1620515221671	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620515233661	Marionette	INFO	Stopped listening on port 38303
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620515311372	geckodriver	INFO	Listening on 127.0.0.1:54001
+1620515311377	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH1grqi"
+1620515311968	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileH1grqi/search.json.mozlz4", (void 0)))
+1620515313603	Marionette	INFO	Listening on port 38235
+1620515313711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620515327044	Marionette	INFO	Stopped listening on port 38235
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620515347502	geckodriver	INFO	Listening on 127.0.0.1:60069
+1620515347508	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileh6gqKE"
+1620515348176	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileh6gqKE/search.json.mozlz4", (void 0)))
+1620515350012	Marionette	INFO	Listening on port 45415
+1620515350038	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.fapemig.br/static/js/chamadasCollapse.js, line 15: TypeError: document.getElementById(...) is null
+1620515496445	Marionette	INFO	Stopped listening on port 45415
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
