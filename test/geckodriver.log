@@ -40021,3 +40021,895 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1621463483215	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js?2.1.5.85.4+3, line 81: unreachable code after return statement
 1621463492244	Marionette	INFO	Stopped listening on port 42593
+1621563909508	geckodriver	INFO	Listening on 127.0.0.1:56145
+1621563910512	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5LX1SW"
+1621563910908	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621563911865	Marionette	INFO	Listening on port 35955
+1621563911929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js?2.1.5.85.4+3, line 81: unreachable code after return statement
+1621563921589	Marionette	INFO	Stopped listening on port 35955
+1621564217019	geckodriver	INFO	Listening on 127.0.0.1:54713
+1621564217021	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1sfpF3"
+1621564217278	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621564218307	Marionette	INFO	Listening on port 36335
+1621564218340	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621564220687	Marionette	INFO	Stopped listening on port 36335
+1621564730490	geckodriver	INFO	Listening on 127.0.0.1:42813
+1621564730493	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEVUOeo"
+1621564730719	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621564731606	Marionette	INFO	Listening on port 34233
+1621564731738	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js?2.1.5.85.4+3, line 81: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3ia2J4/yw/l/pt_BR/MiVPgxYec6l.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1621564764153	Marionette	INFO	Stopped listening on port 34233
+1621564819392	geckodriver	INFO	Listening on 127.0.0.1:42229
+1621564820400	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5laHJC"
+1621564820633	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621564821502	Marionette	INFO	Listening on port 38245
+1621564821615	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js?2.1.5.85.4+3, line 81: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3ia2J4/yw/l/pt_BR/MiVPgxYec6l.js?_nc_x=Ij3Wp8lg5Kz, line 50: unreachable code after return statement
+1621564833979	Marionette	INFO	Stopped listening on port 38245
+1621564848691	geckodriver	INFO	Listening on 127.0.0.1:48929
+1621564848693	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebNQxGj"
+1621564848918	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621564849867	Marionette	INFO	Listening on port 35405
+1621564849911	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js?2.1.5.85.4+3, line 81: unreachable code after return statement
+1621564857944	Marionette	INFO	Stopped listening on port 35405
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621564870060	geckodriver	INFO	Listening on 127.0.0.1:58361
+1621564871069	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZI4Uy7"
+1621564871306	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621564872167	Marionette	INFO	Listening on port 45877
+1621564872183	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js?2.1.5.85.4+3, line 81: unreachable code after return statement
+1621564881212	Marionette	INFO	Stopped listening on port 45877
+1621564931419	geckodriver	INFO	Listening on 127.0.0.1:37203
+1621564931420	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemD6SOz"
+1621564931643	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621564932501	Marionette	INFO	Listening on port 38163
+1621564932533	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js?2.1.5.85.4+3, line 81: unreachable code after return statement
+1621564938334	Marionette	INFO	Stopped listening on port 38163
+1621565008218	geckodriver	INFO	Listening on 127.0.0.1:53143
+1621565009228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE5Q6xl"
+1621565009488	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621565010358	Marionette	INFO	Listening on port 42587
+1621565010448	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js?2.1.5.85.4+3, line 81: unreachable code after return statement
+1621565019871	Marionette	INFO	Stopped listening on port 42587
+1621565157546	geckodriver	INFO	Listening on 127.0.0.1:56481
+1621565158556	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7q85Is"
+1621565158819	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621565159711	Marionette	INFO	Listening on port 38529
+1621565159770	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js?2.1.5.85.4+3, line 81: unreachable code after return statement
+1621565169100	Marionette	INFO	Stopped listening on port 38529
+1621565220127	geckodriver	INFO	Listening on 127.0.0.1:36777
+1621565220129	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel9CZTS"
+1621565220354	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621565221254	Marionette	INFO	Listening on port 37619
+1621565221348	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js?2.1.5.85.4+3, line 81: unreachable code after return statement
+1621565228901	Marionette	INFO	Stopped listening on port 37619
+1621565250021	geckodriver	INFO	Listening on 127.0.0.1:43293
+1621565251031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenU6bfz"
+1621565251278	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621565252160	Marionette	INFO	Listening on port 37231
+1621565252246	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js?2.1.5.85.4+3, line 81: unreachable code after return statement
+1621565258021	Marionette	INFO	Stopped listening on port 37231
+1621565272759	geckodriver	INFO	Listening on 127.0.0.1:54433
+1621565272761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3Uatuu"
+1621565272989	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621565273901	Marionette	INFO	Listening on port 35325
+1621565273983	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js?2.1.5.85.4+3, line 81: unreachable code after return statement
+1621565283058	Marionette	INFO	Stopped listening on port 35325
+1621565294564	geckodriver	INFO	Listening on 127.0.0.1:42793
+1621565295574	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledJn7tW"
+1621565295833	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621565296702	Marionette	INFO	Listening on port 40549
+1621565296810	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js?2.1.5.85.4+3, line 81: unreachable code after return statement
+1621565302651	Marionette	INFO	Stopped listening on port 40549
+1621565320611	geckodriver	INFO	Listening on 127.0.0.1:33187
+1621565321620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJ4PqM7"
+1621565321862	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621565322737	Marionette	INFO	Listening on port 44267
+1621565322834	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js?2.1.5.85.4+3, line 81: unreachable code after return statement
+1621565332001	Marionette	INFO	Stopped listening on port 44267
+1621565376480	geckodriver	INFO	Listening on 127.0.0.1:44627
+1621565377489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAsM6Zt"
+1621565377754	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621565378650	Marionette	INFO	Listening on port 45819
+1621565378723	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js?2.1.5.85.4+3, line 81: unreachable code after return statement
+1621565388697	Marionette	INFO	Stopped listening on port 45819
+1621565396297	geckodriver	INFO	Listening on 127.0.0.1:60787
+1621565397307	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNFR1YK"
+1621565397567	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621565398531	Marionette	INFO	Listening on port 37207
+1621565398652	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js?2.1.5.85.4+3, line 81: unreachable code after return statement
+1621565406236	Marionette	INFO	Stopped listening on port 37207
+1621565452067	geckodriver	INFO	Listening on 127.0.0.1:57923
+1621565453076	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWjI9gQ"
+1621565453339	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621565454253	Marionette	INFO	Listening on port 42497
+1621565454290	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js?2.1.5.85.4+3, line 81: unreachable code after return statement
+1621565463334	Marionette	INFO	Stopped listening on port 42497
+1621565484198	geckodriver	INFO	Listening on 127.0.0.1:39777
+1621565485207	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDXsNzt"
+1621565485477	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621565486348	Marionette	INFO	Listening on port 42773
+1621565486453	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js?2.1.5.85.4+3, line 81: unreachable code after return statement
+1621565496560	Marionette	INFO	Stopped listening on port 42773
+1621568948200	geckodriver	INFO	Listening on 127.0.0.1:33365
+1621568948202	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEqOSnw"
+1621568948445	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621568949316	Marionette	INFO	Listening on port 33531
+1621568949417	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js?2.1.5.85.4+3, line 81: unreachable code after return statement
+1621568956676	Marionette	INFO	Stopped listening on port 33531
+1621569066458	geckodriver	INFO	Listening on 127.0.0.1:43489
+1621569067470	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoXnQkN"
+1621569067741	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621569068670	Marionette	INFO	Listening on port 38541
+1621569068684	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js?2.1.5.85.4+3, line 81: unreachable code after return statement
+1621569076435	Marionette	INFO	Stopped listening on port 38541
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621569084933	geckodriver	INFO	Listening on 127.0.0.1:37713
+1621569085943	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYctwkr"
+1621569086206	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621569087091	Marionette	INFO	Listening on port 40303
+1621569087157	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js?2.1.5.85.4+3, line 81: unreachable code after return statement
+1621569094750	Marionette	INFO	Stopped listening on port 40303
+1621569116578	geckodriver	INFO	Listening on 127.0.0.1:56215
+1621569117587	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAunMZQ"
+1621569117850	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621569118754	Marionette	INFO	Listening on port 40753
+1621569118801	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js?2.1.5.85.4+3, line 81: unreachable code after return statement
+1621569126985	Marionette	INFO	Stopped listening on port 40753
+1621569136707	geckodriver	INFO	Listening on 127.0.0.1:53485
+1621569136710	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqnz7v5"
+1621569136941	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621569137853	Marionette	INFO	Listening on port 35365
+1621569137923	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js?2.1.5.85.4+3, line 81: unreachable code after return statement
+1621569142730	Marionette	INFO	Stopped listening on port 35365
+1621569146405	geckodriver	INFO	Listening on 127.0.0.1:46515
+1621569147407	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWpk9LQ"
+1621569147636	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621569148524	Marionette	INFO	Listening on port 42865
+1621569148625	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js?2.1.5.85.4+3, line 81: unreachable code after return statement
+1621569152975	Marionette	INFO	Stopped listening on port 42865
+1621569522703	geckodriver	INFO	Listening on 127.0.0.1:40341
+1621569523713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3zDpRL"
+1621569523983	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621569524878	Marionette	INFO	Listening on port 38917
+1621569524928	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621569527709	Marionette	INFO	Stopped listening on port 38917
+1621569548586	geckodriver	INFO	Listening on 127.0.0.1:57351
+1621569549595	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZoeErW"
+1621569549860	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621569550749	Marionette	INFO	Listening on port 34049
+1621569550809	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621569553663	Marionette	INFO	Stopped listening on port 34049
+1621569630867	geckodriver	INFO	Listening on 127.0.0.1:57535
+1621569631877	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1quELL"
+1621569632139	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621569633047	Marionette	INFO	Listening on port 40525
+1621569633091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621569635395	Marionette	INFO	Stopped listening on port 40525
+1621569672916	geckodriver	INFO	Listening on 127.0.0.1:40509
+1621569673925	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesQTDWN"
+1621569674191	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621569675123	Marionette	INFO	Listening on port 45015
+1621569675140	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621569677554	Marionette	INFO	Stopped listening on port 45015
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1621569700491	geckodriver	INFO	Listening on 127.0.0.1:51589
+1621569701501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePjsO5N"
+1621569701769	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621569702719	Marionette	INFO	Listening on port 35837
+1621569702853	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621569706070	Marionette	INFO	Stopped listening on port 35837
+1621569835076	geckodriver	INFO	Listening on 127.0.0.1:36889
+1621569836086	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemwNQIT"
+1621569836323	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621569837239	Marionette	INFO	Listening on port 45939
+1621569837329	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621569839932	Marionette	INFO	Stopped listening on port 45939
+1621569901034	geckodriver	INFO	Listening on 127.0.0.1:45711
+1621569902044	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled5AM4V"
+1621569902305	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621569903231	Marionette	INFO	Listening on port 32853
+1621569903258	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621569905795	Marionette	INFO	Stopped listening on port 32853
+1621569961326	geckodriver	INFO	Listening on 127.0.0.1:59701
+1621569961328	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileowOl4L"
+1621569961555	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621569962476	Marionette	INFO	Listening on port 43643
+1621569962546	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621569965127	Marionette	INFO	Stopped listening on port 43643
+1621570176795	geckodriver	INFO	Listening on 127.0.0.1:47711
+1621570176798	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7DFhmI"
+1621570177030	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621570177940	Marionette	INFO	Listening on port 34997
+1621570178013	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621570180527	Marionette	INFO	Stopped listening on port 34997
+1621570196717	geckodriver	INFO	Listening on 127.0.0.1:55677
+1621570197726	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC4oRjh"
+1621570197994	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621570198950	Marionette	INFO	Listening on port 37667
+1621570199041	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621570201602	Marionette	INFO	Stopped listening on port 37667
+1621570368464	geckodriver	INFO	Listening on 127.0.0.1:36241
+1621570369474	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFHZwoS"
+1621570369738	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621570370628	Marionette	INFO	Listening on port 32961
+1621570370694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621570373426	Marionette	INFO	Stopped listening on port 32961
+1621570426772	geckodriver	INFO	Listening on 127.0.0.1:36043
+1621570427781	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2MFFF4"
+1621570428051	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621570428946	Marionette	INFO	Listening on port 43377
+1621570429028	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621570431640	Marionette	INFO	Stopped listening on port 43377
+1621570506230	geckodriver	INFO	Listening on 127.0.0.1:47125
+1621570507240	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC0C6bd"
+1621570507493	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621570508377	Marionette	INFO	Listening on port 41249
+1621570508457	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621570510875	Marionette	INFO	Stopped listening on port 41249
+1621570522065	geckodriver	INFO	Listening on 127.0.0.1:34329
+1621570523073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUfXJFw"
+1621570523338	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621570524227	Marionette	INFO	Listening on port 35005
+1621570524288	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621570526683	Marionette	INFO	Stopped listening on port 35005
+1621570535546	geckodriver	INFO	Listening on 127.0.0.1:37649
+1621570536555	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6eC2l1"
+1621570536782	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621570537706	Marionette	INFO	Listening on port 35701
+1621570537769	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621570540137	Marionette	INFO	Stopped listening on port 35701
+1621570546315	geckodriver	INFO	Listening on 127.0.0.1:42889
+1621570547324	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenWBCHu"
+1621570547586	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621570548442	Marionette	INFO	Listening on port 45591
+1621570548569	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621570550866	Marionette	INFO	Stopped listening on port 45591
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1621570560678	geckodriver	INFO	Listening on 127.0.0.1:42361
+1621570561687	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiux6wF"
+1621570561951	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621570562831	Marionette	INFO	Listening on port 37285
+1621570562929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621570565326	Marionette	INFO	Stopped listening on port 37285
+1621570572053	geckodriver	INFO	Listening on 127.0.0.1:50575
+1621570572055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletbZhnY"
+1621570572289	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621570573150	Marionette	INFO	Listening on port 44135
+1621570573169	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621570575547	Marionette	INFO	Stopped listening on port 44135
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1621570598174	geckodriver	INFO	Listening on 127.0.0.1:43299
+1621570599184	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOa1Iz4"
+1621570599453	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621570600373	Marionette	INFO	Listening on port 46645
+1621570600403	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621570602964	Marionette	INFO	Stopped listening on port 46645
+1621570772003	geckodriver	INFO	Listening on 127.0.0.1:51659
+1621570773006	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9eDfPl"
+1621570773234	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621570774110	Marionette	INFO	Listening on port 44803
+1621570774222	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621570776595	Marionette	INFO	Stopped listening on port 44803
+1621570797149	geckodriver	INFO	Listening on 127.0.0.1:52217
+1621570798158	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTzkMc5"
+1621570798435	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621570799460	Marionette	INFO	Listening on port 35179
+1621570799482	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621570819747	geckodriver	INFO	Listening on 127.0.0.1:39427
+1621570820750	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehLVDuC"
+1621570820979	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621570821921	Marionette	INFO	Listening on port 42003
+1621570821964	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621570824552	Marionette	INFO	Stopped listening on port 42003
+1621570829674	Marionette	INFO	Stopped listening on port 35179
+1621570979105	geckodriver	INFO	Listening on 127.0.0.1:42971
+1621570980115	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7d5rYi"
+1621570980376	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621570981256	Marionette	INFO	Listening on port 34205
+1621570981362	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621570983953	Marionette	INFO	Stopped listening on port 34205
+1621571017732	geckodriver	INFO	Listening on 127.0.0.1:50547
+1621571018742	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileikndfr"
+1621571019005	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621571019916	Marionette	INFO	Listening on port 37883
+1621571019956	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621571022425	Marionette	INFO	Stopped listening on port 37883
+1621571032152	geckodriver	INFO	Listening on 127.0.0.1:32967
+1621571033161	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL4GQiF"
+1621571033427	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621571034284	Marionette	INFO	Listening on port 42855
+1621571034407	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621571036988	Marionette	INFO	Stopped listening on port 42855
+1621571077010	geckodriver	INFO	Listening on 127.0.0.1:44911
+1621571078020	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRmcuJB"
+1621571078259	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621571079146	Marionette	INFO	Listening on port 40195
+1621571079265	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621571081700	Marionette	INFO	Stopped listening on port 40195
+1621571332556	geckodriver	INFO	Listening on 127.0.0.1:55005
+1621571333566	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyhCZwH"
+1621571333807	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621571334674	Marionette	INFO	Listening on port 42703
+1621571334782	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621571337417	Marionette	INFO	Stopped listening on port 42703
+1621571379891	geckodriver	INFO	Listening on 127.0.0.1:52099
+1621571380901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoSstpb"
+1621571381163	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621571382073	Marionette	INFO	Listening on port 40477
+1621571382116	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621571384829	Marionette	INFO	Stopped listening on port 40477
+1621571476079	geckodriver	INFO	Listening on 127.0.0.1:54983
+1621571477091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecg1oUW"
+1621571477352	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621571478300	Marionette	INFO	Listening on port 37607
+1621571478405	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621571481046	Marionette	INFO	Stopped listening on port 37607
+1621571544307	geckodriver	INFO	Listening on 127.0.0.1:60513
+1621571544309	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoaKwy7"
+1621571544548	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621571545450	Marionette	INFO	Listening on port 34247
+1621571545545	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621571548221	Marionette	INFO	Stopped listening on port 34247
+1621571607540	geckodriver	INFO	Listening on 127.0.0.1:53009
+1621571608550	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg0MKqA"
+1621571608813	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621571609721	Marionette	INFO	Listening on port 37447
+1621571609764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621571612662	Marionette	INFO	Stopped listening on port 37447
+1621571647102	geckodriver	INFO	Listening on 127.0.0.1:44555
+1621571648112	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOsWXvr"
+1621571648376	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621571649251	Marionette	INFO	Listening on port 46663
+1621571649327	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621571651843	Marionette	INFO	Stopped listening on port 46663
+1621571674228	geckodriver	INFO	Listening on 127.0.0.1:58457
+1621571675238	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyPzetO"
+1621571675521	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621571676415	Marionette	INFO	Listening on port 44047
+1621571676455	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621571679075	Marionette	INFO	Stopped listening on port 44047
+1621571714195	geckodriver	INFO	Listening on 127.0.0.1:46599
+1621571715205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileodmrzy"
+1621571715468	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621571716364	Marionette	INFO	Listening on port 45245
+1621571716419	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621571718884	Marionette	INFO	Stopped listening on port 45245
+1621571797988	geckodriver	INFO	Listening on 127.0.0.1:44463
+1621571798991	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehSmwB2"
+1621571799225	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621571800289	Marionette	INFO	Listening on port 45759
+1621571800305	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621571802802	Marionette	INFO	Stopped listening on port 45759
+1621571867825	geckodriver	INFO	Listening on 127.0.0.1:44759
+1621571868827	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXXN05F"
+1621571869058	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621571869922	Marionette	INFO	Listening on port 42539
+1621571869940	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1621571872233	Marionette	INFO	Stopped listening on port 42539
+1621609506138	geckodriver	INFO	Listening on 127.0.0.1:39241
+1621609507144	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex6EaaQ"
+1621609507531	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621609508462	Marionette	INFO	Listening on port 44051
+1621609508582	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621609515597	Marionette	INFO	Stopped listening on port 44051
+1621609526148	geckodriver	INFO	Listening on 127.0.0.1:43753
+1621609526150	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7Y2G79"
+1621609526381	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621609527336	Marionette	INFO	Listening on port 39075
+1621609527365	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621609532567	Marionette	INFO	Stopped listening on port 39075
+1621609546295	geckodriver	INFO	Listening on 127.0.0.1:55483
+1621609546297	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJpsfnH"
+1621609546528	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621609547396	Marionette	INFO	Listening on port 44753
+1621609547412	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621609685193	geckodriver	INFO	Listening on 127.0.0.1:48259
+1621609685195	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelrCcu6"
+1621609685423	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621609686404	Marionette	INFO	Listening on port 37289
+1621609686539	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621609706678	Marionette	INFO	Stopped listening on port 37289
+1621609708670	geckodriver	INFO	Listening on 127.0.0.1:37149
+1621609709679	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex2eeo3"
+1621609709949	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621609710837	Marionette	INFO	Listening on port 36379
+1621609710925	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621609716588	Marionette	INFO	Stopped listening on port 36379
+1621609733953	Marionette	INFO	Stopped listening on port 44753
+1621610468689	geckodriver	INFO	Listening on 127.0.0.1:38917
+1621610469696	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile63l3YO"
+1621610469928	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621610470868	Marionette	INFO	Listening on port 44523
+1621610470920	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621610489985	Marionette	INFO	Stopped listening on port 44523
+1621610491538	geckodriver	INFO	Listening on 127.0.0.1:56715
+1621610492549	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletzk9KW"
+1621610492811	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621610493727	Marionette	INFO	Listening on port 42119
+1621610493762	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621610502159	Marionette	INFO	Stopped listening on port 42119
+1621610782708	geckodriver	INFO	Listening on 127.0.0.1:38373
+1621610782710	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePK4zZI"
+1621610782932	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621610783815	Marionette	INFO	Listening on port 37929
+1621610783952	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621610792634	Marionette	INFO	Stopped listening on port 37929
+1621610813771	geckodriver	INFO	Listening on 127.0.0.1:46677
+1621610814781	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1todcX"
+1621610815009	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621610815953	Marionette	INFO	Listening on port 35141
+1621610815999	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621610823007	Marionette	INFO	Stopped listening on port 35141
+1621611051534	geckodriver	INFO	Listening on 127.0.0.1:51103
+1621611052541	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexjKEDx"
+1621611052764	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611053641	Marionette	INFO	Listening on port 33213
+1621611053654	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611062402	Marionette	INFO	Stopped listening on port 33213
+1621611084230	geckodriver	INFO	Listening on 127.0.0.1:33363
+1621611085232	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePvNnfd"
+1621611085463	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611086324	Marionette	INFO	Listening on port 39711
+1621611086346	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611091555	Marionette	INFO	Stopped listening on port 39711
+1621611205180	geckodriver	INFO	Listening on 127.0.0.1:56133
+1621611206190	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewIVaJY"
+1621611206442	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611207541	Marionette	INFO	Listening on port 42149
+1621611207639	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611212295	Marionette	INFO	Stopped listening on port 42149
+1621611213248	geckodriver	INFO	Listening on 127.0.0.1:44617
+1621611214257	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJNUtXS"
+1621611214516	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611215368	Marionette	INFO	Listening on port 45041
+1621611215502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611224361	Marionette	INFO	Stopped listening on port 45041
+1621611225312	geckodriver	INFO	Listening on 127.0.0.1:60151
+1621611226322	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2DzCII"
+1621611226566	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611227475	Marionette	INFO	Listening on port 44899
+1621611227537	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621611229714	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1621611231707	Marionette	INFO	Stopped listening on port 44899
+1621611243023	geckodriver	INFO	Listening on 127.0.0.1:39649
+1621611244032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyPUzP8"
+1621611244305	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611245157	Marionette	INFO	Listening on port 35887
+1621611245275	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611254236	Marionette	INFO	Stopped listening on port 35887
+1621611254614	geckodriver	INFO	Listening on 127.0.0.1:39035
+1621611255623	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile45CujQ"
+1621611255882	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611256900	Marionette	INFO	Listening on port 34213
+1621611256964	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1621611433769	geckodriver	INFO	Listening on 127.0.0.1:59935
+1621611433771	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezSTwoe"
+1621611433999	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611434879	Marionette	INFO	Listening on port 44167
+1621611435017	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611440260	Marionette	INFO	Stopped listening on port 44167
+1621611440944	geckodriver	INFO	Listening on 127.0.0.1:51097
+1621611441953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletjAe7w"
+1621611442217	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611443137	Marionette	INFO	Listening on port 45691
+1621611443169	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611453227	Marionette	INFO	Stopped listening on port 45691
+1621611453802	geckodriver	INFO	Listening on 127.0.0.1:56219
+1621611454804	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecU4WeK"
+1621611455040	Marionette	INFO	Marionette enabled
+Exiting due to channel error.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF7,name=<unknown IPC msg name>) Channel error: cannot send/recv
+
+1621611728062	geckodriver	INFO	Listening on 127.0.0.1:48957
+1621611728064	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ9o7kN"
+1621611728295	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611729146	Marionette	INFO	Listening on port 34523
+1621611729178	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611737229	Marionette	INFO	Stopped listening on port 34523
+1621611738021	geckodriver	INFO	Listening on 127.0.0.1:50985
+1621611739030	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebr9gmk"
+1621611739301	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611740177	Marionette	INFO	Listening on port 34181
+1621611740271	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611746279	Marionette	INFO	Stopped listening on port 34181
+1621611746768	geckodriver	INFO	Listening on 127.0.0.1:36781
+1621611747778	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVRdRA0"
+1621611748042	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611749036	Marionette	INFO	Listening on port 40091
+1621611749123	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611777583	Marionette	INFO	Stopped listening on port 40091
+1621611778171	geckodriver	INFO	Listening on 127.0.0.1:60985
+1621611779180	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileByCMNH"
+1621611779446	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611780312	Marionette	INFO	Listening on port 34007
+1621611780426	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611785842	Marionette	INFO	Stopped listening on port 34007
+1621611786599	geckodriver	INFO	Listening on 127.0.0.1:43029
+1621611787608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyynYdp"
+1621611787839	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611788778	Marionette	INFO	Listening on port 45871
+1621611788827	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611797738	Marionette	INFO	Stopped listening on port 45871
+1621611798121	geckodriver	INFO	Listening on 127.0.0.1:38265
+1621611799130	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQPPWSy"
+1621611799397	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611800292	Marionette	INFO	Listening on port 44325
+1621611800345	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611807379	Marionette	INFO	Stopped listening on port 44325
+1621611807769	geckodriver	INFO	Listening on 127.0.0.1:37077
+1621611808778	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHvsCE2"
+1621611809039	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611810044	Marionette	INFO	Listening on port 43971
+1621611810110	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611816794	Marionette	INFO	Stopped listening on port 43971
+1621611817184	geckodriver	INFO	Listening on 127.0.0.1:52175
+1621611818193	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqJjNq1"
+1621611818460	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611819466	Marionette	INFO	Listening on port 35071
+1621611819534	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611827230	Marionette	INFO	Stopped listening on port 35071
+1621611827596	geckodriver	INFO	Listening on 127.0.0.1:59689
+1621611827600	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex7vaXA"
+1621611827831	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611828680	Marionette	INFO	Listening on port 38919
+1621611828715	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611834151	Marionette	INFO	Stopped listening on port 38919
+1621611834527	geckodriver	INFO	Listening on 127.0.0.1:50593
+1621611835537	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOpn37O"
+1621611835808	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611836715	Marionette	INFO	Listening on port 35355
+1621611836752	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611841262	Marionette	INFO	Stopped listening on port 35355
+1621611841649	geckodriver	INFO	Listening on 127.0.0.1:58041
+1621611842658	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexM1BXl"
+1621611842920	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611843929	Marionette	INFO	Listening on port 32787
+1621611843972	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611852919	Marionette	INFO	Stopped listening on port 32787
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621611853372	geckodriver	INFO	Listening on 127.0.0.1:46583
+1621611854381	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCtvS4m"
+1621611854645	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611855551	Marionette	INFO	Listening on port 46065
+1621611855598	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611860956	Marionette	INFO	Stopped listening on port 46065
+1621611861346	geckodriver	INFO	Listening on 127.0.0.1:33951
+1621611862355	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeeNntz"
+1621611862621	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611863511	Marionette	INFO	Listening on port 42481
+1621611863598	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611872744	Marionette	INFO	Stopped listening on port 42481
+1621611873135	geckodriver	INFO	Listening on 127.0.0.1:41613
+1621611874144	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewtw5CZ"
+1621611874420	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611875331	Marionette	INFO	Listening on port 43967
+1621611875362	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611879660	Marionette	INFO	Stopped listening on port 43967
+1621611880049	geckodriver	INFO	Listening on 127.0.0.1:56635
+1621611881058	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEebPAE"
+1621611881335	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611882228	Marionette	INFO	Listening on port 36801
+1621611882272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611887340	Marionette	INFO	Stopped listening on port 36801
+1621611887722	geckodriver	INFO	Listening on 127.0.0.1:59959
+1621611888732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledFfGy3"
+1621611889012	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611889962	Marionette	INFO	Listening on port 44473
+1621611890074	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611898912	Marionette	INFO	Stopped listening on port 44473
+1621611899300	geckodriver	INFO	Listening on 127.0.0.1:48989
+1621611900309	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRMD4dy"
+1621611900578	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611901472	Marionette	INFO	Listening on port 37263
+1621611901525	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611906870	Marionette	INFO	Stopped listening on port 37263
+1621611907259	geckodriver	INFO	Listening on 127.0.0.1:33453
+1621611908268	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI7dqqH"
+1621611908533	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611909413	Marionette	INFO	Listening on port 34583
+1621611909513	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611918031	Marionette	INFO	Stopped listening on port 34583
+1621611918610	geckodriver	INFO	Listening on 127.0.0.1:42209
+1621611919622	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTrcYMX"
+1621611919890	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611920772	Marionette	INFO	Listening on port 33971
+1621611920836	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611925675	Marionette	INFO	Stopped listening on port 33971
+1621611926066	geckodriver	INFO	Listening on 127.0.0.1:50331
+1621611927075	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNWsB5N"
+1621611927341	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611928345	Marionette	INFO	Listening on port 46223
+1621611928408	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611934546	Marionette	INFO	Stopped listening on port 46223
+1621611934928	geckodriver	INFO	Listening on 127.0.0.1:46655
+1621611935937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAKtA0x"
+1621611936207	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611937127	Marionette	INFO	Listening on port 43391
+1621611937155	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611941861	Marionette	INFO	Stopped listening on port 43391
+1621611942251	geckodriver	INFO	Listening on 127.0.0.1:59583
+1621611943260	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemq3K0V"
+1621611943522	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611944411	Marionette	INFO	Listening on port 45411
+1621611944474	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611949477	Marionette	INFO	Stopped listening on port 45411
+1621611949870	geckodriver	INFO	Listening on 127.0.0.1:43161
+1621611950879	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1aST5b"
+1621611951153	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611952201	Marionette	INFO	Listening on port 44035
+1621611952326	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611957492	Marionette	INFO	Stopped listening on port 44035
+1621611957885	geckodriver	INFO	Listening on 127.0.0.1:49313
+1621611958895	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo2N0pI"
+1621611959176	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611960086	Marionette	INFO	Listening on port 38049
+1621611960111	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611965002	Marionette	INFO	Stopped listening on port 38049
+1621611965357	geckodriver	INFO	Listening on 127.0.0.1:54813
+1621611966366	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelVfkRK"
+1621611966633	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611967522	Marionette	INFO	Listening on port 43031
+1621611967581	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611972557	Marionette	INFO	Stopped listening on port 43031
+1621611973047	geckodriver	INFO	Listening on 127.0.0.1:59869
+1621611974056	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileShWchJ"
+1621611974318	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611975205	Marionette	INFO	Listening on port 43937
+1621611975292	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611980828	Marionette	INFO	Stopped listening on port 43937
+1621611981421	geckodriver	INFO	Listening on 127.0.0.1:43199
+1621611982430	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3L7bSa"
+1621611982664	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611983534	Marionette	INFO	Listening on port 38551
+1621611983650	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621611993331	Marionette	INFO	Stopped listening on port 38551
+1621611993720	geckodriver	INFO	Listening on 127.0.0.1:60667
+1621611994730	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2JBWvg"
+1621611994996	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621611996039	Marionette	INFO	Listening on port 43017
+1621611996186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621612007078	Marionette	INFO	Stopped listening on port 43017
+1621612007469	geckodriver	INFO	Listening on 127.0.0.1:45657
+1621612008476	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3RoeWH"
+1621612008707	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621612009565	Marionette	INFO	Listening on port 36459
+1621612009589	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621612018612	Marionette	INFO	Stopped listening on port 36459
+1621612018964	geckodriver	INFO	Listening on 127.0.0.1:51983
+1621612018966	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerUe2Ku"
+1621612019206	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621612020202	Marionette	INFO	Listening on port 42595
+1621612020312	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621612026464	Marionette	INFO	Stopped listening on port 42595
+1621612026836	geckodriver	INFO	Listening on 127.0.0.1:35321
+1621612027845	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileM4bqWm"
+1621612028108	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621612029102	Marionette	INFO	Listening on port 42781
+1621612029160	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://memoria2.cnpq.br/portal-cnpq-theme/js/custom_geral.js, line 225: TypeError: $input is null
+1621612035766	Marionette	INFO	Stopped listening on port 42781
