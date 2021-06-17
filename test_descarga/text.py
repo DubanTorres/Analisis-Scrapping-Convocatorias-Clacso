@@ -26,7 +26,7 @@ latam.replace({'Tipo convocatoria': 'Investigación/Innovación'}, {'Tipo convoc
 
 ######################
 
-pais = 'Colombia'
+pais = 'Chile'
 pais_select = latam.loc[latam['País']==pais]
 
 #tipo convocatorial
@@ -82,7 +82,7 @@ pais_select = base_final_ent
 #Elimina puntos
 titulos = []
 for i in pais_select['Título']:
-    titulos.append(i.strip('.'))
+    titulos.append(i.strip('.').replace('/', '-'))
 pais_select['Título'] = titulos
 
 #########################################
@@ -108,7 +108,7 @@ pais_select = pais_select.reset_index(drop=True)
 ### Crea Carpeta País
 
 directorio_base = '/home/duban/Workspace/Analisis-Scrapping-Convocatorias-Clacso/test_descarga'
-pais = 'Colombia'
+
 
 try:
     os.mkdir(directorio_base+ '/' + pais)
@@ -157,8 +157,8 @@ for ent in entidades:
 
         for count, proyecto in enumerate(tipo_proyecto['Título']):
             
-            base_proyecto1 = base_tipo_convocatoria+ '/' + str(count+1) + '.' + proyecto[0:150]
-            base_proyecto = base_tipo_convocatoria+ '/' + str(count+1) + '.' + proyecto
+            base_proyecto1 = base_tipo_convocatoria+ '/' + proyecto[0:150]
+            base_proyecto = base_tipo_convocatoria+ '/' + proyecto
 
             try:
                 os.mkdir(base_proyecto1)
@@ -176,7 +176,7 @@ for ent in entidades:
 for base_proyecto in bases_proyectos:
     texto_proyecto = ''
     
-    tit = base_proyecto.split('/')[-1].split('.')[1]
+    tit = base_proyecto.split('/')[-1]
 
     proyecto = pais_select.loc[pais_select['Título'].str.startswith(tit)]
     proyecto = proyecto.reset_index(drop=True)
@@ -190,7 +190,7 @@ for base_proyecto in bases_proyectos:
         for b in kk[:9]:
             base = base + b + '/'
 
-        base = '/' + base+base_proyecto.split('/')[-1][0:152]
+        base = '/' + base+base_proyecto.split('/')[-1][0:150]
         base = base[1::]
 
         for count_link, pdf in enumerate(pdfs):
@@ -229,7 +229,9 @@ for base_proyecto in bases_proyectos:
 
     proy = pais_select.loc[pais_select['Título'] == tit]
     proy = proy.reset_index(drop=True)
-
+    #print(pais_select['Título'][0])
+    #print(tit)
+    #print(base_proyecto)
     ## TXT Pais
 
     nom_txt_pais = base_pais+'/'+ 'text' + str(proy['id_proy'][0]) + '.txt'
@@ -250,3 +252,4 @@ for base_proyecto in bases_proyectos:
     txt_estado = open(nom_txt_estado, 'w')
     txt_estado.write(str(texto_proyecto))
     txt_estado.close()
+
