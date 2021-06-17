@@ -176,7 +176,7 @@ for ent in entidades:
 for base_proyecto in bases_proyectos:
     texto_proyecto = ''
     
-    tit = base_proyecto.split('/')[-1].split('.')[1]
+    tit = base_proyecto.split('/')[-1][2::]
 
     proyecto = pais_select.loc[pais_select['Título'].str.startswith(tit)]
     proyecto = proyecto.reset_index(drop=True)
