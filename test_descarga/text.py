@@ -29,8 +29,6 @@ latam.replace({'Tipo convocatoria': 'Investigación/Innovación'}, {'Tipo convoc
 pais = 'Colombia'
 pais_select = latam.loc[latam['País']==pais]
 
-pais_select.columns
-
 #tipo convocatorial
 #for convocarioria in tipo_convocatoria:
 entidad = pais_select['Entidad'].unique().tolist()
