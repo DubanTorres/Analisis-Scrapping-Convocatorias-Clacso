@@ -28,7 +28,7 @@ latam.replace({'Tipo convocatoria': 'Investigación/Innovación'}, {'Tipo convoc
 
 pais = 'Colombia'
 pais_select = latam.loc[latam['País']==pais]
-pais_select.columns
+
 #tipo convocatorial
 #for convocarioria in tipo_convocatoria:
 entidad = pais_select['Entidad'].unique().tolist()
@@ -180,44 +180,46 @@ for base_proyecto in bases_proyectos:
 
     proyecto = pais_select.loc[pais_select['Título'].str.startswith(tit)]
     proyecto = proyecto.reset_index(drop=True)
-    pdfs_brutos = proyecto['Links pdf'][0].split(', ')
+    
+    try:
+        pdfs_brutos = proyecto['Links pdf'][0].split(', ')
+        pdfs = [pdf for pdf in pdfs_brutos if pdf.endswith('.pdf')]
 
-    pdfs = [pdf for pdf in pdfs_brutos if pdf.endswith('.pdf')]
+        kk = base_proyecto.split('/')
+        base = ''
+        for b in kk[:9]:
+            base = base + b + '/'
 
-    kk = base_proyecto.split('/')
-    base = ''
-    for b in kk[:9]:
-        base = base + b + '/'
+        base = '/' + base+base_proyecto.split('/')[-1][0:152]
+        base = base[1::]
 
-    base = '/' + base+base_proyecto.split('/')[-1][0:152]
-    base = base[1::]
+        for count_link, pdf in enumerate(pdfs):
 
-    for count_link, pdf in enumerate(pdfs):
+            path = base  + '/' + str(count_link+1) + '.' + pdf.split('/')[-1]        
+            wget.download(pdf, path)
+            doc = fitz.open(path)
 
-        path = base  + '/' + str(count_link+1) + '.' + pdf.split('/')[-1]        
-        wget.download(pdf, path)
-        doc = fitz.open(path)
+            if len(doc) > 8:
+                ### Ejecuta OCR
+                doc.close()
+                try:
+                    ocrmypdf.ocr(path, path)
+                except:
+                    pass
 
-        if len(doc) > 8:
-            ### Ejecuta OCR
+            doc = fitz.open(path)
+
+            #Pagina por pagina y extrae txto
+            
+            for pagina in doc:
+                text = pagina.getText()#.encode('utf8')
+                texto_proyecto = texto_proyecto + str(text) + ' '
+
             doc.close()
-            try:
-                ocrmypdf.ocr(path, path)
-            except:
-                pass
-
-        doc = fitz.open(path)
-
-        #Pagina por pagina y extrae txto
         
-        for pagina in doc:
-            text = pagina.getText()#.encode('utf8')
-            texto_proyecto = texto_proyecto + str(text) + ' '
-
-        doc.close()
-    
-    texto_proyecto = texto_proyecto.strip(' ')
-    
+        texto_proyecto = texto_proyecto.strip(' ')
+    except:
+        pass
     ########### TXT
 
     entidad = base_proyecto.split('/')[7]
