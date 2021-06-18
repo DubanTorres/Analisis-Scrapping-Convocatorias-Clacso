@@ -26,7 +26,7 @@ latam.replace({'Tipo convocatoria': 'Investigación/Innovación'}, {'Tipo convoc
 
 ######################
 
-pais = 'Chile'
+pais = 'Latam'
 pais_select = latam.loc[latam['País']==pais]
 
 #tipo convocatorial
