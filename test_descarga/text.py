@@ -26,15 +26,15 @@ latam.replace({'Tipo convocatoria': 'Investigación/Innovación'}, {'Tipo convoc
 
 ######################
 
-pais = 'Latam'
+pais = 'Brasil'
 pais_select = latam.loc[latam['País']==pais]
 
 #tipo convocatorial
 #for convocarioria in tipo_convocatoria:
 entidad = pais_select['Entidad'].unique().tolist()
 #tipo de voncocatoria
+pais_select = pais_select.replace('Concurso/Premio', 'Concurso-Premio')
 tipo_convocatoria = pais_select['Tipo convocatoria'].unique().tolist()
-
 
 
 #Crea ID por tipo de convocatoria
@@ -66,8 +66,6 @@ for ent in entidad:
 
     base_final_ent = pd.concat([base_final_ent, df_ent])
 
-base_final_ent
-
 # Crea ID por tipo de pais
 
 cant = []
@@ -91,6 +89,8 @@ pais_select['Título'] = titulos
 
 ## Identifica el indice de los archivos ya creados
 base_pais = '/home/duban/Workspace/Analisis-Scrapping-Convocatorias-Clacso/test_descarga/' + pais
+
+
 try:
     avance = [int(dir.split('text')[-1].split('.')[0]) for dir in os.listdir(base_pais) if dir.startswith('text')]
     ult = sorted(avance)[-1]
@@ -102,71 +102,46 @@ pais_select = pais_select.reset_index(drop=True)
 
 
 
+
 ##########################################
 ##########################################
 ##########################################
-### Crea Carpeta País
+### Crea Carpetas
 
 directorio_base = '/home/duban/Workspace/Analisis-Scrapping-Convocatorias-Clacso/test_descarga'
 
+for i in range(len(pais_select)):
 
-try:
-    os.mkdir(directorio_base+ '/' + pais)
-except:
-    pass
-
-###################
-#Crea carpeta de entidades
-
-base_pais = '/home/duban/Workspace/Analisis-Scrapping-Convocatorias-Clacso/test_descarga/' + pais
-
-entidades = []
-for ent in entidad:
-        #Crea carpeta de estado del proyecto
     try:
-        base_entidad = base_pais+ '/' + ent
-        entidades.append(base_entidad)
-        try:
-            os.mkdir(base_entidad)
-        except:
-            pass
-    except FileExistsError:
-        continue 
+        os.mkdir(base_pais)
+    except:
+        pass
 
-############################
-#Crea carpeta por tipo de proyecto
-tipo_convocatorias= []
+    try:
+        os.mkdir(base_pais+ '/' + pais_select['Entidad'][i])
+    except:
+        pass
+
+    try:
+        os.mkdir(base_pais+ '/' + pais_select['Entidad'][i] + '/' + pais_select['Tipo convocatoria'][i])
+    except:
+        pass
+
+    try:
+        os.mkdir(base_pais+ '/' + pais_select['Entidad'][i] + '/' + pais_select['Tipo convocatoria'][i] + '/' + pais_select['Título'][i][0:150])
+        pais_select['Título'].str.encode('iso-8859-1')[i] #
+    except:
+        pass
+
+
+########################
+########################
+########################
+######## Path ##########
 bases_proyectos = []
-proyectos = []
-#Entidades
-for ent in entidades:
-    #Convocatorias
-    for convocatoria in tipo_convocatoria:
-        
-        base_tipo_convocatoria = ent+ '/' + convocatoria
-        tipo_convocatorias.append(base_tipo_convocatoria)
-        try:
-            os.mkdir(base_tipo_convocatoria)
-        except:
-            pass
-
-        #####
-        #Crea carpeta por proyecto
-        tipo_proyecto = pais_select.loc[pais_select['Tipo convocatoria']==convocatoria]
-        #Proyectos
-
-        for count, proyecto in enumerate(tipo_proyecto['Título']):
-            
-            base_proyecto1 = base_tipo_convocatoria+ '/' + proyecto[0:150]
-            base_proyecto = base_tipo_convocatoria+ '/' + proyecto
-
-            try:
-                os.mkdir(base_proyecto1)
-            except:
-                pass
-            bases_proyectos.append(base_proyecto)    # Descarga archivos
-
-            proyectos.append(proyecto)
+for i in range(len(pais_select)):
+    path_proy = base_pais + '/' + pais_select['Entidad'][i] + '/' + pais_select['Tipo convocatoria'][i] + '/' + pais_select['Título'][i]
+    bases_proyectos.append(path_proy)
 
 ################################
 ################################
@@ -178,24 +153,26 @@ for base_proyecto in bases_proyectos:
     
     tit = base_proyecto.split('/')[-1]
 
-    proyecto = pais_select.loc[pais_select['Título'].str.startswith(tit)]
+    proyecto = pais_select.loc[pais_select['Título'] == tit]
     proyecto = proyecto.reset_index(drop=True)
     
     try:
         pdfs_brutos = proyecto['Links pdf'][0].split(', ')
         pdfs = [pdf for pdf in pdfs_brutos if pdf.endswith('.pdf')]
-
+        
         kk = base_proyecto.split('/')
         base = ''
         for b in kk[:9]:
             base = base + b + '/'
 
-        base = '/' + base+base_proyecto.split('/')[-1][0:150]
+        base = '/' + base+proyecto['Título'][0][0:150]
         base = base[1::]
 
         for count_link, pdf in enumerate(pdfs):
 
-            path = base  + '/' + str(count_link+1) + '.' + pdf.split('/')[-1]        
+            path = base + '/' + str(count_link+1) + '.' + pdf.split('/')[-1]  
+            path
+                  
             wget.download(pdf, path)
             doc = fitz.open(path)
 
@@ -221,34 +198,27 @@ for base_proyecto in bases_proyectos:
     except:
         pass
     ########### TXT
-
+    
     entidad = base_proyecto.split('/')[7]
     estado = base_proyecto.split('/')[8]
     
-
-
-    proy = pais_select.loc[pais_select['Título'] == tit]
-    proy = proy.reset_index(drop=True)
-    #print(pais_select['Título'][0])
-    #print(tit)
-    #print(base_proyecto)
     ## TXT Pais
-
-    nom_txt_pais = base_pais+'/'+ 'text' + str(proy['id_proy'][0]) + '.txt'
+    proy
+    nom_txt_pais = base_pais+'/'+ 'text' + str(proyecto['id_proy'][0]) + '.txt'
     txt_pais = open(nom_txt_pais, 'w')
     txt_pais.write(str(texto_proyecto))
     txt_pais.close()
 
     ##TXT entidad
 
-    nom_txt_entidad = base_pais + '/' + entidad +'/'+ 'text' + str(proy['id_proy_ent'][0]) + '.txt'
+    nom_txt_entidad = base_pais + '/' + entidad +'/'+ 'text' + str(proyecto['id_proy_ent'][0]) + '.txt'
     txt_entidad = open(nom_txt_entidad, 'w')
     txt_entidad.write(str(texto_proyecto))
     txt_entidad.close()
 
     ##TXT Estado
     
-    nom_txt_estado = base_pais + '/' + entidad + '/' + estado +'/'+ 'text' + str(proy['id_proy_convocatoria'][0]) + '.txt'
+    nom_txt_estado = base_pais + '/' + entidad + '/' + estado +'/'+ 'text' + str(proyecto['id_proy_convocatoria'][0]) + '.txt'
     txt_estado = open(nom_txt_estado, 'w')
     txt_estado.write(str(texto_proyecto))
     txt_estado.close()
