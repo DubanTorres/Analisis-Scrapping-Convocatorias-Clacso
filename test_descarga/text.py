@@ -7,12 +7,13 @@ import ocrmypdf
 import urllib.request
 import requests
 
+
+
 opener=urllib.request.build_opener()
 opener.addheaders=[('User-Agent','Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1941.0 Safari/537.36')]
 urllib.request.install_opener(opener)
 USER_AGENT = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36'
 headers = {'User-Agent': USER_AGENT}
-
 
 # This restores the same behavior as before.
 #context = ssl._create_unverified_context()
@@ -32,20 +33,19 @@ latam = pd.read_excel('/home/duban/Workspace/Analisis-Scrapping-Convocatorias-Cl
 #limpieza de categorías
 latam.replace({'Tipo convocatoria': 'Índices/Evaluación'}, {'Tipo convocatoria': 'Índices-Evaluación'}, regex=True, inplace=True)
 latam.replace({'Tipo convocatoria': 'Investigación/Innovación'}, {'Tipo convocatoria': 'Investigación-Innovación'}, regex=True, inplace=True)
-latam.columns
+latam['País'].value_counts()
 ######################
 
-pais = 'Brasil'
+pais = 'Costa Rica'
 pais_select = latam.loc[latam['País']==pais]
-
+pais_select['Links pdf'] = pais_select['Links pdf'].str.strip(', ')
+pais_select
 #tipo convocatorial
 #for convocarioria in tipo_convocatoria:
 entidad = pais_select['Entidad'].unique().tolist()
 #tipo de voncocatoria
 pais_select = pais_select.replace('Concurso/Premio', 'Concurso-Premio')
 tipo_convocatoria = pais_select['Tipo convocatoria'].unique().tolist()
-
-
 
 
 #Elimina puntos
@@ -62,16 +62,17 @@ pais_select['Título'] = titulos
 ## Identifica el indice de los archivos ya creados
 base_pais = '/home/duban/Workspace/Analisis-Scrapping-Convocatorias-Clacso/test_descarga/' + pais
 
+
 try:
     avance = [int(dir.split('text')[-1].split('.')[0]) for dir in os.listdir(base_pais) if dir.startswith('text')]
     ult = sorted(avance)[-1]
 except:
     ult = 0
 
+
 pais_select = pais_select.loc[pais_select['id_proy']>ult]
 pais_select = pais_select.reset_index(drop=True)
 
-pais_select
 ##########################################
 ##########################################
 ##########################################
@@ -115,7 +116,6 @@ for i in range(len(pais_select)):
 ################################
 ################################
 
-bases_proyectos
 ### Descarga pdfs y convierte en txt
 for base_proyecto in bases_proyectos:
     texto_proyecto = ''
@@ -127,9 +127,7 @@ for base_proyecto in bases_proyectos:
 
     try:
         pdfs = proyecto['Links pdf'][0].split(', ')
-        #pdfs = [pdf for pdf in pdfs_brutos if pdf.endswith('.pdf')]
-        pdfs
-        
+      
         kk = base_proyecto.split('/')
         base = ''
         for b in kk[:9]:
@@ -140,24 +138,25 @@ for base_proyecto in bases_proyectos:
         for count_link, pdf in enumerate(pdfs):
 
             path = base + '/' + str(count_link+1) + '-' + pdf.split('/')[-1]  
-            
+            if path.endswith('.docx') == True or path.endswith('.doc') == True or path.endswith('.odt') == True or path.endswith('.pptx') == True or path.endswith('.ppt') == True or path.endswith('.odt') == True or path.endswith('.pptx') == True or path.endswith('.php') == True:
+                continue 
             #wget.download(pdf, path)
             try:
-                if path.endswith('.pdf') == False and path.endswith('.docx') == False and path.endswith('.doc') == False:
+                if path.endswith('.pdf') == False:
                     path= path + '.pdf'
                     urllib.request.urlretrieve(pdf, path)
-                else:
+                if path.endswith('.pdf') == True: 
                     urllib.request.urlretrieve(pdf, path)
             except:
                 try:
                     wget.download(pdf, path)
                 except:
                     print('Error en la descarga')
-                    pass
+                    continue
 
             doc = fitz.open(path)
 
-            if len(doc) > 8:
+            if len(doc) > 0:
                 ### Ejecuta OCR
                 doc.close()
                 try:
@@ -189,14 +188,12 @@ for base_proyecto in bases_proyectos:
     txt_pais.close()
 
     ##TXT entidad
-
     nom_txt_entidad = base_pais + '/' + entidad +'/'+ 'text' + str(int(proyecto['id_proy_ent'][0])) + '.txt'
     txt_entidad = open(nom_txt_entidad, 'w')
     txt_entidad.write(str(texto_proyecto))
     txt_entidad.close()
 
     ##TXT Estado
-    
     nom_txt_estado = base_pais + '/' + entidad + '/' + estado +'/'+ 'text' + str(int(proyecto['id_proy_convocatoria'][0])) + '.txt'
     txt_estado = open(nom_txt_estado, 'w')
     txt_estado.write(str(texto_proyecto))
