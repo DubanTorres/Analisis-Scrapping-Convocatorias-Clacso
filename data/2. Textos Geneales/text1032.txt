@@ -1,0 +1,3040 @@
+
+             
+ 
+ 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN 
+- COLCIENCIAS - 
+ 
+  
+ 
+CONVOCATORIA PARA PROMOVER LA ADOPCIÓN DE  MODELOS DE CALIDAD EN 
+LA INDUSTRIA TI DE COLOMBIA - 2014 
+ 
+ 
+1. PRESENTACIÓN 
+ 
+COLCIENCIAS, como ente rector de la Ciencia, Tecnología e Innovación en el país, en 
+alianza con el Ministerio de Tecnologías de la Información y las Comunicaciones MINTIC, 
+busca con la presente convocatoria fortalecer la competitividad de empresas de la industria 
+de Tecnologías de la Información -TI- de Colombia, a través de la implementación y 
+certificación de modelos de calidad reconocidos internacionalmente, conforme a la necesidad 
+de las empresas participantes. Este proceso consiste en financiar a las empresas 
+beneficiarias la implementación y certificación de un modelo de calidad que estas requieran 
+de acuerdo con las necesidades de su negocio. Este acompañamiento se llevará a cabo a 
+través de entidades consultoras expertas para implementar y certificar en el modelo 
+seleccionado.  
+ 
+Esta convocatoria contribuye a la transformación de la industria TI en un sector de talla 
+mundial. Una de las líneas de acción para dinamizar el fortalecimiento de dicho sector, es la 
+denominada “Calidad”, la cual busca que las empresas que conforman la industria TI, 
+adopten modelos de calidad globalmente reconocidos y especializados para este tipo de 
+industrias, de cara a consolidar procesos de estandarización e internacionalización. 
+ 
+Para mayor información sobre antecedentes de esta convocatoria y ampliación de 
+información relacionada con la estrategia de Fortalecimiento de la Industria TI - FITI,  revisar 
+el anexo 1. 
+ 
+2. OBJETIVO 
+ 
+2.1. OBJETIVO GENERAL 
+ 
+Fortalecer la competitividad de la industria TI de Colombia, a través de la selección de 
+empresas pertenecientes a este sector, que propongan esquemas para la 
+implementación y certificación en modelos de calidad internacionalmente reconocidos, 
+necesarios para su crecimiento y desarrollo diferentes a CMMI e IT Mark. 
+ 
+ 
+  
+             
+ 
+ 
+2.2. OBJETIVOS ESPECÍFICOS 
+ 
+2.2.1. Evaluar y seleccionar las empresas beneficiarias. 
+ 
+2.2.2. Obtener un listado preliminar de empresas consultoras que implementan los modelos 
+sugeridos. 
+ 
+2.2.3. Identificar todas y cada una de las actividades necesarias para la implementación del 
+modelo de calidad seleccionado.  
+ 
+2.2.4. Identificar los procesos a realizar para la evaluación y certificación del modelo 
+seleccionado.   
+ 
+2.2.5. Desarrollar todas y cada una de las actividades necesarias para la implementación del 
+modelo de calidad seleccionado.  
+ 
+2.2.6. Realizar la evaluación y obtener la certificación del modelo seleccionado.   
+ 
+3. DIRIGIDO A 
+ 
+Empresas de la industria TI constituidas como personas jurídicas y establecidas como 
+sociedades mercantiles pertenecientes a la industria de Tecnologías de Información, 
+domiciliadas en Colombia, las cuales deben evidenciar que practican una o varias de las 
+siguientes actividades económicas, a través de su objeto social o código CIIU: 
+ 
+ Desarrollo de software.  
+ Desarrollo de aplicaciones informáticas. 
+ Diseño y desarrollo de páginas web. 
+ Administración de bases de datos. 
+ Testing, entendido como los servicios orientados a la realización de pruebas a los 
+sistemas de información. 
+ Tercerización de servicios relacionados con las tecnologías de información (ITO). 
+ Alojamiento de datos. 
+ Diseño y desarrollo de video juegos. 
+ 
+4. REQUISITOS MÍNIMOS  
+ 
+La empresa de la industria TI deberá cumplir con los siguientes requisitos mínimos:  
+ 
+4.1. Inscripción de la propuesta en el Sistema integrado de Gestión de Proyectos de 
+COLCIENCIAS – SIGP a través del formulario electrónico disponible en el portal de 
+COLCIENCIAS (www.colciencias.gov.co). Ver anexo 2.  
+  
+             
+ 
+ 
+4.2. Acreditar por lo menos dos (2) años de constitución legal a la fecha de apertura de la 
+convocatoria. Lo anterior será verificado por COLCIENCIAS mediante el certificado de 
+existencia y representación legal.  
+ 
+4.3. Presentar estados financieros de los dos últimos años fiscales. Se debe adjuntar 
+fotocopia de la tarjeta profesional del contador que suscriba los estados financieros. La 
+empresa de la industria TI deberá demostrar a través del PyG que se encuentra 
+estable; es decir que en los últimos dos años sus estados financieros reflejen un 
+incremento mayor o igual al 5% en los ingresos operacionales y que el PyG del último 
+año refleje una utilidad positiva.  
+  
+4.4. Presentar una certificación firmada por el contador o revisor fiscal, en la cual se 
+especifique el valor y porcentaje de los ingresos operacionales presentados en el PyG 
+que corresponden a actividades relacionadas con TI. 
+ 
+4.5. Presentar la estructura organizacional incluyendo el número de empleados y 
+contratistas a la fecha de presentación de la propuesta (organigrama de la empresa). 
+ 
+4.6. Presentar el formato de autorización de uso y almacenamiento de datos. Uno por cada 
+persona involucrada en la propuesta, de acuerdo con el formato del anexo 3. 
+ 
+4.7. Anexar dos (2) contratos correspondientes al desarrollo o prestación de servicios de 
+tecnologías de información vigentes, se debe resaltar la entidad con la que se suscribe 
+el contrato, el monto y vigencia del mismo. 
+ 
+4.8. Demostrar que tiene un (1) producto o servicio en fase postventa anexando certificación 
+de la empresa cliente donde se indique el monto pagado a la empresa beneficiaria 
+durante el último año. 
+ 
+4.9. Disponer de un (1) profesional de tiempo completo quien asumirá el rol de gerente del 
+proyecto. Para tal fin, deberá anexar la hoja de vida del candidato con los soportes que 
+acrediten su formación, se debe adjuntar una carta de compromiso donde no se puede 
+realizar el cambio de gerente de proyecto sin previa autorización de COLCIENCIAS - 
+MINTIC. 
+ 
+4.10. Presentar carta de certificación de contrapartida aportada por la empresa TI. Ver anexo 
+4. 
+ 
+ 
+ 
+  
+             
+ 
+ 
+Nota:  
+ Los documentos soporte de los requisitos mínimos se deben presentar por separado, 
+en formato PDF y legibles. 
+ Los interesados deberán cumplir con la totalidad de los requisitos mínimos para que 
+su propuesta sea evaluada, en caso contrario no continuarán al proceso de 
+evaluación. 
+ Las empresas postulantes que tengan contratos o convenios vigentes con 
+COLCIENCIAS o MINTIC deberán estar a paz y salvo con los compromisos 
+adquiridos; de lo contrario no serán considerados para participar en esta convocatoria. 
+ COLCIENCIAS-MINTIC, podrá solicitar en cualquier momento, información y 
+documentación adicional o aclaraciones de las mismas.  
+ 
+5. PROCESO DE ACOMPAÑAMIENTO 
+ 
+La empresa de TI realizará la presentación de la propuesta de implementación del modelo de 
+calidad seleccionado, justificando la importancia para la organización de adelantar este 
+proceso. Así mismo sugerirá posibles entidades consultoras que podrían acompañar el 
+proceso de implementación, evaluación y certificación del modelo, de acuerdo con el anexo 
+2. 
+Teniendo en cuenta que estos procesos deben ser adelantados por entidades expertas en la 
+implementación de los diferentes modelos de calidad de la industria TI, MINTIC-
+COLCIENCIAS, tras seleccionar las empresas beneficiarias a través de la presente 
+convocatoria, llevará a cabo un proceso de selección objetiva de las entidades consultoras, 
+para lo cual realizará una invitación pública a través sus páginas web y redes sociales a 
+todas las entidades consultoras para participar en la convocatoria. De este proceso se 
+escogerán las entidades que cumplan con los requisitos mínimos y de esta manera 
+completar la base de consultores ya obtenida en la convocatoria. 
+De esta gran base se realizará la evaluación y selección de los consultores que 
+acompañaran a las empresas en la implementación de los modelos de calidad propuestos. 
+Las entidades consultoras seleccionadas serán las responsables de gerenciar y ejecutar los 
+proyectos de implementación de los modelos de calidad en las empresas TI favorecidas, 
+administrar los recursos entregados para la financiación del proyecto. 
+La empresa consultora debe ser una persona jurídica, experta en la implementación de 
+modelos de calidad, acreditada internacionalmente por la entidad correspondiente al modelo 
+seleccionado por la empresa de la industria TI, con mínimo dos (2) años de constitución legal 
+a la fecha de la apertura de la presente convocatoria, estable financieramente y con amplia 
+trayectoria en el mercado. Esta empresa deberá realizar las actividades relacionadas con la 
+implementación, así mismo, debe adelantar la gestión con la entidad certificadora para la 
+evaluación y certificación del modelo de calidad.  
+  
+             
+ 
+ 
+6. DURACIÓN Y FINANCIACIÓN 
+ 
+6.1. Duración 
+ 
+El término de duración de la propuesta de certificación a acompañar será de hasta doce (12) 
+meses.  
+ 
+6.2. Contrapartida 
+ 
+La contrapartida exigida para ser aportada por la empresa de la industria TI, será en especie 
+y corresponde al pago del gerente del proyecto durante la vigencia completa del proyecto, la 
+cual debe quedar debidamente certificada mediante el anexo 4. 
+ 
+Nota:  
+ 
+La propuesta presentada no podrá ser financiada simultáneamente por otra convocatoria o 
+con recursos de COLCIENCIAS u otras entidades del Estado.  
+ 
+7. PROCEDIMIENTO DE INSCRIPCIÓN 
+ 
+7.1. Descargar, descomprimir e instalar la máquina virtual de java de la siguiente dirección:  
+http://www.colciencias.gov.co/sites/default/files/ckeditor_files/files/formularios_sigp/jre-7u51-
+windows-i586.zip  
+ 
+7.2. Descargar, descomprimir y diligenciar el formulario electrónico disponible en la sección 
+correspondiente 
+a 
+esta 
+convocatoria 
+del 
+portal 
+institucional 
+de 
+COLCIENCIAS 
+(http://www.colciencias.gov.co). 
+El 
+formulario 
+electrónico 
+es 
+específico 
+para 
+esta 
+convocatoria, asegúrese de diligenciar efectivamente el formulario en cuestión. 
+  
+7.3. Para enviar la propuesta desde el formulario electrónico, debe Aceptar los Términos y 
+Condiciones, e inmediatamente se activa el botón de Validar. Si la propuesta es válido sin 
+errores, se activa el botón de Enviar. Una vez la propuesta sea enviada al Sistema Integrado 
+de Gestión de Proyectos de COLCIENCIAS -SIGP-, el Sistema emitirá una respuesta 
+automática, generando un número de confirmación de recibido en el servidor de 
+COLCIENCIAS; este número garantizará la recepción exitosa de la propuesta.  
+ 
+7.4. El número de confirmación de recibido y la contraseña que la entidad asigne a la 
+propuesta, le permitirá realizar el envío de los requisitos mínimos y hacer el seguimiento del 
+estado de la propuesta. Tome nota de este número de confirmación y la contraseña 
+asignada. 
+ 
+7.5. Para realizar el envío de los requisitos mínimos desde el formulario electrónico, debe dar 
+click en el botón adjuntar documentos de requisitos; inmediatamente el sistema desplegará 
+  
+             
+ 
+ 
+una página en el Portal de Sistema de Gestión de Proyectos para tal fin. En el campo 
+Proyecto digite el número de confirmación de recibido y en el campo correspondiente 
+diligencie la contraseña y proceda a dar click en el botón Ingresar. A continuación el sistema 
+desplegará la información básica de la propuesta y en la parte inferior el detalle de los 
+requisitos mínimos. 
+ 
+7.6. Debe adjuntar la totalidad de los documentos que soportan los requisitos mínimos. Si 
+para un requisito mínimo requiere anexar más de un documento, guárdelos en una sola 
+carpeta y adjúntela como archivo comprimido .ZIP o .RAR en el campo correspondiente al 
+requisito. Si requiere cambiar algún archivo de los que previamente adjuntó, puede hacerlo 
+examinando y adjuntando el documento deseado. 
+ 
+7.7. Si requiere adjuntar documentación adicional de la propuesta (tablas, gráficos, anexos, 
+etc.), guárdela en una sola carpeta y adjúntela como archivo comprimido .ZIP o .RAR en el 
+requisito denominado Otros adjuntos. Si requiere cambiar algún archivo de los que 
+previamente adjuntó, puede hacerlo examinando y adjuntando el documento deseado.  
+ 
+7.8. Recuerde que el formulario solo admite un archivo anexo por cada requisito mínimo, por 
+lo que al cargar un archivo nuevo, este reemplazará al anterior. Usted puede verificar el 
+archivo que adjuntó a través de la página http://201.234.78.164:7777/portal/ del SIGP, con el 
+número de confirmación y la contraseña asignada a la propuesta. 
+ 
+7.9. Anexando todos los documentos obligatorios se puede generar el Certificado de 
+requisitos mínimos, que le sirve de evidencia del envío de los mismos. En caso contrario, el 
+sistema enviará el siguiente mensaje de error: Error – Debe adjuntar los documentos 
+obligatorios para obtener el certificado, y no permitirá generar dicho certificado. 
+ 
+7.10. Hasta que no estén completos los requisitos mínimos y se haya generado el certificado 
+anteriormente mencionado, no se dará por culminado satisfactoriamente el proceso de 
+inscripción de la propuesta. 
+ 
+ 
+Notas:  
+ 
+ Se aceptarán únicamente las propuestas que se presenten a través del formulario 
+electrónico con toda la información solicitada en la presente convocatoria.  
+ 
+ No será tenida en cuenta para el proceso de evaluación y selección del Banco de 
+Elegibles, la información enviada en medios distintos al SIGP (correo postal, fax, 
+correo electrónico o cualquier otro), ni posterior a la fecha y hora límite establecida. 
+Ver numeral 12.  
+ 
+ En caso que se presenten errores en el cargue de la información de la propuesta y/o 
+  
+             
+ 
+ 
+los adjuntos a través de SIGP y por esta razón después de efectuados varios intentos 
+no pueda enviarse la propuesta de forma normal dentro del plazo establecido, por 
+favor capturar las pantallas con el mensaje de error y cualquier evidencia que soporte 
+el problema, explicando en el cuerpo del correo electrónico los inconvenientes 
+presentados. Remitir toda la información al correo contacto@colciencias.gov.co antes 
+de la fecha de cierre establecida en el CRONOGRAMA de los presentes términos de 
+referencia. 
+ 
+8. CRITERIOS DE EVALUACIÓN 
+ 
+Las propuestas que cumplan con los requisitos mínimos se someterán a evaluación de 
+acuerdo con los siguientes criterios: 
+ 
+Tabla No 1. Criterios de evaluación 
+ 
+No. 
+Criterio 
+Puntaje  
+1 
+Calidad y metodología de la 
+propuesta. 
+10 
+2 
+Equipo de trabajo de la 
+propuesta. 
+20 
+3 
+Perfil de la empresa TI. 
+20 
+4 
+Justificación e impacto del 
+modelo seleccionado. 
+50 
+Total 
+100 
+ 
+8.1. Calidad y metodología de la propuesta: La propuesta deberá describir claramente el 
+conjunto de procedimientos, actividades, y/o tareas a ser utilizados para alcanzar los 
+objetivos, resultados, e impactos esperados. Se verificará la coherencia interna y tratamiento 
+particular de objetivos, metodología, actividades, presupuesto, cronograma y duración. 
+ 
+Para la evaluación de este criterio se tendrá en cuenta lo siguiente: 
+ 
+ Contenido: Contiene todos y cada uno de los elementos descritos en el anexo 2. 
+ Metodología propuesta: La metodología es clara y coherente con el modelo de 
+calidad escogido. 
+ 
+8.2. Equipo de trabajo de la propuesta: En la propuesta se deberá plasmar el grupo de 
+personas de la empresa de TI que participará en el proceso de implementación y certificación 
+del modelo de calidad escogido.  
+ 
+Para la evaluación se tendrá en cuenta lo siguiente: 
+ 
+ Perfil del gerente: La profesión del gerente de proyecto y su relación con la industria 
+  
+             
+ 
+ 
+de TI. Se podrán obtener puntos adicionales al tener estudios de postgrado en temas 
+relacionados con gerencia de proyectos y/o si es PMP. 
+ 
+Perfil del equipo: La concordancia entre las profesiones de los integrantes del equipo 
+de la propuesta y su rol dentro del equipo. 
+ 
+Organigrama del equipo de la propuesta: Se debe anexar el organigrama y roles 
+del equipo que acompañarán al gerente en la implementación y certificación del 
+modelo de calidad escogido. 
+ 
+8.3. Perfil de la empresa TI: Este criterio verificará las características de las empresas tales 
+como: estructura organizacional, años de experiencia, ingresos operacionales, solidez 
+financiera.  
+ 
+Para la evaluación se tendrá en cuenta lo siguiente: 
+ 
+ Organigrama: Organigrama detallado con cargos y tipo de contrato de sus 
+funcionarios. 
+ Años de existencia de la empresa: Años de existencia y representación en el 
+mercado.  
+ Ingresos operacionales último año fiscal: Monto de los ingresos durante el último 
+año fiscal.  
+ Aumento de ingresos operacionales últimos (2) dos años fiscales: Variación 
+positiva de los ingresos operacionales entre los dos últimos años fiscales.  
+  
+ 
+8.4. Justificación e impacto del modelo seleccionado: Se evaluará la pertinencia e 
+impacto de la implementación del modelo. Se tendrá en cuenta lo siguiente: 
+ 
+ Relevancia internacional del modelo: El modelo que se solicita financiar es 
+internacionalmente reconocido. 
+ Aumento ingresos operacionales: Demostrar y/o justificar que logrará aumentar sus 
+ingresos operacionales. 
+ Aumento de número potencial de clientes: Demostrar y/o justificar incremento en el 
+número potencial de clientes. 
+ Mejora de los tiempos de respuesta: Demostrar y/o justificar que los tiempos de la 
+entrega de los servicios o productos después de la implementación del modelo se 
+reducirán. 
+ Posibilidades de exportación: Demostrar y/o justificar la creación de oportunidades 
+para realizar negocios fuera del país.   
+ Factores relevantes para la empresa: Otros factores que ayuden a la empresa a 
+justificar la solicitud del modelo. 
+ Mejora en los indicadores de calidad: Demostrar y/o justificar la creación de 
+oportunidades para mejorar los indicadores de calidad en la empresa de la industria 
+TI. 
+  
+             
+ 
+ 
+ Resultados e impactos esperados: El documento presenta resultados claros en 
+cuanto a la implementación del proyecto. 
+ 
+9. PROCESO DE EVALUACIÓN 
+ 
+Las propuestas inscritas dentro de los plazos establecidos para la presente convocatoria que 
+cumplan con los requisitos mínimos, serán evaluadas por COLCIENCIAS-MINTIC, teniendo 
+en cuenta los criterios de evaluación descritos en el numeral 8.  
+  
+En caso de empate, se solucionará a través de la revisión de los puntajes más altos en los 
+criterios de evaluación teniendo en cuenta el siguiente orden: 
+ 
+1. Criterio No. 4 Justificación del modelo seleccionado. 
+2. Criterio No. 3 Perfil de la empresa de TI.  
+3. Criterio No. 2 Equipo de trabajo de la propuesta.  
+4. Criterio No. 1 Calidad y metodología de la propuesta.  
+5. Si el empate persiste se realizará un sorteo por balotas del cual se levantará un acta 
+firmada por los que intervienen en el sorteo.  
+  
+Toda información proporcionada es de carácter confidencial y no será utilizada para ningún 
+fin diferente a la realización de la evaluación. Los expertos evaluadores estarán cobijados por 
+cláusulas de confidencialidad y de no conflicto de interés.  
+  
+De acuerdo con el CRONOGRAMA de la convocatoria, se concederá un término para 
+solicitar aclaraciones y/o modificaciones a la publicación preliminar del banco de elegibles, 
+una vez éstas sean resueltas, se procederá a la publicación del banco definitivo de 
+propuestas elegibles.  
+ 
+10.  BANCO DE ELEGIBLES 
+ 
+Los resultados de la convocatoria se publicarán en la página web de COLCIENCIAS 
+(www.colciencias.gov.co) en las fechas establecidas en el CRONOGRAMA.  
+  
+Las propuestas que superen en su calificación setenta (70) puntos ingresarán al banco de 
+elegibles. Para la selección final de las empresas beneficiarias se tendrá en cuenta la 
+demanda y la pertinencia de los modelos con el ánimo de beneficiar e impactar la mayor 
+cantidad de empresas posibles.  
+  
+La vigencia del banco de elegibles es de un (1) año a partir de su publicación definitiva. La 
+inclusión de una propuesta en el banco de elegibles, no implica obligatoriedad ni compromiso 
+alguno de COLCIENCIAS o de MINTIC, de asignar recursos, ni genera derecho a recibir 
+apoyos económicos para quienes hayan presentado las propuestas correspondientes.  
+  
+  
+             
+ 
+ 
+ 
+Notas:  
+ 
+ Surtida la publicación definitiva del banco de elegibles, COLCIENCIAS informará 
+mediante comunicación escrita y/o electrónica a las propuestas que hayan sido 
+seleccionadas para ser beneficiadas.  
+ 
+ 
+11. ACLARACIONES 
+ 
+Una vez publicados los resultados preliminares del banco de elegibles, los interesados 
+podrán presentar solicitudes de aclaraciones y comentarios por un período de tres (3) días 
+hábiles. Por fuera de este término se considera que las reclamaciones son extemporáneas y 
+por tal razón no serán aceptadas. 
+ 
+Las peticiones se deben presentar exclusivamente a través del correo electrónico 
+contacto@colciencias.gov.co con el asunto “Convocatoria para promover la adopción de 
+modelos de calidad en la industria TI de Colombia”. 
+ 
+ 
+12. CRONOGRAMA 
+ 
+ACTIVIDAD 
+FECHA LIMITE 
+Apertura de la convocatoria 
+10 de septiembre de 2014 
+Cierre de la convocatoria 
+20 de octubre de 2014 hasta 5:00 pm1 
+Publicación del banco preliminar de 
+elegibles 
+20 de noviembre de 2014 
+Período de solicitud de aclaraciones del 
+banco preliminar de elegibles 
+Del 21 al 25 de noviembre de 2014 
+Respuesta a solicitud de aclaraciones 
+Del 26 al 28 de noviembre de 2014 
+Publicación banco definitivo de elegibles 
+9 de diciembre de 2014 
+ 
+ 
+13. PROPIEDAD INTELECTUAL 
+En el evento en que se llegaran a generar derechos de propiedad intelectual sobre los 
+resultados que se obtengan o se pudieran obtener en el desarrollo de la presente 
+convocatoria, la titularidad sobre los derechos se regirá por lo establecido en el artículo 31 de 
+la Ley 1450 de 2011, “Artículo 31 DERECHOS DE PROPIEDAD INTELECTUAL DE 
+PROYECTOS 
+DE 
+INVESTIGACIÓN 
+FINANCIADOS 
+CON 
+RECURSOS 
+DEL 
+PRESUPUESTO NACIONAL. En el caso de proyectos de ciencia, tecnología e innovación 
+adelantados con recursos del presupuesto nacional, el Estado, salvo motivos de seguridad y 
+  
+             
+ 
+ 
+defensa nacional, cederá a las Partes del Proyecto los derechos de propiedad intelectual que 
+puedan corresponderle, según se establezca en el contrato”. “Las Partes del Proyecto 
+definirán entre ellas la titularidad de los derechos de propiedad intelectual derivados de los 
+resultados de la ejecución de los recursos del presupuesto nacional”. 
+Nota: En cualquier evento o medio de divulgación utilizado para difundir los resultados de las  
+propuestas se deberá dar el respectivo crédito a COLCIENCIAS-MINTIC, incluyendo las 
+imágenes institucionales de acuerdo con el manual de imagen corporativa de cada una de 
+las entidades. 
+ 
+14. VEEDURÍAS CIUDADANAS 
+ 
+Las veedurías ciudadanas establecidas en la ley 850 de 2003, podrán desarrollar su 
+actividad durante la presente convocatoria, conforme a lo estipulado en dicha normativa. 
+ 
+ 
+ 
+15. ANEXOS 
+ 
+- 
+ANEXO 1: Antecedentes. 
+- 
+ANEXO 2: Contenido de la Propuesta. 
+- 
+ANEXO 3: Autorización Uso y Almacenamiento de Datos Personales. 
+- 
+ANEXO 4. Carta de Certificación de la Contrapartida 
+ 
+ 
+ 
+16. ACEPTACIÓN DE TÉRMINOS Y VERACIDAD 
+ 
+Con la inscripción, los interesados aceptan las características, requisitos y condiciones de la 
+presente convocatoria así como lo dispuesto en los presentes términos de referencia para el 
+desarrollo de la misma y para ser beneficiarios del acompañamiento. 
+ 
+De igual forma declaran que la información suministrada es veraz y corresponde a la 
+realidad. En caso de encontrarse alguna incoherencia e inconsistencia en la información o 
+documentación suministrada, COLCIENCIAS y MINTIC podrán en cualquier momento 
+rechazar la postulación o si es del caso declarar la pérdida del beneficio, sin perjuicio de las 
+acciones legales correspondientes. 
+ 
+ 
+ 
+ 
+  
+             
+ 
+ 
+ 
+17. MAYOR INFORMACIÓN 
+ 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN 
+- COLCIENCIAS – 
+ 
+Carrera 7B Bis No 132-28, Bogotá D.C. 
+http://www.colciencias.gov.co 
+ 
+Centro de Contacto  
+Telefono: (+57-1) 6258480 Extensión 2081 
+Linea gratuita nacional: 018000 914446 
+ 
+En caso de inquietudes o comentarios sobre la presente convocatoria, favor enviar un correo 
+electrónico con el asunto “Convocatoria para promover la adopción de modelos de calidad en 
+la industria TI de Colombia”,  al correo contacto@colciencias.gov.co  
+ 
+ 
+ 
+ 
+ 
+ 
+YANETH GIHA TOVAR 
+Directora General 
+ 
+Vo.Bo. Director Técnico 
+Vo.Bo. Secretaría General 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+             
+ 
+ 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION  
+- COLCIENCIAS – 
+ 
+CONVOCATORIA PARA PROMOVER LA ADOPCIÓN DE MODELOS DE CALIDAD EN LA 
+INDUSTRIA TI DE COLOMBIA - 2014 
+ 
+ANEXO 1 - ANTECEDENTES  
+ 
+La estrategia de Fortalecimiento de la Industria de Tecnologías de Información-FITI del 
+Ministerio de Tecnologías de Información y Comunicaciones - MINTIC, es la estrategia de la 
+Dirección de Políticas y Desarrollo TI, y su propósito es contribuir a la transformación de la 
+industria de T.I. en un sector competitivo, a través de la dinamización de diferentes líneas de 
+acción que conforman un modelo integral y sistémico. 
+ 
+La industria T.I. está conformada por la Industria de Software, Empresas de Hardware y 
+Servicios asociados a las Tecnologías de Información. Para su fortalecimiento es necesario 
+el desarrollo de las siguientes dimensiones estratégicas:  
+ 
+ 
+ 
+ 
+  
+             
+ 
+ 
+ Visión Estratégica del Sector: Dimensión orientada a establecer un norte para la 
+industria TI, a través de estudios y estrategias que orienten a todos los actores 
+involucrados, a trabajar articuladamente bajo la misma dirección. 
+ 
+ Investigación, Desarrollo e Innovación: En esta línea de acción se pretende 
+promover ejercicios de investigación, desarrollo e innovación articulando academia, 
+empresa, estado y clúster. 
+ 
+ Calidad: Dimensión con la cual se promueve la adopción de modelos de calidad 
+globalmente reconocidos por parte de las empresas que hacen parte de la Industria TI. 
+ 
+ Normatividad: Dimensión en la que se trabaja para formular y gestionar la 
+implementación de normas que permitan incentivar a la industria TI, a manera de 
+marco normativo competitivo. 
+ 
+ Asociatividad: En esta dimensión se busca fortalecer modelos de colaboración para 
+que se generen sinergias estratégicas que permitan incrementar la competitividad del 
+sector. 
+ 
+ Infraestructura: Impulsar el desarrollo de estudios de viabilidad para implementación 
+de infraestructura apta y pertinente a las tendencias, para fomento a la industria TI. 
+ 
+ Talento Humano: Dimensión en la que se articulan esfuerzos con la academia y el 
+sector empresarial, para el diseño e implementación de programas de formación 
+ajustados a las necesidades de la industria TI. 
+ 
+ Emprendimiento y fortalecimiento empresarial: Implementación de estrategias 
+especializadas para la industria de tecnologías de información que dinamicen la 
+creación de nuevas empresas innovadoras en el sector. 
+ 
+CALIDAD 
+ 
+La presente convocatoria pretende fortalecer la competitividad de MiPymes de la industria TI 
+de Colombia, a través de la implementación y certificación de modelos de calidad 
+internacionales conforme a la necesidad de las empresas participantes.  Este proceso 
+consiste en financiar a las empresas beneficiarias la implementación y certificación del 
+modelo de calidad que estas requieran de acuerdo con las necesidades de su negocio.  Este 
+  
+             
+ 
+ 
+acompañamiento se llevará a cabo a través de entidades consultoras expertas y avaladas 
+para implementar y certificar en el modelo seleccionado.  
+La estrategia de Fortalecimiento de la Industria de Tecnologías de Información – FITI del 
+Ministerio de Tecnologías de Información y Comunicaciones - MINTIC, contribuye a la 
+transformación de la industria TI en un sector de talla mundial. Una de las líneas de acción 
+para dinamizar el fortalecimiento de dicho sector, es la denominada “Calidad”, la cual busca 
+que las empresas que conforman la industria TI, adopten modelos de calidad globalmente 
+reconocidos y especializados para este tipo de industrias, de cara a consolidar procesos de 
+estandarización e internacionalización. 
+ 
+A la luz de lo anterior, la alianza COLCIENCIAS-MINTIC, ha adelantado iniciativas para 
+promover los modelos de calidad tales como: CMMI e IT MARK, siendo éstos los más 
+reconocidos a nivel internacional, beneficiando alrededor de 93 empresas de la industria TI 
+en dichos modelos. 
+ 
+Con el fin de permitir a la industria proponer los modelos de calidad en TI que se ajustan a 
+sus necesidades y proyecciones específicas, COLCIENCIAS – MINTIC ponen a disposición 
+la presente convocatoria, como instrumento para apoyar a las empresas de la industria TI en 
+la adopción de modelos de calidad internacionalmente reconocidos,  bajo la demanda de la 
+misma industria. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+             
+ 
+ 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+ - COLCIENCIAS – 
+ 
+CONVOCATORIA PARA PROMOVER LA ADOPCIÓN DE MODELOS DE CALIDAD EN LA 
+INDUSTRIA TI DE COLOMBIA - 2014 
+ 
+ANEXO 2 – CONTENIDO DE LA PROPUESTA 
+ 
+La propuesta debe contener los siguientes capítulos: 
+ 
+ 
+1. Resumen Ejecutivo: Información mínima necesaria para comunicar de manera 
+precisa los contenidos y alcances de la propuesta. 
+ 
+2. Información de la empresa TI  
+ 
+Nombre de la entidad: 
+ 
+Tipo de sociedad: 
+ 
+Tamaño de la empresa: 
+Grande, mediana, pequeña o micro 
+Número de empleados: 
+ 
+NIT de la entidad: 
+ 
+Código 
+de 
+actividad 
+económica CIIU 
+ 
+Nombre 
+del 
+representante 
+legal: 
+ 
+Documento de identificación 
+del representante legal: 
+ 
+Dirección, 
+ciudad 
+y 
+país 
+donde se ubica. 
+ 
+Teléfono de la entidad: 
+ 
+Sitio web: 
+ 
+ 
+3. Información de potenciales entidades consultoras que acompañaran el proceso. 
+ 
+Posible consultora N° 1: 
+Nombre de la entidad: 
+ 
+Entidad Implementadora: 
+ 
+Entidad Certificadora: 
+ 
+NIT de la entidad: 
+ 
+Dirección, 
+ciudad 
+y 
+país 
+donde se ubica 
+ 
+  
+             
+ 
+ 
+Modelo propuesto: 
+ 
+Costo: 
+ 
+Teléfono de la entidad: 
+ 
+Sitio web: 
+ 
+ 
+Posible consultora N° 2: 
+ 
+Nombre de la entidad: 
+ 
+Entidad Implementadora: 
+ 
+Entidad Certificadora: 
+ 
+NIT de la entidad: 
+ 
+Dirección, 
+ciudad 
+y 
+país 
+donde se ubica 
+ 
+Modelo propuesto: 
+ 
+Costo: 
+ 
+Teléfono de la entidad: 
+ 
+Sitio web: 
+ 
+ 
+Posible consultora N° 3: 
+ 
+Nombre de la entidad: 
+ 
+Entidad Implementadora: 
+ 
+Entidad Certificadora: 
+ 
+NIT de la entidad: 
+ 
+Dirección, 
+ciudad 
+y 
+país 
+donde se ubica 
+ 
+Modelo propuesto: 
+ 
+Costo: 
+ 
+Teléfono de la entidad: 
+ 
+Sitio web: 
+ 
+ 
+4. Cotizaciones por consultor: La empresa debe relacionar 3 cotizaciones de 
+consultores para cuantificar el costo de la implementación y certificación del modelo 
+de calidad.  
+ 
+5. Experiencia consultores: Se debe adjuntar a la propuesta una breve introducción de 
+la empresa consultora donde se evidencie su trayectoria, metodología y experiencia 
+en el mercado.  
+ 
+  
+             
+ 
+ 
+6. Justificación e impacto del modelo a implementar: Factores que hacen necesaria 
+y pertinente la realización de la implementación del modelo. Es la sustentación de la 
+importancia de la adopción del modelo para la empresa y de cómo este la fortalecerá 
+y/o abrirá nuevas oportunidades de mercado.  
+ 
+7. Metodología: Exposición en forma organizada y precisa de cómo se desarrollará y 
+alcanzará el objetivo general y cada uno de los objetivos específicos del proyecto, 
+presentando los componentes del mismo y las actividades para el logro de estos.  
+ 
+8. Presentación de la Empresa TI: Resumen general de la empresa donde se 
+presentan sus antecedentes, trayectoria en el sector, portafolio de servicios, visión, 
+clientes y demás elementos relevantes que la identifiquen tales como domicilio, 
+contactos. 
+ 
+9. Distribución de Responsabilidades de los Participantes del Proyecto: Relacionar 
+los integrantes del proyecto que pertenecen a la planta de personal de la 
+organización, describiendo el rol y el tipo de responsabilidades dentro del proyecto. 
+ 
+Nombre de la 
+Persona 
+ROL (Gerente, Líder de 
+Calidad, etc.) 
+Responsabilidades 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Adjuntar las hojas de vida y los soportes correspondientes de los integrantes del 
+equipo de trabajo. 
+ 
+10. Cronograma: Distribución de actividades mensuales de ejecución del proyecto. 
+Asociar a cada actividad el o los objetivos (numerados) relacionados con estos.  
+ 
+OBJETIVO 
+ESPECÍFICO 
+NOMBRE DE LA 
+ACTIVIDAD 
+DURACIÓN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+             
+ 
+ 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION  
+- COLCIENCIAS – 
+ 
+CONVOCATORIA PARA PROMOVER LA ADOPCIÓN DE MODELOS DE CALIDAD EN LA 
+INDUSTRIA TI DE COLOMBIA - 2014 
+ 
+ANEXO 3 - AUTORIZACIÓN USO Y ALMACENAMIENTO DE DATOS PERSONALES 
+  
+A continuación se presenta el modelo de carta para autorización uso y almacenamiento de datos 
+personales: 
+(Ciudad), (Día) de (Mes) de 201_  
+ 
+ 
+Señores  
+COLCIENCIAS 
+Carrera 7B Bis No. 132 – 28 
+Bogotá D.C. 
+ 
+Asunto: Autorización uso y almacenamiento de datos personales. 
+En virtud de la Ley Estatutaria 1581 del 2012, mediante la cual se dictan las disposiciones generales 
+para la protección de datos personales, y su Decreto Reglamentario 1377 de 2013, autorizo al 
+Departamento Administrativo de Ciencia, Tecnología e Innovación - Colciencias, considerado como 
+responsable y/o encargado del tratamiento de datos personales, almacenados en bases de datos, las 
+cuales incluyen información que se han reportado en desarrollo de las diferentes actividades y 
+formularios, y en particular los siguientes: nombres, número de documento de identificación, 
+dirección, teléfono fijo y móvil, direcciones, correo electrónico, profesión, hoja de vida académica, 
+certificados de notas, etc.  
+ 
+Los datos serán utilizados para la misión institucional establecida en la ley 1286 de 2009, como ente 
+rector de la Ciencia Tecnología e innovación en Colombia. 
+ 
+ 
+Atentamente,  
+ 
+ 
+Firma 
+Nombre del representante legal  
+CC_________________ 
+Nombre de la entidad 
+Dirección  
+Teléfono 
+e-Mail 
+ 
+ 
+ 
+ 
+ 
+  
+             
+ 
+ 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION  
+- COLCIENCIAS- 
+ 
+CONVOCATORIA PARA PROMOVER LA ADOPCIÓN DE  MODELOS DE CALIDAD EN 
+LA INDUSTRIA TI DE COLOMBIA - 2014 
+ 
+ANEXO 4 - CARTA DE CERTIFICACIÓN DE LA CONTRAPARTIDA 
+ 
+A continuación se presentan los contenidos del modelo de carta para certificación de la contrapartida 
+aportada por entidad: 
+ 
+(Ciudad), (Día) de (Mes) de 201_  
+ 
+Señores  
+COLCIENCIAS 
+Carrera 7B Bis No. 132 – 28 
+Bogotá D.C. 
+ 
+ 
+Asunto: Certificación de contrapartida de la propuesta titulado (escriba el nombre de la propuesta) a la 
+convocatoria (nombre de la convocatoria) 
+ 
+Respetados señores, 
+ 
+Por medio de la presente yo NOMBRE DEL REPRESENTANTE LEGAL, identificado con cédula de ciudadanía 
+número (Número de identificación), como Representante Legal de (Nombre de la entidad), certifico que en caso 
+que la propuesta titulado (escriba el nombre de la propuesta) a la convocatoria (nombre de la convocatoria), 
+resulte financiable por COLCIENCIAS, nuestra entidad aportará una contrapartida en especie de (escriba el 
+valor en letras) ($ xxx.xxx.xxx) que corresponde al salario del gerente de proyecto durante toda la ejecución del 
+proyecto.  
+  
+Cordialmente,  
+ 
+ 
+ 
+ 
+FIRMA 
+NOMBRE DEL REPRESENTANTE LEGAL O PERSONA NATURAL 
+CC_________________ 
+Dirección  
+Teléfono 
+ 
+ SPROSPERIDAD 
+GPARA TODOS 
+corctencias 7 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS - 
+  
+  
+CONVOCATORIA PARA PROMOVER LA ADOPCION DE MODELOS DE 
+CALIDAD EN LA INDUSTRIA TI DE COLOMBIA - 2014 
+  
+Piedad 
+Prey 
+COLCIENCIAS, como ente rector de 
+la Ciencia, Tecnologia e Innovacién en 
+el 
+pais, 
+en 
+alianza 
+con 
+el 
+Ministerio 
+de Tecnologias 
+de 
+la 
+informacién 
+y 
+las 
+Comunicaciones 
+MINTIC, 
+busca 
+con 
+la 
+presente 
+convocatoria 
+fortalecer 
+la 
+competitividad de empresas de la industria de Tecnologias de la Informacién -TI- 
+de Colombia, a través de la implementacién y certificaci6n de modelos de calidad 
+reconocidos 
+internacionalmente, 
+conforme 
+a 
+la 
+necesidad 
+de 
+las 
+empresas 
+participantes. Este proceso consiste en financiar a las empresas beneficiarias 
+la 
+implementaci6n 
+y certificacién de un modelo de calidad que estas requieran de 
+acuerdo con las necesidades de su negocio. Este acompafiamiento se llevara a 
+cabo a través de entidades consultoras expertas para implementar y certificar en 
+el modelo seleccionado. 
+Esta convocatoria contribuye a la transformacién de la industria TI en un sector de 
+talla mundial. Una de las lineas de accién para dinamizar el fortalecimiento de 
+dicho sector, es la denominada “Calidad”, 
+la cual busca que las empresas que 
+conforman la industria Tl, adopten modelos de calidad globalmente reconocidos y 
+especializados para este tipo de industrias, 
+de cara 
+a consolidar procesos de 
+estandarizacién e internacionalizacién. 
+Para mayor informacion sobre antecedentes de esta convocatoria y ampliacién de 
+informacion relacionada con 
+la estrategia de Fortalecimiento de 
+la Industria TI 
+- 
+FITI, 
+revisar el anexo 1. 
+2. OBJETIVO 
+2.1. OBJETIVO GENERAL 
+Fortalecer 
+la competitividad de 
+la industria 
+Tl de Colombia, 
+a través de 
+la 
+selecci6n 
+de 
+empresas 
+pertenecientes 
+a 
+este 
+sector, 
+que 
+propongan 
+esquemas 
+para 
+la implementacioén 
+y certificacion 
+en modelos 
+de calidad 
+Cra. 70 Bis # 132-28 
+PBX: (57+4) 6258480 
+Bogota D.C. Colombia 
+www.catciencias.gov.co 
+Pagina 1 de 13
+ aU 
+Dee 
+ened 
+de la Informacido 
+y kes Comunicaciones 
+  
+internacionalmente reconocidos, necesarios para su crecimiento y desarrollo 
+diferentes a CMMI e IT Mark. 
+2.2, OBJETIVOS ESPECIFICOS 
+2.2.1. Evaluar y seleccionar las empresas beneficiarias. 
+2.2.2. Obtener un listado preliminar de empresas consultoras que implementan los 
+modelos sugeridos. 
+2.2.3. 
+Identificar 
+todas 
+y 
+cada 
+una 
+de 
+las 
+actividades 
+necesarias 
+para 
+la 
+implementacién del modelo de calidad seleccionado. 
+2.2.4. 
+Identificar 
+los procesos 
+a 
+realizar para 
+la evaluacién 
+y certificacién del 
+modelo seleccionado. 
+2.2.5. Desarroliar 
+todas 
+y 
+cada 
+una 
+de 
+las 
+actividades 
+necesarias 
+para 
+la 
+implementacién del modelo de calidad seleccionado. 
+2.2.6. Realizar la evaluaci6n y obtener la certificaci6n del modelo seleccionado. 
+3. DIRIGIDO A 
+Empresas de la industria Tl constituidas como personas juridicas y establecidas 
+como sociedades mercantiles pertenecientes 
+a 
+la industria de Tecnologias de 
+Informacion, domiciliadas en Colombia, las cuales deben evidenciar que practican 
+una o varias de las siguientes actividades econémicas, a través de su objeto social 
+0 cédigo CHU: 
+Desarrollo de software. 
+Desarrollo de aplicaciones informaticas. 
+Disefio y desarrollo de paginas web. 
+Administracion de bases de datos. 
+Testing, 
+entendido como 
+los 
+servicios 
+orientados 
+a 
+la 
+realizaci6n 
+de 
+pruebas a los sistemas de informacién. 
+¢ 
+Tercerizacién de servicios relacionados con las tecnologias de informacién 
+(ITO). 
+Alojamiento de datos. 
+Disefio y desarrollo de video juegos. 
+Cra. 7b Bis # 132-28 
+PBX: (8741) 6258480 
+Bogota D.C. Colombia 
+wew.colciencias.gov.co 
+Pagina 2 de 13
+   
+  
+— 
+. 
+covcencus® | (C3) 
+ERS 
+(PARA To008 
+4. REQUISITOS MINIMOS 
+  
+   
+  
+La empresa 
+de 
+la 
+industria 
+Tl 
+debera cumplir con 
+los siguientes 
+requisitos 
+minimos: 
+4.1. 
+4.2. 
+4.3. 
+4.4. 
+4.5. 
+46. 
+4.7. 
+4.8. 
+4.9. 
+Inscripcién de la propuesta en el Sistema integrado de Gestién de Proyectos 
+de COLCIENCIAS - SIGP a través del formulario electrénico disponible en el 
+portal de COLCIENCIAS (www.colciencias.gov.co). Ver anexo 2. 
+Acreditar por io menos dos 
+(2) afios de constitucion 
+legal 
+a 
+la fecha de 
+apertura de 
+la convocatoria. Lo anterior sera verificado por COLCIENCIAS 
+mediante el certificado de existencia y representacién legal. 
+Presentar estados financieros de los dos Ultimos afios fiscales. 
+Se debe 
+adjuntar fotocopia de 
+la tarjeta profesional 
+del contador que suscriba 
+los 
+estados financieros. La empresa de ja industria Tl debera demostrar a través 
+del PyG que se encuentra estable; es decir que en los tltimos dos afios sus 
+estados financieros 
+reflejen 
+un incremento mayor 
+o 
+igual 
+al 
+5% 
+en 
+los 
+ingresos operacionales 
+y que 
+el PyG 
+del 
+ultimo afio 
+refleje una 
+utilidad 
+positiva. 
+Presentar una certificacién firmada por el contador o revisor fiscal, en la cual 
+se 
+especifique 
+el 
+valor 
+y 
+porcentaje 
+de 
+los 
+ingresos 
+operacionales 
+presentados en el PyG que corresponden a actividades relacionadas con TI. 
+Presentar la estructura organizacional incluyendo el numero de empleados y 
+contratistas a la fecha de presentacién de la propuesta (organigrama de la 
+empresa). 
+Presentar el formato de autorizacion de uso y almacenamiento de datos. Uno 
+por cada persona involucrada en la propuesta, de acuerdo con el formato de! 
+anexo 3. 
+Anexar dos 
+(2) contratos correspondientes 
+al desarrollo 
+o prestacién 
+de 
+servicios de tecnologias de informacién vigentes, se debe resaltar la entidad 
+con la que se suscribe el contrato, el monto y vigencia del mismo. 
+Demostrar que tiene un (1) producto o servicio en fase postventa anexando 
+certificacién de la empresa cliente donde se indique el monto pagado a 
+Ia 
+empresa beneficiaria durante el ultimo afio. 
+Disponer de un (1) profesional de tiempo completo quien asumira el rol de 
+gerente del proyecto. Para tal fin, debera anexar la hoja de vida del candidato 
+Cra. 
+7b Bis # 132-28 
+PBX; (57+1) 6258480 
+Bogoté D.C. Colombia 
+www.colciancias.gov.co 
+Pagina 3 de 13
+ re 
+EPRORPERIOAD 
+er 
+eect 
+PS eee 
+ce Tiras 
+  
+con los soportes que acrediten su formacién, se debe adjuntar una carta de 
+compromiso donde no se puede realizar el cambio de gerente de proyecto 
+sin previa autorizacién de COLCIENCIAS - MINTIC. 
+4.10. Presentar carta de certificacion de contrapartida aportada por la empresa TI. 
+Ver anexo 4. 
+Notas: 
+¢ 
+Los documentos soporte de los requisitos minimos se deben presentar por 
+separado, en formato PDF y legibles. 
+* 
+Los interesados deberan cumplir con la totalidad de !os requisitos minimos 
+Para que su propuesta sea evaluada, en caso contrario no continuaran al 
+proceso de evaluacién. 
+e 
+Las empresas postulantes que tengan contratos o convenios vigentes con 
+COLCIENCIAS o MINTIC deberan estar a paz y salvo con los compromisos 
+adquiridos; de 
+lo contrario no seran considerados para participar en esta 
+convocatoria. 
+« 
+COLCIENCIAS-MINTIC, podra solicitar en cualquier momento, informacién 
+y documentacion adicional o aclaraciones de las mismas. 
+5. PROCESO DE ACOMPANAMIENTO 
+La empresa de TI realizara la presentacion de la propuesta de implementacién del 
+modelo de calidad seleccionado, justificando la importancia para la organizacién 
+de adelantar este proceso. Asi mismo sugerira posibles entidades consultoras que 
+podrian acompanar el proceso de implementacién, evaluacién y certificacién del 
+modelo, de acuerdo con el anexo 2. 
+Teniendo en cuenta que estos procesos deben ser adelantados por entidades 
+expertas en la implementacion de los diferentes modelos de calidad de la industria 
+TI, MINTIC-COLCIENCIAS, tras seleccionar las empresas beneficiarias 
+a través 
+de la presente convocatoria, llevara a cabo un proceso de seleccién objetiva de las 
+entidades consultoras, para lo cual realizara una invitacién publica a través sus 
+paginas web y redes sociales a todas las entidades consultoras para participar en 
+la convocatoria. De este proceso se escogeran las entidades que cumplan con los 
+requisitos minimos y de esta manera completar la base de consultores ya obtenida 
+en la convocatoria. 
+De esta gran base se realizara la evaluacién y seleccién de los consultores que 
+acompafiaran 
+a las empresas en 
+la implementacién de los modelos de calidad 
+propuestos. 
+Cra. 
+7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogotd D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 4 de 13
+ ite, 
+  
+(@3) Pd 
+&PROSPERIDAD 
+Dic aries 
+a 
+(UPARA TODOS 
+Ren 
+   
+Las entidades consultoras seleccionadas seran las responsables de gerenciar y 
+ejecutar los proyectos de implementacién 
+de 
+los modelos de calidad 
+en 
+las 
+empresas TI favorecidas, administrar los recursos entregados para la financiacion 
+del proyecto. 
+La 
+empresa 
+consultora 
+debe 
+ser 
+una 
+persona 
+juridica, 
+experta 
+en 
+la 
+implementacién 
+de modelos 
+de calidad, 
+acreditada 
+internacionalmente 
+por 
+la 
+entidad correspondiente al modelo seleccionado por la empresa de la industria TI, 
+con minimo dos 
+(2) afios de constitucién legal 
+a 
+la fecha de 
+la apertura de 
+la 
+presente convocatoria, estable financieramente 
+y con amplia trayectoria en 
+el 
+mercado. 
+Esta empresa 
+debera 
+realizar 
+!as 
+actividades 
+relacionadas 
+con 
+la 
+implementacién, asi mismo, debe adelantar la gestién con la entidad certificadora 
+para la evaluacién y certificacién del modelo de calidad. 
+6. DURACION Y FINANCIACION 
+6.1. Duracion 
+El término de duraci6n de la propuesta de certificaci6n a acompajiar sera de hasta 
+doce (12) meses. 
+6.2. Contrapartida 
+La contrapartida exigida para ser aportada por la empresa de la industria TI, sera 
+en especie y corresponde 
+al pago del gerente del proyecto durante 
+ja vigencia 
+completa del proyecto, 
+la cual debe quedar debidamente certificada mediante el 
+anexo 4. 
+Nota: 
+La 
+propuesta 
+presentada 
+no 
+podra 
+ser financiada simultaneamente 
+por 
+otra 
+convocatoria o con recursos de COLCIENCIAS u otras entidades del Estado. 
+7. PROCEDIMIENTO DE INSCRIPCION 
+7.1. Descargar, descomprimir e instalar la maquina virtual de java de la siguiente 
+direccién: 
+http:/Awww.colciencias.gov.co/sites/default/files/ckeditor_files/files/formularios_sigp/ 
+jre-7u51-windows-i586.zip 
+7.2. Descargar, descomprimir y diligenciar el formulario electrénico disponible en la 
+Cra. 
+7b Bis # 132-28 
+PBX: (5744) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 5 de 13
+   
+corciencias 7 
+ieee 
+tPARA TODOS 
+seccién 
+correspondiente 
+a 
+esta 
+convocatoria 
+del 
+portal 
+institucional 
+de 
+COLCIENCIAS | (http:/Awww.colciencias.gov.co). 
+El 
+formulario 
+electrénico 
+es 
+especifico 
+para 
+esta 
+convocatoria, 
+asegurese 
+de diligenciar efectivamente 
+et 
+formulario en cuestion. 
+   
+7.3, Para enviar la propuesta desde 
+el formulario electrénico, debe Aceptar los 
+Términos y Condiciones, e inmediatamente se activa el botén de Validar. 
+Si 
+la 
+propuesta es valido sin errores, se activa el botén de Enviar. Una vez la propuesta 
+sea enviada 
+al Sistema Integrado de Gestién de Proyectos de COLCIENCIAS 
+- 
+SIGP-, 
+el Sistema emitira una respuesta automatica, generando un numero de 
+confirmacién 
+de 
+recibido 
+en 
+el 
+servidor 
+de 
+COLCIENCIAS; 
+este 
+numero 
+garantizara la recepcion exitosa de la propuesta. 
+7.4. El numero de confirmacion de recibido y la contrasefia que la entidad asigne a 
+la propuesta, 
+le permitira realizar el envio de los requisitos minimos y hacer el 
+seguimiento 
+del 
+estado 
+de 
+la 
+propuesta. 
+Tome 
+nota 
+de 
+este 
+numero 
+de 
+confirmacién y la contrasefia asignada. 
+7.5. 
+Para 
+realizar 
+el 
+envio 
+de 
+los 
+requisitos minimos desde 
+el 
+formulario 
+electronico, 
+debe 
+dar 
+click 
+en 
+el 
+botén 
+adjuntar documentos 
+de 
+requisitos, 
+inmediatamente 
+el sistema desplegara una pagina en 
+el Portal de Sistema de 
+Gestién de Proyectos para 
+tal 
+fin. En 
+ef campo Proyecto digite 
+el numero de 
+confirmacion de recibido y en el campo correspondiente diligencie la contrasefia y 
+proceda a dar click en el botén /ngresar. A continuacién el sistema desplegara la 
+informacion basica de la propuesta y en la parte inferior el detalle de los requisitos 
+minimos. 
+7.6. Debe adjuntar 
+la totalidad de 
+los documentos que soportan 
+los requisitos 
+minimos. 
+Si para un requisito minimo requiere anexar mas de un documento, 
+guardelos en una sola carpeta y adjuintela como archivo comprimido .ZIP o .RAR 
+en el campo correspondiente al requisito. Si requiere cambiar algun archivo de los 
+que previamente adjunto, puede hacerlo examinando y adjuntando el documento 
+deseado, 
+7.7, Si requiere adjuntar documentacién adicional de la propuesta (tablas, graficos, 
+anexos, etc.), guardela en una sola carpeta y adjuintela como archivo comprimido 
+ZIP o .RAR en el requisito denominado Otros adjuntos. Si requiere cambiar algun 
+archivo de los que previamente adjunt6, puede hacerio examinando y adjuntando 
+el documento deseado. 
+7.8, Recuerde que ei formulario solo admite un archivo anexo por cada requisito 
+Cra. 7b Bis # 132-28 
+PBX. (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 6 de 13
+ CREB 
+ecnalogias 
+OSE se ee 
+oe cay 
+  
+Minimo, por lo que a! cargar un archivo nuevo, este reemplazara al anterior. Usted 
+puede 
+verificar 
+el 
+archivo 
+que 
+adjunté 
+a 
+través 
+de 
+la _ 
+pagina 
+http://201.234.78.164:7777/portal/ del SIGP, con 
+el numero de confirmacion 
+y 
+la 
+contrasefia asignada a la propuesta. 
+  
+7.9. Anexando todos los documentos obligatorios se puede generar e} Certificado 
+de requisitos minimos, que le sirve de evidencia del envio de los mismos. En caso 
+contrario, el sistema enviara el siguiente mensaje de error: Error — Debe adjuntar 
+fos documentos obligatorios para obtener el certificado, 
+y no permitira generar 
+dicho certificado. 
+7.10. Hasta que no estén completos los requisitos minimos y se haya generado el 
+certificado 
+anteriormente 
+mencionado, 
+no 
+se 
+dara 
+por 
+ culminado 
+satisfactoriamente el proceso de inscripcién de ta propuesta. 
+Notas: 
+¢ 
+Se aceptaran unicamente las propuestas que se presenten 
+a través del 
+formulario electronico con toda 
+la informacion solicitada 
+en 
+la presente 
+convocatoria. 
+« 
+No sera tenida en cuenta para 
+el proceso de evaluacién 
+y seleccién del 
+Banco de Elegibles, 
+la informacién enviada en medios distintos 
+al SIGP 
+(correo postal, 
+fax, correo electrénico 
+o cualquier otro), 
+ni posterior a 
+la 
+fecha y hora limite establecida. Ver numeral 12. 
+e 
+En caso que se presenten errores en 
+el cargue de 
+la informacién de 
+la 
+propuesta y/o los adjuntos a través de SIGP y por esta razén después de 
+efectuados varios intentos no pueda enviarse la propuesta de forma normal 
+dentro del plazo establecido, por favor capturar las pantallas con el mensaje 
+de error y cualquier evidencia que soporte el problema, explicando en 
+el 
+cuerpo del correo electrénico los inconvenientes presentados. Remitir toda 
+la informacién al correo contacto@colciencias.gov.co antes de la fecha de 
+cierre establecida 
+en 
+el CRONOGRAMA de 
+los presentes términos 
+de 
+referencia. 
+8. CRITERIOS DE EVALUACION 
+Las 
+propuestas 
+que 
+cumplan 
+con 
+los 
+requisitos 
+minimos 
+se 
+someteran 
+a 
+evaluacién de acuerdo con los siguientes criterios: 
+Tabla No 1. Criterios de evaluacién 
+Cra, 70 Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 7 de 13
+    
+  
+~ 
+. 
+coucencas@ | (C3) Geena 
+fPARATODSS 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+No. 
+Criterio 
+Puntaje 
+1 
+Calidad y metodologia de la 
+40 
+propuesta. 
+Equipo 
+de 
+trabajo 
+de 
+la 
+2 
+propuesta. 
+20 
+3__| 
+Perfil de la empresa TI. 
+20 
+Justificacion 
+e 
+impacto 
+del 
+50 
+modelo seleccionado. 
+Total 
+100 
+    
+8.1. Calidad 
+y metodologia de 
+la propuesta: 
+La propuesta debera describir 
+claramente el conjunto de procedimientos, actividades, y/o tareas a ser utilizados 
+para alcanzar los objetivos, resultados, 
+e impactos esperados. Se verificara 
+la 
+coherencia interna y tratamiento particular de objetivos, metodologia, actividades, 
+presupuesto, cronograma y duracion. 
+Para la evaluacion de este criterio se tendra en cuenta lo siguiente: 
+* 
+Contenido: Contiene todos y cada uno de los elementos descritos en el 
+anexo 2. 
+« 
+WMetodologia 
+propuesta: 
+La 
+metodologia 
+es 
+clara 
+y coherente 
+con 
+el 
+modelo de calidad escogido. 
+8.2. Equipo de trabajo de ia propuesta: En 
+la propuesta se debera plasmar el 
+grupo 
+de 
+personas 
+de 
+la empresa 
+de 
+TI 
+que 
+participara 
+en 
+el 
+proceso 
+de 
+implementacién y certificaci6n del modelo de calidad escogido. 
+Para !a evaluacion se tendra en cuenta lo siguiente: 
+« 
+Perfil del gerente: La profesién del gerente de proyecto y su relacién con 
+la industria de Tl. Se podran obtener puntos adicionales al tener estudios de 
+postgrado en temas relacionados con gerencia de proyectos y/o si es PMP. 
+e 
+Perfil del equipo: La concordancia entre las profesiones de los integrantes 
+del equipo de la propuesta y su rol dentro del equipo. 
+e« 
+Organigrama del equipo de la propuesta: Se debe anexar el organigrama 
+y roles del equipo que acompafiaran 
+al gerente en 
+la implementacién 
+y 
+certificacién del modelo de calidad escogido. 
+8.3. Perfil de 
+la empresa TI: Este criterio verificara 
+las caracteristicas de las 
+empresas tales como: estructura organizacionai, afios de experiencia, ingresos 
+operacionales, solidez financiera. 
+Cra. 
+7b Bis # 132-28 
+PBX: (5741) 6258480 
+Bogoté D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 8 de 13
+ gotta, 
+     
+FLL 
+AROSPERIDAD 
+coicencias” 
+teresa 
+a ena 
+Ce ee aoe Tod 
+  
+Para la evaluaci6n se tendra en cuenta lo siguiente: 
+¢ 
+Organigrama: Organigrama detallado con cargos y tipo de contrato de sus 
+funcionarios. 
+« 
+Afios de existencia de la empresa: Afios de existencia y representacion 
+en el mercado. 
+¢ 
+Ingresos operacionales ultimo afio fiscal: Monto de los ingresos durante 
+el ultimo ano fiscal. 
+« 
+Aumento de ingresos operacionales ultimos 
+(2) dos afios fiscales: 
+Variacién positiva de los ingresos operacionales entre jos dos ultimos afios 
+fiscales. 
+8.4. 
+Justificacion 
+e 
+impacto 
+del 
+modelo 
+seleccionado: 
+Se 
+evaluara 
+la 
+pertinencia e impacto de 
+la implementacion del modelo. Se tendra en cuenta 
+lo 
+siguiente: 
+« 
+Relevancia internacional del modelo: El modeio que se solicita financiar 
+es internacionalmente reconocido. 
+¢ 
+Aumento ingresos operacionales: Demostrar y/o justificar que lograra 
+aumentar sus ingresos operacionales. 
+e 
+Aumento 
+de 
+numero 
+potencial 
+de 
+clientes: 
+Demostrar 
+y/o 
+justificar 
+incremento en el némero potencial de clientes. 
+« 
+Mejora de los tiempos de respuesta: Demostrar y/o justificar que 
+los 
+tiempos 
+de 
+la 
+entrega 
+de 
+los 
+servicios 
+o 
+productos 
+después 
+de 
+la 
+implementacién del modelo se reduciran. 
+* 
+Posibilidades 
+de exportacién: Demostrar y/o justificar 
+la creacién 
+de 
+oportunidades para realizar negocios fuera del pais. 
+e 
+Factores retevantes para 
+la empresa: Otros factores que ayuden 
+a 
+la 
+empresa a justificar la solicitud del modelo. 
+« 
+Mejora en los indicadores de calidad: Demostrar y/o justificar la creacién 
+de oportunidades para mejorar los indicadores de calidad en la empresa de 
+la industria TI. 
+Resultados 
+e impactos esperados: 
+El documento presenta resultados 
+claros en cuanto a la implementacién del proyecto. 
+9. PROCESO DE EVALUACION 
+Las propuestas 
+inscritas 
+dentro 
+de 
+los 
+plazos establecidos 
+para 
+la presente 
+convocatoria 
+que cumplan 
+con 
+los 
+requisitos 
+minimos, 
+seran 
+evaluadas 
+por 
+COLCIENCIAS-MINTIC, teniendo en cuenta los criterios de evaluacién descritos 
+Cra. 7b Bis # 132-28 
+PBX. (67+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 9 de 13
+ couctencias 
+7 
+en el numeral 8. 
+  
+Mi 
+co 
+tes? 
+Gd 
+En caso de empate, se solucionara a través de la revision de los puntajes mas 
+altos en los criterios de evaluacién teniendo en cuenta el siguiente orden: 
+  
+  
+Criterio No. 4 Justificacién del modelo seleccionado. 
+Criterio No. 3 Perfil de la empresa de TI. 
+Criterio No. 2 Equipo de trabajo de la propuesta. 
+Criterio No. 
+1 Calidad y metodologia de la propuesta. 
+Si 
+el empate 
+persiste 
+se 
+realizara 
+un 
+sorteo 
+por balotas 
+del 
+cual 
+se 
+levantara un acta firmada por los que intervienen en el sorteo. 
+OARWN>= 
+Toda informacion proporcionada es de caracter confidencial 
+y no sera utilizada 
+para 
+ningun 
+fin 
+diferente 
+a 
+ta 
+realizaci6n 
+de 
+la 
+evaluacién. 
+Los 
+expertos 
+evaluadores estaran cobijados por clausulas de confidencialidad y de no conflicto 
+de interés. 
+De acuerdo con el CRONOGRAMA de 
+la convocatoria, se concedera un término 
+para solicitar aclaraciones y/o modificaciones a la publicacién preliminar del banco 
+de elegibles, una vez éstas sean resueltas, se procedera 
+a 
+la publicacion del 
+banco definitivo de propuestas elegibles. 
+10. BANCO DE ELEGIBLES 
+Los 
+resultados 
+de 
+la 
+convocatoria 
+se 
+publicaran 
+en 
+la 
+pagina 
+web 
+de 
+COLCIENCIAS 
+(www.colciencias.gov.co) 
+en 
+las 
+fechas 
+establecidas 
+en 
+el 
+CRONOGRAMA. 
+Las propuestas que superen en su calificacion setenta (70) puntos ingresaran al 
+banco de elegibles. Para la seleccion final de las empresas beneficiarias se tendra 
+en cuenta la demanda y la pertinencia de los modelos con el animo de beneficiar e 
+impactar la mayor cantidad de empresas posibles. 
+La vigencia del banco de elegibles es de un (1) ano 
+a partir de su publicaci6n 
+definitiva. 
+La inclusién de una propuesta en 
+el banco de elegibies, 
+no implica 
+obligatoriedad ni compromiso alguno de COLCIENCIAS o de MINTIC, de asignar 
+recursos, 
+ni genera derecho 
+a recibir apoyos econémicos para quienes hayan 
+presentado las propuestas correspondientes. 
+Ctra. 
+7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogoté 0.C. Colombia 
+www.colciancias.gov.co 
+Pagina 10 de 13,
+ Min 
+APROSPERIDAD 
+TODOS 
+oie 
+eed 
+Co 
+ey 
+UPARA 
+   
+Notas: 
+* 
+Surtida 
+la publicacién definitiva 
+del banco de elegibles, COLCIENCIAS 
+informara mediante comunicacion escrita y/o electronica a las propuestas 
+que hayan sido seleccionadas para ser beneficiadas. 
+11. ACLARACIONES 
+Una 
+vez publicados 
+los 
+resultados 
+preliminares 
+del 
+banco 
+de elegibies, 
+los 
+interesados podran presentar solicitudes de aclaraciones 
+y comentarios por un 
+periodo de tres (3) dias habiles. Por fuera de este término se considera que las 
+reclamaciones son extemporaneas y por tal razén no seran aceptadas. 
+Las peticiones se deben presentar exclusivamente a través del correo electrénico 
+contacto@colciencias.gov.co 
+con 
+el 
+asunto 
+“Convocatoria 
+para 
+promover 
+la 
+adopcién de modelos de calidad en la industria TI de Colombia”. 
+12. CRONOGRAMA 
+  
+  
+  
+  
+ACTIVIDAD 
+FECHA LIMITE 
+Apertura de la convocatoria 
+10 de septiembre de 2014 
+Cierre de la convocatoria 
+20 de octubre de 2014 hasta 5:00 pm’ 
+Publicaci6n 
+del 
+bance 
+preliminar 
+de 
+20 de noviembre de 2014 
+elegibles 
+Periodo de solicitud de aclaraciones del 
+. 
+banco preliminar de elegibles 
+Del 21 al 25 de noviembre de 2014 
+Respuesta a solicitud de aclaraciones 
+Del 26 al 28 de noviembre de 2014 
+Publicacién banco definitivo de elegibles 
+9 de diciembre de 2014 
+13. PROPIEDAD INTELECTUAL 
+En el evento en que se llegaran a generar derechos de propiedad intelectual sobre 
+los resultados que se obtengan 
+o se pudieran obtener en 
+el desarrollo de 
+la 
+presente convocatoria, la titularidad sobre los derechos se regira por lo establecido 
+en 
+el 
+articulo 
+31 
+de 
+la 
+Ley 
+1450 
+de 
+2011, 
+“Articulo 
+31 
+DERECHOS 
+DE 
+PROPIEDAD 
+INTELECTUAL 
+DE 
+PROYECTOS 
+DE 
+INVESTIGACION 
+FINANCIADOS CON RECURSOS DEL PRESUPUESTO NACIONAL. En el caso 
+de proyectos de ciencia, tecnologia e innovacion adelantados con recursos del 
+presupuesto nacional, el Estado, salvo motivos de seguridad y defensa nacional, 
+cedera 
+a 
+las 
+Partes 
+del 
+Proyecto 
+los derechos 
+de propiedad 
+intelectual que 
+puedan corresponderle, seguin 
+se establezca en 
+el contrato”. 
+“Las Partes 
+del 
+Proyecto 
+definiran 
+entre 
+ellas 
+la 
+titularidad 
+de 
+los 
+derechos 
+de 
+propiedad 
+  
+  
+  
+  
+  
+    
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogola D.C. Calombia 
+waw.colciencias.gov.co 
+Pagina 11 de 13,
+    
+  
+   
+a 
+BPROSFERIDAD 
+nt” 
+PARA TODOS 
+intelectual derivados 
+de 
+los 
+resultados 
+de 
+la 
+ejecucién 
+de 
+los 
+recursos 
+del 
+presupuesto nacional”. 
+Nota: 
+En cualquier evento 
+o medio de divulgacién 
+utilizado 
+para difundir 
+los 
+resultados de las propuestas se debera dar el respectivo crédito a COLCIENCIAS- 
+MINTIC, incluyendo 
+las imagenes institucionales de acuerdo con 
+el manual de 
+imagen corporativa de cada una de las entidades. 
+a ee eee 
+ey Ney re) 
+Las veedurias ciudadanas establecidas en la ley 850 de 2003, podran desarrollar 
+su actividad durante la presente convocatoria, conforme a lo estipulado en dicha 
+normmativa. 
+15. ANEXOS 
+- 
+ANEXO 1: Antecedentes. 
+- 
+ANEXO 2: Contenido de la Propuesta. 
+- 
+ANEXO 3: Autorizaci6n Uso y Almacenamiento de Datos Personales. 
+- 
+ANEXO 4. Carta de Certificacién de la Contrapartida 
+16. ACEPTACION DE TERMINOS Y VERACIDAD 
+Con 
+la 
+inscripcién, 
+los 
+interesados 
+aceptan 
+las 
+caracteristicas, 
+requisitos 
+y 
+condiciones de la presente convocatoria asi como lo dispuesto en los presentes 
+términos de referencia para el desarrolio de la misma y para ser beneficiarios del 
+acompafiamiento. 
+De igual forma declaran que la informacion suministrada es veraz y corresponde a 
+la realidad. 
+En caso de encontrarse alguna incoherencia e inconsistencia en 
+la 
+informacién o documentacién suministrada, COLCIENCIAS y MINTIC podran en 
+cualquier momento rechazar la postulacién o si es del caso declarar la pérdida del 
+beneficio, sin perjuicio de las acciones legales correspondientes. 
+Cra. 7b Bis # 132-28 
+PBX: (5741) 6256480 
+Bogoté D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 12 de 13
+   
+  
+SPROSPERIDAD 
+EPARA TODOS 
+ee) 
+eaten 
+   
+sine, 
+@) 
+Arm NASB 
+her Neto 
+  
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS - 
+Carrera 7 B Bis No. 132-28, Bogota D.C. 
+http://www.colciencias.gov.co 
+Centro de Contacto 
+Teléfono: (+57 - 1) 6258480 Extension 2081 
+Linea gratuita nacional: 018000 914446 
+En caso de inquietudes o comentarios sobre la presente convocatoria, favor enviar 
+un correo electrénico con el asunto "Convocatoria “Convocatoria para promover la 
+adopci6n 
+de modelos 
+de calidad 
+en 
+ia 
+industria 
+Tl 
+de Colombia’, 
+al 
+correo 
+contacto@colciencias.gov.co 
+  
+ANETH GIHA TOVAR 
+Directora General 
+Vo.Bo. Director Tecnico” t 
+. 
+Vo.B0. Secretaria General ci 
+Cra, 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogoté D.C. Colombia 
+www.coleiencias.gov.co 
+Pagina 13 de 13
+ PROSPERIDAD 
+PARA TODOS 
+  
+  
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS - 
+CONVOCATORIA PARA PROMOVER LA ADOPCION DE MODELOS DE 
+CALIDAD EN LA INDUSTRIA TI DE COLOMBIA - 2014 
+ANEXO 1 
+- ANTECEDENTES 
+La estrategia de Fortalecimiento de la Industria de Tecnologias de Informacién- 
+FITI del Ministerio de Tecnologias de Informacién y Comunicaciones - MINTIC, es 
+la estrategia 
+de 
+la 
+Direccién 
+de 
+Politicas 
+y Desarrollo 
+Tl, 
+y 
+su 
+propdsito 
+es 
+contribuir a 
+la transformacion de 
+la industria de T.I. en un sector competitivo, 
+a 
+través de la dinamizacion de diferentes lineas de accién que conforman un modelo 
+integral y sistémico. 
+La 
+industria 
+T.I]. 
+esta conformada por 
+la Industria 
+de Software, Empresas de 
+Hardware 
+y Servicios asociados 
+a 
+las Tecnologias 
+de 
+Informacion. 
+Para 
+su 
+fortalecimiento 
+es 
+necesario 
+e! 
+desarrollo 
+de 
+jas 
+siguientes 
+dimensiones 
+estratégicas: 
+Vislon estratégica del 
+sector Tt, 
+     
+  
+  
+‘Tatenta Humano 
+bos 
+Emprendimienta y 
+fortaleclmiento 
+empresaria\ 
+Asoclatlvidad 
+Infraestructuea. 
+Cra. 7b Bis # 192-28 
+PBX: (5741) 6258480 
+Bogota D.C. Colombia 
+www.colciancias.gov.co 
+Pagina 1 de 3
+ Pr 
+Cet 
+    
+coicencias 
+eens emtate tCet, hesgh ster 
+ae 
+eae ater 
+od 
+  
+  
+gerosempan 
+(@) 
+tor     
+¢ 
+Vision Estratégica del Sector: Dimension orientada a establecer un norte 
+para la industria Tl, a través de estudios y estrategias que orienten a todos 
+los 
+actores 
+involucrados, 
+a 
+trabajar 
+articuladamente 
+bajo 
+la 
+misma 
+direccién. 
+¢ 
+Investigacion, 
+Desarrollo 
+e Innovacién: En 
+esta 
+linea 
+de 
+accion 
+se 
+pretende promover ejercicios 
+de 
+investigacién, 
+desarrollo 
+e 
+innovacién 
+articulando academia, empresa, estado y cluster. 
+« 
+Calidad: Dimensién con 
+la cual se promueve la adopcién de modelos de 
+calidad globalmente reconocidos por parte de 
+las empresas que hacen 
+parte de la industria TI. 
+« 
+Normatividad: Dimension en la que se trabaja para formular y gestionar la 
+implementacion de normas que permitan incentivar 
+a 
+la 
+industria 
+Tl, 
+a 
+manera de marco normativo competitivo. 
+* 
+Asociatividad: En 
+esta 
+dimension 
+se 
+busca 
+fortalecer 
+modelos 
+de 
+colaboracién 
+para 
+que 
+se generen 
+sinergias estratégicas que permitan 
+incrementar la competitividad del sector. 
+e 
+Infraestructura: Impulsar 
+el 
+desarrollo 
+de 
+estudios 
+de 
+viabilidad 
+para 
+implementacién de infraestructura apta y pertinente a las tendencias, para 
+fomento a la industria TI. 
+* 
+Talento Humano: Dimensién 
+en 
+la 
+que 
+se 
+articulan esfuerzos 
+con 
+la 
+academia 
+y 
+el sector empresarial, para 
+el disefio 
+e implementacién 
+de 
+programas de formacion ajustados a las necesidades de Ia industria TI. 
+« 
+Emprendimiento 
+y 
+fortalecimiento 
+empresariai: Implementacion 
+de 
+estrategias especializadas para 
+la industria de tecnologias de informacion 
+que dinamicen Ia creacién de nuevas empresas innovadoras en el sector. 
+Cra. 7b Bis # 132-28 
+PBX: (67+1) 6258480 
+Bogota D.C. Colombia 
+www, colciencias.gov.co 
+Pagina 2 de 3
+   
+CALIDAD 
+La presente convocatoria pretende fortalecer la competitividad de MiPymes de Ia 
+industria Tl de Colombia, a través de la implementacidn y certificacidn de modelos 
+de calidad internacionales conforme a la necesidad de las empresas participantes. 
+Este proceso consiste en financiar a las empresas beneficiarias la implementacién 
+y Certificacién 
+del modelo de calidad que estas requieran de acuerdo con 
+las 
+necesidades de su negocio. 
+Este acompariamiento se llevara a cabo a través de 
+entidades consultoras expertas 
+y avaladas para implementar 
+y certificar en 
+el 
+modelo seleccionado. 
+La estrategia de Fortalecimiento de ta Industria de Tecnologias de Informacién — 
+FITI del Ministerio de Tecnologias de Informacién 
+y Comunicaciones 
+- MINTIC, 
+contribuye a fa transformacion de la industria Tl en un sector de talla mundial. Una 
+de fas lineas de accién para dinamizar el fortalecimiento de dicho sector, es 
+la 
+denominada “Calidad”, la cual busca que las empresas que conforman la industria 
+TI, adopten modelos de calidad globaimente reconocidos y especializados para 
+este tipo de 
+industrias, 
+de cara 
+a consolidar procesos 
+de estandarizacién 
+e 
+internacionalizacion. 
+A la luz de lo anterior, la alianza COLCIENCIAS-MINTIC, ha adelantado iniciativas 
+para promover los modelos de calidad tales como: CMMI e IT MARK, siendo éstos 
+los mas reconocidos a nivel internacional, beneficiando alrededor de 93 empresas 
+de la industria T| en dichos modelos. 
+Con el fin de permitir a ta industria proponer los modelos de calidad en Tl que se 
+ajustan a sus necesidades y proyecciones especificas, COLCIENCIAS — MINTIC 
+ponen a disposicion la presente convocatoria, como instrumento para apoyar a las 
+empresas 
+de 
+la 
+industria 
+Tl 
+en 
+Ja 
+adopcidn 
+de 
+modelos 
+de 
+calidad 
+internacionalmente reconocidos, 
+bajo la demanda de la misma industria. 
+Cra. 
+7b Bis # 132-28 
+PBX: (57+1} 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 3.de3
+ @PROSPERIDAD 
+eens 
+PARA TODOS 
+Ce ees 
+    
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS - 
+CONVOCATORIA PARA PROMOVER LA ADOPCION DE MODELOS DE 
+CALIDAD EN LA INDUSTRIA TI DE COLOMBIA - 2014 
+ANEXO 2 - CONTENIDO DE LA PROPUESTA 
+La propuesta debe contener los siguientes capitulos: 
+1, 
+Resumen Ejecutivo: Informacion minima necesaria para comunicar de 
+manera precisa los contenidos y alcances de la propuesta. 
+2. 
+Informacidn de la empresa TI 
+  
+Nombre de la entidad: 
+[Tipo de sociedad: 
+\Tamario de la empresa: 
+Grande, mediana, pequefia o micro 
+Numero de empleados: 
+NIT de la entidad: 
+Codigo 
+de 
+actividad 
+lecondmica CIIU 
+Nombre 
+del 
+representante| 
+legal: 
+Documento 
+de 
+identificacion! 
+del representante legal: 
+Direccién, 
+ciudad 
+y 
+pais 
+donde se ubica. 
+[Teléfono de la entidad: 
+Sitio web: 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+3. 
+Informacién de potenciales entidades consultoras que acompanharan 
+el proceso. 
+Posible consultora N° 1: 
+  
+Nombre de la entidad: 
+Entidad Implementadora: 
+Entidad Certificadora: 
+  
+  
+  
+  
+  
+  
+Cra. 7b Bis # 132-28 
+PBX. (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 1 de 3
+ inTIC 
+om 
+{PROSPERIDAD 
+by 
+Fos 
+Hi his 
+ane 
+ee 
+PARA TODOS 
+  
+  
+NIT de la entidad: 
+Direccién, 
+ciudad 
+y 
+pais 
+idonde se ubica 
+Modelo propuesto: 
+Costo: 
+Teléfono de la entidad: 
+Sitio web: 
+  
+  
+  
+  
+  
+  
+Posible consultora N° 2: 
+  
+INombre de la entidad: 
+Entidad Implementadora: 
+Entidad Certificadora: 
+NIT de la entidad: 
+Direccion, 
+ciudad 
+y 
+pais 
+ldonde se ubica 
+Modelo propuesto: 
+Costo: 
+[Teléfono de la entidad: 
+Sitio web: 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Posible consultora N° 3: 
+  
+Nombre de la entidad: 
+Entidad Implementadora: 
+Entidad Certificadora: 
+NIT de ta entidad: 
+Direcci6n, 
+ciudad 
+y 
+pais 
+donde se ubica 
+Modelo propuesto: 
+ICosto: 
+[feléfono de fa entidad: 
+Sitio web: 
+  
+  
+  
+  
+  
+  
+  
+    
+  
+    
+4. 
+Cotizaciones por consultor: La empresa debe relacionar 3 cotizaciones 
+de consultores para cuantificar el costo de la implementacién y certificacién 
+del modelo de calidad. 
+Cra. 7b Bis # 432-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+wvew.colciencias.gov.co 
+Pagina 2 de 3
+   
+#PROSPERIDAD 
+EPARA TODOS 
+5. 
+Experiencia consultores: Se debe adjuntar a 
+la propuesta una breve 
+introduccién de la empresa consultora donde se evidencie su trayectoria, 
+metodologia y experiencia en el mercado. 
+6. 
+Justificacién e impacto del modelo a implementar: Factores que hacen 
+hecesaria y pertinente la realizacién de la implementaci6n del modelo. Es 
+la sustentacién 
+de 
+la importancia 
+de 
+la adopcién 
+del modelo 
+para 
+la 
+empresa y de como este la fortalecera y/o abrira nuevas oportunidades de 
+mercado. 
+7. 
+Metodologia: 
+Exposicién 
+en forma organizada 
+y 
+precisa 
+de cOmo 
+se 
+desarrollara 
+y alcanzara 
+ei objetivo general 
+y cada uno de los objetivos 
+especificos del proyecto, presentando los componentes del mismo y las 
+actividades para el logro de estos. 
+8. 
+Presentacion de fa Empresa TI: Resumen general de la empresa donde 
+se presentan sus antecedentes, 
+trayectoria en 
+el 
+sector, 
+portafolio 
+de 
+servicios, visién, clientes y demas elementos relevantes que la identifiquen 
+tales como domicilio, contactos. 
+9. 
+Distribuci6n de Responsabilidades de los Participantes del Proyecto: 
+Relacionar los integrantes 
+del proyecto que pertenecen 
+a 
+la planta de 
+personal 
+de 
+la 
+organizacion, 
+responsabilidades dentro del proyecto. 
+describiendo 
+el 
+roi 
+y 
+el 
+tipo 
+de 
+  
+Nombre de la 
+Persona 
+ROL (Gerente, Lider de 
+Calidad, etc.) 
+Responsabilidades 
+  
+  
+  
+  
+  
+  
+  
+Adjuntar 
+las 
+hojas 
+de 
+vida 
+y 
+los 
+soportes 
+correspondientes 
+de 
+los 
+integrantes del equipo de trabajo. 
+10. Cronograma: 
+Distribucién 
+de actividades mensuales 
+de ejecucién 
+del 
+proyecto. 
+Asociar 
+a 
+cada 
+actividad 
+el 
+o 
+los 
+objetivos 
+(numerados) 
+relacionados con estos. 
+  
+OBJETIVO 
+ESPECIFICO 
+NOMBRE DE LA 
+ACTIVIDAD 
+DURACION 
+  
+  
+  
+  
+  
+  
+  
+Cra, 
+7b Bis # 132-28 
+PBX: (5741) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 3 de 3
+   
+GBLESTBBER 
+  
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS 
+- 
+CONVOCATORIA PARA PROMOVER LA ADOPCION DE MODELOS DE 
+CALIDAD EN LA INDUSTRIA Ti DE COLOMBIA - 2014 
+ANEXO 3 - AUTORIZACION USO Y ALMACENAMIENTO DE DATOS PERSONALES 
+A continuacién se presenta el modelo de carta para autorizacion uso y almacenamiento 
+de datos personales: 
+(Ciudad), (Dia) de (Mes) de 201_ 
+Sefiores 
+COLCIENCIAS 
+Carrera 7B Bis No, 132 - 28 
+Bogota D.C. 
+Asunto: Autorizacién uso y almacenamiento de datos personales. 
+En virtud de la Ley Estatutaria 1581 del 2012, mediante la cual se dictan las disposiciones 
+generales para ja proteccién de datos personales, y su Decreto Reglamentario 1377 de 
+2013, autorizo 
+al Departamento Administrativo de Ciencia, Tecnologia 
+e Innovacion 
+- 
+Colciencias, considerado como responsable 
+y/o encargado 
+del tratamiento de datos 
+personales, almacenados en bases de datos, las cuales incluyen informacién que se han 
+reportado en desarrollo de las diferentes actividades y formularios, 
+y en particular los 
+siguientes: nombres, numero de documento de identificacién, direccién, teléfono fijo 
+y 
+mévil, direcciones, correo electronico, profesién, hoja de vida académica, certificados de 
+notas, etc. 
+Los datos seran utilizados para la misi6n institucional establecida en la ley 1286 de 2009, 
+como ente rector de la Ciencia Tecnologia e innovacién en Colombia. 
+Atentamente, 
+Firma 
+Nombre del representante legal 
+cc. 
+Nombre de la entidad 
+Direccién 
+Teléfono 
+e-Mail 
+Cra. 
+7b Bis # 132-28 
+PSX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 1 de 1 
+w
+ COLCIENCIA: 
+oC 
+PARA TODOS 
+Ministerio de Tecnologias 
+Dreamers Mekarende Coe vagy 
++ Cac 
+FRA ee teed 
+  
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS 
+- 
+CONVOCATORIA PARA PROMOVER LA ADOPCION DE MODELOS DE 
+CALIDAD EN LA INDUSTRIA TI DE COLOMBIA - 2014 
+ANEXO 4 - CARTA DE CERTIFICACION DE LA CONTRAPARTIDA 
+A continuacién se presentan los contenidos del modelo de carta para certificacién de la 
+contrapartida aportada por entidad: 
+(Ciudad), (Dia) de (Mes) de 201_ 
+Sefiores 
+COLCIENCIAS 
+Carrera 7B Bis No. 132 — 28 
+Bogota D.C. 
+Asunto: Certificacién de contrapartida de la propuesta titulado (escriba el nombre de la propuesta) 
+ala convocatoria (nombre de la convocatoria) 
+Respetados sefiores, 
+Por medio de la presente yo NOMBRE DEL REPRESENTANTE LEGAL, identificado con cédula de 
+ciudadania niimero (Numero 
+de identificacion), como Representante 
+Legal 
+de (Nombre de 
+la 
+entidad), certifico que en caso que la propuesta titulado (escriba el nombre de la propuesta) a la 
+convocatoria (nombre de la convocatoria), resulte financiable por COLCIENCIAS, nuestra entidad 
+aportaraé 
+una 
+contrapartida 
+en 
+especie 
+de 
+(escriba 
+e! 
+valor 
+en 
+letras} 
+($ 
+xxx.xxx.xxx) 
+que 
+corresponde al salario del gerente de proyecto durante toda la ejecucidn del proyecto. 
+Cordialmente, 
+FIRMA 
+NOMBRE DEL REPRESENTANTE LEGAL O PERSONA NATURAL 
+CC. 
+Direccién 
+Teléfono 
+Cra, 7b Bis # 132-28 
+PBX: (57+1) 6258460 
+Bogoté D.C. Cotombia 
+www.colciencias.gov.co 
+Pagina 1 de 1
+     
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 1 de 3 
+ 
+ 
+ 
+CONVOCATORIA No. 683 DE 2014 
+CONVOCATORIA PARA PROMOVER LA ADOPCION DE MODELOS DE 
+CALIDAD EN LA INDUSTRIA TI DE COLOMBIA - 2014 
+El departamento de Ciencia, Tecnología e Innovación – COLCIENCIAS – publica el banco preliminar de proyectos 
+elegibles de la Convocatoria No. 683 de 2014: “Convocatoria para promover la adopción de modelos de calidad en 
+la industria de Colombia - 2014”   
+Banco Preliminar de Proyectos Elegibles 
+ 
+No. 
+Código 
+Proponente 
+Nombre del Proyecto 
+1 
+47876 
+HDS Colombia S.A.S. 
+Implementación y certificación en la norma ISO 25000 
+2 
+48043 
+Centro de Desarrollo de Nuevas 
+Tecnologías S.A.S 
+Certificación de calidad para Nuevastic con ISO 20000 
+3 
+47856 
+Softmanagement S.A. 
+Implementación y certificación de un sistema de 
+seguridad de la Información basado en la Norma ISO 
+27001 
+4 
+47882 
+Fuziona S.A.S. 
+Certificación ISO 9001:2008 
+5 
+47950 
+Ubiquom S.A. 
+Implementación el modelo de calidad de la ISO 29110-
+Ubiquom 
+6 
+47907 
+Heinsohn Business Tecnology S.A. 
+Convocatoria para promover la adopción de modelos de 
+calidad en la industria TI de Colombia - 2014 
+7 
+47970 
+C&S Tecnología S.A. 
+Implementación y certificación del modelo ISO 20000 en 
+C&S Tecnología 
+8 
+47902 
+Quasar Software S.A.S. 
+Implementación y Certificación de ISO 20000 en Quasar 
+Software 
+9 
+47827 
+Exsis Software y Soluciones S.A.S. 
+Fortalecimiento de la competitividad de la empresa Exsis 
+Software y Soluciones S.A.S., a través de la certificación 
+en la norma ISO 27001 
+  
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 2 de 3 
+ 
+10 
+47911 
+Zyos Ltda 
+Certificación de calidad para incursión en nuevos 
+mercados - Zyos Ltda – ISO 29110 
+11 
+47915 
+Inteligencia Móvil S.A.S. 
+Mejoramiento de la productividad con el modelo de la 
+gestión de calidad ISO 29110 
+12 
+48062 
+Olimpia Management S.A. 
+La adopción de modelos de calidad en la industria TI de 
+Colombia  2014, para Olimpia 
+13 
+47923 
+SYNERSIS Ltda 
+SYNERSIS LTDA crece en calidad de sus procesos y 
+productos y se proyecta a nivel internacional con la 
+implementación de estándares mundiales 
+14 
+47940 
+Visión Tecnológica S.A.S. 
+Convocatoria para promover la adopción de modelos de 
+calidad en la industria TI de Colombia 
+15 
+47890 
+Genia Tecnología S.A.S 
+Certificación 
+de 
+calidad 
+de 
+producto 
+software 
+"BIBLOTRACK" 
+bajo 
+la 
+norma 
+ISO/IEC 
+25000: 
+fortaleciendo la prestación de servicios 
+16 
+47892 
+Improsoft S.A.S. 
+Línea 29110 
+17 
+47853 
+IP Technologies S.A.S. 
+Propuesta de implementación y certificación del modelo 
+ISO 20000 para IP Technologies S.A.S. 
+18 
+47870 
+SYSNET S.A.S. 
+47870 
+19 
+47859 
+CERO K S.A.S. 
+Implementación y certificación del estándar internacional 
+ISO/IEC 29110, de la empresa CERO K S.A.S. 
+20 
+47872 
+Solutions For Direct  Selling S.A.S. 
+ISO 20000 
+21 
+47878 
+Facture S.A.S. 
+Implementación de la norma de seguridad PCI DSS para 
+Facture SAS 
+22 
+47880 
+IDLINK S.A.S. 
+Adopción modelos de calidad 
+23 
+47927 
+Aliados Web S.A.S. 
+Implementación de la norma ISO 27001 
+24 
+47936 
+Grupo Virtual Diseño S.A.S. 
+Mejoramiento del productividad con el modelo de  
+gestión de calidad ISO 29110 
+ 
+  
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 3 de 3 
+ 
+La inclusión de un proyecto en el banco de elegibles, no implica obligatoriedad ni compromiso alguno de 
+COLCIENCIAS o de MINTIC, de asignar recursos, ni genera derecho a recibir apoyos económicos para quienes 
+hayan presentado los proyectos correspondientes. 
+La presente se publica a los 20  días  del mes de noviembre de 2014. 
+ 
+ 
+ 
+CLAUDIA JIMENA CUERVO 
+DIRECTORA DE LA DIRECCIÓN DE  
+ DESARROLLO TECNOLÓGICO E INNOVACIÓN 
+ 
+ 
+VoBo. Vladimir Guzmán Páez - Gestor Programa TIC 
+ 
+ 
+ 

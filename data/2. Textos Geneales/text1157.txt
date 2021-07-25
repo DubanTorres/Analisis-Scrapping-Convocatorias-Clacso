@@ -1,0 +1,1718 @@
+ 
+ Av. Calle 26 # 57-41 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+_______________________________________________________________________________________________ 
+ 
+ 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E 
+INNOVACION - COLCIENCIAS - 
+ 
+ 
+1. PRESENTACIÓN 
+ 
+EL DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN 
+– Colciencias, como rector del Sistema Nacional de Ciencia, Tecnología e Innovación 
+(SNCTeI),encargado de formular la política pública de Ciencia, Tecnología e Innovación – 
+CTeI del Estado Colombiano y de direccionar, articular y fomentar el desarrollo científico, 
+el desarrollo tecnológico y la innovación en el país. Así mismo, Colciencias es el ente 
+encargado de promover la generación de conocimiento científico, el desarrollo 
+tecnológico y la innovación, que permiten por un lado consolidar una comunidad científica 
+en las distintas áreas del conocimiento y al mismo tiempo propiciar la transferencia del 
+conocimiento de forma que aporte al desarrollo económico y social del país. Uno de los 
+aliados estratégicos para COLCIENCIAS es la Unidad de Planeación Minero Energética 
+UPME; a partir del convenio 507 de 2012 suscrito entre COLCIENCIAS-UPME se han 
+financiado los proyectos para el desarrollo de las fuentes renovables y con la cooperación 
+del IDEAM se han podido evaluar y rescatar información clave para modelar los 
+diferentes Atlas de Potencial solar, viento, hidroenergético y de biomasa que han 
+propiciado un ambiente de desarrollo de energías renovables más acelerado en el país.  
+ 
+Ante el incremento en la intensidad y duración de los fenómenos relacionados con el 
+clima y los importantes desarrollos de proyectos de generación que se prevén serán 
+ejecutados por los agentes privados, es prioritario para el gobierno investigar la 
+complementariedad de los recursos renovables y establecer las regiones y épocas de 
+ocurrencia, como un insumo para el análisis y valoraciones de beneficio costo, como el 
+realizado en los Planes de Expansión de Referencia Generación-Transmisión, con el fin 
+de presentar propuestas para el desarrollo energético sostenibles del país. 
+ 
+El fenómeno de El Niño del año 2015-2016 se ha considerado como uno de los más 
+críticos en cuanto a los aportes hídricos para nuestro país, ya que adicionalmente se 
+presentaron inconvenientes operativos o financieros en plantas como Quimbo, Guatapé, 
+Flórez y Candelaria. Con esta contingencia se llegó a un nivel útil del embalse agregado 
+del sistema del 25%, cercano al fenómeno de El Niño del año 1997-1998. Dados los 
+bajos niveles de los embalses a los que se llegó, en el mes de marzo el operador del 
+sistema recomendó establecer racionamientos programados de energía durante 6 
+semanas con el objetivo de ahorrar el 5% de la demanda diaria, lo cual no fue necesario 
+gracias al programa apagar paga, a la gestión al límite de los embalses, y a la 
+recuperación de algunas plantas. Como consecuencia se estima que entre los meses de 
+enero y marzo de este año el costo de la energía final a los usuarios se incrementó 8.6 %.  
+ 
+Para lograr establecer escenarios sobre la diversificación necesaria de oferta de recursos 
+energéticos en la generación de electricidad, se requiere evaluar los recursos renovables 
+y sus complementariedades con los niveles de detalle adecuados.  
+INVITACION A PRESENTAR PROPUESTA COMPLEMENTARIEDAD 
+FUENTES NO CONVENCIONALES DE ENERGÍA EN COLOMBIA 
+  
+ Av. Calle 26 # 57-41 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+_______________________________________________________________________________________________ 
+ 
+Adicionalmente, en las principales ciudades de Colombia se hace necesaria información 
+básica de calidad, confiable y validada con el menor error posible, bajo estándares 
+internacionales. Por otra parte, debe mejorarse y fortalecerse la red de instrumentación 
+en Colombia dedicada a la medición de las variables climáticas y ambientales, que 
+permiten establecer los potenciales energéticos renovables. Por lo tanto, resulta básico y 
+fundamental lograr una operación, cobertura, oportunidad y funcionalidad de los sistemas 
+de medición, que permita una resolución espacial y temporal de mayor detalle de los 
+potenciales de las fuentes de energía renovables, como la solar, hidroenergía y eólica.  
+ 
+En los ejercicios iniciales desarrollados por la UPME se ha evidenciado la 
+complementariedad que tiene el viento y el agua en el norte y el centro de Colombia, es 
+conveniente 
+evaluar 
+y 
+establecer 
+una 
+metodología 
+para 
+evaluar 
+dicha 
+complementariedad, en particular bajo las condiciones del último fenómeno de El Niño.  
+ 
+Por lo anterior, la UPME y COLCIENCIAS a través del convenio 507 de 2012, en 
+colaboración con el IDEAM, han propuesto la presente invitación directa para establecer 
+un modelo para la evaluación de la complementariedad de las fuentes energéticas 
+renovables en Colombia entre los recursos solar, hidroenergía y eólico. 
+ 
+Con el desarrollo de la investigación planteada se busca evaluar la complementariedad 
+bajo condiciones críticas del sistema, que involucra el aporte de conocimiento nuevo 
+particularmente en la reciente época, año 2015 y 2016 (Fenómeno de El Niño), 
+especialmente con referentes de la energía solar y eólica lo cual redundará en nuevos 
+aportes para los planes de Expansión de Referencia de Generación y Transmisión que 
+realiza la UPME. 
+ 
+2. OBJETIVO 
+Fortalecer el trabajo de investigación en el área de Fuentes no Convencionales de 
+Energía en Colombia a través del desarrollo de una metodología y un modelo para la 
+evaluación de la complementariedad de estas fuentes energéticas (radiación solar, agua 
+y viento) y el desarrollo un aplicativo piloto que evalué la complementariedad energética 
+del área Caribe con el interior del país.  
+ 
+3. DIRIGIDO A 
+Grupos de investigación, desarrollo tecnológico o de innovación categorizados por 
+Colciencias en el marco de la convocatoria 737 de 2015, adscritos a entidades 
+legalmente constituidas. Se considerarán igualmente las alianzas estratégicas 
+conformadas entre dichos grupos de investigación, con Centros de Desarrollo 
+Tecnológico o empresas del sector productivo.  
+ 
+ Los Grupos o alianzas constituidas deben demostrar experiencia relevante al objetivo en:  
+i- 
+Modelado de las potencialidades o análisis de series de datos o procesos de 
+medición y validación de datos en energías primarias. 
+ii- Proyectos aplicados de metrología de las variables climáticas para la 
+determinación de potenciales de fuentes renovables de energía. 
+ 
+  
+ Av. Calle 26 # 57-41 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+_______________________________________________________________________________________________ 
+ 
+El número mínimo de investigaciones y/o contratos certificados del Grupo investigador o 
+alianza para poder participar es de mínimo (2) dos, cuyo objeto estén relacionados con 
+las anteriores áreas. Las alianzas deben estar encabezadas por un grupo de 
+investigación quien gestionará los recursos. 
+ 
+4. DESCRIPCION Y ALCANCE DEL PROYECTO 
+El proponente seleccionado deberá tener en cuenta las siguientes actividades:  
+a. Calibrar 35 sensores de radiación global in situ, pertenecientes a la red de 
+estaciones automáticas satelitales del IDEAM, con el fin de actualizar sus series 
+históricas hasta diciembre de 2016, validando los datos y aplicando las 
+respectivas constantes de calibración1. 
+b. Validar la información de radiación global a nivel horario, de las 95 estaciones 
+automáticas satelitales del IDEAM que fueron calibradas durante los años 2014 y 
+2015. Dicha validación se hará hasta diciembre de 2016. 
+c. Validar la información de velocidad y dirección del viento a nivel diezminutal, de 
+las  estaciones automáticas satelitales del IDEAM, hasta diciembre de 2016, de 
+aproximadamente 100 estaciones con medición de viento. 
+d. Aportar la información requerida por el IDEAM para actualizar los mapas de 
+potencial solar con los datos de radiación solar del ultimo fenómeno de El Niño 
+2015-2016, teniendo en cuenta la nueva información generada con la calibración 
+de los 35 sensores y la respectiva validación de la información de las 95 
+estaciones hasta diciembre de 2016.  
+e. Actualizar las bases de datos de Sol y Viento hasta diciembre de 2016, en las 
+estaciones evaluadas. 
+f. 
+Diseñar una metodología para estimar la complementariedad entre los recursos 
+de radicación solar, viento y agua.  
+g. Modelar la complementariedad energética de la radiación solar, el viento y el agua 
+y hacer un piloto en  la región Caribe y el Interior del País para el periodo de El 
+Niño 2015-2016 y que pueda ser replicable a nivel nacional.  
+h. Realizar publicaciones científicas y técnicas con los resultados alcanzados en el 
+proyecto. 
+Resultado/ producto Esperado 
+Indicador 
+Beneficiario 
+Modelos 
+para 
+evaluar 
+la 
+complementariedad de los recursos de 
+radiación solar, viento y agua en Colombia 
+1 modelo 
+UPME, 
+IDEAM, 
+Comunidad 
+científica, 
+sector 
+eléctrico. 
+ 
+                                                
+1 La calibración debe realizarse con un equipo patrón de medición de radiación solar avalado por 
+el OMM 
+  
+ Av. Calle 26 # 57-41 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+_______________________________________________________________________________________________ 
+Aplicar el modelo a un caso piloto entre el 
+la región Caribe y el Interior del país 
+incluyendo el último fenómeno de El niño 
+2015-2016 
+1 
+evaluación 
+de caso piloto  
+UPME, 
+IDEAM, 
+Comunidad 
+científica, 
+sector 
+eléctrico 
+Calibración in situ de 35 sensores de 
+radiación, con su respectiva constante de 
+calibración 
+35 
+sensores 
+calibrados 
+UPME, 
+IDEAM, 
+Comunidad 
+científica, 
+sector 
+eléctrico 
+Insumos de información para la realización 
+del Mapa de radiación solar actualizado 
+con la información de los años 2015 a 
+2016. 
+1 
+documento 
+con 
+información de 
+Radiación 
+solar 2015 -
+2016, a nivel 
+mensual 
+UPME, 
+IDEAM, 
+Comunidad 
+científica, 
+sector 
+eléctrico 
+Base 
+de 
+datos 
+con 
+información 
+actualizada de radiación solar global en 
+valores horarios a diciembre de 2016 e 
+información de velocidad y dirección de 
+viento a nivel diezminutal hasta diciembre 
+de 
+2016 
+de 
+aproximadamente 
+100 
+estaciones de viento 
+1 
+Base 
+de 
+datos 
+con 
+información de 
+radiación solar 
+y 
+viento 
+actualizada  
+UPME, 
+IDEAM, 
+Comunidad 
+científica, 
+sector 
+eléctrico 
+ 
+5. REQUISITOS MÍNIMOS 
+ 
+5.1 Diligenciar o actualizar la hoja de vida de cada uno de los miembros del equipo de 
+investigación, en el aplicativo CvLAC.  
+ 
+5.2 Carta unificada de aval y compromiso institucional debidamente diligenciada y firmada 
+(Anexo 1).  
+ 
+5.3 El investigador principal del proyecto debe estar adscrito a un grupo de investigación, 
+desarrollo tecnológico o de innovación con trayectoria demostrada en la temática, y 
+que esté reconocido por Colciencias en su último proceso de reconocimiento y 
+medición de Grupos. 
+ 
+5.4 Carta de concepto del proyecto expedido por un Comité de Ética debidamente 
+constituido, cuando aplique, es decir para aquellos proyectos que empleen recurso 
+vivo, agentes o muestras biológicas, datos personales, información proveniente de 
+  
+ Av. Calle 26 # 57-41 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+_______________________________________________________________________________________________ 
+investigaciones previas realizadas con seres vivos o que no tengan impacto sobre la 
+vida. 
+ 
+La debida conformación del Comité, requiere la entrega del Acta de constitución del 
+mismo. La entidad que presenta el proyecto ante Colciencias deberá incluir además, 
+un apartado especificando que el proyecto en referencia requirió o no, un concepto por 
+parte de un Comité de Ética debidamente constituido, remitirse al ítem “2: Aspectos 
+éticos” del Anexo 1.  
+ 
+Colciencias revisará y conceptuará acerca de los componentes éticos del proyecto. En 
+caso de requerirlo y no contar con el aval respectivo la propuesta será rechazada.  
+ 
+5.5 Carta Autorización para uso y almacenamiento de datos personales, diligenciada y 
+firmada por cada una de las personas que tengan una función dentro del proyecto. 
+(Anexo 2). Adicionalmente cada miembro debe diligenciar el formato “Experiencia 
+Específica del Personal” (Anexo 3) donde se debe relacionar la experiencia 
+profesional; deben cumplirse los perfiles solicitados en el Numeral 8 Contenido del 
+Proyecto. 
+ 
+5.6 Los Grupos o alianzas deben tener experiencia comprobable en proyectos 
+relacionados con las temáticas de acuerdo a lo descrito en el numeral 3 del presente 
+documento. Para comprobar esta experiencia deben diligenciar el Anexo 4 y adjuntar 
+certificaciones de cumplimiento de los contratos/proyectos ejecutados, por parte de la 
+entidad financiadora/contratista. 
+ 
+Nota: Colciencias, podrá solicitar en cualquier momento, información y 
+documentación adicional o aclaraciones de las mismas. 
+ 
+6. PROCEDIMIENTO DE PRESENTACIÓN DE LA PROPUESTA 
+ 
+ 
+6.1 Ingresar a la página web de Colciencias (www.colciencias.gov.co). Ingresar al icono 
+de sistemas de información ubicado en la parte derecha de la página web 
+(http://www.colciencias.gov.co/scienti).  
+ 
+6.2 Hacer clic en la opción Formulario en línea para registro de entidades ubicado en la 
+parte derecha, http://formulariosigp.colciencias.gov.co:7001/EntidadesColciencias/.  
+En caso de haberla registrado previamente, continuar con el paso número 6.5. 
+ 
+6.3 Realizar el pre-registro de las entidades participantes en el proyecto con la 
+información solicitada. Colciencias en un periodo de 2 días hábiles remitirá a su 
+correo electrónico de contacto las credenciales de acceso para el ingreso al sistema 
+de registro de entidades.  
+ 
+6.4 Ingresar al módulo de entidades con sus credenciales y registrar la información de la 
+entidad ejecutora y entidades participantes en el proyecto. En caso de encontrarse 
+registradas las entidades en este sistema, no se requiere de un nuevo registro, sin 
+embargo podrá actualizar la información.  
+ 
+6.5 Una vez finalizado el registro de la entidad, Ingresar al link de Formulario de 
+Proyectos y/o programas. 
+  
+ Av. Calle 26 # 57-41 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+_______________________________________________________________________________________________ 
+ 
+6.6 Diligenciar la información solicitada por el formulario en línea para la presentación de 
+los proyectos a la invitación. Para recibir las credenciales de acceso por correo 
+electrónico deberá registrar como mínimo el título del proyecto, la entidad ejecutora, 
+invitación, y correo electrónico.  
+ 
+6.7 Debe adjuntar la totalidad de los documentos que soportan los requisitos. Si para un 
+requisito requiere anexar más de un documento, guárdelos en una sola carpeta y 
+adjúntela como archivo comprimido .ZIP o .RAR en el campo correspondiente al 
+requisito. Si requiere cambiar algún archivo de los que previamente adjuntó, puede 
+hacerlo examinando y adjuntando el documento deseado. Es importante resaltar que 
+el tamaño de cada archivo anexado de cada uno de los requisitos, cuenta con una 
+capacidad máxima de 3MB; para el requisito “Otros adjuntos” tiene una capacidad 
+máxima de 10 MB.  
+ 
+6.8 Para validar, por favor hacer clic en el botón validar ubicado en la parte inferior del 
+menú. Si la información registrada cumple con los criterios solicitados por la invitación, 
+la validación será exitosa y se activará la opción de enviar formulario, en caso 
+contrario se mostrará en pantalla la información que no cumple con los criterios 
+definidos en la invitación.  
+ 
+6.9 Una vez se oprime el botón de enviar formulario, el sistema registrará el proyecto y 
+generará su respectivo código del proyecto. Para realizar seguimiento a la propuesta, 
+deberá ingresar al formulario con el usuario y contraseña enviados mediante el correo 
+electrónico al momento de registrar la propuesta en el sistema, y por el menú de 
+requisitos podrá consultar las observaciones realizadas a los requisitos del proyecto, 
+con el fin de que sean subsanadas por el proponente.   
+ 
+NOTAS:  
+• Se aceptarán únicamente los proyectos que se presenten a través del formulario en 
+línea con toda la información solicitada en la presente invitación.  
+• No se tendrá en cuenta para el proceso de evaluación y selección, la información 
+enviada en medios distintos al SIGP (correo postal, fax, correo electrónico otro), ni 
+posterior a la fecha y hora límite establecida. Excepto cuando sea solicitado directamente 
+por Colciencias.  
+• Si requieren anexar documentación adicional del proyecto como: tablas, fórmulas, 
+gráficas, anexos, cartas, etc., guárdelos en una sola carpeta y adjúntelas como archivo 
+.ZIP o .RAR (archivo comprimido), en el requisito de Otros adjuntos. Si requieren cambiar 
+algún archivo de los que previamente adjuntó, puede hacerlo examinando y adjuntando el 
+documento deseado.  
+• Para remitir toda la documentación relacionada con cada uno de los requisitos, el 
+tamaño máximo de envío es de 3 MB, en caso de requerir información adicional al 
+proyecto, puede utilizar la opción llamada “Otros adjuntos” y contará con un tamaño 
+máximo de 10 Mb.  
+En caso de que se presenten errores en el aplicativo SIGP durante el proceso de 
+inscripción y envío del proyecto o del cargue de la documentación soporte, y por esta 
+razón después de efectuados varios intentos no pueda enviarse el proyecto de forma 
+normal dentro del plazo establecido, por favor capturar las pantallas con el mensaje de 
+error junto con la fecha y hora en que se presentó el inconveniente que soporte el 
+problema. Remitir antes de la fecha de cierre todas las evidencias de la falla presentada 
+  
+ Av. Calle 26 # 57-41 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+_______________________________________________________________________________________________ 
+al correo contacto@colciencias.gov.co, explicando en el cuerpo de dicha comunicación 
+los inconvenientes ocurridos durante el envío. COLCIENCIAS por medio de la Oficina de 
+Sistemas verificará el error reportado. 
+Ingresar a la página web de Colciencias (www.colciencias.gov.co). Ingresar al icono de 
+sistemas de información ubicado en la parte derecha de la página web  
+(http://www.colciencias.gov.co/scienti).  
+ 
+7. DURACIÓN Y FINANCIACIÓN 
+El término de duración del proyecto a financiar será a partir de la legalización del contrato 
+hasta el 21 de Diciembre de 2017. 
+ 
+La UPME y COLCIENCIAS cuenta con una disponibilidad presupuestal para la 
+financiación de UN PROYECTO de la presente invitación, por valor de DOSCIENTOS 
+VEINTE MILLONDES DE PESOS ($220.000.000) M/CTE. 
+ 
+8. CONTENIDO DEL PROYECTO 
+Los proyectos deberán incluir dos componentes: científico-técnico y presupuestal; como 
+se describe a continuación y se detalla en el Anexo 5. 
+ 
+8.1 Componente científico-técnico del proyecto: 
+ 
+• 
+Título del proyecto 
+• 
+Lugar de ejecución 
+• 
+Duración 
+• 
+Investigador principal y coinvestigadores  
+• 
+Resumen ejecutivo 
+• 
+Antecedentes y resultados previos del equipo de investigación 
+• 
+Palabras clave 
+• 
+Planteamiento del problema 
+• 
+Marco conceptual 
+• 
+Estado del arte 
+• 
+Objetivos (general y específicos) 
+• 
+Metodología 
+• 
+Productos y resultados esperados 
+• 
+Experiencia específica del proponente 
+• 
+Impacto Ambiental. 
+• 
+Posibles evaluadores 
+• 
+Cronograma 
+• 
+Bibliografía 
+ 
+8.2 Componente presupuestal: 
+• 
+Personal científico. 
+• 
+Equipos. 
+• 
+Materiales e Insumos. 
+• 
+Bibliografía. 
+• 
+Servicios Técnicos. 
+• 
+Personal de apoyo. 
+• 
+Software. 
+• 
+Salidas de Campo. 
+  
+ Av. Calle 26 # 57-41 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+_______________________________________________________________________________________________ 
+• 
+Viajes. 
+• 
+Eventos académicos. 
+• 
+Publicaciones y patentes. 
+• 
+Gastos de operación (hasta el 7% del monto a financiar) 
+ 
+Notas: 
+• 
+Serán sometidas a evaluación únicamente tres (3) solicitudes de cambio de rubro 
+durante el tiempo de ejecución del proyecto. Se aclara que cada solicitud puede 
+incluir varios cambios de rubro, y serán autorizadas siempre y cuando no 
+comprometan los resultados esperados. 
+• 
+Todo cambio de rubro inferior al 30% del total del rubro de destino, NO requerirá 
+autorización o aprobación de Colciencias Por lo anterior, dichos cambios quedan 
+sujetos a la autonomía del investigador principal y deben detallarse en los 
+informes de avance y final financieros. Cuando los cambios de rubro superen el 
+30%, se deberá pedir autorización a Colciencias.  
+• 
+Con los recursos otorgados no se podrán cubrir costos asociados a la 
+legalización y perfeccionamiento del contrato, pólizas o rubros diferentes a los 
+ya mencionados. 
+• 
+El proyecto presentado no podrá ser financiando simultáneamente por 
+recursos de algún otro instrumento del Estado. 
+ 
+Rubros no financiables: 
+ 
+No será financiable con recursos de COLCIENCIAS rubros presupuestales como: 
+ 
+• El personal que sea beneficiario actual de los programas “Jóvenes 
+Investigadores” o “Formación de Doctorados” de COLCIENCIAS, podrá ser 
+vinculado a las actividades investigativas previstas para la ejecución del 
+proyecto, pero en ningún caso, podrá ser financiado al mismo tiempo con los 
+recursos provenientes de COLCIENCIAS asignados a este rubro, en esta 
+invitación. 
+• A través del rubro de personal, no se cofinanciarán los derechos académicos y 
+de matrícula del personal. 
+• No será financiable con recursos de COLCIENCIAS rubros presupuestales 
+como: construcciones, mantenimiento de equipos e infraestructura, seguros, 
+adquisición de vehículos, mobiliario de oficina, membresías a Sociedades 
+Científicas. 
+• Pagos de pasivos, aumento de capital de las instituciones participantes. 
+• Pagos de dividendos o recuperaciones de capital de las instituciones 
+participantes. 
+• Capital de trabajo para la producción corriente. 
+• Inversiones en otras empresas. 
+• Inversiones en planta de producción a escala industrial. 
+ 
+  
+ Av. Calle 26 # 57-41 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+_______________________________________________________________________________________________ 
+• Compra de acciones, derechos de empresas, bonos y otros valores mobiliarios. 
+• Instalaciones llave en mano. 
+• Software de uso cotidiano como procesadores de texto, hojas electrónicas y 
+sistemas operativos. 
+Grupo básico de profesionales 
+Está constituido por el Director del Proyecto y el grupo de profesionales temáticos, como 
+equipo mínimo de trabajo para la ejecución del proyecto. En la Tabla 1, se especifican los 
+perfiles requeridos en materia de educación y experiencia.  
+Tabla 1. Perfil y Experiencia grupo básico de profesionales 
+Cargo 
+Perfil2 
+Experiencia específica3 
+Director de 
+Proyecto* 
+ 
+Profesional en Física, 
+Química, Ambiental o 
+Ingeniería con estudios 
+de postgrado (Maestría o 
+Doctorado), relacionados 
+con la Energía y medio 
+ambiente. 
+Experiencia ejerciendo funciones directivas 
+en proyectos o investigación en energías 
+renovables. 
+La experiencia específica debe ser en 
+modelado de las potencialidades de las 
+fuentes renovables y validación y  análisis 
+de series de datos y procesos de medición. 
+Especialista I 
+ 
+Profesional en Física, 
+Meteorología y/o 
+ingeniería con estudios 
+de postgrado 
+(Especialización, 
+Maestría o Doctorado) 
+relacionados con Física, 
+Matemática, Ingeniería,  
+o Química 
+Experiencia en alguna de las siguientes 
+temáticas: 
+1- Modelado y tratamiento de variables 
+ambientales y climáticas. 
+2- Correlación de variables espaciales y 
+temporales, relacionadas con energías 
+renovables. 
+3- Relleno o estimación de datos faltantes 
+en series históricas de mediciones de 
+variables ambientales y/o climáticas o y su 
+validación. 
+Profesional I 
+(dos 
+personas) 
+Profesional en Física, 
+Química o Ingeniería  
+La experiencia está relacionada con el 
+procesamiento, la validación y el análisis 
+de 
+datos 
+de 
+recursos 
+energéticos 
+renovables (radiación solar y eólica). 
+                                                
+2 Así para el director del proyecto y los profesionales temáticos no se tenga en cuenta el título profesional (pregrado) para efecto de 
+calificación, se debe presentar copia del mismo como constancia de la formación profesional. 
+3 Sólo se evaluará la experiencia certificada del profesional que esté relacionada con los tópicos enunciados en esta columna y cumplir con los 
+tiempos mínimos de la tabla 2. 
+  
+ Av. Calle 26 # 57-41 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+_______________________________________________________________________________________________ 
+Técnico I 
+Bachiller, técnico o 
+tecnólogo 
+La experiencia está relacionada con el 
+procesamiento y validación de datos de 
+recursos energéticos renovables (radiación 
+solar y eólica). 
+A su vez, dependiendo del nivel académico, se exigirá un tiempo mínimo de experiencia 
+específica, a partir de la fecha de grado del estudio de pregrado, para cada uno de los 
+profesionales que conforman el grupo básico, según se presenta en la siguiente tabla: 
+Tabla 2. Nivel Académico de los profesionales y experiencia mínima a certificar 
+Cargo en el proyecto 
+Nivel de estudio 
+Tiempo mínimo de experiencia 
+específica a certificar (años) 
+Director del proyecto 
+Maestría 
+2 
+Doctorado 
+1 
+Especialista I 
+Especialización 
+2 
+Maestría 
+1 
+Doctorado 
+1 
+Profesional I 
+Graduado 
+2 
+Técnico I 
+Graduado 
+1 
+ 
+El grupo básico de profesionales que se presente no podrá ser cambiado sin previa 
+autorización. 
+Para participar en el concurso es necesario tener el perfil y la experiencia específica que 
+se describen en las Tablas 1 y 2.  
+NOTA: La conformación propuesta es la mínima aceptable, pero se otorga libertad a los 
+grupos proponentes para proponer la inclusión de profesionales adicionales. 
+9. CONSIDERACIONES DE LA PROPUESTA RECIBIDA  
+Toda propuesta presentada por fuera del plazo establecido es decir después del 19 de 
+abril, no será tenida en cuenta. La entrega de un proyecto o propuesta no implica 
+obligatoriedad para Colciencias de escogerla. 
+ 
+10. INFORMACIÓN DECISIÓN  
+Si su propuesta ha sido aceptada, COLCIENCIAS informarán mediante comunicación 
+electrónica, indicando las instrucciones y condiciones para suscribir el contrato. A partir 
+de la fecha de comunicación, se contarán quince (15) días calendario como plazo máximo 
+para que se sirva remitir a COLCIENCIAS la totalidad de la documentación requerida 
+para el contrato. Vencido el término, en caso de que no remita la documentación, se 
+entenderá que desiste de su interés por contratar con COLCIENCIAS a través del Fondo 
+Francisco José de Caldas. 
+ 
+  
+ Av. Calle 26 # 57-41 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+_______________________________________________________________________________________________ 
+Una vez remitida la minuta del contrato al beneficiario, contará con un plazo de cinco (5) 
+días hábiles para devolverla firmada a la Fiducia como vocera del Fondo Francisco José 
+de Caldas, si no remite el contrato firmado, se entenderá que desiste de su interés por 
+contratar. 
+ 
+11. PROPIEDAD INTELECTUAL 
+12. Los proyectos que llegaren a ser financiados en el marco de la presente invitación, se 
+regirán por lo establecido en el artículo 02 de la Resolución 440 de 2015, que 
+determinó:  
+13.  
+14. En el evento en que se llegaren a generar derechos de propiedad intelectual sobre 
+los conocimientos, productos, resultados y tecnologías que se obtengan o se 
+pudieran obtener en desarrollo del presente contrato, COLCIENCIAS, salvo que 
+existan motivos de seguridad y defensa nacional o en los demás casos previstos en 
+la ley, cederá, autorizará su transferencia, comercialización y explotación de los 
+derechos anteriormente mencionados a la ENTIDAD EJECUTORA. 
+15.  
+16. La ENTIDAD encargada de EJECUTAR el presente contrato, respetará los derechos 
+morales de las personas naturales que participen en la realización del mismo.  
+17.  
+18. Las Partes del Proyecto definirán entre ellas la titularidad de los derechos de 
+propiedad intelectual que se generen en la ejecución de los proyectos financiados 
+con recursos del presupuesto nacional. 
+19.  
+20. Parágrafo.- Sin perjuicio de lo anterior, Colciencias se reserva el derecho de obtener 
+una licencia no exclusiva y gratuita sobre los derechos de propiedad intelectual 
+obtenidos en desarrollo del presente contrato por motivos de interés nacional, 
+comprometiéndose a respetar los derechos morales a que hubiere lugar.  
+21.  
+22. Así mismo, al ser la presente invitación fruto de un convenio especial de cooperación, 
+se adicionará y se cumplirá lo siguiente: 
+23.  
+24. Colciencias y la Unidad de Planeación Minero Energética UPME  tendrá derecho a 
+utilizar, implementar o mejorar con cualquier fin y sin limitaciones territoriales, 
+temporales o de ninguna otra clase y a título gratuito los resultados de dichos 
+proyectos. 
+25.  
+26. Al presentarse a esta convocatoria, LA ENTIDAD EJECUTORA se obliga en caso de 
+ser necesario y de acuerdo con las formalidades que se requieran a extender un 
+contrato de licencia en los términos anteriormente estipulados en favor de la Unidad 
+de Planeación Minero Energética UPME. 
+27.  
+28. Nota: En cualquier evento o medio de divulgación utilizado para difundir los 
+resultados del proyecto se deberá dar el respectivo crédito a Colciencias y a la Unidad 
+de Planeación Minero Energética UPME, incluyendo la imagen institucional de 
+acuerdo 
+con 
+el 
+manual 
+de 
+imagen 
+corporativa 
+alojado 
+en  http://www.colciencias.gov.co, pestaña Ciudadano. 
+ 
+ 
+  
+ Av. Calle 26 # 57-41 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+_______________________________________________________________________________________________ 
+12. ANEXOS 
+ 
+Anexo 1: 
+Carta unificada de aval y compromiso institucional.  
+Anexo 2:  
+Carta de autorización del uso y almacenamiento de datos personales. 
+Anexo 3: 
+Experiencia Específica del Personal 
+Anexo 4: 
+Relación de proyectos ejecutados relevante al objetivo DE LA INVITACIÓN 
+Anexo 5:  
+Contenido del proyecto. 
+ 
+ 
+13. ACEPTACIÓN DE TÉRMINOS Y VERACIDAD 
+ 
+Con la presentación de la propuesta, los interesados aceptan las características, 
+requisitos y condiciones de la presente invitación, así como lo dispuesto para el desarrollo 
+de la misma, para la entrega del recurso y el uso de datos personales.  Los interesados 
+deberán declarar que no están incursos en ninguna causal de inhabilidad o 
+incompatibilidad para recibir los recursos otorgados como resultado de la presente 
+invitación.  
+ 
+De igual forma deberán declarar que la información suministrada es veraz y corresponde 
+a la realidad. En caso de encontrarse alguna incoherencia o inconsistencia en la 
+información o documentación suministrada, Colciencias podrá en cualquier momento 
+rechazar la postulación o si es el caso, declarar la pérdida del recurso sin perjuicio de las 
+acciones legales correspondientes. 
+ 
+  
+ 
+ 
+ 
+Página 1 de 5 
+Av. Calle 26 # 57-41 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+_______________________________________________________________________________________________ 
+• 
+Los campos en color verde deberán ser diligenciados 
+Los campos en color rojo deberán ser eliminados 
+ 
+ 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACIÓN 
+- COLCIENCIAS - 
+ 
+INVITACIÓN COMPLEMENTARIEDAD FUENTES NO CONVENCIONALES DE 
+ENERGÍA 
+ 
+ANEXO 1- CARTA UNIFICADA DE AVAL Y COMPROMISO INSTITUCIONAL 
+ 
+ 
+A continuación se presentan los contenidos del modelo de carta de aval y certificación de 
+propuesta (requisito mínimo único): 
+ 
+ 
+ 
+(Ciudad), (Día) de (Mes) de 201_  
+ 
+ 
+Señores  
+COLCIENCIAS 
+Carrera 7B Bis No. 132 – 28 
+Bogotá D.C. 
+ 
+Asunto: Aval y compromiso institucional del (proyecto) 
+ 
+ 
+Respetados señores, 
+ 
+Por medio de la presente yo NOMBRE DEL REPRESENTANTE LEGAL DE LA ENTIDAD 
+EJECUTORA DE LA PROPUESTA, identificado(a) con cédula de ciudadanía número 
+(Número de identificación), como Representante Legal de (Nombre de la entidad), avalo el 
+(proyecto) titulado (escriba el nombre del proyecto), a la invitación (nombre de la 
+invitación). Manifiesto que el (proyecto) no está siendo financiado con recursos de otra 
+convocatoria de COLCIENCIAS u otras entidades del Estado. 
+ 
+Para el desarrollo del (proyecto) se conformará una Alianza Estratégica, que estará 
+integrada por las siguientes entidades: (nombre de la entidad 1), (nombre de la entidad 2), 
+(nombre de la entidad 3),…, etc.; designándose como entidad ejecutora a (nombre de la 
+entidad ejecutora), quien será la encargada de firmar el (contrato, convenio) en caso de 
+resultar seleccionados como financiable durante el proceso de la invitación (nombre de la 
+invitación de 201X). 
+  
+ 
+ 
+ 
+Página 2 de 5 
+Av. Calle 26 # 57-41 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+_______________________________________________________________________________________________ 
+ 
+De la misma forma, mediante la presente me permito establecer los compromisos que 
+enuncio a continuación: 
+ 
+1. Interlocución: 
+ 
+Informo a COLCIENCIAS que la (s) persona (s) encargada de ejercer la función de 
+interlocutor (es) válido (s) del (programa, proyecto) es (son):  
+ 
+Nombre del interlocutor: 
+Documento de identidad: (Tipo y Número de identificación). 
+Correo electrónico: 
+Teléfono: 
+ 
+Esta interlocución puede ser de carácter administrativo o técnico cientifico, por cuanto se 
+sugiere relacionar a la persona encargada de administrar los recursos y al investigador 
+principal del proyecto, respectivamente. 
+ 
+2. Aspectos éticos (a ser diligenciado ÚNICAMENTE por la entidad que 
+presenta el proyecto a COLCIENCIAS) * Los programas o proyectos que se 
+presenten a las convocatorias abiertas por el Programa Nacional de Ciencia, 
+Tecnología e Innovación en Salud, deben entregar concepto expedido por un 
+comité de ética –debidamente constituido- 
+ 
+En caso de los investigadores del proyecto y las entidades que lo presentan 
+consideren que el Proyecto de Investigación, desarrollo tecnológico o innovación 
+no requiere concepto expedido por un comité de ética –debidamente constituido- , 
+se sugiere declarar lo siguiente: 
+ 
+Informo a COLCIENCIAS que el (proyecto), presentado a la invitación (nombre de la 
+invitación) de 201X,  no requirió del concepto de un comité de ética dado que la propuesta 
+de investigación no utilizará recurso vivo, agentes o muestras biológicas, datos 
+personales, información proveniente de investigaciones previas realizadas en seres vivos 
+o no tendrá impacto sobre la vida. 
+ 
+En caso de los investigadores del proyecto y las entidades que lo presentan 
+consideren que el Proyecto de Investigación, desarrollo tecnológico o innovación 
+requiere concepto expedido por un comité de ética –debidamente constituido- , se 
+sugiere declarar lo siguiente: 
+ 
+Informo a COLCIENCIAS que el proyecto presentado a la invitación (nombre de la 
+invitación) de 201X, fue revisado por un comité de ética debidamente constituido. Se 
+adjunta concepto del comité de ética y acto administrativo de constitución del mismo.  
+ 
+  
+ 
+ 
+ 
+Página 3 de 5 
+Av. Calle 26 # 57-41 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+_______________________________________________________________________________________________ 
+3. Contrapartida: 
+ 
+Se establece el compromiso que en caso que el (proyecto) resulte financiable por 
+COLCIENCIAS, las entidades que conforman la Alianza Estratégica aportarán los 
+siguientes recursos como contrapartida:  
+ 
+Entidad 
+Total 
+Monto de contrapartida 
+Especie 
+% 
+Especie 
+Efectivo 
+% 
+Efectivo 
+(Nombre de la entidad 1) 
+$ 
+$ 
+% 
+$ 
+% 
+(Nombre de la entidad 2) 
+$ 
+$ 
+% 
+$ 
+% 
+(Nombre de la entidad 3) 
+$ 
+$ 
+% 
+$ 
+% 
+Total 
+$ 
+$ 
+% 
+$ 
+% 
+ 
+ 
+4. Intención de acuerdo de propiedad intelectual  
+ 
+Las partes abajo firmantes, convienen la intención de acuerdo que se regirá bajos las 
+siguientes clausulas: i) la titularidad de la propiedad intelectual sobre los resultados que 
+se obtengan o se pudieran obtener en el desarrollo del presente proyecto /Programa 
+estará a cargo de ______ y ________. ii) La distribución de los derechos patrimoniales 
+sobre todos y cada uno de los entregables generados, se establecerá de acuerdo con el 
+porcentaje de los aportes desembolsables y no desembolsables que las partes realicen, 
+los cuales se determinarán en el acta de liquidación del contrato. iii) De igual manera 
+cualquiera de las partes podrá iniciar los mecanismos de protección correspondientes 
+garantizando el respeto de los porcentajes que a cada una las partes corresponden sobre 
+los resultados, por su parte las demás entidades se comprometen a disponer de los 
+recursos que sean necesarios para facilitar y apoyar que se conceda por la autoridad 
+competente el mecanismo de protección que se determine. iv) La custodia y cuidado de 
+los productos tecnológicos, prototipos, que se materialicen estará a cargo de 
+_____________ durante la duración de proyecto. A la finalización y liquidación de los 
+mismos, se definirá la custodia y cuidado de tales bienes. v) Los derechos morales de 
+autor que le correspondan a estudiantes, profesores o investigadores de las partes, que 
+por sus aportes significativos en una determinada obra le corresponden como autor(es) o 
+coautor(es), serán a estos siempre reconocidos. vii) Ninguna de las partes podrá publicar, 
+comunicar, divulgar, revelar ni permitir que los investigadores y personal vinculado al 
+contrato publiquen, comuniquen, revelen o utilicen la información resultado del mismo, sin 
+previo aviso y aprobación por escrito. viii) Sin perjuicio de lo anterior las partes podrán 
+efectuar modificaciones al presente documento de acuerdo a las condiciones de 
+desarrollo del proyecto. 
+ 
+  
+ 
+ 
+ 
+Página 4 de 5 
+Av. Calle 26 # 57-41 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+_______________________________________________________________________________________________ 
+ 
+5. De la aceptación de las condiciones y términos de referencia que establece 
+COLCIENCIAS 
+ 
+Los abajo firmantes declaran y aceptan que: 
+ 
+• 
+Tienen poder y/o representación legal para firmar y presentar el (proyecto).  
+• 
+Este (proyecto) y el (contrato) que llegue a celebrarse en caso de financiación, 
+compromete totalmente a la(s) persona(s) jurídica(s) que legalmente represento.  
+• 
+La información suministrada es veraz y no fija condiciones artificiales.  
+• 
+Aceptan y reconocen que cualquier omisión o inconsistencia en la que hayan podido 
+incurrir y que pueda influir en el (proyecto), no les eximirá de la obligación de asumir 
+las responsabilidades que les llegue a corresponder como futuros contratistas y 
+renuncian a cualquier reclamación, reembolso o ajuste de cualquier naturaleza, por 
+cualquier situación que surja y no haya sido contemplada en razón de la falta de 
+diligencia en la obtención de la información. 
+• 
+No se encuentran incursos en ninguna de las causales de inhabilidad y/o 
+incompatibilidad establecidas en el Estatuto General de Contratación y demás normas 
+legales pertinentes. 
+• 
+Aceptan y autorizan a COLCIENCIAS para que verifique la información aportada en el 
+(proyecto). 
+• 
+Se encuentran al día con las obligaciones y compromisos adquiridos con Colciencias. 
+• 
+El  (proyecto) no está siendo financiado por otra convocatoria con recursos de 
+COLCIENCIAS u otras entidades del Estado 
+ 
+Además, se sugiere declarar que: “ACEPTAMOS expresa e irrevocablemente que 
+conocemos detalladamente las características, requisitos y condiciones de la invitación 
+(nombre de la invitación), de manera que nos sometemos a lo establecido en los 
+Términos de Referencia determinados por COLCIENCIAS para el desarrollo de la misma 
+y para la entrega del recurso en caso que el (proyecto, programa) resulte financiable.  
+ 
+Con la presente manifestación inequívoca de voluntad, declaramos que en caso de ser 
+beneficiados en la invitación (nombre de la invitación), el recurso de financiación será 
+recibido en los términos que COLCIENCIAS establezca; comprendemos y aceptamos que 
+la no aceptación o el incumplimiento de alguna de las condiciones establecidas, dará 
+lugar a la pérdida definitiva del recurso.  
+ 
+Declaramos que la información suministrada es veraz y corresponde a la realidad. En 
+caso de encontrarse alguna incoherencia o inconsistencia en la información o 
+documentación suministrada, COLCIENCIAS podrá en cualquier momento, rechazar esta 
+propuesta o finiquitar el beneficio, sin perjuicio de las acciones legales correspondientes”. 
+ 
+ 
+Atentamente,  
+ 
+  
+ 
+ 
+ 
+Página 5 de 5 
+Av. Calle 26 # 57-41 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+_______________________________________________________________________________________________ 
+ 
+ 
+__________________________ 
+FIRMA 
+NOMBRE DEL REPRESENTANTE LEGAL ENTIDAD EJECUTORA 
+CC 
+NOMBRE DE LA ENTIDAD EJECUTORA 
+DIRECCIÓN  
+TELÉFONO 
+ 
+ 
+__________________________ 
+FIRMA 
+NOMBRE DEL REPRESENTANTE LEGAL ENTIDAD ALIADA 1 
+CC 
+NOMBRE DE LA ENTIDAD ALIADA 1 
+DIRECCIÓN  
+TELÉFONO 
+ 
+ 
+__________________________ 
+FIRMA 
+NOMBRE DEL REPRESENTANTE LEGAL ENTIDAD ALIADA 2 
+CC 
+NOMBRE DE LA ENTIDAD ALIADA 2 
+DIRECCIÓN  
+TELÉFONO 
+ 
+…….(tantas entidades como se requiera y que conformen la alianza)…. 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Página 1 de 2 
+ 
+Av. Calle 26 # 57-41 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+_______________________________________________________________________________________________ 
+Los campos en color verde deberán ser diligenciados 
+Los campos en color rojo deberán ser eliminados 
+ 
+ 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACIÓN 
+- COLCIENCIAS - 
+ 
+INVITACIÓN COMPLEMENTARIEDAD FUENTES NO CONVENCIONALES DE 
+ENERGÍA 
+ 
+ANEXO 2 - AUTORIZACIÓN USO Y ALMACENAMIENTO DE DATOS PERSONALES 
+ 
+ 
+IMPORTANTE: Esta carta debe ser diligenciada y firmada por cada persona que 
+cumpla alguna función dentro del programa o proyecto. 
+ 
+ 
+(Ciudad), (Día) de (Mes) de 201_  
+ 
+ 
+Señores  
+COLCIENCIAS 
+Carrera 7B Bis No. 132 – 28 
+Bogotá D.C. 
+ 
+Asunto: Autorización, uso y almacenamiento de datos personales. 
+ 
+ 
+En virtud de la Ley Estatutaria 1581 del 2012, mediante la cual se dictan las disposiciones 
+generales para la protección de datos personales, y su Decreto Reglamentario 1377 de 
+2013, autorizo el uso de la información registrada, al Departamento Administrativo de 
+Ciencia, Tecnología e Innovación - COLCIENCIAS, considerado como responsable y/o 
+encargado del tratamiento de datos personales, almacenados en bases de datos, las 
+cuales incluyen información que se han reportado en desarrollo de las diferentes 
+actividades y formularios. Lo anterior hace referencia particular a los siguientes datos: 
+nombres, número de documento de identificación, dirección, teléfono fijo y móvil, 
+direcciones, correo electrónico, profesión, hoja de vida académica, certificados de notas, 
+entre otros.  
+ 
+Los datos serán utilizados para la misión institucional establecida en la ley 1286 de 2009, 
+como ente rector de la Ciencia Tecnología e innovación en Colombia. 
+ 
+ 
+Atentamente,  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Página 2 de 2 
+ 
+Av. Calle 26 # 57-41 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+_______________________________________________________________________________________________ 
+_________________________________ 
+FIRMA 
+ 
+NOMBRES Y APELLIDOS 
+IDENTIFICACIÓN 
+ 
+ 
+ 
+_________________________________ 
+FIRMA 
+NOMBRES Y APELLIDOS 
+IDENTIFICACIÓN 
+ 
+ 
+ 
+ 
+_________________________________ 
+FIRMA 
+NOMBRES Y APELLIDOS 
+IDENTIFICACIÓN 
+ 
+ 
+ 
+Colocar tantas autorizaciones como personal vinculado al proyecto se relacione. En caso 
+que no haya personas aún identificadas que se colocan como NN, el investigador 
+principal, deberá enviar a COLCIENCIAS dicha autorización para el uso de datos 
+personales, al momento en que la persona seleccionada se vincule al proyecto. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Página 1 de 1 
+Av. Calle 26 # 57-41 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+_______________________________________________________________________________________________ 
+                                       
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION - COLCIENCIAS - 
+ 
+INVITACIÓN COMPLEMENTARIEDAD FUENTES NO CONVENCIONALES DE 
+ENERGÍA 
+ 
+ANEXO 3 EXPERIENCIA ESPECÍFICA DEL PERSONAL 
+ 
+NOMBRES Y APELLIDOS: 
+TELÉFONO: 
+FAX: 
+CÉDULA N°: 
+PASAPORTE N°: 
+LUGAR Y FECHA DE NACIMIENTO: 
+EXPERIENCIA  ESPECIFICA 1 
+NOMBRE DEL 
+PROYECTO 
+ENTIDAD 
+Actividad desempeñada 
+FECHA DE 
+Duración 
+(años y /o 
+fracción) 
+Inicio 
+Terminación 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TOTAL EXPERIENCIA ESPECÍFICA EN MESES 
+Suma 
+experiencia 
+específica 
+ 
+ 
+Certifico mi intención y compromiso de participar en el estudio en caso de resultar elegida la propuesta, con una 
+disponibilidad de tiempo para el estudio de _____% 
+ 
+ 
+ 
+ 
+ 
+___________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+     Firma del profesional 
+                                                           
+1 Diligenciar este formato para cada uno de los profesionales 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Página 1 de 1 
+ 
+ 
+ 
+ 
+Av. Calle 26 # 57-41 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+_______________________________________________________________________________________________ 
+                                      
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACIÓN - COLCIENCIAS - 
+ 
+INVITACIÓN COMPLEMENTARIEDAD FUENTES NO CONVENCIONALES DE ENERGÍA 
+ 
+ANEXO 4 RELACIÓN DE PROYECTOS EJECUTADOS  
+ 
+Nombre del proyecto 
+Entidad 
+Financiadora 
+Objeto del 
+contrato 
+Resultados 
+/Entregables 
+Duración 
+(años y/o 
+fracción) 
+Fecha de: 
+Inicio 
+Finalización 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Página 1 de 6 
+ 
+ 
+ 
+Av. Calle 26 # 57-41 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+_______________________________________________________________________________________________ 
+                                      
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS - 
+INVITACIÓN COMPLEMENTARIEDAD FUENTES NO CONVENCIONALES DE 
+ENERGÍA 
+ 
+ANEXO 5 
+CONTENIDO DEL PROYECTO  
+ 
+Componente científico-técnico: 
+ 
+• 
+Título del proyecto 
+ 
+• 
+Lugar de ejecución 
+ 
+• 
+Duración 
+ 
+• 
+Investigador principal y coinvestigadores 
+ 
+• 
+Conformación del equipo de investigación: Está constituido por el Director del 
+Proyecto y el grupo de profesionales temáticos, como equipo mínimo de trabajo para 
+la ejecución del proyecto (ver numeral 8 de los términos de referencia). Colocar el 
+nombre y código, registrado en el GrupLAC, del o de los grupos de investigación. Al 
+igual que el nombre de los demás integrantes que conforman el equipo de trabajo. Se 
+debe incluir el tiempo de dedicación y funciones en el marco del proyecto. 
+ 
+• 
+Resumen ejecutivo: Información mínima necesaria para comunicar de manera 
+precisa los contenidos y alcances del proyecto.  
+ 
+• 
+Antecedentes y resultados previos del equipo de investigación: Trayectoria del 
+equipo de investigación con relación al problema planteado en el proyecto.  
+ 
+• 
+Palabras clave: Incluir máximo seis (6) palabras clave que describan el objeto del 
+proyecto. 
+ 
+• 
+Planteamiento del problema: Delimitación clara y precisa del objeto de la 
+investigación que se realiza por medio de una pregunta. 
+ 
+ 
+• 
+Marco conceptual: Aspectos teóricos que contextualicen el problema de 
+investigación en una temática, así como otros aspectos que sean pertinentes a juicio 
+de los proponentes. 
+ 
+• 
+Estado del arte: Revisión actual de la temática en el contexto nacional e 
+internacional, avances, desarrollos y tendencias, en cuya elaboración se deberán 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Página 2 de 6 
+ 
+ 
+ 
+Av. Calle 26 # 57-41 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+_______________________________________________________________________________________________ 
+tener en cuenta estudios de prospectiva y vigilancia tecnológica. 
+ 
+• 
+Objetivos:  
+ 
+� Objetivo general: Enunciado que define de manera concreta el planteamiento del 
+problema o necesidad y se inicia con un verbo en modo infinitivo, es medible, 
+alcanzable y conlleva a una meta. 
+ 
+� Objetivos específicos: Enunciados que dan cuenta de la secuencia lógica para 
+alcanzar el objetivo general del proyecto. No debe confundirse con las actividades 
+propuestas para dar alcance a los objetivos (ej. Tomar muestras en diferentes 
+localidades de estudio); ni con el alcance de los productos esperados (ej. Formar 
+un estudiante de maestría). 
+ 
+• 
+Metodología: Exposición en forma organizada y precisa de cómo se desarrollará y 
+alcanzará el objetivo general y cada uno de los objetivos específicos del proyecto, 
+presentando los componentes del mismo y las actividades para el logro de estos. Se 
+deben tener en cuenta el alcance y actividades a desarrollar descritos en el numeral 4 
+de los términos de referencia. 
+ 
+• 
+Resultados esperados: Conocimiento generado en el cumplimiento de cada uno de 
+los objetivos. Se deben tener en cuenta el alcance y actividades a desarrollar descritos 
+en el numeral 4 de los términos de referencia.  
+ 
+• 
+Productos esperados: Se deben tener en cuenta el alcance y actividades a 
+desarrollar descritos en el numeral 4 de los términos de referencia 
+ 
+� Evidencian el logro en cuanto a generación de nuevo conocimiento, fortalecimiento 
+de capacidades científicas y apropiación social del conocimiento, incluir 
+indicadores verificables y medibles acordes con los objetivos y alcance del 
+proyecto.  
+� Se deben considerar los productos relacionados en el documento conceptual que 
+hace parte de la Medición de Grupos de Investigación, Desarrollo Tecnológico y/o 
+Innovación, 2015.1 
+ 
+• 
+Experiencia específica de la(s) entidad(es) proponente(s): Trayectoria del equipo 
+de investigación con relación al problema planteado en el proyecto. Se deben citar y 
+anexar los soportes necesarios de acuerdo a lo solicitado en numeral 3 de los 
+términos de referencia y el Anexo 4. 
+ 
+                                                           
+1Modelo de medición de Grupos de Investigación, Desarrollo Tecnológico y/o de Innovación y de reconocimiento de 
+investigadores del Sistema Nacional de Ciencia, Tecnología e Innovación, año 2015. Departamento Administrativo de 
+Ciencia 
+Tecnología 
+e 
+Innovación-COLCIENCIAS; 
+Dirección 
+de 
+Fomento 
+a 
+la 
+Investigación. 
+Año 
+2015. 
+http://www.colciencias.gov.co/sites/default/files/upload/convocatoria/mediciondegrupos-actene2015.pdf 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Página 3 de 6 
+ 
+ 
+ 
+Av. Calle 26 # 57-41 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+_______________________________________________________________________________________________ 
+• 
+Impacto ambiental: Teniendo en cuenta que todo proyecto tiene efectos no 
+solamente en los aspectos ambientales por el uso y transformación de materiales o de 
+información, sino también apunta a la solución de necesidades o problemas de la 
+sociedad, por lo tanto cuando la ejecución de un proyecto requiera autorización de las 
+autoridades ambientales, con tal autorización se entiende evaluado positivamente el 
+cumplimiento de los requisitos ambientales (se debe anexar copia).  
+ 
+Cuando no requiera autorización, así deberá manifestarlo en el registro del proyecto y 
+describir en este aparte: los aspectos ambientales indicando cómo el desarrollo del 
+proyecto da cumplimiento al concepto de desarrollo sostenible (Ley 99 de 1993 en el 
+artículo 3º). 
+ 
+• 
+Licencias ambientales, consulta previa y contrato de acceso a recursos 
+genéticos y/o productos derivados: Se debe argumentar si el proyecto requiere o 
+no de algún permiso, de acuerdo al alcance y componente metodológico de su 
+propuesta y a la legislación y normativa vigente en cuanto a: 1) Permisos ambientales, 
+2) Contrato de acceso a recursos genéticos y/o productos derivados con fines 
+comerciales, industriales o de prospección biológica, 3) Recolección de especímenes 
+de especies silvestres de la diversidad biológica con fines de investigación científica 
+no comercial, 4) Recolección de especímenes de especies silvestres de la diversidad 
+biológica con fines de elaboración de estudios ambientales, 5) Colecciones biológicas, 
+6) Manipulación y movilización de los recursos biológicos en el territorio nacional, de la 
+misma forma que la introducción de especies exóticas, 7) Consentimiento informado y  
+8) Consulta previa con las Comunidades Indígenas y Negras. En caso de que lo 
+requiera, deberá indicar si ha iniciado el trámite respectivo (Anexo 6).  
+ 
+• 
+Posibles evaluadores: Identificar nombre y coordenadas de contacto de expertos en 
+la temática de investigación a nivel nacional e internacional. 
+ 
+• 
+Cronograma: Distribución de actividades a lo largo del tiempo de ejecución del 
+proyecto. Asociar a cada actividad el o los objetivos (numerados) relacionados con 
+estos. 
+ 
+• 
+Bibliografía: Fuentes bibliográficas empleadas en cada uno de los ítems del proyecto. 
+Se hará referencia únicamente a aquellas fuentes empleadas en el suministro de la 
+información del respectivo proyecto. No se incluirán referencias que no se citen. Las 
+citas, en cada uno de los campos del formulario, se harán empleando el número de la 
+referencia dentro de paréntesis cuadrados (p. ej. [1]). 
+ 
+Nota: Se deberá aportar toda la información necesaria para la evaluación del proyecto con 
+base en los criterios establecidos en el numeral 10 “Criterios de evaluación”, de los 
+términos de referencia de la invitación. 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Página 4 de 6 
+ 
+ 
+ 
+Av. Calle 26 # 57-41 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+_______________________________________________________________________________________________ 
+Componente presupuestal: 
+ 
+• 
+Equipos: Aquellos necesarios para el desarrollo del proyecto, los cuales pueden ser 
+adquiridos a cualquier título. La financiación para compra de equipos nuevos deberá 
+estar sustentada en la estricta necesidad de los mismos para el desarrollo del 
+proyecto. 
+ 
+• 
+Materiales e insumos: Adquisición de insumos, bienes fungibles y demás elementos 
+necesarios para el desarrollo de algunas actividades previstas. Deben presentarse a 
+manera de listado detallado agrupado por categorías sobre las cuales debe hacerse 
+una justificación de su necesidad y cantidad (Ej. consumibles, reactivos, herramientas, 
+elementos de protección, controles e instrumentación accesoria, material biológico, 
+audiovisual, de laboratorio y de campo, etc). 
+ 
+• 
+Bibliografía: Adquisición de libros, revistas, artículos, suscripciones o acceso a bases 
+de datos especializadas, que sean estrictamente necesarias para una ejecución 
+exitosa del proyecto. 
+ 
+• 
+Servicios técnicos: Contrataciones que se hacen para la prestación de servicios 
+especializados y cuya necesidad esté suficientemente justificada, por ejemplo: 
+ensayos, pruebas, análisis de laboratorio y caracterizaciones, etc. Estos no deben 
+incluirse en los gastos de personal. 
+ 
+• 
+Adecuación de infraestructura. Gastos destinados a adecuar laboratorios, parcelas 
+y plantas piloto, por un valor que no supere el 10% del valor solicitado a Colciencias. 
+(no se reconoce la adecuación de oficinas, reordenamientos de “lay out” de la planta o 
+distribución de planta, muebles de oficina, estantería entre otros). 
+ 
+• 
+Software: Adquisición de licencias de software especializado para las actividades de 
+CTeI propias del desarrollo del proyecto. Su necesidad y cantidad debe soportarse en 
+justificaciones técnicas detalladas. No se considerará financiable dentro de este rubro 
+software de uso cotidiano, como por ejemplo procesadores de texto, hojas 
+electrónicas o sistemas operativos. 
+ 
+• 
+Salidas de campo: Costos asociados al levantamiento de información en campo, 
+desde fuentes primarias o secundarias, para la consecución de los objetivos del 
+proyecto. 
+ 
+• 
+Viajes: Se refiere a los gastos de transporte (pasajes nacionales e internacionales) y 
+viáticos relacionados con las actividades propuestas en el componente científico-
+técnico del proyecto (capacitaciones, estancias cortas en instituciones académicas 
+nacionales o extranjeras, presentación de ponencias en eventos especializados, etc.) 
+y que son estrictamente necesarios para la ejecución exitosa del proyecto y la 
+generación de productos y resultados. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Página 5 de 6 
+ 
+ 
+ 
+Av. Calle 26 # 57-41 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+_______________________________________________________________________________________________ 
+• 
+Eventos académicos: Gastos ocasionados por la organización y divulgación de 
+eventos (paneles, simposios, talleres, seminarios, congresos, ferias de CTeI, etc.) que 
+permitan retroalimentar o presentar productos y resultados del proyecto. 
+ 
+• 
+Publicaciones: Costos de publicación de artículos científicos en revistas indexadas 
+con un alto factor de impacto. Costos asociados a la publicación de libros, manuales, 
+videos, cartillas, posters, etc. que presenten los resultados del Programa y sirvan 
+como estrategia de divulgación o apropiación social de los resultados de la 
+investigación.  
+ 
+• 
+Personal científico: El componente de Recursos humanos para actividades de CTeI:  
+ 
+� Personal con formación científica y técnica, que cuenta con título profesional y/o 
+de posgrado (maestría, doctorado), y vinculación de postdoctorados que estarán a 
+cargo de las actividades investigativas propias de la ejecución del proyecto según 
+el planteamiento científico-técnico. 
+� Personal con formación en carreras técnicas y tecnológicas con capacidades para 
+apoyar la ejecución de actividades de CTeI. 
+ 
+Deberán tenerse en cuenta los siguientes lineamientos: 
+ 
+a. No serán financiados con recursos de COLCIENCIAS, honorarios o bonificaciones 
+especiales a personal de nómina de tiempo completo de entidades públicas o 
+privadas. No obstante, estas sí pueden ser financiadas con recursos de contrapartida. 
+b. Personal 
+que 
+sea 
+beneficiario 
+del 
+programa 
+“Jóvenes 
+Investigadores 
+de 
+COLCIENCIAS” podrá ser vinculado a las actividades investigativas previstas para la 
+ejecución del proyecto, pero en ningún caso podrá ser financiado al mismo tiempo con 
+los recursos provenientes de COLCIENCIAS asignados al proyecto. Aquellos Jóvenes 
+Investigadores que se vinculen a las actividades del proyecto, podrán recibir 
+incrementos al monto previsto para su beca-pasantía, pero únicamente con recursos 
+de contrapartida de la entidad que lo presente. 
+c. Personal que sea beneficiario del programa de “Doctorados de COLCIENCIAS” podrá 
+ser vinculado a las actividades investigativas previstas para la ejecución del proyecto, 
+pero en ningún caso podrá ser financiado al mismo tiempo con los recursos 
+provenientes de COLCIENCIAS asignados al proyecto. Los estudiantes de doctorado 
+que se vinculen a las actividades del proyecto, podrán recibir incrementos al monto 
+previsto para su beca, pero únicamente con recursos de contrapartida de la entidad 
+que lo presente. 
+ 
+• 
+Gastos de operación: Incluye los salarios del personal administrativo, materiales y 
+suministros de oficina y demás servicios generales necesarios. Se reconoce hasta el 
+7% del monto solicitado a COLCIENCIAS, sin incluir el rubro de seguimiento y 
+evaluación.  
+ 
+ 
+Rubros No Financiables 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Página 6 de 6 
+ 
+ 
+ 
+Av. Calle 26 # 57-41 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+_______________________________________________________________________________________________ 
+• 
+El personal que sea beneficiario actual de los Programas “Jóvenes investigadores” o 
+“Formación de doctorados” de COLCIENCIAS, podrá ser vinculado a las actividades 
+investigativas previstas para la ejecución del proyecto, pero en ningún caso, podrá ser 
+beneficiado al mismo tiempo con los recursos provenientes de COLCIENCIAS, 
+asignados a este rubro, en esta invitación. 
+• 
+A través del rubro de personal, no se financiarán los derechos académicos y de 
+matrícula del personal. 
+• 
+No serán financiables con recursos de COLCIENCIAS, rubros presupuestales como: 
+Construcciones, mantenimiento de equipos e infraestructura, imprevistos, seguros, 
+adquisición de vehículos, mobiliario de oficina y membresías a sociedades científicas. 
+• 
+No serán financiados con recursos de COLCIENCIAS, honorarios o bonificaciones 
+especiales a personal de nómina de tiempo completo, de entidades públicas o 
+privadas. No obstante, estos si podrán ser financiados con recursos de contrapartida. 
+ 

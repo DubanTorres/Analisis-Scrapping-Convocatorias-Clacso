@@ -1,0 +1,468 @@
+Edital CNPq/CAPES/SEED-MEC nº 76/2010  
+I - EDITAL  
+O Conselho Nacional de Desenvolvimento Científico e Tecnológico – CNPq, a Coordenação de 
+Aperfeiçoamento de Pessoal de Nível Superior – CAPES e a Secretaria de Educação a Distância do 
+Ministério da Educação – SEED/MEC tornam público o presente Edital e convidam os interessados a 
+apresentarem propostas nos termos aqui estabelecidos, e em conformidade com o anexo REGULAMENTO, 
+parte integrante deste Edital.  
+I.1 - OBJETIVO   
+O presente Edital tem por objetivo selecionar propostas para apoio financeiro a projetos que visem contribuir 
+significativamente para o desenvolvimento científico e tecnológico e inovação do País. A proposta de 
+pesquisa deve estar claramente caracterizada como pesquisa científica ou tecnológica ou de inovação e 
+relacionada ao uso de laptop em escolas participantes do Programa Um Computador Por Aluno – PROUCA 
+(Fase II) e deve observar as condições específicas estabelecidas na parte II – REGULAMENTO, anexo a este 
+Edital, que determina os requisitos relativos ao proponente, cronograma, recursos financeiros a serem 
+aplicados nas propostas aprovadas, origem dos recursos, itens financiáveis, prazo de execução dos projetos, 
+critérios de elegibilidade, critérios e parâmetros objetivos de julgamento e demais informações necessárias.  
+I.1.1 - Histórico e Justificativa  
+O Programa Um Computador por Aluno (PROUCA) é uma iniciativa da Presidência da República 
+desenvolvida em conjunto com o Ministério da Educação. Sua finalidade é a de promover a inclusão digital, 
+pedagógica e social mediante a aquisição e a distribuição de computadores portáteis em escolas públicas, em 
+escala piloto de teste e avaliação. 
+O Programa UCA integra planos, programas e projetos educacionais de tecnologia educacional e inclusão 
+digital, vinculando-se às ações do Plano de Desenvolvimento da Educação – PDE, do Programa Nacional de 
+Tecnologia Educacional – ProInfo (Decreto nº 6.300, de 12/12/2007) e do Programa Um Computador por 
+Aluno – PROUCA (Lei 12.249, de 14/06/2010). 
+De acordo com o documento do PROUCA, a implantação do uso de laptops, na situação “um para um”, 
+justificada-se pelos seguintes argumentos:  
+- Possibilidade de complementar as reformas educacionais capazes de tornar a escola mais efetiva e 
+apropriada a novos modelos de sociedade;  
+- Formação de pessoas mais bem preparadas para a vida em uma sociedade modificada científica e 
+tecnologicamente; 
+- Dar suporte aos alunos em desvantagemsocioeconômica e com necessidades especiais de aprendizagem; 
+- Inserir os professores num contexto tecnológico visando a impactar suas práticas docentes; 
+ - Participar no processo de inclusão digital dos diferentes sujeitos sociais em especial os alunos e professores 
+de escolas públicas brasileiras. 
+A Fase I do Programa aconteceu em São Paulo-SP, Porto Alegre-RS, Palmas-TO, Piraí-RJ e Brasília-DF. Na 
+Fase II, o Ministério da Educação adquiriu 150 mil laptops para distribuição para 300 escolas públicas. Além 
+da distribuição dos laptops o MEC também está provendo banda larga e infra-estrutura de rede sem fio para 
+as escolas participantes. Outro conceito implantado pelo programa é o chamado UCA Total, que consiste na 
+distribuição de laptops para todas as escolas públicas (estaduais e municipais) e consequentemente para 
+todos os alunos e professores de um determinado município. Foram selecionados 6 (seis) municípios em todo 
+o país, são eles: Barra dos Coqueiros / SE; Santa Cecília do Pavão / PR; Tiradentes / MG; São João da Ponta 
+/ PA; Terenos / MS e Caetés / PE. 
+A responsabilidade socioeducacional do investimento levou a Presidência da República e o MEC a ancorarem 
+o Programa UCA em quatro pilares que estruturam diversas ações. Os pilares são: (1) a 
+infraestruturaanteriormente referida; (2) a formação dos docentes e dirigentes envolvidos com o UCA; (3) a 
+avaliação diagnóstica, do processo, dos resultados e dos impactos do programa e (4) o investimento em 
+pesquisa para estudar a complexidade e amplitude da proposta. Os três primeiros pilares vêm sendo 
+contemplados por meio de diferentes estratégias, ações e parceiros. O último, que é o investimento em 
+pesquisa, é objeto do presente edital.  
+I.2 - APRESENTAÇÃO E ENVIO DAS PROPOSTAS 
+I.2.1 - As propostas devem ser acompanhadas de arquivo contendo o projeto e devem ser encaminhadas ao 
+CNPq exclusivamente via Internet, por intermédio do Formulário de Propostas Online, disponível na 
+Plataforma Carlos Chagas, a partir da data indicada no subitem II.1.2-CRONOGRAMA do 
+REGULAMENTO. 
+I.2.2 - As propostas devem ser transmitidas ao CNPq, até às 18 (dezoito) horas, horário de Brasília, da data 
+limite de submissão das propostas, descrita no subitem II.1.2- CRONOGRAMA do REGULAMENTO. No 
+entanto, o sistema eletrônico (servidor de rede) receberá propostas com tolerância de mais 24 (vinte e quatro 
+horas), encerrando-se, impreterivelmente, às 18h (dezoito horas) do dia posterior à data limite de submissão 
+das propostas, horário de Brasília. O proponente receberá, após o envio, um recibo eletrônico de protocolo da 
+sua proposta, o qual servirá como comprovante da transmissão. 
+I.2.3 – As propostas devem ser apresentadas em conformidade com o descrito no subitem II.2 -CRITÉRIOS 
+DE ELEGIBILIDADE – do REGULAMENTO, contendo rigorosamente todos os itens previstos neste Edital. O 
+arquivo contendo o projeto de pesquisa deve ser gerado fora do Formulário de Propostas On line e anexado a 
+este, nos formatos “doc”, “pdf” “rtf” ou “post script”, limitando-se a 1Mb (um megabyte). Caso seja necessário 
+utilizar figuras, gráficos, etc, para esclarecer a argumentação da proposta, estes não devem comprometer a 
+capacidade do arquivo, poisas propostas que excederem o limite de 1Mbnão serão recebidas pelo guichê 
+eletrônico do CNPq. 
+I.2.4 - Não serão aceitas propostas submetidas por qualquer outro meio, tampouco após o prazo final de 
+recebimento estabelecido no subitem I.2.2 acima. Assim, recomenda-se o envio das propostas com 
+ antecedência, uma vez que o CNPq não se responsabilizará por propostas não recebidas em decorrência de 
+eventuais problemas técnicos e congestionamentos. 
+I.2.5. - Caso a proposta seja remetida fora do prazo de submissão, ela não será aceita pelo sistema 
+eletrônico. Por este motivo e, no cumprimento do disposto no caput do art. 41, da Lei nº 8.666, de 21 de 
+junho de 1993, não haverá possibilidade da proposta ser acolhida, examinada e julgada. 
+I.2.6 – Será aceita uma única proposta por proponente. Na hipótese de envio de uma segunda proposta pelo 
+mesmo proponente, respeitando-se o prazo limite estipulado para submissão das propostas, esta será 
+considerada substituta da anterior, sendo levada em conta para análise apenas a última proposta recebida. 
+I.2.7. – Em se constatando propostas idênticas, todas serão desclassificadas. 
+I.3 - ADMISSÃO, ANÁLISE E JULGAMENTO  
+A seleção das propostas submetidas ao CNPq, em atendimento a este Edital, será realizada por intermédio 
+de análises e avaliações comparativas. Para tanto, são estabelecidas as seguintes etapas: 
+I.3.1. - Etapa I – Análise pela Área Técnica do CNPq  
+Esta etapa, a ser realizada pela área técnica do CNPq, consiste na análise das propostas apresentadas 
+quanto ao atendimento às disposições estabelecidas nos itens do REGULAMENTO, relativos ao subitem 
+II.1.4 - ITENS FINANCIÁVEIS e subitens II.2.1- QUANTO AO PROPONENTE E EQUIPE DE APOIO  e II.2.3- 
+QUANTO À INSTITUIÇÃO DE EXECUÇÃO,  dos CRITÉRIOS DE ELEGIBILIDADE. 
+I.3.2 - Etapa II – Análise, julgamento e Classificação pelo Comitê Avaliador 
+I.3.2.1. As propostas serão avaliadas e classificadas nesta etapa considerando a análise da etapa anteriore 
+os CRITÉRIOS DE ELEGIBILIDADE, indicados no subitem II.2.2.- QUANTO À PROPOSTA, e de 
+JULGAMENTO, indicados no subitem II.3., do REGULAMENTO, que serão pontuados pelo Comitê Avaliador.  
+I.3.2.2. A pontuação final de cada projeto será aferida conforme estabelecido no item II.3 – CRITÉRIOS 
+PARA JULGAMENTO do REGULAMENTO. 
+I.3.2.3 - Após a análise de mérito e relevância de cada proposta e da adequação de seu orçamento, os 
+Comitês, dentro dos limites orçamentários estipulados pela Diretoria Executiva do CNPq, poderão 
+recomendar:  
+a) aprovação, com ou sem cortes orçamentários; ou  
+b) não aprovação.  
+I.3.2.4 - Os cortes no orçamento dos projetos não poderão ultrapassar 30% do valor solicitado ao CNPq. Caso 
+os comitês sugiram cortes superiores a este valor, o projeto será automaticamente excluído da concorrência. 
+I.3.2.5 - O parecer do Comitê sobre as propostas, dentro dos critérios estabelecidos, será registrado em 
+Planilha Eletrônica, contendo a relação das propostas julgadas, recomendadas e não recomendadas, com as 
+ respectivas pontuações finais, em ordem decrescente, assim como outras informações e recomendações 
+julgadas pertinentes. Para as propostas recomendadas, será definido o valor a ser financiado pelo CNPq. 
+Para as não recomendadas, será emitido parecer consubstanciado contendo as justificativas da não 
+recomendação. A Planilha Eletrônica será assinada pelos membros do Comitê.  
+I.3.2.6. – Não é permitido integrar o Comitê Julgador o pesquisador que tenha apresentado propostas a este 
+Edital, ou que participe da equipe do projeto. 
+I.3.2.7 - É vedado a qualquer membro do Comitê julgar propostas de projetos em que: 
+a) esteja participando da equipe do projeto seu cônjuge, companheiro ou parente, consangüíneo ou afim,  em 
+linha reta ou na colateral, até o terceiro grau; ou 
+b) esteja litigando judicial ou administrativamente com qualquer membro da equipe do projeto ou seus 
+respectivos cônjuges ou companheiros.  
+I.3.3 - Etapa III – Análise pela Diretoria Executiva (DEX) do CNPq 
+Todas as propostas analisadas pelos Comitês serão submetidas à apreciação da Diretoria Executiva do 
+CNPq, que emitirá a decisão final sobre sua aprovação, observados os limites orçamentários deste Edital. 
+I.4 - RESULTADO DO JULGAMENTO  
+I.4.1. A relação das propostas aprovadas com recursos financeiros do presente Edital, será divulgada na 
+página eletrônica do CNPq, disponível na Internet no endereço www.cnpq.br e publicada no Diário Oficial 
+da União.  
+I.4.2. Todos os proponentes do presente Edital terão acesso ao parecer sobre sua proposta, preservada a 
+identificação dos pareceristas. 
+I.5 - RECURSOS ADMINISTRATIVOS 
+I.5.1. Caso o proponente tenha justificativa para contestar o resultado do julgamento das propostas, poderá 
+apresentar recurso em formulário eletrônico específico, disponível na Plataforma Carlos Chagas 
+(http://carloschagas.cnpq.br), no prazo de 10 (dez) dias corridos, a contar da data da publicação do 
+resultado no Diário Oficial da União e na página do CNPq, desde que esteja disponibilizada ao proponente o 
+parecer do Comitê Julgador na Plataforma Carlos Chagas.  
+1.5.2. O recurso deverá ser dirigido à Comissão Permanente de Análise de Recursos - COPAR que, após 
+exame, encaminhará o resultado para deliberação final da Diretoria Executiva do CNPq. 
+I.5.3. Na contagem do prazo excluir-se-á o dia do início e incluir-se-á o do vencimento, e considerar-se-ão os 
+dias consecutivos. O prazo só se inicia e vence em dias de expediente no CNPq.  
+ I.5.4. A norma específica, Resolução Normativa nº 006/2009 , que estabelece os procedimentos necessários 
+para interposição de recursos está disponível na página do CNPq, no endereço eletrônico 
+http://www.cnpq.br/normas/rn_09_006.htm. 
+I.6 – CONTRATAÇÃO DAS PROPOSTAS APROVADAS 
+I.6.1. As propostas aprovadas serão contratadas na modalidade de Auxílio Individual, em nome do 
+Coordenador/Proponente, mediante assinatura de Termo de Concessão e Aceitação de Apoio Financeiro a 
+Projeto de Pesquisa Científica e/ou Tecnológica. 
+I.6.2. A firmatura do Termo de Concessão ficará subordinada à existência prévia de Protocolo de Cooperação 
+Técnica, celebrado entre a instituição de execução do projeto e o CNPq, conforme previsão contida na alínea 
+“a” do item 5 do Anexo I da Resolução Normativa nº 024/2006 (http://www.cnpq.br/normas/rn_06_024.htm), 
+e que, nos termos da Cláusula Segunda, item 3 -  Das Competências da Instituição, do referido Protocolo, não 
+haja veto da instituição. 
+I.6.3. A existência de alguma inadimplência do proponente com a Administração Pública Federal direta ou 
+indireta constituirá fator impeditivo para a contratação do projeto. 
+I.7 – CANCELAMENTO DA CONCESSÃO 
+I.7.1. A concessão do apoio financeiro poderá ser cancelada pela Diretoria Executiva do CNPq, por 
+ocorrência, durante sua implementação, de fato cuja gravidade justifique o cancelamento, sem prejuízo de 
+outras providências cabíveis em decisão devidamente fundamentada. 
+I.8 – PUBLICAÇÕES 
+I.8.1. As publicações científicas e qualquer outro meio de divulgação de trabalho de pesquisa, apoiados pelo 
+presente Edital, deverão citar, obrigatoriamente, o apoio das entidades/órgãos financiadores. 
+I.8.2. As ações publicitárias atinentes a projetos e obras financiadas com recursos da União, deverão 
+observar rigorosamente as disposições contidas no § 1º do art. 37 da Constituição Federal, bem assim 
+aquelas consignadas na Instrução da Secretaria de Comunicação de Governo e Gestão Estratégica da 
+Presidência da República - atualmente a IN/SECOM-PR nº 02, de 16 de dezembro de 2009. 
+I.9 – IMPUGNAÇÃO DO EDITAL   
+I.9.1. Decairá do direito de impugnar os termos deste Edital o proponente que não o fizer até o segundo dia 
+útil anterior ao prazo final estabelecido para recebimento das propostas. Ademais, não terá efeito de recurso a 
+impugnação feita por aquele que, em o tendo aceitado sem objeção, venha apontar, posteriormente ao 
+julgamento, eventuais falhas ou imperfeições. 
+I.9.2. A impugnação deverá ser dirigida à Diretoria Executiva do CNPq, por correspondência eletrônica, para o 
+endereço: presidencia@cnpq.br. 
+ I.10 – REVOGAÇÃO OU ANULAÇÃO DO EDITAL  
+I.10.1. A qualquer tempo, o presente Edital poderá ser revogado ou anulado, no todo ou em parte, seja por 
+decisão unilateral da Diretoria Executiva do CNPq, seja por motivo de interesse público ou exigência legal, em 
+decisão fundamentada, sem que isso implique em direito a indenização ou reclamação de qualquer natureza. 
+I.11 – PERMISSÕES E AUTORIZAÇÕES ESPECIAIS 
+I.11.1. É de exclusiva responsabilidade de cada proponente adotar todas as providências que envolvam 
+permissões e autorizações especiais de caráter ético ou legal, necessárias para a execução do projeto.  
+I.11.2. Coordenadores brasileiros de projetos de pesquisa, relacionados à biodiversidade, devem observar a 
+legislação em vigor (MP nº 2.186-16/2001, Decreto nº 3.945/01, alterado pelo Decreto nº 4.946/2003, Decreto 
+nº 98.830/90, Portaria MCT nº 55/90) para autorizações de acesso, coleta e remessa de amostras e 
+concessão de vistos de entrada no País aos estrangeiros participantes do projeto. 
+I.12 – DAS DISPOSIÇÕES GERAIS 
+I.12.1.  Durante a fase de execução do projeto, toda e qualquer comunicação com o CNPq deverá ser feita 
+por meio de correspondência eletrônica à Coordenação do Programa de Pesquisa em Ciências Sociais 
+Aplicadas e Educação - COSAE 
+I.12.2. Qualquer alteração relativa à execução do projeto deverá ser solicitada ao CNPq por seu coordenador, 
+acompanhada da devida justificativa, devendo a mesma ser autorizada antes de sua efetivação. 
+I.12.3. Ao final da vigência, o proponente deverá apresentar a prestação de contas financeira e os relatórios 
+técnicos, em conformidade com o que estiver estabelecido no Termo de Concessão e demais normas do 
+CNPq. 
+I.12.4. Durante a execução, o projeto será acompanhado e avaliado, em todas as suas fases, de acordo com 
+o estabelecido no Termo de Concessão. 
+I.12.5. O CNPq reserva-se o direito de, durante a execução do projeto, promover visitas técnicas ou solicitar 
+informações adicionais visando aperfeiçoar o sistema de Avaliação e Acompanhamento. 
+I.12.6. As informações geradas com a implementação das propostas selecionadas e disponibilizadas na base 
+de dados do CNPq serão de domínio público. 
+I.12.7. Caso os resultados do projeto ou o relatório em si venham a  ter valor comercial ou possam levar ao 
+desenvolvimento de um produto ou método envolvendo o estabelecimento de uma patente, a troca de 
+informações e a reserva dos direitos, em cada caso, dar-se-ão de acordo com o estabelecido na Lei de 
+Inovação, nº 10.973, de 2 de dezembro de 2004, regulamentada pelo Decreto nº 5.563, de 11 de outubro de 
+2005 e pela RN-013/2008 (http://www.cnpq.br/normas/rn_08_013.htm). 
+I.12.8. O presente Edital regula-se pelos preceitos de direito público e, em especial, pelas disposições da Lei 
+nº 8.666, de 21 de junho de 1993, e, no que couber, pelas normas internas do CNPq. 
+ I.13 - DOS ESCLARECIMENTOS E DAS INFORMAÇÕES ADICIONAIS ACERCA 
+DO CONTEÚDO DO EDITAL E PREENCHIMENTO DO FORMULÁRIO DE 
+PROPOSTA ONLINE 
+Os esclarecimentos e informações adicionais acerca do conteúdo deste Edital e sobre o preenchimento do 
+Formulário de Proposta Online poderão ser obtidos por intermédio do endereço eletrônico e telefones 
+indicados em item específico do REGULAMENTO. 
+I.14- CLÁUSULA DE RESERVA 
+A Diretoria Executiva do CNPq reserva-se o direito de resolver os casos omissos e as situações não previstas 
+no presente Edital. 
+Brasília, 07 de dezembro de 2010 
+____________________________________________________  
+Edital CNPq/CAPES/SEED-MEC Nº 76/2010 
+II - REGULAMENTO 
+O presente REGULAMENTO tem por finalidade definir as atividades a serem apoiadas financeiramente e as 
+condições para implementação do apoio, mediante a seleção, por edital, de propostas para execução de 
+projetos. 
+II.1. DAS DISPOSIÇÕES ESPECÍFICAS  
+II.1.1. DO OBJETO 
+Apoiar, por meio de recursos financeiros e bolsas de fomento tecnológico e extensão inovadora, projetos de 
+pesquisa científica e tecnológica, de desenvolvimento e de inovação, com diferentes estratégias, ações e 
+parcerias, que tenham como propósitos: 
+- Fomentar inovações e fundamentação científica para a educação, a formação e a avaliação no âmbito do 
+Programa UCA (Um computador por aluno), gerando produtos e conhecimentos que possam ser 
+disseminados e analisados; 
+- Desenvolver processos e produtos relacionados à aprendizagem com o suporte do uso do laptop 
+educacional, buscando entender os diferentes modelos pedagógicos utilizadosbem comoseus benefícios 
+educacionais, tanto na formação dos professores quanto na dos alunos e da comunidade; 
+- Estudar os impactos sociais e comunicacionais e de inclusão digital provocados pelo uso do laptop 
+educacional 
+e 
+como 
+essa 
+tecnologia 
+favorece 
+o 
+desenvolvimento 
+dos 
+alunos, 
+incluindo 
+os 
+socioeconomicamentedesfavorecidos e com necessidades especiais de aprendizagem; 
+ - Subsidiar a investigação de práticas pedagógicas e de gestão, com foco na sala de aula, naescola e nos 
+sistemas de ensino, decorrentes do uso do laptop educacional, de modo a obter interpretações e 
+reconstruções epistemológicas com base no saber educacional sistematizado; 
+ - Estimular a formação de redes de pesquisa interdisciplinar e intersetorial que estejam vinculadas ao objeto 
+deste edital. 
+Esses objetivos orientam as linhas de pesquisa a serem financiadas no âmbito do Edital, sem prejuízo de 
+outras que, devidamente justificadas pelos proponentes, sinalizem um tema de relevância ligado ao programa 
+UCA e que proporcione suporte à redefinição e ou ampliação desta política educacional pública, e que esteja 
+orientada para a análise de resultados de pesquisas sobre o processo de implantação em larga escala de 
+propostas educacionais.baseadas no modelo “Um computador por aluno”. 
+II.1.2. CRONOGRAMA 
+Atividades 
+Data 
+Lançamento do Edital no Diário Oficial da União e na página do CNPq 
+07/12/2010 
+Data limite para submissão das propostas 
+07/02/2011 
+Divulgação dos resultados no Diário Oficial da União e na página do CNPq 
+na internet 
+A partir de abril de 2011 
+Início da contratação das propostas aprovadas 
+A partir de abril de 2011 
+II.1.3. RECURSOS FINANCEIROS 
+II.1.3.1 - As propostas aprovadas serão financiadas com recursos no valor global estimado de R$ 
+5.000.000,00 (cinco milhões de reais), oriundos do Tesouro Nacional, a serem liberados em duas parcelas: 
+R$ 2,5 milhões em 2011 e R$ 2,5 milhões em 2012, de acordo com a disponibilidade orçamentária e 
+financeira do CNPq.  
+II.1.3.2 - Os projetos aprovados terão o valor máximo de R$ 250.000,00 (duzentos e cinquenta mil reais), para 
+gastos com itens de custeio e capital e bolsas de fomento tecnológico e extensão inovadora, de acordo com o 
+disposto nos itens II.1.4 e.II.1.5. 
+II.1.3.3 - O proponente poderá apresentar um único projeto no edital. 
+II.1.4. ITENS FINANCIÁVEIS 
+II.1.4.1  - Os recursos do presente edital serão destinados ao financiamento de itens de custeio, capital e 
+bolsas, compreendendo: 
+ II.1.4.1.1 Custeio: 
+a) material bibliográfico; 
+b) material de consumo, componentes e/ou peças de reposição de equipamentos, software, instalação, 
+recuperação e manutenção de equipamentos; 
+c) serviços de terceiros, envolvendo pagamento integral ou parcial de contratos de manutenção e serviços de 
+terceiros, pessoa física ou jurídica, de caráter eventual. Qualquer pagamento a pessoa física deve ser 
+realizado de acordo com a legislação em vigor, de forma a não estabelecer vínculo empregatício. Assim, a 
+mão-de-obra empregada na execução do projeto não terá vínculo de qualquer natureza com o CNPq e deste 
+não poderá demandar quaisquer pagamentos, permanecendo na exclusiva responsabilidade do 
+Coordenador/Instituição de execução do projeto; 
+d) passagens e diárias, de acordo com as Tabelas de Valores de Diárias para Auxílios Individuais e Bolsas de 
+Curta Duração do CNPq (http://www.cnpq.br/normas/rn_06_031.htm#pais), desde que justificadas em 
+relação aos objetivos/atividades do projeto. 
+O valor total solicitado para os itens de custeio descritos nas alíneas “a” a “c” deverão ser incluídos no campo 
+“custeio” do Formulário de Propostas Online. Os valores de passagens e diárias deverão ser incluídos em 
+campos do mesmo nome do referido formulário, seguindo as instruções lá contidas.  
+II.1.4.1.2  Capital: 
+a) equipamentos e material permanente.  
+Os itens de capital serão alocados na instituição de execução do projeto sob a responsabilidade, manutenção 
+e guarda do Coordenador/Instituição de execução do projeto.  
+II.1.4.1.3.  Bolsas 
+II.1.4.1.3.1  Serão concedidas bolsas nas modalidades de Desenvolvimento Tecnológico e Industrial (DTI), 
+Extensão no País (EXP), Apoio Técnico em Extensão no País (ATP), Especialista Visitante (EV), Iniciação 
+Científica (IC) ou Tecnológica e Industrial (ITI), ou de Extensionismo (IEX) e de Iniciação Científica Junior 
+(ICJ). Os recursos referentes às bolsas serão incluídos, automaticamente, no orçamento do projeto, quando 
+do registro da solicitação pelo Formulário de Propostas on line. 
+II.1.4.1.3.2. A implementação das bolsas deverá ser realizada dentro dos prazos e critérios estipulados para 
+cada uma dessas modalidades, que estão indicadas no endereço http://www.cnpq.br/bolsas/index.htm. A 
+duração das bolsas não poderá ultrapassar o prazo de execução do projeto. 
+II.1.4.1.3.3 As bolsas não poderão ser utilizadas para pagamento de prestação de serviços, uma vez que tal 
+utilização estaria em desacordo com a finalidade das bolsas do CNPq. 
+II.1.4.1.3.4. Caberá ao coordenador fazer as indicações dos bolsistas tão logo seja assinado o Termo de 
+Concessão e Aceitação de Apoio Financeiro a Projeto de Pesquisa Científica e/ou Tecnológica.  
+II.1.4.2  - São vedadas despesas com: 
+ a) obras civis (ressalvadas as obras com instalações e adaptações necessárias ao adequado funcionamento 
+de equipamentos, as quais deverão ser justificadas no orçamento detalhado da proposta - subitem II.2.2), 
+entendidas como de contrapartida obrigatória da instituição de execução do projeto; 
+b) pagamento de salários ou complementação salarial de pessoal técnico e administrativo ou quaisquer 
+outras vantagens para pessoal de instituições públicas (federal, estadual e municipal);  
+c) com crachás, pastas e similares, certificados, ornamentação, coquetel, jantares, shows ou manifestações 
+artísticas de qualquer natureza; 
+d) despesas de rotina como contas de luz, água, telefone, correios, reprografia e similares, entendidas como 
+despesas de contrapartida obrigatória da instituição de execução do projeto; 
+e) pagamento, a qualquer título, a servidor da administração pública, ou empregado de empresa pública ou de 
+sociedade de economia mista, por serviços de consultoria ou assistência técnica, conforme determina a Lei 
+de Diretrizes Orçamentárias da União; 
+f) pagamento de taxas de administração, de gerência, a qualquer título; 
+g) aquisição de veículos automotores. 
+II.1.4.2.1 - As demais despesas deverão ser de responsabilidade do proponente/instituição de execução do 
+projeto, a título de contrapartida.  
+II.1.4.3 - Para contratação ou aquisição de bens e serviços deverá ser observada a legislação vigente, bem 
+como as normas do CNPq, disponíveis no endereço: 
+http://www.cnpq.br/prestacaocontas/index.htm. 
+II.1.5. PRAZO DE EXECUÇÃO DOS PROJETOS 
+As propostas a serem apoiadas pelo presente Edital deverão ter seu prazo máximo de execução estabelecido 
+em 24 (vinte e quatro) meses. Excepcionalmente, mediante apresentação de justificativa, o prazo de 
+execução dos projetos poderá ser prorrogado.  
+II.2. CRITÉRIOS DE ELEGIBILIDADE  
+Os critérios de elegibilidade indicados abaixo são obrigatórios. O atendimento aos mesmos é considerado 
+imprescindível para o exame da proposta, seu enquadramento, análise e julgamento. A ausência ou 
+insuficiência de informações sobre quaisquer deles poderá resultar na desclassificação da proposta. 
+II.2.1. QUANTO AO PROPONENTE E EQUIPE DE APOIO: 
+II.2.1.1 - O proponente, responsável pela apresentação da proposta e por sua execução, deve atender, 
+obrigatoriamente,  aos itens abaixo: 
+ a) possuir o título de doutor e ter seu currículo cadastrado na Plataforma Lattes, atualizado no prazo de até 7 
+(sete) dias após a data limite para submissão da proposta, conforme RN-004/2008, com experiência em 
+projetos educacionais e no uso pedagógico de tecnologias da informação e comunicação (TICs). 
+b) ser obrigatoriamente o coordenador do projeto; 
+c)   ter vínculo formal com a instituição de execução do projeto. Vínculo formal é entendido como toda e 
+qualquer forma de vinculação existente entre o proponente, pessoa física, e a instituição de execução do 
+projeto. Na inexistência de vínculo empregatício ou funcional, o vínculo estará caracterizado por meio de 
+documento oficial que comprove haver concordância entre o proponente e a instituição de execução do 
+projeto para o desenvolvimento da atividade de pesquisa e/ou ensino, documento esse expedido por 
+autoridade competente da instituição. Esse documento deve ficar em poder do proponente, não sendo 
+necessária a remessa ao CNPq. O pesquisador aposentado poderá apresentar proposta ao edital desde que 
+possua o título de doutor e tenha seu currículo cadastrado na Plataforma Lattes, atualizado no prazo de até 7 
+(sete) dias após a data limite para submissão da proposta, conforme RN-004/2008,  comprove manter 
+atividades acadêmico-científicas e disponha de declaração da instituição de pesquisa ou de pesquisa e 
+ensino concordando com  a execução do projeto . 
+d)   apresentar, em caso de parceria, informações detalhadas sobre as formas de cooperação e 
+responsabilidades de cada instituição envolvida, explicitadas em documento, informando o nome de cada 
+pesquisador responsável e os membros da equipe. Somente poderão ser incluídos na proposta 
+pesquisadores e instituições colaboradoras que tenham prestado anuência formal escrita, a qual deve ser 
+mantida sob a guarda do proponente. 
+II.2.1.2 - Ao apresentar a proposta, o proponente assume o compromisso de manter, durante a execução do 
+projeto, todas as condições de qualificação, habilitação e idoneidade necessárias ao perfeito cumprimento do 
+seu objeto, preservando atualizados os seus dados cadastrais juntos aos registros competentes. 
+II.2.1.3 - A equipe técnica poderá ser constituída por pesquisadores, alunos e técnicos. Outros profissionais 
+poderão integrar a equipe na qualidade de colaboradores. 
+II.2.1.4 - Somente deverão ser incluídos na equipe do projeto aqueles que tenham prestado anuência formal 
+escrita, a qual deve ser mantida sob a guarda do Coordenador do projeto. 
+II.2.1.5 - É obrigatório que os membros da equipe técnica caracterizados como pesquisadores tenham seus 
+currículos cadastrados na Plataforma Lattes. Essa exigência não se aplica a pesquisadores estrangeiros. 
+II.2.2.  QUANTO À PROPOSTA 
+II.2.2.1 - O projeto deve estar claramente caracterizado como pesquisa científica, tecnológica ou de inovação 
+e relacionado ao uso educacional do laptop e deve necessariamente envolver uma ou mais escolas 
+participantes do projeto piloto do PROUCA. (Fase II). As escolas participantes do PROUCA estão disponíveis 
+no endereço: http://www.uca.gov.br    
+II.2.2.2 - As propostas deverão ser apresentadas na forma de projeto de pesquisa que apresente as seguintes 
+informações, de forma a permitir sua adequada análise por parte do Comitê Avaliador:  
+ a) identificação da proposta; 
+b) qualificação do principal problema a ser abordado; 
+c) objetivos e metas a serem alcançados; 
+d) metodologia a ser empregada; 
+e) principais contribuições científicas, tecnológicas ou de inovação da proposta; 
+f) orçamento detalhado; 
+g) cronograma físico-financeiro; 
+II.2.2.2.1. identificação dos demais participantes do projeto, contendo, além dos dados básicos: 
+a)definição clara da atuação dos sujeitos integrantes do projeto, com explicitação da participação ativa de 
+professores, profissionais da escola e do sistema público de ensino que participam do PROUCA (Fase II), e 
+dos alunos da educação básica, além de outros membros da comunidade escolar; 
+b) as formas pelas quais se dará a atuação conjunta da escola ou da rede de escolas alvo da pesquisa, com 
+apresentação do termo de adesão da(s) mesma(s) ao projeto assinado por seu(s) dirigente(s).  
+II.2.2.2.2. grau de interesse e comprometimento de empresas com o escopo da proposta, quando for o caso; 
+II.2.2.2.3. indicação de colaborações ou parcerias já estabelecidas com outros centros de pesquisa na área; 
+II.2.2.2.4. disponibilidade efetiva de infra-estrutura e de apoio técnico para o desenvolvimento do projeto; 
+II.2.2.2.5. estimativa dos recursos financeiros de outras fontes que serão aportados pelos eventuais Agentes 
+Públicos e Privados parceiros. 
+II.2.2.3 - É recomendável que o desenvolvimento do projeto seja feito por instituições de ensino e pesquisa 
+organizadas em rede, com vistas a ampliar o olhar e o diálogo sobre as pesquisas realizadas e/ou em 
+desenvolvimento. Neste caso, informar como a rede será estruturada. 
+II.2.3 QUANTO À INSTITUIÇÃO DE EXECUÇÃO 
+II.2.3.1. A instituição de execução do projeto será aquela onde será desenvolvido o projeto de pesquisa e com 
+o qual o proponente deve apresentar vínculo e será doravante denominada “Instituição de Execução do 
+Projeto”, podendo ser: 
+a) instituição de ensino superior, pública ou privada sem fins lucrativos; 
+b) instituto e centro de pesquisa e desenvolvimento, público ou privado sem fins lucrativos; 
+II.2.3.2. A instituição de execução do projeto deverá ser constituída sob as leis brasileiras e ter sua sede e 
+administração no País. 
+II.3 - CRITÉRIOS PARA JULGAMENTO 
+ II.3.1  - São os seguintes os critérios para classificação das propostas quanto ao mérito técnico-científico e 
+sua adequação orçamentária: 
+Critérios de análise e julgamento 
+Peso 
+Nota 
+A 
+mérito, originalidade e relevância do projeto para o desenvolvimento 
+científico, tecnológico e de inovação do País e sua aderência aos termos 
+do  edital 
+2,0 
+0 a 10 
+B 
+adequação da metodologia proposta, considerando parcerias e escolas 
+envolvidas,em especial, aquelas dos municípios integrantes do UCA Total . 
+4,0 
+0 a 10 
+C 
+experiência prévia do Coordenador na área do projeto de pesquisa, 
+considerando sua produção científica ou tecnológica relevante, nos últimos 
+cinco anos 
+1,5 
+0 a 10 
+D 
+coerência e adequação entre a capacitação e a experiência da equipe do 
+projeto aos objetivos, atividades e metas propostos 
+1,5 
+0 a 10 
+E 
+adequação do orçamento aos objetivos, atividades e metas propostas 
+1,0 
+0 a 10 
+II.3.2. Para estipulação das notas poderão ser utilizadas até duas casas decimais. 
+II.3.3. A pontuação final de cada projeto será aferida pela média ponderada das notas atribuídas para cada 
+item. 
+II.3.4. O critério de desempate será a maior nota no item B. 
+I.4 - AVALIAÇÃO FINAL/PRESTAÇÃO DE CONTAS 
+II.4.1. O Coordenador do projeto deverá encaminhar em Formulário online específico, no prazo de até 60 
+(sessenta) dias após o término da vigência do projeto, em conformidade com o Termo de Concessão e 
+demais normas do CNPq: 
+II.4.1.1. a prestação de contas financeira, com apresentação de comprovantes de despesas, em 
+conformidade 
+com 
+as 
+normas 
+de 
+Prestação 
+de 
+Contas 
+disponíveis 
+no 
+endereço 
+eletrônico 
+http://www.cnpq.br/prestacaocontas/index.htm; e  
+II.4.1.2. o relatório técnico final, com detalhamento de todas as atividades desenvolvidas durante a execução 
+do projeto e o registro de todas as ocorrências que afetaram o seu desenvolvimento. 
+II.4.2. Quando solicitado pelo CNPq, o Coordenador deverá preencher formulário de avaliação e 
+acompanhamento do projeto de pesquisa aprovado. 
+ II.5 - ESCLARECIMENTOS E INFORMAÇÕES ADICIONAIS ACERCA DO 
+CONTEÚDO DO EDITAL E PREENCHIMENTO DO FORMULÁRIO DE PROPOSTA 
+ONLINE   
+II.5.1 -Esclarecimentos e informações adicionais acerca do conteúdo deste Edital podem ser obtidos 
+encaminhando mensagem para o endereço:  cosae@cnpq.br   
+II.5.2 -O atendimento a proponentes com dificuldades no preenchimento do Formulário de Propostas Online 
+será feito pelo endereço suporte@cnpq.br ou pelos telefones (61) 2108-9004 ou 2108-9354, de segunda a 
+sexta-feira, no horário de 8h30 às 18h30. 
+ 

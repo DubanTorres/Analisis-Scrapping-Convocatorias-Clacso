@@ -1,0 +1,2423 @@
+ForestValue CALL FOR PROPOSALS
+1
+ForestValue - Innovating forest-based bioeconomy
+ANNOUNCEMENT OF A
+JOINT CALL FOR
+RESEARCH PROPOSALS
+IN 2017
+The ForestValue Research Programme announces the upcoming call for joint European research
+projects. The indicative total available budget amounts to 25 million € (national public funding
+including EU top-up funding of 5 million €). The total call volume with industrial co-funding is
+estimated to be over 30 million €.
+This project has received funding from the European Union’s Horizon 2020 research
+and innovation programme under grant agreement No 773324.
+ ForestValue CALL FOR PROPOSALS
+2
+TABLE OF CONTENTS
+1.
+Timeline of the call................................................................................................................................. 2
+2.
+Contact information ............................................................................................................................... 2
+3.
+Background ........................................................................................................................................... 3
+4.
+Scope / thematic areas of the call ......................................................................................................... 4
+5.
+Rules for participation............................................................................................................................ 5
+5.1
+General eligibility criteria............................................................................................................... 5
+5.2
+Eligible funding recipients / consortia ........................................................................................... 6
+6.
+Application & Assessment..................................................................................................................... 7
+6.1
+Step 1: Pre-proposals ................................................................................................................... 7
+6.2
+Step 2: Full proposals ................................................................................................................... 8
+7.
+Funding & Monitoring ............................................................................................................................ 8
+ANNEX I - EVALUATION CRITERIA ......................................................................................................... 10
+ANNEX II - SUMMARY OF FUNDING OPTIONS per participating funding organisation ......................... 11
+ANNEX III - NATIONAL CONTACTS ......................................................................................................... 13
+ANNEX IV - SPECIFIC NATIONAL RULES............................................................................................... 14
+1. TIMELINE OF THE CALL
+17th October 2017
+Official launch of the Call for Proposals
+15th November 2017
+Partnering webinar
+23rd January 2018; 13:00 CET
+Deadline for submitting pre-proposals
+End of May 2018
+Letters to applicants / invitation to submit a full proposal
+14th August 2018; 13:00 CEST
+Deadline for submitting full proposals (only for projects that
+passed the pre-proposal phase)
+End of October 2018
+Communication of funding recommendations
+End of 2018 / early 2019
+Start of funded projects
+* PARTNERING OPPORTUNITY * NETWORKING WEBINAR * : On 15.11.2017 a networking webinar
+will be organised to give researchers the chance to interlink with each other and enlarge consortia. To
+sign up for this, applicants need to express their interest by sending three PPT slides including project
+idea, existing partners/experience and missing profiles by email to Carina Lemke c.lemke@fnr.de at the
+Call Office until 9.11.2017. A link to the webinar will be sent to registered participants on 13.11.2017.
+2. CONTACT INFORMATION
+ForestValue submission website: will be announced later
+ForestValue website (incl. link to submission tool): to be opened soon at http://www.forestvalue.org
+The administration of the call is led by the ForestValue Call Office on behalf of all the funding partners.
+General enquiries about this call should be addressed to the call office:
+1.
+Carina Lemke, Agency for Renewable Resources (FNR), c.lemke@fnr.de
+2.
+Martin Greimel, Federal Ministry of Agriculture, Forestry, Environment and Water Management
+(BMLFUW), Martin.Greimel@bmlfuw.gv.at
+3.
+Mika Kallio, Ministry of Agriculture and Forestry (MMM), Mika.Kallio@mmm.fi
+ ForestValue CALL FOR PROPOSALS
+3
+3. BACKGROUND
+ForestValue is launching a transnational call for proposals for research, development and innovation in
+the forest-based sector with a financial commitment from the participating national (or regional) research
+programmes and the EU.
+The topic for this ERA-NET Co-fund on innovative forest-based bioeconomy has been prepared in
+collaboration with three forest-based ERA-NETs to complement the WoodWisdom-Net1 Research
+Programme and the targets of the SUMFOREST2 and FORESTERRA3
+ERA-NETs with a strategic
+thematic area of high European relevance.
+The following funding organisations and programme owners participate in the joint call:
+1 http://www.woodwisdom.net/ (running since 2004, the present phase running under the FP7 ERA-NET Plus
+Scheme 2012-2017)
+2 https://www.sumforest.org/ (Tackling the challenges in sustainable and multifunctional forestry through enhanced
+research coordination for policy decisions, 2014-2017)
+3 http://www.foresterra.eu/ (Enhancing forest research in the Mediterranean through improved coordination and
+integration, 2012-2015)
+Finland:
+Ministry
+of
+Agriculture
+and
+Forestry
+(MMM), Academy of Finland (AKA); Tekes – the
+Finnish Funding Agency for Innovation (Tekes);
+Ministry of the Environment (YM)
+Austria: Federal Ministry of Agriculture, Forestry,
+Environment & Water Management (BMLFUW)
+Czech Republic: Ministry of Agriculture (MoA);
+Forestry
+and
+Game
+Management
+Research
+Institute (FGMRI) in the Czech Republic
+France: The French Environment and Energy
+Management
+Agency
+(ADEME);
+The
+French
+National Research Agency (ANR)
+Germany: Federal Ministry of Food and Agriculture
+(BMEL); Agency for Renewable Resources (FNR)
+Ireland: Department of Agriculture, Food and the
+Marine (DAFM)
+Latvia:
+Latvian
+Academy
+of
+Agricultural
+and
+Forestry
+Sciences
+(LAAFS);
+State
+Education
+Development Agency (VIAA)
+Poland: National Science Centre (NCN)
+Slovenia:
+Ministry of
+Education,
+Science
+and
+Sport (MIZS)
+Spain:
+Ministry
+of
+Economy,
+Industry
+and
+Competitiveness
+(MINECO)
+through
+the
+State
+Research
+Agency,
+The
+Centre
+for
+the
+Development of Industrial Technology (CDTI)
+Sweden:
+The
+Swedish
+Research
+Council
+for
+Environment, Agricultural Sciences and Spatial
+Planning
+(FORMAS);
+Swedish
+Energy
+Agency
+(SWEA);
+Swedish
+Governmental
+Agency
+for
+Innovation Systems (Vinnova)
+United Kingdom: The Forestry Commissioners
+(FC)
+Norway: Research Council of Norway (RCN)
+Switzerland: The Commission for Technology and
+Innovation (CTI; in the Federal Department of
+Economic Affairs FDEA); Federal Office for the
+Environment (FOEN)
+Tunisia: Institution of Agricultural Research and
+Higher Education (IRESA)
+Turkey:
+The
+Scientific
+and
+Technological
+Research Council of Turkey (TUBITAK)
+Argentina: The Argentine Ministry of Science,
+Technology and Productive Innovation (MINCyT)
+Egypt:
+Academy
+of
+Scientific
+Research
+&
+Technology (ASRT)
+Jordan: National Center for Agricultural Research
+and Extension (NCARE)
+ ForestValue CALL FOR PROPOSALS
+4
+4. SCOPE / THEMATIC AREAS OF THE CALL
+The primary purpose of the planned ForestValue joint call is to contribute to transforming the global
+economy from a dependence on fossil and non-renewable raw materials to a sustainable “bio-
+based economy”.
+The call contributes to the overall objectives of ERA-NETs - including the mobility of researchers and
+practitioners between the countries and intensify researcher training, thereby increasing the quality of
+European research & innovation actions and their implementation in the market.
+The overarching aim of the call is to support projects that will address the development and/or proof of
+concepts on novel strategies, methods, processes or products designed to support the forestry and
+forest-based industries including their respective partners, resellers, consumers and end-users in
+remaining competitive and efficient providers of sustainable bio-products and services. Currently
+underutilised potential in the forest-based sector shall be used to develop novel ideas and create new
+markets.
+The co-funded joint transnational call will address the whole forest-based value chain in two areas:
+A. Innovative sustainable management of multifunctional forests including:
+1.
+… harvesting, planning and logistics systems
+2.
+… scenarios based on the induced future alterations of species mix under predicted effects of
+climate change
+3.
+… defining tree species and cultivars (including breeding approaches) adapted to changing
+environmental influences (biotic and abiotic)
+4.
+… fostering resilience of forest ecosystems and forest production systems (incl. pests, diseases,
+invasive species) e.g. through managing biodiversity, from genes to local communities
+5.
+… methodologies for assessing the economic, social and environmental values of forest products
+and services in regional and national scales; deducting trade-offs in management
+6.
+…non-wood forest products
+B. Innovative industrial production and processing technologies, products, concepts and services
+focussing at:
+1.
+... Circular use of forest-based products, side streams and waste within a circular bio-economy.
+Energy and resource efficient processes (e.g. by utilising side stream woody biomass for energy)
+2.
+… Extraction, separation and fractionation of wood components for innovative added value green
+chemicals, components and other value-added products and their new functionalities from wood,
+wood-based hybrids & composites
+3.
+… Management concepts for lean timber construction and other building solutions (new &
+retrofitted; multi-storey & industrial buildings) including the utilization of soft and hardwood
+resources
+4.
+… Consequential full life cycle environmental, social and economic impacts of wood and wood
+construction
+5.
+… Efficient use of raw materials and other resources taking into account large scale raw material
+use alterations (e.g. by additional users (biorefinery))
+6.
+… Quality assessment of wood resources for different uses; also taking into account raw material
+properties induced by future alterations of species mix resulting under the predicted effects of
+climate change
+7.
+… Value-added use of forest-based products for dynamically changing societal needs (e.g. new
+materials or systems for timber constructions)
+ ForestValue CALL FOR PROPOSALS
+5
+As these topics covering the whole forest value chain are cross-cutting, applicants are encouraged to
+make best use of interdisciplinary systems approaches, and to take a look at improving the impact and
+integration of social research and economics in this sector.
+As the following issues pertain to all parts of the value chain, they may be addressed in each part where
+appropriate:
+
+Digitalization (integration of the above topics with state-of-the-art information and communication
+technology across company boundaries)
+
+Implications to and from EU and national policy frameworks for the Forest-based sector
+
+Innovative business concepts (incl. business ecosystems) and value added esp. for rural areas
+
+Organisation, harmonisation and standardisation of data storage, formats and protocols. Creation
+of meta-databases
+
+Societal perceptions and dialogue about the forestry and wood production sector, its products
+and contributions towards a sustainable society
+
+Future development of global circular bio-economy markets and their implication on the European
+forest based sector
+Interdisciplinary collaboration and involvement of companies and stakeholders are highly welcome.
+Consortia may cover basic and/or applied research and/or industrial research and development, close-to-
+market research and innovation actions. Please check the national annexes for specific national funding
+requirements.
+Funding is available for innovative, industrially relevant research and development projects. This means
+that a significant step beyond the state of the art is an absolute pre-requisite.
+Please note that some specific topics may be out of scope of a certain national programme!
+You should always check with all relevant funding organisations for your consortium before
+handing in a proposal.
+5. RULES FOR PARTICIPATION
+5.1 General eligibility criteria
+a.
+Pre-proposals and full proposals must be written in English and pre-proposals must be
+submitted by 23.01.2018 (13:00 CET) via the ForestValue submission website that will be
+provided on the ForestValue website (to be opened soon at www.forestvalue.org) in due time.
+b.
+Pre-proposals, which do not include all the compulsory information or do not meet the formal
+requirements listed or mentioned in this call announcement, will not be considered for funding.
+c.
+If national/regional forms are required, these must be submitted directly to the national/regional
+agency (see Annex IV).
+d.
+Consortia must include at least three independent legal entities applying for funding from three
+different countries with funding agencies participating in the call (see Annex IV). The number of
+partners per consortium is not limited, but the manageability of the consortium must be
+demonstrated (efficient consortia of typically 5-8 partners for medium-sized projects with total
+budget in a range of 1-2 Mio € are expected).
+e.
+Proposals must demonstrate added value from the international cooperation, in comparison to
+national projects, which should be evident in the layout and execution of the work packages. The
+work plan must show real cooperation and project outputs are expected to provide benefits to all
+partner countries.
+ ForestValue CALL FOR PROPOSALS
+6
+f.
+Consortia also need to be balanced between countries both in terms of number of partners and
+distribution of budget; such that all project partners contribute to and benefit from an equitable
+and balanced cooperation. To address this, the public funding requested by partners of a
+collaborative project of one country must not exceed 50% of the total public funding requested.
+g.
+Proposals should strive to foster gender balance especially among the personnel named in the
+proposal primarily responsible for carrying out the research and/or innovation activities. In
+addition, gender equality should be promoted at all levels of personnel involved in projects as well
+as in terms of the expected benefit from the knowledge created.
+5.2 Eligible funding recipients / consortia
+a.
+The initiative is intended to facilitate transnational collaboration between industry, small and
+medium-sized enterprises (SMEs), stakeholder associations, research organisations, leading-
+edge scientists from a wider range of disciplines covering forest management, wood material,
+construction, natural, biological, social, economic and other relevant sciences who will bring their
+broad expertise to support the transformation of the European forest-based sector and to secure
+its competitiveness.
+b.
+Wherever possible and meaningful, the participation of commercial and industrial partners
+– especially small and medium-sized enterprises (SMEs) – is strongly recommended to
+ensure the relevance of the research to technological development and to the needs of
+society. The participation of young scientists in the research teams is encouraged. Please
+note, however, some national programmes are not open to commercial and industrial
+partners (see Annex IV).
+If industry participation is not feasible due to the scope/outlay of the envisaged work, the reasons
+for this decision should be explained in the proposal. Note that detailed exploitation and
+dissemination plans are an important feature of every proposal.
+c.
+Innovative
+forms
+of
+cooperation
+are
+encouraged,
+i.e.
+interdisciplinary
+research
+and
+implementation across disciplinary boundaries of forest-related sciences which deliver meaningful
+cooperation between biophysical/natural and social scientists. Additionally, involvement of a
+variety of stakeholders from different geographic areas will better enable exchange of experience
+and expertise from varied academic backgrounds.
+d.
+Partners from countries which are not participating in the call are also encouraged to join a
+consortium (as additional partners; the minimum number of three partners from countries
+participating in this call remains). These so-called “third country” partners must finance their
+activities from other sources and need to state in advance the source of funding for their part in
+the project. In the full proposal phase, a letter of commitment must be included in the proposal
+confirming the source of funding. Projects must ensure that the exploitation of results focuses on
+the ForestValue partner countries and that all exploitation in third countries clearly indicates the
+Union funding that contributed to this project. These so-called “third country” partners are entitled
+to follow any applicable H2020 participation rules.
+e.
+The coordinator of any applying consortium must be from an organisation that is eligible for
+funding from one of the agencies participating in the call, i.e. an organisation that plans to
+participate at their own expense, without public funding provided via the ForestValue joint call,
+cannot act as coordinator. The project coordinator will represent the consortium externally and
+towards the Call Office and will be responsible for its internal scientific management (such as
+controlling, reporting, intellectual property rights (IPR) issues and contact with the Call Office).
+Each project partner will be represented by one (and only one) principal investigator. Within a
+joint proposal, each project partner’s principal investigator will be the contact person for the
+relevant national/regional funding organisation.
+f.
+National funding regulations are applied within this joint call. In addition to the general rules and
+procedures laid down in this document, there may be specific national rules to be followed by the
+ ForestValue CALL FOR PROPOSALS
+7
+applicants. It is strongly recommended that these are checked with the contact person at
+the respective funding agency before submitting a proposal.
+Please note that individual national funding organisations may be limited in the kind of
+project and the kind of organisation they could support. These restrictions, as well as other
+important national regulations, can be found in Annex IV “Specific National Rules” at the
+end of this document.
+Projects with ineligible partners at pre-proposal stage risk ineligibility of the whole project!
+6. APPLICATION & ASSESSMENT
+In this call a competitive two-stage submission process is used. The planned work is first presented as a
+short pre-proposal which is checked for eligibility and suitability for national funding. After the scientific
+evaluation by independent experts, consortia will be informed if they are invited to submit a full proposal
+based on this initial concept.
+6.1 Step 1: Pre-proposals
+•
+Pre-proposal applications must be submitted via the electronic submission system which will be
+available on the ForestValue website. It is the responsibility of each applicant to ensure their
+proposals are submitted on time, as the electronic submission system will close at 13:00 CET
+and late submissions (after 13:00 CET) will not be taken into account in order to ensure the
+fairness towards other applicants. Pre-proposals exceeding the maximum number of pages (7
+plus partner details and CVs; specified in the submission system) will not be taken into account.
+After the closing date for submission of the pre-proposal the information given cannot
+substantially deviate in the full proposal phase in content of the proposed project, approach,
+composition of the consortium and budget, unless this has been explicitly requested. For the
+partners budget only minor changes might be allowed with specific justification (the final
+requested amount of each partner may not increase!). All changes need to be consulted with all
+respective funding agencies.
+Some national funding bodies may also require specific national documents (application forms or
+similar) from “their” applicants at this stage. Such national documents are NOT submitted
+centrally, but directly to the relevant ministry or agency. Please consult the relevant Specific
+National Rules at the end of this document for further details.
+DEADLINE for submission of pre-proposals: 23rd January 2018 13:00 CET
+All applications are subject to confidential evaluation.
+•
+The pre-proposals will first be checked for eligibility by the Call Office with regard to mandatory
+eligibility criteria defined in the call text (“5. Rules for participation”). Afterwards the funding
+organisations will check the eligibility of the pre-proposals and their suitability for national funding
+in line with the restrictions laid down in the Specific National Rules in Annex IV.
+•
+Eligible pre-proposals will be scientifically evaluated by at least three international experts with
+regard to the criteria laid down in Annex I to this call text.
+•
+Expert panel members must sign a “declaration on conflict of interest” to ensure confidentiality
+and avoid any conflict of interest during the evaluation and selection procedures of the joint call.
+The online evaluation tool will include a feature which will prevent access to the proposal in case
+a conflict of interest is declared by the expert.
+•
+The Call Steering Committee will, based on the recommendations of the independent experts,
+select those pre-proposals that may enter the full proposal phase. After the evaluation of the pre-
+proposals all research consortia will be informed of the outcome of the evaluation and will receive
+ ForestValue CALL FOR PROPOSALS
+8
+a short evaluation assessment statement. Only consortia whose pre-proposals pass the first
+evaluation stage will be invited to submit a full proposal.
+6.2 Step 2: Full proposals
+DEADLINE for submission of full proposals: 14th August 2018 13:00 CEST
+Full proposal applications must be submitted ON TIME via the
+electronic submission system on the ForestValue website.
+•
+Full proposal applications must incorporate the feedback provided during the pre-proposal stage
+assessment. A non-confidential abstract of the description of work is required (for later publication
+in case of success only).
+•
+Any amendments from pre-proposal to full proposal have to be declared as such in the full
+proposal.
+•
+All full proposals are subject to confidential evaluation.
+•
+Submitted full proposals will be briefly checked if eligibility is still guaranteed and after this
+evaluated centrally by a joint and independent international peer review based on the evaluation
+criteria stated in Annex I to this call text. Each proposal will be evaluated by at least three
+independent experts.
+•
+At the end of the evaluation process, the evaluator panel will determine on one final ranking list of
+proposals. Based on the ranking list and the available funding, the ForestValue partners will
+decide in accordance with the H2020 ERA-NET Cofund rules and the national and/or regional
+budget availability on the projects to be funded.
+•
+The Call Office will inform the coordinators of all research consortia of the evaluation outcome by
+sending an evaluation summary. Those consortia recommended for funding will additionally be
+informed of the next steps to be taken in order to start national contract negotiations. The
+coordinators of the research consortia are responsible for communicating the decisions to the
+consortium partners.
+7. FUNDING & MONITORING
+•
+Research will be funded from national sources, i.e. research grants will be administered
+through the participating national funding organisations. In addition to the general rules and
+procedures laid out in the call text, applicants must comply with the terms and conditions of their
+responsible funding agencies and programmes (see Annex IV: Specific National Rules).
+•
+Projects funded through this initiative are expected to have a duration between 24 and 36
+months. Applicants can choose the duration according to the scope of their project. The start and
+end date should be the same for all partners in a consortium.
+ATTENTION: please note that, due to legal restrictions, projects under this call cannot be
+granted any extensions!
+•
+If a proposal is selected for funding, the partners are required to sign a consortium agreement
+which specifies Intellectual Property Rights (IPR) and other issues regarding responsibilities
+within the project and exploitation of results. The consortium agreement must be signed
+before the first payments can be made.
+•
+A list of the funded projects will be published at the end of the co-funded call. Therefore,
+applicants should be aware that the following information may be published by ForestValue and
+by the European Commission: project title, project acronym, project duration, total funding, name
+of the project coordinator (including contact information as email and telephone number), country
+ ForestValue CALL FOR PROPOSALS
+9
+and organisation name of each partner, the publishable summary of the project from the
+application. Information on each funded project, including data on each participant and an
+overview on the results will be sent to the European Commission after the end of the project
+period.
+•
+In addition to the standard requirements of your funding agency, brief annual reports and a final
+report are needed to meet the requirements of the ForestValue Research Programme. In
+addition, the consortia of funded projects will be asked to provide data on the impact of the
+research project via one brief annual questionnaire. The annual reports will be kept confidential,
+except that they will all include a non-confidential summary which will be made available to the
+public (see below). The final reports should not include any confidential information since they will
+be published on the ForestValue website.
+•
+In addition, brief project updates suitable for immediate publication have to be provided to the
+ForestValue consortium annually and a minimum of 3 stakeholder-oriented articles during the
+entire project duration. Detailed information on the reporting and monitoring procedures as well
+as templates will be provided to the coordinators of the funded projects right after the projects
+have started. The coordinator of each project will be responsible for compiling and submitting
+reports and other deliverables to the ForestValue Research Programme on behalf of the project
+consortium.
+•
+Representatives from funded consortia are requested to participate and represent their projects in
+three follow-up seminars throughout the duration of the programme: kick-off, mid-term and final
+seminar. The seminars will aim to bring together researchers and stakeholders from industry,
+academia and policy-making organisations in the forest-based Bioeconomy sector in order to
+discuss the projects’ objectives/results as well as to facilitate information exchange and
+networking. For each seminar, the projects are asked to produce policy briefs targeting
+regional/national/European policy/decision makers.
+•
+The funded projects will also be encouraged to arrange focused joint workshops with thematically
+related projects.
+•
+Researchers are encouraged to actively exploit the results of the research project and make them
+available for use, whether for commercial gain or not, in order for public benefit to be obtained
+from the knowledge created.
+•
+In case of ANY significant changes in the work program or the consortium composition, besides
+contacting the respective funding agencies, the coordinator must inform the Call Office, who will,
+together with the relevant funding organisations decide upon the proper action to be taken.
+ ForestValue CALL FOR PROPOSALS
+10
+ANNEX I - EVALUATION CRITERIA
+PRE-PROPOSAL EVALUATION CRITERIA AND SCORING SYSTEM
+1.
+Relevance of the project to the scientific scope of the co-funded call
+(YES/NO)
+2.
+Impact for the forest-based sector in a trans-European perspective
+(Score 0-5)
+3.
+Innovative scientific approach
+(Score 0-5)
+The threshold mark for individual criteria will be 3. The overall threshold mark applying to the sum of both
+individual scores will be 6. The Call Steering Committee will, based on the recommendations of the
+independent experts, select those pre-proposals that may enter the full proposal phase.
+FULL PROPOSAL EVALUATION CRITERIA AND SCORING SYSTEM
+1.
+Excellence
+(Score 0-5)
+(Clarity and pertinence of the objectives; relevance of the addressed research questions; Soundness
+of the concept; Credibility of the proposed methodology including trans-disciplinary considerations
+where relevant; Quality and expertise of the consortium as a whole; Ambition and innovation content;
+Progress beyond state-of-the-art)
+2.
+Impact
+(Score 0-5)
+(Extent to which the outputs of the project would contribute to impacts on:
+Enhanced resilience of forest ecosystems and forestry production systems to natural disturbances;
+sustainable provision of forest biomass for the European Bioeconomy; development of new sustain-
+able and resource-efficient value chains for wood based materials and consolidation of the existing
+ones; support of major transitions and innovations in the forest- and wood-based sector, as well as
+business development in rural areas and industrial development, in crucial sectors such as forest-
+based and wood-processing industries (traditional and emerging branches), construction, transport
+and energy; increased resource efficiency (e.g. water, energy) and adaption to climate change)
+3.
+Quality and efficiency of the implementation (Score 0-5)
+(Quality concerning coherence and effectiveness of the work plan; including appropriateness of the
+allocation of tasks and resources, as well as quantified targets and defined milestones;
+Complementarity of the participants within the consortium (when relevant); Extent and added value of
+transnational collaboration; Appropriateness of the management structures and procedures, including
+risk analysis and innovation management)
+The threshold mark for individual criteria will be 3. The overall threshold mark applying to the sum of the
+three individual scores will be 10.
+EVALUATION SCORES FOR THE EVALUATION
+Evaluation scores will be awarded for each of the main criteria. Each criterion will be scored out of 5 (half
+scores are allowed) and equally weighted.
+The 0-5 scoring system for each criterion indicates the following assessment:
+0 - The proposal fails to address the criterion or cannot be assessed due to incomplete information.
+1 - Poor. The criterion is inadequately addressed, or there are serious inherent weaknesses.
+2 - Fair. The proposal broadly addresses the criterion, but there are significant weaknesses.
+3 - Good. The proposal addresses the criterion well, but a number of shortcomings are present.
+4 - Very Good. The proposal addresses the criterion very well, but a small number of shortcomings
+are present.
+5 - Excellent. The proposal successfully addresses all relevant aspects of the criterion. Any
+shortcomings are minor.
+ ForestValue CALL FOR PROPOSALS
+11
+ANNEX II - SUMMARY OF FUNDING OPTIONS PER PARTICIPATING FUNDING ORGANISATION
+Country
+Funding partner organisation
+Total call
+contribution
+Max funding
+per partners
+in proposal
+Additional documents
+required (parallel to
+pre-proposal)
+Contact
+required
+TRL4
+fundable
+FI
+Ministry of Agriculture and Forestry (MMM)
+200.000 €
+-
+-
+YES
+TRL 3-7
+FI
+Academy of Finland (AKA)
+900.000 €
+-
+-
+Recommended
+-
+FI
+Tekes – the Finnish Funding Agency for Innovation
+2.000.000 €
+-
+-
+Recommended
+TRL 3-8
+FI
+Ministry of the Environment (YM)
+200.000 €
+-
+-
+YES
+TRL 3-7
+AT
+Federal Ministry of Agriculture, Forestry, Environment & Water
+Management (BMLFUW)
+1.000.000 €
+-
+-
+YES
+All
+CZ
+Ministry of Agriculture of the Czech Republic (MoA)
+110.000 €
+-
+-
+Recommended
+TRL3-7
+FR
+The French Environment and Energy Management Agency (ADEME)
+500.000 €
+200.000€
+-
+YES
+TRL 4-7
+FR
+The French National Research Agency (ANR)
+1.000.000 €
+200.000€
+-
+Recommended
+TRL 1-7
+(dep. on topic)
+DE
+Federal Ministry of Food and Agriculture (BMEL) via Agency for Renewable
+Resources (FNR)
+4.000.000 €
+500.000€
+YES
+Recommended
+All
+IE
+Department of Agriculture, Food and the Marine (DAFM)
+350.000 €
+315.000€
+YES
+YES
+TRL 1-6
+LV
+Latvian Academy of Agricultural and Forestry Sciences (LAAFS)
+100.000 €
+100.000€
+-
+YES
+-
+4 Technology readiness levels (TRL), see https://ec.europa.eu/research/participants/data/ref/h2020/wp/2014_2015/annexes/h2020-wp1415-annex-g-trl_en.pdf
+ ForestValue CALL FOR PROPOSALS
+12
+Country
+Funding partner organisation
+Total call
+contribution
+Max funding
+per partners
+in proposal
+Additional documents
+required (parallel to
+pre-proposal)
+Contact
+required
+TRL4
+fundable
+LV
+State Education Development Agency (VIAA)
+300.000 €
+-
+-
+-
+All
+PL
+National Science Centre (NCN)
+500.000 €
+-
+-
+-
+TRL 1-4
+SI
+Ministry of Education, Science and Sport (MIZS)
+630.000 €
+210.000€
+-
+Recommended
+TRL 1-6
+ES
+Ministry of Economy, Industry and Competitiveness (MINECO) through the
+State Research Agency
+500.000 €
+200.000€
+-
+Recommended
+ALL
+ES
+The Centre for the Development of Industrial Technology E.P.E. (CDTI)
+300.000 €
+-
+YES
+YES
+TRL 4-7
+SE
+The Swedish Research Council for Environment, Agricultural Sciences and
+Spatial Planning (FORMAS)
+3.000.000 €
+300.000€
+-
+Recommended
+All
+Swedish Energy Agency (SWEA)
+Swedish Governmental Agency for Innovation Systems (Vinnova)
+UK
+The Forestry Commissioners (FC)
+344.763 €
+YES
+YES
+TRL 5
+NO
+Research Council of Norway (RCN)
+1.500.000 €
+-
+-
+-
+TRL 2-6
+CH
+The Commission for Technology and Innovation (CTI; in the Federal
+Department of Economic Affairs FDEA)
+850.000 €
+-
+YES
+Recommended
+TRL 3-5
+CH
+Federal Office for the Environment (FOEN)
+850.000 €
+-
+YES
+Recommended
+TN
+Institution of Agricultural Research and Higher Education (IRESA)
+150.000 €
+-
+-
+-
+-
+TK
+The Scientific and Technological Research Council of Turkey (TUBITAK)
+350.000 €
+157.000€
+YES
+YES
+TRL 1-4
+AR
+The Argentine Ministry of Science, Technology and Productive Innovation
+(MINCyT)
+100.000 €
+50.000€
+-
+YES
+TRL 3-7
+EG
+Academy of Scientific Research & Technology (ASRT)
+700.000 €
+50.000€
+-
+-
+-
+JO
+National Center for Agricultural Research And Extension (NCARE)
+180.000 €
+-
+-
+YES
+ ForestValue CALL FOR PROPOSALS
+13
+ANNEX III - NATIONAL CONTACTS
+Cou
+ntry
+Organisation
+Name
+Telephone
+Email
+FI
+MMM
+Matti MÄKELÄ
++35 829 516 2307
++35 840 775 9558
+matti.makela@mmm.fi
+AKA
+Tuula AARNIO
+Risto VILKKO
++35 829 533 5146
++35 829 533 5136
+Tuula.aarnio@aka.fi risto.vilkko@aka.fi
+Tekes
+Tuula SAVOLA
+Ilmari ABSETZ
++35 829 505 5667
++35 850 557 7837
+tuula.savola@tekes.fi
+ilmari.absetz@tekes.fi
+YM
+Petri HEINO
++35 829 525 0203
+petri.heino@ym.fi
+AT
+BMLFUW
+Martin GREIMEL
++43 664 854 6102
+Martin.greimel@bmlfuw.gv.at
+CZ
+MoA
+Martin SMRŽ
++42 022 181 2127
+martin.smrz@mze.cz
+FR
+ADEME
+Miriam BUITRAGO
+Maeva THOLANCE
++33 241 207 418
+miriam.buitrago@ademe.fr
+maeva.tholance@ademe.fr
+ANR
+Isabelle HIPPOLYTE
++33 178 098 074
+Isabelle.hippolyte@agencerecherche.fr
+DE
+FNR
+Carina LEMKE
++49 384 369 30169
+c.lemke@fnr.de
+IE
+DAFM
+Tony QUINN
+Niamh HENNESSY
++35 316 072 684
++35 316 072 344
+Tony.Quinn@agriculture.gov.ie
+NiamhM.Hennessy@agriculture.gov.ie
+LV
+LAAFS
+Baiba RIVZA
++37 129 254 469
+Baiba.Rivza@llu.lv
+VIAA
+Maija BUNDULE
++37 167 785 423
+maija.bundule@viaa.gov.lv
+PL
+NCN
+Malwina GEBALSKA
++48 123 419 017
++48 519 404 997
+malwina.gebalska@ncn.gov.pl
+Magdalena
+ŁOPUSZANSKA-RUSEK 
++48 123 419 164
+magdalena.lopuszanska-
+rusek@ncn.gov.pl
+SI
+MIZS
+Eva BATISTA
++38 614 784 754
+eva.batista@gov.si
+ES
+CDTI
+Carlos FRANCO
++34 915 815 500
+CIFA@cdti.es
+MINECO-AEI
+Jose Javier PUEYO;
+Justyna CHOJNACKA
++34 916 038 728
+era-agro@aei.gob.es
+SE
+FORMAS
+Karin PERHANS
++46 877 540 36
+Karin.Perhans@formas.se
+SWEA
+Susanna WIDSTRAND
++46 165 442 465
+susanna.widstrand@energimyndighete
+n.se
+VINNOVA
+Anders HOLMGREN
++46 847 332 13
+Anders.holmgren@vinnova.se
+UK
+FC
+Roger COPPOCK
++44 131 314 6392
+Roger.Coppock@forestry.gsi.gov.uk
+NO
+RCN
+Petter NILSEN
++47 980 948 60
+pn@rcn.no
+CH
+CTI/FDEA
+Alain DIETRICH
++41 584 649 287
+alain.dietrich@kti.admin.ch
+FOEN
+Achim SCHAFER
++41 584 691 796
+achim.schafer@bafu.admin.ch
+TN
+IRESA
+Ali RHOUMA
+Ahlem LAAROUSSI
++21 671 784 672
+ali.rhouma@iresa.agrinet.tn
+ahlem.laaroussi@iresa.agrinet.tn
+TK
+TUBITAK
+Alperen ERDOĞAN 
++90 312 298 1270 
+alperen.erdogan@tubitak.gov.tr
+AR
+MINCyT
+Alejandra DAVIDZIUK
+Diego GALEANO
++54 011 489 95000
+ext. 4126
+madavidziuk@mincyt.gob.ar
+dgaleano@mincyt.gob.ar
+EG
+ASRT
+Amr RADWAN
++20 227 920 126
+radwan.amro@gmail.com
+JO
+NCARE
+Khaled ABULAILA
++962 647 250 71
+kabulaila@gmail.com
+ ForestValue CALL FOR PROPOSALS
+14
+ANNEX IV - SPECIFIC NATIONAL RULES
+FINLAND
+(MMM)
+Funding organisation: Ministry of Agriculture and Forestry
+Name and link to funding programme: Ministry of Agriculture and Forestry - Research and Development;
+http://mmm.fi/en/research-and-development
+Separate national application required: Not required
+Type of research funded: TRL 3-7 (preferred)
+Other specifications:
+
+Applicants are strongly advised to contact the Ministry of Agriculture and Forestry before preparing
+applications for ForestValue Cofund Call
+
+Enterprises as well as research institutes are funded; in both cases 50-70 % of the project's gross
+eligible costs are covered
+
+The standard research requirement procedures of the Ministry of Agriculture and Forestry will apply
+(for more information, please see below ”Other relevant documents/links”)
+
+The work carried out must be pre-competitive research and/or prototype demonstration
+
+Product development supporting individual firms will not be supported
+
+The results of funded projects must be open for access by all potential user groups
+
+Funding will be provided for promoting innovative sustainable management of multifunctional forests
+(Area A: topics no. 1, 2, 3 and 4)
+
+Research promoting the National Forest Strategy (NFS) of Finland is encouraged (for more
+information, please see below ”Other relevant documents/links”)
+
+The research shall also benefit the field of the Ministry’s responsibilities and forest-based bioeconomy
+Other relevant documents/links:
+
+http://mmm.fi/tutkimus-ja-kehittaminen/lomakkeet-ja-ohjeet (in Finnish only)
+
+http://mmm.fi/en/nfs (National Forest Strategy 2025)
+Funding commitment: Max. 200.000 € (for three years)
+Maximum amount per proposal: Funding is decided case by case; normally 50-70 % of the project's
+gross eligible costs are covered
+Contact person:
+Matti MÄKELÄ (Mr), Senior Officer, Natural Resources Department/ Forests and Bioenergy
+tel. +358 29 516 2307, mobile +358 40 775 9558, email matti.makela@mmm.fi
+ ForestValue CALL FOR PROPOSALS
+15
+FINLAND
+(YM)
+Funding organisation:
+Ministry of the Environment (Dnro: YM85/612/2017)
+Name and link to funding programme:
+Ministry R&D funding; http://www.ym.fi/en-US
+Separate national application required: -
+Type of research funded:
+TRL 3-7 will be preferred
+Other specifications:
+
+Funding will be provided for promoting Innovative industrial production and processing technologies,
+products, concepts and services focussing at innovative wood construction (The Call Text Area B,
+Topic No 1, 3, 4 or 6) according to the standard research requirement procedures of the Ministry of the
+Environment.
+
+Research promoting the National Wood Building Program of Finland is encouraged. Maximum
+amount of funding for the call is 200.000 € for 36 months. Any Finnish research organisation is eligible
+to bid within eligible trans-national consortia.
+
+If Finnish research providers are involved in a successful proposal, then contracting and payments will
+be according to standard procedures and standard terms and conditions of the Ministry of the
+Environment. Funding is decided case by case; normally 70 % - 80 % of the project's total costs are
+covered. The applicant has to check national funding rules by contacting the Ministry of the
+Environment before submitting a proposal (see contact details).
+
+Deadlines for submission of the pre-proposal and full proposals follow the Call Text.
+
+Please follow the standard research requirement procedures of the Ministry the Environment.
+
+Max. duration for R&D project: 36 months
+Other relevant documents/links:
+
+http://ym.fi/puurakentaminen
+Funding commitment:
+200.000 €
+Maximum Amount per Proposal:
+-
+Contact person:
+Petri HEINO – petri.heino@ym.fi
+ ForestValue CALL FOR PROPOSALS
+16
+FINLAND
+(AKA)
+Funding organisation:
+Academy of Finland
+Name and link to funding programme:
+BioFuture2025
+Separate national application required: In stage 2 the Academy of Finland invites successful applicants to
+submit applications with cost details and the commitment by the site of research to the Academy’s
+online service before making the final funding decision.
+Type of research funded: Academy of Finland funds cutting-edge, responsible and high-impact
+research and promotes the renewal and regeneration of science.
+Other specifications:
+
+Academy funding is granted following the Finnish Act on Discretionary Government Transfers and the
+Academy’s general conditions for funding. The Academy will fund a research project only if the site of
+research undertakes to provide the researcher with the necessary basic facilities for research.
+
+The call is implemented under the full cost model where Academy’s funding can be up to 70% of the
+total costs of a project. Academy funding can be used to cover both direct project costs e.g salaries)
+and indirect costs (e.g. cost of premises). Both types of costs are covered with the same percentage.
+The call follows the funding rules of the Academy project funding (eligibility of applicant, eligibility of
+costs etc).
+
+Please visit General conditions and guidelines for funding: http://www.aka.fi/en/funding/how-to-
+use-the-funding/general-conditions-and-guidelines-for-funding/
+
+If the PI does not have an employment relationship with, for example, a university or research institute,
+they must give an account of how their salary will be covered during the funding period. Applicants
+must describe this at the application stage.
+
+All Academy funding is always paid to and via a site of research (usually a university or research
+institute) that follows the Finnish Act on Discretionary Government Transfers. The applicant must
+check with the site of research that she/he will obtain their commitment to the research.
+
+It is strongly recommended to contact the National contact person already in early stage of
+project preparation.
+
+Maximum amount of funding for the call is 900.000 € for three years.
+
+Deadlines for submission of the pre-proposal and full proposals follow the Call Text.
+
+Max. duration for R&D project: 36 months
+Other relevant documents/links:
+http://www.aka.fi/en/funding/our-funding-opportunities/ see Academy projects
+Funding commitment:
+900.000 €
+Maximum Amount per Proposal:
+-
+Contact person:
+Tuula Aarnio tuula.aarnio@aka.fi
+Risto Vilkko
+risto.vilkko@aka.fi
+ ForestValue CALL FOR PROPOSALS
+17
+FINLAND
+(TEKES)
+Funding organisation: Tekes – The Finnish Funding Agency for Innovation
+Name and link to funding programme: BioNets
+https://www.tekes.fi/en/programmes-and-services/tekes-programmes/smartgreen-growth--clean-
+transition-to-the-bioeconomy/bionets--network-and-profit/
+Separate national application required: Separate national applications to Tekes are required from all
+Finnish applicants at the full proposal stage. National applications are not required in the pre-proposal
+stage..
+Type of projects funded: Industrial research and creation of new knowledge and competence, innovation,
+development and demonstration.
+Other specifications:
+
+Applicants are strongly advised to contact Tekes before preparing applications for ForestValue Cofund
+Call
+
+Funding for Finnish company project partners according to Tekes funding principles. Projects must
+have a positive impact on the Finnish society.
+
+Funding will be available only for companies operating in Finland. Tekes will not fund research
+institutions in this call, but they may be subcontractors to funded company projects.
+
+Industrial research, creation of new knowledge, new competencies and concepts are funded with
+grants.
+
+Development and demonstrations are funded with risk loans, where normal Tekes loan terms apply. In
+case of failure to commercialize the results of the project, the loan can be partly or completely
+converted into a grant.
+
+For Start-ups and SME’s the funding share is typically 50 % in grants or 50-70 % in loans of eligible
+project costs.
+
+For large companies and midcap companies (turnover under 300 million €) typical funding is 40 % in
+grants. Loans for large companies are 50 % and for midcap companies 50 or 70
+
+The national cost structure of eligible costs and networking principles are applied. This typically means
+minimum 40 % of SME and/or research subcontracting in large company projects.
+Other relevant documents/links:
+http://www.tekes.fi/en/
+https://www.tekes.fi/en/funding/
+https://www.tekes.fi/en/programmes-and-services/
+Funding commitment: 2.000.000 € of grants and loans.
+Maximum amount per proposal: No general limits. Some funding schemes have maximum budgets.
+Contact persons:
+Programme manager Tuula Savola
+Chief adviser Ilmari Absetz
++358 295055667
++358 50 5577 837
+tuula.savola@tekes.fi
+ilmari.absetz@tekes.fi
+ ForestValue CALL FOR PROPOSALS
+18
+AUSTRIA
+(BMLFUW)
+Funding organisation: BMLFUW Bundesministerium für Land- und Forstwirtschaft, Umwelt und
+Wasserwirtschaft
+Name and link to funding programme:
+DAFNE http://www.dafne.at.
+Separate national application required: No
+Type of research funded:
+all types
+Other specifications:
+
+The Austrian Federal Ministry of Agriculture, Forestry, Environment and Water Management
+(BMLFUW) provides funding for high-quality scientific research. There are no restrictions regarding the
+thematic area. All themes mentioned in the call text are eligible for Austrian proposers. Funding can be
+granted to research teams according to the standard research requirement procedures of the Ministry.
+Industry participation is possible as well but reimbursement rate is restricted to 50% of the eligible
+costs.
+The applicant has to check national funding rules by contacting the BMLFUW before submitting a
+proposal (see contact details).
+
+If Austrian research providers are involved in a successful proposal, then contracting and payments
+will be according to standard procedures and standard terms and conditions of the BMLFUW (Dafne
+Procedure, website see below).
+
+Standard rules include:
+•
+Proposed project costs shall not exceed the specified amount of financing.
+•
+The project-related portion of the depreciation costs may be requested for purchases of
+equipment (equipment).
+•
+Travel costs and costs for meetings will be reimbursed in accordance with the federal
+“Reisegebührenverordnung (RGV)”.
+•
+Overhead costs must be calculated and must not exceed 20% of the overall cost.
+•
+Payments scheme comprise in principle of a deposit payment, a payment after approval of the
+interim reports, as well as final payment after approval of the final report (at least 10%).
+Other relevant documents/links:
+-
+Funding commitment:
+1.000.000 €
+Maximum Amount per Proposal:
+not specified
+Contact person:
+Martin Greimel; Tel: 0664 8546102;
+martin.greimel@bmlfuw.gv.at
+ ForestValue CALL FOR PROPOSALS
+19
+CZECH REPUBLIC
+(MoA)
+Funding organisation: Ministry of Agriculture (MoA)
+Name and link to funding programme: The National Forestry Programme (NFP)
+Separate national application required: -
+Type of research funded: all types
+Other specifications:
+Funding will be provided preferably for promoting innovative sustainable management of multifunctional
+forest (The Call Text Area A). Eligible institutions are public research institutions (v.v.i.) founded by the
+Ministry of Agriculture. Other participants may be involved as subcontractors up to 50% of eligible costs.
+Other relevant documents/links: http://www.uhul.cz/what-we-do/national-forest-programme
+Funding commitment: 111.000 €
+Maximum Amount per Proposal: not specified
+Contact person:
+Mr. Martin Smrž, +420 22181 2127, martin.smrz@mze.cz
+ ForestValue CALL FOR PROPOSALS
+20
+FRANCE
+(ANR)
+Funding organisation: ANR - Agence Nationale de la recherche
+Name and link to funding programme:
+ANR http://www.agence-nationale-recherche.fr/
+Separate national application required: No
+Type of research funded: Basic, targeted and applied research depending on topic (see below)
+Eligibility criteria:
+
+Proposed projects may not exceed 36 months.
+
+One project can require a minimum of 15.000 € per partner and up to 200.000 € per project.
+
+Applicants must include at least one French public research organization category (university, EPST –
+Scientific or Technical Public Institution, EPIC – Industrial or Commercial Public Institution…)
+
+In the case there is a foreign company within a proposal, the participation of a French company is
+mandatory. In this case, the IP rights have to be clearly defined within the full proposal.
+
+A French principal investigator is allowed to present only one project as coordinator, but it can be
+partner within other proposals. Each applicant is not allowed to participate to more than three
+proposals in the ANR’s Work Programme 2018 (national and international calls) : one coordination and
+two partnerships or three partnerships
+
+The French part of the project proposal must not be judged similar to a project that is already financed
+by the ANR or submitted to another ANR call for proposals.
+
+The French part of the project proposal must not be considered to infringe an intellectual property right
+characterizing a counterfeit within the meaning of intellectual property.
+Important recommendations:
+
+If the project coordinator is a French organization, the project coordinator should devote at least 30%
+of his/her research time to the project;
+
+The total (in person months) of the non-permanent personnel (postdocs, fixed-term contracts,
+temporary workers) receiving ANR funding should not exceed 30% of the total (in person months) of
+the staff (permanent & non-permanent personnel) of the French partners assigned to the project;
+
+The financing duration for each post-doctoral fellowship cannot be less than 12 months.
+More information about conditions of participation and important recommendations for French participants will
+be published on ANR website
+National topic priorities:
+
+call text area A : innovative sustainable management of multifunctional forests
+
+TRL (Technology Readiness Level) 1-3 for subtopic No 1, 2, 4, 5
+;
+
+TRL 1-7 for subtopic No 3, 6
+For call text area A, the participation of a French private company is not mandatory, but would be
+appreciated
+
+call text area B : innovative industrial production and processing technologies, products, concepts
+and services :
+
+TRL 1-3 for subtopic No 1, 3, 4, 7
+
+TRL 1-7 for subtopic No 2 , 5 , 6
+For call text area B, the participation of a French private company is mandatory.
+It is important to read carefully the call text and the regulations concerning the conditions of allocation of
+ANR funding (http://www.agence-nationale-recherche.fr/RF) before submitting a research project.
+More details in the national call announcement for Forestvalue:
+Website http://www.agence-nationale-recherche.fr/en/international-cooperation/
+Funding commitment:
+1.000.000 €
+Maximum Amount per Proposal:
+200.000 €
+Contact person:
+Isabelle Hippolyte isabelle.hippolyte@agencerecherche.fr
+ ForestValue CALL FOR PROPOSALS
+21
+FRANCE
+(ADEME)
+Funding organisation:
+ADEME
+Name and link to funding programme:
+http://www.ademe.fr
+Separate national application required: NO
+Type of research funded:
+TRL 4-7
+Other specifications:
+
+Themes eligible for ADEME funding:
+-
+Topic No 1, 2, 4, 5 of the call text Area A (innovative sustainable management of multifunctional
+forests)
+-
+Topic No 1, 3, 4, 7of the call text Area B (innovative industrial production and processing
+technologies, products, concepts and services)
+
+Recherche promoting the French Research and Innovation 2025 plan for the forest-based sector is
+encouraged (http://agriculture.gouv.fr/filiere-foret-bois-le-plan-recherche-innovation-2025 ).
+
+One project can require a minimum of 15.000 € and up to 200.000 €.
+
+Proposed projects may not exceed 36 months.
+
+Applicants must include at least one French partner in the public research organization category
+(university, EPST – Scientific or Technical Public Institution, EPIC – Industrial or Commercial Public
+Institution).
+
+Participation of a French private company is not mandatory, but would be appreciated for topic A.
+Participation of a French private company is mandatory for topic B.
+
+The French part of the project proposal must not be judged similar to a project that is already financed
+by the ANR or ADEME or submitted to another ANR or ADEME call for proposals.
+
+It is important to read carefully the regulations concerning ADEME funding before submitting a
+research project : http://www.ademe.fr/recherche-innovation/financer-theses-recherche-
+linnovation/systeme-daide-rdi
+
+Full document (in French):
+http://www.ademe.fr/sites/default/files/assets/documents/systeme_aides_connaissance-deliberation-
+du-ca-14-3-3-du-23-oct-2014.pdf
+
+Note that typically, funding rates of French participants can be up to 70% for universities or research
+organizations with eligible personnel costs following an additional cost model. For companies, funding
+rates shall not exceed 50% except for SMEs which can be up to 70%
+
+There is no constraint regarding the number of companies to be involved from France, but company
+participation is recommended to ensure dissemination and knowledge transfer.
+
+At this early stage, French potential beneficiaries should be aware that ADEME procedures require
+French version for intermediary and final reports
+Other relevant documents/links:
+-
+Funding commitment:
+500.000 €
+Maximum Amount per Proposal:
+200.000 €
+Contact person:
+Miriam Buitrago miriam.buitrago@ademe.fr
+Maeva Tholance maeva.tholance@ademe.fr
+ ForestValue CALL FOR PROPOSALS
+22
+GERMANY
+(FNR)
+Funding organisation: Fachagentur Nachwachsende Rohstoffe e.V. (FNR)
+Name and link to funding programme:
+The German national funding will be legally and financially based
+on parts of BMEL’s (Bundesministerium für Ernährung und Landwirtschaft) R&D programme
+“Förderprogramm Nachwachsende Rohstoffe“ (FPNR): https://www.fnr.de/projektfoerderung/fuer-
+antragsteller/foerderprogramm-nachwachsende-rohstoffe/
+Possible national funding is restricted to biomass from forestry.
+The projects shall be in accordance with the Charta für Holz 2.0 https://www.charta-fuer-holz.de/ of the
+BMEL. The intended coverage of the aims of the Charta für Holz 2.0 has to be outlined in the (pre-)
+proposal.
+Projects addressing the impacts of climate change on forests or the improvement of carbon
+sequestration in forests cannot be funded.
+Separate national application required: YES (In parallel to the pre-proposal, German applicants are
+obliged to submit the German additional information “Zusatzformular”
+http://fnr.de/fileadmin/fnr/pdf/ForestValue_FNR_zusatzformular.pdf to s.lulies@fnr.de and
+r.heggemann@fnr.de.
+Type of research funded: The national assessment of pre-proposals will be corresponding to the rules in the
+call text.
+The German project partners of positively evaluated full proposals will, at a later stage, be invited by
+FNR to submit national application forms (AZA or AZK using the electronic proposal assistant “easy”
+(see https://foerderportal.bund.de/easyonline/ for details) – the usual FNR funding rules apply) within
+one month after notification. The guidelines for preparing AZA/AZK have to be considered for any cost
+calculations in the full proposal!
+FNR reserves the right to reject proposals for formal reasons, resulting in no funding for the German
+part of the project. Therefore, it is highly recommended to check the funding programme as well as the
+guidelines for applicants on the homepage of FNR and to contact FNR for further questions!
+Other specifications:
+Other relevant documents/links:
+For developing a proposal the applicants first need to consult the national guidelines for applicants:
+http://www.fnr.de/projektfoerderung/fuer-antragsteller/antragsverfahren/. The applicants then shall
+contact the FNR to make sure that the basic ideas of the proposal and the working plan might be
+eligible for funding.
+Applicants who are interested in funding via FNR are obliged to submit the German additional
+information “Zusatzformular” http://fnr.de/fileadmin/fnr/pdf/ForestValue_FNR_zusatzformular.pdf
+to
+s.lulies@fnr.de and r.heggemann@fnr.de in parallel to submitting the pre-proposal. Pre-proposals
+without the “Zusatzformular” submitted in time will not be taken into account in order to ensure the
+fairness towards other applicants.
+Double funding is not possible. Please consult the homepage of FNR www.fnr.de for past and ongoing
+projects in this scientific area.
+Funding commitment: 4.000.000 €
+Maximum Amount per Proposal: German project partners are advised that total requested funding for all
+German partners within one consortium should not exceed 500.000 €.
+Contact person:
+Scientific contact: Mr Sönke Lulies Tel: +49-3843/6930-130; Email: s.lulies@fnr.de
+Organisational contact: Ms Carina Lemke Tel.: +49-3843/6930-169; Email: c.lemke@fnr.de
+ ForestValue CALL FOR PROPOSALS
+23
+IRELAND
+(DAFM)
+Funding organisation: The Department of Agriculture, Food and the Marine (DAFM)
+Name and link to funding programme: http://www.agriculture.gov.ie/research/
+Separate national application required: DAFM will require a national application form to be completed for
+any successful Irish based partners emerging from the process.
+Type of research funded: Basic and applied research proposals to support policy decisions regarding the
+forest sector and the bioeconomy.
+Other specifications:
+
+See http://www.agriculture.gov.ie/research/
+
+Proposals must meet the following criteria:
+1.
+Involve a minimum of two DAFM approved Irish RPO’s each accounting for at least 10% of the
+funding sought.
+2.
+Address at least one of the ForestValue Call’s research topic areas
+3.
+Avoid duplication of recent research work already undertaken or ongoing that incorporates the
+scope of the Research Areas in the ForestValue Call
+4.
+Closely align with Forest Research Ireland (FORI) Report the Strategic Research Agenda for
+forestry and relevant priority areas of the National Research Prioritisation Exercise.
+5.
+Align with relevant national policy documents including but not restricted to Food Wise 2025,
+Forest Products and People the Government’s Action Plan for Jobs, Innovation 2020 and Our
+Sustainable Future.
+
+All DAFM approved RPOs in Ireland (including Teagasc, and the Higher Education Institutes) are
+eligible to participate and submit proposals. Public RPOs based in Northern Ireland are not eligible for
+national funding. The involvement of industry is also encouraged on a self financing basis subject to
+the need to respect the ‘public good’ nature of DAFM Research Funding Programmes and compliance
+with the National IP Protocol (see Section 6). Evidence of such industry engagement in a real and
+meaningful manner can help demonstrate the relevance and likely impact of the research work.
+Other relevant documents/links: http://www.agriculture.gov.ie/research/researchpolicy/
+Funding commitment:
+350.000 €
+Maximum Amount per Proposal:
+315.000 €
+Contact person:
+Tony Quinn
++353 16072684
+Tony.Quinn@agriculture.gov.ie
+Niamh Hennessy
++353 16072344
+NiamhM.Hennessy@agriculture.gov.ie
+ ForestValue CALL FOR PROPOSALS
+24
+LATVIA
+(LAAFS)
+Funding organisation: Latvian Academy of Agricultural and Forestry Sciences
+Name and link to funding programme:
+Separate national application required:
+Type of research funded:
+Other specifications:
+Eligible institutions:
+•
+Universities, research institutes and RTD centres entered into the Registry of Scientific institutions
+of Latvia;
+•
+Enterprises are eligible only if entered into the Latvian Commercial Registry, assumed they are
+eligible to do specific research and have proven resources for specific activities.
+Limitations of EU legislation apply together with financial reporting requirements and support rate
+limits. Project leader and the principal investigators should be researchers according to Latvian
+legislation („zinātnieks”) possessing doctoral degree and experience in relevant research field, and the 
+work carried out should be research.
+Support is provided according to Provisions Nr.259, 26.05.2015 of the Latvian Cabinet of Ministers
+http://m.likumi.lv/doc.php?id=274671
+Eligible costs:
+•
+Personnel costs, including social tax,
+•
+Consumables, materials,
+•
+Subcontracts and external services – up to 25 % of direct costs, needs detailed justification.
+Includes all publishing and patenting costs, knowledge engineering and dissemination services,
+•
+Equipment (only depreciation costs),
+•
+Travels costs (according to travel plan),
+•
+Indirect costs (up to 20 %, the indirect nature of cost position must be proven).
+Core activities cannot be subcontracted.
+Educational activities are not supported.
+Funding of cost positions not related to the project is not allowed; time sheets and invoices should
+correspond to the actual national legislation. Funding release is subject to final audit which can invoke
+a sworn auditor.
+The grant will be awarded after the following steps are accomplished:
+•
+the submitted project proposal with eligible Latvian beneficiary organization is in accordance with
+the criteria in the National Annex;
+•
+the respective Project proposal is selected for the award by the transnational evaluation
+procedure,
+•
+the Project Consortium Agreement is signed.
+The available budget will be taken into account.
+Other relevant documents/links:
+Funding commitment:
+100.000 €
+Maximum Amount per Proposal:
+100.000 €
+Contact person:
+Baiba Rivza; +37129254469; Baiba.Rivza@llu.lv
+ ForestValue CALL FOR PROPOSALS
+25
+LATVIA
+(VIAA)
+Funding organisation: Valsts izglītības attīstības aģentūra 
+(State Education Development Agency) 
+Name and link to funding programme:
+“Support for Participation in European Union’s Research and Technology Development Programs”,
+http://www.viaa.gov.lv/lat/zinatnes_inovacijas_progr/atbalsts_proj/fin_atb_projektiem/
+Separate national application required: NO
+Type of research funded: ALL TYPES
+Other specifications:
+Following legal persons (as defined under the Latvian law) are eligible for funding, except natural
+persons:
+
+R&D institutions - research institutes, universities, higher education establishments, their
+institutes and research centres etc.,
+
+Enterprises and companies.
+R&D institutions (research institutes, universities, higher education establishments, research centres
+etc.) must be listed in the Registry of Research Institutions operated by the Ministry of Education and
+Science of the Republic of Latvia.
+Private entities must be registered in the Registry of Enterprises of the Republic of Latvia and provide
+most of its R&D&I activities in the Republic of Latvia.
+Eligible costs:
+Direct costs:
+
+Personnel costs,
+
+Other direct costs such as consumables, equipment (only depreciation costs), materials
+and etc.,
+
+Subcontracts (up to 25% of total direct costs),
+
+Travels costs,
+
+Project management costs,
+Indirect costs (can reach a maximum of 20% of the total direct costs).
+Other relevant documents/links:
+
+The funding of RTD activities is provided pursuant in accordance with the Regulation of the
+Council of Ministers of the Republic of Latvia No 259 on the procedure for providing support for
+participation in international cooperation programs for research and technology (adopted on 26
+June 2015);
+
+National co-financing rate for project shall be determined in accordance with the Commission’s
+Regulation (EC) No 651/2014 of 17 June 2014 declaring certain categories of aid compatible with
+the common market in application of Articles 87 and 88 of the Treaty (General block exemption
+Regulation).
+Funding commitment: 300.000 €
+Maximum Amount per Proposal: Maximum of 70.000 € per project year can be requested by each project
+participant
+Contact person:
+Maija Bundule, maija.bundule@viaa.gov.lv
+ph.: +371 67785423
+ ForestValue CALL FOR PROPOSALS
+26
+POLAND
+(NCN)
+Funding organisation: National Science Centre, Poland
+Name and link to funding programme: https://ncn.gov.pl/wspolpraca-zagraniczna/wspolpraca-
+wielostronna/konkurs-forestvalue
+Separate national application required: On the full proposal stage Polish applicants must register their
+applications in the OSF submission system (UNISONO).
+Type of research funded: basic research
+Other specifications:
+Eligible costs
+Researchers may apply for funding of costs relevant, necessary and directly connected to the proposed
+research project, including:
+
+Personnel (including post-doc positions and scholarships for PhD students);
+
+Equipment: applicants may seek funding for research equipment up to 500,000 PLN;
+
+Other costs: materials, devices and software, outsourcing and subcontracting, travel and subsistence
+costs, visits and consultations, costs of publications (including Open access publications), collective
+investigators;
+
+Overheads: overheads may not exceed a maximum of 40% of eligible costs (excl. equipment) and
+may not be increased during the course of a research project.
+We strongly encourage all applicants to read information on eligible costs included in the Annex to NCN
+Council’s Resolution on funding granted within calls for proposals for international research projects
+(UNISONO, p. 5-12).
+Please note:
+
+Projects including Polish teams may last 24 or 36 months.
+
+Administrative personnel costs have to be covered from overheads.
+
+If one international project includes partners from at least two different Polish Host Institutions, these
+institutions must apply as a consortium. Each Host Institution comprising the consortium has a
+separate budget, but the limit on the remuneration applies to the consortium as a whole (UNISONO, p.
+8-9).
+Other relevant documents/links: Please the regulations included in the following document: UNISONO
+(Annex to NCN Council’s Resolution no. 31/2017).
+Funding commitment: 500.000 €
+Maximum Amount per Proposal: not applicable
+Contact person:
+ 
+Malwina Gębalska: malwina.gebalska@ncn.gov.pl, tel: +48 12 341 9017, mobile: + 48 519 404 997
+ 
+Magdalena Łopuszańska-Rusek: magdalena.lopuszanska-rusek@ncn.gov.pl, tel: +48 12 341 9164
+ ForestValue CALL FOR PROPOSALS
+27
+SLOVENIA
+(MIZS)
+Funding organisation: Ministry of Education, Science and Sport (MIZS)
+Name and link to funding programme:
+Ministry
+of
+Education,
+Science
+and
+Sport,
+Slovenia
+-
+International
+Scientific
+Cooperation:
+http://www.mizs.gov.si/si/javne_objave_in_razpisi/okroznice/arhiv_okroznic/okroznice_razpisi_in_javna_naroci
+la/javni_razpisi/
+Separate national application required: After the official JTC selection list for the funded projects is
+completed.
+Type of research funded: basic/applied – for Slovenian partner TRL range: 1-6
+Other specifications:
+
+Funding: 100 % for research organization (such as universities, public and private research institutes)
+who’s financed activity is non-economic in accordance with the provisions of Community Framework
+for State Aid for Research and Development and Innovation (OJ EU C 198, 27. 6. 2014). Wide
+dissemination of research results on a non-exclusive and non-discriminatory basis is required.
+For research organizations who’s financed activity is economic in accordance with the provisions of
+Community Framework for State Aid for Research and Development and Innovation the provisions of
+the Community Framework for State Aid for Research and Development and Innovation (OJ EU C
+198, 27. 6. 2014) and the national scheme for state aid in Research and Development: Program za
+spodbujanje raziskav in razvoja Ministrstva za izobraževanja, znanost in šport na področju znanosti, št 
+631-1/2016-7, 8.1.2016, applies.
+
+Eligibility of a partner as a beneficiary institution: research organizations as defined in the national
+Research and Development Act (Zakon o raziskovalni in razvojni dejavnosti - ZRRD, Uradni list RS,
+št. 22/06 – uradno prečiščeno besedilo, 61/06-ZDru-1, 112/07, 9/11 in 57/12-ZPOP-1A.) All
+participating institutions have to be registered in the Slovenian Research Agency register of research
+institutions (Informacijski sistem o raziskovalni dejavnosti v Sloveniji - Sicris).
+
+Eligibility of principal investigator and other research team members: The project activities of the
+Slovenian partner have to be under the supervision of the primary investigator/primary researcher who
+fulfills the requirements for project leader as defined in Art. 29 of the national Decree on criteria and
+standards for allocating resources for the implementation of the research activity, financed from the
+budget of the Republic of Slovenia (Uredba o normativih in standardih za določanje sredstev za 
+izvajanje raziskovalne dejavnosti, financirane iz Proračuna Republike Slovenije, Uradni list RS, št. 
+103/11, 56/12, 15/14, 103/15 in 27/17) from now on: Decree on criteria and standards). The criteria
+are further determined in the Rules on Determining the Fulfillment of Conditions for a Research
+Project Leader (Pravilnik o kriterijih za ugotavljanje izpolnjevanja pogojev za vodjo raziskovalnega
+projekta, Uradni list RS št. 53/16). All participating researchers have to be registered in the Slovenian
+Research Agency register of researchers (Sicris) and must have available research hours.
+
+Eligibility of costs: MIZS will fund all eligible costs of Slovenian researchers participating in
+successful transnational projects, recommended for funding in accordance with the Decree on criteria
+and standards. Eligible costs are defined based on the FTE value according to the Slovenian
+Research Agency’s research project categorization (A, B, C or D based on the research conducted).
+Eligible costs must be directly related to the research conducted and should include personnel,
+material and equipment costs as elements of the FTE. Indirect costs are eligible. The value is
+calculated based on the FTE value of category A, B,C, or D research projects, under the condition that
+costs under each of the specific FTE elements are appropriately decreased (by a max. of 20% for
+indirect costs).
+
+Period of eligibility of public expenditures: as of budgetary year 2019 until the end of the budgetary
+year 2022.
+ ForestValue CALL FOR PROPOSALS
+28
+
+Period of eligibility of expenditures on the project: from the starting date of the transnational
+project stipulated in the consortium agreement for a period of 36 months, with a prescribed additional
+30 day period for the payment of invoices related to the project costs. The exact duration of the project
+will be defined in the contract between MIZS and the selected Slovenian partner, after the consortium
+agreement between the selected consortium partners enters into force.
+
+National contracting negotiations will commence after the projects are selected for funding on the
+level of the transnational call. National documentation with a statement regarding the agreed starting
+date of the transnational project signed by the transnational project coordinator will be a prerequisite
+for signing the contract on national level.
+Funding commitment: max. 630.000 € with a possibility of additional EC funding depending on EC
+contribution (in the form of top up funding)
+Maximum Amount per Proposal: for all Slovenian partners within one consortium must not exceed 70.000 €
+per year (210.000 € for the total project duration of 36 months).
+Contact person: All Slovenian applicants are strongly advised to contact the Slovenian National Contact
+Person Eva Batista: eva.batista@gov.si.
+ ForestValue CALL FOR PROPOSALS
+29
+SPAIN
+(CDTI)
+Funding
+organisation:
+Centro
+para
+el
+Desarrollo
+Tecnológico
+Industrial,
+E.P.E.
+(CDTI)
+http://www.cdti.es
+Name and link to funding programme:
+R+D+i
+Internationalisation
+Programme
+http://www.cdti.es/index.asp?MP=7&MS=33&MN=2
+Separate national application required: Yes, mandatory
+
+National application: applicants requesting funding from CDTI must submit a proposal by way of the
+CDTI electronic submission system (https://sede.cdti.gob.es). The proposal must include a detailed
+description, in Spanish Language, of the activities to be undertaken and their respective budget.
+Further guidance will be published on CDTI website. Applicants must indicate their VAT (CIF) number
+in all their respective applications (both international and national).
+Type of research funded: technology-based industrial research and/or experimental development activities
+(in accordance with the definitions of EC Regulation nº651/2014), representing outstanding scientific-
+technical quality and high innovative potential. The Spanish part of the proposed work plan must be
+developed in Spain.
+Other specifications:
+
+Eligible entities: for-profit companies (being large or SME) established and carrying out R&D activities
+in Spain. Other entities such as universities, public research institutions, technological centres, and
+other private non-profit institutions could participate under subcontracting by Spanish companies
+(provided that, the entity or respective researcher is not requesting funding simultaneously from AEI-
+MINECO for the same activities).
+
+Project duration: 12 to 36 months.
+
+Project budget: The minimum eligible budget amounts to €150,000 per partner (this figure applies to
+the partner budget not to the requesting funding).
+
+Eligible costs:
+
+Personnel (intended exclusively for the RTD activities within the project).
+
+Instrument and equipment costs, to the extent and during the period in which they are used for the
+RTD activities of the research project.
+
+Contractual research costs, technical knowledge and patents bought or licensed from outside
+sources at market prices, and costs for consulting and equivalent services intended exclusively for
+the research activity.
+
+Other operating expenses, including costs for material, supplies and similar products, which result
+directly from the RTD activities of the research project;
+project audit (when applicable); travel
+expenses up to € 4,400 per year; Overheads.
+
+Management & dissemination-related activities are not eligible for funding.
+The
+detailed
+description
+of
+the
+eligible
+costs
+is
+available
+on
+CDTI
+website:
+http://www.cdti.es/index.asp?MP=7&MS=724&MN=3
+
+Funding rules: Specific financial conditions for ensuring the beneficiary’s solvency could be required
+according to CDTI funding rules. CDTI will avoid double funding, and will not finance projects, or parts
+of projects that have been already funded through other national, transnational or EU calls. CDTI will
+be responsible for making the final decision regarding the awarding of funds to those Spanish
+applicants aiming to receive CDTI’s funding, taking fully into account the assessment of the national
+full proposal, the transnational evaluation of the collaborative project, the previous funds received by
+the participants for other related projects, the fulfilment of eligibility and funding rules, and the financial
+resources
+available.
+Further
+information
+is
+available
+on:
+http://www.cdti.es/index.asp?MP=7&MS=563&MN=3
+ ForestValue CALL FOR PROPOSALS
+30
+Other relevant documents/links:
+
+Applicants are strongly advised to check the detailed information available on the CDTI website and to
+contact the NCP for getting advice about national funding rules before submitting a proposal.
+Funding commitment:
+300.000 €
+Maximum Amount per Proposal: NA
+Contact person:
+Carlos Franco Alonso – CIFA@cdti.es – +34 91 581 55 00
+ ForestValue CALL FOR PROPOSALS
+31
+SPAIN
+(MINECO- AEI)
+Funding organisation: Ministry of Economy, Industry and Competitiveness (MINECO) through the State
+Research Agency (AEI)
+Name and link to funding programme: Programa Estatal de Investigación, Desarrollo e Innovación
+Orientada a los Retos de la Sociedad, Plan Estatal de Investigación Científica y Técnica y de
+Innovación 2013-2016. Link Plan Estatal.
+Separate national application required: Yes. Not now, but at a later step.
+Type of research funded: The Ministry of Economy, Industry and Competitiveness through the State
+Research Agency participates in all topics from Area A and B.
+Other specifications:
+Mandatory: Spanish Principal Investigators must be eligible according to the APCIN call or equivalent and
+must have experience as investigators in projects funded by the Plan Nacional I+D+i 2008-2011, the
+Plan Estatal I+D+i 2013-2016, ERC Grants, European Framework Programmes or other relevant international
+programmes.
+Important:
+
+Principal Investigators are not allowed to apply for funding in more than one proposal of this ERA-NET
+Cofund ForestValue call.
+
+Principal Investigators are not allowed to apply for funding in more than one proposal in the APCIN
+call or its equivalent of a given year. This must be taken into account when participating in different
+ERA-Nets or other international initiatives.
+
+Principal Investigators should remain unchanged between the pre-proposal stage, the full proposal
+stage, and the National APCIN call or equivalent.
+
+A maximum of one Spanish entity per proposal is allowed to apply to this transnational ForestValue
+call to be funded by the AEI-MINECO.
+
+Important: Principal Investigators are not allowed to apply for funding in two consecutive APCIN calls
+(or equivalent).
+
+The State Research Agency (AEI) will avoid double funding (overlapping with other EU or National
+funding), and will not grant projects or parts of projects already funded.
+
+Further instructions:
+
+Any publication or dissemination activity resulting from the granted projects must acknowledge the
+AEI-MINECO funding: “Project (reference nº XX) funded by the AEI-MINECO through APCIN (or its
+equivalent)”.
+Eligible institutions:
+
+Non-profit
+research
+organizations
+according
+to
+the
+APCIN
+call
+or
+equivalent
+(Acciones
+de
+Programación Conjunta Internacional o equivalente).
+
+Spanish investigators are encouraged to include the Spanish industrial sector in the transnational
+consortia.
+
+CDTI will fund Spanish for profit entities participating in this FORESTValue call. (See CDTI
+requirements).
+
+Final rules on eligibility will be defined in the APCIN call (or equivalent), to be published in due time
+here
+Eligible costs:
+
+Personnel costs for temporary employment contracts (scholarships are not eligible).
+
+Current costs, small scientific equipment, disposable materials, travelling expenses and other costs
+that can be justified as necessary to carry out the proposed activities.
+
+Indirect costs (overheads) or clinical trials (proofs of concept, proofs of principle) are not eligible for
+funding in the APCIN call.
+Funding commitment: 500.000 €
+ ForestValue CALL FOR PROPOSALS
+32
+Maximum Amount per Proposal:
+The maximum amount of funding is 150.000 € per proposal and legal entity (additional 50.000 € if the
+Spanish group leader is the coordinator of the international consortium).
+Funding limits are considered eligibility criteria. Proposals not respecting these limits can be declared
+ineligible.
+The final level of funding will take into account the transnational evaluation of the collaborative
+proposal, the scientific quality of the Spanish group, the added value of the international collaboration,
+the participation of the industrial sector and the financial resources available.
+Contact person: José Javier Pueyo / Justyna Chojnacka, e-mail: era-agro@aei.gob.es
+ ForestValue CALL FOR PROPOSALS
+33
+SWEDEN
+(FORMAS / SWEDISH ENERGY AGENCY / VINNOVA)
+Funding organisations: Formas, Swedish Energy Agency and Vinnova
+Separate National application required: No separate application is needed at the pre-proposal nor at the full
+proposal stage. Full proposals that have been approved will be required to submit the same
+application to Vinnova. Vinnova will be the formal project funding manager representing also Formas
+and the Swedish Energy Agency.
+Type of research funded: Fundamental research, Industrial research and Experimental development can be
+funded. All themes mentioned in the call text are eligible for Swedish proposers. Industry participation
+is possible and encouraged but industry funding is restricted, see table below.
+Other specifications, relevant documents and links:
+a.
+The grant is a contribution to the projects total eligible costs or parts thereof. Get more information on
+eligible costs at: https://www.vinnova.se/globalassets/dokument/guide-till-vinnovas-villkor-om-
+stodberattigande-kostnader-2017-04-21-master.pdf
+b.
+Funding quotas for different types of research and organisations.
+Type of research
+Large
+enterprises
+Medium
+enterprises
+Small
+Enterprises
+Universities and
+research organisations
+Fundamental /Basic research
+100 %
+100 %
+100 %
+100 %
+Industrial research
+50 %
+60 %
+70 %
+100 %
+Experimental development
+25 %
+35 %
+45 %
+100 %
+Definitions of organization size, type of research and funding quotas are determined by
+the ordinance SFS 2015:208 in the Swedish codes of Statues. Additional funding can
+be granted if special conditions are met. Get more information at:
+https://www.vinnova.se/globalassets/dokument/tabell-stodnivaer-statligt-stod.pdf
+Funding commitment:
+Formas:
+1 Million €
+Swedish Energy Agency: 1 million €
+Vinnova:
+1 million €
+Maximum amount per proposal: The maximum amount to Swedish partners is 300.000 € per project. If
+Sweden is the project coordinator a maximum of 200.000 € can be applied for additionally. The
+exchange rate to be used is 9.5 SEK per EUR.
+Contact Person:
+Anders Holmgren
+Anders.holmgren@vinnova.se
+Telephone number: +46 8 473 32 13
+ ForestValue CALL FOR PROPOSALS
+34
+UNITED KINGDOM (Forestry Commission GB)
+BACKGROUND
+The UK forestry and timber sector has been growing strongly over the last 20 years as forests established in
+the second half of the 20th century mature and produce increasing volumes of timber for production. From an
+annual rate of production of around 750,000 m3 in the 1970’s, current harvest now exceeds 11 million m3, and
+is projected to continue rising over the next decade. This brings significant opportunities for downstream wood
+fibre using sectors. However, as the peak of production approaches with a fall for the following decades, we
+need to be smarter and more innovative in the ways in which we can add value from this valuable raw
+material.
+The Forestry Commission and Scottish Enterprise have been engaged with the WoodWisdom-Net project
+since its inception in 2004, and during this time, 62 projects with a combined value of €85 million have been
+supported across Europe. The focus of this initiative has consistently been on technological and innovative
+approaches to improving the way the sector works to add more value and increase the profitability of
+companies.
+As a publically funded project, the results of previous WoodWisdom calls are available to all, and there are
+many opportunities from the previous work for UK companies to take advantage of. To date 10 UK research
+establishments and 6 UK companies have been successful in bidding for funding under the project. The
+funders are keen to see this number increase with this new call, and the criteria set out below will help to
+ensure that proposals have the best chance of success.
+PURPOSE
+The overarching aim of the ForestValue project is to promote increased innovation and competitiveness of the
+forest-based sector in Europe and support its transformation from a resource-intensive to a knowledge-
+intensive, productive, resource-efficient and resilient sector. Sustainability and modernisation of forestry
+systems and downstream value chains including innovative business concepts and production technologies
+will be needed to develop the forestry sector and the European bioeconomy, of which forestry accounts for a
+large share. Basic and applied research, close-to-market research and innovation actions are all envisaged.
+In the UK, the funding partners wish the ForestValue initiative to facilitate collaboration amongst specialists in
+timber, processing, and/or forest research and leading-edge scientists from the wider engineering,
+biotechnology, economic, social and other relevant research communities with broader expertise that could be
+brought to bear on the challenge and contribute to the strengthening of capability in this area.
+Funding organisation: Forestry Commission GB (FC)
+UK funding for this joint call ForestValue is provided by Forestry Commission (FC), Forestry
+Commission (Scotland), Construction Scotland Innovation Centre (CSIC), Industrial Biotechnology
+Innovation Centre (IBioIC) and Scottish Enterprise (SE), and will be administered by Forestry
+Commission GB (FC). The above funding organisations will jointly fund UK participants in
+prioritised consortia.
+Name and link to funding programme:
+Timber Development Programme
+Separate national application required: NO, except construction based project proposals which may
+require an additional application process. Contact andy.leitch@forestry.gsi.gov
+Type of research funded: Public research organisations, research institutes, UK Higher Education
+Institutions and industry may apply. Commercial companies (SMEs) are encouraged to participate,
+and this will be reflected in the UK project scoring evaluation.
+UK project partners are advised that we will expect to fund 2-4 commercially focussed projects over
+the life of the call, from the total UK contribution of at least £0.3m. Applicants should state UK costs in
+Pounds Sterling and Euros in the transnational application form.
+ ForestValue CALL FOR PROPOSALS
+35
+Funding will be available for researchers from universities and public or private research institutions,
+where they can receive up to 100% of eligible costs which include personnel, equipment,
+consumables, travel and external assistance. Overhead costs at a rate of 20% of eligible costs will
+also be covered. Industry partners are strongly encouraged to participate and up to 80% eligible costs
+will be covered.
+It is anticipated that projects will include one or more UK businesses and be related directly to the
+development of a wood derived solid/non-solid product or process.
+As the topics included cover the whole forest value chain and are cross-cutting, the call will also aim to
+encourage and make best use of interdisciplinary systems approaches, and improve the impact and
+integration of social research and economics in this sector. Proposals should indicate how this might
+be addressed.
+Other specifications: There is no need to supply additional national application forms in the first or second
+stages of the application process unless specifically requested by FC; the transnational application
+form to the central call office is sufficient.
+After the joint evaluations and preliminary funding decisions, UK project partners to successful
+applications will be invited to submit a national application/documentation to FC. Industrial participation
+is strongly encouraged and some industrial collaboration is recommended.
+Other relevant documents/links:
+n.a.
+Funding commitment:
+344.763 €
+Maximum Amount per Proposal:
+n.a.
+Contact person: If you wish to discuss any of the above or guidance on project topics contact
+andy.leitch@forestry.gsi.gov.
+ ForestValue CALL FOR PROPOSALS
+36
+NORWAY
+(RCN)
+Funding organisation:
+The Research Council of Norway
+Name and link to funding programme:
+BIONÆR https://www.forskningsradet.no/prognett-
+bionaer/Home_page/1253971968569
+Separate national application required: There is no need for additional national application forms in the pre-
+proposal or the proposal stage. The transnational application to the central Call Office is sufficient.
+Positively evaluated projects will be funded by The Research Council of Norway. Formalities around
+application and funding will then be given to each applicant.
+Type of research funded: Basic and applied research.
+Other specifications: Research organizations (universities, research institutes) are eligible to apply. Large
+companies, SMEs and stakeholder associations are encouraged participating as part of a
+consortium. Funding quota of Norwegian participants can be up to 100 % for universities or research
+organisations. In the case of companies, funding quota will be decided on a case-by-case basis
+depending on the size of the company, typically up to a range of 50 %. There is no obligation
+regarding the number of companies to be involved from Norway.
+Eligible costs will follow the national rules of Researcher projects by the Research Council of
+Norway.
+Other relevant documents/links: The research topic should be within the frames of BIONÆR program plan.
+https://www.forskningsradet.no/prognett-bionaer/Documents/1253971968565
+Funding commitment: 1.500.000 € (14 mill. NOK)
+Maximum Amount per Proposal: Not specified
+Contact person: Petter Nilsen, pn@rcn.no +4798094860
+ ForestValue CALL FOR PROPOSALS
+37
+SWITZERLAND
+(CTI)
+Funding Organisation:CTI
+Name and link to funding programme: Program for Application-oriented R&D Projects
+https://www.kti.admin.ch/kti/en/home/unsere-foerderangebote/fuer-forschende/f-e-projekte.html
+Separate national application required: For Swiss participants the transnational application to the central
+call office is not sufficient. It is necessary for Swiss partners to provide an additional application to the
+Commission for Technology and Innovation (CTI) for first step proposals where the expected national
+project work is clearly and detailed described. The usual CTI funding rules and application forms will
+apply (see https://www.kti.admin.ch/kti/en/home/unsere-foerderangebote/fuer-forschende/f-e-
+projekte.html).
+Type of research funded: Innovation Projects
+Other specifications:
+•
+At least one company and one ‘not-for-profit' research institution (university, Federal Institute of
+Technology, University of Applied Sciences) recognised by the CTI should be involved in a CTI funded
+R&D project. Projects involving several participants are particularly encouraged.
+•
+As a general rule, the industry partner covers at least 50% of the project costs, a further incentive to
+ensure the efficient transfer of research results to the market (“reality check”). The industry partner
+also makes a cash contribution to its academic partner. There is no federal funding allowed to
+companies.
+•
+The project partners choose the topic. Preferably, the economic and implementation partner heads the
+project.
+•
+The project focuses on innovation. In general, no funding will be given to projects which propose
+marginal improvements of existing products.
+•
+The criteria for proposal assessment are: degree of innovation with its economic, technical and
+scientific importance, commercial potential, contribution to sustainable development, clear work
+programme and a transparent budget.
+•
+The project must have quantified, measurable goals and a coherent and structured schedule with
+verifiable progress milestones. It must be based on a thorough appraisal of the current state of the
+relevant technology and on an evaluation of the corresponding data base and patent rights.
+•
+A contract on intellectual property rights must be signed prior to the start of the project. A
+confidentiality clause should be included where necessary.
+•
+The focus is on projects which aim for efficient and fast time-to-market. Funding will also be given to
+new long-term “risk projects” with a high innovation and commercial potential.
+•
+Regular reviews by CTI experts help the partners to adhere to the project contents and time schedule
+where necessary by asking for timely corrections.
+•
+At the end of the project, a plan must be presented showing how the results will be implemented.
+Other relevant documents/links: Funding of KTT instruments; Swiss Wood Innovation Networks, S-WIN
+https://www.kti.admin.ch/kti/en/home/ueber-uns/foerderbereiche/wtt-support.html
+http://www.s-win.ch/en/activities/
+Funding commitment: ca. 850.000 €; (ca. 1 Million CHF) flexible
+Maximum Amount per Proposal: no specific limit; typical range of funding is 300 to 600 kCHF
+Contact person: Alain Dietrich Deputy (Head of Division R&D Project Promotion and KTT)
+Tel: +41 58 464 92 87
+alain.dietrich@kti.admin.ch
+ ForestValue CALL FOR PROPOSALS
+38
+SWITZERLAND
+(FOEN)
+Funding Organisation:
+FOEN
+Name and link to funding programme: Wood Action Plan (WAP) www.bafu.admin.ch/bafu/de/home/
+themen/wald/fachinformationen/strategien-und-massnahmen-des-bundes/aktionsplan-holz.html
+Separate national application required: For Swiss participants the transnational application to the central
+call office is not sufficient. It is necessary for Swiss partners to provide an additional application to the
+Federal Office for the Environment (FOEN) for first step pre-proposals where the expected national
+project work is clearly and detailed described. Please note that a few points had to be additionally
+specified. The usual Wood Action Pan funding rules will apply. The application forms and the
+additional specifications will be provided on the webpage
+www.bafu.admin.ch/bafu/de/home/themen/wald/fachinformationen/strategien-und-massnahmen-des-
+bundes/aktionsplan-holz.html
+Other specifications:
+•
+The project must be align with one of the following objectives (see p. 23-25 Wood Resource Policy
+Strategy, Objectives and Wood Action Plan, see https://www.bafu.admin.ch/bafu/en/home/topics/
+forest/publications-studies/publications/ressourcenpolitik-holz1.html):
+o
+Objective 1: The wood harvesting potential of Switzerland’s forests shall be exploited sustainably by an
+efficient Swiss forestry sector.
+o
+Objective 2: Demand for material wood products in Switzerland shall increase, particularly for those
+produced using wood from Swiss forests.
+o
+Objective 3: Energy wood shall be sustainably harvested and used in a way that is efficient and
+environmentally friendly.
+o
+Objective 4: The innovation capacity of the forest and wood value-added chain shall increase.
+•
+The project must be in accordance with one of the following priority measures (see p 28 Wood
+Resource Policy - Strategy, Objectives and Wood Action Plan):
+o
+Priority Measure 1 Optimised cascade use
+o
+Priority Measure 2 Climate-appropriate building and refurbishment
+o
+Priority Measure 3 Communication, knowledge transfer and cooperation
+•
+At least one company or association and one ‘not-for-profit' research institution (university, Federal
+Institute of Technology, University of Applied Sciences) should be involved in a WAP funded project.
+Projects involving several participants are particularly encouraged.
+•
+As a general rule, the applicants cover at least 50% of the project costs, a further incentive to ensure
+the efficient transfer of research results to the market (“reality check”). The industry partner also
+makes a cash contribution to its academic partner. There is no federal funding allowed to companies.
+•
+The criteria for proposal assessment are: Impact on sustainable development, increased demand and
+provision of timber out of the forest, uniqueness of the innovation to be developed, close to the market
+of the desired project results and the impact on the value chain forest and wood, where the value is
+added, potential to increase the image and familiarity of wood from the forest among the population,
+institutional builders, architects and planners, potential for increasingly coordinated long-term
+communication, potential to increase cooperation within the value chain forest and wood and within
+the public administration, clear work programme and a transparent budget.
+•
+The project must have quantified, measurable goals and a coherent and structured schedule with
+verifiable progress milestones. At the end of the project, a plan must be presented showing how the
+results will be implemented.
+Funding commitment:
+850.000 € (ca. 1 Million CHF)
+Maximum Amount per Proposal:
+no specific limit; typical range of funding is 100 to 300 kCHF
+Contact person:
+Achim Schafer; Scientific collaborator
+Tel: +41 58 469 17 96; achim.schafer@bafu.admin.ch
+ ForestValue CALL FOR PROPOSALS
+39
+TUNISIA
+(IRESA)
+Funding organisation: Institution de la recherche et de l´enseignement superieur agricoles (IRESA)
+Name and link to funding programme:
+Separate national application required:
+Type of research funded:
+Other specifications:
+Other relevant documents/links:
+
+Funding commitment:
+150.000 €
+Maximum Amount per Proposal:
+Contact person:
+Ahlem Laaroussi
+0021671784672
+ahlem.laaroussi@iresa.agrinet.tn
+ ForestValue CALL FOR PROPOSALS
+40
+TURKEY
+(TUBITAK)
+Funding organisation: TUBITAK
+Name and link to funding programme:
+
+1001 - Scientific and Technological Research Projects Funding Program
+
+http://www.tubitak.gov.tr/tr/destekler/akademik/ulusal-destek-programlari/icerik-1001-bilimsel-ve-
+teknolojik-arastirma-projelerini-destekleme-pr
+Separate national application required: Yes (for both stages)
+Type of research funded: 1001 - Scientific and Technological Research Projects Funding Program
+Other specifications:
+
+Max. R&D funding per project: ≃ 85.700 € (360.000 Turkish Liras)
+
+Max. duration for R&D project: 36 months
+
+Legal permission and ethical committee approval letters must be completed before full proposal stage,
+if necessary.
+
+Online project application should be done via http://ardeb-pbs.tubitak.gov.tr
+
+Projects that aim routine/case study will be eliminated.
+
+Banned coordinators/partners' projects will be eliminated.
+
+R&D projects that are higher than TRL 4 will be eliminated.
+
+Project proposals will be eliminated, if same/similar projects were funded before.
+
+Eligibility check will be done according to the rules of Scientific and Technological Research Projects
+Funding Program
+Other relevant documents/links:
+
+http://www.tubitak.gov.tr
+
+http://www.tubitak.gov.tr/tr/cagri-arsivi
+
+http://www.tubitak.gov.tr/tr/destekler/akademik/uluslararasi-destek-programlari/icerik-era-net
+
+http://www.tubitak.gov.tr/tr/destekler/akademik/ulusal-destek-programlari/icerik-1001-bilimsel-ve-
+teknolojik-arastirma-projelerini-destekleme-pr
+Funding commitment: 350.000 €
+Maximum Amount per Proposal: ~157.000 € (incl. overhead)
+Contact person:  
+Alperen ERDOĞAN – alperen.erdogan@tubitak.gov.tr
+ ForestValue CALL FOR PROPOSALS
+41
+ARGENTINA
+(MinCYT)
+Funding organisation: Ministry of Science, Technology and Productive Innovation of Argentina
+Name and link to funding programme:
+Argentina Innovadora 2020 www.mincyt.gob.ar
+Separate national application required: No
+Type of research funded: All Types
+Other specifications:
+Types of costs are eligible for funding
+•
+Direct Costs
+Mobility (travel + accommodation)
+Short-term exchange visits
+Meeting, workshops and events organization
+Publication, dissemination
+Consumables
+Small equipment (up to 15.000 €)
+•
+Indirect Costs
+Only administration
+Note: personnel cost and subcontract cost will not be covered
+Other relevant documents/links: -----
+Funding commitment: 100.000 € for two proposals: 50.000 € per project in 36 months of implementation. If
+more than one Argentinean institution is involved in the project the budget MUST be divided among
+the participating institutions. (I.E if two institutions participate on the project the 50.000€ will be divided
+among the two participant institutions).
+Maximum Amount per Proposal: 50.000€
+Contact person:
+Alejandra Davidziuk madavidziuk@mincyt.gob.ar
+Diego Galeano dgaleano@mincyt.gob.ar
+Payment scheme for argentine groups:
+1st year
+2nd year
+3rd year
+30% of budget
+35% of budget
+35% of budget
+ ForestValue CALL FOR PROPOSALS
+42
+EGYPT
+(ASRT)
+Funding organisation:
+Academy of Scientific Research and Technology (ASRT)
+http://www.asrt.sci.eg/
+Name and link to funding programme:
+National Regulations (http://www.asrt.sci.eg and www.stip.eg.net)
+Other specifications: The conditions of execution and financing of the projects upon the completion of the
+selection process shall be defined in the grant award agreements, where the body selected for
+financing will sign an agreement with the Academy of Scientific Research and Technology.
+
+Eligible applicants:
+This call is open to Egyptian legal entities established and based in Egypt. The Egyptian partner could
+be: research institutes, academic, non-academic organizations including NGOs and innovation
+agencies, industry, with special attention to small-medium size enterprises (SMEs).
+
+Eligible costs:
+a.
+Incentives up to 40% of the total requested contribution (per Egyptian applicant)
+b.
+Costs that are necessary for fulfilling the objectives of the project and include, but not
+restricted to, manufacturing of specimens & prototypes, IP protection and publication,
+acquiring access to specialized reference source databases or computer software, fees
+for use of facilities in other national institutions, etc.
+c.
+Materials, kits and consumables
+d.
+Equipment (shall be fully justified and must not exceed 25% of the total budget per
+Egyptian partner)
+e.
+Travel and subsistence costs. Daily subsistence costs are calculated according to the
+current governing rules of the Mission Directorate, Ministry of Higher Education, and
+depending on the visited country. Sometimes are limited by the host institution’s internal
+regulations. The most economical means of transport consistent with effective pursuit of
+the project should be used. Upgrades to business class are to be done at one's own
+expense.
+f.
+Organisational costs of events and projects’ meetings.
+g.
+Overhead cannot exceed 5% of the total requested fund
+h.
+The budget of the following activities shouldn’t exceed 15% of the Egyptian Applicant’s
+requested funding: Activities that are supporting academic teaching programs, websites
+launch, design and development of original teaching tools.
+
+Conditions of funding of companies and Private Sector
+This call is also open for private sector including SMEs. Terms of funding companies are based on the
+local regulations of the Academy of Scientific Research and Technology, in Egypt where beneficiaries
+are required to either submit a Letter of Guarantee against the fund amount, or follow a post-activity
+milestone payment schedule.
+Other relevant documents/links:
+
+www.asrt.sci.eg
+
+www.stip.eg.net
+Funding commitment:
+700.000 €
+Maximum Amount per Proposal:
+50.000 €
+Contact person:
+Dr. Amr Radwan (radwan.amro@gmail.com)
+Ms. Salma Essawi (Innov@sti.sci.eg ; sme@sti.sci.eg)
++20 227 920 126
+ ForestValue CALL FOR PROPOSALS
+43
+JORDAN
+(NCARE)
+Funding organisation:
+National Center for Agricultural Research & Extension -
+NCARE
+Name and link to funding programme:
+Internal funding (in kind)
+Separate national application required: none
+Type of research funded:
+Research in agricultural sciences with focus on applied
+research
+Other specifications:
+none
+Other relevant documents/links:
+none
+Funding commitment:
+180.000 €
+Maximum Amount per Proposal:
+n.a.
+Contact person:
+Dr Khaled Abulaila; Tel: 00962 6 4725071
+kabulaila@gmail.com
+  
+ 
+ARGENTINA 
+Funding organisation:  Ministry of Science, Technology and Productive Innovation of Argentina 
+Name and link to funding programme: Argentina Innovadora 2020 www.mincyt.gob.ar   
+Separate national application required: NO 
+Type of research funded: All Types 
+Other specifications:   
+ 
+Types of costs are eligible for funding 
+ 
+Direct Costs 
+Mobility (travel + accommodation) 
+Short-term exchange visits 
+Meeting, workshops and events organization 
+Publication, dissemination 
+Consumables 
+Small equipment (up to 15.000 euros) 
+Indirect Costs 
+Only administration 
+Note: personnel cost and subcontract cost will not be covered 
+Other relevant documents/links: ----- 
+Funding commitment: EURO 100.000 for two proposals: 50.000 per project in 36 months of 
+implementation. If more than one Argentinean institution is involved in the project the budget MUST be 
+divided among the participating institutions. (I.E if two institutions participate on the project the 50.000 
+euros will be divided among the two participant institutions).  
+ 
+Payment scheme for argentine groups: 
+1st year 
+2nd year 
+3rd year 
+30% of budget 
+35% of budget 
+35% of budget 
+ 
+Maximum Amount per Proposal: EURO 50.000 
+  
+Contact person:  
+Alejandra Davidziuk  madavidziuk@mincyt.gob.ar  
+Diego Galeano dgaleano@mincyt.gob.ar  
+  
+ 

@@ -1,0 +1,3427 @@
+Proceso de envío de propuestas - Formulario de solicitud de tiempo de observación: 
+Las propuestas deben ser elaboradas y enviadas en forma electrónica a través del software 
+GEMINI Phase I submission tool (PIT) en formato xml (Extensible Markup Language). Para ello, los 
+interesados en presentar propuestas deberán obtener la última versión de la PIT lanzada por el 
+Observatorio Gemini a tal fin. 
+Ante cualquier consulta, no dude en comunicarse con la OGA (Oficina Gemini Argentina). 
+Recomendaciones importantes: 
+Recuerde que el observatorio Gemini sólo acepta propuestas generadas con la versión de la PIT 
+correspondiente al semestre en cuestión. 
+En la PIT, los textos correspondientes a la Justificación Científica, Diseño Experoimental, y 
+Justificación Técnica, así como las figuras, deben adjuntarse en un único archivo pdf. Para la 
+preparación del mismo se deben usar los templates LateX o doc accesibles desde la misma PIT. Se 
+recomienda respetar estrictamente los límites de páginas indicados en los comentarios del 
+formulario LaTeX. 
+Antes de enviar la propuesta, se debe verificar que la misma no tenga errores. Para ello, consulte 
+en la ventana "Problems". De existir problemas, asegúrese de resolverlos antes de efectuar el 
+envío. 
+Al oprimir el botón "submit proposal", la PIT generará un mensaje con el resultado del envío. 
+Verifique que dicho mensaje indique que la propuesta fue enviada correctamente y que se le ha 
+asignado un número de referencia a la misma. Guarde un registro de dicho número, ya que es la 
+identificación de su propuesta en la base de datos de la OGA.  
+Cada propuesta debe ser enviada una sola vez. Si existiera algún problema durante el envío y 
+usted no recibiera la comunicación con el número asignado a su propuesta, realice un nuevo 
+intento pero no deje de comunicarse con la OGA. 
+Dado que cada Oficina Nacional posee un sistema de recepción de propuestas abierto a los demás 
+socios del consorcio, las propuestas conjuntas (joint proposals) deben enviarse una sola vez (NO es 
+necesario que las mismas sean enviadas por cada uno de los socios). Dicho envío puede ser 
+realizado por cualquier integrante de la misma, teniendo cuidado de hacer click sobre cada uno de 
+los países a los cuales debe llegar la propuesta. 
+Proceso de asignación de tiempo: 
+Una vez finalizada la recepción de propuestas, la Oficina Gemini Argentina envía todas las 
+solicitudes recibidas al correspondiente NTAC. Con el propósito de asistir al mismo en aspectos 
+específicamente técnicos, la OGA realiza una evaluación de la factibilidad técnica de cada una de 
+las propuestas recibidas. El NTAC podrá tener en cuenta estas evaluaciones en la elaboración del 
+orden de mérito del correspondiente semestre. Asimismo, las mencionadas evaluaciones son 
+ remitidas a los correspondientes PIs al finalizar el proceso de evaluación. Por tal motivo, se solicita 
+a los mismos tengan a bien incluir toda información que consideren pueda ser útil y que facilite la 
+verificación de los tiempos solicitados (ejemplo: parámetros considerados en el cálculo de las 
+exposiciones, overheads -tiempo adicional al tiempo neto de observación que se utiliza para 
+preparar el instrumento y el telescopio- y salidas de la ITC en formatos adecuados para la PIT). Se 
+recomienda a cada PI consultar atentamente los criterios establecidos por el Consejo Asesor de 
+Usuarios (CAU) para la evaluación de las propuestas. 
+Concluida la evaluación por parte del NTAC, éste produce un orden de mérito único para ambos 
+telescopios, el cual es enviado al Observatorio Gemini para ser incorporado al proceso de fusión 
+de todas las propuestas recibidas por cada socio del Proyecto Gemini. Dicho proceso final es 
+realizado por el ITAC, comité que se reúne dos veces al año a tales efectos, y para dirimir cualquier 
+conflicto existente entre los socios del consorcio. El resultado de la reunión del ITAC es la lista final 
+de propuestas que serán beneficiadas con tiempo en los telescopios. 
+Los PIs de todas aquellas propuestas que reciban tiempo de telescopio durante la correspondiente 
+reunión del ITAC, son contactados por el Observatorio Gemini para que completen la denominada 
+Phase II. La misma consiste en diagramar en forma detallada, las observaciones a llevar a cabo 
+para cada proyecto. Esto se realiza mediante el software Gemini Observing Tool (OT), el cual (al 
+igual que la PIT) es actualizado en cada semestre. También se le informa a cada PI la fecha límite 
+para el envío de la correspondiente Phase II a la OGA. Esta oficina realiza una revisión de las 
+mismas y efectúa las interacciones que fueran necesarias con el PI, hasta lograr superar las 
+dificultades que surjan. 
+Si desea conocer más sobre la OT, haga click aquí  
+Instrucciones de Phase II 
+Para completar la Phase II, se asigna a cada propuesta un contacto local en la OGA (propuestas 
+argentinas) o de cualquiera de las NGO de los países participantes en el programa en cuestión 
+(joint proposals), de manera tal que el PI pueda evacuar cualquier duda referida a su programa. 
+Existen fechas límite para el proceso de Phase II, las cuales deben cumplirse en forma mandatoria 
+ya que de lo contrario el Observatorio Gemini excluirá dicho programa del sistema "queue" y no se 
+observará. 
+Las fechas límite para cada semestre pueden consultarse a través de este enlace. 
+Una vez aprobada por la OGA, cada propuesta pasa a estado "For Activation" y a manos de los 
+"Contactos Científicos" asignados a cada programa. Estos realizan una nueva evaluación de los 
+proyectos. De existir algún tipo de inconveniente no resuelto por la OGA, el Contacto Científico 
+devolverá las observaciones a "Phase II", e interactuará con el PI y el contacto local de la OGA 
+hasta resolver los problemas. Cuando el programa en cuestión es aprobado por el Contacto 
+Científico, las observaciones se ubican en estado "Ready", lo que significa que el Observatorio 
+ Gemini las pondrá "Active", cuando el objeto sea observable, u "On Hold" cuando el objeto aún no 
+pueda ser observado. 
+Todos estos procesos son elaborados, visualizados y resueltos vía OT. 
+En el caso de programas que requieran la construcción de "máscaras", se aplica este mismo 
+esquema de procedimiento. Sin embargo, en ese caso el PI deberá respetar, además, las fechas 
+límite fijadas por el observatorio con el objeto de cortar las mismas. Estas fechas varían semestre a 
+semestre y pueden consultarse en la página del Observatorio Gemini. 
+ Llamado a propuestas para el Observatorio Gemini
+semestre 2021B
+La Oficina Gemini Argentina (OGA) informa que el Observatorio Gemini ha abierto el
+llamado a la presentación de propuestas de observación para el semestre 2021B.
+Llamado para programas regulares (modalidad clásica y en fila):
+●
+Período:  1° de agosto de 2021 a 31 de enero de 2022.
+●
+Fecha de cierre del llamado: miércoles 31 de marzo de 2021 a las 17:00, hora oficial
+argentina.
+●
+Tiempo argentino ofrecido para observación: 32.7 hs. para Gemini Norte y 30.7 hs.
+para Gemini Sur.
+Principales Novedades:
+●
+Debido al impacto de la pandemia de COVID-19 es posible que haya cambios
+durante el semestre que afecten la disponibilidad de tiempo para observación y
+de los instrumentos.
+●
+A partir de este llamado Argentina recomienda a los Investigadores Principales (PI)
+que soliciten tiempo argentino que intenten redactar sus propuestas en modo
+anónimo. En este semestre se trata solamente de un entrenamiento. El NTAC
+seguirá evaluando las propuestas como hasta ahora. Más detalles al respecto se
+encuentran en el documento adjunto (“Recomendaciones…”). La OGA realizará una
+charla informativa el martes 16 de marzo a las 11 a.m.
+a través de este link:
+https://meet.google.com/bso-sbfd-vgf
+●
+Se prevé que GNIRS solamente se pueda utilizar durante noviembre, diciembre y
+enero debido a la instalación del nuevo IFU.
+●
+Altair, el sistema de óptica adaptable en Gemini Norte, se ofrece sólo en modo
+Estrella Guía Natural (Natural Guide Star) en este semestre.
+●
+A través de Gemini, se puede pedir tiempo en Subaru en modo fila (incluso
+programas de menos de media noche) y también filler programs1, similares a los
+Poor Weather, para el instrumento Hyper Suprime-Cam para el semestre 2021B.
+Ver detalles aquí.
+●
+Para este semestre se ofrecen en Gemini Sur los instrumentos visitantes: Zorro
+(cámara tipo speckle) e IGRINS (espectrómetro de alta resolución en el infrarrojo
+cercano).
+En
+Gemini
+Norte:
+‘Alopeke
+(cámara
+tipo
+speckle) y MAROON-X
+(espectrógrafo de alta resolución).
+●
+Gemini está compilando estadísticas de género para medir y monitorear la
+igualdad de género entre las propuestas presentadas y las que reciben tiempo.
+1 Programas que se ejecutan en condiciones de observación con seeing > 1.5 arcsec y/o poca transparencia,
+similares a los Poor Weather de Gemini.
+ Agradecemos a los usuarios tengan a bien completar el campo correspondiente
+en la Phase I Tool (PIT).
+Se adjuntan dos archivos que se recomienda leer detenidamente. Uno de ellos brinda
+detalles sobre el llamado a propuestas para el semestre 2021B y el otro indica una serie de
+recomendaciones realizadas por el Consejo Asesor de Usuarios (CAU) a los PI y tesistas.
+Ambos documentos están también en:
+https://www.argentina.gob.ar/ciencia/sact/convocatorias-gemini
+Por mayor información consultar
+https://www.gemini.edu/observing/phase-i/standard-semester-program/2021b-call-propos
+als
+Importante
+Se recuerda que el tiempo empleado para realizar las nighttime partner calibrations se
+carga al programa que las requiere y es agregado automáticamente por la PIT al tiempo
+solicitado para cada target. La única excepción, sólo para Argentina, son las observaciones
+en el NIR (al respecto ver el documento “Detalles…” adjunto).  Por más información ver
+https://www.gemini.edu/sciops/observing-gemini/proposal-submission/phase-i-tool-pit/ge
+mini-phase-i-tool-help-/observations-0
+Llamados para otras modalidades
+Está abierto el llamado mensual a la presentación de propuestas de observación de
+respuesta rápida (Fast Turnaround) a ejecutarse en el primer semestre de este año
+(2021A). En esta modalidad se ofrecen 3.9 horas en Gemini Norte y 3.6 horas en Gemini
+Sur. Esta modalidad permite un trámite más rápido que los programas regulares. No es
+necesario que se trate de observaciones urgentes. Por más información consultar
+http://www.gemini.edu/sciops/observing-gemini/observing-modes/fast-turnaround/call-for
+-proposals
+Además, continúan vigentes las modalidades Tiempo a Discreción del Director (DDT) y
+Poor Weather. Más información al respecto en
+https://www.gemini.edu/sciops/observing-gemini/proposal-routes-and-observing-modes/
+director039s-time
+https://www.gemini.edu/sciops/observing-gemini/proposal-routes-and-observing-modes/po
+or-weather
+Cordiales saludos,
+Oficina Gemini Argentina.
+  
+ 
+Llamado a propuestas para el Observatorio Gemini (semestre 2021B) 
+Detalles 
+La Oficina Gemini Argentina informa que el Observatorio Gemini ha abierto el llamado a
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+presentación de propuestas de observación para el semestre 2021B (que comprende el período
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+entre el 1° de agosto de 2021 y el 1° de enero de 2022). La ​fecha de cierre del llamado, para
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+nuestro país, es el día ​miércoles 31 de marzo de 2021 a las 17:00​, hora oficial argentina. Tener en
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+cuenta que la fecha de cierre puede ser distinta para cada socio del consorcio (ver ​aquí​). La
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+fecha límite para el envío de propuestas conjuntas es la que corresponde al país del
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Investigador Principal (PI). 
+Este llamado corresponde a los modos clásico y fila (​queue​), estimándose que Argentina
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+contará con ​32.7 hs en Gemini Norte y 30.7 hs en Gemini Sur​. 
+En este ​enlace podrá encontrar toda la información necesaria, tanto para la preparación
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+de las propuestas, como para el envío de las mismas (ver pestaña ​Phase I Submission
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+Guidelines​). Por favor, ​lea con atención ya que toda la información es de relevancia, en especial
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+aquella referida a la disponibilidad y modalidades ofrecidas para cada instrumento. 
+Se recomienda también ver el documento ​“​Phase I - Proposal for telescope time and
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+time allocation​”​, en el que se detalla paso a paso el procedimiento para el envío de propuestas. 
+Recomendamos consultar además otras modalidades de llamados, especialmente los
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+programas de respuesta rápida ​(​Fast Turnaround Programs - FT​), para el semestre 2021A. Estas
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+propuestas rápidas permiten obtener ​datos pocas semanas después de la aprobación de la
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+propuesta. ​No
+es
+necesario
+que
+sea
+una
+propuesta urgente. El tiempo actualmente
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+disponible para Argentina en este modo es 3.9 hs en Gemini Norte y 3.6 hs en Gemini Sur. 
+ 
+Importante 
+●
+Es necesario usar la última versión del software ​Phase I Tool (PIT), que permite definir y
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+   
+enviar la propuesta, y puede descargarse​ ​aquí​. 
+●
+Toda
+la
+información
+adicional
+(“Justificación
+Científica”,
+“Diseño
+Experimental”,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“Descripción Técnica”, incluyendo textos, figuras, y salidas de la Calculadora de Tiempo
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+de Integración, ITC, etc.) debe adjuntarse a la PIT en un único archivo pdf. Para la
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+preparación del mismo se deben usar las ​plantillas de LATEX o Word accesibles a
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+través de la propia PIT (o bien ​aquí​). Asegúrese de usar la plantilla correspondiente al
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+semestre 2021B, ​respetando las extensiones máximas allí estipuladas, ​sin modificar el
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+formato predefinido (tipo y tamaño de carácter, encabezados, etc.) . Tome en cuenta
+ 
+ 
+   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+que las propuestas que excedan las extensiones indicadas o no respeten dicho formato
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+pueden ser rechazadas por ese motivo.  
+●
+Recomendamos
+especialmente
+consultar
+las
+“Consideraciones
+básicas
+para
+la
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+presentación de propuestas a Gemini”, elaboradas por el Consejo Asesor de Usuarios
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(CAU), disponibles en el archivo adjunto o en​ ​este enlace. 
+●
+Proceso de evaluación doblemente anónimo: ​a partir de este semestre el Observatorio
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+Gemini comenzará a implementar progresivamente un sistema de evaluación de
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+propuestas doblemente anónimo, con el objetivo asegurar la igualdad de oportunidades
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+en el acceso al tiempo de observación. Para esto se requiere que sean anónimas la
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+mayor parte de las secciones de los PDF que se adjuntan en las propuestas​. ​Dado que
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+redactar propuestas anónimas requiere un aprendizaje, en este semestre la OGA
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+solamente recomienda a los PI ​escribir los PDFs en modo anónimo​. Ver más detalles al
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+respecto en el documento adjunto del CAU (“Recomendaciones…”). 
+●
+Asimismo, si las propuestas requieren ser observadas en una fecha determinada,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+aconsejamos ​revisar que el instrumento requerido esté disponible. 
+ 
+●
+El tiempo que se solicita para ​Bandas 1 y 2 se calcula considerando las ​condiciones
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+óptimas para la observación requerida. Adicionalmente, es conveniente consignar las
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+condiciones mínimas aceptables para la ejecución de la propuesta, identificándolas
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+como ​condiciones de Banda 3 en el espacio correspondiente en la PIT. Notar que para
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+la Banda 3 es posible solicitar un tiempo total distinto al de Bandas 1 y 2 (por ej., para
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+ 
+ 
+ 
+preservar la S/N).  
+●
+Por otra parte, el “​tiempo mínimo requerido​” (que puede ser menor o igual al tiempo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+total solicitado), debe garantizar la obtención de datos que permitan cumplir, al menos
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+parcialmente, los objetivos propuestos. En las secciones de Diseño Experimental y
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Descripción Técnica se deben indicar los objetivos que se cumplirían con ese tiempo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+mínimo y qué objetos se observarían en él. Es recomendable indicar un tiempo mínimo
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+tanto para las Bandas 1 y 2 como para la Banda 3. 
+●
+Se debe incluir explícitamente en la Descripción Técnica toda la información necesaria
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+para que el evaluador técnico pueda reproducir y verificar los tiempos de exposición,
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+overheads y calibraciones considerados. En toda propuesta es ​obligatorio incluir una
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+salida de la ​ITC​, a fin de poder reproducir lo calculado por el PI (ver instrucciones al
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+respecto en los comentarios de la plantilla LATEX). 
+●
+Se recuerda que, al igual que en los últimos semestres, las ​nighttime partner
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+calibrations ​(estrellas estándares telúricas, estándar de flujo, GCalFlats en GMOS, etc.) se
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+cargan automáticamente al tiempo solicitado para cada ​target (ver ​aquí​). En la PIT, en el
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+campo ​“Program Time”​, los PI deben cargar para cada target el tiempo de exposición
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+estimado (ver ​Observations Section​), más el tiempo de ​overheads (​acquisition time​,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+readout time​, etc), más el tiempo para cualquier calibración que no forme parte de las
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+baseline calibrations​. A eso, la PIT le sumará automáticamente el tiempo estimado para
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+las ​nightime partner calibrations​, indicándolo como ​“Night Basecal. Time”​, obteniendo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+de ese modo lo que se denomina ​“Total Time”​. El criterio es diferente para los
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+instrumentos en el NIR (ver párrafo siguiente). Por cualquier duda a este respecto, no
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+dude en consultar a la Oficina Gemini (​gemini@gemini.edu.ar​).  
+●
+A ​quienes presenten por primera vez propuestas para instrumentos en el IR​, les
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+recomendamos ​consultar a la Oficina Gemini acerca del cálculo de los ​overheads. ​En
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+las propuestas que usen tiempo argentino, para los así llamados ​“Facility Instruments”
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(como GNIRS y Flamingos-2), ​el tiempo empleado para observar estrellas estándares
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+espectrales ​(telúricas) se cargará al programa (será considerado ​Program Time​). Ello no
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+es así para IGRINS. 
+●
+Las propuestas que requieran ​IQ=20% deben considerar que las probabilidades de que
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+esta condición se mantenga durante más de media hora son menores al 50%. Lo mismo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+sucede para que la condición IQ=70% se mantenga por más de una hora. Por lo cual ​es
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+conveniente considerar tiempo adicional para re-adquisiciones.  
+●
+El Observatorio debe cubrir adecuadamente las tres Bandas de observación, por lo que
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+se
+alienta la presentación de propuestas que cubran todas las condiciones de
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+observación. Tener en cuenta que las propuestas cortas, aún requiriendo condiciones
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+atmosféricas buenas, tienen muchas posibilidades de ser observadas. 
+●
+Se alienta también la presentación de propuestas para programas ​Poor Weather​,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+que pueden enviarse de la forma habitual con este llamado o en cualquier momento del
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+semestre. Las propuestas para ​Poor Weather que sean aprobadas por el NTAC tendrán
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+prioridad respecto a las otras. En esta modalidad se puede solicitar tiempos mucho más
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+extensos que en las Bandas 1, 2 y 3.
+Los programas en esta categoría admiten las
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+siguientes condiciones climáticas: 
+○
+a) IQ = “​Any​” + CC = 70 % (o peor) + WV = “​Any​” + SB sin restricción (puede ser 
+“​Dark​”). 
+○
+b) CC = “​Any​” + WV = “​Any​” +  otras condiciones sin restricción. 
+ 
+Gemini Norte:  
+Se prevé
+renovar el plateado del espejo principal, por lo cual ​el telescopio no observará
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(​shutdown​) ​entre el 9 de agosto y el 3 de septiembre​.  
+Restricciones de visibilidad:
+18h < AR < 13.5h y -37° < Dec < +90°. Debido al ​shutdown​, quienes
+ 
+ 
+ 
+   
+   
+   
+   
+   
+ 
+ 
+ 
+ 
+ 
+requieran ​targets con AR ~ 18 -19 hs​ ​deben presentar targets alternativos​ con AR posteriores. 
+GMOS North (0.36-1.03 micron imager and spectrometer​): disponible a lo largo del semestre. La
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+red R600 no estará disponible este semestre.  
+GNIRS (1-5 micron spectrometer): este semestre solamente estará disponible desde noviembre
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+hasta enero debido a la instalación de su nuevo IFU, que no fue posible en 2021A por las
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+restricciones debidas a la pandemia. Quienes requieran ​targets con AR ~ 18 - 22 hs ​deben
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+ 
+ 
+ 
+presentar targets alternativos con AR posteriores. La cámara roja corta NO está disponible este
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+semestre. Es posible tomar imágenes en las bandas YJHK sólo en el campo de adquisición. 
+NIRI (1-5 micron imager):​ disponible todo el semestre.  Se ofrece sólo para imágenes. 
+NIFS (0.95-2.40 micron integral field unit spectrometer):​ disponible durante todo el semestre. 
+Altair (facility Adaptive Optics system)​: solamente se ofrece en modo Estrella de Guiado Natural.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Si fuera posible verificar la total funcionalidad del láser antes del próximo 8 de marzo, esta
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+información será actualizada en la web del ​Llamado a Propuestas del Observatorio​. El guiado
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+láser se ofrecerá para los programas ​Fast Turnaround​ en cuanto esté disponible. 
+GRACES: espectroscopía óptica en alta resolución (R ~ 67,500) entre 400 y 1000 nm. Los bloques
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+de observación se determinarán con el CFHT, dependiendo de la demanda. 
+'Alopeke (nueva generación de cámaras ​speckle​): estará disponible durante 2021B en bloques,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+sujeto a la demanda. 
+MAROON-X (espectrómetro de velocidad radial de alta resolución, R~80,000, en la banda óptica,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+de 500 a 900 nm,): El instrumento está abierto a la comunidad para espectroscopía de alta
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+resolución de uso general. Se recomienda consultar la sensibilidad del instrumento en las
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+páginas de ​MAROON-X​. 
+ 
+Gemini Sur:  
+Se prevé
+renovar el plateado del espejo principal, por lo cual ​el telescopio no observará
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(​shutdown​) ​entre el 12 y el 31 de octubre​.  
+ 
+Restricciones de Visibilidad: 16h < AR < 12h y -90° < Dec < +28°. Debido al ​shutdown​, el tiempo
+ 
+ 
+ 
+   
+   
+   
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+disponible para targets con 22h < AR < 24h se espera que se reduzca en un 20%. 
+GMOS South (0.36-1.03 micron imager and spectrometer)​:
+disponible a lo largo de todo el
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+semestre. La red R600 no está disponible en 2021B. ​El conjunto de detectores GMOS-S
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+actualmente sufre de una pobre eficiencia de transferencia de carga en su CCD#1. Esto
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+puede afectar las observaciones en modo ​nod-and-shuffle e IFU. Las actualizaciones sobre este
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+problema se publicarán en la página web de ​GMOS​. 
+GSAOI (0.9-2.4 micron adaptive optics imager) ​+ ​GeMS Adaptive Optics system​: Se espera
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+realizar dos o tres bloques de 7 noches durante el semestre, en fechas a determinar de acuerdo
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+a la demanda. Antes de enviar una propuesta para GSAOI+GeMS verificar la disponibilidad de
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+estrellas guías mediante el ​Observing Tool (OT). Es posible realizar observaciones en IQ85 para
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+programas que puedan usar imágenes que se entregan con FWHM ~ 0.2 arcsec, a diferencia de
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   
+ 
+ 
+las que se entregan con <~ 0.1 arcsec en condiciones IQ 20 o 70. Se alienta la presentación de
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+propuestas
+que
+requieran
+IQ85.
+También son posibles observaciones bajo condiciones
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+no-fotométricas, con una extinción uniforme de 0.1 mag, en condiciones de IQ muy buenas. 
+FLAMINGOS-2 (0.9-2.4 micron wide-field imager and spectrometer)​: se ofrece en modos imagen
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+y ranura larga durante todo el semestre. Consultar en este ​enlace​, para obtener información
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+actualizada sobre calidad de imagen, resolución espectral y configuraciones posibles. La puesta
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+en marcha del modo multiobjeto (MOS) aún no se ha completado. Se espera que se pueda
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ofrecer para programas ​Fast Turnaround​ durante el semestre. 
+Zorro (dual-channel fast-readout visual-wavelength camera giving diffraction-limited images):
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+la fecha y duración de los bloques, se determinará según la demanda de la comunidad.  
+IGRINS (high-resolution R~45000, single-setting, near IR echelle spectrometer)​: la fecha y
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+duración de los bloques, se determinará según la demanda de la comunidad.  
+ 
+Intercambio con Subaru 
+Se alienta a los PI a presentar propuestas de observación con Subaru. En 2021B se estima
+ 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+un intercambio mínimo de 5 noches entre Gemini y Subaru. Los PI de Gemini tienen que
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+presentar sus propuestas usando la PIT, con la opción ​Exchange Observing at Subaru (no
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+hacerlo a través del llamado de Subaru). 
+El inicio del semestre 2021B en Subaru será a mediados de agosto debido a trabajos de
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 
+mantenimiento. También se prevé usar 10 noches de cielo brillante para la instalación de un
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+nuevo instrumento. 
+Hyper Suprime-Cam (HSC) no estará disponible durante 2 meses y medio por tareas de
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+mantenimiento. La fecha aún no se ha determinado. 
+  
+Subaru acepta para el 2021B programas cortos en modo “fila” que requieran la cámara
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HSC. ​El tiempo solicitado en modo fila debe ser múltiplo de 1 hora y debe incluir los
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+overheads, que se calculan con esta ​calculadora de tiempo​.   
+Subaru también acepta ​filler programs para HSC, que se ejecutan en condiciones de
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+poor weather​, y ​no requieren intercambio de tiempo con Gemini. La fecha de cierre para
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+propuestas de ​filler programs es el 6 de abril a las 3:00 am (UT). Estas propuestas se envían a
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+través del​ ​sistema de envío de Subaru​, NO a través de la PIT. 
+Para otros instrumentos, Subaru debe solicitarse por noches enteras, o medias noches,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+que serán asignadas solamente si se encuentra un programa adecuado para la otra mitad de la
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+noche. 
+ 
+Función de las Oficinas Gemini 
+Finalmente,
+nos
+gustaría
+enfatizar que en la estructura de funcionamiento del
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observatorio Gemini, las Oficinas Nacionales Gemini (NGO) son el primer contacto del mismo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+con los usuarios de las respectivas comunidades. De acuerdo a esto, la Oficina Gemini Argentina
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+(e-mail: ​gemini@gemini.edu.ar​) se encuentra a total disposición de quienes deseen presentar
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+propuestas y/o realizar consultas al respecto. Por lo tanto, no duden en hacernos conocer
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+cualquier inquietud o dificultad que les surja al momento de confeccionar sus propuestas, o en
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+cualquier etapa posterior. Estaremos atentos para poder ayudar. 
+De la misma forma, les recordamos que el Observatorio cuenta con un sistema de ayuda
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+denominado​ ​Help-desk​, el cual se recomienda utilizar. 
+Ante cualquier inquietud en cuanto al funcionamiento de esta Oficina, así como sobre la
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+evaluación de propuestas y/o toda sugerencia que desee plantear como usuario, le recordamos
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+que las mismas podrán ser canalizadas a través del ​CAU (e-mail: ​cau-gemini@fcaglp.unlp.edu.ar
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+). 
+Cordiales saludos, 
+Oficina Gemini Argentina. 
+ CONSIDERACIONES BÁSICAS PARA LA  
+PRESENTACIÓN DE PROPUESTAS GEMINI 
+ 
+Con el objetivo de garantizar la transparencia y equidad del proceso de evaluación de propuestas del
+   
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observatorio Gemini, el Consejo Asesor de Usuarios (CAU) Gemini Argentino y la Oficina Gemini
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+Argentina (OGA) han elaborado el presente documento, cuyo propósito es poner en conocimiento
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+de toda la comunidad, junto con el llamado a propuestas, los criterios con que serán evaluadas las
+ 
+ 
+ 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+mismas.
+Recomendamos a los investigadores que presenten pedidos de tiempo de telescopio en
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gemini leer con detenimiento el presente documento, y tener en cuenta sus distintos puntos al
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+momento de enviar su propuesta. 
+ 
+Proceso de evaluación doblemente anónimo​: con el objetivo asegurar lo más posible la igualdad
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+   
+ 
+de oportunidades en el acceso al tiempo de observación, a partir de este semestre el Observatorio
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 
+Gemini comenzará a implementar progresivamente un sistema de evaluación de propuestas
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+doblemente anónimo. Para esto se requiere que sean anónimas la mayor parte de las secciones de
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+los PDF que se adjuntan en las propuestas. Dado que redactar propuestas anónimas requiere un
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+aprendizaje, en este semestre la OGA solamente recomienda a los PI escribir los PDFs en modo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+anónimo. El NTAC este semestre, seguirá evaluando las propuestas como lo hacía hasta ahora. La
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+redacción anónima será obligatoria a partir del llamado a propuestas 2022B. A continuación,
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+indicamos algunas líneas guía para la redacción en modo anónimo. ​Estos criterios se aplican a
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+todo el PDF con excepción de las secciones: ​Publications​, ​Use of Other Facilities y ​Previous Use
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+of Gemini​. 
+ 
+Líneas guía para la redacción anónima de propuestas: 
+o
+No mencionar nombres y afiliaciones del PI y los co-Investigadores (co-Is). Esto se
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+aplica también a diagramas, figuras, etc., pero no se aplica a referencias a trabajos
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+ 
+anteriores, que deben ser incluidas cuando sean relevantes, como se indica a
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+continuación.  
+o
+No afirmar la propia autoría de trabajos ni programas pasados. Por ejemplo, no
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+escribir:
+“...
+​my
+successful
+Gemini
+program
+in
+the
+previous
+semester
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(GS-2018A-Q-XX)...”; ni tampoco: “... ​our analysis shown in Doe et al. 2020​…” 
+o
+Citar las referencias en tercera persona (​third-person passive voice o ​third-person
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+neutral wording​), por ejemplo: “​Analysis shown in Doe et al. 2020​” o “​as Doe et al.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   
+ 
+   
+ 
+(2010) showed​”.   
+o
+No referirse a programas previos de Gemini, ni de otros observatorios, de una
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+manera que lo vincule con la propuesta. Lo mismo vale para las referencias a datos o
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+a software. Escribir por ejemplo: “​Gemini program GS-2018A-Q-XXX ​has
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+observed this target in the past​”. No escribir: "​We observed this target under Gemini
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+program​ GS-2018A-Q-XXX".  
+o
+Si ocasionalmente fuera necesario referirse a datos de acceso exclusivo de cierto
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+grupo, o a software no-público, se sugiere escribir frases como: “​obtained in private
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+communication​” o “​from private consultation​”. 
+o
+No incluir agradecimientos, ni mencionar fuentes de subsidios ni becas. 
+Información adicional acerca de las evaluaciones doblemente anónimas se puede
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+encontrar en el último ​llamado a Programas de Respuesta Rápida​, y en estos
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ documentos del STScI: ​HST Cycle 27 Anonymous Proposal Reviews​  y ​Dual
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anonymous Review Workshop​. 
+ 
+ 
+Consideraciones a tener en cuenta por los autores de propuestas: 
+ 
+1. Las propuestas deben ser enviadas en tiempo y forma, tal como consta en el llamado. La fecha
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+límite para el envío de las propuestas es definitiva. Vencido el plazo establecido por la fecha límite,
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+no se aceptarán propuestas ni agregados o modificaciones a las propuestas ya enviadas. La única
+ 
+ 
+ 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+excepción consiste en los datos o aclaraciones técnicas que sean requeridos por los evaluadores con
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+el objetivo de determinar la factibilidad técnica de la propuesta. El único medio para la elaboración
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+   
+ 
+y envío de propuestas es la herramienta "​Phase I Tool (PIT)​". Los textos y figuras se deben adjuntar
+ 
+ 
+ 
+ 
+   
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+en un archivo pdf, que se prepara con un formulario "LaTeX" o ".doc", que pueden descargarse a
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+   
+través de la propia PIT. No está permitido cambiar el formato, espaciados, tamaños de letra ni
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pasarse de los límites permitidos por el formulario. 
+ 
+2. Podrá presentar propuestas cualquier investigador, becario o estudiante de posgrado con lugar de
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+trabajo en una institución argentina (los estudiantes de grado no podrán actuar como Investigadores
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Principales). A igualdad de nivel científico, se dará prioridad a las propuestas enviadas por
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+doctorandos que realicen sus tesis con datos del Observatorio Gemini, siempre que el doctorando
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+sea el Investigador Principal (PI) de la propuesta y la tesis se realice en una universidad argentina.
+   
+ 
+ 
+ 
+   
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Este hecho de ninguna manera garantiza la asignación de tiempo de observación. En el caso de que
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+la propuesta sea parte de los datos para una tesis doctoral, el Investigador Principal deberá enviar
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+por e-mail a la Oficina Gemini Argentina (gemini@fcaglp.unlp.edu.ar) el título tentativo de dicha
+ 
+   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+tesis, un breve resumen del tema de la misma, el nombre del director, la institución en donde se
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+realiza la tesis y la fecha de inscripción en la carrera de doctorado del tesista. 
+ 
+3.​ Las propuestas serán evaluadas, en líneas generales, de acuerdo a los siguientes criterios: 
+ 
+a) Justificación científica: Los autores deberán mostrar que el problema que proponen investigar es
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+pertinente y tiene relevancia científica. Se debe usar la sección "​Scientific Justification​" del
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+formulario LaTeX o doc para ello. 
+ 
+b)
+Objetivos: Los autores deberán mostrar que, con la estrategia y la muestra seleccionadas, es
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+posible hacer un aporte al avance de la investigación del problema planteado. Se debe usar la
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+sección "​Experimental Design​" del formulario LaTeX o doc para ello. 
+ 
+c) Justificación Técnica: Los autores deberán mostrar, con el mayor detalle posible, que las
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+observaciones que pretenden realizar son técnicamente factibles. Esto incluye la justificación de la
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   
+necesidad de un telescopio de la clase 8m, del instrumento particular, de las condiciones de
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+observación y del tiempo total solicitado. Es recomendable que los autores describan también
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+globalmente la estrategia de reducción de datos, mostrando que poseen la capacidad informática y
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   
+de recursos humanos para ello. Finalmente, en el caso de propuestas conjuntas con otros países
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+miembros de Gemini, es importante que los autores justifiquen la distribución del tiempo solicitado
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+por los distintos miembros, de acuerdo a la contribución de cada uno al proyecto. Se debe usar para
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ello las secciones "​Experimental Design" y/o "Technical Description​" del formulario LaTeX o doc. 
+ 
+d) Antecedentes: Los autores deberán incluir antecedentes adecuados en el tema o área de trabajo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+ 
+ 
+ 
+(artículos publicados), y experiencia en el uso de grandes telescopios. Es recomendable para ello
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+incluir en la propuesta la lista de trabajos publicados en el área en los últimos años, y los turnos
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ otorgados en Gemini u otros grandes observatorios (por ej. VLT, Keck, etc.) tanto en calidad de
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+participante como de investigador principal. Esto puede incluirse en la sección "​Publications​" del
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+formulario LaTeX o doc.   
+En la sección "​Previous Use of Gemini​" del mismo formulario se deberán listar las asignaciones de
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+tiempo Gemini al investigador principal en los últimos 3 años, junto con una breve descripción del
+ 
+   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+estado de los datos y eventuales resultados. 
+ 
+4. ​Se recomienda a los autores de las propuestas realizar una lectura crítica de las mismas antes de
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+enviarlas, verificar su completitud, prolijidad y redacción, y en caso de considerarlo necesario,
+ 
+ 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+hacerlas revisar por colegas con manejo fluido del idioma inglés. Las propuestas enviadas en forma
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+desprolijas o que estén pobremente redactadas suelen presentar mayor dificultad en su comprensión,
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+lo que a su vez suele ir en desmedro de su evaluación. 
+ 
+5. Se recomienda a los autores leer en detalle la información sobre las condiciones del llamado a
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+propuestas y la información técnica referente a los telescopios y su instrumental que se encuentran
+     
+ 
+ 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+en el sitio del Observatorio Gemini (http://www.gemini.edu). 
+ 
+6.​ Se informa que actualmente Argentina no asigna tiempo para ​rollover​ a ninguna propuesta. 
+ 
+7. ​Se informa que a partir del semestre 2017B las calibraciones (estrellas estándares telúricas,
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+estándar de flujo, etc.) se cargan automáticamente al tiempo solicitado para cada “target”. Los PI
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+deben continuar indicando el tiempo de ​overhead (acquisition time, readout time, etc) y el tiempo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+de exposición estimado para cada target en la PIT. 
+ 
+8. En el caso de propuestas conjuntas con otros países miembros de Gemini resulta importante que
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+los autores justifiquen claramente la distribución del tiempo solicitado por los distintos miembros.
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Esta distribución de tiempos debe respetar la proporcionalidad que cada país posee en el consorcio
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+   
+ 
+Gemini. ​En caso de que no se respete dicha proporcionalidad en detrimento al tiempo argentino, sin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+que exista una clara justificación para ello, el NTAC bajará puntos a la propuesta.  
+ 
+9. El Consejo Asesor de Usuarios está a disposición de los interesados para resolver cualquier
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+inquietud fuera de la parte técnica de las propuestas. Se recomienda que cualquier recomendación,
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+consejo, crítica o queja referente a cualquier parte del proceso de envío o evaluación de la propuesta
+ 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   
+ 
+que el investigador responsable crea oportuno comunicar, no dude en escribir a los miembros del
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+CAU. El mismo está integrado actualmente por los siguientes representantes: 
+ 
+Dr. Guillermo Hägele (FCAyG – UNLP; ghagele@fcaglp.unlp.edu.ar)   -   Coordinador 
+Dra. Celeste Parisi (OAC – UNC) 
+Dr. Gerardo Juan Luna (IAFE – CONICET/UBA) 
+Dr. Carlos Saffe (ICATE – UNSJ) 
+ 
+Consejo Asesor de Usuarios Gemini Argentino 
+Oficina Gemini Argentina 
+ 

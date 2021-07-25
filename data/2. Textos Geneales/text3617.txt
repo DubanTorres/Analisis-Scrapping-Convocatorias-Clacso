@@ -1,0 +1,1476 @@
+
+ 
+1
+ 
+Chamada CNPq/MCTI/SEMPI Nº 01/2021 - Sistema Nacional 
+de Laboratórios de Fotônica (Sisfóton-MCTI) 
+ 
+O Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq e o Ministério da 
+Ciência, Tecnologia e Inovações – MCTI, por meio da Secretaria de Empreendedorismo e 
+Inovação – SEMPI, tornam pública a presente Chamada e convidam os interessados a 
+apresentarem propostas nos termos aqui estabelecidos.  
+ 
+1 – Objeto 
+Selecionar e apoiar laboratórios que integrarão o Sistema Nacional de Laboratórios de 
+Fotônica (Sisfóton-MCTI), instituído pela PORTARIA GABMI Nº 4.530, publicada em 10/03/2021. 
+(https://www.in.gov.br/en/web/dou/-/portaria-gabmi-n-4.530-de-5-de-marco-de-2021-307491296). 
+1.1 – Objetivos da Chamada:  
+a) Universalizar o acesso da comunidade científica, tecnológica, de inovação e 
+empreendedorismo do País à infraestrutura avançada e de padrão internacional na 
+área de fotônica (Universalização da Infraestrutura);  
+b) Promover o avanço nacional em ciência, tecnologia, inovação e empreendedorismo 
+de base tecnológica na área de fotônica (Tecnologia de Ponta);  
+c) Fortalecer a formação, capacitação e fixação de recursos humanos, a educação em 
+fotônica, bem como sua divulgação (Formação de Recursos Humanos); 
+d) Estimular a interação, integração, intercâmbio de conhecimento, alianças estratégicas 
+e exploração das sinergias entre as Instituições Científica, Tecnológica e de Inovação 
+(ICT) e o setor privado, para atuarem no desenvolvimento de processos, produtos e 
+instrumentação, envolvendo tecnologias fotônicas (Interação ICT-Empresa); 
+e) Estimular a cultura empreendedora, o empreendedorismo de base tecnológica, a 
+geração de start-ups e integração dos ecossistemas de fotônica e empreendedorismo 
+(Empreendedorismo de Base Tecnológica); 
+f) Orientar o desenvolvimento científico, tecnológico, de inovação e empreendedor em 
+fotônica para superação dos desafios sociais do país (Desafios Nacionais); 
+g) Orientar a cooperação internacional como forma de acelerar o desenvolvimento 
+nacional na área de fotônica em suas diversas dimensões, sempre tendo em vista os 
+grandes objetivos nacionais (Cooperação Internacional); e 
+h) Promover um ambiente propício para a interação com as diversas camadas da 
+sociedade, agregando valor tecnológico, ofertando conhecimento e recursos 
+humanos 
+qualificados, 
+promovendo 
+a 
+cultura 
+da 
+tecnologia 
+e 
+inovação 
+(Competitividade Nacional).  
+1.2 – São buscados, preferencialmente, laboratórios atuantes nos seguintes setores e tecnologias: 
+ Setores: Comunicações e Tecnologia da Informação e Comunicação, Saúde, Energia, 
+Agricultura, Meio Ambiente, Indústria, Defesa, Mobilidade e Educação; e 
+ 
+ Tecnologias: Fibras Ópticas, Dispositivos Fotônicos, Integração Híbrida, Óptica 
+Integrada, Dispositivos Optoeletrônicos, Sistemas e Redes de Comunicações 
+Ópticas, Lasers, Materiais Avançados para Fotônica, Nanofotônica, Plasmônica, 
+  
+ 
+2
+Ópticas Clássica, Quântica e Não Linear, Instrumentação Óptica, Espectroscopia, 
+Metrologia, Sensores, Displays e Iluminação.  
+ 
+1.2.1 – O proponente deverá indicar, no quadro do Anexo I, de 1 a 3 setores de atuação e de 1 a 2 
+tecnologias por setor de atuação. 
+ 
+1.3 – Os candidatos poderão submeter propostas, de forma independente, em uma ou nas duas 
+categorias de laboratórios definidos no Programa Sisfóton-MCTI, a saber: 
+ 
+1.3.1 – Linha 1 - Laboratório Sisfóton-MCTI (Candidatura Geral): Laboratório ou redes de 
+laboratórios de caráter multiusuários, direcionados à pesquisa, ao desenvolvimento e à 
+prestação de serviços tecnológicos, ao empreendedorismo e à inovação em Fotônica e 
+que deverão disponibilizar, no mínimo, 30% (trinta por cento) do tempo de uso, em horas, 
+da sua estrutura laboratorial, de seus equipamentos ou de sua expertise a usuários 
+externos, tanto públicos quanto privados. 
+ 
+1.3.2 – Linha 2 - Laboratório Integrador:  Instituição responsável, entre outras funções, pela 
+articulação, gestão e inteligência estratégica do Sistema. O Laboratório Integrador 
+contribuirá na integração dos laboratórios do Sisfóton-MCTI, visando o senso de unicidade 
+do Sistema e atuará, em conjunto com o MCTI, no desenvolvimento de iniciativas de 
+inteligência estratégica do Sistema, bem como para a integração digital dos laboratórios e 
+articulação de agendas de interação. Cabe ainda ao Laboratório Integrador promover a 
+divulgação das atividades científica, tecnológica, de inovação e de empreendedorismo 
+realizadas pelos demais laboratórios pertencentes ao Sisfóton-MCTI. 
+ 
+1.3.3 – A presente chamada selecionará até 11 laboratórios, sendo um deles o laboratório 
+integrador. 
+ 
+2 – Cronograma 
+ 
+FASES 
+DATA 
+Lançamento da Chamada no Diário Oficial da União e na página do CNPq 
+22/03/2021 
+Início da submissão das propostas 
+23/03/2021 
+Prazo para impugnação da Chamada 
+02/04/2021 
+Data limite para submissão das propostas 
+07/05/2021 
+Julgamento 
+18/05/2021 
+Divulgação do resultado preliminar do julgamento no Diário Oficial da União, por extrato, e na 
+página do CNPq na internet 
+01/06/2021 
+Prazo final para interposição de recurso administrativo  
+11/06/2021 
+Divulgação da decisão no Diário Oficial da União, por extrato, e na página do CNPq na internet 
+30/06/2021 
+ 
+3 – Critérios de Elegibilidade 
+3.1 – Os critérios de elegibilidade indicados abaixo são obrigatórios e a ausência de qualquer um 
+deles resultará no indeferimento da proposta. 
+  
+ 
+3
+3.2 – Quanto ao Proponente e Equipe: 
+3.2.1 – O responsável pela apresentação da proposta deverá, obrigatoriamente:  
+a) ter seu currículo cadastrado na Plataforma Lattes, atualizado até a data limite para submissão 
+da proposta; 
+b) possuir o título de Doutor; 
+c) ser o coordenador do projeto; 
+d) ser o dirigente máximo da instituição à qual o laboratório está vinculado ou um pesquisador da 
+área de Fotônica por ele indicado e, ter como vice-coordenador, um pesquisador da área de 
+Fotônica indicado pelo dirigente máximo da instituição (modelo de Carta de Concordância - Anexo 
+III); e 
+e) possuir vínculo celetista ou estatutário com a instituição de execução do projeto ou, se 
+aposentado, comprovar manter atividades acadêmico-científicas e apresentar declaração da 
+instituição de execução do projeto concordando com a sua execução. 
+3.2.1.1 – O vínculo deve estar informado no Currículo Lattes do proponente, no campo “Atuação 
+Profissional”. 
+3.2.2 – No formulário de submissão da proposta, o proponente deverá declarar para os devidos 
+fins de direito que não possui qualquer inadimplência com o CNPq e com a Administração Pública 
+Federal, direta ou indireta, sob pena de indeferimento.  
+3.2.2.1 – Caso constatada, a qualquer tempo, a falsidade da declaração, o CNPq adotará as 
+providências cabíveis diante dos indícios de crime de falsidade ideológica. 
+3.3 – Quanto à Instituição de Execução do Projeto: 
+3.3.1 – A instituição de execução do projeto deverá estar cadastrada no Diretório de 
+Instituições do CNPq. 
+3.3.2 – Os laboratórios integrantes do Sisfóton-MCTI, com exceção do Laboratório Integrador, 
+deverão ser vinculados à ICT pública ou privada sem fins lucrativos e deverão disponibilizar, no 
+mínimo, 30% (trinta por cento) do tempo de uso, em horas, da sua estrutura laboratorial, de seus 
+equipamentos ou de sua expertise a usuários externos, tanto públicos quanto privados. 
+3.3.2.1 – Entende-se por Instituição Científica, Tecnológica e de Inovação (ICT): órgão ou entidade 
+da administração pública direta ou indireta ou pessoa jurídica de direito privado sem fins lucrativos 
+legalmente constituída sob as leis brasileiras, com sede e foro no País, que inclua em sua missão 
+institucional ou em seu objetivo social ou estatutário a pesquisa básica ou aplicada de caráter 
+científico ou tecnológico ou o desenvolvimento de novos produtos, serviços ou processos. 
+3.3.3 – A instituição de execução do projeto é aquela com a qual o proponente deve apresentar 
+vínculo. 
+3.3.4 – A instituição de execução do projeto deverá ser constituída sob as leis brasileiras e ter sua 
+sede e administração no País. 
+4 – Recursos Financeiros 
+4.1 – As propostas aprovadas serão financiadas com recursos no valor global de R$ 5.000.000,00 
+(cinco milhões de reais), oriundos do orçamento da Secretaria de Empreendedorismo e Inovação 
+(SEMPI), do Ministério da Ciência, Tecnologia e Inovações (MCTI), entre os anos de 2020 e 2023 
+a serem liberados de acordo com a disponibilidade orçamentária e financeira do CNPq. 
+  
+ 
+4
+4.1.1 – Outros recursos decorrentes de parcerias futuras poderão ser aplicados na suplementação 
+de propostas aprovadas no âmbito desta Chamada e/ou na contratação de novos projetos dentre 
+os aprovados quanto ao mérito. 
+4.1.2 – Quando o desembolso ocorrer em mais de um exercício financeiro, o repasse de cada ano 
+ficará condicionado à disponibilidade orçamentária e financeira do CNPq e dos demais parceiros.  
+4.2 – Identificada a conveniência e a oportunidade e havendo disponibilidade de recursos 
+adicionais para esta Chamada, em qualquer fase, o CNPq e o(s) parceiro(s) poderá (ão) 
+suplementar os projetos contratados e/ou contratar novos projetos dentre os aprovados quanto ao 
+mérito. 
+4.2.1 – No caso descrito no subitem 4.2, excepcionalmente, a seleção dos projetos a serem 
+suplementados ou contratados pelo CNPq e o(s) parceiro(s) seguirá a prioridade determinada pela 
+DEX, por meio de decisão devidamente fundamentada, ou pelo(s) parceiro(s), mediante 
+justificativa e aprovação da DEX. 
+ 
+4.3 – Para melhor distribuição regional dos laboratórios que virão a integrar o Sisfóton-MCTI e para 
+o fortalecimento da área de Fotônica em todas as regiões do País, deverá ser selecionado, no 
+mínimo, 1 (um) laboratório com sede localizada em cada uma das 5 (cinco) regiões do País. 
+4.3.1 – Caso não seja atingido o limite mínimo previsto no item 4.3, a seleção deverá priorizar a 
+proposta de laboratórios que apresentem instituições parceiras de outras regiões do País não 
+contempladas para integrar o Sisfóton-MCTI.  
+4.4 – Os projetos poderão solicitar até R$ 800.000,00 (oitocentos mil reais), incluindo recursos de 
+capital, custeio e de bolsas, sendo a expectativa inicial de aporte financeiro para os três anos de 
+até R$ 460.000,00 (quatrocentos e sessenta mil reais). 
+5 – Itens Financiáveis 
+5.1 – Os recursos da presente chamada serão destinados ao financiamento de itens de custeio, 
+capital e bolsa, compreendendo:  
+5.2 – Custeio: 
+a) material de consumo; 
+b) serviços de terceiros – pagamento integral ou parcial de contratos para pessoa física ou jurídica, 
+de caráter eventual; 
+c) despesas acessórias de importação; e 
+d) passagens e diárias, de acordo com as Tabelas de Valores de Diárias para Auxílios Individuais 
+e Bolsas de Curta Duração. 
+5.2.1 – Qualquer pagamento à pessoa física deverá ser realizado de acordo com a legislação em 
+vigor, de forma a não estabelecer vínculo empregatício. 
+5.2.2 – A mão-de-obra empregada na execução do projeto não terá vínculo de qualquer natureza 
+com o CNPq e deste não poderá demandar quaisquer pagamentos, permanecendo na exclusiva 
+responsabilidade do Coordenador/Instituição de execução do projeto. 
+5.2.3 – O pagamento de despesas de publicação deverá priorizar o modelo de acesso aberto. 
+5.3 – Capital: 
+a) equipamentos e material permanente; e 
+  
+ 
+5
+b) material bibliográfico. 
+5.3.1 – Os bens gerados ou adquiridos no âmbito de projetos contratados nesta Chamada deverão 
+ser incorporados, desde sua aquisição, ao patrimônio da Instituição Executora à qual o 
+coordenador ou pesquisador beneficiado estiver vinculado. 
+5.3.1.1 – Será de responsabilidade do pesquisador e da Instituição Executora a forma de 
+incorporação do bem à instituição. 
+5.3.1.2 – O pesquisador deverá anexar à Prestação de Contas a documentação comprobatória da 
+incorporação do bem ao patrimônio da Instituição Executora.  
+5.4 – Bolsas 
+5.4.1 – Serão concedidas Bolsas de Fomento Tecnológico e Extensão Inovadora, nas modalidades 
+Desenvolvimento Tecnológico e Industrial (DTI), Extensão no País (EXP), Fixação e Capacitação 
+de Recursos Humanos (SET), Apoio Técnico em Extensão no País (ATP) e Apoio à Difusão do 
+Conhecimento (ADC).  
+5.4.2 – A implementação das bolsas deverá ser realizada dentro dos prazos e critérios estipulados 
+para as modalidades indicadas nos termos da RN-015/2010, disponível no endereço eletrônico: 
+http://memoria2.cnpq.br/view/-/journal_content/56_INSTANCE_0oED/10157/25314. 
+5.4.3 – A duração das bolsas não poderá ultrapassar o prazo de execução do projeto. 
+5.4.4 – As bolsas não poderão ser utilizadas para pagamento de prestação de serviços, uma vez 
+que esta utilização estaria em desacordo com a finalidade das bolsas do CNPq. 
+5.4.5 – Caberá ao coordenador, após firmar o TERMO DE OUTORGA com o CNPq, promover as 
+indicações dos bolsistas. 
+5.4.6 – Não é permitido ao Coordenador atuar como bolsista do projeto. 
+5.4.7 – Será admitida a transformação de bolsas considerando as características do projeto e as 
+modalidades previstas nesta chamada.  
+5.4.7.1 – A transformação de bolsas será analisada pelo CNPq considerando a justificativa 
+apresentada por meio do Formulário de Indicação de Bolsista na Plataforma Integrada Carlos 
+Chagas, com fundamento nos seguintes critérios: 
+a) o objeto da ação, do projeto ou pesquisa não poderão ser alterados; 
+b) manutenção do valor total aprovado para bolsas no projeto; e 
+c) limitação à vigência final do projeto. 
+5.5 – São vedadas despesas com: 
+a) certificados, ornamentação, coquetel, alimentação, shows  ou  manifestações  artísticas  
+de qualquer natureza; 
+b) despesas de rotina, como contas de luz, água e telefone, entendidas como despesas de 
+contrapartida obrigatória da instituição de execução do projeto; 
+c) 
+despesas de correios e reprografia, salvo se relacionadas diretamente com a execução do 
+projeto de pesquisa; 
+d) pagamento de taxas de administração, de gerência, a qualquer título; 
+  
+ 
+6
+e) obras civis (ressalvadas as obras com instalações e adaptações necessárias ao adequado 
+funcionamento de equipamentos, as quais deverão ser justificadas no orçamento detalhado da 
+proposta), entendidas como de contrapartida obrigatória da instituição de execução do projeto; 
+f) 
+aquisição de veículos automotores, locação de veículos automotores e despesas com 
+combustíveis de qualquer natureza;  
+g) pagamento de salários ou complementação salarial de pessoal técnico e administrativo ou 
+quaisquer outras vantagens para pessoal de instituições públicas (federal, estadual e municipal); 
+h) pagamento de serviços de terceiros a agente público da ativa por serviços prestados, à conta 
+de quaisquer fontes de recursos; e 
+i) 
+pagamento, a qualquer título, a empresas privadas que tenham em seu quadro societário 
+servidor público da ativa, ou empregado de empresa pública ou de sociedade de economia mista, 
+por serviços prestados, inclusive consultoria, assistência técnica ou assemelhados. 
+5.5.1 – As demais despesas serão de responsabilidade do proponente e da instituição de 
+execução do projeto, respondendo cada um por seus respectivos atos. 
+5.6 – Para contratação ou aquisição de bens e serviços deverá ser observada a RN 008/2018, que 
+dispõe sobre a UTILIZAÇÃO DE RECURSOS E PRESTAÇÃO DE CONTAS. 
+5.7 – O CNPq não responderá pela suplementação de recursos para fazer frente a despesas 
+decorrentes de quaisquer fatores externos ao seu controle, como flutuação cambial. 
+6 – Submissão da Proposta 
+6.1 – As propostas deverão ser encaminhadas ao CNPq exclusivamente via Internet, utilizando-se 
+o Formulário de Propostas online disponível na Plataforma Integrada Carlos Chagas. 
+6.2 – O horário limite para submissão das propostas ao CNPq será até às 23h59 (vinte e três 
+horas e cinquenta e nove minutos), horário de Brasília, da data descrita no CRONOGRAMA.  
+6.2.1 – Recomenda-se o envio das propostas com antecedência, uma vez que o CNPq não se 
+responsabilizará por aquelas não recebidas em decorrência de eventuais problemas técnicos e de 
+congestionamentos.  
+6.2.2 – Caso a proposta seja enviada fora do prazo de submissão, ela não será recebida pelo 
+sistema eletrônico do CNPq. 
+6.3 – Esclarecimentos e informações adicionais acerca desta Chamada poderão ser obtidos pelo 
+endereço eletrônico atendimento@cnpq.br ou pelo telefone (61) 3211-4000. 
+6.3.1 – O atendimento telefônico encerra-se impreterivelmente às 18h30 (horário de Brasília), em 
+dias úteis. 
+6.3.2 – É de responsabilidade do proponente entrar em contato com o CNPq em tempo hábil para 
+obter informações ou esclarecimentos. 
+6.3.3 – Eventual impossibilidade de contato ou ausência de resposta do CNPq não será admitida 
+como justificativa para a inobservância do prazo previsto no cronograma para submissão da 
+proposta. 
+6.4 – Todas as instituições de pesquisa envolvidas com o projeto, sejam nacionais ou 
+internacionais, deverão estar cadastradas previamente no Diretório de Instituições do CNPq. 
+  
+ 
+7
+6.4.1 – O sistema informatizado do CNPq não receberá propostas cujas instituições de pesquisa 
+não estiverem devidamente cadastradas no Diretório de Instituições. 
+6.5 – O formulário deverá ser preenchido com as seguintes informações:  
+a) Identificação da proposta; 
+b) Dados do proponente 
+• Dirigente máximo da unidade à qual o laboratório está vinculado; ou  
+• Gestor do projeto: pesquisador da área de fotônica indicado pelo dirigente máximo da 
+unidade à qual o laboratório está vinculado. Deve ter vínculo formal com a instituição de 
+execução do projeto. 
+c) Membros da Equipe 
+d) Instituição da qual o laboratório faz parte; 
+e) Área do conhecimento predominante e áreas do conhecimento correlatas; 
+f) Orçamento detalhado; 
+g) Dados gerais do projeto em português e inglês ou espanhol, incluindo título, palavras-
+chave, resumo e objetivo geral; 
+h) Relevância e impacto do projeto para o desenvolvimento científico, tecnológico ou de 
+inovação. 
+i) 
+Etapas de execução da proposta com respectivo cronograma de atividades, observado o 
+prazo fixado no subitem 10.5; 
+6.5.1 – Todos os itens do formulário devem ser necessariamente preenchidos, sob pena de 
+indeferimento da proposta. 
+6.5.2 – Deverão ser cadastrados previamente ao ato de inscrição: 
+a) no Currículo Lattes: proponente e demais membros do projeto detentores de Cadastro de 
+Pessoa Física (CPF); e  
+b) no Currículo Lattes ou no identificador ORCiD (Open Researcher and Contributor ID): 
+proponente e demais membros do projeto não detentores de Cadastro de Pessoa Física (CPF). 
+6.5.3 – A equipe técnica poderá ser constituída por pesquisadores, alunos e técnicos. 
+6.5.4 – Somente deverão ser indicados como instituições participantes do projeto e como membro 
+da equipe aqueles que tenham prestado anuências formais escritas, as quais deverão ser 
+mantidas sob a guarda do coordenador do projeto. 
+6.5.4.1 – O coordenador do projeto poderá ser responsabilizado civil e penalmente pela indicação 
+falsa de membros da equipe. 
+6.6 – As propostas deverão incluir um arquivo anexo - Formulário para apresentação de proposta, 
+de acordo com a candidatura selecionada, sendo o Anexo I – Laboratório Sisfóton-MCTI 
+(Candidatura Geral) correspondente à Linha I e o Anexo II – Laboratório Integrador, para a Linha 2. 
+Os modelos estão disponíveis nos anexos da Chamada e são de uso obrigatório. 
+  
+ 
+8
+6.6.1 – Todos os itens do formulário devem ser necessariamente preenchidos. Quando o item não 
+se aplicar, o mesmo deve conter a expressão "não se aplica". O não preenchimento adequado 
+poderá acarretar em perda de pontuação. 
+6.6.2 – O envio do arquivo é obrigatório e sua ausência implicará no indeferimento da proposta. 
+6.6.3 – O arquivo deverá ser gerado em formato PDF e anexado ao Formulário de Propostas 
+online, limitando-se a 2Mb (dois megabytes).  
+6.6.4 – Caso seja necessário utilizar figuras, gráficos, fotos e/ou outros para esclarecer a 
+argumentação da proposta, a capacidade do arquivo não poderá ser comprometida, pois as 
+propostas que excederem o limite de 2Mb não serão recebidas pelo guichê eletrônico do CNPq. 
+6.6.5 – Anexo à proposta, deve ser encaminhada Carta de Concordância, no formato pdf, assinada 
+pelo responsável máximo da instituição à qual o laboratório está vinculado e com a indicação do 
+gestor do projeto, conforme modelo especificado no Anexo III – Carta de Concordância, da 
+presente Chamada. 
+6.7 – Após o envio, será gerado um recibo eletrônico de protocolo da proposta submetida, o qual 
+servirá como comprovante da transmissão. 
+6.8 – Será aceita uma única proposta por proponente em cada linha de financiamento. 
+6.8.1 – Para a Linha 1 – Laboratórios Sisfóton-MCTI (Candidatura Geral), apenas uma proposta 
+por instituição será aprovada, portanto recomenda-se que, se houver mais de um laboratório 
+atuante na área de fotônica em diferentes subunidades (campus, departamentos, sedes, etc.) da 
+mesma instituição, a proposta seja submetida considerando-se uma rede de laboratórios. 
+6.9 – Na hipótese de envio de mais de uma proposta pelo mesmo proponente, para uma mesma 
+Linha, respeitando-se o prazo limite estipulado para submissão das propostas, será considerada 
+para análise somente a última proposta recebida. 
+6.10 – Constatado o envio de propostas idênticas, apresentadas por diferentes proponentes, 
+ambas serão indeferidas pelo CNPq. 
+6.11 – Ao se inscreverem, os coordenadores dos projetos contemplados autorizam ao CNPq/MCTI 
+o direito de exposição, publicação, em meio eletrônico ou impresso, e divulgação dos projetos, 
+trabalhos e produtos, se for o caso, gerados por intermédio da proposta aprovada nos termos 
+desta Chamada, bem como dos nomes de seus responsáveis e equipe participante, a qualquer 
+tempo, sem que tal feito implique qualquer forma de remuneração a seus autores. 
+7 – Julgamento 
+7.1 – Critérios do Julgamento 
+7.1.1 – Os critérios para classificação das propostas quanto ao mérito técnico-científico e sua 
+adequação orçamentária para os laboratórios concorrentes na Linha 1 – Laboratórios Sisfóton-
+MCTI (Candidatura Geral) são: 
+ 
+Critérios de análise e julgamento - Laboratórios Sisfóton-MCTI 
+(Candidatura Geral) 
+Peso 
+Nota 
+A 
+Infraestrutura laboratorial disponibilizada no âmbito do 
+Sisfóton-MCTI: equipamentos e técnicas disponíveis aos 
+4 
+0 a 10 
+  
+ 
+9
+usuários externos mediante submissão de proposta ou 
+requisição de serviços;  
+B 
+Relevância das linhas de pesquisa e seu impacto 
+econômico e social para o país. 
+3 
+0 a 10 
+C 
+Equipe envolvida: qualificação da equipe e quantitativo 
+adequado para atender as demandas internas e externas. 
+2 
+0 a 10 
+D 
+Projetos formalizados, desenvolvidos e em desenvolvimento 
+com empresas envolvendo fotônica. 
+4 
+0 a 10 
+E 
+Projetos formalizados, desenvolvidos e em desenvolvimento 
+em cooperação internacional envolvendo fotônica. 
+2 
+0 a 10 
+F 
+Plano de Negócio ou equivalente para atendimento aos 
+usuários externos, incluindo a formalização das parcerias e 
+das prestações de serviço realizadas; para prospecção de 
+novos projetos em parceria com o setor produtivo; para 
+busca por outras fontes de financiamento e para cobrança 
+dos serviços prestados; e estratégia de divulgação dos 
+serviços prestados pelo laboratório, dos projetos em 
+andamento, da estrutura disponível e para difusão do 
+conhecimento científico envolvendo fotônica. 
+4 
+0 a 10 
+G 
+Região da sede da instituição à qual o laboratório está 
+vinculado:  
+Regiões Norte e Centro-Oeste – 10 pontos; 
+Regiões Nordeste, Sudeste e Sul – 0 pontos 
+1 
+0 a 10 
+Pontuação Final Máxima 
+10 
+7.1.1.1 – Para estipulação das notas poderão ser utilizadas até duas casas decimais. 
+7.1.1.2 – A nota final de cada proposta será aferida pela média ponderada das notas atribuídas 
+para cada item. 
+7.1.1.3 – O Comitê Julgador considerará, em caso de empate, a maior nota obtida no critério de 
+julgamento “A” e, em permanecendo o empate, a maior nota obtida no critério de julgamento “D”.  
+7.1.2 – Os critérios para classificação das propostas quanto ao mérito técnico-científico e sua 
+adequação orçamentária para os laboratórios concorrentes na Linha 2 – Laboratório Integrador do 
+Sisfóton-MCTI são: 
+ 
+Critérios de análise e julgamento – Laboratório Integrador 
+Peso 
+Nota 
+A 
+Histórico de atuação do laboratório candidato em atividades 
+relacionadas às expectativas para o Laboratório Integrador 
+2 
+0 a 10 
+  
+ 
+10
+do Sisfóton-MCTI 
+B 
+Proposta de atuação no âmbito do Programa Sisfóton-MCTI, 
+incluindo os planos do Laboratório Integrador para contribuir 
+para 
+a 
+integração 
+e 
+inteligência 
+estratégica, 
+para 
+prospecção 
+de 
+novos 
+projetos, 
+para 
+buscar 
+por 
+oportunidades para o Sistema, para a disseminação, para o 
+desenvolvimento 
+de 
+novas 
+competências 
+técnicas, 
+experiência nas temáticas empreendedorismo e inovação, 
+entre outros. 
+4 
+0 a 10 
+C 
+Projetos formalizados, desenvolvidos e em desenvolvimento 
+com 
+empresas 
+e 
+de 
+cooperação 
+internacional, 
+preferencialmente na área de fotônica. 
+2 
+0 a 10 
+D 
+Qualificação e experiência científica, tecnológica, de 
+inovação e de empreendedorismo e o quantitativo da equipe 
+envolvida. 
+4 
+0 a 10 
+Pontuação Final Máxima 
+10 
+7.1.2.1 – Para estipulação das notas poderão ser utilizadas até duas casas decimais. 
+7.1.2.2 – A nota final de cada proposta será aferida pela média ponderada das notas atribuídas 
+para cada item. 
+7.1.2.3 – O Comitê Julgador considerará, em caso de empate, a maior nota obtida no critério de 
+julgamento “B” e, em permanecendo o empate, a maior nota obtida no critério de julgamento “D”.  
+7.2 – Etapas do Julgamento 
+7.2.1 – Etapa I - Classificação pelo Comitê Julgador 
+7.2.1.1 – A composição e as atribuições do Comitê Julgador seguirão as disposições contidas na 
+Resolução Normativa nº 002/2015. 
+7.2.1.1.1 – É vedado a qualquer membro do Comitê julgar propostas em que: 
+a) esteja participando da equipe do projeto seu cônjuge, companheiro ou parente, consangüíneo 
+ou afim, em linha reta ou colateral, até o terceiro grau; 
+b) esteja litigando judicial ou administrativamente com qualquer membro da equipe do projeto ou 
+seus respectivos cônjuges ou companheiros; 
+c) haja qualquer outro conflito de interesse; e/ou 
+d) divulgar, antes do anúncio oficial do CNPq, os resultados de qualquer julgamento. 
+7.2.1.2 – As propostas serão classificadas pelo Comitê Julgador seguindo os critérios de 
+julgamento dispostos no subitem 7.1.1. 
+7.2.1.3 – Todas as propostas avaliadas serão objeto de parecer de mérito consubstanciado, 
+contendo a fundamentação que justifica a pontuação atribuída. 
+7.2.1.4 – Concluída a análise, o Comitê recomendará a aprovação ou a não aprovação das 
+propostas quanto ao mérito. 
+  
+ 
+11
+7.2.1.4.1 – Para cada proposta recomendada para aprovação, o Comitê Julgador deverá sugerir o 
+valor a ser financiado pelo CNPq. 
+7.2.1.5 – O parecer final do Comitê Julgador será registrado em Planilha de Julgamento, contendo 
+a relação de todas as propostas com as respectivas notas finais, assim como outras informações e 
+recomendações julgadas pertinentes. 
+7.2.1.5.1 – A Planilha de Julgamento será assinada pelos membros do Comitê. 
+7.2.1.6 – Durante a classificação das propostas pelo Comitê Julgador, o Gestor da Chamada e a 
+área técnico-científica responsável acompanharão as atividades e poderão recomendar ajustes e 
+correções necessários, com vistas à adequação dos pareceres às disposições desta Chamada.  
+ 
+7.2.2 – Etapa II – Análise pela Área Técnico-Científica do CNPq 
+7.2.2.1 – Esta etapa consiste: 
+a) na análise do cumprimento dos critérios de elegibilidade e das demais disposições desta 
+Chamada, cuja inobservância ensejará o indeferimento das propostas que não cumprirem tais 
+critérios e disposições; e 
+b) na revisão da classificação pelo Comitê Julgador, caso necessário. 
+7.2.2.2 – A área técnico-científica analisará os pareceres elaborados pelo Comitê Julgador e a 
+Planilha de Julgamento e apresentará subsídios, por meio de Nota Técnica, para a decisão do 
+Presidente do CNPq. 
+7.2.2.3 – A área técnico-científica, mediante nota técnica, poderá apontar itens orçamentários, 
+informações equivocadas ou inverídicas, inconsistências técnicas, equívocos de julgamento, 
+elementos a serem inseridos, modificados ou excluídos, que poderão, ou não, inviabilizar a 
+aprovação da proposta. 
+7.2.2.3.1 – Na hipótese do subitem 7.2.2.3, a área técnico-científica adotará as providências 
+necessárias para saneamento, podendo recomendar, inclusive, a elaboração de novo parecer, a 
+complementação do parecer anterior e/ou a retificação da Planilha de Julgamento.  
+7.2.3 – Etapa III – Decisão Preliminar do Presidente do CNPq 
+7.2.3.1 – O Presidente do CNPq emitirá decisão com fundamento na Nota Técnica elaborada pela 
+área técnico-científica responsável, acompanhada dos documentos que compõem o processo de 
+julgamento. 
+7.2.3.1.1 – Na decisão do Presidente do CNPq constarão as propostas aprovadas e as não 
+aprovadas quanto ao mérito, e as indeferidas. 
+7.2.3.1.2 – Dentre as propostas aprovadas serão destacadas as que serão contratadas 
+considerando o limite orçamentário desta Chamada, com a indicação dos respectivos recursos de 
+financiamento. 
+7.2.3.2 – A decisão será divulgada na página eletrônica do CNPq, disponível na Internet no 
+endereço https://www.gov.br/cnpq/pt-br, e publicada, por extrato, no Diário Oficial da União 
+conforme CRONOGRAMA. 
+7.2.3.3 – Todos os proponentes terão acesso ao(s) parecer(es) sobre sua proposta, preservada a 
+identificação dos pareceristas. 
+8 – Recurso Administrativo da Decisão Preliminar do Presidente do CNPq 
+  
+ 
+12
+8.1 – Da decisão do Presidente do CNPq caberá recurso a ser interposto mediante formulário 
+eletrônico 
+específico, 
+disponível 
+na 
+Plataforma 
+Integrada 
+Carlos 
+Chagas 
+(http://carloschagas.cnpq.br), no prazo de 10 (dez) dias corridos a partir da publicação do resultado 
+no DOU e na página do CNPq. 
+9 – Etapa IV – Decisão Final do Julgamento pela DEX 
+9.1 – A DEX emitirá decisão final do julgamento com fundamento em Nota Técnica elaborada pela 
+área técnico-científica responsável contendo subsídios para análise dos recursos administrativos, 
+acompanhada dos documentos que compõem o processo de julgamento. 
+9.2 – O resultado final do julgamento pela DEX será divulgado na página eletrônica do CNPq, 
+disponível na Internet no endereço www.cnpq.br e publicado, por extrato, no Diário Oficial da 
+União, conforme CRONOGRAMA.  
+10 – Implementação e Execução das Propostas Aprovadas 
+10.1 – As propostas aprovadas serão apoiadas na modalidade de Auxílio à Pesquisa (APQ), em 
+nome do proponente, mediante assinatura de TERMO DE OUTORGA.  
+10.2 – A firmatura do TERMO DE OUTORGA ficará subordinada à existência prévia de Acordo de 
+Cooperação Técnica celebrado entre a instituição de execução do projeto e o CNPq, conforme 
+disposto na RN nº 006/2019.   
+10.3 – O proponente terá até 90 (noventa) dias para assinar o TERMO DE OUTORGA a partir da 
+data da publicação do extrato da decisão final do julgamento desta Chamada no DOU. 
+10.3.1 – O prazo estabelecido no subitem 10.3 poderá ser prorrogado, a critério da Diretoria de 
+Engenharias, Ciências Exatas, Humanas e Sociais - DEHS, mediante pedido justificado 
+apresentado pelo proponente em até 15 (quinze) dias anteriores ao término do prazo fixado. 
+10.3.2 – Expirado o prazo estabelecido no item 10.3 ou a sua prorrogação, sem que o proponente 
+tenha assinado o TERMO DE OUTORGA, decairá o direito à concessão, hipótese em que o CNPq 
+poderá apoiar eventuais proponentes cujas propostas, não obstante aprovadas, não tenham sido 
+contratadas dado o limite de recursos desta Chamada, observada a ordem de classificação. 
+10.3.3 – Excepcionalmente, o prazo estabelecido no subitem 10.3 poderá ser prorrogado pela 
+Diretoria Executiva do CNPq, mediante pedido justificado apresentado pelo gestor da Chamada 
+em até 15 (quinze) dias anteriores ao término do prazo, hipótese em que a prorrogação do prazo 
+beneficiará todos os proponentes cujas propostas tenham sido aprovadas.  
+10.4 – No âmbito do MCTI, será firmado Termo de Adesão, celebrado entre a instituição à qual o 
+laboratório está vinculado e o MCTI, conforme modelo a ser disponibilizado por este Ministério.  
+10.5 – As propostas a serem apoiadas pela presente Chamada deverão ter seu prazo máximo de 
+execução estabelecido em 36 (trinta e seis) meses.  
+10.5.1 – Excepcionalmente, o prazo de execução dos projetos poderá ser prorrogado, mediante 
+pedido fundamentado do proponente, a critério do CNPq. 
+10.5.2 – A prorrogação da execução do projeto deverá observar necessariamente a 
+correspondente prorrogação do instrumento de cooperação (TED 27/2020).  
+10.6 – O proponente deverá manter, durante a execução do projeto, todas as condições, 
+apresentadas na submissão da proposta, de qualificação, habilitação e idoneidade necessárias ao 
+perfeito cumprimento do seu objeto e preservar atualizados os seus dados cadastrais nos registros 
+competentes. 
+  
+ 
+13
+10.7 – A existência de registro de inadimplência, por parte do proponente, com o CNPq, com a 
+Receita Federal do Brasil e no SIAFI constituirá fator impeditivo para a contratação do projeto. 
+10.7.1 – A inadimplência constatada após a contratação será fator impeditivo para os desembolsos 
+financeiros no decorrer do projeto. 
+10.8 – As informações geradas com a implementação das propostas selecionadas e 
+disponibilizadas na base de dados do CNPq serão consideradas de acesso público, observadas as 
+disposições abaixo. 
+10.8.1 – Os projetos submetidos a esta Chamada, bem como quaisquer relatórios técnicos 
+apresentados pelos pesquisadores e/ou bolsistas para o CNPq, que contenham informações sobre 
+os projetos em andamento, terão acesso restrito até o ato decisório referente à aprovação final 
+pelo CNPq (art. 7º, §3º, da Lei nº 12.527/2011 e art. 20 do Decreto nº 7.724/2012). 
+10.8.2 – Os proponentes cujos projetos tenham sido submetidos ao CNPq, bem como aqueles que 
+apresentarem ao CNPq relatórios técnicos que possam gerar, no todo ou em parte, resultado 
+potencialmente objeto de patente de invenção, modelo de utilidade, desenho industrial, programa 
+de computador ou qualquer outra forma de registro de propriedade intelectual e semelhantes 
+deverão manifestar explicitamente o interesse na restrição de acesso na ocasião da submissão do 
+projeto e/ou do envio do relatório técnico. 
+10.8.2.1 – As obrigações de sigilo e restrição de acesso público previstas no subitem 10.8.2 
+subsistirão pelo prazo de 5 (cinco) anos a partir da solicitação da restrição. 
+10.8.2.2 – Em que pese a possibilidade de restrição de acesso, esta não reduz, contudo, a 
+responsabilidade que os pesquisadores, suas equipes e instituições têm, como membros da 
+comunidade de pesquisa, de manter, sempre que possível, os resultados da pesquisa, dados e 
+coleções à disposição de outros pesquisadores para fins acadêmicos.  
+10.8.3 – As instituições envolvidas deverão assegurar que seus empregados, funcionários, 
+agentes públicos e subcontratadas, que tenham acesso às informações de acesso restrito, tenham 
+concordado em cumprir as obrigações de restrição de acesso à informação. 
+10.8.4 – O CNPq disponibilizará, a seu critério, as informações primárias de todos os projetos, tais 
+como: título, resumo, objeto, proponente(s), instituições executoras e recursos aplicados pelo 
+órgão. 
+10.9 – A concessão do apoio financeiro poderá ser cancelada pela Diretoria Executiva do CNPq 
+mediante decisão devidamente fundamentada, por ocorrência, durante sua implementação, de fato 
+cuja gravidade justifique o cancelamento, sem prejuízo de outras providências cabíveis.  
+10.10 – É de exclusiva responsabilidade de cada proponente adotar todas as providências que 
+envolvam permissões e autorizações especiais, de caráter ético ou legal, necessárias à execução 
+do projeto. 
+11 – Do Monitoramento e da Avaliação  
+11.1 – As ações de monitoramento e avaliação terão caráter preventivo e saneador, objetivando a 
+gestão adequada e regular dos projetos. 
+11.2 – Durante a execução o projeto será acompanhado e avaliado, em todas as suas fases, 
+considerando o que dispõe o TERMO DE OUTORGA. 
+11.3 – É reservado ao CNPq o direito de acompanhar, avaliar a execução do projeto/plano de 
+trabalho e fiscalizar in loco a utilização dos recursos durante a vigência do processo. 
+  
+ 
+14
+11.3.1 – Durante a execução do projeto o CNPq e/ou o MCTI poderão, a qualquer tempo, 
+promover visitas técnicas, ou solicitar informações adicionais visando ao monitoramento e à 
+avaliação do projeto. 
+11.4 – O proponente deverá informar ao CNPq toda e qualquer alteração relativa à execução do 
+projeto e, nos casos em que necessária, solicitar anuência prévia do CNPq por meio de pedido 
+devidamente justificado, observado o disposto no Decreto nº 9.283/2018 e na RN nº 006/2019. 
+11.4.1 – Durante a fase de execução do projeto, toda e qualquer comunicação com o CNPq 
+deverá ser promovida por meio da Central de Atendimento: atendimento@cnpq.br. 
+11.5 – O proponente/coordenador deverá preencher formulário de avaliação e acompanhamento 
+do projeto de pesquisa sempre que solicitado. 
+11.5.1 – Os resultados parciais obtidos pelo projeto de pesquisa serão acompanhados anualmente 
+pelo CNPq que também considerará, dentre outros, os objetivos, o cronograma, as metas e os 
+indicadores estabelecidos no projeto/plano de trabalho aprovado. 
+11.6 – Constatado que o projeto não está sendo executado conforme o previsto, o CNPq 
+determinará as diligências necessárias considerando o caso concreto e, caso não atendidas, 
+promoverá o cancelamento da concessão, sem prejuízo da adoção das demais providências 
+cabíveis conforme o caso. 
+12 – Prestação de Contas/Avaliação Final 
+12.1 – O proponente do projeto deverá encaminhar ao CNPq, por meio do formulário online 
+específico, o Relatório de Execução do Objeto - REO no prazo de até 60 (sessenta) dias contados 
+do término da vigência do respectivo processo do CNPq, em conformidade com o TERMO DE 
+OUTORGA e RN nº 008/2018, sob pena de ressarcimento dos valores despendidos pelo CNPq e 
+demais penalidades previstas na legislação de regência. 
+12.1.1 – Todos os campos do REO deverão ser devidamente preenchidos. 
+12.1.2 – O REO deverá conter, obrigatoriamente: 
+a) a descrição das atividades desenvolvidas para o cumprimento dos objetivos e metas do projeto; 
+b) a demonstração e o comparativo específico das metas com os resultados alcançados; 
+c) o comparativo das metas cumpridas e das metas previstas devidamente justificadas em caso de 
+discrepância, referentes ao período a que se o REO; e 
+d) informações sobre a execução das atividades de divulgação científica por meio de textos, links 
+de acesso, endereços eletrônicos, fotografias, vídeos ou áudios, dentre outros produtos que 
+poderão ser disponibilizados em repositórios públicos e utilizados pelo CNPq em suas atividades 
+de comunicação institucional. 
+12.1.3 – O proponente/coordenador deverá anexar ao REO um arquivo contendo: 
+a) declaração de que utilizou os recursos exclusivamente para a execução do projeto, 
+acompanhada de comprovante da devolução dos recursos não utilizados, se for o caso; 
+b) relação de bens adquiridos, desenvolvidos ou produzidos, quando houver, com a documentação 
+comprobatória da incorporação dos bens ao patrimônio da instituição de execução do projeto; 
+c) avaliação de resultados; e 
+  
+ 
+15
+d) demonstrativo consolidado das transposições, dos remanejamentos ou das transferências de 
+recursos efetuados, quando houver. 
+12.2 – Caso o REO não seja aprovado ou apresente indícios de irregularidade o CNPq solicitará 
+ao beneficiário que apresente o Relatório de Execução Financeira, acompanhado dos 
+comprovantes digitalizados das despesas financeiras e demais documentos indicados na RN nº 
+008/2018. 
+12.2.1 – A critério do CNPq o Relatório de Execução Financeira poderá ser exigido do beneficiário 
+independente da avaliação do REO. 
+12.2.2 – Os comprovantes originais deverão ser mantidos pelo Coordenador do projeto pelo prazo 
+de cinco anos contados da data de aprovação da prestação de contas final. 
+12.2.3 – Recomenda-se que o coordenador do projeto mantenha a prestação de contas financeira 
+atualizada na Plataforma Integrada Carlos Chagas, durante a execução do projeto. 
+13 – Impugnação da Chamada 
+13.1 – Decairá do direito de impugnar os termos desta Chamada o cidadão que não o fizer até o 
+prazo disposto no CRONOGRAMA. 
+13.1.1 – Caso não tenha impugnado tempestivamente a Chamada, o proponente se vincula a 
+todos os seus termos, decaindo o direito de contestar as suas disposições. 
+13.2 – A impugnação deverá ser dirigida à Presidência do CNPq, por correspondência eletrônica, 
+para o endereço: presidencia@cnpq.br, seguindo os trâmites processuais previstos na Lei nº 
+9.784/1999. 
+13.2.1 – O pedido de impugnação da Chamada não suspenderá nem interromperá os prazos 
+estabelecidos no CRONOGRAMA. 
+14 – Publicações 
+14.1 – As publicações científicas e qualquer outro meio de divulgação ou promoção de eventos ou 
+de projetos de pesquisa apoiados pela presente Chamada deverão citar, obrigatoriamente, o apoio 
+do CNPq e de outras entidades/órgãos financiadores. 
+14.1.1 – Nas publicações científicas o CNPq deverá ser citado exclusivamente como “Conselho 
+Nacional de Desenvolvimento Científico e Tecnológico – CNPq” ou como “National Council for 
+Scientific and Technological Development – CNPq”. 
+14.2 – As ações publicitárias atinentes a projetos realizados com recursos desta Chamada 
+deverão observar rigorosamente as disposições que regulam a matéria. 
+14.3 – Os artigos científicos resultantes dos projetos apoiados deverão ser publicados, 
+preferencialmente, em periódicos de acesso público e depositados, em conjunto com os dados 
+científicos e com todo material suplementar relacionado, em repositórios eletrônicos de acesso 
+público. 
+14.4 – Caso os resultados do projeto ou o relatório venham a ter valor comercial ou possam levar 
+ao desenvolvimento de um produto ou método envolvendo o estabelecimento de uma propriedade 
+intelectual, a troca de informações e a reserva dos direitos, em cada caso, dar-se-ão de acordo 
+com o estabelecido na legislação vigente: Lei de Propriedade Industrial (Lei nº 9.279/1996 ), Marco 
+Legal de CT&I (EC 85/2015, Lei nº 10.973/2004, Lei nº 13.243/2016 e Decreto nº 9.283/2018) e 
+normativo do CNPq que regula a matéria (RN 034/2014). 
+  
+ 
+16
+15 – Disposições Gerais 
+15.1 – A presente Chamada regula-se pelos preceitos de direito público inseridos no Marco Legal 
+de CT&I e, em especial, pelas normas internas do CNPq.  
+15.2 – A qualquer tempo, a presente Chamada poderá ser revogada ou anulada, no todo ou em 
+parte, por meio de decisão devidamente fundamentada da Diretoria Executiva do CNPq, sem que 
+isso implique direito à indenização ou reclamação de qualquer natureza. 
+15.3 – A Diretoria Executiva do CNPq reserva-se o direito de resolver os casos omissos e as 
+situações não previstas na presente Chamada. 
+ 
+Brasília, 22 de março de 2021. 
+  
+ 
+17
+ 
+ANEXO I - FORMULÁRIO PARA SUBMISSÃO DE PROPOSTAS AO SISTEMA 
+NACIONAL DE LABORATÓRIOS DE FOTÔNICA (SISFÓTON-MCTI), Linha I – 
+Laboratório Sisfóton-MCTI (CANDIDATURA GERAL) 
+ 
+ATENÇÃO: 
+- Conforme determinado na Chamada Pública CNPq/MCTI/SEMPI N° 01/2021 juntamente com o 
+formulário de submissão de propostas online, deve ser incluído como anexo o presente formulário 
+preenchido com a proposta do laboratório candidato a integrar o Sistema Nacional de Laboratórios 
+de Fotônica (Sisfóton-MCTI).  
+- Recomenda-se que o formulário preenchido não tenha mais do que 15 páginas, não sendo 
+contabilizadas neste número as páginas com a relação de equipamentos da instituição. O arquivo 
+em formato PDF não deverá ultrapassar o tamanho máximo de 2Mb. Deve-se procurar primar pela 
+clareza e objetividade. 
+- Os dados da proposta devem ser coerentes com os dados informados no formulário de 
+submissão de propostas online.  
+- Nenhum dos campos deste formulário deve ser excluído. Caso não tenha informação a incluir, 
+preencher com "não se aplica". 
+- No envio da proposta, o proponente declara, para os devidos fins, que todas as informações 
+prestadas, bem como os documentos apresentados, são verdadeiras, autênticas e fiéis à 
+realidade. 
+ 
+ 
+PLANO DE TRABALHO 
+ 
+1. IDENTIFICAÇÃO DA PROPOSTA 
+DADOS DO LABORATÓRIO/INSTITUIÇÃO  
+Laboratório: (nome do Laboratório) 
+Instituição: (nome da instituição à qual o laboratório está vinculado) 
+Endereço: (endereço completo da instituição) 
+CNPJ: 
+DADOS DO DIRIGENTE MÁXIMO DA INSTITUIÇÃO  
+Dirigente máximo da Instituição: (nome do dirigente máximo da instituição à qual o 
+laboratório está vinculado) 
+RG/Órgão expedidor: 
+CPF: 
+Cargo: 
+Ato de nomeação:  
+Telefone: 
+E-mail: 
+DADOS DO PROPONENTE 
+Coordenador do projeto: (nome do gestor do projeto, indicado pelo dirigente máximo da 
+instituição. Será responsável pela execução financeira junto ao CNPq) 
+RG/Órgão expedidor: 
+CPF: 
+Cargo/Vínculo com a instituição: 
+Telefone: 
+E-mail: 
+Vice Coordenador do projeto: (nome do vice coordenador do projeto, indicado pelo 
+dirigente máximo da instituição) 
+  
+ 
+18
+RG/Órgão expedidor: 
+CPF: 
+Cargo/Vínculo com a instituição: 
+Telefone: 
+E-mail: 
+ 
+ 
+2. SETORES E TECNOLOGIAS 
+ 
+DESCRIÇÃO DO LABORATÓRIO E SUAS ATIVIDADES.  
+Setores e tecnologias que o laboratório atua.  
+Marque os setores e tecnologias em que o laboratório atua. O proponente deverá indicar abaixo de 1 a 3 setores 
+de atuação e de 1 a 2 tecnologias por setor de atuação. 
+ 
+ 
+:  
+Setor 
+Econômico ou 
+Tema 
+\Tecnologias 
+Comunica-
+ções (TIC) 
+Saúde 
+Energia 
+Agricul- 
+tura 
+Meio-
+ambiente 
+Indús- 
+tria 
+Defesa 
+(Aero- 
+espacial, 
+Segurança) 
+Mobili- 
+dade 
+(Transporte 
+/automotiva) 
+Educa- 
+ção 
+Fibras Ópticas e 
+Dispositivos 
+Fotônicos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Integração 
+Híbrida, Óptica 
+Integrada e 
+Dispositivos 
+Optoeletrônicos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sistemas e 
+Redes de 
+Comunicações 
+Ópticas 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lasers (alta 
+potência, 
+fenômenos de 
+campos intensos, 
+desenvolvimento 
+e aplicações) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Materiais 
+Avançados para 
+Fotônica 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nanofotônica e 
+Plasmônica 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ópticas Clássica, 
+Quântica e Não 
+Linear 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Instrumentação 
+Óptica, 
+Espectroscopia e 
+Metrologia 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sensores 
+(Biomédicos, 
+Sistemas 
+Vestíveis, Ópticos 
+e outros 
+desenvolvimentos 
+e aplicações) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Displays e 
+Iluminação (LED, 
+OLED e 
+similares) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+19
+ 
+3. LINHAS DE PESQUISA, INFRAESTRUTURA E PRODUÇÃO 
+ 
+PRINCIPAIS LINHAS DE PESQUISA, RELEVÂNCIA E IMPACTO 
+Descrição resumida do foco das principais linhas de pesquisa do laboratório, sua 
+relevância e seu impacto econômico e social para o país; 
+ 
+PRINCIPAIS RESULTADOS DO LABORATÓRIO 
+Descrição resumida dos principais resultados do laboratório candidato a integrar o Sisfóton 
+com vistas a evidenciar sua qualidade e destaque na área de fotônica. 
+ 
+ESTRUTURA LABORATORIAL 
+Citar os laboratórios da instituição que integrarão o Sisfóton-MCTI, disponibilizando a sua 
+estrutura física a usuários públicos e privados, mediante submissão de projetos ou 
+requisição de serviços.  
+ 
+EQUIPAMENTOS  
+Relação dos principais equipamentos disponíveis (indicar ano de fabricação e valor 
+estimado do equipamento). Na coluna “OBSERVAÇÃO”, identificar os equipamentos que 
+existem em pouca quantidade no Brasil, que são utilizados para análises muito 
+específicas, ou outra observação que seja pertinente. Inserir quantas linhas forem 
+necessárias. 
+N° 
+EQUIPAMENTO 
+ANO DE 
+FABRICAÇÃO 
+VALOR 
+ESTIMADO 
+(R$) 
+OBSERVAÇÃO 
+1 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+TÉCNICAS DISPONIBILIZADAS  
+Além da disponibilização dos equipamentos descritos no item 2, citar, de maneira 
+resumida, as técnicas que serão disponibilizadas aos usuários externos, seja na forma de 
+parceria em projetos ou como prestação de serviços.  
+ 
+INSTITUIÇÕES PARCEIRAS 
+Relação das instituições parceiras e seus equipamentos que poderão ser disponibilizados 
+de maneira complementar, condicionado à submissão de projetos ou requisição de 
+serviços. Deve ser anexada carta de anuência da instituição parceira.   
+ 
+PRODUÇÃO CIENTÍFICA 
+Relação dos principais artigos, na área de Fotônica, publicados em periódicos, pela equipe 
+do laboratório, nos últimos 4 (quatro) anos. 
+ 
+  
+ 
+20
+PATENTES  
+Relação de patentes depositadas nos últimos 4 (quatro) anos na área de fotônica ou 
+correlata. 
+ 
+ 
+ 
+ 
+4. RECURSOS HUMANOS 
+EQUIPE TÉCNICO-CIENTÍFICA  
+Relação da equipe técnica do laboratório disponível para dar suporte aos usuários 
+externos, tanto em relação à consultoria científica quanto ao suporte técnico para uso de 
+equipamentos. Apontar nome, formação/titulação e atuação no laboratório.  
+NOME 
+FORMAÇÃO/TITULA
+ÇÃO 
+ATUAÇÃO NO LABORATÓRIO 
+ 
+ 
+(Coordenador, pesquisador, bolsista, 
+técnico de laboratório, entre outros). 
+ 
+ 
+5. COOPERAÇÕES COM EMPRESAS NACIONAL E INTERNACIONAL 
+ 
+PROJETOS EM COOPERAÇÃO COM EMPRESAS  
+Relação de projetos, realizados nos últimos 4 anos ou em andamento, em cooperação 
+com empresas envolvendo tecnologias fotônicas. Incluir quantas linhas forem necessárias. 
+TÍTULO DO PROJETO 
+EMPRESA 
+PARCEIRA 
+VALOR DO 
+PROJETO 
+(R$) 
+VIGÊNCIA  
+ 
+ 
+ 
+Ex: 2017 a 
+2020 
+PROJETOS EM COOPERAÇÃO INTERNACIONAL 
+Relação de projetos de cooperação internacional, realizados nos últimos 4 anos ou em 
+andamento, envolvendo tecnologias fotônicas.  Incluir quantas linhas forem necessárias. 
+TÍTULO DO PROJETO 
+INSTITUIÇÃO  
+VIGÊNCIA 
+ 
+ 
+Ex: 2017 a 
+2020 
+ 
+6. PROPOSTA DE ATUAÇÃO NO ÂMBITO DO PROGRAMA SISFÓTON-MCTI  
+JUSTIFICATIVA  
+Contextualizar a importância regional/nacional do laboratório, seu diferencial em 
+infraestrutura, a relevância das linhas de pesquisa e de atuação do laboratório para PD&I 
+em tecnologias fotônicas, a possibilidade de atuação em redes citando possíveis 
+parceiros, a experiência em prestação de serviços e atendimento a usuários externos. 
+ 
+PLANO DE NEGÓCIO 
+Plano para atendimento aos usuários externos: 
+(Descrever como o laboratório pretende se organizar para atender aos usuários externos, 
+  
+ 
+21
+metodologia para agendamento de uso da estrutura laboratorial e submissão de projetos, 
+tempo disponibilizado aos usuários externos, como será feita a formalização das 
+parcerias e das prestações de serviço). 
+ 
+Plano para prospecção de novos projetos: 
+(Descrever a estratégia do laboratório para fazer a prospecção de novos projetos, 
+especialmente, projetos em parceria com o setor produtivo). 
+ 
+Plano para busca e captação de recursos adicionais: 
+ (descrever a estratégia do laboratório para buscar recursos de outras fontes que podem 
+contribuir para manutenção do laboratório. Citar como será feita a remuneração pelos 
+serviços prestados aos usuários externos, visando a autossustentabilidade das atividades 
+do laboratório). 
+Plano de Difusão: 
+(Descrever a estratégia para divulgação dos serviços prestados pelo laboratório, dos 
+projetos em andamento, da estrutura disponível e para difusão do conhecimento científico 
+envolvendo fotônica). 
+ 
+ 
+7. DEMANDA DOS LABORATÓRIOS  
+BOLSAS  
+(Previsão de número de bolsas por ano, por modalidade e justificativa da solicitação. 
+Considerar que os bolsistas são para dar suporte aos usuários externos do laboratório). 
+MODALIDADE 
+QUANTIDADE/ANO 
+JUSTIFICATIVA 
+ 
+ 
+(ex: bolsista para atuar no preparo de 
+amostras de projetos externos, suporte no 
+uso do equipamento X, etc.) 
+Observação: 
+ 
+CUSTEIO  
+(Estimativa de recursos necessários para manutenção das atividades do laboratório de 
+maneira a atender os usuários externos; para viabilizar a realização de reuniões e 
+participação em eventos no âmbito do Sisfóton-MCTI, entre outras). 
+ 
+CAPITAL  
+(Descrição justificada de equipamentos que o laboratório pretende adquirir, se houver 
+disponibilização de recursos para este fim; estimativa de recursos para manutenção de 
+equipamentos; entre outros). 
+ 
+ 
+8. PROPOSTA DOS LABORATÓRIOS PARA APLICAÇÃO DE RECURSOS 
+EXTERNOS, SE HOUVER.  
+PROPOSTAS 
+(Descrever suscintamente a proposta do laboratório, caso haja aporte futuro de recursos 
+por parceiros externos, regionais e nacionais, em especial, as Fundações de Amparo à 
+Pesquisa. 
+  
+ 
+22
+BOLSAS 
+(Proposta de implementação de bolsas, caso sejam aportados recursos por parceiros 
+externos ao Sisfóton-MCTI).  
+ 
+CUSTEIO  
+(Proposta de aplicação de recursos de custeio, caso sejam aportados recursos por 
+parceiros externos ao Sisfóton-MCTI). 
+ 
+CAPITAL  
+(Proposta de aplicação de recursos de capital, caso sejam aportados recursos por 
+parceiros externos ao Sisfóton-MCTI). 
+ 
+ 
+ 
+9. INFORMAÇÕES COMPLEMENTARES 
+INFORMAÇÕES ADICIONAIS  
+(Informações adicionais que considerarem necessárias).  
+ 
+ 
+  
+ 
+23
+ANEXO II - FORMULÁRIO PARA SUBMISSÃO DE PROPOSTAS AO SISTEMA 
+NACIONAL DE LABORATÓRIOS DE FOTÔNICA – SISFÓTON-MCTI, Linha II -
+LABORATÓRIO INTEGRADOR 
+ 
+ATENÇÃO: 
+- Conforme determinado na Chamada Pública CNPq/MCTI/SEMPI N° 01/2021 juntamente com o 
+formulário de submissão de propostas online, deve ser incluído como anexo o presente formulário 
+preenchido com a proposta do laboratório candidato a integrar o Sistema Nacional de Laboratórios 
+de Fotônica (Sisfóton-MCTI).  
+- Recomenda-se que o formulário preenchido não tenha mais do que 15 páginas, não sendo 
+contabilizadas neste número as páginas com a relação de equipamentos da instituição. O arquivo 
+em formato PDF não deverá ultrapassar o tamanho máximo de 2Mb. Deve-se procurar primar pela 
+clareza e objetividade. 
+- Os dados da proposta devem ser coerentes com os dados informados no formulário de 
+submissão de propostas online.  
+- Nenhum dos campos deste formulário deve ser excluído. Caso não tenha informação a incluir, 
+preencher com "não se aplica". 
+- No envio da proposta, o proponente declara, para os devidos fins, que todas as informações 
+prestadas, bem como os documentos apresentados, são verdadeiras, autênticas e fiéis à 
+realidade. 
+ 
+ 
+PLANO DE TRABALHO PARA O LABORATÓRIO INTEGRADOR 
+ 
+ 
+1. IDENTIFICAÇÃO DA PROPOSTA – LABORATÓRIO INTEGRADOR 
+DADOS DO LABORATÓRIO/INSTITUIÇÃO  
+Laboratório: (nome do Laboratório) 
+Instituição: (nome da instituição à qual o laboratório está vinculado) 
+Endereço: (endereço completo da instituição) 
+CNPJ: 
+DADOS DO DIRIGENTE MÁXIMO DA INSTITUIÇÃO  
+Dirigente máximo da Instituição: (nome do dirigente máximo da instituição à qual o 
+laboratório está vinculado) 
+RG/Órgão expedidor: 
+CPF: 
+Cargo: 
+Ato de nomeação:  
+Telefone: 
+E-mail: 
+DADOS DO PROPONENTE 
+Coordenador do projeto: (nome do gestor do projeto, indicado pelo dirigente máximo da 
+instituição. Será responsável pela execução financeira junto ao CNPq) 
+RG/Órgão expedidor: 
+CPF: 
+Cargo/Vínculo com a instituição: 
+Telefone: 
+E-mail: 
+Vice Coordenador do projeto: (nome do vice coordenador do projeto, indicado pelo 
+dirigente máximo da instituição) 
+RG/Órgão expedidor: 
+CPF: 
+  
+ 
+24
+Cargo/Vínculo com a instituição: 
+Telefone: 
+E-mail: 
+ 
+2. ÁREAS DE ATUAÇÃO  
+PRINCIPAIS LINHAS DE PESQUISA/ÁREAS DE ATUAÇÃO 
+Descrição resumida das principais linhas/áreas de atuação do laboratório/instituição  
+ 
+PRINCIPAIS RESULTADOS DO LABORATÓRIO/INSTITUIÇÃO  
+Descrição resumida dos principais resultados do laboratório/instituição candidato a 
+integrar o Sisfóton-MCTI, na modalidade Laboratório Integrador, com vistas a evidenciar 
+sua qualidade e destaque na área de fotônica ou de estímulo ao ecossistema de fotônica. 
+ 
+JUSTIFICATIVA  
+Contextualizar a importância regional/nacional do laboratório/instituição, seu diferencial 
+nas competências requeridas para o Laboratório Integrador do Sisfóton-MCTI, sua 
+relevância no estímulo à aproximação e conexão entre os ambientes de pesquisa, negócio 
+e investimentos, capacidade de promover iniciativas entre os diversos atores do 
+ecossistema de fotônica, competências para promover a estratégia digital do Sisfóton-
+MCTI, entre outras. 
+ 
+ 
+ 
+3. PROPOSTA DE ATUAÇÃO NO ÂMBITO DO PROGRAMA SISFÓTON-MCTI 
+ 
+Plano para a integração e inteligência estratégica: 
+ (Descrever como o laboratório/instituição pretende se organizar para facilitar a 
+integração dos laboratórios do Sisfóton-MCTI, para propor a estratégia digital do Sisfóton-
+MCTI, difundir modelos de negócio, operação, boas práticas e compartilhamento de 
+experiências, para estimular a aproximação e conexão entre os ambientes de pesquisa, 
+negócio e investimentos, para identificar de forma proativa oportunidades diversas para o 
+grupo, entre outras. 
+  
+Plano para prospecção de novos projetos: 
+ (Descrever a estratégia do laboratório/instituição integrador para potencializar a 
+prospecção de novos projetos para os laboratórios integrantes do Sisfóton-MCTI) 
+ 
+Plano para busca e captação de recursos adicionais: 
+(Descrever a estratégia do laboratório/instituição integrador para buscar recursos de 
+outras fontes que possam contribuir para manutenção dos laboratórios, visando o 
+alcance da autossustentabilidade, ainda que parcial). 
+ 
+  
+ 
+25
+Plano para a popularização/divulgação/disseminação: 
+(Descrever a estratégia para popularização/divulgação/disseminação da Fotônica, do 
+Sisfóton-MCTI, dos serviços prestados pelos laboratórios, dos projetos em andamento, 
+da estrutura disponível, das oportunidades, das competências, entre outros). 
+ 
+Plano para ampliar o rol de competências das Equipes Técnicas 
+(Descrever a estratégia de capacitação e ampliação do rol de competências das Equipes 
+Técnicas do Sisfóton-MCTI, voltadas para catalisar a inovação tecnológica, 
+empreendedorismo, tecnologias disruptivas, cultura inovadora e outras).   
+ 
+Descrever a experiência no tema inovação e empreendedorismo: 
+ (Descrever a experiência do laboratório/instituição integrador nas temáticas de 
+empreendedorismo e inovação, que expressem, em especial, sua agilidade de gestão e 
+expertise nos temas. 
+  
+Informe as principais atividades que serão/poderão ser realizadas na busca de 
+interações com os diversos parceiros (oficinas, seminários, rodas de negócio, 
+capacitações, entre outras): 
+ (Descrever como o laboratório/instituição integrador pretende estimular a busca de 
+interações com os diversos parceiros). 
+ 
+Exemplifique a capacidade de estimular a conexão entre ambientes acadêmicos, 
+privados e de investimento: 
+ (Descrever como o laboratório/instituição integrador pretende estimular a conexão entre 
+ambientes acadêmicos, privados e de investimento). 
+ 
+ 
+4. INSTITUIÇÕES PARCEIRAS E COOPERAÇÕES COM EMPRESAS 
+NACIONAL E INTERNACIONAL 
+ 
+INSTITUIÇÕES PARCEIRAS 
+(Relação das instituições parceiras que poderão colaborar de maneira direta com o 
+Laboratório Integrador na consecução dos seus objetivos. Deve ser anexada carta de 
+anuência da instituição parceira).   
+ 
+PROJETOS EM COOPERAÇÃO COM EMPRESAS  
+(Relação de projetos, realizados nos últimos 4 anos ou em andamento, em cooperação 
+com empresas, preferencialmente na temática de fotônica. Incluir quantas linhas forem 
+necessárias). 
+TÍTULO DO PROJETO 
+EMPRESA 
+PARCEIRA 
+VALOR DO 
+PROJETO 
+(R$) 
+VIGÊNCIA  
+ 
+ 
+ 
+Ex: 2017 a 
+2019 
+  
+ 
+26
+PROJETOS EM COOPERAÇÃO INTERNACIONAL 
+Relação de projetos de cooperação internacional, realizados nos últimos 4 anos ou em 
+andamento, envolvendo tecnologias fotônicas.  Incluir quantas linhas forem necessárias. 
+TÍTULO DO PROJETO 
+INSTITUIÇÃO  
+VIGÊNCIA 
+ 
+ 
+Ex: 2017 a 
+2019 
+ 
+5. RECURSOS HUMANOS 
+EQUIPE TÉCNICO-CIENTÍFICA  
+Relação da equipe técnica do laboratório/instituição disponível para atuar no âmbito das 
+atividades do Laboratório Integrador. Apontar nome, formação/titulação e atuação no 
+laboratório.  
+NOME 
+FORMAÇÃO/TITULA
+ÇÃO 
+ATUAÇÃO NO LABORATÓRIO 
+ 
+ 
+(Coordenador, pesquisador, bolsista, 
+técnico de laboratório, entre outros). 
+ 
+6. DEMANDA DO LABORATÓRIO/INSTITUIÇÃO INTEGRADORA 
+BOLSAS  
+(Previsão de número de bolsas por ano, por modalidade e justificativa da solicitação. 
+Considerar que os bolsistas são para apoio técnico). 
+MODALIDADE 
+QUANTIDADE/ANO 
+JUSTIFICATIVA 
+ 
+ 
+(ex: bolsista para atuar no desenvolvimento e 
+implementação 
+da 
+estratégia 
+digital 
+do 
+Sisfóton-MCTI e no estudo e disseminação de 
+modelos de negócio em fotônica). 
+Observação: 
+ 
+CUSTEIO  
+(Estimativa 
+de 
+recursos 
+necessários 
+para 
+manutenção 
+das 
+atividades 
+do 
+laboratório/instituição integrador na consecução dos seus objetivos). 
+ 
+CAPITAL  
+(As atividades do laboratório/instituição integrador deverão estar concentradas 
+fundamentalmente nas rubricas de bolsa e custeio. Contudo, poderão estar previstas 
+despesas de capital. Neste sentido, descrever e justificar as necessidades de material 
+permanente ou equipamentos, entre outros dispêndios de capital). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+27
+7. PROPOSTA DO LABORATÓRIO PARA APLICAÇÃO DE RECURSOS 
+EXTERNOS, SE HOUVER.  
+PROPOSTAS 
+(Descrever suscintamente a proposta do laboratório, caso haja aporte futuro de recursos 
+por parceiros externos, regionais e nacionais, em especial, as Fundações de Amparo à 
+Pesquisa.  
+BOLSAS 
+(Proposta de implementação de bolsas, caso sejam aportados recursos por parceiros 
+externos ao Sisfóton-MCTI).  
+ 
+CUSTEIO  
+(Proposta de aplicação de recursos de custeio, caso sejam aportados recursos por 
+parceiros externos ao Sisfóton-MCTI). 
+ 
+CAPITAL  
+(Proposta de aplicação de recursos de capital, caso sejam aportados recursos por 
+parceiros externos ao Sisfóton-MCTI). 
+ 
+ 
+ 
+8. INFORMAÇÕES COMPLEMENTARES 
+INFORMAÇÕES ADICIONAIS  
+(Informações adicionais que considerarem necessárias).  
+ 
+ 
+  
+ 
+28
+ANEXO III – Carta de Concordância e Indicação dos Coordenadores do Projeto  
+ 
+(Assinada pelo responsável máximo da instituição à qual o laboratório está vinculado e com a indicação do 
+coordenador do projeto)  
+ 
+- A Carta de Concordância está disponível para preenchimento em: Anexo III - Carta de Concordância - 
+Chamada Sisfóton-MCTI 2021.doc  
+ 
+ 
+ 
+(Local),____de _____________de 2021. 
+ 
+ 
+Senhor Ministro, 
+ 
+ 
+Venho por meio desta carta expressar concordância com a proposta de adesão do 
+Laboratório (nome do laboratório), pertencente à estrutura desta(e)  (Universidade/ Instituto/ 
+Centro/ ICT) e que a(o) representará junto ao Sistema Nacional de Laboratórios de Fotônica 
+(Sisfóton-MCTI), bem como manifestar ciência quanto aos normativos vigentes. 
+ 
+Nesta oportunidade, indico o Sr(a) (Nome e cargo), como Coordenador do Projeto, e o 
+Sr(a) (Nome e cargo), como Vice Coordenador do Projeto. 
+ 
+ 
+Atenciosamente, 
+ 
+ 
+ 
+ 
+________________________________________ 
+Assinatura do Dirigente Máximo da Universidade/Instituto/Centro de Pesquisa 
+ 
+ 
+ 
+ 
+____________________________ 
+Assinatura do Coordenador do Projeto 
+ 
+ 
+ 
+ 
+____________________________ 
+Assinatura do Vice Coordenador do Projeto 

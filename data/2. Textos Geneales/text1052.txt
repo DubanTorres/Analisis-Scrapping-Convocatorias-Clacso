@@ -1,0 +1,5087 @@
+
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 1 de 9 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN  
+- COLCIENCIAS – 
+ 
+ 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES TECNOLÓGICAS DE 
+GOBIERNO EN LÍNEA - 2014 
+ 
+ 
+1. PRESENTACIÓN 
+ 
+COLCIENCIAS, como ente rector de la ciencia, la tecnología y la innovación del país,  en 
+asocio con el Ministerio de Tecnologías de la Información y las Comunicaciones - MINTIC 
+buscan con esta convocatoria fortalecer la eficiencia en la administración pública con el 
+apoyo de la industria de las Tecnologías de Información -  TI para la implementación de 
+soluciones tecnológicas, que mediante el desarrollo de actividades de Ciencia, Tecnología 
+e Innovación, mejoren la prestación de los servicios a los ciudadanos y las empresas 
+mediante el uso de las Tecnologías de Información y Comunicaciones - TIC, con el fin de 
+crear espacios de participación, generar visibilidad y transparencia, al igual que la 
+automatización de procesos, de trámites y de servicios. 
+ 
+Este nuevo reto implica el desarrollo de soluciones tecnológicas para para avanzar en la 
+masificación de la Estrategia Gobierno en Línea para: 
+ 
+• 
+Provisión de trámites y servicios por múltiples canales y uso de TIC en 
+procedimientos administrativos en entidades territoriales. 
+• 
+Interoperabilidad entre entidades públicas, optimización de cadenas de trámites y 
+puesta en marcha de ventanillas únicas virtuales. 
+• 
+Acceso a datos para la información e interacción con los ciudadanos.  
+• 
+Participación ciudadana e innovación abierta. 
+ 
+Para mayor información sobre los antecedentes de esta convocatoria ver anexo 1. 
+ 
+2. OBJETIVO 
+ 
+2.1 OBJETIVO GENERAL 
+ 
+Apoyar el desarrollo de soluciones tecnológicas de la industria de TI que permitan la 
+implementación de la estrategia de gobierno en línea en entidades territoriales con el fin 
+de facilitar los trámites entre los ciudadanos y el estado, optimizar los procesos 
+relacionados con la interoperabilidad de las entidades públicas, agilizar el acceso a datos 
+necesarios para la interacción ciudadano-estado e incrementar la participación ciudadana, 
+todo ello a partir del uso intensivo de las Tecnologías de Información y Comunicaciones – 
+TIC. 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 2 de 9 
+2.2. OBJETIVOS ESPECIFICOS 
+2.2.1 Mejorar la prestación de servicios a los ciudadanos por parte de los entes 
+territoriales, a través de canales electrónicos. 
+2.2.2 Facilitar la eficiencia administrativa a través de la implementación de soluciones 
+tecnológicas en las entidades territoriales. 
+2.2.3 Promover el desarrollo del Gobierno Abierto a través de soluciones tecnológicas 
+que faciliten el acceso a la información, la interacción y la participación de los 
+ciudadanos. 
+3. DIRIGIDO A 
+Alianzas conformadas por empresas de la industria de TI con entidades territoriales de 
+acuerdo con las siguientes definiciones: 
+ 
+• 
+Empresas de la Industria de TI: Las empresas deberán ser personas jurídicas, de 
+economía mixta o privadas, con o sin ánimo de lucro del sector productivo y de 
+servicios legalmente constituidas en Colombia, pertenecientes a la industria de TI. 
+Pueden ser empresas beneficiarias las Microempresas, PyMEs y Grandes Empresas. 
+Son las encargadas del desarrollo de las soluciones tecnológicas. En adelante la 
+empresa. 
+ 
+• 
+Entidades territoriales: Gobernaciones y Alcaldías responsables de proveer 
+información para la definición de requerimientos; así mismo,  participarán en las 
+pruebas necesarias para la implementación y apropiación de la solución tecnológica y 
+tendrán derecho a utilizar la solución tecnológica fruto de la alianza. En adelante la 
+entidad. 
+ 
+Nota: las alianzas deberán estar constituidas por una empresa de la industria de TI y por 
+una o más entidades territoriales. 
+ 
+4. REQUISITOS MÍNIMOS  
+Los requisitos mínimos para participar en la presente convocatoria son los siguientes: 
+ 
+4.1. Inscripción del proyecto por parte de la empresa en el Sistema integrado de Gestión 
+de Proyectos de COLCIENCIAS – SIGP a través del formulario electrónico disponible 
+en el portal de COLCIENCIAS (www.colciencias.gov.co). 
+ 
+4.2. Documento que certifique la Alianza entre la empresa y la(s) entidad(es) 
+territorial(es), suscrita por los representantes legales de las entidades participantes o 
+por quien esté facultado por éstos para hacerlo, avalando la presentación del 
+proyecto para la presente convocatoria. En el caso en que el representante legal no 
+cuente con la competencia para asumir los compromisos consignados en la carta 
+institucional, deberá presentar documento que lo faculte firmado por el órgano 
+competente, (ver anexo 2). 
+  
+4.3. Carta de presentación del proyecto y contrapartida de la empresa por un porcentaje 
+mínimo del 20%, (ver anexo 3).  
+  
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 3 de 9 
+4.4. Experiencia mínima de la empresa de 3 años en desarrollo de soluciones 
+tecnológicas, (ver anexo 4).  
+ 
+4.5. Estados Financieros con corte a diciembre 31 de 2013. 
+ 
+4.6. Carta de autorización de uso y almacenamiento de datos personales de las personas 
+involucradas en el proyecto, (ver anexo 5). 
+  
+Notas: 
+• 
+Los proponentes deberán cumplir con la totalidad de los requisitos mínimos para que 
+su proyecto sea  evaluado, en caso contrario no continuarán al proceso de evaluación. 
+• 
+Las empresas y entidades territoriales de la Alianza que tengan contratos o convenios 
+vigentes con COLCIENCIAS y Ministerio TIC deberán estar a paz y salvo con los 
+compromisos adquiridos, de lo contrario no serán consideradas para participar en esta 
+convocatoria. 
+• 
+COLCIENCIAS, podrá solicitar en cualquier momento, información y documentación 
+adicional o aclaraciones de los requisitos mínimos.  
+ 
+5. DURACIÓN Y FINANCIACIÓN 
+El término de duración de los proyectos a financiar será de hasta seis (6) meses para el 
+desarrollo de las soluciones tecnológicas y 12 meses para el uso y apropiación de las 
+mismas por parte de las entidades territoriales, durante este período de uso y apropiación, 
+las entidades territoriales recibirán soporte técnico, mantenimiento y actualizaciones de la 
+solución por parte de la empresa, sin que para ello la Entidad Territorial deba realizar 
+pagos a la empresa. 
+ 
+Se cuenta con DOS MIL MILLONES DE PESOS MCTE ($2.000.000.000) para financiar 
+proyectos en esta convocatoria. El monto máximo a financiar por solución tecnológica 
+será de hasta doscientos millones de pesos ($200.000.000). 
+La empresa deberá aportar contrapartida en efectivo y/o especie, equivalente mínimo al 
+veinte por ciento (20%) del valor total solicitado a COLCIENCIAS – Ministerio TIC. 
+ 
+Nota 
+ 
+El proyecto presentado no podrá ser financiando simultáneamente por otra convocatoria o 
+con recursos de COLCIENCIAS u otras entidades del Estado. 
+ 
+6. CONTENIDO DEL PROYECTO 
+Los proyectos para el desarrollo de soluciones tecnológicas deberán presentarse a través 
+del Sistema integrado de Gestión de Proyectos de COLCIENCIAS – SIGP de acuerdo con 
+lo descrito en el anexo 6 – Información requerida para la formulación del proyecto.  
+ 
+Nota: Las soluciones tecnológicas deberán adoptar los lineamientos y estándares de la 
+Estrategia de Gobierno en línea y del Viceministerio TI y estarán sujetas a revisión de 
+cumplimiento por parte del Ministerio TIC, dichos lineamientos y estándares se 
+  
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 4 de 9 
+encuentran disponibles en el Sitio Web de la Dirección de Gobierno en Línea: 
+http://www.programa.gobiernoenlinea.gov.co/lineamientos.shtml 
+7. PROCEDIMIENTO DE INSCRIPCIÓN 
+ 
+7.1 Descargar, descomprimir e instalar la máquina virtual de java de la siguiente dirección: 
+http://www.colciencias.gov.co/sites/default/files/ckeditor_files/files/formularios_sigp/jre-
+1_5_0_22-windows-i586-p.zip 
+ 
+7.2 Descargar, descomprimir e instalar y diligenciar el formulario electrónico disponible en 
+la sección correspondiente a esta convocatoria del portal institucional de COLCIENCIAS 
+(http://www.colciencias.gov.co). El formulario electrónico es específico para esta 
+convocatoria, asegúrese de diligenciar efectivamente el formulario en cuestión. 
+ 
+7.3 Para enviar el proyecto desde el formulario electrónico, debe Aceptar los términos y 
+condiciones, e inmediatamente se activa el botón de Validar, si el proyecto es validado sin 
+errores, se activa el botón de Enviar. Una vez el proyecto sea enviado al Sistema 
+Integrado de Gestión de Proyectos de COLCIENCIAS  -SIGP- emitirá una respuesta 
+automática, generando un número de confirmación de recibido en el servidor de 
+COLCIENCIAS, este número garantizará la recepción exitosa del proyecto.  
+ 
+7.4 El número de confirmación de recibido y la contraseña que la entidad asigne al 
+proyecto, le permitirá realizar el envío de los requisitos mínimos y hacer el seguimiento del 
+estado del proyecto. Tome nota de este número de confirmación y de la contraseña 
+asignada. 
+ 
+7.5 Para realizar el envío de los requisitos mínimos desde el formulario electrónico, debe 
+dar clic en el botón Adjuntar documentos de requisitos, inmediatamente el sistema 
+despliega una página del portal de Sistema de Gestión de Proyectos para tal fin. En el 
+campo proyecto, digite el número de confirmación de recibido y en el campo 
+correspondiente diligencie la contraseña y proceda a dar clic en el botón ingresar. A 
+continuación el sistema despliega la información básica del proyecto y en la parte inferior 
+el detalle de los requisitos mínimos. 
+ 
+7.6 Debe adjuntar la totalidad de los documentos que soportan los requisitos mínimos. Si 
+requiere anexar documentación adicional del proyecto como: tablas, fórmulas, gráficas, 
+anexos, cartas, etc.), guárdelos en una sola carpeta y adjúntelas como archivo .ZIP o 
+.RAR (archivo comprimido), en el requisito de Otros adjuntos. Si requieren cambiar algún 
+archivo de los que previamente adjuntó, puede hacerlo examinando y adjuntando el 
+documento deseado. Recuerde que el formulario solo admite un archivo anexo por cada 
+requisito mínimo, por lo que al cargar un archivo nuevo, éste remplazará el anterior. Usted 
+puede verificar el archivo que adjuntó a través de la página http://201.234.78.164:7777/portal/ 
+del SIGP con el número de confirmación y la contraseña asignada al proyecto. 
+ 
+7.7 Anexando todos los documentos obligatorios se puede Generar el certificado de 
+requisitos mínimos, que le sirve de evidencia del envío de los mismos. En caso contrario, 
+el sistema enviará el siguiente mensaje de error: Error - Debe adjuntar los documentos 
+obligatorios para obtener el certificado, y no permitirá generar dicho certificado. 
+  
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 5 de 9 
+7.8 Hasta que no estén completos los requisitos mínimos y generado el certificado 
+anteriormente mencionado, no se dará por culminado satisfactoriamente el proceso de 
+inscripción del proyecto. 
+ 
+Notas: 
+ 
+• 
+Se aceptarán únicamente los proyectos que se presenten a través del formulario 
+electrónico con toda la información solicitada en la presente convocatoria. 
+ 
+• 
+No será tenida en cuenta para el proceso de evaluación y selección del Banco de 
+Proyectos Elegibles, la información enviada en medios distintos al SIGP (correo 
+postal, fax, correo electrónico o cualquier otro), ni posterior a la fecha y hora límite 
+establecida. Ver numeral 12 (Cronograma) 
+ 
+• 
+Los proyectos que se reciban sin cumplir los requisitos establecidos en esta 
+convocatoria, no participarán en el proceso de selección para ser incorporados al 
+Banco de Elegibles.  
+ 
+• 
+COLCIENCIAS - Ministerio TIC se reservan el derecho de solicitar en cualquier 
+momento la documentación adicional que da soporte a los proyectos. 
+ 
+• 
+COLCIENCIAS - Ministerio TIC se reservan el derecho de verificar la información y 
+documentación presentada en el proyecto. 
+ 
+8. CRITERIOS DE EVALUACIÓN 
+Los proyectos inscritos dentro de los plazos establecidos para la presente convocatoria y 
+que cumplan con la totalidad de los requisitos mínimos se someterán a los siguientes 
+criterios de evaluación: 
+ 
+CRITERIO 
+PUNTAJE MÁXIMO 
+1. Calidad en la formulación del proyecto 
+25 
+2. Pertinencia del desarrollo del proyecto 
+25 
+3. Eficiencia 
+20 
+4. Cobertura de entidades territoriales 
+30 
+ 
+• 
+Calidad en la formulación del proyecto: 
+ 
+Coherencia de la metodología con los resultados e impactos esperados. El proyecto 
+deberá describir claramente el conjunto de procedimientos, actividades, y/o tareas a ser 
+utilizados para alcanzar los objetivos, resultados e impactos esperados del proyecto. 
+ 
+ 
+ 
+• 
+Pertinencia del proyecto: 
+ 
+Contribución a la solución o mitigación del problema o necesidad planteada en el proyecto 
+o cambios potenciales que se espera lograr a mediano y largo plazo. 
+ 
+  
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 6 de 9 
+• 
+Eficiencia: 
+ 
+Indica el modo en que se han organizado y empleado los recursos disponibles en la 
+implementación del proyecto.  
+ 
+• 
+Cobertura de Entidades Territoriales: 
+ 
+Proponer la mayor cantidad de entes territoriales como entidades aliadas, dará como 
+resultado una mayor puntuación en la evaluación de los proyectos.  
+ 
+Las soluciones presentadas, deben ser transversales, e implementadas en las entidades 
+aliadas. De igual forma, los proponentes deberán garantizar que para la implantación de 
+la solución, no se exigirán desarrollos adicionales o adquisición de nuevas tecnologías. 
+ 
+9. PROCESO DE EVALUACIÓN  
+Los proyectos inscritos dentro de los plazos establecidos para la presente convocatoria y 
+que cumplan con los requisitos mínimos, serán evaluados por pares y/o panel de expertos 
+seleccionados por COLCIENCIAS, teniendo en cuenta los criterios de evaluación 
+descritos en el numeral 8. 
+ 
+Los proyectos se clasificarán en una lista en orden descendente de mayor a menor 
+acorde a la calificación y puntaje obtenido. El puntaje mínimo para la declaración de 
+elegibilidad, será de setenta (70) puntos. 
+ 
+Toda información proporcionada es de carácter confidencial y no será utilizada para 
+ningún fin diferente a la realización de la evaluación. Los expertos evaluadores estarán 
+cobijados por cláusulas de confidencialidad y de no conflicto de interés. 
+ 
+De acuerdo con el CRONOGRAMA de la convocatoria, se concederá un término para 
+solicitar aclaraciones y/o modificaciones a la publicación preliminar del banco de elegibles, 
+una vez éstas sean resueltas, se procederá a la publicación del banco definitivo de  
+proyectos elegibles. 
+ 
+En caso de empate, se tendrá en cuenta el proyecto que tenga mayor calificación en el 
+criterio 1. Calidad en la formulación del proyecto. 
+ 
+ 
+10.  BANCO DE ELEGIBLES 
+ 
+El Banco de Proyectos Elegibles se publicará en la página Web de COLCIENCIAS 
+(www.colciencias.gov.co) en las fechas establecidas en el cronograma. 
+ 
+El Banco de Proyectos Elegibles estará conformado por aquellos proyectos que alcancen 
+una puntuación igual o superior a setenta (70) puntos. 
+ 
+La inclusión de proyectos en el Banco de Proyectos Elegibles, no implica obligatoriedad, 
+ni compromiso alguno para el Ministerio TIC y/o COLCIENCIAS de asignar recursos, ni 
+genera derecho a recibir apoyos económicos para quienes hayan presentado los 
+  
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 7 de 9 
+proyectos correspondientes. En todo caso, en el marco de la presente convocatoria se 
+asignarán recursos de acuerdo con la disponibilidad presupuestal. 
+ 
+Notas 
+• 
+Surtida la publicación definitiva del banco de elegibles, COLCIENCIAS informará 
+mediante comunicación escrita y/o electrónica a los beneficiarios que hayan sido 
+seleccionados para ser financiados, indicando las instrucciones y condiciones para 
+suscribir el Convenio. A partir de la fecha de comunicación, se contarán quince (15) 
+días calendario como plazo máximo para que el beneficiario remita a COLCIENCIAS 
+la totalidad de la documentación. Vencido éste término, en caso que el beneficiario no 
+remita la documentación completa, se entenderá que desiste de su interés por 
+contratar con COLCIENCIAS y se procederá a financiar el siguiente proyecto del 
+banco de elegibles.  
+ 
+• 
+Una vez remitida la minuta del convenio al beneficiario, éste contará con un plazo de 
+cinco (5) días hábiles para devolverla firmada a COLCIENCIAS. En caso de 
+correcciones a la minuta, el plazo de devolución se contará a partir del envió de la 
+minuta ajustada, vencido el término anterior, si el beneficiario no remite el convenio 
+firmado, se entenderá que desiste de su interés por contratar y se procederá a 
+seleccionar el siguiente en orden descendente de la lista del banco de elegibles. 
+ 
+11. ACLARACIONES 
+ 
+Una vez publicados los resultados preliminares del banco de elegibles, los interesados 
+podrán presentar solicitudes de aclaraciones y comentarios por un período de tres (3) días 
+hábiles. Por fuera de este término las reclamaciones son extemporáneas y no serán 
+aceptadas.  
+ 
+Las peticiones y reclamaciones se deben presentar exclusivamente a través del correo 
+electrónico contacto@colciencias.gov.co, con el asunto “Convocatoria para soluciones de  
+Gobierno en Línea -2014”. 
+ 
+12. CRONOGRAMA 
+ACTIVIDAD 
+FECHA LIMITE 
+Apertura de la convocatoria 
+28 de marzo de 2014 
+Cierre de la convocatoria 
+15 de mayo de 2014 
+Publicación del banco preliminar de proyectos elegibles 
+17 de junio de 2014 
+Período de solicitud de aclaraciones del banco preliminar de 
+elegibles 
+Del 18 al 20 de junio de 2014 
+Respuesta a solicitud de aclaraciones 
+26 de junio de 2014 
+Publicación del banco definitivo de proyectos elegibles 
+4 de julio de 2014 
+  
+ 
+  
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 8 de 9 
+13. PROPIEDAD INTELECTUAL 
+Se dará aplicación a lo contemplado en el artículo 31 de la Ley 1450 de 2011, el cual 
+establece:  
+ 
+“Artículo 31°, DERECHOS DE PROPIEDAD INTELECTUAL DE PROYECTOS DE 
+INVESTIGACIÓN FINANCIADOS CON RECURSOS DEL PRESUPUESTO NACIONAL. 
+En el caso de proyectos de ciencia, tecnología e innovación adelantados con recursos del 
+presupuesto nacional, el Estado, salvo motivos de seguridad y defensa nacional, cederá a 
+las Partes del Proyecto los derechos de propiedad intelectual que le puedan 
+corresponder, según se establezca en el contrato”.  
+ 
+Las Partes del Proyecto definirán entre ellas la titularidad de los derechos de propiedad 
+intelectual derivados de los resultados de la ejecución de los recursos del presupuesto 
+nacional.” 
+ 
+El solicitante o solicitantes mantendrán la titularidad sobre los bienes protegidos por la 
+propiedad intelectual e industrial (PI), tales como inventos, modelos de utilidad, diseños 
+industriales, marcas y obras protegidas por el derecho de autor (ej. software), entre otros, 
+los cuales desarrolle como resultado de la presente convocatoria y por lo tanto no estará 
+obligado a divulgar el código fuente, en caso de aplicativos, ni a ceder o licenciar los 
+derechos patrimoniales sobre los bienes de PI que desarrolle. 
+  
+Colciencias y MinTIC podrán utilizar el nombre de la empresa o aplicación creada, para 
+difundir el resultado de sus iniciativas en cualquier evento o medio de divulgación. Por su 
+parte, el solicitante o solicitantes deberán mencionar a Colciencias y a MinTic como 
+patrocinadores de su solución tecnológica, incluyendo la imagen institucional de las dos 
+instituciones de acuerdo con las directrices que le serán entregadas en el momento de 
+firmar el convenio. 
+ 
+14. VEEDURÍAS CIUDADANAS 
+Las veedurías ciudadanas establecidas de conformidad con la Ley, podrán desarrollar su 
+actividad durante la convocatoria, de conformidad con lo establecido en la Ley 850 de 
+2003 y demás normas concordantes y complementarias. 
+  
+15. ANEXOS 
+ 
+• 
+Anexo No. 1. Antecedentes. 
+• 
+Anexo No. 2. Carta alianza. 
+• 
+Anexo No. 3. Carta de presentación proyecto y aporte de contrapartida. 
+• 
+Anexo No. 4. Carta de experiencia de la empresa. 
+• 
+Anexo No. 5. Carta autorización de datos personales. 
+• 
+Anexo No. 6. Información presentación del proyecto 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 9 de 9 
+16. ACEPTACIÓN DE TÉRMINOS Y VERACIDAD 
+ 
+Con la inscripción, los interesados aceptan las características, requisitos y condiciones de 
+la presente convocatoria así como lo dispuesto en los presentes términos de referencia 
+para el desarrollo de la misma y para la entrega del beneficio. 
+ 
+De igual forma declaran que la información suministrada es veraz y corresponde a la 
+realidad. En caso de encontrarse alguna incoherencia e inconsistencia en la información o 
+documentación suministrada, COLCIENCIAS podrá en cualquier momento rechazar la 
+postulación o si es del caso declarar la pérdida del beneficio, sin perjuicio de las acciones 
+legales correspondientes. 
+ 
+17. MAYOR INFORMACIÓN 
+ 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN 
+- COLCIENCIAS - 
+ 
+Carrera 7 B Bis No. 132-28, Bogotá D.C. 
+http://www.colciencias.gov.co  
+Centro de Contacto 
+Teléfono: (+57 - 1) 6258480 Extensión 2081 
+Línea gratuita nacional: 018000 914446 
+ 
+En caso de inquietudes o comentarios sobre la presente convocatoria, favor enviar un 
+correo electrónico con el asunto “Convocatoria para el desarrollo de soluciones 
+tecnológicas de Gobierno en Línea 2014”, al correo contacto@colciencias.gov.co.  
+ 
+ 
+ 
+ 
+PAULA MARCELA ARIAS PULGARÍN 
+Directora  
+ 
+ 
+Vo Bo. Área técnica 
+Vo Bo. Secretaría General 
+ 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 1 de 4 
+                                       
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS - 
+ 
+ 
+CONVOCATORIA PARA EL DESARROLLO DE NUEVAS SOLUCIONES 
+TECNOLÓGICAS DE GOBIERNO EN LÍNEA - 2014 
+ 
+ 
+ANEXO 1 - ANTECEDENTES  
+ 
+En el marco de la política, lineamientos y ejes de acción a desarrollar por el Ministerio TIC 
+para el gobierno 2010-2014, definidos en el Plan Estratégico Sectorial, que busca 
+promover el acceso, uso y apropiación masivos de las TIC, a través de políticas y 
+programas para el logro de niveles progresivos y sostenibles de desarrollo en Colombia, 
+se han definido dos dimensiones estratégicas que buscan que en el cuatrienio se generen 
+las condiciones adecuadas para que el sector de las telecomunicaciones aumente su 
+cobertura a través del despliegue de infraestructura, aumente la penetración de banda 
+ancha, se intensifique el uso, la apropiación y el aprovechamiento de las TIC, así como la 
+generación de contenidos y aplicaciones convergiendo dentro de un ecosistema digital.  
+ 
+La Dimensión 1) busca promover el “Desarrollo del Ecosistema Digital” y la Dimensión 2) 
+pretende el “Desarrollo del entorno Digital”. Esta segunda dimensión define como uno de 
+sus objetivos misionales “Apoyar iniciativas gubernamentales que requieran el uso de las 
+TIC para su desarrollo bajo el liderazgo, la gestión y responsabilidad de la entidad 
+correspondiente”. En el marco de ese objeto misional, se ha considerado como una 
+actividad prioritaria la “Implementación del ecosistema digital en todos los departamentos 
+en Colombia”, para lo cual se ha diseñado la iniciativa Vive Digital Regional. 
+ 
+A raíz de la importancia y crecimiento de los procesos de comunicación a través de la 
+tecnología  se crea el Viceministerio de Tecnologías y Sistemas de la Información, con el 
+propósito de formular, implementar y realizar un seguimiento y evaluación a las políticas 
+públicas con el fin de alcanzar la excelencia en el uso, acceso y administración de 
+Tecnologías de la Información en el Estado. 
+ 
+En éste marco se encuentra la Dirección de Gobierno en línea, quien implementa la 
+estrategia de Gobierno electrónico en Colombia, buscando contribuir con la construcción 
+de un Estado más eficiente, más transparente y participativo y que presta mejores 
+servicios con la colaboración de toda la sociedad, mediante el aprovechamiento de las 
+TIC con el fin de impulsar la competitividad y el mejoramiento de la calidad de vida para la 
+prosperidad de todos los colombianos. 
+ 
+En desarrollo de la anterior estrategia, en materia de Gobierno en línea a nivel territorial 
+se han obtenido avances significativos tales como: i) presencia en internet de todas las 
+alcaldías y gobernaciones del país; ii) implementación de estrategias de interacción 
+ciudadanía-Estado a través de medios electrónicos; iii) simplificación y racionalización de 
+procesos de cara a la automatización de trámites y servicios; y iv) procesos de gestión del 
+cambio y apropiación de TIC para servidores públicos y ciudadanos.  
+ 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 2 de 4 
+Partiendo de los anteriores logros, es necesario advertir otros avances tecnológicos que 
+ofrecen nuevas posibilidades para satisfacer de mejor manera las crecientes demandas 
+de ciudadanos y empresas para interactuar con la administración pública a través de 
+medios electrónicos; así mismo, existen nuevas exigencias legales contenidas en el 
+Decreto 2693 de 2012 “Por el cual se establecen los lineamientos generales de la 
+Estrategia de Gobierno en línea de la República de Colombia, se reglamentan 
+parcialmente las Leyes 1341 de 2009 y 1450 de 2011, y se dictan otras disposiciones”; y 
+en el Decreto 19 de 2012 “Por el cual se dictan normas para suprimir o reformar 
+regulaciones, procedimientos y trámites innecesarios existentes en la Administración 
+Pública”, y en el nuevo Código de Procedimiento Administrativo y de lo Contencioso 
+Administrativo (Ley 1437 de 2011); circunstancias que, en conjunto, hacen parte del 
+escenario de implementación de la nueva Estrategia de Gobierno en línea.  
+ 
+Por otra parte, en el plan nacional de desarrollo 2010-2014 “prosperidad para todos”, se 
+encuentra el capítulo VII. “Soportes transversales de la prosperidad democrática”, cuyo 
+eje principal es el de Buen Gobierno, el cual incluye cinco (5) principios orientadores para 
+promover el ejercicio del Buen Gobierno en búsqueda de la modernización, eficiencia y 
+eficacia administrativa: Transparencia y rendición de cuentas; gestión pública efectiva; 
+vocación por el servicio público; participación y servicio al ciudadano; lucha contra la 
+corrupción.  
+ 
+Este nuevo reto comprende los siguientes temas prioritarios a nivel de política para 
+avanzar en la masificación de Gobierno en Línea: 
+ 
+• 
+Provisión de Trámites y Servicios por Múltiples Canales y uso de TIC en 
+procedimientos administrativos. 
+• 
+Interoperabilidad, Cadenas de Trámites y Ventanillas Únicas Virtuales. 
+• 
+Datos y Gobierno Abierto. 
+• 
+Construcción Colectiva.  
+ 
+Por otra parte, la Industria TI ha estado presente de manera transversal en todos los 
+sectores productivos, aportando a su competitividad. Así mismo ha estado presente en el 
+Estado como agente que impulsa el Buen Gobierno y fomenta soluciones tecnológicas 
+que pueden llegar a mejorar el efectivo cumplimiento de la función pública 
+ 
+Es así como, diferentes programas e iniciativas se crearon para implementar el uso de 
+tecnología en el Estado, respondiendo de manera temprana al desafío competitivo, y el 
+fortalecimiento de la Industria de Tecnologías de la Información, que tienen como 
+propósito fomentar la transformación de la Industria TI, por medio del desarrollo de 
+acciones específicas desde diferentes dimensiones y que pueden ser aprovechadas por 
+los entes del Estado.  
+Lo anterior contribuirá a mejorar la prestación de servicios a los ciudadanos por parte de 
+los Entes Territoriales, mediante actividades de innovación y desarrollo tecnológico a 
+través de ésta industria, apoyadas en la gestión del talento humano, el uso de 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 3 de 4 
+infraestructura y herramientas tecnológicas de punta, junto con el uso de mejores 
+prácticas.  
+ 
+Teniendo en cuenta lo anterior, se suscribió el Convenio N° 768 de 2013, celebrado entre 
+Colciencias, Fondo de Tecnologías de la Información y las Comunicaciones y la Fiduciaria 
+Bogotá S.A., con el que se busca integrar esfuerzos técnicos, administrativos y financieros 
+para promover la innovación en el país, a través de las tecnologías de la información, en 
+la industria, el estado y los sectores productivos de Colombia.  
+ 
+El convenio tiene como objetivo lo siguiente: 1) Promover la adopción de modelos de 
+calidad globalmente reconocidos, en las empresas que pertenecen a la industria de 
+tecnologías de la información. 2) Desarrollar proyectos de innovación con impacto 
+regional articulando Academia, industria y Estado. 3) Impulsar ejercicios de 
+emprendimiento y fortalecimiento empresarial, a través de la gestión de innovación. 4) 
+Realizar procesos de formación especializada, para aumentar la oferta de talento humano 
+calificado para el sector de Tecnologías de la Información. 5) Llevar a cabo estudios, 
+evaluaciones y mediciones sobre el sector y el impacto de las acciones ejecutadas. 6) 
+Mejorar la competitividad y calidad de vida en las regiones, a través del diseño y 
+desarrollo de proyectos de innovación que incorporen las tecnologías de la información, 
+para mejorar la relación del ciudadano con el Estado y aumentar la eficiencia 
+administrativa, la transparencia y la participación ciudadana.     
+ 
+De otro lado, en abril de 2012, el Gobierno Colombiano se adhirió a la Alianza por el 
+Gobierno Abierto (OGP), que define Gobierno Abierto como la acción coordinada para 
+alcanzar una cultura mundial orientada por los siguientes principios: 
+ 
+Aumentar el acceso a las nuevas tecnologías para la apertura y la rendición de 
+cuentas. Las nuevas tecnologías ofrecen oportunidades para el intercambio de 
+información, la participación del público y la colaboración.  
+ 
+ 
+Aumentar la disponibilidad de información sobre las actividades gubernamentales. 
+Los gobiernos recogen y almacenan la información en nombre de las personas, y 
+los ciudadanos tienen derecho a solicitar información sobre las actividades 
+gubernamentales.  
+ 
+ 
+Apoyar la participación ciudadana. Valor la participación de todas las personas, por 
+igual y sin discriminación, en la toma de decisiones y la formulación de políticas. La 
+participación del público, incluida la participación plena de las mujeres, hace 
+aumentar la eficacia de los gobiernos, que se benefician de los conocimientos, las 
+ideas y la capacidad de la gente para proporcionar supervisión.  
+Uno de los objetivos de la presente convocatoria busca promover el desarrollo del 
+Gobierno Abierto. Más información sobre este concepto en: 
+http://www.opengovpartnership.org/es/acerca-de/declaraci%C3%B3n-de-gobierno-
+abierto#sthash.UPimrMvg.dpuf 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 4 de 4 
+De acuerdo con lo anterior, la presente convocatoria busca la creación de  nuevas 
+sinergias entre la industria TI y los entes territoriales, generando soluciones tecnológicas 
+que suplan las necesidades de la administración pública y la ciudadanía, fortaleciendo el 
+gobierno electrónico en las regiones.    
+  
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 1 de 3 
+                                       
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS - 
+ 
+ 
+CONVOCATORIA PARA EL DESARROLLO DE NUEVAS SOLUCIONES 
+TECNOLÓGICAS DE GOBIERNO EN LÍNEA - 2014 
+ 
+ 
+ANEXO 2 - CARTA DE ALIANZA  
+  
+A continuación se presentan los contenidos del modelo de carta de conformación de 
+alianza: 
+ 
+ 
+ 
+(Ciudad), (Día) de (Mes) de 201_  
+ 
+ 
+ 
+Señores  
+COLCIENCIAS 
+Carrera 7B Bis No. 132 – 28 
+Bogotá D.C. 
+ 
+Asunto: Conformación de Alianza en el marco de la convocatoria para el desarrollo de nuevas 
+soluciones tecnológicas de Gobierno en línea.  
+ 
+ 
+Respetados señores,  
+ 
+La presente tiene por objeto presentar la conformación de la Alianza, que estará integrada por las 
+siguientes entidades: (Empresa), (nombre de la entidad territorial 1), (nombre de la entidad 
+territorial 2), (nombre de la entidad territorial 3),…, etc.; designándose como entidad ejecutora a 
+(empresa), quien será la encargada de firmar el (convenio) resultado de la convocatoria para el 
+desarrollo de nuevas soluciones tecnológicas de Gobierno en línea. 
+ 
+Así mismo, los abajo firmantes declaran que: 
+ 
+• 
+Tienen poder y/o representación legal para firmar y presentar el proyecto para la solución 
+tecnológica denominada… 
+• 
+La información suministrada es veraz y no fija condiciones artificiales.  
+• 
+Las partes no se encuentran incursos en ninguna de las causales de inhabilidad y/o 
+incompatibilidad establecidas en el Estatuto General de Contratación y demás normas legales 
+pertinentes. 
+• 
+Aceptan y autorizan a COLCIENCIAS para que verifique la información aportada en el 
+(proyecto). 
+• 
+Se encuentran al día con las obligaciones y compromisos adquiridos con COLCIENCIAS. 
+• 
+Aceptamos que la solución tecnológica desarrollada por la Entidad Ejecutora (empresa) con el 
+apoyo de la presente convocatoria, será instalada, configurada y utilizada por la Entidad 
+  
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 2 de 3 
+Territorial durante un período de 12 meses durante los cuales la Entidad Ejecutora (empresa) 
+brindará soporte técnico, mantenimiento y actualizaciones de la solución en caso que surjan 
+nuevas versiones de la misma, sin que para ello la Entidad Territorial deba realizar pagos a la 
+Entidad Ejecutora. 
+ 
+Además, ACEPTAMOS expresa e irrevocablemente que conocemos detalladamente las 
+características, requisitos y condiciones de la convocatoria para el desarrollo de soluciones 
+tecnológicas de Gobierno en línea, de manera que nos sometemos a lo establecido en los 
+Términos de Referencia determinados por COLCIENCIAS para el desarrollo de la misma y para la 
+entrega del beneficio.  
+ 
+Con la presente manifestación inequívoca de voluntad, declaramos que en caso de ser 
+beneficiados en la convocatoria para el desarrollo de soluciones tecnológicas de Gobierno en línea, 
+la aceptaremos en los términos que COLCIENCIAS establezca; comprendemos y aceptamos que 
+la no aceptación o el incumplimiento de alguna de las condiciones establecidas en la convocatoria, 
+dará lugar a la pérdida definitiva del beneficio.  
+ 
+Declaramos que la información suministrada es veraz y corresponde a la realidad. En caso de 
+encontrarse alguna incoherencia o inconsistencia en la información o documentación suministrada, 
+COLCIENCIAS podrá en cualquier momento, rechazar esta postulación o finiquitar el beneficio, sin 
+perjuicio de las acciones legales correspondientes. 
+ 
+ 
+ 
+Cordialmente,  
+ 
+ 
+Firma 
+Nombre del representante legal entidad Ejecutora (Empresa) 
+CC_________________ 
+Nombre de la entidad Ejecutora  (Empresa) 
+Dirección  
+Teléfono 
+ 
+ 
+Firma 
+Nombre del representante legal entidad territorial 1 
+CC_________________ 
+Nombre de la entidad territorial 1 
+Dirección  
+Teléfono 
+ 
+ 
+Firma 
+Nombre del representante legal entidad territorial 2 
+CC_________________ 
+Nombre de la entidad territorial 2 
+Dirección  
+Teléfono 
+Teléfono 
+ 
+  
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 3 de 3 
+Firma 
+Nombre del representante legal entidad territorial 3 
+CC_________________ 
+Nombre de la entidad territorial 3 
+Dirección  
+Teléfono 
+Teléfono 
+ 
+  
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 1 de 2 
+                                       
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION  
+- COLCIENCIAS -  
+ 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES TECNOLÓGICAS DE GOBIERNO 
+EN LÍNEA - 2014 
+ 
+ 
+ANEXO 3 - CARTA DE PRESENTACION DEL PROYECTO Y APORTE DE CONTRAPARTIDA 
+ 
+ 
+(Ciudad), (Día) de (Mes) de 2014  
+ 
+ 
+Señores  
+COLCIENCIAS 
+Carrera 7B Bis No. 132 – 28 
+Bogotá D.C. 
+ 
+Asunto: Presentación del (proyecto…) titulado (escriba el nombre del proyecto…) a la convocatoria 
+para el desarrollo de soluciones tecnológicas de Gobierno en línea. 
+ 
+Respetados señores,  
+ 
+La presente tiene como objeto presentar el proyecto (escriba el nombre del proyecto…) a la 
+convocatoria para el desarrollo de soluciones tecnológicas de Gobierno en línea 2014, y manifestar 
+que el citado proyecto no está siendo financiado por otra convocatoria o con recursos de 
+COLCIENCIAS u otras entidades del Estado. 
+ 
+Además, acepto expresa e irrevocablemente que conozco detalladamente las características, 
+requisitos y condiciones de la convocatoria para el desarrollo de soluciones tecnológicas de Gobierno 
+en línea, de manera que me someto a lo establecido en los Términos de Referencia determinados 
+por COLCIENCIAS para el desarrollo de la misma y para la entrega del beneficio.  
+ 
+Con la presente manifestación inequívoca de voluntad, declaro que en caso de ser beneficiado en la 
+convocatoria para el desarrollo de soluciones tecnológicas de Gobierno en línea con la industria de 
+TI, dicho beneficio será recibido en los términos que COLCIENCIAS establezca; comprendo y acepto 
+que la no aceptación o el incumplimiento de alguna de las condiciones establecidas, dará lugar a la 
+pérdida definitiva del beneficio, en consecuencia, declaro que el valor de la contrapartida que 
+aportaremos para el desarrollo de la solución tecnológica es de VALOR EN LETRAS, (VALOR EN 
+PESOS) equivalente al 20% del valor total solicitado a COLCIENCIAS, representado en efectivo y/o 
+  
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 2 de 2 
+especie (en caso de presentar contrapartida en especie y en efectivo, describir el porcentaje de cada 
+uno) 
+Declaro que la información suministrada es veraz y corresponde a la realidad. En caso de 
+encontrarse alguna incoherencia o inconsistencia en la información o documentación suministrada, 
+COLCIENCIAS podrá en cualquier momento, rechazar mi postulación o finiquitar el beneficio, sin 
+perjuicio de las acciones legales correspondientes. 
+ 
+Cordialmente,  
+ 
+FIRMA 
+NOMBRE DEL REPRESENTANTE LEGAL DE LA EMPRESA 
+CC_________________ 
+NOMBRE EMPRESA 
+Dirección  
+Teléfono 
+e-Mail 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 1 de 2 
+                                       
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS - 
+ 
+ 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES TECNOLÓGICAS DE 
+GOBIERNO EN LÍNEA - 2014 
+ 
+ 
+ANEXO 4 - CARTA DE EXPERIENCIA DEL PROPONENTE 
+ 
+A continuación se presentan los contenidos del modelo de carta para certificación de la 
+experiencia aportada por empresa: 
+ 
+(Ciudad), (Día) de (Mes) de 201_  
+ 
+Señores  
+COLCIENCIAS 
+Carrera 7B Bis No. 132 – 28 
+Bogotá D.C. 
+ 
+ 
+Asunto: Certificación de la experiencia de (Nombre de la empresa) 
+ 
+Respetados señores, 
+ 
+Por medio de la presente yo NOMBRE DEL REPRESENTANTE LEGAL, identificado con cédula de 
+ciudadanía número (Número de identificación), como Representante Legal de (Nombre de la 
+empresa), certifico que la entidad mencionada cumple con los requisitos de experiencia mínima 
+exigida en el marco de la convocatoria para el desarrollo de soluciones tecnológicas de Gobierno 
+en línea. La experiencia acreditada se relaciona a continuación:  
+ 
+No 
+Entidad 
+contratante o 
+propietaria 
+Porcentaje 
+de 
+participación 
+de la 
+empresa 
+Localización 
+de la 
+ejecución 
+Objeto – Producto  
+Valor del 
+Contrato 
+ejecutado a la 
+terminación 
+($) 
+Fecha de 
+terminación 
+(mm/aaaa) 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 2 de 2 
+Así mismo certifico que conozco los manuales de ejecución, contratación, seguimiento, y demás 
+documentos relacionados con la convocatoria, proporcionados por COLCIENCIAS y me 
+comprometo en caso de ser seleccionado como ejecutor, a dar estricto cumplimiento a lo allí 
+establecido según sea mi competencia. 
+ 
+ 
+Cordialmente,  
+ 
+FIRMA 
+NOMBRE DEL REPRESENTANTE LEGAL 
+CC_________________ 
+Nombre de la empresa 
+Dirección 
+Teléfono 
+e-Mail 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 1 de 1 
+                                       
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS - 
+ 
+ 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES TECNOLÓGICAS DE 
+GOBIERNO EN LÍNEA 
+ 
+ 
+ANEXO 5 - AUTORIZACIÓN USO Y ALMACENAMIENTO DE DATOS PERSONALES 
+  
+A continuación se presentan los contenidos del modelo de carta para autorización uso y 
+almacenamiento de datos personales: 
+ 
+ 
+(Ciudad), (Día) de (Mes) de 201_  
+ 
+ 
+Señores  
+COLCIENCIAS 
+Carrera 7B Bis No. 132 – 28 
+Bogotá D.C. 
+ 
+Asunto: Autorización uso y almacenamiento de datos personales. 
+ 
+En virtud de la Ley Estatutaria 1581 del 2012, mediante la cual se dictan las disposiciones 
+generales para la protección de datos personales, y su Decreto Reglamentario 1377 de 
+2013, autorizo al Departamento Administrativo de Ciencia, Tecnología e Innovación - 
+Colciencias, considerado como responsable y/o encargado del tratamiento de datos 
+personales, almacenados en bases de datos, las cuales incluyen información que se ha 
+reportado en desarrollo de las diferentes actividades y formularios, y en particular los 
+siguientes: nombres, número de documento de identificación, dirección, teléfono fijo y 
+móvil, direcciones, correo electrónico, profesión, hoja de vida académica, certificados de 
+notas, etc.  
+ 
+Los datos serán utilizados para la misión institucional establecida en la ley 1286 de 2009, 
+como ente rector de la Ciencia Tecnología e innovación en Colombia. 
+ 
+ 
+Atentamente,  
+ 
+ 
+FIRMA 
+NOMBRE DEL REPRESENTANTE LEGAL 
+CC_________________ 
+Nombre de la empresa 
+Dirección 
+Teléfono 
+e-Mail 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 1 de 10 
+                                       
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION  
+- COLCIENCIAS - 
+ 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES  
+TECNOLÓGICAS DE GOBIERNO EN LÍNEA - 2014 
+ 
+ 
+ANEXO 6 - INFORMACIÓN REQUERIDA EN LA FORMULACIÓN DEL PROYECTO 
+ 
+El presente anexo es una guia para determinar la información que se requiere para presentar el 
+proyecto a través del sistema integrado de gestion de proyectos de colciencias – sigp. favor tener en 
+cuenta que la información será cargada al sigp a través de formularios electrónicos que dicho 
+sistema provee. el presente anexo solo sirve para hacer el alistamiento previo de la información 
+requerida. 
+ 
+1. IDENTIFICACIÓN DEL PROPONENTE -EJECUTOR 
+ 
+Datos del Proponente – Ejecutor 
+Nombre proponente 
+ 
+NIT 
+ 
+Nombre del Representante Legal 
+ 
+Número de Cédula 
+ 
+Dirección 
+ 
+Teléfono 
+ 
+Fax 
+ 
+Celular 
+ 
+Ciudad 
+ 
+Email 1 
+ 
+Email 2 
+ 
+Página web 
+ 
+Carácter de la empresa (pública o privada) 
+ 
+Actividad Comercial de la Empresa 
+ 
+Bienes que ofrece la empresa 
+ 
+Servicios que ofrece la empresa 
+ 
+Datos del responsable del proyecto  
+Nombre del responsable del proyecto 
+ 
+Cargo del responsable 
+ 
+Teléfono 
+ 
+Fax 
+ 
+Celular 
+ 
+Ciudad 
+ 
+Email 1 
+ 
+Email 2 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 2 de 10 
+2. IDENTIFICACIÓN DE ENTIDADES TERRITORIALES 
+ 
+2.1 Datos del aliado #1 
+Nombre del ente territorial 
+ 
+NIT 
+ 
+Nombre del representante legal 
+ 
+Dirección 
+ 
+Departamento 
+ 
+Ciudad 
+ 
+Teléfono 
+ 
+Fax 
+ 
+Celular 
+ 
+Ciudad 
+ 
+Email 1 
+ 
+Email 2 
+ 
+Página web 
+ 
+2.2 Datos del aliado #2 
+Nombre del ente territorial 
+ 
+NIT 
+ 
+Nombre del representante legal 
+ 
+Dirección 
+ 
+Departamento 
+ 
+Ciudad 
+ 
+Teléfono 
+ 
+Fax 
+ 
+Celular 
+ 
+Ciudad 
+ 
+Email 1 
+ 
+Email 2 
+ 
+Página web 
+ 
+2.3 Datos del aliado #3 
+Nombre del ente territorial  
+ 
+NIT 
+ 
+Nombre del representante legal 
+ 
+Dirección 
+ 
+Departamento 
+ 
+Ciudad 
+ 
+Teléfono 
+ 
+Fax 
+ 
+Celular 
+ 
+Ciudad 
+ 
+Email 1 
+ 
+Email 2 
+ 
+Página web 
+ 
+2.4 Datos del aliado #4 
+Nombre del ente territorial  
+ 
+NIT 
+ 
+Nombre del representante legal 
+ 
+Dirección 
+ 
+Departamento 
+ 
+Ciudad 
+ 
+Teléfono 
+ 
+Fax 
+ 
+Celular 
+ 
+Ciudad 
+ 
+Email 1 
+ 
+Email 2 
+ 
+Página web 
+ 
+ 
+ 
+ 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 3 de 10 
+3. DESARROLLO DEL PROYECTO 
+ 
+Nombre del proyecto 
+ 
+Duración en meses 
+18 meses 
+3.1 Antecedentes 
+Describa los antecedentes y el estado actual de las soluciones tecnológicas para la implementación 
+de la Estrategia de Gobierno en las entidades territoriales aliadas. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.2 Problema o necesidad a resolver 
+¿Cuál es necesidad que se pretende resolver a través de la solución tecnológica? 
+Resuma en 5 renglones como máximo el problema a resolver: 
+ 
+ 
+A continuación realice la presentación del diagnóstico y los resultados del mismo. Se sugiere Árbol 
+de problemas, matriz DOFA o cualquier herramienta de diagnóstico 
+ 
+ 
+ 
+ 
+ 
+3.3 Justificación 
+Exponga en este aparte las razones por las cuales este proyecto debe ser desarrollado para 
+resolver el problema o necesidad. 
+¿Qué alternativas de solución del problema a través de las TIC consideró y cuál es la justificación de 
+la opción seleccionada? 
+¿De qué forma contribuye la solución tecnológica propuesta con el cumplimiento de la Estrategia de 
+Gobierno en línea? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Página 4 de 10 
+ 
+ 
+ 
+3.4 Descripción del proyecto 
+En un resumen ejecutivo  explique el foco del proyecto. (Máximo 500 palabras). 
+ 
+ 
+ 
+ 
+Enuncie propuestas para: a) la sostenibilidad en el uso y el mejoramiento continuo de la solución 
+tecnológica, y b) para la masificación de la solución tecnológica.  
+ 
+ 
+3.5 Metodología de Desarrollo del Proyecto 
+Describir en forma organizada y precisa, cómo serán alcanzados los entregables propuestos. Esta 
+metodología debe reflejar la estructura lógica de la ejecución y presentación de los resultados. Tome 
+en consideración que el diseño metodológico es la base para planificar todas las actividades que 
+demanda el proyecto y para determinar los recursos requeridos. Una metodología vaga o imprecisa 
+carece de elementos para evaluar la pertinencia de la propuesta y de los recursos solicitados. 
+ 
+ 
+ 
+ 
+3.6 Línea Base del Proyecto (A partir de los entregables del proyecto) 
+Elemento 
+Descripción del elemento 
+Cantidad Inicial 
+Cantidad Final 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Página 5 de 10 
+ 
+ 
+ 
+4. CRONOGRAMA DE ACTIVIDADES 
+ 
+4. CRONOGRAMA DE ACTIVIDADES 
+Código 
+Actividad 
+Descripción 
+Mes 1 
+Mes 2 
+Mes 3 
+Mes 4 
+Mes 5 
+Mes n… 
+A01 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+A02 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+A03 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+A04 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+A05 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+A06 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+A07 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+A08 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+A09 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+A10 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+A11 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+A12 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+A13 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+A14 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+A15 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+A16 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+A17 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+A18 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+A19 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+A20 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+A21 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+A22 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+An… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+* Recuerde que COLCIENCIAS -MINTIC no entregará anticipos; los desembolsos serán realizados 
+contra entrega de actividades. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Página 6 de 10 
+ 
+ 
+ 
+5. PRESUPUESTO 
+ 
+ 
+5.1  Cálculo Presupuestal 
+Cód. 
+Activi
+dad 
+Recurso 
+Unidad de 
+medida 
+Cantidad 
+Valor 
+unitario 
+TOTAL 
+Rubro 
+Aporte 
+Colciencias/
+MinTIC 
+Proponente  
+A01 
+  
+  
+  
+  
+$0 
+  
+  
+  
+A01 
+  
+  
+  
+  
+$0 
+  
+  
+  
+A01 
+  
+  
+  
+  
+$0 
+  
+  
+  
+A01 
+  
+  
+  
+  
+$0 
+  
+  
+  
+A02 
+  
+  
+  
+  
+$0 
+  
+  
+  
+A02 
+  
+  
+  
+  
+$0 
+  
+  
+  
+A02 
+  
+  
+  
+  
+$0 
+  
+  
+  
+A03 
+  
+  
+  
+  
+$0 
+  
+  
+  
+A03 
+  
+  
+  
+  
+$0 
+  
+  
+  
+A03 
+  
+  
+  
+  
+$0 
+  
+  
+  
+A04 
+  
+  
+  
+  
+$0 
+  
+  
+  
+A05 
+  
+  
+  
+  
+$0 
+  
+  
+  
+A05 
+  
+  
+  
+  
+$0 
+  
+  
+  
+A05 
+  
+  
+  
+  
+$0 
+  
+  
+  
+A05 
+  
+  
+  
+  
+$0 
+  
+  
+  
+A06 
+  
+  
+  
+  
+$0 
+  
+  
+  
+TOTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Página 7 de 10 
+ 
+ 
+ 
+Los rubros que que a continuación aparecen en negro en la columna COLCIENCIAS/MINTIC de la tabla 5.2. no son 
+cofinanciables y deberán ser aportados por la empresa. 
+5.2. Presupuesto General del Proyecto 
+CÓDIGO 
+RUBRO 
+DESCRIPCIÓN 
+COLCIENCIAS - 
+MINTIC 
+PROPONENTE 
+TOTAL 
+R01 
+Equipos de 
+comunicaciones. 
+  
+  
+$ 0 
+R02 
+Equipos de 
+cómputo y 
+terminales. 
+  
+  
+$ 0 
+R03 
+Infraestructura de 
+red y 
+comunicaciones. 
+  
+  
+$ 0 
+R04 
+Equipos para 
+comunicaciones 
+en ambientes 
+controlados 
+  
+  
+$ 0 
+R05 
+Equipos 
+periféricos de 
+apoyo. 
+  
+  
+$ 0 
+R06 
+Infraestructura 
+eléctrica soporte 
+para 
+comunicaciones. 
+  
+  
+$ 0 
+R07 
+Comunicaciones y 
+conectividad. 
+  
+  
+$ 0 
+R08 
+Seguridad 
+informática. 
+  
+  
+$ 0 
+R09 
+Mantenimiento y 
+actualización de 
+equipos. 
+  
+  
+$ 0 
+R10 
+Portales web. 
+  
+  
+$ 0 
+R11 
+Sistemas de 
+información. 
+  
+  
+$ 0 
+  
+Página 8 de 10 
+ 
+ 
+5.2. Presupuesto General del Proyecto 
+CÓDIGO 
+RUBRO 
+DESCRIPCIÓN 
+COLCIENCIAS - 
+MINTIC 
+PROPONENTE 
+TOTAL 
+R12 
+Contenidos 
+digitales. 
+  
+  
+$ 0 
+ 
+ 
+ 
+ 
+$ 0 
+ 
+ 
+ 
+R13 
+Comercio 
+electrónico. 
+  
+  
+$ 0 
+R14 
+Licencias. 
+  
+  
+$ 0 
+R15 
+Capacitación y 
+certificación 
+especializada en 
+temas digitales. 
+  
+  
+$ 0 
+R16 
+Material didáctico 
+para las 
+capacitaciones 
+  
+  
+$ 0 
+R17 
+Gastos 
+Administrativos. 
+  
+  
+$ 0 
+R18 
+Publicidad y 
+eventos de 
+difusión. 
+  
+  
+$ 0 
+R19 
+Gastos operativos   
+  
+$ 0 
+R20 
+Gerencia proyecto   
+  
+$ 0 
+R21 
+Gastos de 
+legalización del 
+convenio 
+  
+  
+ 
+  
+TOTAL 
+$ 0 
+$ 0 
+$ 0 
+  
+  
+% 
+% 
+% 
+ 
+ 
+  
+Página 9 de 10 
+ 
+ 
+ 
+6. Presupuesto de flujo de fondos 
+ 
+Flujo de Fondos 
+ 
+Fuente 
+Total Mes 1 Mes 2 Mes 3 Mes 4 Mes 5 Mes 6  
+Proponente 
+$ 0 
+  
+  
+  
+  
+  
+  
+$ 0 
+Colciencias/Min
+TIC 
+$ 0 
+  
+  
+  
+  
+  
+  
+$ 0 
+TOTAL 
+$ 0 
+$ 0 
+$ 0 
+$ 0 
+$ 0 
+$ 0 
+$ 0 
+$ 0 
+ 
+ 
+Solicitudes de Desembolso 
+ 
+Desembolsos* 
+Valor 
+% 
+Primer desembolso 
+0 
+30% 
+Segundo desembolso 
+0 
+30% 
+Tercer desembolso 
+0 
+40% 
+TOTAL 
+0 
+100% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Página 10 de 10 
+ 
+ 
+ 
+7. Descripción técnica de entregables y actividades del proyecto 
+ 
+ Descripción Técnica de entregables y Actividades del Proyecto 
+Entregables  
+Descripción 
+Cantidad de Bs y 
+SS 
+Código 
+Actividad 
+Descripción* 
+Características 
+Técnicas 
+Entregable 1 
+  
+  
+A01 
+  
+  
+A02 
+  
+  
+A03 
+  
+  
+A04 
+  
+  
+A05 
+  
+  
+A06 
+  
+  
+Entregable 2 
+  
+  
+A07 
+  
+  
+A08 
+  
+  
+Entregable 3 
+  
+  
+A09 
+  
+  
+A10 
+  
+  
+A11 
+  
+  
+Entregable 4 
+  
+  
+A12 
+  
+  
+A13 
+  
+  
+A14 
+  
+  
+ 
+* Cuando la actividad se trate de capacitaciones y entrenamiento, se deberá identificar claramente el tipo de capacitación 
+(presencial o virtual), los temas a tratar y el número de horas y personas por cada tema de acuerdo al siguiente cuadro: 
+ 
+Tema de la 
+capacitación 
+Tipo de 
+capacitación 
+Número de horas 
+a dictar 
+# de personas que 
+participan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ corciencias 
+C7 | (BROSPRBBAR 
+  
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS — 
+  
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES TECNOLOGICAS DE 
+GOBIERNO EN LINEA - 2014 
+  
+  
+1. PRESENTACION 
+COLCIENCIAS, como ente rector de la ciencia, la tecnologia y la innovacion del pais, 
+en 
+asocio con el Ministerio de Tecnologias de la Informacion y las Comunicaciones - MINTIC 
+buscan con esta convocatoria fortalecer la eficiencia en la administracion publica con el 
+apoyo de la industria de las Tecnologias de Informacién 
+- 
+TI para la implementacién de 
+soluciones tecnolégicas, que mediante el desarrollo de actividades de Ciencia, Tecnologia 
+e Innovacién, mejoren 
+la prestacion de los servicios 
+a los ciudadanos y las empresas 
+mediante el uso de las Tecnologias de Informacion y Comunicaciones - TIC, con el fin de 
+crear espacios 
+de 
+participacién, 
+generar visibilidad 
+y transparencia, 
+al 
+igual 
+que 
+la 
+automatizacion de procesos, de tramites y de servicios. 
+Este nuevo reto implica el desarrollo de soluciones tecnolégicas para para avanzar en la 
+masificacion de la Estrategia Gobierno en Linea para: 
+e 
+Provision 
+de 
+tramites 
+y 
+servicios 
+por 
+multiples 
+canales 
+y 
+uso 
+de 
+TIC 
+en 
+procedimientos administrativos en entidades territoriales. 
+e 
+Interoperabilidad entre entidades ptblicas, optimizacion de cadenas de tramites y 
+puesta en marcha de ventanillas Unicas virtuales. 
+e 
+Acceso a datos para la informacion e interaccion con los ciudadanos. 
+e 
+Participacion ciudadana e innovacién abierta. 
+Para mayor informacion sobre los antecedentes de esta convocatoria ver anexo 1. 
+2. OBJETIVO 
+2.1 OBJETIVO GENERAL 
+Apoyar el desarrollo de soluciones tecnolégicas de 
+la industria de TI que permitan 
+la 
+implementacion de la estrategia de gobierno en linea en entidades territoriales con el fin 
+de 
+facilitar 
+los 
+tramites 
+entre 
+los 
+ciudadanos 
+y 
+el 
+estado, 
+optimizar 
+los 
+procesos 
+relacionados con la interoperabilidad de las entidades publicas, agilizar el acceso a datos 
+necesarios para la interaccién ciudadano-estado e incrementar la participacion ciudadana, 
+todo ello a partir del uso intensivo de las Tecnologias de Informacién y Comunicaciones — 
+TIC. 
+   
+B 
+DC 
+ia 
+www.colciencias.gov.co 
+Pagina 1 de 9
+ o 
+E 
+ae 
+[Vine 
+coiciencias 
+(7 | (PARATODOS 
+@) ieee 
+2.2. OBJETIVOS ESPECIFICOS 
+  
+  
+2.2.1 
+Mejorar 
+la 
+prestacién 
+de 
+servicios 
+a 
+los ciudadanos 
+por 
+parte 
+de 
+los entes 
+territoriales, a través de canales electrénicos. 
+2.2.2 
+Facilitar la eficiencia administrativa a través de 
+la implementacion de soluciones 
+tecnoldgicas en las entidades territoriales. 
+2.2.3 
+Promover el desarrollo del Gobierno Abierto a través de soluciones tecnoldgicas 
+que faciliten 
+el acceso 
+a 
+la informacién, 
+la interaccién 
+y 
+la participacion de los 
+ciudadanos. 
+3. DIRIGIDO A 
+Alianzas conformadas por empresas de la industria de TI con entidades territoriales de 
+acuerdo con las siguientes definiciones: 
+  
+e 
+Empresas de la Industria de TI: Las empresas deberan ser personas juridicas, de 
+economia mixta 
+o privadas, con 
+o sin adnimo de lucro del sector productivo 
+y de 
+servicios legalmente constituidas en Colombia, pertenecientes 
+a 
+la industria de TI. 
+Pueden ser empresas beneficiarias las Microempresas, PyMEs y Grandes Empresas. 
+Son 
+las encargadas del desarrollo de 
+las soluciones tecnoldgicas. 
+En adelante 
+la 
+empresa. 
+e 
+Entidades 
+territoriales: 
+Gobernaciones 
+y 
+Alcaldias 
+responsables 
+de 
+proveer 
+informacion 
+para 
+la definicidn de requerimientos; 
+asi mismo, _ participaran en 
+las 
+pruebas necesarias para la implementacién y apropiacién de la solucién tecnolégica y 
+tendran derecho a utilizar la solucién tecnoldgica fruto de 
+la alianza. En adelante la 
+entidad. 
+Nota: las alianzas deberan estar constituidas por una empresa de la industria de TI y por 
+una o mas entidades territoriales. 
+4. REQUISITOS MINIMOS 
+Los requisitos minimos para participar en la presente convocatoria son los siguientes: 
+4.1. Inscripcién del proyecto por parte de la empresa en el Sistema integrado de Gestion 
+de Proyectos de COLCIENCIAS - SIGP a través del formulario electronico disponible 
+en el portal de COLCIENCIAS (www.colciencias.gov.co). 
+4.2.Documento 
+que 
+certifique 
+la 
+Alianza 
+entre 
+la 
+empresa 
+y 
+la(s) 
+entidad(es) 
+territorial(es), suscrita por los representantes legales de las entidades participantes o 
+por quien 
+esté facultado 
+por 
+éstos 
+para 
+hacerlo, 
+avalando 
+la 
+presentacién 
+del 
+proyecto para la presente convocatoria. En el caso en que el representante legal no 
+cuente con 
+la competencia para asumir los compromisos consignados en 
+la carta 
+institucional, 
+debera 
+presentar documento que 
+lo 
+faculte firmado 
+por 
+el 
+organo 
+competente, (ver anexo 2). 
+4.3. Carta de presentacién del proyecto y contrapartida de la empresa por un porcentaje 
+minimo del 20%, (ver anexo 3). 
+  
+www.colciencias. gov.co 
+Pagina 2 de 9
+   
+COLCIENCIAS 
+4.4. Experiencia 
+minima 
+de 
+la 
+empresa 
+de 
+3 
+afios 
+en 
+desarrollo 
+de 
+soluciones 
+tecnoldgicas, (ver anexo 4). 
+4.5. Estados Financieros con corte a diciembre 31 de 2013. 
+4.6. Carta de autorizacion de uso y almacenamiento de datos personales de las personas 
+involucradas en el proyecto, (ver anexo 5). 
+Notas: 
+e 
+Los proponentes deberan cumplir con la totalidad de los requisitos minimos para que 
+su proyecto sea evaluado, en caso contrario no continuaran al proceso de evaluacién. 
+e 
+Las empresas y entidades territoriales de la Alianza que tengan contratos 0 convenios 
+vigentes con COLCIENCIAS 
+y Ministerio TIC deberan estar 
+a paz y salvo con los 
+compromisos adquiridos, de lo contrario no seran consideradas para participar en esta 
+convocatoria. 
+e 
+COLCIENCIAS, podra solicitar en cualquier momento, informacién y documentacién 
+adicional o aclaraciones de los requisitos minimos. 
+5. DURACION Y FINANCIACION 
+El término de duracién de los proyectos a financiar sera de hasta seis (6) meses para el 
+desarrollo de las soluciones tecnolégicas y 12 meses para el uso y apropiacién de las 
+mismas por parte de las entidades territoriales, durante este periodo de uso y apropiacién, 
+las entidades territoriales recibiran soporte técnico, mantenimiento y actualizaciones de la 
+solucion por parte de 
+la empresa, sin que para ello 
+la Entidad Territorial deba realizar 
+pagos a la empresa. 
+Se cuenta con DOS MIL MILLONES DE PESOS MCTE ($2.000.000.000) para financiar 
+proyectos en esta convocatoria. 
+El monto maximo 
+a financiar por solucién tecnolégica 
+sera de hasta doscientos millones de pesos ($200.000.000). 
+La empresa debera aportar contrapartida en efectivo y/o especie, equivalente minimo al 
+veinte por ciento (20%) del valor total solicitado a COLCIENCIAS — Ministerio TIC. 
+Nota 
+El proyecto presentado no podra ser financiando simultaneamente por otra convocatoria o 
+con recursos de COLCIENCIAS u 
+otras entidades del Estado. 
+6. CONTENIDO DEL PROYECTO 
+Los proyectos para el desarrollo de soluciones tecnolégicas deberan presentarse a través 
+del Sistema integrado de Gestidn de Proyectos de COLCIENCIAS — SIGP de acuerdo con 
+lo descrito en el anexo 6 — Informacion requerida para la formulacion del proyecto. 
+Nota: Las soluciones tecnolégicas deberan adoptar los lineamientos y estandares de la 
+Estrategia de Gobierno en linea y del Viceministerio Tl 
+y estaran sujetas a revision de 
+cumplimiento 
+por 
+parte 
+del 
+Ministerio 
+TIC, 
+dichos 
+lineamientos 
+y 
+estandares 
+se 
+   
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 3 de 9
+     
+rencias 7 '| 
+(PRRA TODOS 
+at 
+da Clee, Tero’ oe 
+encuentran 
+disponibles 
+en 
+el 
+Sitio 
+Web 
+de 
+la 
+Direccién 
+de 
+Gobierno 
+en 
+Linea: 
+http://www. programa.gobiernoenlinea.gov.co/lineamientos.shtml 
+7. PROCEDIMIENTO DE INSCRIPCION 
+7.1 Descargar, descomprimir e instalar la maquina virtual de java de la siguiente direccion: 
+http:/Awww.colciencias.qov.co/sites/default/files/ckeditor_files/files/formularios_sigp/ire- 
+1.5 
+0 22-windows-i586-p.zip 
+  
+  
+7.2 Descargar, descomprimir e instalar y diligenciar el formulario electronico disponible en 
+la seccién correspondiente a esta convocatoria del portal institucional de COLCIENCIAS 
+(http://www.colciencias.gov.co). 
+El 
+formulario 
+electrénico 
+es 
+especifico 
+para 
+esta 
+convocatoria, asegurese de diligenciar efectivamente el formulario en cuestion. 
+7.3 Para enviar el proyecto desde el formulario electronico, debe Aceptar los términos y 
+condiciones, e inmediatamente se activa el boton de Validar, si el proyecto es validado sin 
+errores, 
+se 
+activa 
+el 
+boton 
+de Enviar. 
+Una vez 
+el 
+proyecto sea enviado 
+al Sistema 
+Integrado 
+de Gestion 
+de Proyectos de COLCIENCIAS 
+-SIGP- emitira 
+una respuesta 
+automatica, 
+generando 
+un 
+numero 
+de 
+confirmacién 
+de 
+recibido 
+en 
+el 
+servidor 
+de 
+COLCIENCIAS, este numero garantizara la recepcion exitosa del proyecto. 
+7.4 
+El numero de confirmacién de recibido 
+y 
+la contrasefia que 
+la entidad asigne 
+al 
+proyecto, le permitiré realizar el envio de los requisitos minimos y hacer el seguimiento del 
+estado del proyecto. Tome nota de este numero de confirmacion 
+y de 
+la contrasefia 
+asignada. 
+7.5 Para realizar el envio de los requisitos minimos desde el formulario electronico, debe 
+dar clic 
+en 
+el botén Adjuntar documentos 
+de 
+requisitos, 
+inmediatamente 
+el 
+sistema 
+despliega una pagina del portal de Sistema de Gestion de Proyectos para tal fin. En el 
+campo 
+proyecto, 
+digite 
+el 
+numero 
+de 
+confirmacion 
+de 
+recibido 
+y 
+en 
+el 
+campo 
+correspondiente diligencie 
+la contrasefia 
+y proceda 
+a dar clic en 
+el boton ingresar. 
+A 
+continuacion el sistema despliega la informacién basica del proyecto y en la parte inferior 
+el detalle de los requisitos minimos. 
+7.6 Debe adjuntar la totalidad de los documentos que soportan los requisitos minimos. Si 
+requiere anexar documentacion adicional del proyecto como: tablas, formulas, graficas, 
+anexos, cartas, etc.), guardelos en una sola carpeta y adjuntelas como archivo .ZIP 
+o 
+-RAR (archivo comprimido), en el requisito de Otros adjuntos. Si requieren cambiar algun 
+archivo 
+de 
+los que previamente adjunto, puede hacerlo examinando 
+y adjuntando 
+el 
+documento deseado. Recuerde que el formulario solo admite un archivo anexo por cada 
+requisito minimo, por lo que al cargar un archivo nuevo, éste remplazara el anterior. Usted 
+puede verificar el archivo que adjunt6 a través de la pagina http://201.234.78.164:7777/portal/ 
+del SIGP con el numero de confirmacién y la contrasefia asignada al proyecto. 
+7.7 Anexando todos 
+los documentos obligatorios se puede Generar el certificado de 
+requisitos minimos, que le sirve de evidencia del envio de los mismos. En caso contrario, 
+el sistema enviara 
+el siguiente mensaje de error: Error - Debe adjuntar los documentos 
+obligatorios para obtener el certificado, y no permitira generar dicho certificado. 
+  
+   
+Cra. 
+7b Bis 
+PBX: (57+1) 
+Bogota D.C. 
+www.colciencias.gov.co 
+Pagina 4 de 9
+       
+COLCIENCIAS 
+  
+soln 
+a 
+sone, 
+-) es 
+en 
+Rec 
+7.8 
+Hasta que 
+no estén completos 
+los 
+requisitos minimos 
+y generado 
+el certificado 
+anteriormente mencionado, 
+no se dara por culminado satisfactoriamente el proceso de 
+inscripcién del proyecto. 
+Notas: 
+e 
+Se aceptaran Unicamente los proyectos que se presenten 
+a través del formulario 
+electronico con toda la informacién solicitada en la presente convocatoria. 
+e 
+No sera tenida en cuenta para el proceso de evaluacién y seleccién del Banco de 
+Proyectos Elegibles, 
+la informacion enviada en medios distintos 
+al SIGP (correo 
+postal, fax, correo electrénico o cualquier otro), 
+ni posterior a la fecha y hora limite 
+establecida. Ver numeral 12 (Cronograma) 
+e 
+Los 
+proyectos 
+que 
+se 
+reciban 
+sin 
+cumplir 
+los 
+requisitos 
+establecidos 
+en 
+esta 
+convocatoria, 
+no participaran en 
+el proceso de seleccién para ser incorporados al 
+Banco de Elegibles. 
+e 
+COLCIENCIAS 
+- 
+Ministerio TIC se reservan 
+el derecho de solicitar en cualquier 
+momento la documentaci6n adicional que da soporte a los proyectos. 
+e 
+COLCIENCIAS 
+- Ministerio TIC se reservan el derecho de verificar la informacion y 
+documentacion presentada en el proyecto. 
+8. CRITERIOS DE EVALUACION 
+Los proyectos inscritos dentro de los plazos establecidos para la presente convocatoria y 
+que cumplan con 
+la totalidad de los requisitos minimos se someteran 
+a los siguientes 
+criterios de evaluacién: 
+  
+  
+  
+  
+  
+CRITERIO 
+PUNTAJE MAXIMO 
+1. 
+Calidad en la formulaci6n del proyecto 
+25 
+2. 
+Pertinencia del desarrollo del proyecto 
+25 
+3. 
+Eficiencia 
+20 
+4. 
+Cobertura de entidades territoriales 
+30 
+  
+  
+    
+e 
+Calidad en la formulacion del proyecto: 
+Coherencia de 
+la metodologia con 
+los resultados 
+e impactos esperados. 
+El proyecto 
+debera describir claramente el conjunto de procedimientos, actividades, y/o tareas a ser 
+utilizados para alcanzar los objetivos, resultados e impactos esperados del proyecto. 
+e 
+Pertinencia del proyecto: 
+Contribucién a la solucion o mitigacién del problema o necesidad planteada en el proyecto 
+0 cambios potenciales que se espera lograr a mediano y largo plazo. 
+   
+www.colciencias.gov.co 
+Pagina 5 de 9
+   
+COLCIENCIAS ©’ | 
+(PARA TODOS 
+eee 
+  
+¥ be Cometcocores 
+e 
+Eficiencia: 
+Indica 
+el modo en que se han organizado 
+y empleado los recursos disponibles en 
+la 
+implementaci6n del proyecto. 
+e 
+Cobertura de Entidades Territoriales: 
+Proponer 
+la mayor cantidad de entes territoriales como entidades aliadas, dara como 
+resultado una mayor puntuacion en la evaluacion de los proyectos. 
+Las soluciones presentadas, deben ser transversales, e implementadas en las entidades 
+aliadas. De igual forma, los proponentes deberan garantizar que para la implantacion de 
+la solucion, no se exigiran desarrollos adicionales 0 adquisicién de nuevas tecnologias. 
+  
+9. PROCESO DE EVALUACION 
+Los proyectos inscritos dentro de los plazos establecidos para la presente convocatoria y 
+que cumplan con los requisitos minimos, seran evaluados por pares y/o panel de expertos 
+seleccionados 
+por COLCIENCIAS, 
+teniendo 
+en 
+cuenta 
+los 
+criterios 
+de 
+evaluacion 
+descritos en el numeral 8. 
+Los proyectos se clasificaran en 
+una 
+lista en orden descendente de mayor 
+a menor 
+acorde 
+a 
+la calificacion 
+y puntaje obtenido. 
+El puntaje minimo para 
+la declaracién de 
+elegibilidad, sera de setenta (70) puntos. 
+Toda informacion proporcionada es de caracter confidencial 
+y no sera 
+utilizada para 
+ningun fin diferente a la realizacién de la evaluacion. Los expertos evaluadores estaran 
+cobijados por clausulas de confidencialidad y de no conflicto de interés. 
+De acuerdo con 
+el CRONOGRAMA de 
+la convocatoria, se concedera un término para 
+solicitar aclaraciones y/o modificaciones a 
+la publicacién preliminar del banco de elegibles, 
+una vez éstas sean resueltas, 
+se procedera 
+a 
+la publicacién 
+del banco definitivo de 
+proyectos elegibles. 
+En caso de empate, se tendra en cuenta el proyecto que tenga mayor calificacion en el 
+criterio 1. Calidad en la formulacion del proyecto. 
+a 
+10. _BANCO.DE ELEGIBLES 
+e 
+are 
+El Banco de Proyectos Elegibles 
+se publicaraé 
+en 
+la pagina Web de COLCIENCIAS 
+(www.colciencias.gov.co) en las fechas establecidas en el cronograma. 
+El Banco de Proyectos Elegibles estara conformado por aquellos proyectos que alcancen 
+una puntuacion igual o superior a setenta (70) puntos. 
+La inclusion de proyectos en el Banco de Proyectos Elegibles, no implica obligatoriedad, 
+ni compromiso alguno para el Ministerio TIC y/o COLCIENCIAS de asignar recursos, 
+ni 
+genera 
+derecho 
+a 
+recibir 
+apoyos econdmicos 
+para 
+quienes 
+hayan 
+presentado 
+los 
+Cra. 
+7b 
+Bis # 
+132-2 
+PBX: 
+(57+ 
+80 
+Bogota D.C 
+www.colciencias.gov.co 
+  
+  
+Pagina 6 de 9
+       
+COLCIENCIAS 
+7 | 
+(PARA TODOS 
+walve 
+de Clerc, Tcrobgia e 
+       
+  
+proyectos correspondientes. En todo caso, en el marco de la presente convocatoria se 
+asignaran recursos de acuerdo con la disponibilidad presupuestal. 
+Notas 
+Surtida 
+la publicacion definitiva 
+del banco de elegibles, COLCIENCIAS informara 
+mediante comunicacién escrita y/o electronica 
+a 
+los beneficiarios que hayan sido 
+seleccionados para ser financiados, indicando las instrucciones 
+y condiciones para 
+suscribir el Convenio. A partir de la fecha de comunicacion, se contaran quince (15) 
+dias calendario como plazo maximo para que el beneficiario remita a COLCIENCIAS 
+la totalidad de la documentacion. Vencido éste término, en caso que el beneficiario no 
+remita 
+la documentacién completa, 
+se entendera que desiste de 
+su 
+interés 
+por 
+contratar con COLCIENCIAS 
+y se procedera 
+a financiar 
+el siguiente proyecto del 
+banco de elegibles. 
+Una vez remitida la minuta del convenio al beneficiario, éste contara con un plazo de 
+cinco 
+(5) 
+dias 
+habiles 
+para 
+devolverla 
+firmada 
+a 
+COLCIENCIAS. 
+En 
+caso 
+de 
+correcciones a la minuta, el plazo de devolucion se contara a partir del envio de la 
+minuta ajustada, vencido el término anterior, 
+si el beneficiario no remite el convenio 
+firmado, 
+se entendera que desiste de su 
+interés 
+por contratar 
+y se procedera 
+a 
+seleccionar el siguiente en orden descendente de la lista del banco de elegibles. 
+it 
+d 
+11. ACLARACIONES 
+Una vez publicados los resultados preliminares del banco de elegibles, 
+los interesados 
+podran presentar solicitudes de aclaraciones y comentarios por un periodo de tres (3) dias 
+habiles. 
+Por fuera de este término 
+las reclamaciones son extemporaneas 
+y 
+no seran 
+aceptadas. 
+Las peticiones y reclamaciones se deben presentar exclusivamente a través del correo 
+electronico contacto@colciencias.gov.co, 
+con el asunto “Convocatoria para soluciones de 
+Gobierno en Linea -2014”. 
+f 
+Q 
+12. CRONOGRAMA 
+  
+  
+  
+  
+  
+  
+  
+ACTIVIDAD 
+FECHA LIMITE 
+Apertura de la convocatoria 
+28 de marzo de 2014 
+Cierre de la convocatoria 
+15 de mayo de 2014 
+Publicacion del banco preliminar de proyectos elegibles 
+17 de junio de 2014 
+Slcoibles 
+solicitud de aclaraciones del banco preliminar de 
+Del 18 al 20 de junio de 2014 
+Respuesta a solicitud de aclaraciones 
+26 de junio de 2014 
+Publicacién del banco definitivo de proyectos elegibles 
+4 de julio de 2014 
+  
+  
+    
+  
+Pagina 7 de 9
+ coiciencias 7 
+(erCar eens 
+  
+  
+  
+13. PROPIEDAD INTELECTUAL 
+Se dara aplicacién a 
+lo contemplado en el articulo 31 de la Ley 1450 de 2011, el cual 
+establece: 
+“Articulo 
+31°, 
+DERECHOS 
+DE PROPIEDAD INTELECTUAL 
+DE PROYECTOS 
+DE 
+INVESTIGACION FINANCIADOS CON RECURSOS DEL PRESUPUESTO NACIONAL. 
+En el caso de proyectos de ciencia, tecnologia e innovacién adelantados con recursos del 
+presupuesto nacional, el Estado, salvo motivos de seguridad y defensa nacional, cedera a 
+las 
+Partes 
+del 
+Proyecto 
+los 
+derechos 
+de 
+propiedad 
+intelectual 
+que 
+le 
+puedan 
+corresponder, segun se establezca en el contrato”. 
+Las Partes del Proyecto definiran entre ellas la titularidad de los derechos de propiedad 
+intelectual derivados de los resultados de la ejecucién de los recursos del presupuesto 
+nacional.” 
+EI solicitante o solicitantes mantendran 
+la titularidad sobre los bienes protegidos por la 
+propiedad intelectual e industrial (Pl), tales como inventos, modelos de utilidad, disefios 
+industriales, marcas y obras protegidas por el derecho de autor (ej. software), entre otros, 
+los cuales desarrolle como resultado de la presente convocatoria y por lo tanto no estara 
+obligado 
+a divulgar el cddigo fuente, en caso de aplicativos, 
+ni 
+a ceder o licenciar los 
+derechos patrimoniales sobre los bienes de PI que desarrolle. 
+Colciencias y MinTIC podran utilizar el nombre de la empresa o aplicacién creada, para 
+difundir el resultado de sus iniciativas en cualquier evento o medio de divulgacién. Por su 
+parte, 
+el 
+solicitante 
+o solicitantes deberan mencionar 
+a Colciencias 
+y 
+a 
+MinTic como 
+patrocinadores de su solucion tecnologica, incluyendo la imagen institucional de las dos 
+instituciones de acuerdo con las directrices que le seran entregadas en el momento de 
+firmar el convenio. 
+14. VEEDURIAS CIUDADANAS 
+Las veedurias ciudadanas establecidas de conformidad con la Ley, podran desarrollar su 
+actividad durante la convocatoria, de conformidad con 
+lo establecido en 
+la Ley 850 de 
+2003 y demas normas concordantes y complementarias. 
+e 
+Anexo No. 1. Antecedentes. 
+e 
+Anexo No. 2. Carta alianza. 
+e 
+Anexo No. 3. Carta de presentacion proyecto y aporte de contrapartida. 
+e 
+Anexo No. 4. Carta de experiencia de la empresa. 
+e 
+Anexo No. 5. Carta autorizacion de datos personales. 
+e 
+Anexo No. 6. Informacion presentacién del proyecto 
+  
+www.colciencias gov.co 
+Pagina 8 de 9
+   
+46. ACEPTACION DE TERMINOS Y VERACIDAD 
+Con la inscripcién, los interesados aceptan las caracteristicas, requisitos y condiciones de 
+la presente convocatoria asi como lo dispuesto en los presentes términos de referencia 
+para el desarrollo de la misma y para la entrega del beneficio. 
+De igual forma declaran que 
+la informacion suministrada es veraz y corresponde 
+a 
+la 
+realidad. En caso de encontrarse alguna incoherencia e inconsistencia en la informacion o 
+documentacién suministrada, COLCIENCIAS podra en cualquier momento rechazar 
+la 
+postulacion o si es del caso declarar la pérdida del beneficio, sin perjuicio de las acciones 
+legales correspondientes. 
+17. MAYOR INFORMACION 
+  
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS 
+- 
+Carrera 7 B Bis No. 132-28, Bogota D.C. 
+http://www.colciencias.gov.co 
+Centro de Contacto 
+Teléfono: (+57 - 1) 6258480 Extension 2081 
+Linea gratuita nacional: 018000 914446 
+En caso de inquietudes 0 comentarios sobre 
+la presente convocatoria, favor enviar un 
+correo 
+electrénico 
+con 
+el 
+asunto 
+“Convocatoria 
+para 
+el 
+desarrollo 
+de 
+soluciones 
+tecnologicas de Gobierno en Linea 2014”, al correo contacto@colciencias.gov.co. 
+  
+Vo Bo. Area técnica 
+Vo Bo. Secretaria General 
+  
+Bogota 
+D.C 
+mbia 
+www.colciencias.gov.co 
+Pagina 9 de 9
+     
+com, 
+  
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS 
+- 
+CONVOCATORIA PARA EL DESARROLLO DE NUEVAS SOLUCIONES 
+TECNOLOGICAS DE GOBIERNO EN LINEA - 2014 
+  
+ANEXO 1 
+- ANTECEDENTES 
+En el marco de la politica, lineamientos y ejes de accion a desarrollar por el Ministerio TIC 
+para 
+el 
+gobierno 2010-2014, 
+definidos 
+en 
+el 
+Plan 
+Estratégico 
+Sectorial, 
+que 
+busca 
+promover 
+el acceso, 
+uso 
+y apropiacién masivos de 
+las TIC, 
+a través de politicas 
+y 
+programas para el logro de niveles progresivos y sostenibles de desarrollo en Colombia, 
+se han definido dos dimensiones estratégicas que buscan que en el cuatrienio se generen 
+las condiciones adecuadas para que 
+el sector de las telecomunicaciones aumente su 
+cobertura a través del despliegue de infraestructura, aumente la penetracion de banda 
+ancha, se intensifique el uso, la apropiacién y el aprovechamiento de las TIC, asi como la 
+generacién de contenidos y aplicaciones convergiendo dentro de un ecosistema digital. 
+La Dimension 1) busca promover el “Desarrollo del Ecosistema Digital” y la Dimension 2) 
+pretende el “Desarrollo del entorno Digital’. Esta segunda dimension define como uno de 
+sus objetivos misionales “Apoyar iniciativas gubernamentales que requieran el uso de las 
+TIC para 
+su desarrollo bajo 
+el liderazgo, 
+la gestion 
+y responsabilidad de 
+la entidad 
+correspondiente”. 
+En 
+el marco de ese objeto misional, 
+se ha considerado como una 
+actividad prioritaria la “Implementacion del ecosistema digital en todos los departamentos 
+en Colombia”, para lo cual se ha disefiado la iniciativa Vive Digital Regional. 
+A raiz de la importancia y crecimiento de los procesos de comunicacién a través de 
+la 
+tecnologia 
+se crea el Viceministerio de Tecnologias y Sistemas de la Informaci6n, con el 
+proposito de formular, implementar y realizar un seguimiento y evaluacion a las politicas 
+publicas con 
+el 
+fin 
+de alcanzar 
+la excelencia en 
+el uso, acceso 
+y administracién de 
+Tecnologias de la Informacion en el Estado. 
+En éste marco se encuentra 
+la Direccion de Gobierno en linea, quien implementa 
+la 
+estrategia de Gobierno electrénico en Colombia, buscando contribuir con la construccién 
+de 
+un 
+Estado mas 
+eficiente, 
+mas transparente 
+y 
+participativo 
+y que 
+presta mejores 
+servicios con 
+la colaboracién de toda 
+la sociedad, mediante el aprovechamiento de las 
+TIC con el fin de impulsar la competitividad y el mejoramiento de la calidad de vida para la 
+prosperidad de todos los colombianos. 
+En desarrollo de la anterior estrategia, en materia de Gobierno en linea a nivel territorial 
+se han obtenido avances significativos tales como: 
+i) presencia en internet de todas las 
+alcaldias 
+y gobernaciones 
+del 
+pais; 
+ii) implementacion 
+de estrategias de 
+interaccion 
+ciudadania-Estado a través de medios electrénicos; 
+iii) simplificacién y racionalizacion de 
+procesos de cara a la automatizacion de tramites y servicios; y iv) procesos de gestion del 
+cambio y apropiacién de TIC para servidores publicos y ciudadanos. 
+  
+Cra. 
+7b Bis # 
+PBX 
+Bogota D 
+nbia 
+www.colciencias.gov. co 
+  
+  
+Pagina 
+1 de 4
+ covciencias 
+(7 | (BRRATEBS 
+Partiendo de los anteriores logros, es necesario advertir otros avances tecnoldgicos que 
+ofrecen nuevas posibilidades para satisfacer de mejor manera las crecientes demandas 
+de ciudadanos 
+y empresas para interactuar con 
+la administracién publica 
+a través de 
+medios electrénicos; 
+asi mismo, 
+existen nuevas exigencias legales contenidas en 
+el 
+Decreto 2693 
+de 2012 “Por 
+el 
+cual 
+se establecen 
+los lineamientos generales 
+de 
+la 
+Estrategia 
+de 
+Gobierno 
+en 
+linea 
+de 
+la 
+Reptiblica 
+de 
+Colombia, 
+se 
+reglamentan 
+parcialmente las Leyes 1341 de 2009 y 1450 de 2011, y se dictan otras disposiciones”; y 
+en 
+el 
+Decreto 
+19 
+de 2012 
+“Por 
+el 
+cual 
+se dictan normas 
+para 
+suprimir 
+o reformar 
+regulaciones, 
+procedimientos 
+y tramites innecesarios existentes 
+en 
+la Administracion 
+Publica”, 
+y en 
+el nuevo Cédigo de Procedimiento Administrativo 
+y de 
+lo Contencioso 
+Administrativo (Ley 1437 de 2011); circunstancias que, 
+en conjunto, 
+hacen parte del 
+escenario de implementacion de la nueva Estrategia de Gobierno en linea. 
+  
+  
+Por otra parte, en el plan nacional de desarrollo 2010-2014 “prosperidad para todos’, se 
+encuentra el capitulo VII. “Soportes transversales de 
+la prosperidad democratica’, cuyo 
+eje principal es el de Buen Gobierno, el cual incluye cinco (5) principios orientadores para 
+promover el ejercicio del Buen Gobierno en btisqueda de la modernizacion, eficiencia y 
+eficacia administrativa: Transparencia 
+y rendicion de cuentas; gestion publica efectiva; 
+vocacién por 
+el servicio ptiblico; participacion 
+y servicio 
+al ciudadano; lucha contra 
+la 
+corrupcion. 
+Este nuevo 
+reto comprende 
+los siguientes temas 
+prioritarios 
+a 
+nivel de 
+politica para 
+avanzar en la masificacion de Gobierno en Linea: 
+e 
+Provision 
+de 
+Tramites 
+y 
+Servicios 
+por 
+Multiples 
+Canales 
+y 
+uso 
+de 
+TIC 
+en 
+procedimientos administrativos. 
+e 
+Interoperabilidad, Cadenas de Tramites y Ventanillas Unicas Virtuales. 
+e 
+Datos y Gobierno Abierto. 
+e 
+Construccién Colectiva. 
+Por otra parte, 
+la Industria Tl ha estado presente de manera transversal en todos los 
+sectores productivos, aportando a su competitividad. Asi mismo ha estado presente en el 
+Estado como agente que impulsa 
+el Buen Gobierno 
+y fomenta soluciones tecnolégicas 
+que pueden llegar a mejorar el efectivo cumplimiento de la funcién publica 
+Es asi como, diferentes programas e 
+iniciativas se crearon para implementar el uso de 
+tecnologia en el Estado, respondiendo de manera temprana al desafio competitivo, y el 
+fortalecimiento 
+de 
+la 
+Industria 
+de Tecnologias 
+de 
+la 
+Informacién, 
+que 
+tienen como 
+propésito fomentar 
+la transformacion de 
+la 
+Industria 
+Tl, 
+por medio 
+del desarrollo de 
+acciones especificas desde diferentes dimensiones y que pueden ser aprovechadas por 
+los entes del Estado. 
+Lo anterior contribuira a mejorar la prestacién de servicios a los ciudadanos por parte de 
+los Entes Territoriales, mediante actividades de innovacion 
+y desarrollo tecnolégico 
+a 
+través 
+de 
+ésta 
+industria, 
+apoyadas 
+en 
+la 
+gestion 
+del 
+talento 
+humano, 
+el 
+uso 
+de 
+Cra. 
+7b Bis 4 
+PBX: (57 
+Bogota D.C 
+www.colciencias.gov.co 
+   
+  
+Pagina 2 de 4
+ PDs eek 
+a eae 
+COLCIENCIAS C7 | QPROSPERIDAR 
+Beponarerta Adnisivofng de Cietia, Terelag'  Invewxiin 
+Rikon tiaters 
+   
+  
+infraestructura 
+y herramientas tecnolégicas 
+de 
+punta, 
+junto 
+con 
+el 
+uso 
+de 
+mejores 
+practicas. 
+Teniendo en cuenta lo anterior, se suscribid el Convenio N° 768 de 2013, celebrado entre 
+Colciencias, Fondo de Tecnologias de la Informacion y las Comunicaciones y la Fiduciaria 
+Bogota S.A., con el que se busca integrar esfuerzos técnicos, administrativos y financieros 
+para promover la innovaci6n en el pais, a través de las tecnologias de la informacion, en 
+la industria, el estado y los sectores productivos de Colombia. 
+El convenio tiene como objetivo 
+lo siguiente: 
+1) Promover 
+la adopcién de modelos de 
+calidad globalmente reconocidos, 
+en 
+las empresas que pertenecen 
+a la 
+industria 
+de 
+tecnologias 
+de 
+la 
+informacién. 
+2) 
+Desarrollar 
+proyectos 
+de 
+innovacion 
+con 
+impacto 
+regional 
+articulando 
+Academia, 
+industria 
+y 
+Estado. 
+3) 
+Impulsar 
+ejercicios 
+de 
+emprendimiento y fortalecimiento empresarial, 
+a través de 
+la gestion de innovacion. 4) 
+Realizar procesos de formacién especializada, para aumentar la oferta de talento humano 
+calificado para 
+el sector de Tecnologias de 
+la Informacién. 5) Llevar a cabo estudios, 
+evaluaciones y mediciones sobre el sector y el impacto de las acciones ejecutadas. 6) 
+Mejorar 
+la competitividad 
+y calidad 
+de vida 
+en 
+las regiones, 
+a través 
+del 
+disefio 
+y 
+desarrollo de proyectos de innovacién que incorporen las tecnologias de la informacion, 
+para 
+mejorar 
+la 
+relacién 
+del 
+ciudadano 
+con 
+el 
+Estado 
+y 
+aumentar 
+la eficiencia 
+administrativa, la transparencia y la participacion ciudadana. 
+De otro lado, en abril de 2012, 
+el Gobierno Colombiano se adhirid 
+a 
+la Alianza por el 
+Gobierno Abierto (OGP), que define Gobierno Abierto como 
+la accién coordinada para 
+alcanzar una cultura mundial orientada por los siguientes principios: 
+ve 
+Aumentar el acceso a las nuevas tecnologias para 
+la apertura 
+y 
+la rendicion de 
+cuentas. 
+Las nuevas tecnologias ofrecen oportunidades para 
+el intercambio de 
+informacién, la participacion del puiblico y la colaboraci6n. 
+v7 
+Aumentar la disponibilidad de informacion sobre las actividades gubernamentales. 
+Los gobiernos recogen y almacenan la informacién en nombre de las personas, y 
+los 
+ciudadanos 
+tienen 
+derecho 
+a 
+solicitar 
+informacion 
+sobre 
+las 
+actividades 
+gubernamentales. 
+v 
+Apoyar la participacion ciudadana. Valor la participacion de todas las personas, por 
+igual y sin discriminacién, en la toma de decisiones y 
+la formulacién de politicas. La 
+participacién 
+del 
+publico, 
+incluida 
+la 
+participacién 
+plena 
+de 
+las 
+mujeres, 
+hace 
+aumentar la eficacia de los gobiernos, que se benefician de los conocimientos, las 
+ideas y la capacidad de la gente para proporcionar supervision. 
+Uno de los objetivos de la presente convocatoria busca promover el desarrollo del 
+Gobierno Abierto. Mas informacion sobre este concepto en: 
+http:/Avww. opengovpartnership.org/es/acerca-de/declaraci¥C3%B3n-de-gobierno- 
+abierto#sthash.UPimrMvg.dpuf 
+   
+  
+Bogota 
+D.C. 
+Col 
+www.colciencias.gov.co 
+Pagina 3 de 4
+ COLCIENCIAS 
+” | (PARA TODOS 
+Oe 
+  
+  
+De acuerdo con 
+lo anterior, 
+la presente convocatoria busca 
+la creacién de 
+nuevas 
+sinergias entre la industria TI y los entes territoriales, generando soluciones tecnolégicas 
+que suplan las necesidades de la administracion publica y la ciudadania, fortaleciendo el 
+gobierno electronico en las regiones. 
+Cra. 
+7b Bis 
+# 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. 
+Colombia 
+www.colciencias.gov.co 
+Pagina 4 de 4
+ <ol>, 
+tars Qa 
+(PROSPERIDAD 
+PARA TODOS 
+     
+couciencias 
+7 
+  
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS 
+- 
+CONVOCATORIA PARA EL DESARROLLO DE NUEVAS SOLUCIONES 
+TECNOLOGICAS DE GOBIERNO EN LINEA - 2014 
+  
+ANEXO 2 - CARTA DE ALIANZA 
+A continuacion se presentan 
+los contenidos del modelo de carta de conformacion de 
+alianza: 
+(Ciudad), (Dia) de (Mes) de 201_ 
+Sefiores 
+COLCIENCIAS 
+Carrera 7B Bis No. 132 — 28 
+Bogota D.C. 
+Asunto: Conformacién de Alianza en 
+el marco de 
+la convocatoria para el desarrollo de nuevas 
+soluciones tecnolégicas de Gobierno en linea. 
+Respetados sefiores, 
+La presente tiene por objeto presentar la conformacion de la Alianza, que estara integrada por las 
+siguientes entidades: 
+(Empresa), 
+(nombre 
+de 
+la entidad 
+territorial 
+1), (nombre 
+de 
+la entidad 
+territorial 2), (nombre de 
+la entidad territorial 3),..., etc.; designandose como entidad ejecutora a 
+(empresa), quien sera 
+la encargada de firmar el (convenio) resultado de 
+la convocatoria para el 
+desarrollo de nuevas soluciones tecnolégicas de Gobierno en linea. 
+Asi mismo, los abajo firmantes declaran que: 
+e 
+Tienen poder y/o representacion legal para firmar 
+y presentar 
+el proyecto para 
+la solucién 
+tecnolégica denominada... 
+e 
+_Lainformacion suministrada es veraz y no fija condiciones artificiales. 
+e 
+Las 
+partes 
+no 
+se 
+encuentran 
+incursos 
+en 
+ninguna 
+de 
+las 
+causales 
+de 
+inhabilidad 
+y/o 
+incompatibilidad establecidas en el Estatuto General de Contratacion y demas normas legales 
+pertinentes. 
+e 
+Aceptan 
+y autorizan 
+a COLCIENCIAS 
+para 
+que 
+verifique 
+la 
+informacién 
+aportada 
+en 
+el 
+(proyecto). 
+e 
+Seencuentran al dia con las obligaciones y compromisos adquiridos con COLCIENCIAS. 
+e 
+Aceptamos que la solucion tecnolégica desarrollada por la Entidad Ejecutora (empresa) con el 
+apoyo de 
+la presente convocatoria, 
+sera instalada, configurada 
+y utilizada 
+por 
+la Entidad 
+  
+    
+Gra. 
+7b Bis # 
+PBX: (57+1) 6251 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 
+1 de 3
+ COLCIENCIA 
+Departamento Adeiatn 
+de Circa, Trdg’  Ianrasibn 
+  
+Territorial durante un periodo de 12 meses durante los cuales la Entidad Ejecutora (empresa) 
+brindara soporte técnico, mantenimiento y actualizaciones de la solucién en caso que surjan 
+nuevas versiones de la misma, sin que para ello la Entidad Territorial deba realizar pagos a la 
+Entidad Ejecutora. 
+Ademas, 
+ACEPTAMOS 
+expresa 
+e 
+irrevocablemente 
+que 
+conocemos 
+detalladamente 
+las 
+caracteristicas, 
+requisitos 
+y condiciones 
+de 
+la 
+convocatoria 
+para 
+el 
+desarrollo 
+de soluciones 
+tecnologicas 
+de Gobierno en 
+linea, 
+de manera que nos sometemos 
+a 
+lo establecido 
+en 
+los 
+Términos de Referencia determinados por COLCIENCIAS para el desarrollo de la misma y para la 
+entrega del beneficio. 
+Con 
+la 
+presente 
+manifestacion 
+inequivoca 
+de 
+voluntad, 
+declaramos 
+que 
+en 
+caso 
+de 
+ser 
+beneficiados en la convocatoria para el desarrollo de soluciones tecnolégicas de Gobierno en linea, 
+la aceptaremos en los términos que COLCIENCIAS establezca; comprendemos y aceptamos que 
+la no aceptacion o el incumplimiento de alguna de las condiciones establecidas en la convocatoria, 
+dara lugar a la pérdida definitiva del beneficio. 
+Declaramos que 
+la informacion suministrada es veraz y corresponde a 
+la realidad. En caso de 
+encontrarse alguna incoherencia o inconsistencia en la informacion o documentacion suministrada, 
+COLCIENCIAS podra en cualquier momento, rechazar esta postulacion o finiquitar el beneficio, sin 
+perjuicio de las acciones legales correspondientes. 
+Cordialmente, 
+Firma 
+Nombre del representante legal entidad Ejecutora (Empresa) 
+cc 
+Nombre de la entidad Ejecutora (Empresa) 
+Direccién 
+Teléfono 
+Firma 
+Nombre del representante legal entidad territorial 
+1 
+CC. 
+Nombre de la entidad territorial 
+1 
+Direccién 
+Teléfono 
+Firma 
+Nombre del representante legal entidad territorial 2 
+cc 
+Nombre de la entidad territorial 2 
+Direccion 
+Teléfono 
+Teléfono 
+  
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 2 de 3
+ COLCIENCIAS C 
+Departarens Ade svat vade Gerla, rele’ 
+   
+Firma 
+Nombre del representante legal entidad territorial 3 
+cc 
+Nombre de la entidad territorial 3 
+Direccién 
+Teléfono 
+Teléfono 
+Cra. 
+7b Bis # 132-28 
+PBX: (5741) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 3 de 3
+ sin, 
+ees”      
+COLCIENCIAS 
+  
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS 
+- 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES TECNOLOGICAS DE GOBIERNO 
+EN LINEA - 2014 
+  
+ANEXO 3 
+- CARTA DE PRESENTACION DEL PROYECTO Y APORTE DE CONTRAPARTIDA 
+(Ciudad), (Dia) de (Mes) de 2014 
+Sefiores 
+COLCIENCIAS 
+Carrera 7B Bis No. 132 — 28 
+Bogota D.C. 
+Asunto: Presentacién del (proyecto...) titulado (escriba el nombre del proyecto...) a la convocatoria 
+para el desarrollo de soluciones tecnolégicas de Gobierno en linea. 
+Respetados sefiores, 
+La 
+presente tiene como 
+objeto presentar 
+el proyecto 
+(escriba 
+el nombre 
+del 
+proyecto...) 
+a 
+la 
+convocatoria para el desarrollo de soluciones tecnologicas de Gobierno en linea 2014, y manifestar 
+que 
+el 
+citado 
+proyecto 
+no 
+esta 
+siendo 
+financiado 
+por 
+otra 
+convocatoria 
+0 
+con 
+recursos 
+de 
+COLCIENCIAS u otras entidades del Estado. 
+Ademas, 
+acepto 
+expresa 
+e 
+irrevocablemente que 
+conozco 
+detalladamente 
+las 
+caracteristicas, 
+requisitos y condiciones de la convocatoria para el desarrollo de soluciones tecnolégicas de Gobierno 
+en linea, de manera que me someto a lo establecido en los Términos de Referencia determinados 
+por COLCIENCIAS para el desarrollo de la misma y para la entrega del beneficio. 
+Con la presente manifestacion inequivoca de voluntad, declaro que en caso de ser beneficiado en la 
+convocatoria para el desarrollo de soluciones tecnolégicas de Gobierno en linea con la industria de 
+TI, dicho beneficio sera recibido en los términos que COLCIENCIAS establezca; comprendo y acepto 
+que la no aceptacién o el incumplimiento de alguna de las condiciones establecidas, dara lugar a la 
+pérdida definitiva 
+del 
+beneficio, 
+en consecuencia, 
+declaro que 
+el valor de 
+la contrapartida que 
+aportaremos para el desarrollo de la solucion tecnolégica es de VALOR EN LETRAS, (VALOR EN 
+PESOS) equivalente al 20% del valor total solicitado a COLCIENCIAS, representado en efectivo y/o 
+Cra. 
+7b Bis # 
+132-28 
+PBX: (57+1) 6258480 
+Bogota D.C, Colombia 
+www.colciencias.gov.co 
+Pagina 
+1 de 2
+   
+covciencias 
+7 
+especie (en caso de presentar contrapartida en especie y en efectivo, describir el porcentaje de cada 
+uno) 
+Declaro 
+que 
+la 
+informacion 
+suministrada 
+es veraz 
+y corresponde 
+a 
+la 
+realidad. 
+En 
+caso 
+de 
+encontrarse alguna incoherencia o 
+inconsistencia en la informacion o documentacion suministrada, 
+COLCIENCIAS podra en cualquier momento, rechazar mi postulacion 
+o finiquitar el beneficio, sin 
+perjuicio de las acciones legales correspondientes. 
+Cordialmente, 
+FIRMA 
+NOMBRE DEL REPRESENTANTE LEGAL DE LA EMPRESA 
+CC. 
+NOMBRE EMPRESA 
+Direccién 
+Teléfono 
+e-Mail 
+Cra. 
+7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 2 de 2
+   
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS 
+- 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES TECNOLOGICAS DE 
+GOBIERNO EN LINEA - 2014 
+  
+ANEXO 4 - CARTA DE EXPERIENCIA DEL PROPONENTE 
+A continuacion se presentan los contenidos del modelo de carta para certificacién de la 
+experiencia aportada por empresa: 
+(Ciudad), (Dia) de (Mes) de 201_ 
+Sefiores 
+COLCIENCIAS 
+Carrera 7B Bis No. 132 - 28 
+Bogota D.C. 
+Asunto: Certificacion de la experiencia de (Nombre de la empresa) 
+Respetados sefiores, 
+Por medio de la presente yo NOMBRE DEL REPRESENTANTE LEGAL, identificado con cédula de 
+ciudadania numero (Numero de identificacion), como Representante Legal 
+de (Nombre de 
+la 
+empresa), certifico que la entidad mencionada cumple con los requisitos de experiencia minima 
+exigida en el marco de la convocatoria para el desarrollo de soluciones tecnologicas de Gobierno 
+en linea. La experiencia acreditada se relaciona a continuaci6n: 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Porcentaje 
+Valor del 
+Entidad 
+de 
+Localizacién 
+Contrato 
+Fecha de 
+No 
+contratante o 
+participacion 
+dela 
+Objeto - Producto 
+ejecutado ala | terminacion 
+propietaria 
+dela 
+ejecucion 
+terminacion | (mmaaaa) 
+empresa 
+(S) 
+1 
+2 
+3 
+4 
+5 
+6 
+7   
+  
+  
+   
+  
+   
+( 
+3ogot 
+5 
+www.colcien 
+Pagina 
+1 de 2 
+ 
+ coiciencias7 | (BROSPERIPAR 
+(5) 
+)) 
+tune 
+Depoianenta Adninveorea de 
+Caria, Reval’ 
+Deke 
+   
+Asi mismo certifico que conozco los manuales de ejecucién, contratacién, seguimiento, 
+y demas 
+documentos 
+relacionados 
+con 
+la 
+convocatoria, 
+proporcionados 
+por 
+COLCIENCIAS 
+y 
+me 
+comprometo en caso de ser seleccionado como ejecutor, 
+a dar estricto cumplimiento 
+a 
+lo 
+alli 
+establecido seguin sea mi competencia. 
+Cordialmente, 
+FIRMA 
+NOMBRE DEL REPRESENTANTE LEGAL 
+cc 
+Nombre de la empresa 
+Direccién 
+Teléfono 
+e-Mail 
+Cra. 
+7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 2 de 2
+ DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS 
+- 
+  
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES TECNOLOGICAS DE 
+GOBIERNO EN LINEA 
+  
+ANEXO 5 - AUTORIZACION USO Y ALMACENAMIENTO DE DATOS PERSONALES 
+A continuacion se presentan los contenidos del modelo de carta para autorizacion uso y 
+almacenamiento de datos personales: 
+(Ciudad), (Dia) de (Mes) de 201_ 
+Sefiores 
+COLCIENCIAS 
+Carrera 7B Bis No. 132 — 28 
+Bogota D.C. 
+Asunto: Autorizacién uso y almacenamiento de datos personales. 
+En virtud de la Ley Estatutaria 1581 del 2012, mediante la cual se dictan las disposiciones 
+generales para la proteccién de datos personales, y su Decreto Reglamentario 1377 de 
+2013, 
+autorizo 
+al Departamento Administrativo de Ciencia, Tecnologia 
+e Innovacién 
+- 
+Colciencias, 
+considerado como responsable 
+y/o encargado 
+del tratamiento 
+de datos 
+personales, almacenados en bases de datos, las cuales incluyen informacion que se ha 
+reportado en desarrollo de las diferentes actividades 
+y formularios, 
+y en particular los 
+siguientes: nombres, numero de documento de identificacion, direccion, teléfono fijo 
+y 
+movil, direcciones, correo electrénico, profesién, hoja de vida académica, certificados de 
+notas, etc. 
+Los datos seran utilizados para la mision institucional establecida en la ley 1286 de 2009, 
+como ente rector de la Ciencia Tecnologia e innovacién en Colombia. 
+Atentamente, 
+FIRMA 
+NOMBRE DEL REPRESENTANTE LEGAL 
+cc 
+Nombre de la empresa 
+Direccion 
+Teléfono 
+e-Mail 
+  
+www.colciencias.gov.co 
+Pagina 1 de 1
+ sil, 
+© 
+colons 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+  
+- COLCIENCIAS 
+- 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES 
+TECNOLOGICAS DE GOBIERNO EN LINEA - 2014 
+  
+ANEXO 6 - INFORMACION REQUERIDA EN LA FORMULACION DEL PROYECTO 
+El presente anexo es una guia para determinar la informacion que se requiere para presentar el 
+proyecto a través del sistema integrado de gestion de proyectos de colciencias — sigp. favor tener en 
+cuenta que 
+la informacién sera cargada 
+al sigp 
+a través de formularios electrénicos que dicho 
+sistema provee. 
+el presente anexo solo sirve para hacer el alistamiento previo de 
+la informacién 
+requerida. 
+1. 
+IDENTIFICACION DEL PROPONENTE -EJECUTOR 
+Nombre 
+nente 
+NIT 
+del R 
+nte L 
+Numero de Cédula 
+Di 
+Teléfono 
+Fax 
+Celular 
+Ciudad 
+1 
+Email 2 
+Pai 
+web 
+racter de laem 
+bl 
+delaE 
+Bienes 
+que 
+laem| 
+1 
+ue 
+laem 
+re del 
+ble del 
+0 del 
+a 
+Fax 
+Celular 
+Ciudad 
+Email 1 
+Email 2 
+  
+Cra. 
+7b Bis # 
+PBX: (57+1) 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+  
+   
+Pagina 
+1 de 10
+ coin, 
+CG 
+{PROSPERIDAD 
+4 
+Mintic 
+   
+   
+ees” 
+2. 
+IDENTIFICACION DE ENTIDADES TERRITORIALES 
+Nombre del 
+T 
+Nombre del 
+rtamento 
+Ciudad 
+Teléfono 
+Fax 
+r 
+1 
+: 
+Email 2 
+ina 
+web 
+bre del ente territorial 
+NI 
+del 
+nte 
+n 
+nto 
+Teléfono 
+ir 
+Email 1 
+na web 
+Nombre del ente territorial 
+Nombre del 
+inte 
+Direcci6n 
+artamento 
+Ciudad 
+T 
+no 
+EF 
+r 
+Email 1 
+Email 2 
+ina web 
+Nombre del ente territorial 
+NIT 
+Nombre del 
+reccion 
+rtamento 
+Ciudad 
+T 
+no 
+Fax 
+Celular 
+Ciudad 
+Email 1 
+Email 2 
+Pagina web   
+Cra. 
+7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 2 de 10
+     
+COLCIENCIAS 
+(’ | §PARA TODOS 
+@) ee 
+le Cina, Tele 
+  
+3. 
+DESARROLLO DEL PROYECTO 
+  
+Nombre del proyecto 
+| Duracion en meses 
+  
+       
+    
+Describa los antecedentes yel estado actual de las soluciones tecnolégicas para la implementacién 
+de la Estrategia de Gobierno en las entidades territoriales aliadas. 
+  
+4Cual es necesidad que se pretende resolver a través de la soluci6n tecnolégica? 
+Resuma en 5 renglones como maximo el problema a resolver: 
+  
+  
+A continuacién realice la presentacién del diagndstico y los resultados del mismo. Se sugiere Arbol 
+de problemas, matriz DOFA o cualquier herramienta de diagndstico 
+  
+ustificacion 
+  
+Exponga en este aparte 
+las razones por las cuales este proyecto debe ser desarrollado para 
+resolver el problema 0 necesidad. 
+éQué alternativas de solucién del problema a través de las TIC considero y cual es la justificacién de 
+la opcién seleccionada? 
+&De qué forma contribuye la solucién tecnolégica propuesta con el cumplimiento de la Estrategia de 
+Gobierno en linea? 
+  
+  
+    
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 3 de 10
+ 5 Adwinivata 
+de Cine, Yenaogiaelononocin 
+  
+  
+  
+Enuncie propuestas para: a) la sostenibilidad en el uso y el mejoramiento continuo de la soluci6n 
+tecnolégica, y b) para la masificaci6n de la solucion tecnolégica. 
+  
+  
+   
+    
+    
+  
+ioe 
+re 
+773.5 
+Metodologiz 
+satrollo del 
+Pro 
+Describir en forma organizada y precisa, como seran alcanzados los entregables propuestos. Esta 
+metodologia debe reflejar la estructura légica de la ejecucion y presentacion de los resultados. Tome 
+en consideracién que el disefio metodolégico es la base para planificar todas las actividades que 
+demanda el proyecto y para determinar los recursos requeridos. Una metodologia vaga 0 imprecisa 
+carece de elementos para evaluar la pertinencia de la propuesta y de los recursos solicitados. 
+  
+  
+    
+Elemento 
+Descripcién del elemento 
+Cantidad Inicial | Cantidad Final 
+  
+Pagina 4 de 10
+ OT ap § eulseg 
+  
+“SOpeplAljoe op ebasjua e1]U0D 
+sopezijeai UeJeS SOS]OqUIasap So] ‘sodioijue eseGes}Ua OU OILNIIN- SVIONSIO109 enb apiansey , 
+  
+Uy 
+  
+cov 
+  
+Lov 
+  
+Ocv 
+  
+6LV 
+  
+SLV 
+  
+ZIV 
+  
+OLV 
+  
+SIV 
+  
+VV 
+  
+ELV 
+  
+CLv 
+  
+LLV 
+  
+OLV 
+  
+60V 
+  
+sov 
+  
+Lov 
+  
+90v 
+  
+Sov 
+  
+vOV 
+  
+£0v 
+  
+cov 
+  
+  
+  
+  
+  
+      
+Lov 
+      
+      
+      
+      
+  
+  
+    
+PepIAROV 
+  
+  
+  
+  
+  
+  
+  
+SOgOL WuvdE | > SVIONAIDIOD  
+ OT ep 9 eulseg 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+TwlLol 
+  
+90V 
+  
+SOV 
+  
+SOV 
+  
+SOV 
+  
+sov 
+  
+vov 
+  
+cov 
+  
+cov 
+  
+cov 
+  
+cov 
+  
+cov 
+  
+cov 
+  
+Lov 
+  
+LOV 
+  
+Lov 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+jeysendnsaig oingjeo 
+1S 
+  
+  
+Seaaaeuae | <7 SVIONaIDIOD 
+   
+ 
+ OT ap Z eulsedg 
+  
+“UOIDBWJOJU! 
+o$ 
+ap SBWd}SIS 
+ble 
+o$ 
+“Gem SefeHOd| 
+OY 
+“sodinbe 
+o$ 
+ep ugioezienjoe | = 604 
+A ojualujuajuey\| 
+“BONEWIOJUI 
+pepinbes 
+“PEPIAI}O@UOo 
+A souoioeoiunwod 
+*SeUoIDeo|UNWIOD 
+eied 
+ayodos ed109|9 
+eunjonsjseedu] 
+“okode 
+o$ 
+ap sooveyed| 
+Soy 
+sodinby 
+sopejosjuoo 
+sojusique ue 
+souolseoiunwoo 
+eyed sodinby 
+"SSUdIDeo|UNWOD 
+o$ 
+Apel) 
+€0u 
+ap einjonsyseeyUul 
+*SOJBUILUIS} 
+o$ 
+Aoyndwoo} 
+ZOY 
+ap sodinby 
+"SOUOIDBOIUNWIOD 
+ap sodinby 
+Nolodiéosad 
+  
+  
+  
+  
+  
+  
+o$ 
+80u 
+  
+  
+  
+o$ 
+Z0Y 
+  
+  
+o$ 
+90¥u 
+  
+  
+  
+  
+o$ 
+vou 
+  
+  
+  
+  
+  
+  
+o$ 
+  
+  
+  
+  
+  
+- OLLNIN 
+- 
+ALNSNOdONG | - svIDNSI9I09 |   
+  
+  
+  
+  
+  
+“esoidwe eB] Jod sopepode Jas uesiagep A sejqeloueuljoo 
+UOS OU *Z°S IGE} E] SP OLLNIW/SVIONSIO 
+TOO euwnjoo e] us o16au ua usdeJede ug!oenulJUOD eB anb anb soigni so7 
+       
+som: 
+gue 
+& 
+1 Coyaey eH op eumAAnupy oweUOLerag 
+SOdOL VavdE | > SVIDNAIDIOD 
+   
+   
+avaradsoud 
+ 
+ OT ap g eulseg 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+   
+    
+   
+  
+  
+% 
+% 
+% 
+o$ 
+o$ 
+0$ 
+IWLOL 
+oluaAUOd 
+jep ugioezijebo| 
+Ley 
+ap sojse 
+o$ 
+oypehod e1nuases 
+0zy 
+o$ 
+SOAI}EJOdO SO}seS 
+6LY 
+“ugISNJIP 
+o$ 
+8p SoWUSAS| 
+= 
+A pepiouqnd 
+“SOAI}EISIUILUPY 
+o$ 
+soseg| 
+2a 
+souoeyoedeo 
+o$ 
+se] eied 
+OLY 
+ooHoepIp JeLe}e 
+“sajeyBip Sew} 
+ue epezijeioedsa 
+os 
+ugieoyiieo| 
+= Sb4 
+A ugioeyoedeg 
+o$ 
+‘seousol] | 
+vba 
+“Od1UNIOE|O 
+os 
+olnJaWOD 
+ele 
+o$ 
+“sae bip 
+os 
+sopiua}u0a 
+cle 
+SN3NOdOud 
+Seat 
+Nolodriosaa | C¥any 
+4d 64 
+  
+  
+  
+Cee awe ea 
+  
+avaradsoud 
+  
+SOdOL Vad i 
+aD SVIONSID1CD 
+   
+ 
+ OT ap 6 eulsed 
+  
+  
+  
+  
+  
+  
+  
+  
+    
+%00l 
+|0 
+AWLOL 
+%OV 
+0 
+Osjoquieseap J80s0 | 
+WOE 
+0 
+osjoqwasap opunbes 
+%O0E 
+0 
+osjoquiesep JOWUd 
+% 
+oquieseq 
+  
+  
+osjoquiaseg ap sepnyd1jos 
+  
+  
+  
+    
+o$ 
+0$ 
+0$ 
+0$ 
+0$ 
+o$ 
+o$ 
+o$ 
+WLOLl 
+OIL 
+os 
+os 
+uI[/SeBINUaID|OD 
+0$ 
+ajusuodosd 
+9 SON | S SPIN 
+_ syueng 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+SOdQL Vea | 
+SVIONAIDIOD 
+  
+  
+sopuoj ap ofny ap oysandnsaig 
+“9 
+     
+ppoony 2 0.buse, owe) ep emtoumapy eevee
+ OT 8p OT eulsed 
+  
+  
+  
+  
+Tepe 
+uolezoeded 
+  
+  
+= MOPEUIECES 
+epodip 
+‘olpeno ajuainBis je opienoe ep ews} epeo Jod seuosied A sesoy ep oJewinu jo A Jeye1] @ SEW} SO} ‘(JENA O Jelousseld) 
+ugloeyoedeo ap odij je ajuewesejo eoyUep! eleqep as ‘ojUs!WeUaUe A soUc!oeyoeded ap ejel} as pepiayoe e| Opuend 
+   
+  
+  
+  
+  
+  
+  
+  
+VLV 
+ELV 
+vy aiqebeug 
+clv 
+LLV 
+OV 
+€ ajqebeug 
+60V 
+80V 
+LOV 
+90V 
+SOV 
+vov 
+cov 
+cov 
+Lov 
+  
+  
+  
+  
+  
+  
+  
+Z a1Qebequy 
+  
+  
+  
+  
+| ajqebeuuQ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+     
+erosion 
+2 osbone, ou) op omnatmY 
+cn 
+og 
+eae Needs | pp SVIONAIDICD  

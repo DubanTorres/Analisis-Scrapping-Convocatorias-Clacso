@@ -1,0 +1,1985 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GUÍA PARA LA ELABORACIÓN DE ACUERDOS DE 
+CONFIDENCIALIDAD Y DE DELIMITACIÓN DE LA 
+PROPIEDAD INTELECTUAL ENTRE 
+INSTITUCIONES DE EDUCACIÓN SUPERIOR, 
+CENTROS DE DESARROLLO TECNOLÓGICO, 
+CENTROS DE INVESTIGACIÓN Y 
+CONTRIBUYENTES DE RENTA EN EL MARCO DE 
+LAS DEDUCCIONES TRIBUTARIAS PARA I+D+I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+2 
+ 
+ 
+Elaboración 
+DIRECCIÓN DE DESARROLLO TECNOLÓGICO E INNOVACIÓN 
+Julián Pontón Silva 
+Redacción: 
+Sandra Liliana Martínez León 
+Andrea Hurtado Triviño 
+ 
+ 
+ 
+CONSEJO NACIONAL DE BENEFICIOS TRIBUTARIOS EN CIENCIA, TECNOLOGÍA E 
+INNOVACIÓN 
+Integrado por: 
+ 
+– DEPARTAMENTO ADMINISTRATIVO DE CIENCIA TECNOLOGÍA E INNOVACIÓN – COLCIENCIAS 
+ Yaneth Giha Tovar – Directora General 
+– DEPARTAMENTO ADMINISTRATIVO DE PLANEACIÓN NACIONAL – DNP 
+  Paula Andrea Toro – Subdirector Técnico de CTeI, Delegada 
+– MINISTERIO DE COMERCIO, INDUSTRIA Y TURISMO DE COLOMBIA – MINCIT 
+ Yeinni Andrea Patiño Mora – Director de productividad y competitividad, Delegada. 
+– MINISTERIO DE TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES 
+ Lina María Taborda – Directora de Políticas y Desarrollo TI, Delegada 
+– DIRECCIÓN DE IMPUESTOS Y ADUANAS NACIONALES – DIAN 
+ Sandra Lucia Virgüez R. – Asesora del despacho de la Dirección General, Delegada 
+– DOS EXPERTOS EN CIENCIA, TECNOLOGÍA E INNOVACIÓN 
+ Horacio Torres Sánchez, Consejero 
+ Raimundo Abello Llanos, Consejero  
+ 
+ 
+ 
+  
+3 
+ 
+ 
+ 
+Contenido 
+ 
+I. 
+Introducción   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+II. 
+Capítulo 1. 
+Titularidad de la Propiedad Intelectual: Delimitación de derechos 
+ 
+ 
+6 
+¿Qué es la propiedad intelectual? 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+¿Por qué debe protegerse la propiedad intelectual? 
+ 
+ 
+ 
+ 
+6 
+Titularidad de la propiedad intelectual 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+Delimitación de derechos de la propiedad intelectual 
+ 
+ 
+ 
+ 
+8 
+Directrices para la delimitación de los derechos de propiedad intelectual  
+ 
+10 
+Roles de los participantes en el proyecto de CT+I 
+ 
+ 
+ 
+ 
+11 
+ 
+III. 
+Capítulo 2. 
+Lineamientos para la elaboración del contenido del estatuto o reglamento  
+de propiedad intelectual 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 
+Objeto  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 
+Principios  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16 
+Titularidad  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18 
+ 
+Anexo Nº 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22 
+Acuerdo de propiedad intelectual y de confidencialidad entre  
+Instituciones de Educación Superior y entidad ejecutora. 
+ 
+Anexo Nº 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+29 
+Plan de incentivos y/o bonificaciones 
+ 
+Anexo Nº 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+34 
+Normograma de Propiedad Intelectual 
+ 
+Bibliografía  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+37 
+ 
+ 
+  
+4 
+ 
+ 
+Introducción 
+El impacto que genera el conocimiento y la producción de capital intelectual al interior de las 
+organizaciones, ha contribuido a que estas replanteen la consolidación de sus estructuras y el valor 
+que debe darse a los resultados de sus proyectos de investigación. El rumbo que se dé a la gestión 
+del conocimiento debe enfocarse a la planificación estratégica de las actividades que puedan 
+potencializar la competitividad de las organizaciones, pues al darle valor al aprendizaje organizacional 
+se estará dando valor a la generación de activos intangibles, así como al capital humano e intelectual. 
+Las instituciones deben ser conscientes que en la medida que valoren y gestionen sus saberes podrán 
+evolucionar de la sociedad de la información a la sociedad del conocimiento. Es por ello, que es 
+importante dar prelación a la gestión del conocimiento con la finalidad de potencializarlo y orientarlo 
+hacia la aplicación de mejores prácticas de competitividad. 
+El rol de las actividades de ciencia, tecnología e innovación en el marco de las políticas de desarrollo 
+de un país es cada vez más importante en la medida que estas se constituyen en un mecanismo para 
+mejorar y fortalecer la competitividad del mismo, así como para hacerlo más próspero 
+económicamente. La competencia entre países contribuye a que los diferentes actores del sistema 
+productivo piensen en plantear nuevas alternativas para que sus bienes y servicios puedan estar a la 
+altura de sus competidores.   
+Dado que en el siglo XXI la gran mayoría de las grandes empresas son conscientes de la necesidad 
+de invertir en ciencia, tecnología e innovación (CTI) para lograr ser más competitivas en un mercado 
+que demanda una gran oferta y exigencia por parte de los consumidores,  se hizo necesario que el 
+gobierno nacional planteara alternativas para lograr una mayor inversión en CTI con la finalidad de 
+incentivar el desarrollo tecnológico del país y poder atender las necesidades del aparato productivo 
+colombiano y mejorar las condiciones sociales y económicas del país.  
+El estado colombiano ha creado mecanismos para incentivar la inversión del sector privado en CTI 
+con la finalidad de consolidar una sociedad eficiente y competitiva. El principal de estos mecanismos 
+son las deducciones y exenciones tributarias por inversiones en investigación, desarrollo tecnológico 
+e innovación que se constituyen en un instrumento de intervención indirecta usados para promover 
+dicha inversión.  
+Para aspirar a los beneficios tributarios las empresas deberán postular sus proyecto, los cuales deben 
+cumplir con un mínimo de requisitos establecidos en el documento de “tipologías de proyectos 
+calificados como de carácter científico, tecnológico e innovación”, entre los que está la delimitación de 
+la titularidad de los derechos de propiedad intelectual derivados de los resultados del dicho proyecto. 
+  
+5 
+ 
+Por tal motivo y en la medida que la delimitación de los derechos de propiedad intelectual se defina 
+con claridad, se elevará la calidad de la información registrada en los proyectos disminuyendo con ello 
+las falencias en la formulación de estos para el acceso al instrumento de beneficios tributarios.  
+Como resultado de la CTI se pueden generar productos, procedimientos o servicios susceptibles de 
+protección por propiedad intelectual, caso en el cual es importante tener claridad sobre la manera 
+como se delimitara la titularidad de esta propiedad entre los actores intervinientes, es decir entre las 
+universidades, Institutos de Educación Superior - IES, centros de desarrollo tecnológico, centros de 
+investigación y contribuyentes de renta, así como el manejo y elaboración de acuerdos de 
+confidencialidad. 
+El documento de tipologías de proyectos calificados con carácter científico, tecnológico e innovación, 
+establece que uno de los requisitos mínimos que se deben cumplir para el registro de dichos proyectos 
+ante COLCIENCIAS es definir con anterioridad la titularidad de los derechos de propiedad intelectual 
+derivados de los resultados, para que el aspirante pueda obtener los beneficios tributarios. 
+Es importante aclarar que conforme al artículo 158-1 del Estatuto Tributario, las universidades 
+participan como co-ejecutoras a través de investigadores, grupos o centros de investigación, desarrollo 
+tecnológico o innovación reconocidos por COLCIENCIAS. 
+Por lo anterior, se hace necesario promover el uso de la presente guía con la finalidad de orientar la 
+elaboración de acuerdos de confidencialidad y la delimitación de la propiedad intelectual entre IES, 
+centros de desarrollo tecnológico, centros de investigación y contribuyentes de renta en el marco de 
+las deducciones tributarias por inversión o donación en proyectos CTI. 
+La presente guía fue elaborada por el Departamento Administrativo de Ciencia, Tecnología e 
+Innovación – COLCIENCIAS, contando con el apoyo del Consejo Nacional de Beneficios Tributarios 
+en Ciencia, Tecnología e Innovación. 
+Esta Guía pretende ser un instrumento de apoyo que ofrece recomendaciones y parámetros generales 
+para la elaboración de acuerdos de confidencialidad y para la delimitación de la titularidad de los 
+derechos derivados de la propiedad intelectual generada al interior de las instituciones. 
+ 
+ 
+ 
+  
+6 
+ 
+Capítulo 1. 
+ 
+ 
+Titularidad de la Propiedad Intelectual: Delimitación de derechos 
+ 
+ 
+Dada la importancia de contribuir al crecimiento económico del país, se hace necesario aprovechar 
+las ventajas que trae consigo la investigación financiada con fondos públicos con miras a incentivar y 
+fortalecer la transferencia de tecnologías y de conocimientos, generando con ello un motor que 
+promueva la innovación. Como resultado de ello se podrán obtener productos, procedimientos o 
+servicios que son susceptibles de protección por las diferentes modalidades de la propiedad 
+intelectual, es decir como: patente, diseños industriales, marcas, derechos de autor, entre otros. 
+ 
+¿Qué es la propiedad intelectual? 
+La propiedad intelectual se refiere a las creaciones derivadas del intelecto humano en los terrenos 
+industrial, científico, literario y artístico. Las cuales se dividen en dos categorías, la primera se refiere 
+a la propiedad industrial que es el derecho exclusivo del que goza una persona física o jurídica sobre 
+una invención, un diseño industrial o un signo distintivo y la segunda se refiere a los derechos de autor, 
+que son los derechos que tienen los creadores sobre las obras artísticas o literarias. 
+En Colombia la Propiedad Industrial se divide en dos ramas, la primera se refiere a las Nuevas 
+Creaciones que abarcan las patentes de invención, patentes de modelo de utilidad, los diseños 
+industriales, los esquemas de trazado de circuito integrados y la segunda se refiere a los Signos 
+Distintivos que abarcan las marcas, los lemas comerciales, los nombres comerciales, las enseñas 
+comerciales y las denominaciones de origen.  Respecto de los Derechos de Autor y Derechos 
+Conexos, estos contemplan las obras literarias, artísticas y musicales, audiovisuales, software, 
+fonogramas y actos y contratos que versen en materia de derecho de autor y de derechos conexos. 
+ 
+¿Por qué debe protegerse la propiedad intelectual? 
+La protección de los derechos de propiedad intelectual es una manera de recompensar la creatividad 
+y el esfuerzo intelectual de las personas. La creatividad reflejada en invenciones es una actividad 
+inherente al hombre dada la necesidad de encontrar nuevas soluciones para tener mejores 
+condiciones de vida y estimular el progreso de una sociedad. Por lo anterior, es importante proteger 
+las creaciones del intelecto humano mediante los derechos de propiedad intelectual. 
+  
+7 
+ 
+Las razones por las cuales debe promoverse y protegerse propiedad intelectual son1: 
+- 
+El progreso y el bienestar de la humanidad radican en su capacidad de lograr nuevas 
+creaciones en las esferas de la tecnología y la cultura.  
+- 
+La protección jurídica de estas nuevas creaciones alienta la inversión de recursos adicionales 
+que, a su vez, inducen a seguir innovando. 
+- 
+La promoción y la protección de la propiedad industrial estimulan el crecimiento económico, 
+generan nuevos empleos e industrias y mejoran la calidad y el disfrute de la vida. 
+Titularidad de la propiedad intelectual 
+Dentro de los requisitos mínimos que se deben cumplir para el registro de un proyecto de investigación 
+científica, desarrollo tecnológico o de innovación ante COLCIENCIAS y poder obtener los beneficios 
+tributarios, el aspirante debe definir con anterioridad la titularidad de los derechos de propiedad 
+intelectual derivados de los resultados. Lo anterior con la finalidad de dar seguridad al investigador, 
+grupo o centro de investigación reconocido por COLCIENCIAS, al momento de dar información sobre 
+su investigación y formular el proyecto de I+D+i. 
+En la medida que la delimitación de los derechos de propiedad intelectual se defina con claridad, se 
+elevará la calidad de la información registrada en los proyectos disminuyendo con ello las falencias en 
+la formulación de estos para el acceso al instrumento de beneficios tributarios para las empresas que 
+aspiran a él. De igual manera, se contribuirá a generar confianza entre los centros de desarrollo 
+tecnológico, los centros de investigación o las empresas al manejar un lenguaje común en torno a la 
+propiedad intelectual. 
+La delimitación de los derechos de propiedad intelectual, es una labor que deben realizar las 
+Instituciones de Educación Superior - IES, centros de desarrollo tecnológico, centros de investigación 
+y los contribuyentes de renta con las personas que realizan las investigaciones y desarrollos como tal, 
+con la finalidad de establecer la titularidad sobre los resultados que se puedan obtener de sus 
+investigaciones y así evitar posibles controversias. En la medida que las condiciones sobre la 
+titularidad entre las partes sean claras, se pueden establecer los mecanismos idóneos para 
+                                                           
+1 http://www.wipo.int/edocs/pubdocs/es/intproperty/450/wipo_pub_450.pdf 
+ 
+  
+8 
+ 
+potencializar el valor de las invenciones y demás creaciones al darles valor económico y llegar a 
+transferir sus conocimientos. 
+Al interior de las IES, de los centros de desarrollo tecnológico, de los centros de investigación y de las 
+empresas son varias las personas que intervienen en la ideación, desarrollo y consolidación de 
+productos, procedimientos o servicios que sean protegibles por la propiedad intelectual y sobre los 
+cuales, tanto las instituciones como las personas pueden llegar a tener derecho. 
+En una primera instancia son las personas naturales en las que se originan las creaciones y quienes 
+de manera independiente o asociadas con otras personas naturales o jurídicas pueden materializarlas. 
+Y es ante este escenario en el cual surgen las inquietudes sobre la titularidad de las creaciones y más 
+aún cuando estas personas naturales o jurídicas hacen parte de una IES, de un centro de desarrollo 
+tecnológico, de un centro de investigación o de una empresa 
+ 
+Delimitación de derechos de la propiedad intelectual 
+Es usual que se delegue en los investigadores, docentes, alumnos y empleados el desarrollo de 
+investigaciones que pueden llegar a tener como resultado activos que pueden ser protegibles por 
+mecanismos de propiedad intelectual. Caso en el cual es necesario determinar quién o quiénes serán 
+los titulares de la propiedad de esos activos, así como también las obligaciones que de ella se deriven. 
+Ello como consecuencia de la relación o vinculación entre quienes realizan el desarrollo y quienes 
+contratan para ello. 
+La limitación a los derechos de propiedad intelectual debe ser un tema de vital importancia tanto para 
+las IES como para las empresas dentro de sus políticas de funcionamiento, de tal manera que en ellas 
+se encuentren claros los parámetros bajo los que se deben mover los investigadores, docentes, 
+alumnos, empleados y empleadores. Es decir que es recomendable que existan acuerdos expresos 
+sobre la titularidad y cesión de los derechos de propiedad intelectual. 
+Es importante identificar los aspectos objetivos (objeto y título de protección) como los elementos 
+subjetivos (autores y titulares) asociados a la creación intelectual. En la siguiente tabla se podrá 
+observar los aspectos objetivos y las reglas aplicables sobre una creación. 2 
+Cuadro 1. Aspectos objetivos de la creación y reglas aplicables. 
+ 
+                                                           
+2 Guía Estrategia de Propiedad Intelectual Universidad Empresa.  Elaborada por TECNNOVA UEE. Medellín 2014. 
+  
+9 
+ 
+Tipo de creación 
+Reglas aplicables 
+Creaciones 
+ocasionales 
+El creador en Derecho de Autor, siempre que no haya 
+transferido la propiedad. 
+ 
+El primer solicitante, dependiendo del régimen específico de 
+protección (Propiedad Industrial, variedades vegetales, otro) 
+Creaciones en el 
+ámbito laboral o 
+de servicio 
+Titularidad del empleador o contratante:     
+ 
+• En cumplimiento del contrato laboral o de prestación de servicios. 
+• Desarrollada con conocimientos o recursos del empleador o 
+contratante. 
+Creaciones en 
+conjunto (dirigidas, 
+deliberadas) 
+Autonomía de la voluntad. 
+ 
+Sin acuerdo entre las partes: cotitularidad. 
+ 
+“Las creaciones espontáneas u ocasionales son aquellas realizadas por una persona natural que no 
+se encuentra en cumplimiento de un contrato laboral o de prestación de servicios, ni en el marco de 
+un ejercicio planificado de creación conjunta. En este caso, piénsese en un creador independiente que 
+expresa su ingenio en su taller o laboratorio personal, sin utilizar medios o recursos suministrados por 
+un empleador o contratante. Por regla general, el creador es el titular; sin embargo, debe prestar 
+atención al principio del primer solicitante, en aquellos supuestos en que el registro sea constitutivo 
+del derecho de PI. 
+Distinto ocurre con las creaciones en cumplimento de un contrato (escrito) de prestación de servicios 
+o de trabajo en donde la creación obedece a una obligación que surge de un acuerdo con obligaciones 
+determinadas, de un manual de funciones de cargo, o son realizadas utilizando recursos del empleador 
+o contratante. Dichas creaciones son de titularidad del empleador o contratante, en tanto sean 
+realizadas por el trabajador o contratista en el marco de las obligaciones contratadas y/o cuando se 
+elaboran con conocimientos o recursos del empleador o contratante. 
+Por su parte, las creaciones elaboradas en conjunto son aquellas realizadas por dos o más personas 
+naturales o jurídicas que unen esfuerzos para desarrollar una creación. En este ámbito pueden surgir 
+creaciones como resultado de un plan detallado de I+D, como consecuencia de una relación laboral o 
+de servicios o de manera espontánea u ocasional. 
+La regla general en creaciones elaboradas en conjunto es que la titularidad sea definida en virtud de 
+la autonomía de la voluntad. Ante la ausencia de esta definición se entiende que existe cotitularidad. 
+  
+10 
+ 
+Ahora bien, si la creación conjunta surge como resultado del cumplimiento de un contrato o laboral o 
+de servicios le serán aplicables las reglas expuestas para este tipo de creaciones.”3 
+En términos generales las políticas internas de las IES, centros de desarrollo tecnológico, centros de 
+investigación y empresas frente a la propiedad intelectual determinan cuando se está ante una 
+invención, su propiedad y los derechos derivados sobre ésta. Es usual que la propiedad sea 
+considerada de la IES, del centro de desarrollo tecnológico, del centro de investigación o de la empresa 
+en los siguientes casos, entre otros: 
+- 
+Si el inventor es empleado de la IES, centros de desarrollo tecnológico, centros de 
+investigación o de la empresa. 
+- 
+Existencia de acuerdos en los que se ceden los derechos. 
+- 
+Uso de los recursos de la IES, centros de desarrollo tecnológico, centros de investigación o 
+de la empresa. 
+Directrices para la delimitación de los derechos de propiedad intelectual  
+Dado que son varias las personas que intervienen en el desarrollo de un proyecto de investigación 
+científica, desarrollo tecnológico o de innovación, es recomendable que previo a la puesta en marcha 
+del mismo se deje claro cómo será la relación entre los actores frente a los resultados que de los 
+proyectos se llegasen a originar.  
+Definir o establecer reglas precisas de titularidad sobre los derechos de propiedad intelectual al interior 
+de las organizaciones, dependerá de las políticas internas de cada una de ellas. Es por lo anterior que 
+a continuación se ofrecen recomendaciones para la delimitación de los derechos de propiedad 
+intelectual derivados de proyectos de investigación científica, desarrollo tecnológico o de innovación. 
+Las directrices que se indican a continuación se constituyen en recomendaciones que se deben aplicar 
+dentro del marco normativo del país en materia de propiedad intelectual.   
+- 
+Tener lineamientos claros sobre la delimitación de los derechos de la propiedad intelectual 
+previos al inicio del desarrollo de proyecto de investigación. 
+- 
+Asesoría y acompañamiento legal: Según el tipo de derecho de propiedad intelectual que se 
+quiera proteger, es importante determinar la normatividad aplicable, tanto en el escenario 
+nacional como en el internacional. Es por ello que es importante contar con expertos legales 
+                                                           
+3 Guía Estrategia de Propiedad Intelectual Universidad Empresa.  Elaborada por TECNNOVA UEE. Medellín 2014. 
+  
+11 
+ 
+en este tema, bien sea para solicitar la protección de los resultados de los desarrollos como 
+para delimitar la titularidad sobre sus derechos. 
+- 
+Acuerdos escritos. La celebración de un acuerdo, manifestado mediante un escrito en el cual 
+se establezca con claridad la titular de los derechos de propiedad intelectual, entre las 
+personas intervinientes en el desarrollo de un proyecto de investigación con resultados 
+protegibles. Así como también la forma en que se puedan transferir sus derechos y los 
+porcentajes de ganancias por la comercialización de la creación. Es recomendable incluir, si 
+es del caso, acuerdos en los que las partes desarrolladoras se comprometan a no realizar 
+acciones de competencia desleal en contra de la organización para la cual están prestando 
+sus servicios. 
+- 
+Directrices claras sobre la realización de mejoras, modificaciones a la creación y la protección 
+de las mismas.  Es importante determinar quién tendrá la titularidad sobre las creaciones que 
+se originen a partir de las que se dieron dentro del desarrollo del proyecto inicialmente 
+convenido. 
+- 
+Establecimiento de acuerdos de confidencialidad entre las personas intervinientes en el 
+desarrollo del proyecto. 
+- 
+Políticas y/o directrices sobre la forma de actuar del investigador, docente o empleado 
+respecto de las invenciones. Es decir la manera en que deben actuar para informar sobre la 
+concreción de una invención, su confidencialidad, el trámite para su protección ante las 
+oficinas nacionales competentes y los porcentajes de ganancias por la comercialización.  
+ 
+Roles de los participantes en un proyecto de CTI 
+El documento de Tipología de Proyectos calificados como de carácter científico, tecnológico e 
+innovación establece los roles de los participantes en los proyecto de CTI y los cuales deben tener 
+claridad sobre su participación frente a los derechos de propiedad intelectual que pudieran 
+desprenderse de los resultados obtenidos. 
+Como se ha mencionado a lo largo de este documento, la titularidad de los derechos de propiedad 
+intelectual está en cabeza de quien realizó la creación cuando esta se llevó a cabo de manera 
+independiente, en cabeza del contratante cuando se trata de una obra o creación por encargo, o en 
+conjunto con otras personas naturales o jurídicas cuando se trata de un acuerdo de colaboración. En 
+caso de ser independiente la titularidad sobre los derechos serán totales y autónomos, y en caso de 
+ser en compañía con otro individuo, la titularidad será de estos como dueños legítimos de la creación, 
+caso en el cual se está ante la cotitularidad de derechos.  
+  
+12 
+ 
+En el caso que el creador desee compartir la titularidad con una persona jurídica, bien sea una IES, 
+centros de desarrollo tecnológico, centros de investigación o empresa, este deberá manifestarlo 
+mediante un acto legal y así gozar de la titularidad compartida. Generalmente, puede emplearse un 
+contrato de cesión de derechos, en donde el creador cede parcial o totalmente la titularidad de la 
+invención. 
+A continuación se relacionarán los roles con su definición y su eventual participación sobre los 
+derechos de propiedad intelectual que resulten del proceso de investigación.  
+ 
+Cuadro 2. Roles de los intervinientes y participación en derechos de propiedad intelectual. 
+1. LAS ENTIDADES QUE PARTICIPAN * 
+Descripción del rol 
+Derechos de 
+propiedad intelectual 
+Ejecutor:  
+Toda empresa, institución pública o privada, que técnica y 
+financieramente es la responsable de llevar a cabo el cumplimiento de 
+los objetivos y resultados planteados para el proyecto de CT+I. 
+Si 
+Co-ejecutor:  
+Toda empresa, institución pública o privada, que participa en forma 
+directa en el cumplimiento de los objetivos y resultados planteados para 
+el proyecto de CT+I, bajo la coordinación directa o indirecta del ejecutor, 
+mediante aportes de contrapartida definidos contractualmente. 
+Si 
+Supervisor técnico:  
+Persona natural o jurídica que ejerce una actividad técnica especializada, 
+y tiene como fin fundamental, orientar, apoyar y asegurar el cumplimiento 
+de los compromisos científicos, técnicos y  presupuestales durante todo 
+el ciclo de vida del proyecto de CT+I. Todo supervisor debe contar con 
+el reconocimiento de Colciencias como investigador, grupo o centro, con 
+experticia en el área temática del desarrollo del proyecto 
+No 
+2. EL PERSONAL QUE REALIZA ACTIVADES DIRECTAS DE CT+I 
+Descripción del rol 
+Derechos de 
+propiedad intelectual 
+  
+13 
+ 
+Personal del proyecto: Son las personas que trabajan directamente en 
+la concepción o creación de nuevos conocimientos, productos, procesos, 
+servicios, métodos y sistemas. 
+Depende del Tipo de 
+Contrato 
+2.1. PERSONAL CIENTÍFICO 
+Investigador principal: Es el director o líder del ciclo de vida del 
+proyecto. Desarrolla directamente actividades de planificación y gestión 
+de los aspectos científicos y técnicos del trabajo de los co-
+investigadores, entre sus labores principales se encuentran la 
+formulación, la ejecución y la coordinación técnica para el desarrollo de 
+los objetivos y logro de los resultados propuestos. Tiene la capacidad 
+técnica y la experticia acreditada en el área   temática del proyecto a 
+desarrollar. Para efectos de los proyectos de desarrollo de software, se 
+entenderá como investigador principal quien sea el responsable del ciclo 
+de vida del software. 
+Depende del Tipo de 
+Contrato 
+Co-investigador: Experto temático que contribuye y apoya técnica y 
+operativamente las actividades de CT+I durante el ciclo de vida del 
+proyecto. Participa directamente desde su campo de experticia. Se 
+incluye en esta categoría a los estudiantes de doctorado que están 
+vinculados directamente con la ejecución del proyecto. 
+Depende del Tipo de 
+Contrato 
+Desarrollador de software: Persona que por su formación y experiencia 
+participa activamente en uno o más aspectos de una o varias etapas del 
+ciclo de desarrollo del software y apoya técnica y operativamente las 
+actividades del proyecto a ejecutar.  
+Depende del Tipo de 
+Contrato 
+Asesor: Consultor u orientador de carácter externo a las entidades 
+participantes, experto en el tema, y cuyos servicios son contratados dada 
+su experticia en la temática del proyecto de CT+I. Sus aportes son 
+requeridos para el desarrollo del proyecto, por lo tanto se deben 
+identificar claramente los entregables específicos de su asesoría 
+No 
+2.2. PERSONAL DE APOYO 
+Descripción del rol 
+Derechos de 
+propiedad intelectual 
+  
+14 
+ 
+Son las personas que realizan tareas de CT+I que requieren la aplicación 
+de conceptos y métodos operativos, generalmente bajo la supervisión 
+del personal científico. Se incluyen en esta categoría a los auxiliares de 
+investigación, el personal de campo, el personal de apoyo en laboratorio, 
+operarios, técnicos, y estudiantes en general. 
+ 
+Sus tareas incluyen: 
+ 
+- 
+Realizar búsquedas bibliográficas y seleccionar material e 
+información relevante en archivos y bibliotecas. 
+- 
+Desarrollar programas informáticos. 
+- 
+Realizar experimentos, pruebas y análisis. 
+- 
+Preparar los materiales y el equipo necesarios para la realización 
+de experimentos, pruebas y análisis. 
+- 
+Anotar los datos, hacer cálculos y preparar tablas y gráficos 
+relacionados con el proyecto. 
+- 
+Llevar a cabo encuestas estadísticas y entrevistas necesarias para 
+el proyecto. 
+No 
+ 
+En principio el personal 
+de apoyo no tendrá 
+derechos 
+sobre 
+los 
+resultados 
+de 
+los 
+proyectos susceptibles 
+de ser protegidos por 
+medio de la propiedad 
+intelectual, 
+salvo 
+el 
+desarrollador 
+de 
+programas informáticos 
+dependiendo del tipo de 
+contrato que tenga. 
+* Es importante consultar periódicamente el documento de tipología de proyectos calificados como de carácter científico, tecnológico e innovación, 
+disponible en www.colciencias.gov.co, en la medida que éste puede ser actualizado.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+15 
+ 
+ 
+Capítulo 2. 
+ 
+Lineamientos para la elaboración del contenido del estatuto o reglamento de 
+propiedad intelectual 
+ 
+ 
+Si bien ya se conoce la importancia de la protección de la propiedad intelectual y de sus beneficios, 
+es importante gestionar internamente en las IES, en los centros de desarrollo tecnológico, en los 
+centros de investigación y en las empresas, la propiedad intelectual a través de la implementación de 
+parámetros aplicables a todos los procesos de protección en los que se vea involucrada cualquier de 
+estas. De ahí que crear e implementar estatutos o reglamentos garantiza un posterior proceso de 
+negociación claro y conforme a los parámetros establecidos incluso desde el inicio de la investigación, 
+que evitará posibles  inconvenientes para los intervinientes que puedan bloquear el circulo virtuoso 
+que debe darse en el proceso de producción de un resultado susceptible de protección vía propiedad 
+intelectual. 
+El contenido de un estatuto o reglamento de propiedad intelectual debe estar enfocado en la aclaración 
+de puntos claves que impidan que el proceso de protección se vea afectado por el desconocimiento 
+de conceptos o procedimientos importantes. Es por esto que establecer su objeto, principios en los 
+que se fundamenta un buen proceso de protección, la participación, definición de responsabilidades 
+de los intervinientes y definición de la titularidad de los derechos, entre otros, es clave para garantizar 
+un proceso transparente y de conocimiento en todo momento que soportará un proceso eficaz y 
+alineado a los intereses del proyecto y las partes.  
+Si se enlistan algunos elementos importantes del estatuto o reglamento anteriormente mencionados, 
+se podría iniciar de la siguiente manera: 
+ 
+Objeto: 
+El estatuto o reglamento especificará la información que sea útil para los intervinientes ya que este 
+documento será la guía que tendrá la institución para regular las relaciones que en materia de 
+propiedad intelectual puedan verse inmersos y sea necesaria para la regulación que establezca el 
+alcance de su intervención y beneficio, es decir, definirá cuál es el procedimiento a seguir en cada 
+caso o los parámetros aplicables dependiendo el tipo de protección que se pretenda realizar. Este a 
+  
+16 
+ 
+su vez puede recoger el alcance de los derechos que se pretenden proteger a través de la propiedad 
+intelectual, entendiendo su necesidad de protección, beneficios, procedimientos y restricciones 
+dependiendo el caso, dinamizando de esta manera las relaciones de las IES, centros de desarrollo 
+tecnológico, centros de investigación y empresas con sus empleados e investigadores con otras 
+instituciones de educación, con el sector productivo y el gobierno nacional, con el fin de adelantar el 
+trabajo en el marco de unos lineamientos claros con respecto al manejo en cualquier momento o 
+situación de la propiedad intelectual que fortalecerá el proceso y evitar que en etapas posteriores se 
+presenten circunstancias que puedan interrumpir, bloquear o finalizar el desarrollo que se adelanta 
+por la falta de claridad en estos aspectos.   
+ 
+Principios: 
+Teniendo en cuenta que el presente documento es una guía para las IES, centros de desarrollo 
+tecnológico, centros de investigación y empresas, éstos pueden acoger entre otros los siguientes 
+principios que orienten un adecuado manejo de la información, un proceso transparente y sano para 
+los intervinientes y dentro del marco de la ley. No existe expresamente un orden de importancia o 
+prioridad en los siguientes principios teniendo en cuenta que se espera que su observancia sea 
+permanente y permee cada proceso en el que se requiera su aplicación.  
+Protección jurídica. 
+Las instituciones de educación superior son autónomas de proteger los derechos de 
+Propiedad intelectual que consideren prioritarios y necesarios de acuerdo con sus intereses, 
+los del proyecto y los intervinientes.  
+Representación. 
+La institución de educación superior es libre de designar quién y en qué términos realizará en 
+su representación una exposición sobre cualquiera de los resultados por ella obtenidos que 
+hayan sido protegidos vía propiedad intelectual, siempre que con esta exposición no se hagan 
+evidentes consideraciones netamente personales, sino que reflejen el pensamiento y misión 
+que llevó a la institución a desarrollar y proteger dicho resultado.   
+Aprobación de contenidos. 
+La protección vía propiedad intelectual de cualquiera de los resultados seleccionados por las 
+IES, centros de desarrollo tecnológico, centros de investigación y empresas cuentan con la 
+aprobación necesaria para que se considere que lo plasmado en cualquier documento 
+relacionado con dicha protección es avalado en su totalidad por la institución ya que su 
+  
+17 
+ 
+proceso involucró una participación, revisión y aprobación por parte de la misma, es decir, 
+estas publicaciones reflejan el pensamiento de la institución y demuestran la intención de la 
+misma para adelantar tanto su investigación como la protección del resultado de su trabajo.  
+Publicidad. 
+Entendiendo que las IES, centros de desarrollo tecnológico, centros de investigación y 
+empresas son totalmente respetuosos del derecho de expresión que tienen los docentes, 
+investigadores y colaboradores de un proceso de investigación que deriva en un proceso de 
+protección vía propiedad intelectual; se reservan el derecho de aprobar el contenido de algún 
+documento relacionado con estos procesos, si en estos no se ve reflejado más que la opinión 
+de sus autores y los mismos no están totalmente alineadas con la misión, visión y pensamiento 
+de la institución, aunque siempre en el marco del respeto y responsabilidad que se deben 
+mutuamente y para con el lector. En estos casos las IES, centros de desarrollo tecnológico, 
+centros de investigación y empresas tienen la facultad de decidir si autorizan la publicación en 
+alguna de sus ediciones internas o externas con sus emblemas, logos, marcas y demás, o 
+concertará los términos de su autorización.   
+Confidencialidad. 
+Cualquier interviniente de un proceso de investigación y de protección del resultado de algún 
+proyecto, sin importar su calidad está en la obligación de mantener como confidencial 
+cualquier información relacionada con estos y para ello se tendrá en cuenta su relación 
+contractual con las IES, centros de desarrollo tecnológico, centros de investigación o 
+empresas. En caso que la persona que llegará a involucrarse por cualquier circunstancia con 
+el proyecto no contare con la relación contractual que garantice la reserva que debe mantener 
+para con la información que conociere del proceso, ésta y la universidad, IES, centros de 
+desarrollo tecnológico, centros de investigación o la empresa suscribirán acuerdos de 
+confidencialidad que soportaren la manipulación y uso de la información. En todo caso el 
+manejo y uso de la información solamente estará enfocado en el desarrollo del proceso para 
+el que fuere involucrado y no de manera personal, ni en beneficio de terceros. Es obligación 
+de la institución garantizar que el interviniente no conocerá la información antes de aclarar o 
+establecer la relación contractual, o antes de realizar la suscripción del acuerdo.  
+Presunción de buena fe. 
+Las IES, los centros de desarrollo tecnológico, los centros de investigación y las empresas se 
+acogen a la presunción de buena fe consagrada en la Constitución Política de Colombia, en 
+lo relacionado con la producción intelectual que resulte del proceso de investigación que 
+adelanten sus empleados, colaboradores, investigadores y demás intervinientes de dicho 
+  
+18 
+ 
+proceso, siempre que se presumirá que esa producción le corresponde a ellos, por lo que no 
+se han vulnerado derechos de propiedad intelectual de otras personas. Si se llegare a 
+presentar el caso, la IES, el centro de desarrollo tecnológico, el centro de investigación y/o la 
+empresa adelantarán las acciones pertinentes que la ley dispone para que el infractor del 
+derecho asuma su responsabilidad, resarza el daño y excluya a la universidad, la IES, al centro 
+de desarrollo tecnológico, al centro de investigación o a la empresa de cualquier carga por 
+esa infracción.   
+Aplicación normativa nacional.   
+En todo caso los lineamientos que hagan parte del estatuto o reglamento de propiedad 
+intelectual, se entenderán subordinados al imperio de las leyes nacionales que rijan la materia. 
+Para todos sus efectos consultar el Anexo 3. 
+Favorabilidad.  
+Si se presentare duda alguna al interpretar el estatuto o reglamento de propiedad intelectual, 
+el contrato o el acuerdo de confidencialidad al interior de la IES, del centro de desarrollo 
+tecnológico, del centro de investigación o la empresa, se aplicará la norma o lineamiento más 
+favorable a quien produjere el derecho de propiedad intelectual.  
+ 
+Titularidad: 
+Entre las garantías necesarias para un adecuado manejo del tema de propiedad intelectual entre los 
+intervinientes del proceso de investigación y de protección, es muy importante conocer previamente 
+quien será el titular de los derechos de propiedad intelectual que se protejan al concluir dichos 
+procesos, ya que su definición al iniciar la etapa de incorporación de tales intervinientes reducirá en 
+gran medida los posibles inconvenientes que puedan presentarse en las etapas posteriores. Es 
+pertinente aclarar que sobre las creaciones el titular goza de derechos patrimoniales y morales, siendo 
+los patrimoniales transferibles, en tanto que los morales siempre estarán en cabeza de éste.  
+Por lo anterior, se propone poner en práctica las siguientes distinciones de acuerdo con el tipo de 
+relación contractual que exista entre la IES, el centro de desarrollo tecnológico, el centro de 
+investigación y/o la empresa y la persona que produzca el resultado susceptible de protección vía 
+propiedad intelectual, no sin antes hablar de los derechos y obligaciones que tienen tanto la IES, el 
+centro de desarrollo tecnológico, el centro de investigación y/o la empresa como los intervinientes, así:  
+Por parte de los intervinientes: 
+  
+19 
+ 
+1. Notificar en cualquier momento a la IES, el centro de desarrollo tecnológico, el centro de 
+investigación y/o la empresa la creación.  
+2. Guardar total discreción sobre la información relacionada con la creación, hasta que se 
+concluya el proceso de protección por cualquiera de las modalidades de propiedad 
+intelectual.  
+3. Prestar el acompañamiento que requiera la institución durante el proceso de decisión de 
+la modalidad de protección y durante el proceso mismo de protección.  
+4. Abstenerse de omitir información importante sobre la creación en cualquier momento, 
+sobre todo durante el proceso de protección.  
+5. Evitar en cualquier momento algún tipo de declaración y/o acción que esté en contra vía 
+de la creación y del derecho que pretende hacerse valer a través de su protección.  
+Por parte de la IES, el centro de desarrollo tecnológico, el centro de investigación y/o la empresa: 
+1. En caso de ser necesario brindar a los intervinientes los mecanismos de apoyo y protección 
+a la labor investigativa que adelanten.  
+2. Generar los mecanismos necesarios para cumplir con las disposiciones de los estatutos o 
+reglamento de propiedad intelectual. 
+3. Reconocer los derechos morales de los autores o inventores. 
+4. Crear los mecanismos estratégicos de explotación de cada creación protegida, con el fin 
+de aprovechar en cada aspecto relevante los resultados de la investigación adelantada.  
+5. Conceder los beneficios establecidos en los estatutos o reglamento de propiedad 
+intelectual a los intervinientes.   
+Distinciones de acuerdo con el tipo de relación contractual: 
+a. Producción derivada de los docentes. 
+ Derechos de propiedad industrial: 
+La titularidad de los derechos de propiedad industrial, específicamente sobre las 
+invenciones, de acuerdo con lo establecido en la Decisión 486 de 2000 podrán 
+definirse conforme los siguientes artículos: 
+Artículo 22.- El derecho a la patente pertenece al inventor. Este derecho podrá ser 
+transferido por acto entre vivos o por vía sucesoria. Los titulares de las patentes 
+  
+20 
+ 
+podrán ser personas naturales o jurídicas. Si varias personas hicieran conjuntamente 
+una invención, el derecho a la patente corresponde en común a todas ellas. Si varias 
+personas hicieran la misma invención, independientemente unas de otras, la patente 
+se concederá a aquella o a su causahabiente que primero presente la solicitud 
+correspondiente o que invoque la prioridad de fecha más antigua.  
+Artículo 23.- Sin perjuicio de lo establecido en la legislación nacional de cada País 
+Miembro, en las invenciones ocurridas bajo relación laboral, el empleador, cualquiera 
+que sea su forma y naturaleza, podrá ceder parte de los beneficios económicos de las 
+invenciones en beneficio de los empleados inventores, para estimular la actividad de 
+investigación. Las entidades que reciban financiamiento estatal para sus 
+investigaciones deberán reinvertir parte de las regalías que reciben por la 
+comercialización de tales invenciones, con el propósito de generar fondos continuos 
+de investigación y estimular a los investigadores, haciéndolos partícipes de los 
+rendimientos de las innovaciones, de acuerdo con la legislación de cada País 
+Miembro.  
+Artículo 24.- El inventor tendrá derecho a ser mencionado como tal en la patente y 
+podrá igualmente oponerse a esta mención. 
+ 
+ Obtención de variedades vegetales: 
+Conforme el numeral 14 del capítulo II de la Decisión 345 de 1993, se establece que 
+los titulares de los certificados de obtentor podrán ser personas naturales o jurídicas. 
+El certificado pertenece al obtentor de la variedad o a quien se la haya transferido 
+lícitamente.  
+El obtentor podrá reivindicar su derecho ante la autoridad nacional competente, si el 
+certificado fuese otorgado a una persona a quien no corresponde su concesión. 
+ 
+ Derechos de autor: 
+De acuerdo con el artículo 91 de la Ley 23 de 1982, “los derechos de autor sobre las 
+obras creadas por empleados o funcionarios públicos, en cumplimiento de las 
+obligaciones constitucionales y legales de su cargo, serán de propiedad de la entidad 
+pública correspondiente. 
+ 
+  
+21 
+ 
+Se exceptúan de esta disposición las lecciones o conferencias de los profesores. 
+Los derechos morales serán ejercidos por los autores, en cuanto su ejercicio no sea 
+incompatible con los derechos y obligaciones de las entidades públicas afectadas”.  
+Por otra parte el artículo 28 de la Ley 1450 de 2011, establece que “en las obras 
+creadas para una persona natural o jurídica en cumplimento de un contrato de 
+prestación de servicios o de un contrato de trabajo, el autor es el titular originario de 
+los derechos patrimoniales y morales; pero se presume, salvo pacto en contrario, que 
+los derechos patrimoniales sobre la obra han sido transferidos al encargante o al 
+empleador, según sea el caso, en la medida necesaria para el ejercicio de sus 
+actividades habituales en la época de creación de la obra. Para que opere esta 
+presunción se requiere que el contrato conste por escrito. El titular de las obras de 
+acuerdo a este artículo podrá intentar directamente o por intermedia persona acciones 
+preservativas contra actos violatorios de los derechos morales informando 
+previamente al autor o autores para evitar duplicidad de acciones”. 
+ 
+b. Producción derivada de los estudiantes. 
+Si el estudiante adelantará la investigación académica por sus propios medios y solo 
+necesitare la asesoría de un docente de la institución educativa, tanto los derechos 
+morales como patrimoniales le pertenecerán sobre la creación protegida.  
+Si el estudiante participará en el desarrollo de alguna investigación apoyada por la 
+institución y cumple con los factores del Anexo 2 del presente documento entrará al 
+proceso como interviniente y suscribirá contrato o acuerdo de confidencialidad 
+dependiendo el caso, siempre cumpliendo con los parámetros que la institución 
+establezca para su participación.  
+En el caso que se presenten creaciones por parte de docentes, investigadores y/o estudiantes en sus 
+espacios libres, es decir, sean creados o desarrollados de manera independiente y no estén ligados 
+al cumplimiento de sus obligaciones contractuales, corresponderán a estos los derechos tanto morales 
+como patrimoniales. De igual manera, los derechos morales y patrimoniales de las obras creadas con 
+motivo de su experiencia o especialidad en su campo de estudio y que su creación tampoco esté 
+establecida dentro de sus obligaciones contractuales, serán de su creador. En cualquiera de estos 
+casos se solicitará permiso escrito y con el lleno de los requisitos legales a los creadores en caso de 
+querer publicar o reproducir total o parcialmente las creaciones de los docentes. Por otra parte, el 
+contrato debe establecer claramente el alcance de sus obligaciones a fin de identificar a quien 
+corresponde la creación, en los demás casos será tenida en cuenta la normatividad que regule el tema.  
+  
+22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anexo 1. 
+Acuerdo de propiedad intelectual y de confidencialidad entre la institución de 
+educación superior – IES y la entidad ejecutora. 
+ 
+En el presente documento se establecen recomendaciones de los temas que podrán ser adaptadas 
+de acuerdo con las necesidades de las organizaciones conforme a sus políticas internas. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+23 
+ 
+ 
+ 
+ 
+ 
+ACUERDO DE PROPIEDAD INTELECTUAL Y DE CONFIDENCIALIDAD ENTRE LA 
+UNIVERSIDAD, INSTITUCIÓN DE EDUCACIÓN SUPERIOR – IES Y ENTIDAD EJECUTORA 
+PROYECTO “___________________” 
+ 
+Entre los suscritos a saber: _______________________, mayor de edad, residente y domiciliado en 
+__________, identificado con cédula de ciudadanía No. _________________ de ________________, 
+en calidad de _________________, actuando, en nombre y representación de __________________, 
+quien en adelante se denominara UNIVERSIDAD o INSTITUCIÓN DE EDUCACIÓN SUPERIOR – 
+IES, y de otra parte, _____________________ mayor de edad, residente y domiciliado en 
+__________________, identificado con cédula de ciudadanía No. _________________ de 
+________________, en calidad de _________________,  actuando en nombre y representación de 
+__________________, quien en adelante se denominará ENTIDAD EJECUTORA, hemos acordado 
+suscribir el presente acuerdo de propiedad intelectual y de confidencialidad sobre los resultados que 
+se deriven de la ejecución del proyecto de investigación científica, desarrollo tecnológico o innovación 
+_________________, en adelante EL PROYECTO, el cuál ha sido  presentado por el ENTIDAD 
+EJECUTORA a COLCIENCIAS a través de investigadores, grupos o centros de investigación, 
+desarrollo tecnológico reconocidos por COLCIENCIAS y cuya inversión o donación se realizará en el 
+año 2016.  
+Lo anterior previas las siguientes consideraciones:  
+1. Que la Ley 29 de 1990 “por la cual se dictan disposiciones para el fomento de la investigación 
+científica y el desarrollo tecnológico y se otorgan facultades extraordinarias”, en su artículo 1 
+estableció: “corresponde al Estado promover y orientar el adelanto científico y tecnológico y por lo 
+mismo, está obligado a incorporar la ciencia y tecnología a los planes y programas de desarrollo 
+económico y social del país y a formular planes de ciencia y tecnología tanto para el mediano como 
+para el largo plazo. Así mismo, deberá establecer los mecanismos de relación entre sus actividades  
+de  desarrollo científico  y tecnológico  y  las  que,  en  los  mismos  campos, adelanten  la universidad, 
+la comunidad científica y el sector privado colombianos”. 2. Que la ley citada anteriormente otorgó 
+facultades extraordinarias al Gobierno Colombiano, contemplando en el artículo 11 numeral 2 lo 
+siguiente: “dictar las normas a que deben sujetarse la Nación y sus entidades descentralizadas para 
+asociarse con particulares en actividades científicas y tecnológicas, proyectos de investigación y 
+creación de tecnologías” y en el numeral 4° “regular las modalidades específicas de contratos de 
+fomento de actividades científicas y tecnológicas”. Haciendo uso de dichas facultades extraordinarias, 
+el Gobierno expidió el Decreto Ley 393 de 1991 “Por el cual se dictan normas sobre asociación para 
+actividades científicas y tecnológicas, proyectos de investigación y creación de tecnologías”, y el 
+  
+24 
+ 
+Decreto Ley 591 de ese mismo año, “por el cual se regulan las modalidades específicas de contratos 
+de fomento de actividades científicas y tecnológicas” 3. Que se promulgó la Ley 80 de 1993 y en su 
+artículo 32 definió los contratos estatales como: “todos los actos jurídicos generadores de obligaciones 
+que celebren las entidades a que se refiere el presente estatuto, previstos en el derecho privado o en 
+disposiciones especiales,  o  derivados  del  ejercicio  de  la  autonomía  de  la  voluntad …” 4. Que el 
+Congreso de la República expidió la Ley 1286 de 2009, por la cual “se modifica la ley 29 de 1990, se 
+transforma a Colciencias en Departamento Administrativo de Ciencia, Tecnología e Innovación, se 
+fortalece el Sistema Nacional de Ciencia, Tecnología e Innovación en Colombia y se dictan otras 
+disposiciones”; Así mismo el primer inciso del artículo 33, dispuso: “Artículo 33.- Las actividades, 
+contratos y convenios que tengan por objeto la realización de actividades definidas como de ciencia, 
+tecnología e innovación que celebren las entidades estatales, continuarán rigiéndose por las normas 
+especiales que les sean aplicables. En consecuencia tales contratos se celebrarán directamente…” 5. 
+Que en concordancia a lo expuesto previamente se concluye que los contratos que se celebren con 
+el objeto de fomentar la ciencia, tecnología e innovación, se encuentran regulados por los Decretos-
+Leyes 393 y 591 de 1991, estando de igual forma sujetos a la ley 80 de 1993 en todo lo no 
+reglamentado por aquellas normas con fuerza legal. 6. Que de acuerdo   con   la   Ley   1286   de   
+2009   el   Departamento   Administrativo   de   Ciencia, Tecnología  e  Innovación  –  Colciencias,  es  
+la  entidad  rectora  del  Sistema  Nacional  de Ciencia, Tecnología e Innovación-SNCTeI, encargada 
+de dirigir, articular y fomentar el desarrollo científico, tecnológico y la innovación en el país. En el 
+cumplimiento de su misión y mandato legal, promueve   la   generación   y   transferencia   de   
+conocimiento   científico,   desarrollo   tecnológico   e innovaciones que permitan, por un lado, 
+consolidar una comunidad científica en las distintas áreas del conocimiento, y al mismo tiempo, 
+contribuir al desarrollo económico y social del país. 7. Que el artículo 10 de la ley 1753 de 2015, 
+estableció: “artículo 10. Derechos de propiedad intelectual de proyectos de investigación y desarrollo 
+financiados con recursos públicos. En los casos de proyectos de investigación y desarrollo de ciencia, 
+tecnología e innovación y de tecnologías de la información y las comunicaciones, adelantados con 
+recursos públicos, el Estado podrá ceder a título gratuito, salvo por motivos de seguridad y defensa 
+nacional, los derechos de propiedad intelectual que le correspondan, y autorizará su transferencia, 
+comercialización y explotación a quien adelante y ejecute el proyecto, sin que ello constituya daño 
+patrimonial al Estado. Las condiciones de esta cesión serán fijadas en el respectivo contrato y en todo 
+caso el Estado se reserva el derecho de obtener una licencia no exclusiva y gratuita de estos derechos 
+de propiedad intelectual por motivos de interés nacional” 8. Que la propiedad intelectual se refiere a 
+las creaciones derivadas del intelecto humano en los terrenos industrial, científico, literario y artístico, 
+implicando para su titular la necesidad de conocer y comprender las normas que rigen su creación, 
+mantenimiento, defensa y extinción, con el fin de resguardar uno de los activos más valiosos que 
+puede llegar a poseer una persona natural o jurídica. 9. Que la Propiedad Intelectual se divide en dos 
+categorías: a) La propiedad industrial que es el derecho exclusivo del que goza una persona física o 
+jurídica sobre una invención, un diseño industrial o un signo distintivo. Así mismo la propiedad 
+industrial se divide en dos ramas, la primera se refiere a las Nuevas Creaciones que abarcan las 
+patentes de invención, patentes de modelo de utilidad, los diseños industriales, los esquemas de 
+trazado de circuito integrados y la segunda se refiere a los Signos Distintivos que abarcan las marcas, 
+los lemas comerciales, los nombres comerciales, las enseñas comerciales y las denominaciones de 
+origen. b) El derecho de autor que es un conjunto de normas encauzadas a proteger a los autores y a 
+los titulares de obras artísticas, científicas y literarias, concediéndoles a éstos la facultad de controlar 
+  
+25 
+ 
+todo lo relativo al uso o explotación de su obra, cualquiera sea su destinación y el modo o forma en 
+que se exprese. Así, el derecho de autor protege: Libros, folletos y escritos, conferencias, alocuciones, 
+sermones y otras obras de la misma naturaleza, obras musicales, dramáticas, coreografías, 
+pantomimas, composiciones musicales con letra o sin ella, obras cinematográficas, videogramas, 
+obras de dibujo, pintura, arquitectura, escultura, grabado, litografía, obras fotográficas, obras de arte 
+aplicado, ilustraciones, mapas, planos, croquis, obras plásticas relativas a la geografía, a la topografía, 
+a la arquitectura o a las ciencias, programas de computador, bases de datos y creaciones multimedia, 
+en fin, toda producción en el ámbito literario o artístico que pueda reproducirse o definirse por cualquier 
+forma de impresión o reproducción, por fonografía, radiotelefonía o cualquier otro medio conocido o 
+por conocer, entre otras. 10. Que se torna de gran importancia conocer el contenido de las categorías 
+de los derechos de propiedad intelectual, es decir los derechos de autor y los de propiedad industrial, 
+en donde el derecho de autor contiene derechos morales y patrimoniales; en cuanto a los primeros se 
+tiene que son derechos personalísimos, salvaguardan el vínculo que se genera entre el autor y su 
+obra; son perpetuos, inalienables, inembargables, intransferibles e irrenunciables, no pueden ser 
+vendidos ni transferidos. Las facultades que otorgan los derechos morales sobre una obra son: 
+Derecho a la paternidad, derecho a retirar la obra o al arrepentimiento, derecho a la integridad, derecho 
+a conservar la obra inédita, derecho a modificarla. Respecto de los segundos, es decir los derechos 
+patrimoniales, son aquellos que le permiten al autor, o a cualquier otra persona natural o jurídica que 
+haya adquirido los derechos de autor, un control sobre su obra y beneficiarse en términos económicos 
+por permitir su utilización. El titular de los derechos patrimoniales tiene la exclusividad de autorizar o 
+de prohibir conductas como: reproducción, traducción, adaptación, modificación, publicación por 
+cualquier medio y distribución de la obra. En lo que concierne a la propiedad industrial, ésta contiene 
+derechos de carácter estrictamente patrimonial ejerciendo el derecho real de propiedad, esto es el 
+uso, goce y disposición con exclusividad sobre terceros. Por lo anterior, el titular gozara de la facultad 
+de explotar directamente o por intermedio de terceros, mediante la celebración de acuerdos de licencia 
+de uso. Teniendo en cuenta las anteriores consideraciones, LAS PARTES, acuerdan establecer las 
+siguientes clausulas:  
+CLÁUSULA PRIMERA.  PROPIEDAD INTELECTUAL.  LAS PARTES acuerdan que la Propiedad 
+Intelectual que se derive del desarrollo del PROYECTO de que trata este acuerdo, según lo acordado 
+por las partes y de mutuo acuerdo, sí la propuesta es seleccionada dentro de LA CONVOCATORIA 
+para ser apoyada y financiada, se regirá por lo aquí estipulado y por las leyes vigentes en lo 
+concerniente a este tema. 
+1. Titularidad de los Derechos Morales. La titularidad de los derechos morales que se deriven de 
+los resultados obtenidos dentro del desarrollo del PROYECTO corresponderán a cada uno de 
+los autores e inventores intervinientes y vinculados a LAS PARTES de acuerdo con lo 
+establecido por la ley.   
+2. Derechos Patrimoniales. La titularidad de los derechos patrimoniales sobre los artículos 
+científicos, papers, ponencias, conocimientos, productos, resultados y tecnologías que se 
+obtengan o se pudieran obtener en desarrollo del PROYECTO, pertenecerán a la ENTIDAD 
+EJECUTORA debido a la cesión que hace COLCIENCIAS respecto de la transferencia, 
+comercialización y  explotación de los derechos de propiedad intelectual, salvo que existan 
+  
+26 
+ 
+motivos de seguridad y defensa nacional o en los demás casos previstos en la ley que 
+impidieran dicha cesión.  
+Si es del caso, las partes ejecutoras participantes del proyecto definirán entre ellas la 
+titularidad de los derechos de propiedad intelectual que se generen en la ejecución del 
+proyecto financiado con recursos del presupuesto nacional. 
+3. Derechos de Propiedad Industrial. La titularidad sobre patentes de invención, patentes de 
+modelo de utilidad, diseños industriales, esquemas de trazado de circuitos integrados, marcas, 
+lemas comerciales, nombres comerciales, enseñas comerciales, denominaciones de origen y 
+demás creaciones susceptibles de ser protegidas por la propiedad industrial que se deriven 
+del desarrollo del proyecto, pertenecerán al ENTIDAD EJECUTORA debido a la cesión, que 
+hace COLCIENCIAS respecto de la transferencia, comercialización y  explotación de los 
+derechos de propiedad industrial, salvo que existan motivos de seguridad y defensa nacional 
+o en los demás casos previstos en la ley que impidieran dicha cesión. 
+Si es del caso, las partes ejecutoras participantes del proyecto definirán entre ellas la 
+titularidad de los derechos de propiedad intelectual que se generen en la ejecución del 
+proyecto financiado con recursos del presupuesto nacional. 
+CLÁUSULA SEGUNDA.  PUBLICACIONES. Las publicaciones que se generen de los resultados 
+obtenidos dentro del desarrollo del PROYECTO,  resúmenes  o  cualquier  otra  forma  de  divulgación  
+que  llegare  a  realizarse, siempre se deberá mencionar el nombre de COLCIENCIAS y la persona 
+natural o jurídica que financió y/o colaboró en la ejecución del PROYECTO (ENTIDAD EJECUTORA). 
+Parágrafo Primero: En el Contrato específico relativo a la distribución de los derechos de Propiedad 
+Intelectual que se firme por LAS PARTES, se determinarán las reglas de publicación de la información, 
+teniendo en cuenta que dicha publicación no esté en contra de los derechos de Propiedad Intelectual 
+que pudieran derivarse del presente convenio.  
+CLÁUSULA TERCERA.  CESIÓN DE DERECHOS PATRIMONIALES ENTRE LA ENTIDAD 
+EJECUTORA Y LOS CREADORES. La ENTIDAD EJECUTORA y los creadores partícipes en la 
+intervención del desarrollo de proyecto se comprometen a establecer de forma previa al inicio del 
+proyecto, los términos de confidencialidad y titularidad de derechos de Propiedad Intelectual.  
+CLÁUSULA CUARTA. DECLARACION DEL CONSENTIMIENTO PREVIO PARA EL USO DE 
+DERECHOS DE PROPIEDAD INTELECTUAL. Las partes intervinientes en el presente acuerdo, 
+reconocen y declaran que en caso de necesitar usar la propiedad intelectual de titularidad de una o 
+varias de las partes, autorizara su uso en la medida que sea para cumplir con el objetivo establecido 
+en el proyecto. Parágrafo Primero: Las partes reconocen y declaran que el conocimiento previo es 
+de su propiedad y/o tienen legítimo derecho para su uso y explotación. Parágrafo Segundo: Las 
+partes reconocen y aceptan que en la obtención y explotación de los bienes de propiedad intelectual 
+no se vulneraron derechos de terceros. Parágrafo Tercero: Las partes reconocen que la declaración 
+del consentimiento previo para el uso de derechos de propiedad intelectual no constituye aporte al 
+presente proyecto. 
+Los bienes tangibles e intangibles sobre los que recae la autorización de uso se deben identificar y 
+relacionar, teniendo en cuenta al menos la siguiente información: 
+  
+27 
+ 
+Área de la 
+Propiedad 
+Intelectual 
+Tipo de 
+derecho de 
+Propiedad 
+Intelectual 
+Identificación 
+(título o nombre) 
+Titular del 
+derecho 
+Documento que 
+aprueba la 
+titularidad del 
+derecho 
+Observación 
+Ejemplo 
+Propiedad 
+Industrial 
+Patente 
+de 
+invención  
+Patente 
+de 
+invención. 
+Título: 
+Maquina para …  
+Universidad 
+Nacional 
+Certificado 
+de 
+Registro 
+expedido 
+por la SIC. Nº XXXX 
+Patente de invención otorgada 
+el 27 de abril de 2001, vigente 
+hasta el 27 de abril de 2021. 
+ 
+CLÁUSULA SEXTA. CONFIDENCIALIDAD. Las partes que suscriben este acuerdo, así como todas 
+y cada una de las personas que intervengan en el desarrollo del presente proyecto acuerdan que 
+cualquier información dada a conocer entre ellas, así como la que pudiesen desarrollar de forma 
+conjunta durante la ejecución del proyecto, será mantenida confidencial, reservada o secreta, y no 
+podrá divulgarse o revelarse total o parcialmente a personas ajenas a las partes de este acuerdo, así 
+como tampoco a ningún medio conocido o por conocer, según las siguientes condiciones: 
+A) La parte receptora de la información mantendrá la confidencial, y se abstendrá de revelarla a 
+terceras personas, en beneficio propio o ajeno, sin el consentimiento previo y por escrito de la parte 
+titular del derecho. B) La obligación de confidencialidad se extenderá a los desarrollos que se 
+produzcan como consecuencia del uso de la información intercambiada en el proyecto. C) La parte 
+receptora de la información se responsabilizará de que las personas que estén a su cargo y las que 
+intervengan en el proyecto, se sometan al acuerdo de confidencialidad aquí establecido. 
+Consecuencia de lo anterior, les quedara prohibido a estas personas transferir o suministrar a terceros 
+a cualquier título, información que obtenga de las otras partes en desarrollo del proyecto. D) Las partes 
+se obligan a divulgar la información de que trata la presente cláusula única y exclusivamente a los 
+empleados, contratistas y dependientes que deban conocerla para el desarrollo de sus actividades 
+dentro del proyecto y bajo obligación de confidencialidad. Igualmente, las partes solo revelarán a estas 
+personas únicamente la parte de la información pertinente para la ejecución de sus actividades dentro 
+del proyecto. E) Las partes se comprometen a adoptar todas las medidas de seguridad razonables de 
+acuerdo con la naturaleza de la información para garantizar la confidencialidad, secreto y reserva de 
+la misma. F) Las partes se obligan a mantener en confidencialidad toda información dada a conocer 
+por una parte a las demás que pueda ser objeto de protección como Propiedad Intelectual en sí misma 
+y sin desarrollo alguno. Parágrafo Primero: Si existe duda sobre la confidencialidad, reserva o secreto 
+de alguna información suministrada por una parte a las demás, ésta será tratada como confidencial 
+hasta que la parte que dio a conocer la información manifieste lo contrario por escrito. Esta obligación 
+de confidencialidad no se aplicará sobre la información que este en dominio público, o que haya sido 
+conocida con anterioridad al presente contrato por alguna de las partes, o dada o conocer por un 
+tercero que no tuviere la obligación de confidencialidad, reserva o secreto. Parágrafo Segundo: El 
+incumplimiento a la obligación de confidencialidad que le asiste a las partes intervinientes será 
+considera como causal de incumplimiento del acuerdo. Parágrafo Tercero: La duración de la 
+obligación de confidencialidad, secreto y/o reserva durará entre las partes mientras la información sea 
+considera de carácter confidencial, secreta y/o reservada.   
+  
+28 
+ 
+CLÁUSULA SÉPTIMA. DECLARACIÓN.  Una vez formalizada la  relación  contractual  de  LAS 
+PARTES intervinientes en el proyecto mediante documento debidamente legalizado y otorgada la 
+financiación por parte de COLCIENCIAS, antes de iniciar la ejecución del proyecto acordaran los 
+porcentajes de distribución en la participación de la propiedad de cada uno de los productos obtenidos 
+y que fuesen susceptibles de protección por propiedad intelectual, así como también las condiciones 
+y reglas para su uso y explotación comercial, en caso de existencia. 
+CLÁUSULA OCTAVA. COMITÉ DE PROPIEDAD INTELECTUAL. Las partes formaran un Comité 
+de Propiedad Intelectual el cual estará integrado por un (1) representante de cada institución 
+interviniente. Parágrafo Primero: Las funciones del comité de propiedad intelectual son: 1. Definir la 
+manera más adecuada y estratégica de protección de los productos obtenidos como resultado del 
+proyecto. 2. Apoyar a las partes intervinientes del proyecto en los acuerdos de comercialización que 
+se pudiesen realizar sobre los resultados del proyecto. 3. Informar a las partes sobre la obligación de 
+confidencialidad, así como de las implicaciones frente a la información relacionada con el proyecto. 
+4. Elaborar un inventario de los productos desarrollados con ocasión del proyecto y realizar su 
+seguimiento y actualización trimestralmente. 5. Solicitar a los responsables la presentación de 
+informes sobre el aporte intelectual de LAS PARTES respecto de los desarrollos del PROYECTO. 6. 
+Velar por el cumplimiento de las disposiciones legales concernientes a la propiedad intelectual. 7. 
+Velar por el cumplimiento del presente acuerdo. 8. Presentar informes bimestrales al 
+REPRESENTANTE LEGAL de cada una de LAS PARTES o a quien haga sus veces. Parágrafo 
+Segundo: El COMITÉ DE PROPIEDAD INTELECTUAL nombrará un secretario encargado de la 
+elaboración y custodia de las actas y documentos relativos a las funciones del Comité. Parágrafo 
+Tercero: El COMITÉ DE PROPIEDAD INTELECTUAL convocará a reuniones bimestrales, de las 
+cuales se levantaran las correspondientes actas y las enviara a cada una de las partes. 
+ 
+En constancia de lo anterior las partes firman el presente Acuerdo de Propiedad Intelectual en la 
+ciudad de _______ a los ___ del mes de _____ de _____. 
+ 
+ 
+ 
+Nota: Para la elaboración del presente acuerdo de propiedad intelectual y de confidencialidad, se tomó como guía los acuerdos 
+realizados por la Gobernación de Antioquia en lo referente a este tema. 
+ 
+ 
+ 
+ 
+  
+29 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anexo 2. 
+Plan de incentivos y/o bonificaciones. 
+ 
+En el presente documento se establecen recomendaciones de los temas que podrán ser adaptadas 
+de acuerdo con las necesidades de las organizaciones conforme a sus políticas internas. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Plan de incentivos y/o bonificaciones 
+ 
+ 
+La aplicación de los siguientes criterios es optativa, razón por la cual las IES, los centros de desarrollo 
+tecnológico, los centros de investigación o las empresas son libres de aplicar en parte o todo el 
+siguiente plan de incentivos o bonificaciones, identificando previamente si es de su interés, la 
+necesidad de aplicación en general o a cada proyecto sobre el que se decida su distribución o partición 
+de beneficios.   
+ 
+A continuación se presentan tres modelos para ser usados en los acuerdos celebrados entre IES, los 
+centros de desarrollo tecnológico, los centros de investigación o las empresas. 
+ 
+ 
+- 
+Modelo 1. 
+ 
+Cuando se trata de un proceso de transferencia de tecnología, los beneficios pueden derivarse del 
+pago de regalías por concepto del licenciamiento en el que el titular o cotitular de la tecnología 
+(licenciante) cede a un tercero o al cotitular (licenciatario) los derechos que le son otorgados por un 
+Estado específico en virtud de una protección de propiedad intelectual concedida. Este pago de 
+regalías, generalmente se calcula como un porcentaje sobre el valor de las ventas netas que se tengan 
+sobre un producto o servicio que el licenciatario comercialice en el mercado. Para la estimación de 
+este porcentaje, es posible tomar como referencia los porcentajes del total de negociaciones que han 
+considerado diferentes rangos de regalías por transferencia de tecnologías según sectores 
+económicos, que han sido documentados por Razgaitis (2007) para el mercado norteamericano, que 
+se presentan a continuación4. 
+                                                           
+4 Adaptado de la tabla 3 presentada por RAZGAITIS, R. En: Pricing the Intellectual Property of Early-Stage 
+Technologies: A Primer of Basic Valuation Tools and Considerations, 2007 
+  
+31 
+ 
+ 
+Industria Primaria 
+Porcentaje de Regalías que se cobran según sector en USA (2007) 
+0%-2% 
+2%-5% 
+5%-10% 
+10%-
+15% 
+15%-
+20% 
+20%-
+25% 
+> a 25% 
+Aeroespacial 
+- 
+40 
+55 
+5 
+- 
+- 
+- 
+Automotor 
+35 
+45 
+20 
+- 
+- 
+- 
+- 
+Química 
+18 
+57,4 
+23,9 
+0,5 
+- 
+- 
+0,1 
+Computadores 
+42,5 
+57,5 
+- 
+- 
+- 
+- 
+- 
+Electrónica 
+- 
+50 
+45 
+5 
+- 
+- 
+- 
+Energía 
+- 
+50 
+15 
+10 
+- 
+25 
+- 
+Alimentos 
+12,5 
+62,5 
+25 
+- 
+- 
+- 
+- 
+Manufactura 
+21,3 
+51,5 
+20,3 
+26 
+0,8 
+0,8 
+2,6 
+Gubernamental 
+/Universidad 
+7,9 
+38,9 
+36,4 
+16,2 
+0,4 
+0,6 
+- 
+Equipos médicos 
+10 
+10 
+80 
+ 
+ 
+ 
+ 
+Farmacéutica 
+1,3 
+20,7 
+67 
+8,7 
+1,3 
+0,7 
+0,3 
+Telecomunicaciones 
+- 
+- 
+- 
+100 
+- 
+- 
+- 
+Otras 
+11,2 
+41,2 
+28,7 
+16,2 
+0,9 
+0,9 
+0,9 
+ 
+Como se observa en la tabla, a manera de ejemplo, puede notarse que para la Industria Manufactura 
+en USA, el 20,3% de las licencias negociadas han implicado una tasa de regalías entre el 5% y el 
+10%. Bajo esta referencia, la IES, el centro de desarrollo tecnológico, el centro de investigación o la 
+entidad que sea la licenciante de una tecnología en el sector de Manufactura, negociaría con la 
+empresa licenciataria o quien haga sus veces, una tasa de regalías en el rango 5% - 10%, siendo 5% 
+el mínimo y 10% el máximo a negociar. 
+Independiente del tipo de licenciamiento y de las regalías que se acuerden, antes de establecer la 
+distribución de los beneficios que la IES, el centro de desarrollo tecnológico, el centro de investigación 
+o la empresa podría llegar a percibir por la explotación o transferencia de tecnología del resultado de 
+  
+32 
+ 
+investigación que se protegió, es importante establecer también la distribución de las obligaciones 
+derivadas del mismo proceso, bien sea a través de cargas equitativas con respecto al porcentaje del 
+beneficio o el valor que la institución ya haya identificado puede aplicar en todos los casos y se haga 
+responsable de su ejecución y a partir de ese valor se haga la distribución de beneficios o regalías. 
+Esto es sin duda muy importante para el proceso ya que determinará que la IES, el centro de desarrollo 
+tecnológico, el centro de investigación o la empresa continúe con el derecho único de explotación del 
+derecho protegido, razón por la cual este es el primer paso en cada definición de beneficios.  
+ 
+- 
+Modelo 2:  
+A continuación se propone una distribución de las regalías entre la entidad licenciante y los actores 
+intervinientes del proceso vinculados a dicha entidad (creadores, inventores, investigadores) que será 
+definida con anterioridad a la recepción de las regalías. El porcentaje de las regalías percibidas por la 
+IES, el centro de desarrollo tecnológico, el centro de investigación o la empresa podrá ser destinado 
+a fortalecer nuevos procesos de investigación, desarrollo tecnológico e innovación que resulten en 
+nuevos procesos de explotación y transferencia, que redunden en su capacidad investigativa y de 
+resolución de necesidades actuales.  
+ 
+Regalías percibidas por la IES, el centro de 
+desarrollo tecnológico, el centro de investigación 
+o la empresa (expresada en SMLMV) 
+Porcentaje de las regalías 
+destinadas a los intervinientes* 
+Hasta 1.500  
+50 % 
+Entre 1.501 y 3.000 
+40 % 
+A partir de 3.001 
+30 % 
+*La distribución de regalías aquí dispuestas se hará sin límites de tiempo, es decir, durante todo el tiempo que la explotación del derecho 
+de propiedad intelectual arroje resultados económicos que así lo permita.  
+ 
+Como se evidencia en la tabla anterior, existe la posibilidad de asignar un porcentaje de las regalías 
+a los intervinientes en el desarrollo de un proyecto de ciencia, tecnología e innovación, según las 
+regalías percibidas.  Es decir, en el caso que las regalías percibidas sean hasta 1.500 SMLMV, las 
+partes podrán acordar que el porcentaje de las regalías destinadas a los intervinientes sea del 50%, 
+caso en el cual la IES, el centro de desarrollo tecnológico, el centro de investigación o la entidad debe 
+tener establecido en sus estatutos o reglamentos el porcentaje destinado a las personas que 
+  
+33 
+ 
+intervinieron en el desarrollo del proyecto que dio lugar a la protección de una invención (creadores, 
+inventores, investigadores).  
+Es importante tener en cuenta que las regalías percibidas, pueden ser para varias entidades, caso en 
+el cual el porcentaje de regalías destinadas a intervinientes deberá distribuirse equitativamente entre 
+ellas.  Es recomendable que al momento de celebrar el acuerdo o contrato entre las partes, estos 
+valores y porcentajes queden establecidos en el mismo. 
+ 
+- 
+Modelo 3:  
+ 
+Otra alternativa, especialmente aplicada para el caso de IES, corresponde a la regla del 33%. En este 
+caso, se destina el 33% a los inventores o creadores de la tecnología sobre la que se percibirían 
+regalías, el 33% a la Facultad o Unidad Académica y el porcentaje restante a la IES, siendo estos 
+últimos recursos generalmente destinados a un fondo para el mantenimiento de patentes, generación 
+de nuevas solicitudes de patente, financiamiento de pruebas de concepto o prototipos, entre otras 
+labores propias de la gestión y la transferencia de tecnologías en este tipo de entidades.  
+En algunas ocasiones, como política de estímulo durante un tiempo inicial, puede otorgarse un 
+porcentaje elevado (superior al 50%) a los inventores de las IES, de tal forma que se incentive su 
+participación en proyectos de investigación cuyos resultados pueden ser susceptibles de obtener 
+derechos de propiedad intelectual. Posterior a este tiempo de estímulo, la entidad podrá ajustar el 
+porcentaje a la regla del 33% o a la distribución que considere más pertinente. 
+La distribución de regalías entre los intervinientes se ajustará a los criterios establecidos por la IES, el 
+centro de desarrollo tecnológico, el centro de investigación o la empresa, preferiblemente en el estatuto 
+o reglamento de propiedad intelectual para que sea de aplicación general. Esta será realizada bien 
+sea por un comité en el que participen representantes de todos los posibles intervinientes de cualquier 
+proceso y las directivas de la organización con el fin de definir los parámetros en los que se realizaran 
+las distribuciones de participación.  
+El comité garantizará que los parámetros establecidos para la distribución de participación distingan 
+entre otros, factores de participación, colaboración, apoyo en la determinación de oportunidades, 
+resolución de problemas, consecución de beneficios o apoyo externo que dé mayor alcance al proceso 
+investigativo, nuevas ideas de investigación a partir de algún problema encontrado o de su solución y 
+trabajo realizado a lo largo del proceso. Lo anterior en cuanto al trabajo en equipo, y en cuanto a la 
+valoración individual del interviniente podrían también distinguirse su calidad -docente o investigador- 
+y su respectiva calificación en escalafones especializados en estos temas, sin discriminar a quien 
+apenas inicie su proceso de formación investigativa, quien a manera de motivación puede recibir una 
+  
+34 
+ 
+valoración que pudiese equipararse (guardando las proporciones del caso) con los docentes e 
+investigadores bien ubicados en sus respectivos escalafones (no necesariamente deben ser regalías, 
+pueden ser incentivos de otra índole que satisfagan o aceleren alguna necesidad del investigador).  
+Quien esté a cargo del proceso de investigación tomará las acciones necesarias para garantizar que 
+el proceso de determinación de beneficios con respecto a los anteriores factores sea calculado de 
+manera objetiva, es decir, que ningún aspecto quede a la interpretación de quien realice el cálculo o 
+a valoraciones subjetivas de alguno de los que compone el grupo que adelanta la investigación. El 
+cálculo se realizará con base en los valores determinados para cada factor en el momento de iniciar 
+el proceso de investigación y que quedarán específicos en el acta de inicio de la misma o como un 
+anexo en el contrato o acuerdo de confidencialidad que suscriba cada interviniente.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+35 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anexo 3. 
+Normograma de Propiedad Intelectual 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+36 
+ 
+ 
+ 
+Normograma de Propiedad Intelectual 
+ 
+Tipo de norma 
+Tema 
+Constitución Política de 1991 
+Constitución Política de Colombia 
+Decisión 345 de 1993 
+Régimen de protección de los derechos de los 
+obtentores vegetales 
+Decisión 351 de 1993 
+Régimen Común sobre Derecho de Autor y 
+Derechos Conexos 
+Decisión 391 de 1996 
+Régimen Común sobre Acceso a los Recursos 
+Genéticos 
+Decisión 486 de 2000 
+Régimen Común de Propiedad Industrial 
+Decisión 689 de 2008 
+Adecuación de determinados artículos de la 
+Decisión 486 – Régimen Común sobre Propiedad 
+Industrial, para permitir el desarrollo y 
+profundización de Derechos de Propiedad 
+Industrial a través de la normativa interna de los 
+Países Miembros. 
+Ley 23 de 1982 
+Ley sobre derechos de autor. 
+Ley 44 de 1993 
+Ley sobre derechos de autor. 
+Ley 23 de 1992 
+Convenio para la Protección de los Productores de 
+Fonogramas contra la Reproducción no autorizada 
+de sus Fonogramas. 
+Ley 243 de 1995 
+Convenio Internacional para la Protección de las 
+Obtenciones Vegetales, UPOV. 
+Ley 397 de 1997 
+Ley General de Cultura. 
+Ley 463 de 1998 
+Tratado de cooperación en materia de patentes 
+(PCT). 
+Ley 545 de 1999 
+Tratado de la OMPI -Organización Mundial de la 
+Propiedad Intelectual- sobre Interpretación o 
+Ejecución y Fonogramas (WPPT). 
+Ley 1286 del 2009 
+Fortalecimiento del Sistema Nacional de Ciencia y 
+Tecnología, así como también transformó y 
+fortaleció al Instituto Colombiano para el Desarrollo 
+de la Ciencia y la Tecnología “Francisco José de 
+  
+37 
+ 
+Caldas” - COLCIENCIAS-, convirtiéndolo en el 
+Departamento Administrativo de Ciencia, 
+Tecnología e Innovación -COLCIENCIAS-, dándole 
+el carácter de organismo principal de la 
+administración pública, rector del sector y del 
+Sistema Nacional de Ciencia, Tecnología e 
+Innovación.  
+Ley 1343 del 2009 
+Tratado sobre el Derecho de Marcas y su 
+Reglamento. 
+Ley 1403 del 2010 
+Reglamento del ejercicio de los Derechos de Autor 
+de los intérpretes audiovisuales. 
+Ley 1455 del 2011 
+Protocolo concerniente al arreglo de Madrid relativo 
+al Registro Internacional de Marcas. 
+Ley 1493 del 2011 
+Creó una contribución especial para fomentar el 
+espectáculo público de las artes escénicas y 
+estableció competencias respecto de las facultades 
+de inspección, vigilancia y control.  
+Ley 1519 del 2012 
+Convenio sobre la Distribución de Señales 
+Portadoras de Programas Transmitidas por 
+Satélite. 
+Ley 1648 del 2013 
+Contiene las medidas de protección adicionales en 
+materia de Propiedad Industrial. 
+Ley 1450 del 2011 
+Plan Nacional de Desarrollo 2011-2014: 
+“Prosperidad para Todos”. 
+Ley 1753 del 2015 
+Plan Nacional de Desarrollo 2014 – 2018 “Todos 
+por un nuevo País”. 
+Ley 1712 de 2014 
+Define cuales son los eventos en lo que debe 
+entenderse involucradas seguridad y defensa 
+nacional. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+38 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bibliografía 
+ 
+- 
+Guía Estrategia de Propiedad Intelectual Universidad Empresa.  Elaborada por TECNNOVA 
+UEE. Medellín 2014. 
+ 
+- 
+Guía para Examen de Solicitudes de Patente de Invención y Modelo de Utilidad de la 
+Superintendencia de Industria y Comercio de Colombia. 
+ 
+- 
+Proyecto del Plan Nacional de Desarrollo 2014-2018, Departamento Nacional de Planeación. 
+Disponible en https://colaboracion.dnp.gov.co/CDT/Prensa/ArticuladoVF.pdf  
+ 
+- 
+Tipología de Proyectos calificados como de carácter científico, tecnológico e innovación. 
+Versión 3 año 2014. Disponible en  
+http://www.colciencias.gov.co/sites/default/files/file_attach/nsBeneficiosTributarios/Tipologia_
+Proyectos_Aprobado-v13-1.pdf 
+ 
+- 
+La gestión de la propiedad intelectual en las instituciones de educación superior. Elaborado 
+por Ministerio de Educación Nacional y la Universidad de Antioquia. Medellín 2010. 
+ 
+- 
+Manual de Propiedad Intelectual. Universidad Católica de la Santísima Concepción. Chile. 
+2014. Disponible en http://ott.ucsc.cl/wp-content/uploads/2013/12/manualinventorREV.pdf 
+ 
+- 
+http://www.wipo.int/export/sites/www/sme/es/documents/wipo_magazine/11_2002.pdf 
+ 
+- 
+http://www.wipo.int/edocs/pubdocs/es/intproperty/450/wipo_pub_450.pdf 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Schedule 1  
+Intellectual Property and Confidentiality Agreement between a Higher 
+Education Institution (IES in Spanish) and a Delivery Entity  
+ 
+ 
+ 
+This document sets out recommendations that may be adapted according to the needs of 
+organisations pursuant to their internal policies.  
+ INTELLECTUAL PROPERTY AND CONFIDENTIALITY AGREEMENT BETWEEN A 
+UNIVERSITY OR HIGHER EDUCATION INSTITUTION (IES in Spanish) AND A DELIVERY 
+ENTITY FOR PROJECT “___________________”  
+ 
+Between the undersigned, _______________________, who is of legal age, is a resident of 
+and is domiciled in __________, is identified with Colombian Citizenship Card No. 
+_________________ issued in ________________, is acting in the capacity of 
+_________________, and on behalf and in representation of __________________, 
+hereinafter referred to as UNIVERSITY or HIGHER EDUCATION INSTITUTION (IES in 
+Spanish) and, on the other hand, _____________________, who is of legal age, is a resident 
+of and is domiciled in __________________, is identified with Colombian Citizenship Card No. 
+_________________ issued in ________________, is acting in the capacity of 
+_________________, and on behalf and in representation of __________________, 
+hereinafter referred to as DELIVERY ENTITY, have agreed to sign this intellectual property 
+and confidentiality agreement regarding the results derived from the delivery of the 
+_________________ scientific, technological development or innovation project, hereinafter 
+referred to as THE PROJECT, which has been submitted by the DELIVERY ENTITY to 
+COLCIENCIAS through researchers, research groups or centres, [or] technological 
+developments recognised by COLCIENCIAS, and the investment or donation for which shall 
+be made in 2016.  
+ 
+The above is based on the following recitals:  
+ 
+1. Law 29 of 1990, "by which provisions are set forth for promoting scientific research and 
+technological development, and special powers are granted", establishes in its Article 1: "the 
+State is responsible for promoting and directing scientific and technological advancement and 
+is therefore required to include science and technology in Colombia's economic and social 
+development plans and programmes, and formulate science and technology plans for both the 
+medium and the long term. Furthermore, the State shall establish mechanisms to connect its 
+scientific and technological development activities with the activities in the same fields that are 
+carried out by Colombian universities, scientific community, and private sector." 2. The 
+aforementioned law granted special powers to the Colombian Government by stipulating the 
+following in Subsection 2 of Article 11: “to set out the rules which must be followed by the 
+nation and its decentralised entities when associating with third parties in scientific and 
+technological activities, research projects, and technology creation" and in Subsection 4: " to 
+regulate specific types of agreements for promoting scientific and technological activities." In 
+the use of said special powers, the Colombian Government issued Law Decree 393 of 1991, 
+"by which rules are set out regarding associations for scientific and technological activities, 
+research projects, and technology creation", and Law Decree 591 of 1991, “by which specific 
+types of agreements for the promotion of scientific and technological activities are regulated." 
+3. Law 80 of 1993 was enacted and its Article 32 defined state contracts as: “all binding legal 
+actions entered into by entities referred into in this statute, provided by private law or special 
+provisions, or derived from the exercise of free will..." 4. The Congress of Colombia issued 
+Law 1280 of 2009 by which “Law 29 of 1990 is modified, transforming COLCIENCIAS into the 
+Administrative Department for Science, Technology and Innovation, the National Science, 
+Technology and Innovation System is strengthened, and other provisions are set forth." 
+Furthermore, Subsection 1 of Article 33 stipulates: “Article 33. Activities, contracts and 
+agreements made with the purpose of carrying out science, technology and innovation 
+activities, and entered into by state entities shall continue to be governed by applicable special 
+rules. In consequence, such contracts shall be entered into directly…” 5. In accordance with 
+the above, it is concluded that contracts entered into with the purpose of promoting science, 
+technology and innovation are regulated by Law Decrees 393 and 591 of 1991, and are also 
+subject to Law 80 of 1993 in all other aspects not regulated by said decrees. 6. According to 
+Law 1286 of 2009, the Administrative Department for Science, Technology and Innovation 
+(COLCIENCIAS) is the governing entity of the National Science, Technology and Innovation 
+ System (SNCTeI in Spanish), and is in charge of directing, coordinating and promoting 
+scientific and technological development and innovation in Colombia. In compliance with its 
+mission and legal mandate, COLCIENCIAS promotes the generation and transfer of scientific 
+knowledge, technological development and innovations that will allow, on the one hand, the 
+consolidation of a scientific community in different knowledge fields and, on the other hand, a 
+contribution to Colombia's economic and social development. 7. Article 10 of Law 1753 of 
+2015 stipulates: “Article 10. Intellectual property rights for research and development projects 
+funded with public resources. In the case of research and development projects in science, 
+technology and innovation and information technology and communications that are carried 
+out with public resources, the State may assign free of charge, except for national security and 
+defence reasons, the intellectual property rights it holds, and approve their transfer, marketing 
+and exploitation to whoever carries out a project, without constituting economic damage to the 
+State. The conditions for assignment shall be established in the respective contract and, in all 
+cases, the State reserves the right to obtain a non-exclusive free licence to said intellectual 
+property rights for reasons of national interest." 8. Intellectual property means creations 
+derived from human intellect in the industrial, scientific, literary and artistic spheres, with the 
+implication that the holder of said intellectual property must be aware of and understand the 
+rules that govern its creation, maintenance, defence and expiration, with the purpose of 
+protecting one of the most valuable assets a natural or legal person can ever own. 9. 
+Intellectual property is divided into two categories: a) Industrial property, which is the exclusive 
+right a natural or legal person holds over an invention, an industrial design or a distinctive sign. 
+Furthermore, industrial property is divided into two branches. The first one is New Creations, 
+which include all invention patents, utility model patents, industrial designs, and integrated 
+circuit etching patterns. The second one refers to Distinctive Signs, which include brands, 
+commercial slogans, trade names, commercial logos, and designations of origin. b) Copyright, 
+which is a set of rules intended to protect the authors and owners of artistic, scientific and 
+literary works, and grants them the power to control all matters related to the use and 
+exploitation of their work regardless of its use and the way or form it is expressed. Thus, 
+copyright protects: Books, pamphlets and written documents, conferences, speeches, 
+sermons and other works of a similar nature, musicals, dramas, choreographies, pantomimes, 
+musical compositions with or without lyrics, film works, videogrammes, drawings, paintings, 
+architectural works, sculptures, engravings, lithographs, photographic works, applied art 
+works, illustrations, maps, plans, sketches, plastic art works relative to geography, topography, 
+architecture or the sciences, computer programmes, databases and multimedia creations; in 
+short, all literary or artistic productions that can be reproduced or defined by any printing or 
+reproduction method, including phonography, radio telephony or any other means that are or 
+could be known. 10. It is very important to be aware of the content of the categories of 
+intellectual property rights, that is copyright and industrial property rights, where copyright 
+includes moral rights and economic rights. Regarding the former, they are highly personal 
+rights which safeguard the link between the author and his or her work; they are perpetual, 
+inalienable, non-attachable, non-transferable and non-waivable, and cannot be sold or 
+transferred. Moral rights grant the following powers over a work: Paternity right, the right to 
+withdraw the work or to repent, integrity right, the right to keep the work unpublished, and the 
+right to modify it. Regarding the latter, that is, the economic rights, they enable the author or 
+any other natural or legal person that has acquired the copyright, to control the work and 
+obtain an economic benefit from allowing the work to be used. The holder of economic rights 
+has the exclusive power to approve or forbid actions such as the work's reproduction, 
+translation, adaptation, modification, publication by any means, and distribution. Regarding 
+industrial property, it contains strictly economic rights when exercising in rem property rights, 
+that is, use, enjoyment and disposal with exclusivity over third parties. Therefore, the holder 
+shall have the power of exploitation, directly or through third parties, by entering into use 
+licence agreements. In light of the above recitals, THE PARTIES agree to the following 
+clauses:  
+ 
+CLAUSE 1. INTELLECTUAL PROPERTY. THE PARTIES agree that the Intellectual Property 
+ derived from the execution of the PROJECT that is the subject of this agreement –- if the 
+[project] proposal is selected from THE CALL for support and funding – shall be governed by 
+what is set out herein and by applicable laws currently in force.  
+ 
+1. Ownership of Moral Rights. Ownership of moral rights derived from results obtained 
+during the execution of the PROJECT shall vest in each one of the participating authors 
+and inventors that are related to THE PARTIES as established by law.  
+ 
+2. Economic Rights. Ownership of economic rights over scientific articles, as well as 
+papers, presentations, knowledge, products, results and technologies that are or may 
+be obtained during the execution of the PROJECT shall vest in the DELIVERY ENTITY 
+due to the fact that COLCIENCIAS will assign the transfer, marketing and exploitation of 
+the intellectual property rights unless there are reasons of national security and defence 
+or other reasons provided by law that prevent said assignment.  
+If appropriate, the delivery parties involved in the project shall jointly define the 
+ownership of the intellectual property rights generated by the project funded with 
+resources from the national budget.  
+ 
+3. Industrial Property Rights. Ownership of invention patents, utility model patents, 
+industrial designs, integrated circuit etching patterns, brands, commercial slogans, 
+trade names, commercial logos, designations of origin, and other creations subject to 
+industrial property protection that are derived from the execution of the project shall 
+vest in the DELIVERY ENTITY, due to the fact that COLCIENCIAS will assign the 
+transfer, marketing and exploitation of the industrial property rights unless there are 
+reasons of national security and defence or other reasons provided by law that prevent 
+said assignment.  
+ 
+If appropriate, the delivery parties involved in the project shall jointly define the 
+ownership of the intellectual property rights generated by the project funded with 
+resources from the national budget.  
+ 
+CLAUSE 2. PUBLICATIONS. Publications generated from the results obtained from the 
+execution of the PROJECT, as well as summaries or any other means of disclosure that were 
+to take place, shall always mention the name of COLCIENCIAS and the natural or legal person 
+who funded and/or collaborated with the execution of the PROJECT (DELIVERY ENTITY). 
+Paragraph 1. The specific Intellectual Property Rights Distribution Agreement signed by THE 
+PARTIES shall establish the rules for information publication provided it does not contradict the 
+Intellectual Property Rights that may be derived from this agreement.  
+ 
+CLAUSE 3. ASSIGNMENT OF ECONOMIC RIGHTS BETWEEN THE DELIVERY ENTITY 
+AND THE CREATORS. The DELIVERY ENTITY and the creators who participate and 
+intervene in the execution of the project undertake to establish the confidentiality and 
+intellectual property rights ownership terms before the commencement of the project.  
+ 
+CLAUSE 4. PRIOR CONSENT STATEMENT FOR THE USE OF INTELLECTUAL 
+PROPERTY RIGHTS. The parties to this agreement acknowledge and state that in case they 
+need to use intellectual property held by one or several parties, approval shall be granted 
+provided it is for achieving the project's established goal. Paragraph 1. The parties 
+acknowledge and state that they have ownership of, and/or a legitimate right to use and exploit 
+prior knowledge. Paragraph 2. The parties acknowledge and state that no third party rights 
+were breached when obtaining and exploiting intellectual property assets. Paragraph 3. The 
+parties acknowledge that the prior consent statement for the use of intellectual property rights 
+does not constitute a contribution to this project.  
+ 
+ The tangible or intangible assets to which the approval for use applies shall be identified and 
+listed with at least the following information:  
+ 
+Intellectual 
+Property Area  
+Type 
+of 
+Intellectual 
+Property Right  
+Identification 
+(Title or Name)  
+Owner of the 
+Right  
+Document 
+approving 
+the 
+Ownership 
+of 
+the Right  
+Comment 
+Example  
+Industrial 
+Property  
+Invention Patent  Invention Patent 
+Title: 
+Machine 
+for …  
+Universidad 
+Nacional  
+SIC-issued 
+Registration 
+Certificate 
+Nº 
+XXXX  
+Invention patent 
+granted on 27 
+April, 2001, valid 
+until 
+27 
+April, 
+2021.  
+ 
+ 
+CLAUSE 5. CONFIDENTIALITY. The parties executing this project, as well as each and every 
+person intervening in the execution of this project, agree that any information disclosed among 
+them or that might be jointly developed during the execution of the project shall be confidential, 
+private or secret, and shall not be disclosed or revealed fully or in part to any persons different 
+from the parties to this agreement, or to any current or future media, according to the following 
+conditions:  
+ 
+A) The party receiving the information shall keep it confidential, and shall refrain from revealing 
+it to third parties for its own benefit or that of others without the prior written consent of the 
+party holding the right. B) The confidentiality obligation shall extend to developments made as 
+a result of the use of information exchanged during the project. C) The party receiving the 
+information shall be responsible for having the persons under its charge, and those intervening 
+in the project, complying with the confidentiality agreement established herein. As a result, 
+such persons are forbidden from transferring or providing to third parties, for any purpose, any 
+information obtained from the other parties during the execution of the project. D) The parties 
+undertake to disclose the information referred to in this clause solely to employees, contractors 
+and dependents who need to be aware of said information for the performance of their 
+activities and under a confidentiality obligation. Furthermore, the parties shall reveal to said 
+persons only the part of the information that is pertinent to the performance of their activities in 
+the project. E) The parties undertake to adopt all reasonable security measures according to 
+the nature of the information in order to guarantee its confidentiality, secrecy and privacy. F) 
+The parties undertake to maintain the confidentiality of all information that is disclosed by one 
+party to the other parties which may be subject to intellectual property protection in its own 
+right without any development whatsoever. Paragraph 1. If there are any doubts about the 
+confidentiality, privacy or secrecy of any information provided by one party to the other parties, 
+said information shall be treated as confidential until the disclosing party states otherwise in 
+writing. This confidentiality obligation shall not apply to information that is in the public domain 
+or has been known to any of the parties before this agreement, or disclosed by a third party 
+that did not have a confidentiality, privacy or secrecy obligation. Paragraph 2. Breach of the 
+obligation of confidentiality by any of the intervening parties shall be considered a breach of 
+this agreement. Paragraph 3. The confidentiality, secrecy and/or privacy obligation on the 
+parties shall persist as long as the information is considered confidential, secret and/or private. 
+ 
+CLAUSE 6. STATEMENT. After the contractual relationship between THE PARTIES to the 
+project is formalised through a duly legalised document and funding is granted by 
+COLCIENCIAS, THE PARTIES shall, before starting to execute the project, agree on the 
+percentage distribution of the ownership of each one of the products that are obtained and 
+may be subject to intellectual property protection, as well as the terms and conditions and 
+rules for the products' use and commercial exploitation, in case it exists.  
+ 
+ CLAUSE 7. INTELLECTUAL PROPERTY COMMITTEE. The parties shall set up an 
+Intellectual Property Committee which shall be comprised of one (1) representative from each 
+intervening party. Paragraph 1. The Intellectual Property Committee has the following 
+functions: 1. To define the most appropriate and strategic means to protect the products 
+obtained as a result of the project; 2. To support the parties intervening in the project regarding 
+marketing agreements that may be made based on the results of the project; 3. To inform the 
+parties of the confidentiality obligation, as well as its implications regarding project-related 
+information; 4. To prepare an inventory of the products developed as a result of the project, 
+and to monitor and perform quarterly updates on the inventory; 5. To request from the 
+appropriate persons reports on the intellectual contribution of THE PARTIES regarding the 
+PROJECT'S developments; 6. To look after compliance with legal provisions related to 
+intellectual property;  7. To look after compliance with this agreement; 8. To submit bimonthly 
+reports to each one of the parties' LEGAL REPRESENTATIVE or whoever is acting on his/her 
+behalf. Paragraph 2. The Intellectual Property Committee shall appoint a secretary who will be 
+in charge of preparing and safeguarding the minutes and documents related to the 
+Committee's functions. Paragraph 3. The Intellectual Property Committee shall call bimonthly 
+meetings, for which minutes shall be prepared and sent to each one of the parties.  
+ 
+In witness thereof, the parties sign this intellectual property agreement in the city of _______ 
+on the ___ day of _____, _____.  
+ 
+ 
+Note: This intellectual property and confidentiality agreement was prepared using the agreements made by the 
+Government of Antioquia on the same matter.  

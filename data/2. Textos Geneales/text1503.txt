@@ -1,0 +1,2708 @@
+							
+													PROGRAMA	DE	APOYO	A	LA	FORMACIÓN	DE	DOCENTES-INVESTIGADORES	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Maestría en Ingeniería Electrónica con énfasis en 
+Energías Renovables y Eficiencia Energética 
+Importante: Este programa de posgrado es GRATUITO para 
+todos sus estudiantes gracias al apoyo del CONACYT en el 
+marco del Programa PROCIENCIA – Convocatoria 2017. 
+RESUMEN DEL PROGRAMA  
+La	Maestría	en	Ingeniería	Electrónica	con	énfasis	en	Energías	Renovables	y	Eficiencia	Energética	ofrece	temas	relacionados	con	la	
+generación	de	energía	eléctrica	utlizando	fuentes	de	energías	renovables	no	convencionales	(eólica,	solar	fotovoltaica,	entre	otras)	y	la	
+interconexión	de	estos	sistemas	a	la	red	de	eléctrica	y/o	en	esquemas	aisaldos	utilizando	convertidores	electrónicos	de	potencia.	En	ese	
+contexto,	el	control	de	dichos	convertidores	de	potencia	juega	un	rol	fundamental	para	garantizar,	por	un	lado,	la	máxima	entrega	de	la	
+energía	generada	a	partir	de	fuentes	de	energía	renovables,	y	por	otro,	en	la	mejora	de	la	calidad	de	red	mediante	la	disminusión	de	los	
+armónicos	 generados.	El	énfasis	 en	Energías	 Renovables	 y	Eficiencia	 Energética	 pretende	 aunar	 los	 conocimientos	 de	las	 energías	
+renovables	con	la	electrónica	de	potencia	en	búsqueda	de	la	eficiencia	energética	mediante	el	estudio	de	estrategias	avanzadas	de	
+control	de	convertidores	de	potencia.	Así	también,	áreas	afines	tales	como	la	mecatrónica,	robótica,	accionamientos	eléctricos	serán	
+utilizados	en	la	búsqueda	del	objetivo	del	programa,	haciendo	uso	además	de	herramientas	avanzadas	de	simulación	computacional	
+para	el	diseño	y	puesta	a	punto	de	plataformas	experimentales.		
+	El	objetivo	del	programa	se	enfoca	a	formar	docentes	e	investigadores	con	los	últimos	avances	en	el	ámbito	de	las	energías	renovables	
+y	eficiencia	energética	capaces	de	proponer	y	llevara		cabo	proyectos	innovadores	de	investigación	en	el	área.	
+ 
+Fecha de INICIO: Febrero de 2019 
+Fecha de FINALIZACIÓN: Octubre de 2020 
+Modalidad: Presencial  
+Habilitado por el CONES – Resolución Nº 657/2018 
+Coordinador del Programa: Prof. Dr. JORGE E. RODAS BENÍTEZ  
+Lugar de desarrollo: UCSA,	Sede	Central,	Avda.	España	c/Brasil.	Asunción,	Paraguay.	
+Horario:	De	8:30	a	16:30	hs.	
+Días	de	clases:	De	Lunes	a	Viernes.	
+Carga horaria total del programa: 1037 horas. 
+Costo: GRATUITO (incluye matrícula, cuotas, desarrollo de tesis, costos de trámite de 
+título)	
+PERFIL DE EGRESO:  
+Al término del programa el egresado será capaz de: 
+§ Generar	conocimiento	científico	dentro	del	ámbito	de	la	Investigación	Desarrollo	e	
+Investigación	(I+D+i),	basado	en	sólidos	fundamentos	teórico-experimentales	para	el	
+desarrollo	e	innovación	en	el	área	de	las	energías	renovables	y	la	eficiencia	energética.		
+§ Estará	 capacitado	 para	 generar	 capacidad	 científica	 y	 tecnológica	 en	 el	 ámbito	
+académico,	a	través	de	la	realización	de	trabajos	de	investigación	y	desarrollo	en	forma	
+individual	y/o	en	cooperación	con	otras	universidades	nacionales	y	extranjeras.		
+§ Podrá	 ejercer	la	investigación	 y	 la	 docencia	en	 programas	 de	 grado	 y	 postgrado,	
+desempeñándose	 además	 como	 tutor	 o	 mentor	 de	 investigadores	 en	 etapa	 de	
+formación.		
+§ Adquirirá	conocimientos	 técnicos	 que	lo	 podrá	 aplicar	 en	 el	 diseño	 de	 productos	
+tecnológicos	 para	 solventar	 los	 problemas	 en	 diferentes	 entornos,	 implementar	 y	
+supervisar	proyectos	tecnológicos	en	el	sector	público	o	privado.		
+§ Gestionar	 y	 actuar	 en	 grupos	 de	 trabajo	 multidisciplinarios	 en	 su	 ámbito	 de	
+competencia.	
+ 
+ 
+DEDICACIÓN HORARIA 
+SEMANAL EXCLUSIVA DEL 
+PROGRAMA PARA LA 
+INVESTIGACIÓN: 
+  
+20 Horas (Teoría) 
+20 Horas (Investigación)	
+	
+DIRIGIDO A:  
+Postulantes	 con	 título	 universitario	 en	
+Ingeniería	
+Electrónica,	
+Mecatrónica,	
+Eléctrica	u	otros	en	ingeniería	con	probada	
+experiencia	en	el	sector	de	la	Electrónica.	
+También	podrán	acceder	estudiantes	con	
+título	universitario	equivalente	al	grado	de	
+ingeniero,	que	hayan	cursado	y	culminado	
+una	Maestría	cursada	a	nivel	nacional	o	en	
+el	 extranjero.	 La	 pertinencia	 de	 las	
+convalidaciones	 será	 analizada	 por	 la	
+Comisión	 Asesora	 del	 Programa	 de	
+Maestría.	
+	
+ 
+ 							
+													PROGRAMA	DE	APOYO	A	LA	FORMACIÓN	DE	DOCENTES-INVESTIGADORES	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Para	más	información	comunicarse	con:		
+Prof.	Dr.	JORGE	E.	RODAS	BENITEZ,	Coordinador	del	Programa	
+Universidad	del	Cono	Sur	de	las	Américas	(UCSA)		
+	
+	
+Website:	https://sites.google.com/view/mie-ucsa/	
+Tel.:	+595-21-221103	 	
+	
+	
+	
+	
+	
+Email:	mie@ucsa.edu.py		
+1. Requisitos Documentales: 
+a)
+Copia	impresa	y	digital	del	Curriculum	Vitae	del	candidato,	en	formato	“CVpy”	del	
+CONACYT,	
+disponible	
+en	
+la	
+siguiente	
+dirección	
+electrónica,	
+(http://www.conacyt.gov.py);	
+b)
+Dos	(2)	fotografías	3x4	cm	recientes;	
+c)
+Dos	(2)	fotocopias	autenticadas	del	Diploma	de	Grado	y	del	Certificado	de	Estudios	de	
+una	carrera	con	una	duración	mínima	de	2700	horas	reloj	presenciales	y	cuatro	años	
+de	duración	como	mínimo	debidamente	legalizado,	incluyendo	las	convalidaciones	en	
+el	caso	de	títulos	extranjeros;	
+d)
+Dos	(2)	fotocopias	autenticadas	de	Cédulas	de	Identidad	Civil	vigente,	o	en	el	caso	de	
+candidatos	extranjeros,	dos	(2)	copias	impresas	y	digital	de	su	pasaporte.	
+e)
+Carta	de	recomendación	de	dos	(2)	profesores	o	docentes	investigadores.	
+f)
+Certificado	o	constancia	de	suficiencia	del	idioma	Inglés	(Deseable).	
+	
+Obs.:	Para	el	caso	de	alumnos	que	posean	título	de	Mastría	y	deseen	acceder	al	Programa	se	
+solicitará	además	dos	(2)	fotocopias	autenticadas	del	Diploma	de	Maestría	y	del	Certificado	de	
+Estudios	de	la	Maestría	cursada.	La	pertinencia	de	las	convalidaciones	será	analizada	por	la	
+Comisión	Asesora	del	programa.	
+	
+2. Proceso de admisión: Inscripción 
+a)
+La	gestión	del	proceso	de	admisión	al	estará	a	cargo	de	una	Comisión	de	Admisión	
+conformada	 para	 el	 efecto	 por	 el	 Coordinador	 del	 Programa	 de	 Postgrado.	 Los	
+interesados	en	cursar	la	Maestría	en	Ingeniería	Electrónica	con	Énfasis	en	Energías	
+Renovables	y	Eficiencia	Energética,	deberán	pasar	obligatoriamente	por	el	proceso	
+de	admisión	establecido;	
+b)
+Cumplir	con	todos	los	requisitos	documentales;	
+c)
+Presentarse	a	una	evaluación	presencial	psicológica	y	técnica	donde	se	elaborarán	
+dos	actas	de	evaluación,	una	por	cada	caso;	
+d)
+Firmar	una	carta	compromiso	institucional	con	la	UCSA,	asumiendo	las	obligaciones	
+inherentes	al	desarrollo	del	Programa	de	Maestría;	
+e)
+Todos	 los	 estudiantes	 admitidos	 podrán	 optar	 al	 Programa	 de	 Incentivos	 para	 la	
+Formación	de	Docentes-Investigadores	ofrecido	por	el	CONACYT.  
+PROCESO	DE	ADMISIÓN	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NOTA: 
+Todos 
+los 
+estudiantes 
+admitidos, 
+además 
+de 
+cursar 
+el 
+programa 
+en 
+forma 
+gratuita podrán optar al 
+Programa de Incentivos 
+para 
+la 
+Formación 
+de 
+Docentes-Investigadores 
+ofrecido por el CONACYT, 
+que consiste en una ayuda 
+monetaria adicional que le 
+exigirá dedicación horaria 
+exclusiva al programa 
+ 							
+													PROGRAMA	DE	APOYO	A	LA	FORMACIÓN	DE	DOCENTES-INVESTIGADORES	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Maestría en Ingeniería Electrónica con énfasis en 
+Energías Renovables y Eficiencia Energética 
+Importante: Este programa de posgrado es GRATUITO para 
+todos sus estudiantes gracias al apoyo del CONACYT en el 
+marco del Programa PROCIENCIA – Convocatoria 2017. 
+RESUMEN DEL PROGRAMA  
+La	Maestría	en	Ingeniería	Electrónica	con	énfasis	en	Energías	Renovables	y	Eficiencia	Energética	ofrece	temas	relacionados	con	la	
+generación	de	energía	eléctrica	utlizando	fuentes	de	energías	renovables	no	convencionales	(eólica,	solar	fotovoltaica,	entre	otras)	y	la	
+interconexión	de	estos	sistemas	a	la	red	de	eléctrica	y/o	en	esquemas	aisaldos	utilizando	convertidores	electrónicos	de	potencia.	En	ese	
+contexto,	el	control	de	dichos	convertidores	de	potencia	juega	un	rol	fundamental	para	garantizar,	por	un	lado,	la	máxima	entrega	de	la	
+energía	generada	a	partir	de	fuentes	de	energía	renovables,	y	por	otro,	en	la	mejora	de	la	calidad	de	red	mediante	la	disminusión	de	los	
+armónicos	 generados.	El	énfasis	 en	Energías	 Renovables	 y	Eficiencia	 Energética	 pretende	 aunar	 los	 conocimientos	 de	las	 energías	
+renovables	con	la	electrónica	de	potencia	en	búsqueda	de	la	eficiencia	energética	mediante	el	estudio	de	estrategias	avanzadas	de	
+control	de	convertidores	de	potencia.	Así	también,	áreas	afines	tales	como	la	mecatrónica,	robótica,	accionamientos	eléctricos	serán	
+utilizados	en	la	búsqueda	del	objetivo	del	programa,	haciendo	uso	además	de	herramientas	avanzadas	de	simulación	computacional	
+para	el	diseño	y	puesta	a	punto	de	plataformas	experimentales.		
+	El	objetivo	del	programa	se	enfoca	a	formar	docentes	e	investigadores	con	los	últimos	avances	en	el	ámbito	de	las	energías	renovables	
+y	eficiencia	energética	capaces	de	proponer	y	llevara		cabo	proyectos	innovadores	de	investigación	en	el	área.	
+ 
+Fecha de INICIO: Febrero de 2019 
+Fecha de FINALIZACIÓN: Octubre de 2020 
+Modalidad: Presencial  
+Habilitado por el CONES – Resolución Nº 657/2018 
+Coordinador del Programa: Prof. Dr. JORGE E. RODAS BENÍTEZ  
+Lugar de desarrollo: UCSA,	Sede	Central,	Avda.	España	c/Brasil.	Asunción,	Paraguay.	
+Horario:	De	8:30	a	16:30	hs.	
+Días	de	clases:	De	Lunes	a	Viernes.	
+Carga horaria total del programa: 1037 horas. 
+Costo: GRATUITO (incluye matrícula, cuotas, desarrollo de tesis, costos de trámite de 
+título)	
+PERFIL DE EGRESO:  
+Al término del programa el egresado será capaz de: 
+§ Generar	conocimiento	científico	dentro	del	ámbito	de	la	Investigación	Desarrollo	e	
+Investigación	(I+D+i),	basado	en	sólidos	fundamentos	teórico-experimentales	para	el	
+desarrollo	e	innovación	en	el	área	de	las	energías	renovables	y	la	eficiencia	energética.		
+§ Estará	 capacitado	 para	 generar	 capacidad	 científica	 y	 tecnológica	 en	 el	 ámbito	
+académico,	a	través	de	la	realización	de	trabajos	de	investigación	y	desarrollo	en	forma	
+individual	y/o	en	cooperación	con	otras	universidades	nacionales	y	extranjeras.		
+§ Podrá	 ejercer	la	investigación	 y	 la	 docencia	en	 programas	 de	 grado	 y	 postgrado,	
+desempeñándose	 además	 como	 tutor	 o	 mentor	 de	 investigadores	 en	 etapa	 de	
+formación.		
+§ Adquirirá	conocimientos	 técnicos	 que	lo	 podrá	 aplicar	 en	 el	 diseño	 de	 productos	
+tecnológicos	 para	 solventar	 los	 problemas	 en	 diferentes	 entornos,	 implementar	 y	
+supervisar	proyectos	tecnológicos	en	el	sector	público	o	privado.		
+§ Gestionar	 y	 actuar	 en	 grupos	 de	 trabajo	 multidisciplinarios	 en	 su	 ámbito	 de	
+competencia.	
+ 
+ 
+DEDICACIÓN HORARIA 
+SEMANAL EXCLUSIVA DEL 
+PROGRAMA PARA LA 
+INVESTIGACIÓN: 
+  
+20 Horas (Teoría) 
+20 Horas (Investigación)	
+	
+DIRIGIDO A:  
+Postulantes	 con	 título	 universitario	 en	
+Ingeniería	
+Electrónica,	
+Mecatrónica,	
+Eléctrica	u	otros	en	ingeniería	con	probada	
+experiencia	en	el	sector	de	la	Electrónica.	
+También	podrán	acceder	estudiantes	con	
+título	universitario	equivalente	al	grado	de	
+ingeniero,	que	hayan	cursado	y	culminado	
+una	Maestría	cursada	a	nivel	nacional	o	en	
+el	 extranjero.	 La	 pertinencia	 de	 las	
+convalidaciones	 será	 analizada	 por	 la	
+Comisión	 Asesora	 del	 Programa	 de	
+Maestría.	
+	
+ 
+ 							
+													PROGRAMA	DE	APOYO	A	LA	FORMACIÓN	DE	DOCENTES-INVESTIGADORES	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Para	más	información	comunicarse	con:		
+Prof.	Dr.	JORGE	E.	RODAS	BENITEZ,	Coordinador	del	Programa	
+Universidad	del	Cono	Sur	de	las	Américas	(UCSA)		
+	
+	
+Website:	https://sites.google.com/view/mie-ucsa/	
+Tel.:	+595-21-221103	 	
+	
+	
+	
+	
+	
+Email:	mie@ucsa.edu.py		
+1. Requisitos Documentales: 
+a)
+Copia	impresa	y	digital	del	Curriculum	Vitae	del	candidato,	en	formato	“CVpy”	del	
+CONACYT,	
+disponible	
+en	
+la	
+siguiente	
+dirección	
+electrónica,	
+(http://www.conacyt.gov.py);	
+b)
+Dos	(2)	fotografías	3x4	cm	recientes;	
+c)
+Dos	(2)	fotocopias	autenticadas	del	Diploma	de	Grado	y	del	Certificado	de	Estudios	de	
+una	carrera	con	una	duración	mínima	de	2700	horas	reloj	presenciales	y	cuatro	años	
+de	duración	como	mínimo	debidamente	legalizado,	incluyendo	las	convalidaciones	en	
+el	caso	de	títulos	extranjeros;	
+d)
+Dos	(2)	fotocopias	autenticadas	de	Cédulas	de	Identidad	Civil	vigente,	o	en	el	caso	de	
+candidatos	extranjeros,	dos	(2)	copias	impresas	y	digital	de	su	pasaporte.	
+e)
+Carta	de	recomendación	de	dos	(2)	profesores	o	docentes	investigadores.	
+f)
+Certificado	o	constancia	de	suficiencia	del	idioma	Inglés	(Deseable).	
+	
+Obs.:	Para	el	caso	de	alumnos	que	posean	título	de	Mastría	y	deseen	acceder	al	Programa	se	
+solicitará	además	dos	(2)	fotocopias	autenticadas	del	Diploma	de	Maestría	y	del	Certificado	de	
+Estudios	de	la	Maestría	cursada.	La	pertinencia	de	las	convalidaciones	será	analizada	por	la	
+Comisión	Asesora	del	programa.	
+	
+2. Proceso de admisión: Inscripción 
+a)
+La	gestión	del	proceso	de	admisión	al	estará	a	cargo	de	una	Comisión	de	Admisión	
+conformada	 para	 el	 efecto	 por	 el	 Coordinador	 del	 Programa	 de	 Postgrado.	 Los	
+interesados	en	cursar	la	Maestría	en	Ingeniería	Electrónica	con	Énfasis	en	Energías	
+Renovables	y	Eficiencia	Energética,	deberán	pasar	obligatoriamente	por	el	proceso	
+de	admisión	establecido;	
+b)
+Cumplir	con	todos	los	requisitos	documentales;	
+c)
+Presentarse	a	una	evaluación	presencial	psicológica	y	técnica	donde	se	elaborarán	
+dos	actas	de	evaluación,	una	por	cada	caso;	
+d)
+Firmar	una	carta	compromiso	institucional	con	la	UCSA,	asumiendo	las	obligaciones	
+inherentes	al	desarrollo	del	Programa	de	Maestría;	
+e)
+Todos	 los	 estudiantes	 admitidos	 podrán	 optar	 al	 Programa	 de	 Incentivos	 para	 la	
+Formación	de	Docentes-Investigadores	ofrecido	por	el	CONACYT.  
+PROCESO	DE	ADMISIÓN	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NOTA: 
+Todos 
+los 
+estudiantes 
+admitidos, 
+además 
+de 
+cursar 
+el 
+programa 
+en 
+forma 
+gratuita podrán optar al 
+Programa de Incentivos 
+para 
+la 
+Formación 
+de 
+Docentes-Investigadores 
+ofrecido por el CONACYT, 
+que consiste en una ayuda 
+monetaria adicional que le 
+exigirá dedicación horaria 
+exclusiva al programa 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GUÍA DE ADMISIÓN DE ESTUDIANTES  
+A LOS PROGRAMAS DE POSGRADO APOYADOS POR 
+EL CONACYT EN LA CONVOCATORIA 2017 DEL 
+PROGRAMA PROCIENCIA 
+ 
+ 
+CONVOCATORIA 2018 
+ 
+ 
+ 
+ 
+Agosto, 2018 
+  
+ 
+ 
+GUÍA DE ADMISION DE ESTUDIANTES – CONVOCATORIA 
+2018 
+2 
+ 
+Contenido 
+1. 
+Consideraciones Generales ........................................................................................... 3 
+2. 
+Programas de posgrados ............................................................................................... 3 
+2.1. 
+Características de los programas de posgrados ....................................................... 4 
+3. 
+Destinatarios .................................................................................................................. 5 
+4. 
+Requisitos generales de postulación ............................................................................ 5 
+5. 
+Etapas del proceso de admisión.................................................................................... 6 
+5.1. 
+Publicación de la convocatoria .................................................................................. 6 
+5.2. 
+Postulación por parte del interesado/a .................................................................... 6 
+5.3. 
+Recepción de postulaciones y verificación de documentos por parte de la IB ...... 7 
+5.4. 
+Evaluación de postulantes ......................................................................................... 7 
+5.5. 
+Selección de admitidos .............................................................................................. 8 
+5.6. 
+Publicación de la nómina oficial de admitidos ......................................................... 8 
+5.7. 
+Firma de carta acuerdo .............................................................................................. 8 
+6. 
+Disposiciones generales ................................................................................................. 9 
+Anexo 1 ................................................................................................................................ 10 
+DISPONIBILIDAD DE TIEMPO PARA DEDICARSE AL PROGRAMA ....................................... 10 
+Anexo 2 ................................................................................................................................ 11 
+CARTA ACUERDO ENTRE EL ESTUDIANTE Y EL CONACYT .................................................. 11 
+Anexo 3 ................................................................................................................................ 12 
+CARTA ACUERDO ENTRE EL ESTUDIANTE Y LA INSTITUCIÓN EDUCATIVA ....................... 12 
+Anexo 4 ................................................................................................................................ 13 
+DECLARACIÓN PARA AUTORIZACIÓN DE ACCESO A INFORMACIÓN ACADÉMICA .......... 13 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+GUÍA DE ADMISION DE ESTUDIANTES – CONVOCATORIA 
+2018 
+3 
+ 
+ 
+1. Consideraciones Generales 
+ 
+La presente guía establece los lineamientos que orientará la fase de admisión de 
+estudiantes a los programas de posgrado adjudicados en el marco del Programa de 
+Apoyo para la Formación de Docentes-Investigadores de la convocatoria 2017. La misma 
+se encuentra en concordancia con los siguientes documentos: 
+ 
+a. Guía de Bases y condiciones del Programa de Apoyo a la Formación de Docentes-
+Investigadores, Convocatoria 2017.  
+b. Guía de Ejecución del Programa de Apoyo a la Formación de Docentes-
+Investigadores, Convocatoria 2017.  
+c. Resolución de Adjudicación de programas de posgrado.  
+d. Contrato entre el CONACYT y la Institución beneficiaria. 
+e. Adendas a la Guía de Ejecución y al Contrato, si las hubiere.  
+ 
+El objetivo de la Guía de admisión es brindar un marco procedimental que oriente las 
+acciones vinculadas al proceso de admisión de los estudiantes a los programas de 
+posgrados. 
+ 
+El documento organiza la fase de admisión en siete etapas:  
+1. Publicación de la convocatoria  
+2. Postulación por parte del interesado 
+3. Recepción de postulaciones y verificación de documentos por parte de la IB 
+4. Evaluación de postulantes 
+5. Selección de admitidos 
+6. Publicación de la nómina oficial de admitidos 
+7. Firma de carta acuerdo 
+ 
+Cabe mencionar que el proceso de admisión será responsabilidad exclusiva de la 
+Institución Beneficiaria (IB). 
+ 
+2. Programas de posgrados 
+La convocatoria de admisión a los programas iniciará a partir de la firma de contrato 
+entre la IB y el CONACYT. Para dicho proceso, la nómina de programas de posgrados es 
+la siguiente:  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+GUÍA DE ADMISION DE ESTUDIANTES – CONVOCATORIA 
+2018 
+4 
+ 
+ 
+ 
+2.1. Características de los programas de posgrados 
+a) Orientados a la formación de investigadores. 
+b) De carácter extensivo y dedicación completa por parte de los estudiantes 
+admitidos, según los requisitos del programa de posgrado. 
+c) Apunta a resolver un problema o necesidad o generar oportunidades que 
+respondan a la realidad del país y/o la región a través de la formación de capital 
+humano.  
+d) Gratuitos, las IB no podrán cobrar ningún tipo de arancel, cuota o matrícula a 
+los estudiantes mientras dure el desarrollo del programa apoyado por el 
+CONACYT.  
+Código 
+Organización 
+Nombre del proyecto  
+Nivel 
+Áreas de la 
+ciencia 
+POSG17-31 
+Universidad Católica Nuestra 
+Señora de la Asunción - UC - 
+Facultad de Ciencias y 
+Tecnología 
+Gestión de Riesgo de Desastre y 
+Adaptación al Cambio Climático 
+Maestría 
+Ciencias 
+Naturales 
+POSG17-34 
+Universidad Americana - UA 
+Maestría en Investigación del 
+Hábitat y la Vivienda Sustentables 
+Maestría 
+Ingeniería y 
+Tecnología 
+POSG17-51 
+Facultad de Ingeniería - FIUNA - 
+UNA 
+Maestría en Ingeniería de 
+Recursos Hídricos 2da Edición 
+Maestría 
+Ingeniería y 
+Tecnología 
+POSG17-53 
+Facultad Politécnica - FPUNA - 
+UNA 
+Doctorado Científico en Ciencias 
+de la Computación 2017 
+Doctorado 
+Ciencias 
+Naturales 
+POSG17-59 
+Instituto de Investigaciones en 
+Ciencias de la Salud - IICS - UNA 
+Maestría en Ciencias Biomédicas 
+Maestría 
+Ciencias 
+Médicas 
+POSG17-61 
+Facultad de Ciencias Químicas - 
+FCQ - UNA 
+Maestría en Ciencias 
+Farmacéuticas 
+Maestría 
+Ciencias 
+Médicas 
+POSG17-62 
+Facultad Politécnica - FPUNA - 
+UNA 
+Maestría Científica en Ciencias de 
+la Computación 
+Maestría 
+Ciencias 
+Naturales 
+POSG17-69 
+Universidad del Cono Sur de las 
+Américas - UCSA 
+Maestría en Ingeniería Electrónica 
+con Énfasis en Energías 
+Renovables y Eficiencia Energética 
+Maestría 
+Ingeniería y 
+Tecnología 
+POSG17-93 
+Universidad Católica Nuestra 
+Señora de la Asunción - UC - 
+Facultad de Ciencias y 
+Tecnología 
+Maestría en Informática Con 
+Énfasis en Investigación e 
+Innovación 
+Maestría 
+Ingeniería y 
+Tecnología 
+POSG17-105 
+Facultad de Ciencias Químicas - 
+FCQ - UNA 
+Maestría en Química Ambiental 
+Maestría 
+Ciencias 
+Naturales 
+  
+ 
+ 
+GUÍA DE ADMISION DE ESTUDIANTES – CONVOCATORIA 
+2018 
+5 
+ 
+3. Destinatarios  
+Los programas de posgrados están orientados a formar investigadores en las diferentes 
+áreas de la ciencia que fueran adjudicado en la convocatoria 2017. Los requisitos para 
+la admisión han sido preestablecidos por cada uno de las Institución que tiene a su cargo 
+el desarrollo de los programas de posgrados. (Revisar brochure).  
+ 
+La IB deberá garantizar la admisión de estudiantes al programa de posgrado, ya sean 
+éstos provenientes de instituciones públicas o privadas, siempre y cuando las mismas se 
+encuentren legalmente reconocidas y habilitadas por las instancias competentes. 
+ 
+4. Requisitos generales de postulación 
+ Ser paraguayo/a o extranjero/a con residencia legal y domicilio real en la 
+República del Paraguay. 
+ Declarar disponibilidad de tiempo para la dedicación a los requerimientos del 
+programa de posgrado (Anexo 1) 
+ Poseer como mínimo título de grado y certificado de estudios, registrado y 
+legalizado en el Ministerio de Educación y Ciencias. 
+ Poseer título de posgraduación a nivel de maestría y certificado de calificaciones 
+para los candidatos a cursar un doctorado (registrado y legalizado en el 
+Ministerio de Educación y Ciencias). 
+ Completar el CVPy del CONACYT. Es obligatorio marcar en el CV-PY la opción 
+“Publicar” de modo a que el mismo se encuentre visible al público y pueda ser 
+evaluado. 
+ Postular al programa de posgrado deseado a través del Sistema de Postulación 
+de Instrumentos del CONACYT (SPI) 
+ No encontrarse aplicando a otras becas ofrecidas por otras instituciones 
+nacionales e internacionales. 
+La Institución Beneficiaria (IB) podrá establecer procesos adicionales que serán 
+mencionados en el brochure (folleto publicitario) del programa de posgrado al que 
+desea postular. Los mismos estarán publicados en la Página web del CONACYT y de la 
+IB. 
+ 
+  
+ 
+ 
+GUÍA DE ADMISION DE ESTUDIANTES – CONVOCATORIA 
+2018 
+6 
+ 
+5. Etapas del proceso de admisión 
+5.1. Publicación de la convocatoria  
+Una vez firmado el Contrato entre la IB y el CONACYT, se realizará difusión nacional de 
+la convocatoria tanto en la Página Web del CONACYT como de la IB, así también por 
+otros medios masivos de comunicación.  
+La IB deberá considerar los siguientes datos en la publicación a realizar: 
+1. Establecer fecha y hora de inicio y finalización de la convocatoria, como también 
+mencionar una fecha tentativa de publicación de resultados.  
+2. Requisitos para ser admitido al programa. 
+3. Brochure del programa. En el que se describe los requisitos y condiciones del 
+Programa de posgrado. 
+4. Especificar teléfono, correo y la persona responsable que responderá a las 
+consultas.  
+5.2. Postulación por parte del interesado/a 
+Los interesados a ser admitidos al programa de posgrados deberán seguir los siguientes 
+pasos: 
+ 
+Paso 1: Completar el CVPy  
+ Ingresar a https://cv.conacyt.gov.py/user 
+ Registrarse (en caso de ser nuevo usuario) 
+ Ingresar todos sus datos en el CVPy. 
+ Marcar la opción “Publicar” de modo a que el mismo se encuentre visible al 
+público 
+ 
+Es importante que el postulante se tome el tiempo para completar los campos 
+requeridos en el CVPy ya que a través del CVpy se evaluará el perfil del mismo para su 
+admisión al programa. 
+ 
+Paso 2: Postular al programa de posgrado deseado a través del Sistema de Postulación 
+de Instrumentos - SPI 
+ 
+ Ingresar a https://spi.conacyt.gov.py/user 
+ Iniciar sesión con el mismo usuario y clave de acceso del CVPy 
+ Seleccionar el programa de posgrado que deseada cursar 
+ Completar los datos requeridos y adjuntar los documentos solicitados: 
+o Foto Tipo Carnet Actualizada. 
+o Nota de presentación de la postulación al programa de posgrado dirigida 
+a la coordinación del programa de posgrado (redacción libre). 
+  
+ 
+ 
+GUÍA DE ADMISION DE ESTUDIANTES – CONVOCATORIA 
+2018 
+7 
+ 
+o Fotocopia simple del documento de identidad vigente (cédula de 
+identidad civil o pasaporte). 
+o Fotocopia del título de grado. 
+o Fotocopia del certificado de estudios de grado. 
+o Fotocopia del título de maestría para postulaciones a doctorados. 
+o Fotocopia del certificado de estudios de posgrado (si corresponde. 
+o Otros documentos solicitados por la IB para la admisión al programa. 
+ 
+ 
+Paso 3: Finalizar la postulación 
+ 
+Todas las postulaciones generarán un único código, es importante que los interesados 
+se tomen el tiempo suficiente para cargar sus documentaciones y evitar generar varios 
+códigos, para ello, se recomienda que el postulante cuente con toda la documentación 
+escaneada al momento de postular, o bien, en caso de suspender y/o reanudar la carga 
+de documentos, podrá realizarlo seleccionando: “Cerrar sesión”.  
+Una vez que culmine la carga de datos y documentos, deberá hacer clic sobre el botón 
+“Finalizar” para enviar su postulación a la IB, posterior a esto, ya no se podrá editar el 
+formulario. 
+No se podrá postular a más de un programa de posgrado. En caso de recibir dos 
+postulaciones de una misma persona, se tomará como válida la primera postulación 
+finalizada por el postulante.  
+ 
+El formulario de postulación tendrá carácter de declaración jurada, junto con los 
+documentos requeridos, que deberá n ser subidos al SPI y/o presentados en físico según 
+lo requiera la IB. 
+ 
+ 
+5.3. Recepción de postulaciones y verificación de documentos por parte de la IB 
+Una vez finalizado el periodo de Postulación, el responsable designado por la IB 
+deberá: 
+ 
+ Acceder a cada postulación  
+ Verificar los documentos adjuntos, la información proporcionada en el CVPy y el 
+cumplimiento de los requerimientos establecidos en la convocatoria. 
+ 
+5.4. Evaluación de postulantes 
+La IB deberá conformar un comité evaluador que garantizará la transparencia integral 
+del proceso a través de actas, grillas de evaluación, guía de entrevista, lista de cotejo, 
+entre otros que considere. Cada IB podrá agregar tantas actividades de evaluación como 
+  
+ 
+ 
+GUÍA DE ADMISION DE ESTUDIANTES – CONVOCATORIA 
+2018 
+8 
+ 
+considere (Ej.: examen de idiomas, examen de conocimientos, test psicométricos, 
+entrevistas, etc.), que deberán ser descriptos en el brochure de cada programa de 
+posgrado.  
+ 
+En el caso que la IB decida realizar entrevistas deberá informar al CONACYT el lugar, 
+fecha y horario. De considerarlo necesario, el equipo técnico podrá asistir como 
+observador de las entrevistas. 
+ 
+5.5. Selección de admitidos 
+Una vez que la IB haya culminado con el proceso de admisión, deberá remitir al 
+CONACYT la nómina oficial de estudiantes admitidos a través de acta y/o resolución 
+conforme a los criterios, puntuaciones y procedimientos establecidos por cada IB. 
+ 
+5.6. Publicación de la nómina oficial de admitidos 
+El CONACYT publicará la nómina oficial de admitidos en su página Web. Estos resultados 
+son de carácter inapelable. Las consultas sobre el proceso podrán recibirlas hasta 5 
+(cinco) días corridos desde la publicación de los resultados finales. Las consultas deberán 
+realizarse por correo electrónico mencionado en el brochure del programa de posgrado. 
+ 
+5.7. Firma de carta acuerdo 
+Todos los estudiantes admitidos a los programas de posgrado serán considerados 
+BECARIOS y deberán formalizar su compromiso con el CONACYT, a través de la firma de 
+una carta acuerdo (ANEXO 2) y del reglamento general de becarios.  
+ 
+Todos los estudiantes admitidos a los programas de posgrado deberán formalizar su 
+compromiso con la Institución Educativa que imparte el programa de posgrado al cual 
+fue admitido, a través de la firma de una carta acuerdo (ANEXO 3). En dicho acuerdo el 
+estudiante se compromete a cumplir con los requerimientos y la reglamentación 
+establecidos por la institución, así como también a las penalizaciones correspondientes 
+en caso de incumplimiento. 
+ 
+Todos los estudiantes admitidos a los programas de posgrado deberán otorgar una 
+autorización o permiso a la IB para que esta pueda brindar información sobre su historial 
+académico al CONACYT al momento de ser requerido (ANEXO 4). 
+ 
+ 
+  
+ 
+ 
+GUÍA DE ADMISION DE ESTUDIANTES – CONVOCATORIA 
+2018 
+9 
+ 
+6. Disposiciones generales 
+Los aspectos no previstos en esta guía de admisión y cualquier otra situación emergente 
+que se considere pertinente en el beneficio del desarrollo del programa de posgrado 
+adjudicado podrán ser resueltos por intervención del Equipo Técnico del CONACYT y la 
+IB. 
+ 
+ 
+  
+ 
+ 
+GUÍA DE ADMISION DE ESTUDIANTES – CONVOCATORIA 
+2018 
+10 
+ 
+Anexo 1 
+ 
+DISPONIBILIDAD DE TIEMPO PARA DEDICARSE AL PROGRAMA 
+ 
+DECLARACIÓN JURADA 
+ 
+Declaro, para los debidos fines, que yo, (nombre completo)___________________, de 
+nacionalidad ____________, de profesión _______________, domiciliado/a en 
+_______________________ ,con Cédula de Identidad Civil No.______________, declaro 
+contar con disponibilidad de tiempo para dedicarme la cantidad de horas requeridas por 
+el  Programa denominado: ____________________________________, de la Facultad 
+___________________ de la Universidad______________________, apoyado por el 
+CONACYT. 
+ 
+ 
+ 
+Firma del postulante: ______________________________  
+Fecha: ________________________________________ 
+ 
+ 
+  
+ 
+ 
+GUÍA DE ADMISION DE ESTUDIANTES – CONVOCATORIA 
+2018 
+11 
+ 
+ 
+Anexo 2 
+CARTA ACUERDO ENTRE EL ESTUDIANTE Y EL CONACYT 
+ 
+Yo ______________, con documento de identidad nº __________, de nacionalidad 
+__________, nacido en ________, habiendo leído el reglamento de becarios del 
+CONACYT, y aceptando los términos y condiciones pactados en el documento, me 
+COMPROMETO a cumplir los mismos, a entregar el resumen de mi tesis y la tesis 
+completa al CONACYT para su divulgación y a informar sobre las publicaciones e 
+investigaciones realizadas en el marco del Programa de Posgrado.  
+Así también, me comprometo a actualizar mis datos en el CVPy al menos una vez al año 
+y completar la encuesta de satisfacción o cualquier otra encuesta proporcionada por el 
+CONACYT. 
+Autorizo al Consejo Nacional de Ciencia y Tecnología – CONACYT a aplicar las sanciones, 
+amonestaciones u otros correspondientes en caso de incumplimiento de los 
+compromisos asumidos. 
+Por otra parte, el CONACYT se compromete a velar por los derechos y obligaciones de 
+los/as becarios/as del programa de posgrado apoyado por el CONACYT.  
+ 
+En ________, a ___ del mes de _______ del año 2018. 
+ 
+ 
+ 
+Becario/a 
+ 
+Ministro-Presidente del CONACYT 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+GUÍA DE ADMISION DE ESTUDIANTES – CONVOCATORIA 
+2018 
+12 
+ 
+ 
+ 
+ 
+ 
+Anexo 3 
+CARTA ACUERDO ENTRE EL ESTUDIANTE Y LA INSTITUCIÓN EDUCATIVA 
+ 
+Yo ______________, con documento de identidad nº __________, de nacionalidad 
+__________, nacido en ________, me comprometo a cumplir con los requerimientos y 
+la reglamentación de la____________ (Nombre de la institución) a la que fui admitido/a 
+como estudiante del Programa denominado “__________________” aceptando las 
+condiciones establecidas y sometiéndome a las penalizaciones correspondientes en 
+caso de incumplimiento. 
+Por otra parte, la Institución Educativa se compromete a velar por el cumplimiento de 
+los derechos y obligaciones de los/as estudiantes del programa de posgrado apoyado 
+por el CONACYT. 
+En ________, a ___ del mes de _______ del año 2018. 
+ 
+ 
+ 
+ 
+Becario/a 
+ 
+Representante  
+Legal de la Institución 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+GUÍA DE ADMISION DE ESTUDIANTES – CONVOCATORIA 
+2018 
+13 
+ 
+Anexo 4 
+DECLARACIÓN PARA AUTORIZACIÓN DE ACCESO A INFORMACIÓN ACADÉMICA 
+Yo ______________, con documento de identidad nº __________, de nacionalidad 
+__________, nacido en ________, autorizo a la Institución “________________”, en el 
+marco del programa de posgrado denominado “_____________________” , del cual soy 
+estudiante, a proporcionar  cualquier tipo de información y documentación de índole 
+académico correspondiente al programa mencionado, para los fines que el CONACYT 
+considere pertinente.  
+ 
+En ________, a ___ del mes de _______ del año 2018. 
+ 
+ 
+ 
+Becario/a 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REGLAMENTO DE BECARIOS NO INCENTIVADOS DEL PROGRAMA DE 
+FORMACION DE DOCENTES INVESTIGADORES.  
+ 
+ 
+CONVOCATORIA 2018 
+ 
+ 
+ 
+Agosto, 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+REGLAMENTO GENERAL DE BECARIOS NO INCENTIVADOS 
+– CONVOCATORIA 2018 
+2 
+ 
+Contenido 
+1. 
+OBJETIVO DEL REGLAMENTO ........................................................................................ 3 
+2. 
+DERECHOS Y OBLIGACIONES DEL BECARIO .................................................................. 3 
+3. 
+CAUSALES PARA APLICACIÓN DE SANCIONES POR PARTE DEL CONACYT .................. 4 
+4. 
+SANCIONES APLICABLES POR PARTE DEL CONACYT .................................................... 5 
+ 
+ 
+  
+ 
+ 
+REGLAMENTO GENERAL DE BECARIOS NO INCENTIVADOS 
+– CONVOCATORIA 2018 
+3 
+ 
+ 
+1. OBJETIVO DEL REGLAMENTO 
+El programa de Apoyo a la Formación de Docentes-Investigadores (apoyo al 
+fortalecimiento de programas de posgrado), tiene como objetivo la formación de 
+investigadores. 
+El presente reglamento tiene como finalidad establecer las normas específicas que 
+deberán cumplir los becarios de los programas apoyados por el CONACYT en su 
+convocatoria 2017 del Programa de Apoyo a la Formación de docentes-investigadores. 
+En el documento, se establecen los derechos y obligaciones de los becarios admitidos a 
+los programas apoyados por el CONACYT. 
+ 
+2. DERECHOS Y OBLIGACIONES DEL BECARIO  
+Son derechos y obligaciones de los becarios del programa de posgrado apoyado por el 
+CONACYT, los siguientes: 
+ 
+2.1 Derechos: 
+ Disponer de copia del reglamento del programa. 
+ Disponer de la resolución, acta o lista de admisión emitida por la IB. 
+ Disponer de una copia de la carta acuerdo firmada. 
+ Recibir los beneficios contemplados en el cursado del programa de posgrado. 
+ Ser sujeto de aplicación del presente reglamento. 
+ Recibir información oportuna del Equipo Técnico del CONACYT y de la IB. 
+ 
+2.2 Obligaciones: 
+ Disponer de copia y conocimiento del reglamento de becarios 
+ Cumplir el presente reglamento, así como el reglamento académico y las 
+disposiciones académicas del programa de posgrado y las IB. 
+ Firmar la carta acuerdo con el CONACYT. 
+ Aprobar las exigencias académicas del programa de posgrado y la IB. 
+ Matricularse y cursar el programa de posgrado.  
+ Aprobar todas las materias correspondientes a cada semestre/año académico 
+en tiempo y forma.  
+ Cumplir con el promedio de asistencia requerido que será fijado por la IB. 
+ Entregar al CONACYT informaciones pertinentes y veraces. 
+ Completar la encuesta de satisfacción o cualquier otra encuesta proporcionada 
+por el CONACYT. 
+  
+ 
+ 
+REGLAMENTO GENERAL DE BECARIOS NO INCENTIVADOS 
+– CONVOCATORIA 2018 
+4 
+ 
+ Participar de los programas de ex becarios, actividades o redes de becarios o 
+brindar información al CONACYT. 
+ Disponer de una dirección de correo electrónico válido para comunicarse y 
+recibir comunicaciones de la IES y el CONACYT. 
+ Otras obligaciones pertinentes a la condición de becario, comunicadas en 
+tiempo y forma por el CONACYT. 
+ El domicilio y dirección de correo electrónico proveída por el becario será 
+plenamente válido a todos los efectos legales y serán vigentes, hasta que no 
+exista una comunicación escrita al CONACYT oficializando el cambio. Además, 
+deberá realizar un croquis con todas las referencias e indicadores referenciales 
+para localizar el mismo – domicilio- debidamente firmado. 
+ Registrar asistencia a clases, en el recurso establecido para el efecto. El recurso 
+a ser utilizado será comunicado por la IB. 
+ El becario deberá entregar el resumen de tesis aprobado en formato digital con 
+una autorización para que el CONACYT pueda publicar el documento. 
+ El becario deberá entregar una copia de la tesis en formato digital, una vez que 
+la misma haya sido defendida con una autorización para que el CONACYT pueda 
+publicar el documento completo, respetando los derechos de autor del becario. 
+ El becario deberá entregar un póster científico con los resultados obtenidos en 
+la tesis en formato digital, según las indicaciones de formato que establezca el 
+CONACYT. 
+ El becario deberá otorgar una autorización o permiso a la IB para que esta 
+pueda brindar información sobre su historial académico al CONACYT. 
+ El becario deberá actualizar los datos en el CVPy al menos una vez al año. 
+ 
+3. CAUSALES PARA APLICACIÓN DE SANCIONES POR PARTE DEL CONACYT 
+El CONACYT establece las siguientes causales para la aplicación de sanciones: 
+ 
+ Renuncia expresa del becario. 
+ Incumplimiento de las obligaciones establecidas en el presente reglamento. 
+ Falsedad comprobada de las informaciones suministradas al CONACYT. 
+ Deshonestidad académica comprobada (plagio académico). 
+ Atentar contra los intereses del CONACYT 
+  
+ 
+ 
+REGLAMENTO GENERAL DE BECARIOS NO INCENTIVADOS 
+– CONVOCATORIA 2018 
+5 
+ 
+ Incumplimiento de lo establecido en la carta acuerdo, declaraciones juradas 
+presentadas al CONACYT. 
+ No asistir a clases en un período superior a 10 días corridos, sin justificación y 
+aprobación de la IB.   
+ Realizar cualquier acción que perjudique la imagen del CONACYT y/o de la IB. 
+Todo reclamo debe ser canalizado por escrito y de forma personal por cada 
+becario al CONACYT. 
+ 
+4. SANCIONES APLICABLES POR PARTE DEL CONACYT 
+Las sanciones que podrían ser aplicada en base a las causales citadas anteriormente 
+será: 
+ 
+ Amonestación por escrito. 
+ Comunicaciones a las instancias correspondientes ante casos punibles o de 
+corrupción. 
+ Inhabilitación a postular a otros instrumentos del CONACYT, por un período de 
+05 (cinco) años. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“REGLAMENTO PARA EL PROGRAMA DE 
+INCENTIVOS” 
+ 
+CONVOCATORIA 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Agosto, 2018 
+  
+ 
+ 
+ 
+ 
+REGLAMENTO PROGRAMA DE INCENTIVOS. 
+CONVOCATORIA 2018 
+2 
+ 
+Contenido 
+REGLAMENTO DEL PROGRAMA DE INCENTIVOS PARA LA FORMACIÓN DE DOCENTES-
+INVESTIGADORES ..................................................................................................................... 3 
+I. 
+DISPOSICIONES GENERALES ............................................................................................ 3 
+II. 
+BENEFICIARIOS ................................................................................................................. 4 
+III. RESTRICCIONES ................................................................................................................ 4 
+IV. CARACTERÍSTICA DEL PROGRAMA DE INCENTIVOS ....................................................... 5 
+V. 
+DEL FINANCIAMIENTO ..................................................................................................... 6 
+VI. DE LA FIRMA DE CONTRATOS ......................................................................................... 7 
+VII. 
+DE LOS DERECHOS Y DE LAS OBLIGACIONES DE LOS BECARIOS DEL INCENTIVO 
+PARA LA DEDICACIÓN EXCLUSIVA ........................................................................................... 7 
+VIII. 
+DERECHOS Y OBLIGACIONES DEL CONACYT ............................................................... 9 
+IX. RENOVACIÓN ANUAL DEL INCENTIVO ......................................................................... 10 
+X. 
+CANCELACIÓN DEL INCENTIVO ..................................................................................... 11 
+XI. DEL MONITOREO Y SEGUIMIENTO ............................................................................... 11 
+XII. 
+REVISIÓN DEL INFORME DE AVANCE TÉCNICO ........................................................ 12 
+XIII. 
+RENUNCIA Y RESCISIÓN DE CONTRATO .................................................................... 13 
+XIV. 
+ÉTICA, DESHONESTIDAD ACADÉMICA Y CORRUPCIÓN ............................................ 14 
+XV. 
+SANCIONES ................................................................................................................. 15 
+15.2 Clasificación de causales de amonestaciones .............................................................. 15 
+XVI. 
+DISPOSICIONES FINALES ............................................................................................. 16 
+Anexo 1 ................................................................................................................................... 17 
+DISPONIBILIDAD DE TIEMPO PARA DEDICARSE EN FORMA EXCLUSIVA AL PROGRAMA ... 17 
+DECLARACIÓN JURADA .......................................................................................................... 17 
+Anexo 2 ................................................................................................................................... 18 
+CARTA DE COMPROMISO DEL POSTULANTE CON EL CONACYT ......................................... 18 
+Anexo 3 ................................................................................................................................... 20 
+CARTA DE DECLARACIÓN DE INTERESES .............................................................................. 20 
+Anexo 4 ................................................................................................................................... 21 
+INFORME DE AVANCE TÉCNICO ANUAL ............................................................................... 21 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+REGLAMENTO PROGRAMA DE INCENTIVOS. 
+CONVOCATORIA 2018 
+3 
+ 
+REGLAMENTO DEL PROGRAMA DE INCENTIVOS PARA LA FORMACIÓN DE DOCENTES-
+INVESTIGADORES 
+En el documento, se establecen las condiciones, requisitos y procedimientos para la 
+asignación de incentivos del “Programa de Incentivos para la Formación de Docentes 
+Investigadores” en el marco del Programa para la Formación de Docentes-Investigadores 
+del PROCIENCIA. 
+Los fondos son provenientes del FONACIDE, específicamente del Fondo para la Excelencia 
+de la Educación y la Investigación (FEEI), según lo establece la Ley Nº 4758/12 del 21 de 
+septiembre de 2012 y sus reglamentaciones. 
+Los recursos financieros transferidos no reembolsables, a través del Presupuesto General 
+de Gastos de la Nación, por su naturaleza, se deberán dar cumplimiento a las 
+disposiciones legales establecidas en materia de rendición de cuentas, las cuales se citan 
+a continuación: 
+a) Ley del FONACIDE Nº 4758/12 del 21 de septiembre de 2012 y sus 
+reglamentaciones. 
+b) Ley que aprueba el Presupuesto General de la Nación para el Ejercicio Fiscal, 
+Decreto Reglamentario y las subsiguientes reglamentaciones para cada ejercicio 
+fiscal. 
+c) Reglamento del programa de incentivos para la formación de docentes-
+investigadores”. 
+d) Guía de Bases y Condiciones.  
+e) Contrato firmado con el beneficiario del Programa de Incentivos y anexos.  
+f) Y demás normativas legales vigentes en el ámbito de la Administración Pública 
+del Estado y las modificaciones que pudieran surgir durante la vigencia del 
+Contrato. 
+ 
+I. 
+DISPOSICIONES GENERALES 
+El Programa de Apoyo a la Formación de Docentes-Investigadores (apoyo al 
+fortalecimiento de programas de posgrado), tiene como objetivo la formación de 
+investigadores. 
+El presente reglamento tiene como finalidad establecer las normas específicas que 
+sustenten las decisiones durante el proceso adjudicación, usufructo y permanencia en el 
+programa de incentivo en el marco Programa de posgrado cofinanciado por el CONACYT 
+dentro del Programa PROCIENCIA. 
+El Programa de incentivos tiene como objetivo ampliar y fortalecer la base científica y 
+tecnológica nacional, mediante la incorporación de personal calificado al proceso de la 
+generación del conocimiento y su manejo, dentro de las áreas prioritarias de acción y las 
+políticas de ciencia y tecnología definidas por el CONACYT.  
+  
+ 
+ 
+ 
+ 
+REGLAMENTO PROGRAMA DE INCENTIVOS. 
+CONVOCATORIA 2018 
+4 
+ 
+La aplicación del presente reglamento estará a cargo del Consejo Nacional de Ciencia y 
+Tecnología (CONACYT) y de la Institución Beneficiaria (IB) que hayan sido adjudicadas en 
+el marco del Programa de Apoyo para la Formación de Docentes-Investigadores de la 
+convocatoria 2017.  
+II. 
+BENEFICIARIOS 
+El Programa de Incentivos está dirigido a estudiantes admitidos que se dediquen en 
+forma exclusiva y completa a las exigencias del PROGRAMA DE POSGRADO. 
+ Personas admitidas previamente a los programas de posgrados adjudicados 
+por el CONACYT en la convocatoria 2017. 
+ Ser paraguayo/a o extranjero/a con residencia legal y domicilio real en la 
+República del Paraguay. 
+ Declarar disponibilidad de tiempo para dedicarse en forma exclusiva y 
+completa (mínimo 8 horas diarias) al programa de posgrado al que postula. 
+ Tener hasta 35 años de edad para programas de maestría y 40 años de edad 
+para programas de doctorado, al momento de postularse. 
+ Poseer título de graduación y certificado de estudios de la carrera de grado 
+universitario, registrado y legalizado por el Ministerio de Educación y Ciencias. 
+ Poseer título de posgraduación a nivel de maestría para los candidatos a 
+cursar un programa de doctorado. 
+ Acreditar un promedio general de grado de calificaciones igual o superior al 
+establecido por la Institución Beneficiaria del programa de posgrado al 
+momento de presentar su candidatura al programa de incentivo. 
+III. 
+RESTRICCIONES 
+No podrán solicitar el usufructo del PROGRAMA DE INCENTIVOS: 
+a) Aquellas que no puedan dedicarse en forma exclusiva y completa a las exigencias 
+del Programa de Posgrado. 
+b) Aquellas que se encuentren aplicando a otras becas ofrecidas por otras 
+instituciones nacionales e internacionales. (Anexo 2) 
+c) Aquellas que fueron adjudicadas por otras becas y/o apoyos financiados con 
+recursos del sector público y/o privado, conferidas para el mismo PROGRAMA DE 
+POSGRADO. (diferentes fuentes de financiamiento para el mismo programa) 
+(Anexo 2) 
+d) Investigadores que se desempeñe como responsable técnico en un proyecto de 
+investigación financiado por el CONACYT, si el horario dedicado a la investigación 
+se contrapone al horario de dedicación al programa de posgrado.  
+e) Funcionarios del CONACYT. 
+f) Personas adjudicadas del CONACYT que no hayan cumplido con el contrato y/o 
+reglamentaciones, recibido inhabilitación, sanciones, suspensión, cancelación o 
+  
+ 
+ 
+ 
+ 
+REGLAMENTO PROGRAMA DE INCENTIVOS. 
+CONVOCATORIA 2018 
+5 
+ 
+rescisión de contrato por parte del CONACYT, presentado renuncias, rendiciones 
+de cuentas pendientes u otros en cualquier instrumento del CONACYT.  
+g) Autoridades académicas y/o administrativas de las IB, vinculadas directamente a 
+los Programas de Posgrados adjudicados. 
+h) Personal técnico, administrativo y/o académico de la IES, vinculadas directamente 
+al programa de posgrado apoyado por el CONACYT.  
+ 
+IV. 
+CARACTERÍSTICA DEL PROGRAMA DE INCENTIVOS 
+4.1 
+El Programa de Incentivos está dirigida exclusivamente a estudiantes admitidos a 
+un programa de posgrado activo co-financiado por el CONACYT. La postulación será a 
+través de la plataforma SPI, adjuntando las documentaciones solicitadas. Los 
+estudiantes resultantes de las evaluaciones que igualen o superen el mínimo 
+establecido en el punto de corte para su admisión, formarán parte de un ranking 
+ordenado de manera decreciente (de mayor a menor), asignando a cada programa la 
+cantidad de 8 (ocho) incentivados. Una vez cubiertos los cupos establecidos, y de 
+contar con estudiantes que cumplan con las condiciones requeridas, conformarán la 
+lista de estudiantes elegibles, pudiendo ser beneficiarios de incentivos no utilizados 
+por otros programas de posgrado.   
+ 
+La duración del Programa de Incentivos está directamente relacionada con el periodo de 
+ejecución del Programa de Posgrado.  Se estima que para: 
+ 
+Para maestrías, tendrán una duración máxima de hasta 2 (dos) años 
+corridos (24 meses). 
+ 
+Para doctorado. tendrán una duración máxima de hasta 31 (tres) años 
+corridos (36 meses).  
+No se contemplarán los meses previos a la firma de contrato (en caso de que la firma del 
+contrato con el beneficiario se realice posterior al inicio del programa). 
+4.2 
+La frecuencia de la transferencia del incentivo será una asignación mensual, que 
+se transferirá contra mes vencido para el beneficiario, durante el periodo de ejecución 
+del Programa de Posgrado.  La transferencia está condicionada: 
+ 
+A la asignación a los créditos presupuestarios del CONACYT, según 
+disponibilidad presupuestaria. 
+ 
+Al cumplimiento del becario según lo establecido en la presente guía, 
+contrato, reglamento y demás normativas vigentes. 
+                                                      
+1 Ad-referéndum de la extensión de plazos por parte del Consejo del FEEI. 
+  
+ 
+ 
+ 
+ 
+REGLAMENTO PROGRAMA DE INCENTIVOS. 
+CONVOCATORIA 2018 
+6 
+ 
+En ningún caso las asignaciones podrán superar la asignación mensual correspondiente a 
+24 meses para maestrías y 362 meses para doctorados, que estará supeditado a la 
+extensión de plazos establecida por el Consejo del FEEI. 
+V. 
+DEL FINANCIAMIENTO 
+5.1 
+El CONACYT, transferirá al becario los fondos correspondientes a “INCENTIVOS 
+PARA LA FORMACIÓN DE DOCENTES-INVESTIGADORES” el monto será pagado por el 
+CONACYT, con cargo a la disponibilidad de créditos presupuestarios dentro del 
+Presupuesto General de Gastos asignados al CONACYT, y supeditado a la transferencia 
+de recursos por parte de la Agencia Financiera de Desarrollo (AFD), según la Ley del 
+FONACIDE Nº 4758/12 del 21 de septiembre de 2012 y sus reglamentaciones. Ley que 
+aprueba el Presupuesto General de la Nación para el Ejercicio Fiscal, Decreto 
+Reglamentario y las subsiguientes reglamentaciones para cada ejercicio fiscal. El 
+becario deberá presentar un informe anual donde se verificará la continuidad del 
+incentivo. 
+5.2 
+El número de incentivos a otorgarse será de acuerdo a la disponibilidad 
+presupuestaria establecida para cada convocatoria, se establecen para cada PROGRAMA 
+DE POSGRADO hasta 8 (ocho) cupos, pudiendo el CONACYT autorizar la ampliación de los 
+mismos, redistribuyendo aquellos no utilizados o según disponibilidad presupuestaria. 
+Serán otorgados a estudiantes elegibles que, hayan superado la evaluación cualitativa 
+y cuantitativa requerida para recibir el incentivo, y por orden de puntajes según 
+ranking.  
+ 
+5.3 El CONACYT establecerá en el contrato un mecanismo para la transferencia de los 
+incentivos al beneficiario.  
+ 
+5.4 
+El monto del incentivo mensual que otorga el CONACYT para estudios de maestría 
+es de Gs. 2.700.000 (guaraníes dos millones setecientos mil). 
+5.5 
+El monto del incentivo mensual que otorga el CONACYT para estudios de 
+doctorado es de Gs. 3.600.000 (guaraníes tres millones seiscientos mil).  
+5.6 
+El incentivo iniciará una vez firmado el contrato, en caso de que el posgrado ya 
+haya iniciado no se podrán pagar en forma retroactiva los meses anteriores a la firma 
+del contrato. El desembolso se realizará de forma mensual. Además, el becario deberá 
+presentar un informe anual donde se verificará la continuidad del incentivo. El 
+CONACYT establecerá las fechas de pago según la disponibilidad de fondos y créditos 
+presupuestarios. El desembolso estará supeditado a la duración del programa de 
+posgrado que en ningún momento podrá superar un total de 24 meses para 
+programas de maestría y 363 meses para programas de doctorado, la duración estará 
+descripta en el contrato a firmar entre el becario y el CONACYT.  
+                                                      
+2 Ad-referéndum de la extensión de plazos por parte del Consejo del FEEI. 
+3 Ad-referéndum de la extensión de plazos por parte del Consejo del FEEI. 
+  
+ 
+ 
+ 
+ 
+REGLAMENTO PROGRAMA DE INCENTIVOS. 
+CONVOCATORIA 2018 
+7 
+ 
+VI. 
+DE LA FIRMA DE CONTRATOS 
+6.1 
+Una vez adjudicados, los becarios deberán entregar los documentos requeridos 
+por el CONACYT, y, el Equipo Técnico verificará los mismos. Una vez verificados, se 
+procederá a la firma del contrato entre las partes donde se establecerán las 
+obligaciones y derechos de cada uno. 
+6.2 
+Los documentos requeridos para la firma del contrato son: 
+ Fotocopia del documento de identidad del becario autenticada por escribanía. 
+ Antecedentes policiales del beneficiario vigente. 
+ Antecedentes judiciales del beneficiario vigente. 
+ Certificado de cumplimiento tributario o en su efecto de no ser contribuyente.  
+ Croquis del domicilio legal con todas las referencias e indicadores de 
+localización. 
+ 
+6.3 
+En el caso que el becario, por causa ajena a su voluntad y responsabilidad 
+debidamente justificada y a ser calificada por el CONACYT, no pudiera cumplir con los 
+plazos establecidos en el contrato, podrá solicitar una ampliación del plazo, previo 
+pedido de por lo menos 90 (noventa) días antes del vencimiento del contrato, esta 
+ampliación si es aprobada, se formalizará a través de una adenda al contrato. Dicha 
+ampliación no significa una ampliación del monto total adjudicado. Se debe tener en 
+cuenta que la simple solicitud de modificación de contrato o ampliación de plazos no 
+es suficiente para que ella se dé. La solicitud debe ser analizada por los responsables 
+del programa de posgrado y del Equipo Técnico del CONACYT y en caso de 
+considerarse viable se autorizará. Este pedido de adenda deberá ser justificado para 
+su análisis.  
+ 
+ 
+VII. 
+DE LOS DERECHOS Y DE LAS OBLIGACIONES DE LOS BECARIOS DEL INCENTIVO 
+PARA LA DEDICACIÓN EXCLUSIVA 
+7.1 
+Derechos: 
+ 
+ Disponer del reglamento y las bases y condiciones del PROGRAMA DE INCENTIVOS. 
+ Disponer de la resolución de adjudicación de los beneficiarios. 
+ Disponer de un original del contrato firmado y sus anexos. 
+ Disponer de un original de la Carta de compromiso. 
+ Recibir los incentivos contemplados en este reglamento, salvo situaciones 
+fundadas que afecten la disponibilidad de fondos.  
+ Ser sujeto de aplicación del reglamento del Programa de Incentivos para la 
+formación de docentes-investigadores. 
+  
+ 
+ 
+ 
+ 
+REGLAMENTO PROGRAMA DE INCENTIVOS. 
+CONVOCATORIA 2018 
+8 
+ 
+ Recibir atención adecuada y oportuna en todos los medios habilitados por el 
+Equipo Técnico del CONACYT. 
+ El becario podrá realizar actividad docente y/o investigativa, siempre que no se 
+contraponga con el programa de posgrado, sean reconocidos como relevantes e 
+informados a la coordinación académica del posgrado y ésta a su vez al CONACYT. 
+El máximo de horas mensuales que podrá destinar a estas actividades será de 40 
+(cuarenta) horas reloj. 
+ 
+7.2 
+Obligaciones:  
+Generales: 
+ Cumplir con lo establecido en el presente reglamento.  
+ El becario asume el compromiso estipulado en el contrato a título personal, pues 
+éste no puede ser transferido a otra persona y cumplir las normas establecidas en 
+el presente reglamento.  
+ El becario realizará todas las acciones necesarias para asegurar el éxito del 
+programa y mantener el nivel de calidad. 
+ El becario cursará sus estudios de maestría o de doctorado con dedicación 
+exclusiva y sin interrupciones, hasta la sustentación de la tesis, salvo casos de 
+fuerza mayor informando oportunamente al CONACYT, para su evaluación y 
+respectiva autorización en caso de considerarse.  
+ Cursar y aprobar todas las materias, módulos o equivalentes correspondientes a 
+cada semestre o año académico, según el plan de estudios del programa de 
+posgrado.  
+ Mantener un promedio de calificación igual o superior al establecido por cada 
+programa de posgrado; sin materias, módulos o equivalentes pendientes. 
+ Cumplir el porcentaje de asistencia establecido por cada programa de posgrado. 
+ Disponer de una dirección de correo electrónico válido para comunicarse y recibir 
+información del CONACYT. El domicilio y la dirección de correo electrónico 
+proveído por el becario serán plenamente válidos a todos los efectos legales y 
+serán vigentes, hasta tanto no exista una comunicación escrita con constancia de 
+recepción del CONACYT de cambios en los mismos.  
+ 
+Específicas: 
+ El becario deberá presentar al CONACYT informes anuales que incluyan el 
+certificado de notas (resumen, historial de calificaciones u otro documento) de la 
+IES firmado por el Coordinador académico donde se especifique el cursado de 
+materias o módulos, las calificaciones obtenidas y el promedio general, para 
+verificar la continuidad del incentivo en el programa de posgrado. El periodo del 
+  
+ 
+ 
+ 
+ 
+REGLAMENTO PROGRAMA DE INCENTIVOS. 
+CONVOCATORIA 2018 
+9 
+ 
+informe anual deberá incluir todas las calificaciones desde el inicio del programa 
+académico.  
+ El estudiante, autorizará a los responsables de la IB mediante una nota firmada 
+para proporcionar al CONACYT su historial académico. 
+ Presentar el informe anual, adjuntando su CV-Py actualizado (el CV debe 
+encontrarse visible o en modo público en la plataforma del CVPy). Así como la 
+encuesta de satisfacción. 
+ El becario está obligado a dar cumplimiento a las correcciones o ajustes indicados 
+que resulten de sus informes solicitados en el marco del Programa de Incentivos. 
+ Presentarse al primer llamado de exámenes, salvo que exista alguna razón 
+justificada que deberá presentarse al Equipo técnico del CONACYT para su análisis 
+con visto bueno del Coordinador del programa, la simple presentación de la 
+justificación no significa la aceptación de la misma.  
+ Comunicar por escrito al CONACYT en un período de hasta 10 (diez) días corridos 
+los reposos por enfermedad que superen los 3 (tres) días, accidentes, duelo, 
+partos, casamientos, intervenciones quirúrgicas, cambio de dirección, correo 
+electrónico, número telefónico de contacto o cualquier situación que afecte el 
+cumplimiento de sus compromisos académicos y obligaciones como beneficiario 
+de incentivos del CONACYT. En caso de que el beneficiario falte a sus 
+compromisos académicos en los horarios dispuestos para el efecto, el CONACYT 
+podrá amonestar y hasta desvincular al beneficiario del programa de incentivos. 
+ El becario deberá entregar el resumen y copia de la tesis aprobada en formato 
+digital con una autorización para que el CONACYT pueda publicar el documento 
+completo, respetando los derechos de autor del becario. 
+ El becario deberá entregar un póster científico con los resultados obtenidos en la 
+tesis en formato digital, según las indicaciones de formato que establezca el 
+CONACYT y cuando éste lo requiera.  
+ El becario responde personalmente por la originalidad del proyecto de tesis 
+presentado, asegurando que el mismo no incurrió en conductas defraudatorias 
+que puedan considerarse atentatorias a las prácticas éticas correctas y normales 
+de los trabajos académicos, como ser por ejemplo el plagio académico. 
+ El becario deberá realizar al menos una actividad de transferencia de 
+conocimientos establecida por el CONACYT. Deberá proporcionar al CONACYT la 
+información solicitada aún culminada la vigencia del contrato. Por ejemplo, 
+completar encuesta, cv-py actualizado una vez al año.  
+ 
+VIII. 
+DERECHOS Y OBLIGACIONES DEL CONACYT 
+8.1 
+Derechos: 
+ El CONACYT se reserva el derecho de exigir al becario la restitución de la totalidad 
+de los incentivos y/o inhabilitación de hasta 5 años a beneficios que pueda 
+  
+ 
+ 
+ 
+ 
+REGLAMENTO PROGRAMA DE INCENTIVOS. 
+CONVOCATORIA 2018 
+10 
+ 
+otorgar el CONACYT en cuanto a proyectos, incentivos, concursos laborales, entre 
+otros cuando:  
+ Sean expulsados, suspendidos del programa de posgrado o de cualquiera de sus 
+cursos, módulos o equivalentes. 
+ No cumplan con sus obligaciones inherentes a su condición de beneficiario 
+en el presente reglamento, contrato y sus anexos. 
+ Haya alterado sus antecedentes y/o informes. 
+ No haya acreditado la culminación de su proyecto de tesis dentro del 
+plazo de la vigencia del contrato. 
+ Abandono sin aviso del cursado del programa de posgrado. 
+ Abandono del cursado del programa por 8 días corridos de inasistencia a 
+clases. 
+ En caso de haber incurrido en alguna falta mencionada en el postulado anterior, 
+el becario quedará inhabilitado de acceder a las convocatorias que realice el 
+CONACYT por un período de 5 (cinco) años. Asimismo, en el caso de incurrir en las 
+causales de cancelación de contrato, queda a criterio del CONACYT la devolución, 
+por parte del becario, del monto total recibido hasta el momento de cancelación, 
+conforme a lo establecido en el Código Civil. 
+ El CONACYT podrá solicitar la devolución total o parcial del monto transferido 
+hasta el momento de la cancelación, renuncia o anulación del incentivo. El 
+CONACYT, se reserva el derecho de solicitar en cualquier momento del año 
+académico, informaciones, constancias u otras documentaciones, vinculadas al 
+Programa de Incentivos, aún finalizada la vigencia del contrato. 
+ 
+8.2 
+Obligaciones 
+ Proveer los recursos económicos y financieros necesarios para la ejecución del 
+Programa de Incentivos. 
+ Administrar el Programa de Incentivos  
+ Monitorear el Programa de Incentivos. 
+ 
+IX. 
+RENOVACIÓN ANUAL DEL INCENTIVO 
+9.1 
+Los becarios del Programa de Incentivos, son de renovación anual. Para el efecto, 
+el becario debe: 
+ Acreditar un promedio de calificación igual o superior al establecido por cada uno 
+de los programas de posgrado apoyados por el CONACYT. Las IB deberán 
+presentar junto con la nómina de estudiantes admitidos al programa, una nota 
+indicando el promedio general anual que solicitarán a sus estudiantes para la 
+continuidad del programa de incentivos. 
+ El promedio de calificación anual debe ser informado por el becario y los 
+responsables de la IB, al término de cada año lectivo mediante presentación del 
+  
+ 
+ 
+ 
+ 
+REGLAMENTO PROGRAMA DE INCENTIVOS. 
+CONVOCATORIA 2018 
+11 
+ 
+certificado de estudios (resumen, historial de calificaciones u otro documento) 
+firmado por el Coordinador académico de la IES.   
+ Comprobar la dedicación exclusiva y completa según las exigencias del programa 
+de posgrado. En caso de verificar que el becario se encuentra laborando o 
+realizando actividades que no hayan sido comunicadas y aprobadas por el 
+CONACYT, el becario podrá recibir una sanción, amonestación y/o rescisión del 
+contrato. 
+ 
+X. 
+CANCELACIÓN DEL INCENTIVO 
+10.1 
+El CONACYT, podrá cancelar los incentivos por los siguientes motivos: 
+ No mantener el promedio de calificación anual mínimo para la continuidad del 
+contrato.  
+ Por no haber cursado y aprobado todas las materias, módulos, cursos o 
+equivalentes correspondientes al semestre académico (tener materias pendientes 
+y/o semestres incompletos, no presentarse a sus exámenes y obligaciones del 
+posgrado en el primer llamado establecido para el efecto). 
+ Abandono de los estudios, sin previa comunicación al CONACYT. 
+ Condena judicial en el ámbito penal que esté firme y ejecutoriada. 
+ Falsedad comprobada en las informaciones suministradas al CONACYT. 
+ Atentar contra los intereses del CONACYT. 
+ Incumplimiento de determinaciones y normas del CONACYT establecidas en el 
+reglamento, guía de bases y condiciones, contrato y sus anexos. 
+ Incumplimiento de las nomas de la IB que fuera comunicada en tiempo y forma 
+por el coordinador de posgrado al CONACYT. 
+ Deshonestidad académica comprobada (plagio académico). 
+ Realizar cualquier acción que perjudique la imagen del Programa de Incentivos 
+para la formación de docentes-investigadores.  
+ Otras faltas del becario comunicadas por la IB donde se desarrolla el programa de 
+posgrado. 
+ Tener dos o más amonestaciones por faltas leves o una amonestación por faltas 
+graves, según lo establecido en el presente reglamento. 
+ A pedido de la IB con las justificaciones correspondientes. 
+ 
+XI. 
+DEL MONITOREO Y SEGUIMIENTO 
+11.1 
+Al concluir cada año académico, el becario será evaluado en base a la información 
+proveída por éste. Dicha información consistirá en:  
+ Informe Técnico Anual: El CONACYT establecerá el formato del informe e indicará 
+el medio por el cual deberá remitirse, el mismo deberá demostrar el desarrollo 
+académico del programa de posgrado, reportando los avances, las debilidades y el 
+  
+ 
+ 
+ 
+ 
+REGLAMENTO PROGRAMA DE INCENTIVOS. 
+CONVOCATORIA 2018 
+12 
+ 
+cumplimiento de los objetivos del cronograma de estudios del programa de 
+posgrado, según los indicadores y los medios de verificación programados.  
+ Certificado de estudios, planilla de notas o equivalente, en el que se verifique el 
+promedio de calificación igual o superior al establecido por cada uno de los 
+programas de posgrado apoyados por el CONACYT. En caso de incumplimiento, 
+cada situación específica será analizada por el Equipo Técnico y Asesores Legales 
+del CONACYT para la aplicación de sanciones.  
+ 
+Este informe deberá de ir acompañado de: 
+ Certificado académico (resumen, historial de calificaciones u otro documento) de 
+la IES firmado por el Coordinador académico. (con cargo exonerado para 
+presentación de informes).   
+o Evidencias de haber participado en eventos científicos y/o de 
+investigación. 
+o Evidencias de actividades de divulgación científica. 
+o Para el periodo de tesis: Informe anual de los avances realizados, 
+firmado y sellado por el tutor de la tesis y el beneficiario. 
+ 
+11.2 El equipo técnico del CONACYT realizará monitoreos periódicos de la ejecución del 
+programa a través del módulo académico en el SPI.  
+ 
+11.3 En el periodo que el CONACYT lo decida, podrán aplicarse encuestas de satisfacción 
+sobre el desarrollo del programa de posgrado a los estudiantes, coordinadores y 
+docentes. 
+ 
+XII. 
+REVISIÓN DEL INFORME DE AVANCE TÉCNICO 
+12.1 Revisión y Verificación: El CONACYT, una vez recibido el informe de avance técnico 
+anual, realizará una verificación del mismo, donde corroborará la correspondencia del 
+avance razonable del becario en relación al programa de posgrado según el 
+cronograma de ejecución. Se coordinará el trabajo con la coordinación académica del 
+posgrado. 
+ 
+12.2 Reposición de Fondos: Una vez revisado y aprobado el informe técnico anual 
+presentado por el becario, el CONACYT autorizará la transferencia correspondiente. En 
+caso de no haber presentado el informe en tiempo y forma el becario y/o la 
+Coordinación Académica, no podrán realizar reclamos de desembolsos. Una vez 
+revisado el informe de avance y que el mismo sea aprobado, será remitido a la 
+instancia correspondiente para la prosecución de los trámites respectivos. 
+ 
+  
+ 
+ 
+ 
+ 
+REGLAMENTO PROGRAMA DE INCENTIVOS. 
+CONVOCATORIA 2018 
+13 
+ 
+Además de los indicadores definidos entre la IB y el CONACYT, se tendrá como 
+instrumento legal, a la seguridad jurídica que soporte el Programa de Incentivos 
+(contratos, carta acuerdo, resoluciones institucionales u otros que el CONACYT 
+considere). 
+12.3 Cuando el análisis del contenido o la verificación de resultados lo requieran, el 
+Equipo Técnico podrá solicitar a Especialistas Externos un “Dictamen Técnico de 
+Evaluación” sobre el informe de avance en términos de desempeño del becario. 
+12.4 Se establecerá en el contrato y/o anexos, los procedimientos pertinentes en el caso 
+de que el becario se retrase significativamente, en forma justificada o no, en la entrega 
+de los informes solicitados por el CONACYT, así como en el caso de la constatación de la 
+no conformidad en el cumplimiento de lo establecido la malla curricular del programa, 
+por razones de desempeño en los cursos y/o en la realización de la tesis.  
+12.5 
+El informe final del becario para la revisión y aprobación seguirá el mismo proceso 
+que los informes anuales; el Equipo Técnico del CONACYT remitirá el informe final 
+aprobado a la instancia correspondiente en el CONACYT para verificar si existen o no 
+objeciones a los procesos ejecutados en el marco del programa. El informe final, deberá 
+reflejar la presentación del proyecto de tesis aprobado por el tutor y la mesa 
+examinadora. 
+12.6 
+Al término de la defensa de tesis, el becario, deberá presentar al CONACYT: 
+ Una constancia y/o copia del acta de presentación expedida por la IES expresando 
+que el beneficiario ha defendido una tesis o trabajo final de posgrado, lo cual le 
+habilita a obtener el grado de Máster o de Doctor. 
+ Una versión digital de la tesis. 
+ El resumen de la tesis en versión pdf. 
+ Un póster científico con los resultados obtenidos en la tesis en formato digital, 
+según las indicaciones de formato que establezca el CONACYT  
+ Una autorización para la difusión de la tesis, el resumen y el poster Estos 
+documentos serán publicados en los medios digitales que el CONACYT habilite 
+para tales casos, respetando los derechos de autor del beneficiario. 
+ 
+XIII. 
+RENUNCIA Y RESCISIÓN DE CONTRATO 
+13.1 
+La renuncia, ausencia o negativa a firmar el contrato por parte del becario, dentro 
+de un período de 07 (siete) días corridos contados a partir de la publicación de los 
+resultados, dará lugar a una vacante, que será cubierta por otro postulante que no haya 
+sido seleccionado inicialmente por insuficiencia de financiamiento, en estricto orden de 
+méritos, según lo establezca el ranking cualitativo y cuantitativo. 
+  
+ 
+ 
+ 
+ 
+REGLAMENTO PROGRAMA DE INCENTIVOS. 
+CONVOCATORIA 2018 
+14 
+ 
+13.2 
+En caso de renuncia a la adjudicación, previo a la recepción de la primera 
+transferencia, notificará inmediatamente por escrito a la IB y a la Presidencia del 
+CONACYT. Para así dar lugar al siguiente candidato por orden de méritos, según el 
+ranking establecido por el CONACYT.   
+13.3 
+En caso de haber recibido alguna transferencia y el becario decida renunciar, 
+deberá de comunicarlo a la Presidencia del CONACYT. El CONACYT se reserva el derecho 
+de exigir al becario la restitución de la totalidad de los incentivos otorgados hasta la 
+fecha. El lugar que deje el becario renunciante, podrá ser ocupado por el siguiente 
+calificado en el ranking cualitativo y cuantitativo previa comunicación y aceptación del 
+CONACYT. El nuevo becario accederá a los beneficios económicos del incentivo que 
+hayan quedado disponibles a partir de la renuncia del becario anterior. Bajo ningún 
+punto, se considerarán pagos retroactivos a la fecha de concesión del incentivo.  
+13.4 
+En caso de incumplimiento de contrato, se realizará una rescisión del mismo. El 
+lugar que deje el becario renunciante y/o con rescisión de contrato, podrá ser ocupado 
+por el siguiente calificado en el ranking cualitativo y cuantitativo previa comunicación y 
+aceptación del CONACYT. El nuevo becario accederá a los beneficios económicos del 
+incentivo que hayan quedado disponibles a partir de la renuncia y/o rescisión del 
+contrato del becario anterior. Bajo ningún punto, se considerarán pagos retroactivos a la 
+fecha de concesión del incentivo.  
+13.5 
+En caso de rescisión unilateral de contrato, el CONACYT podrá solicitar al becario 
+la restitución de la totalidad de los incentivos otorgados hasta la fecha. 
+ 
+XIV. 
+ÉTICA, DESHONESTIDAD ACADÉMICA Y CORRUPCIÓN  
+14.1 
+El CONACYT, exige al becario, que observe los más altos niveles éticos, evitando y 
+denunciando todo tipo de deshonestidad académica (copia en exámenes, plagio 
+académico en tesis o trabajos prácticos, entre otros), como también actos de corrupción 
+comprobados durante la ejecución del Programa de Posgrado. Constituye plagio 
+académico, total o parcial, la apropiación literal o sustancial de ideas, sentencias u obras 
+ajenas, publicadas o inéditas, presentándolas como propias o no citando en las notas al 
+pie y con claridad y exactitud las fuentes utilizadas en cada punto en cualquier trabajo 
+intelectual, en cualquier escrito presentado en el Doctorado, y en la tesis doctoral.  
+ El becario se compromete a mantener una conducta ética, respetando las ideas u 
+opiniones de los demás, manteniendo un lenguaje acorde a su formación, 
+evitando todo tipo de discriminación y agresión en cada una de sus dimensiones. 
+ En las producciones académicas, el becario deberá asegurar el buen uso de las 
+fuentes bibliográficas y citas correspondientes, respetando la propiedad 
+intelectual y sus derechos de autor o institución de origen. El becario se 
+encuentra en pleno conocimiento de lo dispuesto en el presente reglamento no 
+  
+ 
+ 
+ 
+ 
+REGLAMENTO PROGRAMA DE INCENTIVOS. 
+CONVOCATORIA 2018 
+15 
+ 
+pudiendo alegar error, ignorancia, negligencia o inadvertencia. El CONACYT se 
+reserva el derecho de retener los beneficios del programa de incentivos al becario 
+que sea objeto de denuncia, hasta tanto sea esclarecido el caso. 
+ El CONACYT tomará parte en el conocimiento de la causa denunciada y solicitará 
+la comprobación de la falta, reservándose el derecho de aplicar las sanciones 
+establecidas en este reglamento y el contrato. 
+ 
+XV. 
+SANCIONES  
+15.1 Si se comprueba que, de conformidad con los procedimientos técnicos, 
+administrativos y legales se ha cometido un acto de fraude, corrupción, el 
+CONACYT podrá: 
+ Emitir una amonestación en el formato de una carta formal de censura a la 
+conducta de la firma, entidad, institución, individuo o becario; en caso de que el 
+becario reciba 2 (dos) amonestaciones, junto con la segunda amonestación, se 
+procederá a la rescisión unilateral del contrato con el becario. 
+ Suspender las transferencias  de incentivos, si se determina, en cualquier etapa, 
+que  existe evidencia suficiente para comprobar el hallazgo de que un empleado, 
+agente o representante legal, el organismo ejecutor o el becario, ha cometido un 
+acto de fraude, corrupción o incumplimiento de lo establecido en el represente 
+reglamento respecto a:, asistencia a clases, realizar actividades laborales o 
+cualquier otro incidente que el equipo técnico del CONACYT considere como falta 
+grave (aplica tanto a la IB como al becario); 
+ Cancelar la financiación del incentivo; 
+ Solicitar la devolución de los fondos transferidos en el marco del Programa de 
+Incentivo para la Formación de Docentes-Investigadores 
+ Declarar a una persona como inelegible (inhabilitación), por determinado periodo 
+de tiempo (5 años), para que se le adjudiquen contratos, llamados u otros, 
+financiados con fondos públicos administrados por CONACYT, excepto bajo 
+aquellas   condiciones   que el ejecutor considere apropiadas; 
+15.2 Clasificación de causales de amonestaciones 
+Faltas leves 
+ Llegadas tardías y salidas antes del tiempo establecido de clases presenciales en 
+la IES. (según horario de clases establecido por cada programa de posgrado). 
+(Faltas leves) 
+ 
+12.3. Faltas graves 
+  
+ 
+ 
+ 
+ 
+REGLAMENTO PROGRAMA DE INCENTIVOS. 
+CONVOCATORIA 2018 
+16 
+ 
+ Ausencias (superiores a 3 días corridos) a las clases, módulos, talleres, 
+laboratorios, tutorías u otros que sean de carácter presencial dentro del 
+programa de posgrado.  
+ Viajes, traslados u otros al interior o exterior del país durante el periodo de clases 
+por un tiempo mayor a 3 (tres) días que no sean debidamente comunicados 
+previamente al equipo técnico del CONACYT para su aprobación.  
+ No presentarse en el primer llamado a exámenes, defensas, presentaciones 
+orales u otros establecidos por el programa de posgrado.  
+ Conductas indebidas dentro de la IB, que podrán ser comunicadas por la 
+coordinación de cada programa.  
+ 
+Cualquier otra acción que atente al programa de incentivos, IB o al CONACYT, el equipo 
+técnico del CONACYT considere como falta leve o grave. 
+ 
+XVI. 
+DISPOSICIONES FINALES 
+16.1 
+Todo reclamo o consulta deberá ser realizado por escrito y de forma individual 
+CONACYT. 
+16.2 
+Los casos no previstos en el presente reglamento serán resueltos por el CONACYT 
+teniendo a la vista los informes respectivos de las direcciones y sus oficinas competentes. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+REGLAMENTO PROGRAMA DE INCENTIVOS. 
+CONVOCATORIA 2018 
+17 
+ 
+Anexo 1 
+DISPONIBILIDAD DE TIEMPO PARA DEDICARSE EN FORMA EXCLUSIVA AL PROGRAMA 
+DECLARACIÓN JURADA 
+ 
+Declaro, para los debidos fines, que yo, (nombre completo)___________________, de 
+nacionalidad ____________, de profesión _______________, domiciliado/a en 
+_______________________ ,con Cédula de Identidad Civil No.______________, 
+postulante 
+al 
+ 
+Programa 
+de 
+(Maestría 
+o 
+Doctorado) 
+_______________________________de la Facultad ___________________ de la 
+Universidad______________________, asumo las obligaciones inherentes al desarrollo 
+del Programa de (maestría o doctorado) apoyado por el CONACYT, en ese sentido, en 
+caso de ser beneficiado por el Programa de Incentivos para la Formación de Docentes – 
+Investigadores del CONACYT. Convocatoria 2018. ME COMPROMETO a dedicarme de 
+forma EXCLUSIVA a lo que establece el Programa de Posgrado al que postulo.  
+El no cumplimiento del compromiso citado arriba, implicará la cancelación del incentivo, 
+dejando a criterio del CONACYT la restitución inmediata de los recursos, de acuerdo a lo 
+previsto en el reglamento, quedando imposibilitado a recibir nuevamente algún incentivo 
+ofertado por el CONACYT, por un período de 05 (cinco) años. 
+ 
+Firma del postulante: ______________________________  
+Fecha: ________________________________________ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+REGLAMENTO PROGRAMA DE INCENTIVOS. 
+CONVOCATORIA 2018 
+18 
+ 
+Anexo 2 
+CARTA DE COMPROMISO ENTRE ESTUDIANTES INCENTIVADOS Y EL CONACYT 
+Declaro, para los debidos fines, que yo, (nombre completo)___________________, de 
+nacionalidad 
+____________, 
+de 
+profesión, 
+__________domiciliado 
+en 
+_______________________ ,con cédula de identidad civil N°.______________, 
+ADMITIDO al Programa de (Maestría o Doctorado) (INDICAR NOMBRE DEL PROGRAMA)  
+de la Universidad/Facultad ___________________________________________, asumo 
+las obligaciones inherentes al desarrollo del Programa de (maestría o doctorado) 
+apoyado por el CONACYT, en ese sentido, ME COMPROMETO a respetar las siguientes 
+cláusulas: 
+1. Dedicación a las actividades del programa de posgrado. 
+2. Asistir regularmente a las actividades del programa. 
+3. Demostrar desempeño académico excelente, de acuerdo a las normas definidas 
+por la institución promotora del curso. 
+4. Durante el desarrollo del Programa, y según lo establecido, estar liberado de las 
+actividades profesionales para dedicarme a las actividades propias del programa. 
+5. No desarrollar otras actividades en el tiempo destinado a las actividades del 
+programa que puedan interferir en el plazo de culminación del Programa de 
+Posgrado. 
+6. No estar inscripto en otro programa de posgraduación al mismo tiempo de 
+desarrollo del programa. 
+7. Presentar a la coordinación del Programa todas las informaciones fidedignas 
+sobre lo solicitado. 
+8. Presentar con la periodicidad que establece el reglamento del Programa de 
+incentivos, los informes y/o rendiciones correspondientes para seguir 
+usufructuando el incentivo. 
+9. Concluir el programa de posgraduación al que me postule en el tiempo estipulado 
+por el mismo, culminando con la defensa de la tesis. Salvo motivos de fuerza 
+mayor debidamente comprobado y aceptado por los directores del programa y el 
+CONACYT. 
+10. Entregar el Resumen de mi Tesis y mi Tesis completa al CONACYT para su 
+divulgación. 
+11. Informar al CONACYT sobre las publicaciones e investigaciones realizadas en el 
+marco del programa de posgrado. 
+ 
+El no cumplimiento de los compromisos citados arriba, implicará la cancelación del 
+incentivo, con la restitución inmediata de los recursos en caso de que el CONACYT así lo 
+considere, de acuerdo a lo previsto en el reglamento, quedando imposibilitado a recibir 
+nuevamente algún incentivo ofertado por el CONACYT, por un período de cinco años. 
+  
+ 
+ 
+ 
+ 
+REGLAMENTO PROGRAMA DE INCENTIVOS. 
+CONVOCATORIA 2018 
+19 
+ 
+ 
+Firma del/la postulante: ______________________________  
+Fecha: ________________________________________ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+REGLAMENTO PROGRAMA DE INCENTIVOS. 
+CONVOCATORIA 2018 
+20 
+ 
+Anexo 3 
+CARTA DE DECLARACIÓN DE INTERESES 
+ 
+Asunción, _____de__________ de 2018 
+ 
+Me dirijo a usted(es) para presentar mis intereses profesionales, académicos y 
+personales, en el marco de mi postulación al Programa de (Maestría/Doctorado) en 
+_____________________ 
+de 
+la 
+Facultad___________________ 
+de 
+la 
+Universidad____________________, y con el fin de ser beneficiario del Programa de 
+Incentivos para la Formación de Docentes-Investigadores, convocatoria 2017 del 
+CONACYT,  
+A continuación, describo los principales motivos de mi solicitud para ser beneficiario/a de 
+este incentivo: 
+Intereses Académicos (máximo 500 caracteres) 
+ 
+ 
+ 
+Intereses Profesionales (máximo 500 caracteres) 
+ 
+ 
+ 
+Intereses de Investigación y/o Científicos (máximo 500 caracteres) 
+ 
+ 
+ 
+Aporte a la sociedad al realizar esta Maestría/Doctorado (máximo 500 caracteres) 
+ 
+ 
+ 
+ 
+Atentamente, 
+ 
+Postulante: ______________________________ 
+ 
+ 
+Firma:  
+____________ 
+ 
+N° de C.I.: 
+____________ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+REGLAMENTO PROGRAMA DE INCENTIVOS. 
+CONVOCATORIA 2018 
+21 
+ 
+Anexo 4 
+INFORME DE AVANCE TÉCNICO ANUAL 
+(A modo de referencia, los avances se presentarán en el SPI del CONACYT) 
+ 
+INFORME_ANUAL 
+ESTIMADO/A BECARIO/A: CON LA FINALIDAD DE ASEGURAR EL CUMPLIMIENTO DE LOS 
+OBJETIVOS ACADÉMICOS, SOLICITAMOS LA SIGUIENTE INFORMACIÓN. 
+INFORMACIÓN DEL PERIODO CURSADO 
+FECHA DE INICIO: 
+FECHA DE FIN: 
+INFORME N°: 
+  
+INFORMACIÓN DEL TUTOR  
+NOMBRE(S) Y APELLIDO(S)*: 
+INSTITUCIÓN *: 
+CORREO ELECTRÓNICO *: 
+ÁREA O FACULTAD *: 
+TELÉFONO: 
+  
+INFORMACIÓN  ACADÉMICA 
+Adjuntar Certificado o constancia de notas+: (Adjuntar documento que indique el 
+promedio académico, este documento debe tener como mínimo la firma y sello de algún 
+representante de la institución como el decano o el coordinador del posgrado) 
+  
+INFORMACIÓN SOBRE INVESTIGACIÓN 
+Fecha de inicio de tutoría:  
+Adjuntar informe del tutor+: 
+Comentario:  
+  
+  
+INFORMACIÓN SOBRE EXTENSIÓN 
+¿Ha realizado actividades de extensión en el periodo informado?: [__]SI   [__]No 
+Número de actividades de extensión realizadas: (Indique la cantidad de actividades de 
+extensión realizadas) 
+Congresos: (Indique el nombre del congreso al que asistió) 
+Seminarios: (indique el nombre del seminario al que asistió) 
+  
+ 
+ 
+ 
+ 
+REGLAMENTO PROGRAMA DE INCENTIVOS. 
+CONVOCATORIA 2018 
+22 
+ 
+Artículos en elaboración: (Indique el nombre del artículo en elaboración) 
+Artículos en evaluación: (Indique el nombre del artículo en evaluación) 
+Artículos publicados: (Indique el nombre del artículo publicado) 
+Favor citar el título del/los artículos en formato APA: 
+(Autores, Titulo, Nombre de la revista, Numero, Volumen, Paginas) 
+Otras actividades de extensión (especificar) 
+  
+Adjuntar los artículos elaborados+: 
+Adjuntar artículos publicados+:  
+  
+  
+Obs.: *(campos obligatorios) +(Botón de adjuntar documentos) 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GUÍA DE BASES Y CONDICIONES 
+PROGRAMA DE INCENTIVOS PARA LA FORMACIÓN DE DOCENTES-
+INVESTIGADORES 
+ 
+ 
+ 
+ 
+CONVOCATORIA 2018 
+ 
+ 
+ 
+ 
+ 
+Agosto, 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+GUIA DE BASES Y CONDICIONES AL PROGRAMA DE 
+INCENTIVOS – CONVOCATORIA 2018 
+2 
+ 
+Contenido 
+1. OBJETIVO ...................................................................................................................... 3 
+2. CONVOCATORIA 2018 .................................................................................................. 3 
+3. REQUISITOS PARA SER BENEFICIARIOS ........................................................................ 4 
+4. RESTRICCIONES ............................................................................................................. 4 
+5. CARACTERÍSTICAS DEL PROGRAMA DE INCENTIVOS ................................................... 5 
+6. FINANCIAMIENTO ......................................................................................................... 6 
+7. PROCEDIMIENTOS DE POSTULACIÓN ........................................................................... 6 
+7.1. 
+Fase de la postulación ........................................................................................... 6 
+7.2. 
+Fase de Recepción y admisión de la documentación. .......................................... 8 
+7.3 
+Fase de evaluación ................................................................................................ 9 
+7.4 
+Fase de selección ................................................................................................. 11 
+8. ACLARACIONES, VERIFICACIÓN DE DOCUMENTACIÓN Y PUBLICACIÓN DE 
+RESULTADOS. ..................................................................................................................... 11 
+9. PLAZOS ........................................................................................................................ 12 
+Anexo 1 .................................................................................................................................. 13 
+DECLARACIÓN JURADA DE COMPROMISO PARA LA DEDICACIÓN EXCLUSIVA DEL 
+POSTULANTE .......................................................................................................................... 13 
+Anexo 2 .................................................................................................................................. 14 
+DECLARACIÓN JURADA DE NO HABER POSTULADO O SER ADJUDICADO A OTRAS BECAS .. 14 
+ 
+ 
+ 
+  
+ 
+ 
+GUIA DE BASES Y CONDICIONES AL PROGRAMA DE 
+INCENTIVOS – CONVOCATORIA 2018 
+3 
+ 
+ 
+BASES Y CONDICIONES 
+El Consejo Nacional de Ciencia y Tecnología (CONACYT), en el marco del “Programa 
+Paraguayo para el Desarrollo de la Ciencia y Tecnología” PROCIENCIA, financiado a través 
+del Fondo para la Excelencia de la Educación y la Investigación (FEEI) asignado por el Fondo 
+Nacional de Inversión Pública y Desarrollo (FONACIDE) según la Ley Nº 4758/12 del 21 de 
+septiembre de 2012, convoca a personas interesadas en cursar PROGRAMAS DE POSGRADOS 
+adjudicados en el marco del “Programa de Apoyo a la Formación de Docentes-
+Investigadores”1 a presentarse a la convocatoria del “Programa de Incentivos para la 
+Formación de Docentes-Investigadores2” del Componente II “Fortalecimiento del Capital 
+Humano para I+D”, conforme a lo establecido en las bases y condiciones presentadas a 
+continuación: 
+1. OBJETIVO 
+Ampliar y fortalecer la base científica y tecnológica nacional, mediante la incorporación de 
+personal calificado al proceso de la generación del conocimiento y su manejo, dentro de las 
+áreas prioritarias de acción y las políticas de ciencia y tecnología definidas por el CONACYT.  
+2. CONVOCATORIA 2018 
+Conforme a lo establecido en el “Reglamento del PROGRAMA DE INCENTIVOS para la Formación 
+de Docentes-Investigadores” y “Guía de Admisión” el CONACYT otorgará incentivos a los 
+estudiantes admitidos los PROGRAMAS DE POSGRADOS cofinanciados por el CONACYT en los 
+niveles de maestría o doctorado, adjudicados en el marco del “Programa de Apoyo a la 
+Formación de Docentes-Investigadores” –Convocatoria 2017– del “Programa Paraguayo 
+para el Desarrollo de la Ciencia y Tecnología” (PROCIENCIA). 
+                                                 
+1 De ahora en adelante PROGRAMA DE POSGRADOS. 
+2 De ahora en adelante PROGRAMA DE INCENTIVOS. 
+  
+ 
+ 
+GUIA DE BASES Y CONDICIONES AL PROGRAMA DE 
+INCENTIVOS – CONVOCATORIA 2018 
+4 
+ 
+3. REQUISITOS PARA SER BENEFICIARIOS 
+El PROGRAMA DE INCENTIVOS está dirigido a estudiantes admitidos que se dediquen en forma 
+exclusiva y completa a las exigencias del Programa de Posgrado cumpliendo los siguientes 
+requisitos: 
+ Personas admitidas previamente a los programas de posgrados apoyados por el 
+CONACYT en  la convocatoria 2017. 
+ Ser paraguayo/a o extranjero/a con residencia legal y domicilio real en la 
+República del Paraguay. 
+ Declarar disponibilidad de tiempo para dedicarse en forma exclusiva y completa 
+(mínimo 8 horas diarias) al programa de posgrado al que postula. (Anexo 1) 
+ Tener hasta 35 años de edad para programas de maestría y 40 años de edad 
+para programas de doctorado, al momento de postularse. 
+ Poseer título de graduación y certificado de estudios de la carrera de grado 
+universitario, registrado y legalizado por el Ministerio de Educación y Ciencias  
+para los candidatos a cursar un programa de maestría. 
+ Poseer título de posgraduación a nivel de maestría para los candidatos a cursar 
+un programa de doctorado. 
+ Acreditar un promedio general de grado de calificaciones igual o superior al 
+establecido por la Institución Beneficiaria del Programa de Posgrado al 
+momento de presentar su candidatura al programa de incentivo. 
+4. RESTRICCIONES 
+No podrán acceder al programa de incentivos las siguientes personas: 
+a) Aquellas que no puedan dedicarse en forma exclusiva y completa a las exigencias 
+del Programa de Posgrado. 
+b) Aquellas que se encuentren aplicando a otras becas ofrecidas por otras 
+instituciones nacionales e internacionales. (Anexo 2) 
+  
+ 
+ 
+GUIA DE BASES Y CONDICIONES AL PROGRAMA DE 
+INCENTIVOS – CONVOCATORIA 2018 
+5 
+ 
+c) Aquellas que fueron adjudicadas por otras becas y/o apoyos financiados con 
+recursos del sector público y/o privado, conferidas para el mismo PROGRAMA DE 
+POSGRADO. (diferentes fuentes de financiamiento para el mismo programa) (Anexo 2) 
+d) Investigadores que se desempeñe como responsable técnico en un proyecto de 
+investigación financiado por el CONACYT, si el horario dedicado a la investigación se 
+contrapone al horario de dedicación al programa de posgrado.  
+e) Funcionarios/as del CONACYT. 
+f) Personas adjudicadas del CONACYT que no hayan cumplido con el contrato y/o 
+reglamentaciones, recibido inhabilitación, sanciones, suspensión, cancelación o 
+rescisión de contrato por parte del CONACYT, presentado renuncias, rendiciones de 
+cuentas pendientes u otros en cualquier instrumento del CONACYT.  
+g) Autoridades académicas y/o administrativas de las IB, vinculadas directamente a los 
+Programas de Posgrados adjudicados. 
+h) Personal técnico, administrativo y/o académico de la IES, vinculadas directamente 
+al programa de posgrado apoyado por el CONACYT.  
+5. CARACTERÍSTICAS DEL PROGRAMA DE INCENTIVOS 
+El Programa de Incentivos está dirigida exclusivamente a estudiantes admitidos a un programa de 
+posgrado activo co-financiado por el CONACYT. La postulación será a través de la plataforma SPI, 
+adjuntando las documentaciones solicitadas. Los estudiantes resultantes de las evaluaciones que 
+igualen o superen el mínimo establecido en el punto de corte para su admisión, formarán parte de 
+un ranking ordenado de manera decreciente (de mayor a menor), asignando a cada programa la 
+cantidad de 8 (ocho) incentivados. Una vez cubiertos los cupos establecidos, y de contar con 
+estudiantes que cumplan con las condiciones requeridas, conformarán la lista de estudiantes 
+elegibles, pudiendo ser beneficiarios de incentivos no utilizados por otros programas de posgrado.   
+ 
+La duración del Programa de Incentivos está directamente relacionada con el periodo de 
+ejecución del Programa de Posgrado.  Se estima que para: 
+ Maestrías, tendrán una duración máxima de hasta 2 (dos) años corridos. 
+ Doctorado, tendrán una duración máxima de hasta 3 (tres) años corridos3.  
+                                                 
+3 Ad Referendum de la ampliación de plazos del Programa PROCIENCIA por parte del FEEI. 
+  
+ 
+ 
+GUIA DE BASES Y CONDICIONES AL PROGRAMA DE 
+INCENTIVOS – CONVOCATORIA 2018 
+6 
+ 
+6. FINANCIAMIENTO 
+Conforme a lo establecido en el “Reglamento del Programa de Incentivos”, el monto de los 
+incentivos individuales será: 
+ Para estudios de maestría Gs. 2.700.000 (Guaraníes dos millones setecientos mil)  
+hasta un máximo de 24 (veinticuatro) meses corridos o hasta el término del 
+programa de maestría en caso de ser menor a 24 meses. 
+ Para estudios de doctorado Gs. 3.600.000 (Guaraníes tres millones seiscientos mil) 
+hasta un máximo de 36 (treinta y seis) meses corridos o hasta el término del 
+programa de doctorado en caso de ser menor a 36 meses4. 
+La frecuencia de la transferencia del incentivo será de manera mensual, que estará sujeta a 
+una revisión anual para el mantenimiento del incentivo, durante el periodo de ejecución 
+del Programa  de Posgrado.   
+La transferencia está condicionada: 
+  A la asignación a los créditos presupuestarios del CONACYT, según 
+disponibilidad presupuestaria. 
+ Al cumplimiento del beneficiario según lo establecido en la presente guía, 
+contrato, reglamento y demás normativas vigentes. 
+7. PROCEDIMIENTOS DE POSTULACIÓN 
+El procedimiento establecido para la presente convocatoria consta de fases 
+sucesivas detalladas a continuación: 
+7.1. 
+Fase de la postulación 
+La fase de postulación comprende:  
+ Leer el reglamento  del Programa de Incentivos y la guía de bases condiciones 
+para antes de aplicar al Programa de Incentivos. 
+                                                 
+4 Ad Referendum de la ampliación de plazos del Programa PROCIENCIA por parte del FEEI. 
+  
+ 
+ 
+GUIA DE BASES Y CONDICIONES AL PROGRAMA DE 
+INCENTIVOS – CONVOCATORIA 2018 
+7 
+ 
+ Ingresar al Sistema de Postulación de Instrumentos (SPI) del CONACYT 
+https://spi.conacyt.gov.py/user. 
+ Ingresar con el usuario y contraseña que utilizó en el proceso de admisión. 
+ Ingresar el programa de posgrados en el que fue admitido. 
+ Responder a las preguntas del formulario del SPI  
+ El registro y llenado de los campos de la postulación en el SPI. 
+ Adjuntar los documentos requeridos en la postulación. 
+a) Currículum 
+Vitae 
+con 
+el 
+formato 
+CVPy 
+del 
+CONACYT 
+(http://cv.conacyt.gov.py/user).  
+b) Fotocopia de Cédula de Identidad Civil – CIC. 
+c) Fotocopia del título de grado, para postulantes a programas de maestría y 
+doctorado. 
+d) Fotocopia del título de maestría, para postulantes a programas de 
+doctorado. 
+e) Fotocopia de certificados de estudios de grado o equivalente, para 
+postulantes a programas de maestría. 
+f) Fotocopia de certificados de estudios de maestría, para postulantes a 
+programas de doctorado. 
+g) Carta de compromiso de la IB con el postulante.  
+h) Carta de compromiso del postulante con el CONACYT.  
+i) (Si corresponde) Resolución de nombramiento o equivalente que acredite al 
+postulante como docente, investigador y/o funcionario académico donde se 
+detalla su escalafón o cargo ocupado. 
+j)  (Si corresponde) Documento donde se manifieste las investigaciones 
+realizadas y la carga horaria dedicada a la actividad. 
+k) (Si corresponde) Constancia de financiamiento de cualquier otra institución 
+que aporte recursos económicos para la realización de los estudios de 
+posgrado al que postula. 
+  
+ 
+ 
+GUIA DE BASES Y CONDICIONES AL PROGRAMA DE 
+INCENTIVOS – CONVOCATORIA 2018 
+8 
+ 
+l) Declaración Jurada que mencione que el postulante en caso de ser 
+adjudicado con el programa de incentivos del CONACYT, se dedicará de 
+forma exclusiva y completa a lo que establece el programa de posgrado al 
+que postula.  
+m) Carta de declaración de intereses e intensiones del postulante, con un 
+máximo de 1 (una) página, indicando las razones por las cuales desea cursar 
+el programa de posgrado. Deben incluirse los intereses académicos, 
+profesionales, de investigación, así como el aporte a la sociedad al culminar 
+el programa de posgrado.  
+n) Protocolo de investigación a ser realizada, o línea de investigación que desea 
+realizar en el posgrado. (obligatorio para estudiantes de programas de 
+doctorado).  
+ La documentación deberá ser llenada en sistemas y formatos preestablecidos por el 
+CONACYT. 
+ Los postulantes serán responsables de la veracidad, integridad y legibilidad de la 
+información consignada en la documentación de postulación y deberá estar en 
+condiciones de proveer la documentación de respaldo en el momento en que el 
+CONACYT lo requiera. Son motivos de exclusión del proceso de adjudicación la 
+omisión o declaración falsa de cualquier dato solicitado y/o la no presentación de los 
+documentos de respaldo. 
+ 
+ 
+ 
+7.2. 
+Fase de Recepción y admisión de la documentación. 
+El equipo técnico de CONACYT recepcionará y realizará la verificación de todas las 
+documentaciones presentadas por el postulante. 
+ 
+OBSERVACIÓN: Todos los documentos digitales adjuntos en la postulación  
+deberán estar en formato .pdf 
+ 
+  
+ 
+ 
+GUIA DE BASES Y CONDICIONES AL PROGRAMA DE 
+INCENTIVOS – CONVOCATORIA 2018 
+9 
+ 
+Aquellos postulantes que hayan cumplido con los requisitos de la fase de postulación 
+y admisión al programa de incentivos, pasarán a la fase de evaluación. 
+7.3 
+Fase de evaluación 
+La evaluación de los postulantes al Programa de Incentivos estará a cargo de un Comité 
+de Evaluación conformado por el equipo técnico del CONACYT, los representantes de la 
+IB y al menos 1 (un) investigador categorizado (Nivel I, II o III) del Programa Nacional de 
+Incentivos al Investigador (PRONII) del CONACYT.  
+La IB deberá contactar con el investigador categorizado en el PRONII para que 
+conforme el comité de evaluación.  
+Los procedimientos para la evaluación de los postulantes a ser utilizado por el Comité 
+de Evaluación y que deberán demostrar/evidenciar haber realizado las siguientes 
+evaluaciones a los postulantes: 
+a) Valoración documental 
+b) Valoración de interés y proyección 
+Las dimensiones que se tendrán en cuenta para la evaluación de los postulantes para 
+programas de maestría son: 
+Dimensiones a evaluar 
+% para postulantes 
+recién egresados de la 
+carrera de grado 
+% para 
+postulantes con 3 
+y más años de 
+experiencia 
+profesional 
+Formación académica: Se considerará el área de la carrera de 
+grado. Las capacitaciones realizadas vinculadas o no al área de 
+posgrado. 
+22 
+10 
+Experiencias profesional general  (CVPy). Se considerará desde seis 
+meses  de experiencia. Experiencia docente (CVPy). Experiencia en 
+grado como  ayudantía de cátedra, auxiliar de cátedra, jefatura de 
+trabajos prácticos, docente invitado, otros. Sean éstas afines o no 
+al posgrado. 
+6 
+10 
+  
+ 
+ 
+GUIA DE BASES Y CONDICIONES AL PROGRAMA DE 
+INCENTIVOS – CONVOCATORIA 2018 
+10 
+ 
+Experiencia en investigación  (CVPy).  Declara producción, tesis de 
+grado, artículos científicos. Nivel de participación en proyectos de 
+investigación relacionadas o no al área del posgrado. 
+6 
+20 
+Participación en congresos, seminarios, talleres, etc. (nacionales e 
+internacionales) (CV-PY). 
+10 
+10 
+Participación como disertante, conferencistas, etc. Presentación de 
+posters, publicaciones, etc.  (nacionales e internacionales)(CV-PY) 
+6 
+20 
+Intereses expresados por el candidato para cursar una maestría 
+investigativa. Proyección después de culminar el posgrado ( Carta 
+de motivación y Entrevista) 
+50 
+30 
+ Total 
+100 
+100 
+ 
+Las dimensiones que se tendrán en cuenta para la evaluación de los postulantes para 
+programas de doctorado son: 
+Dimensiones a evaluar 
+% para postulantes a 
+doctorado 
+Formación académica: Se considerará el área de la carrera de grado y maestría. 
+Las capacitaciones realizadas vinculadas al área de posgrado. 
+10 
+Experiencias profesional: Se considerará la experiencia en el área específica o a 
+fin al posgrado. Experiencia docente en grado y posgrado como:  ayudantía de 
+cátedra, auxiliar de cátedra, jefatura de trabajos prácticos, docente invitado, 
+otros. Se valorará en forma especial las afines al área del  posgrado. (CVPy).  
+15 
+Experiencia en investigación  (CVPy).  Declara producción, tesis de posgrado, 
+artículos científicos. Nivel de participación en proyectos de investigación. Declara 
+línea de investigación. 
+25 
+Participación 
+en 
+congresos, 
+seminarios, 
+talleres, 
+etc. 
+(nacionales 
+e 
+internacionales) (CV-PY). 
+10 
+Participación como disertante, conferencistas, etc. Presentación de posters, 
+publicaciones, etc.  (nacionales e internacionales)(CV-PY) 
+15 
+  
+ 
+ 
+GUIA DE BASES Y CONDICIONES AL PROGRAMA DE 
+INCENTIVOS – CONVOCATORIA 2018 
+11 
+ 
+Intereses expresados por el candidato para cursar un doctorado investigativo. 
+Proyección después de culminar el posgrado ( Carta de motivación y Entrevista) 
+25 
+Total 
+100 
+ 
+7.4 
+Fase de selección 
+El Equipo técnico del CONACYT, sistematizará el proceso de evaluación realizados por el 
+Comité de Evaluación. De modo a elaborar un ranking a las postulaciones admitidas y 
+evaluadas que hayan alcanzado y/o superado los 71  (setenta y un) porciento, sobre el total 
+de 100 (cien) porciento. En caso de empate, el Comité Evaluador podrá establecer los 
+criterios para el ranking cualitativo y cuantitativo. 
+Los resultados serán elevados a la Comisión de Programas y Proyectos del CONACYT y ésta 
+a su vez, lo elevará al Consejo del CONACYT para conocimiento.  
+El listado de estudiantes adjudicados al Programa de Incentivos será publicado en la Página 
+Web del CONACYT www.conacyt.gov.py y comunicado a la IB para su publicación y 
+comunicación a todos los beneficiarios. 
+ 
+Los resultados que se generen en las fases de admisión, selección y adjudicación, así 
+como el ranking de resultados emitido por el CONACYT, serán de carácter inapelable.  
+ 
+Las  gestiones para la transferencia de fondos serán iniciados una vez realizada la firma del 
+contrato por las partes.  
+8.  ACLARACIONES, VERIFICACIÓN DE DOCUMENTACIÓN Y PUBLICACIÓN DE 
+RESULTADOS. 
+ En caso de constatarse la no veracidad de la información luego de cotejar la lista final 
+de adjudicados emitido y firmado por acta por los responsables técnicos con la 
+documentación respaldatoria, el CONACYT descalificará automáticamente al 
+  
+ 
+ 
+GUIA DE BASES Y CONDICIONES AL PROGRAMA DE 
+INCENTIVOS – CONVOCATORIA 2018 
+12 
+ 
+postulante, registrará el caso y comunicará sobre dicha situación al mismo y a las 
+instancias pertinentes.   
+ En caso de que algún incentivado renuncie al programa de incentivos, no mantenga 
+el promedio mínimo requerido, sea inhabilitado o se rescinda contrato por algún 
+motivo, el CONACYT podrá disponer de dichas becas y redistribuirlas.  
+ Para la redistribución de las becas, el CONACYT elaborará un ranking de los 
+postulantes que no hayan sido adjudicados pero se encuentren en la lista de elegibles 
+y distribuirá las becas por órden de puntaje logrado, en caso de empate técnico, se 
+adjudicará al estudiante con más alto promedio académico de la Licenciatura para 
+estudiantes de Maestrías y promedio de Maestrías para estudiantes de Doctorado.  
+9.  PLAZOS  
+a) El inicio de la Fase de postulación al PROGRAMA DE INCENTIVOS  se realizará una vez 
+que los interesados hayan sido admitidos al Programa de Posgrado apoyado por 
+el CONACYT en la convocatoria 2017. 
+b) Para cada programa de posgrado apoyado por el CONACYT, se establecerá un 
+calendario de postulación al programa de posgrado y posteriormente al 
+programa de incentivos, que estará supeditado a la firma del contrato entre la 
+IB y el CONACYT. Las comunicaciones de las fechas de postulación al programa 
+de posgrado y posteriormente al programa de incentivos, serán comunicadas en 
+la Página Web del CONACYT, Página Web de la IB y otros medios de 
+comunicación que consideren oportunos el CONACYT y la IB. 
+ 
+IMPORTANTE: El CONACYT se reserva el derecho de realizar los ajustes que considere 
+necesarios e importantes a la presente “Guía de Bases y Condiciones”, los cuales serán 
+incluidos mediante una adenda a la guía que será publicada en el sitio web del CONACYT 
+(www.conacyt.gov.py). 
+ 
+ 
+  
+ 
+ 
+GUIA DE BASES Y CONDICIONES AL PROGRAMA DE 
+INCENTIVOS – CONVOCATORIA 2018 
+13 
+ 
+Anexo 1 
+DECLARACIÓN JURADA DE COMPROMISO PARA LA DEDICACIÓN EXCLUSIVA DEL 
+POSTULANTE 
+ 
+ 
+Declaro, para los debidos fines, que yo, (nombre completo)___________________, de 
+nacionalidad 
+____________, 
+de 
+profesión 
+_______________, 
+domiciliado/a 
+en 
+_______________________ ,con Cédula de Identidad Civil No.______________, postulante 
+al  Programa de (Maestría o Doctorado) _______________________________de la 
+Facultad ___________________ de la Universidad______________________, asumo las 
+obligaciones inherentes al desarrollo del Programa de (maestría o doctorado) apoyado por 
+el CONACYT, en ese sentido, en caso de ser beneficiado por el Programa de Incentivos para 
+la Formación de Docentes – Investigadores -Convocatoria 2018, ME COMPROMETO a 
+dedicarme de forma EXCLUSIVA a lo que establece el Programa de Posgrado al que 
+postulo.  
+ 
+ 
+El no cumplimiento del compromiso citado arriba, implicará la cancelación del incentivo, 
+con la restitución inmediata de los recursos, de acuerdo a lo previsto en el reglamento, 
+quedando imposibilitado a recibir nuevamente algún incentivo ofertado por el CONACYT, 
+por un período de 05 (cinco) años. 
+ 
+ 
+ 
+ 
+ 
+Firma del postulante: ______________________________  
+Fecha: ________________________________________ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+GUIA DE BASES Y CONDICIONES AL PROGRAMA DE 
+INCENTIVOS – CONVOCATORIA 2018 
+14 
+ 
+Anexo 2 
+DECLARACIÓN JURADA DE NO HABER POSTULADO O SER ADJUDICADO A OTRAS BECAS 
+ 
+ 
+Yo, (nombre completo)___________________, de nacionalidad ____________, de 
+profesión _______________, domiciliado/a en _______________________ ,con Cédula de 
+Identidad Civil No.______________, postulante al programa de incentivos en el marco del 
+Programa 
+de 
+posgrado 
+“_______________________________” 
+de 
+la 
+Facultad 
+___________________ de la Universidad______________________, declaro, para los fines 
+pertinentes, que no he presentado mi postulación a ninguna beca de posgrado nacional e 
+internacional; ni he sido adjudicado como beneficiario/a de las mismas. 
+Autorizo al CONACYT a verificar los datos declarados anteriormente y aplicar las sanciones 
+correspondientes en caso de constatarse la falsedad en la información manifestada.  
+ 
+ 
+ 
+ 
+ 
+Firma del postulante: ______________________________  
+Fecha: ________________________________________ 
+ 

@@ -1,0 +1,1031 @@
+
+1 
+ 
+EDITAL DE CHAMADA PÚBLICA FAPESC Nº 33/2020 
+PROGRAMA DE PESQUISA E INOVAÇÃO EM PROJETOS PREVENTIVOS (PPCI) 
+POR MEIO DE VERIFICAÇÃO AUTOMÁTICA DE REGRAS COM O USO DA 
+PLATAFORMA BIM 
+ 
+PROGRAMA INTERINSTITUCIONAL DE FOMENTO A PROJETOS DE PESQUISA, 
+DESENVOLVIMENTO    E    INOVAÇÃO    QUE    ATENDAM    ÀS    DEMANDAS    
+DA    SOCIEDADE CATARINENSE    POR    INTERMÉDIO    DE    ÓRGÃOS    
+SETORIAIS    DO    GOVERNO    DO ESTADO DE SANTA CATARINA  
+(PROGRAMA #FAPESC@GOV+PESQUISA&INOVAÇÃO) 
+ 
+A FUNDAÇÃO DE AMPARO À PESQUISA E INOVAÇÃO DO ESTADO DE SANTA 
+CATARINA – FAPESC e o CORPO DE BOMBEIROS MILITAR DO ESTADO DE SANTA 
+CATARINA (CBMSC), torna público o lançamento da presente Chamada Pública com o 
+intuito 
+de 
+selecionar 
+recursos 
+humanos 
+dentro 
+do 
+ 
+PROGRAMA 
+#FAPESC@GOV+PESQUISA&INOVAÇÃO, para a implantação de práticas de 
+pesquisas e inovação através do Programa de Pesquisa e Inovação em Projetos 
+Preventivos (PPCI) por meio de verificação automática de regras com o uso da 
+Plataforma BIM,  nos termos do art. 218 da Constituição da República Federativa do 
+Brasil de 1988 e art. 176 da Constituição do Estado de Santa Catarina de 1989 e 
+considerando:   
+ 
+• que a  FAPESC é  agência de fomento executora da Política Estadual de Ciência, 
+Tecnologia e Inovação para o avanço de todas as áreas do conhecimento, o 
+equilíbrio regional, o desenvolvimento econômico sustentável e a melhoria da 
+qualidade de vida da população do Estado de Santa Catarina; 
+• a observância dos valores éticos e com base nos princípios estabelecidos pelos 
+arts. 136, inciso II, 144, inciso XII, 176, 177 e 193 da Constituição do Estado, e 
+•    o art. 5º do decreto estadual 965/2012, onde a FAPESC tem por objetivos:  
+- fomentar e programar soluções de tecnologia de informação e comunicação para 
+ciência, tecnologia e inovação, inclusive para a administração pública;   
+- fomentar o desenvolvimento tecnológico inovativo das empresas catarinenses e 
+organizações públicas ou privadas, preferencialmente em parceria com instituições 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001700/2020 e o código WE5382PK.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:16:33, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+31
+  
+2 
+ 
+de ensino e pesquisa situadas no Estado, pela transferência de conhecimento e 
+interação 
+de 
+competências, 
+podendo 
+subvencionar a 
+permanência 
+de 
+pesquisadores de comprovada qualificação no âmbito de programas específicos;  
+- promover e estimular a realização de pesquisas científicas, tecnológicas e de 
+inovação, por iniciativa própria ou em colaboração com outras instituições públicas 
+ou privadas, do país ou do exterior, concedendo-lhes os recursos necessários para 
+a aquisição de material, contratação e remuneração de pessoal vinculado a projetos 
+de pesquisas e para quaisquer outras providências condizentes com os objetivos 
+visados; e 
+• Que compete ao CBMSC: a) realizar análise de Projetos Preventivos Contra 
+Incêndio e Pânico (PPCI) de forma cada vez mais célere e transparente; b)  
+reestruturar a atividade de segurança contra incêndio no estado de Santa Catarina, 
+em que se preconiza a simplificação de processos; c) estabelecer normas relativas 
+à segurança das pessoas e de seus bens contra incêndio, catástrofe ou produtos 
+perigosos; e d) exercer o poder de polícia administrativa. 
+ 
+1 OBJETIVOS 
+ 
+1.1 Geral 
+Selecionar recursos humanos pela oferta de bolsas de desenvolvimento, pesquisa e 
+inovação a  profissionais capacitados em gerenciamento de projetos  técnico-científico na 
+área de Engenharia Civil ou Arquitetura com o objetivo de fomentar  a  inovação  social  
+e  governamental  por  meio da estruturação da análise de projetos preventivos (PPCI) 
+com a verificação automática de regras com o uso da plataforma BIM, buscando o 
+fortalecimento da gestão pública baseada em projetos e processos inovadores com focos 
+específicos na melhoria do serviço público estadual, permitindo a articulação da ciência, 
+tecnologia e inovação na integração dos órgão públicos junto ao PROGRAMA 
+#FAPESC@GOV +PESQUISA&INOVAÇÃO da FAPESC. 
+ 
+1.2 Específicos 
+• Desenvolver um sistema online para submissão de PPCIs com análise instantânea 
+dos projetos, utilizando o sistema autorun do software Solibri. 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001700/2020 e o código WE5382PK.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:16:33, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+32
+  
+3 
+ 
+• Desenvolver metodologias e regras de verificação automática no software Solibri 
+que analisam o atendimento ou não de modelos BIM em relação às exigências 
+normativas em projetos preventivos contra incêndio e pânico.  
+• Elaborar uma biblioteca de objetos utilizados em Projetos de Prevenção e Combate 
+a Incêndio e Pânico para a utilização de projetistas na elaboração de seus PPCIs. 
+• Identificar as exigências atinentes aos projetos preventivos em relação às normas 
+de segurança contra incêndio que possuem parâmetros objetivos e que, 
+consequentemente, possibilitem a criação de regras de verificação automática para 
+estas exigências. 
+•  Identificar necessidade de adequações nas exigências que possuem parâmetros 
+subjetivos, para que estas também possam ser verificadas por meio de regras de 
+automáticas. 
+• Desenvolver metodologias de teste e readequação das regras e dos objetos 
+elaborados. 
+• Melhorar a performance da organização com aplicação de conceitos científicos e 
+metodologias inovadoras. 
+ 
+2 CRONOGRAMA 
+Atividades 
+Datas 
+Início 
+Término 
+Lançamento da Chamada Pública 
+10/12/2020 
+Submissão da candidatura na Plataforma de CTI FAPESC 
+(online) 
+10/12/2020 11/01/2021 
+Resultado preliminar de admissibilidade 
+18/01/2021 
+Período para apresentação de recursos 
+18/01/2021 25/01/2021 
+Resultado do julgamento dos recursos e resultado final de 
+admissibilidade 
+28/01/2021 
+Análise e julgamento de mérito 
+18/01/2021 29/01/2021 
+Divulgação dos aprovados no site da FAPESC 
+01/02/2021 
+Período para apresentação de recurso administrativo 
+01/02/2021 08/02/2021 
+Resultado do julgamento dos recursos e resultado final 
+15/02/2021 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001700/2020 e o código WE5382PK.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:16:33, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+33
+  
+4 
+ 
+Entrega do Termo de Compromisso dos bolsistas (Anexo II) 16/02/2021 a 19/02/2021 
+ 
+ 
+3 ADMISSIBILIDADE 
+3.1 Os critérios de admissibilidade compreendem os requisitos mínimos de: 
+a) Titulação mínima exigida de acordo com o Item 5.1 da presente Chamada; 
+b) Currículo atualizado na Plataforma Lattes; 
+c) Documento de identidade; 
+d) Comprovante de residência no Estado de Santa Catarina; 
+e) Comprovante de que não possui pendências de qualquer natureza com a FAPESC e 
+outro órgão da Administração Pública Direta ou Indireta; e 
+f) Vídeo de Apresentação. 
+ 3.2 A análise dos requisitos acima será feita com base nos documentos anexos no 
+momento da inscrição, correspondente ao Item 6.3 deste Edital. 
+3.3 - Os bolsistas exercerão suas funções, limitando-se exclusivamente, ao apoio ao 
+Programa de Pesquisa e Inovação em Projetos Preventivos (PPCI) por meio de 
+verificação automática de regras com o uso da Plataforma BIM, dentre as atribuições 
+legais definidas pelo artigo 8º da Lei Complementar nº 741/2019, não podendo ser suas 
+atividades desvirtuadas para outras áreas ou funções dentro do órgão a qual foi 
+selecionado junto a presente Chamada, e a que forem designados, sob pena de anulação 
+do termo de compromisso de bolsista. 
+3.4  - Os bolsistas exercerão suas funções e serão remunerados por um período de 12 
+(doze) meses, prorrogável 01 (uma) vez por igual período, mediante avaliação da CBMSC 
+e da FAPESC. 
+ 
+4 RECURSOS FINANCEIROS 
+4.1 O valor global estimado a ser aplicado nessa Chamada será de até R$ 144.000,00 
+(cento e quarenta e quatro mil reais) para 2 (duas) bolsas com duração de até 24 (vinte e 
+quatro) meses descentralizados à FAPESC pelo Corpo de Bombeiros Militar de Santa 
+Catarina – CBMSC. 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001700/2020 e o código WE5382PK.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:16:33, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+34
+  
+5 
+ 
+4.2 A descentralização dos recursos pelo CBMSC à FAPESC deverá ocorrer antes do 
+início da concessão da bolsa. 
+4.3 Serão ofertadas 02 (duas) bolsas equivalentes ao valor da Bolsa nível DTI – B, 
+conforme diretrizes do Conselho Nacional de Desenvolvimento Científico e Tecnológico 
+(CNPq), cujo valor corresponde a R$ 3.000,00 (três mil reais) por bolsista. 
+ 
+5 DAS VAGAS 
+5.1 Por intermédio do presente Edital serão disponibilizadas 2 (duas) vagas, conforme 
+escolaridade/pré-requisitos dispostos na tabela abaixo: 
+Modalidade 
+de Bolsa 
+Escolaridade/Pré-requisitos e 
+atribuições 
+Vagas 
+Valor Mensal 
+da Bolsa (R$) 
+DTI – B 
+Titulação mínima de Graduação em  
+ Engenharia Civil ou Graduação em 
+Arquitetura. 
+ 
+Experiência profissional ou acadêmica de 
+no mínimo de 2 (dois) anos com uso de 
+softwares de modelagem, coordenação 
+ou de geração de regras de projetos por 
+meio da metodologia BIM. Dentro desse 
+período, deverá possuir no mínimo 6 
+meses de experiência com o software 
+SOLIBRI. 
+ 
+A 
+comprovação 
+da 
+experiência 
+profissional deverá ser realizada por 
+meio de realização, elaboração e/ou 
+participação em estudos e projetos e/ou 
+vínculos de trabalho. 
+ 
+02 
+3.000,00 
+ 
+5.2 Das atribuições dos bolsistas 
+Atuando junto à equipe de Diretoria de Segurança Contra Incêndio, o bolsista com 
+formação em Graduação em Engenharia Civil, ou Graduação em Arquitetura, terá 
+como principal atribuição a criação de regras dentro do software SOLIBRI. Essas regras 
+serão elaboradas tendo por base as Instruções Normativas do CBMSC. 
+5.2.1 Além das atribuições especificadas nos itens acima os bolsistas deverão cumprir os 
+objetivos do Programa por meio das atividades, entregas e produtos descritos no Item 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001700/2020 e o código WE5382PK.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:16:33, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+35
+  
+6 
+ 
+11.1.1 do presente Edital, nos termos e nos limites de suas competências técnicas, 
+profissionais e acadêmicas. 
+ 
+6 INSCRIÇÃO DOS CANDIDATOS 
+6.1 Os candidatos às modalidades de bolsas descritas no Item 5.1 deste Edital deverão 
+cadastrar-se 
+na 
+Plataforma 
+de 
+CTI 
+da 
+FAPESC 
+– 
+(http://plataforma.fapesc.sc.gov.br/fapesc), observado os prazos constantes no Item 2- 
+Cronograma. 
+6.2 Será aceita a inscrição em somente uma Área de Atuação, de acordo com o Item 5.1 
+do Edital. 
+6.3 No momento da inscrição os candidatos deverão, obrigatoriamente, anexar os 
+seguintes arquivos no formato PDF contendo: 
+a) Documento de Identidade (RG ou CNH); 
+b) Comprovante de residência (somente serão aceitas faturas de água, luz ou telefone 
+desbloqueadas em nome do candidato ou declaração acompanhada de iguais 
+comprovantes de residência do declarante) atualizado de no mínimo 3 (três) meses; 
+c) Diploma de Graduação, de acordo com o Item 5.1 do Edital, expedido por instituição de 
+ensino Superior reconhecida pelo Ministério da Educação; 
+d) Comprovante de titulação complementar em Especialização Lato Sensu ou Stricto 
+Sensu, se houver; 
+e) Cópia do currículo na Plataforma Lattes em formato PDF atualizado nos últimos 3 (três) 
+meses;  
+f)   Vídeo de Apresentação: Apresentar histórico profissional em no máximo 2 minutos. 
+Link deve ser disponibilizado no youtube (inserir o link em campo específico na Plataforma 
+FAPESC). Se por algum motivo técnico os vídeos não puderem ser visualizados a 
+candidatura será inadmissível; 
+g) Comprovantes de cursos, participações em eventos, participações em projetos e/ou 
+vínculo de trabalho de acordo com o Item 5.1 do Edital; e 
+h) Comprovante de que não possui pendências de qualquer natureza com a FAPESC e 
+outro órgão da Administração Pública Direta ou Indireta (https://www.sc.gov.br/cge/dart/). 
+6.4 Não será permitido anexar ou substituir qualquer documento ou informação, após o 
+envio eletrônico da proposta, ainda que dentro do prazo.  
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001700/2020 e o código WE5382PK.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:16:33, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+36
+  
+7 
+ 
+ 
+7 ANÁLISE E JULGAMENTO DE MÉRITO QUANTO À QUALIFICAÇÃO TÉCNICA  
+7.1 A análise e o julgamento de mérito quanto à qualificação técnica terão caráter 
+eliminatório e serão realizados pelo Comitê Permanente de Acompanhamento e Avaliação 
+das Chamadas Públicas da FAPESC (CPAA) juntamente com representante do CBMSC 
+que, dependendo da necessidade, poderão solicitar a assessoria de consultores ad hoc.  
+7.2 A experiência será comprovada por meio do Currículo Lattes e, para isso, deve ser 
+apresentado cópia dos diplomas e/ou atestados mencionados no Currículo. Somente 
+serão válidos diplomas emitidos por instituição de ensino superior reconhecida pelo 
+Ministério da Educação. 
+7.3 O tempo de experiência será considerado por meio da comprovação do efetivo 
+exercício profissional e/ou acadêmico. A capacidade técnica será comprovada por meio 
+dos documentos descritos no Item 5.1 deste Edital. 
+7.4 O julgamento de cada um dos quesitos abaixo será realizado mediante a conferência 
+do Currículo Lattes concomitantemente com os certificados anexados, sendo concedida a 
+pontuação de acordo com o apresentado abaixo. 
+7.5 - Avaliação do mérito técnico do candidato: 
+Qualificação 
+Técnica 
+Descrição do 
+item 
+Titulação 
+Documentos 
+apresentados (atestados) 
+Pontuação do 
+item 
+Pontuação 
+Máxima 
+Total 
+Quantidade 
+Pontuação Mínima Máxima 
+a) Titulação 
+Técnica 
+Obrigatória 
+Nível Superior nas 
+áreas relacionadas 
+no Item 5.1, de 
+acordo com a 
+bolsa pretendida. 
+Graduação 
+1 
+40 por 
+diploma 
+40 
+40 
+40 
+b) Titulação 
+Complementar 
+Pós-Graduação 
+nas áreas 
+relacionadas no 
+Item 5.1, de 
+acordo com a 
+bolsa pretendida. 
+Especialização 
+Lato Sensu 
+0 a 1 
+5 por 
+diploma 
+0 
+5 
+30 
+Mestrado 
+0 a 1 
+10 por 
+diploma 
+0 
+10 
+Doutorado 
+0 a 1 
+15 por 
+diploma 
+0 
+15 
+c) Capacidade 
+Técnica 
+Complementar 
+Capacidade 
+técnica 
+comprovada nas 
+áreas relacionadas 
+no Item 5.1, de 
+acordo com a 
+bolsa pretendida. 
+Realização, 
+elaboração 
+e/ou 
+participação em 
+estudos 
+e 
+projetos 
+e/ou 
+vínculos 
+de 
+trabalho. 
+0 a 10 
+3 por 
+atestado 
+0 
+30 
+30 
+Total Máximo de Pontos 
+100 
+ 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001700/2020 e o código WE5382PK.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:16:33, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+37
+  
+8 
+ 
+7.6 Caso o candidato não apresente a qualificação mínima, que corresponde a Titulação 
+Técnica Obrigatória (Item 7.5 - a), solicitada para cada bolsa, este será desclassificado. 
+7.7 Caso o candidato obtenha pontuação inferior a 43 (quarenta e seis) será considerado 
+reprovado. 
+7.8 Caso o candidato obtenha pontuação igual ou superior a 43 (quarenta e seis) e não 
+se enquadre no número de vagas, será considerado classificado. 
+7.9 Caso ocorra empate, o desempate será efetuado considerando a maior idade 
+cronológica do candidato.  
+ 
+ 
+8 RECURSOS ADMINISTRATIVOS  
+8.1 Caso o candidato tenha justificativa para contestar o resultado do julgamento das 
+candidaturas, poderá apresentar recurso no prazo estipulado no Item 2 - Cronograma, 
+após a divulgação das propostas aprovadas, cabendo ao CPAA, juntamente com o 
+CBMSC, manifestar-se sobre os recursos. 
+8.2 Os recursos deverão ser apresentados exclusivamente via Plataforma CTI da 
+FAPESC. Eventuais questionamentos podem ser enviados ao endereço eletrônico 
+bolsascbmsc@fapesc.sc.gov.br. 
+8.3 O CPAA analisará os recursos interpostos e encaminhará seu parecer à Diretoria 
+Executiva, que deliberará quanto ao deferimento ou indeferimento do resultado. 
+8.4 Após análise dos recursos administrativos, os resultados serão divulgados no site da 
+FAPESC, conforme previsto no Item 2 - Cronograma. A divulgação dos resultados poderá 
+sofrer retificação, com base nos recursos efetuados e decisões motivadas proferidas. 
+8.5 Não serão aceitos como base do pedido de recurso:  
+a) informações adicionais de qualquer natureza que modifiquem a proposta original;  
+b) envio de documentos complementares àqueles originalmente encaminhados;  
+c) questionamentos quanto aos critérios avaliativos dos consultores/avaliadores ad hoc.  
+8.6 As decisões finais dos recursos administrativos serão terminativas, não cabendo 
+pedido de reconsideração. 
+ 
+9 PUBLICAÇÃO DOS RESULTADOS  
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001700/2020 e o código WE5382PK.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:16:33, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+38
+  
+9 
+ 
+9.1 A FAPESC disponibilizará a relação dos candidatos aprovados e a distribuição das 
+cotas de bolsa no site da FAPESC http://www.fapesc.sc.gov.br e no Diário Oficial do Estado 
+de Santa Catarina, nos prazos previstos, conforme cronograma.  
+9.2 Após a publicação dos resultados, os candidatos aprovados que não possuírem 
+pendências, de qualquer natureza com a FAPESC, serão convocados conforme ordem de 
+classificação. 
+ 
+10 IMPLEMENTAÇÃO DAS BOLSAS 
+10.1 Para a implementação das bolsas será necessário o envio à FAPESC do Termo de 
+Compromisso FAPESC (Anexo I) devidamente rubricado, assinado e digitalizado, 
+conforme prazos constantes no Item 2 – Cronograma.  
+10.2 A omissão no envio ou o preenchimento incorreto dos documentos impedirá o 
+pagamento das bolsas. 
+10.3 O pagamento mensal das bolsas será feito pela FAPESC, diretamente aos bolsistas. 
+10.4 O início da vigência da bolsa dar-se-á pelo cadastramento do bolsista pela FAPESC 
+no Sistema de Gestão de Recursos Humanos (SIGRH/SC) estando sujeito ao cronograma 
+de processamento do respectivo sistema. Este procedimento será executado após o 
+recebimento do Termo de Compromisso FAPESC assinado, conforme prazos 
+estabelecidos no Item 2 - Cronograma. 
+10.5 Os bolsistas selecionados deverão indicar conta de sua titularidade no Banco do 
+Brasil para o recebimento mensal e sucessivo da bolsa.  
+10.6 Não serão realizados pagamentos retroativos de bolsa, bem como pagamentos de 
+fração de mês. 
+10.7 O bolsista deverá dedicar-se às atividades objeto dessa Chamada em carga horária 
+de 30 horas/semanais. 
+10.8 O bolsista desenvolverá suas atividades na modalidade presencial na cidade de 
+Florianópolis. 
+10.9 A bolsa não configura vínculo empregatício entre participantes desse certame. 
+ 
+11 EXECUÇÃO E ACOMPANHAMENTO  
+11.1 Das atribuições do programa e suas entregas/produtos 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001700/2020 e o código WE5382PK.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:16:33, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+39
+  
+10 
+ 
+11.1.1 O Programa de Pesquisa e Inovação em Projetos Preventivos (PPCI) por meio 
+de verificação automática de regras com o uso da Plataforma BIM tem como principal 
+atribuição fomentar a inovação social e governamental por meio do aperfeiçoamento e 
+uso intensivo de ferramentas de transparência e dados abertos no Poder Executivo 
+Estadual. Para isso buscará cumprir os objetivos do Programa por meio das seguintes 
+atividades, entregas e produtos: 
+a) Catalogar os artigos das mais de trinta Normas de Segurança Contra Incêndio e Pânico 
+(NSCI) do Corpo de Bombeiros Militar de Santa Catarina (CBMSC), separando-os entre 
+objetivos (parametrizáveis e passíveis de criação de regra de verificação automatizada. 
+b) Criação das regras com base nos artigos objetivos (parametrizáveis) Criação de 
+biblioteca de objetos a ser disponibilizado aos responsáveis técnicos. 
+c) Recepcionar e submeter projetos preventivos criados em diferentes softwares de 
+modelagem de informação de construção às regras criadas nas etapas anteriores. 
+d) Preparar o portal do CBMSC para recepcionar os projetos preventivos e fazer sua 
+tramitação de forma automatizada a verificação de regras e, por fim, devolver ao 
+responsável técnico o relatório de indeferimento contendo as adequações necessárias. 
+11.1.2 Os (as) bolsistas exercerão sua função, limitando-se exclusivamente, ao apoio ao 
+Programa de Pesquisa e Inovação em Projetos Preventivos (PPCI) por meio de 
+verificação automática de regras com o uso da Plataforma BIM,  dentre as atribuições 
+legais definidas pelo artigo 8º da Lei Complementar nº 741/2019, não podendo ter suas 
+atividades desvirtuadas para outras áreas ou funções dentro dos órgãos ou entidades 
+estaduais a que forem designados(as), sob pena de anulação do termo de compromisso 
+de bolsista. 
+11.1.3 Os (as) bolsistas exercerão suas funções e serão remunerados por um período de 
+doze (12) meses, prorrogável 01 (uma) vez por igual período, mediante avaliação de 
+desempenho efetuada pela FAPESC juntamente com o CBMSC. 
+11.1.4 Durante a fase de execução do projeto, toda e qualquer solicitação de alteração 
+deverá ser feita à FAPESC através do e-mail bolsascbmsc@fapesc.sc.gov.br. 
+11.1.5 Os bolsistas deverão apresentar relatórios técnicos parciais semestralmente e 
+relatório final. Os relatórios deverão ser preenchidos e enviados à FAPESC pelos bolsistas 
+com parecer e assinatura do supervisor que será designado pelo CBMSC.  
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001700/2020 e o código WE5382PK.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:16:33, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+40
+  
+11 
+ 
+11.1.6 O CBMS designará um supervisor para acompanhar as atividades desenvolvidas 
+pelo Bolsista. 
+11.1.7 A não apresentação de qualquer dos relatórios no modelo específico e/ou no prazo 
+determinado implicará na suspensão do pagamento da bolsa, ficando o bolsista em 
+situação de inadimplência com a FAPESC. 
+11.1.8 Persistindo essa situação de inadimplência, sem justificativa aceitável, a bolsa será 
+cancelada. 
+ 
+12 OBRIGAÇÕES DOS BOLSISTAS  
+12.1 O bolsista deve utilizar a carga horária prevista neste Edital para dedicar-se 
+integralmente às atividades orientadas pelo CBMSC de acordo com o plano de trabalho a 
+ser estabelecido. 
+12.2 Em qualquer ação promocional ou publicação de trabalhos relacionados com objeto 
+da presente Chamada deverá ser feita, necessariamente, menção expressa à FAPESC. 
+12.3 Devolver à FAPESC, em valores atualizados, o(s) pagamento(s) recebido(s) 
+indevidamente, caso os requisitos e compromissos estabelecidos acima não sejam 
+cumpridos. 
+ 
+13 IMPUGNAÇÃO DA CHAMADA PÚBLICA  
+13.1 Decairá o direito de impugnar os termos desta Chamada Pública qualquer 
+interessado que não o fizer em até 5 (cinco) dias úteis subsequentes ao lançamento da 
+Chamada no Diário Oficial do Estado. Não terão efeito de recurso as impugnações feitas 
+por aquele que venha apontar, posteriormente ao prazo supracitado, eventuais falhas ou 
+inadequações desta Chamada Pública. 
+13.2 Não terão efeito de recurso as impugnações feitas por aquele que, em o tendo 
+aceitado sem objeção, venha apontar, posteriormente ao julgamento, eventuais falhas ou 
+inadequações. 
+13.3 A impugnação deverá ser dirigida à Diretoria de Ciência, Tecnologia e Inovação da 
+FAPESC, por correspondência eletrônica, para o e-mail bolsascbmsc@fapesc.sc.gov.br, 
+com o assunto: “Impugnação CP FAPESC 33/2020”. 
+ 
+14 DA SUSPENSÃO, REVOGAÇÃO OU ANULAÇÃO DA CHAMADA 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001700/2020 e o código WE5382PK.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:16:33, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+41
+  
+12 
+ 
+14.1 A qualquer tempo, a presente Chamada poderá ser suspensa, revogada ou anulada, 
+no todo ou em parte, inclusive quanto aos recursos a ela alocados, por decisão unilateral 
+da FAPESC, por motivo de interesse público ou exigência legal, sem que isso implique 
+direitos à indenização ou reclamação de qualquer natureza. 
+ 
+15 DA CLÁUSULA ANTICORRUPÇÃO (IN CGE/SEA nº 01/2020) 
+15.1 Os participantes do presente Edital, tanto pessoas físicas quanto pessoas jurídicas 
+de qualquer natureza, concordam que executarão as obrigações assumidas de forma ética 
+e de acordo com os princípios aplicáveis à administração pública direta e indireta e 
+atividades do terceiro setor. 
+15.2 Declaram que têm conhecimento das normas previstas na legislação 
+correspondente, entre as quais as que se encontram determinadas na Lei nº 8.429/1992 
+(Lei de Improbidade Administrativa) e Lei nº 12.846/2013, seus regulamentos e demais 
+legislações Federais e Estaduais correlatas. 
+15.3 Os proponentes comprometem-se em não adotar práticas ou procedimentos que se 
+enquadrem nas hipóteses previstas nas leis e regulamentos mencionados no inciso I, 
+artigo 1º da IN CGE/SEA nº 01/2020, bem como, exigir o mesmo zelo de terceiros por elas 
+contratados. 
+15.4 Comprometem-se em notificar à Controladoria-Geral do Estado qualquer 
+irregularidade que tiverem conhecimento acerca da inexecução da presente cláusula 
+anticorrupção. 
+15.5 Declaram ainda, ter plena ciência de que a violação de qualquer das obrigações 
+previstas na IN CGE/SEA nº 01/2020, além de outras pertinentes à espécie, é causa para 
+a sua imediata exclusão deste certame, sem prejuízo da cobrança das perdas e danos, 
+inclusive danos potenciais, causados à parte inocente e das multas pactuadas. 
+ 
+16 DISPOSIÇÕES GERAIS 
+16.1 A presente Chamada regula-se pelos preceitos de direito público, pela legislação de 
+Ciência, Tecnologia e Inovação, e, em especial, pela Resolução FAPESC 01/2015 
+(Política de Bolsas FAPESC), além das demais normas aplicáveis. 
+16.2 É responsabilidade do candidato acompanhar a publicação de todos os atos e 
+comunicações referentes a este Edital, no site da FAPESC (http://www.fapesc.sc.gov.br/ 
+na aba Chamadas Públicas). 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001700/2020 e o código WE5382PK.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:16:33, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+42
+  
+13 
+ 
+16.3 A veracidade das informações prestadas, bem como da documentação apresentada, 
+será de responsabilidade exclusiva do candidato, respondendo por elas, na forma da lei. 
+16.4 O bolsista deverá atender a todos os prazos e as demais exigências desta Chamada. 
+16.5 O bolsista deverá apresentar à FAPESC, nos prazos que lhe forem determinados, 
+informações ou documentos referentes tanto ao desenvolvimento quanto à conclusão do 
+Plano de Trabalho (Anexo II) aprovado. 
+16.6 A concessão do apoio financeiro poderá ser cancelada pela FAPESC por ocorrência, 
+durante sua implementação, de fato cuja gravidade justifique o cancelamento. Tal medida 
+não acarretará prejuízo de outras providências cabíveis. 
+16.7 As bolsas viabilizadas nessa Chamada Pública não geram vínculo empregatício. 
+16.8 A acumulação de bolsas provenientes de agências públicas de fomento é vedada. 
+16.9 Como contrapartida aos recursos recebidos, os bolsistas beneficiados por esta 
+chamada pública poderão ser solicitados, a qualquer momento, para atuar como 
+monitores ou para participar de grupo de trabalho em eventos científicos realizados pela 
+FAPESC, bem como, para ministrar palestra, no decorrer ou ao final do período da bolsa, 
+com o intuito de apresentar os trabalhos desenvolvidos durante a execução do programa. 
+16.10 A propriedade intelectual da criação resultante da parceria será estabelecida 
+conforme dispõem as Leis nº 9.279/96 e nº 10.973/04, e Lei Estadual nº 14.328, de 15 de 
+janeiro de 2008, e a política interna da FAPESC.  
+16.11 Esta chamada terá validade por 2 (dois) anos, a partir da data da publicação de seu 
+resultado no Diário Oficial do Estado. 
+ 
+17 INFORMAÇÕES ADICIONAIS  
+17.1 O foro para dirimir qualquer questão relacionada com a presente Chamada Pública 
+é o da Comarca de Florianópolis, Estado de Santa Catarina. 
+17.2 Esclarecimentos e informações adicionais sobre esta Chamada podem ser obtidos 
+junto à FAPESC, através do e-mail bolsascbmsc@fapesc.sc.gov.br. 
+ 
+Florianópolis (SC), 10 de dezembro de 2020. 
+(assinado digitalmente) 
+Fábio Zabot Holthausen 
+Presidente da FAPESC 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001700/2020 e o código WE5382PK.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:16:33, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+43
+  
+14 
+ 
+ 
+ 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001700/2020 e o código WE5382PK.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:16:33, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+44
+  
+15 
+ 
+ 
+ANEXO I 
+ 
+TERMO DE COMPROMISSO DE BOLSA FAPESC 
+ 
+A ser preenchido pela FAPESC 
+PROCESSO FAPESC Nº:  
+ 
+O Programa de BOLSAS FAPESC objetiva: 
+ 
+a) A formação de profissionais para a Pesquisa Científica, Tecnológica e Inovação em 
+universidades, institutos de pesquisa e desenvolvimento, centros tecnológicos, 
+centros de formação profissional e empresas de base tecnológica, em todas as 
+áreas do conhecimento, tanto no Brasil quanto no exterior, com o intuito de 
+incentivar e promover o desenvolvimento, em áreas estratégicas, do Estado de 
+Santa Catarina;  
+b) A fixação de pessoal de alto nível em Instituições de Ciência, Tecnologia e 
+Inovação, ICTI, empresas e governos, para a realização de projetos de PDI e a 
+gestão de projetos de PDI. 
+ 
+1 DEFINIÇÕES 
+ 
+a) Coordenador: Representante do CBMSC 
+b) Entidade: FAPESC 
+c) Supervisor do Bolsista: Profissional diretamente responsável pelo bolsista, que 
+acompanhará as atividades desempenhadas pelo mesmo, indicado pelo CBMSC. 
+ 
+2 DO BOLSISTA 
+ 
+Nome:  
+Estado Civil:  
+Nacionalidade:  
+CPF:  
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001700/2020 e o código WE5382PK.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:16:33, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+45
+  
+16 
+ 
+RG: 
+Órgão Emissor: 
+Data de Expedição: 
+UF: 
+Profissão:  
+Data de Nascimento:  
+Sexo:  
+Nome do Pai:  
+Nome da Mãe:  
+Endereço Residencial (logradouro, nº e complemento): 
+Bairro:  
+Cidade:  
+CEP:  
+Telefone: 
+Celular: 
+E-mail:  
+Tempo de Residência no Estado de SC: 
+Estado e Município de Nascimento: 
+Nº Título Eleitoral:  
+Zona:  
+Seção:  
+UF:  
+Data de emissão Título: 
+Município: 
+Banco do Brasil – Agência: 
+Conta:  
+ 
+3 DO COORDENADOR  
+ 
+Nome:  
+CPF:   
+RG:  
+Órgão Exp.:  
+Data Exp.:  
+Nacionalidade:  
+Estado civil:  
+Profissão:  
+Telefone:  
+Celular:  
+Endereço Comercial (logradouro, nº e complemento): 
+Bairro:  
+CEP:  
+Cidade:  
+Endereço Residencial (logradouro, nº e complemento): 
+Bairro:  
+CEP:  
+Cidade:  
+Email:  
+Nome da Entidade de vínculo:  
+Nome do Supervisor do Bolsista: 
+ 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001700/2020 e o código WE5382PK.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:16:33, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+46
+  
+17 
+ 
+4  DO OBJETO  
+ 
+4.1 O presente TERMO DE COMPROMISSO DE BOLSA FAPESC visa à transferência 
+de recursos financeiros, em modalidade de bolsa, para a execução do projeto “Análise de 
+Projetos Preventivos (PPCI) pelo Corpo de Bombeiros Militar de Santa Catarina por meio 
+de Verificação Automática de Regras com o uso da Plataforma BIM”, aprovado no EDITAL 
+DE CHAMADA PÚBLICA FAPESC Nº 33/2020 Programa de Pesquisa e Inovação em 
+Projetos Preventivos (PPCI) por meio de verificação automática de regras com o uso 
+da Plataforma BIM, em conformidade com o Plano de Trabalho, parte integrante do 
+presente instrumento, nos termos da resolução 01/2015 - Política de Bolsas FAPESC. 
+ 
+5 IDENTIFICAÇÃO DO PROCESSO 
+ 
+Modalidade da Bolsa: DTI – B 
+Valor da Bolsa: R$ 3.000,00 
+Duração da Bolsa (meses): até 24 
+Data Início da Bolsa: 01/03/2021 
+Data Fim da Bolsa: 28/02/2023 
+ 
+6 DAS ATRIBUIÇÕES E RESPONSABILIDADES DO BOLSISTA 
+ 
+a) Dedicar-se integralmente às atividades de pesquisa, desenvolvimento e inovação 
+na FAPESC em ritmo compatível com as atividades exigidas pelo Programa; 
+b) Manter bom desempenho a ser atestado pelo coordenador do projeto e/ou 
+supervisor do bolsista durante todo o período de bolsa. 
+c) Indicar conta de sua titularidade, no Banco do Brasil, para o recebimento mensal e 
+sucessivo da bolsa. 
+d) A acumulação de bolsas provenientes de agências públicas de fomento é vedada. 
+e) O bolsista enviará à FAPESC, semestralmente e em prazos a serem estipulados, 
+relatórios parciais do andamento do estudo/projeto, com parecer do coordenador 
+do projeto e/ou supervisor do bolsista. 
+f) Ao final da vigência deste Termo de Compromisso, deverá ser apresentado um 
+relatório conjunto pelo bolsista, pelo coordenador do projeto e/ou supervisor do 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001700/2020 e o código WE5382PK.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:16:33, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+47
+  
+18 
+ 
+bolsista, com resultado sucinto, em meio eletrônico, para ser divulgado no site da 
+FAPESC. 
+g) Submeter à apreciação da FAPESC qualquer proposta de mudança no projeto, 
+durante a vigência da bolsa.  
+h) Em qualquer ação promocional ou publicação de trabalhos relacionados com o 
+objeto do presente Termo, deverá ser feita, necessariamente, menção expressa à 
+FAPESC. 
+i) Devolver à FAPESC, em valores atualizados, mensalidade(s) recebida(s) 
+indevidamente, caso os requisitos e compromissos estabelecidos acima não sejam 
+cumpridos. 
+ 
+7 DAS ATRIBUIÇÕES E RESPONSABILIDADES DO COORDENADOR/SUPERVISOR  
+ 
+a) Apresentar relatório parcial das atividades desenvolvidas semestralmente e 
+quando solicitado. Ao encerramento do presente Termo apresentar relatório final, 
+conforme Item 6-e deste Edital. 
+b) Submeter a prestação de contas técnica, apresentando o relatório semestral de 
+aproveitamento e quando solicitado. 
+c) Submeter à apreciação da FAPESC qualquer proposta de alteração no projeto.  
+d) Fazer, obrigatoriamente, menção expressa à FAPESC em qualquer ação 
+promocional ou publicação de trabalhos relacionados com o objeto do presente 
+Termo. 
+e) Assinar junto com o bolsista, quando for o caso, o relatório semestral de atividades 
+para ser enviado à FAPESC, onde constarão as atividades desenvolvidas e o 
+aproveitamento alcançado. 
+f) Enviar mensalmente à FAPESC, até o dia 30 de cada mês, os nomes dos bolsistas 
+excluídos ou que tenham falta que impliquem suspensão do pagamento das bolsas. 
+ 
+8 DAS ATRIBUIÇÕES E RESPONSABILIDADES DA ENTIDADE 
+ 
+a) A Entidade, por meio de seu representante legal, colaborará na execução das 
+atividades, mediante a disponibilização de infraestrutura logística e administrativa 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001700/2020 e o código WE5382PK.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:16:33, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+48
+  
+19 
+ 
+necessária à realização do objeto deste instrumento, sendo responsável solidária 
+pelo cumprimento de todas as obrigações assumidas pelo bolsista, conforme Plano 
+de Trabalho. 
+ 
+9 CONDIÇÕES GERAIS 
+ 
+a) As condições gerais estabelecidas neste instrumento terão validade durante todo o 
+período de fruição da bolsa. 
+b) Em caso de insuficiência de desempenho do bolsista ou de interrupção, por 
+qualquer motivo, dos seus trabalhos durante a vigência da bolsa, caberá ao 
+Coordenador a responsabilidade de informar à FAPESC, e solicitar a suspensão 
+imediata da bolsa. A bolsa poderá ser cancelada, pela FAPESC, por ocorrência, de 
+fato cuja gravidade justifique o cancelamento. Tal medida acarretará ao bolsista 
+restituir, à FAPESC, o valor recebido, corrigido com base nos mesmos critérios 
+adotados para a atualização das obrigações tributárias. 
+c) A concessão objeto do presente instrumento não gera vínculo de qualquer natureza 
+ou relação de trabalho entre as partes, constituindo doação feita ao bolsista. 
+d) O bolsista excluído, independentemente das razões, não poderá retornar ao 
+Programa na mesma vigência. 
+e) A FAPESC não se responsabiliza por qualquer dano físico ou mental causado ao 
+bolsista na execução do seu projeto de pesquisa.  
+f) O bolsista, o coordenador do projeto e supervisor do bolsista manifestam sua 
+integral e incondicional concordância com a concessão que ora é feita, 
+comprometendo-se a cumprir fielmente as condições expressas neste instrumento. 
+g) O início da vigência da bolsa dar-se-á pelo cadastramento do bolsista no Sistema 
+de Gestão de Recursos Humanos (SIGRH/SC), pela FAPESC. Esse procedimento 
+será executado após o recebimento do Termo de Compromisso assinado, estando 
+sujeito ao cronograma de processamento desse sistema. 
+ 
+ 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001700/2020 e o código WE5382PK.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:16:33, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+49
+  
+20 
+ 
+Florianópolis, ______ de _______________ de 2021. 
+ 
+ 
+ 
+_______________________________ 
+Bolsista 
+ 
+______________________________ 
+Coordenador 
+ 
+ 
+ 
+_______________________________ 
+Entidade 
+ 
+ 
+ 
+_______________________________ 
+Supervisor 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001700/2020 e o código WE5382PK.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:16:33, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+50
+  
+21 
+ 
+ANEXO II 
+ 
+ 
+Bolsista 
+ 
+Coordenador  
+ 
+Supervisor 
+ 
+FAPESC 
+ 
+ 
+ 
+ 
+PLANO DE TRABALHO DO BOLSISTA 
+ 
+EDITAL DE CHAMADA PÚBLICA FAPESC Nº 33/2020 -    Programa de Pesquisa 
+e Inovação em Projetos Preventivos (PPCI) por meio de verificação automática 
+de regras com o uso da Plataforma BIM 
+ 
+1 DO PROJETO  
+ 
+ 
+1.1 Nome do Bolsista 
+ 
+ 
+1.2 Título do Projeto 
+ 
+ 
+1.3 Identificação do objeto 
+ 
+ 
+1.4 Objetivo da pesquisa 
+ 
+ 
+1.5 Etapas e metas, com cronograma compatível com a duração da bolsa e projeto 
+de PDI 
+ 
+ 
+ 
+1.6 Entregáveis (produto/processo ou equivalente) 
+ 
+ 
+1.7 Resumo do Plano de Trabalho 
+ 
+ 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001700/2020 e o código WE5382PK.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:16:33, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+51
+ EDITAL DE CHAMADA PÚBLICA Nº 33/2020
+PROGRAMA DE PESQUISA E INOVAÇÃO EM PROJETOS PREVENTIVOS 
+(PPCI) POR MEIO DE VERIFICAÇÃO AUTOMÁTICA DE REGRAS COM O 
+USO DA PLATAFORMA BIM
+PROGRAMA INTERINSTITUCIONAL DE FOMENTO A PROJETOS DE 
+PESQUISA, DESENVOLVIMENTO E INOVAÇÃO QUE ATENDAM ÀS 
+DEMANDAS DA SOCIEDADE CATARINENSE POR INTERMÉDIO DE 
+ÓRGÃOS SETORIAIS DO GOVERNO DO ESTADO DE SANTA CATARINA 
+(PROGRAMA #FAPESC@GOV+PESQUISA&INOVAÇÃO)
+RESULTADO PRELIMINAR DE ADMISSIBILIDADE
+Candidato (a)
+Resultado
+Luiza de Aguiar Kasper
+Admissível
+Ramon Helder Rotava
+Admissível
+Florianópolis/SC, 18 de janeiro de 2021.
+ (assinado digitalmente)
+Amauri Bogo
+Presidente da FAPESC em exercício
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001700/2020 e o código 3C2C8I5C.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por AMAURI BOGO em 18/01/2021 às 17:34:01, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+52
+ EDITAL DE CHAMADA PÚBLICA Nº 33/2020
+PROGRAMA DE PESQUISA E INOVAÇÃO EM PROJETOS PREVENTIVOS 
+(PPCI) POR MEIO DE VERIFICAÇÃO AUTOMÁTICA DE REGRAS COM O 
+USO DA PLATAFORMA BIM
+PROGRAMA INTERINSTITUCIONAL DE FOMENTO A PROJETOS DE 
+PESQUISA, DESENVOLVIMENTO E INOVAÇÃO QUE ATENDAM ÀS 
+DEMANDAS DA SOCIEDADE CATARINENSE POR INTERMÉDIO DE 
+ÓRGÃOS SETORIAIS DO GOVERNO DO ESTADO DE SANTA CATARINA 
+(PROGRAMA #FAPESC@GOV+PESQUISA&INOVAÇÃO)
+RESULTADO FINAL DE ADMISSIBILIDADE
+Candidato (a)
+Resultado
+Ramon Helder Rotava
+Admissível
+Luiza de Aguiar Kasper
+Admissível
+Florianópolis/SC, 28 de janeiro de 2021.
+ (assinado digitalmente)
+Amauri Bogo
+Presidente da FAPESC em exercício
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001700/2020 e o código 16FBM13I.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por AMAURI BOGO em 28/01/2021 às 18:43:53, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+55
+  
+ 
+EDITAL DE CHAMADA PÚBLICA Nº 33/2020 
+PROGRAMA DE PESQUISA E INOVAÇÃO EM PROJETOS PREVENTIVOS 
+(PPCI) POR MEIO DE VERIFICAÇÃO AUTOMÁTICA DE REGRAS COM O 
+USO DA PLATAFORMA BIM 
+ 
+PROGRAMA INTERINSTITUCIONAL DE FOMENTO A PROJETOS DE 
+PESQUISA, DESENVOLVIMENTO E INOVAÇÃO QUE ATENDAM ÀS 
+DEMANDAS DA SOCIEDADE CATARINENSE POR INTERMÉDIO DE 
+ÓRGÃOS SETORIAIS DO GOVERNO DO ESTADO DE SANTA CATARINA 
+(PROGRAMA #FAPESC@GOV+PESQUISA&INOVAÇÃO) 
+ 
+RESULTADO DA ANÁLISE E JULGAMENTO DE MÉRITO QUANTO À 
+QUALIFICAÇÃO TÉCNICA  
+  
+Área de Atuação 
+Candidato (a) 
+Resultado 
+Graduação em Engenharia 
+Civil ou Graduação em 
+Arquitetura 
+Ramon Helder Rotava 
+Aprovado 
+Luiza de Aguiar Kasper 
+Aprovada 
+ 
+Florianópolis/SC, 01 de fevereiro de 2021. 
+ 
+ (assinado digitalmente) 
+Fábio Zabot Holthausen 
+Presidente da FAPESC 
+ 
+ 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001700/2020 e o código M5DNY507.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN em 01/02/2021 às 20:05:26, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+57
+ EDITAL DE CHAMADA PÚBLICA Nº 33/2020
+PROGRAMA DE PESQUISA E INOVAÇÃO EM PROJETOS PREVENTIVOS 
+(PPCI) POR MEIO DE VERIFICAÇÃO AUTOMÁTICA DE REGRAS COM O 
+USO DA PLATAFORMA BIM
+PROGRAMA INTERINSTITUCIONAL DE FOMENTO A PROJETOS DE 
+PESQUISA, DESENVOLVIMENTO E INOVAÇÃO QUE ATENDAM ÀS 
+DEMANDAS DA SOCIEDADE CATARINENSE POR INTERMÉDIO DE 
+ÓRGÃOS SETORIAIS DO GOVERNO DO ESTADO DE SANTA CATARINA 
+(PROGRAMA #FAPESC@GOV+PESQUISA&INOVAÇÃO)
+RESULTADO DO JULGAMENTO DOS RECURSOS E RESULTADO FINAL 
+Área de Atuação
+Candidato (a)
+Resultado
+Ramon Helder Rotava
+Aprovado
+Graduação em Engenharia 
+Civil ou Graduação em 
+Arquitetura
+Luiza de Aguiar Kasper
+Aprovada
+Florianópolis/SC, 15 de fevereiro de 2021.
+ (assinado digitalmente)
+Fábio Zabot Holthausen
+Presidente da FAPESC
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001700/2020 e o código JY73T6I1.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN em 15/02/2021 às 18:41:15, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+59

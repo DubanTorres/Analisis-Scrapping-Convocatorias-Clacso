@@ -1,0 +1,2521 @@
+24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+https://Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1 7358087 &codigo_crc=O5A2FEF3&hash... 
+GOVERNO DO ESTADO DE MINAS GERAIS 
+  
+Fundacado de Amparo a Pesquisa do Estado de Minas Gerais 
+FAPEMIG 
+FAPEMIG - Chamada n°. 3/2020 
+Belo Horizonte, 22 de julho de 2020. 
+CHAMADA FAPEMIG 003/2020 
+PROGRAMA DE PESQUISA PARA O SUS: GESTAO COMPARTILHADA EM SAUDE — PPSUS 
+MS/CNPQ/FAPEMIG/SES 
+A Fundacdo de Amparo a Pesquisa do Estado de Minas Gerais — FAPEMIG, atendendo a orientacdo programatica da Secretaria de Estado de 
+Desenvolvimento Econémico-SEDE, observadas as diretrizes politicas emanadas do Conselho Estadual de Ciéncia e Tecnologia — CONECIT e 
+de seu Conselho Curador, em parceria com a Secretaria de Estado de Saude de Minas Gerais — SES/MG e com o Departamento de Ciéncia e 
+Tecnologia — da Secretaria de Ciéncia Tecnologia, Inovacdo e Insumos Estratégicos — do Ministério da Satide — Decit/SCTIE/MS, em convénio 
+firmado com o Conselho Nacional de Desenvolvimento Cientifico e Tecnoldgico — CNPq, 
+registrado no SICONV, n.837584/2016, 
+torna 
+publico 
+a presente Chamada 
+e convida 
+os pesquisadores 
+e grupos de pesquisa vinculados 
+a 
+Instituigdes de Ciéncia, Tecnologia 
+e 
+Inovacdo/ICTs, sediadas no Estado de Minas Gerais e cadastradas junto 4 FAPEMIG, a apresentarem propostas para obtencdo de apoio 
+financeiro, em conformidade com o que estabelece a presente Chamada. 
+1. 
+INTRODUCAO 
+O Programa Pesquisa para o SUS: gestdéo compartilhada em satide nos termos aqui estabelecidos é estruturado pelo Departamento de 
+Ciéncia 
+e Tecnologia 
+— da Secretaria de Ciéncia Tecnologia, Inovagdo 
+e Insumos Estratégicos em Saude do Ministério da Saude — 
+Decit/SCTIE/MS e parceiros para apoiar e fortalecer o desenvolvimento de projetos de pesquisa que busquem solucées para as prioridades 
+de saude e atendam as peculiaridades e especificidades de cada Unidade Federativa. 
+A aproximacdo entre os sistemas estaduais de sade 
+e de ciéncia 
+e tecnologia 
+e 
+a comunidade cientifica, promovida pelo PPSUS, permite maior interagdo entre os atores locais para 
+o 
+fortalecimento da Politica Nacional de Saude. 
+2. 
+OBJETIVO 
+Apoiar projetos de pesquisa cientifica e tecnoldgica e de inovacdo que promovam a formacdo e a melhoria da qualidade de atencdo a 
+saude em Minas Gerais no contexto do Sistema Unico de Satde (SUS), representando significativa contribuicdo para o desenvolvimento da 
+Ciéncia, Tecnologia e Inovagdo em Satide/ CT&IS no Estado, e que sejam aderentes aos eixos prioritarios e linhas tematicas descritas no 
+item 3 desta Chamada. 
+2.1. 
+OBJETIVOS ESPECIFICOS 
+2.1.1. 
+Propor ferramentas de gestdo da politica publica de pesquisa em saude; 
+2.1.2. 
+Direcionar os investimentos de CT&I para atender as necessidades de aperfeicoamento do SUS; 
+2.1.3. 
+Fortalecer os grupos de pesquisa e os programas de pds-graduacao em saude existentes no estado de Minas Gerais nas 
+linhas de pesquisa definidas; 
+2.1.4. 
+Fortalecer 
+o Sistema de Satide 
+e de CT&IS no estado de Minas Gerais, por meio de agdes em parcerias setoriais 
+e 
+intersetoriais. 
+3. 
+EIXOS PRIORITARIOS E LINHAS TEMATICAS 
+3.1. 
+EIXO 1 - PLANEJAMENTO, GESTAO E INOVACAO EM SAUDE 
+3.1.1. 
+Avaliacao de custos e analise econédmica de servicos e estratégias relacionados as politicas estaduais de sade com énfase na 
+Rede de Urgéncia e Emergéncia; 
+3.1.2. 
+Desenvolvimento de tecnologias de custo-eficiente de saude e pesquisa translacional e sua aplicacdo; 
+3.1.3. 
+Avaliacéo de modelos de gestao no SUS e um mecanismo para promover qualificacdo-Consdércios, Organizagdes Sociais (OS), 
+Parcerias Publico Privadas (PPP), contratualizacdo; 
+3.1.4. 
+Avaliagdo/Gestdo de custo e porte hospitalar; 
+3.1.5. 
+Desenvolvimento de ferramenta de monitoramento de execucdo dos instrumentos de pactuacdo, planejamento e gestao do 
+SUS; 
+1/31
+ 24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+3.1.6. 
+A importancia da governanca e efetividade (compliance) na execucdo dos contratos para prestacdo de acdes e servicos de 
+saude; 
+3.2, 
+EIXO 2 — INFORMACAO, EDUCAGAO E COMUNICAGAO EM SAUDE 
+3.2.1. 
+Desenvolvimento de tecnologias para a superacdo da fragmentacdo da informacdo em saude: 
+3.2.2. 
+Captura dos dados, 
+3.2.3. 
+Arquitetura da informacdo, 
+3.2.4. 
+Integracdo, interoperabilidade e governanca de dados, 
+3.2.5. 
+Gestdo estratégica da informacao, 
+3.2.6. 
+Acesso a informacao, privacidade e confidencialidade. 
+3.3. 
+EIXO 3 
+— MONITORAMENTO E AVALIACAO DE PROGRAMAS E POLITICAS EM SAUDE 
+3.3.1. 
+Equidade do acesso e impacto das diferencas territoriais nos indicadores de saude de Minas Gerais; 
+3.3.2. 
+Indicadores, ferramentas, tecnologias inovadoras e protocolos para monitoramento 
+e avaliagdo em saude, 
+e andlise da 
+resolubilidade na atencdo secundaria e terciaria nas regides de saude; 
+3.3.3. 
+Resolubilidade e efetividade das politicas e programas de satide nos diferentes niveis de atengdo a saude; 
+3.3.4. 
+Avaliacdo da efetividade da rede hospitalar em MG; 
+3.3.5. 
+Avaliagdo Econémica em Saude. 
+3.4, 
+EIXO 4 — VIGILANCIA EM SAUDE 
+3.4.1. 
+Desenvolvimento e/ou incorporacdéo de novas tecnologias diagnésticas, tratamento, terapias inovadoras, acompanhamento 
+e controle das doencas negligenciadas no ambito de agravos prioritarios: hanseniase, leishmanioses humana, leishmanioses canina e felina, 
+esquistossomoses, tuberculose, HTLV, doenca de Chagas e arboviroses (com énfase em Zika virus); 
+3.4.2. 
+Desenvolvimento de testes diagnosticos, preditivos, progndsticos e biomarcadores para o monitoramento de agravos e da 
+resposta terapéutica em pacientes; 
+3.4.3. 
+Monitoramento e avaliagdo da qualidade dos servicos de diagndstico por imagem, analise de risco de exposicdo as radiagdes 
+ionizantes e otimizagao de doses em Minas Gerais; 
+3.4.4. 
+Validagdo de métodos de avaliacaéo de produtos de satide no controle sanitario e epidemioldgico e desenvolvimento de 
+materiais de referéncia para testes de proficiéncia; 
+3.4.5. 
+Estudos avaliativos de coberturas vacinais; 
+3.4.6. 
+Monitoramento e avaliacgdo do uso de agrotoxicos e riscos a saude da populacdo; 
+3.5. 
+EIXO 5 — REGULACAO DA ATENCAO A SAUDE 
+3.5.1. 
+Avaliagdo e/ou desenvolvimento de tecnologias de apoio a regulagdo da média e alta complexidade nas regides de satide; 
+3.5.2. 
+Avaliagao dos custos de acdes e servicos da Rede de Cuidados a pessoa com deficiéncia; 
+3.5.3. 
+Desenvolvimento de estratégias e metodologias voltadas para o financiamento em satide considerando o valor global e com 
+base em desempenho/producao; 
+3.5.4. 
+Desenvolvimento de estratégias e metodologias de gestéo da demanda por procedimentos cirtirgicos eletivos; 
+3.5.5. 
+A regulacdo da rede hospitalar no SUS/MG e sua relacdo com o avanco das demandas da judicializagdo em satide; 
+3.5.6. 
+Estudo 
+sobre 
+as 
+necessidades 
+/oco 
+regionais 
+voltado 
+para 
+a 
+média 
+complexidade 
+ambulatorial 
+para 
+estimar 
+o 
+dimensionamento dos servicos por regido de sade. 
+4, 
+NUMERO DE PROPOSTAS E PRAZOS 
+4.1. 
+O numero de propostas a se contratar esta condicionado ao limite dos recursos disponiveis nesta Chamada. 
+4.2. 
+O prazo de execucdo de cada projeto contratado é de até vinte e quatro meses, contados a partir da data de publicagdo do 
+extrato do Termo de Outorga Eletrénico — TO, no Didrio Oficial do Estado de Minas Gerais, respeitando 
+a vigéncia do Convénio 
+n° 
+837584/2016. 
+5. 
+PROPOSTAS ELEGIiVEIS 
+Sao consideradas elegiveis as propostas de Instituicdes de Ciéncia, Tecnologia e Inovacdo/ICTs, em conformidade com o Marco Legal de 
+Ciéncia e Tecnologia (Lei 13.243 de 11 de janeiro de 2016 e Decreto Estadual n° 47.442/2018), localizadas no Estado de Minas Gerais e 
+cadastradas junto a FAPEMIG, que atendam aos requisitos abaixo. 
+5.1. 
+Por parte da Instituigao Executora 
+https://Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1 7358087 &codigo_crc=O5A2FEF3&hash... 
+2/31
+ 24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+5.1.1. 
+A Instituicdo de vinculo do autor da proposta, deve ser enquadrada em uma das categorias elencadas a seguir: 
+a) Instituigdes de ensino superior, publicas ou privadas, sem fins lucrativos; 
+b) Centros de pesquisa e desenvolvimento, publicos ou privados, sem fins lucrativos; 
+c) Empresas publicas que executem atividades de pesquisa cientifica, tecnoldgica ou de inovacgdo; 
+5.1.2. 
+Propiciar condigédes adequadas de espaco, infraestrutura, pessoal de apoio técnico e administrativo, bem como tempo para a 
+equipe dedicar-se ao projeto proposto. 
+5.1.3. 
+Observar as diretrizes especificas constantes do Manual da FAPEMIG, desde a submissdo da proposta até a prestacdo final de 
+contas. 
+5.1.4. 
+Responsabilizar solidariamente junto ao coordenador do projeto pelo envio da prestacgao de contas técnico - cientifica, nos 
+termos do item 10.3. 
+5.2. 
+Por parte da proposta 
+A proposta a ser submetida deve: 
+5.2.1. 
+Estar claramente caracterizada como projeto de pesquisa cientifica, tecnoldgica ou de inovacao; 
+5.2.2. 
+Contemplar o diagndstico, a avaliagdo e a proposicdo da solugdo em um dos eixos e linhas tematicas descritas no item 3 
+desta Chamada; 
+5.2.3. 
+Ter na equipe pesquisadores com curriculo atualizado 
+na Plataforma 
+Lattes do CNPq 
+(esta exigéncia 
+nao se aplica 
+a 
+pesquisadores estrangeiros); 
+5.2.4. 
+N&o ter, na equipe, pesquisador que seja membro da Comissao de Especialistas e/ou do Comité Gestor, seja na qualidade de 
+coordenador, consultor ou participante do projeto; 
+5.2.5. 
+Prever a participacdo do coordenador nos dois seminarios previstos no item 10.6; 
+5.2.6. 
+Prever a elaboracao de um PITCH (material de divulgagcao em video voltado ao publico leigo), conforme as diretrizes contidas 
+na pagina da FAPEMIG. 
+5.2.7. 
+Propostas que envolvam mais de uma instituig¢do devem: 
+5.2.7.1. 
+Definir a instituigdo executora, a qual firmard o TO@ com a FAPEMIG, tornando-se responsavel pelas instituigdes parceiras e 
+por toda a proposta durante o prazo de sua execucdo, nos termos do subitem 4.2, desde o recebimento dos recursos financeiros até a 
+prestacdo de contas; 
+5.2.7.2. 
+Explicitar claramente as atividades que serdo comuns a todas as instituigdes; 
+5.2.7.3. 
+Definir as atribuigdes e contrapartidas de cada instituicdo; 
+5.2.7.4. 
+Considerar a propriedade intelectual como um instrumento para promover o desenvolvimento da ciéncia; 
+5.2.7.5. 
+Indicar o responsavel pela execugdo da proposta e apresentar um termo de compromisso, assinado pela direcdo superior, 
+confirmando sua participacdo e a aceitagdo de seu papel na parceria. 
+5.2.8. 
+A proposta devera ser original. A ndo observdncia desta diretriz inabilitara a proposta. 
+5.3. 
+Por parte do pesquisador proponente 
+Para ser Coordenador, o autor da proposta deve atender as seguintes condicdes: 
+5.3.1. 
+Ser o coordenador da proposta; 
+5.3.2. 
+Ter vinculo empregaticio ou funcional com a Instituicdo Executora; 
+5.3.3. 
+Ter titulo de doutor; 
+5.3.4. 
+Ter curriculo atualizado na Plataforma Lattes do CNPq; 
+5.3.5. 
+Ter producao cientifica ou tecnoldgica relevante, nos ultimos cinco anos, na area especifica da proposta submetida; 
+5.3.6. 
+Ter experiéncia compativel e comprovada com o tema da proposta apresentada; 
+5.3.7. 
+Estar cadastrado no sistema EVEREST da FAPEMIG; 
+5.3.8. 
+Produzir ao final do projeto, artigo sobre os principais resultados do estudo com foco na sua aplicabilidade ao SUS, para o 
+publico-alvo composto por Gestores de satide, conforme as diretrizes descritas no item 14.6; 
+5.3.9. 
+Observar diretrizes especificas constantes do Manual da FAPEMIG, desde a submissdo da proposta até a prestacdo final de 
+contas; 
+5.3.10. 
+Apresentar e ser responsavel por apenas uma proposta; 
+5.3.11. 
+Nao ser membro do Comité Gestor do Programa PPSUS; 
+5.3.12. 
+Ter participacao na equipe executora de no maximo duas propostas nesta Chamada; 
+5.3.13. 
+Manter atualizado o cadastro de dados pessoais no Everest; 
+5.3.14. 
+Ndo ter sido contemplado na Chamada 07/2017 — PPSUS. 
+5.4. 
+Por parte da Equipe Executora: 
+https://Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1 7358087 &codigo_crc=O5A2FEF3&hash... 
+3/31
+ 24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+https://Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1 7358087 &codigo_crc=O5A2FEF3&hash... 
+5.4.1. 
+Pode ser constituida por pesquisadores, alunos e técnicos; 
+5.4.2. 
+Ser composta 
+por, 
+no minimo, 
+mais um membro 
+de mesma 
+titulagéo 
+do coordenador. 
+Este 
+sera designado como 
+coordenador substituto e substituira o titular quando necessdrio. Os membros da equipe devem manter os curriculos atualizados na 
+Plataforma Lattes (essa exigéncia ndo se aplica a pesquisadores estrangeiros). 
+5.4.3. 
+Ter anuéncia formal escrita quanto aos membros da equipe, 
+a qual deve ser mantida sob a guarda do Coordenador do 
+projeto, conforme o item 8.3.4. 
+5.4.4. 
+No caso de participacdo de empresa, ela deve apresentar um termo de compromisso, expondo o interesse pelo projeto e o 
+detalhamento de sua contrapartida. 
+6. 
+RECURSOS FINANCEIROS 
+Os recursos de capital 
+e custeio alocados para 
+o financiamento desta Chamada, serdo da ordem de RS 1.700.000,00 (um milhao 
+e 
+setecentos mil reais), sendo RS 1.250.000,00 (um milhao, duzentos e cinquenta mil reais) provenientes do Decit/SCTIE/MS, via convénio 
+com CNPq e RS 450.000,00 (quatrocentos e cinquenta mil reais) da contrapartida da FAPEMIG, ambos provenientes do Convénio registrado 
+no SICONV, n° 837584/2016. 
+6.1. 
+As despesas decorrentes desta Chamada correrdo a conta das dotacdes orcamentarias a seguir relacionadas ou pelas que as 
+sucederem. 
+2071 19 571 001 4010 339020 0 103 
+2071 19 571 001 4010 335043 0 103 
+2071 19 571 001 4010 339020 0 241 
+2071 19 571 001 4010 335043 0 241 
+2071 19 571 001 4010 449020 0 241 
+2071 19 571 001 4010 445042 0 241 
+2071 19 571 001 4010 339039 0 101 
+6.2. 
+A Executora podera indicar uma Fundacdo de Apoio para gerenciamento dos recursos aprovados. A Fundacdo de Apoio 
+indicada devera estar cadastrada junto a FAPEMIG. 
+6.2.1. 
+A FAPEMIG podera complementar o valor dos projetos para pagamento de despesas operacionais das Fundacdes de Apoio, 
+conforme Deliberacdo do Conselho Curador n° 147/2019. 
+6.2.2. 
+Constitui fator impeditivo a liberacdo do apoio financeiro a exist€ncia de inadimpléncia ou pendéncias de natureza financeira 
+ou técnica do Coordenador, bem como de qualquer outro membro da equipe do projeto, da Instituicdo Executora e, ainda, da Fundacdo de 
+Apoio. 
+6.3. 
+As eventuais inadimpléncias deverdo ser sanadas até 15 (quinze) dias apds a divulgacdo dos resultados. Apds este prazo o 
+processo sera cancelado. 
+6.4. 
+O desembolso financeiro sera realizado conforme disponibilidade financeira, obedecendo 
+a ordem de classificacdo dos 
+projetos. 
+7. 
+ITENS FINANCIAVEIS 
+7.1, 
+A FAPEMIG recomenda que o valor dos recursos solicitados em cada proposta compreenda até 15% para despesas de capital, 
+sendo o restante destinado as despesas de custeio. Para efeitos deste calculo devera ser incluido em custeio o valor referente as bolsas e a 
+DOA - despesas operacionais administrativas. 
+7.2. 
+Serdo financiados, desde que compativeis com o objetivo desta Chamada, com o Manual da FAPEMIG 
+e devidamente 
+justificados, os seguintes itens de despesa: 
+7.2.1. 
+Capital 
+7.2.1.1. 
+Equipamentos e material permanente (incluindo a aquisicdo de material bibliografico - imobilizavel). 
+7.2.2. 
+Custeio 
+7.2.2.1. 
+Material de consumo (incluindo a aquisigaéo de material bibliografico - ndo-imobilizavel). 
+7.2.2.2. 
+Servigos de terceiros (Nao podem ser incluidos nesta rubrica, além dos itens ndo financiaveis constantes do Manual, 
+a 
+terceirizagdo das atividades basicas de pesquisa. O item consultoria deve ser limitado a 10% do total solicitado). 
+7.2.2.3. 
+Manutencdo de equipamentos. 
+7.2.2.4. 
+Software. 
+7.2.2.5. 
+Passagens. 
+7.2.2.6. 
+Didrias conforme valores da FAPEMIG. 
+7.2.2.7. 
+Despesas acessorias de importacdo. (Limitado a 15% do montante previsto para a importacdo de equipamentos, de material 
+permanente 
+e de material 
+de consumo). 
+A FAPEMIG 
+nado responde 
+pela suplementacdo de recursos para fazer frente 
+a despesas 
+4/31
+ 24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+decorrentes de quaisquer fatores externos ao seu controle, como flutuacao cambial. 
+7.2.2.8. 
+Bolsas: Limitadas a duas por projeto, nas modalidades de Bolsa de Desenvolvimento em Ciéncia, Tecnologia e Inovacao 
+- 
+BDCTI, niveis 
+Il 
+a VI, conforme valores da FAPEMIG (http://www.fapemig.br/tabelas-vigentes), nos termos da Deliberacdo do Conselho 
+Curador n° 144/2019 e conforme as regras do Caderno de Programas de Modalidades de Fomento da FAPEMIG. 
+  
+  
+7.2.2.9. 
+Despesas operacionais conforme Deliberacdo do Conselho Curador n° 147/2019; 
+7.3. 
+Nesta Chamada, sera permitido, excepcionalmente, o financiamento dos itens listados a seguir: 
+7.3.1. 
+Didrias e passagens para a participacdo do coordenador ou representante em 2 (dois) seminarios, conforme previsto nos 
+itens 7.3.1.1 e 7.3.1.2, que deverdo ocorrer em Belo Horizonte (limitado a 5% do total solicitado e obedecida a tabela da FAPEMIG). 
+7.3.1.1. 
+Seminario de Acompanhamento e Avaliacdo Parcial — previsto para ocorrer 12 meses apdos a assinatura do Termo de Outorga. 
+7.3.1.2. 
+Seminario de Acompanhamento e Avaliacdo Final — previsto para ocorrer 24 meses apos a assinatura do Termo de Outorga. 
+8. 
+PROPOSTAS 
+8.1. 
+As propostas devem 
+ser apresentadas sob 
+a forma 
+de projeto de pesquisa 
+cientifica, tecnoldgica 
+ou 
+de inovacdo 
+e 
+submetidas, obrigatoriamente, em versdo eletr6nica no sistema EVEREST da Fapemig (http://everest.fapemig.br), respeitando-se o prazo 
+definido no item 16. Calendario, desta Chamada. 
+8.2. 
+A proposta devera conter: 
+8.2.1. 
+Formuldrio Eletr6nico do EVEREST, devidamente preenchido, contendo titulo; 
+identificagdo do eixo 
+e 
+linha tematica; 
+identificagdo da macroregido onde o projeto se aplica (quando couber); resumo do projeto e palavras-chave; introducdo; justificativa(s) 
+para realizacdo do projeto e sua aplicabilidade para o SUS; objetivo geral e especifico(s); metodologia; resultados, produtos, avancos e 
+aplicag6es esperadas; cronograma de atividades a serem desenvolvidas, indicando as fases ou etapas; or¢amento detalhaco da proposta, 
+com a discriminacdo dos gastos de custeio e capital, devidamente justificados; Indicacdo dos demais apoios disponiveis e das cooperacgdes 
+firmadas; referéncias bibliograficas mais relevantes; especificagcdo dos indicadores de avaliagdo do andamento do projeto de pesquisa; 
+existéncia de interesse e participacdo do setor produtivo de modo a assegurar efetiva transferéncia tecnoldgica, se for o caso. 
+8.2.1.1. 
+Qualquer item nado incluido, mesmo que necessario 
+a proposta, sera considerado pela FAPEMIG como contrapartida da 
+Executora. Nao serdo considerados os itens e/ou justificativas de recursos apresentados fora do formulario eletrénico. 
+8.3. 
+Os documentos citados nos subitens 8.3.1 a 8.3.8 abaixo, deverdo ser encaminhados na forma de arquivo eletr6nico a serem 
+anexados ao Formuldrio Eletrénico no prdéprio sistema Everest. 
+8.3.1. 
+Arquivo eletrénico contendo cronograma de execucdo das atividades previstas para o desenvolvimento da pesquisa (com 
+previsdo para a elaboracdo do PITCH e de um artigo relatando a aplicabilidade da pesquisa para o SUS). 
+8.3.2. 
+Arquivo eletr6nico contendo o curriculo (em portugués) dos pesquisadores estrangeiros, caso existam. 
+8.3.3. 
+Arquivo eletrénico contendo Termo de Compromisso de amparo institucional com a descricado das condicgdes propiciadas de 
+espaco, infraestrutura, pessoal de apoio técnico 
+e administrativo, bem como tempo para 
+a equipe dedicar-se ao trabalho proposto, 
+conforme modelo do Anexo IV. 
+8.3.4. 
+Arquivo 
+eletrdnico 
+contendo Termo 
+de Compromisso 
+assinado 
+pela 
+Direcdo 
+Superior 
+da 
+Executora confirmando 
+a 
+participacdo dos pesquisacores a ela vinculados. 
+8.3.4.1. 
+Todos os pesquisadores listados como participantes da equipe do projeto serdo automaticamente consultados pelo seu e- 
+mail cadastrado no sistema EVEREST e deverdo necessariamente confirmar sua participacgdo, dentro de um prazo de 10 (dez) dias contados 
+a partir da data do encerramento desta Chamada. Caso contrario serao excluidos da equipe. 
+8.3.5. 
+Arquivo eletr6nico contendo o(s) Plano(s) de Trabalho proposto(s) para o(s) bolsista(s), quando couber. 
+8.3.6. 
+Arquivo eletr6nico contendo todas as permissdes 
+e autorizagdes especiais de cardter ético ou legal, necessdrias para 
+a 
+execucaéo do projeto. (Vide Anexo V) 
+8.3.7. 
+Arquivo eletr6nico contendo documento definindo a forma de cooperacdo estabelecida entre as instituicdes/entidades e 
+empresas participes do projeto, se houver. 
+8.3.8. 
+Arquivo eletr6nico contendo um termo de compromisso da empresa participante, caso exista, expondo o interesse pelo 
+projeto e o detalhamento de sua contrapartida. 
+8.4. 
+No momento 
+da submissdo 
+das propostas, 
+a 
+Instituig¢éo Executora devera 
+estar cadastrada 
+e 
+a Fundacdo de Apoio 
+credenciada na FAPEMIG. A relacdo das instituic6es cadastradas e credenciadas encontra-se nos enderecos https://fapemig.br/pt/menu- 
+servicos/instituicoes-cadastradas/#gsc.tab=0 
+e https://fapemig.br/pt/gestoras-credenciadas/#gsc.tab=0. 
+9. 
+JULGAMENTO E SELECAO 
+Esta fase compreende trés etapas. 
+9.1. 
+Enquadramento: as propostas submetidas serao analisadas pelo corpo técnico da FAPEMIG, quanto 
+a sua adequacdo 
+a 
+presente chamada, caracterizando 
+a demanda qualificada. Esta etapa de enquadramento das propostas é eliminatdria 
+e envolve trés 
+momentos distintos: 
+a) Revisdéo documental do material disponibilizado pelo coordenador do projeto de pesquisa; 
+b) Verificagdo do completo preenchimento do formuldrio de apresentacdo de projetos; 
+c) Distribuigao dos projetos para os pareceristas ad hoc. 
+9.2. 
+Andalise de Mérito: esta etapa é constituida por duas fases. 
+https://Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1 7358087 &codigo_crc=O5A2FEF3&hash... 
+5/31
+ 24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+9.2.1. 
+Pareceristas ad hoc: cada proposta enquadrada sera analisada por especialistas quanto aos critérios descritos na tabela 
+abaixo. 
+  
+  
+  
+  
+  
+Critérios técnicos e cientificos: 
+Originalidade, relevancia e carater inovador; 
+~ 
+. 
+was 
+Até 
+30 
+Adequacao da metodologia aos objetivos da proposta; 
+pontos 
+Viabilidade técnica de execugdo da proposta; 
+Cumprimento de aspectos éticos na pesquisa. 
+Aplicabilidade dos Resultados: 
+Perspectiva de aplicacdo dos resultados esperados a curto ou médio prazo; 
+Até 
+20 
+Possibilidade de incorporacdo do resultado obtido (curto e médio prazo) na gestdo e/ou rotina da atencdo a saude; 
+pontos 
+Os resultados esperados deverdo trazer solucdes claras para problemas do SUS? 
+Critérios gerenciais e financeiros: 
+Coeréncia do orcamento com os objetivos, atividades e resultados propostos; 
+Até 
+15 
+Compatibilidade da infraestrutura e dos recursos humanos para o desenvolvimento da proposta; 
+pontos 
+Coeréncia dos itens orcamentarios solicitados com os valores de mercado. 
+Critério de expansibilidade da pesquisa: 
+. 
+Até 
+15 
+Possibilidade de futuros desdobramentos que extrapolem o objetivo inicial da pesquisa, usando como base a tecnologia e ou 
+pontos 
+a metodologia apresentada na pesquisa. 
+Critério de cooperacao cientifica: 
+Cooperacdo com grupos internos e/ou externos a UF 
+Até 
+20 
+Intersetorialidade da pesquisa; 
+pontos 
+Estimulo ao ensino de pés-graduacdo, pesquisa e formacdo de recursos humanos. 
+  
+  
+  
+  
+9.2.2. 
+Comissao de Especialistas 
+Esta Comissao de julgamento sera composta por pesquisadores doutores com qualificacdo nas respectivas linhas tematicas constantes 
+nesta Chamada 
+e por representantes das dreas técnicas da SES/MG com perfil equivalente. Preferencialmente, parte dos especialistas 
+deverdo ser de outras UF. A FAPEMIG e a SES/MG respeitarao a necessidade qualitativa e quantitativa da demanda a ser analisada no 
+momento da definicdo do numero de especialistas participantes. 
+E vedado qualquer membro da Comissdo de Especialistas julgar propostas de projetos em que: 
+a) Haja interesse direto ou indireto seu; 
+b) Esteja participando da equipe do projeto seu c6njuge, companheiro ou parente, consanguineo ou afim, em linha reta 
+ou colateral, até o terceiro grau; 
+c) Esteja litigando judicial ou administrativamente com qualquer membro da equipe do projeto ou seus respectivos 
+cénjuges ou companheiros; 
+d) Tenha tido colaboracdo nos ultimos 5 (cinco) anos com o coordenador de alguma das propostas submetidas. 
+e) Os processos avaliados na fase anterior (9.2.1) serdo analisados quanto consisténcia técnica e cientifica pela Comissdo 
+de Especialistas e quanto a relevdncia sociossanitdaria por representantes da SES/MG (critérios descritos na tabela abaixo). 
+  
+Contribui¢gao para o aprimoramento e consolidagao do SUS em Minas Gerais 
+Superacado das desigualdades estaduais/ regionais no 4mbito da atencdo a saude; 
+Melhoria dos indicadores de saude; 
+Até 30 pontos 
+Impacto positivo nas condicdes de satide e/ ou na qualidade de vida da populacao; 
+Possibilidade de incorporacgdo dos resultados em curto e médio prazo na gestdo de e/ ou atencdo em satide. 
+  
+Conhecimento sobre o tema 
+. 
+Até 25 pontos 
+Capacidade de resposta local as lacunas de conhecimento sobre o tema. 
+  
+Beneficios esperados e impactos 
+. 
+. 
+a 
+; 
+; 
+Até 20 pontos 
+Clareza dos beneficios esperados e impactos (cientifico, tecnoldgico, econémico, social e ambiental). 
+  
+Situagado de morbimortalidade 
+. 
+Ate 15 pontos 
+Consonancia com a situagdo de morbimortalidade relacionada ao agravo a ser pesquisado. 
+  
+  
+  
+  
+https:/Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1 7358087 &codigo_crc=O5A2FEF3&hash... 
+6/31
+ 24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+Politicas de saude 
+Até 10 pontos 
+Consonancia com a politica nacional e estadual de saude e com as demandas especificas do Estado nesta Chamada. 
+  
+A Comissdo de Especialistas, caso considere pertinente, podera estabelecer um ponto de corte tendo como referéncia as notas obtidas na 
+etapa anterior de avaliacdo (pareceres ad hoc). Os projetos abaixo do ponto de corte estabelecido serao considerados como 
+nado 
+recomendados para avaliacdo pelo Comité Gestor. Apés a andlise de consisténcia técnica e cientifica, da relevdncia social de cada proposta 
+e da adequacdo de seu orcamento, sera estabelecido um ranqueamento com base nas notas recebidas, em escala decrescente de 
+classificagao, indicando ainda a recomendacdo de aprovacdo, ou nado, da proposta. 
+9.2.2.1. 
+As propostas que tiverem mais de 30% de corte no orcamento serdo desclassificadas. Para efeitos deste calculo nado serdo 
+considerados os cortes ocorridos no item bolsas. 
+9.3. 
+Homologacao: as propostas recomendadas e classificadas na etapa anterior serdo julgadas pelo Comité Gestor, que emitira o 
+parecer final homologando o resultado e serdo financiadas levando em conta as prioridades da pontuacdo e os limites org¢amentarios. 
+9.3.1. 
+O Comité Gestor do PPSUS 2020, composto por representantes do Decit/SCTIE/MS, do CNPq, da FAPEMIG e da SES/MG é a 
+instancia final deliberativa sobre os projetos recomendados pela Comiss&o de Especialistas, observados os limites org¢amentdarios desta 
+Chamada. O objetivo precipuo desta reunido é a homologacdo do resultado da Comissdo de Especialistas e a analise org¢amentdaria dos 
+projetos. Propostas com nota final abaixo do ponto de corte, caso seja definido pela Comissdo de Especialistas, seréo reprovadas pelo 
+Comité Gestor. Para a analise orgamentaria o Comité Gestor devera considerar os seguintes aspectos: 
+a) Coeréncia com os itens financiaveis e nado financiaveis definidos na presente Chamada; 
+b) Conhecimento da infraestrutura das instituigdes executoras; 
+c) Conhecimento de outras fontes de financiamento para determinado projeto pelos representantes estaduais no Comité; 
+d) Outras fontes de financiamento apresentadas para o projeto; 
+e) Coeréncia entre os valores solicitados para os diversos itens e os precos praticados no mercado; 
+f) 
+Pertinéncia das despesas de capital e custeio as necessidades para desenvolvimento do projeto; 
+g) Adequacao das despesas de capital e custeio as proporcdes definidas nesta Chamada. 
+9.3.2. 
+O Comité Gestor podera promover adequacdes orcamentarias no projeto. 
+9.3.3. 
+O Comité Gestor sera presidido pelo representante do Decit/SCTIE/MS, que tera voto de qualidade. 
+9.3.4. 
+O Comité Gestor classificara as propostas de acordo com as categorias abaixo: 
+a) Aprovacdo da proposta na integra; 
+b) Aprovacdo da proposta com alteracdes orcamentarias; 
+c) Aprovacao da proposta condicionada ao atendimento as recomendacées dos ad hoc/especialistas; 
+d) Aprovacdo da proposta em prioridade 2; 
+e) Nao aprovacado da proposta. 
+9.3.5. 
+As situacdes nado previstas nas reunides do Comité Gestor serdo definidas pelo Decit/SCTIE/MS. 
+10. 
+ACOMPANHAMENTO E AVALIACAO 
+10.1. 
+A FAPEMIG, 
+a SES/MG, 
+o Decit/SCTIE/MS 
+e 
+o CNPq 
+reservam-se 
+o 
+direito 
+de, 
+a qualquer tempo, acompanhar 
+o 
+desenvolvimento das atividades e, apds a conclusdo dos trabalhos, verificar o cumprimento das condicGes fixadas no TO. 
+10.2. 
+A FAPEMIG adotara instrumentos de acompanhamento e avaliacdo final dos projetos com base nos critérios descritos a 
+seguir. 
+10.2.1. 
+Aderéncia dos resultados obtidos na execucdo do projeto com o seu objetivo; 
+10.2.2. 
+Cumprimento dos objetivos propostos pelo coordenador e a apresentacdo dos produtos oriundos do projeto, com a devida 
+mencdo ao apoio da Fapemig, da SES/MG, do Decit/SCTIE/MS e do CNPq; 
+10.2.3. 
+Cumprimento do cronograma; 
+10.2.4. 
+Impactos ambientais, econdmicos e sociais, diretos e indiretos, provenientes da execucdo do projeto; 
+10.2.5. 
+Contribuicgdo para a difusdo de tecnologia, informacao e transferéncia de conhecimento; 
+10.2.6. 
+Colaboracdo para a formacdo de recursos humanos e infraestruturas; 
+10.2.7. 
+Impacto do projeto na producgao técnico-cientifica do coordenador e da equipe; 
+10.2.8. 
+Aplicabilidade dos resultados obtidos; 
+10.2.9. 
+Qualidade do artigo produzido pelo coordenador versando sobre os principais resultados do estudo com foco na sua 
+aplicabilidade ao SUS, e direcionado aos Gestores de saude. 
+10.2.10. 
+Relevdncia e abrangéncia dos periddicos e/ou livros onde forem realizadas as publicacdes; 
+10.2.11. 
+Interagdo com o setor de sauide e as estratégias para incorporacdo dos resultados no SUS; 
+10.2.12. 
+Subsidios para implementacdo de politicas ptblicas. 
+10.3. 
+O coordenador devera encaminhar 
+a prestagdo de contas técnico-cientifica 
+por meio do formulario online especifico, 
+denominado Relatorio Técnico Cientifico, no prazo de até 60 (sessenta) dias apds o término da vigéncia do projeto, nos termos do art. 97 le 
+Il do Decreto 47.442/2018. 
+https://Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1 7358087 &codigo_crc=O5A2FEF3&hash... 
+7/31
+ 24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+https://Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1 7358087 &codigo_crc=O5A2FEF3&hash... 
+10.4. 
+A Fundacao Gestora, quando houver, devera encaminhar a prestacdo de contas financeira, consubstanciada no Relatdrio de 
+Informacdes basicas sobre a aplicacdo dos recursos, no prazo de até 60 (sessenta) dias apds o término da vigéncia do projeto, nos termos 
+do art. 97, incisos 
+| e 
+Il do Decreto 47.442/2018. 
+10.5. 
+As partes contratadas obrigam-se 
+a informar a FAPEMIG, SES/MG, Decit/SCTIE/MS e CNPq, quando solicitadas, sobre o 
+impacto técnico e social resultante da aplicacdo dos resultados do financiamento previamente definidos no TO. 
+10.5.1. 
+Ao término do projeto o coordenador deve incluir os dados da pesquisa no banco de dados gerencial do Decit - Pesquisa 
+Saude (http://pesquisasaude.saude.gov.br). E obrigatério a todos os coordenadores o preenchimento dos dados nessa plataforma antes da 
+realizagdo do Seminario de Avaliacdo Final. 
+  
+10.5.2. 
+Caso o coordenador nao atenda o subitem disposto acima, ficara inadimplente junto a FAPEMIG, podendo ficar impedido de 
+ser contemplado em novas Chamadas desta Fundacao até a resolucdo da inadimpléncia. 
+10.6. 
+O Coordenador da pesquisa devera comprometer-se a participar dos dois Seminarios previstos nos itens 10.6.1 e 10.6.2. Em 
+caso de impossibilidade de comparecimento, o Coordenador devera justificar o motivo da auséncia e indicar um componente da equipe de 
+mesma titulacdo para representa-lo. 
+10.6.1. 
+Seminario para Acompanhamento e Avaliacao Parcial das pesquisas. 
+10.6.1.1. 
+Neste Seminario deverdo ser apresentados as atividades desenvolvidas, os resultados/produtos alcancados, o cumprimento 
+do cronograma de execuc¢ao e as dificuldades encontradas. O semindrio devera ocorrer 12 meses apés 0 inicio do projeto, composto por 
+pesquisadores /especialistas, que emitirdo pareceres e recomendacGes a serem seguidas na continuacgdo do projeto. A base desta analise 
+serdo os dados contidos no relatorio e na apresentacdo oral do coordenador. 
+10.6.2. 
+Seminario de Acompanhamento e Avaliacdo Final das pesquisas. 
+10.6.2.1. 
+O seminario devera ocorrer 24 meses apds 0 inicio do projeto e deverao ser apresentados os produtos e resultados finais 
+alcancados, seu potencial de utilizagdo/incorporacdo no sistema 
+e servicos de saude, bem como sua capacidade de dar resposta aos 
+problemas relacionados a organizacdo dos servicos e a atencdo prestada a populacdo do Estado. 
+Participardo deste encontro pesquisadores/especialistas e Gestores da SES/MG, com o objetivo de analisar os resultados apresentados, e o 
+seu potencial de utilizacdo/incorporacgdo no sistema de saude. A base desta andlise serdo os dados contidos no relatdrio e na apresentacdo 
+oral do coordenador. 
+11. 
+DIREITOS DE PROPRIEDADE INTELECTUAL E DE EQUIPAMENTOS 
+11.1. 
+Os direitos relativos a propriedade intelectual, porventura resultantes do projeto desenvolvido no dmbito desta Chamada, 
+poderdo ser objeto de protecgdo, nos termos da legislacdo vigente relativa 4 propriedade intelectual, incluindo a Deliberacdo n. 72/2013 da 
+FAPEMIG, tendo como cotitulares 
+a FAPEMIG, 
+a Executora 
+e, respeitado 
+as proporcdes dos recursos alocados por cada titular da 
+propriedade intelectual. 
+11.2. 
+A Executora, quando solicitada, devera dar ciéncia 
+a FAPEMIG, 
+a SES/MG, ao Decit/SCTIE/MS e ao CNPq 
+a respeito da 
+geracdo de propriedade intelectual decorrente de projeto financiado por meio desta Chamada. 
+11.3. 
+Os direitos de propriedade intelectual ora previstos, assim como 
+a participacdo nos resultados advindos da exploracdo 
+comercial da tecnologia, inclusive na hipdtese de transferéncia do direito de exploracgdo a terceiros, serdo definidos nos Contratos de 
+Cotitularidade e de Transferéncia de Tecnologia. 
+11.4. 
+Os bens gerados ou adquiridos no 4mbito de projetos contratados neste Convénio serao incorporados, desde sua aquisicdo, 
+ao patriménio da Instituicdo publica Cientifica, Tecnoldgica e de Inovagdo (ICT) a qual o coordenador ou pesquisador beneficiado estiver 
+vinculado. 
+11.4.1. 
+Sera de responsabilidade do pesquisador e da ICT a forma de incorporacgado do bem a 
+Instituicdo. 
+11.4.2. 
+O pesquisador devera anexar a Prestagdo de Contas a documentacdo comprobatoria da incorporagao do bem ao patriménio 
+da ICT. 
+11.4.3. 
+Caso sejam adquiridos com 
+a participagdo de fundacdo de apoio, 
+a titularidade sobre os bens observara o disposto em 
+contrato ou convénio entra e a ICT e a fundacao de apoio. 
+12. 
+DIVULGACAO DOS RESULTADOS 
+12.1. 
+O resultado final da selecdo das propostas sera publicado no Diario Oficial do Estado de Minas Gerais, em forma de extrato e, 
+na integra, na pagina da FAPEMIG no endereco www.fapemig.br. 
+  
+12.2. 
+Eventuais recursos poderdo ser interpostos, formalmente, junto ao Diretor de Ciéncia Tecnologia e Inovagado da FAPEMIG, no 
+prazo de 10 (dez) dias corridos apds a publicacdo dos resultados, nos seguintes casos: 
+a) Quando o solicitante entender que houve erro formal quanto ao julgamento da proposta; 
+b) Quando o solicitante julgar que houve falha de procedimento operacional ou administrativo. 
+12.3. 
+A apresentacado das raz6es de recurso deverd ser efetuada preferencialmente por meio do Sistema Eletrénico de Informacdes 
+- SEI no mdédulo de Peticionamento Eletrénico e encaminhada a unidade SEI! FAPEMIG/DCTI. Podera também ser encaminhado, a Diretoria 
+Cientifica, tecnoldgica e Inovagdo da FAPEMIG, via correio ou protocolado na sede da Fundacao. 
+12.4. 
+Nao serdo aceitos os recursos submetidos fora das normas e dos prazos estabelecidos. Sera considerada a data e hora do 
+envio do processo SEI a unidade descrita no item 12.3 e no caso de ser enviado pelo correio sera considerada a data de postagem. 
+12.5. 
+Recursos administrativos interpostos de acordo com o item 12.2 impedirdo o andamento normal das acdes e procedimentos 
+previstos no item “Contratacdo e Liberacgdo de recursos”, somente com relacdo a este recorrente. 
+8/31
+ 24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+https://Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1 7358087 &codigo_crc=O5A2FEF3&hash... 
+12.6. 
+O resultado sobre 
+a reconsideracdo sera definitivo, ouvidos os outros membros do Comité Gestor do PPSUS/MG, nao 
+cabendo qualquer outro recurso. 
+12.7. 
+Os 
+resultados 
+dos 
+recursos, 
+previstos 
+no 
+subitem 
+12.2, 
+serdo 
+publicados 
+na 
+pagina 
+da 
+FAPEMIG 
+no 
+endereco 
+www.fapemig.br. 
+13. 
+CONTRATACAO E LIBERACAO DOS RECURSOS 
+13.1. 
+A contratacdo das propostas aprovadas por esta Chamada obedecera a ordem de classificagdo e dar-se-4 de acordo com a 
+disponibilidade financeira, por meio da assinatura de Termo de Outorga, que sera firmado entre 
+a FAPEMIG, 
+a Instituigdo Executora, 
+o coordenador ea Fundacdo de Apoio, quando houver, todos indicados na proposta, conforme Anexos, nos termos desta Chamada. 
+13.2. 
+A Fundacdo de Apoio, quando houver, sera responsavel pelo gerenciamento dos recursos. 
+13.3. 
+A liberacgdo dos recursos far-se-a na forma estabelecida no correspondente TO@, devendo o repasse financeiro se iniciar 
+apos a assinatura do citado Termo de Outorga pelos representantes das partes interessadas, a publicagdo do seu extrato no Diario Oficial 
+do Estado de Minas Gerais e a liberagdo dos recursos pelo Tesouro do Estado e pela Unido. 
+13.4. 
+Serdo definidas no Termo de Outorga as formas, condicdes de participacao, direitos e obrigagdes de cada um dos participes. 
+14. 
+ORIENTACOES GERAIS 
+14.1. 
+Esta Chamada submete-se aos dispositivos legais 
+e regulamentares vigentes, ao Manual, ao Caderno de Programas 
+e 
+Modalidades de Fomento e a Cartilha de Prestacdo de Contas, todos da FAPEMIG. 
+14.2. 
+O Manual da FAPEMIG, incluindo os formularios, as tabelas de didrias e de valor das mensalidades de bolsas, o Caderno de 
+Programas e Modalidades de Fomento e a Cartilha de Prestacgdo de Contas, encontram-se disponiveis na pagina da FAPEMIG, no endereco 
+www.fapemig.br. 
+14.3. 
+Todos os valores deverdo ser expressos em real. 
+14.4. 
+E vedado o pagamento, a qualquer titulo, para servidor da administragdo publica ou empregado de empresa publica ou de 
+sociedade de economia mista, por servicos de consultoria ou assisténcia técnica. 
+14.5. 
+Todos os itens necessdrios ao desenvolvimento dos projetos deverdo estar previstos na proposta, néo sendo permitida, em 
+regra, retificagdo apds o fim do prazo limite de submissdo a FAPEMIG. A FAPEMIG podera permitir retificagaéo em cardter excepcional, 
+durante o prazo de submissdo, nado se responsabilizando pela instabilidade do Sistema. 
+14.6. 
+O artigo previsto no item 5.3.8 devera ter no maximo 2.000 caracteres e ser enviado junto com o Relatério Técnico Cientifico. 
+14.7. 
+O PITCH (video de curta duracdo) previsto no item 5.2.6 devera ser enviado junto com o Relatoério Técnico Cientifico e sera 
+utilizado pela FAPEMIG como material de divulgagdo. 
+Orientacdes para 
+a elaboracdo do PITCH encontram-se na pagina da FAPEMIG: 
+http://www.fapemig.br/pt-br/duvidas-frequentes. 
+14.8. 
+Anexo ao Relatdrio Técnico Cientifico devera ser enviado documento autorizando a divulgacdo do PITCH. 
+14.9. 
+Todo documento emitido por qualquer das partes envolvidas, relativas as propostas Ou aos projetos e seus respectivos 
+processos, devera, obrigatoriamente, mencionar o seu cddigo de identificacdo. 
+14.10. 
+Decaira do direito de impugnar os termos desta Chamada aquele que, tendo-o aceito sem objecdo, venha 
+a apontar, 
+posteriormente, eventuais falhas ou imperfeigdes, hipdtese em que sua comunicacao nao tera efeito. 
+14.11. 
+Os profissionais prestadores de servicos técnicos especializados, consultores cientificos, consultores ad 
+hoc, 
+bolsistas, 
+membros da Comissdo de Especialistas e quaisquer outros profissionais e/ou entidades envolvidas nas ac6es e atividades decorrentes desta 
+Chamada, deverdo obrigar-se, por escrito, 
+€@ manutencao de sigilo sobre os conteudos de todas as propostas recebidas. 
+14.12. 
+O TO@ definira as bases em que a FAPEMIG acompanhara 
+e supervisionara tecnicamente 
+a evolugdo da execucdo das 
+atividades do objeto do projeto. 
+14.13. 
+As clausulas de sigilo ndo serao objeto de renuncia, por qualquer das partes signatarias do TO@, enquanto vigentes os 
+objetivos 
+e finalidades 
+desta Chamada 
+e 
+suas clausulas correspondentes, 
+resguardando-se, 
+irrestritamente, 
+eventuais 
+direitos 
+de 
+propriedade intelectual das partes ou interessados. 
+14.14. 
+As partes contratadas obrigam-se a prestar contas do valor financiado nas datas e condicées definidas no TO@. 
+14.15. 
+Os casos omissos serao resolvidos pela Diretoria Executiva da FAPEMIG, ouvido o Comité Gestor do PPSUS. 
+14.16. 
+Para as instituicdes privadas fica condicionada a celebracao do Termo de Outorga a devida assinatura da declaracdo (Anexo 
+VI) em atendimento a legislacdo eleitoral. 
+14.17. 
+Permiss6es e autorizacdes especiais 
+14.17.1. 
+E de exclusiva responsabilidade de cada proponente adotar todas as providéncias que envolvam permiss6es e autorizagdes 
+especiais de carater ético ou legal, necessdrias para a execucdo do projeto. 
+14.17.2. 
+Coordenadores de projetos de pesquisa relacionados a biodiversidade devem observar a legislacdo em vigor (Lei 13.123 de 
+20 de maio de 2015, Decreto n.2 98.830/90, Portaria MCT n? 55/90 e Decreto n2 8.772/2016 para autorizacdes de acesso, coleta e remessa 
+de amostras e concessao de vistos de entrada no pais aos estrangeiros participantes do projeto. 
+15. 
+INFORMACOES COMPLEMENTARES 
+15.1. 
+Ndo sera concedida suplementacdo de recursos para fazer frente a despesas adicionais, ficando entendido que qualquer 
+acréscimo de gastos sera de responsabilidade da Executora. 
+9/31
+ 24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+15.2. 
+A auséncia de quaisquer documentos e informacdes exigidas nesta Chamada, bem como o preenchimento incorreto do 
+Formulario Eletrénico e seus anexos, implicara na desclassificagdo da proposta. 
+15.3. 
+Em todo material de divulgagdo, como releases, sites, banners, videos, cartilhas e qualquer outro relacionado com o objeto 
+Da proposta financiada por esta Chamada, deverda ser explicitada 
+a fonte de financiamento 
+“ Programa Pesquisa para o SUS: gestdo 
+compartilhada em saude — PPSUS, a logomarca ou o nome da FAPEMIG, do Decit/SCTIE/MS, do CNPq e da SES/MG que entrardo sempre 
+sob a chancela de “apoio’. 
+15.4. 
+As acées publicitarias atinentes a projetos e obras financiadas com recursos da Unido, deverdo observar rigorosamente as 
+disposig¢des contidas no 
+§ 
+12 do 
+art. 
+37 da Constituicdo Federal, bem assim aquelas consignadas nas Instrugdes da Secretaria 
+de 
+Comunicacdo de Governo e Gestdo Estratégica da Presidéncia da Republica — atualmente, a IN/SECOM-PR n.2 02, de 16 de dezembro de 
+2009. 
+A producdo cientifica resultante dos projetos apoiados (capitulo de livros publicados, textos em jornais ou revistas, trabalhos publicados em 
+anais 
+de 
+congresso 
+e 
+demais 
+tipos 
+de 
+producdo 
+técnica 
+ou 
+bibliografica) 
+deverd 
+ser 
+enviada 
+para 
+o 
+endereco 
+eletrénico 
+ppsus@saude.gov.br e entregue cdpia para a FAPEMIG e SES/MG. 
+Na conclusao do projeto, 
+o coordenador devera 
+produzir uma sintese sobre os principais resultados do estudo com foco 
+na 
+sua 
+aplicabilidade ao SUS, para publico-alvo composto por Gestores de satide. O texto devera ter até 3.000 caracteres 
+e ser anexado ao 
+relatorio final da pesquisa e incluido no Sistema Gerencial do Decit “Pesquisa Saude” disponivel em: - http://pesquisasaude.saude.gov.br/ 
+no campo “textos para ndo especialistas”. 
+15.5. 
+Em entrevistas, palestras e outras atividades interativas devera ser explicitado o apoio recebido do Programa PPSUS, da 
+FAPEMIG, do Decit/SCTIE/MS, do CNPq e da SES. 
+15.6. 
+Em caso de propostas idénticas, todas serdo desclassificadas. 
+15.7. 
+Outras 
+informacgdes 
+poderdo 
+ser 
+obtidas 
+junto 
+a 
+Central 
+de 
+Informacdes 
+da 
+FAPEMIG, 
+por 
+meio _ 
+link 
+https://fapemig.br/pt/envio-de-perguntas/ ou na pagina da FAPEMIG: https://fapemig.br/pt/duvidas-frequentes/. 
+16. 
+CALENDARIO 
+16.1. 
+As propostas serdo recebidas, eletronicamente, pela FAPEMIG, até as dezessete horas do dia 08 de setembro de 2020. 
+16.2. 
+A FAPEMIG néo se responsabiliza por qualquer problema na submissdo das propostas motivada por eventuais falhas de 
+conex6es com a 
+internet, falta de energia elétrica, congestionamento das linhas de comunicacgdo, bem como outros fatores de ordem 
+técnica que impossibilitem 
+a conexdo ou 
+a transferéncia de dados. Essas eventualidades nado serdo aceitas como argumento para 
+a 
+submissdo de propostas apds 0 prazo. Recomenda-se que as propostas sejam encaminhadas com prudente antecedéncia. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+Etapa 
+Data 
+Langamento da Chamada na pagina da Internet da FAPEMIG e no Diario Oficial do Estado de Minas Gerais. | 25/07/2020 
+Disponibilizagdo do Formulario Eletrénico de Propostas. 
+27/07/2020 
+Limite para submissdo eletrénica das propostas 
+Até as 17h do dia 10/09/2020 
+Andalise a Julgamento das propostas 
+11/09/2020 a 11/11/2020 
+Divulgacdo dos resultados na pagina da Internet da FAPEMIG. 
+12/11/2020 
+Prazo para interposicdo de recursos. 
+Até 21/11/2020 
+Analise e julgamento dos recursos. 
+22/11/2020 a 01/12/2020 
+Divulgacdo do resultado final — apdés andlise dos recursos — na pagina da Internet da FAPEMIG e no Diario 
+02/12/2020 
+Oficial do Estado de Minas Gerais. 
+Contratagdo das propostas aprovadas. 
+A partir de 03/12/2020 
+17. 
+DISPOSICOES FINAIS 
+17.1. 
+Os resultados dos recursos, previstos no subitem 12.2, serdo comunicados por escrito aos recorrentes. 
+17.2. 
+Recursos interpostos segundo o estabelecido no item 12.2 impedirdo o andamento normal das acdes 
+e procedimentos 
+previstos no item 13. 
+17.3. 
+A concessdo do apoio financeiro podera ser cancelada pela diretoria da FAPEMIG, ouvidos os outros membros do Comité 
+Gestor do PPSUS/MG, por ocorréncia, durante sua implementacdo, de fato cuja gravidade justifique o cancelamento, sem prejuizo de 
+outras providéncias cabiveis em decisdo devidamente fundamentada. 
+17.4. 
+As informacgdes geradas com 
+a implementacdo 
+das propostas selecionadas 
+e disponibilizadas 
+na 
+base 
+de dados 
+do 
+Decit/SCTIE/MS, FAPEMIG e SES/MG serao de dominio publico. 
+17.5. 
+Compromisso com a demanda — 0 compromisso da FAPEMIG restringe-se aos recursos indicados na presente Chamada. Os 
+projetos aprovados, mas ndo financiados, mesmo tendo mérito reconhecido, serdo arquivados e ndo mais considerados para futuras 
+contratagGes, salvo na hipdétese de obtencdo de recursos adicionais aportados diretamente a FAPEMIG para financiamento do programa. 
+17.6. 
+A presente Chamada poderda ser revogada ou anulada a qualquer tempo, no todo ou em parte, ouvido o Comité Gestor do 
+PPSUS, seja por decisdo unilateral da FAPEMIG, seja por motivo de interesse ptblico ou exigéncia legal, sem que isso implique direito a 
+indenizacdo ou reclamacdo de qualquer natureza. 
+Belo Horizonte, 24 de julho de 2020. 
+https:/Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1 7358087 &codigo_crc=O5A2FEF3&has... 
+10/31
+ 24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+Prof. Paulo Sergio Lacerda Beirado, PhD 
+Presidente em Exercicio 
+ANEXO 
+| - TERMO DE OUTORGA COM FUNDACAO DE APOIO 
+TERMO DE OUTORGA 
+IDENTIFICACAO 
+MODALIDADE: “EDITAL <<NUMEDITAL>> - <<EDITAL>>” 
+PROCESSO N. 
+: <<SIGLACAMARA>> - <<IDPROCESSO>> 
+PROJETO: “<<TITULO>>” 
+PRAZO DE EXECUCAO DO PROJETO: <<DURACAOMESES>>. 
+PARTICIPES 
+OUTORGANTE: FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE MINAS GERAIS — FAPEMIG, com sede na Avenida José Candido da 
+Silveira, n. 1500, bairro Horto, na cidade de Belo Horizonte/MG, inscrita no CNPJ sob o n. 21.949.888/0001-83, neste ato representada por 
+seu Diretor de Ciéncia, Tecnologia e Inovagdo, PAULO SERGIO LACERDA BEIRAO, conforme ato de nomeacdo do Sr. Governador publicado 
+no Diario Oficial do Estado em 12/06/2018, inscrito no CPF n. 091.849.456-72, ou pelo servidor RAFAEL MARQUES PESSOA, inscrito no CPF 
+n? 099.726.996-09, ambos com delegacao prevista na Portaria PRE n. 64/2019, publicada no “Minas Gerais” de 12/10/2019. 
+OUTORGADA EXECUTORA: <<DESEN_SIGLA>> 
+- <<DESENVOLVEDORA>>com sede na <<DESEN_ENDERECO>>, <<DESEN_BAIRRO>>, na 
+cidade de <<DESEN_MUNICIPIO>>/<<DESEN_ESTADO>>, inscrito(a) no CNPJ sob o n.<<DESEN_CNPJ>>, neste ato representado(a) por 
+seu(ua) <<DESEN_CARGODIR>>, <<DESEN_DIRIGENTE>>. 
+OUTORGADA 
+GESTORA: 
+<<GEST_SIGLA>> 
+-<<GESTORA>>, 
+com 
+sede 
+na 
+<<GEST_ENDERECO>>, 
+<<GEST_BAIRRO>> 
+, 
+<<GEST_MUNICIPIO>>/<<GEST_ESTADO>>inscrito(a) 
+no 
+CNPJ 
+sob 
+o 
+n.<<GEST_CNPJ>>, 
+neste 
+ato 
+representado(a) 
+por 
+seu(ua) 
+<<GEST_CARGODIR>>, <<GEST_DIRIGENTE>>. 
+COORDENADOR{(A): 
+<<SOLICITANTE>>, 
+CPF:<<SOLI_CPF>>, 
+residente 
+e 
+domiciliado(a) 
+<<SOLILENDERE>>, 
+B. 
+<<SOLI_BAIRRO>> 
+- 
+<<SOLI_MUNICI>>/<<SOLI_ESTADO>>,mantendo vinculo com a <<SOLI_INST_VINC>>. 
+Considerando os termos do Convénio firmado entre a FAPEMIG e 0 Conselho Nacional de Desenvolvimento Cientifico e Tecnoldgico (CNPq), 
+registrado sob 0 n° 837584/2016. 
+Considerando que houve a anuéncia dos Participes do Convénio sob 0 n° 837584/2016, em relagdo a Chamada Publica que deu origem ao 
+presente instrumento — Chamada Publica n° xx/xxxx, em atencdo a Clausula Quarta, Subclausula Primeira letra “B”, do Convénio citado 
+acima 
+Resolvem firmar o presente Termo de Outorga, doravante denominado TO, que sera regido pelas clausulas e condicdes seguintes: 
+A expressdo “PARTICIPES” sera utilizada para referir-se, conjuntamente, 
+4 OUTORGANTE, 
+4 OUTORGADA EXECUTORA, 
+& OUTORGADA 
+GESTORA e ao COORDENADOR. 
+A expressdo “OUTORGADOS” sera utilizada para referir-se, conjuntamente, 
+a OUTORGADA EXECUTORA, a OUTORGADA GESTORA e ao 
+COORDENADOR. 
+CLAUSULA PRIMEIRA — DO OBJETO 
+Constitui objeto deste TO, o apoio pela OUTORGANTE, por meio de financiamento do montante previsto na Clausula Segunda, ao projeto 
+de pesquisa cientifica, tecnolégica e/ou de inovacdo identificado no preambulo deste instrumento, desenvolvido pelo COORDENADOR, em 
+parceria com a OUTORGADA EXECUTORA, observado o plano de trabalho aprovado, parte integrante e indissociavel deste TO. 
+PARAGRAFO UNICO: Integrara 0 Plano de Trabalho, as informacdes minimas que nele deverdo constar, nos termos do art. 78 do Decreto n. 
+47.442/2018, ainda que encaminhadas em documentos apartados. 
+https://Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1 7358087 &codigo_crc=O5A2FEF3&has... 
+11/31
+ 24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+CLAUSULA SEGUNDA — DO VALOR DO APOIO E CONDICOES 
+O valor do presente TO 
+é fixado em RS<<TO_VALORTO>> (<<TO_VALOR_EXTENSO>>), destinado 
+a cobertura de despesas, conforme 
+especificado no plano de trabalho e mediante disponibilidade financeira. 
+PARAGRAFO PRIMEIRO: O valor do recurso constante nesta Clausula inclui a parcela de x% (x por cento) do montante concedido para o 
+desenvolvimento do Projeto, percentual este que sera destinado em favor da OUTORGADA GESTORA, 
+a titulo de despesas operacionais, 
+nos termos do art. 10 da Lei n. 10.973/2004, do art. 70 do Decreto n. 47.442/2018, a ser calculado conforme Deliberagdo do Conselho 
+Curador da FAPEMIG n. 147, de 26 de novembro de 2019, conforme proposta e plano de trabalho, o que devera ser comprovado segundo 
+detalhamento dos custos operacionais que a OUTORGADA GESTORA tera com o projeto. 
+PARAGRAFO SEGUNDO: A implementacao de(s) eventual(is) bolsa(s) sé podera ser realizada, apés a liberacdo da primeira parcela dos 
+recursos financeiros. 
+PARAGRAFO TERCEIRO: E vedado 0 remanejamento de recursos financeiros previstos no orgamento aprovado do projeto, entre as rubricas 
+de CAPITAL, CUSTEIO, BOLSAS e DESPESAS OPERACIONAIS. Somente serdo admitidas alteracdes de itens dentro da propria rubrica nos 
+casos dos itens previstos para CAPITAL, CUSTEIO e BOLSAS, desde que respeitados os limites para cada uma destas rubricas aprovadas no 
+detalhamento do orcamento e a Instrucdo Normativa n. 02/2014 da OUTORGANTE, ou outra que vier sucedé-la. 
+PARAGRAFO QUARTO: 
+Os 
+recursos financeiros 
+previstos 
+neste TO 
+limitam-se 
+ao 
+valor constante 
+na 
+presente 
+Cldusula, 
+nao 
+se 
+responsabilizando a OUTORGANTE pelo aporte de quaisquer outros recursos em decorréncia de modificacgdo do projeto original ou por 
+fatos supervenientes que necessitem de suplementacdo a qualquer titulo. 
+PARAGRAFO 
+QUINTO: 
+As_ 
+despesas 
+previstas 
+neste 
+TO, 
+a 
+conta 
+da 
+OUTORGANTE, 
+correrdo 
+pela(s) 
+dotacdo(des) 
+orcamentaria(s) <<TO_DOTACOES>>,para o presente exercicio ou por outra(s) que a(s) suceder (em). 
+CLAUSULA TERCEIRA — DA LIBERACAO DOS RECURSOS 
+A liberacdo dos recursos sera feita diretamente 4 OUTORGADA GESTORA, de forma integral ou em parcelas, 
+e sua utilizacdo se dara 
+conforme previsto no detalhamento dos itens do plano de trabalho aprovado pela OUTORGANTE. 
+PARAGRAFO PRIMEIRO: A liberacdo dos recursos dar-se-4 em até 30 dias apés a publicacdo do extrato deste TO no Diario Oficial do Estado 
+de Minas Gerais e mediante disponibilidade orgamentaria e financeira da OUTORGANTE. 
+PARAGRAFO SEGUNDO: Na hipdtese do repasse em parcelas, 
+a primeira sera feita nas mesmas condicdes do pardgrafo anterior e, as 
+subsequentes, conforme detalhamento dos itens do plano de trabalho e mediante disponibilidade financeira da OUTORGANTE. 
+CLAUSULA QUARTA -— DA APLICACAO DOS RECURSOS 
+Apos a liberagao dos recursos, os saldos financeiros, enquanto nao utilizados, deverdo ser aplicados pela OUTORGADA GESTORA em 
+caderneta de poupanca ou em fundo de aplicacdo financeira de curto prazo ou operacdo de mercado aberto lastreada em titulos da divida 
+publica, na forma descrita no Pardgrafo 42, do art. 116, da Lei n. 8.666/1993,no §12 do art. 87 do Decreto n. 47.442/2018 e na Portaria 
+Interministerial n° 507, de 24/11/2011. 
+PARAGRAFO PRIMEIRO: Os valores oriundos da OUTORGANTE serdo repassados 4 OUTORGADA GESTORA, por meio de depésito bancario 
+em conta especifica e individualizada para a execucado do presente TO, aberta em institui¢do bancaria oficial. 
+PARAGRAFO SEGUNDO: Os rendimentos de ativos financeiros serao aplicados no objeto do presente TO, em item que conste no plano de 
+trabalho aprovado e deve ser justificado e comprovado na prestacdo de contas financeira, os quais estado sujeitos as mesmas condicgdes 
+exigidas para os recursos transferidos. 
+PARAGRAFO TERCEIRO: A 
+utilizagdo dos rendimentos para alteracdo de quantidades ou aquisicdo de novos itens devera ser previamente 
+aprovada pela OUTORGANTE. 
+PARAGRAFO QUARTO: Os rendimentos de aplicacdes financeiras dos recursos nado poderdo ser computados como contrapartida ou outros 
+aportes das OUTORGADAS. 
+https:/Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1 7358087 &codigo_crc=O5A2FEF3&has... 
+12/31
+ 24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+PARAGRAFO QUINTO: No caso de conclusao, rescisdo ou extincao do presente TO, os saldos financeiros remanescentes, inclusive os 
+provenientes das receitas obtidas das aplicacgdes financeiras realizadas, serdo devolvidos a OUTORGANTE, por meio de deposito no Banco 
+do Brasil 001 — Agéncia 1615-2, conta bancaria 21.663-1, nos termos do Pardgrafo Terceiro da Clausula Oitava. 
+CLAUSULA QUINTA — DO PRAZO DE VIGENCIA E DE EXECUCAO 
+A vigéncia do presente TO sera de <<DURACAOMESES>>, a contar da data de sua publicacdo, sendo o prazo de execucdo do projeto de 
+<<DURACAOMESES>>, previsto no predmbulo deste instrumento, também contados da data da publicagao do Didrio Oficial do Estado de 
+Minas Gerais, observado o previsto no item 4.2 da Chamada FAPEMIG xx/2020. 
+PARAGRAFO PRIMEIRO: A vigéncia do presente TO podera ser prorrogada mediante assinatura de Termo Aditivo, apds solicitacdo 
+e 
+justificativa dos OUTORGADOS, além da anuéncia da OUTORGANTE. 
+PARAGRAFO SEGUNDO: O 
+prazo de execucdo deste projeto podera ser alterado mediante solicitacdo e justificativa dos OUTORGADOS e 
+apos autorizagdo da OUTORGANTE, por meio de comunicagao escrita, 
+e desde que 0 novo prazo nado ultrapasse a vigéncia deste TO, 
+devendo ser realizada a adequacao do plano de trabalho. 
+PARAGRAFO TERCEIRO: Serdo aceitas solicitagdes de alteracdo de processo apresentadas apenas até sessenta dias antes da data do 
+encerramento do periodo de execucdo do TO. 
+PARAGRAFO QUARTO: 
+Excepcionalmente, 
+a 
+critério 
+da OUTORGANTE, 
+seraé admitido 
+o recebimento 
+de 
+proposta 
+de alteracdo 
+da 
+OUTORGADA em prazo inferior ao estipulado no paragrafo anterior, desde que dentro da vigéncia do T@, mediante a apresentacdo de 
+justificativa do atraso na solicitacdo da proposta de aditamento. 
+PARAGRAFO QUINTO: A prorrogacdo do prazo de vigéncia do TO e do prazo de execucdo do presente projeto nao importara no aporte de 
+novos recursos, além dos ja previstos na Clausula Segunda. 
+PARAGRAFO SEXTO: Os prazos de vigéncia do TO 
+e de execucdo do presente Projeto, no caso de atraso na liberagdo dos recursos 
+ocasionado pela OUTORGANTE, serao prorrogados de oficio pela OUTORGANTE, limitado ao periodo verificado ou previsto para liberacdo, 
+com a devida readequacdo da duracdo das etapas de execucdo. 
+CLAUSULA SEXTA- DAS OBRIGACOES DOS PARTICIPES 
+Sao obrigacdes dos PARTICIPES o cumprimento de todas as Cldusulas presentes neste TO, bem como o seguinte: 
+1 - DOS PARTICIPES: 
+Aceitar os termos e condicées do presente TO assinando-o eletronicamente por meio do Sistema Eletrénico de Informacdes 
+- SEI, com 
+senha individual e intransferivel, da qual se responsabiliza pelo sigilo; 
+Ter conduta ética e integra, respeitada a Lei anticorrupcao n.°2 12.846, de 2013; 
+Submeter-se a fiscalizacdo do Tribunal de Contas do Estado e da Unido, bem como pelos éorgaos de controle competentes e garantindo 
+acesso aos processos, documentos e as informacgées relacionadas a parceria, bem como aos locais de execucdo do respectivo objeto; 
+Observar os procedimentos 
+e regras dispostos no Manual da FAPEMIG, na Cartilha de Prestacdo de Contas, bem como na legislacdo 
+aplicavel ao presente Instrumento. 
+Il - DOS OUTORGADOS 
+Arcar, oOUTORGADO responsavel, por quaisquer 6nus advindos das relacgdes diretas ou indiretas com terceiros estranhos ao presente TO; 
+Responsabilizar-se pela adequada utilizacdo dos recursos concedidos pela OUTORGANTE, de acordo com sua finalidade 
+e em estrita 
+observancia das clausulas deste TO, do Manual da FAPEMIG e demais normas da OUTORGANTE, nao os destinando, em hipdtese alguma, a 
+fins diversos, ainda que parcialmente; 
+Explicitar o nUmero do processo correspondente em toda correspondéncia enviada 4 OUTORGANTE referente ao presente TO, via correio 
+regular ou comunicacao eletrénica; 
+Manter 
+a guarda dos documentos originais relativos 
+4 execucdo do presente TO, pelo prazo de 10 (dez) anos contados do dia 
+Util 
+subsequente ao término do prazo para apresentacdo da prestacdo de contas, exibindo-os 
+4a OUTORGANTE e 
+aos Orgdos de controle, 
+quando solicitado; e 
+https://Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1 7358087 &codigo_crc=O5A2FEF3&has... 
+13/31
+ 24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+Aceitar qualquer avaliacdo e fiscalizacdo que a OUTORGANTE, o CNPq, a Secretaria Estadual de Saude — SES, o Departamento de Ciéncia e 
+Tecnologia/Secretaria 
+de Ciéncia 
+e Tecnologia 
+e Insumos Estratégicos/Ministério 
+da Sadde 
+- DECIT/SCTIE/MS, julgarem conveniente 
+proceder. 
+Preencher o relatério no médulo Pesquisa Saude disponivel no link: http://portal2.saude.gov.br/sisct/login.cfm ao término do seu projeto, 
+O qual se constituira na fonte de informacdo e divulgacdo do estudo realizado. 
+Ill - DA OUTORGANTE: 
+Realizar 0 monitoramento e a avaliagdo do desenvolvimento do projeto, por meio da andalise dos relatérios de monitoramento de metas, 
+nos moldes do modelo padrdo disponibilizados pela OUTORGANTE, 
+a ser apresentado pelo COORDENADOR ou 
+pela OUTORGADA 
+EXECUTORA, conforme plano de trabalho; 
+Realizar a analise da prestacao de contas financeira, apresentada pela OUTORGADA GESTORA, conforme a 
+legislacdo aplicavel, as diretrizes 
+estabelecidas pelo Manual da FAPEMIG e a Cartilha de Presta¢do de Contas. 
+Adotar instrumentos de acompanhamento e avaliacado final dos projetos, a partir da orientacgdo do CNPq, visando assegurar: cumprimento 
+dos objetivos propostos e apresentacdo dos produtos descritos na proposta; impactos ambientais, econémicos e sociais, diretos e indiretos, 
+gerados pela proposta, inclusive na contribuicao para a formacdo de recursos humanos; impacto do projeto na produca&o técnico-cientifica 
+do coordenador e da equipe; qualidade dos periddicos e/ou livros onde forem realizadas as publicagdes; contribuicdo para a difusdo de 
+tecnologia/informacdo; subsidios para implementacdo de politicas publicas. 
+IV - DO COORDENADOR: 
+Responsabilizar-se integralmente pela perfeita execucdo do projeto e adequada utilizagdo dos insumos adquiridos com recursos concedidos 
+pela OUTORGANTE, de acordo com sua finalidade e em estrita observdncia das clausulas deste TO, do Manual da FAPEMIG 
+e demais 
+normas da OUTORGANTE, nao os destinando, em hipdtese alguma, a fins diversos, ainda que parcialmente; 
+Responsabilizar-se pela demonstracdo dos resultados obtidos por meio da elaboracdo 
+e apresentacdo de Relatorios Técnico-Cientifico 
+parciais e finais, disponibilizado no Sistema Eletr6nico, bem como por meio de outros documentos solicitados pela OUTORGANTE; 
+Fazer expressa refer€ncia a OUTORGANTE, ao CNPq, a SES e ao DECIT/SCTIE/MS, além de fornecer 1 (um) exemplar da obra publicada, 
+sempre que, em virtude do apoio deferido, for produzido livro, revista ou qualquer outro trabalho técnico ou cientifico; 
+Divulgar o presente apoio da OUTORGANTE, SES/MG e do DECIT/SCTIE/MS, por intermédio do CNPq, para a execucdo do presente projeto, 
+nas palestras, seminarios e cursos, Ou na promocdo do produto resultado do evento através de publicacées cientificas, artigos em jornais 
+e/ou revistas, folders, banners, cartazes, quadros, folheto, dentre outros, sob pena de inadimpléncia das obrigacdes ora pactuadas, 
+observadas, para ano eleitoral, as restrigdes previstas na Lei Federal 9.504/97. 
+Encaminhar resultados parciais e finais para 
+a FAPEMIG ao longo da execucdo das pesquisas e em tempo real, antes mesmo até das 
+publicagdes cientificas ou sempre que requisitados, tendo em vista o cardter emergencial em saude publica de repercussao internacional e 
+nacional, para que esses resultados possam subsidiar as agdes do poder publico estadual. 
+V - DA OUTORGADA EXECUTORA: 
+Propiciar condic¢des adequadas de espaco, infraestrutura, pessoal de apoio técnico e administrativo para o desenvolvimento do projeto de 
+pesquisa, acompanhando as atividades realizadas pelo COORDENADOR; 
+Envidar os melhores esforcos para o fiel cumprimento das obrigacgdes dispostas no presente TO, sendo subsidiariamente responsavel pelas 
+obrigacdes assumidas pelo COORDENADOR; 
+Responsabilizar-se solidariamente 
+pelas obrigacdes assumidas 
+pelo COORDENADOR, em 
+caso 
+de 
+negligéncia 
+na 
+fiscalizagdo 
+e 
+no 
+acompanhamento da execucdo do Projeto. 
+VI - DA OUTORGADA GESTORA: 
+Manter-se constituida na forma de fundacées de direito privado, sem fins lucrativos, regidas pelo Cdédigo Civil brasileiro e por estatutos 
+Cujas normas expressamente disponham sobre 
+a observdncia 
+dos 
+principios 
+da 
+legalidade, 
+da impessoalidade, 
+da 
+moralidade, 
+da 
+publicidade, da economicidade e da eficiéncia; 
+Adotar regulamento especifico de aquisic¢des e contratacdes de bens e servicos, nos termos do art. 84 do Decreto Estadual 47.442/2018, 
+observados os demais dispositivos legais aplicaveis; 
+Manter os recursos repassados em conta bancaria, especifica e atualizada, aberta exclusivamente para execucdo das aces deste Termo; 
+Utilizar os recursos exclusivamente para o cumprimento da finalidade prevista no Plano de Trabalho do Projeto; 
+Observar as vedacdes contidas nos incisos VII e VIll, do art. 62 da Lei n. 22.929/2018; 
+Observar a publicidade de seus atos, conforme estabelecido no art. 82 da Lei n2 22.929, de 2018, salvo no que diz respeito as informacdes 
+classificadas como sigilosas e de segredo industrial; 
+https://Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1 7358087 &codigo_crc=O5A2FEF3&has... 
+14/31
+ 24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+Manter-se cadastrada junto a OUTORGANTE durante o prazo de vigéncia deste TO. 
+Apresentar para a OUTORGANTE, na prestacdo de contas financeira, observada a Clausula Oitava do presente TO, a planilha com os custos 
+operacionais que a OUTORGADA GESTORA efetivamente executou no projeto, a fim de comprovar percentual que foi destinado a titulo de 
+despesas operacionais, observado o limite maximo estabelecido na Clausula Segunda, com devolucdo da diferenga ndo executada. 
+PARAGRAFO UNICO: Caso 0 projeto identificado no predmbulo do presente TO nao seja passivel de originar direitos relativos a propriedade 
+intelectual, os resultados da pesquisa deverao se reverter em publicagdes, em livros ou revistas especializadas, de circulagdo nacional e/ou 
+internacional, ou ainda, em trabalho técnico e cientifico de divulgacdéo, devendo o autor fazer expressa referéncia a OUTORGANTE, a SES, 
+ao apoio do DECIT/SCTIE/MS, por intermédio do CNPq, convénio registrado na Plataforma + Brasil- SICONV (837584-2016), bem como 
+fornecer-lhes um exemplar da obra publicada. 
+CLAUSULA SETIMA — DA PRESTACAO DE CONTAS TECNICO-CIENTIFICA 
+O COORDENADOR obriga-se 
+a realizar 
+a prestagcdo de contas técnico-cientifica do projeto, no prazo de até 60 (sessenta) dias apds 
+encerrado o seu prazo de execucdo, ou pela rescisdo deste TO por qualquer motivo, devendo a prestacdo de contas observar as diretrizes 
+previstas no Manual da FAPEMIG e as demais normas da OUTORGANTE, 
+a Chamada Publica identificada no preambulo, bem como na 
+legislagdo aplicavel. 
+PARAGRAFO PRIMEIRO: A prestacdo de contas técnico-cientifica sera realizada por meio de relatério contendo os resultados obtidos, em 
+formuldrio eletrénico disponivel na pagina da OUTORGANTE, ou outro(s) documento(s) que vier(em) a substitui-lo, alam do envio de cépia 
+das publicagdes e dos produtos gerados no projeto. 
+PARAGRAFO SEGUNDO: O COORDENADOR também devera enviar um PITCH (video de curta duracao de aproximadamente 
+3 min.), 
+contendo uma 
+sintese 
+do(s) 
+resultado(s) 
+mais significativos 
+do 
+projeto desenvolvido, mencao 
+ao apoio 
+da FAPEMIG, quando 
+da 
+apresentacdo do relatdrio técnico final, 
+e que sera utilizado como material de divulgagcdéo, devendo também ser enviado documento 
+autorizando a divulgacdo do PITCH. 
+PARAGRAFO TERCEIRO: Na hipdtese da nao aprovacdo integral ou parcial da prestacdo de contas técnico-cientifica, o COORDENADOR 
+devera efetuar a devolucdo dos recursos recebidos, integral ou proporcionalmente, conforme o caso, sem prejuizo da correcdo monetaria 
+devida. 
+PARAGRAFO QUARTO: A OUTORGADA EXECUTORA acompanhara a execucao e a apresentacdo da prestacdo de contas técnico-cientifica 
+pelo COORDENADOR, inclusive responsabilizando-se pela cobranca e pela aplicagdo de sancgGes no caso de inadimpléncia, sendo obrigada 
+solidariamente a devolucdo dos recursos em decorréncia da reprovacdo parcial ou integral da prestacdo de contas cientifica, caso a sua 
+acdo ou omissdo tenha concorrido para a reprovacdo. 
+CLAUSULA OITAVA — DA PRESTACAO DE CONTAS FINANCEIRA 
+A OUTORGADA GESTORA obriga-se 
+a realizar 
+a prestagcdo de contas financeira do projeto, no prazo de até 60 (sessenta) dias apds 
+encerrado o prazo de sua execucdo, ou pela rescisdo deste TO por qualquer motivo, devendo a prestacdo de contas observar as diretrizes 
+previstas no Manual da FAPEMIG, a Cartilha de Prestagdo de Contas Financeira, as demais normas da OUTORGANTE, bem como a Chamada 
+Publica identificada no preambulo, bem como a legislacdo aplicavel. 
+PARAGRAFO PRIMEIRO: Na hipdtese de nao aprovacdo integral ou parcial da prestacdo de contas financeira, a OUTORGADA GESTORA 
+devera efetuar a devolucdo proporcional dos recursos recebidos, devidamente corrigidos. 
+PARAGRAFO SEGUNDO: O COORDENADOR e a OUTORGADA EXECUTORA poderdo ser responsabilizados solidariamente pela devolucdo 
+dos recursos em decorréncia da reprovacdo parcial ou integral da prestacdo de contas financeira, caso 
+a sua acao ou omissdo tenha 
+concorrido para a reprovacdo. 
+PARAGRAFO TERCEIRO: Na prestacdo de contas final, o saldo apurado referente na conta vinculada aos recursos oriundos do convénio 
+(APOIO A PESQUISA), inclusive com os rendimentos devera ser devolvido 48 OUTORGANTE no Banco do Brasil 001 — Agéncia 1615-2, conta 
+bancaria 21.663-1. A OUTORGADA deverda enviar a cdpia do comprovante do referido depésito e a digitalizacgdo do Anexo 1- Quadro de 
+Demonstrativo de Receitas e de Despesas, devidamente preenchidos e assinados pelos responsaveis, para 0 e-mail gcf@fapemig.br, assim 
+que ocorrer a referida devolucdo, para registros dos mesmos nos sistemas SICONV e SIAFI. Esses documentos deverdo ainda compor a 
+prestacdo de contas final do projeto. 
+https://Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1 7358087 &codigo_crc=O5A2FEF3&has... 
+15/31
+ 24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+CLAUSULA NONA — DAS METAS E DA AVALIACAO 
+Os OUTORGADOS atestam que o Plano de Trabalho, ou documento equivalente disponivel na plataforma Everest, integra o presente TO 
+independente de transcrigdo, 
+e contém 
+a especificagdo das metas 
+a serem atingidas, com indicadores que permitem avaliar o seu 
+cumprimento ao longo do tempo. 
+PARAGRAFO PRIMEIRO: A OUTORGANTE reserva-se ao direito de, 
+a qualquer tempo, monitorar a execucdo das metas 
+e atividades, 
+conforme definido no Plano de Trabalho e, apods a conclusdo dos trabalhos, verificar o cumprimento das condic6es fixadas no TO. 
+PARAGRAFO SEGUNDO: O COORDENADOR devera encaminhar a OUTORGANTE 0 relatério de monitoramento informando o andamento 
+da execucdo fisica 
+e técnica do objeto, 
+a fim de realizar o registro do avanco do projeto, em periodicidade a ser definida, conforme 
+especificidades do plano de trabalho. 
+CLAUSULA DECIMA — DO SIGILO E DA CONFIDENCIALIDADE 
+Como forma de garantir a protecdo dos direitos, relativos a propriedade intelectual, porventura decorrentes do projeto identificado no 
+preambulo deste TO, obrigam-se os PARTICIPES a manter sigilo e a confidencialidade das informacdes pertinentes a pesquisa, de forma a 
+assegurar Oo atendimento ao requisito “novidade” exigido pela legislacdo. 
+PARAGRAFO PRIMEIRO: A OUTORGADA EXECUTORA deverda celebrar Termo de Sigilo 
+e de Confidencialidade com cada um de seus 
+respectivos servidores/empregados 
+e demais envolvidos 
+direta 
+ou indiretamente 
+no desenvolvimento 
+do 
+projeto, 
+identificado 
+no 
+preadmbulo deste TO, como forma de garantir o sigilo e a confidencialidade das informac6es a ele relacionadas. 
+PARAGRAFO SEGUNDO: A obrigacao de sigilo e de confidencialidade prevista na presente Clausula perdurard até que os direitos dos 
+envolvidos tenham sido devidamente protegidos 
+e cessara 
+na hipdtese deste projeto nao originar direitos relativos 
+a propriedade 
+intelectual. 
+PARAGRAFO TERCEIRO: A Cldusula de sigilo e de confidencialidade nao sera objeto de renuncia por qualquer dos PARTICIPES e demais 
+envolvidos direta ou indiretamente no desenvolvimento do projeto, enquanto vigentes os objetivos e finalidades deste TO e suas clausulas 
+correspondentes, resguardando-se irrestritamente eventuais direitos de propriedade intelectual. 
+CLAUSULA DECIMA PRIMEIRA — DOS DIREITOS RELATIVOS A PROPRIEDADE INTELECTUAL 
+Os direitos relativos a propriedade intelectual, porventura resultantes de atividades realizadas em decorréncia do Projeto financiado pelo 
+presente TO, serdo objeto de protecdo, em conformidade com a legislacdo vigente, e terdo como cotitulares a OUTORGADA EXECUTORA e 
+a OUTORGANTE, observando-se as normas do CNPq 
+e respeitados os direitos do autor, inventor ou melhorista 
+e as proporcdes dos 
+recursos alocados pelas instituicdes envolvidas no desenvolvimento de cada tecnologia. 
+PARAGRAFO PRIMEIRO: A exploracdo comercial dos direitos de propriedade intelectual e os contratos de licencga de exploracdo deverdo ser 
+ajustados de comum acordo entre os cotitulares do direito, nos Contratos de Cotitularidade e de Transferéncia de Tecnologia. 
+PARAGRAFO SEGUNDO: Nos casos de interesse pUblico, continuidade da situacgao de emergéncia ou do estado de calamidade publica em 
+decorréncia da pandemia de Covid-19, podera ser concedida licenga temporaria, ndo exclusiva e a titulo ndo oneroso, para instituicdes 
+publicas e demais entes governamentais, do Brasil ou do exterior, produzirem e usarem as propriedades intelectuais decorrentes deste 
+Projeto, com o objetivo unico e exclusivo de atender a populacdo de forma gratuita. A licenga aqui prevista nado dara direito a exploracdo 
+comercial, bem como colocar a venda ou vender os produtos, processos ou servicos relativos as propriedades intelectuais por parte dos 
+licenciados. 
+PARAGRAFO TERCEIRO: Qualquer cotitular do direito e/ou qualquer membro de sua equipe, somente podera explorar diretamente os 
+resultados advindos do projeto objeto deste TO, mediante comum acordo entre os demais cotitulares, expresso em termo escrito 
+e 
+assinado por todos. 
+PARAGRAFO QUARTO: Os direitos sobre a propriedade intelectual observara a legislacdo vigente, notadamente a legislacdo de propriedade 
+intelectual, em especial a Lei n. 9.279/96 (Lei de Propriedade Industrial), Lei n. 9.609/98 (Lei de Programas de Computador), Lei n. 9.610/98 
+(Lei de Direitos Autorais), Lei 
+n. 9.456/97 (Lei de Protecdo de Cultivares), Decreto n. 2.553/98 (que dispde sobre a obrigatoriedade de 
+premiacdo 
+a inventores 
+de 
+instituicdes 
+publicas), 
+Lei 
+n. 10.973/04 
+(Lei 
+de Inovacdo), 
+Decreto 
+n. 9.283/18 (Regulamenta 
+a 
+Lei 
+n. 
+10.973/04),Lei n. 13.243/16, Lei Estadual n. 17.348/08 (Lei Mineira de Inovacdo), Decreto n. 47.442/18, bem como Deliberacdo n. 72/13 da 
+FAPEMIG, e demais legislagdes aplicaveis a propriedade intelectual, incluindo as normas do CNPq. 
+CLAUSULA DECIMA SEGUNDA - DOS RESULTADOS ECONOMICOS 
+https://Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1 7358087 &codigo_crc=O5A2FEF3&has... 
+16/31
+ 24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+Os ganhos econémicos auferidos em eventual exploracdo comercial de pesquisas e inovacdes resultantes do projeto identificado no 
+preambulo deste TO, inclusive na hipdtese de transferéncia do direito de exploracdo a terceiros, serdo partilhados entre os cotitulares do 
+direito, na proporcdo equivalente ao montante do valor agregado, investido na pesquisa, inovacdes e protecdo a propriedade intelectual, 
+cujos percentuais serdo definidos nos respectivos Contratos de Cotitularidade e de Transferéncia de Tecnologia. 
+PARAGRAFO UNICO: E assegurada ao pesquisador participagdo minima de 5% (cinco por cento) e maxima de 1/3 (um terco) nos ganhos 
+econdémicos, resultantes de contratos de transferéncia de tecnologia e de licenciamento para outorga de direito de uso ou de exploracdo de 
+criacdo protegida da qual tenha sido o autor, inventor ou melhorista, nos termos da Lei Federal n. 10.973/2004 (Lei de Inovacdo),da Lei 
+Federal n. 13.243/2016, da Lei Estadual n. 17.348/2008 (Lei Mineira de Inovacdo), do Decreto Estadual n. 47.442/2018 e da Deliberacao n. 
+72/2013 da FAPEMIG. 
+CLAUSULA DECIMA TERCEIRA — DOS EQUIPAMENTOS 
+Os bens moveis adquiridos com recursos da OUTORGANTE destinados ao projeto ora financiado poderdo ser doados aos Orgdos 
+e 
+entidades da Administracdo Publica Direta 
+e Indireta, ou poderdo ter o uso permitido as entidades privadas, nos termos da Portaria 
+FAPEMIG n. 34/2019. 
+PARAGRAFO PRIMEIRO: A doacdo de que trata o caput efetivar-se-4 automaticamente desde a aquisicdo do bem em favor da entidade 
+publica executora do projeto, nos termos do artigo 13 da Lei Federal 
+n. 13.243/2016 c/c incisos XV, do art. 79 do Decreto Estadual n. 
+47.442/2018. 
+PARAGRAFO SEGUNDO: Em caso de reprovacdo da prestacdo de contas final, o valor referente ao bem porventura doado devera ser 
+ressarcido a OUTORGANTE. 
+PARAGRAFO TERCEIRO: A permissdo de uso de que trata o caput efetivar-se-4, por meio da formalizacdo de termo de permissdo de uso, a 
+ser emitido apés a aprovacdo, pelo Ordenador de Despesas, da Prestacdo de Contas Final do Projeto. 
+PARAGRAFO QUARTO: A doacado/permissdo de que trata esta Cldusula sera feita mediante encargo, que consiste na obrigatoriedade da 
+utilizagéo dos bens somente nas atividades correlatas com as finalidades da FAPEMIG, relacionadas 
+a pesquisa, ciéncia, tecnologia 
+e 
+inovagao e ndo sera permitida a doacdo, permissdo ou venda, pela OUTORGADA EXECUTORA, 
+a terceiros. 
+PARAGRAFO QUINTO: Em caso de desvio ou inutilizagdo dos bens, a OUTORGADA responsavel devera ressarcir 4 OUTORGANTE/CNPg, o 
+valor correspondente, mediante prévio procedimento administrativo para apuracdo de dolo ou culpa, sendo ainda possivel a reposicdo do 
+bem, com caracteristicas compativeis, para o cumprimento de sua finalidade. 
+PARAGRAFO SEXTO: Compete 4 OUTORGADA EXECUTORA responsabilizar-se pela adequada guarda, manutencdo e utilizacdo dos bens 
+adquiridos com recursos deste TO, assegurando 
+o seu uso nas atividades de pesquisa objeto deste projeto, bem como comunicar a 
+OUTORGANTE quaisquer fatos que possam interferir na posse, na propriedade ou no valor do bem adquirido em decorréncia do presente 
+TO. 
+PARAGRAFO SETIMO: A OUTORGANTE podera dar outra destinacao aos bens adquiridos com os recursos provenientes deste TO, na 
+hipdtese dos OUTORGADOS descumprirem o presente Termo, ou caso o interesse publico justifique a destinacgdo diversa aos referidos 
+bens. 
+CLAUSULA DECIMA QUARTA — DA LEGISLACAO APLICAVEL 
+As normas de concessdo, execucdo, pagamento, acompanhamento e prestacdo de contas do presente TO sdo as previstas nas Leis Federais 
+n. 13.243/2016, n. 10.973/2004 e, no que couber, a Lei n. 8.666/1993, Lei Estadual n2 22.929/2018, Decreto Estadual n. 47.442/2018 e 
+demais legislacdes aplicaveis ao presente instrumento, além do regramento constante no Manual da FAPEMIG e demais normas internas 
+da OUTORGANTE, que poderdo ser alteradas a critério desta, bem como as prescritas na Chamada Publica identificada no predmbulo, 
+aplicando-se também os principios que regem a atuacdo da administragdo publica, em especial os principios da legalidade, impessoalidade, 
+moralidade, publicidade 
+e eficiéncia. Aplicam-se também ao presente TO, de forma subsididria, o Decreto Federal 
+n. 8.241/2014 e o 
+Decreto Estadual n. 46.319/2013. 
+CLAUSULA DECIMA QUINTA — DA INADIMPLENCIA 
+A violagdo de qualquer clausula do presente TO importara em suspensdo do apoio concedido, e, eventual, rescisdo deste TO, além da 
+devolucdo dos recursos recebidos, devidamente corrigidos e acrescidos de juros legais e retirada dos bens adquiridos, sem prejuizo de 
+outras sancoes legais cabiveis. 
+https:/Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1 7358087 &codigo_crc=O5A2FEF3&has... 
+17/31
+ 24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+CLAUSULA DECIMA SEXTA — DA DENUNCIA E DA RESCISAO 
+O presente TO podera ser denunciado a qualquer tempo, por quaisquer dos participes, que permanecerdo obrigados aos compromissos 
+assumidos até 
+a efetivagdo do ato, mediante notificagdo com antecedéncia minima 
+de trinta 
+dias, em face de superveniéncia 
+de 
+impedimento que o torne formal ou materialmente inexequivel. 
+PARAGRAFO PRIMEIRO: Constituem motivos para rescisdo unilateral do TO, a critério da OUTORGANTE 
+as hipoteses previstas no art. 66 
+do Decreto Estadual n. 46.319/13, podendo ainda a OUTORGANTE cancelar ou suspender, a seu exclusivo critério e a qualquer tempo, os 
+beneficios definidos, sem 
+que 
+disso 
+resulte 
+direito algum 
+a 
+reclamacdo ou indenizagéo 
+por qualquer das 
+partes, com 
+relacdo 
+a 
+OUTORGANTE. 
+PARAGRAFO SEGUNDO: No caso de descumprimento de quaisquer de suas clausulas e condicdes, podera o PARTICIPE prejudicado dar por 
+findo o presente TO, independentemente de prévia interpelacdo judicial ou extrajudicial, respondendo o PARTICIPE inadimplente pelos 
+prejuizos ocasionados, salvo hipdtese de caso fortuito ou de forga maior, devidamente demonstrados. 
+CLAUSULA DECIMA SETIMA — DAS ALTERACOES 
+As Clausulas do presente Termo de Outorga poderdo ser alteradas de comum acordo pelos PARTICIPES por meio de TERMO ADITIVO, nos 
+termos do inciso XIll, do art. 79 do Decreto 47.442/2018. 
+CLAUSULA DECIMA OITAVA — DA ADESAO AS CLAUSULAS E CONDICOES 
+Os OUTORGADOS declaram que aceitam, sem restrigdes, o presente apoio como esta deferido e se responsabilizam pelo fiel cumprimento 
+do presente TO em todas as suas clausulas e condicdes. 
+CLAUSULA DECIMA NONA — DA GESTAO E FISCALIZACAO 
+A OUTORGADA GESTORA 
+e OUTORGADA EXECUTORA deverdao indicar, expressamente, um responsavel para controlar 
+e fiscalizar 
+a 
+execucdo do presente instrumento, nos termos da Lei Estadual 22.929/2018, podendo a indicacdo ser feita no Plano de Trabalho ou em 
+documento apartado, o qual passara a fazer parte integrante e indissociavel do presente TO. 
+CLAUSULA VIGESIMA — PRAZO PARA ASSINATURA 
+Os PARTICIPES terao prazo maximo de 10 (dez) dias para realizar a assinatura eletr6nica do presente TO, a contar da sua disponibilizacdo 
+via SEI, sob pena de cancelamento do apoio nele previsto. 
+CLAUSULA VIGESIMA PRIMEIRA — DA PUBLICACAO 
+O extrato deste TO sera publicado no Diario Oficial do Estado de Minas Gerais, por conta e 6Gnus da OUTORGANTE. 
+CLAUSULA VIGESIMA SEGUNDA — DO FORO 
+Para dirimir quaisquer duvidas ou litigios decorrentes do presente TO, fica eleito o foro da Comarca de Belo Horizonte ou, sendo qualquer 
+dos OUTORGADOS entidade publica federal, fica eleita a Justica Federal da Secdo Judicidria de Minas Gerais — Belo Horizonte. 
+Belo Horizonte, <<TO_DATAEMISSAO>>. 
+OUTORGANTE 
+https://Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1 7358087 &codigo_crc=O5A2FEF3&has... 
+18/31
+ 24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+REPRESENTANTE LEGAL 
+OUTORGADA EXECUTORA 
+<<DESEN_DIRIGENTE>> 
+OUTORGADA GESTORA 
+<<GEST_DIRIGENTE>> 
+COORDENADOR 
+<<SOLICITANTE>> 
+DPP 
+ANEXO II - TERMO DE OUTORGA SEM FUNDACAO DE APOIO 
+TERMO DE OUTORGA 
+IDENTIFICACAO 
+MODALIDADE: “EDITAL <<NUMEDITAL>> - <<EDITAL>>” 
+PROCESSO N. 
+: <<SIGLACAMARA+?>> - <<IDPROCESSO>> 
+PROJETO: “<<TITULO>>” 
+PRAZO DE EXECUCAO DO PROJETO: <<DURACAOMESES>>. 
+PARTICIPES 
+OUTORGANTE: FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE MINAS GERAIS — FAPEMIG, com sede na Avenida José Candido da 
+Silveira, n. 1500, bairro Horto, na cidade de Belo Horizonte/MG, inscrita no CNPJ sob o n. 21.949.888/0001-83, neste ato representada por 
+seu Diretor de Ci€ncia, Tecnologia e Inovagdo, PAULO SERGIO LACERDA BEIRAO, conforme ato de nomeacdo do Sr. Governador publicado 
+no Diario Oficial do Estado em 12/06/2018, inscrito no CPF n. 091.849.456-72, ou pelo servidor RAFAEL MARQUES PESSOA, inscrito no CPF 
+n? 099.726.996-09, ambos com delegacao prevista na Portaria PRE n. 64/2019, publicada no “Minas Gerais” de 12/10/2019. 
+OUTORGADA: <<DESEN_SIGLA>> 
+- <<DESENVOLVEDORA>> com sede 
+na <<DESEN_ENDERECO>>, <<DESEN_BAIRRO>>, 
+na cidade de 
+<<DESEN_MUNICIPIO>>/<<DESEN_ESTADO>>, inscrito(a) 
+no CNPJ sob 
+o 
+n. <<DESEN_CNPJ>>, neste ato representado(a) por seu(ua) 
+<<DESEN_CARGODIR>>, <<DESEN_DIRIGENTE>>. 
+COORDENADOR{A): <<SOLICITANTE>>, 
+CPF: <<SOLI_CPF>>, 
+residente 
+e 
+domiciliado(a) 
+<<SOLI_LENDERE>>, 
+B. 
+<<SOLI_BAIRRO>> 
+- 
+<<SOLI_MUNICI>>/ <<SOLI_ESTADO>>, mantendo vinculo com a <<SOLI_INST_VINC>>. 
+Considerando os termos do Convénio firmado entre a FAPEMIG e o Conselho Nacional de Desenvolvimento Cientifico e Tecnoldgico (CNPq), 
+registrado sob 0 n° 837584/2016. 
+Considerando que houve a anuéncia cos Participes do Convénio sob o n° 837584/2016, em relagdo 4 Chamada Publica que deu origem ao 
+presente instrumento — Chamada Publica n° xx/xxxx, em atencgdo a Clausula Quarta, Subclausula Primeira letra “B”, do Convénio citado 
+acima 
+Resolvem firmar o presente Termo de Outorga, doravante denominado TO, que sera regido pelas clausulas e condicdes seguintes: 
+A expressdo “PARTICIPES” sera utilizada para referir-se, conjuntamente, 4 OUTORGANTE, 
+4a OUTORGADA e ao COORDENADOR. 
+A expressdo “OUTORGADOS” sera utilizada para referir-se, conjuntamente, 
+4a OUTORGADA e ao COORDENADOR. 
+https:/Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1 7358087 &codigo_crc=O5A2FEF3&has... 
+19/31
+ 24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+CLAUSULA PRIMEIRA — DO OBJETO 
+Constitui objeto deste TO, o apoio pela OUTORGANTE, por meio de financiamento do montante previsto na Clausula Segunda, ao projeto 
+de pesquisa cientifica, tecnoldgica e/ou de inovacdo identificado no predmbulo deste instrumento, desenvolvido pelo COORDENADOR, em 
+parceria com a OUTORGADA, observado o plano de trabalho aprovado, parte integrante e indissociavel deste TO. 
+PARAGRAFO UNICO: Integrard o Plano de Trabalho, as informacdes minimas que nele deverdo constar, nos termos do art. 78 do Decreto n. 
+47.442/2018, ainda que encaminhadas em documentos apartados. 
+CLAUSULA SEGUNDA — DO VALOR DO APOIO E CONDICOES 
+O valor do presente TO 
+é fixado em RS<<TO_VALORTO>> (<<TO_VALOR_EXTENSO>>), destinado 
+a cobertura de despesas, conforme 
+especificado no plano de trabalho e mediante disponibilidade financeira. 
+PARAGRAFO PRIMEIRO: A implementacdo de(s) eventual(is) bolsa(s) sé podera ser realizada, apdés a liberacdo da primeira parcela dos 
+recursos financeiros. 
+PARAGRAFO SEGUNDO: E vedado o remanejamento de recursos financeiros previstos no orgamento aprovado do projeto, entre as rubricas 
+de CAPITAL, CUSTEIO, BOLSAS e DESPESAS OPERACIONAIS. Somente serdo admitidas alteracdes de itens dentro da propria rubrica nos 
+casos dos itens previstos para CAPITAL, CUSTEIO e BOLSAS, desde que respeitados os limites para cada uma destas rubricas aprovadas no 
+detalhamento do orcamento e a Instrugdo Normativa n. 02/2014 da OUTORGANTE, ou outra que vier sucedé-la. 
+PARAGRAFO TERCEIRO: 
+Os 
+recursos financeiros 
+previstos 
+neste TO 
+limitam-se 
+ao 
+valor constante 
+na 
+presente 
+Cldusula, 
+nado 
+se 
+responsabilizando a OUTORGANTE pelo aporte de quaisquer outros recursos em decorréncia de modificagdo do projeto original ou por 
+fatos supervenientes que necessitem de suplementacao a qualquer titulo. 
+PARAGRAFO 
+QUARTO: 
+As_ 
+despesas_ 
+previstas 
+neste 
+TO, 
+a 
+conta 
+da 
+OUTORGANTE, 
+correrdo 
+pela(s) 
+dotacdo(des) 
+orcamentaria(s) 
+<<TO_DOTACOES>>,para o presente exercicio ou por outra(s) que a(s) suceder (em). 
+CLAUSULA TERCEIRA — DA LIBERACAO DOS RECURSOS 
+A liberacgao dos recursos sera feita diretamente 4 OUTORGADA, de forma integral ou em parcelas, 
+e sua utilizacdo se dara conforme 
+previsto no detalhamento dos itens do plano de trabalho aprovado pela OUTORGANTE. 
+PARAGRAFO PRIMEIRO: A liberacdo dos recursos dar-se-4 em até 30 dias apds a publicacdo do extrato deste TO no Diario Oficial do Estado 
+de Minas Gerais e mediante disponibilidade org¢amentaria e financeira da OUTORGANTE. 
+PARAGRAFO SEGUNDO: Na hipdtese do repasse em parcelas, 
+a primeira sera feita nas mesmas condicdes do pardgrafo anterior e, as 
+subsequentes, conforme detalhamento dos itens do plano de trabalho e mediante disponibilidade financeira da OUTORGANTE. 
+CLAUSULA QUARTA -— DA APLICACAO DOS RECURSOS 
+Apos a liberacdo dos recursos, os saldos financeiros, enquanto nao utilizados, deverdo ser aplicados pela OUTORGADA em caderneta de 
+poupanca ou em fundo de aplicacdo financeira de curto prazo ou operacdo de mercado aberto lastreada em titulos da divida publica, na 
+forma descrita no Pardgrafo 42, do art. 116, da Lei n. 8.666/1993,no §12 do art. 87 do Decreto n. 47.442/2018 e na Portaria Interministerial 
+n° 507, de 24/11/2011. 
+PARAGRAFO PRIMEIRO: Os valores oriundos da OUTORGANTE serdo repassados € OUTORGADA, por meio de depésito bancario em conta 
+especifica e individualizada para a execucdo do presente TO, aberta em instituicdo bancaria oficial. 
+PARAGRAFO SEGUNDO: Os rendimentos de ativos financeiros serao aplicados no objeto do presente TO, em item que conste no plano de 
+trabalho aprovado e deve ser justificado e comprovado na prestacdo de contas financeira, os quais estado sujeitos as mesmas condicdes 
+exigidas para os recursos transferidos. 
+PARAGRAFO TERCEIRO: A 
+utilizagdo dos rendimentos para alteracdo de quantidades ou aquisicdo de novos itens devera ser previamente 
+aprovada pela OUTORGANTE. 
+https:/Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1 7358087 &codigo_crc=O5A2FEF3&has... 
+20/31
+ 24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+PARAGRAFO QUARTO: Os rendimentos de aplicacgdes financeiras dos recursos nao poderdo ser computados como contrapartida ou outros 
+aportes das OUTORGADAS. 
+PARAGRAFO QUINTO: No caso de conclusdo, resciséo ou extincgo do presente TO, os saldos financeiros remanescentes, inclusive os 
+provenientes das receitas obtidas das aplicacdes financeiras realizadas, serdo devolvidos a OUTORGANTE, por meio de depésito no Banco 
+do Brasil 001 — Agéncia 1615-2, conta bancaria 21.663-1, nos termos do Paragrafo Terceiro da Clausula Oitava. 
+CLAUSULA QUINTA — DO PRAZO DE VIGENCIA E DE EXECUCAO 
+A vigéncia do presente TO sera de <<DURACAOMESES>>, a contar da data de sua publicacdo, sendo o prazo de execucdo do projeto de 
+<<DURACAOMESES>>, previsto no predmbulo deste instrumento, também contados da data da publicagao do Diario Oficial do Estado de 
+Minas Gerais, observado o previsto no item 4.2 da Chamada FAPEMIG xx/2020. 
+PARAGRAFO PRIMEIRO: A vigéncia do presente TO podera ser prorrogada mediante assinatura de Termo Aditivo, apds solicitacdo 
+e 
+justificativa dos OUTORGADOS, além da anuéncia da OUTORGANTE. 
+PARAGRAFO SEGUNDO: O 
+prazo de execucdo deste projeto poderd ser alterado mediante solicitacao e justificativa dos OUTORGADOS e 
+apos autorizagdo da OUTORGANTE, por meio de comunicaca&o escrita, 
+e desde que o novo prazo nao ultrapasse a vigéncia deste TO, 
+devendo ser realizada a adequacao do plano de trabalho. 
+PARAGRAFO TERCEIRO: Serdo aceitas solicitagdes de alteracdo de processo apresentadas apenas até sessenta dias antes da data do 
+encerramento do periodo de execucdo do TO. 
+PARAGRAFO QUARTO: Excepcionalmente, 
+a 
+critério 
+da OUTORGANTE, 
+sera admitido 
+o recebimento 
+de proposta 
+de alteracdo 
+da 
+OUTORGADA em prazo inferior ao estipulado no pardagrafo anterior, desde que dentro da vigéncia do T@, mediante a apresentacdo de 
+justificativa do atraso na solicitagdo da proposta de aditamento. 
+PARAGRAFO QUINTO: A prorrogacdo do prazo de vigéncia do TO e do prazo de execucao do presente projeto nao importaraé no aporte de 
+novos recursos, além dos ja previstos na Clausula Segunda. 
+PARAGRAFO SEXTO: Os prazos de vigéncia do TO 
+e de execucdo do presente Projeto, no caso de atraso na liberag3o dos recursos 
+ocasionado pela OUTORGANTE, serdo prorrogados de oficio pela OUTORGANTE, limitado ao periodo verificado ou previsto para liberacao, 
+com a devida readequacdo da duracdo das etapas de execucdo. 
+CLAUSULA SEXTA- DAS OBRIGACOES DOS PARTICIPES 
+Sao obrigacdes dos PARTICIPES 0 cumprimento de todas as Clausulas presentes neste TO, bem como o seguinte: 
+1 - DOS PARTICIPES: 
+Aceitar os termos e condicées do presente TO assinando-o eletronicamente por meio do Sistema Eletrénico de Informacdes 
+- SEI, com 
+senha individual e intransferivel, da qual se responsabiliza pelo sigilo; 
+Ter conduta ética e integra, respeitada a Lei anticorrupcdo n.2 12.846, de 2013; 
+Submeter-se a fiscalizacgéo do Tribunal de Contas do Estado e da Unido, bem como pelos orgdos de controle competentes e garantindo 
+acesso aos processos, documentos e as informacgées relacionadas a parceria, bem como aos locais de execucdo do respectivo objeto; 
+Observar os procedimentos 
+e regras dispostos no Manual da FAPEMIG, na Cartilha de Prestacdo de Contas, bem como na legislacdo 
+aplicavel ao presente Instrumento. 
+Il - DOS OUTORGADOS 
+Arcar, 
+Oo OUTORGADO responsavel, por quaisquer 6nus advindos das relacées diretas ou indiretas com terceiros estranhos ao presente TO; 
+Responsabilizar-se pela adequada utilizacdo dos recursos concedidos pela OUTORGANTE, de acordo com sua finalidade 
+e em estrita 
+observdncia das clausulas deste TO, do Manual da FAPEMIG e demais normas da OUTORGANTE, nao os destinando, em hipdtese alguma, a 
+fins diversos, ainda que parcialmente; 
+Explicitar o numero do processo correspondente em toda correspondéncia enviada a OUTORGANTE referente ao presente TO, via correio 
+regular ou comunicacao eletrénica; 
+https:/Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=17358087 &codigo_crc=O5A2FEF3&has... 
+21/31
+ 24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+Manter 
+a guarda dos documentos originais relativos 
+4 execucdo do presente TO, pelo prazo de 10 (dez) anos contados do dia 
+Util 
+subsequente ao término do prazo para apresentacdo da prestacdo de contas, exibindo-os 4 OUTORGANTE e aos Orgados de controle, 
+quando solicitado; e 
+Aceitar qualquer avaliacdo e fiscalizagdo que a OUTORGANTE, o CNPq, a Secretaria Estadual de Satide — SES, o Departamento de Ciéncia e 
+Tecnologia/Secretaria 
+de Ciéncia 
+e Tecnologia 
+e Insumos Estratégicos/Ministério 
+da Saude 
+- DECIT/SCTIE/MS, julgarem conveniente 
+proceder. 
+Preencher o relatério no mdédulo Pesquisa Satide disponivel no link: http://portal2.saude.gov.br/sisct/login.cfm ao término do seu projeto, 
+O qual se constituira na fonte de informacdo e divulgacdo do estudo realizado. 
+Ill - DA OUTORGANTE: 
+Realizar 0 monitoramento e a avaliagdo do desenvolvimento do projeto, por meio da analise dos relatérios de monitoramento de metas, 
+nos moldes do modelo padrdo disponibilizados pela OUTORGANTE, 
+a ser apresentado pelo COORDENADOR ou 
+pela OUTORGADA 
+EXECUTORA, conforme plano de trabalho; 
+Realizar a analise da prestacdo de contas financeira, apresentada pela OUTORGADA GESTORA, conforme a 
+legislacdo aplicavel, as diretrizes 
+estabelecidas pelo Manual da FAPEMIG e a Cartilha de Prestacao de Contas. 
+Adotar instrumentos de acompanhamento e avaliacado final dos projetos, a partir da orientagdo do CNPq, visando assegurar: cumprimento 
+dos objetivos propostos e apresentacdao dos produtos descritos na proposta; impactos ambientais, econdmicos e sociais, diretos e indiretos, 
+gerados pela proposta, inclusive na contribuigdo para a formacdo de recursos humanos; impacto do projeto na producado técnico-cientifica 
+do coordenador e da equipe; qualidade dos periddicos e/ou livros onde forem realizadas as publicacdes; contribuicdo para a difusdo de 
+tecnologia/informacdo; subsidios para implementacdo de politicas publicas. 
+IV - DO COORDENADOR: 
+Responsabilizar-se integralmente pela perfeita execucdo do projeto e adequada utilizagdo dos insumos adquiridos com recursos concedidos 
+pela OUTORGANTE, de acordo com sua finalidade e em estrita observancia das clausulas deste TO, do Manual da FAPEMIG 
+e demais 
+normas da OUTORGANTE, nao os destinando, em hipdtese alguma, a fins diversos, ainda que parcialmente; 
+Responsabilizar-se pela demonstracdo dos resultados obtidos por meio da elaboracdo 
+e apresentacdo de Relatdérios Técnico-Cientifico 
+parciais e finais, disponibilizado no Sistema EletrGnico, bem como por meio de outros documentos solicitados pela OUTORGANTE; 
+Fazer expressa refer€éncia 4 OUTORGANTE, ao CNPq, a SES e ao DECIT/SCTIE/MS, além de fornecer 1 (um) exemplar da obra publicada, 
+sempre que, em virtude do apoio deferido, for produzido livro, revista ou qualquer outro trabalho técnico ou cientifico; 
+Divulgar o presente apoio da OUTORGANTE, SES/MG e do DECIT/SCTIE/MS, por intermédio do CNPq, para a execucdo do presente projeto, 
+nas palestras, semindrios e cursos, Ou na promocado do produto resultado do evento através de publicacdes cientificas, artigos em jornais 
+e/ou revistas, folders, banners, cartazes, quadros, folheto, dentre outros, sob pena de inadimpléncia das obrigacdes ora pactuadas, 
+observadas, para ano eleitoral, as restric¢des previstas na Lei Federal 9.504/97. 
+Encaminhar resultados parciais e finais para 
+a FAPEMIG ao longo da execucdo das pesquisas e em tempo real, antes mesmo até das 
+publicacdes cientificas ou sempre que requisitados, tendo em vista o carater emergencial em saude publica de repercussdo internacional e 
+nacional, para que esses resultados possam subsidiar as agdes do poder publico estadual. 
+V - DA OUTORGADA: 
+Propiciar condicdes adequadas de espaco, infraestrutura, pessoal de apoio técnico e administrativo para o desenvolvimento do projeto de 
+pesquisa, acompanhando as atividades realizadas pelo COORDENADOR; 
+Envidar os melhores esforcos para o fiel cumprimento das obrigacdes dispostas no presente TO, sendo subsidiariamente responsavel pelas 
+obrigacgdes assumidas pelo COORDENADOR; 
+Responsabilizar-se solidariamente 
+pelas obrigacdes assumidas 
+pelo COORDENADOR, em 
+caso 
+de 
+negligéncia 
+na 
+fiscalizagdo 
+e 
+no 
+acompanhamento da execucdo do Projeto. 
+Manter-se constituida na forma de fundacdes de direito privado, sem fins lucrativos, regidas pelo Cddigo Civil brasileiro e por estatutos 
+cujas normas expressamente disponham sobre 
+a observdncia 
+dos 
+principios 
+da 
+legalidade, 
+da impessoalidade, 
+da 
+moralidade, 
+da 
+publicidade, da economicidade e da eficiéncia; 
+Adotar regulamento especifico de aquisig6es e contratacdes de bens e servicos, nos termos do art. 84 do Decreto Estadual 47.442/2018, 
+observados os demais dispositivos legais aplicaveis; 
+Manter os recursos repassados em conta bancaria, especifica e atualizada, aberta exclusivamente para execucdo das agdes deste Termo; 
+Utilizar os recursos exclusivamente para o cumprimento da finalidade prevista no Plano de Trabalho do Projeto; 
+https://Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1 7358087 &codigo_crc=O5A2FEF3&has... 
+22/31
+ 24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+Observar as vedacGées contidas nos incisos VII e VIII, do art. 62 da Lei n. 22.929/2018; 
+Observar a publicidade de seus atos, conforme estabelecido no art. 82 da Lei n2 22.929, de 2018, salvo no que diz respeito as informacgdes 
+classificadas como sigilosas e de segredo industrial; 
+Manter-se credenciada junto a OUTORGANTE durante o prazo de vigéncia deste TO. 
+PARAGRAFO UNICO: Caso 0 projeto identificado no predmbulo do presente TO nao seja passivel de originar direitos relativos a propriedade 
+intelectual, os resultados da pesquisa deverdo se reverter em publicacdes, em livros ou revistas especializadas, de circulacdo nacional e/ou 
+internacional, ou ainda, em trabalho técnico e cientifico de divulgagdo, devendo o autor fazer expressa refer€ncia 
+4a OUTORGANTE, a SES, 
+ao apoio do DECIT/SCTIE/MS, por intermédio do CNPq, convénio registrado na Plataforma + Brasil- SICONV (837584-2016), bem como 
+fornecer-Ihes um exemplar da obra publicada. 
+CLAUSULA SETIMA — DA PRESTACAO DE CONTAS TECNICO-CIENTIFICA 
+O COORDENADOR obriga-se 
+a realizar 
+a prestacgdo de contas técnico-cientifica do projeto, no prazo de até 60 (sessenta) dias apds 
+encerrado o seu prazo de execucdo, ou pela rescisdo deste TO por qualquer motivo, devendo a prestacdo de contas observar as diretrizes 
+previstas no Manual da FAPEMIG e as demais normas da OUTORGANTE, 
+a Chamada Publica identificada no preambulo, bem como na 
+legislacdo aplicavel. 
+PARAGRAFO PRIMEIRO: A prestacdo de contas técnico-cientifica sera realizada por meio de relatério contendo os resultados obtidos, em 
+formuldrio eletrénico disponivel na pagina da OUTORGANTE, ou outro(s) documento(s) que vier(em) a substitui-lo, além do envio de cdpia 
+das publicacgdes e dos produtos gerados no projeto. 
+PARAGRAFO SEGUNDO: O COORDENADOR também devera enviar um PITCH (video de curta durac3o de aproximadamente 
+3 min.), 
+contendo uma 
+sintese 
+do(s) 
+resultado(s) 
+mais significativos 
+do 
+projeto desenvolvido, mengdo 
+ao apoio 
+da FAPEMIG, quando 
+da 
+apresentacdo do relatdrio técnico final, 
+e que sera utilizado como material de divulgagdo, devendo também ser enviado documento 
+autorizando a divulgacdo do PITCH. 
+PARAGRAFO TERCEIRO: Na hipdtese da nao aprovacdo integral ou parcial da prestacdo de contas técnico-cientifica, o COORDENADOR 
+devera efetuar a devolucgdo dos recursos recebidos, integral ou proporcionalmente, conforme o caso, sem prejuizo da correcdo monetaria 
+devida. 
+PARAGRAFO QUARTO: 
+A OUTORGADA acompanhara 
+a execucdo 
+e 
+a apresentacd3o 
+da 
+prestacio 
+de contas técnico-cientifica 
+pelo 
+COORDENADOR, inclusive responsabilizando-se pela cobranca 
+e pela aplicagdo de sancdes no caso de inadimpléncia, sendo obrigada 
+solidariamente a devolucdo dos recursos em decorréncia da reprovacdo parcial ou integral da prestacdo de contas cientifica, caso a sua 
+ac¢do ou omissdo tenha concorrido para a reprovacdo. 
+CLAUSULA OITAVA — DA PRESTACAO DE CONTAS FINANCEIRA 
+A OUTORGADA obriga-se a realizar a prestacdo de contas financeira do projeto, no prazo de até 60 (sessenta) dias apds encerrado o prazo 
+de sua execucdo, ou pela rescisdéo deste TO por qualquer motivo, devendo a prestacgdo de contas observar as diretrizes previstas no Manual 
+da FAPEMIG, a Cartilha de Prestacdo de Contas Financeira, as demais normas da OUTORGANTE, bem como a Chamada Publica identificada 
+no predmbulo, bem como a legislacdo aplicavel. 
+PARAGRAFO PRIMEIRO: Na hipdtese de nao aprovacao integral ou parcial da prestacdo de contas financeira, a OUTORGADA devera efetuar 
+a devolucdo proporcional dos recursos recebidos, devidamente corrigidos. 
+PARAGRAFO SEGUNDO: O COORDENADOR e a OUTORGADA poderdo ser responsabilizados solidariamente pela devolugdo dos recursos 
+em decorréncia da reprovacdo parcial ou integral da prestacdo de contas financeira, caso a sua acdo Ou Omissdo tenha concorrido para a 
+reprovacao. 
+PARAGRAFO TERCEIRO: Na prestacdo de contas final, o saldo apurado referente na conta vinculada aos recursos oriundos do convénio 
+(APOIO A PESQUISA), inclusive com os rendimentos devera ser devolvido 
+8 OUTORGANTE no Banco do Brasil 001 — Agéncia 1615-2, conta 
+bancaria 21.663-1. A OUTORGADA devera enviar a copia do comprovante do referido deposito e a digitalizacdo do Anexo 1- Quadro de 
+Demonstrativo de Receitas e de Despesas, devidamente preenchidos e assinados pelos responsaveis, para 0 e-mail gcf@fapemig.br, assim 
+que ocorrer a referida devolucdo, para registros dos mesmos nos sistemas SICONV e SIAFI. Esses documentos deverdo ainda compor a 
+prestacdo de contas final do projeto. 
+CLAUSULA NONA — DAS METAS E DA AVALIACAO 
+https:/Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1 7358087 &codigo_crc=O5A2FEF3&has... 
+23/31
+ 24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+Os OUTORGADOS atestam que o Plano de Trabalho, ou documento equivalente disponivel na plataforma Everest, integra o presente TO 
+independente de transcricdo, 
+e contém 
+a especificacio das metas 
+a serem atingidas, com indicadores que permitem avaliar o seu 
+cumprimento ao longo do tempo. 
+PARAGRAFO PRIMEIRO: A OUTORGANTE reserva-se ao direito de, 
+a qualquer tempo, monitorar a execugdo das metas e 
+atividades, 
+conforme definido no Plano de Trabalho e, apods a conclusao dos trabalhos, verificar o cumprimento das condicées fixadas no TO. 
+PARAGRAFO SEGUNDO: O COORDENADOR devera encaminhar a OUTORGANTE 0 
+relatério de monitoramento informando o andamento 
+da execucao fisica 
+e técnica do objeto, 
+a fim de realizar o registro do avanco do projeto, em periodicidade a ser definida, conforme 
+especificidades do plano de trabalho. 
+CLAUSULA DECIMA DO SIGILO E DA CONFIDENCIALIDADE 
+Como forma de garantir a protecdo dos direitos, relativos a propriedade intelectual, porventura decorrentes do projeto identificado 
+no predmbulo deste TO, obrigam-se os PARTICIPES a manter sigilo e a confidencialidade das informacdes pertinentes a pesquisa, de forma 
+a assegurar 0 atendimento ao requisito “novidade” exigido pela legislacao. 
+PARAGRAFO PRIMEIRO: A OUTORGADA devera celebrar Termo de Sigilo 
+e de Confidencialidade com cada um de seus respectivos 
+servidores/empregados e demais envolvidos direta ou indiretamente no desenvolvimento do projeto, identificado no preambulo deste TO, 
+como forma de garantir o sigilo e a confidencialidade das informagées a ele relacionadas. 
+PARAGRAFO SEGUNDO: A obrigacao de sigilo e de confidencialidade prevista na presente Clausula perdurara até que os direitos dos 
+envolvidos tenham sido devidamente protegidos 
+e cessara 
+na hipdtese deste projeto ndo originar direitos relativos 
+a propriedade 
+intelectual. 
+PARAGRAFO TERCEIRO: A Cldusula de sigilo e de confidencialidade ndo sera objeto de renuncia por qualquer dos PARTICIPES e demais 
+envolvidos direta ou indiretamente no desenvolvimento do projeto, enquanto vigentes os objetivos e finalidades deste TO e suas clausulas 
+correspondentes, resguardando-se irrestritamente eventuais direitos de propriedade intelectual. 
+CLAUSULA DECIMA PRIMEIRA — DOS DIREITOS RELATIVOS A PROPRIEDADE INTELECTUAL 
+Os direitos relativos a propriedade intelectual, porventura resultantes de atividades realizadas em decorréncia do Projeto financiado pelo 
+presente TO, serdo objeto de protecdo, em conformidade com 
+a 
+legislacdéo vigente, 
+e terdo como cotitulares 
+a OUTORGADA 
+e 
+a 
+OUTORGANTE, observando-se as normas do CNPq e 
+respeitados os direitos do autor, inventor ou melhorista e as proporcdes dos recursos 
+alocados pelas instituigdes envolvidas no desenvolvimento de cada tecnologia. 
+PARAGRAFO PRIMEIRO: A exploracado comercial dos direitos de propriedade intelectual e os contratos de licenca de exploracdo deverdo ser 
+ajustados de comum acordo entre os cotitulares do direito, nos Contratos de Cotitularidade e de Transferéncia de Tecnologia. 
+PARAGRAFO SEGUNDO: Nos casos de interesse pUblico, continuidade da situacao de emergéncia ou do estado de calamidade publica em 
+decorréncia da pandemia de Covid-19, podera ser concedida licenca temporaria, ndo exclusiva e a titulo ndo oneroso, para instituicdes 
+publicas e demais entes governamentais, do Brasil ou do exterior, produzirem e usarem as propriedades intelectuais decorrentes deste 
+Projeto, com o objetivo Unico e exclusivo de atender a populacdo de forma gratuita. A licenga aqui prevista ndo dara direito a exploracdo 
+comercial, bem como colocar a venda ou vender os produtos, processos ou servicos relativos as propriedades intelectuais por parte dos 
+licenciados. 
+PARAGRAFO TERCEIRO: Qualquer cotitular do direito e/ou qualquer membro de sua equipe, somente podera explorar diretamente os 
+resultados advindos do projeto objeto deste TO, mediante comum acordo entre os demais cotitulares, expresso em termo escrito 
+e 
+assinado por todos. 
+PARAGRAFO QUARTO: Os direitos sobre a propriedade intelectual observara a legislacdo vigente, notadamente a legislacdo de propriedade 
+intelectual, em especial a Lei n. 9.279/96 (Lei de Propriedade Industrial), Lei n. 9.609/98 (Lei de Programas de Computador), Lei n. 9.610/98 
+(Lei de Direitos Autorais), Lei 
+n. 9.456/97 (Lei de Protecdo de Cultivares), Decreto n. 2.553/98 (que disp6e sobre a obrigatoriedade de 
+premiacdo 
+a inventores 
+de 
+instituicdes 
+publicas), 
+Lei 
+n. 10.973/04 
+(Lei 
+de Inovacdo), 
+Decreto 
+n. 9.283/18 (Regulamenta 
+a 
+Lei 
+n. 
+10.973/04),Lei n. 13.243/16, Lei Estadual n. 17.348/08 (Lei Mineira de Inovacdo), Decreto n. 47.442/18, bem como Deliberacdo n. 72/13 da 
+FAPEMIG, e demais legislagdées aplicaveis a propriedade intelectual, incluindo as normas do CNPq. 
+CLAUSULA DECIMA SEGUNDA - DOS RESULTADOS ECONOMICOS 
+Os ganhos econémicos auferidos em eventual exploracdo comercial de pesquisas e inovacdes resultantes do projeto identificado no 
+preambulo deste TO, inclusive na hipdtese de transferéncia do direito de exploracdo a terceiros, serdo partilhados entre os cotitulares do 
+https:/Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1 7358087 &codigo_crc=O5A2FEF3&has... 
+24/31
+ 24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+direito, na proporcdo equivalente ao montante do valor agregado, investido na pesquisa, inovacdes e protecdo a propriedade intelectual, 
+cujos percentuais serao definidos nos respectivos Contratos de Cotitularidade e de Transferéncia de Tecnologia. 
+PARAGRAFO UNICO: E assegurada ao pesquisador participacao minima de 5% (cinco por cento) e maxima de 1/3 (um terco) nos ganhos 
+econémicos, resultantes de contratos de transferéncia de tecnologia e de licenciamento para outorga de direito de uso ou de exploracdo de 
+criagdo protegida da qual tenha sido o autor, inventor ou melhorista, nos termos da Lei Federal n. 10.973/2004 (Lei de Inovacdo),da Lei 
+Federal n. 13.243/2016, da Lei Estadual n. 17.348/2008 (Lei Mineira de Inovacdo), do Decreto Estadual n. 47.442/2018 e da Deliberacao n. 
+72/2013 da FAPEMIG. 
+CLAUSULA DECIMA TERCEIRA — DOS EQUIPAMENTOS 
+Os bens méveis adquiridos com recursos da OUTORGANTE destinados ao projeto ora financiado poderdo ser doados aos orgdos 
+e 
+entidades da Administragéo Publica Direta 
+e Indireta, ou poderao ter o uso permitido as entidades privadas, nos termos da Portaria 
+FAPEMIG n. 34/2019. 
+PARAGRAFO PRIMEIRO: A doacdo de que trata o caput efetivar-se-4 automaticamente desde a aquisic’o do bem em favor da entidade 
+publica executora do projeto, nos termos do artigo 13 da Lei Federal 
+n. 13.243/2016 c/c incisos XV, do art. 79 do Decreto Estadual n. 
+47.442/2018. 
+PARAGRAFO SEGUNDO: Em caso de reprovacdo da prestacdo de contas final, o valor referente ao bem porventura doado devera ser 
+ressarcido a OUTORGANTE. 
+PARAGRAFO TERCEIRO: A permissdo de uso de que trata o caput efetivar-se-4, por meio da formalizacdo de termo de permissdo de uso, a 
+ser emitido apos a aprovacdo, pelo Ordenador de Despesas, da Prestacgdo de Contas Final do Projeto. 
+PARAGRAFO QUARTO: A doacdo/permissdo de que trata esta Clausula sera feita mediante encargo, que consiste na obrigatoriedade da 
+utilizagdo dos bens somente nas atividades correlatas com as finalidades da FAPEMIG, relacionadas 
+a pesquisa, ciéncia, tecnologia 
+e 
+inovacao e nado sera permitida a doacgdo, permissdo ou venda, pela OUTORGADA, a terceiros. 
+PARAGRAFO QUINTO: Em caso de desvio ou inutilizagao dos bens, a OUTORGADA responsavel devera ressarcir 4 OUTORGANTE/CNPg, o 
+valor correspondente, mediante prévio procedimento administrativo para apuracgdo de dolo ou culpa, sendo ainda possivel a reposigdo do 
+bem, com caracteristicas compativeis, para o cumprimento de sua finalidade. 
+PARAGRAFO SEXTO: Compete 4 OUTORGADA responsabilizar-se pela adequada guarda, manutencdo e utilizacao dos bens adquiridos com 
+recursos deste TO, assegurando 
+o seu uso nas atividades de pesquisa objeto deste projeto, bem como comunicar 
+a OUTORGANTE 
+quaisquer fatos que possam interferir na posse, na propriedade ou no valor do bem adquirido em decorréncia do presente TO. 
+PARAGRAFO SETIMO: A OUTORGANTE podera dar outra destinacao aos bens adquiridos com os recursos provenientes deste TO, na 
+hipdtese dos OUTORGADOS descumprirem o presente Termo, ou caso o interesse publico justifique a destinacdo diversa aos referidos 
+bens. 
+CLAUSULA DECIMA QUARTA — DA LEGISLACAO APLICAVEL 
+As normas de concessdo, execucado, pagamento, acompanhamento e prestacdo de contas do presente TO sao as previstas nas Leis Federais 
+n. 13.243/2016, n. 10.973/2004 e, no que couber, a Lei n. 8.666/1993, Lei Estadual n2 22.929/2018, Decreto Estadual n. 47.442/2018 e 
+demais legislacdes aplicaveis ao presente instrumento, além do regramento constante no Manual da FAPEMIG e demais normas internas 
+da OUTORGANTE, que poderdo ser alteradas a critério desta, bem como as prescritas na Chamada Publica identificada no predmbulo, 
+aplicando-se também os principios que regem a atuacdo da administracgdo publica, em especial os principios da legalidade, impessoalidade, 
+moralidade, publicidade 
+e eficiéncia. Aplicam-se também ao presente TO, de forma subsididria, o Decreto Federal 
+n. 8.241/2014 e o 
+Decreto Estadual n. 46.319/2013. 
+CLAUSULA DECIMA QUINTA — DA INADIMPLENCIA 
+A violagdo de qualquer clausula do presente TO importara em suspensdo do apoio concedido, e, eventual, rescisdo deste TO, além da 
+devolucdo dos recursos recebidos, devidamente corrigidos e acrescidos de juros legais e retirada dos bens adquiridos, sem prejuizo de 
+outras sancoes legais cabiveis. 
+CLAUSULA DECIMA SEXTA — DA DENUNCIA E DA RESCISAO 
+https:/Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1 7358087 &codigo_crc=O5A2FEF3&has... 
+25/31
+ 24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+O presente TO podera ser denunciado a qualquer tempo, por quaisquer dos participes, que permanecerdao obrigados aos compromissos 
+assumidos até 
+a efetivagdo do ato, mediante notificagdo com antecedéncia minima 
+de trinta 
+dias, em face de superveniéncia 
+de 
+impedimento que o torne formal ou materialmente inexequivel. 
+PARAGRAFO PRIMEIRO: Constituem motivos para rescisdo unilateral do TO, a critério da OUTORGANTE 
+as hipoteses previstas no art. 66 
+do Decreto Estadual n. 46.319/13, podendo ainda a OUTORGANTE cancelar ou suspender, a seu exclusivo critério e a qualquer tempo, os 
+beneficios definidos, sem 
+que 
+disso 
+resulte 
+direito algum 
+a 
+reclamacdo ou indenizagdo 
+por qualquer das 
+partes, com 
+relacdo 
+a 
+OUTORGANTE. 
+PARAGRAFO SEGUNDO: No caso de descumprimento de quaisquer de suas cldusulas e condicdes, poderdé o PARTICIPE prejudicado dar por 
+findo o presente TO, independentemente de prévia interpelacdo judicial ou extrajudicial, respondendo o PARTICIPE inadimplente pelos 
+prejuizos ocasionados, salvo hipdtese de caso fortuito ou de forga maior, devidamente demonstrados. 
+CLAUSULA DECIMA SETIMA — DAS ALTERAGOES 
+As Cldusulas do presente Termo de Outorga poderdo ser alteradas de comum acordo pelos PARTICIPES por meio de TERMO ADITIVO, nos 
+termos do inciso XIll, do art. 79 do Decreto 47.442/2018. 
+CLAUSULA DECIMA OITAVA — DA ADESAO AS CLAUSULAS E CONDICGES 
+Os OUTORGADOS declaram que aceitam, sem restrigdes, o presente apoio como esta deferido e se responsabilizam pelo fiel cumprimento 
+do presente TO em todas as suas clausulas e condicdes. 
+CLAUSULA DECIMA NONA — DA GESTAO E FISCALIZACAO 
+A OUTORGADA e OUTORGANTE deverdao indicar, expressamente, um responsavel para controlar 
+e fiscalizar 
+a execucdo do presente 
+instrumento, nos termos da Lei Estadual 22.929/2018, podendo a 
+indicacdo ser feita no Plano de Trabalho ou em documento apartado, o 
+qual passara a fazer parte integrante e indissociavel do presente TO. 
+CLAUSULA VIGESIMA — PRAZO PARA ASSINATURA 
+Os PARTICIPES terao prazo maximo de 10 (dez) dias para realizar a assinatura eletr6nica do presente TO, a contar da sua disponibilizacdo 
+via SEI, sob pena de cancelamento do apoio nele previsto. 
+CLAUSULA VINTE PRIMEIRA — DA PUBLICACAO 
+O extrato deste TO sera publicado no Diario Oficial do Estado de Minas Gerais, por conta e Gnus da OUTORGANTE. 
+CLAUSULA VIGESIMA SEGUNDA — DO FORO 
+Para dirimir quaisquer duvidas ou litigios decorrentes do presente TO, fica eleito o foro da Comarca de Belo Horizonte ou, sendo qualquer 
+dos OUTORGADOS entidade publica federal, fica eleita a Justica Federal da Secdo Judicidria de Minas Gerais — Belo Horizonte. 
+Belo Horizonte, <<TO_DATAEMISSAQO>>. 
+OUTORGANTE 
+REPRESENTANTE LEGAL 
+https:/Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1 7358087 &codigo_crc=O5A2FEF3&has... 
+26/31
+ 24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+OUTORGADA 
+<<DESEN_DIRIGENTE>> 
+COORDENADOR 
+<<SOLICITANTE>> 
+DPP 
+ANEXO Ill - PLANO DE TRABALHO 
+  
+1 - Concedente 
+  
+Razdo Social: 
+CNPJ: 
+  
+  
+  
+2 — Identificac¢ao do Proponente 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Razao Social 
+CNPJ: 
+lEndereg¢o: 
+Municipio: 
+Telefone: 
+INome do Responsavel Legal: 
+CPF: 
+CL./Orgao Expedidor: 
+Cargo: 
+Data Venc. Mandato: 
+lEndereco Residencial: 
+CEP: 
+  
+  
+INome do Coordenador: 
+  
+Enderego Eletrénico (e-Mail): 
+  
+  
+  3 — CARACTERIZACAO DA PROPOSTA 
+https:/Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1 7358087 &codigo_crc=O5A2FEF3&has... 
+27/31
+ 24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+  
+3.1 Titulo do Projeto: 
+  
+3.2 Prazo de execucdo: 
+  
+3.3 Area do conhecimento: 
+  
+3.4 Subarea do conhecimento: 
+  
+3.5 Linha TemAtica - EIXO: 
+  
+3.6 Resumo da proposta: 
+  
+3.7 Introducao e estado atual do conhecimento sobre o tema: 
+  
+3.8 Descricao, justificativa e objetivos do projeto (detalhamento da proposta) 
+  
+a) 
+Qual é 0 objetivo geral do projeto? 
+  
+lb) 
+Qual (is) é (s&o0) os objetivos especificos do projeto? 
+  
+neste projeto. 
+c) 
+Qual é o problema abordado neste projeto? Apresente de forma clara e objetiva a pergunta ou a hipdtese principal que sera investigada 
+  
+d) 
+Qual éa 
+justificativa da pesquisa a ser realizada neste projeto e a relevancia dos conhecimentos pretendidos? Quais so os principais 
+lbeneficios e resultados esperados de seu desenvolvimento? 
+  
+RESUMO OU PARA A PUBLICACAO INTEIRA, MENCIONANDO A PRINCIPAL INFORMAGAO DE CADA UMA DAS 
+PUBLICACOES} 
+e) 
+Cite as trés principais referéncias bibliograficas (marco teérico) nas quais se baseia a pesquisa proposta. {INCLUIR UM LINK PARA O 
+  
+Qual é a abordagem teérico metodolégica a ser utilizada? (para projetos teéricos) 
+f) 
+Qual é a estratégia experimental a ser adotada para a obten¢do da resposta ao problema formulado? (para projetos experimentais) E/OU 
+  
+ig) 
+Metodologia proposta: 
+  
+lh) 
+Mostre por que a equipe tem capacidade de realizar o projeto 
+  
+—= 
+— 
+Cite 3 (trés) publicagédes de trabalhos da equipe sobre o tema 
+  
+i) 
+Informe os resultados e produtos esperados e possiveis impactos para o SUS 
+  
+k) 
+| Como os conhecimentos gerados poderfo ser aplicados no SUS? 
+  
+1) 
+Informe se ja ha interesse demonstrado de integrantes do SUS (publicos ou privados) de modo a assegurar efetiva transferéncia 
+tecnoldgica, se for 0 caso. 
+  
+im) 
+Quais os possiveis desdobramentos desta pesquisa para o avanco do conhecimento sobre o tema e formacdo de recursos humanos? 
+  
+3.10 Locais que serfo realizadas as atividades do projeto - Identificacgao da macro regiao onde o projeto se aplica 
+  
+a) Pais 
+  
+lb) Estado 
+  
+https://Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1 7358087 &codigo_crc=O05A2FEF3&has... 
+  
+28/31
+ 24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+  
+c) Municipio 
+  
+  
+4 - Cronograma de Execucéo (Meta, Etapa Ou Fase) 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Indicador Fisico 
+Duracgdo 
+Etapa / Fase 
+Pe 
+Especificagao 
+Unidade 
+Quantidade 
+Inicio 
+Término 
+Meta 
+5- Plano de Aplicacéo dos Recursos 
+Demonstrativo de Recursos Solicitados ao Concedente 
+Custos de Investimentos e/ou Custeio 
+Valor 
+Especificagao 
+Unidade De 
+. 
+antidade 
+i 
+Medida 
+Qu 
+Unit ou Per Capta 
+Mensal 
+Anual / Total 
+6 — Cronograma de Desembolso Financeiro 
+Concedente 
+Més 
+Ano 
+Valor 
+  
+  
+  
+  
+7 — Reservado ao Concedente 
+  
+Proponente: 
+CNPJ: 
+  
+  
+Unidade Gestora: 
+  
+Classificagéo Orcamentaria: 
+  
+Periodo de Vigéncia: 
+  
+Valor total: 
+  
+Objetivo do Instrumento Juridico: 
+  
+18 — Declaracao 
+  
+Nome e assinatura do Representante Legal do Proponente: 
+INa qualidade de representante legal do proponente, declaro, para fins de prova junto ao concedente, para os efeitos e sob as penas da lei, que 
+inexiste qualquer débito em mora ou situacg&o de inadimpléncia com o Estado de Minas Gerais ou qualquer érg&o ou entidade da Administracgao 
+Publica Estadual, que impega a transferéncia de recursos de dotagdes consignadas no orgamento do Estado, na forma deste Plano de Trabalho, 
+dessa forma submeto o presente documento a apreciacdo de V.Sa. 
+  
+https:/Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1 7358087 &codigo_crc=O5A2FEF3&has... 
+29/31
+ 24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+Data: 
+  
+‘Aprovo o presente Plano de Trabalho e autorizo a celebrag&o do Termo de Outorga 
+Concedente: Fundagéo de Amparo a Pesquisa do Estado de Minas Gerais - FAPEMIG 
+IResponsavel Legal pela Instituigéo Executora: 
+Coordenador: 
+IResponsavel Legal pela Institui¢&o Gestora: 
+  
+  
+  
+ANEXO IV - DECLARACAO DE COMPROMISSO DA INSTITUICAO EXECUTORA 
+Chamada FAPEMIG 003/2020 
+Declaragao de Compromisso da Instituigao Executora 
+Declaro que a << nome da ICT >> tem grande interesse no desenvolvimento do projeto << titulo>> a ser coordenado pelo pesquisador << 
+nome do coordenador >>, que sera responsavel pela coordenacdo do projeto ora apresentado, desde 
+a submissdo da proposta até a 
+prestacdo de contas e apresentacdo do Relatério Técnico Cientifico. O mesmo sera, ainda, responsavel pela interlocucgao, junto a < FAPEMIG 
+ou Fundacdo de Apoio, caso exista>>, em relagdo a quest6es que porventura possam surgir durante a execucdo do projeto. 
+Confirmo o nosso compromisso de disponibilizar os seguintes tipos de apoio para a execucdo das atividades previstas na presente proposta: 
+Instalacdes fisicas: 
+Equipamentos: 
+Recursos humanos: 
+dusvuueuuvescusueuuuensueeeaunsauueeeuseeenss p vecereeees OG siesssesssseeereeessees CE 2020, 
+Representante Legal da Proponente 
+(Assinatura e Carimbo) 
+ANEXO V 
+- PERMISSOES E AUTORIZACOES ESPECIAIS DE CARATER ETICO OU LEGAL 
+a. Autorizacgdo do Incra permitindo a pesquisa em terras indigenas. 
+b. Sistema de Autorizacao e Informacado em Biodiversidade/ Sisbio 
+Autorizagdes de pesquisa, ou dos respectivos protocolos de requerimento junto aos 6rgdos competentes para coleta e captura de material 
+bioldgico. 
+c. Certificado de qualidade em Biosseguranca 
+Projetos que envolvam experimentos com organismos geneticamente modificados devem informar o numero de registro 
+e data da 
+publicacgdo do Certificado de Qualidade em Biosseguranca (CQBio-CTNBio). 
+d. Autorizacdo dos érgaos competentes (CGEN, CNPq, IBAMA, IPHAN) para acesso ao patrimGnio genético para fins de pesquisa cientifica. 
+e. EIA-RIMA 
+Autorizacado do érgao competente na area ambiental, para projetos que gerem riscos de impacto ao meio ambiente. 
+f. Parecer do Comité de Etica 
+Comprovante de submissdo ou parecer do Comité de Etica em pesquisa (CEP) credenciado pelas respectivas Comissdes Nacionais para 
+projetos que envolvam pesquisa clinica, epidemiolégica ou experimental com seres humanos e/ou animais. 
+https:/Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1 7358087 &codigo_crc=O5A2FEF3&has... 
+30/31
+ 24/07/2020 
+SEI/GOVMG - 17358087 - FAPEMIG - Chamada 
+ANEXO VI - DECLARACAO 
+DECLARACAO 
+A entidade (NOME DA ENTIDADE), 
+inscrita no CNPJ sob o n. (CNPJ DA ENTIDADE), declara que nado é nominalmente vinculada a candidato 
+ou por esse manda, em observancia ao § 11 do art. 73, da Lei Federal n. 9.504/1997, o qual veda que em ano eleitoral haja o inicio ou a 
+continuidade de programa social executado por entidade nominalmente vinculada a candidato ou por este mantida. 
+Esta entidade obriga-se a informar imediatamente a FAPEMIG no caso de superveniéncia de referido fato, hipdtese em que o apoio sera 
+suspenso. 
+(DEVERA ASSINAR ESTA DECLARACAO O RESPONSAVEL LEGAL DA ENTIDADE) 
+Documento assinado eletronicamente por Paulo Sergio Lacerda Beirao, Presidente (a) em Exercicio, em 24/07/2020, as 16:23, conforme 
+hordrio oficial de Brasilia, com fundamento no art. 62, § 12, do Decreto n2 47.222, de 26 de julho de 2017. 
+ji 
+sel! 
+F o 
+assinatura 
+eletrénica 
+  
+  
+   
+  
+  
+Referéncia: Processo n2 2070.01.0002884/2020-30 
+SEI n? 17358087 
+https://Awww.sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verificador=1 7358087 &codigo_crc=O5A2FEF3&has... 
+31/31
+ 12/11/2020
+SEI/GOVMG - 21689086 - Aviso
+https://www.sei.mg.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=25457820&infra…
+1/1
+Aviso nº 1/2020-FAPEMIG/DPP
+Belo Horizonte, 11 de novembro de 2020.
+  
+ 
+  
+Assunto: AVISO DE DILAÇÃO DE PRAZOS  - CHAMADA FAPEMIG 003/2020 - MS/CNPQ/FAPEMIG/SES
+  
+A Fundação de Amparo à Pesquisa do Estado de Minas Gerais (FAPEMIG) torna pública a dilação de prazos
+da Chamada n. 003/2020 “PROGRAMA PESQUISA PARA O SUS: GESTÃO COMPARTILHADA EM SAÚDE –
+PPSUS”, cujo extrato foi publicado no Diário Oficial do Estado de Minas Gerais, no dia 25 de julho de 2020:
+ 
+1) Os prazos estabelecidos no Calendário que consta no item 16 ficam prorrogados conforme a seguir:
+ 
+ETAPA
+PRAZO
+Divulgação dos resultados na página da Internet da FAPEMIG.
+Até 16/11/2020
+Prazo para interposição de recursos.
+10 (dias) corridos após a divulgação do
+resultado na página da Internet da
+FAPEMIG.
+Análise e julgamento dos recursos.
+25/11/2020 a 03/12/2020
+Divulgação do resultado final – após análise dos recursos – na página
+da Internet da FAPEMIG e no Diário Oficial do Estado de Minas Gerais.
+04/12/2020
+Contratação das propostas aprovadas.
+A par�r de 07/12/2020
+ 
+Belo Horizonte, 11 de novembro de 2020
+ 
+Rafael Marques Pessoa
+Assessoria Técnica de Ciência e Inovação
+Documento assinado eletronicamente por Rafael Marques Pessoa, Assessor, em 12/11/2020, às
+11:44, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 47.222,
+de 26 de julho de 2017.
+A auten�cidade deste documento pode ser conferida no site
+h�p://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 21689086
+e o código CRC F8366203.
+Referência: Processo nº 2070.01.0002884/2020-30
+SEI nº 21689086

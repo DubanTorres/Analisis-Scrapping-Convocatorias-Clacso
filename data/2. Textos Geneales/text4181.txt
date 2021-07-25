@@ -1,0 +1,1271 @@
+1 
+ 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+Edital FAPERJ Nº 11/2021 – PROGRAMA DE APOIO À PROJETOS 
+CIENTÍFICOS E TECNOLÓGICOS EM MOBILIDADE URBANA – 2021 
+A Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de 
+Janeiro – FAPERJ, vinculada à Secretaria de Estado de Ciência e Tecnologia 
+e inovação – SECTI faz saber, por via do presente documento, que estão 
+abertas as inscrições para a seleção de propostas no âmbito do “Programa de 
+Apoio à Projetos Científicos e Tecnológicos em Mobilidade Urbana - 2021” 
+(Processo SEI-260003/001335/2020), conforme segue: 
+1. OBJETIVOS 
+1.1 Apoiar projetos científicos e tecnológicos em Mobilidade Urbana, com 
+duração de 36 (trinta e seis) meses; 
+1.2 Estimular a realização de projetos em pesquisa básica, engenharia, ciências 
+sociais, ciências humanas, ciência da computação, planejamento urbano, 
+desenvolvimento tecnológico e inovação; 
+1.3 Os projetos de pesquisa devem abordar um dos seguintes temas específicos: 
+1.3.1 Logística de Transportes Urbanos; 
+1.3.2 Veículos Coletivos Autônomos; 
+1.3.3 Segurança Cibernética para veículos e infraestrutura (sinalização) 
+conectados; 
+1.3.4 Acessibilidade em Mobilidade Urbana; 
+1.3.5 Planejamento 
+Urbano 
+visando 
+redução 
+na 
+necessidade 
+de 
+deslocamento dos cidadãos; 
+1.3.6 Redução de acidentes para veículos vulneráveis (motos, bicicletas, 
+patinetes); 
+1.3.7 Alternativas de financiamento e modelos de negócio para Mobilidade 
+Urbana; 
+1.3.8 Impacto na inserção social da redução do tempo gasto em 
+deslocamentos; 
+1.3.9 Questões de ética e legais, incluindo em um cenário dominado por 
+veículos autônomos; 
+ 2 
+ 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+1.3.10 Regulamentação para transportes urbanos (para situação atual e para 
+o futuro). 
+2. ELEGIBILIDADE E RESTRIÇÕES 
+2.1 Enquadramento 
+2.1.1 São elegíveis como proponente: 
+• 
+Pessoa Física ou Pesquisador que possua vínculo funcional ou empregatício 
+com Instituição de Ciência e Tecnologia (ICT) ou Empresa Pública Brasileira 
+residente ou sediada no Estado do Rio de Janeiro; ou 
+• 
+Empresa 
+Privada 
+Brasileira 
+de 
+Pequeno 
+e 
+Médio 
+Porte 
+ou 
+Microempreendedor Individual, residente ou sediada no Estado do Rio de 
+Janeiro. 
+2.1.2 Quando o proponente for Empresa Privada Brasileira de Pequeno e 
+Médio Porte ou Microempreendedor Individual, o mesmo deverá 
+comprovar faturamento nos últimos 12 (doze) meses (contados a partir 
+da data de publicação do Edital); 
+2.1.3 As propostas deverão apresentar declaração de anuência das ICTs 
+e/ou das empresas envolvidas no processo de desenvolvimento; 
+2.2 As propostas de caráter tecnológico serão enquadradas de acordo com seu 
+Nível de Maturidade Tecnológica (TRL – Technology Readiness Level) 
+definido como “um sistema de medição e uma métrica sistemática 
+empregada na avaliação da maturidade de uma tecnologia particular, assim 
+como na comparação da maturidade de diferentes tipos de tecnologias” (ver 
+em 
+seer.cgee.org.br/index.php/parcerias_estrategicas/article/viewFile/867/793). 
+Os níveis de Maturidade Tecnológica obedecem aos seguintes critérios: 
+• 
+TRL 1 - Princípios Básicos Observados e Reportados; 
+• 
+TRL 2 - Conceito e/ou Aplicação Tecnológica Identificada ou Formulada; 
+• 
+TRL 3 - Função Crítica Analítica e Experimental e/ou Prova de Conceito 
+Característica; 
+ 3 
+ 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+• 
+TRL 4 - Componente e/ou Protótipo Rústico Validado em Ambiente de 
+Laboratório; 
+• 
+TRL 5 - Componente e/ou Protótipo Rústico Validado em Ambiente 
+Relevante; 
+• 
+TRL 6 - Modelo de Sistema / Subsistema ou Protótipo Demonstrado em 
+Ambiente Relevante; 
+• 
+TRL 7 - Protótipo de Sistema Demonstrado em Ambiente Operacional; 
+• 
+TRL 8 - Sistema Real Completado e Qualificado através de Testes e 
+Demonstrações; 
+• 
+TRL 9 - Sistema Real Provado com Sucesso de Operação em Missão. 
+2.3 Os Projetos submetidos para este Edital devem se enquadrar em umas das 
+três faixas de financiamento A, B ou C, conforme descrito abaixo: 
+2.3.1 FAIXA A: 
+• 
+Projetos de pesquisa básica e aplicada. No caso dos projetos de 
+caráter tecnológico, estarem enquadrados no Nível de Maturidade 
+Tecnológica – TRL 1 a 3; 
+• 
+Serem constituídos por equipes com, no mínimo, 3 (três) 
+pesquisadores ou engenheiros, sendo pelo menos um com bolsa de 
+produtividade PQ1 do CNPq ou de Cientista do Nosso Estado – CNE 
+da FAPERJ e um segundo com bolsa de produtividade PQ2 do CNPq 
+ou de Jovem Cientista do Nosso Estado – JCNE da FAPERJ; 
+2.3.2 FAIXA B: 
+• 
+Projetos de pesquisa básica e aplicada. No caso dos projetos de 
+caráter tecnológico, estarem enquadrados no Nível de Maturidade 
+Tecnológica – TRL 1 a 3; 
+ 
+ 4 
+ 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+• 
+Serem constituídos por equipes com, no mínimo, 5 (cinco) 
+pesquisadores ou engenheiros, sendo pelo menos 2 com bolsa de 
+produtividade PQ1 do CNPq ou de Cientista do Nosso Estado – CNE 
+da FAPERJ. Equipes com competência multidisciplinar terão 
+prioridade; 
+2.3.3 FAIXA C: 
+• 
+Projetos que resultem em intervenção (p.ex., social, planejamento) no 
+cenário atual. Nos projetos de caráter tecnológico, estarem 
+enquadrados no Nível de Maturidade Tecnológica – TRL 4 a 9; 
+• 
+Serem constituídos por equipes com um coordenador com pelo 
+mínimo o nível de mestrado e, no mínimo, 3 (três) pesquisadores ou 
+profissionais da área tecnológica; 
+• 
+Os proponentes Empresas Privadas Brasileiras de Pequeno e Médio 
+Porte e Microempreendedores Individuais deverão comprovar 
+faturamento nos últimos 12 (doze) meses. 
+2.4 Terão prioridade as propostas que envolvam a parceria entre ICTs e 
+empresas e prevejam um avanço no seu Nível de Maturidade Tecnológica; 
+2.5 É de responsabilidade do proponente e integrantes associados a cada 
+equipe de desenvolvimento do projeto, comprovar sua experiência no tema 
+do Edital e o Nível de Maturidade Tecnológica da proposta. Essa 
+comprovação poderá ser feita por meio do Currículo Lattes, declaração de 
+terceiros, clientes e/ou parceiros no desenvolvimento de outros produtos ou 
+processos, experiência prévia em projetos de P&D e sinopse descritiva dos 
+processos e produtos desenvolvidos, conforme o caso; 
+2.6 Restrições: 
+2.6.1 Cada proponente poderá submeter apenas um projeto e não poderá 
+integrar mais de uma equipe concorrente ao presente Edital; 
+2.6.2 A equipe proponente deverá ser a principal responsável pelo 
+desenvolvimento do projeto, conforme o objetivo do Edital; 
+ 
+ 5 
+ 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+2.6.3 O proponente deverá realizar as atividades do projeto no Estado do 
+Rio de Janeiro. Excepcionalmente, atividades complementares ou de 
+certificação, homologação e testes poderão ser realizadas em outros 
+Estados ou fora do País. Para esse fim, as atividades a ser custeadas 
+com 
+os 
+recursos 
+solicitados 
+deverão 
+estar 
+adequadamente 
+identificadas no projeto submetido; 
+2.6.4 O proponente deverá ser responsável pelas informações referentes à 
+gestão do projeto e pela conta bancária exclusiva para a 
+movimentação dos recursos; 
+2.6.5 Todos membros da equipe do projeto devem atestar que concordam 
+em participar da proposta submetida a este Edital; 
+2.6.6 O prazo total para execução do projeto será de até 36 (trinta e seis) 
+meses, contados a partir da data de depósito da primeira parcela; 
+2.6.7 As propostas submetidas neste Edital que não se enquadrarem nos 
+objetivos, critérios de elegibilidade, ou que sejam similares a propostas 
+já apoiadas em outros editais ou programas lançados pela FAPERJ 
+serão desclassificadas. 
+2.6.8 Pesquisadores (coordenador ou membros da equipe) em atraso ou 
+com pendências na apresentação de relatórios científicos ou de 
+prestação de contas (inadimplentes) junto a FAPERJ NÃO poderão 
+concorrer. A eventual aceitação da documentação não garante que o 
+projeto será avaliado, caso seja constatada inadimplência do 
+proponente (e demais membros da equipe); 
+2.6.9 O proponente coordenador e quaisquer membros da equipe ficarão 
+impedidos de participar da seleção e de celebrar com a Administração 
+Pública do Estado do Rio de Janeiro enquanto perdurarem os efeitos 
+das sanções de: 
+a) suspensão temporária da participação em licitação e impedimento 
+de contratar imposta pelo Estado do Rio de Janeiro, suas 
+Autarquias ou Fundações (art. 87, III, da Lei n° 8.666/93); 
+ 6 
+ 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+b) impedimento de licitar e contratar imposta pelo Estado do Rio de 
+Janeiro, suas Autarquias ou Fundações (art. 7° da Lei n° 
+10.520/02); 
+c) declaração de inidoneidade para licitar e contratar imposta por 
+qualquer Ente ou Entidade da Administração Federal, Estadual, 
+Distrital e Municipal (art. 87, IV da Lei n° 8.666/93); 
+3. Cronograma 
+ 
+Lançamento do Edital 
+20/05/2021 
+Submissão das propostas on-line 
+de 20/05/2021 a 20/06/2021 09/07/2021 
+Divulgação do resultado preliminar a partir de 22/07/2021 23/09/2021 
+Interposição de Recursos 
+7 dias úteis a contar da data de 
+publicação dos resultados preliminares 
+Divulgação do resultado final 
+A partir de 12/08/2021 21/10/2021 
+ 
+4. RECURSOS FINANCEIROS 
+4.1 Os recursos para financiamento do presente Edital são de R$ 
+30.000.000,00 (trinta milhões de reais) definidos na Programação 
+Orçamentária da FAPERJ, a serem pagos em três parcelas, podendo ser 
+incluídos recursos adicionais de no máximo R$ 7.500.000,00 (sete milhões 
+e quinhentos mil reais) a critério da diretoria da Fundação, dependendo da 
+demanda qualificada; 
+4.2 Para projetos enquadrados na FAIXA A – Serão contempladas até 15 
+(quinze) propostas com valor máximo de R$ 500.000,00 (quinhentos mil 
+reais) cada uma, desde que não ultrapassem os recursos para 
+financiamento do presente Edital; 
+4.3 Para projetos enquadrados na FAIXA B – Serão contempladas até 15 
+(quinze) propostas com valor máximo de R$ 1.000.000,00 (um milhão de 
+reais) cada uma, desde que não ultrapassem os recursos para 
+financiamento do presente Edital; 
+ 7 
+ 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+4.4 Para projetos enquadrados na FAIXA C – Serão contempladas até 05 
+(cinco) propostas com valor máximo de R$ 3.000.000,00 (três milhões de 
+reais) cada uma, desde que não ultrapassem os recursos para 
+financiamento do presente Edital. Os proponentes dos projetos desta Faixa 
+deverão apresentar contrapartida, de natureza financeira ou não, aos 
+recursos da FAPERJ de, no mínimo, 20% (vinte por cento) do valor 
+solicitado; 
+4.5 Os recursos disponíveis no Edital podem ser usados, dentro dos limites 
+estabelecidos nos itens 4.2, 4.3 e 4.4, por qualquer uma das FAIXAS. O 
+montante a ser efetivamente atribuído a cada FAIXA será baseado no 
+mérito dos projetos submetidos, a partir da avaliação realizada pelo Comitê 
+de Julgamento definido no item 5, e sempre respeitando o valor máximo 
+de dispêndio estabelecido no item 4.1 do presente Edital. 
+4.6 A FAPERJ se reserva o direito de reclassificar as propostas entre as 
+FAIXAS A, B e C, de acordo com a demanda qualificada e os recursos 
+disponíveis para este Edital; 
+4.7 Os proponentes poderão também utilizar recursos oriundos de outras 
+fontes que se interessarem em participar no desenvolvimento do projeto. 
+Os valores a serem alocados por essas fontes deverão constar do 
+orçamento proposto e poderão ser considerados como contrapartida; 
+4.8 Os recursos financeiros serão liberados em três parcelas anuais, sujeitas à 
+aprovação dos relatórios parciais do desenvolvimento do projeto; 
+4.9 A movimentação da conta aberta para o recebimento de recursos 
+provenientes da FAPERJ deverá seguir as Instruções para Concessão e 
+Utilização de Auxílios e Bolsas, bem como as  Instruções para Prestação de 
+Contas; 
+4.10  Contrapartida (APENAS PARA PROJETOS ENQUADRADOS NA FAIXA 
+C): 
+4.10.1 Os valores que serão aportados, pelo proponente na execução do 
+projeto como contrapartida financeira, assim como os valores 
+ 8 
+ 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+mensuráveis, correspondentes à contrapartida não financeira, devem 
+constar no orçamento proposto submetido à FAPERJ; 
+4.10.2 A contrapartida utilizada no projeto deverá ser demonstrada nos 
+relatórios técnico-científicos parciais e final e a sua aplicação 
+devidamente comprovada nas prestações de contas financeira parciais 
+e final. 
+ 
+5 
+COMITÊ DE JULGAMENTO 
+5.1 As propostas serão analisadas por um Comitê Especial de Julgamento 
+designado pela Diretoria da FAPERJ, composto por Coordenadores de Área, 
+Assessores das Diretorias, Científica e Tecnológica e/ou os Assessores ad 
+hoc, especialistas nos temas foco dos projetos (análise por pares); 
+5.2 É vedado a qualquer membro do Comitê Especial julgar projetos em que: 
+• 
+Haja interesse direto; 
+• 
+Seja cônjuge, companheiro, parente ou afim até o terceiro grau de qualquer 
+dos interessados; 
+• 
+Esteja participando seu cônjuge, companheiro ou parente, consanguíneo ou 
+afim, em linha reta ou na colateral, até o terceiro grau; 
+• 
+Esteja litigando judicial ou administrativamente com qualquer membro da 
+equipe do projeto ou seus respectivos cônjuges ou companheiros. 
+5.3 O Comitê Especial de Julgamento deverá apresentar as justificativas de 
+recomendação ou não para as propostas e, após a conclusão dos trabalhos 
+de julgamento, elaborará a relação dos projetos julgados recomendados ou 
+não recomendados, assim como outras informações e recomendações 
+julgadas pertinentes. 
+6 
+PROCESSO DE AVALIAÇÃO 
+A avaliação das propostas cumprirá as seguintes etapas: pré-qualificação, 
+avaliação de mérito, priorização e deliberação pela Diretoria da FAPERJ e 
+Análise de recursos; 
+ 9 
+ 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+6.1 PRÉ-QUALIFICAÇÃO: 
+6.1.1 Nesta fase, a área técnica da FAPERJ verificará os requisitos de 
+elegibilidade do proponente definidos neste Edital; 
+6.1.2 A proposta será desclassificada nas seguintes situações: 
+• 
+Preenchimento incompleto do Formulário de Propostas on-line, 
+segundo suas instruções de preenchimento; 
+• 
+Proposição e/ou participação de pesquisadores não-elegíveis na 
+equipe proponente; 
+• 
+Falta de qualquer documento exigido pelo Edital. 
+6.2 AVALIAÇÃO DE MÉRITO 
+6.2.1 Serão considerados os seguintes critérios para a avaliação de mérito 
+das propostas, baseados no formulário online e nos documentos 
+detalhados no ANEXO 1 deste mesmo edital: 
+6.2.1.1 Mérito técnico e/ou científico, originalidade, definição dos objetivos 
+e a sua adesão aos termos deste Edital; 
+6.2.1.2 Potencial de inovação e viabilidade da proposta; 
+6.2.1.3 Adequação dos métodos a serem empregados no projeto, 
+viabilidade do cronograma de atividades, indicadores e resultados; 
+6.2.1.4 Qualificação do proponente (coordenador) e de todos os 
+pesquisadores associados, em relação às atividades previstas 
+para a execução do projeto, quanto à qualidade e regularidade da 
+produção científica/tecnológica divulgada em veículos qualificados 
+e/ou registro e/ou licenciamento de patentes e sua contribuição 
+para formação de recursos humanos; 
+6.2.1.5 Aplicabilidade, 
+sustentabilidade 
+e 
+relevância 
+para 
+o 
+desenvolvimento científico, tecnológico, econômico, ambiental, 
+cultural e social do Estado do Rio de Janeiro; 
+6.2.1.6 Clareza quanto à definição dos indicadores de desempenho* 
+relativos ao acompanhamento e avaliação, pela FAPERJ, da 
+evolução do trabalho desenvolvido; 
+6.2.1.7 Infraestrutura disponível na instituição para a realização das 
+atividades de pesquisa relativas ao desenvolvimento do projeto; 
+6.2.1.8 Adequação do orçamento aos objetivos e metas propostas; 
+ 10 
+ 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+6.2.1.9 Apoio, articulação e integração científica entre ICTs e Empresa; 
+6.2.1.10 
+Perspectiva de aumento do Nível de Maturidade Tecnológica 
+– TRL. 
+Para cada um dos critérios de 6.2.1.1 ao 6.2.1.10 será atribuída uma nota 
+entre 0 (zero) e 10 (dez). A nota total do projeto será a soma das notas de 
+todos os dez critérios. Todos os critérios têm o mesmo peso, igual a 1 (um). 
+*Os indicadores de desempenho são instrumentos de gestão essenciais para avaliar o 
+resultado de um projeto. São exemplos de indicadores: artigos publicados em periódicos 
+indexados, orientações de IC, mestrado, doutorado e pós-doutorado, participações em 
+congressos, patentes, atividades científicas em escolas da Rede pública etc. 
+6.3 PRIORIZAÇÃO 
+6.3.1 As propostas serão classificadas pelo Comitê Especial de Julgamento 
+com base nas seguintes prioridades: 
+• 
+RECOMENDADAS COM PRIORIDADE – de acordo com os recursos 
+financeiros disponibilizados pelo Edital; 
+• 
+RECOMENDADAS SEM PRIORIDADE – para a eventual substituição 
+de propostas recomendadas com prioridade que não forem 
+implementadas; 
+• 
+NÃO RECOMENDADAS. Todos os projetos com nota total inferior a 
+70 (setenta) serão incluídos nessa categoria. Todos os processos que 
+tiverem uma nota inferior a 2,5 (dois e meio) em um dos critérios de 
+mérito também serão excluídos de consideração. 
+6.3.2 Caso haja empate na nota de dois ou mais projetos, o critério de 
+desempate será: inicialmente nota no critério 6.2.1.1 será usada para 
+desempate; caso o empate permaneça as notas nos critérios 6.2.1.2, 
+6.2.1.4, 6.2.1.3, 6.2.1.5, 6.2.1.7, 6.2.1.9 e 6.2.1.10 serão usadas nesta 
+ordem, até que não exista mais empate. 
+6.4 Deliberação pela Diretoria: 
+6.4.1 A etapa decisória será concluída pela Diretoria da FAPERJ após a 
+classificação das propostas consideradas qualificadas pelo Comitê 
+Especial de Julgamento; 
+ 11 
+ 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+6.4.2 Os resultados do julgamento preliminar e final serão divulgados na 
+página da FAPERJ (www.faperj.br) na internet, em data constante no 
+cronograma deste Edital; 
+6.4.3 O resultado do julgamento final será divulgado no Diário Oficial do 
+Estado do Rio de Janeiro; 
+6.4.4 A decisão final da Diretoria se fundamentará nos recursos financeiros 
+disponibilizados para o presente Programa. 
+6.5 Análise de Recurso: 
+6.5.1 Eventual recurso interposto ao resultado preliminar do julgamento 
+deverá ser única e exclusivamente submetido à FAPERJ, por meio do 
+SisFAPERJ, em até 07 (sete) dias úteis após a divulgação na página 
+da FAPERJ, por uma única vez, não sendo permitido novo recurso ou 
+réplica; 
+6.5.2 É vedada a inclusão de documentos e/ou fatos novos ao recurso, 
+cabendo à diretoria da FAPERJ o seu julgamento; 
+6.5.3 As instruções para o envio do recurso através do SisFAPERJ podem 
+ser consultadas no ANEXO 2. 
+7 
+PROCEDIMENTO DE INSCRIÇÃO 
+7.1 O proponente é responsável pelo preenchimento do formulário on-line no 
+sistema SisFAPERJ (com login e senha próprios associados ao CPF do 
+usuário ou CNPJ da empresa), assim como pela veracidade das informações 
+e documentos anexados; 
+7.2 Proponentes com o perfil de Pessoa Física ou Pesquisador que possuam 
+vínculo funcional ou empregatício com Instituição de Ciência e Tecnologia 
+(ICT) ou Empresa Pública Brasileira deverão submeter a proposta através do 
+CPF; 
+7.3 Proponentes com o perfil de Empresa Privada Brasileira de Pequeno e 
+Médio Porte ou Microempreendedor Individual, deverão submeter a 
+ 12 
+ 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+proposta através do CNPJ; 
+7.4 O procedimento de inscrição deverá ser realizado de acordo com o ANEXO 
+1 deste documento; 
+7.5 A FAPERJ não se responsabilizará por propostas recebidas fora do prazo 
+em decorrência de eventuais problemas técnicos e congestionamentos da 
+rede; 
+7.6 Não serão aceitas propostas submetidas por qualquer outro meio que não o 
+sistema eletrônico SisFAPERJ, tampouco após o prazo final de recebimento 
+estabelecido no item “Cronograma”. Por este motivo, e no cumprimento do 
+disposto no caput do art. 41, da Lei n.º 8.666, de 21 de junho de 1993, não 
+haverá possibilidade da proposta ser acolhida, examinada e julgada; 
+7.7 Na submissão do projeto, para esta modalidade, devem ser preenchidos 
+todos os campos das abas do formulário on-line, e anexados todos os 
+documentos solicitados. 
+8 
+ITENS FINANCIÁVEIS 
+8.1 São financiáveis itens (elementos de despesa) dos grupos de CUSTEIO e 
+CAPITAL (dependendo do perfil do proponente) indispensáveis à realização 
+do projeto, de acordo com o Classificador de Planejamento e Orçamento 
+(disponível no endereço eletrônico http://www.fazenda.rj.gov.br), e seguindo 
+as regras da FAPERJ dispostas nas INSTRUÇÕES PARA CONCESSÃO E 
+UTILIZAÇÃO DE AUXÍLIOS E BOLSAS; 
+8.1.1 Itens financiáveis no grupo CUSTEIO: 
+• 
+Serviços de terceiros (pessoas físicas e jurídicas) com caráter 
+eventual, incluindo a manutenção de equipamentos e material 
+permanente e a realização de pequenos reparos¹ e adaptações de 
+bens imóveis necessários à execução do projeto; 
+• 
+Diárias e passagens para trabalho de campo até o limite de 5% do 
+montante solicitado em despesas de custeio²; 
+• 
+Material de consumo, componentes e/ou peças de reposição de 
+ 13 
+ 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+equipamentos; 
+• 
+Despesas de importação (até o limite máximo de 18% do valor do bem 
+importado); 
+¹ Serviços de pequenos reparos e adaptações de bens imóveis são aqueles que 
+importam em modificações ou melhorias em espaço físico já existente, sem que 
+envolva alteração estrutural do imóvel e que não ultrapassem R$ 50 mil reais; 
+² Para valores de diárias, consultar Diárias para auxílios - CNPQ  
+8.1.2 Itens financiáveis no grupo CAPITAL: 
+• 
+Aquisição de material permanente e equipamentos de pequeno e médio 
+porte³; 
+³ Equipamentos de pequeno porte são aqueles com valores até R$ 100.000,00 (cem 
+mil reais); equipamentos de médio porte são aqueles com valores até R$ 600.000,00 
+(seiscentos mil reais). 
+8.2 Os proponentes Pessoa Física e Pesquisador, poderão solicitar recursos 
+financeiros para os grupos de despesas de Capital e de Custeio; 
+8.3 Os proponentes Empresas Públicas Brasileiras, Empresas Privadas 
+Brasileiras de Pequeno e Médio Porte e Microempreendedores Individuais 
+poderão solicitar recursos financeiros exclusivamente para o grupo de 
+despesas de Custeio. 
+8.4 Todos os itens financiados devem estar diretamente relacionados ao objeto 
+e às atividades da proposta; 
+8.5 Não serão permitidas despesas com a contratação ou complementação 
+salarial de funcionários técnico-administrativos e as de custeio, tais como as 
+contas de luz, água, telefone, correio, reprografia e similares, entendidas 
+como despesas de contrapartida obrigatória da instituição; similarmente, não 
+serão permitidos a aquisição de veículos automotores, o pagamento de 
+bolsas de qualquer natureza e a aquisição de equipamentos de grande porte 
+que estejam disponíveis em instituições próximas; 
+8.6 É vedado o pagamento, a qualquer título, a servidor da administração 
+pública, ou empregado de empresa pública ou de sociedade de economia 
+mista, por serviços de consultoria ou assistência técnica; 
+ 14 
+ 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+8.7 É essencial serem apresentadas as propostas orçamentárias para aquisição 
+de passagens, equipamentos, material permanente e custeio de adaptação 
+de bens imóveis; 
+8.8 Após a concessão do fomento, não são permitidas modificações entre os 
+grupos custeio e capital. 
+9 
+PRESTAÇÃO DE CONTAS 
+9.1 O outorgado deverá apresentar à FAPERJ relatórios técnico-científicos 
+parciais ao final da execução de cada parcela do recurso financeiro recebido, 
+como também, relatório técnico-científico final, em conformidade com o 
+disposto nas Instruções para Concessão e Utilização de Auxílios e Bolsas, 
+disponíveis na página eletrônica da FAPERJ. 
+9.2 A liberação da segunda parcela dos recursos financeiros estará 
+condicionada à apresentação à FAPERJ e aprovação do Relatório Técnico-
+Científico Parcial, relativo à execução da primeira parcela do auxílio sobre o 
+desenvolvimento da pesquisa, comprovando a observância do cronograma 
+previamente estipulado; nessa ocasião, cada Proposta apoiada por este 
+Edital deverá estar disponível para eventual apresentação de seus 
+resultados parciais, em data e local a serem marcados em comum acordo 
+com a diretoria da FAPERJ. 
+9.3 A liberação da terceira parcela dos recursos financeiros estará condicionada 
+à apresentação à FAPERJ e aprovação do Relatório Técnico-Cientifico 
+Parcial, relativo à execução da segunda parcela do auxílio sobre o 
+desenvolvimento da pesquisa, comprovando a observância do cronograma 
+previamente estipulado; nessa ocasião, cada Proposta apoiada por este 
+Edital deverá estar disponível para eventual apresentação de seus 
+resultados parciais, em data e local a serem marcados em comum acordo 
+com a diretoria da FAPERJ. 
+9.4 Ao final da execução do projeto deverá ser apresentado o Relatório Técnico-
+Científico Final no prazo máximo de até 60 (sessenta) dias, contados a contar 
+do prazo total estipulado para o desenvolvimento do projeto; 
+ 15 
+ 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+9.5 O relatório final deverá, obrigatoriamente, seguir o formulário eletrônico de 
+RELATÓRIO FINAL DE PROJETO FAPERJ disponível no endereço 
+eletrônico da Fundação. Não serão aceitos relatórios impressos; 
+9.6 Em caso de solicitação de prorrogação de prazo para término de 
+desenvolvimento do projeto, um relatório técnico-científico preliminar deverá 
+ser apresentado junto à solicitação, incluindo as realizações e justificativas 
+para a prorrogação. Nesses casos, o relatório técnico-científico final deverá 
+ser apresentado até, no máximo, 60 (sessenta) dias a partir do término da 
+data autorizada para a prorrogação; 
+9.7 Além do RELATÓRIO FINAL DE PROJETO FAPERJ, ao final do 
+desenvolvimento do projeto, cada grupo apoiado por este Edital deverá estar 
+disponível para apresentação de seus resultados, em data e local a serem 
+marcados em comum acordo com a diretoria da FAPERJ; 
+9.8 A FAPERJ analisará a conveniência e oportunidade de divulgar ou publicar 
+os resultados obtidos pela concessão do fomento aos projetos aprovados no 
+presente Edital. 
+9.9 O outorgado deverá apresentar à FAPERJ a Prestação de Contas financeira 
+parcial, relativa à execução da primeira parcela do auxílio, como também, a 
+Prestação de Contas financeira final, em conformidade com o disposto nas 
+Instruções para Prestação de Contas, com a observância ao tutorial "Como 
+elaborar a Prestação de Contas", disponíveis no endereço eletrônico da 
+FAPERJ, bem como a orientações complementares que venham a ser 
+expedidas por sua Diretoria. 
+9.10 A liberação da terceira parcela dos recursos financeiros estará 
+condicionada à apresentação, à FAPERJ, e aprovação da Prestação de 
+Contas financeira Parcial, da comprovação da aplicação dos recursos 
+relativos à primeira parcela do fomento. 
+9.11 O prazo máximo para apresentação da Prestação de Contas financeira 
+final é de até 60 (sessenta) dias, a contar do prazo total estipulado para o 
+desenvolvimento do projeto. 
+ 16 
+ 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+10 DISPOSIÇÕES GERAIS 
+10.1 A qualquer tempo, o presente Edital poderá ser revogado ou anulado, no 
+todo ou em parte, inclusive quanto aos recursos a ela alocados, por decisão 
+unilateral da FAPERJ, por motivo de interesse público ou por exigência legal, 
+sem que isso implique direitos à indenização ou reclamação de qualquer 
+natureza; 
+10.2 Qualquer resultado apoiado com recursos provenientes do presente Edital 
+deverá citar, obrigatoriamente, o apoio da FAPERJ; 
+10.3 Em se constatando violação às cláusulas e condições do presente Edital, 
+a FAPERJ poderá restringir apoios futuros aos proponentes irregulares, 
+registrando-os em cadastro interno de inadimplentes, além da possível 
+rescisão contratual e a consequente devolução dos valores recebidos; 
+10.4 A FAPERJ se reserva o direito de realizar, periodicamente, o 
+acompanhamento da execução do projeto, por meio de formulários 
+específicos a serem remetidos aos responsáveis, e por visitas técnicas; 
+10.5 Os proponentes dos projetos selecionados neste edital se comprometem a 
+prestar assessoria ad hoc para a FAPERJ durante o período de sua vigência; 
+10.6 Deverá ser solicitada à FAPERJ, pelo proponente, qualquer alteração 
+relativa à execução do projeto apresentado, acompanhada da devida 
+justificativa; 
+10.7 A concessão do apoio financeiro poderá ser cancelada pela diretoria da 
+FAPERJ por ocorrência de fato cuja gravidade justifique o seu cancelamento, 
+sem prejuízo de outras providências cabíveis; 
+10.8 Proponentes aprovados deverão entregar os documentos descritos no 
+ANEXO 3; 
+10.9 Após a liberação dos resultados finais, a FAPERJ fará contato com os 
+proponentes das propostas aprovadas, por meio do e-mail informado no 
+cadastro do Proponente no SisFAPERJ, para que os contemplados realizem 
+ 17 
+ 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+os procedimentos administrativos necessários no Sistema Eletrônico de 
+Informações (SEI-RJ); 
+10.10 O pesquisador contemplado terá sete (07) dias úteis, após a 
+disponibilização da documentação pela FAPERJ, para realizar os 
+procedimentos administrativos necessários no SEI-RJ; 
+10.11 Qualquer intercorrência na realização dos procedimentos administrativos 
+necessários no SEI-RJ, dentro do prazo estabelecido deverá ser 
+imediatamente comunicado à FAPERJ com a devida justificativa, através do 
+endereço eletrônico (central.atendimento@faperj.br) — a não realização dos 
+procedimentos administrativos sem comunicação formal e justificativa 
+implicará no cancelamento da concessão; 
+10.12 Dúvidas e pedidos de esclarecimentos sobre este Edital deverão ser 
+enviados 
+única 
+e 
+exclusivamente 
+para 
+o 
+endereço 
+eletrônico 
+central.atendimento@faperj.br; 
+10.13 Os casos omissos neste Edital serão resolvidos pela Diretoria da FAPERJ. 
+ 
+ 
+ 
+Rio de Janeiro, 20 de maio de 2021. 
+ 
+ 
+Jerson Lima Silva 
+Presidente da FAPERJ 
+ 
+ 
+ 18 
+ 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+ANEXO 1 
+1. PROCEDIMENTOS PARA INSCRIÇÃO 
+ 
+1.1 O preenchimento do formulário on-line no sistema SisFAPERJ e a 
+submissão do projeto deverão ser realizadas pelo proponente do 
+projeto (com login e senha próprios); 
+OBS: O acesso e preenchimento dos formulários no sistema 
+SisFAPERJ deverá ser feito exclusivamente através dos 
+navegadores MOZILLA FIREFOX ou GOOGLE CHROME EM 
+AMBIENTE WINDOWS. 
+ 
+1.2 A inscrição se dará em dois passos: 
+•  1º passo - Cadastro on-line: cadastramento ou atualização do 
+cadastro on-line do pesquisador; 
+• 2º passo - Preenchimento do formulário on-line; 
+ 
+1.3 Cadastro on-line: 
+• Acessar o endereço eletrônico: (https://sisfaperj.faperj.br/sisfaperj/) 
+(Login = o seu CPF); 
+• No item “Solicitante”, clicar em “Meu cadastro”; 
+• Clicar em “GRAVAR” para concluir o processo de cadastro e 
+obter o número de matrícula na FAPERJ. 
+ 
+1.4 Preenchimento do formulário on-line: 
+• No item “Solicitante”, acessar o menu “Meu SisFAPERJ”; 
+• Selecionar a linha do Edital "Programa De Apoio à Projetos 
+Científicos e Tecnológicos em Mobilidade Urbana - 2021"; 
+• Clicar em "Solicitar fomento"; 
+• Aceitar os termos de contrato; 
+• Clicar em "prosseguir". 
+ 
+ 
+ 19 
+ 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+2. FORMULÁRIO DE INSCRIÇÃO 
+ 
+2.1  A proposta deverá ser apresentada sob a forma de projeto, 
+devendo conter, obrigatoriamente, os seguintes itens: 
+2.1.1 Título do Projeto (divulgável, cuidando das boas normas da 
+língua portuguesa, com uso correto de maiúsculas e minúsculas 
+etc.); 
+2.1.2 Nível de Maturidade Tecnológica do Projeto; 
+2.1.3  Faixa solicitada (A, B ou C); 
+2.1.4  Resumo em português e abstract em inglês (divulgáveis); 
+2.1.5   Introdução; 
+2.1.6   Justificativa para a escolha do tema; 
+2.1.7     Objetivos; 
+2.1.8     Metodologia; 
+2.1.9     Indicadores de desempenho; 
+2.1.10     Resultados esperados; 
+2.1.11     Bibliografia relacionada ao projeto; 
+2.1.12     Impactos esperados no Estado do Rio de Janeiro e no País; 
+2.1.13     Infraestrutura já existente no local de realização do projeto; 
+2.1.14     Experiência do proponente responsável e da equipe envolvida, 
+em especial na área de realização do projeto, classificação 
+CNPq, CNE e JCNE dos componentes da rede; 
+2.1.15     Cronograma de execução do projeto em meses corridos; 
+2.1.16     Orçamento detalhado e justificado de todos os itens 
+orçamentários. 
+ 
+2.2 Preencher o formulário on-line, anexando: 
+ 
+2.2.1 
+Cópia em PDF do projeto solicitado em 2.1; 
+2.2.2 
+ Currículo (no formato LATTES) resumido do proponente e dos 
+pesquisadores associados contendo apenas as publicações 
+e/ou demais produções dos últimos cinco anos contados a partir 
+da data de lançamento do Edital. 
+ 20 
+ 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+2.2.3 
+  Comprovante de experiência no tema do Edital; 
+2.2.4 
+   Comprovantes de vínculo funcional ou empregatício ou 
+estatutário dos membros da equipe (contracheque, publicação 
+no Diário Oficial ou declaração do empregador); 
+2.2.5 
+   Tabela contendo o resumo quantitativo da produção científica 
+do proponente e dos demais membros da equipe principal, dos 
+últimos cinco anos contados a partir da data de lançamento do 
+Edital, com os seguintes indicadores: 
+• 
+trabalhos publicados em revistas internacionais; 
+• 
+livros e capítulos de livros publicados; 
+• 
+patentes concedidas ou depositadas (se houver); 
+• 
+alunos de iniciação científica, mestrado e doutorado orientados 
+e em orientação; 
+• 
+outras produções acadêmicas julgadas relevantes; 
+2.2.6 
+    Relação sucinta de outras produções acadêmicas julgadas 
+relevantes e projetos executados ou em execução pelo 
+Proponente; 
+2.2.7 
+    Cronograma de execução, em meses corridos, para o 
+desenvolvimento das atividades propostas; 
+2.2.8 
+    Plano de trabalho, incluindo o cronograma de execução, em 
+meses corridos, para o desenvolvimento das atividades 
+propostas; 
+2.2.9 
+    Termo de Anuência da Instituição, assinada por seu dirigente 
+máximo (Modelo disponível no ANEXO 4); 
+2.2.10     Documento com a assinatura de todos os pesquisadores que 
+participam do projeto, atestando participar apenas desta 
+proposta neste Edital, de acordo com o modelo indicado no 
+ANEXO 5; 
+2.2.11     Proposta orçamentária das firmas (proforma invoice, em caso 
+de companhia estrangeira) para aquisição de passagens, 
+equipamentos, material permanente e adaptação de bem 
+imóveis. 
+2.3 
+O solicitante poderá salvar o seu preenchimento quantas vezes 
+for necessário e acessá-lo novamente a partir do menu “Meu 
+ 21 
+ 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+SisFAPERJ”; 
+2.4 
+Para fazer o envio definitivo do pedido, clicar na “OPÇÃO” – 
+“Enviar para FAPERJ”; após este envio não haverá 
+possibilidade de alteração; 
+2.5 
+O envio definitivo deve ser feito obrigatoriamente até a data 
+prevista no item "CRONOGRAMA" deste presente Edital. 
+ 
+ 
+3. APÓS O ENVIO DA PROPOSTA 
+ 
+3.1 O pedido encontra-se no estado "Aguarda Verificação" (vide menu 
+"Meu SisFaperj"); 
+ 
+ 22 
+ 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+ANEXO 2 
+1. PROCEDIMENTOS PARA ENVIO DE RECURSO VIA SISFAPERJ 
+ 
+1.1 A solicitação de recurso no sistema SisFAPERJ deve ser realizada 
+pelo proponente do projeto (com login e senha próprios); 
+OBS: Para o preenchimento dos formulários no sistema 
+SisFAPERJ 
+devem 
+ser 
+utilizados 
+EXCLUSIVAMENTE 
+os 
+navegadores MOZILLA FIREFOX ou GOOGLE CHROME EM 
+AMBIENTE WINDOWS. 
+1.2 Acessar o endereço eletrônico (https://sisfaperj.faperj.br/sisfaperj/) 
+(login = o seu CPF);  
+1.3 No item “Solicitante”, clicar em “Meu Protocolo”; 
+1.4 Dentro da janela “Meu Protocolo”, selecionar a lista “Recurso”; 
+1.5 Os pedidos negados aparecerão na lista – Selecione o pedido que 
+deseja solicitar um recurso; 
+1.6 Clique em “Solicitar”; 
+1.7 Na aba “Inicial”, localize o parecer fundamentado emitido pelo Comitê 
+de Avaliação; 
+1.8 Na aba “Arquivos”, descreva, em poucas palavras, o principal motivo 
+da solicitação; 
+1.9 No item “Arquivos em anexo”, clicar no botão “+” para anexar a carta 
+de recurso. A carta deve conter a argumentação necessária para 
+interposição de recurso. Solicitações sem a devida fundamentação 
+não serão analisadas; 
+1.10 
+Clicar na lista “Opção:” e selecionar “Enviar para FAPERJ”; 
+1.11 
+Clicar em “Executar”; 
+1.12 
+O solicitante receberá um e-mail informando a conclusão; 
+1.13 
+O status do pedido poderá ser acompanhado nessa mesa aba. 
+ 
+ 
+ 23 
+ 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+ANEXO 3 
+DOCUMENTAÇÃO COMPROBATÓRIA DA REGULARIDADE FISCAL, 
+JURÍDICA E DE CONTENCIOSO JUDICIAL (SOMENTE PARA AS 
+PROPOSTAS APROVADAS) 
+Os proponentes aprovados deverão apresentar os documentos relativos à 
+sua regularidade fiscal, jurídica e econômico-financeira. A documentação 
+exigida deverá ser apresentada de acordo com o cronograma do Edital. 
+Caso contrário, o projeto será desclassificado em consonância com este 
+Edital. 
+1. Documentos a serem apresentados POR PESSOA FÍSICA: 
+1.1 Prova de inscrição no Cadastro de Pessoas Físicas (CPF); 
+1.2 Identidade, civil, profissional ou militar, com validade em todo território 
+nacional; 
+1.3 Comprovante ou declaração de residência, recente com no máximo 90 
+dias de emissão; 
+1.4 Prova de inscrição, ou declaração de ausência de inscrição, no 
+cadastro de contribuintes estadual ou municipal, relativo ao domicílio 
+ou sede do proponente, ou outra equivalente, na forma da lei; 
+1.5 Certidão conjunta de débitos relativos a Tributos Federais e à Dívida 
+Ativa da União emitida pela Receita Federal e Procuradoria Geral da 
+União (PGN); 
+1.6 Certidão Negativa da Receita e da Dívida Ativa do Estado; 
+1.7 Relatório de contencioso, SE HOUVER, indicando o total de processos 
+cíveis, fiscais/tributários e trabalhistas, os valores pedidos e os valores 
+provisionados, assinado pelo proponente, conforme modelo disponível 
+no sistema. Quaisquer ações judiciais que não foram registradas no 
+relatório de contencioso acarretarão a eliminação da proposta; 
+ 24 
+ 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+2. Documentos a serem apresentados POR PESSOA JURÍDICA: 
+2.1 Ficha de Cadastro de Pessoa Jurídica datada, assinada e rubricada 
+em todas as páginas; 
+2.2 Comprovante de Inscrição e de Situação Cadastral (Cadastro Nacional 
+de Pessoas Jurídicas - CNPJ); 
+2.3 Certidão de Débitos Relativos a Créditos Tributários Federais e à 
+Dívida Ativa da União (emitida pela Receita Federal e Procuradoria 
+Geral da União - PGFN); 
+2.4 Certificado de Regularidade do Empregador (FGTS - CRF), expedido 
+pela Caixa Econômica Federal, por Cadastro Específico do INSS 
+(CEI), SE HOUVER; 
+2.5 Certidão Negativa de Débitos Relativos a Tributos Estaduais (SEFAZ 
+Estadual); 
+2.6 Certidão Negativa de Débitos em Dívida Ativa do Estado (PGE-RJ); 
+2.7 Certidão Negativa da Receita e Dívida Ativa do Município; 
+2.8 Prova de inexistência de débitos inadimplidos perante a Justiça do 
+Trabalho, mediante a apresentação de Certidão Negativa de Débitos 
+Trabalhistas (CNDT) ou da Certidão Positiva de Débitos Trabalhistas 
+com os mesmos efeitos da CNDT. 
+ 
+ 25 
+ 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+ANEXO 4 
+TERMO DE ANUÊNCIA DA INSTITUIÇÃO 
+ 
+Proponente: 
+CPF do Proponente: 
+Título do Projeto: 
+Instituição Executora: 
+CNPJ da Instituição Executora: 
+Dirigente Máximo da Instituição: 
+CPF do Dirigente Máximo da Instituição: 
+Cargo/Ocupação do Dirigente Máximo: 
+ 
+Através deste termo, confirmo a anuência da Instituição para a realização do Projeto 
+supracitado, sob a coordenação do Proponente, a ser submetido para financiamento 
+pela FAPERJ no âmbito do Edital nº 11/2021 – “Apoio à Projetos Científicos e 
+Tecnológicos em Mobilidade Urbana”. A Direção da Instituição apoia totalmente o 
+pedido do Proponente e colocará à sua disposição as infraestruturas física e de pessoal 
+da Instituição, visando o perfeito andamento de seu projeto. 
+ 
+   Rio de Janeiro, ___ de ______________ de 2021. 
+  
+ 
+(Nome Completo/ Assinatura/Carimbo) 
+DIRIGENTE MÁXIMO DA INSTITUIÇÃO 
+ 
+ORIENTAÇÕES PARA O PREENCHIMENTO DO TERMO DE ANUÊNCIA DA INSTITUIÇÃO 
+Para efeitos do Edital nº 11/2021 – “Programa de Apoio à Projetos Científicos e 
+Tecnológicos em Mobilidade Urbana”, considera- se o dirigente máximo da Instituição: Reitor 
+e seus prepostos (Vice-Reitor, Pró-Reitor e Diretor de Unidade), Presidente de Instituto de 
+Pesquisa, Museu, Associação ou Sociedade científica. 
+Ressalta-se que o documento acima (Termo de Anuência da Instituição) deve ser preenchido 
+com todas as informações solicitadas de seu dirigente máximo, ou seja: os dados a serem 
+informados (nome, CPF e cargo); a assinatura a ser coletada; o carimbo (com nome + cargo + 
+instituição + matrícula). 
+Observações: 
+1. Os dados, a assinatura e o carimbo devem ser da mesma pessoa; 
+2. Após o preenchimento, o termo deve ser anexado ao Sistema SisFAPERJ na aba 
+“Documentos”. Em caso de dúvidas, entre em contato com a equipe técnica do FAPERJ 
+através do endereço eletrônico (central.atendimento@faperj.br) 
+ 26 
+ 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+                             ANEXO 5 
+DECLARAÇÃO DE ANUÊNCIA DA EQUIPE 
+ 
+Através deste documento, os proponentes abaixo assinados declaram que 
+apoiam a proposta de projeto “Título da Proposta”, que está sendo solicitado à 
+FAPERJ pelo Pesquisador “Nome do Proponente”, Coordenador do Projeto, no 
+âmbito do Edital FAPERJ Nº 11/2021 – “Programa de Apoio à Projetos 
+Científicos e Tecnológicos em Mobilidade Urbana – 2021” e que concordam 
+com o seu Plano de Trabalho proposto. 
+ 
+Os proponentes declaram também ciência sobre as regras estabelecidas no 
+Termo de Outorga e de Aceitação de Auxílio (ANEXO 6). 
+ 
+O Coordenador e os membros da equipe associados declaram ainda que não 
+participam de mais de um grupo que submete proposta no presente Edital. 
+ 
+FAIXA: ( _) A / ( _) B / ( _) C 
+ 
+ 
+Nome 
+ 
+CPF 
+ 
+Instituição 
+ 
+Assinatura 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rio de Janeiro, ___ de ______________ de 2021. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Nome Completo/Assinatura) 
+Coordenador do Projeto 
+  
+27 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+ANEXO 6 
+TERMO DE OUTORGA E DE ACEITAÇÃO DE AUXÍLIO 
+ 
+Em <<DatadoTermo>>, a Diretoria da Fundação Carlos Chagas Filho de Amparo 
+à Pesquisa do Estado do Rio de Janeiro, aqui designada simplesmente FAPERJ, 
+usando das atribuições que lhe confere o inciso II, artigo 16 do Decreto 45.931 de 
+20 de fevereiro de 2017, defere ao OUTORGADO  <<NomeSolicitante>>, 
+nacional 
+do(a) 
+<<Natural>>, 
+residente 
+na 
+<<EnderecoSolicitante>><<TextoIdentidade>> e inscrito no CPF sob o n.º 
+<<CPFSolicitante>>, 
+com 
+a 
+concordância 
+da 
+INSTITUIÇÃO 
+<<NomedaInstituicao>>, a que está vinculado, o auxílio especificado no presente 
+TERMO, mediante as cláusulas e condições seguintes, a que se obriga: 
+CLÁUSULA PRIMEIRA - A utilização do auxílio deverá se realizar de acordo com 
+o plano de aplicação apresentado pelo OUTORGADO, com ou sem modificações 
+feitas pela FAPERJ, conforme discriminado no preâmbulo do presente TERMO. 
+CLÁUSULA SEGUNDA - Os recursos recebidos pelo OUTORGADO serão 
+movimentados por meio de conta bancária específica, a ser aberta, com 
+autorização da FAPERJ, no Banco Bradesco, exclusivamente para atender às 
+finalidades do presente TERMO. 
+PARÁGRAFO PRIMEIRO - O OUTORGADO fica pessoalmente responsável pela 
+perfeita aplicação do auxílio, de acordo com a sua finalidade. Qualquer alteração 
+no plano de aplicação aprovado pela FAPERJ deverá ser solicitada formalmente 
+pelo OUTORGADO e aprovada pela FAPERJ, antes de implementada. 
+PARÁGRAFO SEGUNDO - O OUTORGADO não poderá adquirir quaisquer 
+produtos bancários, tais como cheque especial, títulos de capitalização e/ou 
+empréstimos de qualquer natureza decorrentes da conta corrente aberta em seu 
+nome e os recursos depositados nessa conta corrente devem ser 
+necessariamente aplicados em fundo lastreado em títulos públicos, com liquidez 
+diária. 
+CLÁUSULA TERCEIRA - Sempre que, em virtude do auxílio deferido, houver 
+divulgação de trabalho técnico ou científico, deverá seu autor fazer expressa 
+menção ao benefício concedido pela FAPERJ. Além disso, compromete-se o 
+  
+28 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+OUTORGADO a informar, no seu cadastro no Sistema SisFAPERJ, quaisquer 
+publicações obtidas com o financiamento da FAPERJ, podendo tais dados ser 
+utilizados para divulgação da Fundação. 
+CLÁUSULA QUARTA - Os bens patrimoniais (equipamentos e material 
+permanente) adquiridos, produzidos, transformados ou construídos com o 
+presente auxílio ficarão sediados na INSTITUIÇÃO a qual o OUTORGADO está 
+vinculado, até a sua transferência definitiva a ela, o que deverá ocorrer 
+anteriormente à apresentação do processo de Prestação de Contas referente ao 
+mesmo auxílio. A retirada desse material da Instituição, também signatária deste 
+TERMO, ou sua mudança de local, deverá ser solicitada prévia e formalmente à 
+FAPERJ. 
+CLÁUSULA QUINTA - A Prestação de Contas e o Relatório Técnico final do 
+auxílio financeiro deverão ser enviados juntamente pelo Sistema Eletrônico 
+de Informações (SEI/RJ), pelo OUTORGADO, até a data do vencimento 
+indicada no preâmbulo deste TERMO, devendo observar as "INSTRUÇÕES 
+PARA PRESTAÇÃO DE CONTAS", disponíveis no Portal da Fundação 
+(www.faperj.br), que passam a fazer parte integrante do presente TERMO. Se 
+houver saldo remanescente na conta do fomento, o OUTORGADO deverá 
+devolvê-lo à FAPERJ mediante o pagamento, no Banco Bradesco, da Guia de 
+Recolhimento Estadual - GRE obtida no site da Secretaria de Estado de Fazenda 
+(www.fazenda.rj.gov.br) e encerrar a conta bancária referente ao presente auxílio. 
+PARÁGRAFO PRIMEIRO- A não apresentação da Prestação de Contas e/ou do 
+Relatório Técnico final no prazo determinado no preâmbulo deste TERMO, além 
+das implicações legais, acarretará, automaticamente, a inclusão do nome do 
+OUTORGADO no Cadastro interno de Inadimplentes da FAPERJ. Por 
+consequência, não será concedido novo auxílio/bolsa ao outorgado e aos 
+bolsistas vinculados, como também, os pagamentos subsequentes serão 
+suspensos até que seja apresentada a Prestação de Contas e/ou o Relatório 
+Técnico, ou, ainda, na ausência dessas documentações, seja promovido o 
+ressarcimento total do auxílio recebido à FAPERJ. 
+PARÁGRAFO SEGUNDO - A liberação da segunda parcela dos recursos 
+financeiros estará condicionada à apresentação à FAPERJ e aprovação do 
+Relatório Técnico-Cientifico Parcial, relativo à execução da primeira parcela do 
+  
+29 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+auxílio sobre o desenvolvimento da pesquisa, comprovando a observância do 
+cronograma previamente estipulado; nessa ocasião, cada Proposta apoiada por 
+este Edital deverá estar disponível para eventual apresentação de seus 
+resultados parciais, em data e local a serem marcados em comum acordo com a 
+diretoria da FAPERJ. 
+PARÁGRAFO TERCEIRO - A liberação da terceira parcela dos recursos 
+financeiros estará condicionada à apresentação à FAPERJ e aprovação do 
+Relatório Técnico-Científico Parcial, relativo à execução da segunda parcela do 
+auxílio sobre o desenvolvimento da pesquisa, comprovando a observância do 
+cronograma previamente estipulado; nessa ocasião, cada Proposta apoiada por 
+este Edital deverá estar disponível para eventual apresentação de seus 
+resultados parciais, em data e local a serem marcados em comum acordo com a 
+diretoria da FAPERJ.  
+PARÁGRAFO QUARTO - O outorgado deverá apresentar à FAPERJ a Prestação 
+de Contas financeira parcial, relativa à execução da primeira parcela do auxílio, 
+como também, a Prestação de Contas financeira final, em conformidade com o 
+disposto nas Instruções para Prestação de Contas, com a observância ao tutorial 
+"Como elaborar a Prestação de Contas", disponíveis no endereço eletrônico da 
+FAPERJ, bem como a orientações complementares que venham a ser expedidas 
+por sua Diretoria. A liberação da terceira parcela dos recursos financeiros estará 
+condicionada à apresentação, à FAPERJ, e aprovação da Prestação de Contas 
+financeira Parcial, da comprovação da aplicação dos recursos relativos à primeira 
+parcela do fomento. 
+PARÁGRAFO QUINTO - O prazo máximo para a apresentação do Relatório 
+Técnico Final e da Prestação de Contas é de 60 (sessenta) dias, a partir do prazo 
+estipulado para o desenvolvimento do projeto. Os Relatórios citados deverão ser 
+apresentados concomitantemente. 
+PARÁGRAFO SEXTO - Os valores aportados pelo proponente na execução do 
+projeto como contrapartida financeira, assim como os valores mensuráveis, 
+correspondentes à contrapartida não financeira, devem constar no orçamento 
+proposto submetido à FAPERJ; 
+PARÁGRAFO SÉTIMO - A contrapartida utilizada no projeto deverá ser 
+  
+30 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+demonstrada nos relatórios técnicos-científico parciais e final e a sua aplicação 
+devidamente comprovada nas prestações de contas financeira parciais e final. 
+CLÁUSULA SEXTA - A Auditoria Interna da FAPERJ analisará a Prestação de 
+Contas enviada e, sendo identificadas pendências (ausência de documentos e/ou 
+informações), o OUTORGADO será comunicado, por e-mail, e terá o prazo de até 
+30 dias, a contar da comunicação, para o envio da pendência solicitada pela 
+Auditoria Interna da Fundação. Da mesma forma, havendo a necessidade de 
+reformulações do Relatório Técnico será solicitado, por meio do envio de 
+mensagem para o e-mail do OUTORGADO, a sua reformulação para atendimento 
+no prazo máximo de 30 dias. 
+PARÁGRAFO PRIMEIRO - A FAPERJ comunicará o OUTORGADO sobre as 
+pendências identificadas na Prestação de Contas e as reformulações do Relatório 
+Técnico por meio do seu e-mail cadastrado no SisFAPERJ, ficando o 
+OUTORGADO responsável pela atualização do seu cadastro junto à FAPERJ. 
+PARÁGRAFO SEGUNDO - O não atendimento às solicitações de exigências da 
+Prestação de Contas e/ou às reformulações do Relatório Técnico fará com que o 
+OUTORGADO seja registrado na FAPERJ como "bloqueado", ficando impedido 
+de obter novos recursos da Fundação. 
+CLÁUSULA SÉTIMA - O OUTORGADO é responsável pelo cadastro da 
+Prestação de Contas e do Relatório Técnico no SEI/RJ, dos documentos e/ou 
+informações pendentes de sua Prestação de Contas, como também, das 
+reformulações do Relatório Técnico, e, ainda, pelo acompanhamento dos 
+comunicados enviados pela FAPERJ para o seu e-mail cadastrado no 
+SisFAPERJ, até a aprovação definitiva da Prestação de Contas e do Relatório 
+Técnico, comunicada ao OUTORGADO. 
+CLÁUSULA OITAVA - A prestação de contas será aceita condicionalmente até a 
+sua aprovação definitiva pela FAPERJ, fundamentado em parecer favorável do 
+seu órgão de Auditoria Interna. 
+CLÁUSULA NONA - Independentemente do disposto na Cláusula Quinta, o 
+OUTORGADO obriga-se a apresentar à FAPERJ relatórios de desenvolvimento 
+do projeto nos prazos estabelecidos no preâmbulo deste TERMO. 
+CLÁUSULA DÉCIMA - Todo e qualquer impedimento que interfira na execução 
+  
+31 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+do projeto nos termos contratados deverá ser imediatamente comunicado pelo 
+OUTORGADO à FAPERJ. 
+CLÁUSULA DÉCIMA PRIMEIRA - Eventuais resultados econômicos e outros 
+direitos decorrentes da concessão do auxílio serão compartilhados com a 
+FAPERJ, na proporção de 1% (um por cento) para a Fundação e 99% (noventa e 
+nove por cento) para o OUTORGADO, independentemente de o invento ser ou 
+não patenteável. 
+PARÁGRAFO PRIMEIRO - Obriga-se o OUTORGADO a informar à FAPERJ 
+sobre a possibilidade de resultado sustentável de seu projeto. 
+PARÁGRAFO SEGUNDO - O registro de eventual patente, obrigatório 
+prioritariamente no Brasil, se fará sempre em nome da FAPERJ e do 
+OUTORGADO, cabendo a qualquer deles a iniciativa do requerimento, dando 
+ciência à outra parte. 
+PARÁGRAFO TERCEIRO - A FAPERJ poderá, a seu critério, ceder ao 
+OUTORGADO, parcial ou total, onerosa ou gratuitamente, os direitos resultantes 
+do projeto. 
+CLÁUSULA DÉCIMA SEGUNDA - O presente TERMO não cria e não envolve 
+nenhuma espécie de relação empregatícia entre o OUTORGADO e a FAPERJ. 
+CLÁUSULA DÉCIMA TERCEIRA - O OUTORGADO concorda em atuar como 
+consultor ou parecerista ad hoc da FAPERJ, sempre que solicitado pela Diretoria 
+da Fundação. 
+CLÁUSULA DÉCIMA QUARTA - A violação de qualquer das cláusulas do 
+presente TERMO importará em sua rescisão, bem como dará direito à FAPERJ 
+de restringir apoios futuros ao OUTORGADO, registrando-o em cadastro interno 
+de inadimplentes. 
+PARÁGRAFO ÚNICO - O OUTORGADO se compromete a conceder mandato à 
+FAPERJ, que é parte integrante do presente TERMO, com plenos poderes para 
+a movimentação e encerramento da conta corrente aberta em nome do 
+OUTORGADO no Banco Bradesco, nos casos de: inadimplemento da presente 
+outorga; morte (se for o caso); sofrer os efeitos da insolvência civil; e representá-
+la judicial e extrajudicialmente, com os poderes ad judicia, em ocorrendo inércia 
+  
+32 
+ 
+EDITAL FAPERJ Nº 11/2021 
+PROGRAMA DE APOIO À PROJETOS CIENTÍFICOS E 
+TECNOLÓGICOS EM MOBILIDADE URBANA - 2021 
+do MANDANTE, nos casos em que houver penhora judicial sobre os recursos 
+depositados na citada conta bancária. 
+CLÁUSULA DÉCIMA QUINTA - Caberá à INSTITUIÇÃO de vinculação do 
+OUTORGADO desenvolver os melhores esforços para a solução de eventuais 
+inadimplementos das obrigações estipuladas neste TERMO. 
+CLÁUSULA DÉCIMA SEXTA - O OUTORGADO se compromete a aceitar a 
+realização de auditoria por parte da FAPERJ, sempre que esta julgar conveniente, 
+observado o disposto na legislação vigente. 
+CLÁUSULA DÉCIMA SÉTIMA - O OUTORGADO e a INSTITUIÇÃO declaram 
+que aceitam, sem restrições, o auxílio que neste ato é deferido e comprometem-
+se a cumprir o disposto neste instrumento, em todos os seus termos e condições, 
+sob pena das sanções ora estabelecidas. 
+  
+Este Termo de Outorga terá validade após assinado eletronicamente no SEI pelo 
+Presidente da Faperj, pelo Outorgado e pelo Representante oficial da Instituição. 
+ 

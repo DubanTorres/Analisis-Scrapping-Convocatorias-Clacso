@@ -1,0 +1,4641 @@
+
+ 
+1 
+ 
+ 
+ 
+PROGRAMA REGIONAL STIC-AmSud 
+14ª CONVOCATORIA 
+Año 2019 
+ 
+1. El programa regional STIC-AmSud 
+ 
+El Programa regional STIC-AmSud es una iniciativa de la cooperación francesa y sus contrapartes 
+de Argentina, Bolivia, Brasil, Chile, Colombia, Ecuador, Paraguay, Perú, Uruguay y Venezuela, 
+orientada a promover y fortalecer la colaboración y la creación de redes de investigación-
+desarrollo en el ámbito de las ciencias y tecnologías de la información y las comunicaciones (STIC), 
+a través de la movilidad, para la realización de proyectos conjuntos. 
+ 
+Sus objetivos específicos son: 
+ 
+ 
+desarrollar la colaboración en el ámbito de las STIC, a través del intercambio de 
+investigadores y doctorantes y de información entre los países de América del Sur 
+implicados y Francia. 
+ 
+apoyar proyectos de investigación básica y aplicada que contengan una dimensión 
+potencial de transferencia y de innovación tecnológica, con componente regional, entre 
+Francia y al menos dos países sudamericanos asociados. 
+ 
+favorecer en América del Sur las sinergias con otros programas regionales y multilaterales 
+en este sector, en particular con la Unión Europea. 
+ 
+favorecer la participación de jóvenes investigadores para asegurar la continuidad de las 
+redes. 
+ 
+El programa STIC-AmSud se apoya en dos comités: 
+ 
+a) el Comité Directivo, conformado de la siguiente manera: 
+ 
+- 
+por la parte francesa, por representantes del Ministerio de Europa y de Asuntos Exteriores 
+(MEAE), del Centro Nacional de Investigación Científica (CNRS), del Instituto Nacional de 
+Investigación en Informática y Automática (INRIA) y por el Institut Mines-Télécom 
+(IMT);  
+ 
+- 
+por la parte sudamericana, por representantes del Ministerio de Educación, Cultura, 
+Ciencia y Tecnología de Argentina (MECCyT), de la Universidad Mayor de San Andrés 
+(UMSA) de Bolivia, de la Coordinación de Perfeccionamiento del Personal de Nivel 
+Superior del Ministerio de Educación de Brasil (CAPES), de la Comisión Nacional de 
+Investigación Científica y Tecnológica de Chile (CONICYT), del Consejo Nacional de Ciencia 
+y Tecnología del Paraguay (CONACYT), del Consejo Nacional de Ciencia, Tecnología e 
+Innovación Tecnológica de Perú (CONCYTEC), de la Agencia Nacional de Investigación e 
+Innovación del Uruguay (ANII), del Departamento Administrativo de Ciencia, Tecnología 
+e Innovación de Colombia (COLCIENCIAS), del Ministerio del Poder Popular para la 
+Educación Universitaria, Ciencia y Tecnología de Venezuela (MPPEUCT) y de la Secretaría 
+de Educación Superior, Ciencia Tecnología e Innovación de Ecuador (SENESCYT). 
+ 
+b) el Comité Científico, constituido: 
+- 
+por la parte francesa, por representantes del CNRS y del INRIA y del Institut Mines-
+Télécom (IMT) 
+  
+ 
+2 
+ 
+- 
+por la parte sudamericana, por científicos designados por MECCyT, UMSA, CAPES, 
+CONICYT, CONACYT, CONCYTEC, ANII, ColCiencias, MPPEUCT y SENESCYT. 
+ 
+ 
+2. Calendario de la convocatoria 
+ 
+21 de diciembre de 2018 
+ 
+ 
+ 
+Apertura de la convocatoria.  
+El formulario correspondiente está disponible en el sitio Internet 
+del programa STIC-AmSud: http://sticmathamsud.org/, y en los 
+sitios Internet de cada organismo participante. También está 
+disponible en el sistema de postulación. La postulación de las 
+propuestas deberá efectuarse vía la plataforma en línea disponible 
+en el sitio web de CONICYT para el efecto.  
+15 de mayo de 2019 
+Cierre de la convocatoria 
+Noviembre 2019 
+Publicación de los resultados 
+Enero de 2020 
+Inicio de los proyectos 
+01 de octubre de 2020 
+Envío de los informes de avance de los proyectos 
+31 de marzo de 2022 
+Envío de los informes finales de los proyectos terminados a la 
+Secretaría 
+ 
+ 
+3. Instrucciones para la constitución y el envío de las propuestas 
+ 
+o Modalidad de la cooperación 
+ 
+Presentación de proyectos conjuntos de investigación y desarrollo, a través de intercambios entre 
+los equipos participantes (estancias de investigación), la realización de talleres y/o de escuelas 
+intensivas (cursos de corta duración) que permitan la participación de profesores y estudiantes. 
+ 
+o Áreas temáticas 
+ 
+El llamado está abierto a todas las temáticas relacionadas al ámbito de las TIC’s. Las propuestas, 
+cuyas temáticas científicas estén matizadas de otras áreas científicas tales como ciencias de la 
+ingeniería, pueden considerarse dado que requieren también un importante trabajo innovador en 
+TIC. 
+ 
+o Duración de los proyectos 
+ 
+Cada proyecto tendrá una duración de dos años.  
+ 
+El Coordinador Internacional enviará a la Secretaría el informe de avance del proyecto antes del 
+1er de octubre de 2020. Al culminar el primer año de ejecución y, de acuerdo al informe de avance, 
+el Comité Directivo decidirá la entrega de recursos financieros para el segundo año. 
+ 
+o Participantes 
+ 
+Pueden postular investigadores de unidades y laboratorios de investigación, públicos o privados, 
+vinculados a establecimientos de enseñanza superior, organismos de investigación o empresas. 
+Cada proyecto deberá asociar al menos un grupo de investigación francés y al menos dos grupos 
+de investigación pertenecientes a dos países sudamericanos participantes. 
+ 
+ 
+  
+ 
+3 
+ 
+ 
+ 
+ 
+o Financiamiento  
+ 
+- 
+Los recursos se entregarán anualmente.  
+ 
+- 
+La modalidad de financiamiento es la siguiente: el organismo que envía cubre los gastos de 
+pasajes y los gastos de estadía de sus equipos. 
+ 
+- 
+Los gastos serán detallados indicando número de intercambios, objetivos de cada uno, 
+duración, país de destino y nombre del beneficiario. 
+ 
+- 
+Los presupuestos deberán indicar los montos solicitados a: 
+- 
+cada organismo sudamericano participante, 
+- 
+el Ministerio francés de Europa y de Asuntos Exteriores (MEAE) 
+- 
+el o los organismos o laboratorios de investigación franceses. 
+- 
+las otras fuentes de financiamiento externas al programa  
+-  
+Se recomienda contactar a cada institución nacional participante del programa para la  
+orientación sobre el financiamiento solicitado a las distintas contrapartes. Los contactos son 
+en anexo. 
+-   Los financiamientos aprobados quedan sujetos a la disponibilidad presupuestaria anual de los 
+diferentes organismos.  
+-    Como referencia, las instituciones del programa aportan conjuntamente un monto anual de 
+aproximadamente 10 000 € a 15 000 € por proyecto. 
+ 
+o Sobre los intercambios:1 
+ 
+- 
+Sólo se financiarán intercambios de una duración igual o inferior a 30 días. 
+- 
+Se recomienda particularmente que la duración de los intercambios sea de un mínimo de 10 
+días en caso de traslados entre Francia y América del Sur (y vice versa), y de una semana 
+dentro de la región sudamericana. 
+- 
+Se debe realizar, al menos, un intercambio de Francia a América del Sur y de América del Sur 
+a Francia. 
+- 
+Asimismo, se valorará positivamente la realización de una reunión de trabajo en América 
+del Sur con todo el equipo de investigación. 
+- 
+El proyecto debe claramente mencionar las modalidades de participación de los jóvenes 
+investigadores (misiones, actividades, etc.), las cuales serán valoradas positivamente. 
+ 
+o Propiedad intelectual 
+ 
+Los responsables de los proyectos deberán tomar en consideración las disposiciones necesarias 
+para la protección de la propiedad intelectual. 
+ 
+o Modalidades y criterios de selección 
+ 
+- 
+Revisión de la admisibilidad de los proyectos en términos administrativos por cada 
+organización. 
+                                                 
+1 CAPES no financia estadías cortas/misiones de trabajo de doctorantes. 
+  
+ 
+4 
+ 
+- 
+Los proyectos que no cumplan con todas las disposiciones establecidas en este instrumento 
+serán declarados fuera de bases y no podrán seguir participando en el presente concurso. En 
+el evento que uno o más proyectos sean declarados fuera de bases, tal circunstancia será 
+notificada por medio de carta certificada o correo electrónico, esto último en caso que el (la) 
+postulante lo autorice expresamente en su postulación, teniendo los(las) afectados(as) un 
+plazo de 5 días hábiles administrativos desde su notificación, para interponer el recurso de 
+reposición contra tal acto administrativo. Para tales efectos el(la) Coordinador(a) 
+Internacional deberá enviar un correo electrónico dirigido a la Secretaría General del 
+Programa 
+STIC 
+AmSud 
+dentro 
+del 
+plazo 
+establecido 
+a 
+la 
+casilla 
+siguiente: 
+lhochmann@conicyt.cl 
+ 
+- 
+En el evento que una propuesta sea declarada no elegible por una de las agencias participantes 
+en ella, la Secretaría General del Programa STIC AmSud procederá a solicitar la opinión al 
+Comité Científico respecto de la viabilidad de la propuesta. Con posterioridad y en 
+conocimiento del informe científico, se realizará una consulta a las agencias participantes en 
+la propuesta (excluyendo a la agencia que termina el patrocinio). Sólo la unanimidad favorable 
+por parte de las agencias técnicas permitirá a la propuesta proseguir en competencia en la 
+convocatoria. Caso contrario, será declarada fuera de bases. 
+ 
+- 
+Evaluación científica por expertos internacionales designados por el Comité Científico. 
+ 
+- 
+Revisión de las evaluaciones internacionales y clasificación de los proyectos, por parte del 
+Comité Científico. 
+ 
+- 
+Selección y aprobación de los proyectos por el Comité Directivo, en base a la evaluación 
+internacional, al informe del Comité Científico y a la disponibilidad presupuestaria de cada 
+contraparte, en la Reunión Anual del Programa STIC AmSud. 
+ 
+- 
+Además de la excelencia científica, los principales criterios de selección de los proyectos son:  
+- 
+su carácter innovador; 
+- 
+la creación de nuevas colaboraciones internacionales; 
+- 
+la complementariedad de los equipos de investigación participantes; 
+- 
+la transferencia mutua de competencia y de innovación; 
+- 
+los antecedentes de los grupos de investigación; 
+- 
+la participación de doctorantes y/o post-doctorantes en los intercambios 
+- 
+la promoción y valorización de las actividades conjuntas de investigación (co-
+publicaciones científicas, seminarios, talleres, adquisición de patentes en 
+conjunto). 
+ 
+o Coordinación 
+ 
+Cada proyecto deberá indicar un/a responsable científico/a por institución y uno de ellos/as, 
+designado/a por los miembros participantes, actuará como Coordinador Internacional del 
+proyecto. 
+ 
+o Puesta en marcha de los proyectos 
+ 
+- 
+La aprobación o el rechazo del proyecto será notificado oficialmente a cada responsable 
+científico del proyecto por la Secretaría del Programa. 
+- Con respecto a los proyectos aprobados, cada institución informará al responsable científico 
+que le corresponde y a la Secretaría los recursos otorgados indicando las modalidades y el 
+calendario de desembolso. 
+- El Coordinador Internacional de cada proyecto deberá enviar dos reportes a la Secretaría del 
+  
+ 
+5 
+ 
+Programa STIC-AmSud: el informe de avance el 1ro de octubre del primer año de desarrollo 
+del proyecto, y el informe final en el plazo de los tres meses siguientes a la finalización del 
+proyecto (31 de Marzo de 2022). 
+- 
+En la evaluación del  informe  final presentado,  se  considerarán  las  publicaciones conjuntas, 
+la obtención de patentes, las tesis desarrolladas en el marco del proyecto, la formación de 
+redes y otros tipos de colaboración. Todos los documentos generados en el marco de esta 
+colaboración deberán indicar explícitamente el apoyo financiero recibido por el Programa 
+Regional STIC -AmSud utilizando el siguiente formato: STICAMSUD + Código del Proyecto. 
+- 
+Los responsables científicos nacionales, así como el coordinador internacional que formen 
+parte de proyectos finalizados, podrán presentar un nuevo proyecto de investigación una vez 
+entregado el informe final del proyecto anterior. De ser aprobado, la ejecución de este nuevo 
+proyecto estará sujeta a la aprobación del informe final del proyecto anterior. Deberán 
+obligatoriamente referirse a nuevas temáticas a investigar.  
+- 
+Se dará prioridad a equipos que no hayan sido financiados en los últimos dos años. 
+- 
+También serán prioritarios los proyectos que incluyan doctorandos y/o post-doctorandos. 
+ 
+o Presentación de las propuestas 
+ 
+La postulación de las propuestas deberá efectuarse vía la plataforma en línea disponible en el sitio 
+web de CONICYT para el efecto:  https://auth.conicyt.cl/  
+El/la Coordinador/a Internacional deberá enviar a través de la plataforma de postulación una 
+versión .pdf en inglés del proyecto incluyendo los CVs de los(as) participantes del proyecto, antes 
+del 15 de mayo de 2019 a las 12:00hs. del mediodía de Chile Continental. También se puede 
+acceder a la plataforma de postulación de CONICYT, en la página web de los programas STIC y 
+MATH AmSud: http://www.sticmathamsud.org/. 
+Los formularios para la presentación de proyectos están disponibles en la página web de STIC-
+MATH AmSud en la plataforma de postulación y en los sitios web de cada organismo participante. 
+ 
+Adicionalmente para los investigadores de Brasil, deben presentar el proyecto a CAPES hasta el 
+31 de mayo 2019 en el sitio web del programa según las disposiciones establecidas en las bases 
+publicadas en su sitio web. Igualmente, el/la Coordinador/a Internacional lo deberá enviar a la 
+Secretaría de este Programa. 
+ 
+Para los investigadores de Colombia que solicitan financiamiento a COLCIENCIAS, deben estar 
+reconocidos en las 3 categorías que cuenta dicha institución. 
+ 
+Los investigadores peruanos deben registrar su participación a más tardar el 16 de Mayo 2019, 
+13:00 GMT-05 (Hora de Perú) en FONDECYT (http://www.fondecyt.gob.pe/). 
+ 
+Los investigadores argentinos interesados en presentar proyectos deberán contactarse 
+con el MECCyT bilateral@mincyt.gob.ar, a los efectos de conocer y aceptar las condiciones de 
+financiamientos del MECCyT para esta convocatoria. 
+ 
+Para los investigadores paraguayos deben registrar su participación a más tardar el 16 de 
+Mayo, 12:00 GMT-04 (hora de Paraguay) en el CONACYT (http://www.conacyt.gov.py/). 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+6 
+ 
+ 
+Los formularios para la presentación de proyectos están disponibles 
+en el sitio web de CONICYT: www.conicyt.cl  y en  la página web de STIC-AmSud:  
+http://www.sticmathamsud.org/ 
+ hasta el 15 de mayo de 2019 a las 12:00hrs. del mediodía de Chile Continental y en los 
+sitios web de cada organismo participante. 
+ 
+Contacto: 
+Secretaría del programa STIC-AmSud en Santiago de Chile 
+contacto@sticmathamsud.org 
+(56 2) 2365 4421 / 4432 
+ 
+ 
+ 
+ 
+ 
+ 
+SE RECOMIENDA CONTACTAR A LOS ORGANISMOS  
+QUE FORMAN PARTE DE ESTE PROGRAMA POR CUALQUIER CONSULTA 
+RELACIONADA CON EL MONTAJE DEL PROYECTO  
+ 
+Contacts 
+ 
+MECCyT: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UMSA: 
+Dirección Nacional de Coordinación e Integración Institucional  
+Av. Godoy Cruz 2320  
+C1425FQD Buenos Aires                                                                       
+Tel.: (+54-11) 48 99 5000 int. 4116 
+www.mincyt.gov.ar 
+Contact:  
+Karina Pombo – kpombo@mincyt.gob.ar - coordinadora 
+Juan Manuel Brückner jbruckner@mincyt.gob.ar – Asistente y consultas 
+ 
+Universidad Mayor de San Andrés                                                                         
+Av. Villazón N° 1995, Plaza del Bicentenario - Zona Central 
+Ciudad de La Paz. Estado Plurinacional de Bolivia 
++591 2 2441963 
+http://www.umsa.bo/ 
+Contact: 
+Dr. Waldo Albarracín Sánchez – rrii@umsa.bo 
+ 
+ 
+ARGENTINA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CAPES: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, 
+CGPR/CAPES 
+Setor Bancário Norte, Quadra 2, Bloco L, Lote 06, CEP 70040-
+020  Brasília, DF 
+MATH: http://www.capes.gov.br/cooperacao-
+internacional/multinacional/programa-regional-math-amsud 
+STIC: http://www.capes.gov.br/cooperacao-
+internacional/multinacional/programa-stic-amsud-capes  
+Contact: Marianna Papa MATH: mathamsud@capes.gov.br  
+STIC: sticamsud@capes.gov.br 
+ 
+  
+BRASIL 
+ 
+ 
+ 
+BOLIVIA 
+  
+ 
+7 
+ 
+CONICYT: 
+Departamento de Relaciones Internacionales 
+Moneda 1375, Santiago de Chile.  
+Tel.:  (+56-2) 2635 4421 
+www.conicyt.cl 
+Contact: Patricio Espinoza – pespinoza@conicyt.cl 
+ 
+CHILE 
+ 
+ 
+ 
+ 
+ 
+ 
+CONACYT: 
+Consejo Nacional de Ciencia y Tecnología 
+Dr. Justo Prieto Nº 223 entre Teófilo del Puerto y Nicolás Billof  
+Villa Aurelia 
+Código postal: 001417 
+Asunción 
+Tel.: (+595-21)  506 223/ 331/ 369 
+www.conacyt.gov.py 
+Contact:  
+amsud@conacyt.gov.py  
+María Teresa Cazal Gayoso - mcazal@conacyt.gov.py 
+Rafael Vera – rvera@conacyt.gov.py  
+ 
+PARAGUAY 
+CONCYTEC: 
+ 
+ 
+ 
+ 
+Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica 
+www.concytec.gob.pe 
+Contact:  
+Víctor García Rivera - vgarcia@concytec.gob.pe 
+ 
+ 
+PERÚ 
+ 
+ 
+ 
+ANII: 
+ 
+ 
+ 
+Agencia Nacional de Investigación e Innovación 
+Av. Italia 6201 Edificio Los Nogales 
+11100 Montevideo                        
+Tel: (+598) 2 6004411 
+www.anii.org.uy 
+Contact:  
+cooperacion@anii.org.uy 
+Veronica Suarez vsuarez@anii.org.uy  
+Laura Di Giovanni - ldigiovanni@anii.org.uy 
+ 
+ 
+URUGUAY 
+COLCIENCIAS
+: 
+Departamento Administrativo de Ciencia, Tecnología e Innovación - 
+COLCIENCIAS 
+AV. Calle 26 No. 57-83  Torre 8. Piso 2 al 6 
+Contacts:  
+Maria Eugenia Mejia Ospina - memejia@colciencias.gov.co 
+Juan Camilo Perez Cuervo - jcperez@colciencias.gov.co 
+Renzo García – rlgarcia@colciencias.gov.co 
+COLOMBIA 
+ 
+ 
+ 
+MPPEUCT: 
+Ministerio del Poder Popular Para Educación Universitaria, Ciencia, 
+Tecnología  
+Av Universidad Esquina El Chorro- Torre Ministerial 
+Caracas – Venezuela 
+Tel: (58212) 5557565 
+Contact: Gloria Carvalho - carvalhokassar@gmail.com 
+ 
+ 
+VENEZUELA 
+SENESCYT: 
+ 
+Secretaría de Educación Superior, Ciencia, Tecnología e Innovación  
+Whymper E7-37 y Alpallana 
+Tel +593 2 290 3249 extensión 118  
+ECUADOR 
+  
+ 
+8 
+ 
+170516 / Quito – Ecuador 
+Contact:  
+Jandry Daniel Fernández Iñiguez - jfernandez@senescyt.gob.ec 
+Marco Casco - m.casco@gmail.com 
+Juan Pablo Puchaicela - jpuchaicela@senescyt.gob.ec 
+ 
+ 
+ 
+MEAE : 
+ 
+ 
+ 
+ 
+Delegación Regional de Cooperación para América del Sur 
+Condell 65, Providencia – Santiago, Chile 
+Tel. : (+56) 2 2 4708007 
+www.franceamsud.org 
+Contact: Laetitia Quilichini – Laetitia.quilichini@diplomatie.gouv.fr 
+ 
+FRANCE 
+INRIA: 
+Direction des Relations Internationales 
+Domaine de Voluceau – Rocquencourt 
+B.P. 105 – 78153 Le Chesnay Cedex,                                            
+Tel: (+33) 1 39 63 57 68 
+www.inria.fr 
+Contact: Julie Pomponne - julie.pomponne@inria.fr  
+Christine Morin - christine.morin@inria.fr 
+ 
+ 
+ 
+FRANCE 
+CNRS: 
+ 
+DERCI  
+3 rue Michel-Ange 
+75016 Paris 
+Tel. : (+33 1) 44 96 46 79 
+www.cnrs.fr 
+Contacts: Antonia Alcaraz antonia.alcaraz@cnrs-dir.fr 
+Jean Theves – jean.theves@cnrs-dir.fr 
+ 
+ 
+Institut 
+Mines-
+Télécom: 
+ 
+ 
+ 
+ 
+ 
+Délégué à l'international - Direction de la Recherche et de l’Innovation  
+37-39 Rue Dareau, 75014 
+Tel : (+33)1 45 81 70 65 
+www.imt.fr 
+Contact: Pierre Simay – pierre.simay@imt.fr  
+ 
+ 
+ 
+ 
+ 
+ 
+                                                             
+ 
+1 
+ 
+ 
+ 
+REGLAMENTO DE LOS PROGRAMAS REGIONALES STIC-AMSUD y MATH-AMSUD 
+ 
+ 
+Artículo 1: Objetivos y descripción de los programas 
+ 
+Los Programas regionales STIC-AmSud y MATH-AmSud son una iniciativa de la cooperación 
+francesa y sus contrapartes de Argentina, Brasil, Chile, Colombia, Ecuador, Paraguay, Perú, 
+Uruguay y Venezuela orientada a promover y fortalecer la colaboración y la creación de redes 
+de investigación-desarrollo en el ámbito de las ciencias y tecnologías de la información y las 
+comunicaciones (STIC) y de las matemáticas (MATH), a través de la realización de proyectos 
+conjuntos. 
+ 
+Sus objetivos principales son: 
+ 
+- Desarrollar la colaboración en el ámbito de las ciencias y tecnologías de la información y las 
+comunicaciones y de las matemáticas a través del intercambio de investigadores y 
+estudiantes y de información entre los países de América del Sur implicados, así como entre 
+éstos y Francia. 
+ 
+- Apoyar proyectos de investigación básica y aplicada que contengan una dimensión potencial 
+de transferencia de tecnologías y de innovación, con componente regional, entre Francia y al 
+menos dos países sudamericanos asociados. 
+ 
+- Favorecer en América del Sur las sinergias con otros programas regionales y multilaterales 
+en este sector, en particular con la Unión Europea.  
+ 
+- Favorecer la participación de jóvenes investigadores para asegurar la continuidad de las 
+redes existentes.  
+ 
+Apoya proyectos de investigación reuniendo al menos un grupo de investigación francés y al 
+menos dos grupos de investigación pertenecientes a dos países sudamericanos participantes 
+del programa STIC-AmSud y MATH-AmSud. 
+ 
+ 
+Artículo 2: Instituciones participantes 
+ 
+1)  Las instituciones participantes: 
+Las instituciones participantes son las que co-financian los proyectos con equipos de sus 
+países. 
+ 
+Las 19 instituciones participantes son: 
+ 
+- el Ministerio de Europa y de Asuntos Exteriores de Francia (MEAE)  
+ 
+- el Centro Nacional de Investigación Científica de Francia (CNRS)  
+ 
+- el Instituto Nacional de Investigación en Informática y Automática de Francia (INRIA)  
+ 
+- el Instituto Mines-Télécom de Francia  
+ 
+- el Ministerio de Educación, Cultura, Ciencia y Tecnología (MECCyT)  
+ 
+ 
+                                                             
+ 
+2 
+ 
+- la Universidad Mayor de San Andrés de Bolivia (UMSA) 
+-  la Sociedad Boliviana de Matemática de Bolivia (SoBolMat) 
+ 
+- la Coordinación para el Perfeccionamiento de Personal de Nivel Superior de Brasil (CAPES)  
+- el Instituto de Matemáticas Puras y Aplicadas de Brasil (IMPA) 
+ 
+- la Comisión Nacional de Investigación Científica y Tecnológica de Chile (CONICYT)  
+- El Centro de Modelización Matemática de Chile (CMM) 
+- La Facultad de Matemáticas de la Pontificia Universidad Católica de Chile (PUC) 
+ 
+- el Consejo Nacional de Ciencia y Tecnología de Paraguay (CONACYT)  
+ 
+- el Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica de Perú (CONCYTEC)  
+- el Instituto de Matemática y Ciencias Afines de Perú (IMCA) 
+ 
+- la Agencia Nacional de Investigación e Innovación de Uruguay (ANII)  
+- el Departamento Administrativo de Ciencia, Tecnología e Innovación de Colombia 
+(COLCIENCIAS) 
+- el Ministerio del Poder Popular para la Educación Universitaria, Ciencias y Tecnología de 
+Venezuela (MPPEUCT) 
+- la Secretaría de Educación Superior, Ciencia Tecnología e Innovación de Ecuador 
+(SENESCYT). 
+ 
+2) La incorporación de nuevas instituciones al programa 
+ 
+Los programas están abiertos a la integración de nuevas instituciones francesas o 
+latinoamericanas propuestas por al menos una de las instituciones que participan del 
+programa. 
+ 
+Su incorporación debe ser solicitada mediante una carta de intención firmada por el 
+responsable de la nueva institución y enviada a la Delegación regional de Cooperación para 
+América del Sur.  
+ 
+La incorporación de una nueva institución al programa debe ser aprobada por todos los 
+miembros del Comité directivo de forma unánime durante la celebración de la reunión anual. 
+ 
+Artículo 3: Comité directivo 
+ 
+1)  Su composición: 
+ 
+El Comité directivo está compuesto por un representante de cada una de las instituciones 
+participantes. Es nombrado por su institución. 
+ 
+El cambio de un miembro del Comité directivo debe ser anunciado por su institución a la 
+Secretaría del programa. 
+ 
+Se recomienda a las instituciones que un miembro del comité científico no sea miembro del 
+comité directivo. 
+ 
+2) Sus funciones son:  
+ 
+- Definir las orientaciones estratégicas del programa  
+ 
+- Decidir las modificaciones del programa  
+ 
+                                                             
+ 
+3 
+ 
+- Decidir la incorporación de nuevas instituciones al programa  
+ 
+- Realizar la selección final de las candidaturas sobre la base de las propuestas del Comité 
+científico  
+ 
+- Asignar los financiamientos  
+ 
+- Aprobar los informes de avance y los informes finales de los proyectos financiados (cada 
+miembro debe aprobar los informes de los proyectos financiados por su institución).  
+ 
+3) El presidente del Comité directivo:  
+ 
+Sus funciones son dirigir las reuniones del Comité directivo y representar al programa. 
+ 
+La presidencia del Comité directivo se alterna entre los miembros del Comité directivo. Es 
+asumida por el representante del país que será el anfitrión de la reunión de los Comités 
+directivo y científico el año siguiente. 
+ 
+La co-presidencia es ocupada por la Delegación regional de Cooperación para América del Sur.  
+ 
+Artículo 4: Comité científico 
+ 
+1)  Su composición: 
+ 
+El Comité científico está compuesto por especialistas de las ciencias y tecnologías de la 
+información y las comunicaciones de alto nivel designados por las instituciones que participan 
+del programa. Cada institución es representada por un miembro. 
+ 
+El cambio de un miembro del Comité científico debe ser anunciado a la Secretaría del 
+programa por su institución. 
+ 
+Se recomienda a las instituciones que un miembro del comité científico no sea miembro del 
+comité directivo. 
+ 
+2) Sus funciones son:  
+ 
+- Asegurar el seguimiento científico del programa  
+ 
+- Nombrar a los expertos externos para evaluar los proyectos recibidos en cada convocatoria 
+a proyectos.  
+ 
+- Sobre la base de las evaluaciones de los expertos externos, elaborar una lista de los 
+proyectos seleccionados, clasificarlos según su calidad científica y entregar una opinión 
+sobre el plan de trabajo y el plan de financiamiento.  
+ 
+- Proponer la temática del seminario anual, en relación al país anfitrión.  
+ 
+- Evaluar los informes de avance y los informes finales de los proyectos financiados.  
+ 
+3) El presidente del Comité científico:  
+ 
+El Comité científico tiene un presidente, elegido por sus miembros por un periodo de tres 
+años. Coordina las actividades del Comité científico y es el interlocutor con la Secretaría y el 
+Comité directivo. Dirige las reuniones anuales del Comité científico y se encarga, con la ayuda 
+                                                             
+ 
+4 
+ 
+de un asesor de su elección, de la redacción de las minutas de la reunión del Comité científico. 
+Redacta las cartas de aceptación y de rechazo de los proyectos con el apoyo de la secretaría. 
+ 
+Toda renuncia debe ser comunicada por escrito a la Secretaría antes de la reunión anual, 
+durante la cual se realizará la elección de un nuevo presidente del Comité científico. 
+ 
+ 
+Ética y confidencialidad 
+Si alguno de los miembros del comité participa en un proyecto o tiene un conflicto de interés 
+con un postulante, deberá obligatoriamente informar a los otros miembros del comité y 
+retirarse durante la discusión del proyecto. 
+ 
+Los miembros del comité deberán mantener la confidencialidad de las informaciones, 
+evaluaciones y discusiones relativas a los proyectos STIC-AmSud y MATH-AmSud. 
+ 
+ 
+Artículo 5: La Secretaría 
+ 
+1)  La institución a cargo de la Secretaría: 
+ 
+La Secretaría está a cargo de una institución participante del programa. Puede ser transferida 
+a otra institución latinoamericana participante por decisión del Comité directivo durante la 
+reunión anual. 
+ 
+2) Sus funciones son:  
+ 
+- Preparar la redacción de la convocatoria anual a proyectos y transmitirla a todas las 
+instituciones participantes.  
+ 
+- Recibir las propuestas y verificar la admisibilidad de los proyectos  
+ 
+- Verificar la recepción de los proyectos por parte de las instituciones involucradas.  
+ 
+- Coordinar el proceso de evaluación de los proyectos en colaboración con el Comité científico 
+(envío y recepción de las evaluaciones de los expertos externos).  
+ 
+- Actualizar una base de datos de los evaluadores externos.  
+ 
+- Solicitar los informes de avance y los informes finales al coordinador internacional y 
+difundirlos a los comités.  
+ 
+- Apoyar la organización de la reunión anual de los Comités directivo y científico en 
+colaboración con las instituciones del país anfitrión.  
+- Apoyar la organización de los seminarios científicos en cooperación con las instituciones del 
+país anfitrión. 
+ 
+- Actualizar y animar el sitio web del programa.  
+ 
+- Facilitar los contactos entre los potenciales responsables científicos de proyectos a través 
+del sitio web.  
+ 
+Artículo 6: La Delegación regional de Cooperación para América del Sur 
+ 
+El papel de la Delegación regional es apoyar la coordinación de las actividades del programa, 
+en cooperación con la Secretaría. En particular: 
+                                                             
+ 
+5 
+ 
+ 
+- Asegura el co-financiamiento del programa y la organización de las reuniones anuales y de 
+los seminarios científicos en América latina. 
+ 
+- Co-preside las reuniones del comité directivo y ánima los debates.  
+- Rinde cuentas al Ministerio de Europa y de Asuntos Exteriores de Francia (MEAE) sobre el 
+conjunto de las actividades del programa.  
+ 
+Artículo 7: Funcionamiento y repartición de la toma de decisión 
+ 
+Considerando los distintos niveles de decisiones a tomar y discutir en el marco de los 
+Programas STIC Y MATH AmSud, se establece el siguiente funcionamiento: 
+1) Las decisiones políticas e inherentes a la organización y funcionamiento de los 
+Programas, estarán a cargo de una representación única por país. En el caso de que 
+algún país esté representado por más de una institución en el Comité Directivo, el 
+organismo principal de ciencia y tecnología a nivel nacional o el organismo designado 
+a tales efectos, deberá ser el coordinador de esa representación, siendo el portavoz de 
+la decisión final que se adopte. 
+2) Las decisiones de aporte financiero a los proyectos radicarán en cada una de las 
+instituciones miembros del Comité Directivo. Serán miembros del Comité Directivo 
+todas las instituciones financiadoras de los proyectos. 
+3) Las recomendaciones científicas emanarán de los Comités Científicos, cuyos miembros 
+son designados por las instituciones representadas en el Comité Directivo. 
+Artículo 8: Reunión y seminario anual 
+ 
+1)  La reunión anual de los Comités directivo y científico: 
+ 
+Los Comités directivo y científico, con la presencia de la Secretaría, se reúnen una vez al año 
+en el último trimestre del año. La fecha y el lugar se determinan durante la reunión anual por 
+el Comité directivo a partir de las propuestas de la(s) institución(es) de los países que desean 
+recibir. Cada país latinoamericano debe ser anfitrión en su turno, de la reunión anual de los 
+comités. 
+ 
+El país anfitrión entrega un apoyo logístico y se encarga de la organización de la reunión 
+anual, con la ayuda de la Secretaría. 
+ 
+El acta de la reunión anual es redactada por la Secretaría, leída al final de la reunión en 
+presencia de todos los participantes y firmada por los miembros del comité directivo. En esta 
+acta constan los proyectos aceptados, los financiamientos otorgados por cada institución, la 
+fecha, el lugar y el tema de la próxima reunión de los comités y las eventuales modificaciones 
+al programa e incorporaciones de nuevas instituciones. Toda decisión que figura en el acta 
+debe ser respetada por las instituciones participantes del programa. 
+ 
+Con el fin de permitir a los participantes extranjeros de aprovechar el desplazamiento y 
+organizar encuentros profesionales al margen de las actividades del programa, la Secretaría 
+deberá comunicar lo antes posible, y a más tardar dos semanas antes del inicio de las 
+                                                             
+ 
+6 
+ 
+reuniones de los comités, un programa de la reunión anual. 
+ 
+ 
+ 
+Pasajes de avión y viáticos para asistir a la reunión anual de los comités directivo y 
+científico 
+ 
+Los pasajes de avión y viáticos de los miembros del comité directivo estarán a cargo de sus 
+instituciones respectivas. 
+ 
+Los pasajes de avión y viáticos del presidente del comité científico serán financiados por su 
+institución respectiva. 
+ 
+Los pasajes de avión y viáticos de los miembros franceses del comité científico serán 
+financiados por sus instituciones respectivas. 
+ 
+ 
+Los miembros del comité científico se reunirán virtualmente una o dos semanas antes de la 
+reunión anual para evaluar, si es necesario, y clasificar los proyectos. Únicamente los 
+presidentes del comité científico de cada Programa asistirán a la reunión anual junto al comité 
+directivo, con el objeto de contar con una experticia científico, en caso necesario, durante las 
+decisiones propias a los programas y a los financiamientos de los proyectos. 
+ 
+2) Seminarios científicos 
+ 
+En paralelo a la reunión anual de los comités directivo y científico, un seminario científico 
+sobre las ciencias y tecnologías de la información y las comunicaciones convocando a jóvenes 
+investigadores podrá ser organizado bajo la forma de talleres y/o sesiones paralelas. Su 
+objetivo es promover los intercambios científicos de información entre investigadores, 
+estimular la realización de proyectos y motivar la participación particularmente de los actores 
+de país anfitrión. 
+ 
+El tema de este seminario es propuesto por el presidente del Comité científico durante la 
+reunión anual. 
+ 
+El país anfitrión entrega un apoyo logístico y se encarga de la organización de los seminarios 
+científicos, con la ayuda de la Secretaría. 
+ 
+La Delegación regional financiará los pasajes y viáticos de los conferencistas latino-
+americanos y el país anfitrión financiará los pasajes y los viáticos de los conferencistas 
+franceses.  
+ 
+Algunos proyectos financiados por el programa pueden ser objeto de una presentación 
+durante los seminarios científicos. 
+ 
+El país anfitrión puede proponer nuevas formas de encuentro, para la realización de cualquier 
+tipo de actividad científica adaptada a las necesidades del país anfitrión. El objetivo es 
+difundir más ampliamente los resultados de los proyectos y asociar de manera activa los 
+estudiantes, los jóvenes investigadores y la sociedad civil a esos encuentros.  
+                                                             
+ 
+7 
+ 
+ 
+Un comité debe ser constituido por el país anfitrión, con el previo país anfitrión – el cual podrá 
+compartir su experiencia -, el Comité Científico y la Secretaría General a fin de iniciar cuanto 
+antes su organización. 
+ 
+Artículo 9: Convocatoria a proyectos 
+ 
+1)  El texto de la convocatoria a proyectos: 
+ 
+El texto de la convocatoria a proyectos es preparado por la Secretaría y validado por el Comité 
+directivo durante la reunión anual. Es redactado en inglés, español, francés. 
+ 
+2)  Las modalidades de publicación: 
+ 
+El texto es publicado en inglés cada año por la Secretaría en el sitio web del programa. 
+ 
+Cada institución es responsable de su publicación en su país en el idioma de su elección. Toda 
+modificación sobre el texto de la convocatoria adoptada en la reunión anual debe ser 
+incorporada por las instituciones en sus respectivos llamados. 
+ 
+ 
+Artículo 10: Candidaturas 
+ 
+1)  La recepción de las candidaturas: 
+ 
+La postulación de las propuestas deberá efectuarse vía la plataforma en línea disponible en el 
+sitio web de CONICYT para el efecto:  https://auth.conicyt.cl/  
+El/la Coordinador/a Internacional deberá enviar a través de la plataforma de postulación una 
+versión .pdf en inglés del proyecto incluyendo los CVs de los(as) participantes del proyecto. Se 
+puede acceder a la plataforma de postulación de CONICYT desde la página web de los 
+programas STIC y MATH AmSud: http://www.sticmathamsud.org/. 
+Los formularios para la presentación de proyectos están disponibles en la página web de 
+STIC-MATH AmSud, en la plataforma de postulación y en los sitios web de cada organismo 
+participante. 
+ 
+Adicionalmente para los investigadores de Brasil, deben presentar el proyecto a CAPES hasta 
+el 31 de mayo en el sitio web del programa según las disposiciones establecidas en las bases 
+publicadas en su sitio web. Igualmente, el/la Coordinador/a Internacional lo deberá enviar a 
+la Secretaría de este Programa.1 
+ 
+Para los investigadores de Colombia que solicitan financiamiento a COLCIENCIAS, deben estar 
+reconocidos en las 3 categorías que cuenta dicha institución. 
+                                                           
+1 Para toda información adicional, ponerse directamente en contacto con CAPES (sticamsud@capes.gov.br ; 
+mathamsud@capes.gov.br) o la Secretaria General 
+                                                             
+ 
+8 
+ 
+ 
+Los investigadores peruanos deben registrar su participación a más tardar el 16 de Mayo, 
+13:00 GMT-05 (Hora de Perú) en FONDECYT (http://www.fondecyt.gob.pe/). 
+ 
+Los investigadores argentinos interesados en presentar proyectos deberán contactarse con el 
+MECCyT: bilateral@mincyt.gob.ar, a los efectos de conocer y aceptar las condiciones de 
+financiamientos del MECCyT para esta convocatoria. 
+ 
+Los investigadores uruguayos interesados en presentar proyectos deberán enviar copia de la 
+postulación a ANII a la casilla siguiente: snb_movilidad@anii.org.uy. 
+ 
+2)  La validación de las candidaturas: 
+ 
+La Secretaría verificará la admisibilidad de los proyectos. 
+ 
+Los equipos de proyectos finalizados podrán presentar un nuevo proyecto de investigación, 
+una vez entregado el informe final. De ser aprobado, la ejecución de este nuevo proyecto 
+estará sujeta a la aprobación del informe final del proyecto anterior. Deberán 
+obligatoriamente referirse a nuevas temáticas a investigar. Se dará prioridad a equipos que no 
+hayan sido financiados en los últimos dos años. 
+ 
+También serán prioritarios los proyectos que incluyan doctorandos y/o post-doctorandos. 
+ 
+3) El recurso de apelación  
+ 
+Se abrirá un recurso de apelación descrito en las bases de la convocatoria de los programas.  
+ 
+4)  El proceso de evaluación: 
+ 
+El proceso de evaluación es supervisado por el Comité científico y su presidente, quienes 
+nombran a los expertos externos. La Secretaría coordina el envío y recepción de las 
+evaluaciones. 
+ 
+Dirigido por el Presidente del Comité científico, cada miembro del Comité propondrá un 
+número de expertos externos para evaluar un número limitado de proyectos. 
+Las evaluaciones serán enviadas a la Secretaría que centralizará y transmitirá a los miembros 
+del Comité científico. 
+ 
+Cada proyecto debe ser evaluado por al menos dos expertos externos que no pertenezcan a 
+instituciones que forman parte del proyecto evaluado. En caso de desacuerdo importante 
+entre las dos evaluaciones, un tercer experto debe ser designado por el Comité científico. 
+ 
+Los expertos designados para evaluar los proyectos son científicos de alto nivel, sin relaciones 
+con los proponentes del proyecto. 
+ 
+ 
+                                                             
+ 
+9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5)  La elección de los proyectos 
+ 
+La elección de los proyectos es realizada durante la reunión anual de los comités. 
+ 
+A partir de las evaluaciones de los proyectos por los expertos externos, los miembros del 
+Comité científico proceden a la clasificación de los proyectos según: 
+ 
+- 
+La excelencia científica del proyecto,  
+ 
+- 
+Su carácter innovador,  
+ 
+- 
+La creación de nuevas colaboraciones internacionales,  
+ 
+- 
+La complementariedad de los participantes,  
+ 
+- 
+La transferencia mutua de competencias e innovaciones,  
+ 
+- 
+Los antecedentes de los grupos de investigación,  
+ 
+- 
+La participación de jóvenes investigadores en los intercambios.  
+ 
+Los miembros del Comité directivo, a partir de la clasificación transmitida por el Comité 
+científico, realizan la selección final de las propuestas. 
+ 
+6)  El anuncio de los resultados: 
+ 
+Después de la decisión del Comité directivo, la lista de los proyectos aceptados es publicada 
+por la Secretaría en el sitio web del programa. Cada institución es responsable de la 
+publicación de los resultados en su país. 
+ 
+Los resultados de la postulación son comunicados al coordinador internacional de cada 
+proyecto por la Secretaría del Programa a través de correo electrónico. 
+ 
+Artículo 11: Financiamiento 
+ 
+1)  El co-financiamiento por las instituciones participantes: 
+ 
+Los proyectos son co-financiados por las instituciones participantes involucradas en el 
+proyecto. El monto del financiamiento anual por proyecto es adjudicado por el Comité 
+directivo durante la reunión anual y señalado en el acta. 
+ 
+2)  El tipo de financiamiento: 
+ 
+El programa financia la movilidad de investigadores entre los países participantes: estadías de 
+investigación, intercambios para la realización de talleres científicos y/o escuelas de verano, 
+que permitan la participación de personal permanente, de jóvenes investigadores y de 
+estudiantes. 
+ 
+                                                             
+ 
+10 
+ 
+La modalidad de financiamiento de los proyectos es la siguiente: cada institución paga la 
+movilidad de sus equipos de investigadores: pasajes y viáticos. 
+ 
+Los investigadores pueden participar simultáneamente en varios proyectos, sin embargo, sólo 
+podrán beneficiarse de los intercambios en un solo proyecto. 
+ 
+ 
+3)  El periodo del financiamiento: 
+ 
+Los proyectos tendrán una duración de dos años. La decisión de financiamiento para el 
+segundo año estará subordinada tanto a la presentación y evaluación favorable de un informe 
+de actividades académicas del primer año, así como a las disponibilidades presupuestarias de 
+cada institución participante del proyecto. 
+ 
+4) Renovaciones de financiamiento para un segundo año: 
+ 
+Un informe de avance debe ser enviado por el coordinador internacional a la Secretaría antes 
+del 1ero de octubre del primer año del proyecto. 
+ 
+Este informe debe ser evaluado por el Comité científico y aprobado por el Comité directivo 
+sobre la base de los objetivos cumplidos y del plan de trabajo propuesto. 
+ 
+Para realizar esta evaluación, los informes de avance serán transmitidos a los miembros del 
+Comité científico, así como un cuadro de análisis. Este cuadro deberá ser completado y 
+enviado a la Secretaría antes de la reunión anual. 
+ 
+Para que el financiamiento se otorgue para un segundo año, deberá ser aprobado por todas 
+las instituciones que financian el proyecto. 
+ 
+Los miembros del Comité directivo emiten su opinión sobre la continuidad o no del segundo 
+año del proyecto durante la reunión anual. 
+ 
+Artículo 12: Evaluación ex-post 
+ 
+1)  El informe final: 
+ 
+Un informe final es solicitado al coordinador internacional de cada proyecto por la Secretaría 
+al término de su proyecto. Deberá ser enviado por el coordinador internacional a la Secretaría 
+a más tardar tres meses después de su término. 
+ 
+2)  La evaluación de los informes finales: 
+ 
+El Comité directivo aprueba los informes finales, posterior a la evaluación realizada por 
+Comité científico. El Comité Científico se reúne de manera virtual a mediados de abril para 
+hacer la evaluación de los informes finales.  
+ 
+La Secretaría comunicará los resultados de la evaluación del informe final (aceptado, 
+rechazado) a los coordinadores internacionales. 
+                                                             
+ 
+11 
+ 
+ 
+3)  Los criterios de evaluación: 
+ 
+Los principales criterios de evaluación son: 
+ 
+- La calidad científica de los resultados  
+ 
+- El número de intercambios de investigadores  
+ 
+- La participación de estudiantes y las tesis realizadas  
+ 
+- El número de publicaciones co-firmadas (así como las menciones al programa en las 
+publicaciones) y las ponencias a seminarios y coloquios  
+ 
+- Las colaboraciones desarrolladas con el sector privado  
+ 
+- La creación de sinergias con otros programas de investigación  
+ 
+- La puesta en marcha de nuevos programas de investigación entre Francia / Europa y 
+América Latina.  
+ 
+4)  Sanciones 
+ 
+Los responsables científicos nacionales, así como el coordinador internacional cuyos informes 
+finales, correspondientes a convocatorias anteriores, sean calificadas como rechazados o no 
+hayan presentado el informe final no podrán presentarse a este concurso. Esta prohibición se 
+extenderá por un plazo de tres años posteriores a la conclusión del proyecto anterior. 
+ 
+Artículo 13: Modificaciones al reglamento 
+ 
+El presente reglamento puede ser modificado por las instituciones participantes del programa 
+durante la reunión anual del Comité directivo y con aprobación unánime. 
+ 1 
+ 
+CONICYT 
+ 
+CONCURSOS DE LOS PROGRAMAS REGIONALES STIC/MATH 
+AMSUD – CONICYT CONVOCATORIA 2019 
+ 
+ 
+INSTRUCTIVO DE POSTULACIÓN EN LÍNEA 
+  
+ 
+ 
+ 
+INDICE 
+ 
+INGRESO AL SISTEMA   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+SELECCIÓN CONCURSO  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+INICIO POSTULACIÓN  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+ 
+I.- 
+Selección MENÚ GENERAL  
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+II.-  
+Pestaña INFORMACIÓN   
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+III.-  Pestaña ANTECEDENTES   
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+IV.-  Pestaña INSTITUCIÓN  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+V.-     Pestaña EQUIPO DE TRABAJO    
+ 
+ 
+ 
+ 
+ 
+13 
+VI.-  Pestaña FORMULACIÓN    
+ 
+ 
+ 
+ 
+ 
+ 
+16 
+VII.- Pestaña ANEXOS  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16 
+VII.-  Pestaña REVISIÓN/ENVÍO 
+ 
+ 
+ 
+ 
+ 
+ 
+17 
+ 
+ 
+A continuación se entregan las instrucciones para ingresar la postulación en 
+línea indicando los campos a llenar en cada sección y su significado.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+CONSIDERACIONES GENERALES 
+ 
+Se puede ingresar la postulación en idioma español o inglés. 
+ 
+INGRESO AL SISTEMA 
+ 
+Crear Cuenta 
+ 
+Para 
+crear 
+una 
+cuenta 
+usted 
+deberá 
+ingresar 
+al 
+siguiente 
+link  
+https://auth.conicyt.cl y posteriormente selección el botón continuar (Fig.1). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 1. 
+ 
+A continuación deberá seleccionar el botón “cree su cuenta” (Fig.2). 
+Posteriormente deberá completar los campos solicitados en el formulario y una 
+vez realizada esta acción deberá presionar el botón siguiente.  
+Usted tiene que crear su propia clave: debe contener al mínimo ocho caracteres 
+e incluir números, letras y estar libre de caracteres idénticos consecutivos.  
+A continuación le llegará un email con las instrucciones para validar su cuenta. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+Figura 2. 
+ 
+Recuperar Clave 
+ 
+Si usted no recuerda su clave, puede recuperarla seleccionando la opción 
+“¿olvido su clave?” (Fig 3.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 3. 
+ 
+Posteriormente se desplegará una nueva ventana, en la cual usted deberá 
+ingresar su correo y luego presionar el botón “Continuar” (Fig. 4). La nueva clave 
+la recibirá al correo electrónico ingresado. 
+ 
+ 
+ 4 
+ 
+Figura 4. 
+ 
+SELECCIÓN CONCURSO 
+ 
+Al ingresar al Sistema, encontrará las siguientes cuatro secciones, tal y como se 
+muestra a continuación, para acceder a los concursos deberá elegir la sección 
+“Postulante” y seleccionar la opción “Cree una nueva postulación” (Fig 5). 
+ 
+ 
+ 
+Figura 5. 
+ 
+ 
+Usted podrá visualizar todos los concursos que se encuentran publicados. Para 
+postular debe seleccionar el Concurso “CONCURSO DEL PROGRAMA 
+REGIONAL STIC/AMSUD o MATH/AMSUD – CONICYT CONVOCATORIA 2019” 
+como se muestra en la (Fig.6). 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+Figura 6. 
+ 
+ 
+ 
+A continuación, seleccione el botón “Iniciar Postulación”. 
+ 
+ 
+ 
+ 
+Figura 7. 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+Por favor, después de haber ingresado sus datos en cada sección, 
+cuando finalice, presione el botón “Guardar” y pase a la pestaña 
+siguiente. 
+ 
+ 
+INICIO POSTULACIÓN 
+ 
+I. 
+Selección MENÚ GENERAL 
+ 
+ 
+ 
+ 
+ 
+Figura 8. 
+ 
+En el Menú inferior se encuentran disponibles las diferentes pestañas para 
+completar durante su postulación, estas son: Información, Antecedentes, 
+Institución, Equipo de Trabajo, Formulación, Anexos y Revisión/envío. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 
+ 
+II. 
+Pestaña INFORMACIÓN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 9. 
+ 
+En esta sección se encuentran los objetivos del Concurso, a quién está dirigido y 
+las recomendaciones a los postulantes.  
+ 
+Usted deberá aceptar los términos y condiciones, tal y como se indica a 
+continuación. 
+    
+   
+Figura 10. 
+ 
+ 
+Cuando finalice, presione el botón “Guardar” y pase a la pestaña superior 
+“Antecedentes” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+III. 
+Pestaña “Antecedentes” 
+ 
+ 
+Figura 11. 
+ 
+En esta sección usted deberá llenar los antecedentes generales de identificación 
+del proyecto, así como incluir un resumen de éste. 
+ 
+ 
+Sección: “Identificación del Proyecto” 
+ 
+1. Título de la Propuesta.  
+ 
+En este Concurso este campo corresponde al Título del proyecto. Le 
+sugerimos usar un nombre original, de modo de evitar coincidencias con 
+proyectos previos. El Título de la propuesta debe ser exactamente el 
+mismo en todos los formularios entregados a este concurso y debe ser en 
+inglés. 
+ 
+2. Palabras Clave.  
+ 
+Al momento de empezar a escribir una palabra (la cual debe ser en idioma 
+INGLES) el Sistema por defecto le ofrecerá palabras clave entre las cuales 
+usted deberá seleccionar las más cercanas a su temática. El listado de 
+palabras clave que el Sistema ofrece corresponde a aquellas ya ingresadas 
+en los artículos científicos indizados en WOS y SCOPUS. Una vez 
+encontrada la palabra clave, usted debe seleccionarla y luego presionar el 
+botón Agregar+. 
+ 
+3. Duración del Proyecto. 
+ 
+Estos Proyectos tienen una duración pre-establecida de dos años, es decir 
+24 meses. El Coordinador Internacional enviará a la Secretaría el informe 
+de avance del proyecto antes del 1er de octubre de 2019. Al culminar el 
+primer año de ejecución y, de acuerdo al informe de avance, el Comité 
+Directivo decidirá la entrega de recursos financieros para el segundo año. 
+ 
+ 9 
+ 
+ 
+4. Tipo de Proyecto 
+ 
+Debe seleccionar la opción STIC AmSud para el Programa Regional STIC 
+AmSud y la opción MATH AmSud para el Programa Regional MATH AmSud. 
+ 
+5. Disciplinas principales 
+ 
+Seleccione las disciplinas principales asociadas al estudio. Para incorporar 
+Disciplina Principal, debe seleccionar la opción correspondiente al último nivel 
+y luego presionar el botón 'Agregar+'. 
+ 
+ 
+6. Disciplinas OCDE 
+ 
+Seleccione la(s) disciplina(s) OECD asociada(s) al estudio. Para incorporar 
+Disciplina OCDE, debe seleccionar la opción correspondiente al último nivel y 
+luego presionar el botón 'Agregar+'. 
+ 
+7. Impacto de cooperación 
+ 
+Seleccione en la lista propuesta el impacto de cooperación asociado al 
+estudio. 
+ 
+Cuando finalice, presione el botón “Guardar” y pase a la pestaña superior. 
+Sección: Resumen y Objetivos 
+ 
+Figura 12. 
+En esta sección debe ingresar el resumen del proyecto, para lo cual dispondrá de 
+un máximo de 2000 caracteres. 
+ 
+ 
+ 
+ 10 
+ 
+ 
+Figura 13. 
+ 
+También debe ingresar 1) el objetivo general (max. 500 caracteres) y 2) los 
+objetivos específicos (max. 500 caracteres) en esta sección. 
+ 
+ 
+ 
+IV. 
+Pestaña “Institución” 
+      
+Figura 14. 
+ 
+Sección: “Institución” 
+ 
+En esta sección usted deberá agregar la Institución Participante.  
+ 
+Presionando el botón “Agregar Institución +” (Fig. 15), aparecerá un cuadro 
+(Fig. 16) que permitirá agregar el nombre de la Institución.  
+ 
+ 
+Figura 15. 
+ 
+ 11 
+ 
+ 
+Figura 16. 
+ 
+ 
+Al ingresar el nombre de la institución que se desea agregar y presionar el botón 
+“Buscar”, aparecerá una o más coincidencias, dependiendo de los registros de 
+instituciones disponibles en la base de datos del Sistema. Seleccione el resultado 
+que coincida con la Institución que desea agregar según se aprecia en la 
+(Fig.17). 
+ 
+Para seleccionar la categoría de la institución, al ingresarla deberá seleccionar el 
+campo “Tipo de institución” del formulario y elegir la categoría, esta puede ser 
+“Institución Suramericana” o “Institución de Francia” (Fig.17). 
+ 
+En esta sección usted debe agregar las instituciones participantes del proyecto a 
+las que pertenecen todos los miembros del equipo de Suramérica y de Francia.  
+ 
+Recuerde que para garantizar el carácter regional del proyecto, tiene que incluir 
+al menos dos investigadores suramericanos y un investigador francés. 
+ 
+Se debe identificar la Institución a la que pertenece el /la investigador/a 
+responsable de Suramérica y de Francia.  
+ 
+En el caso de ingresar una institución que no aparezca en la lista desplegada por 
+el sistema, se puede ingresar manualmente. 
+ 
+El RUT y el RUN son números de identificación chilenos que valen sólo para la 
+postulación de universidades e investigadores chilenos. 
+ 
+ 
+ 12 
+ 
+ 
+Figura 17. 
+ 
+CUANDO INGRESE LA INSTITUCIÓN, EL SISTEMA SUGERIRÁ EN EL 
+CAMPO “UNIDAD EJECUTORA”, UNA O MÁS FACULTADES Y/O 
+CENTROS.  
+ 
+Si el listado de instituciones no incluye aquella que usted desea agregar, deberá 
+ingresarla manualmente seleccionando el botón “Agregar” (Fig. 18). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 18. 
+ 
+ 13 
+ 
+Al presionar el botón “Agregar”, aparecerá un cuadro con campos para completar 
+tales como: nombre de la Institución, RUT, nombre del Representante Legal, tipo 
+de institución, entre otros (Fig. 19).  
+ 
+Deberá realizar esta operación cuantas veces sea necesario. Recuerde guardar 
+los cambios presionando el botón “Guardar”.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 19. 
+ 
+ 
+ 
+V. 
+Pestaña “Equipo de Trabajo” 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 20. 
+ 
+En esta sección se deben ingresar las categorías siguientes (Fig. 20): 
+ 
+ 
+Coordinador Internacional del Proyecto: Ingrese aquí el nombre y la experiencia 
+del coordinador(a) internacional del proyecto. Sólo debe haber un coordinador 
+internacional del proyecto en el equipo. 
+ 
+ 14 
+ 
+ 
+ 
+ 
+Figura 21. 
+ 
+ 
+Coordinadores Nacionales del Proyecto (mínimo 2): Debe agregar al mínimo 
+dos 
+coordinadores 
+nacionales, 
+además 
+de/de 
+la 
+coordinador/a 
+internacional. El coordinador internacional también puede ser el coordinador 
+nacional de su propio país. (Fig. 21) 
+ 
+ 15 
+ 
+ 
+ 
+Figura 22. 
+ 
+Para agregar Coordinadores(as) a la propuesta, deberá pinchar el botón “Agregar 
+investigador +” (Fig. 22). Al presionarlo se abrirá una nueva ventana (Fig. 23), la 
+cual permitirá ingresar las informaciones relativas al Investigador. 
+ 16 
+ 
+ 
+ 
+ 
+ 
+Figura 23. 
+ 
+Al completar la información faltante, presione el botón “Guardar”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ 
+VI. 
+Pestaña “Formulación” 
+ 
+ 
+Figura 24. 
+En esta sección se deberá adjuntar los siguientes documentos: 
+ 
+Formulario 
+de 
+propuesta 
+(Formato 
+PDF; 
+Tamaño 
+máximo 
+10 
+MB).OBLIGATORIO. 
+ 
+Evaluadores propuestos (Formato PDF; Tamaño máximo 10 MB). 
+OBLIGATORIO. 
+ 
+Para transformar los archivos desde formato .doc ó .docx a .pdf, deberá usar los 
+siguientes programas: 
+ 
+Foxit Reader: http://www.foxitsoftware.com/downloads/ 
+PDF Creator: http://www.pdfforge.org/download o 
+http://sourceforge.net/projects/pdfcreator/ 
+ 
+ 
+VII. Pestaña “Anexos” 
+ 
+ 
+Figura 25. 
+ 
+Curriculums (Formato PDF; Tamaño máximo 10 MB). OBLIGATORIO. 
+ 
+Cartas de compromiso: (Formato PDF, Tamaño máximo 10 MB). 
+OPCIONAL. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18 
+ 
+ 
+VIII. Pestaña “Revisión/envío” 
+ 
+Figura 26. 
+ 
+Al presionar el botón “Revisión/envío” (Fig. 26), el Sistema verificará si la 
+información obligatoria fue completada y los documentos cargados. Esta 
+validación no verificará el contenido de los documentos, sino que solamente haya 
+sido realizada la carga de los archivos obligatorios. 
+ 
+ 
+Paso 1. Verificar  
+ 
+ 
+Figura 27. 
+ 
+En esta etapa, el Sistema verificará la completitud de la postulación en línea, 
+indicando lo que falta para poder realizar el envío de su postulación. Para 
+completar información faltante, deberá presionar el botón “Editar”. 
+ 
+Si luego de presionar “Revisión/envío” el Sistema le indica que su postulación 
+está con su información y sin observaciones, deberá presionar el botón 
+“Continuar”. Al hacer esto, aparecerá el siguiente cuadro:  
+ 
+Figura 28. 
+ 
+Usted tendrá 2 alternativas: 1) “Cerrar”, en cuyo caso volverá al paso “Verificar”, 
+pudiendo modificar su postulación sin ver un borrador completo de ella, y 2) 
+“Continuar”, el cual le permitirá acceder al paso “Revisar”. 
+ 19 
+ 
+ 
+Figura 29. 
+ 
+Paso 2. Revisar 
+ 
+En este paso el Sistema le permitirá revisar la información ingresada. Al 
+seleccionar la opción “Ver Postulación” de la (Fig. 30), se abrirá una nueva 
+ventana en la cual usted podrá revisar la información que ingresó navegando en 
+el Menú que aparece en el costado derecho de la pantalla.  
+ 
+ 
+Figura 30. 
+ 
+ 
+El botón “Continuar” le permitirá avanzar a la etapa “Enviar”. 
+ 
+ 
+ 
+Paso 3. Enviar 
+ 
+Para enviar la postulación, usted deberá leer y aceptar las condiciones contenidas 
+en la Declaración Jurada expuesta en el Sistema, adherir a la Declaración de 
+Singapur sobre la integridad de la investigación e ingresar su clave de acceso. 
+Sólo entonces podrá presionar el botón “Enviar Postulación” (Fig. 31). Recuerde 
+que una vez enviada su postulación, ya no será posible realizar modificaciones. 
+ 
+ 20 
+ 
+ 
+Figura 31. 
+ 
+ 
+Paso 4. Comprobante 
+ 
+Enviada su postulación, aparecerá en pantalla un mensaje que indica el número 
+de postulación, fecha y hora en que ésta se realizó (Fig. 32). Usted podrá 
+acceder al Certificado de Postulación, a la Declaración Jurada de Veracidad, así 
+como también a una copia de la postulación enviada. 
+ 
+ 
+ 
+ 21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 32. 
+ 
+ 
+Luego de enviar su postulación, el Sistema le enviará un mensaje de 
+confirmación vía correo electrónico, indicando que su postulación se encuentra 
+recepcionada por CONICYT. 
+ 
+ 
+ 
+  
+Normativa de Chile acerca de la protección de datos personales 
+ 
+La Ley de Transparencia de la Función Pública y de Acceso a la Información de la 
+Administración del Estado, aprobada por el artículo primero de la Ley N° 20.285 de 2008, en su 
+artículo 21, establece que ”Las únicas causales de secreto o reserva en cuya virtud se podrá denegar 
+total o parcialmente el acceso a la información (son) […] cuando su publicidad, comunicación o 
+conocimiento afecte los derechos de las personas, particularmente tratándose de su seguridad, su 
+salud, la esfera de su vida privada o derechos de carácter comercial o económico.” 
+ 
+La Ley N° 19. 628 sobre protección de datos de carácter personal, en su artículo 2, define los 
+datos personales como “aquellos relativos a personas naturales, identificadas o identificables” y 
+“aquellos datos personales que se refieren a las características físicas o morales, o a hechos o 
+circunstancias de su vida privada o intimidad”. En su artículo 7, establece un deber de reserva, 
+definido como una “obligación de las personas que trabajan en el tratamiento de datos personales 
+de guardar secreto de aquellos cuando provengan o hayan sido recolectados de fuentes no 
+accesibles al público.” El artículo 10 de esta misma ley establece que “no pueden ser objeto de 
+tratamientos los datos sensibles, salvo cuando la ley los autorice y que exista un consentimiento del 
+titular.” 
+ 
+Conforme a lo establecido en el artículo 11 de la Ley N° 19.628, el responsable de los 
+registros o bases donde se almacenen datos personales, con posterioridad a su recolección, deberá 
+cuidar de ellos con la debida diligencia, haciéndose responsable de los daños. Según lo prescribe el 
+artículo 7° de la Ley N° 19.628, las personas que trabajan en el tratamiento de datos personales o 
+tengan acceso a éstos de otra forma (como aquellos funcionarios públicos autorizados para el acceso 
+a bancos de datos de los organismos respectivos), están obligadas a guardar secreto sobre los 
+mismos, cuando provengan o hayan sido recolectados de fuentes no accesibles al público, como 
+asimismo sobre los demás datos y antecedentes relacionados con el banco de datos, obligación que 
+no cesa por haber terminado sus actividades en ese campo. 
+De conformidad con el artículo 4° de la Ley N° 19.628, sólo es posible tratar datos de carácter 
+personal cuando exista autorización legal, ya sea de la propia Ley N° 19.628 o de otras normas de 
+igual rango. De acuerdo a la referida Ley, cuando los órganos de la Administración del Estado 
+efectúen tratamientos de datos personales no será necesario el consentimiento del titular de los 
+datos, respecto de las materias de su competencia y con sujeción a las reglas que la ley establece.  
+ 
+La Ley de Transparencia y la Ley N°19.628 sobre protección de datos de carácter personal 
+exigen una atenta observancia de los órganos públicos en cuanto a la debida reserva hacia los datos 
+de carácter personal. Esta legislación apunta a proteger la recogida, el almacenamiento, la utilización 
+y la transmisión ilimitados de los datos concernientes a su persona. 
+ User register 
+ 
+Create New User 
+User name (email adress)* 
+Nationality* 
+RUN (Chilean identity number) 
+Serial number / identity document number 
+Passport* 
+Type of Chilean Visa (just for foreigners)* 
+Name 1* 
+Name 2 
+First Name 1* 
+First Name 2 
+Birth date* 
+Gender* 
+Cellphone Number 
+ 
+Enter your password, at the end you will be sent an email to validate your account 
+ 
+Password* 
+Repeat Password* 
+ 
+I accept the terms and conditions 
+ 
+  
+ 
+ 
+PREGUNTAS FRECUENTES 
+CONCURSOS DE LOS PROGRAMAS REGIONALES STIC/MATH AMSUD 
+ 
+1. ¿Quién puede participar en los Concursos de los Programas 
+Regionales STIC / MATH AmSud? 
+Pueden postular investigadores de unidades y laboratorios de investigación, 
+públicos 
+o 
+privados, 
+vinculados 
+a 
+establecimientos 
+de 
+enseñanza 
+superior, organismos de investigación o empresas. 
+ 
+Cada proyecto deberá asociar al menos un grupo de investigación francés y 
+al menos dos grupos de investigación pertenecientes a dos países 
+sudamericanos participantes. 
+ 
+ 
+2. ¿Cuáles son las áreas temáticas de los Concursos de los Programas 
+Regionales STIC / MATH AmSud? 
+En el Programa Regional STIC AmSud, el llamado está abierto a todas las 
+temáticas relacionadas al ámbito de las TIC’s. Las propuestas, cuyas temáticas 
+científicas estén matizadas de otras áreas científicas tales como ciencias de la 
+ingeniería, pueden considerarse dado que requieren también un importante 
+trabajo innovador en TIC. 
+En el Programa Regional MATH AmSud, el llamado está abierto a todas las 
+temáticas relacionadas al ámbito de las matemáticas. 
+ 
+3. ¿Cuáles son las modalidades de cooperación involucradas en los 
+Programas Regionales STIC/MATH AmSud? 
+Se presentan proyectos conjuntos de investigación y desarrollo, a través de 
+intercambios entre los equipos participantes (estancias de investigación), la 
+realización de talleres y/o de escuelas intensivas (cursos de corta duración) que 
+permitan la participación de profesores y estudiantes. 
+ 
+- Sólo se financiarán intercambios de una duración igual o inferior a 30 días. 
+- Se recomienda particularmente que la duración de los intercambios sea de un 
+mínimo de 10 días en caso de traslados entre Francia y América del Sur (y vice 
+versa), y de una semana dentro de la región sudamericana. 
+- Se debe realizar, al menos, un intercambio de Francia a América del Sur y de 
+América del Sur a Francia. 
+  
+ 
+ 
+- Asimismo, se valorará positivamente la realización de una reunión de trabajo 
+en América del Sur con todo el equipo de investigación. 
+- El proyecto debe claramente mencionar las modalidades de participación de los 
+jóvenes investigadores (misiones, actividades, etc.), las cuales serán valoradas 
+positivamente. 
+ 
+ 
+4. ¿Cuáles son las modalidades de financiamiento? 
+ 
+- 
+Los recursos se entregarán anualmente.  
+ 
+- 
+La modalidad de financiamiento es la siguiente: el organismo que envía 
+cubre los gastos de pasajes y los gastos de estadía de sus equipos. 
+ 
+- 
+Los gastos serán detallados indicando número de intercambios, objetivos de 
+cada uno, duración, país de destino y nombre del beneficiario. 
+ 
+- 
+Los presupuestos deberán indicar los montos solicitados a: 
+- 
+cada organismo sudamericano participante, 
+- 
+el Ministerio francés de Europa y de Asuntos Exteriores (MEAE) 
+- 
+el o los organismos o laboratorios de investigación franceses. 
+- 
+las otras fuentes de financiamiento externas al programa  
+-  Se recomienda contactar a cada institución nacional participante del 
+programa para la  orientación sobre el financiamiento solicitado a las 
+distintas contrapartes.  
+-   Los financiamientos aprobados quedan sujetos a la disponibilidad 
+presupuestaria anual de los diferentes organismos.  
+-    Como referencia, las instituciones del programa aportan conjuntamente un 
+monto anual de aproximadamente 10 000 € a 15 000 € por proyecto. 
+ 
+5. ¿Cuáles son los principales criterios de selección de los proyectos? 
+ 
+Además de la excelencia científica, los principales criterios de selección de los 
+proyectos son:  
+- 
+su carácter innovador; 
+- 
+la creación de nuevas colaboraciones internacionales; 
+- 
+la complementariedad de los equipos de investigación participantes; 
+- 
+la transferencia mutua de competencia y de innovación; 
+- 
+los antecedentes de los grupos de investigación; 
+  
+ 
+ 
+- 
+la participación de doctorantes y/o post-doctorantes en los 
+intercambios 
+- 
+la promoción y valorización de las actividades conjuntas de 
+investigación (co-publicaciones científicas, seminarios, talleres, 
+adquisición de patentes en conjunto). 
+ 
+ 
+6. ¿Como se realiza la evaluación de los proyectos? 
+ 
+Se lleva a cabo una evaluación científica por parte de varios expertos externos 
+internacionales designados por los Comités Científicos para cada proyecto. 
+Luego, se realiza la revisión de las evaluaciones internacionales y la clasificación 
+de los proyectos por parte de los Comités Científicos. 
+ 
+Al final, los Comités Directivos realizan la selección de los proyectos, en base a la 
+evaluación internacional, al informe de los Comités Científicos y a la 
+disponibilidad presupuestaria de cada contraparte, en la Reunión Anual de los 
+Programas Regionales STIC/MATH AmSud. 
+ 
+ 
+7. ¿Cuál es la duración de los proyectos y cuáles son las diferentes 
+etapas de rendición de cuenta? 
+Cada proyecto tendrá una duración de dos años.  
+ 
+El Coordinador Internacional enviará a la Secretaría el informe de avance del 
+proyecto antes del 1er de octubre de 2020. Al culminar el primer año de 
+ejecución y, de acuerdo al informe de avance, el Comité Directivo decidirá la 
+entrega de recursos financieros para el segundo año. 
+ 
+El Coordinador Internacional de cada proyecto deberá enviar a la Secretaria el 
+informe final en el plazo de los tres meses siguientes a la finalización del 
+proyecto (31 de Marzo de 2022). 
+ 
+En la evaluación del informe final presentado, se considerarán las publicaciones 
+conjuntas, la obtención de patentes, las tesis desarrolladas en el marco del 
+proyecto, la formación de redes y otros tipos de colaboración. Todos los 
+documentos generados en el marco de esta colaboración deberán indicar 
+explícitamente el apoyo financiero recibido por el Programa Regional 
+MATH -AmSud utilizando el siguiente formato: MATHAMSUD + Código del 
+Proyecto. 
+ 
+  
+ 
+ 
+8. ¿Cuáles son las reglas alrededor de la puesta en marcha de los 
+proyectos? 
+La aprobación o el rechazo del proyecto serán notificados oficialmente a cada 
+responsable científico del proyecto por la Secretaría del Programa. 
+ 
+Con respecto a los proyectos aprobados, cada institución informará al 
+responsable científico que le corresponde y a la Secretaría los recursos otorgados 
+indicando las modalidades y el calendario de desembolso. 
+ 
+Los responsables científicos nacionales, así como el coordinador internacional que 
+formen parte de proyectos finalizados, podrán presentar un nuevo proyecto de 
+investigación una vez entregado el informe final del proyecto anterior. De ser 
+aprobado, la ejecución de este nuevo proyecto estará sujeta a la aprobación del 
+informe final del proyecto anterior. Deberán obligatoriamente referirse a nuevas 
+temáticas a investigar.  
+ 
+Se dará prioridad a equipos que no hayan sido financiados en los últimos dos 
+años. 
+ 
+También serán prioritarios los proyectos que incluyan doctorandos y/o post-
+doctorandos. 
+ 
+9. ¿Cómo y hasta cuando se realiza una postulación al Concurso? 
+La postulación se realiza en forma exclusiva a través del Sistema de Postulación 
+en Línea (SPL) disponible en el sitio web de CONICYT: https://auth.conicyt.cl/ 
+Cada proyecto deberá indicar un/a responsable científico/a por institución y uno 
+de ellos/as, designado/a por los miembros participantes, actuará como 
+Coordinador Internacional del proyecto. 
+ 
+El/la Coordinador/a Internacional deberá enviar a través de la plataforma de 
+postulación una versión .pdf en inglés del proyecto incluyendo los CVs de 
+los(as) participantes del proyecto, antes del 15 de mayo de 2019 a las 
+12:00hs. del mediodía de Chile Continental. Se puede acceder a la 
+plataforma de postulación de CONICYT desde la página web de los 
+programas STIC y MATH AmSud: http://www.sticmathamsud.org/. 
+Los formularios para la presentación de proyectos están disponibles en la página 
+web de STIC-MATH AmSud en http://www.sticmathamsud.org/ a partir del 15 
+de diciembre de 2018 hasta el 15 de mayo de 2019, en la plataforma de 
+postulación  y en los sitios web de cada organismo participante. 
+ 
+  
+ 
+ 
+Existen secciones en la postulación que deben ser ingresadas o seleccionadas en 
+pantalla y otras en que debe  anexar formularios en formato PDF. 
+ 
+ 
+10. 
+¿Algunas agencias participantes del programa exigen una 
+doble postulación adicional a la postulación en línea sobre el 
+Sistema CONICYT? 
+ 
+Para los investigadores de Brasil, deben presentar el proyecto a CAPES hasta el 
+31 de mayo 2019 en el sitio web del programa según las disposiciones 
+establecidas en las bases publicadas en su sitio web. Igualmente, el/la 
+Coordinador/a Internacional lo deberá enviar a la Secretaría de este Programa. 
+ 
+Para 
+los 
+investigadores 
+de 
+Colombia 
+que 
+solicitan 
+financiamiento 
+a 
+COLCIENCIAS, deben estar reconocidos en las 3 categorías que cuenta 
+dicha institución. 
+ 
+Los investigadores peruanos deben registrar su participación a más tardar el 16 
+de 
+Mayo, 
+13:00 
+GMT-05 
+(Hora 
+de 
+Perú) 
+en 
+FONDECYT 
+(http://www.fondecyt.gob.pe/). 
+ 
+Los investigadores argentinos interesados en presentar proyectos 
+deberán contactarse con el MECCYT: bilateral@mincyt.gob.ar, a los efectos 
+de conocer y aceptar las condiciones de financiamientos del MECCYT para esta 
+convocatoria. 
+                                     Proyectos STIC y MATH AmSud – Convocatoria 2019 
+ 
+Programa STIC y MATH AmSud                                                                                                                                         
+1 
+ 
+CONDICIONES DE FINANCIACIÓN Y REQUISITOS NACIONALES  
+ONCYT FINANCIADOR 
+CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA – CONACYT 
+de PARAGUAY 
+PROGRAMA DE FINANCIACIÓN PARA 
+OBTENCIÓN DE LOS FONDOS 
+Programa PROCIENCIA 
+COMPROMISO DE 
+FINANCIACIÓN 
+Para Proyectos de STIC y MATH AmSud 
+STIC:  Hasta 2 proyectos de hasta 15.000 EUROS 
+MATH: Hasta 2 proyectos de hasta 15.000 EUROS 
+CONTACTO NACIONAL 
+María Teresa Cazal 
+Teléfono: (595) 21 506223/506369 Interno 123 
+Correo electrónico: mcazal@conacyt.gov.py  
+Rafael Vera 
+Teléfono: (595) 21 606772 Interno 205 
+Correo electrónico: rvera@conacyt.gov.py 
+amsud@conacyt.gov.py  
+INSTITUCIONES ELEGIBLES 
+Podrán solicitar financiamiento universidades, facultades de 
+una misma o de diferentes universidades con administración 
+independiente, institutos, centros académicos o de 
+investigación, 
+organismos 
+gubernamentales 
+o 
+no 
+gubernamentales, públicos o privados, organizaciones con o 
+sin fines de lucro, respectivamente, que aún sin docencia y 
+conforme a sus estatutos o carta orgánica realicen 
+actividades de Investigación y Desarrollo (I+D). 
+ 
+CRITERIOS DE ELEGIBILIDAD 
+ADICIONALES 
+- Comunicación al CONACYT una vez finalizada la postulación 
+de la propuesta presentada para la Convocatoria de STIC o 
+MATH AmSud, mediante la remisión vía correo electrónico 
+de una nota escaneada y firmada; y la copia del 
+comprobante de ingreso de postulación generada por la 
+Plataforma del CONICYT al correo amsud@conacyt.gov.py 
+hasta las 12:00 horas GMT-04 (hora de Paraguay) del 16 de 
+mayo de 2019  (Ver proforma de Nota) 
+-No se podrán postular*:  
+* Instituciones científicas, tecnológicas o de innovación 
+públicas o privadas y de carácter nacional o regional, así 
+como organizaciones no gubernamentales que posean 
+amonestaciones 
+por 
+incumplimiento 
+de 
+contrato, 
+reglamento u otros, en programas con financiamiento de 
+cualquiera de los programas del CONACYT; 
+* Personas que poseen alguna inhabilitación o restricción del 
+CONACYT, establecida por Resolución de la Presidencia de 
+Consejo Nacional de Ciencia y Tecnología. 
+* Los/as beneficiarios/as de becas y/o apoyos del CONACYT 
+que 
+no 
+hayan 
+cumplido 
+con 
+el 
+contrato 
+y/o 
+                                     Proyectos STIC y MATH AmSud – Convocatoria 2019 
+ 
+Programa STIC y MATH AmSud                                                                                                                                         
+2 
+reglamentaciones. Por ejemplo: en caso de haber 
+renunciado al programa adjudicado anteriormente, en la 
+entrega en tiempo y forma de informes, rendiciones de 
+cuentas u otros solicitados por el CONACYT en otras 
+convocatorias vigentes o anteriores. 
+ 
+COSTOS ELEGIBLES 
+- Pasajes y viáticos del equipo paraguayo, según lo detallado 
+en el presupuesto del proyecto, indicando número de 
+intercambios, objetivos de cada uno, duración, país de 
+destino y nombre del beneficiario 
+LÍMITES DE FINANCIACIÓN 
+ La cantidad máxima que podrán solicitar los grupos de 
+Paraguay que participen en cada propuesta es de 15.000 
+Euros.  
+ CONACYT financiará las propuestas mejor evaluadas por 
+los procedimientos de los Programas STIC y MATH 
+AmSud, que cuenten con participación de grupos 
+paraguayos.  
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+PROGRAMA REGIONAL MATH-AmSud 
+12ª CONVOCATORIA 
+Año 2019 
+ 
+1. El programa regional MATH-AmSud 
+ 
+El Programa regional MATH-AmSud es una iniciativa de la cooperación francesa y sus 
+contrapartes de Argentina, Bolivia, Brasil, Chile, Colombia, Ecuador, Paraguay, Perú, Uruguay y 
+Venezuela, orientada a promover y fortalecer la colaboración y la creación de redes de 
+investigación-desarrollo en el ámbito de las matemáticas, a través de la movilidad, para la 
+realización de proyectos conjuntos. 
+ 
+Sus objetivos específicos son: 
+ 
+ 
+desarrollar la colaboración en el ámbito de las matemáticas, a través del intercambio de 
+investigadores y doctorantes y de información entre los países de América del Sur 
+implicados y Francia. 
+ 
+apoyar proyectos de investigación básica y aplicada que contengan una dimensión 
+potencial de transferencia y de innovación tecnológica, con componente regional, entre 
+Francia y al menos dos países sudamericanos asociados. 
+ 
+favorecer en América del Sur las sinergias con otros programas regionales y 
+multilaterales en este sector, en particular con la Unión Europea. 
+ 
+favorecer la participación de jóvenes investigadores para asegurar la continuidad de las 
+redes. 
+ 
+El programa MATH-AmSud se apoya en dos comités: 
+ 
+a) el Comité Directivo, conformado de la siguiente manera: 
+ 
+- 
+por la parte francesa, por representantes del Ministerio de Europa y de Asuntos 
+Exteriores (MEAE), del Centro Nacional de Investigación Científica (CNRS) y del Instituto 
+Nacional de Investigación en Informática y Automática (INRIA); 
+ 
+- 
+por la parte sudamericana, por representantes del Ministerio de Educación, Cultura, 
+Ciencia y Tecnología de Argentina (MECCyT),de la Universidad Mayor de San Andrés 
+(UMSA) de Bolivia, de la Sociedad Boliviana de Matemática (SoBolMat), de la 
+Coordinación de Perfeccionamiento del Personal de Nivel Superior del Ministerio de 
+Educación de Brasil (CAPES), de la Comisión Nacional de Investigación Científica y 
+Tecnológica de Chile (CONICYT), del Consejo Nacional de Ciencia y Tecnología del 
+Paraguay (CONACYT), del Consejo Nacional de Ciencia, Tecnología e Innovación 
+Tecnológica de Perú (CONCYTEC), de la Agencia Nacional de Investigación e Innovación 
+del Uruguay (ANII), del Centro de Modelamiento Matemático de la Universidad de Chile 
+(CMM), de la Facultad de Matemáticas de la Pontificia Universidad Católica (PUC) de 
+Chile, del Instituto de Matemática Pura y Aplicada de Brasil (IMPA), del Instituto de 
+Matemática y Ciencias Afines de Perú (IMCA), del Departamento Administrativo de 
+Ciencia, Tecnología e Innovación de Colombia (COLCIENCIAS), del Ministerio del Poder 
+Popular para la Educación Universitaria, Ciencia y Tecnología de Venezuela (MPPEUCT) 
+y de la Secretaría de Educación Superior, Ciencia Tecnología e Innovación de Ecuador 
+(SENESCYT). 
+ 2 
+ 
+ 
+ 
+b) el Comité Científico, constituido: 
+- 
+por la parte francesa, por representantes del CNRS y del INRIA; 
+- 
+por la parte sudamericana, por científicos designados por el MECCyT, la UMSA, la 
+SoBolMat, la CAPES, la CONICYT, el CONACYT, el CONCYTEC, la ANII, el CMM, la Facultad 
+de Matemáticas de la PUC de Chile, el IMPA, el IMCA, ColCiencias, el MPPEUCT y la 
+SENESCYT. 
+ 
+2. Calendario de la convocatoria 
+ 
+21 de diciembre de 2018 
+Apertura de la convocatoria. 
+El formulario correspondiente está disponible en el sitio Internet 
+del programa MATH-AmSud: http://sticmathamsud.org/, y en los 
+sitios Internet de cada organismo participante. También está 
+disponible en el sistema de postulación. La postulación de las 
+propuestas deberá efectuarse vía la plataforma en línea 
+disponible en el sitio web de CONICYT para el efecto. 
+15 de mayo de 2019 
+Cierre de la convocatoria 
+Noviembre 2019 
+Publicación de los resultados 
+Enero de 2020 
+Inicio de los proyectos 
+01 de octubre de 2020 
+Envío de los informes de avance de los proyectos 
+31 de marzo de 2022 
+Envío de los informes finales de los proyectos terminados a la 
+Secretaría 
+ 
+3. Instrucciones para la constitución y el envío de las propuestas 
+ 
+o Modalidad de la cooperación 
+Presentación de proyectos conjuntos de investigación y desarrollo, a través de intercambios 
+entre los equipos participantes (estancias de investigación), la realización de talleres y/o de 
+escuelas intensivas (cursos de corta duración) que permitan la participación de profesores y 
+estudiantes. 
+ 
+o Áreas temáticas 
+El llamado está abierto a todas las temáticas relacionadas al ámbito de las matemáticas. 
+ 
+o Duración de los proyectos 
+Cada proyecto tendrá una duración de dos años. 
+ 
+El Coordinador Internacional enviará a la Secretaría el informe de avance del proyecto antes del 
+1er de octubre de 2020. Al culminar el primer año de ejecución y, de acuerdo al informe de 
+avance, el Comité Directivo decidirá la entrega de recursos financieros para el segundo año. 
+ 
+o Participantes 
+ 
+Pueden postular investigadores de unidades y laboratorios de investigación, públicos o privados, 
+vinculados a establecimientos de enseñanza superior, organismos de investigación o empresas. 
+Cada proyecto deberá asociar al menos un grupo de investigación francés y al menos dos grupos de 
+ 3 
+ 
+ 
+investigación pertenecientes a dos países sudamericanos participantes. 
+ 
+Financiamiento 
+- 
+Los recursos se entregarán anualmente. 
+ 
+- 
+La modalidad de financiamiento es la siguiente: el organismo que envía cubre los gastos 
+de pasajes y los gastos de estadía de sus equipos. 
+ 
+ 
+- 
+Los gastos serán detallados indicando número de intercambios, objetivos de cada uno, 
+duración, país de destino y nombre del beneficiario. 
+ 
+- 
+Los presupuestos deberán indicar los montos solicitados a: 
+- 
+cada organismo sudamericano participante, 
+- 
+el Ministerio francés de Europa y de Asuntos Exteriores (MEAE) 
+- 
+el o los organismos o laboratorios de investigación franceses. 
+- 
+las otras fuentes de financiamiento externas al programa 
+ 
+- 
+Se recomienda contactar a cada institución nacional participante del programa para la 
+orientación sobre el financiamiento solicitado a las distintas contrapartes. Los contactos son 
+en anexo. 
+ 
+- Los financiamientos aprobados quedan sujetos a la disponibilidad presupuestaria anual de los 
+diferentes organismos. 
+ 
+- 
+Como referencia, las instituciones del programa aportan conjuntamente un monto anual de 
+aproximadamente 10 000 € a 15 000 € por proyecto. 
+ 
+o Sobre los intercambios:1 
+- 
+Sólo se financiarán intercambios de una duración igual o inferior a 30 días. 
+- 
+Se recomienda particularmente que la duración de los intercambios sea de un mínimo de 10 
+días en caso de traslados entre Francia y América del Sur (y vice versa), y de una semana 
+dentro de la región sudamericana. 
+- 
+Se debe realizar, al menos, un intercambio de Francia a América del Sur y de América del Sur 
+a Francia. 
+- 
+Asimismo, se valorará positivamente la realización de una reunión de trabajo en América 
+del Sur con todo el equipo de investigación. 
+- 
+El proyecto debe claramente mencionar las modalidades de participación de los jóvenes 
+investigadores (misiones, actividades, etc.), las cuales serán valoradas positivamente. 
+ 
+o Propiedad intelectual 
+Los responsables de los proyectos deberán tomar en consideración las disposiciones necesarias 
+para la protección de la propiedad intelectual. 
+ 
+o Modalidades y criterios de selección 
+- 
+Revisión de la admisibilidad de los proyectos en términos administrativos por cada 
+organización. 
+                                                             
+1 CAPES no financia estadías cortas/misiones de trabajo de doctorantes. 
+ 4 
+ 
+ 
+- 
+Los proyectos que no cumplan con todas las disposiciones establecidas en este instrumento 
+serán declarados fuera de bases y no podrán seguir participando en el presente concurso. En 
+el evento que uno o más proyectos sean declarados fuera de bases, tal circunstancia será 
+notificada por medio de carta certificada o correo electrónico, esto último en caso que el (la) 
+postulante lo autorice expresamente en su postulación, teniendo los(las) afectados(as) un 
+plazo de 5 días hábiles administrativos desde su notificación, para interponer el recurso de 
+reposición contra tal acto administrativo. Para tales efectos el(la) Coordinador(a) 
+Internacional deberá enviar un correo electrónico dirigido a la Secretaría General del 
+Programa MATH AmSud dentro del plazo establecido  a la casilla siguiente: 
+lhochmann@conicyt.cl. 
+- 
+En el evento que una propuesta sea declarada no elegible por una de las agencias 
+participantes en ella, la Secretaría General del Programa MATH AmSud procederá a solicitar 
+la opinión al Comité Científico respecto de la viabilidad de la propuesta. Con posterioridad y 
+en conocimiento del informe científico, se realizará una consulta a las agencias participantes 
+en la propuesta (excluyendo a la agencia que termina el patrocinio). Sólo la unanimidad 
+favorable por parte de las agencias técnicas permitirá a la propuesta proseguir en 
+competencia en la convocatoria. Caso contrario, será declarada fuera de bases. 
+- 
+Evaluación científica por expertos internacionales designados por el Comité Científico. 
+- 
+Revisión de las evaluaciones internacionales y clasificación de los proyectos, por parte del 
+Comité Científico. 
+ 
+- 
+Selección y aprobación de los proyectos por el Comité Directivo, en base a la evaluación 
+internacional, al informe del Comité Científico y a la disponibilidad presupuestaria de cada 
+contraparte, en la Reunión Anual del Programa MATH AmSud. 
+ 
+- 
+Además de la excelencia científica, los principales criterios de selección de los proyectos son: 
+- 
+su carácter innovador; 
+- 
+la creación de nuevas colaboraciones internacionales; 
+- 
+la complementariedad de los equipos de investigación participantes; 
+- 
+la transferencia mutua de competencia y de innovación; 
+- 
+los antecedentes de los grupos de investigación; 
+- 
+la participación de doctorantes y/o post-doctorantes en los intercambios 
+- 
+la promoción y valorización de las actividades conjuntas de investigación (co- 
+publicaciones científicas, seminarios, talleres, adquisición de patentes en 
+conjunto). 
+ 
+o Coordinación 
+Cada proyecto deberá indicar un/a responsable científico/a por institución y uno de ellos/as, 
+designado/a por los miembros participantes, actuará como Coordinador Internacional del 
+proyecto. 
+ 
+o Puesta en marcha de los proyectos 
+- 
+La aprobación o el rechazo del proyecto será notificado oficialmente a cada responsable 
+científico del proyecto por la Secretaría del Programa. 
+- 
+Con respecto a los proyectos aprobados, cada institución informará al responsable científico 
+que le corresponde y a la Secretaría los recursos otorgados indicando las modalidades y el 
+calendario de desembolso. 
+- El Coordinador Internacional de cada proyecto deberá enviar dos reportes a la Secretaría del 
+ 5 
+ 
+ 
+Programa MATH-AmSud: el informe de avance el 1ro de octubre del primer año de desarrollo 
+del proyecto, y el informe final en el plazo de los tres meses siguientes a la finalización del 
+proyecto (31 de Marzo de 2022) 
+- 
+En la evaluación del informe final presentado,  se  considerarán  las  publicaciones conjuntas, 
+la obtención de patentes, las tesis desarrolladas en el marco del proyecto, la formación de 
+redes y otros tipos de colaboración. Todos los documentos generados en el marco de 
+esta colaboración deberán indicar explícitamente el apoyo financiero recibido por el 
+Programa Regional MATH -AmSud utilizando el siguiente formato: MATHAMSUD + 
+Código del Proyecto. 
+- 
+Los responsables científicos nacionales así como el coordinador internacional que 
+formen parte de proyectos finalizados, podrán presentar un nuevo proyecto de 
+investigación una vez entregado el informe final del proyecto anterior. De ser 
+aprobado, la ejecución de este nuevo proyecto estará sujeta a la aprobación del 
+informe final del proyecto anterior. Deberán obligatoriamente referirse a nuevas 
+temáticas a investigar. 
+- 
+Se dará prioridad a equipos que no hayan sido financiados en los últimos dos años. 
+- 
+También serán prioritarios los proyectos que incluyan doctorandos y/o post-doctorandos. 
+ 
+ 
+o Presentación de las propuestas 
+ 
+La postulación de las propuestas deberá efectuarse vía la plataforma en línea disponible en el sitio 
+web de CONICYT para el efecto:  https://auth.conicyt.cl/  
+El/la Coordinador/a Internacional deberá enviar a través de la plataforma de postulación una 
+versión .pdf en inglés del proyecto incluyendo los CVs de los(as) participantes del proyecto, antes del 
+15 de mayo de 2019 a las 12:00hs. del mediodía de Chile Continental. También se puede acceder a la 
+plataforma de postulación de CONICYT, en la página web de los programas STIC y MATH AmSud: 
+http://www.sticmathamsud.org/. 
+Los formularios para la presentación de proyectos están disponibles en la página web de STIC-MATH 
+AmSud, en la plataforma de postulación y en los sitios web de cada organismo participante. 
+ 
+Adicionalmente para los investigadores de Brasil, deben presentar el proyecto a CAPES hasta el 31 
+de mayo 2019 en el sitio web del programa según las disposiciones establecidas en las bases 
+publicadas en su sitio web. Igualmente, el/la Coordinador/a Internacional lo deberá enviar a la 
+Secretaría de este Programa. 
+ 
+Para los investigadores de Colombia que solicitan financiamiento a COLCIENCIAS, deben estar 
+reconocidos en las 3 categorías que cuenta dicha institución. 
+ 
+Los investigadores peruanos deben registrar su participación a más tardar el 16 de Mayo 2019, 
+13:00 GMT-05 (Hora de Perú) en FONDECYT (http://www.fondecyt.gob.pe/). 
+ 
+Los investigadores argentinos interesados en presentar proyectos deberán contactarse con el 
+MECCyT:  bilateral@mincyt.gob.ar, a los efectos de conocer y aceptar las condiciones de 
+financiamientos del MECCyT para esta convocatoria. 
+ 
+Los investigadores uruguayos interesados en presentar proyectos deberán enviar copia de la 
+postulación a ANII a la casilla siguiente: snb_movilidad@anii.org.uy. 
+ 
+Para los investigadores paraguayos deben registrar su participación a más tardar el 16 de Mayo, 
+12:00 GMT-04 (hora de Paraguay) en el CONACYT (http://www.conacyt.gov.py/). 
+ 6 
+ 
+ 
+Los formularios para la presentación de proyectos están disponibles en el sitio web de 
+CONICYT: www.conicyt.cl  y en  la página web de MATH-AmSud:  
+http://www.sticmathamsud.org/ 
+hasta el 15 de mayo de 2019 a las 12:00hrs. del mediodía de Chile Continental y en los 
+sitios web de cada organismo participante.  
+ 
+Contacto : 
+Secretaría del programa MATH-AmSud en Santiago de Chile 
+contacto@sticmathamsud.org 
+(56 2) 2365 4421 / 4432 
+ 
+ 
+ 7 
+ 
+ 
+ 
+SE RECOMIENDA CONTACTAR A LOS ORGANISMOS 
+QUE FORMAN PARTE DE ESTE PROGRAMA POR CUALQUIER CONSULTA 
+RELACIONADA CON EL MONTAJE DEL PROYECTO 
+ 
+ 
+ 
+ 
+MECCyT: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UMSA/ 
+SoBolMat: 
+ 
+ 
+Dirección Nacional de Coordinación e Integración Institucional 
+Av. Godoy Cruz 2320 
+C1425FQD Buenos Aires 
+Tel.: (+54-11) 48 99 5000 int. 4116 
+www.mincyt.gov.ar 
+Contact: 
+Karina Pombo – kpombo@mincyt.gob.ar - Coordinator 
+Juan Manuel Brückner jbruckner@mincyt.gob.ar – Assistant and 
+Inquiries 
+ 
+ 
+Universidad Mayor de San Andrés 
+Sociedad Boliviana de Matemática de Bolivia 
+Av. Villazón N° 1995, Plaza del Bicentenario - Zona Central 
+Ciudad de La Paz. Estado Plurinacional de Bolivia 
++591 2 2441963 
+http://www.umsa.bo/ 
+Contact: 
+Dr. Waldo Albarracín Sánchez – rrii@umsa.bo 
+ 
+ 
+ 
+ARGENTINA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BOLIVIA 
+ 
+ 
+CAPES: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IMPA: 
+ 
+Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, 
+CGPR/CAPES 
+Setor Bancário Norte, Quadra 2, Bloco L, Lote 06, CEP 70040-020 
+Brasília, DF 
+MATH: http://www.capes.gov.br/cooperacao- 
+internacional/multinacional/programa-regional-math-amsud 
+STIC: http://www.capes.gov.br/cooperacao- 
+internacional/multinacional/programa-stic-amsud-capes 
+Contact: Marianna Papa MATH: mathamsud@capes.gov.br 
+STIC: sticamsud@capes.gov.br 
+ 
+Instituto Nacional de Matemática Pura e Aplicada 
+  
+BRASILEstrada Dona Castorina110, 
+Rio de Janeiro 
+Tel:(+55) 21 2529 5000 
+http://www.impa.br/opencms/pt/ 
+Contact: Alfredo Iusem: iusp@impa.br 
+ 
+BRASIL 
+ 
+ 
+ 8 
+ 
+ 
+ 
+CONICYT: 
+Programa de Cooperación Internacional 
+Moneda 1375, Piso 7, Santiago de Chile. 
+Tel.: (+56-2) 2365 4427 – 2365 4421 
+www.conicyt.cl 
+    Contacto: Patricio Espinoza – pespinoza@conicyt.cl 
+CHILE
+ 
+Facultad de 
+Matemáticas de 
+la PUC 
+ 
+ 
+CMM: 
+Avda. Libertador Bernardo OHiggins 340 - Santiago - Chile 
+Contact: Alejandro Jara - ajara@mat.uc.cl 
+ 
+ 
+Centro de Modelamiento Matemático 
+Av. Beauchef 851, Edificio Norte – Piso 7 
+CP 837 0456 
+Santiago de Chile 
+tel +56 2 2978 4870 
+http://www.cmm.uchile.cl/ 
+Alejandro Jofre ajofre@dim.uchile.cl 
+ 
+ 
+CONACYT: 
+Consejo Nacional de Ciencia y Tecnología 
+Dr. Justo Prieto Nº 223 entre Teófilo del Puerto y Nicolás Billof  
+Villa Aurelia 
+Código postal: 001417 
+Asunción 
+Tel.: (+595-21)  506 223/ 331/ 369 
+www.conacyt.gov.py 
+Contact:  
+amsud@conacyt.gov.py  
+María Teresa Cazal Gayoso - mcazal@conacyt.gov.py 
+Rafael Vera – rvera@conacyt.gov.py  
+ 
+PARAGUAY 
+ 
+CONCYTEC: 
+ 
+ 
+ 
+ 
+IMCA: 
+ 
+Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica 
+www.concytec.gob.pe 
+Contact: 
+Dr. Víctor Garcia - vgarcia@concytec.gob.pe 
+ 
+Instituto de Matemáticas y Ciencias Afines 
+Calle Los Biólogos 245 - Urb. San César - 
+La Molina, Lima 
+Tel: (+51)349 1892 
+http://imca.edu.pe/portal/index.php/es/ 
+Contact: Roger Metzger - metzger@imca.edu.pe 
+ 
+PERÚ 
+ 
+ANII: 
+Agencia Nacional de Investigación e Innovación 
+Av. Italia 6201 Edificio Los Nogales 
+11100 Montevideo 
+Tel: (+598) 2 6004411 
+www.anii.org.uyct: 
+cooperacion@anii.org.uy 
+    Veronica Suarez vsuarez@anii.org.uy  
+    Laura Di Giovanni - ldigiovanni@anii.org.uy 
+ 
+URUGUAY 
+ 9 
+ 
+ 
+ 
+ 
+ 
+COLCIENCIAS 
+Departamento Administrativo de Ciencia, Tecnología e Innovación - 
+COLCIENCIAS 
+AV. Calle 26 No. 57-83 Torre 8. Piso 2 al 6 
+Contacts: 
+                                     Maria Eugenia Mejia Ospina - memejia@colciencias.gov.co 
+                                     Juan Camilo Perez Cuervo - jcperez@colciencias.gov.co 
+                                    Renzo García - rlgarcia@colciencias.gov.co 
+ 
+                                     
+ 
+COLOMBIA 
+ 
+MPPEUCT 
+Ministerio del Poder Popular Para Educación Universitaria, Ciencia, 
+Tecnología 
+Av Universidad Esquina El Chorro- Torre Ministerial 
+Caracas – Venezuela 
+Tel: (58212) 5557565 
+Contact: Gloria Carvalho - carvalhokassar@gmail.com 
+VENEZUELA 
+ 
+SENESCYT 
+Secretaría de Educación Superior, Ciencia, Tecnología e Innovación 
+Whymper E7-37 y Alpallana 
+Tel +593 2 290 3249 extensión 118 
+170516 / Quito – Ecuador 
+Contact: 
+Jandry Daniel Fernández Iñiguez - jfernandez@senescyt.gob.ec 
+Marco Casco - m.casco@gmail.com 
+Juan Pablo Puchaicela - jpuchaicela@senescyt.gob.ec 
+ECUADOR 
+ 
+ 
+MEAE : 
+Delegación Regional de Cooperación para América del Sur 
+Condell 65, Providencia – Santiago, Chile 
+Tel. : (+56) 2 2 4708007 
+www.franceamsud.org 
+Contact: Laetitia Quilichini – laetitia.quilichini@diplomatie.gouv.fr 
+ 
+FRANCE 
+ 
+INRIA: 
+Direction des Relations Internationales 
+Domaine de Voluceau – Rocquencourt 
+B.P. 105 – 78153 Le Chesnay Cedex, 
+Tel: (+33) 1 39 63 57 68 
+www.inria.fr 
+                                     Contact: Julie Pomponne 
+julie.pomponne@inria.fr 
+Christine Morin – christine.morin@inria.fr  
+ 
+ 
+CNRS 
+DERCI 
+3 rue Michel-Ange 
+75016 Paris 
+Tel. : (+33 1) 44 96 46 79 
+www.cnrs.fr 
+Contacts: Antonia Alcaraz 
+antonia.alcaraz@cnrs-dir.fr Jean Theves 
+jean.theves@cnrs-dir.fr
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                             
+ 
+1 
+ 
+ 
+ 
+REGLAMENTO DE LOS PROGRAMAS REGIONALES STIC-AMSUD y MATH-AMSUD 
+ 
+ 
+Artículo 1: Objetivos y descripción de los programas 
+ 
+Los Programas regionales STIC-AmSud y MATH-AmSud son una iniciativa de la cooperación 
+francesa y sus contrapartes de Argentina, Brasil, Chile, Colombia, Ecuador, Paraguay, Perú, 
+Uruguay y Venezuela orientada a promover y fortalecer la colaboración y la creación de redes 
+de investigación-desarrollo en el ámbito de las ciencias y tecnologías de la información y las 
+comunicaciones (STIC) y de las matemáticas (MATH), a través de la realización de proyectos 
+conjuntos. 
+ 
+Sus objetivos principales son: 
+ 
+- Desarrollar la colaboración en el ámbito de las ciencias y tecnologías de la información y las 
+comunicaciones y de las matemáticas a través del intercambio de investigadores y 
+estudiantes y de información entre los países de América del Sur implicados, así como entre 
+éstos y Francia. 
+ 
+- Apoyar proyectos de investigación básica y aplicada que contengan una dimensión potencial 
+de transferencia de tecnologías y de innovación, con componente regional, entre Francia y al 
+menos dos países sudamericanos asociados. 
+ 
+- Favorecer en América del Sur las sinergias con otros programas regionales y multilaterales 
+en este sector, en particular con la Unión Europea.  
+ 
+- Favorecer la participación de jóvenes investigadores para asegurar la continuidad de las 
+redes existentes.  
+ 
+Apoya proyectos de investigación reuniendo al menos un grupo de investigación francés y al 
+menos dos grupos de investigación pertenecientes a dos países sudamericanos participantes 
+del programa STIC-AmSud y MATH-AmSud. 
+ 
+ 
+Artículo 2: Instituciones participantes 
+ 
+1)  Las instituciones participantes: 
+Las instituciones participantes son las que co-financian los proyectos con equipos de sus 
+países. 
+ 
+Las 19 instituciones participantes son: 
+ 
+- el Ministerio de Europa y de Asuntos Exteriores de Francia (MEAE)  
+ 
+- el Centro Nacional de Investigación Científica de Francia (CNRS)  
+ 
+- el Instituto Nacional de Investigación en Informática y Automática de Francia (INRIA)  
+ 
+- el Instituto Mines-Télécom de Francia  
+ 
+- el Ministerio de Educación, Cultura, Ciencia y Tecnología (MECCyT)  
+ 
+ 
+                                                             
+ 
+2 
+ 
+- la Universidad Mayor de San Andrés de Bolivia (UMSA) 
+-  la Sociedad Boliviana de Matemática de Bolivia (SoBolMat) 
+ 
+- la Coordinación para el Perfeccionamiento de Personal de Nivel Superior de Brasil (CAPES)  
+- el Instituto de Matemáticas Puras y Aplicadas de Brasil (IMPA) 
+ 
+- la Comisión Nacional de Investigación Científica y Tecnológica de Chile (CONICYT)  
+- El Centro de Modelización Matemática de Chile (CMM) 
+- La Facultad de Matemáticas de la Pontificia Universidad Católica de Chile (PUC) 
+ 
+- el Consejo Nacional de Ciencia y Tecnología de Paraguay (CONACYT)  
+ 
+- el Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica de Perú (CONCYTEC)  
+- el Instituto de Matemática y Ciencias Afines de Perú (IMCA) 
+ 
+- la Agencia Nacional de Investigación e Innovación de Uruguay (ANII)  
+- el Departamento Administrativo de Ciencia, Tecnología e Innovación de Colombia 
+(COLCIENCIAS) 
+- el Ministerio del Poder Popular para la Educación Universitaria, Ciencias y Tecnología de 
+Venezuela (MPPEUCT) 
+- la Secretaría de Educación Superior, Ciencia Tecnología e Innovación de Ecuador 
+(SENESCYT). 
+ 
+2) La incorporación de nuevas instituciones al programa 
+ 
+Los programas están abiertos a la integración de nuevas instituciones francesas o 
+latinoamericanas propuestas por al menos una de las instituciones que participan del 
+programa. 
+ 
+Su incorporación debe ser solicitada mediante una carta de intención firmada por el 
+responsable de la nueva institución y enviada a la Delegación regional de Cooperación para 
+América del Sur.  
+ 
+La incorporación de una nueva institución al programa debe ser aprobada por todos los 
+miembros del Comité directivo de forma unánime durante la celebración de la reunión anual. 
+ 
+Artículo 3: Comité directivo 
+ 
+1)  Su composición: 
+ 
+El Comité directivo está compuesto por un representante de cada una de las instituciones 
+participantes. Es nombrado por su institución. 
+ 
+El cambio de un miembro del Comité directivo debe ser anunciado por su institución a la 
+Secretaría del programa. 
+ 
+Se recomienda a las instituciones que un miembro del comité científico no sea miembro del 
+comité directivo. 
+ 
+2) Sus funciones son:  
+ 
+- Definir las orientaciones estratégicas del programa  
+ 
+- Decidir las modificaciones del programa  
+ 
+                                                             
+ 
+3 
+ 
+- Decidir la incorporación de nuevas instituciones al programa  
+ 
+- Realizar la selección final de las candidaturas sobre la base de las propuestas del Comité 
+científico  
+ 
+- Asignar los financiamientos  
+ 
+- Aprobar los informes de avance y los informes finales de los proyectos financiados (cada 
+miembro debe aprobar los informes de los proyectos financiados por su institución).  
+ 
+3) El presidente del Comité directivo:  
+ 
+Sus funciones son dirigir las reuniones del Comité directivo y representar al programa. 
+ 
+La presidencia del Comité directivo se alterna entre los miembros del Comité directivo. Es 
+asumida por el representante del país que será el anfitrión de la reunión de los Comités 
+directivo y científico el año siguiente. 
+ 
+La co-presidencia es ocupada por la Delegación regional de Cooperación para América del Sur.  
+ 
+Artículo 4: Comité científico 
+ 
+1)  Su composición: 
+ 
+El Comité científico está compuesto por especialistas de las ciencias y tecnologías de la 
+información y las comunicaciones de alto nivel designados por las instituciones que participan 
+del programa. Cada institución es representada por un miembro. 
+ 
+El cambio de un miembro del Comité científico debe ser anunciado a la Secretaría del 
+programa por su institución. 
+ 
+Se recomienda a las instituciones que un miembro del comité científico no sea miembro del 
+comité directivo. 
+ 
+2) Sus funciones son:  
+ 
+- Asegurar el seguimiento científico del programa  
+ 
+- Nombrar a los expertos externos para evaluar los proyectos recibidos en cada convocatoria 
+a proyectos.  
+ 
+- Sobre la base de las evaluaciones de los expertos externos, elaborar una lista de los 
+proyectos seleccionados, clasificarlos según su calidad científica y entregar una opinión 
+sobre el plan de trabajo y el plan de financiamiento.  
+ 
+- Proponer la temática del seminario anual, en relación al país anfitrión.  
+ 
+- Evaluar los informes de avance y los informes finales de los proyectos financiados.  
+ 
+3) El presidente del Comité científico:  
+ 
+El Comité científico tiene un presidente, elegido por sus miembros por un periodo de tres 
+años. Coordina las actividades del Comité científico y es el interlocutor con la Secretaría y el 
+Comité directivo. Dirige las reuniones anuales del Comité científico y se encarga, con la ayuda 
+                                                             
+ 
+4 
+ 
+de un asesor de su elección, de la redacción de las minutas de la reunión del Comité científico. 
+Redacta las cartas de aceptación y de rechazo de los proyectos con el apoyo de la secretaría. 
+ 
+Toda renuncia debe ser comunicada por escrito a la Secretaría antes de la reunión anual, 
+durante la cual se realizará la elección de un nuevo presidente del Comité científico. 
+ 
+ 
+Ética y confidencialidad 
+Si alguno de los miembros del comité participa en un proyecto o tiene un conflicto de interés 
+con un postulante, deberá obligatoriamente informar a los otros miembros del comité y 
+retirarse durante la discusión del proyecto. 
+ 
+Los miembros del comité deberán mantener la confidencialidad de las informaciones, 
+evaluaciones y discusiones relativas a los proyectos STIC-AmSud y MATH-AmSud. 
+ 
+ 
+Artículo 5: La Secretaría 
+ 
+1)  La institución a cargo de la Secretaría: 
+ 
+La Secretaría está a cargo de una institución participante del programa. Puede ser transferida 
+a otra institución latinoamericana participante por decisión del Comité directivo durante la 
+reunión anual. 
+ 
+2) Sus funciones son:  
+ 
+- Preparar la redacción de la convocatoria anual a proyectos y transmitirla a todas las 
+instituciones participantes.  
+ 
+- Recibir las propuestas y verificar la admisibilidad de los proyectos  
+ 
+- Verificar la recepción de los proyectos por parte de las instituciones involucradas.  
+ 
+- Coordinar el proceso de evaluación de los proyectos en colaboración con el Comité científico 
+(envío y recepción de las evaluaciones de los expertos externos).  
+ 
+- Actualizar una base de datos de los evaluadores externos.  
+ 
+- Solicitar los informes de avance y los informes finales al coordinador internacional y 
+difundirlos a los comités.  
+ 
+- Apoyar la organización de la reunión anual de los Comités directivo y científico en 
+colaboración con las instituciones del país anfitrión.  
+- Apoyar la organización de los seminarios científicos en cooperación con las instituciones del 
+país anfitrión. 
+ 
+- Actualizar y animar el sitio web del programa.  
+ 
+- Facilitar los contactos entre los potenciales responsables científicos de proyectos a través 
+del sitio web.  
+ 
+Artículo 6: La Delegación regional de Cooperación para América del Sur 
+ 
+El papel de la Delegación regional es apoyar la coordinación de las actividades del programa, 
+en cooperación con la Secretaría. En particular: 
+                                                             
+ 
+5 
+ 
+ 
+- Asegura el co-financiamiento del programa y la organización de las reuniones anuales y de 
+los seminarios científicos en América latina. 
+ 
+- Co-preside las reuniones del comité directivo y ánima los debates.  
+- Rinde cuentas al Ministerio de Europa y de Asuntos Exteriores de Francia (MEAE) sobre el 
+conjunto de las actividades del programa.  
+ 
+Artículo 7: Funcionamiento y repartición de la toma de decisión 
+ 
+Considerando los distintos niveles de decisiones a tomar y discutir en el marco de los 
+Programas STIC Y MATH AmSud, se establece el siguiente funcionamiento: 
+1) Las decisiones políticas e inherentes a la organización y funcionamiento de los 
+Programas, estarán a cargo de una representación única por país. En el caso de que 
+algún país esté representado por más de una institución en el Comité Directivo, el 
+organismo principal de ciencia y tecnología a nivel nacional o el organismo designado 
+a tales efectos, deberá ser el coordinador de esa representación, siendo el portavoz de 
+la decisión final que se adopte. 
+2) Las decisiones de aporte financiero a los proyectos radicarán en cada una de las 
+instituciones miembros del Comité Directivo. Serán miembros del Comité Directivo 
+todas las instituciones financiadoras de los proyectos. 
+3) Las recomendaciones científicas emanarán de los Comités Científicos, cuyos miembros 
+son designados por las instituciones representadas en el Comité Directivo. 
+Artículo 8: Reunión y seminario anual 
+ 
+1)  La reunión anual de los Comités directivo y científico: 
+ 
+Los Comités directivo y científico, con la presencia de la Secretaría, se reúnen una vez al año 
+en el último trimestre del año. La fecha y el lugar se determinan durante la reunión anual por 
+el Comité directivo a partir de las propuestas de la(s) institución(es) de los países que desean 
+recibir. Cada país latinoamericano debe ser anfitrión en su turno, de la reunión anual de los 
+comités. 
+ 
+El país anfitrión entrega un apoyo logístico y se encarga de la organización de la reunión 
+anual, con la ayuda de la Secretaría. 
+ 
+El acta de la reunión anual es redactada por la Secretaría, leída al final de la reunión en 
+presencia de todos los participantes y firmada por los miembros del comité directivo. En esta 
+acta constan los proyectos aceptados, los financiamientos otorgados por cada institución, la 
+fecha, el lugar y el tema de la próxima reunión de los comités y las eventuales modificaciones 
+al programa e incorporaciones de nuevas instituciones. Toda decisión que figura en el acta 
+debe ser respetada por las instituciones participantes del programa. 
+ 
+Con el fin de permitir a los participantes extranjeros de aprovechar el desplazamiento y 
+organizar encuentros profesionales al margen de las actividades del programa, la Secretaría 
+deberá comunicar lo antes posible, y a más tardar dos semanas antes del inicio de las 
+                                                             
+ 
+6 
+ 
+reuniones de los comités, un programa de la reunión anual. 
+ 
+ 
+ 
+Pasajes de avión y viáticos para asistir a la reunión anual de los comités directivo y 
+científico 
+ 
+Los pasajes de avión y viáticos de los miembros del comité directivo estarán a cargo de sus 
+instituciones respectivas. 
+ 
+Los pasajes de avión y viáticos del presidente del comité científico serán financiados por su 
+institución respectiva. 
+ 
+Los pasajes de avión y viáticos de los miembros franceses del comité científico serán 
+financiados por sus instituciones respectivas. 
+ 
+ 
+Los miembros del comité científico se reunirán virtualmente una o dos semanas antes de la 
+reunión anual para evaluar, si es necesario, y clasificar los proyectos. Únicamente los 
+presidentes del comité científico de cada Programa asistirán a la reunión anual junto al comité 
+directivo, con el objeto de contar con una experticia científico, en caso necesario, durante las 
+decisiones propias a los programas y a los financiamientos de los proyectos. 
+ 
+2) Seminarios científicos 
+ 
+En paralelo a la reunión anual de los comités directivo y científico, un seminario científico 
+sobre las ciencias y tecnologías de la información y las comunicaciones convocando a jóvenes 
+investigadores podrá ser organizado bajo la forma de talleres y/o sesiones paralelas. Su 
+objetivo es promover los intercambios científicos de información entre investigadores, 
+estimular la realización de proyectos y motivar la participación particularmente de los actores 
+de país anfitrión. 
+ 
+El tema de este seminario es propuesto por el presidente del Comité científico durante la 
+reunión anual. 
+ 
+El país anfitrión entrega un apoyo logístico y se encarga de la organización de los seminarios 
+científicos, con la ayuda de la Secretaría. 
+ 
+La Delegación regional financiará los pasajes y viáticos de los conferencistas latino-
+americanos y el país anfitrión financiará los pasajes y los viáticos de los conferencistas 
+franceses.  
+ 
+Algunos proyectos financiados por el programa pueden ser objeto de una presentación 
+durante los seminarios científicos. 
+ 
+El país anfitrión puede proponer nuevas formas de encuentro, para la realización de cualquier 
+tipo de actividad científica adaptada a las necesidades del país anfitrión. El objetivo es 
+difundir más ampliamente los resultados de los proyectos y asociar de manera activa los 
+estudiantes, los jóvenes investigadores y la sociedad civil a esos encuentros.  
+                                                             
+ 
+7 
+ 
+ 
+Un comité debe ser constituido por el país anfitrión, con el previo país anfitrión – el cual podrá 
+compartir su experiencia -, el Comité Científico y la Secretaría General a fin de iniciar cuanto 
+antes su organización. 
+ 
+Artículo 9: Convocatoria a proyectos 
+ 
+1)  El texto de la convocatoria a proyectos: 
+ 
+El texto de la convocatoria a proyectos es preparado por la Secretaría y validado por el Comité 
+directivo durante la reunión anual. Es redactado en inglés, español, francés. 
+ 
+2)  Las modalidades de publicación: 
+ 
+El texto es publicado en inglés cada año por la Secretaría en el sitio web del programa. 
+ 
+Cada institución es responsable de su publicación en su país en el idioma de su elección. Toda 
+modificación sobre el texto de la convocatoria adoptada en la reunión anual debe ser 
+incorporada por las instituciones en sus respectivos llamados. 
+ 
+ 
+Artículo 10: Candidaturas 
+ 
+1)  La recepción de las candidaturas: 
+ 
+La postulación de las propuestas deberá efectuarse vía la plataforma en línea disponible en el 
+sitio web de CONICYT para el efecto:  https://auth.conicyt.cl/  
+El/la Coordinador/a Internacional deberá enviar a través de la plataforma de postulación una 
+versión .pdf en inglés del proyecto incluyendo los CVs de los(as) participantes del proyecto. Se 
+puede acceder a la plataforma de postulación de CONICYT desde la página web de los 
+programas STIC y MATH AmSud: http://www.sticmathamsud.org/. 
+Los formularios para la presentación de proyectos están disponibles en la página web de 
+STIC-MATH AmSud, en la plataforma de postulación y en los sitios web de cada organismo 
+participante. 
+ 
+Adicionalmente para los investigadores de Brasil, deben presentar el proyecto a CAPES hasta 
+el 31 de mayo en el sitio web del programa según las disposiciones establecidas en las bases 
+publicadas en su sitio web. Igualmente, el/la Coordinador/a Internacional lo deberá enviar a 
+la Secretaría de este Programa.1 
+ 
+Para los investigadores de Colombia que solicitan financiamiento a COLCIENCIAS, deben estar 
+reconocidos en las 3 categorías que cuenta dicha institución. 
+                                                           
+1 Para toda información adicional, ponerse directamente en contacto con CAPES (sticamsud@capes.gov.br ; 
+mathamsud@capes.gov.br) o la Secretaria General 
+                                                             
+ 
+8 
+ 
+ 
+Los investigadores peruanos deben registrar su participación a más tardar el 16 de Mayo, 
+13:00 GMT-05 (Hora de Perú) en FONDECYT (http://www.fondecyt.gob.pe/). 
+ 
+Los investigadores argentinos interesados en presentar proyectos deberán contactarse con el 
+MECCyT: bilateral@mincyt.gob.ar, a los efectos de conocer y aceptar las condiciones de 
+financiamientos del MECCyT para esta convocatoria. 
+ 
+Los investigadores uruguayos interesados en presentar proyectos deberán enviar copia de la 
+postulación a ANII a la casilla siguiente: snb_movilidad@anii.org.uy. 
+ 
+2)  La validación de las candidaturas: 
+ 
+La Secretaría verificará la admisibilidad de los proyectos. 
+ 
+Los equipos de proyectos finalizados podrán presentar un nuevo proyecto de investigación, 
+una vez entregado el informe final. De ser aprobado, la ejecución de este nuevo proyecto 
+estará sujeta a la aprobación del informe final del proyecto anterior. Deberán 
+obligatoriamente referirse a nuevas temáticas a investigar. Se dará prioridad a equipos que no 
+hayan sido financiados en los últimos dos años. 
+ 
+También serán prioritarios los proyectos que incluyan doctorandos y/o post-doctorandos. 
+ 
+3) El recurso de apelación  
+ 
+Se abrirá un recurso de apelación descrito en las bases de la convocatoria de los programas.  
+ 
+4)  El proceso de evaluación: 
+ 
+El proceso de evaluación es supervisado por el Comité científico y su presidente, quienes 
+nombran a los expertos externos. La Secretaría coordina el envío y recepción de las 
+evaluaciones. 
+ 
+Dirigido por el Presidente del Comité científico, cada miembro del Comité propondrá un 
+número de expertos externos para evaluar un número limitado de proyectos. 
+Las evaluaciones serán enviadas a la Secretaría que centralizará y transmitirá a los miembros 
+del Comité científico. 
+ 
+Cada proyecto debe ser evaluado por al menos dos expertos externos que no pertenezcan a 
+instituciones que forman parte del proyecto evaluado. En caso de desacuerdo importante 
+entre las dos evaluaciones, un tercer experto debe ser designado por el Comité científico. 
+ 
+Los expertos designados para evaluar los proyectos son científicos de alto nivel, sin relaciones 
+con los proponentes del proyecto. 
+ 
+ 
+                                                             
+ 
+9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5)  La elección de los proyectos 
+ 
+La elección de los proyectos es realizada durante la reunión anual de los comités. 
+ 
+A partir de las evaluaciones de los proyectos por los expertos externos, los miembros del 
+Comité científico proceden a la clasificación de los proyectos según: 
+ 
+- 
+La excelencia científica del proyecto,  
+ 
+- 
+Su carácter innovador,  
+ 
+- 
+La creación de nuevas colaboraciones internacionales,  
+ 
+- 
+La complementariedad de los participantes,  
+ 
+- 
+La transferencia mutua de competencias e innovaciones,  
+ 
+- 
+Los antecedentes de los grupos de investigación,  
+ 
+- 
+La participación de jóvenes investigadores en los intercambios.  
+ 
+Los miembros del Comité directivo, a partir de la clasificación transmitida por el Comité 
+científico, realizan la selección final de las propuestas. 
+ 
+6)  El anuncio de los resultados: 
+ 
+Después de la decisión del Comité directivo, la lista de los proyectos aceptados es publicada 
+por la Secretaría en el sitio web del programa. Cada institución es responsable de la 
+publicación de los resultados en su país. 
+ 
+Los resultados de la postulación son comunicados al coordinador internacional de cada 
+proyecto por la Secretaría del Programa a través de correo electrónico. 
+ 
+Artículo 11: Financiamiento 
+ 
+1)  El co-financiamiento por las instituciones participantes: 
+ 
+Los proyectos son co-financiados por las instituciones participantes involucradas en el 
+proyecto. El monto del financiamiento anual por proyecto es adjudicado por el Comité 
+directivo durante la reunión anual y señalado en el acta. 
+ 
+2)  El tipo de financiamiento: 
+ 
+El programa financia la movilidad de investigadores entre los países participantes: estadías de 
+investigación, intercambios para la realización de talleres científicos y/o escuelas de verano, 
+que permitan la participación de personal permanente, de jóvenes investigadores y de 
+estudiantes. 
+ 
+                                                             
+ 
+10 
+ 
+La modalidad de financiamiento de los proyectos es la siguiente: cada institución paga la 
+movilidad de sus equipos de investigadores: pasajes y viáticos. 
+ 
+Los investigadores pueden participar simultáneamente en varios proyectos, sin embargo, sólo 
+podrán beneficiarse de los intercambios en un solo proyecto. 
+ 
+ 
+3)  El periodo del financiamiento: 
+ 
+Los proyectos tendrán una duración de dos años. La decisión de financiamiento para el 
+segundo año estará subordinada tanto a la presentación y evaluación favorable de un informe 
+de actividades académicas del primer año, así como a las disponibilidades presupuestarias de 
+cada institución participante del proyecto. 
+ 
+4) Renovaciones de financiamiento para un segundo año: 
+ 
+Un informe de avance debe ser enviado por el coordinador internacional a la Secretaría antes 
+del 1ero de octubre del primer año del proyecto. 
+ 
+Este informe debe ser evaluado por el Comité científico y aprobado por el Comité directivo 
+sobre la base de los objetivos cumplidos y del plan de trabajo propuesto. 
+ 
+Para realizar esta evaluación, los informes de avance serán transmitidos a los miembros del 
+Comité científico, así como un cuadro de análisis. Este cuadro deberá ser completado y 
+enviado a la Secretaría antes de la reunión anual. 
+ 
+Para que el financiamiento se otorgue para un segundo año, deberá ser aprobado por todas 
+las instituciones que financian el proyecto. 
+ 
+Los miembros del Comité directivo emiten su opinión sobre la continuidad o no del segundo 
+año del proyecto durante la reunión anual. 
+ 
+Artículo 12: Evaluación ex-post 
+ 
+1)  El informe final: 
+ 
+Un informe final es solicitado al coordinador internacional de cada proyecto por la Secretaría 
+al término de su proyecto. Deberá ser enviado por el coordinador internacional a la Secretaría 
+a más tardar tres meses después de su término. 
+ 
+2)  La evaluación de los informes finales: 
+ 
+El Comité directivo aprueba los informes finales, posterior a la evaluación realizada por 
+Comité científico. El Comité Científico se reúne de manera virtual a mediados de abril para 
+hacer la evaluación de los informes finales.  
+ 
+La Secretaría comunicará los resultados de la evaluación del informe final (aceptado, 
+rechazado) a los coordinadores internacionales. 
+                                                             
+ 
+11 
+ 
+ 
+3)  Los criterios de evaluación: 
+ 
+Los principales criterios de evaluación son: 
+ 
+- La calidad científica de los resultados  
+ 
+- El número de intercambios de investigadores  
+ 
+- La participación de estudiantes y las tesis realizadas  
+ 
+- El número de publicaciones co-firmadas (así como las menciones al programa en las 
+publicaciones) y las ponencias a seminarios y coloquios  
+ 
+- Las colaboraciones desarrolladas con el sector privado  
+ 
+- La creación de sinergias con otros programas de investigación  
+ 
+- La puesta en marcha de nuevos programas de investigación entre Francia / Europa y 
+América Latina.  
+ 
+4)  Sanciones 
+ 
+Los responsables científicos nacionales, así como el coordinador internacional cuyos informes 
+finales, correspondientes a convocatorias anteriores, sean calificadas como rechazados o no 
+hayan presentado el informe final no podrán presentarse a este concurso. Esta prohibición se 
+extenderá por un plazo de tres años posteriores a la conclusión del proyecto anterior. 
+ 
+Artículo 13: Modificaciones al reglamento 
+ 
+El presente reglamento puede ser modificado por las instituciones participantes del programa 
+durante la reunión anual del Comité directivo y con aprobación unánime. 
+ 1 
+ 
+CONICYT 
+ 
+CONCURSOS DE LOS PROGRAMAS REGIONALES STIC/MATH 
+AMSUD – CONICYT CONVOCATORIA 2019 
+ 
+ 
+INSTRUCTIVO DE POSTULACIÓN EN LÍNEA 
+  
+ 
+ 
+ 
+INDICE 
+ 
+INGRESO AL SISTEMA   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+SELECCIÓN CONCURSO  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+INICIO POSTULACIÓN  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+ 
+I.- 
+Selección MENÚ GENERAL  
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+II.-  
+Pestaña INFORMACIÓN   
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+III.-  Pestaña ANTECEDENTES   
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+IV.-  Pestaña INSTITUCIÓN  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+V.-     Pestaña EQUIPO DE TRABAJO    
+ 
+ 
+ 
+ 
+ 
+13 
+VI.-  Pestaña FORMULACIÓN    
+ 
+ 
+ 
+ 
+ 
+ 
+16 
+VII.- Pestaña ANEXOS  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16 
+VII.-  Pestaña REVISIÓN/ENVÍO 
+ 
+ 
+ 
+ 
+ 
+ 
+17 
+ 
+ 
+A continuación se entregan las instrucciones para ingresar la postulación en 
+línea indicando los campos a llenar en cada sección y su significado.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+CONSIDERACIONES GENERALES 
+ 
+Se puede ingresar la postulación en idioma español o inglés. 
+ 
+INGRESO AL SISTEMA 
+ 
+Crear Cuenta 
+ 
+Para 
+crear 
+una 
+cuenta 
+usted 
+deberá 
+ingresar 
+al 
+siguiente 
+link  
+https://auth.conicyt.cl y posteriormente selección el botón continuar (Fig.1). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 1. 
+ 
+A continuación deberá seleccionar el botón “cree su cuenta” (Fig.2). 
+Posteriormente deberá completar los campos solicitados en el formulario y una 
+vez realizada esta acción deberá presionar el botón siguiente.  
+Usted tiene que crear su propia clave: debe contener al mínimo ocho caracteres 
+e incluir números, letras y estar libre de caracteres idénticos consecutivos.  
+A continuación le llegará un email con las instrucciones para validar su cuenta. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+Figura 2. 
+ 
+Recuperar Clave 
+ 
+Si usted no recuerda su clave, puede recuperarla seleccionando la opción 
+“¿olvido su clave?” (Fig 3.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 3. 
+ 
+Posteriormente se desplegará una nueva ventana, en la cual usted deberá 
+ingresar su correo y luego presionar el botón “Continuar” (Fig. 4). La nueva clave 
+la recibirá al correo electrónico ingresado. 
+ 
+ 
+ 4 
+ 
+Figura 4. 
+ 
+SELECCIÓN CONCURSO 
+ 
+Al ingresar al Sistema, encontrará las siguientes cuatro secciones, tal y como se 
+muestra a continuación, para acceder a los concursos deberá elegir la sección 
+“Postulante” y seleccionar la opción “Cree una nueva postulación” (Fig 5). 
+ 
+ 
+ 
+Figura 5. 
+ 
+ 
+Usted podrá visualizar todos los concursos que se encuentran publicados. Para 
+postular debe seleccionar el Concurso “CONCURSO DEL PROGRAMA 
+REGIONAL STIC/AMSUD o MATH/AMSUD – CONICYT CONVOCATORIA 2019” 
+como se muestra en la (Fig.6). 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+Figura 6. 
+ 
+ 
+ 
+A continuación, seleccione el botón “Iniciar Postulación”. 
+ 
+ 
+ 
+ 
+Figura 7. 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+Por favor, después de haber ingresado sus datos en cada sección, 
+cuando finalice, presione el botón “Guardar” y pase a la pestaña 
+siguiente. 
+ 
+ 
+INICIO POSTULACIÓN 
+ 
+I. 
+Selección MENÚ GENERAL 
+ 
+ 
+ 
+ 
+ 
+Figura 8. 
+ 
+En el Menú inferior se encuentran disponibles las diferentes pestañas para 
+completar durante su postulación, estas son: Información, Antecedentes, 
+Institución, Equipo de Trabajo, Formulación, Anexos y Revisión/envío. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 
+ 
+II. 
+Pestaña INFORMACIÓN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 9. 
+ 
+En esta sección se encuentran los objetivos del Concurso, a quién está dirigido y 
+las recomendaciones a los postulantes.  
+ 
+Usted deberá aceptar los términos y condiciones, tal y como se indica a 
+continuación. 
+    
+   
+Figura 10. 
+ 
+ 
+Cuando finalice, presione el botón “Guardar” y pase a la pestaña superior 
+“Antecedentes” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+III. 
+Pestaña “Antecedentes” 
+ 
+ 
+Figura 11. 
+ 
+En esta sección usted deberá llenar los antecedentes generales de identificación 
+del proyecto, así como incluir un resumen de éste. 
+ 
+ 
+Sección: “Identificación del Proyecto” 
+ 
+1. Título de la Propuesta.  
+ 
+En este Concurso este campo corresponde al Título del proyecto. Le 
+sugerimos usar un nombre original, de modo de evitar coincidencias con 
+proyectos previos. El Título de la propuesta debe ser exactamente el 
+mismo en todos los formularios entregados a este concurso y debe ser en 
+inglés. 
+ 
+2. Palabras Clave.  
+ 
+Al momento de empezar a escribir una palabra (la cual debe ser en idioma 
+INGLES) el Sistema por defecto le ofrecerá palabras clave entre las cuales 
+usted deberá seleccionar las más cercanas a su temática. El listado de 
+palabras clave que el Sistema ofrece corresponde a aquellas ya ingresadas 
+en los artículos científicos indizados en WOS y SCOPUS. Una vez 
+encontrada la palabra clave, usted debe seleccionarla y luego presionar el 
+botón Agregar+. 
+ 
+3. Duración del Proyecto. 
+ 
+Estos Proyectos tienen una duración pre-establecida de dos años, es decir 
+24 meses. El Coordinador Internacional enviará a la Secretaría el informe 
+de avance del proyecto antes del 1er de octubre de 2019. Al culminar el 
+primer año de ejecución y, de acuerdo al informe de avance, el Comité 
+Directivo decidirá la entrega de recursos financieros para el segundo año. 
+ 
+ 9 
+ 
+ 
+4. Tipo de Proyecto 
+ 
+Debe seleccionar la opción STIC AmSud para el Programa Regional STIC 
+AmSud y la opción MATH AmSud para el Programa Regional MATH AmSud. 
+ 
+5. Disciplinas principales 
+ 
+Seleccione las disciplinas principales asociadas al estudio. Para incorporar 
+Disciplina Principal, debe seleccionar la opción correspondiente al último nivel 
+y luego presionar el botón 'Agregar+'. 
+ 
+ 
+6. Disciplinas OCDE 
+ 
+Seleccione la(s) disciplina(s) OECD asociada(s) al estudio. Para incorporar 
+Disciplina OCDE, debe seleccionar la opción correspondiente al último nivel y 
+luego presionar el botón 'Agregar+'. 
+ 
+7. Impacto de cooperación 
+ 
+Seleccione en la lista propuesta el impacto de cooperación asociado al 
+estudio. 
+ 
+Cuando finalice, presione el botón “Guardar” y pase a la pestaña superior. 
+Sección: Resumen y Objetivos 
+ 
+Figura 12. 
+En esta sección debe ingresar el resumen del proyecto, para lo cual dispondrá de 
+un máximo de 2000 caracteres. 
+ 
+ 
+ 
+ 10 
+ 
+ 
+Figura 13. 
+ 
+También debe ingresar 1) el objetivo general (max. 500 caracteres) y 2) los 
+objetivos específicos (max. 500 caracteres) en esta sección. 
+ 
+ 
+ 
+IV. 
+Pestaña “Institución” 
+      
+Figura 14. 
+ 
+Sección: “Institución” 
+ 
+En esta sección usted deberá agregar la Institución Participante.  
+ 
+Presionando el botón “Agregar Institución +” (Fig. 15), aparecerá un cuadro 
+(Fig. 16) que permitirá agregar el nombre de la Institución.  
+ 
+ 
+Figura 15. 
+ 
+ 11 
+ 
+ 
+Figura 16. 
+ 
+ 
+Al ingresar el nombre de la institución que se desea agregar y presionar el botón 
+“Buscar”, aparecerá una o más coincidencias, dependiendo de los registros de 
+instituciones disponibles en la base de datos del Sistema. Seleccione el resultado 
+que coincida con la Institución que desea agregar según se aprecia en la 
+(Fig.17). 
+ 
+Para seleccionar la categoría de la institución, al ingresarla deberá seleccionar el 
+campo “Tipo de institución” del formulario y elegir la categoría, esta puede ser 
+“Institución Suramericana” o “Institución de Francia” (Fig.17). 
+ 
+En esta sección usted debe agregar las instituciones participantes del proyecto a 
+las que pertenecen todos los miembros del equipo de Suramérica y de Francia.  
+ 
+Recuerde que para garantizar el carácter regional del proyecto, tiene que incluir 
+al menos dos investigadores suramericanos y un investigador francés. 
+ 
+Se debe identificar la Institución a la que pertenece el /la investigador/a 
+responsable de Suramérica y de Francia.  
+ 
+En el caso de ingresar una institución que no aparezca en la lista desplegada por 
+el sistema, se puede ingresar manualmente. 
+ 
+El RUT y el RUN son números de identificación chilenos que valen sólo para la 
+postulación de universidades e investigadores chilenos. 
+ 
+ 
+ 12 
+ 
+ 
+Figura 17. 
+ 
+CUANDO INGRESE LA INSTITUCIÓN, EL SISTEMA SUGERIRÁ EN EL 
+CAMPO “UNIDAD EJECUTORA”, UNA O MÁS FACULTADES Y/O 
+CENTROS.  
+ 
+Si el listado de instituciones no incluye aquella que usted desea agregar, deberá 
+ingresarla manualmente seleccionando el botón “Agregar” (Fig. 18). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 18. 
+ 
+ 13 
+ 
+Al presionar el botón “Agregar”, aparecerá un cuadro con campos para completar 
+tales como: nombre de la Institución, RUT, nombre del Representante Legal, tipo 
+de institución, entre otros (Fig. 19).  
+ 
+Deberá realizar esta operación cuantas veces sea necesario. Recuerde guardar 
+los cambios presionando el botón “Guardar”.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 19. 
+ 
+ 
+ 
+V. 
+Pestaña “Equipo de Trabajo” 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 20. 
+ 
+En esta sección se deben ingresar las categorías siguientes (Fig. 20): 
+ 
+ 
+Coordinador Internacional del Proyecto: Ingrese aquí el nombre y la experiencia 
+del coordinador(a) internacional del proyecto. Sólo debe haber un coordinador 
+internacional del proyecto en el equipo. 
+ 
+ 14 
+ 
+ 
+ 
+ 
+Figura 21. 
+ 
+ 
+Coordinadores Nacionales del Proyecto (mínimo 2): Debe agregar al mínimo 
+dos 
+coordinadores 
+nacionales, 
+además 
+de/de 
+la 
+coordinador/a 
+internacional. El coordinador internacional también puede ser el coordinador 
+nacional de su propio país. (Fig. 21) 
+ 
+ 15 
+ 
+ 
+ 
+Figura 22. 
+ 
+Para agregar Coordinadores(as) a la propuesta, deberá pinchar el botón “Agregar 
+investigador +” (Fig. 22). Al presionarlo se abrirá una nueva ventana (Fig. 23), la 
+cual permitirá ingresar las informaciones relativas al Investigador. 
+ 16 
+ 
+ 
+ 
+ 
+ 
+Figura 23. 
+ 
+Al completar la información faltante, presione el botón “Guardar”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ 
+VI. 
+Pestaña “Formulación” 
+ 
+ 
+Figura 24. 
+En esta sección se deberá adjuntar los siguientes documentos: 
+ 
+Formulario 
+de 
+propuesta 
+(Formato 
+PDF; 
+Tamaño 
+máximo 
+10 
+MB).OBLIGATORIO. 
+ 
+Evaluadores propuestos (Formato PDF; Tamaño máximo 10 MB). 
+OBLIGATORIO. 
+ 
+Para transformar los archivos desde formato .doc ó .docx a .pdf, deberá usar los 
+siguientes programas: 
+ 
+Foxit Reader: http://www.foxitsoftware.com/downloads/ 
+PDF Creator: http://www.pdfforge.org/download o 
+http://sourceforge.net/projects/pdfcreator/ 
+ 
+ 
+VII. Pestaña “Anexos” 
+ 
+ 
+Figura 25. 
+ 
+Curriculums (Formato PDF; Tamaño máximo 10 MB). OBLIGATORIO. 
+ 
+Cartas de compromiso: (Formato PDF, Tamaño máximo 10 MB). 
+OPCIONAL. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18 
+ 
+ 
+VIII. Pestaña “Revisión/envío” 
+ 
+Figura 26. 
+ 
+Al presionar el botón “Revisión/envío” (Fig. 26), el Sistema verificará si la 
+información obligatoria fue completada y los documentos cargados. Esta 
+validación no verificará el contenido de los documentos, sino que solamente haya 
+sido realizada la carga de los archivos obligatorios. 
+ 
+ 
+Paso 1. Verificar  
+ 
+ 
+Figura 27. 
+ 
+En esta etapa, el Sistema verificará la completitud de la postulación en línea, 
+indicando lo que falta para poder realizar el envío de su postulación. Para 
+completar información faltante, deberá presionar el botón “Editar”. 
+ 
+Si luego de presionar “Revisión/envío” el Sistema le indica que su postulación 
+está con su información y sin observaciones, deberá presionar el botón 
+“Continuar”. Al hacer esto, aparecerá el siguiente cuadro:  
+ 
+Figura 28. 
+ 
+Usted tendrá 2 alternativas: 1) “Cerrar”, en cuyo caso volverá al paso “Verificar”, 
+pudiendo modificar su postulación sin ver un borrador completo de ella, y 2) 
+“Continuar”, el cual le permitirá acceder al paso “Revisar”. 
+ 19 
+ 
+ 
+Figura 29. 
+ 
+Paso 2. Revisar 
+ 
+En este paso el Sistema le permitirá revisar la información ingresada. Al 
+seleccionar la opción “Ver Postulación” de la (Fig. 30), se abrirá una nueva 
+ventana en la cual usted podrá revisar la información que ingresó navegando en 
+el Menú que aparece en el costado derecho de la pantalla.  
+ 
+ 
+Figura 30. 
+ 
+ 
+El botón “Continuar” le permitirá avanzar a la etapa “Enviar”. 
+ 
+ 
+ 
+Paso 3. Enviar 
+ 
+Para enviar la postulación, usted deberá leer y aceptar las condiciones contenidas 
+en la Declaración Jurada expuesta en el Sistema, adherir a la Declaración de 
+Singapur sobre la integridad de la investigación e ingresar su clave de acceso. 
+Sólo entonces podrá presionar el botón “Enviar Postulación” (Fig. 31). Recuerde 
+que una vez enviada su postulación, ya no será posible realizar modificaciones. 
+ 
+ 20 
+ 
+ 
+Figura 31. 
+ 
+ 
+Paso 4. Comprobante 
+ 
+Enviada su postulación, aparecerá en pantalla un mensaje que indica el número 
+de postulación, fecha y hora en que ésta se realizó (Fig. 32). Usted podrá 
+acceder al Certificado de Postulación, a la Declaración Jurada de Veracidad, así 
+como también a una copia de la postulación enviada. 
+ 
+ 
+ 
+ 21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 32. 
+ 
+ 
+Luego de enviar su postulación, el Sistema le enviará un mensaje de 
+confirmación vía correo electrónico, indicando que su postulación se encuentra 
+recepcionada por CONICYT. 
+ 
+ 
+ 
+  
+Normativa de Chile acerca de la protección de datos personales 
+ 
+La Ley de Transparencia de la Función Pública y de Acceso a la Información de la 
+Administración del Estado, aprobada por el artículo primero de la Ley N° 20.285 de 2008, en su 
+artículo 21, establece que ”Las únicas causales de secreto o reserva en cuya virtud se podrá denegar 
+total o parcialmente el acceso a la información (son) […] cuando su publicidad, comunicación o 
+conocimiento afecte los derechos de las personas, particularmente tratándose de su seguridad, su 
+salud, la esfera de su vida privada o derechos de carácter comercial o económico.” 
+ 
+La Ley N° 19. 628 sobre protección de datos de carácter personal, en su artículo 2, define los 
+datos personales como “aquellos relativos a personas naturales, identificadas o identificables” y 
+“aquellos datos personales que se refieren a las características físicas o morales, o a hechos o 
+circunstancias de su vida privada o intimidad”. En su artículo 7, establece un deber de reserva, 
+definido como una “obligación de las personas que trabajan en el tratamiento de datos personales 
+de guardar secreto de aquellos cuando provengan o hayan sido recolectados de fuentes no 
+accesibles al público.” El artículo 10 de esta misma ley establece que “no pueden ser objeto de 
+tratamientos los datos sensibles, salvo cuando la ley los autorice y que exista un consentimiento del 
+titular.” 
+ 
+Conforme a lo establecido en el artículo 11 de la Ley N° 19.628, el responsable de los 
+registros o bases donde se almacenen datos personales, con posterioridad a su recolección, deberá 
+cuidar de ellos con la debida diligencia, haciéndose responsable de los daños. Según lo prescribe el 
+artículo 7° de la Ley N° 19.628, las personas que trabajan en el tratamiento de datos personales o 
+tengan acceso a éstos de otra forma (como aquellos funcionarios públicos autorizados para el acceso 
+a bancos de datos de los organismos respectivos), están obligadas a guardar secreto sobre los 
+mismos, cuando provengan o hayan sido recolectados de fuentes no accesibles al público, como 
+asimismo sobre los demás datos y antecedentes relacionados con el banco de datos, obligación que 
+no cesa por haber terminado sus actividades en ese campo. 
+De conformidad con el artículo 4° de la Ley N° 19.628, sólo es posible tratar datos de carácter 
+personal cuando exista autorización legal, ya sea de la propia Ley N° 19.628 o de otras normas de 
+igual rango. De acuerdo a la referida Ley, cuando los órganos de la Administración del Estado 
+efectúen tratamientos de datos personales no será necesario el consentimiento del titular de los 
+datos, respecto de las materias de su competencia y con sujeción a las reglas que la ley establece.  
+ 
+La Ley de Transparencia y la Ley N°19.628 sobre protección de datos de carácter personal 
+exigen una atenta observancia de los órganos públicos en cuanto a la debida reserva hacia los datos 
+de carácter personal. Esta legislación apunta a proteger la recogida, el almacenamiento, la utilización 
+y la transmisión ilimitados de los datos concernientes a su persona. 
+ User register 
+ 
+Create New User 
+User name (email adress)* 
+Nationality* 
+RUN (Chilean identity number) 
+Serial number / identity document number 
+Passport* 
+Type of Chilean Visa (just for foreigners)* 
+Name 1* 
+Name 2 
+First Name 1* 
+First Name 2 
+Birth date* 
+Gender* 
+Cellphone Number 
+ 
+Enter your password, at the end you will be sent an email to validate your account 
+ 
+Password* 
+Repeat Password* 
+ 
+I accept the terms and conditions 
+ 
+  
+ 
+ 
+PREGUNTAS FRECUENTES 
+CONCURSOS DE LOS PROGRAMAS REGIONALES STIC/MATH AMSUD 
+ 
+1. ¿Quién puede participar en los Concursos de los Programas 
+Regionales STIC / MATH AmSud? 
+Pueden postular investigadores de unidades y laboratorios de investigación, 
+públicos 
+o 
+privados, 
+vinculados 
+a 
+establecimientos 
+de 
+enseñanza 
+superior, organismos de investigación o empresas. 
+ 
+Cada proyecto deberá asociar al menos un grupo de investigación francés y 
+al menos dos grupos de investigación pertenecientes a dos países 
+sudamericanos participantes. 
+ 
+ 
+2. ¿Cuáles son las áreas temáticas de los Concursos de los Programas 
+Regionales STIC / MATH AmSud? 
+En el Programa Regional STIC AmSud, el llamado está abierto a todas las 
+temáticas relacionadas al ámbito de las TIC’s. Las propuestas, cuyas temáticas 
+científicas estén matizadas de otras áreas científicas tales como ciencias de la 
+ingeniería, pueden considerarse dado que requieren también un importante 
+trabajo innovador en TIC. 
+En el Programa Regional MATH AmSud, el llamado está abierto a todas las 
+temáticas relacionadas al ámbito de las matemáticas. 
+ 
+3. ¿Cuáles son las modalidades de cooperación involucradas en los 
+Programas Regionales STIC/MATH AmSud? 
+Se presentan proyectos conjuntos de investigación y desarrollo, a través de 
+intercambios entre los equipos participantes (estancias de investigación), la 
+realización de talleres y/o de escuelas intensivas (cursos de corta duración) que 
+permitan la participación de profesores y estudiantes. 
+ 
+- Sólo se financiarán intercambios de una duración igual o inferior a 30 días. 
+- Se recomienda particularmente que la duración de los intercambios sea de un 
+mínimo de 10 días en caso de traslados entre Francia y América del Sur (y vice 
+versa), y de una semana dentro de la región sudamericana. 
+- Se debe realizar, al menos, un intercambio de Francia a América del Sur y de 
+América del Sur a Francia. 
+  
+ 
+ 
+- Asimismo, se valorará positivamente la realización de una reunión de trabajo 
+en América del Sur con todo el equipo de investigación. 
+- El proyecto debe claramente mencionar las modalidades de participación de los 
+jóvenes investigadores (misiones, actividades, etc.), las cuales serán valoradas 
+positivamente. 
+ 
+ 
+4. ¿Cuáles son las modalidades de financiamiento? 
+ 
+- 
+Los recursos se entregarán anualmente.  
+ 
+- 
+La modalidad de financiamiento es la siguiente: el organismo que envía 
+cubre los gastos de pasajes y los gastos de estadía de sus equipos. 
+ 
+- 
+Los gastos serán detallados indicando número de intercambios, objetivos de 
+cada uno, duración, país de destino y nombre del beneficiario. 
+ 
+- 
+Los presupuestos deberán indicar los montos solicitados a: 
+- 
+cada organismo sudamericano participante, 
+- 
+el Ministerio francés de Europa y de Asuntos Exteriores (MEAE) 
+- 
+el o los organismos o laboratorios de investigación franceses. 
+- 
+las otras fuentes de financiamiento externas al programa  
+-  Se recomienda contactar a cada institución nacional participante del 
+programa para la  orientación sobre el financiamiento solicitado a las 
+distintas contrapartes.  
+-   Los financiamientos aprobados quedan sujetos a la disponibilidad 
+presupuestaria anual de los diferentes organismos.  
+-    Como referencia, las instituciones del programa aportan conjuntamente un 
+monto anual de aproximadamente 10 000 € a 15 000 € por proyecto. 
+ 
+5. ¿Cuáles son los principales criterios de selección de los proyectos? 
+ 
+Además de la excelencia científica, los principales criterios de selección de los 
+proyectos son:  
+- 
+su carácter innovador; 
+- 
+la creación de nuevas colaboraciones internacionales; 
+- 
+la complementariedad de los equipos de investigación participantes; 
+- 
+la transferencia mutua de competencia y de innovación; 
+- 
+los antecedentes de los grupos de investigación; 
+  
+ 
+ 
+- 
+la participación de doctorantes y/o post-doctorantes en los 
+intercambios 
+- 
+la promoción y valorización de las actividades conjuntas de 
+investigación (co-publicaciones científicas, seminarios, talleres, 
+adquisición de patentes en conjunto). 
+ 
+ 
+6. ¿Como se realiza la evaluación de los proyectos? 
+ 
+Se lleva a cabo una evaluación científica por parte de varios expertos externos 
+internacionales designados por los Comités Científicos para cada proyecto. 
+Luego, se realiza la revisión de las evaluaciones internacionales y la clasificación 
+de los proyectos por parte de los Comités Científicos. 
+ 
+Al final, los Comités Directivos realizan la selección de los proyectos, en base a la 
+evaluación internacional, al informe de los Comités Científicos y a la 
+disponibilidad presupuestaria de cada contraparte, en la Reunión Anual de los 
+Programas Regionales STIC/MATH AmSud. 
+ 
+ 
+7. ¿Cuál es la duración de los proyectos y cuáles son las diferentes 
+etapas de rendición de cuenta? 
+Cada proyecto tendrá una duración de dos años.  
+ 
+El Coordinador Internacional enviará a la Secretaría el informe de avance del 
+proyecto antes del 1er de octubre de 2020. Al culminar el primer año de 
+ejecución y, de acuerdo al informe de avance, el Comité Directivo decidirá la 
+entrega de recursos financieros para el segundo año. 
+ 
+El Coordinador Internacional de cada proyecto deberá enviar a la Secretaria el 
+informe final en el plazo de los tres meses siguientes a la finalización del 
+proyecto (31 de Marzo de 2022). 
+ 
+En la evaluación del informe final presentado, se considerarán las publicaciones 
+conjuntas, la obtención de patentes, las tesis desarrolladas en el marco del 
+proyecto, la formación de redes y otros tipos de colaboración. Todos los 
+documentos generados en el marco de esta colaboración deberán indicar 
+explícitamente el apoyo financiero recibido por el Programa Regional 
+MATH -AmSud utilizando el siguiente formato: MATHAMSUD + Código del 
+Proyecto. 
+ 
+  
+ 
+ 
+8. ¿Cuáles son las reglas alrededor de la puesta en marcha de los 
+proyectos? 
+La aprobación o el rechazo del proyecto serán notificados oficialmente a cada 
+responsable científico del proyecto por la Secretaría del Programa. 
+ 
+Con respecto a los proyectos aprobados, cada institución informará al 
+responsable científico que le corresponde y a la Secretaría los recursos otorgados 
+indicando las modalidades y el calendario de desembolso. 
+ 
+Los responsables científicos nacionales, así como el coordinador internacional que 
+formen parte de proyectos finalizados, podrán presentar un nuevo proyecto de 
+investigación una vez entregado el informe final del proyecto anterior. De ser 
+aprobado, la ejecución de este nuevo proyecto estará sujeta a la aprobación del 
+informe final del proyecto anterior. Deberán obligatoriamente referirse a nuevas 
+temáticas a investigar.  
+ 
+Se dará prioridad a equipos que no hayan sido financiados en los últimos dos 
+años. 
+ 
+También serán prioritarios los proyectos que incluyan doctorandos y/o post-
+doctorandos. 
+ 
+9. ¿Cómo y hasta cuando se realiza una postulación al Concurso? 
+La postulación se realiza en forma exclusiva a través del Sistema de Postulación 
+en Línea (SPL) disponible en el sitio web de CONICYT: https://auth.conicyt.cl/ 
+Cada proyecto deberá indicar un/a responsable científico/a por institución y uno 
+de ellos/as, designado/a por los miembros participantes, actuará como 
+Coordinador Internacional del proyecto. 
+ 
+El/la Coordinador/a Internacional deberá enviar a través de la plataforma de 
+postulación una versión .pdf en inglés del proyecto incluyendo los CVs de 
+los(as) participantes del proyecto, antes del 15 de mayo de 2019 a las 
+12:00hs. del mediodía de Chile Continental. Se puede acceder a la 
+plataforma de postulación de CONICYT desde la página web de los 
+programas STIC y MATH AmSud: http://www.sticmathamsud.org/. 
+Los formularios para la presentación de proyectos están disponibles en la página 
+web de STIC-MATH AmSud en http://www.sticmathamsud.org/ a partir del 15 
+de diciembre de 2018 hasta el 15 de mayo de 2019, en la plataforma de 
+postulación  y en los sitios web de cada organismo participante. 
+ 
+  
+ 
+ 
+Existen secciones en la postulación que deben ser ingresadas o seleccionadas en 
+pantalla y otras en que debe  anexar formularios en formato PDF. 
+ 
+ 
+10. 
+¿Algunas agencias participantes del programa exigen una 
+doble postulación adicional a la postulación en línea sobre el 
+Sistema CONICYT? 
+ 
+Para los investigadores de Brasil, deben presentar el proyecto a CAPES hasta el 
+31 de mayo 2019 en el sitio web del programa según las disposiciones 
+establecidas en las bases publicadas en su sitio web. Igualmente, el/la 
+Coordinador/a Internacional lo deberá enviar a la Secretaría de este Programa. 
+ 
+Para 
+los 
+investigadores 
+de 
+Colombia 
+que 
+solicitan 
+financiamiento 
+a 
+COLCIENCIAS, deben estar reconocidos en las 3 categorías que cuenta 
+dicha institución. 
+ 
+Los investigadores peruanos deben registrar su participación a más tardar el 16 
+de 
+Mayo, 
+13:00 
+GMT-05 
+(Hora 
+de 
+Perú) 
+en 
+FONDECYT 
+(http://www.fondecyt.gob.pe/). 
+ 
+Los investigadores argentinos interesados en presentar proyectos 
+deberán contactarse con el MECCYT: bilateral@mincyt.gob.ar, a los efectos 
+de conocer y aceptar las condiciones de financiamientos del MECCYT para esta 
+convocatoria. 
+                                     Proyectos STIC y MATH AmSud – Convocatoria 2019 
+ 
+Programa STIC y MATH AmSud                                                                                                                                         
+1 
+ 
+CONDICIONES DE FINANCIACIÓN Y REQUISITOS NACIONALES  
+ONCYT FINANCIADOR 
+CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA – CONACYT 
+de PARAGUAY 
+PROGRAMA DE FINANCIACIÓN PARA 
+OBTENCIÓN DE LOS FONDOS 
+Programa PROCIENCIA 
+COMPROMISO DE 
+FINANCIACIÓN 
+Para Proyectos de STIC y MATH AmSud 
+STIC:  Hasta 2 proyectos de hasta 15.000 EUROS 
+MATH: Hasta 2 proyectos de hasta 15.000 EUROS 
+CONTACTO NACIONAL 
+María Teresa Cazal 
+Teléfono: (595) 21 506223/506369 Interno 123 
+Correo electrónico: mcazal@conacyt.gov.py  
+Rafael Vera 
+Teléfono: (595) 21 606772 Interno 205 
+Correo electrónico: rvera@conacyt.gov.py 
+amsud@conacyt.gov.py  
+INSTITUCIONES ELEGIBLES 
+Podrán solicitar financiamiento universidades, facultades de 
+una misma o de diferentes universidades con administración 
+independiente, institutos, centros académicos o de 
+investigación, 
+organismos 
+gubernamentales 
+o 
+no 
+gubernamentales, públicos o privados, organizaciones con o 
+sin fines de lucro, respectivamente, que aún sin docencia y 
+conforme a sus estatutos o carta orgánica realicen 
+actividades de Investigación y Desarrollo (I+D). 
+ 
+CRITERIOS DE ELEGIBILIDAD 
+ADICIONALES 
+- Comunicación al CONACYT una vez finalizada la postulación 
+de la propuesta presentada para la Convocatoria de STIC o 
+MATH AmSud, mediante la remisión vía correo electrónico 
+de una nota escaneada y firmada; y la copia del 
+comprobante de ingreso de postulación generada por la 
+Plataforma del CONICYT al correo amsud@conacyt.gov.py 
+hasta las 12:00 horas GMT-04 (hora de Paraguay) del 16 de 
+mayo de 2019  (Ver proforma de Nota) 
+-No se podrán postular*:  
+* Instituciones científicas, tecnológicas o de innovación 
+públicas o privadas y de carácter nacional o regional, así 
+como organizaciones no gubernamentales que posean 
+amonestaciones 
+por 
+incumplimiento 
+de 
+contrato, 
+reglamento u otros, en programas con financiamiento de 
+cualquiera de los programas del CONACYT; 
+* Personas que poseen alguna inhabilitación o restricción del 
+CONACYT, establecida por Resolución de la Presidencia de 
+Consejo Nacional de Ciencia y Tecnología. 
+* Los/as beneficiarios/as de becas y/o apoyos del CONACYT 
+que 
+no 
+hayan 
+cumplido 
+con 
+el 
+contrato 
+y/o 
+                                     Proyectos STIC y MATH AmSud – Convocatoria 2019 
+ 
+Programa STIC y MATH AmSud                                                                                                                                         
+2 
+reglamentaciones. Por ejemplo: en caso de haber 
+renunciado al programa adjudicado anteriormente, en la 
+entrega en tiempo y forma de informes, rendiciones de 
+cuentas u otros solicitados por el CONACYT en otras 
+convocatorias vigentes o anteriores. 
+ 
+COSTOS ELEGIBLES 
+- Pasajes y viáticos del equipo paraguayo, según lo detallado 
+en el presupuesto del proyecto, indicando número de 
+intercambios, objetivos de cada uno, duración, país de 
+destino y nombre del beneficiario 
+LÍMITES DE FINANCIACIÓN 
+ La cantidad máxima que podrán solicitar los grupos de 
+Paraguay que participen en cada propuesta es de 15.000 
+Euros.  
+ CONACYT financiará las propuestas mejor evaluadas por 
+los procedimientos de los Programas STIC y MATH 
+AmSud, que cuenten con participación de grupos 
+paraguayos.  
+ 
+ 
+ 
+ 

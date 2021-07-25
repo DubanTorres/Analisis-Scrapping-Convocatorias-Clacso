@@ -1,0 +1,943 @@
+Chamada pública CNPq/MCTIC/SEPIN Nº 24/2017 
+Programa Start-Up Brasil
+O Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq e o  Ministério da 
+Ciência, Tecnologia, Inovações e Comunicações (MCTIC), por meio da Secretaria de Política de 
+Informática  (SEPIN) tornam  pública  a  presente  Chamada  e  convidam  os  interessados  a 
+apresentarem propostas nos termos aqui estabelecidos. 
+1 – Objeto
+Apoiar  projetos  de  pesquisa,  desenvolvimento  tecnológico  e  inovação  que  visem  contribuir 
+significativamente para o desenvolvimento científico, tecnológico e de inovação do País e que 
+desenvolvam e/ou utilizem ferramentas de software, hardware e/ou serviços de TI como parte da 
+solução, produto ou serviço proposto.
+1.1 - São objetivos desta Chamada: apoiar projetos de Pesquisa, Desenvolvimento Tecnológico e 
+Inovação  de  empresas  emergentes,  com  até  4  (quatro)  anos  de  constituição,  doravante 
+determinadas de  startups, que desenvolvam  software, hardware e serviços de tecnologias da 
+informação ou ainda que se proponham a utilizar  software, hardware e/ou serviços de TI como 
+elementos do seu esforço de inovação. Este apoio será efetuado por meio da concessão de bolsas 
+de  fomento  ao  desenvolvimento  tecnológico  de  acordo  com  as  necessidades  relativas  às 
+atividades apontadas por cada projeto. 
+2 – Cronograma
+FASES
+DATA
+Lançamento da Chamada no Diário Oficial da União e na página do CNPq
+10/08/2017
+Prazo para impugnação da Chamada
+20/08/2017
+Data limite para submissão das propostas
+04/10/2017
+Resultado provisório da verificação dos critérios de elegibilidade no Diário Oficial da União, por 
+extrato, e na página do CNPq na internet
+16/10/2017
+Prazo para interposição de recurso administrativo do resultado provisório da verificação dos 
+critérios de elegibilidade
+26/10/2017
+Resultado final da verificação dos critérios de elegibilidade
+06/11/2017
+Julgamento
+De 06/11/2017 
+a 10/11/2017
+Divulgação do Resultado preliminar do julgamento no Diário Oficial da União, por extrato, e na 
+página do CNPq na internet
+13/11/2017
+Prazo para interposição de recurso administrativo do resultado preliminar do julgamento
+23/11/2017
+Divulgação Final das propostas selecionadas no Diário Oficial da União, por extrato, e na 
+página do CNPq na internet
+30/11/2017
+Elaboração do acordo de aceleração entre startups e aceleradoras
+De 30/11/2017 
+a 31/01/2018
+Apoio às propostas aprovadas
+01/02/2018
+1
+ 3 – Critérios de Elegibilidade
+3.1 – Os critérios de elegibilidade indicados abaixo são obrigatórios e sua ausência resultará no 
+indeferimento sumário da proposta e de sua exclusão da fase de Julgamento.
+3.1.1 –  Após  a  análise  dos  critérios  de  elegibilidade,  o  resultado  será  divulgado  na  página 
+eletrônica do CNPq, disponível na Internet no endereço http://www.cnpq.br/, na página eletrônica do 
+Programa Start-Up Brasil, disponível na Internet no endereço http://startupbrasil.org.br/, e publicado, 
+por extrato, no Diário Oficial da União conforme CRONOGRAMA.
+3.2 – Quanto ao Proponente e Equipe:
+3.2.1 –  O  proponente,  responsável  pela  apresentação  da  proposta,  deve  atender, 
+obrigatoriamente, aos itens abaixo:
+a) ter  seu  currículo  cadastrado  na  Plataforma  Lattes,  atualizado  no  mínimo  24h  antes  da 
+submissão de sua proposta;
+b) Ser obrigatoriamente o coordenador do projeto;
+c) Ter vínculo formal claro com a instituição de Execução do Projeto, a empresa startup. Vínculo 
+formal é entendido como toda e qualquer forma de relação explícita e de fácil comprovação que 
+exista entre o proponente – pessoa física – e a empresa  startup. Na inexistência de vínculo 
+empregatício ou funcional, o vínculo estará caracterizado por meio de documento oficial que 
+comprove haver concordância entre o proponente e a empresa startup para o desenvolvimento da 
+atividade de pesquisa, desenvolvimento e inovação, documento esse expedido por representante 
+legal da empresa  startup.  Se for o caso, esse documento deve ser anexado ao corpo da 
+proposta de projeto.
+d) Ter claramente declarado, no resumo e na atuação profissional de seu CV Lattes, o 
+vínculo com a Instituição de Execução do Projeto, sob pena de desenquadramento da 
+proposta.
+3.2.2 -  Se possuir, o proponente deve declarar nos dados cadastrais de seu CV Lattes seus 
+números de telefone profissional e móvel.
+3.2.2 – A existência de qualquer inadimplência, por parte do proponente, com o CNPq, com a 
+Administração  Pública  Federal,  Estadual  ou  Municipal,  direta  ou  indireta,  ou  o  registro  do 
+proponente como inadimplente em quaisquer cadastros mantidos por órgãos da Administração 
+Pública Federal, em razão do que prescreve o inciso III do artigo 29 da Lei n. o 8666/93, constituirá 
+fator impeditivo para a contratação do projeto, devendo o projeto ser cancelado posteriormente 
+caso verificado que o proponente deixou de declarar sua inadimplência.
+3.3 – Quanto à Instituição de Execução do Projeto:
+3.3.1 – A startup é a empresa onde será desenvolvido o projeto de pesquisa e desenvolvimento 
+tecnológico para fins de inovação, com a qual o proponente deve apresentar vínculo claro e será 
+doravante denominada “Instituição de Execução do Projeto” (IEP).
+3.3.1.1 - A Instituição de Execução do Projeto deverá ser constituída sob as leis brasileiras e ter 
+sua sede e administração no País, com data de abertura do CNPJ na Receita Federal posterior a 
+01/02/2014.
+2
+ 3.3.1.2 - A Instituição de Execução do Projeto, no momento da submissão do projeto, deverá estar 
+cadastrada no Diretório de Instituições - CADI do CNPq, disponível no endereço eletrônico 
+http://di.cnpq.br/di/index.jsp ou pelo campo Instituição Executora do Formulário de Propostas 
+Online disponível na Plataforma Integrada Carlos Chagas. O cadastro via endereço 
+http://di.cnpq.br/di/index.jsp apresenta prazo mínimo de 24 horas para sua finalização. O CNPq 
+não se responsabilizará por propostas que não puderem ser enviadas próximas ao prazo 
+final, em função de impossibilidade de finalizar o CADI em tempo hábil. Recomenda-se o 
+cadastro da startup no CADI com antecedência mínima de 15 dias à submissão da proposta.
+3.3.1.3 - Empresas que já tenham firmado contrato de aceleração com uma das aceleradoras 
+qualificadas no Programa Start-Up Brasil ou já apoiadas pelo Programa Start-Up Brasil em edições 
+anteriores (realizadas pelas chamadas públicas MCTI/SEPIN/CNPq 11/2013 Programa Start-Up 
+Brasil e CNPq/MCTI/SEPIN 12/2014 Programa Start-Up Brasil) são inelegíveis para esta 
+Chamada.
+3.3.1.4 - Para fins desta Chamada, compreende-se contrato de aceleração como acordo pelo qual 
+a aceleradora passa a deter ações ou o direito de participação em ações da empresa startup ou 
+ainda, passe a deter direitos financeiros sobre resultados futuros gerados pela empresa startup.
+4 – Recursos Financeiros
+4.1 – As  propostas  aprovadas  serão  financiadas  com  recursos  no  valor  global  de 
+R$9.700.000,00(nove milhões e setecentos mil reais), oriundos do MCTIC (Tesouro Nacional), 
+alocados ao Programa de Trabalho 2021, Ação 20UT, e natureza de despesa 3.3.90.18, a serem 
+liberados de acordo com a disponibilidade orçamentária e financeira no CNPq e do MCTIC. 
+Quando o cronograma de desembolso ocorrer em mais de um exercício financeiro, o repasse de 
+cada ano ficará condicionado à disponibilidade orçamentária e financeira do CNPq e dos demais 
+parceiros.
+4.2 – Identificada  a  conveniência  e  a oportunidade  e  havendo  disponibilidade  de  recursos 
+adicionais  para  esta Chamada,  em  qualquer  fase, o CNPq  e o MCTIC poderão  decidir  por 
+suplementar os projetos contratados, dentro ou acima do valor recomendado pelo comitê julgador, 
+e/ou  contratar  novos  projetos  já  que  tenham  sido  devidamente  habilitados  nesta  chamada, 
+respeitando-se rigorosamente a ordem de classificação final.
+5 – Itens Financiáveis
+5.1 – Os recursos financeiros da presente chamada serão destinados somente ao pagamento de 
+bolsas.
+5.1 – Bolsas
+5.1.1 – Serão concedidas bolsas somente na modalidade DTC, nos níveis A, B, C, D, E e F. Os 
+recursos referentes às bolsas serão automaticamente incluídos no orçamento do projeto pelo 
+Formulário de Propostas online, considerando a quantidade, os níveis e os prazos em meses de 
+duração de cada bolsa definidos pelo proponente. O valor máximo a ser solicitado por proposta 
+será de R$200.000,00 (duzentos mil reais). O valor aprovado poderá ser inferior ao solicitado, 
+conforme indicação do comitê julgador ou avaliação do Presidente do CNPq.
+5.1.2 – A implementação das bolsas deverá ser realizada dentro dos prazos e critérios estipulados 
+para cada uma dessas modalidades, que estão indicadas no sitio eletrônico do CNPq.  Para 
+demais  regulamentações  referentes  a  bolsas  DTC,  aplica-se  a  RN-016/2013,  disponível  no 
+endereço
+ 
+eletrônico 
+http://cnpq.br/web/guest/view/-/journal_content/56_INSTANCE_0oED/10157/983903?
+COMPANY_ID=10132 
+3
+ 5.1.3 – A duração das bolsas não poderá ultrapassar o prazo de execução do projeto.
+5.1.4 – As bolsas não poderão ser utilizadas para pagamento de prestação de serviços, uma vez 
+que tal utilização estaria em desacordo com a finalidade das bolsas do CNPq.
+5.1.5 – Caberá ao coordenador fazer as indicações dos bolsistas tão logo seja assinado o Termo 
+de Aceitação.
+5.1.6 - É possível a alteração de nível de bolsa levando em consideração as características e o 
+desenvolvimento do projeto e modalidades previstas nesta chamada.
+5.1.7 - A alteração de nível de bolsa será analisada pelo CNPq com base nos seguintes critérios:
+a) o objeto da ação, do projeto ou pesquisa não poderão ser alterados;
+b)  justificativa  apresentada  por  meio  do  Formulário  de  Indicação  de  Bolsista  na  Plataforma 
+Integrada Carlos Chagas;
+a) manutenção do valor total aprovado para bolsas no projeto; e
+b) limitação à vigência final do projeto. 
+5.1.8 - Conforme previsto na RN-023/2008, "é vedado aos supervisores e/ou coordenadores de 
+quotas a conceder bolsa a cônjuge, companheiro ou parente em linha reta, colateral ou por 
+afinidade, até o terceiro grau, inclusive".
+5.2 – As demais despesas serão de responsabilidade do proponente e da instituição de execução 
+do  projeto,  a  título  de  contrapartida,  bem  como  das  aceleradoras  qualificadas  no  Edital 
+MCTI/SEPIN/Start-Up Brasil nº 03/2014, respondendo cada um pelos atos praticados.
+5.3 – O CNPq não responde pela suplementação de recursos para fazer frente a despesas 
+decorrentes de quaisquer fatores externos ao seu controle, como flutuação cambial e inflação.
+6 – Submissão da Proposta
+6.1 – As propostas deverão ser encaminhadas ao CNPq exclusivamente via Internet, utilizando-se 
+o Formulário de Propostas online, disponível na Plataforma Carlos Chagas.
+6.2 – O horário limite para submissão das propostas ao CNPq será até às 23h59 (vinte e três 
+horas e cinquenta e nove minutos), horário de Brasília, da data descrita no CRONOGRAMA, não 
+sendo aceitas propostas submetidas após este horário. 
+6.2.1 – Recomenda-se o envio das propostas com antecedência, uma vez que o CNPq não se 
+responsabilizará por aquelas não recebidas em decorrência de eventuais problemas técnicos e de 
+congestionamentos de qualquer ordem, sejam estes externos ou internos ao CNPq. 
+6.2.2 – Caso a proposta seja enviada fora do prazo de submissão, ela não será aceita pelo 
+sistema eletrônico, razão pela qual não haverá possibilidade da proposta ser acolhida, analisada e 
+julgada.
+6.3 – Esclarecimentos e informações adicionais acerca desta Chamada podem ser obtidos pelo 
+endereço eletrônico atendimento@cnpq.br ou pelo telefone (61) 3211-4000.
+6.3.1 – O atendimento encerra-se impreterivelmente às 17h (horário de Brasília), em dias úteis, e 
+esse fato não será aceito como justificativa para envio posterior à data limite.
+4
+ 6.3.2 – É de responsabilidade do proponente entrar em contato com o CNPq em tempo hábil para 
+obter informações ou esclarecimentos.
+6.4 – O formulário deverá ser preenchido com as seguintes informações:
+a) Identificação da proposta;
+b) Dados do proponente;
+c) Instituição participante;
+d) Área do conhecimento predominante e áreas do conhecimento correlatas;
+e) Orçamento detalhado;
+f) Dados gerais do projeto em português, incluindo título, palavras-chave, resumo e objetivo geral;
+g) Relevância e impacto do projeto para o desenvolvimento científico, tecnológico ou de inovação;
+h) Informações dos membros da equipe;
+i) Objetivos específicos;
+j) Metodologia;
+k) Etapas de execução da proposta com respectivo cronograma de atividades;
+l) Produtos ou serviços esperados como resultado do projeto de pesquisa e desenvolvimento, 
+com previsão de cronograma de entrega anual;
+m) Perspectivas concretas de colaborações internacionais durante a execução do projeto;
+n) Colaborações ou parcerias já estabelecidas para execução de atividades em rede;
+o) Recursos financeiros de outras fontes aprovados para aplicação no projeto;
+p) Disponibilidade efetiva de infraestrutura e de apoio técnico para o desenvolvimento do projeto;
+q) Resultado da busca em bases de propriedade intelectual relacionada ao tema do projeto; 
+r) Participação da  startup ou de seus colaboradores em programas de empreendorismo (são 
+exemplos: o InovAtiva Brasil do MDIC, programas de incubadoras, do SEBRAE etc);
+6.4.1 – Todos os itens do formulário devem ser necessariamente preenchidos, sob pena de 
+indeferimento sumário da proposta. Caso o item não se adeque à proposta, escrever “não se 
+aplica”.
+6.4.2  – É  obrigatório  que  os  membros  da  equipe  tenham  seus  currículos  cadastrados  na 
+Plataforma Lattes até 7 dias antes da submissão da proposta. Essa exigência não se aplica a 
+pesquisadores estrangeiros residentes fora do Brasil.
+6.4.3 – Somente deverão ser indicados como instituições participantes do projeto e como membro 
+da equipe aqueles que tenham prestado anuências formais escritas, as quais devem ser mantidas 
+sob a guarda do Coordenador do projeto.
+6.4.4 - É facultado ao proponente entrar em contato com as aceleradoras qualificadas no Edital 
+MCTI/SEPIN/Start-Up Brasil nº 03/2014. O CNPq e o MCTIC, sob nenhuma hipótese, 
+intermediarão esses contatos. Informações sobre as aceleradoras qualificadas, incluindo 
+metodologia de aceleração, cidades de atuação, perfil das empresas aceleradas, investimento 
+financeiro realizado por startup e participação acionária máxima (equity) estão disponíveis no sítio 
+do Programa Start-Up Brasil na internet, através do endereço http://startupbrasil.org.br/.
+6.5 – Exige-se, sob pena de desclassificação sumária da proposta, que a proposta inclua um arquivo anexo 
+contendo  exatamente as  informações  contidas  no  ANEXO  I  –  MODELO  ESTRUTURADO  DE 
+FORMULÁRIO  PARA  APRESENTAÇÃO  DE  PROPOSTA,  na  ordem  nele  apresentada,  de  forma  a 
+permitir sua adequada análise por parte do Comitê Julgador.
+6.5.1 – O arquivo deve ser gerado exclusivamente no formato pdf e anexado ao Formulário de 
+Propostas online, limitando-se a 2Mb (dois megabytes). 
+5
+ 6.5.2 –  Caso  seja  necessário  utilizar  figuras,  gráficos,  fotos  e/ou  outros,  para  esclarecer  a 
+argumentação da proposta, estes não devem comprometer a capacidade do arquivo, pois as 
+propostas que excederem o limite de 2Mb não serão recebidas pelo guichê eletrônico do CNPq.
+6.5.2.1 - Por questões legais e para fins de auditoria, não serão aceitos o envio de vídeos e 
+áudios, mesmo que citados na proposta e disponíveis via internet.
+6.6 – Após o envio, será gerado um recibo eletrônico de protocolo da proposta submetida, o qual 
+servirá como comprovante da transmissão.
+6.7 – Será aceita uma única proposta por proponente.
+6.8 – Na hipótese de envio de uma segunda proposta pelo mesmo proponente, respeitando-se o 
+prazo  limite  estipulado  para  submissão  das  propostas,  esta  será  considerada  substituta  da 
+anterior, sendo levada em conta para análise apenas a última proposta recebida.
+6.9 – Constatado o envio de propostas idênticas por proponentes diferentes será instaurado um 
+procedimento apuratório e, ao final, uma ou ambas as propostas poderão ser eliminadas.
+7 – Julgamento
+7.1. Nesta fase serão julgadas apenas as propostas que atenderam a todos os critérios de 
+elegibilidade indicados no item 3.
+7.2 – Critérios do Julgamento
+7.2.1 – Os critérios para classificação das propostas quanto ao mérito técnico-científico e sua adequação 
+orçamentária são:
+Critérios de análise e 
+julgamento
+Critérios
+Peso
+Nota
+A
+SOLUÇÃO
+Qualificação da solução 
+(produto  ou  serviço) 
+proposta
+•
+Grau de inovação;
+•
+Consistência  técnica  da 
+solução;
+•
+Fase  de  evolução  do 
+produto/serviço; 
+•
+Propriedade
+ 
+intelectual 
+depositada, registrada e/ou 
+concedida; e
+•
+Efetividade/eficácia
+ 
+na 
+resolução  do  problema 
+proposto.
+3,00
+0,00 a 
+10,00
+B
+EQUIPE
+Qualificação  da  equipe 
+de empreendedores
+•
+Currículo  acadêmico  e 
+profissional
+ 
+dos 
+empreendedores;
+•
+Complementaridade
+ 
+de 
+competências
+ 
+na 
+composição do time;
+•
+Dedicação
+ 
+de
+ 
+tempo 
+comprometida
+ 
+pelos 
+empreendedores  para  a 
+startup;
+•
+Conhecimento/experiência 
+em gestão de negócios;
+2,00
+0,00 a 
+10,00
+6
+ •
+Conhecimento/experiência 
+em  tecnologia  e  aspectos 
+tecnológicos da solução; e
+•
+Conhecimento/experiência 
+no  mercado  ou  segmento 
+de atuação da startup.
+C
+MODELO DE NEGÓCIOS
+Qualidade
+ 
+e 
+consistência do modelo 
+proposto
+•
+Escalabilidade:  facilidade 
+com  que  a  solução  pode 
+ser replicada e rapidamente 
+difundida;
+•
+Clareza  da  proposta  de 
+valor  do  produto/serviço, 
+bem  como  do  mercado  e 
+seus
+ 
+segmentos
+ 
+de 
+clientes-alvo;
+•
+Clareza  dos  canais  de 
+comercialização
+ 
+e 
+distribuição  do  produto  ou 
+serviço; e
+•
+Tamanho,
+ 
+relevância, 
+atratividade  comercial  e 
+barreiras
+ 
+de
+ 
+entrada 
+(incluídas  as  regulatórias, 
+concorrência
+ etc)
+ 
+do 
+mercado-alvo; e
+•
+Fatores  competitivos  de 
+diferenciação  frente  a 
+outros soluções.
+3,00
+0,00 a 
+10,00
+D
+MÃO-DUPLA
+Alinhamento  com  as 
+aceleradoras 
+qualificadas  e  com  o 
+Programa
+ 
+Start-Up 
+Brasil
+•
+Motivação em empreender;
+•
+Potencial
+ 
+de  
+impacto 
+econômico,
+ 
+social
+ 
+e 
+ambiental; 
+•
+Alinhamento
+ 
+com
+ 
+as 
+aceleradoras  qualificadas 
+no
+ 
+Edital 
+MCTI/SEPIN/Start-Up 
+Brasil nº 03/2014;
+•
+Alinhamento
+ 
+com
+ 
+os 
+ecossistemas  digitais  do 
+Programa TI  Maior; e
+•
+Impacto
+ 
+no 
+desenvolvimento
+ 
+das 
+regiões  norte,  nordeste  e 
+centro-oeste.
+2,00
+0,00 a 
+10,00
+ 
+7.2.2 – Para estipulação das notas poderão ser utilizadas até duas casas decimais.
+7.2.3  –  A  pontuação  final  de  cada  proposta  será  aferida  pela média  ponderada  das  notas 
+atribuídas para cada item.
+7.2.4 –  Em caso  de empate será utilizado  o  critério de maior nota do item C acima; caso 
+permaneça o empate, serão considerados, em ordem, as notas dos itens A, B e D do quadro 
+Critérios de análise e julgamento do subitem 7.2.1.
+7
+ 7.3 – Etapas do Julgamento
+7.3.2 – Etapa II – Classificação pelo Comitê Julgador
+7.3.2.1 – A composição e as atribuições do Comitê Julgador seguirão as disposições contidas em 
+normas específicas do CNPq que tratam da matéria.
+7.3.2.2 – Todas as propostas que atenderem aos critérios de elegibilidade serão classificadas pelo 
+Comitê Julgador, seguindo os critérios de julgamento dispostos nesta Chamada.
+7.3.2.3 – A pontuação final de cada projeto será aferida conforme estabelecido no item 7.2.
+7.3.2.4 – Todas as propostas avaliadas serão objeto de parecer de mérito consubstanciado, 
+contendo a fundamentação que justifica a pontuação atribuída.
+7.3.2.5 – Após a análise de mérito e relevância de cada proposta, o Comitê deverá recomendar:
+a) aprovação; ou
+b) não aprovação. 
+7.3.2.6 – O parecer do Comitê Julgador será registrado em Planilha de Julgamento, contendo a 
+relação das propostas recomendadas e não recomendadas, com as respectivas pontuações finais, 
+assim como outras informações e recomendações pertinentes.
+7.3.2.7 – Para cada proposta recomendada, o Comitê Julgador deverá sugerir o valor a ser 
+financiado pelo CNPq.
+7.3.2.8 – Durante a classificação das propostas pelo Comitê Julgador, o Gestor da Chamada e a 
+Área Técnico-científica responsável acompanharão as atividades e poderão recomendar ajustes e 
+correções  necessários,  como  a  possibilidade  que  se  refaça  ou  modifique  pareceres  de 
+recomendação e a Planilha de Julgamento.
+7.3.2.9 – A Planilha de Julgamento será assinada pelos membros do Comitê. 
+7.3.3 – Etapa III – Análise pela Área Técnico-Científica do CNPq
+7.3.3.1 – Esta etapa consiste na supervisão da classificação pelo Comitê Julgador.
+7.3.3.2 – A Área Técnico-científica deverá analisar os pareceres elaborados pelo Comitê Julgador 
+e a Planilha de Julgamento, apresentando os subsídios para etapa de Decisão pelo Presidente do 
+CNPq.
+7.3.3.3 – A Área Técnico-científica poderá indicar itens orçamentários, informações incorretas ou 
+inverídicas,  inconsistências  técnicas,  falhas  de  julgamento,  elementos  a  serem  inseridos, 
+modificados ou excluídos, que poderão ou não inviabilizar a aprovação da proposta.
+7.3.3.4 – Identificadas falhas, ausências, inconsistências e/ou equívocos, deverá a Área Técnico-
+científica tomar as providências necessárias para sanar os problemas, podendo determinar a 
+elaboração de novo parecer, a complementação do parecer anterior e a retificação da Planilha de 
+Julgamento.
+7.3.4 – Etapa IV – Decisão do julgamento pelo Presidente do CNPq
+7.3.4.1 – O Presidente do CNPq emitirá decisão do julgamento com fundamento na Nota Técnica 
+elaborada pela área técnico-científica responsável, acompanhada dos documentos que compõem 
+o processo de julgamento.
+7.3.4.2 – Na decisão do Presidente do CNPq deverão ser determinadas quais as propostas a 
+serem selecionadas e os respectivos valores a serem financiados dentro dos limites orçamentários 
+desta Chamada.
+7.3.5 – Etapa V – Acordo de associação entre Instituição de Execução do Projeto (empresa 
+startup) e aceleradoras
+8
+ 7.3.5.1 – As startups selecionadas nesta Chamada, na qualidade de Instituições Executoras do 
+Projeto, para fins de recebimento do apoio previsto nesta Chamada, deverão necessariamente 
+associar-se a uma das aceleradoras qualificadas no Edital MCTI/SEPIN/Start-Up Brasil nº 03/2014 
+conforme CRONOGRAMA.
+7.3.5.2 - Informações sobre as aceleradoras qualificadas supracitadas, tal como demais 
+informações sobre o Programa Start-Up Brasil podem ser obtidas através do endereço 
+http://startupbrasil.org.br.
+8 – Resultado Preliminar do Julgamento
+8.1 – A relação de todas as propostas julgadas, selecionadas e não selecionadas, será divulgada 
+na página eletrônica do CNPq, disponível na Internet no endereço http://www.cnpq.br, na  página 
+eletrônica  do  Programa  Start-Up  Brasil,  disponível  na  Internet  no  endereço 
+http://startupbrasil.org.br e  publicada,  por  extrato,  no  Diário  Oficial  da  União conforme 
+CRONOGRAMA.
+8.2 – Todos os proponentes da presente Chamada terão acesso ao parecer sobre sua proposta, 
+preservada a identificação dos pareceristas.
+9 – Recursos Administrativos
+9.1  – Recurso  Administrativo  do  Resultado  Provisório  da  Verificação  dos  Critérios  de 
+Elegibilidade
+9.1.1  – Caso  o  proponente  tenha  justificativa  para  contestar  o  resultado  dos  critérios  de 
+elegibilidade,  poderá  apresentar  recurso  em  formulário  eletrônico  específico,  disponível  na 
+Plataforma Carlos Chagas (http://carloschagas.cnpq.br), no prazo de 10 (dez) dias corridos a partir 
+da divulgação do "Resultado provisório da verificação dos critérios de elegibilidade" na página do 
+CNPq.
+9.1.2 – O recurso será analisado pela Área Técnico-científica do CNPq, que verificará se os 
+argumentos apresentados são procedentes e emitirá decisão.
+9.1.3 – Tendo em vista que os critérios de elegibilidade são objetivos e concisos, a decisão da 
+Área Técnico-científica será definitiva e a chamada seguirá seu fluxo procedimental.
+9.1.4 – O Resultado final da verificação dos critérios de elegibilidade será divulgado na página eletrônica 
+do  CNPq,  disponível na Internet no endereço  http://www.cnpq.br, na   página  eletrônica  do 
+Programa Start-Up Brasil, disponível na Internet no endereço http://startupbrasil.org.br e publicada, 
+por extrato, no Diário Oficial da União conforme CRONOGRAMA.
+9.2 – Recurso Administrativo do Resultado Preliminar do Julgamento
+9.2.1 – Caso o proponente tenha justificativa para contestar o resultado preliminar do julgamento, 
+poderá apresentar recurso em formulário eletrônico específico, disponível na Plataforma Carlos 
+Chagas (http://carloschagas.cnpq.br), no prazo de 10 (dez) dias corridos a partir da publicação do 
+resultado na página do CNPq e da disponibilização dos pareceres na Plataforma Carlos Chagas, 
+conforme NORMAS RECURSAIS deste Conselho.
+10 – Resultado Final do Julgamento pela DEX
+10.1  – A DEX emitirá decisão do julgamento com fundamento na Nota Técnica elaborada pela 
+área técnico-científica responsável, acompanhada dos documentos que compõem o processo de 
+julgamento.
+9
+ 10.2  –  O  resultado  final  do  julgamento  pela  DEX  será  divulgado  na  página  eletrônica  do  CNPq, 
+disponível na Internet no endereço http://www.cnpq.br, na  página eletrônica do Programa Start-
+Up Brasil, disponível na Internet no endereço http://startupbrasil.org.br e publicada, por extrato, no 
+Diário Oficial da União conforme CRONOGRAMA.
+11 – Execução das Propostas Aprovadas
+11.1 – As propostas aprovadas serão apoiadas na modalidade de Auxílio Individual ou Bolsa, em 
+nome do proponente, mediante assinatura de TERMO DE ACEITAÇÃO.
+11.2 – A firmatura do TERMO DE ACEITAÇÃO ficará subordinada à existência prévia de Acordo 
+de  Cooperação  Técnica, celebrado  entre  a  instituição  de  execução  do  projeto  e  o  CNPq, 
+conforme disposto nas normas deste Conselho.
+11.3 – As propostas a serem apoiadas pela presente Chamada deverão ter seu prazo máximo de 
+execução estabelecido em 12 (doze) meses.
+11.3.1 – Excepcionalmente, o prazo de execução dos projetos poderá ser prorrogado por até 6 
+(seis)  meses,  sem  qualquer  acréscimo  de  recurso,  mediante  pedido  fundamentado  do 
+coordenador, que justifique a prorrogação pleiteada, e aceito pelo CNPq e pela SEPIN/MCTIC.
+11.3.1.1 –  A  prorrogação  da  vigência  do  projeto  deverá  observar  necessariamente  a 
+correspondência  de  prorrogação  do  instrumento  de  cooperação  (Termo  de  Execução 
+Descentralizada - TED) entre o CNPq e a SEPIN/MCTIC. 
+11.4 – O proponente assume o compromisso de manter, durante a execução do projeto, 
+todas as condições, apresentadas na submissão da proposta, de qualificação, habilitação e 
+idoneidade necessárias ao perfeito cumprimento do seu objeto, preservando atualizados os 
+seus dados cadastrais nos registros competentes.
+11.5  – A existência de qualquer inadimplência, por parte do proponente, com o CNPq, com a 
+Administração  Pública  Federal,  Estadual  ou  Municipal,  direta  ou  indireta,  ou  o  registro  do 
+proponente como inadimplente em quaisquer cadastros mantidos por órgãos da Administração 
+Pública Federal, em razão do que prescreve o inciso III do artigo 29 da Lei n.o 8666/93, constituirá 
+fator impeditivo para a contratação do projeto, devendo o projeto ser cancelado posteriormente 
+caso verificado que o proponente deixou de declarar sua inadimplência. 
+11.6  –  As  informações  geradas  com  a  implementação  das  propostas  selecionadas  e 
+disponibilizadas na base de dados do CNPq serão consideradas de acesso público, observadas as 
+disposições abaixo:
+11.6.1  – Os  projetos  submetidos  a  esta  Chamada,  bem  como  quaisquer  relatórios  técnicos 
+apresentados pelos pesquisadores e/ou bolsistas para o CNPq, que contenham informações sobre 
+os projetos em andamento, terão acesso restrito até o ato decisório referente à aprovação final 
+pelo CNPq. (Lei 12.527/2011 de 18 de novembro de 2011, art 7º, §3º, e Decreto 7.724/2012 de 16 
+de maio de 2012, art 20).
+11.6.2 – Aqueles proponentes cujos projetos submetidos ao CNPq, aprovados ou não, e/ou seus 
+relatórios técnicos apresentados que possam gerar, no todo ou em parte, resultado potencialmente 
+objeto de Patente de Invenção, Modelo de Utilidade, Desenho Industrial, Programa de Computador 
+ou qualquer outra forma de registro de Propriedade Intelectual e semelhantes deverão manifestar 
+explicitamente o interesse na restrição de acesso na ocasião da submissão do projeto e/ou do 
+envio do relatório técnico.
+11.6.2.1 – As obrigações de sigilo e restrição de acesso público previstas na cláusula anterior 
+subsistirão pelo prazo de 5 (cinco) anos a partir da solicitação da restrição.
+10
+ 11.6.2.2 – Em que pese a possibilidade de restrição de acesso, esta não reduz, contudo, a 
+responsabilidade  que  os  coordenadores  de  projeto,  suas  equipes  e  instituições  têm,  como 
+membros da comunidade de pesquisa e desenvolvimento, de manter, sempre que possível, os 
+resultados  da  pesquisa,  dados  e  coleções  à  disposição  de  outros  pesquisadores  para  fins 
+acadêmicos. 
+11.6.3 – As partes deverão assegurar que cada um de seus empregados, funcionários, agentes 
+públicos  e  subcontratadas,  que  tenham  acesso  às  informações  de  acesso  restrito,  tenham 
+concordado em cumprir as obrigações de restrição de acesso à informação.
+11.6.4 – O CNPq disponibilizará, a seu critério, as informações primárias de todos os projetos, tais 
+como: título, resumo, objeto, proponente(s), instituições executoras e recursos aplicados pelo 
+órgão.
+11.7 – A concessão do apoio financeiro poderá ser cancelada pela Diretoria Executiva do CNPq, 
+por ocorrência, durante sua implementação, de fato cuja gravidade justifique o cancelamento, sem 
+prejuízo de outras providências cabíveis em decisão devidamente fundamentada.
+11.8  – É de exclusiva responsabilidade de cada proponente adotar todas as providências que 
+envolvam permissões e autorizações especiais, de caráter ético ou legal, necessárias à execução 
+do projeto.
+11.9 - As empresas selecionadas e as aceleradoras terão o prazo previsto no CRONOGRAMA 
+para fecharem um acordo de aceleração. Caso isso não aconteça até a data indicada, a startup 
+fica impedida de receber os recursos da presente Chamada. O CNPq pode, a seu critério, 
+convocar a próxima empresa habilitada no ranking de julgamento.
+12 – Do Monitoramento e da Avaliação
+12.1 – Durante a execução, o projeto será acompanhado e avaliado, em todas as suas fases, de 
+acordo com o estabelecido no TERMO DE ACEITAÇÃO.
+12.1.1  –  Qualquer alteração relativa à execução do projeto deverá ser solicitada ao CNPq pelo 
+proponente/coordenador,  acompanhada  da  devida  justificativa,  devendo  tal  alteração  ser 
+autorizada antes de sua efetivação e observadas as Resoluções Normativas do CNPq que tratam 
+do tema.
+12.2 – Durante a execução do projeto o CNPq e a SEPIN/MCTIC poderão, em qualquer tempo, 
+frequência e período, promover visitas técnicas ou solicitar informações adicionais  visando o 
+monitoramento e à avaliação do projeto.
+12.2.1 – Caso seja detectado que o projeto não esteja sendo executado conforme o previsto, o 
+CNPq deverá determinar diligências para o devido cumprimento e, caso não atendidas, promover 
+o encerramento do projeto.
+12.3 – As ações de monitoramento e avaliação terão caráter preventivo e saneador, objetivando a 
+gestão adequada e regular dos projetos e o levantamento de informações para o Programa.
+12.4 – Durante a fase de execução do projeto, toda e qualquer comunicação com o CNPq deverá 
+ser feita por meio da Central de Atendimento: atendimento@cnpq.br, somente pelo coordenador 
+do projeto, emitida pelo seu e-mail de domínio @pq.cnpq.br, com o número do processo em 
+questão entre colchetes iniciando o assunto do e-mail.
+12.5 - O CNPq e a SEPIN/MCTIC reservam-se o direito de, durante a execução do projeto, 
+promover visitas técnicas ou solicitar informações adicionais aos integrantes do projeto.
+11
+ 12.6 - O CNPq e a SEPIN/MCTIC reservam-se o direito de, durante a vigência do projeto e em 3 
+(três)  anos  após  o  seu  encerramento,  solicitar  informações  relativas  ao  perfil  da  instituição 
+executora do projeto, incluindo faturamento, número de postos de trabalho gerados, número de 
+usuários e clientes, montante de investimento captado, dentre outras.
+12.6.1 - Estas informações serão utilizadas para fins de pesquisa, acompanhamento e divulgação 
+dos resultados gerados pelo Programa.
+12.6.2 - As informações, se publicadas, não serão identificadas. 
+12.6.3 - As solicitações de informações devem ser respondidas em até 5 (cinco) dias úteis à sua 
+emissão.
+13 – Avaliação Final/Prestação de Contas
+13.1  – O proponente/coordenador  do  projeto  deverá  encaminhar  a prestação  de  contas  em 
+Formulário online específico, no prazo de até 60 (sessenta) dias após o término da vigência do 
+projeto, em conformidade com o TERMO DE ACEITAÇÃO e demais normas do CNPq, sob pena 
+de  ressarcimento  dos  valores  despendidos  pelo  CNPq  e  demais  penalidades  previstas  na 
+legislação de regência.
+13.1.1 – Todos os campos do formulário online de prestação de contas deverão ser devidamente 
+preenchidos.
+13.1.2 – A prestação de contas financeira deverá ser apresentada juntamente com todos os 
+comprovantes de despesas, em conformidade com as normas de  PRESTAÇÃO DE CONTAS 
+disponíveis no endereço eletrônico http://www.cnpq.br/web/guest/prestacao-de-contas1.
+13.1.3 – Caso seja necessário ou exigido na Chamada, deverá ser anexado um arquivo contendo 
+informações complementares ao relatório técnico. 
+14 – Impugnação da Chamada
+14.1 – Decairá do direito de impugnar os termos desta Chamada o cidadão que não o fizer até o 
+prazo disposto no CRONOGRAMA.
+14.1.1 – Caso não seja impugnada dentro do prazo, o proponente não poderá mais contrariar as 
+cláusulas desta Chamada, concordando com todos os seus termos.
+14.2 – A impugnação deverá ser dirigida à Presidência do CNPq, por correspondência eletrônica, 
+para o endereço: presidencia@cnpq.br, seguindo as normas do processo administrativo federal.
+15 – Publicações
+15.1 – As publicações científicas e qualquer outro meio de divulgação ou promoção de eventos ou 
+de projetos de pesquisa apoiados pela presente Chamada deverão citar, obrigatoriamente, o apoio 
+do CNPq e de outras entidades/órgãos financiadores.
+15.1.1 – Nas publicações científicas ou técnicas o CNPq deverá ser citado exclusivamente como 
+“Conselho Nacional de Desenvolvimento Científico e Tecnológico – CNPq” ou como “National 
+Council for Scientific and Technological Development – CNPq”.
+15.2 –  As  ações  publicitárias atinentes  a  projetos  realizados  com  recursos  desta  Chamada 
+deverão observar rigorosamente as disposições que regulam a matéria.
+15.3 – A publicação dos artigos científicos resultantes dos projetos apoiados deverá ser realizada, 
+preferencialmente, em revistas de acesso aberto.
+12
+ 15.4 – Caso os resultados do projeto ou o relatório em si venham a ter valor comercial ou possam 
+levar  ao  desenvolvimento  de  um produto  ou  método  envolvendo  o estabelecimento  de  uma 
+patente, a troca de informações e a reserva dos direitos, em cada caso, dar-se-ão de acordo com 
+o estabelecido na Lei de Inovação (Lei nº 10.973 de 02 de dezembro de 2004), regulamentada 
+pelo Decreto 5.563, de 11 de outubro de 2005, na Lei de Propriedade Industrial (Lei nº 9.279, de 
+14 de maio de 1996) e pelas normas internas do CNPq que regulam a matéria.
+15.5 - As empresas apoiadas nesta Chamada deverão divulgar em seu website e em materiais 
+institucionais a logomarca do CNPq e a do Programa Start-Up Brasil, durante a vigência do projeto 
+e em 3 (três) anos após seu encerramento.
+16 – Disposições Gerais
+16.1 – A presente Chamada regula-se pelos preceitos de direito público inseridos no caput do 
+artigo 37 da Constituição Federal, pelas disposições da Lei nº 8.666/93, no que couber, e, em 
+especial, pelas normas internas do CNPq.
+16.2 –  A  Coordenação  responsável  pelo  acompanhamento  da  presente  Chamada  é  a 
+Coordenação de Apoio à Pesquisa, Desenvolvimento e Aplicações (COAPD).
+16.3 – A qualquer tempo, a presente Chamada poderá ser revogada ou anulada, no todo ou em 
+parte, seja por decisão unilateral da Diretoria Executiva do CNPq, seja por motivo de interesse 
+público ou exigência legal, em decisão fundamentada, sem que isso implique direito à indenização 
+ou reclamação de qualquer natureza.
+16.4 – A Diretoria Executiva do CNPq reserva-se o direito de resolver os casos omissos e as 
+situações não previstas na presente Chamada.
+Brasília, 25 de setembro de 2017.
+ANEXO  I  –  MODELO  ESTRUTURADO  DE  FORMULÁRIO  PARA  APRESENTAÇÃO  DE 
+PROPOSTA
+1.
+IDENTIFICAÇÃO DA PROPOSTA
+Orientações
+Nesta seção o proponente deverá apresentar os dados básicos de identificação da proposta, 
+incluindo  informações  sobre  o  projeto,  empresa  responsável  pela  sua  execução  (Instituição 
+Executora do Projeto) e sobre o coordenador do projeto (proponente).
+ 
+A. TÍTULO DO PROJETO
+Inserir o nome do projeto
+Preencha aqui:
+B. RAZÃO SOCIAL DA INSTITUIÇÃO EXECUTORA DO PROJETO
+Inserir a razão social da empresa (Instituição de Execução do Projeto) 
+conforme inscrição no Cadastro Nacional de Pessoa Jurídica (CNPJ). Para  
+informações sobre os critérios de elegibilidade da empresa, consultar o item 
+3.3. desta Chamada. 
+13
+ Preencha aqui:
+C. CNPJ DA INSTITUIÇÃO EXECUTORA DO PROJETO:
+Inserir o número de inscrição da empresa (Instituição Executora do Projeto)  
+no Cadastro Nacional de Pessoa Jurídica (CNPJ). Para informações sobre os  
+critérios de elegibilidade da empresa, 
+consultar o item 3.3 desta Chamada.
+Preencha aqui:
+D. NOME COMPLETO DO PROPONENTE (COORDENADOR DO PROJETO)
+Inserir o nome completo do coordenador do projeto (proponente). Para  
+informações sobre os critérios de elegibilidade do proponente, consultar o  
+item 3.2  desta Chamada.
+Preencha aqui:
+E. VÍNCULO DO PROPONENTE COM A INSTITUIÇÃO EXECUTORA DO PROJETO
+Informar o vinculo do coordenador do projeto (proponente) com a empresa  
+(Instituição Executora do Projeto). O vínculo do coordenador com a 
+Instituição de Execução do Projeto é uns dos critérios de elegibilidade do  
+proponente, ou seja, não informar o vínculo é motivo de eliminação. 
+Informações sobre os Critérios de Elegibilidade do proponente, consultar o 
+item 3.2  desta Chamada.
+Preencha aqui:
+2.
+DESCRIÇÃO DA SOLUÇÃO DE PRODUTO OU SERVIÇO 
+Orientações:
+Nesta seção o proponente deverá apresentar informações sobre a solução de produto ou serviço a 
+ser desenvolvida de forma a permitir sua adequada análise por parte do Comitê Julgador em 
+relação aos sub-critérios relacionados à SOLUÇÃO (item 7.2.1.A da Chamada):
+●
+Grau de inovação;
+14
+ ●
+Consistência técnica da solução;
+●
+Fase de evolução do produto; 
+•
+Propriedade intelectual depositada, registrada e/ou concedida; e
+●
+Efetividade/eficácia na resolução do problema proposto.
+É importante lembrar que o Programa Start-Up Brasil visa apoiar projetos de pesquisa científica, 
+tecnológica  e  de  inovação  que  visem  contribuir  significativamente  para  o  desenvolvimento 
+econômico e tecnológico do País e que desenvolvam e/ou utilizem ferramentas de  software, 
+hardware e/ou serviços de TI como parte da solução, produto ou serviço proposto.
+A. DESCRIÇÃO DA SOLUÇÃO DE PRODUTO OU SERVIÇO A SER DESENVOLVIDA
+Apresentar uma descrição completa do produto ou serviço a ser  
+desenvolvido que permita ao Comitê Julgador analisar a proposta em 
+relação aos critérios de seleção relacionados à SOLUÇÃO 
+(item 7.2.1.A da Chamada)
+Preencha aqui:
+B. DESCRIÇÃO DO GRAU DE INOVAÇÃO DA SOLUÇÃO DE PRODUTO OU SERVIÇO A SER 
+DESENVOLVIDA
+Apresentar de forma clara uma descrição do grau de inovação do produto ou  
+serviço a ser desenvolvido em relação às soluções concorrentes.
+Preencha aqui:
+3.
+QUALIFICAÇÃO DA EQUIPE EXECUTORA
+Orientações:
+Nesta seção o proponente deverá apresentar informações sobre a equipe executora do projeto, de 
+forma a permitir sua adequada análise por parte do Comitê Julgador em relação aos subcritérios 
+relacionados à EQUIPE (item 7.2.1.B da Chamada):
+●
+Currículo acadêmico e profissional dos empreendedores;
+●
+Complementaridade de competências na composição do time;
+●
+Dedicação de tempo comprometida pelos empreendedores para a startup;
+●
+Conhecimento/experiência em gestão de negócios;
+●
+Conhecimento/experiência em tecnologia e aspectos tecnológicos da solução; e
+15
+ ●
+Conhecimento/experiência no mercado ou segmento de atuação.
+O coordenador do projeto deve informar todos os profissionais que trabalharão diretamente na 
+implementação do projeto
+A. DESCRIÇÃO DA EQUIPE EXECUTORA DO PROJETO:
+Apresentar uma breve descrição da equipe executora do projeto, destacando 
+a complementaridade de competências na composição do time.
+Preencha aqui:
+B. PERFIL DOS MEMBROS DA EQUIPE
+Apresentar, para cada membro da equipe executora do projeto, incluindo o  
+coordenador do projeto: (a) nome do profissional; (b) mini-currículo,  
+incluindo informações sobre experiência profissional e formação acadêmica,  
+especialmente aquelas relacionadas ao projeto proposto; (c) o papel do 
+profissional no projeto; e d) a dedicação de tempo ao projeto por semana  
+(em horas).
+Nome do Profissional
+Formação Acadêmica
+Experiência Profissional
+Papel no Projeto
+Dedicação de tempo ao 
+projeto por semana (em 
+horas).
+C. CONHECIMENTO / EXPERIÊNCIA DA EQUIPE NO MERCADO OU SEGMENTO DE ATUAÇÃO
+Apresentar uma breve descrição do conhecimento/experiência da equipe no  
+mercado ou segmento de atuação do projeto proposto.
+Preencha aqui:
+16
+ 4.
+MODELO DE NEGÓCIOS 
+Orientações:
+Nesta  seção  o  proponente  deverá  apresentar  o  modelo  de  negócios  descritivo  do  projeto 
+exatamente com os seguintes itens, necessariamente na seguinte ordem:
+1. Segmentos de clientes, incluindo dados sobre a relevância do problema identificado e 
+sobre o tamanho do mercado-alvo;
+2. Proposta de valor, ou seja, contribuição do produto para os clientes;
+3. Canais de entrega, ou seja, forma pela qual o produto ou serviço será consumido e/ou 
+utilizado;
+4. Relacionamento com o cliente, ou seja, formas de relacionamento com clientes da 
+solução apresentada;
+5. Atividades chave;
+6. Recursos chave, seja financeiros, humanos, materiais etc;
+7. Parceiros chave;
+8. Principais custos; e
+9.
+Fontes de receita.
+O proponente deve apresentar informações suficientes, de forma a permitir sua adequada análise 
+por parte do Comitê Julgador em relação aos subcritérios relacionados ao MODELO DE NEGÓCIOS 
+(item 7.2.1.C da Chamada):
+●
+Escalabilidade: capacidade da solução ser repetível e escalável;
+●
+Clareza da proposta de valor do produto/serviço, bem como do mercado e de seus segmentos de 
+clientes-alvo;
+●
+Clareza dos canais de comercialização e distribuição do produto ou serviço;
+●
+Tamanho, relevância, atratividade comercial e barreiras de entrada (incluídas as regulatórias, 
+concorrência etc) do mercado-alvo; e
+●
+Fatores competitivos de diferenciação frente a outras soluções.
+Recomendamos incluir uma figura preenchida do Quadro do Modelo de Negócios (Business Model 
+Canvas) da empresa.
+A. PRINCIPAL PÚBLICO-ALVO
+Indicar, dentre as opções a seguir, a que mais se adequa ao produto ou  
+serviço proposto.
+Pessoas Jurídicas (Empresas) - B2B
+17
+ Pessoas Físicas (Consumidores Finais) - B2C
+Pessoas Jurídicas (Empresas) e Pessoas Físicas (Consumidores Finais)- B2B2C
+B. QUADRO DE MODELO DE NEGÓCIOS (BUSINESS MODEL CANVAS) - (OPCIONAL)
+Inserir a figura preenchida do Quadro do Modelo de Negócios (Business  
+Model Canvas) da empresa.
+Insira a figura aqui (OPCIONAL):
+C. SEGMENTO DE CLIENTES
+Apresentar uma breve descrição do(s) segmento(s) de clientes, incluindo  
+dados sobre o problema identificado e sobre o tamanho do mercado-alvo  
+(número de pessoas/clientes e valores em dinheiro).
+Preencha aqui:
+18
+         D. PROPOSTA DE VALOR
+Apresentar uma breve descrição da(s) proposta(s) de valor, ou seja, a  
+contribuição do produto ou serviço para o(s) segmento(s) de clientes.
+Preencha aqui:
+        E. CANAIS DE ENTREGA
+Apresentar uma breve descrição do(s) canal(is) de entrega, ou seja, a forma  
+pela qual o produto ou serviço será consumido e/ou utilizado,  seja ele físico  
+ou virtual.
+Preencha aqui:
+   F.   RELACIONAMENTO COM O CLIENTE
+Apresentar uma breve descrição das ações de relacionamento com os 
+clientes, ou seja, formas de relacionamento com clientes da solução 
+apresentada.
+Preencha aqui:
+   G.   ATIVIDADES CHAVE
+Apresentar uma breve descrição das atividades chave necessárias para o 
+funcionamento do modelo de negócios.
+Preencha aqui:
+19
+       H.  RECURSOS CHAVE
+Apresentar uma breve descrição dos recursos chave necessários para o 
+funcionamento do modelo de negócios, sejam recursos financeiros, 
+humanos, materiais etc.
+Preencha aqui:
+   I.  PARCEIROS CHAVE
+Apresentar uma breve descrição dos parceiros chave necessários para o 
+funcionamento do modelo de negócios, incluindo seu papel na 
+implementação e desenvolvimento do projeto.
+Preencha aqui:
+  J.  PRINCIPAIS CUSTOS
+Apresentar uma breve descrição dos principais custos para implementação e 
+desenvolvimento do projeto.
+Preencha aqui:
+  K.  FONTES DE RECEITA
+Apresentar uma breve descrição das fontes de receita do projeto, ou seja, 
+como sua empresa ganha ou vai ganhar dinheiro.
+Preencha aqui:
+5. ESTÁGIO DE DESENVOLVIMENTO
+Orientações:
+Nesta seção o proponente deverá apresentar informações sobre o estágio de desenvolvimento da 
+solução de produto ou serviço proposta.
+A.  INDICAÇÃO DO ESTÁGIO DE DESENVOLVIMENTO
+20
+ Indicar, dentre as opções a seguir, a que mais se adequa ao estágio de 
+desenvolvimento do produto ou serviço proposto.
+Conceito
+Protótipo funcional em desenvolvimento
+Protótipo funcional finalizado
+Produto finalizado
+Produto finalizado com Receita
+B.  HÁ POSSÍVEIS CLIENTES OU USUÁRIOS TESTANDO A SOLUÇÃO?
+Sim
+Não
+Outras informações:
+C.  FATURAMENTO DA EMPRESAS NOS ÚLTIMOS 12 (DOZE) MESES:
+Informar o faturamento da empresa nos últimos 12 meses anteriores à data  
+de envio da proposta.
+Preencha aqui:
+D.  DESCRIÇÃO DO ESTÁGIO DE DESENVOLVIMENTO
+Apresentar uma breve descrição do estágio de desenvolvimento da solução  
+de produto ou serviço proposta, incluindo informações sobre testes 
+realizados, projetos-piloto, número de usuários e clientes e outras  
+informações que julgar relevante para indicar o estágio de desenvolvimento  
+do produto e serviço.
+Preencha aqui:
+6. INDICAÇÃO DE ACELERADORAS
+ Orientações:
+Nesta seção o proponente deverá indicar até 06 (seis) aceleradoras, dentre aquelas qualificadas no 
+Edital MCTI/SEPIN/Start-Up Brasil nº 03/2014, com as quais o proponente tem interesse em se 
+associar, obrigatoriamente informando a ordem de preferência entre elas. 
+Informações sobre as aceleradoras qualificadas, incluindo metodologia de aceleração, cidades de 
+21
+ atuação,  perfil  das  empresas  aceleradas,  investimento  financeiro  realizado  por  startup  e 
+participação  acionária  estão  disponíveis  no  sítio  do  Programa  Start-Up  Brasil  em 
+http://startupbrasil.org.br/
+A.  LISTA DE ACELERADORAS EM ORDEM DE PREFERÊNCIA
+Lista de até 06 (seis) aceleradoras, dentre aquelas qualificadas no Edital  
+MCTI/SEPIN/Start-Up Brasil nº 03/2014, com as quais o proponente tem  
+interesse em se associar, informando a ordem de preferência entre elas.
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. COMPROVANTE DE INSCRIÇÃO E DE SITUAÇÃO CADASTRAL
+Inserir uma captura de tela (print screen) do Comprovante de Inscrição e de  
+Situação Cadastral de Pessoa Jurídica da Instituição de Execução do Projeto  
+emitido pela Receita Federal do Brasil. Este comprovante pode ser obtido no  
+endereço 
+http://www.receita.fazenda.gov.br/pessoajuridica/cnpj/cnpjreva/cnpjreva_s
+olicitacao.asp
+Insira aqui:
+22
+ 8 - DOCUMENTO OFICIAL DE COMPROVAÇÃO DE VÍNCULO FORMAL DO 
+PROPONENTE COM A INSTITUIÇÃO DE EXECUÇÃO DE PROJETO
+De acordo com o item 3.2.1.c desta Chamada, apenas na inexistência de 
+vínculo empregatício ou funcional do proponente com a Instituição de 
+Execução do projeto, é necessária a apresentação de um documento que 
+comprove haver concordância entre o proponente e a Instituição de  
+Execução do Projeto para o desenvolvimento da atividade de pesquisa, 
+desenvolvimento e inovação, documento esse expedido por responsável legal  
+da instituição. Se for o caso, esse documento deve ser anexado à proposta de  
+projeto.
+Se for o caso, insira o documento aqui:
+23
+ 24

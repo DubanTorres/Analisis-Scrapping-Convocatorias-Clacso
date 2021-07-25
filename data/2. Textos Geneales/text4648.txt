@@ -1,0 +1,1788 @@
+02 March 2018: GCE-BRAZIL CALL FOR PROPOSALS IN ENGLISH 
+ 
+      
+    
+   
+ 
+ 
+ 
+ 
+1 
+Data Science Approaches to Improve Maternal and Child Health in Brazil 
+ 
+ 
+1. Preamble 
+This joint call for proposals targeted specifically to Brazilian researchers is the result 
+of a partnership between the Ministry of Health (MoH), the National Council for 
+Scientific and Technological Development (CNPq), the National Council for State 
+Funding Agencies (CONFAP), engaged State Funding Agency (FAPs) and The Bill & 
+Melinda Gates Foundation (BMGF). This call is part of another initiative funded by 
+the Gates Foundation in 2010 named Healthy Birth, Growth and Development 
+Knowledge integration (HBGDki). The goal of this program is to use data science 
+tools to develop a deep understanding of the risk factors contributing to poor 
+outcomes in preterm birth, physical growth faltering and impaired neurocognitive 
+development. Through Grand Challenges Explorations - Brazil, the above-
+mentioned partners share this goal and wish to build on the growing expertise in 
+data science, epidemiology and public health in Brazil to address priority issues in 
+maternal and child health. 
+ 
+2. THE CHALLENGE 
+There remain key knowledge gaps in understanding how nutrition, prenatal and 
+antenatal care, maternal support, and environmental and social factors contribute 
+to an elevated risk of poor maternal and childhood health outcomes.  Such an 
+understanding is required to determine what interventions, including health 
+policies, should be delivered to which group of individuals at what point in their 
+lifecycle to ensure optimal outcomes.  
+ 
+3. THE OPPORTUNITY 
+Developing and validating approaches to foster maternal and child health is 
+challenging due to the complex interaction of biological, environmental and social 
+factors. Furthermore, policy recommendations for such approaches frequently lack 
+sufficient supporting scientific evidence, while clinical trials are expensive, time-
+consuming, and increasingly difficult to implement. There is now a key opportunity 
+to accelerate research in this area by analyzing administrative and clinical 
+outcomes databases in Brazil to formulate public health recommendations that are 
+data-driven and cost effective.  
+ 
+The purpose of this call for proposals is to promote new and novel approaches to 
+analyzing data related to social programs and public health in Brazil to produce 
+ 02 March 2018: GCE-BRAZIL CALL FOR PROPOSALS IN ENGLISH 
+ 
+      
+    
+   
+ 
+ 
+ 
+ 
+2 
+novel insights which can be used to improve maternal and child health in Brazil 
+and around the world. Applicants may choose to work with large datasets 
+available to them or to collaborate with Center for Data and Knowledge 
+Integration for Health (CIDACS) to explore their linked anonymized dataset (100 
+million Brazilian Cohort), which integrates information from the Cadastro Unico 
+(CADU) with the live births system (SINASC), the mortality system (SIM) and Bolsa 
+Família program (BFP) - see Appendix A for more information about data access 
+through CIDACS.  
+ 
+Successful applicants to this call should assume that with the appropriate 
+agreements and ethical approvals, they will not only receive funding but will be 
+able to access anonymized subsets of these data available from Center for Data 
+and Knowledge Integration for Health (CIDACS) researchers.   The utilization of the 
+health and social data, as a key focus of this call, is intended to engage a broad 
+spectrum of collaborators - including research and clinical scientists working with 
+data scientists, bioinformaticians, statisticians, epidemiologists, engineers and 
+computer programmers - to identify how innovative data analytic approaches can 
+be used to develop improved solutions to tackle the burden of maternal and child 
+health problems in Brazil.   
+ 
+We also welcome applicants who have access to other relevant data sets, including 
+publicly available data, clinical research, cohort and survey studies and other large 
+datasets that can help address the questions below, to submit their proposals 
+under this call. In this case, researchers who submit applications involving other 
+data sets are responsible for securing appropriate authorization and access to the 
+data. Applicants are encouraged to describe the steps required to access the 
+proposed dataset in their proposals.  
+ 
+3.1. WHAT WE ARE LOOKING FOR 
+We seek proposals designed to answer critical scientific questions related to 
+maternal and child health and development outcomes. Proposals should use 
+innovative data analytics and modeling approaches that can be applied to the 
+CIDACS linked datasets or to other relevant data sets that applicants can access. 
+Proposals should be based on these linked datasets or existing primary data in 
+Brazil and yield actionable results with a potential to significantly impact public 
+health policy.  
+ 
+3.1.1 We will give highest priority to proposals that:  
+ 02 March 2018: GCE-BRAZIL CALL FOR PROPOSALS IN ENGLISH 
+ 
+      
+    
+   
+ 
+ 
+ 
+ 
+3 
+a) Support innovative collaborations between Brazilian research scientists, 
+healthcare experts, and data scientists;  
+b) Answer critical scientific questions identified in this GCE, while building 
+and strengthening data science capacity for Brazil;  
+c) Take into account social, environmental and cultural determinants of 
+outcomes and incorporate an understanding of the target community 
+that includes barriers and constraints to delivery of interventions and to 
+implementation of public health programs;  
+d) Contribute to a portfolio of funded projects that addresses regional 
+diversity and the need to provide health equity for diverse and vulnerable 
+populations;  
+e) Explain how answers will have the highest likelihood of being relevant for 
+implementation broadly in the public health system; 
+f)    Describe mechanistic models for establishing the relationship between 
+interventions and its related outcomes.  
+ 
+3.1.2. Examples of what we are looking for include analytical approaches: 
+a) That apply innovative analyses or machine learning techniques to identify 
+patterns in data from “natural experiments” (e.g., the impact of economic 
+cycles on the quality of primary care and health outcomes); 
+b) That stratify risk of adverse pregnancy outcomes, including preterm birth 
+and low birth weight; 
+c) That incorporate weight gain during pregnancy as a variable, including 
+helping to determine the relative contributions to neonatal health outcomes 
+of maternal diet quantity versus quality; 
+d) That determine the relative contributions to infant health outcomes of diet 
+quantity versus quality (e.g., protein quantity versus quality); 
+e) That target underexplored subsets of data (e.g., rare but significant HBGD 
+events that can be studied because of the large size and statistical power of 
+the database); 
+f) That help convert correlations to causal hypotheses (e.g., health outcomes 
+correlated to sex differences, maternal education, birth spacing, age of first 
+pregnancy, establishing causal impact of air pollution on fetal growth); 
+g) That identify new ways to aggregate risk factors and identify vulnerable 
+populations for adverse maternal and child health outcomes, including 
+innovative data integration strategies and visualization tools; 
+ 02 March 2018: GCE-BRAZIL CALL FOR PROPOSALS IN ENGLISH 
+ 
+      
+    
+   
+ 
+ 
+ 
+ 
+4 
+h) That specifically incorporate the roles of women – as perceived locally – 
+from 
+adolescence 
+to 
+motherhood 
+(including 
+pregnancy 
+during 
+adolescence); 
+i) That evaluate programs for pre-pregnancy intervention for women and the 
+effect of doing so on prenatal, maternal, fetal and neonatal mortality; 
+j) That determine the best care for low-birth-weight babies;   
+k) That help determine the window of opportunity to foster catch-up growth 
+for preterm and low-birth-weight babies, and the most effective 
+interventions for doing so; 
+l) That help identify critical periods for intervention during pregnancy and 
+early childhood; 
+m) That stratify risk of stunting and wasting from birth through two years of 
+age; 
+n) That target root causes of maternal mortality, including caesarean section, 
+and address the most vulnerable population groups considering age and 
+ethnicity; 
+o) That investigate the “double burden” of disease in Brazil leading to pockets 
+of stunting and wasting in parallel with pockets with rising rates of 
+childhood obesity. 
+p) That stratify risks for child development aiming to establish national 
+indicators for healthy development from the neonatal period to the first two 
+years of the children addressing preferably most vulnerable population 
+groups considering age and ethnicity  
+q) That help to understand the relationship between social indicators, 
+nutritional conditions and mortality from the prenatal period to the early 
+childhood. We welcome applications addressing traditional and vulnerable 
+populations. 
+ 
+3.1.3. Examples of what we are NOT looking for: 
+a) Proposals submitted by applicants from outside of Brazil. 
+b) Proposals for new studies to generate new data; 
+c) Proposals that do not focus on health outcomes in Brazil; 
+d) Proposals not related to maternal and child health challenges 
+e) Development of new primary data collection tools; 
+f) Approaches that do not meaningfully involve data from adolescents, 
+mothers, or infants; 
+ 02 March 2018: GCE-BRAZIL CALL FOR PROPOSALS IN ENGLISH 
+ 
+      
+    
+   
+ 
+ 
+ 
+ 
+5 
+g) Applications proposing data science algorithm development without clear 
+relevance to answering the types of questions described in this call for 
+proposals; 
+h) Ideas without a clearly articulated and testable hypothesis together with 
+metrics of success; 
+i) Ideas for which the described indicator of success cannot be demonstrated 
+or significantly advanced within the scope of the GCE Phase 1 award (USD 
+$100,000 over 18 months); 
+j) Proposals that do not describe the innovation’s potential effects on health 
+policy making; 
+k) Analyses that are only slight improvements over existing approaches (e.g., 
+replication of an approach in a new geography in the absence of added 
+innovation); 
+ 
+APPENDIX  
+Center for Data and Knowledge Integration for Health 
+The Center for Data and Knowledge Integration for Health (CIDACS) was 
+launched in 2016 as part of Fiocruz in Bahia to conduct innovative scientific 
+research that broadens understanding of the effects of social and environmental 
+determinants, including public policy, on population health in Brazil. To achieve 
+this goal, it links information from social programs and other databases of health 
+information systems, such as mortality, birth, communicable and non-
+communicable infectious diseases, among other outcomes, from different 
+information systems maintained by the Ministry of Health. A central feature of the 
+CIDACS platform is to produce linked datasets, whose main product is the 100 
+million Brazilians cohort (2006-2015).  This cohort is built by linking data from 
+individuals in the Cadastro Único (CADU) to data of the same individuals in the 
+Bolsa Familia Program (BFP), SINASC and SIM. CADU is a national registry of 
+individuals who could be eligible to federal government social programs. BFP is a 
+national conditional cash transfer program which transfers cash to poor 
+households when they comply with conditions related to health and education. 
+Individuals in the BFP database must be registered in CADU. SINASC is the 
+registry of birth certificates. SIM is the registry of death certificates. 
+ 
+Previous analyses performed by the CIDACS team have demonstrated that the 
+social protection program contributed to a decrease in childhood mortality 
+overall and in particular for deaths attributable to poverty-related causes such as 
+malnutrition and diarrhea. 
+ 02 March 2018: GCE-BRAZIL CALL FOR PROPOSALS IN ENGLISH 
+ 
+      
+    
+   
+ 
+ 
+ 
+ 
+6 
+ 
+The CIDACS platform employs the highest levels of security to ensure the privacy, 
+integrity, and ethical use of the data. Considerable research has been required to 
+develop the processes for data receipt, curation, and to provide authorized 
+access for analysis. In this Grand Challenges Explorations – Brazil program, the 
+CIDACS platform will be available for the selected applicants to conduct 
+innovative, interdisciplinary projects in the areas of maternal and child health.  
+ 
+Additional Resources 
+HBGDKI.org 
+Center for Data and Knowledge Integration for Health (CIDACS) 
+Other resources to follow in the coming days  
+ 
+               
+ 
+ 
+Grand Challenges Explorations – Brasil 
+Ciência de Dados Para Melhorar a Saúde Materno-Infantil no Brasil 
+1. INTRODUÇÃO 
+Esta chamada conjunta do Grand Challenges Explorations, voltada exclusivamente e pela 
+primeira vez a pesquisadores brasileiros, é resultado da parceria entre o Ministério da 
+Saúde (MS), o Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), 
+o Conselho Nacional das Fundações Estaduais de Amparo à Pesquisa (CONFAP), as 
+Fundações Estaduais de Amparo à Pesquisa (FAPs) e a Fundação Bill & Melinda Gates 
+(FBMG). Esta chamada é parte da iniciativa criada pela Fundação Gates em 2010 e 
+denominada 
+Integração 
+do 
+Conhecimento 
+em 
+Nascimento, 
+Crescimento 
+e 
+Desenvolvimento Saudáveis (da sigla em inglês HBGDki). O principal objetivo deste 
+programa é utilizar ferramentas de ciência de dados para desenvolver um sólido 
+entendimento dos fatores de risco que contribuem para desfechos inadequados em 
+partos prematuros, crescimento infantil incerto e desenvolvimento neurocognitivo 
+comprometido. Por meio do Grand Challenges Explorations Brasil, os parceiros citados 
+acima compartilham do objetivo de apostar e investir na crescente experiência do Brasil 
+em ciência de dados, epidemiologia e em saúde pública para enfrentar os principais 
+problemas em saúde materno-infantil de nosso tempo. 
+ 
+2. O DESAFIO 
+Ainda existem importantes lacunas de conhecimento para entender como a nutrição, os 
+cuidados durante o pré-natal e no pós-parto, além de fatores ambientais e sociais, 
+contribuem para um elevado risco de resultados insatisfatórios para a saúde materno-
+infantil. Essa compreensão é necessária para determinar quais intervenções, incluindo 
+políticas públicas de saúde, devem ser oferecidas, a quais grupos de indivíduos e em 
+que momento de suas vidas para garantir os melhores resultados. 
+ 
+ 
+3. A OPORTUNIDADE 
+Desenvolver e validar abordagens para promover a saúde materno-infantil é uma tarefa 
+desafiadora porque depende de uma complexa interação entre fatores biológicos, 
+ambientais e sociais. Além disso, recomendações de políticas públicas para garantir 
+bons resultados nesta área frequentemente carecem do suporte de evidências 
+científicas porque os testes clínicos, em geral, são caros, levam tempo e são cada vez 
+mais difíceis de implementar. Essa chamada representa uma oportunidade única de 
+acelerar a pesquisa nesta área por meio da análise de bases de dados brasileiras 
+               
+ 
+ 
+contendo informações clínicas e administrativas para formular recomendações em 
+políticas públicas guiadas por evidências e com o melhor custo-benefício. 
+ 
+O objetivo desta chamada é fomentar abordagens inovadoras de análise de dados 
+relacionados a programas sociais e à saúde pública no Brasil para produzir novos 
+insights e conclusões que podem melhorar a saúde materno-infantil não só dentro do 
+país como também ao redor do mundo. Os candidatos podem escolher entre trabalhar 
+com grandes bancos de dados já disponíveis ou colaborar com o Centro de Integração 
+de Dados e Conhecimentos para Saúde (CIDACS). Ao optarem por trabalhar com o 
+CIDACS, poderão explorar uma base com dados anônimos de uma coorte de 100 
+milhões de brasileiros, que integra informações do Cadastro Único (CADU) com as do 
+Sistema de Informação sobre Nascidos Vivos (SINASC), do Sistema de Informação sobre 
+Mortalidade (SIM) e do Programa Bolsa Família (veja o Apêndice abaixo para mais 
+informações sobre o acesso aos dados pelo CIDACS). 
+ 
+Candidato(a)s bem-sucedido(a)s nesta chamada concordam que, com os devidos 
+acordos e aprovações éticas, não apenas receberão financiamento, mas também 
+poderão acessar subconjuntos da coorte de 100 milhões de brasileiros no Centro de 
+Pesquisa de Dados e de Conhecimento para a Saúde (CIDACS). A utilização de dados 
+sociais e de saúde, principal foco desta chamada, tem como propósito engajar um 
+amplo espectro de colaboradores – incluindo pesquisadores da área médica 
+trabalhando com cientistas de dados, especialistas em bioinformática, bioestatísticos, 
+estatísticos, epidemiologistas, programadores e engenheiros de computação – na 
+identificação e uso de abordagens inovadoras de análises de dados para desenvolver 
+melhores soluções capazes de enfrentar os problemas de saúde materno-infantil no 
+Brasil.  
+Propostas de candidatos que tenham acesso a outras bases de dados relevantes para 
+esta chamada também são bem-vindas, incluindo dados disponíveis publicamente, de 
+pesquisa clínica, de coortes, de inquéritos e outros grandes bancos de dados que 
+ajudem a esclarecer as questões listadas abaixo. Pesquisadores que submeterem 
+propostas envolvendo outros conjuntos de dados são responsáveis por garantir a 
+devida autorização e acesso a essas informações. Neste caso, pedimos que expliquem 
+em suas propostas os passos e procedimentos necessários para obter acesso a estes 
+dados. 
+ 
+3.1. O QUE ESTAMOS PROCURANDO 
+Buscamos propostas desenvolvidas especificamente para responder questões científicas 
+críticas relacionados aos desfechos em desenvolvimento e em saúde materno-infantil. 
+Os projetos devem utilizar abordagens inovadoras de análise de dados e modelagens 
+               
+ 
+ 
+que possam ser aplicadas aos bancos de dados vinculados no CIDACS ou a outras bases 
+de dados às quais o candidato tenha acesso. As propostas devem ser baseadas nesses 
+conjuntos de dados vinculados ou em dados primários já existentes no Brasil para 
+produzir resultados práticos com potencial para implementação e para impactar 
+significativamente as políticas de saúde pública. 
+ 
+3.1.1. Daremos prioridade máxima para projetos que:  
+a) Apoiem colaborações inovadoras entre pesquisadores, especialistas em saúde e 
+cientistas de dados brasileiros; 
+b) Respondam questões científicas críticas identificadas nesta chamada do GCE ao 
+mesmo tempo em que desenvolvem e fortalecem a capacidade da ciência de 
+dados no Brasil; 
+c) Levem em consideração determinantes sociais, ambientais e culturais dos 
+resultados e incorporem uma ampla compreensão da comunidade estudada 
+que inclua um mapeamento de barreiras e restrições para oferecer 
+intervenções e implementar programas de saúde pública; 
+d) Contribua para um portfólio de projetos financiados que abordem diversidades 
+regionais e a necessidade de oferecer equidade em saúde para populações 
+diversas e vulneráveis;  
+e) Expliquem como os resultados encontrados terão a maior probabilidade de se 
+tornarem relevantes para uma ampla implementação no sistema público de 
+saúde; 
+f)   Descrevam modelos mecanicistas para estabelecer as relações entre as 
+intervenções e seus resultados; 
+ 
+3.1.2. Exemplos do que procuramos incluem abordagens analíticas que:  
+a) Apliquem análises inovadoras e técnicas de machine learning para identificar 
+padrões nos dados de experimentos naturais (ex: o impacto dos ciclos 
+econômicos na qualidade da atenção primária); 
+b) Estratifiquem o risco de resultados adversos da gravidez, incluindo parto 
+prematuro e baixo peso ao nascer; 
+c) Incorporem o ganho de peso durante a gravidez como uma variável e que 
+ajudem a determinar a contribuição relativa de uma dieta materna baseada em 
+quantidade em comparação com outra baseada em qualidade para os desfechos 
+de saúde neonatal;  
+d) Determinem as contribuições relativas de uma dieta materna baseada em 
+quantidade em comparação com outra baseada em qualidade (ex: quantidade de 
+proteína versus qualidade) para os impactos na saúde de crianças;  
+               
+ 
+ 
+e) Foquem em subconjuntos de dados ainda não explorados (ex: eventos raros, mas 
+significativos no tema “nascimento, crescimento e desenvolvimento saudáveis” 
+que só podem ser estudados graças ao tamanho da base de dados e seu poder 
+estatístico); 
+f) Ajudem a transformar correlações em hipóteses causais (ex: impactos na saúde 
+ligados a diferenças de gênero, à educação da mãe, ao intervalo ou espaçamento 
+entre nascimentos, à idade da primeira gravidez, e tentando estabelecer impactos 
+causais entre a poluição do ar e o crescimento fetal);  
+g) Identifiquem novas formas de agregar fatores de risco e identificar populações 
+vulneráveis para desfechos adversos em saúde materno-infantil, incluindo 
+estratégias inovadoras de integração de dados e ferramentas de visualização; 
+h) Incorporem especificamente os papéis da mulher – como eles são percebidos 
+localmente – desde a adolescência até a maternidade (incluindo gravidez durante 
+a adolescência); 
+i) Avaliem programas e intervenções em preparação para a gravidez e os efeitos 
+dessas medidas no pré-natal e na mortalidade materna, fetal e neonatal; 
+j) Determinem o melhor cuidado e tratamento para bebês de baixo peso; 
+k) Ajudem a determinar o melhor período e oportunidade para promover o 
+crescimento mais acelerado de bebês prematuros e de baixo peso e as 
+intervenções mais eficazes para implementar essas medidas; 
+l) Ajudem a identificar períodos críticos para intervenção durante a gravidez e a 
+primeira infância; 
+m) Estratifiquem riscos para atrasos de crescimento, incluindo déficit de altura e de 
+peso, desde o nascimento da criança até os dois anos de idade; 
+n) Foquem nas causas raízes da mortalidade materna, incluindo cesáreas, com 
+especial atenção para as populações e grupos mais vulneráveis considerando 
+idade e etnia;  
+o) Investiguem a dupla carga de doenças que leva o Brasil a ter bolsões de pobreza 
+com casos de atraso no crescimento, como déficit de altura e de peso, e, em 
+paralelo, taxas crescentes de obesidade infantil; 
+p) Estratifiquem riscos para o desenvolvimento infantil com o objetivo de 
+estabelecer indicadores nacionais para um desenvolvimento saudável desde o 
+período neonatal até os primeiros dois anos de vida voltados preferencialmente 
+para as populações e grupos mais vulneráveis considerando idade e etnia; 
+q) Ajudem a entender a relação entre indicadores sociais, condições nutricionais e 
+mortalidade desde o período pré-natal até a primeira infância. Propostas voltadas 
+para as populações tradicionais e vulneráveis também são bem-vindas; 
+ 
+ 
+               
+ 
+ 
+3.1.3. Exemplos do que NÃO estamos procurando: 
+a) Propostas submetidas por candidatos de fora do Brasil; 
+b) Propostas de novos estudos para gerar dados novos; 
+c) Propostas que não se foquem em resultados e desfechos de saúde no Brasil; 
+d) Propostas não relacionadas aos desafios de saúde materno-infantil; 
+e) Desenvolvimento de ferramentas para coleta de novos dados primários;  
+f) Abordagens que não envolvam significativamente dados de adolescentes, mães e 
+crianças; 
+g) Projetos propondo o desenvolvimento de um algoritmo científico de dados sem 
+clara relevância para responder as questões descritas nesta chamada; 
+h) Ideias sem uma hipótese claramente articulada e testada por métricas de 
+sucesso; 
+i) Ideias nas quais o indicador de sucesso descrito não pode ser demonstrado ou 
+significativamente desenvolvido dentro do escopo do financiamento da Fase 1 
+do GCE (100.000 dólares ao longo de 18 meses); 
+j) Propostas que não descrevam os possíveis impactos da inovação na formulação 
+de políticas de saúde; 
+k) Análises que sejam apenas pequenas melhorias de abordagens já existentes (ex: 
+replicação de uma abordagem em uma nova geografia na falta de uma inovação 
+adicional). 
+ 
+ 
+APÊNDICE 
+Centro de Integração de Dados e Conhecimentos para Saúde (CIDACS)  
+O Centro de Integração de Dados e Conhecimentos para Saúde (CIDACS) foi 
+inaugurado em 2016 como parte da Fiocruz-Bahia para conduzir pesquisa científica 
+inovadora que amplie a compreensão sobre os efeitos dos determinantes sociais e 
+ambientais, incluindo políticas públicas, na saúde da população brasileira. Uma 
+característica central da plataforma CIDACS é produzir conjuntos de dados vinculados 
+cujo principal produto é a coorte de 100 milhões de brasileiros (2006-2015). Esta coorte 
+foi criada por meio da vinculação de dados de indivíduos registrados no Cadastro Único 
+(CADU) com os dados dos mesmos indivíduos nas bases do Programa Bolsa Família 
+(PBF), Sistema de Informação sobre Nascidos Vivos (SINASC) e do Sistema de 
+Informação sobre Mortalidade (SIM). O CADU é um registro nacional de pessoas 
+elegíveis para receber benefícios de programas sociais do governo federal. PBF é um 
+programa nacional de transferência de renda condicional que transfere dinheiro a 
+famílias pobres mediante o cumprimento de algumas condições relacionadas à saúde e 
+               
+ 
+ 
+à educação (para uma análise aprofundada sobre os efeitos do programa na 
+mortalidade infantil, por favor reveja Rasella, et al. 2013)1. Indivíduos que estão no 
+banco de dados do PBF precisam estar registrados também no CADU. SINASC é o 
+registro de certificados de nascimento. E o SIM é o registro de certificados de óbitos. 
+ 
+Análises realizadas previamente pela equipe do CIDACS demonstraram que programas 
+de proteção social contribuem para a diminuição da mortalidade infantil de maneira 
+geral e, particularmente, para a redução de mortes atribuídas a causas relacionadas à 
+pobreza, como má nutrição e diarreia. 
+ 
+A plataforma CIDACS emprega os mais altos níveis de segurança para garantir a 
+privacidade, integridade e o uso ético dos dados. Pesquisas consideráveis foram 
+necessárias para desenvolver o processo de inserção de dados, curadoria, e para 
+fornecer acesso autorizado para análises. Neste programa Grand Challenges – Brasil, os 
+dados 
+do 
+CIDACS 
+estarão 
+disponíveis 
+para 
+os 
+pesquisadores 
+selecionados 
+desenvolverem seus projetos inovadores e interdisciplinares nas áreas de saúde 
+materno-infantil.  
+ 
+Informações adicionais 
+HBGDki (site do programa Integração do Conhecimento em Nascimento, Crescimento e 
+Desenvolvimento Saudáveis da Fundação Gates) 
+Centro de Integração de Dados e Conhecimentos para Saúde (CIDACS) 
+Coorte de 100 milhões de brasileiros 
+ 
+                                                 
+1 Rasella, D. et al. (2013) Effect of a conditional cash transfer programme on childhood mortality: a nationwide 
+analysis of Brazilian municipalities. The Lancet. 382:57 
+  
+      
+    
+   
+ 
+ 
+ 
+ 
+Grand Challenges Explorations – Brasil 
+ 
+Data Science Approaches to Improve Maternal and Child Health 
+in Brazil 
+ 
+The National Council of State Funding Agencies (CONFAP) informs that the 
+State Funding Agencies (FAPs) listed below have agreed to take part in the Data 
+Science Approaches to Improve Maternal and Child Health in Brazil call for 
+proposal: 
+ 
+ 
+1. State Funding Agency of Amazonas (FAPEAM); 
+2. State Funding Agency of Bahia (FAPESB); 
+3. State Funding Agency of Ceará (FUNCAP); 
+4. State Funding Agency of Distrito Federal (FAPDF); 
+5. State Funding Agency of Espírito Santo (FAPES); 
+6. State Funding Agency of Goiás (FAPEG); 
+7. State Funding Agency of Maranhão (FAPEMA); 
+8. State Funding Agency of Minas Gerais (FAPEMIG); 
+9. State Funding Agency of Paraná (FUNDAÇÃO ARAUCÁRIA); 
+10. State Funding Agency of Pernambuco (FACEPE)i; 
+11. State Funding Agency of Rio Grande do Norte  (FAPERN); 
+12. State Funding Agency of Rio Grande do Sul (FAPERGS); 
+13. State Funding Agency of Santa Catarina (FAPESC); 
+14. State Funding Agency of São Paulo (FAPESP); 
+15. State Funding Agency of Sergipe (FAPITEC);and,  
+16. State Funding Agency of Tocantins (FAPT). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Brasília, March 15th , 2018.   
+                                                 
+i The researchers from the State of Pernambuco must submit the same proposal on the FACEPE platform 
+(https://agil.facepe.br/) 
+ 1 
+ 
+Grand Challenges Explorations - Brazil: 
+Data Science Approaches to Improve Maternal and Child Health in Brazil 
+ 
+Rules & Guidelines 
+Proposals due by Wednesday, May 2, 2018 11:30 a.m. U.S. Pacific Daylight Time 
+ 
+I. 
+Overview 
+ 
+Launched in 2012, Grand Challenges Brazil (GC Brazil) is a partnership framework for the Ministry of Health of 
+Brazil, its National Council on Research (CNPq), and the Bill & Melinda Gates Foundation (the “foundation”) to 
+launch joint challenges aimed at catalyzing innovative health research within Brazil. The Brazilian National 
+Council for the State Funding Agencies (CONFAP) is also a partner in this initiative. Here, we announce a new 
+program under the Grand Challenges Brazil initiative: Grand Challenges Explorations – Brazil (“GCE-Brazil”).  
+GCE grants are designed to support early-stage projects – including ideas that have never before been tested – 
+and innovators from a wide range of disciplines. The first grant under the GCE-Brazil program is titled GCE-
+Brazil: Data Science Approaches to Improve Maternal and Child Health in Brazil. Solutions developed through 
+this program could have broad impact both within Brazil and beyond its borders. 
+ 
+Key features of this new GCE-Brazil program are: 
+ 
+• 
+Only Brazilian applicants working for Brazilian institutions are eligible for this funding opportunity. 
+• 
+A four-page application; two pages in English and two duplicate pages in Portuguese. 
+• 
+Rapid turnaround time. We select projects within approximately five months of the proposal 
+submission. 
+• 
+Champion-based review process. Reviewers with a track record in identifying innovative ideas 
+select the proposals they find most pioneering without need for consensus. 
+• 
+Awards of up to $100,000 USD will be made. 
+• 
+The  awards will be co-funded by the partners: the Bill & Melinda Gates foundation and the 
+Ministry of Health/CNPq. 
+• 
+Granted projects will be eligible to apply for additional funding provided by participating 
+Research Foundation (FAPs).  
+ 
+Tips for Applicants 
+ 
+ 
+Your proposal must demonstrate an innovative approach that complies with all restrictions and guidelines. 
+ 
+In addition to subject matter experts, your proposal will be reviewed by a panel with broad expertise and a track 
+record in identifying innovations – these reviewers may not be deep domain experts in your field. You must 
+describe your idea in clear language without the use of jargon unique to your field. 
+ 
+The work proposed in your application must include a clear set of key experiments or activities that test your idea 
+in a way that could provide sufficient evidence to warrant funding. Proposals with vague descriptions or vague 
+testing methodologies will not be funded. 
+ 2 
+ 
+II. 
+Application Instructions 
+ 
+Schedule 
+ 
+Key dates and deadlines 
+ 
+Key Dates 
+Event 
+March 5, 2018 
+Application period opens 
+Wednesday, May 2, 2018, 11:30 a.m. US 
+Pacific Daylight Time 
+Application deadline 
+July 2018 
+Proposal review completed 
+September 2018 
+Selections completed and notifications sent 
+ 
+How to Apply 
+ 
+Changes to the Rules and Guidelines will be posted on the Grand Challenges website (gcgh.grandchallenges.org), 
+including any changes to the dates listed above. 
+ 
+Subject to the foundation’s Website Terms of Use and Privacy and Information Policy, the foundation may share 
+information you provide to us (either orally or in writing) with third parties, including external reviewers, key partners 
+and co-funders. 
+ 
+Application Format 
+ 
+We encourage you to use the provided application form, which can be downloaded after clicking “Apply Now” on 
+each application page and can also be found in the Supporting Materials section on the Challenge page. You are 
+required to submit either a Microsoft Word® or PDF document; no more than two pages in length. Please do not 
+include a cover sheet with your proposal. A cover sheet will be automatically generated from your registration 
+data. 
+ 
+Proposals must be submitted prior to the submission deadline of 11:30 a.m. U.S. Pacific Daylight Time on 
+Wednesday, May 2, 2018. 
+ 
+During the application process you will be required to confirm that you have read and understand the Website Terms  
+of Use and Privacy and Information Policy and these Rules and Guidelines, and acknowledge that any information 
+that you provide to us (either orally or in writing) will be subject to and handled in accordance with such provisions. 
+Eligibility Criteria 
+ 
+The GCE-Brazil Request for Proposals is open exclusively to Brazilian researchers located in Brazilian 
+organizations, including non-profit organizations, for-profit companies, international organizations, government 
+agencies, and academic institutions. 
+ 
+Upon registration, applicants must provide information about the tax status of their organization as different terms and 
+conditions may apply. You should confirm your organization’s tax status with the appropriate person or group within 
+your organization such as your grants or contracts department, finance, or office of sponsored research. Please select 
+the tax status that most closely reflects your current organization’s status. The foundation and/or CNPq may 
+request additional information regarding your tax status and other organizational information. For information 
+about tax statuses, you may check with your own advisors and refer to information provided on the Internal 
+Revenue Service web site at:  www.irs.gov. 
+ 
+ 
+III. 
+Review Process 
+ 
+The review of proposals is a critical element of the GCE-Brazil initiative - its goal is to filter and harness creative 
+ 3 
+ 
+ideas. For each grant program, we advertise a set of challenges carefully defined to elicit innovative responses to 
+critical barriers in global health and development. 
+ 
+Handling of Proposals 
+ 
+CNPq and the foundation have put in place policies and procedures, exclusive to the initiative, intended to restrict 
+public dissemination of application materials. These policies and procedures include, when possible, having 
+external reviewers sign confidentiality agreements and requiring that reviewers destroy or return to the foundation 
+all copies 
+of information acquired or created during the course of performing a review. In some instances, 
+however, we are unable to put in place confidentiality agreements or to police the use of application materials. 
+ 
+CNPq and the foundation each also provide general descriptions of grants on its websites, in press releases, and in 
+other marketing materials and is required by law to publish a list of its grants. Subject to the foundation’s Website 
+Terms of Use and  Privacy and Information Policy, the foundation may also share information you provide to us 
+(either orally or in writing) with third parties, including external reviewers, key partners and co-funders. 
+ 
+Review of Proposals 
+ 
+Due to the large number of proposals anticipated, applicants with proposals that are not selected for award will receive 
+a notification of decline without specific feedback. Nonetheless, applicants are encouraged to submit ideas in future 
+rounds. 
+ 
+The review process is executed in four steps: 
+ 
+1. The first step consists of screening submissions to evaluate whether proposals address the key needs 
+described in the topic. We screen for responses that are completely unrelated or specifically excluded in 
+the topic description.  In addition, we will exclude proposals considered incremental advances, or avenues 
+of inquiry we deem ill-suited to this initiative or from applicants who don’t meet strict eligibility 
+requirements. Applicants with proposals removed from consideration during the screening process will 
+be notified that their proposals were declined but will not typically receive specific feedback.  Reviews at 
+this stage are “blind”; authors’ names and institutions are not provided to reviewers. 
+ 
+2. In the second step, responsive proposals are reviewed. The reviews will be co-chaired by GCE-Brazil and 
+foundation program leads and are conducted by reviewers both outside and within the organizations. 
+Reviewers are selected from the world’s leading innovative minds and comprise both experts in the topic 
+area and experts in complementary areas with a track record of innovation. (Not all reviewers have deep 
+expertise in the topic; please consider this information when drafting your proposal.) Unlike most grants 
+initiatives, individual reviewers are empowered to make funding decisions about a portion of the 
+portfolio, without consensus on selections. 
+ 
+In order of importance, the criteria considered in these reviews are: 
+• 
+Innovation, including creativity of the project’s approach and clear differentiation from existing 
+approaches 
+• 
+Scientific and technical excellence, including a clear and rigorous conceptual framework for research 
+activities 
+• 
+Potential to lead to substantially impactful public health recommendations that are data-driven and 
+cost-effective 
+• 
+ (Technical and human) resources, including investigator and organization capabilities and 
+interdepartmental collaboration 
+• 
+Value in terms of appropriateness of the budget and timeline relative to project complexity, risk, and 
+potential impact 
+ 
+3. The third step is the validation and final selection by a joint Executive Committee of the proposals 
+selected by reviewers in the second step of the evaluation. The Executive Committee is co-chaired by 
+GCE-Brazil partners and foundation program directors. 
+ 4 
+ 
+ 
+4. The fourth and final step is a due diligence review to ensure that applicants are appropriate recipients 
+of CNPq and/or foundation funds. Investigators will be contacted as part of the due diligence review. 
+ 
+Management of Conflict of Interest 
+ 
+To identify and avert conflicts of interest among reviewers, reviewers will not be permitted to review proposals from 
+organizations with which the reviewer has self-identified a conflict of interest. 
+ 
+IV. 
+Key Elements of Agreements for this GCE-Brazil Program 
+ 
+You may receive a grant from the foundation, from the Brazilian Ministry of Health/CNPq, or both. Detailed sample 
+provisions for each of the two foundation-funded Agreements, one for non-profit organizations and one for for-profit 
+organizations, are included in the Appendix to these Rules and Guidelines. Sample agreements from CNPq can be 
+found on CNPq’s Platform. Please note that these provisions are merely sample terms and are subject to change.  
+ 
+V. 
+Bill & Melinda Gates Foundations – Terms and Conditions 
+ 
+The provisions have been developed specifically for the GCE Brazil initiative and are not negotiable. You are 
+advised to ensure that your institution can accept the provisions of the relevant Agreement at the time of proposal 
+submission. If your proposal is selected, you will have only a few weeks after notification of the award in which 
+to have the appropriate institutional officer sign the Agreement and return it to the foundation. 
+ 
+1. Phase I projects have a term of 18 months beginning on the project start date. The amount awarded is up to 
+$100,000 USD. 
+ 
+2. Project funds may not be used to reimburse expenses incurred prior to the project start date. 
+ 
+3. The applicant must return a fully executed agreement to the granting agency (or agencies) no later 
+than the date and time indicated to receive a GCE-Brazil award. For non-profit awardees, funds will be 
+disbursed upon the receipt of a fully executed agreement. Funds to for- profit entities would be covered 
+fully by the foundation and disbursed in two payments. Upon receipt of a fully executed agreement, the 
+foundation will disburse the first 50%. The foundation will disburse the second 50% upon receipt of a 
+report describing progress on the project and use of at least 90% of the initial disbursement. 
+ 
+4. No awardee is permitted to make sub-grants, but all awardees will be permitted to contract for services, up 
+to a maximum of 49.9% of the award.  Please be aware that this limit applies to funds paid by an awardee 
+to any other organization (or an individual employed at another organization) as a subcontractor, 
+including payments to co-PIs working at another organization. 
+ 
+5. All awardees are entitled to purchase equipment, provided that the cost of each item is less than $5,000 USD. 
+ 
+6. Phase I project funds may be used to cover the full direct costs of the project, but no awardee will be entitled 
+to use funds to cover indirect costs. See the Sample Agreements for the definition of indirect costs. 
+ 
+7. For-profit non-US awardees are subject to restrictions on the amount of funds they may use for expenditures 
+in the US (see sample agreement for for-profit organizations). 
+ 
+8. Project funds may not be used to enroll human subjects in any research project subject to Institution Review 
+Board (IRB) or Independent Ethics Committee (IEC) approval until such approval has been obtained for each 
+site. 
+ 
+9. Awardees must agree to conduct and manage the project and the products, services, processes, technologies, 
+materials, software, data other innovations, and intellectual property resulting from the project (including 
+modifications, improvements, and further developments to “Background Technology”) in a manner that 
+ 5 
+ 
+ensures “Global Access.” See the Global Access Section of the Sample Agreements for more information 
+about these obligations. 
+ 
+10. Awardees must agree to abide by the foundation’s Open Access Policy which requires all peer-reviewed 
+published research, and underlying data sets resulting from foundation funded research to be immediately 
+available upon publication. As noted in the Open Access Policy, the foundation is responsible for individual 
+article processing charges and fees to the extent required to comply with the foundation’s Open Access 
+Policy. These fees should not be included in project budgets. Open access management and fees will be 
+managed via Chronos, a new service for foundation-funded research. Chronos simplifies and manages the 
+process of publishing under the foundation's Open Access Policy terms. Primary contacts will receive a 
+Chronos account activation email 6 weeks after the agreement start date. 
+ 
+The Agreement and specific provisions that apply to a project depend on the tax status of the applicant. We strongly 
+encourage you to share the Sample Agreements with the appropriate person or group within your organization such 
+as your grants and contracts department, legal department, finance or office of sponsored research at the time you 
+submit your proposal to ensure that your organization can agree to the relevant provisions. 
+ 
+VI. 
+Ministry of Health and CNPq – Terms and Conditions 
+ 
+Awardees will also have to submit the approved proposal by BMGF to CNPq Carlos Chagas Integrated Platform - 
+http://carloschagas.cnpq.br/, to be co-funded by the Brazilian federal government. Funding resources from Ministry 
+of Health will be available through CNPq. As soon as the results are released, CNPq will contact awardees to inform 
+them on procedures to request this support. 
+ 
+Please be aware that:  
+ 
+1. 
+Applicants must have their curriculum vitae registered and updated at Lattes Platform; 
+2. 
+Applicants must be the coordinator of the proposals; 
+ 
+During the project development, awardees must provide information concerning their studies whenever requested 
+by CNPq for the track and evaluation process at all stages. At the end of 18 months term, coordinators must provide 
+CNPq a Final Scientific and Financial Report.  
+ 
+VII. 
+FAPs – Terms and Conditions 
+ 
+Through an agreement with the Bill & Melinda Gates Foundation, Brazilian State Research Foundations (FAPs) 
+participating in this call will provide additional funding to granted projects lead by researchers from their state. The 
+amount will range from 25% to 50% of the US$100,000 already granted by the Gates Foundation, the MOH and 
+CNPq. (a) Only FAPs participating on the call will be able to provide supplemental funding -- a list of participating 
+FAPs will be available on Grand Challenges website on March 12th; (b) The additional funding may vary within 
+the range above as defined by each FAP. (c) As soon as the results are out, the grantees should contact the Brazilian 
+National Council for the State Funding Agencies (CONFAP) by the email flaviac.confap@gmail.com to receive 
+information on participating FAPs, funding levels, eligibility and procedures to request the additional support. 
+ 
+VIII. 
+Terms of Use, Privacy Notice and Information Security 
+ 
+This document and your application are subject to the Terms of Use and Privacy & Information Security Policy which 
+are located at https://gcgh.grandchallenges.org/privacy-policy-and-terms-use  
+ 
+ 
+IX. 
+Inquiries 
+ 
+Please direct all questions about this initiative, selection criteria, or application instructions by e-mail to the following 
+addresses: cgsau@cnpq.br or GCEhelp@gatesfoundation.org. For inquiries on CIDACS databases, please email 
+cidacs@bahia.fiocruz.br. 
+ 6 
+ 
+Appendix 
+Bill & Melinda Gates Foundation: Sample Provisions 
+ 
+I. 
+Term of Offers 
+ 
+GCE-Brazil awards are conditioned upon the foundation’s and CNPq’s receipt of an executed agreement by the 
+date indicated by the Grants and Contracts Management team in the email to which the Agreement is attached. 
+Agreements received after the deadline may not be considered for funding. More information will be sent to 
+those being considered for an award. 
+ 
+Set forth below are samples of the foundation’s Agreements used in making GCE-Brazil awards.  Please note that 
+these provisions are merely sample terms.  The terms in the agreements between the foundation and GCE-Brazil 
+awardees are subject to change at the foundation’s discretion.   
+ 
+II. 
+Sample Agreement for Non-Profit Organizations (See below for Sample Agreement for 
+For- Profit Organizations) 
+ 
+THIS AGREEMENT is between <<>> ("<<>>," "You" or "Grantee") and the Bill & Melinda Gates Foundation 
+("Foundation"), and is effective as of the date of last signature. Each party to this Agreement may be 
+referred to individually as a "Party" and together as the "Parties." As a condition of this grant, the Parties 
+enter into this Agreement by having their authorized representatives sign below. 
+ 
+GRANT AMOUNT AND REPORTING & PAYMENT SCHEDULE 
+ 
+GRANT AMOUNT 
+The Foundation will pay You the total grant amount specified in the Reporting & Payment Schedule 
+below. The Foundation’s Primary Contact must approve in writing any Budget cost category change of 
+more than 10%. 
+ 
+REPORTING & PAYMENT SCHEDULE 
+Payments are subject to Your compliance with this Agreement, including Your achievement, and the 
+Foundation’s approval, of any applicable targets, milestones, and reporting deliverables required under 
+this Agreement. The Foundation may, in its reasonable discretion, modify payment dates or amounts and 
+will notify You of any such changes in writing. 
+ 
+REPORTING 
+You will submit reports according to the Reporting & Payment Schedule using the Foundation's templates 
+or forms, which the Foundation will make available to You and which may be modified from time to time. 
+For a progress or final report to be considered satisfactory, it must demonstrate meaningful progress 
+against the targets or milestones for that investment period. If meaningful progress has not been made, 
+the report should explain why not and what adjustments You are making to get back on track. Please 
+notify the Foundation's Primary Contact if You need to add or modify any targets or milestones. The 
+Foundation must approve any such changes in writing. You agree to submit other reports the Foundation 
+may reasonably request. 
+ 
+TERMS & CONDITIONS 
+ 
+This Agreement is subject to the following terms and conditions.  
+ 
+ PROJECT SUPPORT 
+ 
+  
+ 
+ 7 
+ 
+PROJECT DESCRIPTION AND CHARITABLE PURPOSE 
+The Foundation is awarding You this grant to carry out the project described in the Proposal Narrative 
+(collectively, "Project") in order to further the Charitable Purpose. The Foundation, in its discretion, may 
+approve in writing any request by You to make non-material changes to the Proposal Narrative. 
+ 
+ 
+ MANAGEMENT OF FUNDS 
+ 
+  
+ 
+USE OF FUNDS 
+You may not use funds provided under this Agreement ("Grant Funds") for any purpose other than the 
+Project. You may not use Grant Funds to reimburse any expenses You incurred prior to the Start Date. 
+At the Foundation’s request, You will repay any portion of Grant Funds and/or Income used or committed 
+in material breach of this Agreement, as determined by the Foundation in its discretion. 
+ 
+LIMITATIONS ON CAPITAL ASSETS  
+You may use the Grant Funds to purchase capital assets such as equipment so long as the assets are 
+used exclusively for the Project during the term of the grant and the cost of any single capital item does 
+not           exceed 5% of the total grant amount. 
+ 
+INDIRECT COSTS 
+Grant funds may not be used to pay any indirect costs. Indirect costs are defined as (1) overhead 
+expenses incurred as a result of the Project, but that are not easily identifiable with the Project and (2) 
+administrative expenses that are related to overall general operations and are shared among projects 
+and/or functions. Examples of indirect costs include, but are not limited to, executive oversight, 
+accounting, grants management, legal expenses, utilities, facility maintenance 
+ 
+INVESTMENT OF FUNDS 
+You must invest Grant Funds in highly liquid investments with the primary objective of preservation of 
+principal (e.g., interest-bearing bank accounts or a registered money market mutual fund) so that the 
+Grant Funds are available for the Project. Together with any progress or final reports required under this 
+Agreement, You must report the amount of any currency conversion gains (or losses) and the amount of 
+any interest, or other income generated by the Grant Funds (collectively, "Income"). Any Income must 
+be used for the Project. 
+ 
+ GLOBAL ACCESS 
+ 
+  
+ 
+GLOBAL ACCESS COMMITMENT 
+You will conduct and manage the Project and the Funded Developments in a manner that ensures Global 
+Access. Your Global Access commitments will survive the term of this Agreement. “Funded 
+Developments” means the products, services, processes, technologies, materials, software, data, other 
+innovations, and intellectual property resulting from the Project (including modifications, improvements, 
+and further developments to Background Technology). “Background Technology” means any and all 
+products, services, processes, technologies, materials, software, data, or other innovations, and 
+intellectual property created by You or a third party prior to or outside of the Project used as part of the 
+Project. “Global Access” means: (a) the knowledge and information gained from the Project will be 
+promptly and broadly disseminated; and (b) the Funded Developments will be made available and 
+accessible at an affordable price (i) to people most in need within developing countries, or (ii) in support 
+of the U.S. educational system and public libraries, as applicable to the Project. 
+ 
+PUBLICATION 
+ 8 
+ 
+Consistent with Your Global Access commitments, if the Project description specifies Publication or 
+Publication is otherwise requested by the Foundation, You will seek prompt Publication of any Funded 
+Developments consisting of data and results. “Publication” means publication in a peer-reviewed journal 
+or other method of public dissemination specified in the Project description or otherwise approved by the 
+Foundation in writing. Publication may be delayed for a reasonable period for the sole purpose of seeking 
+patent protection, provided the patent application is drafted, filed, and managed in a manner that best 
+furthers Global Access.  If You seek Publication in a peer-reviewed journal, such Publication shall be 
+under “open access” terms and conditions consistent with the Foundation’s Open Access Policy available 
+at: www.gatesfoundation.org/How-We-Work/General-Information/Open-Access-Policy, which may be 
+modified from time to time. Nothing in this section shall be construed as requiring Publication in 
+contravention of any applicable ethical, legal, or regulatory requirements. You will mark any Funded 
+Development subject to this clause with the appropriate notice or attribution, including author, date and 
+copyright (e.g., © 20<> <Name>). 
+ 
+INTELLECTUAL PROPERTY REPORTING 
+During the term of this Agreement and for 5 years after, You will submit upon request annual intellectual 
+property reports related to the Funded Developments, Background Technology, and any related 
+agreements using the Foundation’s templates or forms, which the Foundation may modify from time to 
+time. 
+ 
+ SUBGRANTS AND SUBCONTRACTS 
+ 
+ 
+ 
+SUBGRANTS AND SUBCONTRACTS 
+You have the exclusive right to select subcontractors to assist with the Project. The aggregate amount 
+of Project Funds paid to subcontractors may not exceed $49,999. You acknowledge that the 
+Foundation has not and will not earmark the use of any Project Funds for a specific subcontractor. You 
+may not make subgrants under this Agreement. 
+ 
+SCHOLARSHIPS AND FELLOWSHIPS 
+You will have sole discretion over Your selection of any scholarship and fellowship recipients under this 
+Agreement and must conduct the selection process independently of the Foundation. 
+ 
+TRAVEL STIPENDS AND CONFERENCE FEES  
+You will have sole discretion over Your selection of any recipients of travel stipends or conference 
+expense reimbursements under this Agreement and must conduct the selection process independently 
+of the Foundation. Foundation trustees and employees are not eligible to receive travel stipends or 
+conference expense reimbursements. 
+ 
+RESPONSIBILITY FOR OTHERS 
+You are responsible for (a) all acts and omissions of any of Your trustees, directors, officers, employees, 
+subgrantees, subcontractors, contingent workers, agents, and affiliates assisting with the Project, and 
+(b) ensuring their compliance with the terms of this Agreement. 
+. 
+ 
+ PROHIBITED ACTIVITIES 
+ 
+  
+ 
+ANTI-TERRORISM 
+You will not use funds provided under this Agreement, directly or indirectly, in support of activities (a) 
+prohibited by U.S. laws relating to combating terrorism; (b) with persons on the List of Specially 
+Designated Nationals (www.treasury.gov/sdn) or entities owned or controlled by such persons; or (c) in 
+or with countries or territories against which the U.S. maintains comprehensive sanctions (currently, 
+Cuba, Iran, Syria, North Korea, and the Crimea Region of Ukraine), including paying or reimbursing the 
+ 9 
+ 
+expenses of persons from such countries or territories, unless such activities are fully authorized by the 
+U.S. government under applicable law and specifically approved by the Foundation in its sole discretion. 
+ 
+ANTI-CORRUPTION; ANTI-BRIBERY 
+You will not offer or provide money, gifts, or any other things of value directly or indirectly to anyone in 
+order to improperly influence any act or decision relating to the Foundation or the Project, including by 
+assisting any party to secure an improper advantage. Training and information on compliance with these 
+requirements are available at www.learnfoundationlaw.org. 
+ 
+ 
+LOBBYING AND ELECTIONEERING PROHIBITION 
+You may not use Grant Funds to influence the outcome of any election for public office or to carry on any 
+voter registration drive. You acknowledge that the Foundation has not earmarked Grant Funds to support 
+lobbying activities or to otherwise support attempts to influence legislation. Activities will be conducted 
+consistent with the private foundation lobbying rules and exceptions under Internal Revenue Code 
+Section 4945 and related regulations. You confirm that the Budget (or the combined project budget if 
+there are multiple funders) accurately reflects that You will expend at least the amount of the Grant Funds 
+on (a) non-lobbying activities in the project year, or (b) for multiple year projects, the total non-lobbying 
+portion of the project. 
+ 
+OTHER LOBBYING, GIFT, AND ETHICS RULES  
+You agree to comply with any national, state, local, or other lobbying, gift, and ethics rules applicable to 
+the Project. The Foundation is not retaining or employing You to engage in lobbying activities. 
+ 
+ PUBLICITY 
+ 
+ 
+ 
+PUBLICITY BY THE FOUNDATION 
+The Foundation may include information about the award of this grant, including Your name, in its 
+periodic public reports and may make such information available on its website and as part of press 
+releases, public reports, speeches, newsletters, tax returns, and other public disclosures. 
+PUBLICITY BY YOU 
+You must obtain the Foundation’s prior written approval before: (a) issuing a press release or 
+other public announcement regarding the award of this grant; and (b) any other public use of 
+the 
+Foundation’s 
+name 
+or 
+logo. 
+. 
+Please 
+email 
+Your 
+request 
+to: 
+grantee.comms@gatesfoundation.org two weeks in advance to provide the Foundation an 
+opportunity 
+to 
+review 
+and 
+comment. 
+Detailed 
+guidelines 
+are 
+available 
+at: 
+www.gatesfoundation.org/grantseeker/documents/guidelines_communications_for_grantees.
+doc 
+ 
+PUBLICITY BY OTHERS 
+You and Your subcontractors, contingent workers, agents, or affiliates may not state or 
+imply to third parties that the Foundation directly funds or otherwise endorses their activities. 
+ 
+OTHER 
+ 
+COMPLIANCE WITH LAWS 
+In carrying out the Project, You will comply with all applicable laws, regulations, and rules and will not infringe, 
+misappropriate, or violate the intellectual property, privacy, or publicity rights of any third party. 
+ 
+COMPLIANCE WITH REQUIREMENTS 
+You will conduct, control, manage, and monitor the Project in compliance with all applicable ethical, legal, 
+regulatory, and safety requirements, including applicable international, national, local, and institutional 
+standards (“Requirements”). You will obtain and maintain all necessary approvals, consents, and reviews 
+ 10 
+ 
+before conducting the applicable activity. As a part of Your annual progress report to the Foundation, 
+You must report whether the Project activities were conducted in compliance with all Requirements.  
+  
+If the Project involves:  
+a.  any protected information (including personally identifiable, protected health, or third-party 
+confidential), You will not disclose this information to the Foundation without obtaining the 
+Foundation’s prior written approval and all necessary consents to disclose such information; 
+b.  children or vulnerable subjects, You will obtain any necessary consents and approvals unique to 
+these subjects; and/or 
+c.  any trial involving human subjects, You will adhere to current Good Clinical Practice as defined by 
+the International Council on Harmonisation (ICH) E-6 Standards (or local regulations if more 
+stringent) and will obtain applicable trial insurance.  
+  
+Any activities by the Foundation in reviewing documents and providing input or funding does not modify 
+Your responsibility for determining and complying with all Requirements for the Project. 
+ 
+RELIANCE 
+You acknowledge that the Foundation is relying on the information You provide in reports and during the 
+course of any due diligence conducted prior to the Start Date and during the term of this Agreement. You 
+represent that the Foundation may continue to rely on this information and on any additional information 
+You provide regarding activities, progress, and Funded Developments. 
+ 
+INDEMNIFICATION 
+If the Project involves clinical trials, trials involving human subjects, post-approval studies, field trials 
+involving genetically modified organisms, experimental medicine, or the provision of medical/health 
+services (“Indemnified Activities”), You will indemnify, defend, and hold harmless the Foundation and its 
+trustees, employees, and agents (“Indemnified Parties”) from and against any and all demands, claims, 
+actions, suits, losses, damages (including property damage, bodily injury, and wrongful death), arbitration 
+and legal proceedings, judgments, settlements, or costs or expenses (including reasonable attorneys’ 
+fees and expenses) (collectively, “Claims”) arising out of or relating to the acts or omissions, actual or 
+alleged, of You or Your employees, subgrantees, subcontractors, contingent workers, agents, and 
+affiliates with respect to the Indemnified Activities. You agree that any activities by the Foundation in 
+connection with the Project, such as its review or proposal of suggested modifications to the Project, will 
+not modify or waive the Foundation’s rights under this paragraph. An Indemnified Party may, at its own 
+expense, employ separate counsel to monitor and participate in the defense of any Claim. Your 
+indemnification obligations are limited to the extent permitted or precluded under applicable federal, state 
+or local laws, including federal or state tort claims acts, the Federal Anti-Deficiency Act, state 
+governmental immunity acts, or state constitutions. Nothing in this Agreement will constitute an express 
+or implied waiver of Your governmental and sovereign immunities, if any. 
+ 
+INSURANCE 
+You will maintain insurance coverage sufficient to cover the activities, risks, and potential omissions of 
+the Project in accordance with generally-accepted industry standards and as required by law. You will 
+ensure Your subgrantees and subcontractors maintain insurance coverage consistent with this section. 
+ 
+ 
+ TERM AND TERMINATION 
+ 
+  
+TERM  
+This Agreement commences on the Start Date and continues until the End Date, unless terminated 
+earlier as provided in this Agreement. The Foundation, in its discretion, may approve in writing any 
+request by You for a no-cost extension, amend the End, and adjust any affected reporting requirements. 
+ 
+TERMINATION 
+ 11 
+ 
+The Foundation may modify, suspend, or discontinue any payment of Grant Funds or 
+terminate this Agreement if: (a) the Foundation is not reasonably satisfied with Your progress 
+on the Project; (b) there are significant changes to Your leadership or other factors that the 
+Foundation reasonably believes may threaten the Project’s success; (c) there is a change in 
+Your control; or (d) You fail to comply with this Agreement. 
+ 
+ 
+RETURN OF FUNDS 
+Any Grant Funds that have not been used for, or committed to, the Project upon expiration or termination 
+of this Agreement must be (a) returned promptly to the Foundation, (b) applied to another Foundation-
+funded project (current or under consideration), or (c) applied to another mutually-agreed upon charitable 
+purpose, as directed in writing by the Foundation. Any Income that has not been used for, or committed 
+to, the Project must be either applied to another Foundation-funded project (current or under 
+consideration) or applied to another mutually-agreed upon charitable purpose, as directed in writing by 
+the Foundation. 
+ 
+MONITORING, REVIEW, AND AUDIT 
+N/A if grantee is a government unit or international executive order organization: 
+The Foundation may monitor and review Your use of the Grant Funds, performance of the Project, and 
+compliance with this Agreement, which may include onsite visits to assess Your organization’s 
+governance, management and operations, discuss Your program and finances, and review relevant 
+financial and other records and materials. In addition, the Foundation may conduct audits, including 
+onsite audits, at any time during the term of this Agreement, and within four years after Grant Funds have 
+been fully spent. Any onsite visit or audit shall be conducted at the Foundation’s expense, following prior 
+written notice, during normal business hours, and no more than once during any 12-month period.  
+ 
+INTERNAL OR THIRD PARTY AUDIT 
+N/A if grantee is a government unit or international executive order organization: 
+If during the term of this Agreement You are audited by your internal audit department or by a third party, 
+You will provide the audit report to the Foundation upon request, including the management letter and a 
+detailed plan for remedying any deficiencies observed (“Remediation Plan”). The Remediation Plan must 
+include (a) details of actions You will take to correct any deficiencies observed, and (b) target dates for 
+successful completion of the actions to correct the deficiencies. 
+ 
+RECORD KEEPING  
+You will maintain complete and accurate accounting records and copies of any reports submitted to the 
+Foundation relating to the Project. You will retain such records and reports for 4 years after Grant Funds 
+have been fully spent. At the Foundation’s request, You will make such records and reports available to 
+enable the Foundation to monitor and evaluate how Grant Funds have been used or committed. 
+ 
+SURVIVAL 
+A Party’s obligations under this Agreement will be continuous and survive expiration or termination of 
+this Agreement as expressly provided in this Agreement or otherwise required by law or intended by their 
+nature. 
+ 
+ 
+ GENERAL 
+ 
+  
+ 
+ENTIRE AGREEMENT AND AMENDMENTS 
+This Agreement contains the entire agreement of the Parties and supersedes all prior and contemporaneous 
+agreements concerning its subject matter. Except as specifically permitted in this Agreement, no modification, 
+amendment, or waiver of any provision of this Agreement will be effective unless in writing and signed by 
+authorized representatives of both Parties. 
+ 
+ 12 
+ 
+NOTICES AND APPROVALS 
+Written notices, requests, and approvals under this Agreement must be delivered by mail or email to the 
+other Party’s primary contact specified on the Agreement Summary & Signature Page, or as otherwise 
+directed by the other Party. 
+ 
+SEVERABILITY 
+Each provision of this Agreement must be interpreted in a way that is enforceable under applicable law. If 
+any provision is held unenforceable, the rest of the Agreement will remain in effect. 
+ 
+ASSIGNMENT 
+You may not assign, or transfer by operation of law or court order, any of Your rights or obligations under this 
+Agreement without the Foundation’s prior written approval. This Agreement will bind and benefit any 
+permitted successors and assigns. 
+ 
+COUNTERPARTS AND ELECTRONIC SIGNATURES 
+Except as may be prohibited by applicable law or regulation, this Agreement and any amendment may be 
+signed in counterparts, by facsimile, PDF, or other electronic means, each of which will be deemed an original 
+and all of which when taken together will constitute one agreement. Facsimile and electronic signatures will 
+be binding for all purposes.  
+ 
+III. Sample Agreement for For-Profit Organizations 
+ 
+PROJECT AGREEMENT 
+ 
+THIS AGREEMENT is between <<>> (“<<>>” or “You”) and the Bill & Melinda Gates Foundation 
+(“Foundation”), and is effective as of the date of last signature. Each party to the Agreement may be referred 
+to individually as a “Party” and together as the “Parties.” In consideration of the mutual promises contained 
+in this Agreement, the Parties enter into this Agreement by having their authorized representatives sign 
+the Agreement. 
+PAYMENT AND REPORTING 
+ 
+ MAXIMUM AMOUNT 
+  The Foundation will pay You [up to $100,000]. 
+ 
+REPORTING & PAYMENT SCHEDULE 
+Payments are subject to Your compliance with this Agreement, including Your achievement, 
+and the Foundation’s approval, of any applicable targets, milestones, and reporting deliverables 
+required under this Agreement.  The Foundation may, in its reasonable discretion, modify 
+payment dates or amounts and will notify You of any such changes in writing.  
+ 
+REPORTING 
+You will submit reports according to the Reporting & Payment Schedule using the Foundation's 
+templates or forms, which the Foundation will make available to You and which may be modified 
+from time to time.  You will submit Your Reports via email to the Program Coordinator according 
+to the payment table below, at GCE@gatesfoundation.org.  For a progress or final report to be 
+considered satisfactory, it must demonstrate meaningful progress against the targets or 
+milestones for that investment period. If meaningful progress has not been made, the report 
+should explain why not and what adjustments You are making to get back on track. The 
+Foundation must approve any such changes in writing. You agree to submit other reports the 
+Foundation may reasonably request. 
+ 
+ACCOUNTING FOR PERSONNEL TIME 
+ 13 
+ 
+You will track the time of all employees, contingent workers, and any other individuals whose 
+compensation will be paid in whole or in part by Project Funds. Such individuals will keep 
+records (e.g., timesheets) of actual time worked on the Project in increments of sixty minutes or 
+less and a brief description of tasks performed. You will report actual time worked consistent 
+with those records in Your progress and final budget reports. You will submit such copies of 
+records to the Foundation upon request. 
+ 
+REPORTING & PAYMENT SCHEDULE 
+Investment Period 
+Reporting Deliverable 
+Due By 
+Payment Date 
+Payment 
+Amount 
+ 
+ 
+Counter Signed 
+Project Agreement 
+TBD 
+Within 
+15 
+days 
+after 
+receipt 
+of 
+countersigned 
+Agreement 
+ 
+Up to 50% of 
+the 
+grant 
+total 
+ 
+Start Date to 
+Date on or after 
+first 
+90% of Project 
+Funds Expended 
+Second Payment 
+Release 
+Progress 
+Report* 
+Reasonable 
+period of 
+time after 
+first 
+90% of 
+Project 
+ 
+ 
+45 days 
+after 
+report is 
+received 
+Up to 50% of 
+the grant total 
+TBD 
+12-Month 
+Progress Report** 
+TBD 
+_ 
+_ 
+Start Date to 
+End Date 
+Final Financial 
+and Scientific 
+ 
+TBD 
+ 
+ 
+ 
+ 
+Total Grant 
+ 
+mount 
+Up to $100,000 
+*If this report is submitted after the 12-month Progress Report it needs to describe only the progress and 
+spending of Project Funds not covered in the 12-month Progress Report. 
+ 
+**The 12-Month Report must be submitted by its due date, which may be before or after submission of the 
+Second Payment Release Progress Report. If the 12-Month Report is submitted after the Second 
+Payment Progress Report, the 12-Month Report needs to describe only the progress and spending of 
+Project Funds not covered in the Second Payment Progress Report. 
+ 
+All questions regarding Your reporting obligations should be submitted electronically to the Grand 
+Challenges Explorations Program Coordinator at the email address listed above. 
+ 
+ 
+TERMS & CONDITIONS 
+This Agreement, is subject to the following terms and conditions. 
+ PROJECT SUPPORT   
+ 
+PROJECT DESCRIPTION AND CHARITABLE PURPOSE 
+You agree to carry out the project described in the Proposal Narrative (“Project”) in order to further the 
+Charitable Purpose. 
+ 
+ MANAGEMENT OF FUNDS  
+ 
+ 
+USE OF FUNDS 
+ 14 
+ 
+You may not use funds provided under this Agreement (“Project Funds”) for any purpose other 
+than the Project. You may not use Project Funds to reimburse any expenses You incurred prior 
+to the Start Date.  Together with the final report required under this Agreement, You must report 
+investment activities and the amount of any currency conversion gains (or losses) and the 
+amount of any interest or other income generated by the Project Funds (collectively, “Income”). 
+Any Income must be used for the Project.  
+  
+For Foreign Orgs. Only ACTIVITIES IN THE U.S.  
+You may not use more than 20% of Project Funds for activities in the U.S., including travel to 
+or from the U.S. 
+  
+SEGREGATION OF FUNDS 
+You must maintain Project Funds in a physically separate bank account dedicated to the 
+Project. 
+ 
+LIMITATIONS ON CAPITAL ASSETS 
+You may use the Project Funds to purchase capital assets such as equipment so long as the 
+assets are used exclusively for the Project during the term of the Agreement and the cost of 
+any single capital item does not exceed $5,000. 
+  
+INDIRECT COSTS 
+Project funds may not be used to pay any indirect costs. Indirect costs are defined as (1) 
+overhead expenses incurred as a result of the Project, but that are not easily identifiable with 
+the Project and (2) administrative expenses that are related to overall general operations and 
+are shared among projects and/or functions. Examples of indirect costs include, but are not 
+limited to, executive oversight, accounting, agreement management, legal expenses, utilities, 
+facility maintenance. 
+ 
+ GLOBAL ACCESS  
+GLOBAL ACCESS COMMITMENT 
+You will conduct and manage the Project and the Funded Developments in a manner that 
+ensures Global Access. Your Global Access commitments will survive the term of this 
+Agreement. “Funded Developments” means the products, services, processes, technologies, 
+materials, software, data, other innovations, and intellectual property resulting from the Project 
+(including modifications, improvements, and further developments to Background Technology). 
+“Background Technology” means any and all products, services, processes, technologies, 
+materials, software, data, other innovations, and intellectual property created by You or a third 
+party prior to or outside of the Project used as part of the Project. “Global Access” means: (a) 
+the knowledge and information gained from the Project will be promptly and broadly 
+disseminated; and (b) the Funded Developments will be made available and accessible at an 
+affordable price (i) to people most in need within developing countries, or (ii) in support of the 
+U.S. educational system and public libraries, as applicable to the Project. 
+  
+PUBLICATION 
+Consistent with Your Global Access commitments, if the Project description specifies 
+Publication or Publication is otherwise requested by the Foundation, You will seek prompt 
+Publication of any Funded Developments consisting of data and results. “Publication” means 
+publication in a peer-reviewed journal or other method of public dissemination specified in the 
+Project description or otherwise approved by the Foundation in writing. Publication may be 
+delayed for a reasonable period for the sole purpose of seeking patent protection, provided 
+ 15 
+ 
+the patent application is drafted, filed, and managed in a manner that best furthers Global 
+Access.  If You seek Publication in a peer-reviewed journal, such Publication shall be under 
+“open access” terms and conditions consistent with the Foundation’s Open Access Policy 
+available at: www.gatesfoundation.org/How-We-Work/General-Information/Open-Access-
+Policy, which may be modified from time to time. Nothing in this section shall be construed as 
+requiring Publication in contravention of any applicable ethical, legal, or regulatory 
+requirements. You will mark any Funded Development subject to this clause with the 
+appropriate notice or attribution, including author, date and copyright (e.g., © 20<> <Name>). 
+ 
+ SUBGRANTS AND SUBCONTRACTS  
+SUBGRANTS AND SUBCONTRACTS  
+You have the exclusive right to select subcontractors to assist with the Project. The aggregate 
+amount of Project Funds paid to subcontractors may not exceed $49,999. You acknowledge 
+that the Foundation has not and will not earmark the use of any Project Funds for a specific 
+subcontractor. You may not make subgrants under this Agreement. 
+  
+RESPONSIBILITY FOR OTHERS 
+You are responsible for all acts and omissions of any of Your trustees, directors, officers, 
+employees, subcontractors, contingent workers, agents, and affiliates assisting with the Project 
+and ensuring their compliance with the terms of this Agreement. 
+ PROHIBITED ACTIVITIES  
+  
+ANTI-TERRORISM 
+You will not use funds provided under this Agreement, directly or indirectly, in support of 
+activities (a) prohibited by U.S. laws related to combatting terrorism; (b) with persons on the 
+List of Specially Designated Nationals (www.treasury.gov/sdn) or entities owned or controlled 
+by such persons; or (c) in or with countries or territories against which the U.S. maintains 
+comprehensive sanctions (currently, Cuba, Iran, Syria, North Korea, and the Crimea Region of 
+Ukraine), including paying or reimbursing the expenses of persons from such countries or 
+territories, unless such activities are fully authorized by the U.S. government under applicable 
+law and specifically approved by the Foundation in its sole discretion. 
+  
+ANTI-CORRUPTION AND ANTI-BRIBERY 
+You will not offer or provide money, gifts, or any other things of value directly or indirectly to 
+anyone in order to improperly influence any act or decision relating to the Foundation or the 
+Project, including by assisting any party to secure an improper advantage. Training and 
+information 
+on 
+compliance 
+with 
+these 
+requirements 
+are 
+available 
+at 
+www.learnfoundationlaw.org. 
+ 
+POLITICAL ACTIVITY AND ADVOCACY 
+You may not use Project Funds to influence the outcome of any election for public office or to 
+carry on any voter registration drive. You may not use Project Funds to support lobbying activity 
+or to otherwise support attempts to influence local, state, federal, or foreign legislation. Your 
+strategies and activities, and any materials produced with Project Funds, must comply with 
+applicable local, state, federal, or foreign lobbying law. You agree to comply with lobbying, gift, 
+and ethics rules applicable to the Project. 
+ 
+OTHER LOBBYING, GIFT, AND ETHICS RULES  
+You agree to comply with any national, state, local, or other lobbying, gift, and ethics rules 
+applicable to the Project. The Foundation is not retaining or employing You to engage in 
+ 16 
+ 
+lobbying activities 
+ 
+  
+OTHER 
+ 
+COMPLIANCE WITH LAWS 
+In carrying out the Project, You will comply with all applicable laws, regulations, and rules and 
+will not infringe, misappropriate, or violate the intellectual property, privacy, or publicity rights of 
+any third party. 
+ 
+COMPLIANCE WITH REQUIREMENTS 
+You will conduct, control, manage, and monitor the Project in compliance with all applicable 
+ethical, legal, regulatory, and safety requirements, including applicable international, 
+national, local, and institutional standards (“Requirements”). You will obtain and maintain all 
+necessary approvals, consents, and reviews before conducting the applicable activity. As a 
+part of Your annual progress report to the Foundation, You must report whether the Project 
+activities were conducted in compliance with all Requirements.  
+ 
+If the Project involves:  
+a. any protected information (including personally identifiable, protected health, or third-
+party confidential), You will not disclose this information to the Foundation without 
+obtaining the Foundation’s prior written approval and all necessary consents to disclose 
+such information; 
+b. children or vulnerable subjects, You will obtain any necessary consents and approvals 
+unique to these subjects; and/or 
+c. any trial involving human subjects, You will adhere to current Good Clinical Practice as 
+defined by the International Council on Harmonisation (ICH) E-6 Standards (or local 
+regulations if more stringent) and will obtain applicable trial insurance.  
+ 
+Any activities by the Foundation in reviewing documents and providing input or funding does 
+not modify Your responsibility for determining and complying with all Requirements for the 
+Project. 
+ 
+ 
+RELIANCE 
+You acknowledge that the Foundation is relying on the information You provide in reports and 
+during the course of any due diligence conducted prior to the Start Date and during the term of 
+this Agreement. You represent that the Foundation may continue to rely on this information and 
+on any additional information You provide regarding activities, progress, and Funded 
+Developments. 
+ 
+INDEMNIFICATION 
+If the Project involves clinical trials, trials involving human subjects, post-approval studies, field 
+trials involving genetically modified organisms, experimental medicine, or the provision of 
+medical/health services (“Indemnified Activities”), You will indemnify, defend, and hold 
+harmless the Foundation and its trustees, employees, and agents (“Indemnified Parties”) from 
+and against any and all demands, claims, actions, suits, losses, damages (including property 
+damage, bodily injury, and wrongful death), arbitration and legal proceedings, judgments, 
+settlements, or costs or expenses (including reasonable attorneys’ fees and expenses) 
+(collectively, “Claims”) arising out of or relating to the acts or omissions, actual or alleged, of 
+ 17 
+ 
+You or Your employees, subgrantees, subcontractors, contingent workers, agents, and 
+affiliates with respect to the Indemnified Activities. You agree that any activities by the 
+Foundation in connection with the Project, such as its review or proposal of suggested 
+modifications to the Project, will not modify or waive the Foundation’s rights under this 
+paragraph. An Indemnified Party may, at its own expense, employ separate counsel to monitor 
+and participate in the defense of any Claim. Your indemnification obligations are limited to the 
+extent permitted or precluded under applicable federal, state or local laws, including federal or 
+state tort claims acts, the Federal Anti-Deficiency Act, state governmental immunity acts, or 
+state constitutions. Nothing in this Agreement will constitute an express or implied waiver of 
+Your governmental and sovereign immunities, if any. 
+ 
+INSURANCE 
+You will maintain insurance coverage sufficient to cover the activities, risks, and potential omissions of 
+the Project in accordance with generally-accepted industry standards and as required by law. You will 
+ensure Your subgrantees and subcontractors maintain insurance coverage consistent with this section. 
+ 
+PUBLICITY 
+ 
+PUBLICITY BY THE FOUNDATION  
+The Foundation may include information about the Project and this Agreement, including Your 
+name, in its periodic public reports and may make such information available on its website and 
+as part of press releases, public reports, speeches, newsletters, tax returns, and other public 
+disclosures. 
+  
+PUBLICITY BY YOU 
+You must obtain the Foundation’s prior written approval before: (a) issuing a press release or 
+other public announcement regarding this Agreement; and (b) any other public use of the 
+Foundation’s 
+name 
+or 
+logo. 
+Please 
+email 
+Your 
+request 
+to: 
+Grantee.Comms@gatesfoundation.org two weeks in advance to provide the Foundation an 
+opportunity to review and comment.  Detailed guidelines are available at: 
+www.gatesfoundation.org/grantseeker/documents/guidelines_communications_for_grantees.
+doc. 
+  
+PUBLICITY BY OTHERS 
+You and Your subcontractors, contingent workers, agents, or affiliates may not state or imply 
+to third parties that the Foundation directly funds or otherwise endorses their activities. 
+ 
+ TERM AND TERMINATION  
+TERM 
+This Agreement commences on the Start Date and continues until the End Date, unless 
+terminated earlier as provided in this Agreement. The Foundation, in its discretion, may approve 
+in writing any request by You for a no-cost extension, including amending the End Date and 
+adjusting any affected reporting requirements. 
+  
+TERMINATION 
+The Foundation may modify, suspend, or discontinue any payment of Project Funds or 
+terminate this Agreement if: (a) the Foundation is not reasonably satisfied with Your progress 
+on the Project; (b) there are significant changes to Your leadership or other factors that the 
+Foundation reasonably believes may threaten the Project’s success; (c) there is a change in 
+Your control; (d) there is a change in Your tax status; or (e) You fail to comply with this 
+Agreement. 
+ 18 
+ 
+  
+RETURN OF FUNDS 
+Any Project Funds, plus any Income, that have not been used for, or committed to, the Project 
+by the End Date, must be returned promptly to the Foundation. 
+ 
+ 
+MONITORING, REVIEW, AND AUDIT 
+N/A if grantee is a government unit or international executive order organization: 
+The Foundation may monitor and review Your use of the Project Funds, performance of the 
+Project, and compliance with this Agreement, which may include onsite visits to assess Your 
+organization’s governance, management and operations, discuss Your program and finances, 
+and review relevant financial and other records and materials. In addition, the Foundation may 
+conduct audits, including onsite audits, at any time during the term of this Agreement, and within 
+four years after Project Funds have been fully spent. Any onsite visit or audit shall be conducted 
+at the Foundation’s expense, following prior written notice, during normal business hours, and 
+no more than once during any 12-month period.  
+ 
+INTERNAL OR THIRD PARTY AUDIT 
+N/A if grantee is a government unit or international executive order organization: 
+If during the term of this Agreement You are audited by your internal audit department or by a 
+third party, You will provide the audit report to the Foundation upon request, including the 
+management letter and a detailed plan for remedying any deficiencies observed (“Remediation 
+Plan”). The Remediation Plan must include (a) details of actions You will take to correct any 
+deficiencies observed, and (b) target dates for successful completion of the actions to correct 
+the deficiencies. 
+  
+RECORD KEEPING 
+You will maintain complete and accurate accounting records and copies of any reports 
+submitted to the Foundation relating to the Project. You will retain such records and reports for 
+4 years after Project Funds have been fully spent. At the Foundation’s request, You will make 
+such records and reports available to enable the Foundation to monitor and evaluate how 
+Project Funds have been used or committed. 
+  
+SURVIVAL 
+A Party’s obligations under this Agreement will be continuous and survive expiration or 
+termination of this Agreement as expressly provided in this Agreement or otherwise required 
+by law or intended by their nature. 
+ 
+GENERAL 
+ 
+ENTIRE AGREEMENT AND AMENDMENTS 
+This Agreement contains the entire agreement of the Parties and supersedes all prior and 
+contemporaneous agreements concerning its subject matter. Except as specifically permitted 
+in this Agreement, no modification, amendment, or waiver of any provision of this Agreement 
+will be effective unless in writing and signed by authorized representatives of both Parties. 
+  
+NOTICES AND APPROVALS 
+Written notices, requests, and approvals under this Agreement must be delivered by mail or 
+email to the other Party’s primary contact specified on the Agreement Summary & Signature 
+Page, or as otherwise directed by the other Party. 
+  
+ 19 
+ 
+SEVERABILITY  
+Each provision of this Agreement must be interpreted in a way that is enforceable under 
+applicable law. If any provision is held unenforceable, the rest of the Agreement will remain in 
+effect. 
+  
+ASSIGNMENT 
+You may not assign, or transfer by operation of law or court order, any of Your rights or 
+obligations under this Agreement without the Foundation’s prior written approval. This 
+Agreement will bind and benefit any permitted successors and assigns. 
+  
+COUNTERPARTS AND ELECTRONIC SIGNATURES 
+Except as may be prohibited by applicable law or regulation, this Agreement and any 
+amendment may be signed in counterparts, by facsimile, PDF, or other electronic means, each 
+of which will be deemed an original and all of which when taken together will constitute one 
+agreement. Facsimile and electronic signatures will be binding for all purposes. 
+ 
+  
+Grand Challenges Explorations – Brazil: 
+Data Science Approaches to Improve Maternal and Child 
+Health in Brazil 
+ 
+Application Form 
+ 
+Please enter proposal text in Sections I and II according to the instructions within each section. 
+If you choose to include charts, graphs, or references, add them within the appropriate section. 
+Each proposal must have two (2) duplicate copies, one in Portuguese and one in English. 
+ 
+Your application must be formatted as follows.  
+• 
+Applicants must be Brazilian working for a Brazilian institution 
+• 
+No longer than two (2) pages for each language 
+• 
+11 point font or larger 
+• 
+At least 1.25cm margins all around 
+• 
+Single line spacing 
+• 
+Standard character spacing (neither expanded nor condensed) 
+• 
+Arial or Times New Roman font 
+• 
+The entire file should be 2MB or less 
+Proposals that do not adhere to these restrictions may be blocked from submission and review. 
+ 
+Section I. What is your idea? 
+Use this section to briefly describe your idea. Read the topic description carefully to make sure 
+that your idea directly fits the topic; otherwise your proposal may be disqualified.   
+• 
+Indicate in one or two sentences in bold the essence of your idea.   
+• 
+Why is your idea an unconventional or creative approach to the problem outlined in the 
+topic?   
+• 
+Describe the hypothesis for your proposal and why you expect it to succeed. 
+ 
+Section II. How will you test it? 
+Use this section to briefly describe the project design and implementation plan. 
+• 
+Describe your experimental plan, including any new technologies or tools to be 
+developed. 
+• 
+How will the work you describe be performed within the budget (up to USD$100,000) 
+and time period (eighteen [18] months) allocated? This 18-month time period should 
+include project work time, ramp up and required reporting.  
+• 
+What essential data will you generate?  
+• 
+If your experiments are successful, what are the next steps? 
+• 
+Please include a brief breakdown of allowable direct costs under the following 
+categories: personnel, supplies, subcontracts, travel, and other expenses (equipment). 
+Please review the Rules & Guidelines for more guidance. 
+ Grand Challenges Explorations 
+Dicas para Candidatos 
+Lançado em 2012, a iniciativa Grand Challenges Brasil (GC Brasil) é resultado da parceria 
+entre o Ministério da Saúde do Brasil, o Conselho Nacional Conselho Nacional de 
+Desenvolvimento Científico e Tecnológico (CNPq) e a Fundação Bill & Melinda Gates para 
+lançar desafios conjuntos que incentivem e financiem  pesquisa inovadora em saúde no 
+Brasil. O Conselho Nacional das Fundações de Amparo à Pesquisa (CONFAP) também é 
+um parceiro nesta iniciativa. Aqui, anunciamos um novo programa no âmbito da iniciativa 
+Grand Challenges Brasil: Grand Challenges Explorations - Brasil ("GCE-Brasil"). Os 
+financiamentos do GCE, de 100.000 dólares cada, foram pensados para apoiar projetos 
+em fase inicial - incluindo idéias que nunca antes foram testadas - e inovadores em uma 
+ampla gama de temas. 
+Processo de Seleção 
+Devido ao grande número de propostas recebidas, elas passam por uma fase inicial de 
+triagem para excluir aquelas que não respondam a elementos específicos da chamada ou 
+que proponham idéias claramente fora do tema. Após esta fase inicial, cada proposta é 
+analisada de forma independente por um painel externo de revisores com ampla 
+experiência em identificar abordagens inovadoras para solucionar grandes desafios. As 
+propostas também podem ser revisadas por um painel de especialistas no assunto.  
+Dicas para os Candidatos 
+Abaixo veja as características identificadas pelos revisores como essenciais para o 
+sucesso da sua proposta: 
+1. Destacar a Inovação: Na primeira parte da sua proposta, candidatos devem
+incluir uma ou duas frases em negrito que descrevam a essência de sua ideia.
+Essas frases devem transmitir o que há de inovador na sua proposta e como ela
+se diferencia das soluções já existentes. Demonstrar experiência em áreas
+d if er e nt es  do t ema d a  c h a m a d a  ( po r  e xe m p lo :  e n g e n h e ir o s
+p r opon do s o lu ç õ e s  em  m e d ic in a )  tem se mostrado um bom sinal de
+inovação nos projetos financiados;
+2. Responder ao Tema da Chamada: O candidato deve explicar como sua ideia
+atende a questão-chave apresentada na descrição do tópico. Como listamos
+também as propostas que não serão financiadas, os candidatos devem ter
+certeza de que a sua proposta não se enquadra numa dessas categorias;
+3. Como Pretende Testar a Ideia: Candidatos devem incluir uma descrição clara,
+lógica e detalhada de como a ideia proposta será testada e produzirá dados
+interpretáveis e corretos. Como as propostas são analisadas ‘cegamente’ (sem
+considerar sua autoria), essa descrição é um elemento chave para a credibilidade
+científica do projeto;
+Explicar a Viabilidade do Projeto: Candidatos devem descrever como o trabalho
+pode ser executado com o orçamento de 100.000 dólares e o prazo de 18 meses
+definidos pela chamada.
+4.
+Prezar Pela Clareza: O revisor nem sempre é um conhecedor profundo do
+tema. Para maximizar a possibilidade de sua proposta ser financiada, ela deve
+ser escrita em u m a  linguagem clara, sem jargões específicos de um campo
+em particular. Dado o limite de duas páginas, as propostas devem ser concisas
+e equilibradas na forma como apresentam os elementos descritos acima.
+Para saber mais sobre ideias inovadoras que já foram contempladas com 
+financiamento em edições anteriores da chamada, visite o site do Grand Challenges 
+Explorations:  www.grandchallenges.org/Explorations/Pages/GrantsAwarded.aspx 
+5.

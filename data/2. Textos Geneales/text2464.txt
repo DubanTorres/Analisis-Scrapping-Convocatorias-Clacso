@@ -1,0 +1,499 @@
+3. Bases y condiciones de la convocatoria para participar de la actividad: “La 
+paradoja del fuego: un abordaje multidisciplinario para la gestión de incendios en 
+un mundo inflamable” 
+Convocatoria para solicitar becas para asistir a actividades organizadas por el Centro 
+Latinoamericano de Formación Interdisciplinaria (CELFI) 
+ 
+El Ministerio de Ciencia, Tecnología e Innovación Productiva (MINCyT), a través del Centro 
+Latinoamericano de Formación Interdisciplinaria (CELFI), financiará a becas de traslado 
+y estadía para participar en la actividad que se detalla a continuación. Las becas están 
+destinadas a jóvenes investigadores latinoamericanos que residan en Latinoamérica y que 
+sean graduados de las carreras indicadas como prioritarias.  
+Esta iniciativa será financiada conjuntamente por el Ministerio de Ciencia, Tecnología e 
+Innovación Productiva y el Banco de Desarrollo de América Latina (CAF). 
+ 
+1 ACTIVIDAD: ....................................................................................................................................... 16 
+1.2 Cantidad de becas a financiar:................................................................................................... 16 
+1.3 Responsables: ............................................................................................................................ 16 
+1.4 Descripción de la actividad: ....................................................................................................... 16 
+2 POSTULACION A BECAS DE TRASLADO Y MANUTENCIÓN ............................................................... 19 
+2.1 Composición de la beca: ............................................................................................................ 19 
+2.2 Criterios de selección ................................................................................................................. 20 
+2.3 Calendario de la Convocatoria: ................................................................................................. 20 
+2.4 Presentación de solicitudes ....................................................................................................... 21 
+Requisitos de admisión .................................................................................................................... 21 
+2.6 Inscripción a las becas ............................................................................................................... 21 
+2.7 Evaluación de las becas ............................................................................................................. 23 
+2.8 Resultados: ................................................................................................................................ 23 
+2.9 Documentación requerida en caso de ser seleccionado ........................................................... 23 
+2.10 Obligaciones del becario y de la institución en la que se desempeña: ................................... 24 
+página 15 de 41
+DI-2018-09678611-APN-MCT
+ 2.11 Sanciones: ................................................................................................................................ 25 
+NOTA DE AVAL DEL CANDIDATO ......................................................................................................... 27 
+ 
+1 ACTIVIDAD:   
+Título: La paradoja del fuego: un abordaje multidisciplinario para la gestión de incendios 
+en un mundo inflamable. 
+Fechas: del 4 al 15 de junio de 2018. 
+Sede: CELFI- SUSTENTABILIDAD Y DESARROLLO 
+Lugar: Universidad Nacional de Córdoba, Córdoba, Argentina. 
+1.2 Cantidad de becas a financiar: TREINTA (30)  
+1.3 Responsables:  
+ Lic. Mario Lanfri (CONAE, CAEARTE) 
+ Dra Laura Bellis (CONICET-UNC) 
+ Dr. Nicolás Frutos (Fac. Filosofia y Humanidades) 
+1.4 Descripción de la actividad: 
+ 
+A pesar de que se gastan enormes cantidades de dinero tanto en la investigación para 
+entender la ecología del fuego como en el  equipamiento y entrenamiento para el 
+combate del mismo, cada vez arde más superficie del planeta y con mayor frecuencia. 
+El Taller busca consolidar un abordaje multidisciplinario para el análisis y comprensión de 
+la problemática en la gestión de incendios. Se trabajará en tres ejes: un eje técnico 
+(detección de incendios, fuentes de calor, etc.), un eje social (incendios y conflictos 
+económicos, cómo y cuándo y por qué las comunidades rurales utilizan e históricamente 
+han utilizado el fuego en diferentes regiones, etc.) y un eje de gestión (quemas prescritas, 
+control de incendios, prevención de incendios, sistemas operativos de alerta temprana, 
+etc).  
+página 16 de 41
+DI-2018-09678611-APN-MCT
+ La propuesta conjuga los conceptos de seguridad humana, conflictos socio-económicos, la 
+ecología del fuego, el uso de sensores remotos, sistemas de información geográfica, la 
+modelación matemática, y la utilización de nuevas tecnologías de la información y la 
+comunicación al servicio del ciudadano. 
+La actividad está diseñada para ser desarrollada por equipos de trabajo constituidos por 
+participantes de distintos países de Latino América.  Es deseable que los equipos puedan 
+incluir al menos un participante que pertenezca a los servicios operativos de manejo del 
+fuego implementados en los diversos países de Latinoamérica y otro que pertenezca al 
+ámbito académico con habilidades en el manejo de computadoras.  
+El Taller incluirá un primer módulo (seis días) de clases teóricas y prácticas sobre 
+imágenes satelitales, SIG y técnicas estadísticas, unificación de términos y clases 
+magistrales a cargo de expertos nacionales en los tres ejes definidos, un segundo módulo 
+(tres días) en donde los grupos conformados desarrollarán su propio proyecto bajo la 
+supervisión de tutores y clases magistrales a cargo de expertos internacionales en los tres 
+ejes definidos y un tercer módulo (dos días) donde cada equipo expondrá sus resultados y 
+detalles técnicos de las soluciones implementadas. 
+ 
+Listado de docentes: 
+ Dr Thomas Kitzberger, (Laboratorio Ecotono, CRUB. Instituto de Investigaciones en 
+Biodiversidad y Medioambiente. INIBIOMA-CONICET. Universidad Nacional del 
+Comahue).  
+ Dr Carlos Di Bella, (Instituto de Clima y Agua – INTA Castelar, Buenos Aires). 
+ Lic. Maria del Carmen Dentoni, (Servicio Nacional de Manejo del Fuego). 
+ Dr. Walter Sione, (Universidad Autónoma de Entre Rios) 
+ Dr. Daniel Caceres, (Facultad de Agronomía. UNC ) 
+ Dra. Daniela Tamburini, (Fac. Cs. Ex. Fis. Y Nat. UNC).  
+DI-2018-09678611-APN-MCT
+página 17 de 41
+  Dr Emilio Chuvieco, (Departamento de Geografía, Universidad de Alcalá, España. 
+Miembro del Fire Implementation team of the Global Observation of Forest Cover 
+and Land Dynamic (GOFC/GOLD) program. FAO and NASA). 
+ Dr Alan Ager, (Research forester, USDA Forest Service, Rocky Mountain Research 
+Station, Missoula Fire Sciences Laboratory, Missoula MT). 
+ Dr Ross Bradstock, (Senior Professor, Investigador de la University of Wollongong, 
+Australia y Director del Centre for Environmental Risk Management of Bushfires).  
+Tutores: 
+ Lic. M.A. Lanfri: Lic en Física, Responsable de la unidad de consultoria en alerta 
+y respuesta temprana a emergencias de la agencia espacial Argentina. Coautor 
+de varios trabajos en el área. Especialista en RS/GIS. Generador de avances 
+pioneros en la región, en el área de las aplicaciones de la Tecnología Espacial a 
+la salud Humana. Experiencia internacional en diversos países de Europa y 
+América Latina. 
+ Dra Laura Bellis. Dra en Ciencias Biológicas. Especialista en ecología del paisaje 
+y conservación de la biodiversidad. Docente de la materia Ecología de la 
+Facultad de Ciencias Exactas Físicas y Naturales, UNC e Investigadora 
+Independiente de CONICET.  
+ Dr. Juan Argañaraz: becario post-doctoral de CONICET, especialista en Modelos 
+de combustible y comportamiento del fuego, con énfasis en la interfase urbano 
+rural. 
+ Biol. Marcos Landi. Estudiante de doctorado en Ciencias Biológicas, especialista 
+en sensores remotos y desarrollo de algoritmos estadísticos aplicados  al 
+comportamiento del fuego.  
+ Dra. Msc. Daniela Tamburini. Dra en Agronomía. Magister en Manejo de Vida 
+Silvestre. Especialista en gestión ambiental rural y urbana y el abordaje de 
+conflictos comunidades campesinas-ambiente.  Docente de Legislación en 
+Biología, Centro de Recursos Naturales Renovales (CERNAR), UNC. 
+ Dr. Nicolás Frutos. Dr. En Biología y docente de las cátedras GIS en la carrera de 
+geografía UNC.  
+ Mg. Nicolas Mari. Especialista en procesamiento e integración de datos de 
+origen satelital, junto al desarrollo de técnicas y metodologías orientadas a su 
+interpretación y aplicación en el estudio y seguimiento del cambio global. 
+ 
+DI-2018-09678611-APN-MCT
+página 18 de 41
+ 2 POSTULACION A BECAS DE TRASLADO Y MANUTENCIÓN 
+Las postulaciones a becas serán individuales pero los postulantes deberán tener el aval 
+de la institución/empresa donde desempeñan sus tareas y carta de recomendación del 
+superior inmediato. 
+ 
+2.1 Composición de la beca: 
+La beca se compondrá de: 
+Pasaje: ida y vuelta desde el lugar de residencia del postulante a Córdoba. El Programa 
+CELFI adquiere los pasajes aéreos electrónicos según lo establecido en el Decreto N° 
+1191/2012 en función de la disponibilidad de vuelos. El CELFI sólo emite pasajes de 
+Aerolíneas Argentinas, con conexiones de la alianza Skyteam para tramos menores. Los 
+mismos están sujetos a la disponibilidad y tarifas que responden a normativas internas. 
+Por lo tanto, las fechas de los pasajes son inamovibles, y estarán comprendidas entre uno 
+o dos días previos al comienzo y fin del curso. A su vez, podrán implicar cambios de 
+aeropuertos y escalas. No se aceptarán solicitudes de modificación. Los pasajes podrán ser 
+enviados hasta tres días antes del comienzo del curso. El Programa remite los pasajes 
+electrónicos y los asistentes deben presentar, como rendición de gastos obligatoria para 
+poder cobrar la beca, los boletos de embarque de todos los tramos utilizados para arribar 
+a Córdoba. En caso de que la ciudad de origen no cuente con un vuelo de conexión 
+internacional, el CELFI podrá solicitar que el asistente compre un pasaje (no aéreo) hacia 
+el aeropuerto internacional más cercano. En caso de ser necesario el uso de otro tipo de 
+transporte (no aéreo) los gastos son reembolsados durante la estadía en Córdoba, previa 
+presentación de los comprobantes. Esto rige también para el tramo de vuelta, el cual 
+deberá ser comprado con anterioridad y rendido al inicio de la estadía. Los traslados 
+desde y hacia los aeropuertos y los trámites de visado (en caso de corresponder) correrán 
+por cuenta de los becarios. El CELFI emitirá los pasajes en base a la información 
+suministrada en la postulación. El CELFI no se hace responsable por pérdidas de aviones, 
+reprogramaciones o cancelaciones de vuelos. 
+ Seguro de salud 
+DI-2018-09678611-APN-MCT
+página 19 de 41
+  Estipendio: PESOS NUEVE MIL CUATROCIENTOS NOVENTA CON 62/100 ($9.490,62). 
+Monto de referencia: 50% de Beca Doctoral de CONICET para Córdoba vigente a la fecha 
+de la actividad. 
+ Viáticos: PESOS MIL TRESCIENTOS NUEVE ($1309) por noche (Decreto 445/17 Anexo 
+LXXXI). Se contarán las noches de estadía en Córdoba. El Programa CELFI abona el monto 
+correspondiente y cada asistente deberá gestionar su alojamiento y cubrir todos sus 
+gastos, incluidas las comidas. 
+ Matrícula: PESOS TRES MIL SETECIENTOS ($3.700) que deberán posteriormente ser 
+abonados por el becario a la Universidad Nacional de Córdoba en concepto de gastos 
+asociados a las actividades. 
+ 
+2.2 Criterios de selección 
+Los postulantes a las becas serán seleccionados de acuerdo a los siguientes criterios: 
+ Afinidad e impacto entre la actividad a la que se postula y las actividades laborales/ 
+investigación que realiza. 
+ Impacto de la actividad a realizar por el postulante en su ámbito de actividad local. 
+ 
+2.3 Calendario de la Convocatoria: 
+Fecha de apertura de la convocatoria: 1er día hábil posterior a la firma de la disposición de 
+aprobación de las Bases y Condiciones en la página web www.celfi.gob.ar  
+Cierre de postulación a becas: La convocatoria permanecerá abierta al menos 30 días 
+corridos a partir de la apertura de la convocatoria. 
+Fecha de publicación de los seleccionados: estimativamente el 4 de mayo en la página 
+web www.celfi.gob.ar             
+Fecha de la actividad: Del 4 al 15 de junio de 2018. 
+ 
+página 20 de 41
+DI-2018-09678611-APN-MCT
+ 2.4 Presentación de solicitudes 
+Los interesados deberán registrarse en la página web del CELFI, www.celfi.gob.ar/signup, 
+completando el formulario con sus datos personales como figuran en el documento de 
+identidad y/o pasaporte (con el cual ingresarán al país en caso de ser seleccionados). 
+Deberán validar el email registrado, iniciar sesión e inscribirse en la actividad seleccionada 
+hasta las 23.59hs. (hora de Argentina) de la fecha estipulada de cierre. Deberán indicar 
+que optan por la inscripción a becas colocando el código de inscripción “CSD-06-56-2018” 
+en el formulario de financiación.  
+ 
+2.5 Requisitos de admisión 
+ Estar graduado de alguna de las siguientes carreras prioritarias: Ciencias Biológicas, 
+Ciencias Geológicas, Ciencias Forestales, Sociología, Geografía, Ciencias Exactas, Físicas y 
+Naturales, Ciencias Agropecuarias, Física, Matemática, Cs de la computación y disciplinas 
+afines. 
+ Encontrarse realizando un posgrado o estar trabajando en temas vinculados con la 
+temática a desarrollar en la presente actividad. 
+ Tener nacionalidad y residencia en países de Latinoamérica. 
+ Residir a más de 70 km de la ciudad donde se realiza la actividad. 
+ Presentar el aval de la institución/empresa donde se desempeña (modelo adjunto) 
+ Presentar, adjunto con el formulario de inscripción, toda la documentación que respalde 
+los antecedentes mencionados. 
+ No haber sido beneficiado con una beca del CELFI durante los últimos 12 meses. 
+ No estar inscripto actualmente en otra convocatoria del CELFI. 
+ 
+2.6 Inscripción a las becas 
+La inscripción se realiza a través de nuestra página oficial, no se recibirá documentación 
+por fuera del sistema. Las solicitudes electrónicas deberán incluir la documentación que se 
+lista a continuación perfectamente legible y con carácter de declaración jurada. La misma 
+deberá seguir los lineamientos del “Instructivo de inscripción” que se encuentra adjunto 
+página 21 de 41
+DI-2018-09678611-APN-MCT
+ en la página. No se aceptarán inscripciones incompletas. La documentación deberá 
+cargarse en un único archivo, en formato PDF que no supere 4MB y que este guardado 
+con el nombre del postulante (Ejemplo: Gonzalez.pdf) 
+1. CURRÍCULUM VITAE con firma y nombre y apellido en todas sus hojas en el que 
+debe constar claramente:  
+ Datos personales: Nombre y Apellido completo, Nacionalidad, Ciudad y País de 
+residencia actual, domicilio, teléfono de contacto y dirección postal;  
+ Carrera de grado y/o posgrados aprobados o en curso; 
+ Actividad actual y un detalle de la misma, nombre de la empresa, instituto o centro 
+de investigación, y dirección postal del lugar. 
+ Asignaturas, cursos, conferencias y los trabajos publicados en temas relacionados 
+con el curso. 
+2. NOTA DEL CANDIDATO indicando el impacto esperado en términos de 
+incorporación de valor agregado al estudio, especialización o proyecto de 
+investigación que desarrolla, firmada (una página como máximo). Además, deberá 
+incluir una descripción breve (media página) del proyecto que se desea desarrollar 
+durante su estadía identificando el área de interés. 
+3. CARTA DE RECOMENDACIÓN de autoridad inmediata superior de la institución/ 
+empresa donde se desempeña actualmente. La misma deberá estar firmada. 
+4. NOTA DE AVAL DE LA INSTITUCIÓN/EMPRESA donde se desempeña actualmente 
+(El texto de la nota se encuentra al final de este documento y no puede ser 
+modificado). 
+5. Estas BASES Y CONDICIONES firmadas en todas sus hojas por el postulante y la 
+autoridad competente de la institución/empresa donde se desempeña 
+actualmente que firmó la nota de aval institucional (ver punto 4). 
+6. COPIA DEL TÍTULO DE GRADO correspondiente a alguna de las carreras elegibles. 
+Si tiene título de posgrado puede sumarlo pero es necesario adjuntar el título de 
+grado. 
+DI-2018-09678611-APN-MCT
+página 22 de 41
+ 7. FOTOCOPIA DEL PASAPORTE O DOCUMENTO DE IDENTIDAD válido y vigente para 
+ingresar y permanecer en la República Argentina hasta la fecha de finalización de la 
+actividad. El mismo deberá constar la nacionalidad. 
+8. CERTIFICACIÓN DE LA DIRECCIÓN DE RESIDENCIA ACTUAL expedida por una 
+fuente Municipal, Judicial o Notarial o presentando una factura de un servicio a su 
+nombre o resumen de cuenta bancaria. Todo certificado debe ser actual, debe 
+estar a nombre del interesado y debe contener su dirección. No se aceptarán 
+certificados a nombre de familiares u otras personas, ni documentos que tengan 
+más de un mes de antigüedad. El documento de identidad no certifica residencia.  
+ 
+2.7 Evaluación de las becas 
+La evaluación de los candidatos y la selección de los postulantes serán realizadas por los 
+responsables de la actividad (Dr. Carlos Scavuzzo, Dr Argañaraz, Dra Bellis, Lic Lanfri, Biol 
+Landi, Dr Frutos y Mg. Mari) junto con el Consejo de Administración Académica del 
+Programa CELFI. De considerarlo conveniente, podrán requerir la asistencia de expertos 
+convocados ad hoc. 
+ 
+2.8 Resultados: 
+Se publicará el listado de seleccionados y suplentes en nuestra página oficial. El CELFI 
+enviara una comunicación a la dirección de correo electrónico que el postulante haya 
+utilizado para realizar su inscripción,  a fin de coordinar los pasos administrativos a seguir. 
+El postulante recibirá el documento  “Carta de Aceptación de la Beca”, la cual deberá 
+remitir completa y firmada, en un plazo de 48 horas hábiles, a fin de expresar su 
+conformidad. Una vez finalizado este plazo, quienes no hayan remitido dicho documento, 
+perderán el beneficio de la beca.  
+En caso de renuncias por parte de alguno de los seleccionados podrá utilizarse el orden de 
+mérito de suplentes para cubrir las vacantes producidas con todos aquellos postulantes 
+que obtuvieran un puntaje igual o superior a 50/100 sujeto a la factibilidad de realizar los 
+DI-2018-09678611-APN-MCT
+página 23 de 41
+ trámites correspondientes. En caso de producirse una vacante, la/el postulante que 
+corresponda según el orden de mérito será notificado por el CELFI. 
+2.9 Documentación requerida en caso de ser seleccionado 
+Al inicio de la actividad se deberá presentar la documentación presentada en la 
+postulación en su versión original para poder recibir el cheque correspondiente a los 
+viáticos, estipendio y matrícula: 
+ Copia firmada en original de estas bases y condiciones, en conformidad con las 
+mismas por parte del becario y el responsable de la Institución que respalda su 
+candidatura y firmó la nota de aval y la nota de aval propiamente dicha. 
+ Copia firmada en original de toda la documentación remitida electrónicamente: a) 
+Currículum vitae; b) Nota del candidato indicando el impacto esperado; c) Carta de 
+recomendación del supervisor o autoridad inmediata superior d) Nota de respaldo 
+a la postulación por parte de la Institución e)Copia del Documento de Identidad 
+con el cual se inscribió a la beca; 
+ Copia del título de grado con el que realizó la inscripción, correspondiente a alguna 
+de las carreras elegible. La copia deberá estar certificada y/o legalizada por la 
+entidad académica emisora, escribano público u organismo estatal que realice 
+esta tarea.  
+ 
+2.10 Obligaciones del becario y de la institución en la que se desempeña: 
+El becario que sea seleccionado y confirme la aceptación de la beca se compromete a: 
+- Asistir a todas las instancias que formen parte de la actividad para la cual fue becado 
+(clases teóricas y/o prácticas, tutoriales, seminarios, viajes de campo, talleres, 
+exámenes, etc.). En caso de no asistir a la totalidad de clases y/o no cumplir con las 
+etapas del curso, el CELFI podrá exigir al becario o a la institución/empresa donde se 
+desempeña la devolución de la totalidad de la beca (pasajes completo, seguro, 
+estipendio, matrícula y viáticos) y podrá quedar inhabilitado para ser seleccionado en 
+otras actividades del CELFI.  
+- Regresar a su país luego de finalizada la actividad. 
+DI-2018-09678611-APN-MCT
+página 24 de 41
+ - Utilizar todos los tramos aéreos tal como figuran en el pasaje adquirido por el CELFI para 
+su traslado desde su país de residencia hasta la sede de la actividad y su regreso. Al 
+tratarse de un pasaje oficial, no se permiten modificaciones de fechas y horarios, como 
+tampoco escalas que estén por fuera del itinerario emitido, ni cambios de categoría. 
+- Será responsabilidad del becario estar atento a cualquier modificación que pudiera 
+surgir en el itinerario del vuelo por parte de las aerolíneas.  
+- Conservar y entregar las tarjetas de embarque (boarding pass) correspondientes a todos 
+los tramos que compongan el pasaje. Al regreso, deberán enviar por correo electrónico, 
+escaneados todas las tarjetas de embarque en un plazo de 48 hs. de arribado a su 
+destino final. De no presentar alguna de las tarjetas de embarque (boarding pass) 
+correspondientes a los tramos ida y vuelta, el CELFI podrá exigir al becario o a la 
+institución/empresa donde se desempeña el reintegro el importe total del pasaje.  
+- En caso de que el postulante seleccionado confirme la aceptación a la beca y luego 
+renuncie, el CELFI podrá exigir al becario o a la institución/empresa donde se 
+desempeña el reintegro de los recursos que se hubieran erogado a su nombre hasta el 
+momento (ejemplo, pasajes aéreos).  
+ 
+La institución/ empresa en la cual se desempeña el becario se compromete a: 
+- Dar solución y responder económicamente por el becario, en caso de presentarse 
+alguna situación que exceda al Programa CELFI (Pérdida de vuelos por parte del becario, 
+incumplimiento de las Bases y Condiciones, ausencia sin justificación pertinente, no 
+utilización de vuelos emitidos por el Programa, etc.) 
+ 
+2.11 Sanciones:  
+En caso de haber sido seleccionado para la beca y desistir de la misma, el becario deberá 
+enviar un correo electrónico explicando las razones por las cuales renuncia a la beca. En 
+aquellos casos que involucre un problema de salud, deberán enviar el certificado médico 
+correspondiente.  
+DI-2018-09678611-APN-MCT
+página 25 de 41
+ Una vez iniciados los trámites administrativos e incurrido en gastos por parte del CELFI,  si 
+el becario no asistiera a la actividad, el CELFI podrá exigir al becario seleccionado o a la 
+institución/empresa donde se desempeña, el reintegro de los recursos que se pudieran 
+haber erogado  a su nombre hasta el momento (ejemplo pasajes aéreos) y podrá ser 
+sancionado para futuras convocatorias, declarándolo inadmisible en todas las 
+convocatorias posteriores en las cuales se presente.  
+Si un postulante seleccionado no presenta la totalidad de la documentación en tiempo y 
+forma no recibirá el cheque correspondiente a la beca.  
+En caso de que la institución, organismo o empresa que avala la candidatura del becario 
+no cumpla con lo establecido en las presentes Bases y Condiciones, el CELFI podrá decidir 
+no aceptar otros postulantes de la misma institución en convocatorias posteriores. 
+ 
+Las dudas o consultas relacionadas con las becas deberán dirigirse a la dirección de correo 
+electrónico contacto@celfi.gob.ar 
+ 
+ 
+página 26 de 41
+DI-2018-09678611-APN-MCT
+ MEMBRETE DE LA INSTITUCION/EMPRESA DONDE SE DESEMPEÑA 
+ 
+FECHA 
+NOTA DE AVAL DEL CANDIDATO 
+ 
+Sra. Responsable del Programa CELFI: 
+Tengo el agrado de dirigirme a Usted en mí carácter de ……………………. (función que 
+desempeña en la institución y nombre completo de la institución), para informarle que 
+……………………………………….(institución 
+de 
+pertenencia) 
+avala 
+la 
+presentación 
+de 
+……………………………………………………….. (nombre del postulante) a la convocatoria a Becas para 
+participar de la actividad ………………………………………… (nombre de la actividad) a desarrollarse 
+…………………………………… (fecha y lugar de la actividad)  y que nuestra institución se compromete a 
+cumplir las obligaciones que pudieran derivar del incumplimiento de las Bases y Condiciones de la 
+misma. 
+Atentamente. 
+Firma 
+Nombre y Apellido 
+Cargo en la institución/empresa donde se desempeña 
+Teléfono de contacto: 
+Mail de contacto: 
+ 
+ 
+ 
+ 
+ 
+SEÑORA RESPONSABLE DEL PROGRAMA CENTRO LATINOAMERICANO  
+DE FORMACIÓN INTERDISCIPLINARIA (CELFI)  DEL  
+MINISTERIO DE CIENCIA, TECNOLOGIA E INNOVACIÓN 
+DE LA REPÚBLICA ARGENTINA 
+Dra. Vera BRUDNY 
+ 
+ 
+ 
+DI-2018-09678611-APN-MCT
+página 27 de 41
+  
+ 
+Taller “La Paradoja del Fuego:  
+un abordaje multidisciplinario para la gestión de incendios en un mundo inflamable” 
+Cronograma  
+RESUMEN 
+El “Taller” incluirá, dentro de los 11 días de actividad: 
+ 
+Día 1:  Lunes 04/06/2018 (en CBA) 
+Mañana  
+– Trámites Administrativos 
+Tarde 
+– Acto de Apertura 
+– Presentación de la actividad Bellis-Lanfri 
+– Presentación del Instituto Gulich DeFerrariis  AR 
+– La Unidad Caearte Lanfri AR 
+ 
+Fundamentos de SIG – Frutos AR 
+ 
+Día 2:  Martes 05/06/2018 
+Mañana  9:00 hs a 12:00 hs 
+– Fundamentos de sensores remotos.  Lanfri AR   
+Tarde   13:30 hs a 18 hs  
+– Fundamentos de sensores remotos.  Lanfri AR   
+ 
+Día 3:  Miércoles 06/06/2018 
+Mañana 9:00 hs a 12:00 hs 
+Eje Social:  
+- “Sustentabilidad, Desarrollo y Política” Caceres AR 
+  
+“Normativa del fuego:  leyes de fuego, regulaciones, medidas de remediación desde la administración” 
+Tamburini   AR 
+Tarde   13:30 hs a 18 hs  
+Eje Gestión:   
+“Sistemas de Evaluación de Peligro de Incendios”  Dentoni AR   
+“Riesgo Climático y Catástrofes en  Córdoba” Vignetta AR 
+ 
+Día 4:  Jueves 07/06/2018 
+Mañana  9:00 hs a 12:00 hs 
+–  “Demandas de productos relacionados con los incendios: De la academia a la gestión”   Di Bella AR 
+–  Practico 1a  Focos de calor Landi AR 
+Tarde   13:30 hs a 18 hs  
+– Practico 1b Productos valor agregado FC Mari AR 
+ 
+Día 5:  Viernes 08/06/2018   
+Mañana 9:00 hs a 12:00 hs 
+– “"Nuevos paradigmas en ecología del fuego conllevan nuevos desafíos para su gestion: la experiencia en el 
+Norte de la Patagonia"” Kitzberger – AR 
+–  Practico 2a  Modelos combustible Bellis AR 
+Tarde   13:30 hs a 18 hs  
+– Practico 2b FIRESITE Argañaras AR 
+ 
+Día 6:  Sabado 09/06/2018   
+Mañana  9:00 hs a 14:00 hs 
+ – Red Latif Sione AR 
+– Practico 3 Areas Quemadas Argañaras-Landi AR 
+ 
+ 
+ 
+  
+Día 7:  Lunes 11/06/2018   
+Mañana  9:00 hs a 12:00 hs 
+– Conferencia Magistral “Resolving future fire management conflicts using multi-criteria decision making” 
+Bradstock  AU 
+– Conferencia Magistral “Analysis of forest fire transmission networks Implications for risk governance” Ager 
+US 
+Tarde   13:30 hs a 18 hs  
+– Trabajo grupal 1: Coordinadores/tutores Landi, Bellis, Argañaras, Frutos, Mari, Lanfri, Lighezzolo 
+16:00 hs a 18:00 hs Reunion bilateral Dr. Bradstock 
+  
+Día 8:  Martes 12/06/2018   
+Mañana  9:00 hs a 12:00 hs 
+– Conferencia Magistral “Analysis of forest fire transmission networks. Implications for risk governance” 
+Ager  US 
+– Conferencia Magistral “Anthropogenic effects on global mean fire size” Chuvieco ES 
+Tarde   13:30 hs a 18 hs  
+– Trabajo grupal 2: Coordinadores/tutores Landi, Bellis, Argañaras, Frutos, Mari, Lanfri, Lighezzolo 
+16:00 hs a 18:00 hs Reunion bilateral Dr. Ager 
+ 
+Día 9:  Miercoles 13/06/2018   
+Mañana  9:00 hs a 12:00 hs 
+– 
+Conferencia Magistral “Integration of physical and human factors in fire danger assessment ” Chuvieco  ES 
+– 
+Conferencia Magistral“Learning to coexist with wildfire”  Bradstock AU 
+ 
+Tarde   13:30 hs a 18 hs  
+– Trabajo grupal 3: Coordinadores/tutores Landi, Bellis, Argañaras, Frutos, Mari, Lanfri, Lighezzolo 
+16:00 hs a 18:00 hs Reunion bilateral Dr. Chuvieco 
+ 
+Día 10:  Jueves 14/06/2018 
+Mañana  9:00 hs a 14:00 hs 
+– 
+Presentación/evaluación de resultados 
+  
+– 
+Coordinadores/tutores Bradstock, Ager, Chuvieco 
+ 
+Día 11:  Viernes 15/06/2018 
+Mañana  9:00 hs a 12:00 hs 
+– 
+Presentación/evaluación de resultados 
+– 
+Coordinadores/tutores Bradstock, Ager, Bellis 
+–  Cierre del Taller   
+ 

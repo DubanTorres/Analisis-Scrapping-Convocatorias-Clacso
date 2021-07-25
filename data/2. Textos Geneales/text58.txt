@@ -1,0 +1,2295 @@
+APRUEBA BASES DEL VII CONCURSO 
+INVESTIGACIÓN 
+TECNOLÓGICA 
+2018, 
+FONDEF DE CONICYT.
+RESOLUCION EXENTO Nº: 4203/2018
+Santiago  09/04/2018
+DOCUMENTO ELECTRONICO
+VISTOS:
+Lo dispuesto en el Decreto Supremo Nº 491/71, Decreto Supremo N° 97/2015, Decreto N° 18/2009, 
+todos del Ministerio de Educación; Ley N° 21.053 de Presupuestos del Sector Público año 2018; la 
+Resolución Nº 1600 de 2008 de Contraloría General de la República, y
+CONSIDERANDO:
+1.- El memorándum TED de FONDEF N° 6540/2018 de 21 de marzo de 2018, mediante el cual se 
+solicita aprobar las bases del VII CONCURSO INVESTIGACIÓN TECNOLÓGICA 2018, FONDEF DE 
+CONICYT, que se adjuntan.
+2.- El certificado del Departamento DTP de memorándum n° 6534/2018 del mencionado Departamento, 
+que señala que el concurso utilizará el sistema SPL Aconcagua Genérico y el Sistema de Evaluación 
+Genérico y las fechas de disponibilidad del sistema.
+3.- El certificado de revisión de bases y convenio de DAF de 7 de febrero de 2018, que no contiene 
+observaciones a las mismas. 
+4.- Las facultades que detenta esta Dirección Ejecutiva en virtud de lo dispuesto en el Decreto Supremo Nº 
+491/71 y en Decreto Supremo N° 97/2015, ambos del Ministerio de Educación.
+RESUELVO:
+1.- APRUÉBASE  las Bases de postulación correspondientes al VII CONCURSO INVESTIGACIÓN 
+TECNOLÓGICA 2018, FONDEF DE CONICYT, cuyo texto es el siguiente:
+INICIO TRANSCRIPCIÓN 
+“BASES DEL VII CONCURSO INVESTIGACIÓN TECNOLÓGICA 2018, FONDEF DE CONICYT
+1
+ANTECEDENTES 
+La investigación aplicada orientada a obtener resultados con impactos potenciales económicos y/o 
+sociales es una actividad con riesgos científicos, tecnológicos y comerciales. Parte de los riesgos 
+científicos y tecnológicos son subsidiados por el Estado a través de la oferta de instrumentos de 
+fomento a la investigación aplicada, que suelen estar orientados al desarrollo de tecnologías de 
+productos o procesos. 
+Page 1 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ Para que se produzca el impacto buscado, es necesario vincular las tecnologías que se desarrollarán, 
+con la demanda para incorporarlas a productos o servicios de entidades interesadas en producirlos y 
+comercializarlos o, en el caso de productos o servicios de interés público, de entidades interesadas en 
+masificarlos. 
+El desarrollo de nuevas tecnologías de productos o procesos pasa por una primera etapa en que se 
+realizan esencialmente actividades de investigación científica; posteriormente se pasan a etapas 
+siguientes en que se combinan, en proporciones cambiantes, actividades de investigación científica 
+con actividades de desarrollo de una serie de prototipos, cada uno más cercano al mercado o a su 
+masificación en la sociedad. Este proceso conlleva un grado de incertidumbre en el logro de 
+resultados, en los plazos y en los costos, los que son muy altos en la primera fase, pero va 
+disminuyendo en las siguientes. Como resultado de esta incertidumbre, las entidades que podrían 
+demandar estas nuevas tecnologías son reacias a participar en su desarrollo. 
+Para resolver el impacto de la incertidumbre de este proceso, un camino usado en otros países es 
+dividir el proceso en etapas de investigación y desarrollo breves. Cada una de estas etapas termina 
+en la generación de resultados intermedios o prototipos de productos o servicios nuevos o mejorados 
+que son los insumos para la etapa siguiente, en la que se generan prototipos más cercanos a su 
+aplicación final. Si los resultados de una etapa no se logran, se discontinúa el proceso acotándose así 
+los riesgos de los desarrolladores. En general, en la primera etapa se trabaja para lograr pruebas de 
+concepto, pilotos o simulaciones computacionales que permitan determinar la viabilidad inicial de la 
+hipótesis científica y su uso y, continuar, en las etapas siguientes, con más I+D para lograr prototipos 
+más cercanos a los productos y servicios propuestos, protegiendo adecuada y oportunamente los 
+resultados de la investigación, y estimando con menor incertidumbre su potencial impacto económico 
+o social.
+2
+INSTRUMENTO IDeA 
+Considerando lo anteriormente expuesto, FONDEF de CONICYT diseñó un instrumento de fomento a 
+la investigación aplicada denominado Investigación y Desarrollo en Acción, el instrumento IDeA. Este 
+instrumento propone articular la vinculación necesaria entre oferentes y demandantes de nuevas 
+tecnologías para producir impactos a nivel económico, tecnológico y social, mediante la reducción 
+progresiva de la incertidumbre, el riesgo y la progresiva incorporación de los demandantes basada en 
+los resultados obtenidos.
+El instrumento IDeA apoyará financieramente proyectos de I+D aplicada con un fuerte componente 
+científico, que en un horizonte breve de tiempo obtengan resultados que puedan convertirse en 
+nuevos productos, procesos o servicios, con una razonable probabilidad de generación de impactos 
+productivos, económicos y sociales. 
+Para mejorar este potencial de impacto, es necesario comenzar apoyando proyectos que cuenten con 
+antecedentes de una posible aplicación de la tecnología o producto o servicio propuesto, para avanzar 
+hacia la validación a escala piloto o prototipo de laboratorio de esta hipótesis de aplicación 
+Es por ello que FONDEF propone un instrumento que apoye financieramente proyectos de 
+investigación y desarrollo que cuenten con antecedentes previos que sustenten una hipótesis de 
+aplicación de una tecnología, producto o servicio, y que con el desarrollo de la investigación logren su 
+validación a través de una prueba de concepto a nivel de prototipo en el plazo de dos años. 
+En la etapa de Investigación Tecnológica, se espera que los proyectos continúen con la 
+investigación aplicada, a partir de un resultado validado a pequeña escala, y avancen el desarrollo 
+hacia la obtención de resultados que se encuentren más próximos a su aplicación productiva o a su 
+implementación en el plano social.
+Las siguientes bases dan cuenta de los requerimientos para el VII Concurso de 
+Investigación Tecnológica, FONDEF/CONICYT 2018.
+3
+DISPOSICIONES GENERALES 
+Page 2 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ 3.1
+MISIÓN DE FONDEF DE CONICYT 
+FONDEF de CONICYT tiene por misión contribuir al aumento de la competitividad de la economía 
+nacional y al mejoramiento de la calidad de vida de los chilenos, promoviendo la vinculación entre 
+entidades de investigación, empresas y otras instituciones en la realización de proyectos de 
+investigación aplicada y de desarrollo tecnológico de interés para el sector productivo u orientados al 
+interés público. 
+3.2
+OBJETIVO DEL INSTRUMENTO IDEA Investigación tecnológica 
+El objetivo de este instrumento es: 
+Apoyar financieramente proyectos de investigación científica y tecnológica que, partiendo 
+de un resultado inicial previamente validado a nivel de prueba de concepto, modelo o 
+prototipo, en condiciones de pequeña escala o laboratorio, puedan llevarlo a un resultado 
+de investigación aplicable evaluado en condiciones más cercanas a la aplicación definitiva
+en el plazo de dos años.
+3.3
+DEFINICIONES 
+a)
+ROL DE CONICYT. La intervención de CONICYT en el presente Concurso será en calidad de 
+INSTITUCIÓN EJECUTORA del Fondo de Fomento al Desarrollo Científico y Tecnológico, en 
+adelante también referido como FONDEF.
+b)
+FONDO DE FOMENTO AL DESARROLLO CIENTÍFICO Y TECNOLÓGICO, FONDEF. Es el 
+mecanismo de financiamiento cuyos objetivos son: (1) el aumento de la competitividad de los 
+sectores productivos del país y el mejoramiento de la calidad de vida de los chilenos mediante 
+la aplicación de la ciencia y la tecnología, (2) el desarrollo de la capacidad científica y 
+tecnológica nacional; y (3) la vinculación entre la capacidad científica y tecnológica nacional y 
+los requerimientos tecnológicos de las empresas y otras entidades chilenas.
+c)
+PROYECTO. Es el proyecto de investigación y desarrollo presentado al VII Concurso de 
+Investigación Tecnológica del Instrumento IDeA del Fondo de Fomento al Desarrollo Científico 
+y Tecnológico FONDEF de CONICYT.
+d)
+PRUEBA DE CONCEPTO (PDC): Es una implementación parcial de un método o una idea, con el propósito de 
+verificar que el concepto o teoría en cuestión es susceptible de ser aplicada en el mundo real y de manera útil. 
+e)
+CONSEJO ASESOR DE FONDEF. Cuerpo colegiado, cuyas funciones generales son asesorar a 
+CONICYT en la definición de políticas científicas y tecnológicas que deban ser aplicadas por el 
+FONDEF y en la ejecución de los recursos que asigna directamente a dicho Fondo la Ley de 
+Presupuestos del Sector Público.
+f)
+REPRESENTANTE LEGAL. Un representante legal es una persona que actúa en nombre de la 
+Institución Beneficiaria o las entidades asociadas, debidamente facultado para ello. Cada 
+institución o entidad deberá definir un representante legal o alguien que lo represente para 
+efectos de comprometer resultados y aportes, así como responsabilizarse del correcto uso del 
+subsidio FONDEF. Tanto el nombramiento como su cambio deberá ser comunicado mediante 
+carta al (o la) Director(a) Ejecutivo(a) de FONDEF. Sus responsabilidades y atribuciones serán 
+establecidas en el respectivo convenio de subsidio.
+g)
+COMITÉ DE ÁREA: Los Comités de Área son órganos asesores de FONDEF, integrados por 
+profesionales de alta calificación, experiencia y reconocimiento en los ámbitos científico, 
+tecnológico y de negocios en un área o sector específico de la economía, que tiene como 
+objetivo contribuir a lograr la misión de FONDEF. 
+Page 3 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ h) DIRECTOR(A) DEL PROYECTO. Es nombrado por el Representante Legal de la beneficiaria. Sus 
+responsabilidades y atribuciones serán establecidas en el respectivo convenio de subsidio. El 
+Director(a) puede tener la calidad de Titular en cuyo caso se le llamará Director(a) o la 
+calidad de Alterno, llamándose Director(a) Alterno(a), quien asumirá el cargo en caso de 
+ausencia o imposibilidad de ejercerlo el titular.
+i)
+COMITÉ DIRECTIVO: Cuerpo colegiado constituido por un representante de la o las 
+instituciones beneficiarias y uno de cada entidad participante en el Proyecto, nombrados por 
+sus respectivos representantes legales. Entre sus funciones está: proponer a sus 
+representados y a CONICYT nuevas orientaciones estratégicas del Proyecto; facilitar la 
+obtención de los recursos comprometidos y, si fuere necesario, comprometer y obtener 
+recursos adicionales y pedir cuentas al Director(a) del Proyecto.
+j)
+INSTITUCIÓN BENEFICIARIA: Institución que se adjudicará los fondos asignados al proyecto. 
+En el caso de los proyectos presentados por más de una institución beneficiaria, una de ellas 
+asumirá el rol de institución principal, cuya función será la de coordinar a las beneficiarias que 
+participen en el proyecto. 
+k) ENTIDAD ASOCIADA. Es la entidad, con o sin fines de lucro, cuyo giro está relacionado con las 
+actividades y resultados del proyecto, que participa en el mismo realizando aportes a su 
+financiamiento, esperando obtener un beneficio de sus resultados. Los aportes pueden ser 
+monetarios, en tiempo profesional o en especies valoradas. Los derechos y deberes de las 
+entidades asociadas al proyecto deberán especificarse en cada proyecto, en particular, la 
+forma de participación de éstas en el desarrollo de la investigación deberá considerarse 
+explícitamente en la postulación; todo lo cual luego se consignará en el Convenio de Subsidio.
+l)
+MANDANTE: En los proyectos de interés público, es una entidad diferente de la beneficiaria, 
+que le otorga pertinencia al Proyecto y tiene la responsabilidad principal por la transferencia 
+de los resultados del Proyecto y por la masificación y/o suministro de los productos o servicios 
+en los que se utilizarán dichos resultados, durante su ejecución y una vez concluido este. El 
+mandante, además, es una entidad asociada al Proyecto. Los derechos y deberes del 
+mandante en su calidad de tal y como entidad asociada al proyecto se establecerán en el 
+convenio de participación a que hace referencia en el punto 4.7 de estas Bases.
+m) APORTES INCREMENTALES. Se entiende por aportes incrementales los nuevos gastos en los 
+que incurran las beneficiarias y las entidades asociadas, especialmente para la ejecución del 
+proyecto, los que podrán consistir en recursos pecuniarios, especies o bienes adquiridos y/o 
+arrendados, o personas contratadas, todo ello específicamente para el proyecto.
+n)
+APORTES NO INCREMENTALES. Consisten en especies o recursos, humanos o materiales, ya 
+existentes en las beneficiarias y entidades asociadas, puestos a disposición del proyecto.
+o)
+CONVENIO DE SUBSIDIO. Corresponde al contrato entre CONICYT y la(s) Institución(es) 
+Beneficiaria(s), que estipula los montos del subsidio y los aportes comprometidos por la(s) 
+beneficiaria(s) para la ejecución del proyecto, además de las responsabilidades, derechos y 
+obligaciones de ambas partes.
+p)
+CONVENIO DE PARTICIPACION. Corresponde al contrato suscrito entre la Institución(es) 
+Beneficiaria(s) y las Entidades Asociadas, en el que se especifican los aportes de las entidades 
+asociadas, así como las responsabilidades, derechos y obligaciones de las partes.
+4
+ALCANCES Y REQUISITOS DE LOS PROYECTOS 
+4.1
+TIPOS DE PROYECTOS 
+En este concurso podrán postular proyectos de dos tipos: 
+Page 4 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ a)
+Proyectos de Investigación Tecnológica Precompetitivos: Proyectos de investigación 
+científica y tecnológica cuyos resultados tienen como propósito generar innovaciones de 
+productos, procesos o servicios con impacto en los mercados.
+b)
+Proyectos de Investigación Tecnológica de Interés Público: Proyectos de investigación 
+científica y tecnológica, cuyos resultados tienen como propósito generar innovaciones de 
+productos, procesos o servicios destinados al beneficio de la comunidad chilena o de 
+sectores importantes de ella y que además no puedan ser apropiables por agentes 
+individuales. Esta condición deberá ser rigurosamente fundamentada en la formulación 
+del proyecto.
+El proyecto deberá definir y obtener un resultado que sea verificable al término del plazo de ejecución 
+del mismo. Las actividades del proyecto y sus resultados deberán tener un impacto ambiental positivo 
+o neutro.
+El proyecto procurará incorporar, bajo diferentes modalidades, la participación de expertos, centros 
+tecnológicos y/o universidades extranjeras con comprobada experiencia en la temática.
+4.2
+CRITERIOS DE ADMISIBILIDAD DE LOS PROYECTOS 
+Los proyectos deberán cumplir todos y cada uno de los criterios de admisibilidad que se indican a 
+continuación:
+a) Ser presentado por una institución elegible.
+b)
+Cumplir con la completitud en su formulación y ser presentado en los formatos establecidos para 
+el presente concurso.
+c) Entregar toda la información y documentación requerida para la formulación.
+d) Considerar monto máximo de subsidio Fondef de $230.000.000.
+e) Considerar un periodo de ejecución máximo de 24 meses.
+f)
+Contar con un Aporte de la(s) Institución(ones) Beneficiaria(s) mínimo del 10% del costo total 
+del proyecto.
+g)
+Presentar una carta de compromiso de la(las) institución(es) beneficiaria(s), firmada por el 
+representante legal, según los formatos establecidos, que considere un aporte mínimo del 10% 
+del costo total del proyecto pudiendo ser incremental o no incremental. 
+h)
+Incorporar al menos dos Entidades Asociadas pertinentes al proyecto que aporten un mínimo del 
+20% del costo total del proyecto pudiendo ser incremental o no incremental, en caso de 
+proyectos de interés público, e incremental para los proyectos del tipo precompetitivo.
+i)
+Incorporar una carta de compromiso para cada entidad asociada pertinente al proyecto, 
+debidamente firmada por su representante legal, que detalle los montos comprometidos, según 
+los formatos establecidos.
+j)
+Presentar una declaración simple del director del proyecto, según los formatos establecidos, que 
+indique si existe vinculación de cualquier miembro del equipo de trabajo del proyecto, con los 
+copropietarios, socios o administradores de las entidades asociadas que participan en el 
+proyecto. En caso de existir algún grado de vinculación, la persona que presente este vínculo no 
+podrá asumir el rol de director o director alterno del proyecto.
+k)
+Presentar una declaración de duplicidad, según los formatos establecidos, indicando si el 
+proyecto está siendo o no financiado por otros fondos públicos.
+l)
+Tener un equipo mínimo de investigación constituido por un director, un director alterno y un 
+investigador, los cuales deben ser individualizados dentro del proyecto. Incluir en la planilla de 
+costos la participación de al menos 2 investigadores que posean el grado de doctor, con una 
+antigüedad máxima de 5 años de obtención, contando desde el año de la convocatoria hasta la 
+obtención del grado. Estos doctores deberán estar asociados al proyecto, con un porcentaje de 
+participación de al menos 50%, durante toda la ejecución del mismo. 
+m)
+Presentar el certificado de ética, bioética u otros, según corresponda; o en su defecto, un 
+documento que certifique la solicitud de dicho certificado ante el comité correspondiente, cuando 
+Page 5 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ el proyecto lo amerite. Ver Anexo: Certificaciones, Autorizaciones, Certificados de Ética/Bioética, 
+Bioseguridad, Permisos y Otros.
+Los proyectos que no cumplan con todas las disposiciones establecidas en las presentes bases, serán 
+declarados fuera de bases y no podrán seguir participando en el presente concurso.
+En el evento que uno o más proyectos sean declarados fuera de bases tal circunstancia será 
+notificada por CONICYT, mediante carta certificada, teniendo los(las) afectados(as) un plazo de 5 días 
+hábiles desde su notificación, para interponer el recurso de reposición, por carta oficial firmada por el 
+representante legal de la(s) Institución(es) beneficiaria(s) contra tal acto administrativo, de acuerdo a 
+lo señalado en la Ley N°19.880 que establece las Bases de los Procedimientos Administrativos que 
+rigen los Actos de los Órganos de la Administración del Estado.
+4.3
+ENTIDADES ELEGIBLES PARA RECIBIR FINANCIAMIENTO DE FONDEF
+Son entidades elegibles para recibir subsidios de FONDEF, personas jurídicas nacionales sin fines de 
+lucro, incluidas universidades e instituciones de educación superior reconocidas por el Estado, 
+institutos tecnológicos y de investigación y desarrollo, tanto públicos como privados, y otras 
+instituciones que realicen actividades científico-tecnológicas y que tengan como objetivo, indicado 
+expresamente en sus estatutos, la realización de actividades de investigación y desarrollo.
+Las entidades que se presentan por primera vez a un concurso de proyectos de investigación y 
+desarrollo de FONDEF, deberán enviar a CONICYT, al menos 30 días corridos antes del cierre del 
+concurso, los siguientes documentos: (i) copia de escritura pública de constitución y sus 
+modificaciones; (ii) acreditación de la personería del representante legal; y (iii) certificado 
+de vigencia de la personalidad jurídica, emitido con una anterioridad no mayor a 30 días 
+corridos respecto de la fecha de postulación.
+Las entidades que hayan participado anteriormente en un concurso de investigación y desarrollo de 
+FONDEF que estén en la nómina publicada en el sitio web: http://www.conicyt.cl/fondef se 
+encuentran eximidas de presentar esta documentación. No obstante, aquellas entidades que hayan 
+sufrido modificación y/o cambio de representante legal y/o de sus facultades, desde la entrega de la 
+documentación solicitada, deben actualizar dicha información con la documentación correspondiente. 
+Las entidades elegibles podrán actuar en forma individual o asociada. En este último caso, deberá 
+indicarse en el formulario de postulación cuál de ellas asumirá el rol de institución principal.
+Quedan excluidos de participar en el presente concurso las autoridades o funcionarios de CONICYT.
+4.4
+MANDANTE EN LOS PROYECTOS DE INVESTIGACIÓN TECNOLÓGICA DE INTERÉS PÚBLICO 
+En los proyectos de interés público deberá participar una entidad, diferente de la o las entidades 
+beneficiarias proponentes, que se desempeñará como “mandante” del proyecto. La función principal 
+del mandante será la de otorgar pertinencia al proyecto, esto es, procurar una amplia y eficaz 
+aplicación de sus resultados en beneficio de sus destinatarios finales, por lo que deberá asumir la 
+responsabilidad principal por la transferencia de los resultados del proyecto, y por la masificación y/o 
+suministro de los productos o servicios en los que se utilizarán dichos resultados, durante su 
+ejecución y una vez concluido este. 
+El mandante, además, es una entidad asociada al proyecto y deberá cumplir con las condiciones 
+generales de las entidades asociadas al proyecto, contempladas en el punto 4.7 de estas Bases. 
+El mandante deberá ser una persona jurídica chilena, pública o privada, sin fines de lucro, o un 
+organismo intergubernamental con sede en Chile, cuya misión esté relacionada con el objetivo 
+principal del proyecto y que tenga la capacidad administrativa y financiera para la masificación y/o 
+suministro de los productos o servicios derivados de los resultados del proyecto. Los documentos que 
+Page 6 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ respalden estas condiciones deberán adjuntarse a la presentación del proyecto. Además, en la 
+formulación del proyecto deberán especificarse las responsabilidades, derechos y obligaciones del 
+mandante, y especificar los aportes financieros del mismo; todo lo cual deberá ser respaldado por una 
+carta de compromiso, suscrita por el representante legal del mandante o la autoridad facultada para 
+estos efectos, que deberá adjuntarse a la presentación del proyecto en el formato que se incluye para 
+tal efecto en el formulario de postulación que se encontrará disponible en la página web 
+http://www.conicyt.cl/fondef/, desde la fecha de convocatoria del concurso.
+Podrán ejercer la función de mandante, entre otras, las instituciones públicas tales como ministerios y 
+servicios del Estado, las municipalidades, las fundaciones o corporaciones y las asociaciones 
+gremiales.
+En caso de ser adjudicado el proyecto, el Mandante deberá respaldar su apoyo mediante la firma de 
+un convenio con la(s) entidad(es) beneficiaria(s), de acuerdo a lo establecido en el punto 4.7 de estas 
+bases.
+4.5
+PLAZO DE LOS PROYECTOS Y SUBSIDIO DE FONDEF/CONICYT
+Las instituciones beneficiarias deberán considerar el menor plazo posible para la ejecución de los 
+proyectos, con el objetivo de adelantar la obtención de los resultados esperados. 
+El plazo máximo de ejecución de los proyectos será de 24 meses y el monto máximo de subsidio a 
+entregar por CONICYT será de hasta 70% del costo total del proyecto, con un límite máximo de 
+230 millones de pesos.
+En el plazo de ejecución señalado no se contabilizarán las eventuales suspensiones que CONICYT 
+pueda disponer en conformidad con las presentes bases, las que en ningún caso podrán exceder, en 
+total, seis meses. En caso de incurrir en suspensiones, se considerará, previa solicitud del proyecto, 
+sumar el periodo de suspensión al plazo originalmente aprobado.
+El proyecto podrá solicitar una única prórroga con una ampliación de plazos que no excederá de los 4 
+meses. El plazo mínimo para el envío de la solicitud de prórroga será 60 días corridos contados antes 
+de la fecha de término de la vigencia del respectivo convenio, la modificación de los plazos de 
+ejecución del proyecto podrá ser aprobado mediante acto administrativo de CONICYT. Los mayores 
+costos que resultaren de esta prórroga deberán ser financiados por las instituciones beneficiarias.
+En cualquier caso, CONICYT se reserva el derecho a reducir las asignaciones presupuestarias 
+solicitadas y la duración de los proyectos, como parte del proceso de evaluación y adjudicación.
+Los fondos asignados por CONICYT serán de carácter no reembolsable, sin perjuicio de la facultad de 
+CONICYT para ordenar la restitución de los fondos entregados en caso de término anticipado, lo 
+anterior de acuerdo a lo dispuesto en las presentes bases y en los convenios respectivos.
+4.6
+APORTES DE INSTITUCIONES BENEFICIARIAS
+Los proyectos deberán ser financiados a lo menos en un 10% de su costo total por las instituciones 
+beneficiarias del subsidio. Esta contribución al financiamiento podrá ser en aportes incrementales y/o 
+no incrementales y deberá quedar respaldado con una carta de compromiso de cada Institución 
+Beneficiaria al momento de la postulación.
+Estos aportes deberán ser confirmados con la firma del (de los) convenio(s) de subsidio entre 
+CONICYT y la(s) institución(es) beneficiaria(s), dentro de los 60 días corridos siguientes a la 
+respectiva notificación por carta certificada de la resolución de adjudicación de los proyectos. 
+Page 7 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ En el caso que el proyecto haya sido presentado por más de una Institución Beneficiaria, se 
+determinará en el respectivo convenio la parte del subsidio total de FONDEF/CONICYT que 
+corresponde a cada una de dichas entidades, así como el monto que se obliga a aportar cada una de 
+dichas entidades.
+Sin perjuicio de lo anterior, durante la ejecución del convenio, CONICYT podrá modificar esa 
+composición de los aportes a solicitud conjunta de los Representantes Legales de las beneficiarias, 
+siempre que el monto total de tales aportes sea igual o superior al comprometido originalmente y se 
+ajuste a estas Bases. Lo anterior se materializará a través de la respectiva modificación de convenio y 
+su posterior aprobación por el correspondiente acto administrativo.
+4.7
+APORTES DE ENTIDADES ASOCIADAS 
+Los proyectos deberán incorporar la participación activa de al menos dos entidades asociadas, que 
+contribuyan a una adecuada ejecución de los proyectos y aseguren la transferencia tecnológica de sus 
+resultados. Esta participación deberá reflejarse en contribuciones a la formulación, gestión, ejecución, 
+transferencia de resultados y a su financiamiento. 
+Estas entidades podrán ser nacionales o extranjeras, debiendo cumplir con los requisitos para su 
+participación en cualquiera de las dos situaciones.
+Los proyectos deberán ser cofinanciados a lo menos en un 20% de su costo total por las empresas o 
+entidades asociadas. Para el caso de los proyectos precompetitivos la totalidad de este aporte deberá 
+ser incremental. Para el caso de los proyectos de interés público el aporte podrá ser incremental y/o 
+no incremental.
+Estos aportes deberán ser respaldados con una carta de compromiso de las entidades asociadas 
+aportantes, que se deberá adjuntar a la propuesta al momento de la postulación.
+Los proyectos deberán especificar las responsabilidades, derechos y obligaciones que adquirirán las 
+distintas partes, así como el aporte de las entidades asociadas, a través de la firma de un convenio de 
+participación, el que deberá ser entregado a CONICYT dentro de los 60 días corridos siguientes a la 
+respectiva notificación por carta certificada de la resolución de adjudicación del proyecto.
+Las entidades asociadas podrán acogerse a la Ley de Incentivo Tributario a la I+D (Ley Nº20.570 que 
+modifica a la Ley Nº20.241), que establece un incentivo tributario a la inversión privada en 
+investigación 
+y 
+desarrollo. 
+Para 
+mayor 
+información 
+consultar 
+el 
+siguiente 
+link: 
+http://www2.corfo.cl/innova/leyid/Paginas/Default.aspx.
+Las entidades asociadas no recibirán subsidios con ocasión de este concurso. Tampoco podrán ser 
+proveedoras de bienes o servicios para el proyecto financiado por el subsidio, salvo que, por tratarse 
+de un proveedor único, la(s) beneficiaria(s) soliciten(n), previa y fundadamente, una excepción a 
+CONICYT, la que podrá aprobar o rechazar.
+4.7.1
+Relación del equipo de investigación con las entidades asociadas
+El director del proyecto deberá presentar, al momento de la postulación, una declaración jurada que 
+indique si existe alguna relación de su persona o alguna persona que forma parte del equipo de 
+trabajo del proyecto, así como sus cónyuges y parientes hasta el segundo grado de consanguinidad y 
+primero de afinidad, con la(s) entidad(es) asociada(s).
+Page 8 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ En caso de existir alguna relación entre un miembro del equipo de trabajo del proyecto con los 
+copropietarios, socios o administradores de las entidades asociadas que participan en el proyecto, 
+esta persona no podrá asumir el rol de director o director alterno del proyecto.
+Sin perjuicio de lo anterior, CONICYT podrá determinar declarar fuera de bases o disponer el término 
+anticipado del Convenio de un proyecto que presente una falsa declaración al respecto, dependiendo 
+que ésta sea detectada durante el periodo de evaluación o durante la ejecución del mismo. 
+4.7.2
+Otro tipo de participación de entidades internacionales o extranjeras
+Los proyectos postulantes al presente concurso deberán aprovechar al máximo las experiencias y 
+capacidades internacionales disponibles en la temática, de manera de aumentar su efectividad y/o 
+acceder a mercados más amplios que el nacional. Para ello, se podrá incorporar a asociados 
+internacionales o extranjeros, vale decir, se promoverá la participación de expertos, universidades, 
+centros tecnológicos, y empresas extranjeras en el desarrollo de los proyectos.
+La participación de entidades internacionales o extranjeras podrá efectuarse a través de su 
+participación como entidad asociada, realizando aportes al financiamiento del proyecto, o bien, a 
+través de acuerdos de cooperación internacional, contratación de expertos internacionales, 
+contratación 
+de 
+servicios, 
+asesorías 
+internacionales, 
+convenios 
+científico-tecnológicos 
+entre 
+instituciones, entre otras formas. 
+4.8
+DUPLICIDAD DE FINANCIAMIENTO DE LOS PROYECTOS
+Para evitar posibles duplicidades de financiamiento, se verificará con otros Fondos del Estado, antes 
+de la adjudicación del concurso, los proyectos que se hayan sido adjudicados en dichos Fondos. 
+En el mismo sentido, los proponentes deberán entregar una declaración jurada simple, al momento 
+de la postulación, que indique si han postulado el proyecto a otro Fondo del Estado o si la propuesta 
+está siendo financiada por algún otro fondo público. 
+Si, en cualquier estado del concurso y/o durante la ejecución de cualquier proyecto, CONICYT detecta 
+la existencia de duplicidades en el financiamiento del mismo, se dispondrá el término anticipado del 
+Convenio.
+Un proyecto podrá ser postulado a más de un Fondo del Estado, en caso de que este sea pertinente a 
+todos ellos y de que haya más de una convocatoria abierta en un mismo período. No obstante, el 
+postulante deberá renunciar a todas las otras postulaciones en el caso de que el proyecto sea 
+adjudicado por CONICYT. Asimismo, si el proyecto es seleccionado para ser financiado por otro 
+Fondo, deberá renunciar de inmediato a su postulación a este concurso. Si ya está siendo financiado 
+por otro Fondo y es adjudicado en el presente con curso, deberá renunciar al financiamiento anterior. 
+4.9
+REGULACIONES ESPECÍFICAS
+Los proyectos deben cumplir con las normativas vigentes y los estándares que regulan la actividad 
+científica en las áreas que trate el proyecto. Para mayor información consultar el siguiente link: 
+http://www.conicyt.cl/fondecyt/2012/10/31/bioetica/
+Proyectos que involucran estudios en/con:
+a) Seres humanos y/o material biológico humano,
+b) Animales, muestras animales y/o material biológico,
+c) Sitios arqueológicos,
+d) Especies protegidas, áreas silvestres protegidas, internación de especies,
+Page 9 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ e) Archivos y/o bases de datos que contengan información sensible.
+En las situaciones antes descritas, se requerirá adjuntar certificaciones y/o autorizaciones específicas, 
+según lo estipulado en el Anexo: Certificaciones, Autorizaciones, Certificados de Ética/Bioética, 
+Bioseguridad, Permisos y Otros de estas bases, cuyo contenido forma parte integral de las bases del 
+presente concurso.
+Se deberá adjuntar en formato PDF no protegido/encriptado copia de las certificaciones aprobatorias 
+y/o autorizaciones que correspondan a la postulación en línea en el plazo de la postulación. No 
+obstante, quienes no dispongan de ellas a la fecha de cierre del concurso, podrán incorporar a la 
+postulación el(los) documento(s) que certifiquen la recepción de la solicitud de dichos certificados por 
+parte del organismo competente, sin embargo, la institución postulante deberá entregar a CONICYT el
+(los) certificado(s) aprobados antes del primer giro, de lo contrario se declarará el término anticipado 
+del Proyecto.
+Se deberán adjuntar las certificaciones de todas las instituciones nacionales e internacionales que 
+participen de la propuesta y que se vean afectadas por realizar alguna de las actividades 
+mencionadas en ella, aplicándose el mismo procedimiento y sanciones señaladas en el párrafo 
+anterior. 
+A los proyectos adjudicados en el presente concurso les serán aplicables, las 
+Responsabilidades y Principios de la Declaración de Singapur sobre la Integridad en la 
+Investigación, cuyo texto se encuentra en documento anexo a las presentes bases y se 
+entienden formar parte integrante de ellas.
+4.10 Conducta inapropiada
+No se permitirá, en ninguna etapa de los concursos de CONICYT –desde la presentación de los 
+proyectos hasta la publicación de los resultados- cualquier conducta inapropiada, tales como 
+proporcionar datos falsos y la copia sustancial de obras ajenas, sin la debida citación del nombre del 
+(de la) autor(a), título de la obra, fecha y medio de publicación. Lo anterior incluye el uso no 
+autorizado de ideas o métodos originales, obtenidos por comunicación privilegiada, tales como 
+proyectos o manuscritos bajo revisión por pares. 
+Se entiende por copia sustancial la coincidencia esencial o fundamental que involucre una copia de 
+frases o párrafos que induzcan al lector a engañarse respecto a las contribuciones del (de la) autor
+(a), sin que el factor determinante sea el número de palabras copiadas ni el lugar del manuscrito 
+donde se encuentra la frase en cuestión (título, introducción, métodos, hipótesis, etc.), sino la 
+impresión equívoca inducida en el lector respecto de la autoría. No se considera para este efecto el 
+uso de frases de uso general que no induzcan a error al lector. 
+En la postulación, todo texto, párrafo o frase textual proveniente de una referencia bibliográfica, 
+deberá señalarse entre comillas o letra cursiva. Toda cita bibliográfica debe estar debidamente 
+identificada en el texto y en el listado de referencias. 
+Los proyectos presentados que incurran en esta falta serán declarados fuera de bases.
+5
+EVALUACIÓN Y SELECCIÓN DE LOS PROYECTOS
+5.1
+CAPÍTULOS Y CRITERIOS DE EVALUACIÓN
+Los proyectos elegibles serán evaluados conforme a tres capítulos. La aplicación de esta evaluación 
+permitirá seleccionar aquellos que serán propuestos para obtener el subsidio de FONDEF/CONICYT.
+Los capítulos a evaluar son:
+1) Antecedentes previos y contenido científico y tecnológico;
+Page 10 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ 2) Capacidades y gestión;
+3) Impacto potencial económico social.
+Cada capítulo será evaluado mediante un conjunto de preguntas:
+Calificación
+Concepto
+Descripción
+0
+No califica
+La 
+propuesta 
+no 
+cumple/aborda 
+el criterio bajo 
+análisis 
+o 
+no 
+puede 
+ser 
+evaluada 
+debido 
+a 
+la 
+falta 
+de 
+antecedentes, 
+o 
+información 
+incompleta.
+1
+Deficiente
+La 
+propuesta 
+no 
+cumple/aborda 
+adecuadamente 
+los aspectos del 
+criterio o hay 
+graves 
+deficiencias 
+inherentes.
+2
+Regular
+La 
+propuesta 
+cumple/aborda 
+en 
+términos 
+generales 
+los 
+aspectos 
+del 
+criterio, 
+pero 
+existen 
+importantes 
+deficiencias.
+3
+Bueno
+La 
+propuesta 
+cumple/aborda 
+correctamente 
+los aspectos del 
+criterio, aunque 
+requiere ciertas 
+mejoras.
+4
+Muy 
+bueno
+La 
+propuesta 
+cumple/aborda 
+los aspectos del 
+criterio de muy 
+buena manera, 
+aun cuando son 
+posibles ciertas 
+mejoras.
+5
+Excelente
+La 
+propuesta 
+cumple/aborda 
+de 
+manera 
+sobresaliente 
+todos 
+los 
+aspectos 
+relevantes 
+del 
+criterio 
+en 
+cuestión. 
+Cualquier 
+debilidad 
+es 
+muy menor
+Nota: Es posible usar medios puntos, pero no fracciones menores. 
+5.1.1
+ANTECEDENTES PREVIOS Y Contenido científico y tecnológico
+Page 11 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ Se evaluará y calificará el proyecto en cuanto a:
+1-        La especificación y nivel de validación del resultado obtenido previamente en cuanto a su 
+aplicación para la obtención de un producto, servicio o proceso nuevo o mejorado. 
+2-        La especificación y nivel de validación del resultado que se logrará en el proyecto. Este 
+resultado debe ser un prototipo o modelo más cercano a su aplicación del mismo producto, servicio o 
+proceso para el que se obtuvo el resultado inicial.
+3-        La relevancia del problema y calidad de la revisión del estado del arte (bibliografía) que 
+incluya una descripción de desarrollos en las principales instituciones mundiales en la temática. La 
+pertinencia de la solución propuesta en función del problema planteado.
+4-        El riesgo investigativo implícito en la hipótesis científica, los objetivos y metodologías para 
+lograr el resultado del proyecto. La coherencia entre estos aspectos en la propuesta.
+5.1.2
+Capacidades y gestión.
+Se evaluará y calificará el proyecto en cuanto a:
+1-
+La programación y la organización de las actividades, y si los resultados propuestos serán 
+alcanzados en los plazos indicados.
+2-
+La coherencia del presupuesto con la propuesta presentada. La claridad y pertinencia en la 
+asignación de recursos a las distintas actividades.
+3-
+La capacidad, experiencia y disponibilidad del director y del equipo de trabajo en las distintas 
+áreas de actividad del proyecto, y la asignación de responsabilidades a profesionales de las 
+entidades de investigación.
+5.1.3
+Impacto potencial económico y social.
+Se evaluará y calificará el proyecto en cuanto a:
+1-        La identificación del producto, proceso o servicio final que se derivará de los resultados del 
+proyecto. Identificación y caracterización del destinatario, o de la población o mercado objetivo. 
+Identificación de las ventajas competitivas del producto, proceso o servicio final y su relevancia para 
+la población o mercado objetivo.
+2-        Identificación del costo-beneficio del proyecto, así como las eventuales externalidades 
+(entendidas como efectos más allá del bienestar de los beneficiarios que utilizan o producen la 
+solución).
+3-        Pertinencia y compromiso del mandante y/u otras entidades asociadas para alcanzar los 
+resultados esperados y para masificar, transferir o implementar los resultados al término del 
+proyecto. 
+4-        La descripción y pertinencia del modelo de negocio o masificación. La estrategia de 
+transferencia planteada para los productos, procesos o servicios desarrollados hacia la población o 
+mercado objetivo identificada. 
+5.1.4
+Otras consideraciones
+Durante el proceso de evaluación, CONICYT podrá solicitar a los proyectos que utilicen o produzcan 
+material que represente riesgo en bioseguridad, según lo establecido en el Manual de Normas de 
+Bioseguridad de CONICYT (versión 2008), la presentación de un certificado y/o informe que indique 
+que las actividades o experimentos que se realizarán durante la ejecución del proyecto, consideran 
+normas que garantizan la seguridad del personal y del ecosistema. Este certificado y/o informe debe 
+ser emitido por un Comité de Bioseguridad o por la autoridad con responsabilidad administrativa de la 
+institución beneficiaria donde se realicen las actividades que pudiesen presentar el riesgo en 
+bioseguridad.
+De manera preliminar se podrá incorporar en la postulación la solicitud para la obtención de dicho 
+certificado, pero la institución postulante deberá entregar a CONICYT el certificado aprobatorio antes 
+del primer giro, si el proyecto es adjudicado.
+Page 12 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ 5.2
+PROCEDIMIENTO DE EVALUACIÓN Y CALIFICACIÓN DE LOS PROYECTOS
+Los proyectos elegibles serán evaluados por evaluadores externos y Comités de áreas, designados al 
+efecto por el Director Ejecutivo de FONDEF. 
+Los proyectos serán evaluados científica y tecnológicamente por dos o más especialistas en la materia 
+de que traten, evaluadores externos, a propuesta del respectivo Comité de Área. 
+Cada Comité será constituido por un mínimo de tres miembros, los que serán convocados en función 
+de las temáticas específicas de los proyectos que se presentan a la convocatoria, de modo de cubrir la 
+mayor cantidad de aspectos específicos presentados en las propuestas postuladas, considerando para 
+ello aspectos tales como: publicaciones, expertise en el área de investigación, protección, 
+transferencia tecnológica, masificación, su conocimiento y relación con la industria, entre otros. La 
+lista de evaluadores será publicada en http://www.conicyt.cl/fondef.
+Los Comités de Área recibirán las evaluaciones externas y emitirán un informe de evaluación para 
+cada proyecto, teniendo como referencia fundamental las evaluaciones externas. Será este informe el 
+que recibirá el Consejo Asesor de FONDEF. 
+La evaluación se realizará sobre la base de una pauta de evaluación que estará disponible en la 
+página web http://www.conicyt.cl/fondef, y que se anexa a las presentes bases y se entiende forma 
+parte integrante de las mismas. Esta misma pauta de evaluación será utilizada por los Comités de 
+Área para la elaboración de su informe de evaluación. Adicionalmente, FONDEF podrá llamar a todos 
+los proyectos postulantes a realizar una presentación presencial de cada propuesta.
+Los evaluadores y el Comité de Área, conforme a los criterios de evaluación establecidos en este 
+capítulo y siguiendo el procedimiento de evaluación antes descrito, asignarán un puntaje promedio 
+entre 0 y 5 a cada capítulo evaluado y proporcionarán los comentarios que justifiquen dicha nota. 
+El puntaje de evaluación final del proyecto, se calculará como el promedio ponderado de los capítulos 
+evaluados, otorgándole una ponderación de: 
+Capítulo 1: 50% 
+Capítulo 2: 15%
+Capítulo 3: 35%
+Un proyecto deberá obtener una calificación de 3 o más puntos en cada uno de los capítulos 
+evaluados para ser recomendado para aprobación.
+Una vez terminado el proceso de evaluación, el (la) Director(a) Ejecutivo de FONDEF presentará los 
+resultados de las evaluaciones, así como el ranking de los proyectos sugeridos para aprobación, 
+construido sobre la base de la calificación agregada, al Consejo Asesor de FONDEF para que formule 
+su propuesta a CONICYT.
+Con base en los antecedentes recibidos y en cumplimiento de sus funciones, el Consejo Asesor 
+recomendará a CONICYT los proyectos que, a su juicio, deban recibir financiamiento. El Consejo 
+podrá considerar criterios adicionales para el análisis conjunto de las propuestas, que permitan 
+consensuar su selección en base a los siguientes criterios de selección:
+(i) La sintonía del proyecto con los objetivos establecidos en la convocatoria, a saber, que la 
+ejecución de las propuestas tenga potencial económico y/o social con resultados obtenidos, evaluados 
+y validados en plazos breves.
+(ii) El desempeño e impacto alcanzados por los proponentes en etapas y/o proyectos anteriores 
+relacionados con la propuesta.
+Page 13 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ (iii) El nivel de compromiso institucional considerado en el proyecto, los recursos de contrapartida 
+incluidos para hacer su implementación más viable y la demostración de capacidades institucionales 
+de gestión instaladas.
+Además, el Consejo Asesor podrá proponer modificaciones o fusiones de proyectos por parte de las 
+instituciones postulantes. También podrá sugerir asignaciones presupuestarias y plazos distintos de 
+los propuestos en los Proyectos respectivos.
+Asimismo, el Consejo Asesor elaborará una lista de espera a partir de los proyectos no adjudicados 
+que tengan los mejores puntajes de evaluación y que cumplan con los puntajes mínimos para ello, de 
+acuerdo a lo anteriormente señalado.
+Se anexa a estas bases el formulario de evaluación.
+6
+ADJUDICACIÓN, REFORMULACIÓN Y SEGUIMIENTO Y CONTROL DE LOS PROYECTOS
+6.1
+ADJUDICACIÓN
+La adjudicación de los proyectos se efectuará mediante resolución de CONICYT, a proposición del 
+Consejo Asesor de FONDEF. 
+La propuesta de este Consejo podrá referirse a la adjudicación parcial o total de un proyecto, 
+modificaciones o fusiones de proyectos, sugerir asignaciones presupuestarias y plazos distintos a los 
+propuestos en el proyecto respectivo y/o contener condiciones de adjudicación que no alteren la 
+naturaleza ni el objeto del mismo; todas ellas podrán consistir en una o varias de las siguientes:
+●
+Requerimiento de información.
+●
+Modificaciones a la estructura de costos.
+●
+Fortalecimiento del equipo de investigación. 
+●
+Inclusión de aspectos considerados importantes para el desarrollo del proyecto.
+En la eventualidad que dos o más postulaciones de un mismo Director o Director Alterno, estén en la 
+nómina de proyectos sugeridos a adjudicar, sólo será adjudicada la propuesta con un puntaje total 
+más alto. No existiendo la posibilidad de que sea reemplazado dicho Director o Director Alterno por 
+parte de la institución beneficiaria.
+CONICYT resolverá el presente concurso en un plazo que no excederá los 120 días hábiles contados 
+desde el cierre de la convocatoria.
+El monto adjudicado por CONICYT corresponderá a una suma máxima que no podrá ser incrementada 
+durante la ejecución del proyecto. Los mayores costos que resultaren en la ejecución del proyecto 
+deberán ser financiados por las instituciones beneficiarias, con recursos propios.
+La Dirección Ejecutiva de FONDEF notificará a cada postulante, mediante carta certificada y correo 
+electrónico señalado al efecto, la resolución de adjudicación, sea o no favorable a su proyecto. En 
+todos los casos se enviará, adicionalmente a dicha notificación, el informe de la evaluación realizada 
+por el Comité y las condiciones de adjudicación del mismo, cuando corresponda.
+Las instituciones postulantes tendrán un plazo de 5 días hábiles desde la notificación de la resolución 
+de adjudicación del concurso, para interponer el recurso de reposición, por carta oficial firmada por su 
+representante legal, contra tal acto administrativo, de acuerdo a lo señalado en la Ley N°19.880 que 
+establece las Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la 
+Administración del Estado. CONICYT resolverá el recurso administrativo en un plazo que no exceda de 
+30 días hábiles contados desde la interposición del recurso.
+Page 14 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ 6.2
+LISTA DE ESPERA
+La lista de espera se podrá hacer efectiva en los siguientes casos: renuncia de alguna de la(s) 
+beneficiaria(s), que alguna de ella(s) se encuentre imposibilitada para ejecutar el proyecto, que la(s) 
+beneficiaria(s) no suscriba el convenio dentro de los plazos establecidos en las bases, o que exista 
+disponibilidad presupuestaria en el período con recursos propios o con otras fuentes de 
+financiamiento, materializándose a través de un acto administrativo. 
+La adjudicación de proyectos en lista de espera aprobada por el Consejo Asesor de FONDEF, se 
+realizará en orden descendente partiendo por el primero de la mencionada lista. El plazo máximo para 
+la vigencia de esta lista de espera será de 90 días corridos contados desde la fecha de la última 
+notificación de la resolución de adjudicación del concurso. 
+6.3
+FIRMA DE CONVENIOS
+Dentro de los 60 días corridos siguientes a la respectiva notificación por carta certificada de la 
+resolución de adjudicación de los proyectos, deberán ser suscrito el(los) convenio(s) de subsidio entre 
+CONICYT y la(s) institución(es) beneficiaria(s). En estos convenios se establecerán expresamente los 
+derechos y obligaciones de las partes, la duración del proyecto y todas aquellas cláusulas que 
+resguarden el cumplimiento de los fines de FONDEF, en conformidad a la normativa vigente. Además, 
+en ellos se especificará el derecho de CONICYT para realizar, a través de FONDEF, inspecciones sobre 
+el avance de los proyectos.
+Si el convenio de subsidio firmado por la(s) beneficiaria(s) no fue recibido en CONICYT dentro de los 
+plazos mencionados, se entenderá que la(s) beneficiaria(s) renuncia(n) al subsidio y se dejará sin 
+efecto el acto adjudicatorio respecto de ésta(s), y CONICYT notificará su adjudicación al siguiente 
+proyecto de la lista de espera generada por el Consejo Asesor. 
+Las entidades que hayan participado de algún proyecto financiado previamente por FONDEF, cuya 
+ejecución haya terminado en plazos superiores a un año, contados hasta la fecha de cierre de este 
+concurso, y cuyo Informe Final no haya sido entregado y/o que tengan deudas por reintegros de 
+fondos a CONICYT y/o rendiciones de cuenta pendientes, sólo podrán suscribir el respectivo convenio 
+si dentro de los 50 días corridos siguientes a la notificación por carta de la resolución de adjudicación 
+de los proyectos hubieren solucionado tales situaciones. En el evento que así no ocurriera, se dejará 
+sin efecto la adjudicación en lo que respecta a ellas, y CONICYT notificará su adjudicación al siguiente 
+proyecto de la lista de espera generada por el Consejo Asesor. 
+Las instituciones beneficiarias, previamente a la firma del convenio, deberán enviar un certificado de 
+inscripción como receptoras en el Registro de Colaboradores del Estado y Municipales; esto es un 
+requisito obligatorio para que CONICYT pueda realizar transferencias de recursos, según lo 
+establecido en la ley N°19.862 del 08/02/2003, cuando corresponda.
+6.4
+INICIO DE LOS PROYECTOS
+Dentro de los 60 días corridos siguientes a la respectiva notificación por carta certificada de la 
+resolución de adjudicación de los proyectos, estos deberán 
+-
+Presentar los certificados de ética, bioética, bioseguridad, según corresponda.
+-
+Presentar los certificados de grado de los dos doctores que participarán del proyecto en su 
+ejecución. 
+-
+Responder a las Exigencias del proceso de Evaluación y Adjudicación. 
+-
+Enviar a FONDEF los convenios de participación suscritos con las entidades asociadas y 
+empresas, si corresponde, en los cuales se estipulen las obligaciones y derechos que asumen 
+para la realización del proyecto, incluyendo al menos el monto, la modalidad de sus aportes y 
+su participación en la propiedad de los resultados y en los negocios o acciones de 
+masificaciones correspondientes.
+7
+SEGUIMIENTO Y CONTROL DE LOS PROYECTOS
+Page 15 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ 7.1
+SEGUIMIENTO Y CONTROL TECNICO
+El Seguimiento y Control de los proyectos se realizará mediante la plataforma computacional de 
+seguimiento y control, comenzará al momento de definir la fecha de inicio del proyecto, 
+entendiéndose por tal la fecha de notificación, realizada por la Dirección Ejecutiva de FONDEF, por 
+carta al Representante Legal, de la resolución exenta de CONICYT que aprueba el convenio suscrito 
+entre CONICYT y la(s) institución(es) beneficiaria(s) y hasta 30 días corridos desde esta. Sin perjuicio 
+de lo anterior, un proyecto podrá solicitar a CONICYT una fecha de inicio posterior a la mencionada, 
+fundamentando rigurosamente dicha solicitud.
+Las instituciones beneficiarias deberán dar las facilidades necesarias para realizar el seguimiento y 
+control de los proyectos adjudicados durante su vigencia, conforme a los procedimientos establecidos 
+por CONICYT, comunicados a las beneficiarias a través de su plataforma computacional de 
+Seguimiento y Control.
+El proceso de Seguimiento y Control considerará aspectos tales como: visitas a terreno, logro de hitos 
+de avance y de resultados; vigencia científica-tecnológica; vigencia económico-social; efectiva 
+participación y realización de aportes de las entidades asociadas al proyecto; y documentación 
+financiera y contable del uso de recursos. 
+El(la) Director(a) del Proyecto entregará a CONICYT un informe de avance técnico con contenido 
+científico-tecnológico y de gestión al cumplirse la mitad del período de ejecución del proyecto o 
+cuando así lo defina la Dirección Ejecutiva de FONDEF. La aprobación de dichos informes será 
+requisito para la continuidad del proyecto. El incumplimiento de la entrega de los informes o su 
+rechazo por CONICYT será causal de suspensión de la transferencia de los aportes CONICYT. Durante 
+su período de ejecución el proyecto deberá realizar al menos una presentación de avance ante el 
+respectivo Comité de Área de FONDEF.
+Las modificaciones de metodología o cambios en el Equipo de Investigación que se considere 
+oportuno formular a los proyectos para lograr los objetivos planteados, y que no afecten el objetivo 
+general del proyecto ni su vigencia científica-tecnológica o económica-social, requerirán la revisión y 
+autorización previa de CONICYT, quien, a su vez, podrá aprobarlos o no, y así como, en el caso de 
+cambio en el Equipo de Investigadores, podrá solicitar la sustitución a los reemplazantes si a su juicio 
+no son idóneos. En caso de rechazo de las modificaciones solicitadas, se suspenderá el proyecto y se 
+podrá poner término anticipado al proyecto.
+CONICYT podrá suspender la ejecución de un proyecto, así como los desembolsos del subsidio a la 
+beneficiaria, y el reconocimiento de gastos realizados con dichos subsidios, en las siguientes 
+circunstancias:
+a)
+Si constatare incumplimiento de las obligaciones contractuales por parte de la beneficiaria.
+b)
+Si el Proyecto, a juicio de CONICYT, no se desarrollare satisfactoriamente, hubiere perdido su 
+relevancia o vigencia, o si estima que el Proyecto no alcanzará los resultados esperados en los plazos 
+estimados.
+c)
+Si no se aceptase por parte de CONICYT un cambio en el equipo de investigación o metodología 
+del proyecto.
+El Representante Legal podrá proponer a CONICYT la suspensión de un proyecto y sus desembolsos 
+en las circunstancias siguientes:
+a)    Si estima que el Proyecto no alcanzará los resultados esperados.
+b)    Si estima que el Proyecto no podrá ejecutarse dentro de parámetros razonables.
+c)    Si estima que el Proyecto ha perdido vigencia.
+d)    Cuando la beneficiaria no pudiere enterar la parte de sus aportes. 
+CONICYT se pronunciará fundadamente sobre esta solicitud de suspensión en un plazo máximo de 60 
+días corridos de recibida. 
+Page 16 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ CONICYT establecerá las condiciones para levantar la suspensión y el plazo para cumplirlas y lo 
+comunicará por carta al Representante Legal. La suspensión se hará efectiva a partir de la fecha de 
+notificación de esta carta y el plazo para cumplir las condiciones se contará desde esa fecha. 
+CONICYT podrá fundadamente prorrogar este plazo a solicitud del Representante Legal.
+Las suspensiones a que se refieren los párrafos anteriores no se contabilizarán en el plazo del 
+respectivo proyecto, siempre que, ellas no excedan, en total, de seis meses adicionales al plazo 
+originalmente aprobado.
+Si transcurrido el plazo las acciones establecidas para la suspensión no han sido implementadas a 
+conformidad de CONICYT, se podrá determinar el término anticipado del proyecto, el cual será 
+comunicado por la Dirección Ejecutiva de FONDEF, por carta certificada al Representante Legal, previa 
+dictación del acto administrativo que declare el mencionado término anticipado. 
+7.2
+SEGUIMIENTO Y CONTROL FINANCIERO
+CONICYT es responsable del Control y Fiscalización de los recursos transferidos.
+Los fondos transferidos a las beneficiarias se regirán, en lo relativo a sus rendiciones, por la 
+Resolución N°30/2015 de la Contraloría General de la Republica que fija Normas de Procedimiento 
+sobre rendición de cuentas o las normas que la reemplacen en el futuro.
+Las normas e indicaciones sobre los procesos de rendición de cuentas se establecerán en el 
+correspondiente manual de rendición de cuentas del concurso respectivo.
+Si, una vez terminado el proyecto, no hubieren sido enterados todos los aportes comprometidos por 
+la(s) beneficiaria(s), CONICYT solo reconocerá como subsidio al proyecto un monto proporcional al de 
+los aportes efectivamente enterados y respaldados en relación a los comprometidos en el convenio de 
+subsidio. La(s) beneficiaria(s) deberá(n) reintegrar, dentro de 30 días, a CONICYT los saldos 
+desembolsados que excedan esta proporción.
+Para el cierre financiero del proyecto, éste debe haber rendido y gastado la totalidad de los fondos 
+entregados por CONICYT, es decir, el 100% de los recursos transferidos, o en su defecto haber 
+reintegrado los fondos no gastados y/o rechazados.  
+7.2.1
+ÍTEMS FINANCIABLES POR FONDEF
+Los proyectos podrán incluir cualquiera de los ítems descritos a continuación. CONICYT revisará la 
+pertinencia de los ítems y montos considerados por los proyectos, los que deberán ajustarse 
+estrictamente a los requerimientos de los proyectos aprobados.
+a) GASTOS EN PERSONAL: (Honorarios e Incentivos) El personal del proyecto, deberá contar con un 
+contrato dando cumplimiento a la normativa laboral y previsional que fuere aplicable. 
+Se 
+financiarán 
+todos 
+los 
+derechos 
+laborales 
+correspondientes, 
+con 
+excepción 
+de 
+las 
+indemnizaciones legales o convencionales por término de contrato.
+El monto total máximo de incentivos no deberá exceder el aporte institucional total de 
+remuneraciones equivalentes.
+b) SUBCONTRATOS: Debe considerarse la contratación de personas jurídicas para la realización de 
+servicios requeridos por el proyecto, que no estén incorporados en otros ítems de gastos. Como 
+principio ordenador, debe subcontratarse aquello que se puede obtener en mejores calidades, 
+costos o plazos que los realizados en forma propia.
+c) CAPACITACIÓN: incluye todos los gastos necesarios para la capacitación del personal del proyecto, 
+cualquiera sea su condición contractual, en el aprendizaje de conocimientos o técnicas específicas 
+necesarias para el desarrollo de las actividades del proyecto y que no den origen a grados 
+académicos.
+Page 17 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ d)
+EQUIPOS: Directamente necesarios para el desarrollo del proyecto; incluye los gastos de 
+instalación y mantenimiento durante el período de desarrollo del proyecto. 
+e) SOFTWARE: Directamente requerido para el proyecto. 
+f) MATERIAL FUNGIBLE: Exclusiva y directamente para la realización del proyecto.
+g) PASAJES: Sólo se financiarán pasajes en clase económica, de viajes realizados por el personal del 
+proyecto en el desempeño de actividades necesarias para el éxito de éste y con el objetivo de 
+mejorar las habilidades exclusivamente para el trabajo y tema del proyecto.
+h) VIÁTICOS: Sólo se financiarán viáticos por viajes realizados por el personal del proyecto en el 
+desempeño de actividades necesarias para el éxito de éste y con el objetivo de mejorar las 
+habilidades exclusivamente para el trabajo y tema del proyecto.
+i)
+SEMINARIOS, PUBLICACIONES Y DIFUSIÓN: En este ítem se puede financiar total o parcialmente 
+todos los gastos relacionados a seminarios, publicaciones y difusión de las actividades que 
+aumenten el impacto de sus resultados. Los seminarios que sean totalmente financiados con 
+recursos FONDEF deberán ser gratuitos para los participantes, por lo que no se podrá hacer ningún 
+cobro al respecto y se debe informar al personal de FONDEF de los seminarios realizados en el 
+marco de los proyectos. Todo ingreso que se genere por la realización de eventos parcialmente 
+financiado por FONDEF, será de uso exclusivo de los proyectos.
+j)
+PROPIEDAD INTELECTUAL E INDUSTRIAL: Se financiarán los gastos asociados a la obtención de 
+derechos sobre la propiedad intelectual e industrial en Chile y/o en el extranjero.
+k) INFRAESTRUCTURA: Se financiarán los gastos asociados al acondicionamiento del espacio físico 
+preexistente. No se financiarán nuevas construcciones.
+l)
+GASTOS GENERALES DEL PROYECTO. Se financiará gastos en servicios básicos, gastos de 
+locomoción, gastos por imprevistos, difusión, retribución monetaria o en especies a personas que 
+hayan sido sujetos de estudios o pruebas enmarcadas en las actividades del proyecto según 
+corresponda, movilización y otras partidas de gastos generales del proyecto. En todo caso los 
+gastos generales no podrán exceder el 8% del subsidio de FONDEF al proyecto (suma de los ítems 
+“Gastos en Personal” hasta “Infraestructura”, ambos inclusive).
+m) GASTOS DE ADMINISTRACIÓN SUPERIOR: gastos efectuados por la(s) institución(es) beneficiaria
+(s) destinados a fortalecer las capacidades institucionales necesarias para asegurar el desarrollo y 
+ejecución de este proyecto. Este gasto no podrá ser superior al 12% del subsidio de FONDEF al 
+proyecto (suma de ítems “Gastos en Personal” hasta “Gastos generales del Proyecto”).
+Los proyectos no podrán utilizar el subsidio transferido por CONICYT en inversiones de cualquier tipo 
+de instrumento financiero de renta fija o variable, de corto o largo plazo y con o sin riesgo financiero, 
+como, por ejemplo: fondos mutuos, acciones, depósitos a plazo, bonos y otros similares. Se 
+encuentra especialmente excluida la imputación y/o utilización de los fondos del subsidio al pago de 
+indemnizaciones de cualquier especie y, en especial, las derivadas de las relaciones laborales.
+7.2.2
+CONTRATACIÓN DE OBRAS Y ADQUISICIÓN DE BIENES Y SERVICIOS
+Tratándose de beneficiarias que sean instituciones públicas, estas realizarán la contratación de 
+ejecución de obras y servicios, así como la adquisición de equipos, materiales y mobiliario, con cargo 
+a los recursos del proyecto, de conformidad a las disposiciones legales vigentes.
+En el caso de instituciones privadas, la contratación de las obras y servicios, así como la adquisición 
+de equipos, materiales y mobiliario con cargo a los recursos del proyecto, se realizarán directamente 
+por las instituciones beneficiarias de acuerdo a las normas e indicaciones detalladas en el 
+correspondiente manual de rendición de cuentas.
+En todas aquellas actividades del proyecto donde exista oferta de mercado (productos, equipos, 
+servicios tecnológicos), deberá aprovecharse al máximo esta posibilidad, de modo que sea 
+conveniente en términos de calidad, costos y plazos. Las beneficiarias deben adquirir, en vez de 
+desarrollar, toda tecnología necesaria para su éxito cuando ésta esté disponible en el mercado, a 
+menos que previamente se entregue la justificación correspondiente. Esta adquisición deberá hacerse 
+a través del mecanismo que resulte más conveniente al proyecto (arriendo, compra, donación, 
+leasing, préstamo, servicio, etc.).
+Estará prohibida a los beneficiarios la inversión de los fondos transferidos por CONICYT en cualquier 
+tipo de instrumento financiero de renta fija o variable, de corto o largo plazo (fondos mutuos, 
+acciones, depósitos a plazo, bonos, etc.).
+Page 18 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ También está prohibido el pago de indemnizaciones de cualquier tipo con fondos del subsidio.
+7.2.3
+MANTENIMIENTO DE EQUIPOS Y SEGUROS
+En los convenios de subsidio, las instituciones beneficiarias deberán comprometerse a que las obras y 
+equipos financiados con recursos de FONDEF/CONICYT sean operados y mantenidos de acuerdo con 
+las normas técnicas generalmente aceptadas y contarán con personal adecuado y con los materiales 
+necesarios para su funcionamiento eficiente.
+La beneficiaria tomará seguros contra robo, incendio y daños respecto a los equipos que utilice para 
+ejecutar el Proyecto, y pagará con puntualidad las primas correspondientes, respondiendo de culpa 
+levísima por toda negligencia en que incurra respecto de esta obligación.
+En aquellos casos que, habiendo ocurrido la pérdida total o parcial del equipamiento destinado al 
+Proyecto, mediante el seguro contratado, en definitiva, no se responda de la reposición total o parcial 
+de dicho equipamiento, cualquiera que fuere la causal señalada por el asegurador, responderá 
+directamente la beneficiaria de la reposición.
+7.2.4
+DESEMBOLSOS
+Los recursos transferidos a las adjudicatarias se regirán, en lo que corresponda, por la Resolución N°
+30/2015, de la Contraloría General de la República, que fija Normas de Procedimiento sobre rendición 
+de cuentas o las normas que la reemplacen en el futuro, y las beneficiarias deberán dar cumplimiento 
+a lo dispuesto en el Decreto Supremo de Hacienda Nº375, del 19 de mayo de 2003, que fija el 
+Reglamento de la Ley Nº19.862, del Registro de las Personas Jurídicas Receptoras de Fondos 
+Públicos, cuando corresponda.
+Los recursos se asignan en moneda nacional no reajustable y se transferirán en al menos una cuota. 
+El primer desembolso se realizará una vez que se encuentre totalmente tramitado el acto 
+administrativo que apruebe el convenio respectivo entre CONICYT y la(s) beneficiaria(s). Tratándose 
+de entidades privadas, se requiere, además, que estas caucionen el 100% de tal transferencia, de 
+conformidad a lo establecido en la sección GARANTIAS de las presentes bases. 
+La(s) institución(es) beneficiaria(s) deberá haber entregado a CONICYT el(los) certificado(s) de ética, 
+bioética y/o bioseguridad, según corresponda, aprobados antes del primer giro, de lo contrario se 
+declarará el término anticipado del Proyecto.
+La continuidad en la entrega de desembolsos estará sujeta a la obtención de los hitos de avance o 
+resultados del proyecto, definidos para estos efectos por CONICYT en el sistema de seguimiento y 
+control de proyectos, hitos que se establecen en la postulación y que pueden ser modificados en la 
+etapa de reformulación del proyecto y quedarán definidos en el sistema de seguimiento y control de 
+proyectos de FONDEF. 
+La entrega de los desembolsos estará condicionada por: a) la existencia y disponibilidad de recursos 
+en el presupuesto de FONDEF; b) la entrega oportuna por parte de la beneficiaria de los recursos 
+propios y de las asociadas comprometidos para el Proyecto; c) la entrega oportuna de un reporte de 
+avance; (d) se hayan entregado las respectivas cauciones, de acuerdo a lo establecido en las bases y 
+el presente convenio y e) Las beneficiarias públicas y privadas no deben tener rendiciones de cuentas 
+pendientes con CONICYT.
+CONICYT podrá suspender temporalmente un desembolso u otorgar un desembolso parcial, si los 
+recursos propios de la beneficiaria y de las entidades asociadas comprometidos para el Proyecto no se 
+hubieren enterado o si considerare que el avance del Proyecto no es aceptable.
+Page 19 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ En el evento que un mismo documento de gasto fuese rendido duplicadamente, CONICYT quedará 
+facultada para evaluar el alcance de dicha operación, de cuyo análisis podría establecer el término 
+anticipado del proyecto, previa calificación del mérito del incumplimiento en que se ha incurrido.
+Los beneficiarios privados, deberán destinar una cuenta bancaria exclusiva para manejar los 
+recursos financieros del proyecto, en la cual depositará tanto los aportes recibidos de CONICYT, como 
+los recursos pecuniarios que la institución aporte al proyecto, cuando corresponda.
+Los beneficiarios Instituciones Públicas, deberán destinar una cuenta bancaria donde CONICYT 
+deposite los aportes del proyecto.
+En el caso que el proyecto haya sido presentado por más de una beneficiaria, en casos debidamente 
+justificados, CONICYT podrá modificar la composición del subsidio otorgado a solicitud conjunta de los 
+Representantes Legales de las beneficiarias.
+En el caso que el proyecto haya sido suspendido en su ejecución, CONICYT suspenderá los 
+desembolsos del subsidio a la beneficiaria, así como el reconocimiento de gastos realizados con 
+dichos subsidios. 
+Decidido el término anticipado del Proyecto, sólo son aceptables los gastos realizados hasta la fecha 
+de término anticipado del mismo comunicada por el Director Ejecutivo de FONDEF. Una vez rendidos 
+estos gastos y aprobados por CONICYT, la diferencia entre el subsidio desembolsado y el total de 
+gastos rendidos y aprobados deben ser devueltos a CONICYT, dentro del plazo de 30 días.
+En el evento que CONICYT constatare por parte de la beneficiaria algún incumplimiento negligente de 
+sus obligaciones dispuestas en este Convenio, resolverá mediante resolución fundada que la 
+beneficiaria, si es una entidad pública, deberá restituir la totalidad del subsidio desembolsado; si es 
+una entidad no pública, CONICYT procederá a la ejecución de la garantía vigente. 
+En caso de fuerza mayor o caso fortuito que hiciesen o hicieran imposible la continuación del 
+proyecto, CONICYT exigirá la devolución de los fondos asignados no ejecutados. En el evento que un 
+mismo documento de gasto fuese rendido en más de un Programa, CONICYT quedará facultada para 
+evaluar el alcance de dicha operación, de cuyo análisis podría establecer el término anticipado del 
+proyecto, previa calificación del mérito del incumplimiento en que se ha incurrido.
+El Representante Legal de la institución beneficiaria podrá solicitar el término anticipado del Convenio, 
+aplicándose igualdad de condiciones para la rendición de cuentas y reintegros previamente 
+establecidos.
+7.2.5
+GARANTÍAS
+Las instituciones beneficiarias privadas deberán entregar, con anterioridad a cada desembolso, 
+garantías por las transferencias que otorgue CONICYT para el desarrollo del proyecto. Los 
+documentos en garantía deben tener vigencia de a lo menos 150 (ciento cincuenta) días adicionales a 
+la fecha exigible de la rendición de cuentas por cada desembolso o cuota respecto del período a cubrir 
+con ella, y en caso que sea la última cuota a desembolsar debe ser garantizado por un plazo no 
+menor a seis meses (180 días) a contar de la fecha de finalización del proyecto. Estas garantías 
+deberán extenderse por el monto equivalente a cada entrega de recursos efectuada por CONICYT al 
+proyecto.
+A las beneficiarias públicas no les será exigible la entrega de garantías por el buen uso de los 
+recursos desembolsados, en virtud de lo establecido en el dictamen N°15.978/10 de Contraloría 
+General de la República.
+Las cauciones podrán ser boletas de garantía bancaria pagaderas a la vista, vales vista endosables o 
+pólizas de seguro de ejecución inmediata.
+Page 20 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ El costo financiero que implique obtener la garantía podrá ser cargado al ítem de gastos generales del 
+Proyecto.
+8
+PROTECCIÓN DE LA PROPIEDAD INTELECTUAL E INDUSTRIAL Y DE LA CONFIDENCIALIDAD
+La propiedad intelectual de los inventos, innovaciones tecnológicas, procedimientos, o de cualquier 
+otro resultado que pudiere resultar del proyecto, que caiga dentro del ámbito de aplicación de la Ley 
+N°19.039 de Propiedad Industrial o de la Ley N°19.342 que Regula los Derechos de Nuevas 
+Variedades Vegetales, o en cualquier otra que rija estas materias en el futuro, pertenecerá a la(s) 
+institución(es) beneficiaria(s). 
+La(s) institución(es) beneficiaria(s) podrá disponer libremente de dichos derechos y/o de los 
+beneficios comerciales que los resultados produzcan, con el personal del proyecto que haya 
+participado efectivamente en el hallazgo correspondiente, acorde con su normativa interna, con 
+entidades asociadas, o con quien y como lo estime conveniente. 
+Será responsabilidad exclusiva de la beneficiaria, directamente o a través de terceros, según 
+corresponda, realizar todas las gestiones ante los organismos competentes para resguardar 
+apropiadamente la propiedad intelectual e industrial producto de la ejecución del proyecto. No le 
+corresponderá a CONICYT realizar gestión alguna en ese ámbito. 
+No obstante, todo lo anterior, en los casos de proyectos de interés público, las instituciones 
+beneficiarias, y las entidades asociadas se obligan a poner a disposición de otras organizaciones u 
+organismos sin fines de lucro orientados al interés público, sean estos públicos o privados, el 
+conocimiento desarrollado y protegido intelectualmente, sin costo para su utilización en productos o 
+servicios de interés público para Chile o con fines humanitarios. 
+La divulgación de los resultados alcanzados por el proyecto deberá hacerse resguardando la 
+confidencialidad que se establezca en el convenio y, en todo caso, no podrá atentar contra la eventual 
+obtención de derechos sobre la propiedad intelectual generada por el proyecto. 
+La beneficiaria deberá adoptar las medidas necesarias para que el personal que participe en el 
+proyecto no comunique o transfiera información o resultados sin su autorización previa y expresa, y 
+deberá tomar las medidas adicionales que procedan para resguardar la información con dichos fines, 
+tales como convenios de confidencialidad con terceros que tengan acceso al proyecto y resguardos 
+físicos y/o informáticos.
+CONICYT no asume responsabilidad alguna por las infracciones a la propiedad industrial o intelectual 
+en que el beneficiario pudiere incurrir. Éste se obliga a realizar cuanto sea necesario para dejar a 
+CONICYT al margen y a salvo de las reclamaciones y demandas que por dichas infracciones se 
+pudieren generarse en su contra, incluso a procurarse a su exclusivo cargo las patentes, licencias o 
+derechos que fueren necesarios al efecto, y a indemnizarle de todos los daños y perjuicios que 
+pudiere afectarle, directa o indirectamente, como consecuencia de tales reclamaciones o demandas.
+La propiedad intelectual de los libros, folletos, artículos, publicaciones, fotografías, programas 
+computacionales, compilaciones de datos, propuestas o de cualquier otra obra protegida por la Ley N°
+17.336 de Derecho de Autor u otra que rija estas materias en el futuro, pertenecerá al autor de la 
+misma o a la institución beneficiaria, según corresponda de acuerdo a la ley. La institución 
+beneficiaria y los autores podrán disponer libremente de los derechos que recaen sobre sus obras, 
+con quien y como lo estimen conveniente.
+El titular de los derechos que resulten del proyecto deberá hacer mención explícita a CONICYT en la 
+obra e informarle sobre dicha inclusión para su seguimiento posterior.
+Page 21 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ En cualquier caso, CONICYT podrá divulgar libremente los resultados obtenidos e incluidos en el 
+informe final del Proyecto a partir de un plazo de dos años contados desde la fecha de término 
+establecida en este Convenio o prorrogada por decisión de CONICYT.
+Posterior a los cinco años de aprobado el informe final, se procederá su ingreso al Archivo Nacional, 
+según lo establecido en el DFL 5200 artículo 14.
+9
+TÉRMINO DE LOS PROYECTOS
+Sin perjuicio de la evaluación que realice CONICYT, una vez transcurrido el periodo de ejecución del 
+proyecto, el Director del Proyecto deberá presentar dentro de los 60 días corridos al término del 
+proyecto un Informe Final que recoja los logros alcanzados.
+A partir de la fecha del término del proyecto, y durante un periodo de hasta cinco años, la beneficiaria 
+deberá proporcionar toda la información que CONICYT le solicite, sea directamente o a través de 
+terceros, relativa a los resultados y a los impactos del proyecto, sin perjuicio de los resguardos de 
+confidencialidad establecidos la sección: PROTECCIÓN DE LA PROPIEDAD INTELECTUAL E 
+INDUSTRIAL Y DE LA CONFIDENCIALIDAD de estas Bases.
+10 RECONOCIMIENTO, DIFUSIÓN y DIVULGACIÓN
+Toda producción científica que derive de un proyecto adjudicado en este concurso —publicaciones, 
+artículos, libros, capítulos de libros, patentes, ponencias u otros— deberá contener los 
+reconocimientos a esta institución por el financiamiento otorgado, utilizando el siguiente formato: 
+“CONICYT + FONDEF/ VII CONCURSO de Investigación Tecnológica, FONDEF/CONICYT 
+2018+ Folio (Cod. Proyecto)”.
+En todo evento público de difusión o en toda difusión a través de los medios de comunicación, deberá 
+mencionarse expresamente a FONDEF de CONICYT como fuente de financiamiento del proyecto e 
+incluir el logo oficial del Fondo. En particular, toda vez que un proyecto disponga de una página Web, 
+se deberá incluir en ella el logo y un vínculo al sitio web de CONICYT (http://www.conicyt.cl/fondef). 
+Todos los equipos que hayan sido adquiridos con recursos del subsidio deberán llevar el logo de 
+FONDEF de CONICYT.
+Todo proyecto, durante su ejecución o inmediatamente después de terminada esta, deberá llevar a 
+cabo un evento de cierre en el que dé a conocer a las comunidades científica, empresarial, regional y 
+nacional los principales resultados del proyecto, notificando previamente a FONDEF sobre la fecha y el 
+lugar del evento. El costo de este evento podrá ser cargado al subsidio de FONDEF si este tiene lugar 
+hasta cuatro meses después de la fecha de término del proyecto. 
+11 FORMA DE PRESENTACIÓN DE LOS PROYECTOS
+11.1 PLAZOS Y LUGAR
+La formulación de los proyectos se hará utilizando el sistema vigente de postulación de proyectos vía 
+internet y que se encuentra en el sitio web: http://www.conicyt.cl/fondef/. 
+Los proyectos deberán ser presentados y enviados por la plataforma de postulación recién señalada, 
+dentro del plazo señalado en la publicación de la convocatoria, aviso que señalará las fechas y horas 
+exactas de la apertura y cierre de las postulaciones.
+No se recibirán postulaciones impresas, por correo u otro medio que no sea el sistema que CONICYT 
+señala para esta convocatoria. En caso de presentarse dificultades técnicas en el sistema dispuesto 
+por CONICYT a través de su sitio web, CONICYT podrá habilitar la recepción de los antecedentes en 
+formato PDF no protegido a través sistemas electrónicos alternativos, lo que será notificado 
+oportunamente a los postulantes a través del sitio web de CONICYT, ateniéndose estrictamente a las 
+Page 22 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ presentes bases. El proyecto se entenderá fuera de bases si la postulación se encuentra incompleta o 
+no contiene la información solicitada e imprescindible para su adecuada evaluación.
+11.2 FORMULARIOS Y BASES
+Los documentos oficiales del concurso son estas Bases y el formulario de presentación de proyectos, 
+los que se encontrarán disponibles en línea a partir del primer día hábil siguiente a la publicación de 
+la convocatoria en el sistema de postulación de proyectos vía Internet, accesible a través de la página 
+web: http://www.conicyt.cl/fondef. 
+CONICYT se reserva el derecho para interpretar el sentido y alcance de las presentes Bases en caso 
+de dudas y conflictos que se susciten sobre la aplicación de las mismas.
+11.3 CONSULTAS Y ACLARACIONES
+Las consultas relativas a este concurso, deberán ser dirigidas a: FONDEF, calle Moneda 1375, 
+Santiago, o bien a través de la página web: https://oirsvirtual.conicyt.cl/, FONDEF tendrá 10 días 
+corridos para responderlas a través de la misma página.
+Asimismo, las aclaraciones que eventualmente pueda realizar CONICYT podrán ser efectuadas dentro 
+del mismo plazo fijado para la recepción de consultas, mediante una publicación en el sitio web: 
+http://www.conicyt.cl/fondef.
+12 ANEXOS
+ANEXO 1: FORMULARIO DE EVALUACIÓN
+Formulario de Evaluación
+VII Concurso Investigación Tecnológica -2018
+Código
+Título
+Instituciones Beneficiarias
+Entidades Asociadas
+Director(a)
+Monto Solicitado (M$)
+Aprueba
+Rechaza
+IDENTIFICACIÓN DEL PROYECTO
+RESUMEN DE LA EVALUACIÓN
+Page 23 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ Recomendación 
+del 
+Panel 
+Evaluador 
+(marcar 
+con 
+una cruz)
+Puntaje de evaluación
+Capítulo
+Ponderación
+Nota 
+promedio 
+capítulo
+Puntaje 
+ponderado
+I.- 
+Antecedentes 
+previos 
+y 
+contenido 
+científico 
+y 
+tecnológico
+50%
+II.- 
+Capacidades 
+y Gestión
+15%
+III.-Impacto 
+Potencial 
+Económico 
+Social
+35%
+Puntaje Final
+100%
+Conclusiones 
+PARÁMETROS PARA EL PROCESO DE CALIFICACIÓN
+Los Proyectos serán evaluados con notas de 0 a 5, siendo 0 el mínimo y 5 el máximo. 
+Cada Capítulo será analizado en base a los criterios proporcionados en el punto 5 de las bases, 
+referidos a la información que se detalla en el formulario de postulación correspondiente. 
+Los Capítulos de evaluación son:
+Capítulo
+Ponderación
+I.- 
+Antecedentes 
+previos 
+y 
+contenido 
+científico 
+y 
+tecnológico
+50%
+Page 24 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ II.- 
+Capacidades 
+y Gestión
+15%
+III.- Impacto 
+Potencial 
+Económico 
+Social
+35%
+Cada capítulo será evaluado mediante un conjunto de preguntas, cada una de las cuales será 
+calificada usando la siguiente escala:
+Calificación
+Concepto
+Descripción
+0
+No califica
+La propuesta no cumple/aborda el criterio bajo análisis o no 
+puede ser evaluada debido a la falta de antecedentes, o 
+información incompleta.
+1
+Deficiente
+La propuesta 
+no cumple/aborda adecuadamente los aspectos del criterio o 
+hay graves deficiencias inherentes.
+2
+Regular
+La propuesta cumple/aborda en términos generales los 
+aspectos del criterio, pero existen importantes deficiencias.
+3
+Bueno
+La propuesta cumple/aborda correctamente los aspectos del 
+criterio, aunque requiere ciertas mejoras.
+4
+Muy bueno
+La propuesta cumple/aborda los aspectos del criterio de muy 
+buena manera, aun cuando son posibles ciertas mejoras.
+5
+Excelente
+La propuesta cumple/aborda de manera sobresaliente todos 
+los aspectos relevantes del criterio en cuestión. Cualquier 
+debilidad es muy menor.
+Nota: Es posible usar medios puntos, pero no fracciones menores
+I.-        Capítulo 1: Antecedentes previos y contenido científico y tecnológico (50%)
+Conceptos
+Ponderación
+Nota
+a) Evalúe si los resultados alcanzados validan la posible 
+aplicación de la tecnología propuesta en la industria, mercado o 
+población objetivo.
+Considere la robustez del resultado previo alcanzado.
+20%
+b) Señale cuál es la relevancia del problema u oportunidad 
+identificada, si presenta vigencia científica tecnológica y si fue 
+realizado un correcto análisis del estado del arte.
+Evalúe si la solución propuesta disminuye la magnitud o resuelve 
+el problema planteado.
+Refiérase a si están claramente identificados en la propuesta 
+otras soluciones existentes que puedan competir a futuro por el 
+mismo mercado.
+20%
+c) Refiérase al nivel de validación alcanzado, si fue a nivel de 
+laboratorio o pequeña escala, o prototipo.
+10%
+Page 25 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ Señale el nivel de desarrollo que alcanzará la tecnología al final 
+de esta propuesta, ¿la propuesta generará un valor agregado 
+respecto a los resultados previos ya alcanzados? (hay avance en 
+la investigación)
+d) ¿La propuesta contiene aspectos de investigación claros?  
+Señale si la hipótesis considera riesgo o proceso investigativo 
+implícito.
+10%
+e) Evalúe la formulación del objetivo general e indique si los 
+objetivos específicos están contenidos en este. Señale su 
+coherencia y si estos ayudarán a lograr la solución propuesta.
+10%
+f) Evalúe si la metodología propuesta está correctamente 
+planteada, en función de los objetivos y resultados descritos. 
+Además, señale si se encuentra correctamente detallado el 
+diseño experimental a aplicar.
+20%
+g) Señale si los resultados de producción y sus hitos son 
+alcanzables con la metodología propuesta. Analice si éstos son 
+coherentes con los objetivos y el aporte hacia el logro de la 
+solución propuesta.
+10%
+Nota Capítulo 1
+100%
+De acuerdo a lo establecido en el Manual de Normas de 
+Bioseguridad de CONICYT (versión 2008), ¿requiere 
+Requiere certificado de ética/bioética/bioseguridad, u otro? 
+Indique cual. (Anexo certificaciones)? Indique cuál?
+SÍ
+NO
+Observaciones 
+Capítulo 
+1 
+(Señale 
+las 
+principales 
+fortalezas 
+y 
+debilidades). 
+II.-  Capítulo 2: Capacidades y Gestión (15%)
+Conceptos
+Ponderación
+Nota
+a)
+Evalúe la carta Gantt, señalando si la programación y 
+organización 
+de 
+las 
+actividades 
+se 
+encuentran 
+correctamente 
+formuladas, 
+presentan 
+coherencia 
+y 
+pertinencia con la metodología.
+25%
+b)
+Señale 
+si 
+los 
+recursos 
+solicitados 
+se 
+encuentran 
+correctamente justificados y distribuidos a las distintas 
+actividades para ejecutar el plan de trabajo.
+25%
+c) Indique si él o la Director(a) del proyecto posee la capacidad 
+para dirigir la ejecución de la propuesta y a grupos 
+multidisciplinarios; si posee experiencia  y relación con la 
+línea de investigación
+20%
+d)
+Evalúe si el equipo de trabajo propuesto posee las 
+capacidades y la experiencia necesaria para obtener los 
+resultados comprometidos. Si fueron considerados todos los 
+expertos 
+necesarios 
+para 
+ejecutar 
+correctamente 
+la 
+investigación. Si los tiempos de dedicación del equipo de 
+trabajo son consistentes con su disponibilidad declarada. Las 
+responsabilidades individuales están bien asignadas. Se 
+30%
+Page 26 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ generan nuevas capacidades de investigación en capital 
+humano considerando investigadores jóvenes y tesistas.
+Nota Capítulo 2
+100%
+Observaciones 
+Capítulo 
+2 
+(Señale 
+las 
+principales 
+fortalezas 
+y 
+debilidades). 
+III.-  Capítulo 3: Impacto Potencial Económico Social (35%)
+Conceptos
+Ponderación
+Nota
+a) ¿Está debidamente identificado el producto, proceso o 
+servicio final que se derivará de los resultados obtenidos de este 
+proyecto?
+¿Está 
+adecuadamente 
+identificado 
+y 
+dimensionado 
+el 
+destinatario, población objetivo, o mercado objetivo?
+¿Es factible convertir los resultados finales del proyecto en 
+productos, 
+procesos 
+o 
+servicios 
+de 
+utilidad 
+para 
+sus 
+destinatarios finales?
+¿Se presenta una estimación adecuada del tiempo y de las 
+acciones e inversiones necesarias para que el producto, proceso 
+o servicio alcance el mercado o población objetivo?
+25%
+b) ¿Están claramente descritas las situaciones con y sin 
+proyecto? 
+¿Están debidamente identificadas las ventajas competitivas para 
+el destinatario, población, industria o mercado objetivo del 
+producto, proceso o servicio final, respecto a las soluciones 
+existentes (adicionalidad)? 
+¿Están claramente identificados los costos, beneficios, y 
+eventuales externalidades de la implementación del producto, 
+proceso o servicio final del proyecto?
+Externalidades: 
+efectos 
+más 
+allá 
+del 
+bienestar 
+de 
+los 
+beneficiarios que utilizan o producen la solución.
+25%
+c) ¿Cómo califica usted la pertinencia del mandante y/o 
+entidades asociadas? 
+¿Cómo califica su compromiso para alcanzar los resultados 
+esperados y llevar adelante la masificación, transferencia o 
+implementación de los resultados? 
+25%
+d) 
+Evalúe 
+la 
+estrategia 
+de 
+transferencia 
+tecnológica 
+o 
+masificación, su plan de implementación y sustentabilidad del 
+producto, proceso o servicio final. Considere el modelo de 
+negocio o masificación presentado. ¿Forman parte de éste el 
+Mandante y las entidades asociadas?
+25%
+Page 27 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ ¿Se considera una adecuada estrategia de protección de los 
+resultados?
+Nota Capítulo 3
+100%
+Observaciones 
+Capítulo 
+3 
+(Señale 
+las 
+principales 
+fortalezas 
+y 
+debilidades). 
+ANEXO 2: CONVENIO TIPO
+CONVENIO SUBSIDIO
+COMISIÓN NACIONAL DE INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA
+UNA ENTIDAD BENEFICIARIA
+En Santiago, a . . . . . . . de 20…, entre la Comisión Nacional de Investigación Científica y Tecnológica, 
+en adelante "CONICYT", representada por su Director Ejecutivo, debidamente facultado(a), ambos 
+con domicilio en calle Moneda Nº1375 de esta ciudad, por una parte y, por la otra, . . . . . . . . . ., 
+domiciliada en…, en adelante la "beneficiaria", individualizada y representada según se indica al final 
+del presente instrumento, se ha acordado el siguiente Convenio:
+PRIMERA. Título del proyecto y definiciones. El proyecto de investigación tecnológica presentado 
+al VII Concurso Investigación Tecnológica FONDEF/CONICYT 2018, de que trata el presente acuerdo 
+de voluntades es: “. . . . . . . . . . . . . . . . . . ”. Su recomendación de aprobación consta en Acuerdo 
+adoptado por el Consejo Asesor de FONDEF en el Acta de la sesión N° . . ., efectuada el . . . . . . . . . 
+de 20….. Su adjudicación consta en la Resolución Exenta N° …., de….
+Las definiciones que contiene el presente Convenio son las que se establecen en las Bases del 
+Concurso. 
+SEGUNDA. Objeto del Convenio. El objeto del presente Convenio es regular y reglamentar: 
+a)
+La ejecución del Proyecto por la beneficiaria;
+b)         El subsidio de CONICYT a la beneficiaria, para contribuir al financiamiento del Proyecto.
+TERCERA. Sujeción del subsidio a condiciones. El aporte de los recursos financieros, sin perjuicio 
+de lo señalado en las cláusulas duodécima y decimatercera, queda sujeto a las siguientes 
+condiciones: a) destinación precisa por la beneficiaria, de los recursos que reciba en transferencia, a 
+la ejecución del Proyecto, en la forma convenida por las partes en el presente convenio y los 
+elementos esenciales del mismo de acuerdo a lo señalado en la Cláusula Primera precedente; b) 
+entrega, según el Proyecto, del aporte comprometido por la beneficiaria, el que estará constituido por 
+recursos propios y de las asociadas, de acuerdo a los documentos suscritos entre estas últimas y la 
+beneficiaria.
+Page 28 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ La beneficiaria se compromete a que los equipos y bienes de capital comprados con el subsidio de 
+CONICYT serán operados y mantenidos en forma regular, de acuerdo con normas técnicas de general 
+aceptación, según lo establecido en la cláusula decimaséptima.
+Los fondos transferidos a las beneficiarias se regirán, en lo relativo a sus rendiciones, por la 
+Resolución N°30/2015 de la Contraloría General de la Republica que fija Normas de Procedimiento 
+sobre rendición de cuentas o las normas que la reemplacen en el futuro y las normas e indicaciones 
+sobre los procesos de rendición de cuentas se establecerán en el correspondiente manual de rendición 
+de cuentas del concurso respectivo. La beneficiaria deberá dar cumplimiento a lo dispuesto en el 
+Decreto Supremo de Hacienda Nº 375, de 19 de mayo de 2003, que fija el Reglamento de la Ley Nº 
+19.862, de Registro de las Personas Jurídicas Receptoras de Fondos Públicos. CONICYT es 
+responsable del control y fiscalización de los recursos transferidos. Si los recursos transferidos se 
+destinan a fines distintos de los señalados en el proyecto deberán ser reintegrados a CONICYT.
+CUARTA. Aceptación de la beneficiaria. Por este acto la beneficiaria acepta el subsidio objeto del 
+Convenio y se compromete a ejecutar el Proyecto de acuerdo con las Bases concursales y el presente 
+Convenio. 
+QUINTA. Plazo del Proyecto. La ejecución del Proyecto será llevada a cabo por la beneficiaria en 
+un plazo máximo de . . . . meses, a contar de la fecha de notificación, realizada por la Dirección 
+Ejecutiva de FONDEF, por carta al Representante Legal, de la resolución exenta de CONICYT que 
+aprueba el convenio suscrito entre CONICYT y la(s) institución(es) beneficiaria(s) y hasta 30 días 
+corridos desde esta. Sin perjuicio de lo anterior, un proyecto podrá solicitar a CONICYT una fecha de 
+inicio posterior a la mencionada, fundamentando rigurosamente dicha solicitud, la que deberá ser 
+aprobada por CONICYT.
+SEXTA. Costo del Proyecto. El costo total estimado del Proyecto es el equivalente a la suma de ($--
+-.-).
+SÉPTIMA. Subsidio de CONICYT con cargo a FONDEF. CONICYT concurrirá al financiamiento del 
+costo total del Proyecto con un subsidio máximo de ($---.-), el que será entregado a la beneficiaria en 
+la forma que se establece en la cláusula novena.
+El monto definitivo del subsidio será establecido sobre la base de los costos reales en que incurra la 
+beneficiaria para pagar los insumos que en el Proyecto se señalan de cargo de FONDEF, sin que dicho 
+monto pueda exceder la suma límite establecida en esta cláusula.
+OCTAVA. Aportes de la beneficiaria. Para la ejecución del Proyecto, la beneficiaria aportará como 
+mínimo, con recursos propios y de las asociadas, lo establecido en la siguiente tabla, de acuerdo a las 
+definiciones de estos recursos establecidas en las Bases del concurso.
+Recursos 
+incrementales ($)
+Recursos 
+no 
+incrementales ($)
+TOTAL
+($)
+Recursos propios de la 
+beneficiaria
+---.-
+---.-
+---.-
+Recursos de las asociadas
+---.-
+---.-
+---.-
+TOTAL
+---.-
+---.-
+---.-
+Con el fin de asegurar la estricta sujeción al principio de la probidad administrativa contemplado en el 
+ordenamiento jurídico vigente y al principio de la igualdad de los participantes, quedan excluidos de 
+participar en el presente concurso las autoridades o funcionarios de CONICYT que participen en 
+cualquiera de las etapas que este comprenda.
+Page 29 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ Asimismo, para garantizar la correcta utilización de los recursos públicos, las entidades asociadas que 
+realicen aportes al Proyecto no podrán tener como copropietarias, socias o gerentes a personas que 
+forman parte del equipo directivo del Proyecto ni a cónyuges o parientes de estas personas hasta el 
+segundo grado de consanguinidad y primero de afinidad.
+Los aportes de la beneficiaria, sea con recursos propios o de las asociadas, deberán ser entregados 
+durante la ejecución del Proyecto, de acuerdo al calendario establecido en el mismo. La fecha límite 
+para enterar el total del aporte será un mes antes de la fecha de término del Convenio.
+NOVENA. Entrega del subsidio. El primer desembolso se realizará una vez totalmente tramitado el 
+acto administrativo que apruebe el Convenio respectivo entre CONICYT y la beneficiaria.
+Tratándose de entidades beneficiarias privadas, se requiere, además, que estas caucionen el 100% 
+de tal transferencia, de conformidad a lo establecido en las Bases que regularon el presente concurso.
+Los siguientes desembolsos serán transferidos anualmente por CONICYT a la beneficiaria, siempre 
+que se cumplan todas las condiciones establecidas en las cláusulas duodécima y decimotercera. Este 
+período anual podrá ser modificado por propia decisión de CONICYT o a solicitud del Director del Proyecto 
+para adecuar los desembolsos al avance del Proyecto, previa aprobación de CONICYT.
+DÉCIMA. Empleo del subsidio. La beneficiaria sólo podrá utilizar el subsidio para financiar los ítems 
+que consulta el Proyecto, prestando particular atención a las definiciones contenidas en las Bases 
+regularon el presente concurso, específicamente en su sección ÍTEMS FINANCIABLES POR FONDEF.
+Los proyectos no podrán utilizar el subsidio transferido por CONICYT para invertirlo en cualquier tipo 
+de instrumento financiero de renta fija o variable y de corto o largo plazo y con o sin riesgo 
+financiero, como, por ejemplo: fondos mutuos, acciones, depósitos a plazo, bonos y otros similares. 
+Tampoco se podrá destinar los subsidios transferidos por CONICYT al pago de indemnizaciones de 
+cualquier especie y en especial las derivadas de las relaciones laborales.
+Las modalidades aceptables para hacer los gastos y respaldarlos se establecen en el Manual de 
+Declaración de Gastos que se encuentra en http://www.conicyt.cl/fondef.
+UNDÉCIMA. Pertinencia de insumos y gastos. En todo caso, CONICYT podrá revisar la pertinencia 
+de los insumos y montos considerados para la ejecución del Proyecto, los que deberán ajustarse 
+estrictamente a sus requerimientos. Como resultado de estas revisiones, CONICYT podrá rechazar los 
+insumos o gastos que no sean estrictamente requeridos por el Proyecto.
+DUODÉCIMA. Garantía. No será exigible a la beneficiaria pública la entrega de garantías por el buen 
+uso de los recursos desembolsados, en virtud de lo establecido en el dictamen N°15978/10 de 
+Contraloría General de la República.
+NOTA: EN LOS CASOS DE PROYECTOS CON UNA BENEFICIARIA PRIVADA SE 
+REEMPLAZARÁ EL PÁRRAFO ANTERIOR POR EL SIGUIENTE: 
+Garantía. Para las Instituciones Nacionales no pertenecientes a la administración de Estado, al 
+momento de la firma del convenio con CONICYT, deberán garantizar el fiel uso de los recursos y su 
+administración, según lo dispongan las cláusulas indicadas en el mismo, mediante boleta de garantía 
+bancaria pagadera a la vista, vale vista endosable o póliza de seguro de ejecución inmediata. Dicho 
+documento debe tener una vigencia de a lo menos 150 (ciento cincuenta) días adicionales a la fecha 
+exigible de la Rendición de Cuentas por cada desembolso o cuota respecto del período a cubrir con 
+ella, y en caso que sea la última cuota a desembolsar debe ser garantizado por un plazo no menor a 
+seis meses (180 días) a contar de la fecha de finalización del proyecto. Es importante notar que estos 
+gastos pueden cargarse al presupuesto en el proyecto.
+Page 30 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ DECIMATERCERA. Otras condiciones de pago de los desembolsos o giros. La entrega de los 
+desembolsos estará condicionada por: a) la existencia y disponibilidad de recursos en el presupuesto 
+de FONDEF; b) la entrega oportuna por parte de la beneficiaria de los recursos propios y de las 
+asociadas comprometidos para el Proyecto; c) la entrega oportuna de un reporte de avance, salvo en 
+el caso del primer desembolso; d) se hayan entregado las respectivas cauciones, de acuerdo con lo 
+establecido en las bases y el presente convenio y e) Las beneficiarias públicas y privadas no deben 
+presentar rendiciones de cuentas pendientes con CONICYT.
+Asimismo, la continuidad en la entrega de desembolsos estará sujeta a la obtención de los hitos de 
+avance o resultados del proyecto, definidos para estos efectos por FONDEF en el sistema de seguimiento 
+y control de proyectos de FONDEF.
+CONICYT podrá suspender temporalmente un desembolso u otorgar un desembolso parcial, si los 
+recursos propios de la beneficiaria y de las entidades asociadas comprometidos para el Proyecto no se 
+hubieren enterado o si considerare que el avance del Proyecto no es aceptable, sin perjuicio de lo 
+dispuesto en la cláusula vigesimanovena.
+Si a causa de la no disponibilidad de recursos para desembolsos el Proyecto se atrasare, los plazos 
+del Proyecto podrán ser modificados a solicitud del Representante Legal de la beneficiaria.
+En el evento que un documento fuere rendido en más de un programa de CONICYT, ésta se reserva 
+el derecho de poner término anticipado a los convenios involucrados y solicitar la devolución total o 
+parcial de los recursos entregados.
+DECIMACUARTA. Moneda de pago y reajustes. El subsidio que CONICYT entregará a la 
+beneficiaria es el establecido en la cláusula séptima, en moneda nacional, el que no será objeto de 
+reajuste alguno.
+DECIMAQUINTA. De la Dirección del Proyecto. Para dirigir y ejecutar el Proyecto, la beneficiaria 
+y sus entidades asociadas actuarán por intermedio del Comité Directivo del Proyecto, del 
+Representante Legal o quien lo represente para estos efectos y del Director del Proyecto.
+El Comité Directivo del Proyecto estará constituido por un representante de la(s) institución(es) 
+beneficiaria(s) y uno de cada entidad asociada participante en el Proyecto, nombrados por sus 
+respectivos representantes legales. Estos miembros deberán tener la capacidad para comprometer o 
+modificar los recursos aportados al proyecto y para tomar decisiones con respecto a los intereses de 
+sus representados en el proyecto.
+El Comité Directivo del Proyecto será presidido por un representante de la beneficiaria; o por el 
+representante de alguna de las entidades asociadas. El representante de la beneficiaria no podrá ser 
+el Director o Director Alterno, o ser partes del Equipo de Investigación del Proyecto. Este Comité 
+tendrá las siguientes atribuciones y responsabilidades, sin perjuicio de lo indicado en las cláusulas 
+vigesimaquinta y vigesimoctava: a) proponer a sus representados y a la Dirección Ejecutiva de 
+FONDEF nuevas orientaciones estratégicas del Proyecto; b) facilitar la obtención de los recursos 
+comprometidos y, si fuere necesario, comprometer y obtener recursos adicionales; y c) pedir cuentas 
+al Director del Proyecto. Se reunirá ordinariamente por lo menos tres veces durante la ejecución del 
+proyecto, por lo menos una de ellas debe ser realizada durante el primer año de ejecución. Tanto los 
+nombramientos como los reemplazos del representante de la beneficiaria como de las entidades 
+asociadas deberán ser comunicados al Director Ejecutivo de FONDEF. El Director Ejecutivo de FONDEF 
+nombrará a un representante para que, de estimarse conveniente, asista con derecho a voz a las 
+sesiones del Comité Directivo del Proyecto cuando las circunstancias así lo ameriten, el que no será, 
+para ningún efecto, parte integrante de dicho Comité.
+El Representante de la beneficiaria será responsable de: a) ejercer una supervisión general de cada 
+Proyecto financiado por FONDEF a su institución para lograr los resultados del Proyecto, sin perjuicio 
+de las responsabilidades y atribuciones del Director del Proyecto indicadas en esta misma cláusula; b) 
+asegurar y gestionar que los recursos propios y de las entidades asociadas comprometidos para la 
+realización del Proyecto efectivamente sean puestos a disposición del mismo; c) proveer los apoyos 
+institucionales que faciliten la ejecución del Proyecto, ejercer las acciones de apoyo para la protección 
+de la propiedad intelectual, cuando ésta resulte necesaria, y para la transferencia de sus resultados; y 
+d) proponer a CONICYT los cambios del Proyecto que modifiquen sus límites de control (plazos, 
+Page 31 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ costos, aportes de cada parte, límites en el uso de recursos, resultados comprometidos, vigencia 
+científico-tecnológica y económico-social).
+El Director del Proyecto será el responsable de la gestión del Proyecto dentro de sus límites de control 
+y, si el Proyecto no pudiere ejecutarse dentro de dichos límites, el Director del Proyecto será 
+responsable de proponer alternativas al Comité Directivo del Proyecto, entre las que podrá estar la 
+solicitud de suspensión del proyecto y los desembolsos o el término anticipado del Convenio. Además, 
+será el responsable de comunicar a FONDEF el monto de cada uno de los desembolsos periódicos que 
+serán depositados por CONICYT en la cuenta bancaria exclusiva para el Proyecto, que indique la 
+beneficiaria, y de enviar todos los informes de avance y final y los documentos en garantía que se 
+requieren para hacer dichos giros a la beneficiaria. 
+El Director Alterno del Proyecto tendrá las mismas facultades que el titular, en ausencia o 
+impedimento de éste, sin necesidad de orden expresa.
+El representante legal de la beneficiaria podrá cambiar al Director del Proyecto, a su Alterno y a los 
+investigadores principales señalados en el Proyecto, siempre que quienes los reemplacen tengan la 
+calidad apropiada para realizar tales funciones. Estos cambios serán comunicados inmediatamente 
+por el Representante Legal de la beneficiaria a CONICYT, quien, a su vez, podrá solicitar la sustitución 
+de cualesquiera de los referidos y no aceptar a los reemplazantes si a su juicio no son idóneos, en 
+conformidad con lo dispuesto en las Bases concursales respectivas.
+DECIMASEXTA. Adquisiciones. La adquisición de equipos, materiales y mobiliario, así como la 
+contratación de obras y servicios efectuadas por las beneficiarias públicas deberán hacerse de 
+conformidad con las disposiciones legales vigentes y además deberán contar con la autorización y 
+supervisión del Director del Proyecto.
+NOTA: EN EL CASO DE PROYECTOS EN LOS QUE PARTICIPEN SOLO BENEFICIARIAS 
+PRIVADAS, EL PRIMER PÁRRAFO DE ESTA CLÁUSULA NO APLICA.
+Adquisiciones. La adquisición de equipos, materiales y mobiliario, así como la contratación de obras 
+y servicios por la beneficiaria deberán contar con la autorización y supervisión del Director del 
+Proyecto y deberán ser realizadas de acuerdo a las instrucciones indicadas en el Manual de Rendición 
+y Declaración de Gastos autorizada por CONICYT.
+NOTA: EN EL CASO DE PROYECTOS EN LOS QUE PARTICIPEN SOLO BENEFICIARIAS 
+PÚBLICAS, LOS PÁRRAFOS ANTERIORES DE ESTA CLÁUSULA, SALVO EL PRIMERO, NO 
+APLICAN.
+La subcontratación con personas jurídicas de servicios requeridos para el Proyecto deberá atenerse a 
+lo dispuesto en las Bases que regulan el concurso.
+DECIMASÉPTIMA. Operación, cuidado y mantención de obras y equipos. La beneficiaria será 
+responsable de la operación, cuidado y mantención de las obras y de los equipos, según sea el caso, 
+que hubiere realizado o adquirido para el Proyecto, obligación que cumplirá de acuerdo con normas 
+técnicas generalmente aceptadas. En particular, la beneficiaria destinará o contratará personal 
+adecuado y los materiales necesarios para la normal operación y mantención de dichas obras y 
+equipos durante la ejecución del Proyecto. 
+DECIMOCTAVA. Propiedad de los equipos y demás bienes. La beneficiaria será dueña de los 
+equipos y bienes adquiridos con el subsidio de CONICYT, sin perjuicio de las condiciones establecidas 
+en las cláusulas tercera y trigésima primera. 
+DECIMANOVENA. Seguros. La beneficiaria tomará seguros contra robo, incendio y daños respecto a 
+los equipos y demás bienes no fungibles que utilice para ejecutar el Proyecto, y pagará con 
+Page 32 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ puntualidad las primas correspondientes, respondiendo de culpa levísima por toda negligencia en que 
+incurra respecto de esta obligación.
+En aquellos casos que, habiendo ocurrido la pérdida total o parcial del equipamiento destinado al 
+Proyecto, mediante el seguro contratado, en definitiva, no se responda de la reposición total o parcial 
+de dicho equipamiento, cualquiera que fuere la causal señalada por el asegurador, responderá 
+directamente la beneficiaria de la reposición.
+VIGÉSIMA. Reposición del equipamiento siniestrado. Asimismo, sin perjuicio de lo dispuesto en 
+la cláusula precedente, responderá directamente la beneficiaria, en el evento que no tuviere seguro 
+vigente al momento de ocurrir algún siniestro que signifique la pérdida, menoscabo o daño del 
+equipamiento. CONICYT fijará los términos de la reposición del equipamiento en los casos precisados 
+en este párrafo. Del mismo modo, CONICYT podrá poner término anticipado al Convenio si el siniestro 
+fuere de tal magnitud que imposibilitare la continuación del Proyecto.
+VIGESIMAPRIMERA. Cuenta bancaria exclusiva, contabilidad del Proyecto y rendición de 
+cuentas. La beneficiaria deberá llevar contabilidad separada para los recursos del Proyecto, 
+precisando en ella los mecanismos y prácticas utilizadas para la administración de los fondos. Todos 
+los gastos efectuados contra el subsidio o los aportes monetarios propios o de las asociadas deberán 
+ser aprobados por el Director del Proyecto. La beneficiaria permitirá en todo momento el examen de 
+la información y documentación sustantiva, administrativa y contable del Proyecto, por los 
+especialistas que acredite CONICYT.
+Los Beneficiarios privados, deberán destinar una cuenta bancaria exclusiva para manejar los 
+recursos financieros del proyecto, en la cual depositará tanto los aportes recibidos de CONICYT, como 
+los recursos pecuniarios que la Institución aporte al proyecto, cuando corresponda. 
+La beneficiaria pública, deberá destinar una cuenta bancaria donde CONICYT deposite los aportes 
+del proyecto.
+VIGESIMASEGUNDA. Obligaciones especiales de la beneficiaria. Sin perjuicio del oportuno y 
+fiel cumplimiento de las obligaciones que se derivan de este Convenio, la beneficiaria deberá 
+especialmente: a) enterar la parte de su aporte correspondiente a recursos propios, en los plazos 
+acordados; b) enterar la parte de su aporte con recursos provenientes de las asociadas, en los plazos 
+acordados, independientemente de los compromisos que éstas hayan contraído con la beneficiaria en 
+cuanto a entregar estos recursos; c) asumir el mayor costo que pudiere tener el Proyecto respecto de 
+lo calculado; d) dedicar efectivamente a la ejecución del Proyecto a las personas comprometidas para 
+formar parte del equipo del Proyecto; e) Las publicaciones y todos los documentos generados en el 
+marco de este convenio, deberán contener los reconocimientos por el apoyo y financiamiento recibidos, 
+utilizando el siguiente formato: “CONICYT + FONDEF/ VII CONCURSO INVESTIGACIÓN 
+TECNOLÓGICA, FONDEF/CONICYT 2018.+ Folio (Cod. Proyecto)”, destacar la contribución de 
+FONDEF, a través del uso de logos o mencionándolo, en las actividades públicas del Proyecto; y f) 
+rotular los documentos oficiales, los equipos, bienes de capital, obras y construcciones del Proyecto 
+de forma que haga notoria la contribución de FONDEF y CONICYT a su ejecución, llevando todos ellos, 
+además, el logo de FONDEF.
+Además, la beneficiaria deberá suscribir contratos con las entidades asociadas, en los cuales se 
+estipulen las obligaciones y derechos que asumen para la realización del Proyecto, incluyendo al 
+menos el monto y la modalidad de sus aportes y su participación en la propiedad de los resultados y 
+en los negocios o acciones de masificación correspondientes. 
+Estos contratos deberán ser recibidos en CONICYT dentro del plazo 60 días corridos siguientes a la 
+notificación por carta certificada de la resolución de adjudicación de los proyectos. Este plazo no será 
+prorrogable. Si la beneficiaria no suscribiere los contratos dentro de los plazos mencionados, se 
+entenderá que renuncia al subsidio y se dejará sin efecto el acto adjudicatorio respecto de ella.
+Las entidades beneficiarias deberán velar por la consistencia entre estos contratos y el presente 
+convenio. CONICYT podrá establecer que hay inconsistencia y rechazar dichos contratos, solicitando 
+sean modificados dentro del plazo prudencial que se fije al efecto, de no ser efectuada las 
+modificaciones solicitadas se entenderá que no fueron presentados aplicándose lo previsto en las 
+bases del presente concurso.
+Page 33 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ CONICYT, a través del Departamento de Administración y Finanzas y la Unidad de Control de 
+Rendiciones es responsable del Control y Fiscalización de los recursos transferidos, respecto a montos 
+y forma de rendir.
+Para el cierre financiero del proyecto, éste debe haber rendido la totalidad de los gastos realizados 
+con los fondos entregados por CONICYT, es decir, el 100% de los recursos transferidos, y si 
+corresponde, haber reintegrado los fondos no gastados y/o rechazados.  
+VIGESIMATERCERA. Impacto ambiental. Las partes establecen expresamente que la beneficiaria 
+se obliga a dar estricto cumplimiento a la normativa ambiental vigente tanto durante la ejecución del 
+Proyecto como en la aplicación de los resultados. 
+VIGESIMACUARTA. Aspectos éticos. La beneficiaria declara conocer y estar dispuesta a atenerse a 
+los protocolos internacionales de investigación, aceptados como práctica ética a respetar por la 
+comunidad científica internacional respecto de las disciplinas involucradas en el Proyecto. Por lo 
+mismo, la beneficiaria se obliga a comunicar a CONICYT, dentro del más breve plazo, cualquier 
+circunstancia que pudiere afectar esta práctica ética y que surja durante el desarrollo del Proyecto.
+Especialmente, la beneficiaria declara que las actividades del Proyecto, sus posibles resultados y las 
+innovaciones esperadas no presentan controversias de carácter ético o bioético y que ellas serán 
+prevenidas y corregidas si surgen durante la ejecución del Proyecto, y que, en los casos de 
+investigación en seres humanos, se atiene a lo establecido en la ley N° 20.120 y su reglamento.
+VIGESIMAQUINTA. Propiedad intelectual e industrial. La propiedad intelectual de los inventos, 
+innovaciones tecnológicas, procedimientos, o de cualquier otro resultado que pudiere resultar del 
+proyecto, que caiga dentro del ámbito de aplicación de la Ley N°19.039 de Propiedad Industrial o de 
+la Ley N°19.342 que Regula los Derechos de Nuevas Variedades Vegetales, o en cualquier otra que 
+rija estas materias en el futuro, pertenecerá a la(s) institución(es) beneficiaria(s). 
+La(s) institución(es) beneficiaria(s) podrá disponer libremente de dichos derechos y/o de los 
+beneficios comerciales que los resultados produzcan, con el personal del proyecto que haya 
+participado efectivamente en el hallazgo correspondiente, acorde con su normativa interna, con 
+entidades asociadas, o con quien y como lo estime conveniente. 
+Será responsabilidad exclusiva de la beneficiaria, directamente o a través de terceros, según 
+corresponda, realizar todas las gestiones ante los organismos competentes para resguardar 
+apropiadamente la propiedad intelectual e industrial producto de la ejecución del proyecto. No le 
+corresponderá a CONICYT realizar gestión alguna en ese ámbito. 
+No obstante, todo lo anterior, en los casos de proyectos de interés público, las instituciones 
+beneficiarias, y las entidades asociadas se obligan a poner a disposición de otras organizaciones u 
+organismos sin fines de lucro orientados al interés público, sean estos públicos o privados, el 
+conocimiento desarrollado y protegido intelectualmente, sin costo para su utilización en productos o 
+servicios de interés público para Chile o con fines humanitarios. 
+La divulgación de los resultados alcanzados por el proyecto deberá hacerse resguardando la 
+confidencialidad que se establezca en el convenio y, en todo caso, no podrá atentar contra la eventual 
+obtención de derechos sobre la propiedad intelectual generada por el proyecto. 
+La beneficiaria deberá adoptar las medidas necesarias para que el personal que participe en el 
+proyecto no comunique o transfiera información o resultados sin su autorización previa y expresa, y 
+deberá tomar las medidas adicionales que procedan para resguardar la información con dichos fines, 
+tales como convenios de confidencialidad con terceros que tengan acceso al proyecto y resguardos 
+físicos y/o informáticos.
+CONICYT no asume responsabilidad alguna por las infracciones a la propiedad industrial o intelectual 
+en que el beneficiario pudiere incurrir. Éste se obliga a realizar cuanto sea necesario para dejar a 
+CONICYT al margen y a salvo de las reclamaciones y demandas que por dichas infracciones se 
+pudieren generarse en su contra, incluso a procurarse a su exclusivo cargo las patentes, licencias o 
+derechos que fueren necesarios al efecto  y a indemnizarle de todos los daños y perjuicios que 
+pudiere afectarle, directa o indirectamente, como consecuencia de tales reclamaciones o demandas.
+Page 34 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ La propiedad intelectual de los libros, folletos, artículos, publicaciones, fotografías, programas 
+computacionales, compilaciones de datos, propuestas o de cualquier otra obra protegida por la Ley N°
+17.336 de Derecho de Autor u otra que rija estas materias en el futuro, pertenecerá al autor de la 
+misma o a la institución beneficiaria, según corresponda de acuerdo a la ley. La institución 
+beneficiaria y los autores podrán disponer libremente de los derechos que recaen sobre sus obras, 
+con quien y como lo estimen conveniente.
+El titular de los derechos que resulten del proyecto deberá hacer mención explícita a CONICYT en la 
+obra e informarle sobre dicha inclusión para su seguimiento posterior.
+En cualquier caso, CONICYT podrá divulgar libremente los resultados obtenidos e incluidos en el 
+informe final del Proyecto a partir de un plazo de dos años contados desde la fecha de término 
+establecida en este Convenio o prorrogada por decisión de CONICYT.
+Posterior a los cinco años de aprobado el informe final, se procederá su ingreso al Archivo Nacional, 
+según lo establecido en el DFL 5200 artículo 14.
+VIGESIMASEXTA. Seguimiento y control del Proyecto. La beneficiaria tendrá la obligación de 
+realizar un adecuado seguimiento y control del Proyecto durante su ejecución. Sin perjuicio de lo 
+anterior, CONICYT, a través de la Dirección Ejecutiva de FONDEF, supervisará la ejecución del 
+Proyecto, para lo cual la beneficiaria dará al personal de dicha Dirección Ejecutiva y a otros 
+especialistas que acredite CONICYT, las facilidades necesarias para tomar conocimiento directo de 
+dichos trabajos. Se prestará atención especial a aspectos tales como: evidencia de la ejecución 
+técnica y su coherencia con lo presupuestado, vigencia económico-social, documentación de la 
+ejecución financiera y contabilidad del Proyecto, coherencia entre la inversión física y gastos reales 
+con lo declarado. 
+VIGESIMASÉPTIMA. Informes de avance y final. El Director del Proyecto entregará a la CONICYT 
+un informe de avance técnico con contenido científico-tecnológico al cumplirse la mitad del período de 
+ejecución o cuando lo estime conveniente. Estos informes deberán comprender el período de 
+ejecución del proyecto inmediatamente precedente. 
+CONICYT aprobará, formulará observaciones o requerirá aclaraciones de los informes de avance, 
+notificando cualquiera de estas circunstancias a la beneficiaria, dentro del plazo de treinta días 
+corridos contados desde su recepción. En caso de formular observaciones o requerir aclaraciones, el 
+Director del Proyecto dispondrá de treinta días corridos desde dicha notificación, para subsanar las 
+observaciones o efectuar las aclaraciones requeridas. CONICYT deberá pronunciarse sobre dicha 
+respuesta en el plazo de treinta días corridos desde su recepción. En caso de rechazo del respectivo 
+informe, de ausencia de respuesta por parte de la beneficiaria, o si ésta no subsana oportunamente 
+las observaciones o no efectúa las aclaraciones requeridas, CONICYT dispondrá la suspensión del 
+proyecto, de los desembolsos y del reconocimiento de gastos efectuados con el subsidio, en las 
+condiciones establecidas en la cláusula vigesimanovena.
+Además, el Director del Proyecto entregará, dentro de los sesenta días corridos siguientes a la fecha 
+de término de las actividades del Proyecto, un informe final con contenido científico-tecnológico, el 
+cual debe ser ingresado a la plataforma computacional de seguimiento y control sección Término, que 
+recopile toda la información científico-tecnológica, debiendo además la beneficiaria prorrogar la 
+vigencia de los documentos de garantía si correspondiere, de acuerdo a la prórroga de plazos 
+señalados en el presente párrafo. Este plazo de entrega podrá ser ampliado por CONICYT, hasta por 
+un plazo máximo de 180 días corridos, a solicitud fundada de la beneficiaria, la que deberá ser 
+realizada dentro del plazo original establecido para la presentación del informe. Si el informe final no 
+fuere entregado en el plazo que corresponda, CONICYT, a propuesta de la Dirección Ejecutiva de 
+FONDEF, ejecutará el documento de garantía.
+Los informes de avance técnico con contenido científico-tecnológico deberán contener, a lo menos, 
+una relación de las actividades cumplidas y, muy especialmente, de los resultados parciales que 
+deberían haber sido logrados dentro del período y de los resultados efectivamente logrados y, en caso 
+de que uno o más resultados parciales no hubieren sido alcanzados dentro del plazo y con los 
+recursos inicialmente programados, el informe de avance deberá proponer cómo se modificará el plan 
+de trabajo para lograr los resultados parciales y finales del Proyecto dentro de los plazos y recursos 
+establecidos en este Convenio.
+VIGESIMOCTAVA. Modificaciones del Proyecto. Sobre la base de las actividades directas de 
+seguimiento del Proyecto, del análisis y evaluación de los informes de avance, y de los demás 
+Page 35 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ antecedentes con que cuente, CONICYT podrá sugerir la introducción de modificaciones a las 
+actividades, los insumos y el presupuesto del Proyecto, y otras que puedan mejorar la eficiencia y 
+eficacia del mismo, siempre que no se alteren las disposiciones de las Bases, la naturaleza y objeto 
+del Proyecto, el subsidio total máximo de CONICYT ni el aporte total mínimo de la beneficiaria al 
+Proyecto, de acuerdo a lo establecido en las Bases, con recursos propios o de las asociadas. 
+La beneficiaria, a través del Director del Proyecto, podrá proponer modificaciones del mismo a 
+CONICYT, dentro de los límites de control del Proyecto, y, a través del Representante Legal, 
+modificaciones a los límites de control, siempre que no se alteren las disposiciones de las Bases, la 
+naturaleza y objeto del Proyecto, el subsidio total máximo de CONICYT ni el aporte total mínimo de la 
+beneficiaria al Proyecto, de acuerdo a lo establecido en las Bases, con recursos propios o de las 
+asociadas. CONICYT resolverá sobre las solicitudes de modificaciones dentro de los límites de control 
+en un plazo no superior a treinta días corridos contados desde la presentación de la solicitud de 
+modificación, y establecerá el plazo y las condiciones para resolver sobre las solicitudes de 
+modificación de límites de control, pudiendo determinar la suspensión temporal del Convenio si lo 
+estimare conveniente. 
+VIGESIMANOVENA. Suspensión de desembolsos. Conforme a lo establecido en la cláusula 
+decimatercera, CONICYT podrá suspender la ejecución de un proyecto, así como los desembolsos del 
+subsidio a la beneficiaria, y el reconocimiento de gastos realizados con dichos subsidios, en las 
+siguientes circunstancias:
+a)
+Si constatare incumplimiento de las obligaciones contractuales por parte de la beneficiaria.
+b)
+Si el Proyecto, a juicio de CONICYT, no se desarrollare satisfactoriamente, hubiere perdido su 
+relevancia o vigencia, o si estima que el Proyecto no alcanzará los resultados esperados en los 
+plazos estimados.
+c)
+Si no se aceptase por parte de CONICYT un cambio en el equipo de investigación o metodología 
+del proyecto.
+El Representante Legal podrá proponer a CONICYT la suspensión de un proyecto y sus desembolsos 
+en las circunstancias siguientes:
+a)    Si estima que el Proyecto no alcanzará los resultados esperados.
+b)    Si estima que el Proyecto no podrá ejecutarse dentro de parámetros razonables.
+c)    Si estima que el Proyecto ha perdido vigencia.
+d)    Cuando la beneficiaria no pudiere enterar la parte de sus aportes. 
+CONICYT se pronunciará fundadamente sobre esta solicitud de suspensión en un plazo máximo de 60 
+días corridos de recibida. 
+CONICYT establecerá las condiciones para levantar la suspensión y el plazo para cumplirlas y lo 
+comunicará por carta al Representante Legal. La suspensión se hará efectiva a partir de la fecha de 
+notificación de esta carta y el plazo para cumplir las condiciones se contará desde esa fecha. 
+CONICYT podrá fundadamente prorrogar este plazo a solicitud del Representante Legal.
+TRIGÉSIMA. Medidas correctivas y terminación anticipada del Convenio. Las partes convienen 
+que, en los casos que menciona la cláusula anterior, si las condiciones para levantar la suspensión no 
+son aceptadas por la beneficiaria o no son logradas en los plazos establecidos, CONICYT pondrá 
+término anticipado al Convenio.
+También, el Representante Legal podrá solicitar el término anticipado del Convenio si ocurren las 
+circunstancias establecidas en la cláusula anterior, y concluye que ellas no podrán ser resueltas a 
+pesar de la suspensión del proyecto. 
+TRIGÉSIMA PRIMERA. Restitución de los subsidios. Decidido por CONICYT el término anticipado 
+del Convenio, sea a solicitud de la beneficiaria o por su propia determinación, por causas no 
+imputables a negligencia de la beneficiaria, ésta deberá restituir todo saldo no gastado del subsidio 
+que tenga en su poder, en un plazo máximo de 30 días corridos siguientes a que CONICYT notifique a 
+la beneficiaria el acto administrativo que declara el término anticipado del Convenio. 
+Page 36 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ Si la terminación anticipada del Convenio tuviere como causal la presunta negligencia en la ejecución 
+del mismo, previo informe del Director Ejecutivo y sin perjuicio de lo previsto en la cláusula trigésima 
+segunda, quien determinará mediante resolución fundada la restitución total del subsidio entregado a 
+la beneficiaria, expresado en Unidades de Fomento, las que serán convertidas a moneda nacional en 
+la fecha de devolución del subsidio. La restitución deberá concretarse dentro del plazo de treinta días 
+corridos u otro plazo establecido por CONICYT, a contar de la notificación de la resolución fundada 
+recién mencionada.
+En caso que la beneficiaria no cumpla cabalmente lo expuesto en los dos párrafos anteriores, 
+CONICYT podrá hacer efectivas las cauciones constituidas.
+TRIGÉSIMA SEGUNDA. Terminación del Convenio y finiquito. El Convenio se entenderá 
+terminado una vez que CONICYT dé su aprobación al informe final o haya resuelto su término 
+anticipado y se haya procedido al cierre financiero-contable del proyecto. Este cierre ocurrirá con la 
+rendición y aprobación de cuentas del 100% de los fondos transferidos o, si es el caso, con el 
+reintegro a CONICYT de los fondos que no hubieren sido utilizados más los fondos rendidos que 
+fueren rechazados.
+Si, una vez terminado el proyecto, no hubieren sido enterados todos los aportes comprometidos por 
+la(s) beneficiaria(s) y por las entidades asociadas al proyecto, CONICYT solo reconocerá como 
+subsidio al proyecto un monto proporcional al de los aportes efectivamente enterados y respaldados 
+en relación a los comprometidos en el convenio de subsidio; en dicho caso, la(s) beneficiaria(s) 
+deberá(n) reintegrar a CONICYT los saldos desembolsados que excedan esta proporción.
+TRIGÉSIMA TERCERA. Bases del Concurso. Las partes contratantes acuerdan que las Bases que 
+rigen el concurso, los antecedentes fundantes de la presentación del respectivo proyecto y la 
+Resolución Exenta Nº ______ que adjudicó el mencionado concurso, forman parte integrante del 
+presente CONVENIO y obligan a la entidad beneficiaria para los efectos del cumplimiento y aplicación 
+del mismo.
+TRIGÉSIMA CUARTA. CONICYT se reserva el derecho de interpretar el sentido y alcance de las 
+bases del VII Concurso INVESTIGACIÓN TECNOLÓGICA, FONDEF/CONICYT 2018, así como también el 
+presente convenio en caso de dudas y conflictos que se suscitaren sobre la aplicación de las mismas, 
+ya sea, de oficio o a petición de parte.
+TRIGÉSIMA QUINTA: Serán de cargo de la institución beneficiaria los gastos, derechos e impuestos 
+derivados de la celebración del presente convenio o que tengan su origen en la ejecución del mismo, 
+incluidos aquellos que graven o afecten a los documentos que deban suscribirse o aceptarse y los que 
+tengan su causa en el incumplimiento de las obligaciones que para la institución beneficiaria emanen del 
+mismo, incluidas las costas procesales y personales, sin perjuicio de lo señalado en la Cláusula 
+Duodécima sobre el costo financiero de las garantías.
+TRIGÉSIMO SEXTA: La Institución Beneficiaria declara conocer y aceptar la obligación de CONICYT 
+de hacer pública la información presente en este convenio, de acuerdo al artículo 7 letra f) y demás 
+normas aplicables de la Ley N°20.285 sobre Acceso a Información Pública.
+TRIGÉSIMO SÉPTIMA: Las partes dejan establecido que, CONICYT no está contratando o 
+subcontratando Obra o Servicio alguno, si no que otorga una subvención Estatal para el fomento de 
+actividades científicas y/o tecnológicas a ser desarrolladas por terceros adjudicatarios de aquellas 
+subvenciones, de acuerdo a la normativa legal y reglamentaria que regula las funciones del 
+mencionado Servicio. Por ello, entre CONICYT y el director y/o director alterno, investigadores o 
+cualquier otro personal que contrate la entidad beneficiaria o preste servicios para ella, no existe 
+vínculo alguno de subordinación y dependencia, en consecuencia, entre ellos no existe contrato de 
+trabajo, ni en lo principal ni en lo accesorio, ni se rigen en consecuencia por la normativa laboral 
+vigente.
+TRIGÉSIMO OCTAVA: Personería. La personería de los representantes legales de las partes consta 
+al final del presente Convenio.
+TRIGÉSIMA NOVENA. Domicilio. Las partes fijan, para los efectos del presente Convenio, su 
+domicilio en la comuna de Santiago y se someten a la competencia de sus Tribunales Ordinarios.
+Page 37 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ CUADRAGÉSIMA. Ejemplares del Convenio. El presente Convenio se otorga en dos ejemplares de 
+igual tenor, fecha y validez, quedando un ejemplar para cada parte.
+CONICYT
+DIRECTOR EJECUTIVO                         :
+PERSONERÍA                                       :
+FIRMA                                                 :          ________________________________
+ENTIDAD BENEFICIARIA                      :
+REPRESENTANTE LEGAL                                  :
+PERSONERÍA                                       :
+FIRMA                                                 :          _______________________________
+ANEXO 3: Certificaciones, Autorizaciones, Certificados de Ética/Bioética, Bioseguridad, Permisos y Otros.
+En el módulo “Documentación del proyecto - Solicitudes Regulatorias y Autorizaciones”, el(la) 
+postulante deberá ingresar el(los) documento(s) que se indica(n), en formato pdf no protegido 
+generado con el programa PDF Creator. 
+En caso de no contar con el certificado de aprobación al momento del cierre de la convocatoria, el(la) 
+postulante deberá adjuntar la constancia que acredite la recepción de la solicitud emitida por la 
+entidad regulatoria correspondiente (por ejemplo, solicitud del certificado timbrado por el organismo 
+correspondiente). Si el proyecto es adjudicado, deberán entregar a FONDEF la autorización otorgada 
+por el organismo correspondiente al momento de la firma del convenio con CONICYT y antes del 
+primer giro.
+Proyectos que involucran trabajo en/con: 
+Seres humanos y/o material biológico.
+En el contexto de la “Ley N°20.120 sobre la investigación en seres humanos, su Genoma y Prohíbe la 
+Clonación Humana” y normas vigentes, aquellos proyectos que involucren estudios en o con seres 
+humanos (estudios biomédicos, pre-clínicos, clínicos y sociales, que incluyan muestras, datos 
+personales, encuestas, entrevistas, focus groups, análisis sensoriales, etc.) deberán contar con:
+- Certificado del Comité de Ética e Informes del Comité de Bioética, debidamente fundamentado, de 
+la Institución Beneficiaria (en caso de participar más de una institución, deberán presentarse 
+certificados del Comité de ética de la Institución Beneficiaria Principal y de cada institución en la que 
+se realicen los estudios). En el caso particular de aspectos sensibles en investigación (por ejemplo, 
+uso de placebo, participantes de poblaciones vulnerables y de poblaciones originarias, vida privada, 
+intimidad e integridad personal), el Informe del Comité debe considerar, explícitamente, la 
+fundamentación y la justificación de ellos. 
+- Un ejemplar en español del(de los) documento(s) de Consentimiento Informado específico(s) para 
+el estudio, que considere los aspectos particulares del protocolo al que se incorporen los sujetos de 
+estudio.
+- Adicionalmente, es deseable contar con Asentimiento, tratándose de menores desde al menos los 8 
+años hasta un día antes de cumplir 18 años. Este(os) documento(s) debe(n) estar visado(s) por el 
+Page 38 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ Comité de Ética/Bioética que entrega el certificado (revisar página Web de FONDECYT 
+http://www.conicyt.cl/fondecyt/2012/10/31/bioetica/, Sugerencias para Escribir un Consentimiento 
+Informado en Estudios con Personas). Las autorizaciones de los(as) Directores(as) de los 
+Establecimientos e Instituciones que participan en un estudio, no reemplazan las autorizaciones 
+individuales expresadas en el Consentimiento Informado. Asimismo, en el caso de menores de 18 
+años se requiere Consentimiento Informado del(de la) representante legal y en lo posible el 
+Asentimiento del(de la) menor/adolescente.
+Respecto de la aplicación de instrumentos de recolección de datos, es indispensable respetar los 
+requisitos éticos, legales, profesionales y de formación, necesarios para la aplicación de pruebas 
+especializadas (por ejemplo, tests psicológicos). Asimismo, se recomienda verificar que estas pruebas 
+se encuentren validadas en Chile, para el uso en la población o participantes a las que serán 
+administradas. En caso contrario, el(la) Director(a) del proyecto deberá fundamentar su aplicación y 
+explicitar las limitaciones que ello implica para el análisis e interpretación de los resultados.
+Para el uso de materiales biológicos provenientes de seres humanos, se debe revisar la Declaración 
+Internacional sobre los Datos Genéticos Humanos de la UNESCO, disponible en la página Web de 
+FONDECYThttp://www.conicyt.cl/fondecyt/2012/10/31/bioetica/.
+Animales, muestras animales y/o material biológico.
+Los proyectos que incluyan experimentación con animales vivos, o sacrificio, captura, recolección o 
+traslado de animales o especies hidrobiológicas, deberán presentar:
+- Certificado o Informe del Comité de Bioética de la Institución Beneficiaria Principal y de la(s) 
+institución(es) donde se realice la experimentación, fundamentando el empleo de todas las especies 
+involucradas en la investigación, de acuerdo a los principios de las “3Rs” (Reducción, Refinamiento y 
+Reemplazo).
+- Protocolo de manejo animal (debe incluir en detalle especie animal, todos los procedimientos a 
+realizar, técnicas de analgesia, anestesia y eutanasia, si aplica).
+- Protocolo de supervisión (indicadores que se evaluarán en forma periódica para asegurar el 
+bienestar animal), en caso de ser necesario (revisar Sugerencia para la Fundamentación de la 
+Certificación Bioética Animal y Ley N°20.380 “Sobre Protección de Animales”, disponible en la página 
+Web de FONDECYT http://www.conicyt.cl/fondecyt/2012/10/31/bioetica/ )
+- La(s) autorización(es) del(de los) organismo(s) correspondiente(s) (Servicio Agrícola y Ganadero 
+(SAG) o Servicio Nacional de Pesca (SERNAPESCA), entre otros) para la captura, recolección o 
+traslado de las especies en estudio, si corresponde.
+Archivos y/o bases de datos (información sensible).
+Los proyectos que involucren manejo de archivos y/o bases de datos que contienen información 
+sensible deberán anexar las autorizaciones emitidas por el(los) organismo(s) correspondiente(s) 
+garante(s) de la información e indicar las medidas de resguardo que adoptará el(la) Director(a) del 
+Proyecto para proteger la información respectiva.
+Material que represente riesgo en Bioseguridad.
+A aquellos proyectos que consideran manejo de elementos patógenos para seres humanos, animales 
+o plantas, ADN recombinante y/o radioisótopos, desechos u otros elementos de riesgo, se les podrá 
+solicitar durante el proceso de evaluación, la presentación del certificado de un Comité Institucional 
+de Bioseguridad de la Institución Beneficiaria y de la(s) institución(es) donde se realice la 
+experimentación, de acuerdo a las especificaciones contenidas en el “Manual de Normas de 
+Bioseguridad”, editado por CONICYT versión 2008 (disponible en la página Web de FONDECYT 
+http://www.conicyt.cl/fondecyt/2012/09/10/manual-de-normas-de-bioseguridad-2008/). 
+Estudios arqueológicos.
+Los proyectos que requieran la realización de estudios sobre colecciones, deberán incluir 
+autorizaciones formales de las instituciones garantes de aquel patrimonio. 
+Especies protegidas, áreas silvestres protegidas, internación de especies.
+Deberán anexar la(s) autorización(es) del(de los) organismo(s) correspondiente(s): Servicio Agrícola 
+y Ganadero (SAG), Corporación Nacional Forestal de Chile (CONAF), Sistema Nacional de Áreas 
+Silvestres Protegidas del Estado (SNASPE), Servicio Nacional de Pesca (SERNAPESCA), entre otros. 
+Page 39 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ Modificaciones.
+En caso que el proyecto sea adjudicado y de existir modificaciones en la metodología que involucren 
+aspectos bioéticos y/o de bioseguridad, el proyecto deberá ser reevaluado y aprobado por el Comité 
+de Ética/Bioética de la Institución Beneficiaria y/o colaboradora e informado a FONDEF.
+ANEXO 4: Declaración de Singapur sobre la Integridad en la Investigación.
+Preámbulo.
+El valor y los beneficios de la investigación dependen sustancialmente de la integridad con 
+la que ésta se lleva a cabo. Aunque existan diferencias entre países y entre disciplinas en el 
+modo de organizar y llevar a cabo las investigaciones, existen también principios y 
+responsabilidades profesionales que son fundamentales para la integridad en la 
+investigación, donde sea que ésta se realice.
+Principios.
+Honestidad en todos los aspectos de la investigación.
+Responsabilidad en la ejecución de la investigación.
+Cortesía profesional e imparcialidad en las relaciones laborales.
+Buena gestión de la investigación en nombre de otros.
+Responsabilidades.
+1.
+Integridad: Los investigadores deberían hacerse responsables de la honradez de sus 
+investigaciones.
+2.
+Cumplimiento de las normas: Los investigadores deberían tener conocimiento de las 
+normas y políticas relacionadas con la investigación y cumplirlas.
+3.
+Métodos de investigación: Los investigadores deberían aplicar métodos adecuados, basar 
+sus conclusiones en un análisis crítico de la evidencia e informar sus resultados e 
+interpretaciones de manera completa y objetiva.
+4.
+Documentación de la investigación: Los investigadores deberían mantener una 
+documentación clara y precisa de toda la investigación, de manera que otros puedan verificar 
+y reproducir sus trabajos.
+5.
+Resultados de la investigación: Los investigadores deberían compartir datos y resultados 
+de forma abierta y sin demora, apenas hayan establecido la prioridad sobre su uso y la 
+propiedad sobre ellos.
+6. Autoría: Los investigadores deberían asumir la responsabilidad por sus contribuciones a todas 
+las publicaciones, solicitudes de financiamiento, informes y otras formas de presentar su 
+investigación. En las listas de autores deben figurar todos aquellos que cumplan con los 
+criterios aplicables de autoría y sólo ellos.
+Page 40 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ 7.
+Reconocimientos en las publicaciones: Los investigadores deberían mencionar en las 
+publicaciones los nombres y funciones de aquellas personas que hubieran hecho aportes 
+significativos a la investigación, incluyendo redactores, patrocinadores y otros que no 
+cumplan con los criterios de autoría.
+8.
+Revisión por pares: Al evaluar el trabajo de otros, los investigadores deberían brindar 
+evaluaciones imparciales, rápidas y rigurosas y respetar la confidencialidad.
+9. Conflictos de intereses: Los investigadores deberían revelar cualquier conflicto de intereses, 
+ya sea económico o de otra índole, que comprometiera la confiabilidad de su trabajo, en 
+propuestas de investigación, publicaciones y comunicaciones públicas, así como en cualquier 
+actividad de evaluación.
+10. Comunicación pública: Al participar en debates públicos acerca de la aplicación e 
+importancia de resultados de cierta investigación, los investigadores deberían limitar sus 
+comentarios profesionales a las áreas de especialización en las que son reconocidos y hacer 
+una clara distinción entre los comentarios profesionales y las opiniones basadas en visiones 
+personales.
+11. Denuncia de prácticas irresponsables en la investigación: Los investigadores deberían 
+informar a las autoridades correspondientes acerca de cualquier sospecha de conducta 
+inapropiada en la investigación, incluyendo la fabricación, falsificación, plagio u otras prácticas 
+irresponsables que comprometan su confiabilidad, como la negligencia, el listado incorrecto 
+de autores, la falta de información acerca de datos contradictorios, o el uso de métodos 
+analíticos engañosos.
+12. Respuesta a prácticas irresponsables en la investigación: Las instituciones de 
+investigación, las revistas, organizaciones y agencias profesionales que tengan compromisos 
+con la investigación deberían contar con procedimientos para responder a acusaciones de 
+falta de ética u otras prácticas irresponsables en la investigación, así como para proteger a 
+aquellos que de buena fe denuncien tal comportamiento. De confirmarse una conducta 
+profesional inadecuada u otro tipo de práctica irresponsable en la investigación, deberían 
+tomarse las 
+acciones 
+apropiadas 
+inmediatamente, 
+incluyendo la corrección 
+de la 
+documentación de la investigación.
+13. Ambiente para la investigación: Las instituciones de investigación deberían crear y 
+mantener condiciones que promuevan la integridad a través de la educación, políticas claras y 
+estándares razonables para el avance de la investigación, mientras fomentan un ambiente 
+laboral que incluya la integridad.
+Consideraciones sociales: Los investigadores y las instituciones de investigación deberían 
+reconocer que tienen la obligación ética de sopesar los beneficios sociales respecto de los riesgos 
+inherentes a su trabajo.”
+FIN TRANSCRIPCIÓN. 
+2.- CONVÓQUESE a Concurso una vez totalmente tramitada la presente resolución.
+3.- DESE copia de la presente resolución a Oficina de Partes, Dirección Ejecutiva de CONICYT, 
+Departamento de Administración y Finanzas, FONDEF y Fiscalía.
+ANÓTESE, COMUNÍQUESE Y ARCHÍVESE.
+Page 41 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ CHRISTIAN NICOLAI ORELLANA
+Director(a) Ejecutivo
+DIRECCION EJECUTIVA
+CNO / / JVP / jic
+DISTRIBUCION:
+NELLY JERALDO - Secretaria - ADMINISTRACION Y FINANZAS
+OFICINA DE - Buzón Oficina de Partes - GESTION DE PERSONAS
+CLAUDIA PALOMINOS - Secretaria - DIRECCION EJECUTIVA
+MARIA ELENA VILDOSOLA - Secretaria - FISCALIA
+SANDRA VIDAL - Secretaria Dirección - FONDEF
+Firmado Electrónicamente en Conformidad con el Artículo 2º letra F y G de la Ley 19.799 
+Page 42 of 42
+SGDOC
+09-04-2018
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+ 

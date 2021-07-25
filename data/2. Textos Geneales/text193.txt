@@ -1,0 +1,346 @@
+DOCUMENTO ELECTRONICO
+APRUEBA BASES DE POSTULACIÓN DEL CONCURSO
+PROGRAMA REGIONAL STIC-AMSUD, UNDÉCIMA
+CONVOCATORIA, AÑO 2016
+RESOLUCION EXENTO Nº: 3120/2016
+Santiago01/04/2016
+VISTOS:
+Lo dispuesto en el Decreto Supremo N° 491/1971y en el Decreto Supremo N° 97/2015 ambos del
+Ministerio de Educación; Ley de Presupuestos del Sector Público N° 20.882, para el año 2016;
+Resolución N° 1600/2008, de la Contraloría General de la República.
+CONSIDERANDO:
+1.-  El  texto  de  las  Bases  de  Postulación  del  Concurso  Programa  Regional  Stic-Amsud,
+Undécima Convocatoria, Año 2016, que además se adjuntan en original a la presente resolución
+y se entienden formar parte de la misma.
+2.- El Certificado de Revisión de Bases Programa Regional Stic-Amsud y Math-Amsud, Bases de
+Concurso 2016, de fecha 09 de marzo de 2016, del Departamento de Administración y Finanzas de
+CONICYT.
+3.- El Memorándum TED N° 2712/2016, de fecha 11 de febrero de 2016, del Departamento de
+Tecnologías y Procesos, por medio del cual se da V° B° a las base concursales, a la vez que se indica
+que no se habilitarán determinadas plataformas de acuerdo al documento adjunto de las presentes
+bases.
+4.- Los Memorándums TED N° 4635/2016 y 5408/2016, de fecha 15 y 24 de marzo de 2016, del
+Programa de Cooperación Internacional, mediante los cuales se solicita dictar resolución aprobatoria
+de las bases del presente concurso.
+5.- Las facultades que detenta esta Dirección Ejecutiva en virtud de lo dispuesto en el Decreto
+Supremo Nº 491/71 y en el Decreto Supremo N° 97/2015 ambos del Ministerio de Educación.
+RESUELVO:
+1.-  APRUÉBANSE  las  Bases  de  Postulación  del  Concurso  Programa  Regional  Stic-Amsud,  Undécima
+Convocatoria, Año 2016.
+2.- TÉNGASE en calidad de transcripción fiel e íntegra de las BASES CONCURSALES precitadas, el siguiente texto:
+Inicio de Transcripción de Bases
+PROGRAMA REGIONAL STIC-AmSud
+SGDOC
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+1 de 9
+04-04-2016 17:40
+ 11ª CONVOCATORIA
+Año 2016
+I.- El Programa Regional STIC-AmSud
+El Programa Regional STIC-AmSud es una iniciativa de la cooperación francesa y sus contrapartes de Argentina,
+Brasil, Chile, Colombia, Ecuador, Paraguay, Perú, Uruguay y Venezuela orientada a promover y fortalecer la
+colaboración y la creación de redes de investigación-desarrollo en el ámbito de las ciencias y tecnologías de la
+información y las comunicaciones (STIC), a través de la realización de proyectos conjuntos.
+1.1.- Sus objetivos específicos son:
+- Desarrollar la colaboración en el ámbito de las TIC’s a través del intercambio de investigadores y doctorantes y de
+información entre los países de América del Sur implicados, así como entre éstos y Francia.
+- Apoyar proyectos de investigación básica y aplicada que contengan una dimensión potencial de transferencia y de
+innovación tecnológica, con componente regional, entre Francia y al menos dos países sudamericanos asociados.
+- Favorecer en América del Sur las sinergias con otros programas regionales y multilaterales en este sector, en
+particular con la Unión Europea. 
+- Favorecer la participación de jóvenes investigadores para asegurar la continuidad de las redes. 
+1.2.- El Programa STIC-AmSud se apoya en dos comités:
+A.- El Comité Directivo, conformado de la siguiente manera:
+- Por la parte francesa, por representantes del Ministerio de Asuntos Exteriores y del Desarrollo Internacional
+(MAEDI),  del  Centro  Nacional  de  Investigación  Científica  (CNRS),  el  Instituto  Nacional  de  Investigación  en
+Informática y Automática (INRIA) y por el Instituto MINES-TELECOM;
+- Por la parte sudamericana, por representantes del Ministerio de Ciencia, Tecnología e Innovación Productiva de
+Argentina (MINCYT), de la Coordinación de Perfeccionamiento del Personal de Nivel Superior del Ministerio de
+Educación  de  Brasil  (CAPES),  de  la  Comisión  Nacional  de  Investigación  Científica  y  Tecnológica  de  Chile
+(CONICYT), del Consejo Nacional de Ciencia y Tecnología del Paraguay (CONACYT), del Consejo Nacional de
+Ciencia, Tecnología e Innovación Tecnológica de Perú (CONCYTEC) y de la Agencia Nacional de Investigación e
+Innovación del Uruguay (ANII), el Ministerio del poder popular para la Educación Universitaria, Ciencia y Tecnología
+de Venezuela (MPPEUCT), COLCIENCIAS de Colombia, y la Secretaría de Educación Superior, Ciencia Tecnología
+e Innovación de Ecuador (SENESCYT).
+B.- El Comité Científico, constituido:
+- Por la parte francesa, por representantes del CNRS, del INRIA y del Instituto MINES-TELECOM;
+- Por la parte sudamericana, por científicos designados por el CONCYTEC, el MINCYT, el CONACYT, la CAPES, la
+CONICYT, la ANII, MPPEUCT, ColCiencias y el SENESCYT.
+II.- Publicación y calendario del concurso
+CONICYT convocará al presente concurso a través de un diario de amplia circulación nacional, y en su sitio web.
+El cierre de este concurso será el 15 de mayo del 2016.
+III.- Instrucciones para la constitución y el envío de las propuestas
+3.1.- Modalidad de la cooperación
+Presentación de proyectos conjuntos de investigación y desarrollo que incluyan misiones de investigación entre
+los grupos participantes, la realización de talleres y/o de escuelas intensivas (cursos de corta duración) que
+SGDOC
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+2 de 9
+04-04-2016 17:40
+ permitan la participación de profesores y estudiantes.
+3.2.- Áreas temáticas
+El llamado está abierto a todas las temáticas relacionadas al ámbito de las TIC’s. Las propuestas cuyas temáticas
+científicas estén matizadas de otras áreas científicas, tales como ciencias de la ingeniería, pueden considerarse
+dado que requieren también un importante trabajo innovador en TIC.
+3.3.- Duración de los proyectos
+Cada proyecto tendrá una duración de dos años. El Coordinador Internacional del proyecto deberá enviar a la
+Secretaria el informe de avance antes del 1er de octubre del 2017. Al culminar el primer año de ejecución y, de
+acuerdo al informe de lo realizado, el Programa decidirá la entrega de recursos financieros para el segundo año.
+3.4.- Participantes
+Pueden postular unidades y laboratorios de investigación, públicos o privados, vinculados a establecimientos de
+enseñanza superior, organismos de investigación o empresas.
+Cada proyecto deberá asociar al menos un grupo de investigación francés y al menos dos grupos de investigación
+pertenecientes a dos países sudamericanos participantes.
+3.5.- Financiamiento
+3.5.1.- La modalidad de financiamiento es la siguiente: el organismo que envía cubre los gastos de pasajes de
+sus investigadores y los gastos de estadía de sus investigadores.
+3.5.2.- Los proyectos deberán explicitar en sus presupuestos los co-financiamientos solicitados para cada año. Los
+recursos se entregarán anualmente.
+3.5.3.- Los gastos serán detallados indicando número de misiones, objetivos de cada una, duración, país de destino
+y nombre del beneficiario.
+3.5.4.- Los presupuestos solicitados deberán indicar los aportes de: 
+- Cada organismo sudamericano participante,
+- El Ministerio francés de Asuntos Extranjeros,
+- El o los organismos o laboratorios de investigación franceses.
+Si se requiere orientación sobre el financiamiento solicitado a las distintas contrapartes, puede contactar a cada
+institución nacional participante del programa (como referencia, el monto total aprobado por proyecto, por año y por
+todos los organismos que financian el proyecto es de aproximadamente 10.000.- € y 15.000.- €).  En todo caso, el
+presupuesto solicitado debe adaptarse al proyecto científico.
+3.6.- Duración de las misiones[1]
+-Se financiarán misiones de una duración igual o inferior a 30 días.
+DD
+- Se recomienda particularmente que la duración de las misiones sea de un mínimo de 10 días en caso de traslados
+entre Francia y América del Sur (y viceversa), y de una semana dentro de la región sudamericana.
+- Se debe realizar, al menos, un intercambio de Francia a América del Sur y de América del Sur a Francia durante la
+ejecución del proyecto.
+- Asimismo, se valorará positivamente la realización de una reunión de trabajo en América del Sur con todo el
+equipo de investigación.
+3.7.- Propiedad intelectual
+SGDOC
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+3 de 9
+04-04-2016 17:40
+ Los responsables de los proyectos deberán tomar en consideración las disposiciones necesarias para la protección
+de la propiedad intelectual.
+3.8.- Modalidades y criterios de selección
+3.8.1.- Revisión de los proyectos en términos administrativos por cada organismo. Las postulaciones incompletas o
+que no den cumplimiento a los requisitos establecidos en la presente convocatoria, serán declaradas fuera de base
+y no entrarán al proceso de evaluación.
+3.8.2.- Evaluación científica por dos expertos internacionales designados por el Comité Científico.
+3.8.3.- Revisión de las evaluaciones internacionales y clasificación de los proyectos, por parte del Comité Científico.
+3.8.4.- Selección y aprobación de los proyectos por el Comité Directivo, en base a la evaluación internacional, al
+informe del Comité Científico y a la disponibilidad presupuestaria.
+3.8.5.- Además de la excelencia científica, los principales criterios de selección de los proyectos, que tienen la
+misma ponderación, son:
+su carácter innovador;
+la creación de nuevas colaboraciones internacionales;
+la capacidad de generar una cooperación regional efectiva;
+la complementariedad de los participantes;
+la transferencia mutua de competencia y de innovación;
+los antecedentes de los grupos de investigación;
+la participación de jóvenes en proceso de formación;
+3.8.6.- Se valorará la presentación de un proyecto con propuesta de transferencias tecnológicas.
+3.8.7.- La aprobación o el rechazo de los proyectos, será notificado oficialmente a cada responsable científico del
+proyecto  por  la  institución  nacional  correspondiente.  Asimismo,  respecto  de  los  proyectos  aprobados,  cada
+institución informará al responsable científico que le corresponde los recursos otorgados, indicando las modalidades
+y el calendario de desembolso
+3.8.8.- CONICYT, a través del acto administrativo correspondiente, ratificará el fallo y adjudicará el concurso sobre
+la base de lo resuelto en la reunión de fallo organizada por la Secretaría del Programa, estableciendo los beneficios
+adjudicados al investigador nacional. La resolución de CONICYT contendrá la lista de propuestas que incluyan
+participación nacional y su correspondiente financiamiento. Dicha información será publicada en la página Web
+institucional.
+3.9.- Coordinación
+Cada proyecto deberá indicar un responsable científico/a por institución y uno de los participantes actuará como
+Coordinador/a Internacional designado/a por los miembros del proyecto.
+3.10.- Puesta en marcha de los proyectos
+3.10.1.- Con respecto a los  proyectos aprobados,  cada institución informará al responsable científico que le
+corresponde los recursos otorgados, indicando las modalidades y el calendario de desembolso.
+3.10.2.- Una vez puesto en marcha el proyecto, el coordinador internacional deberá desarrollar un sitio internet en
+donde  se  reflejen  las  actividades  del  mismo,  el  cual  deberá  ser  informado  a  la  Secretaría  del  Programa
+STIC-AmSud.
+3.10.3.- El Coordinador Internacional de cada proyecto deberá enviar dos reportes a la Secretaría del Programa
+STIC-AmSud: el 1ro de octubre del primer año de desarrollo del proyecto (informe de avance) y el segundo (informe
+final) en el plazo de los tres meses siguientes a la finalización del mismo.
+3.10.4.- En la evaluación del informe final presentado, se considerarán las publicaciones conjuntas, la obtención de
+patentes, las tesis desarrolladas en el marco del proyecto, la formación de redes y otros tipos de colaboración.
+Todos los documentos generados en el marco de esta colaboración deberán indicar explícitamente el apoyo
+financiero recibido por el Programa Regional STIC-AmSud utilizando el siguiente formato: PROGRAMA REGIONAL
+STICAMSUD + Código del Proyecto.
+SGDOC
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+4 de 9
+04-04-2016 17:40
+ 3.10.5.- Los responsables científicos nacionales así como el/la coordinador/a internacional que formen parte de
+proyectos solo podrán presentar un nuevo proyecto, una vez aprobado el informe final del proyecto anterior en el
+que participaron.  Deberán  obligatoriamente  referirse a nuevas  temáticas  a investigar. Sin embargo,  se  dará
+prioridad a equipos que no hayan sido financiados en los últimos dos años así como a equipos que incluyan
+doctorantes y/o post-doctorantes.
+3.11.- Transferencia de fondos, garantías y rendiciones de cuentas.
+3.11.1.-  En  todos  los  proyectos  financiados  por  CONICYT,  cuyo  presupuesto  total  sobrepase  el  monto  de
+$50.000.000.- (cincuenta millones de pesos) o su presupuesto anual los $20.000.000.- (veinte millones de pesos),
+será obligatorio contar con una cuenta corriente exclusiva para el manejo de los recursos entregados por CONICYT
+al proyecto.
+3.11.2.- Con el objeto de garantizar el fiel cumplimiento del convenio celebrado con CONICYT, al momento de su
+firma el/la investigador/a responsable en Chile deberá presentar un mandato especial y un pagaré en blanco,
+firmado (ambos documentos) ante notario. El formato del mandato especial y del pagaré será entregado por
+CONICYT.
+3.11.3.- Las rendiciones de cuentas se regirán en lo que corresponda, a las normas establecidas por la Resolución
+Nº 30 del 11 de marzo de 2015 de la Contraloría General de la República y por CONICYT.
+3.12.- Presentación de las propuestas
+El coordinador internacional deberá enviar por correo electrónico una versión pdf en inglés del proyecto incluyendo
+los CVs de los participantes, a la Secretaría del programa STIC-AmSud: sticamsud@sticamsud.org antes del 15 de
+mayo de 2016 a las 24 hs. de Chile.
+Para los investigadores de Brasil, deben presentar el proyecto a CAPES entre el 1° de enero 2016 al 31 de mayo
+2016. Igualmente el coordinador internacional, lo envía a la Secretaría de este Programa.
+Para los investigadores de Colombia que solicitan financiamiento a Colciencias, ellos deben estar reconocidos en
+las 3 categorías que cuenta dicha institución.
+Los formularios para la presentación de proyectos están disponibles
+en la página web de STIC-AmSud www.sticamsud.org
+hasta el 15 de mayo de 2016 a las 24.00 hrs. de Chile y en los sitios web de cada organismo participante
+Contacto :
+Secretaría del programa STIC-AmSud en Santiago, Chile
+sticamsud@sticamsud.org
+ (56 2) 2365 4421 / 44 32
+EN CASO NECESARIO Y PARA MAYOR INFORMACIÓN, SE ADJUNTA LA LISTA DE CONTACTOS DE LOS
+ORGANISMOS QUE FORMAN PARTE DE ESTE PROGRAMA
+Contacts
+MINCYT:
+Dirección de Relaciones Internacionales
+Av. Godoy Cruz 2320
+C1425FQD Buenos
+ARGENTINA
+SGDOC
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+5 de 9
+04-04-2016 17:40
+ Aires                                                                     
+Tel.: (+54-11) 48 99 5000 int. 4116
+www.mincyt.gov.ar
+Contact: Karina Pombo – kpombo @mincyt.gov.ar 
+CAPES:
+Coordenação Geral de Cooperação Internacional, CGCI/CAPES
+Setor Bancário Norte, Quadra 2, Bloco L, Lote 06, CEP 70040-020 
+Brasília, DF
+Tel.: (+55) (61) 20 22 66 85
+www.capes. gov.br                                                      
+Contact: mathamsud@capes.gov.br / sticamsud@capes.gov.br
+Marianna Papa – marianna.papa@capes.gov.br
+BRASIL
+CONICYT:
+Programa de Cooperación Internacional
+Moneda 1375, Santiago de Chile.
+Tel.:  (+56-2) 2365 4421
+www.conicyt.cl
+Contact: Cecilia Velit – cvelit@conicyt.cl
+CHILE
+CONACYT :
+Consejo Nacional de Ciencia y Tecnología
+Dr. Justo Prieto Nº 223 entre Teófilo del Puerto y Nicolás Billof
+Villa Aurelia
+Código postal: 1863
+Asunción
+Tel.: (+595-21) 506 223/ 331/ 369
+www.conacyt.gov.py
+Contact: Jose Schvartzman – jschvartzman@conacyt.gov.py
+PARAGUAY
+CONCYTEC:
+Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica
+www.concytec.gob.pe
+Contact: Jose Luis Solis – jsolis@concytec.gob.pe
+Marissa González - Otoya Barrera- mgonzalez@concytec.gob.pe
+PERÚ
+SGDOC
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+6 de 9
+04-04-2016 17:40
+ ANII:
+Agencia Nacional de Investigación e Innovación
+Rincón 528 Piso 2    
+11100 Montevideo                      
+Tel: (+598) 2 916 6916
+Contact: Maria Laura Fernandez – mlfernandez@anii.org.uy
+www.anii.org.uy
+URUGUAY
+ColCiencias
+Departamento Administrativo de Ciencia,Tecnología e Innovación -
+Colciencias
+Kr 7b Bis # 132-28, Bogotá D.C
+Contact: Carlos Orlando Ladino Siabatto-
+coladino@colciencias.gov.co
+Angela Maria Jaramillo Gomez- amjaramillo@colciencias.gov.co
+COLOMBIA
+MPPEUCT
+Ministerio del Poder Popular Para Educación Universitaria, Ciencia,
+Tecnología
+Av Universidad Esquina El Chorro- Torre Ministerial
+Caracas – Venezuela
+Tel: (58212) 5557565
+Contact: Jorge Ernesto  Ernesto Rodriguez –
+jorodriguez@suscerte.gov.ve
+Jesús Salazar – jasorta@gmail.com
+VENEZUELA
+SENESCYT
+Secretaría de Educación Superior, Ciencia, Tecnología e
+Innovación
+Whymper E7-37 y Alpallana
+170516 / Quito – Ecuador
+Contact: Jaime Medina –jmedina@senescyt.gob.ec
+ECUADOR
+MAEDI :
+Delegación Regional de Cooperación para Cono Sur y Brasil
+Condell 65, Providencia – Santiago, Chile
+Tel. : (+56) 2 2 4708007
+www.franceamsud.org
+Contact: Laeticia Quilichini –laetitia.quilichini@diplomatie.gouv.fr
+FRANCE
+SGDOC
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+7 de 9
+04-04-2016 17:40
+ INRIA:
+Direction des Relations Internationales
+Domaine de Voluceau – Rocquencourt
+B.P. 105 – 78153 Le Chesnay Cedex,                                           
+Tel: (+33) 1 39 63 57 68
+www.inria.fr
+Contact: Tania Castro – tania.castro@inria.fr
+FRANCE
+CNRS
+DERCI
+3 rue Michel-Ange
+75016 Paris
+Tel. : (+33 1) 44 96 46 79
+www.cnrs.fr
+Contacts: Claire Giraud – claire.giraud@cnrs-dir.fr
+Jean Theves –Jean.THEVES@cnrs-dir.fr
+FRANCE
+Institut MINES-
+TELECOM :
+Délégué à l'international - Direction Scientifique
+46, rue Barrault - 75634 PARIS Cedex 13                         
+Tel : (+33)1 45 81 70 65
+www.mines-telecom.fr
+Contact: Pierre Simay – pierre.simay@institut-telecom.fr
+FRANCE
+SGDOC
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+8 de 9
+04-04-2016 17:40
+ Fin de Transcripción de Bases
+3.- CONVÓQUESE a concurso una vez totalmente tramitado el presente acto administrativo.
+4.- DISTRIBÚYASE la presente resolución a Dirección Ejecutiva, Programa de Cooperación Internacional y Fiscalía.
+[1] CAPES y CONACYT no financian estadías cortas/misiones de trabajo de doctorantes.
+ANÓTESE Y COMUNÍQUESE
+CHRISTIAN NICOLAI ORELLANA
+Director(a) Ejecutivo
+DIRECCION EJECUTIVA
+CNO / / JVP / smm
+DISTRIBUCION:
+INGRID MARLENE TAPIA - Secretaria Dirección - RELACIONES INTERNACIONALES
+MARIA CECILIA VELIT - Coordinador(a) de Programas - RELACIONES INTERNACIONALES
+OFICINA DE - Buzón Oficina de Partes - GESTION DE PERSONAS
+Firmado Electrónicamente en Conformidad con el Artículo 2º letra F y G de la Ley 19.799
+SGDOC
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+9 de 9
+04-04-2016 17:40

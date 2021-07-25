@@ -1,0 +1,6464 @@
+
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 1 de 33 
+                                       
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS - 
+ 
+ 
+CONVOCATORIA PARA CONFORMAR CENTROS DE EXCELENCIA Y APROPIACION 
+EN INTERNET DE LAS COSAS (IoT) – 2014 
+ 
+ 
+ 
+1. PRESENTACIÓN 
+ 
+COLCIENCIAS, como ente rector de la Ciencia, la Tecnología y la Innovación en el país, 
+en alianza con el Ministerio de Tecnologías de la Información y las Comunicaciones, 
+busca con esta convocatoria la creación, montaje y operación de un Centro de Excelencia 
+y Apropiación - CEA en Internet de las Cosas (IoT) parla generación de soluciones 
+innovadoras apalancadas en TI que agreguen valor a los sectores estratégicos del país. 
+ 
+Se trata de impulsar, promocionar y desarrollar las Tecnologías de la Información y las 
+Comunicaciones en la industria, la academia y los diferentes sectores que puedan 
+intervenir en ella, con el fin de contribuir al incremento de la productividad y la 
+competitividad tanto del sector TIC como de otros sectores de la economía donde existen 
+oportunidades de valor agregado a través IoT. 
+ 
+Por medio de iniciativas-proyectos de Investigación, Desarrollo e Innovación (I+D+i), la 
+alianza de Colciencias y el Ministerio TIC desarrolla y apoya el diseño e implementación 
+de soluciones innovadoras en TIC que buscan, a través de la asociación y convergencia 
+de grupos de interés (academia, industria y gobierno) el posicionamiento de una cultura 
+de innovación donde surjan lazos de sociedad nacional en pro de una visión compartida 
+para el sector. En cuanto los actores partícipes de los proyectos puedan avanzar en la 
+consolidación de una sociedad, más allá de las relaciones contractuales existentes, surge 
+un Ecosistema de Innovación. 
+ 
+Los Centros de Excelencia y Apropiación - CEA buscan promocionar en Colombia la 
+industria de IoT y proyectarla, de la mano de la academia y con el apoyo del Estado, a 
+nivel mundial. La riqueza de la información y los desarrollos existentes a nivel mundial que 
+podrán hacerse en Colombia, harán de los Centros de Excelencia y Apropiación CEA 
+motores de innovación TIC en beneficio de un Ecosistema de Innovación Nacional y del 
+emprendimiento y empresarismo.  
+ 
+Los Centros de Excelencia y Apropiación - CEA deberán contar con talento humano 
+capacitado, multidisciplinario y polivalente, que permitan el fortalecimiento, generación y 
+aplicación de competencias IoT. De esta manera, los Centros de Excelencia y Apropiación 
+- CEA  deberán contar con grupos de investigación, desarrollo tecnológico y/o innovación  
+del más alto nivel,  que apoyen la formación del talento humano en niveles de maestría, 
+doctorado y posdoctorado con capacidad de especialización sectorial y en nuevas 
+tecnologías. 
+ 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 2 de 33 
+La universidad, como vector de la investigación aplicada, permitirá que los Centros de 
+Excelencia y Apropiación - CEA se posicionen como motores de innovación en TIC con un 
+alcance nacional e internacional para el desarrollo de soluciones a la medida; siendo un 
+enlace entre la oferta de líderes mundiales en IoT y la demanda de grandes empresas de 
+otros sectores estratégicos de la economía, generando oportunidades para la industria 
+nacional.  
+ 
+Teniendo en cuenta que los Centros de Excelencia y Apropiación - CEA están concebidos 
+para fortalecer la formación de talento humano en competencias necesarias y 
+relacionadas con IoT, los líderes del sector TIC participan en el proceso de formación con 
+el fin de promover el desarrollo de innovaciones y soluciones que fortalecen el sector TIC 
+nacional y agregan valor a otros sectores estratégicos. Se generan así, adicionalmente, 
+oportunidades de negocio y la posibilidad de contar con talento humano formado en las 
+competencias que estos grandes actores requieren para el desarrollo de sus actividades y 
+negocios. Un capital humano con capacidad de vincular las TIC como valor agregado a 
+negocios estratégicos de la economía nacional. 
+ 
+Las grandes empresas de otros sectores tienen visiones, ideas muy específicas; dichas 
+visiones e ideas generan oportunidades para que los Centros de Excelencia y Apropiación 
+desarrollen prototipos y productos y éstos estén disponibles en el mercado. 
+ 
+De esta manera, con el fin de converger hacia un Ecosistema de Innovación Nacional, el 
+CEA debe hacer partícipes a grupos de interés estratégicos. Entre ellos se encuentran: 
+proveedores, clientes, competidores y complementarios. 
+ 
+En el modelo de CEA en IoT, se consideran Proveedores a los líderes mundiales en la 
+materia – denominados “Big Players”; capaces de suministrar/integrar tecnología, 
+conocimiento, buenas prácticas, que buscan posicionar sus productos y conocimientos. 
+Las universidades y los Big Players trabajan de la mano de clientes y empresas ancla – 
+organizaciones/empresas de actividad comercial de otros sectores – en la administración 
+y análisis de oportunidades para el desarrollo de innovaciones en base a información 
+provenientes de una gran variedad de fuentes que exigen alta velocidad y desempeño. En 
+busca de un Ecosistema de Innovación, el modelo del CEA deberá vincular e integrar 
+como socios a actores que podrían estar representados por Centros de Investigación, 
+Centros de Desarrollo, Centros de Excelencia, entre otros, que pueden ser aliados 
+estratégicos por su conocimientos y capacidades específicos en TIC o en diferentes 
+negocios. 
+ 
+Se debe buscar que tanto proveedores, competidores y clientes, sean socios del Centro 
+de Excelencia y Apropiación, y que a través de spin-offs y emprendimientos se genere 
+una dinámica dentro de la industria TIC nacional en beneficio de un Ecosistema de 
+Innovación Nacional y así, a través del fortalecimiento de actores principales y 
+complementarios, genere valor al sector. 
+ 
+La convergencia de estos actores permitirá lograr una sinergia donde cada uno de estos 
+genere valor mutuo, potencializando el análisis y la ingeniería de datos en sectores 
+estratégicos del país y generando una dinámicas e innovaciones dentro de la industria 
+nacional TIC y de otras industrias, que impulse y fortalezcan las TIC en Colombia. 
+ 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 3 de 33 
+2. OBJETIVOS 
+ 
+2.1 GENERAL: 
+ 
+Financiar un proyecto para la creación, montaje y operación de un Centro de Excelencia y 
+Apropiación - CEA en Internet de las Cosas (IoT) que genere soluciones innovadoras 
+apalancadas en TIC y en el análisis, la ciencia y la ingeniería de los datos que agreguen 
+valor a los sectores estratégicos del país, con proyección internacional. 
+ 
+2.2 ESPECÍFICOS: 
+ 
+2.2.1. Conformar un Centro de Excelencia y Apropiación en el cual los investigadores 
+tanto nacionales como extranjeros puedan desarrollar nuevos productos y tecnologías 
+relacionadas con las temáticas de Internet de las Cosas - IoT. 
+ 
+2.2.2. Generar las condiciones suficientes para que diferentes instituciones de alto nivel 
+puedan aunar esfuerzos alrededor de un objetivo común tendiente al desarrollo de la 
+temática de IoT. 
+ 
+2.2.3. Ofrecer a los diferentes sectores de la industria tanto nacional como internacional, 
+servicios y productos tendientes fortalecer las estrategias corporativas y desarrollar la 
+competitividad de la industria nacional TIC. 
+ 
+2.2.4. Desarrollar soluciones innovadoras con base en IoT que fortalezcan las nuevas 
+tecnologías como valor agregado a sectores estratégicos el país.  
+ 
+2.2.5. Desarrollar y reforzar las capacidades y competencias del talento humano, a 
+través de las experiencias de los actores con programas de formación altamente 
+especializada.  
+ 
+2.2.6. Desarrollar un ecosistema de emprendimiento basado en spin-offs y start-ups. 
+ 
+2.2.7. Posicionar a Colombia como país líder en la región con oportunidades en el sector 
+TIC en el desarrollo de Internet de las Cosas (IoT) generando externalidades 
+positivas para fortalecerse y especializarse. 
+ 
+ 
+3. DIRIGIDA A 
+ 
+Alianzas estratégicas entre universidades, entidades líderes y entidades ancla de acuerdo 
+con las siguientes definiciones: 
+ 
+a) UNIVERSIDAD: Universidades públicas o privadas con acreditación vigente de alta 
+calidad expedida por el Ministerio de Educación Nacional.  
+  
+b) ENTIDAD LÍDER: Se consideran entidades líderes las personas jurídicas, de 
+economía mixta o privada, con ánimo de lucro del sector productivo y de servicios, 
+nacionales o extranjeras, legalmente constituidas en Colombia. Adicionalmente, 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 4 de 33 
+deberán ser líderes del mercado internacional en el sector TIC en áreas relacionadas 
+con Internet de las Cosas (IoT); para evaluar dicho liderazgo, se tomará como 
+referencia 
+los 
+cuadrantes 
+mágicos 
+de 
+Gartner 
+(para 
+mayor 
+información 
+www.gartner.com). 
+ 
+c) ENTIDAD ANCLA: Se consideran entidades ancla las personas jurídicas, de 
+economía mixta o privada, con ánimo de lucro del sector productivo y de servicios, 
+nacionales o extranjeras, legalmente constituidas en Colombia, las cuales ocupan 
+una posición de liderazgo demostrable a través de su participación en el mercado al 
+cual están orientadas y donde las MiPyMes hacen parte de sus cadenas de 
+distribución 
+o 
+proveeduría. 
+Las 
+entidades 
+ancla 
+adicionalmente 
+deberán 
+representar/poseer demanda significativa por su especificidad y monto de productos y 
+servicios con gran potencial para proyectar el desarrollo de técnicas, modelos, 
+soluciones o aplicaciones de Internet de las Cosas – IoT. 
+ 
+Notas: 
+ 
+1. Una entidad no puede ser simultáneamente líder, ancla y Universidad en el mismo 
+proyecto. 
+ 
+2. Las alianzas estratégicas deben estar conformadas, como mínimo, por dos (2) 
+universidades, dos (2) entidades líder y dos (2) entidades ancla,  (podrán haber más 
+de dos de cada una de éstas, lo cual generará puntaje adicional en la evaluación). 
+Para las universidades, de la tercera en adelante podrán no estar acreditadas, pero 
+deberán estar en el proceso de acreditación. 
+ 
+ 
+3. Las alianzas entre las entidades deberán asegurar la creación de una figura-persona 
+jurídica independiente de los socios. Se entiende que el CEA es motor de innovación 
+en IoT y TIC ; que hace partícipe a diferentes grupos de interés, generando una 
+dinámica dentro de la industria TIC nacional en beneficio de un Ecosistema de 
+Innovación Nacional, de emprendimiento y de empresarismo. La alianza entonces 
+deberá crear una personería jurídica en capacidad de desarrollar los modelos de 
+sostenibilidad y negocio atribuidos al CEA y aún más de asumir el protagonismo 
+requerido en un ecosistema con interacción y asociación con socios nacionales e 
+internacionales. 
+ 
+4. REQUISITOS MÍNIMOS  
+ 
+Los requisitos mínimos para participar en la presente convocatoria, son los siguientes: 
+ 
+4.1. Inscripción del proyecto en el Sistema Integrado de Gestión de Proyectos de 
+COLCIENCIAS – SIGP a través del formulario electrónico disponible en el portal de 
+COLCIENCIAS (www.colciencias.gov.co). 
+ 
+4.2. La alianza estratégica para la conformación del Centro de Excelencia y Apropiación - 
+CEA debe estar conformada, como mínimo, por dos (2) Universidades,  dos (2) 
+entidades líderes y dos (2) entidades ancla. Para las Universidades, de la tercera en 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 5 de 33 
+adelante podrán no estar acreditadas, pero deberán estar en el proceso de 
+acreditación. 
+ 
+4.3. 
+Carta de la alianza estratégica entre las universidades, entidades líderes y 
+entidades ancla, firmada por los representantes legales de las partes, en la cual se 
+designe a una de las universidades como ejecutor del proyecto; así mismo, deberá 
+describirse la contrapartida de 1:1. En caso que el representante legal no cuente con 
+la competencia para asumir los compromisos consignados en la carta de alianza 
+estratégica, deberá presentar documento que lo faculte firmado por el órgano 
+competente. Ver Anexo 1. 
+ 
+4.4. 
+Cada una de las empresas líderes deberá acreditar como mínimo veinticuatro (24) 
+meses de constituidas a la fecha de apertura de la presente convocatoria. Para el 
+caso de las empresas líderes extranjeras, deberán contar con representación legal en 
+Colombia de mínimo un año a la fecha de apertura de la presente convocatoria y/o 
+estar asociadas con una empresa nacional que acredite como mínimo veinticuatro 
+(24) meses de constituida a la fecha de apertura de la presente covocatoria. El 
+anterior requisito será verificado por COLCIENCIAS mediante los Certificados de 
+Existencia y Representación legal de cada uno de los miembros de la Alianza. 
+ 
+4.5. Las universidades deben tener acreditación nacional vigente (adjuntar resoluciones 
+de acreditación correspondientes), y deben contar con grupos de investigación, 
+desarrollo tecnológico y/o innovación  en temáticas y/o actividades relacionadas con 
+el objeto del Centro de Excelencia y Apropiación – CEA; se consideran grupos de 
+investigación, desarrollo tecnológico y/o innovación  aquellos que a la fecha de 
+apertura de la presente convocatoria se encuentran   reconocidos 
+por 
+COLCIENCIAS como resultado de la convocatoria 640 de 2013. 
+ 
+4.6. 
+La propuesta de la Alianza debe incluir la creación de un Centro de Excelencia y 
+Apropiación - CEA que cuente como mínimo con tres (3) grupos de investigación, 
+desarrollo tecnológico y/o innovación reconocidos por COLCIENCIAS como resultado 
+de la convocatoria 640 de 2013. Cada grupo a su vez debe contar, como mínimo con: 
+un (1) PhD, tres (3) estudiantes doctorales y diez (10) estudiantes de maestría, todos 
+con dedicación de tiempo total.  Los miembros de los grupos deben estar enfocados 
+en áreas de Internet de las Cosas.  
+ 
+4.7. 
+Documento de  intención de  acuerdo de propiedad intelectual entre entidades que 
+presentan el proyecto y entre los investigadores que participarían en el proyecto, 
+deberán aclarar de manera explícita la distribución de derechos de autor y de 
+propiedad intelectual de los productos y resultados que desprendan del eventual 
+desarrollo del proyecto presentado (ver anexo 2) 
+ 
+4.8. 
+Carta de presentación, aval y aceptación de compromisos, relacionando que este 
+proyecto no está siendo presentado en otra convocatoria y no está siendo financiado 
+con otros recursos del Estado, firmada por el representante legal de la empresa de TI. 
+Ver Anexo 3.  
+ 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 6 de 33 
+4.9. 
+Carta de autorización de uso y almacenamiento de datos personales de las 
+personas involucradas en el proyecto. Diligenciar de acuerdo con el formato del 
+Anexo 4, uno por cada una de las personas involucradas en el proyecto. 
+ 
+4.10. Componer la estructura presupuestal del proyecto únicamente con los rubros de 
+financiación y contrapartida descritos en la presente convocatoria. 
+ 
+4.11. Documento en el cual la entidad líder demuestre su posición de liderazgo en el 
+mercado, a través del análisis de los cuadrantes mágicos de Gartner (para mayor 
+información www.gartner.com). 
+ 
+4.12. La entidad ancla deberá demostrar su posición de liderazgo en el mercado 
+mediante la presentación de un documento que contenga como mínimo los aspectos 
+que se describen a continuación: 
+  
+ 
+Liderazgo demostrable a través de su participación en el mercado al cual está 
+orientada y donde las MiPyMes hacen parte de su cadena de distribución o 
+proveeduría 
+ 
+ Demostrar que representa/posee demanda significativa por su especificidad y 
+monto de productos y servicios con gran potencial para proyectar el desarrollo de 
+técnicas, modelos, soluciones o aplicaciones de Internet de las Cosas.  
+ 
+4.13. Las universidades no acreditadas que hagan parte de la alianza, deberán entregar 
+un documento que demuestre que se encuentran en proceso de acreditación. 
+ 
+4.14. Documento donde describa la propuesta de valor, donde  se entienda la 
+descripción del producto y/o servicio que se desea implementar en el Centro de 
+Excelencia y Apropiación (CEA) para cubrir una necesidad de mercado, normalmente 
+se trata de un problema que hasta ahora no se ha resuelto o bien de cubrir una 
+necesidad ya satisfecha por encima de las expectativas actuales, para un grupo 
+suficientemente significativo de clientes. 
+ 
+Las características para describir una propuesta de valor innovadora son: 
+focalización, divergencia en relación a otras propuestas del mercado similares y que 
+se pueda transmitir a través de un mensaje contundente1.Teniendo en cuenta que el 
+Centro de Excelencia y Apropiación (CEA) busca posicionar a Colombia como líder y 
+referente en Big Data Analytics a nivel nacional e internacional, la evaluación de la 
+propuesta de valor tendrá en cuenta la calidad de los socios que participen en la 
+conformación de los Centros. 
+ 
+Notas: 
+ 
+1. Los interesados deberán cumplir con la totalidad de los requisitos mínimos para que su 
+proyecto sea evaluado, en caso contrario no continuarán al proceso de evaluación. 
+                                                           
+1 Principios de la Innovación en Valor propuestos por W. Chan Kim y Renée Mauborgne en su publicación Blu 
+Ocean Strategy 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 7 de 33 
+2. Las entidades que se presenten en alianza y que tengan contratos o convenios 
+vigentes con COLCIENCIAS, deberán estar a paz y salvo con los compromisos 
+adquiridos; de lo contrario no serán considerados para participar en esta convocatoria. 
+ 
+3. COLCIENCIAS, podrá solicitar en cualquier momento, información y documentación 
+adicional o aclaraciones de las mismas.  
+ 
+5. DURACIÓN Y FINANCIACIÓN 
+ 
+El término de duración a financiar será de doce (12) meses. 
+ 
+Para cofinanciar la presente convocatoria, se cuenta con  DOS MIL  QUINIENTOS  
+MILLONES DE PESOS ($2.500.000.000), los cuales corresponden a recursos asignados 
+por el Ministerio de Tecnologías de la Información y las Comunicaciones. 
+ 
+Los recursos otorgados por Ministerio TIC – COLCIENCIAS como apoyo al CEA se 
+destinarán a financiar exclusivamente lo siguiente: 
+ 
+ 
+Talento humano; Hasta MIL CIEN MILLONES DE PESOS ($110.000.000) por 
+cada grupo de investigación, desarrollo tecnológico y/o innovación. El CEA debe 
+contar con mínimo dos (2) grupos de investigación, desarrollo tecnológico y/o 
+innovación.   
+ 
+Las actividades de apoyo a la investigación; Hasta TRECIENTOS MILLONES DE 
+PESOS ($300.000.000) como apoyo a la investigación. 
+ 
+ 
+La contrapartida mínima es de 1:1 de los recursos financiados, es decir, que por un peso 
+asignado como apoyo al proyecto, la propuesta deberá presentar un peso como 
+contrapartida. El valor de la contrapartida deberá estar dado en dinero y en especie; el 
+valor en especie no puede superar el cincuenta por ciento de la contrapartida mínima. El 
+presupuesto deberá presentarse discriminado por rubros. Serán financiados con recursos 
+de COLCIENCIAS-MinTIC únicamente los rubros financiables descritos en el Anexo 5. 
+  
+Notas:  
+ 
+1. El proyecto presentado no podrá ser financiando simultáneamente y durante el 
+tiempo de ejecución por otra convocatoria o con recursos de COLCIENCIAS u otras 
+entidades del Estado. 
+ 
+2. En caso de no reintegro de los recursos acordados contractualmente, COLCIENCIAS 
+efectuará el respectivo reporte en el boletín de deudores morosos.  
+  
+6. CONTENIDOS DEL PROYECTO 
+ 
+Con esta convocatoria se busca la creación y operación de un Centro de Excelencia y 
+Apropiación en Internet de las Cosas con el fin de capitalizar el análisis de datos en 
+sectores estratégicos, en reconocimiento prospectivo de las tendencias y avances 
+tecnológicos. 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 8 de 33 
+ 
+Deberá entregarse una propuesta de valor agregado del Centro de Excelencia y 
+Apropiación - CEA hacia la generación del conocimiento, el desarrollo de soluciones y el 
+beneficio de un Ecosistema de Innovación Nacional. 
+ 
+El Ministerio TIC y Colciencias reconocen el valor de la información como herramienta 
+para el fortalecimiento de sectores industriales, gubernamentales y académicos. La 
+existencia de información disponible hace de su consecuente análisis un insumo cada vez 
+más valioso en la toma de decisiones. Las tendencias mundiales en TIC evidencian la 
+convergencia de tecnologías necesarias para el análisis de grandes volúmenes de datos. 
+Internet de las Cosas  se posiciona progresivamente en el centro de las estrategias 
+sociales, económicas, culturales y políticas y su eficacidad significa la preparación y 
+fortalecimiento de los recursos necesarios para su desarrollo. 
+ 
+El CEA debe incluir un elemento de Proveedores, un elemento de Clientes, un elemento 
+de Competidores y un elemento de Complementarios. En Internet de las Cosas, los 
+Proveedores serán empresas líderes del sector TIC que suministren o integren tecnología, 
+conocimiento, buenas prácticas, que trabajen en infraestructura, software y modelos de 
+base, software y modelos de aplicabilidad y que busquen posicionar sus productos y 
+conocimiento – i.e. los Big Players – Entidad Líder. Los Clientes serían las diferentes 
+entidades privadas de otros sectores que tengan necesidad de gestionar grandes 
+volúmenes de información estructurada y no estructurada, proveniente de diversas 
+fuentes; i.e. Entidad Ancla. Los Competidores están representados por otros Centros de 
+Investigación, Centros de Desarrollo, Centros de Excelencia, entre otros, que pueden 
+idealmente ser aliados en algún momento. 
+ 
+De acuerdo con lo anterior, se debe buscar que ciertos Proveedores, Competidores y 
+Clientes, sean socios del CEA, y que a través de spin-offs y emprendimientos de los 
+Complementarios, se genere una dinámica dentro de la industria TIC nacional en 
+beneficio de un Ecosistema de Innovación Nacional. 
+ 
+Se entenderá entonces por CEA un motor de innovación TIC que hace partícipe a 
+diferentes grupos de interés, articulados alrededor de un programa común de trabajo 
+estratégico para el país, en donde las universidades, como vectores de investigación 
+aplicada, en conjunto con la industria TIC y las grandes empresas de otros sectores 
+económicos, promueven la especialización sectorial y en nuevas tecnologías para 
+resolver problemas y desarrollar soluciones a la medida, generando una dinámica dentro 
+de la industria TIC nacional; construyendo un Ecosistema de Innovación Nacional, de 
+emprendimiento y de empresarismo. 
+ 
+Contando con talento humano capacitado y grupos de investigación, desarrollo 
+tecnológico y/o innovación  del más alto nivel, el CEA permite la generación de 
+competencias y conocimiento en escenarios académicos y la transferencia de éstos a la 
+industria TIC, siendo así un articulador entre la oferta y la demanda, donde los Big Players 
+del sector TIC tienen participación en el proceso de formación de talento humano y en el 
+desarrollo de soluciones ajustadas a las necesidades específicas de grandes empresas 
+de sectores económicos de relevancia para el país con necesidades y oportunidades TIC, 
+generando oportunidades para la industria nacional y valor agregado a negocios 
+estratégicos de la economía nacional, con proyección internacional. 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 9 de 33 
+ 
+La convergencia de estos actores permite lograr una sinergia donde cada uno de estos 
+genere valor mutuo, potencializando la investigación aplicada enfocada a patentes y 
+productos en sectores estratégicos del país y generando una dinámica dentro de la 
+industria nacional TIC que impulse y fortalezca la innovación en Colombia. 
+ 
+Para el detalle del contenido de la propuesta favor verificar el Anexo 5. 
+  
+7. PROCEDIMIENTO DE INSCRIPCIÓN 
+ 
+7.1. Descargar, descomprimir e instalar la máquina virtual de java de la siguiente 
+dirección:  
+http://www.colciencias.gov.co/sites/default/files/ckeditor_files/files/formularios_sigp/jre-
+7u51-windows-i586.zip  
+ 
+7.2. Descargar, descomprimir y diligenciar el formulario electrónico disponible en la 
+sección correspondiente a esta convocatoria del portal institucional de COLCIENCIAS 
+(http://www.colciencias.gov.co). El formulario electrónico es específico para esta 
+convocatoria, asegúrese de diligenciar efectivamente el formulario en cuestión.  
+ 
+7.3. Para enviar el proyecto desde el formulario electrónico, debe Aceptar los Términos y 
+Condiciones, e inmediatamente se activa el botón de Validar. Si el proyecto es válido sin 
+errores, se activa el botón de Enviar. Una vez el proyecto sea enviado al Sistema 
+Integrado de Gestión de Proyectos de COLCIENCIAS -SIGP-, el Sistema emitirá una 
+respuesta automática, generando un número de confirmación de recibido en el servidor de 
+COLCIENCIAS; este número garantizará la recepción exitosa del proyecto.  
+ 
+7.4. El número de confirmación de recibido y la contraseña que la entidad asigne al 
+proyecto, le permitirá realizar el envío de los requisitos mínimos y hacer el seguimiento del 
+estado del proyecto. Tome nota de este número de confirmación y la contraseña 
+asignada. 
+ 
+7.5. Para realizar el envío de los requisitos mínimos desde el formulario electrónico, debe 
+dar click en el botón adjuntar documentos de requisitos; inmediatamente el sistema 
+desplegará una página en el Portal de Sistema de Gestión de Proyectos para tal fin. En el 
+campo Proyecto digite el número de confirmación de recibido y en el campo 
+correspondiente diligencie la contraseña y proceda a dar click en el botón Ingresar. A 
+continuación el sistema desplegará la información básica del proyecto y en la parte inferior 
+el detalle de los requisitos mínimos. 
+ 
+7.6. Debe adjuntar la totalidad de los documentos que soportan los requisitos mínimos. Si 
+para un requisito mínimo requiere anexar más de un documento, guárdelos en una sola 
+carpeta y adjúntela como archivo comprimido .ZIP o .RAR en el campo correspondiente al 
+requisito. Si requiere cambiar algún archivo de los que previamente adjuntó, puede 
+hacerlo examinando y adjuntando el documento deseado. 
+ 
+7.7. Si requiere adjuntar documentación adicional del proyecto (tablas, gráficos, anexos, 
+etc.), guárdela en una sola carpeta y adjúntela como archivo comprimido .ZIP o .RAR en 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 10 de 33 
+el requisito denominado Otros adjuntos. Si requiere cambiar algún archivo de los que 
+previamente adjuntó, puede hacerlo examinando y adjuntando el documento deseado.  
+ 
+7.8. Recuerde que el formulario solo admite un archivo anexo por cada requisito mínimo, 
+por lo que al cargar un archivo nuevo, este reemplazará al anterior. Usted puede verificar 
+el archivo que adjuntó a través de la página http://201.234.78.164:7777/portal/ del SIGP, 
+con el número de confirmación y la contraseña asignada al proyecto. 
+ 
+7.9. Anexando todos los documentos obligatorios se puede generar el Certificado de 
+requisitos mínimos, que le sirve de evidencia del envío de los mismos. En caso contrario, 
+el sistema enviará el siguiente mensaje de error: Error – Debe adjuntar los documentos 
+obligatorios para obtener el certificado, y no permitirá generar dicho certificado. 
+ 
+7.10. Hasta que no estén completos los requisitos mínimos y se haya generado el 
+certificado anteriormente mencionado, no se dará por culminado satisfactoriamente el 
+proceso de inscripción del proyecto. 
+ 
+Notas: 
+1. Se aceptarán únicamente lo proyectos que se presenten a través del formulario 
+electrónico con toda la información solicitada en la presente convocatoria. 
+ 
+2. No se recibirán proyectos en físico ni por otro medio diferente al mencionado. 
+ 
+3. Los proyectos que se reciban fuera de la fecha límite establecida en calendario, no 
+participarán en el proceso de selección y posterior evaluación. 
+ 
+4. Los proyectos que se reciban sin el lleno de los requisitos establecidos en esta 
+convocatoria, no participarán en el proceso de selección para ser incorporados al 
+Banco de Elegibles.  
+ 
+5. COLCIENCIAS-Ministerio TIC se reserva el derecho de solicitar en cualquier 
+momento la documentación adicional que da soporte a los proyectos. 
+ 
+6. COLCIENCIAS-Ministerio TIC se reserva el derecho de verificar la información y 
+documentación presentada, en cualquier momento antes de la fecha de publicación 
+de resultados. 
+ 
+7. En caso de que se presenten errores en el cargue de la información de la propuesta 
+y/o los adjuntos a través del SIGP, y por esta razón después de efectuados varios 
+intentos no pueda enviarse el proyecto de forma normal dentro del plazo establecido, 
+por favor capturar las pantallas con el mensaje de error y cualquier evidencia que 
+soporte el problema, explicando en el cuerpo del correo electrónico los 
+inconvenientes 
+presentados. 
+Remitir 
+toda 
+la 
+información 
+al 
+correo 
+contacto@colciencias.gov.co antes de la fecha de cierre establecida en el 
+CRONOGRAMA de los presentes términos de referencia. 
+ 
+8. CRITERIOS DE EVALUACIÓN 
+ 
+Los criterios de evaluación serán los siguientes: 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 11 de 33 
+ 
+No. 
+Criterio 
+Puntaje 
+máximo 
+1 
+Calidad y Metodología del proyecto 
+10 
+2 
+Equipo de Trabajo 
+15 
+3 
+Plan de negocio y de sostenibilidad 
+30 
+4 
+Propuesta de Valor 
+15 
+5 
+Cantidad y Pertinencia de los Socios Adicionales 
+Se evaluará el número de entidades adicionales a las mínimas 
+requeridas que conforman la alianza. Cada entidad participante 
+adicional generará 2 puntos en la calificación. Propuestas con 10 o 
+más entidades adicionales obtendrán un puntaje máximo de 20 
+puntos. 
+20 
+6 
+Contrapartida Adicional 
+Se le dará un máximo  de diez puntos a la propuesta que 
+incremente el valor de la contrapartida mínima requerida, la cual 
+debe presentarse en dinero. El cálculo se hará mediante una regla 
+de tres simple. 
+10 
+Total 
+100 
+ 
+Información detallada sobre los criterios se encuentra en el Anexo 6. 
+ 
+En el proyecto se deberá aportar toda la información necesaria para su evaluación 
+conforme a lo requerido en el numeral 6 – Contenidos del Proyecto. 
+ 
+9. PROCESO DE EVALUACIÓN  
+ 
+Los proyectos inscritos dentro de los plazos establecidos para la presente convocatoria y 
+que cumplan con los requisitos mínimos, serán evaluados por pares y/o panel de expertos 
+seleccionados por COLCIENCIAS, teniendo en cuenta los criterios de evaluación 
+descritos en el numeral 8. 
+ 
+Los proyectos se clasificarán en una lista en orden descendente de mayor a menor, 
+acorde con la calificación y puntaje obtenido. El puntaje mínimo para la declaración de 
+elegibilidad, será de ochenta (80) puntos. 
+ 
+En caso de existir empate entre propuestas se procederá de la siguiente manera: 
+ 
+Será clasificada primera la propuesta con mayor puntaje en el criterio– plan de 
+negocio y de sostenibilidad. 
+ 
+De persistir en empate, será clasificada la propuesta con mayor puntaje en el 
+criterio– cantidad y pertinencia de los socios. 
+ 
+De persistir en empate, será clasificada la propuesta con mayor puntaje en el 
+criterio– equipo de trabajo. 
+ 
+De persistir en empate, será clasificada la propuesta con mayor puntaje en el 
+criterio– Propuesta de valor. 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 12 de 33 
+ 
+De persistir en empate, será clasificada la propuesta con mayor puntaje en el 
+criterio– calidad y metodología. 
+ 
+De persistir en empate, será clasificada la propuesta con mayor puntaje en el 
+criterio– contrapartida. 
+ 
+Si agotados todos los criterios de desempate aún persiste la situación de empate, se 
+desempatará utilizando el mecanismo de balotas. 
+ 
+Toda información proporcionada es de carácter confidencial y no será utilizada para 
+ningún fin diferente a la realización de la evaluación. Los expertos evaluadores estarán 
+cobijados por cláusulas de confidencialidad y de no conflicto de interés.  
+  
+De acuerdo con el CRONOGRAMA de la convocatoria, se concederá un término para 
+solicitar aclaraciones y/o modificaciones a la publicación preliminar del banco de elegibles, 
+una vez éstas sean resueltas, se procederá a la publicación del banco definitivo de 
+proyectos elegibles.  
+ 
+La inclusión de la postulación en el Banco de Proyectos Elegibles, no implica 
+obligatoriedad ni compromiso alguno para COLCIENCIAS o MINTIC de asignar recursos, 
+ni genera derecho a recibir apoyos económicos para quienes hayan presentado los 
+proyectos correspondientes. 
+ 
+Nota: Ministerio TIC y COLCIENCIAS, se reservan el derecho de solicitar ajustes sobre la 
+propuesta presentada ya sea en el presupuesto o en el contenido técnico. Estas 
+solicitudes de ajustes serán el resultado del proceso de evaluación 
+ 
+10.  ACLARACIONES 
+ 
+Una vez publicados los resultados preliminares del banco de elegibles, los interesados 
+podrán presentar solicitudes de aclaraciones y comentarios por un período de tres (3) días 
+hábiles. Por fuera de este término se considera que las reclamaciones son 
+extemporáneas y no serán atendidas.  
+  
+Las peticiones y reclamaciones se deben presentar exclusivamente a través del correo 
+electrónico contacto@colciencias.gov.co, con el asunto “Convocatoria de CEA – IoT”. 
+ 
+11. BANCO DE ELEGIBLES 
+ 
+Los resultados de la convocatoria se publicarán en la página web de COLCIENCIAS 
+(http://www.colciencias.gov.co) en las fechas establecidas en el CRONOGRAMA. 
+ 
+Las propuestas que obtengan un puntaje igual o superior a 80 puntos ingresarán al banco 
+de elegibles y se asignarán los recursos a aquella que obtenga el mayor puntaje. 
+ 
+La vigencia del banco de elegibles es de dos años a partir de su publicación definitiva. La 
+inclusión de las propuestas en el banco de elegibles, no implica obligatoriedad ni 
+compromiso alguno de COLCIENCIAS, de asignar recursos, ni genera derecho a recibir 
+apoyos económicos para quienes  las hayan presentado.  
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 13 de 33 
+ 
+Notas: 
+ 
+Surtida la publicación definitiva del banco de elegibles, COLCIENCIAS informará   
+mediante comunicación escrita y/o electrónica a los beneficiarios que hayan sido 
+seleccionados para ser financiados, indicando las instrucciones y condiciones para 
+suscribir el convenio. A partir de la fecha de comunicación, se contarán quince (15) 
+días calendario como plazo máximo para que el beneficiario remita a COLCIENCIAS 
+la totalidad de la documentación. Vencido el término, en caso que el beneficiario no 
+remita la documentación, se entenderá que desiste de su interés por contratar con 
+COLCIENCIAS y se procederá a financiar la siguiente propuesta del banco de 
+elegibles. 
+ 
+ 
+Una vez remitida la minuta del convenio al beneficiario, éste contará con un plazo de 
+cinco (5) días hábiles para devolverla firmada a COLCIENCIAS. En caso de 
+correcciones a la minuta, el plazo de devolución se contará a partir del envío de la 
+minuta ajustada, vencido el término anterior, si el beneficiario no remite el convenio 
+firmado, se entenderá que desiste de su interés por contratar y se procederá a 
+seleccionar la siguiente propuesta en orden descendente de la lista del banco de 
+elegibles. 
+  
+12. CRONOGRAMA 
+ 
+ACTIVIDAD 
+FECHA LIMITE 
+Apertura de la convocatoria 
+17 de septiembre de 2014 
+Cierre de la convocatoria 
+10 de noviembre de 2014 a 
+las 5:00 pm hora colombiana. 
+Publicación del Banco preliminar de Proyectos 
+Elegibles 
+28 de noviembre de 2014 
+Período de solicitud de aclaraciones del Banco 
+preliminar de Elegibles 
+Del 01 al 03 de diciembre de 
+2014 
+Respuesta a solicitud de aclaraciones 
+04 diciembre de 2014 
+Publicación del Banco definitivo de Proyectos Elegibles 
+11 de diciembre de 2014 
+ 
+13. PROPIEDAD INTELECTUAL 
+ 
+En desarrollo de lo previsto en el artículo 31 de la Ley 1450 de 2011, en la medida en que los 
+proyectos de ciencia, tecnología e innovación que al amparo de esta convocatoria se declaren 
+elegibles, serían financiados con recursos del presupuesto nacional, el Ministerio de TIC y 
+COLCIENCIAS, salvo motivos de seguridad y defensa nacional, podrán ceder a las alianzas 
+estratégicas, que desarrollen los proyectos financiados, los derechos de propiedad intelectual 
+que le puedan corresponder; según se establezca en el convenio.  
+ 
+Los participantes del proyecto definirán entre ellos la titularidad de los derechos de propiedad 
+intelectual derivados de los resultados de la ejecución del mismo. De esta definición, resultará 
+un documento donde conste el acuerdo entre las entidades participantes en el proyecto 
+respecto de los derechos patrimoniales sobre la propiedad intelectual de los productos del 
+mismo, requisito necesario para participar de la presente convocatoria. 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 14 de 33 
+ 
+Nota: En cualquier evento o medio de divulgación utilizado para difundir los resultados del 
+proyecto se deberá dar el respectivo crédito a COLCIENCIAS y el Ministerio TIC, 
+incluyendo la imagen institucional. 
+  
+ 
+14. VEEDURÍAS CIUDADANAS 
+ 
+Las veedurías ciudadanas establecidas en la ley 850 de 2003, podrán desarrollar su 
+actividad durante la presente convocatoria, conforme a lo estipulado en dicha normativa.  
+ 
+ 
+15. ANEXOS 
+ 
+ 
+Anexo 1 - Carta de Alianza 
+ 
+Anexo 2 – Propiedad Intelectual  
+ 
+Anexo 3 - Carta de Presentación y Aval 
+ 
+Anexo 4 - Carta Datos Personales 
+ 
+Anexo 5 - Contenido del proyecto rubros financiables y no financiables 
+ 
+Anexo 6 - Criterios de Evaluación 
+ 
+ 
+16. ACEPTACIÓN DE TÉRMINOS Y VERACIDAD 
+ 
+Con la inscripción, los interesados aceptan las características, requisitos y condiciones de 
+la presente convocatoria así como lo dispuesto en los presentes términos de referencia 
+para el desarrollo de la misma y para la entrega del beneficio.  
+De igual forma declaran que la información suministrada es veraz y corresponde a la 
+realidad. En caso de encontrarse alguna incoherencia e inconsistencia en la información o 
+documentación suministrada, COLCIENCIAS podrá en cualquier momento rechazar la 
+postulación o si es del caso declarar la pérdida del beneficio, sin perjuicio de las acciones 
+legales correspondientes.  
+Los proponentes aceptan sin condicionamiento alguno la existencia de una obligación 
+solidaria en relación con la presentación de la propuesta, la suscripción y legalización del 
+contrato, así como de su cumplimiento y liquidación (responsabilidad solidaria en las fases 
+pre-contractual, contractual y post-contractual). Los proponentes mantendrán los términos 
+de la propuesta durante el desarrollo y ejecución de la misma y no podrán ser modificados 
+sin el consentimiento previo de COLCIENCIAS y el Ministerio TIC. De igual manera, los 
+miembros de la alianza estratégica que presentan el proyecto, deben designar la persona 
+que, para todos los efectos, hará su representación y señalarán las reglas básicas que 
+regulen las relaciones entre ellos y su responsabilidad. Para la existencia de la obligación 
+solidaria solamente será necesario que la oferta se presente en forma conjunta, en 
+consecuencia no se requiere que se refiera a esta circunstancia de manera expresa. 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 15 de 33 
+17. MAYOR INFORMACIÓN 
+ 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN 
+- COLCIENCIAS - 
+ 
+Carrera 7 B Bis No. 132-28, Bogotá D.C. 
+http://www.colciencias.gov.co  
+ 
+Centro de Contacto 
+Teléfono: (+57 - 1) 6258480 Extensión 2081 
+Línea gratuita nacional: 018000 914446 
+ 
+En caso de inquietudes o comentarios sobre la presente convocatoria, favor enviar un 
+correo electrónico con el asunto “Convocatoria de CEA – IoT”, al correo 
+contacto@colciencias.gov.co. 
+ 
+ 
+ 
+ 
+ 
+YANETH GIHA TOVAR 
+Directora  
+ 
+ 
+Vo Bo. Director Técnico 
+Vo Bo. Secretaría General 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 16 de 33 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E 
+INNOVACION – COLCIENCIAS – 
+ 
+ 
+CONVOCATORIA PARA CONFORMAR CENTROS DE EXCELENCIA Y 
+APROPIACION EN INTERNET DE LAS COSAS (IoT) – 2014 
+ 
+ 
+ANEXO 1 
+CARTA DE CONFORMACIÓN DE ALIANZA 
+  
+ANEXO 1 - CARTA DE CONFORMACIÓN DE ALIANZA 
+  
+A continuación se presentan los contenidos del modelo de carta de conformación 
+de Alianza Estratégica: 
+ 
+(Ciudad), (Día) de (Mes) de 201_  
+ 
+ 
+Señores  
+COLCIENCIAS 
+Carrera 7B Bis No. 132 – 28 
+Bogotá D.C. 
+ 
+Asunto: Conformación de Alianza Estratégica (nombre de la alianza) para la 
+convocatoria para conformar Centros de Excelencia y Apropiación en Internet de 
+las Cosas. 
+ 
+ 
+Respetados señores,  
+ 
+ 
+La presente tiene por objeto presentar la conformación de la Alianza Estratégica 
+(nombre de la alianza), que estará integrada por las siguientes entidades: (nombre 
+de la entidad 1), (nombre de la entidad 2), (nombre de la entidad 3),…, etc.; 
+designará como entidad ejecutora a (nombre de la entidad ejecutora), quien será 
+la encargada de firmar el (contrato, convenio) resultado de la convocatoria para 
+conformar Centros de Excelencia y Apropiación en Internet de las Cosas. 
+ 
+Así mismo, los abajo firmantes declaran que: 
+ 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 17 de 33 
+ Tienen poder y/o representación legal para firmar y presentar el proyecto. 
+ Este proyecto y el contrato o convenio que llegue a celebrarse en caso de 
+financiación, compromete totalmente a la(s) persona(s) jurídica(s) que 
+legalmente represento.  
+ La información suministrada es veraz y no fija condiciones artificiales.  
+ Aceptan y reconocen que cualquier omisión o inconsistencia en la que hayan 
+podido incurrir y que pueda influir en nuestro proyecto, no les eximirá de la 
+obligación de asumir las responsabilidades que les llegue a corresponder como 
+futuros contratistas y renuncian a cualquier reclamación, reembolso o ajuste de 
+cualquier naturaleza, por cualquier situación que surja y no haya sido 
+contemplada en razón de la falta de diligencia en la obtención de la 
+información. 
+ No se encuentran incursos en ninguna de las causales de inhabilidad y/o 
+incompatibilidad establecidas en el Estatuto General de Contratación y demás 
+normas legales pertinentes. 
+ Aceptan y autorizan a COLCIENCIAS para que verifique la información 
+aportada en el proyecto. 
+ Se encuentran al día con las obligaciones y compromisos adquiridos con 
+COLCIENCIAS. 
+ El  proyecto no está siendo financiado por otra convocatoria o con recursos de 
+COLCIENCIAS u otras entidades del Estado 
+ 
+Por otra parte, y para el desarrollo de la propuesta, las entidades que conforman la 
+Alianza Estratégica aportarán los siguientes recursos de contrapartida:  
+ 
+Entidad 
+Total 
+Monto de contrapartida 
+Especie 
+% 
+Especie 
+Efectivo 
+% 
+Efectivo 
+(Nombre de la entidad 
+1) 
+$ 
+$ 
+% 
+$ 
+% 
+(Nombre de la entidad 
+2) 
+$ 
+$ 
+% 
+$ 
+% 
+(Nombre de la entidad 
+3) 
+$ 
+$ 
+% 
+$ 
+% 
+Total 
+$ 
+$ 
+% 
+$ 
+% 
+ 
+Además, 
+ACEPTAMOS 
+expresa 
+e 
+irrevocablemente 
+que 
+conocemos 
+detalladamente las características, requisitos y condiciones de la convocatoria 
+para Centros de Excelencia y Apropiación en Internet de las Cosas, de manera 
+que nos sometemos a lo establecido en los Términos de Referencia determinados 
+por COLCIENCIAS para el desarrollo de la misma y para la entrega del beneficio.  
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 18 de 33 
+ 
+Con la presente manifestación inequívoca de voluntad, declaramos que en caso 
+de ser beneficiados en la convocatoria para conformar Centros de Excelencia y 
+Apropiación en Internet de las Cosas, éste será recibido en los términos que 
+COLCIENCIAS establezca; comprendemos y aceptamos que la no aceptación o el 
+incumplimiento de alguna de las condiciones establecidas, dará lugar a la pérdida 
+definitiva del beneficio.  
+ 
+Declaramos que la información suministrada es veraz y corresponde a la realidad. 
+En caso de encontrarse alguna incoherencia o inconsistencia en la información o 
+documentación suministrada, COLCIENCIAS podrá en cualquier momento, 
+rechazar esta postulación o finiquitar el beneficio, sin perjuicio de las acciones 
+legales correspondientes. 
+ 
+Cordialmente,  
+ 
+ 
+Firma 
+Nombre del representante Universidad 
+CC_________________ 
+Nombre de la Universidad 
+Dirección  
+Teléfono 
+ 
+ 
+Firma 
+Nombre del representante legal entidad líder 
+CC_________________ 
+Nombre de la entidad X 
+Dirección  
+Teléfono 
+ 
+ 
+Firma 
+Nombre del representante legal entidad ancla 
+CC_________________ 
+Nombre de la entidad X 
+Dirección  
+Teléfono 
+Teléfono 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 19 de 33 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E 
+INNOVACION – COLCIENCIAS – 
+ 
+ 
+CONVOCATORIA PARA CONFORMAR CENTROS DE EXCELENCIA Y 
+APROPIACION EN INTERNET DE LAS COSAS (IoT) – 2014 
+ 
+ 
+ANEXO  2. - MODELO DE INTENCIÓN DE ACUERDO DE PROPIEDAD INTELECTUAL 
+ 
+Las partes abajo firmantes,  convienen la intención de acuerdo que se regirá bajos 
+las  siguientes clausulas: i) la titularidad de la propiedad intelectual sobre los 
+resultados que  se obtengan o se pudieran obtener en el desarrollo del presente  
+proyecto /Programa estará a cargo de ______y ________ii) La distribución de los 
+derechos patrimoniales  sobre todos y cada uno de los entregables generados, se 
+establecerá de acuerdo con el porcentaje de los aportes desembolsables y no 
+desembolsables que las partes realicen, los cuales se determinarán en el acta  de 
+liquidación del contrato. iii) De igual manera  cualquiera de las partes podrá iniciar 
+los mecanismos de protección correspondientes  garantizando el respeto de los 
+porcentajes que a cada una las partes corresponden sobre los resultados, por su 
+parte las demás entidades se comprometen a disponer de los  recursos que sean 
+necesarios para facilitar y apoyar que se conceda por la autoridad   competente el 
+mecanismo de protección que se determine.  iv)  La custodia y cuidado de los 
+productos tecnológicos, prototipos, que se materialicen estará a cargo de 
+_____________  durante la duración de proyecto. A la finalización y liquidación de 
+los   mismos, se definirá la custodia y cuidado de tales bienes. v) Los derechos 
+morales de autor que le correspondan a estudiantes, profesores o investigadores 
+de las partes, que   por sus aportes significativos en una determinada obra le 
+corresponden como autor(es) o  coautor(es), serán a estos siempre reconocidos. 
+vii) Ninguna de las partes podrá publicar, comunicar,  divulgar, revelar ni permitir 
+que los investigadores y personal vinculado al  contrato publiquen, comuniquen, 
+revelen o utilicen la información resultado del mismo, sin previo aviso y aprobación 
+por escrito. viii) Sin perjuicio de lo anterior las partes podrán efectuar 
+modificaciones al presente documento de acuerdo a las condiciones de desarrollo 
+del proyecto. 
+ 
+FIRMA 
+ 
+ 
+NOMBRE DEL REPRESENTANTE LEGAL  
+ 
+ 
+FIRMA 
+ 
+NOMBRE DEL REPRESENTANTE LEGAL  
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 20 de 33 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS - 
+ 
+ 
+CONVOCATORIA PARA CONFORMAR CENTROS DE EXCELENCIA Y 
+APROPIACION EN INTERNET DE LAS COSAS – IoT – 2014 
+ 
+ 
+ANEXO 3 
+CARTA DE PRESENTACIÓN Y AVAL 
+ 
+  
+ANEXO 3 - CARTA DE PRESENTACIÓN Y AVAL 
+ 
+  
+A continuación se presenta el modelo de carta de presentación y aval: 
+ 
+ 
+(Ciudad), (Día) de (Mes) de 201_  
+ 
+Señores  
+COLCIENCIAS 
+Carrera 7B Bis No. 132 – 28 
+Bogotá D.C. 
+ 
+Asunto: Presentación y aval del proyecto (escriba el nombre del proyecto) a la convocatoria 
+(nombre de la convocatoria) 
+  
+Respetados señores,  
+ 
+La presente tiene como objeto avalar el proyecto (escriba el nombre del proyecto,) a la 
+convocatoria (nombre de la convocatoria) de 201_, propuesto por la alianza (nombre de la alianza 
+estratégica…), y manifiesto que el proyecto en mención no está siendo financiado por otra 
+convocatoria o con recursos de COLCIENCIAS u otras entidades del Estado. 
+ 
+Además, ACEPTO expresa e irrevocablemente que conozco detalladamente las características, 
+requisitos y condiciones de la convocatoria para conformar un banco de proyectos de soluciones 
+innovadoras de TI aplicadas al sector turismo de Colombia, de manera que me someto a lo 
+establecido en los términos de referencia determinados por COLCIENCIAS para el desarrollo de la 
+misma y para la entrega del beneficio.  
+ 
+ 
+Declaro que la información suministrada es veraz y corresponde a la realidad. En caso de 
+encontrarse alguna incoherencia o inconsistencia en la información o documentación suministrada, 
+COLCIENCIAS podrá en cualquier momento, rechazar mi postulación o finiquitar el beneficio, sin 
+perjuicio de las acciones legales correspondientes. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 21 de 33 
+Cordialmente,  
+ 
+ 
+ 
+Firma 
+Nombre del representante legal (entidad Ejecutora de la alianza) 
+CC_________________ 
+Nombre (entidad Ejecutora de la alianza) 
+Dirección  
+Teléfono 
+e-Mail 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 22 de 33 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E 
+INNOVACION - COLCIENCIAS - 
+ 
+ 
+CONVOCATORIA PARA CONFORMAR CENTROS DE EXCELENCIA Y 
+APROPIACION EN INTERNET DE LAS COSAS (IoT) – 2014 
+ 
+ 
+ANEXO 4 
+AUTORIZACIÓN USO Y ALMACENAMIENTO DE DATOS PERSONALES 
+  
+A continuación se presentan los contenidos del modelo de carta para autorización uso y 
+almacenamiento de datos personales: 
+ 
+ 
+(Ciudad), (Día) de (Mes) de 201_  
+ 
+ 
+Señores  
+COLCIENCIAS 
+Carrera 7B Bis No. 132 – 28 
+Bogotá D.C. 
+ 
+Asunto: Autorización uso y almacenamiento de datos personales. 
+ 
+En virtud de la Ley Estatutaria 1581 del 2012, mediante la cual se dictan las disposiciones 
+generales para la protección de datos personales, y su Decreto Reglamentario 1377 de 
+2013, autorizo al Departamento Administrativo de Ciencia, Tecnología e Innovación - 
+Colciencias, como responsable y/o encargado del tratamiento de datos personales, 
+almacenados en bases de datos, las cuales incluyen información que se han reportado en 
+desarrollo de las diferentes actividades y formularios, y en particular los siguientes: 
+nombres, número de documento de identificación, dirección, teléfono fijo y móvil, 
+direcciones, correo electrónico, profesión, hoja de vida académica, certificados de notas, 
+etc.  
+ 
+Los datos serán utilizados para la misión institucional establecida en la ley 1286 de 2009, 
+como ente rector de la Ciencia Tecnología e Innovación en Colombia. 
+ 
+ 
+Atentamente,  
+ 
+ 
+FIRMA 
+NOMBRES Y APELLIDOS 
+IDENTIFICACIÓN_________________ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 23 de 33 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS - 
+ 
+ 
+CONVOCATORIA PARA CONFORMAR CENTROS DE EXCELENCIA Y 
+APROPIACION EN INTERNET DE LAS COSAS ( IoT)  – 2014 
+ 
+ 
+ANEXO 5 
+CONTENIDO DEL PROYECTO 
+RUBROS FINANCIABLES Y NO FINANCIABLES 
+ 
+ 
+ 
+ANEXO 5 -CONTENIDO DEL PROYECTORUBROS FINANCIABLES Y NO 
+INANCIABLES 
+ 
+COMPONENTE CIENTÍFICO - TÉCNICO DEL PROYECTO 
+ 
+ Título del proyecto 
+ 
+ Gerente del proyecto y equipo de trabajo: Especificar el perfil profesional, la 
+experiencia y el rol dentro del proyecto tanto para el gerente del proyecto 
+como para el resto de miembros del equipo. Adjuntar las hojas de vida con los 
+títulos y certificaciones correspondientes. La propuesta deberá incluir la 
+composición de los grupos de investigación – conforme a lo estipulado en los 
+requisitos mínimos – así como los temas generales y específicos de los 
+mismos, detallando cómo éstos aportan al impulso del ecosistema de 
+innovación nacional. 
+ 
+ Línea Temática: Especificar las líneas temáticas de negocio en las cuales se 
+enfoca inicialmente teniendo en cuenta que la dinámica del mercado puede 
+incidir en el planteamiento inicial y que por lo tanto las líneas pueden ser 
+modificadas.  Se debe exponer la metodología de trabajo que permita definir 
+su estructura y su operación durante el tiempo proyectado; incluyendo un 
+portafolio de nuevos productos y servicios semestrales. 
+ 
+ Resumen ejecutivo: Información mínima necesaria para comunicar de manera 
+precisa los contenidos y alcances del proyecto.  
+ 
+ Antecedentes: especificar si el proyecto ha tenido fases anteriores y cuáles 
+han sido los resultados, cuántos recursos se han invertido y cuáles han sido 
+sus fuentes de financiación. 
+ 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 24 de 33 
+ Palabras Clave: Incluir máximo seis (6) palabras clave que describan el objeto 
+del proyecto. 
+ 
+ Planteamiento del Problema: Plasmar la propuesta de valor agregado del 
+Centro de Excelencia y Apropiación (CEA) en Internet de las Cosas, hacia la 
+generación del conocimiento, el desarrollo de soluciones y el beneficio 
+generado para un Ecosistema de Innovación Nacional. 
+ 
+ Composición Jurídica: Describir el esquema-composición jurídico 
+y 
+organizacional del CEA exponiendo la participación de los socios-miembros del 
+centro. 
+ 
+ Portafolio: Describir los nuevos productos y servicios semestrales durante el 
+tiempo proyectado y un estimado de patentes solicitadas durante el tiempo 
+proyectado 
+ 
+ Justificación: Factores que hacen necesario y pertinente la realización del 
+proyecto. 
+ 
+ Marco conceptual: Aspectos conceptuales y teóricos que contextualicen el 
+problema de investigación en una temática; así como otros aspectos que sean 
+pertinentes a juicio de los proponentes. 
+ 
+ Estado del arte: Revisión actual de la temática en el contexto nacional e 
+internacional, avances, desarrollos y tendencias, en cuya elaboración se 
+pueden tener en cuenta estudios de prospectiva y vigilancia tecnológica. 
+ 
+ Objetivos:  
+ 
+- 
+Objetivo General: Enunciado que define de manera concreta el planteamiento 
+del problema o necesidad y se inicia con un verbo en modo infinitivo, es 
+medible, alcanzable y conlleva a una meta. 
+ 
+- 
+Objetivos Específicos: Enunciados que dan cuenta de la secuencia lógica 
+para alcanzar el objetivo general del proyecto. No debe confundirse con las 
+actividades propuestas para dar alcance a los objetivos (ej. Tomar muestras en 
+diferentes localidades de estudio); ni con el alcance de los productos 
+esperados (ej. Formar un estudiante de maestría). 
+ 
+ Metodología: Exposición en forma organizada y precisa de cómo se desarrollará 
+y alcanzará el objetivo general y cada uno de los objetivos específicos del 
+proyecto, presentando los componentes del mismo y las actividades para el logro 
+de éstos. 
+ 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 25 de 33 
+ Productos esperados: Evidencia del logro en cuanto a generación de nuevo 
+conocimiento, fortalecimiento de capacidades científicas y apropiación social del 
+conocimiento, una aplicación de software o su equivalente. 
+ 
+ Impactos potenciales: Identificar los impactos potenciales de los resultados del 
+proyecto, los productos, servicios o procesos en las necesidades identificadas.  
+ 
+ Cronograma: Distribución de actividades mensuales de ejecución del proyecto. 
+Asociar a cada actividad el o los objetivos (numerados) relacionados con éstos. 
+ 
+ Presupuesto detallado: Incluye financiación y contrapartida en efectivo por rubro. 
+ 
+ Bibliografía: Fuentes bibliográficas empleadas en cada uno de los ítems del 
+proyecto. Se hará referencia únicamente a aquellas fuentes empleadas en el 
+suministro de la información del respectivo proyecto. No se incluirán referencias 
+que no se citen. Las citas, en cada uno de los campos del formulario, se utilizarán 
+las normas APA No 6.  
+ 
+ Plan de negocios y de sostenibilidad: Con el objetivo de generar la posibilidad 
+de negocio consecuente del desarrollo del proyecto, se hace necesario contemplar 
+un plan de negocio que permita evidenciar la existencia de soluciones frente a las 
+necesidades identificadas en el sector del turismo en Colombia. Entonces, la 
+propuesta deberá demostrar cómo se ha diseñado la disponibilidad del producto 
+para la solución de las necesidades expuestas, para ello, se deberá utilizar el 
+modelo CANVAS, detallando en profundidad cada uno de sus componentes, los 
+cuales se muestran a continuación: 
+ 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 26 de 33 
+ 
+ 
+- 
+El plan de negocios tiene tres partes: i) el modelo gráfico CANVAS, ii) la 
+descripción detallada de cada uno de sus ítems y iii) el modelo de 
+sostenibilidad a cinco (5) años. 
+ 
+- 
+Para mayor información sobre el modelo CANVAS, puede consultar el 
+siguiente enlace: http://www.businessmodelgeneration.com/  
+ 
+- 
+Los documentos correspondientes al plan de negocio y de sostenibilidad 
+deberán adjuntarse  utilizando la opción “otros adjuntos”. 
+ 
+ Certificación de calidad de la empresa de TI: describa las certificaciones de 
+calidad que tiene la empresa. Adjunte los certificados correspondientes 
+utilizando la opción “otros adjuntos”. 
+ 
+ Asociatividad: describa el gremio o iniciativa de asociatividad a la que 
+pertenece. Adjunte los certificados correspondientes utilizando la opción “otros 
+adjuntos”. 
+ 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 27 de 33 
+Nota: Se deberá aportar toda la información necesaria para la evaluación del 
+proyecto con base en los criterios establecidos en el numeral 8 CRITERIOS DE 
+EVALUACION, de los términos de referencia de la convocatoria. 
+ 
+ 
+ 
+ 
+COMPONENTE PRESUPUESTAL 
+ 
+Rubros financiables: 
+ 
+ Estudios de inteligencia competitiva – incluida vigilancia tecnológica – para los 
+productos relacionados con la (s) innovación (es) propuesta (s).  
+ 
+ Adquisición o arrendamiento de equipo de investigación, simulación, ensayos, 
+pruebas y control de calidad que vayan a ser de propiedad del ejecutor o 
+alquilados temporalmente. Se contempla también el diseño y construcción de 
+equipos, cuando el proyecto que vayan a realizar, lo requiera. 
+ 
+ Materiales utilizados en la fabricación de prototipos y plantas piloto que vayan 
+a ser propiedad del ejecutor. 
+ 
+ Desarrollo de software. 
+ 
+ Adquisición de software especializado cuya licencia vaya a ser propiedad del 
+ejecutor para investigación, desarrollo y diseño. 
+ 
+ Servicios tecnológicos nacionales o internacionales (hosting, infraestructura en 
+la nube, virtualización, ensayos, pruebas, análisis, simulación y otros servicios 
+relacionados con TI plenamente justificados). 
+ 
+ Contratación de consultoría científica y tecnológica especializada (igual o 
+menor a 90 días, y de menor valor al 10% del proyecto). 
+ 
+ Viajes nacionales relacionados con el desarrollo del proyecto, únicamente para 
+el personal técnico vinculado al proyecto. 
+ 
+ Capacitación y actualización de personal a través de programas de 
+entrenamiento de corta duración únicamente para el personal vinculado al 
+proyecto en temas relacionados con el mismo. 
+ 
+ Conexión a redes de información para transferencia y apropiación de 
+tecnología. 
+ 
+ Desplazamientos, actividades y materiales para la promoción y la difusión de 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 28 de 33 
+los resultados del proyecto por un valor de hasta el 5% del valor total del 
+proyecto. 
+ 
+ Desplazamientos, actividades y materiales para la promoción y la difusión de 
+los resultados del proyecto por un valor de hasta el 5% del valor total del 
+proyecto. 
+ 
+ Gastos de Propiedad intelectual relacionados con los resultados del proyecto o 
+programa. 
+ 
+ Talento Humano: Personal con formación científica y técnica, que cuenta con 
+título profesional y/o de posgrado (maestría, doctorado), y vinculación de 
+postdoctorados que estarán a cargo de las actividades investigativas propias 
+de la ejecución del proyecto según el planteamiento científico-técnico. 
+ 
+Personal con formación en carreras técnicas y tecnológicas con capacidades 
+para apoyar la ejecución de actividades de Ciencia, Tecnología e Innovación - 
+CTeI. 
+ 
+A través del rubro de personal se financiarán los derechos académicos y de 
+matrícula.  
+ 
+Los costos individuales no podrán exceder los topes máximos que 
+COLCIENCIAS define en la resolución 000426 de 2014. 
+ 
+ Bibliografía: Adquisición de libros, revistas, artículos, suscripciones o acceso 
+a bases de datos especializadas, que sean estrictamente necesarias para una 
+ejecución exitosa del proyecto. 
+ 
+ Servicios técnicos: Contrataciones que se hacen para la prestación de 
+servicios especializados y cuya necesidad esté suficientemente justificada en 
+el marco del proyecto. 
+ 
+ Software: Adquisición de licencias de software especializado para las 
+actividades de CTeI propias del desarrollo del proyecto. Su necesidad y 
+cantidad debe soportarse en justificaciones técnicas detalladas. No se 
+considerará financiable dentro de este rubro software de uso cotidiano, como 
+por ejemplo procesadores de texto, hojas electrónicas o sistemas operativos. 
+ 
+ Salidas de campo: Costos asociados al levantamiento de información en 
+campo, desde fuentes primarias o secundarias, para la consecución de los 
+objetivos del proyecto. 
+ 
+ Publicaciones: Costos asociados a la publicación de artículos, libros, 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 29 de 33 
+manuales, videos, cartillas, posters, etc. que presenten los resultados del 
+proyecto y sirvan como estrategia de divulgación o apropiación social de los 
+resultados de la investigación.  
+ 
+Rubros no financiables 
+ 
+No será financiable con recursos de COLCIENCIAS rubros presupuestales como: 
+ 
+- 
+El personal que sea beneficiario actual de los programas “Jóvenes 
+Investigadores”, “Es Tiempo de Volver” o “Formación de Doctorados” de 
+COLCIENCIAS, podrá ser vinculado a las actividades investigativas 
+previstas para la ejecución del proyecto, pero en ningún caso, podrá ser 
+financiado 
+al 
+mismo 
+tiempo 
+con 
+los 
+recursos 
+provenientes 
+de 
+COLCIENCIAS asignados a este rubro, en esta convocatoria.  
+ 
+- 
+No 
+serán 
+financiables 
+con 
+recursos 
+de 
+COLCIENCIAS 
+rubros 
+presupuestales 
+como: 
+infraestructura 
+tecnológica, 
+hardware, 
+construcciones, mantenimiento de equipos e infraestructura, seguros, 
+adquisición de vehículos, mobiliario de oficina, membresías a Sociedades 
+Científicas.  
+ 
+- 
+Compra de máquinas y equipo de producción corriente. 
+ 
+- 
+Pagos de pasivos, pago de dividendos, aumento de capital de las 
+instituciones participantes. 
+ 
+- 
+Pagos de dividendos o recuperaciones de capital de las instituciones 
+participantes. 
+ 
+- 
+Capital de trabajo para la producción corriente. 
+ 
+- 
+Inversiones en otras empresas  
+ 
+- 
+Inversiones en planta de producción a escala industrial. 
+ 
+- 
+Compra de acciones, derechos de empresas, bonos y otros valores 
+mobiliarios. 
+ 
+- 
+Instalaciones llave en mano. 
+ 
+- 
+Software de uso cotidiano como procesadores de texto, hojas electrónicas y 
+sistemas operativos. 
+ 
+  
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 30 de 33 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E 
+INNOVACION – COLCIENCIAS – 
+ 
+ 
+ 
+CONVOCATORIA PARA CONFORMAR CENTROS DE EXCELENCIA Y 
+APROPIACION EN INTERNET DE LAS COSAS (IoT) – 2014 
+ 
+ 
+ANEXO 6 
+CRITERIOS DE EVALUACIÓN 
+ 
+ 
+ANEXO 6 - CRITERIOS DE EVALUACIÓN 
+ 
+A continuación se describen los criterios de selección de los proyectos: 
+ 
+1. Calidad y metodología del proyecto 
+ 
+Se otorgarán 10 puntos por la presentación de la metodología en coherencia con 
+los resultados e impactos esperados. El proyecto deberá describir claramente el 
+conjunto de procedimientos, actividades, y/o tareas a ser utilizados para alcanzar 
+los objetivos, resultados, e impactos esperados del proyecto. 
+ 
+a. Coherencia interna y tratamiento particular de antecedentes, objetivos, 
+metodología, actividades, presupuesto, cronograma y duración. 
+b. Adecuación del grupo ejecutor del proyecto a los objetivos planeados. 
+c. Conocimiento de los antecedentes científicos y tecnológicos en la temática 
+del proyecto 
+d. Revisión de productos de Propiedad Intelectual para la conformación del 
+estado del arte (patentes, modelos de utilidad, registro del diseño, registro 
+de marca, etc.) 
+ 
+2. Equipo de Trabajo 
+ 
+La documentación del proyecto deberá presentar el grupo de personas que 
+conforman el equipo de trabajo que llevará a cabo el proyecto; incluyendo las 
+hojas de vida de cada uno de los integrantes, su dedicación al proyecto, las 
+labores/tareas que cumplirán, así como el costo de su participación. 
+ 
+Cada Centro de Excelencia y Apropiación (CEA) debe incluir, como mínimo, tres 
+(3) grupos de investigación y cada grupo debe contar, como mínimo, con un (1) 
+Doctor (PhD), tres (3) estudiantes doctorales y treinta (30) estudiantes de 
+maestría; todos con dedicación de trabajo de tiempo total al CEA. 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 31 de 33 
+ 
+Adicionalmente se contempla que cada Centro de Excelencia y Apropiación (CEA) 
+cuente con veinte (20) Desarrolladores con experiencia certificada de mínimo un 
+(1) año cada uno y diez (10) Científicos de Datos con experiencia certificada en 
+análisis y diseño de sistemas de información de mínimo un (1) año cada uno; para 
+estos perfiles adicionales se contempla un máximo de quince (15) puntos para la 
+propuesta que cumpla con el equipo de trabajo deseado completo. 
+ 
+Se realizará una regla de tres para el cálculo del puntaje a otorgar por el equipo de 
+trabajo adicional, de acuerdo con el número de integrantes de Desarrolladores y 
+de Científicos de Datos que sean incluidos en la propuesta. 
+ 
+3. Plan de negocio y de sostenibilidad  
+ 
+Se otorgarán un total máximo de 30 puntos por la presentación de: 
+3.1. 
+Un plan de negocio  que permita determinar las estrategias de mercadeo, 
+tamaño del mercado, usuarios potenciales, proveedores de servicios, 
+capacidad tecnológica requerida, precios, esquemas de comercialización, 
+planes de internacionalización y expansión de mercados y demás aspectos 
+relacionados con la masificación de los productos, servicios o procesos. 
+Con el objetivo de generar la posibilidad de negocio consecuente con el 
+desarrollo del proyecto, se hace necesario contemplar un plan de negocio 
+que permita la existencia de soluciones a las oportunidades generadas en 
+los Centros de Excelencia y Apropiación (CEA). La propuesta deberá 
+demostrar cómo se diseñará la disponibilidad de los productos para la 
+solución de las necesidades expuestas por los diferentes actores que 
+conformen el Centro. 
+Como mínimo, el plan de negocio deberá proyectarse para cinco (5) años y 
+comprender los siguientes aspectos:  
+ Estructura del órgano de administración 
+ Área jurídico-mercantil 
+ Área económica 
+ Área de marketing 
+ Área de ventas 
+ Área de producción 
+ Área de recursos humanos 
+ Área contable-financiera 
+ 
+3.2. 
+Un plan de sostenibilidad, que debe describir las principales acciones para 
+llevarse a cabo con el fin de asegurar la existencia del Centro de Excelencia 
+y Apropiación. El Plan de Sostenibilidad deberá incluir una proyección de 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 32 de 33 
+los ingresos y gastos de la operación del Centro, a cinco (5) años, donde 
+para el primer año se reflejen los recursos provistos en el marco de la 
+presente convocatoria por parte de Colciencias – MinTIC 
+ 
+4. Propuesta de Valor 
+Como propuesta de valor se entiende la descripción del producto y/o servicio que 
+se desea implementar en el Centro de Excelencia y Apropiación (CEA) para cubrir 
+una necesidad de mercado, normalmente se trata de un problema que hasta ahora 
+no se ha resuelto o bien de cubrir una necesidad ya satisfecha por encima de las 
+expectativas actuales, para un grupo suficientemente significativo de clientes. 
+Las características para describir una propuesta de valor innovadora son: 
+focalización, divergencia en relación a otras propuestas del mercado similares y 
+que se pueda transmitir a través de un mensaje contundente2.Teniendo en cuenta 
+que el Centro de Excelencia y Apropiación (CEA) busca posicionar a Colombia 
+como líder y referente en Internet de las Cosas  a nivel nacional e internacional, la 
+evaluación de la propuesta de valor tendrá en cuenta la calidad de los socios que 
+participen en la conformación de los Centros. 
+ 
+5. Cantidad 
+y 
+Pertinencia 
+de 
+los 
+Socios 
+Adicionales: 
+Empresas, 
+Universidades y actores de otros sectores 
+ 
+Los Centros de Excelencia y Apropiación (CEA) buscarán hacer partícipes y 
+socios a diferentes grupos de interés estratégicos con el fin de converger hacia un 
+Ecosistema de Innovación Nacional. Entre ellos se encuentran principalmente 
+Universidades, Big Players del sector TIC y organizaciones/empresas de actividad 
+comercial de otros sectores. Al mismo tiempo buscará vincular e integrar otros 
+Centros que pueden ser aliados estratégicos por su conocimiento y capacidades 
+específicos en TIC o en diferentes negocios. 
+ 
+Los Centros de Excelencia y Apropiación (CEA) deben ser facilitadores e 
+impulsadores en la industria nacional TIC, por tal motivo se dispone de 20 puntos 
+para las propuestas que integren más entidades que enriquezcan los CEA 
+(Universidades, Empresas y actores de otros sectores). 
+ 
+El puntaje máximo será asignado al o a los proponentes que acrediten el mayor 
+número de socios. Cada entidad participante adicional generará 2 puntos en la 
+calificación. Propuestas con 10 o más entidades adicionales obtendrán un puntaje 
+máximo de 20 puntos. 
+ 
+6. Contrapartida Adicional 
+                                                           
+2 Principios de la Innovación en Valor propuestos por W. Chan Kim y Renée Mauborgne en su publicación Blu 
+Ocean Strategy 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 33 de 33 
+  
+La contrapartida mínima es de 1:1 de los recursos financiados por COLCIENCIAS 
+– Ministerio de Tecnologías de la Información y las Comunicaciones para cada 
+Centro de Excelencia y Apropiación (CEA). 
+ 
+Se le dará un máximo de 10 puntos a las propuestas que incrementen el valor de 
+esta relación de contrapartida.El cálculo se hará mediante una regla de tres 
+simple. 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     COLCIENCIAS © | §PROSPERIDAD 
+Deportamants Adminis ce Chesca, Twenty # brewed 
+    
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+-COLCIENCIAS- 
+| 
+  
+  
+CONVOCATORIA PARA CONFORMAR CENTROS DE EXCELENCIA Y APROPIACION 
+EN INTERNET DE LAS COSAS (loT) — 2014 
+  
+1. PRESENTACION 
+COLCIENCIAS, como ente rector de la Ciencia, la Tecnologia y la Innovacién en el pais, 
+en alianza con 
+el Ministerio de Tecnologias de 
+la Informacién 
+y las Comunicaciones, 
+busca con esta convocatoria la creacion, montaje y operacion de un Centro de Excelencia 
+y Apropiacion 
+- CEA en Internet de las Cosas (loT) para la generacién de soluciones 
+innovadoras apalancadas en TI que agreguen valor a los sectores estratégicos del pais. 
+Se trata de impulsar, promocionar y desarrollar las Tecnologias de la Informacién y las 
+Comunicaciones 
+en 
+la 
+industria, 
+la academia 
+y 
+los diferentes sectores que puedan 
+intervenir 
+en 
+ella, 
+con 
+el 
+fin 
+de 
+contribuir 
+al 
+incremento 
+de 
+la 
+productividad 
+y 
+la 
+competitividad tanto del sector TIC como de otros sectores de la economia donde existen 
+oportunidades de valor agregado a través IoT. 
+Por medio de iniciativas-proyectos de Investigacion, Desarrollo e Innovacién (I+D+i), 
+la 
+alianza de Colciencias y el Ministerio TIC desarrolla y apoya el disefio e implementacién 
+de soluciones innovadoras en TIC que buscan, a través de la asociacién y convergencia 
+de grupos de interés (academia, industria y gobierno) el posicionamiento de una cultura 
+de innovacion donde surjan lazos de sociedad nacional en pro de una visién compartida 
+para 
+el sector. En cuanto los actores participes de los proyectos puedan avanzar en 
+la 
+consolidacién de una sociedad, mas alla de las relaciones contractuales existentes, surge 
+un Ecosistema de Innovacién. 
+Los Centros de Excelencia 
+y Apropiacién 
+- CEA buscan promocionar en Colombia 
+la 
+industria de loT y proyectarla, de la mano de la academia y con el apoyo del Estado, a 
+nivel mundial. La riqueza de la informacion y los desarrollos existentes a nivel mundial que 
+podran hacerse en Colombia, haran de los Centros de Excelencia y Apropiacion CEA 
+motores de innovacién TIC en beneficio de un Ecosistema de Innovacién Nacional y del 
+emprendimiento y empresarismo. 
+Los Centros de Excelencia 
+y Apropiacién 
+- CEA deberan contar con talento humano 
+capacitado, multidisciplinario y polivalente, que permitan el fortalecimiento, generacién y 
+aplicaci6n de competencias loT. De esta manera, los Centros de Excelencia y Apropiacion 
+- CEA deberan contar con grupos de investigacion, desarrollo tecnolégico y/o innovacién 
+del mas alto nivel, 
+que apoyen la formacién del talento humano en niveles de maestria, 
+doctorado 
+y posdoctorado 
+con 
+capacidad 
+de especializacién 
+sectorial 
+y 
+en nuevas 
+tecnologias. 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 1 de 15 
+wy 
+ 
+   
+    COLCIENCIAS C” | @PROSPERIBAR 
+He 
+Deparrarunts Adiminlisctive 
+de Clank Uecrvligias w lnneyciciie 
+     
+La universidad, como vector de 
+la investigacion aplicada, permitira que los Centros de 
+Excelencia y Apropiacién - CEA se posicionen como motores de innovacion en TIC con un 
+alcance nacional e internacional para el desarrollo de soluciones a la medida; siendo un 
+enlace entre la oferta de lideres mundiales en loT y la demanda de grandes empresas de 
+otros sectores estratégicos de 
+la economia, generando oportunidades para 
+la industria 
+nacional. 
+Teniendo en cuenta que los Centros de Excelencia y Apropiacién - CEA estan concebidos 
+para 
+fortalecer 
+la 
+formacién 
+de 
+talento 
+humano 
+en 
+competencias 
+necesarias 
+y 
+relacionadas con IoT, los lideres del sector TIC participan en el proceso de formacién con 
+el fin de promover el desarrollo de innovaciones y soluciones que fortalecen el sector TIC 
+nacional y agregan valor a otros sectores estratégicos. Se generan asi, adicionalmente, 
+oportunidades de negocio y la posibilidad de contar con talento humano formado en las 
+competencias que estos grandes actores requieren para el desarrollo de sus actividades y 
+negocios. Un capital humano con capacidad de vincular las TIC como valor agregado a 
+negocios estratégicos de la economia nacional. 
+Las grandes empresas de otros sectores tienen visiones, ideas muy especificas; dichas 
+visiones e ideas generan oportunidades para que los Centros de Excelencia y Apropiacion 
+desarrollen prototipos y productos y éstos estén disponibles en el mercado. 
+De esta manera, con el fin de converger hacia un Ecosistema de Innovacién Nacional, el 
+CEA debe hacer participes a grupos de interés estratégicos. Entre ellos se encuentran: 
+proveedores, clientes, competidores y complementarios. 
+En el modelo de CEA en IoT, se consideran Proveedores a los lideres mundiales en 
+la 
+materia 
+— 
+denominados 
+“Big 
+Players’; 
+capaces 
+de 
+suministrar/integrar 
+tecnologia, 
+conocimiento, buenas practicas, que buscan posicionar sus productos y conocimientos. 
+Las universidades y los Big Players trabajan de la mano de clientes y empresas ancla — 
+organizaciones/empresas de actividad comercial de otros sectores — en la administracion 
+y analisis de oportunidades para el desarrollo de innovaciones en base 
+a informacion 
+provenientes de una gran variedad de fuentes que exigen alta velocidad y desempefo. En 
+busca de un Ecosistema de Innovacién, 
+el modelo del CEA debera vincular e integrar 
+como socios 
+a actores que podrian estar representados por Centros de Investigaci6n, 
+Centros 
+de 
+Desarrollo, 
+Centros 
+de 
+Excelencia, 
+entre 
+otros, 
+que pueden 
+ser aliados 
+estratégicos por su conocimientos 
+y capacidades especificos en TIC 
+o en diferentes 
+negocios. 
+Se debe buscar que tanto proveedores, competidores y clientes, sean socios del Centro 
+de Excelencia y Apropiacion, 
+y que 
+a través de spin-offs y emprendimientos se genere 
+una dindmica dentro de 
+la industria TIC nacional en beneficio de un Ecosistema de 
+Innovacién 
+Nacional 
+y 
+asi, 
+a 
+través 
+del 
+fortalecimiento 
+de 
+actores 
+principales 
+y 
+complementarios, genere valor al sector. 
+La convergencia de estos actores permitira lograr una sinergia donde cada uno de estos 
+genere valor mutuo, 
+potencializando 
+el 
+analisis 
+y 
+la ingenieria de datos 
+en sectores 
+estratégicos del pais 
+y generando una dinamicas e innovaciones dentro de 
+la industria 
+nacional TIC y de otras industrias, que impulse y fortalezcan las TIC en Colombia. 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 2 de 15 
+ 
+     COLCIENCIAS C7 | (PROSPERIDAD 
+Departarmante Actsinivnetion ce Clomein, Tecrogia w honesncinee 
+2. OBJETIVOS 
+2.1 GENERAL: 
+   
+  
+Financiar un proyecto para la creacion, montaje y operacion de un Centro de Excelencia y 
+Apropiacién 
+- CEA en Internet de las Cosas (loT) que genere soluciones innovadoras 
+apalancadas en TIC y en el andlisis, la ciencia y la ingenieria de los datos que agreguen 
+valor a los sectores estratégicos del pais, con proyeccién internacional. 
+2.2 ESPECIFICOS: 
+2.2.1. Conformar un Centro de Excelencia y Apropiacion en 
+el cual los investigadores 
+tanto nacionales como extranjeros puedan desarrollar nuevos productos y tecnologias 
+relacionadas con las tematicas de Internet de las Cosas - loT. 
+2.2.2. Generar las condiciones suficientes para que diferentes instituciones de alto nivel 
+puedan aunar esfuerzos alrededor de un objetivo comtn tendiente al desarrollo de la 
+tematica de loT. 
+2.2.3. Ofrecer a los diferentes sectores de la industria tanto nacional como internacional, 
+servicios y productos tendientes fortalecer las estrategias corporativas y desarrollar la 
+competitividad de la industria nacional TIC. 
+2.2.4. Desarrollar soluciones innovadoras con base en loT que fortalezcan las nuevas 
+tecnologias como valor agregado a sectores estratégicos el pais. 
+2.2.5. Desarrollar 
+y reforzar las capacidades 
+y competencias del talento humano, 
+a 
+través de las experiencias de 
+los actores con programas de formacién altamente 
+especializada. 
+2.2.6. Desarrollar un ecosistema de emprendimiento basado en spin-offs y start-ups. 
+2.2.7. Posicionar a Colombia como pais lider en la regidn con oportunidades en el sector 
+TIC 
+en 
+el 
+desarrollo 
+de 
+Internet 
+de 
+las Cosas 
+(loT) generando externalidades 
+positivas para fortalecerse y especializarse. 
+3. DIRIGIDA A 
+Alianzas estratégicas entre universidades, entidades lideres y entidades ancla de acuerdo 
+con las siguientes definiciones: 
+a) 
+UNIVERSIDAD: Universidades puiblicas o privadas con acreditacién vigente de alta 
+calidad expedida por el Ministerio de Educacién Nacional. 
+b) 
+ENTIDAD 
+LIDER: 
+Se 
+consideran 
+entidades 
+lideres 
+las 
+personas 
+juridicas, 
+de 
+economia mixta o privada, con animo de lucro del sector productivo y de servicios, 
+nacionales 
+o 
+extranjeras, 
+legalmente 
+constituidas 
+en 
+Colombia. Adicionalmente, 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 3 de 15 
+Se 
+ 
+   
+    
+corciencias€’ | (PEOSRBBAR 
+Departornenia Acimisisitctiva tie Clancia, Tmenologio  nnoweriie 
+    
+  
+deberan ser lideres del mercado internacional en el sector TIC en areas relacionadas 
+con 
+Internet de 
+las Cosas 
+(loT); 
+para evaluar dicho liderazgo, 
+se tomara como 
+referencia 
+los 
+cuadrantes 
+magicos 
+de 
+Gartner 
+(para 
+mayor 
+informacion 
+www.gartner.com). 
+c) 
+ENTIDAD ANCLA: 
+Se 
+consideran 
+entidades 
+ancla 
+las 
+personas 
+juridicas, 
+de 
+economia mixta o privada, con animo de lucro del sector productivo y de servicios, 
+nacionales o extranjeras, legalmente constituidas en Colombia, 
+las cuales ocupan 
+una posicion de liderazgo demostrable a través de su participacién en el mercado al 
+cual 
+estan 
+orientadas 
+y donde 
+las MiPyMes 
+hacen 
+parte 
+de 
+sus cadenas 
+de 
+distribuci6n 
+o 
+proveeduria. 
+Las 
+entidades 
+ancla_ 
+adicionalmente 
+deberan 
+representar/poseer demanda significativa por su especificidad y monto de productos y 
+servicios 
+con 
+gran 
+potencial 
+para 
+proyectar 
+el 
+desarrollo 
+de técnicas, 
+modelos, 
+soluciones 0 aplicaciones de Internet de las Cosas — loT. 
+Notas: 
+4. 
+Una entidad no puede ser simultaneamente lider, ancla y Universidad en el mismo 
+proyecto. 
+2. 
+Las 
+alianzas estratégicas deben 
+estar conformadas, 
+como minimo, 
+por dos 
+(2) 
+universidades, dos (2) entidades lider y dos (2) entidades ancla, 
+(podran haber mas 
+de dos de cada una de éstas, 
+lo cual generara puntaje adicional en la evaluacion). 
+Para las universidades, de la tercera en adelante podran no estar acreditadas, pero 
+deberan estar en el proceso de acreditacion. 
+3. 
+Las alianzas entre las entidades deberan asegurar la creacion de una figura-persona 
+juridica independiente de los socios. Se entiende que el CEA es motor de innovacion 
+en loT y TIC 
+; que hace participe 
+a diferentes grupos de interés, generando una 
+dinamica dentro de 
+la industria TIC nacional en beneficio de un Ecosistema de 
+Innovacién Nacional, de emprendimiento y de empresarismo. La alianza entonces 
+debera crear una personeria juridica en capacidad de desarrollar los modelos de 
+sostenibilidad 
+y negocio atribuidos 
+al CEA y aun mas de asumir el protagonismo 
+requerido en un ecosistema con interaccion 
+y asociacién con socios nacionales e 
+internacionales. 
+4. REQUISITOS MINIMOS 
+Los requisitos minimos para participar en la presente convocatoria, son los siguientes: 
+4.1. Inscripcidn 
+del 
+proyecto 
+en 
+el Sistema 
+Integrado 
+de Gestién 
+de Proyectos 
+de 
+COLCIENCIAS — SIGP a través del formulario electrénico disponible en el portal de 
+COLCIENCIAS (www.colciencias.gov.co). 
+4.2. La alianza estratégica para la conformacién del Centro de Excelencia y Apropiacion - 
+CEA debe estar conformada, como minimo, por dos (2) Universidades, 
+dos 
+(2) 
+entidades lideres y dos (2) entidades ancla. Para las Universidades, de la tercera en 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 4 de 15
+ TL 
+  
+adelante 
+podran 
+no 
+estar 
+acreditadas, 
+pero 
+deberan 
+estar 
+en 
+el 
+proceso 
+de 
+acreditacion. 
+4.3. 
+Carta 
+de 
+la 
+alianza 
+estratégica 
+entre 
+las 
+universidades, 
+entidades 
+lideres 
+y 
+entidades ancla, firmada por los representantes legales de las partes, en la cual se 
+designe a una de las universidades como ejecutor del proyecto; asi mismo, debera 
+describirse la contrapartida de 1:1. En caso que el representante legal no cuente con 
+la competencia para asumir los compromisos consignados en 
+la carta de alianza 
+estratégica, 
+debera 
+presentar documento 
+que 
+lo 
+faculte firmado 
+por 
+el 
+organo 
+competente. Ver Anexo 1. 
+4.4. 
+Cada una de las empresas lideres debera acreditar como minimo veinticuatro (24) 
+meses de constituidas a 
+la fecha de apertura de 
+la presente convocatoria. Para el 
+caso de las empresas lideres extranjeras, deberan contar con representacion legal en 
+Colombia de minimo un afo a 
+la fecha de apertura de la presente convocatoria y/o 
+estar asociadas con una empresa nacional que acredite como minimo veinticuatro 
+(24) meses de constituida 
+a 
+la fecha de apertura de 
+la presente covocatoria. 
+El 
+anterior requisito sera verificado por COLCIENCIAS mediante los Certificados de 
+Existencia y Representacion legal de cada uno de los miembros de la Alianza. 
+4.5. Las universidades deben tener acreditacién nacional vigente (adjuntar resoluciones 
+de 
+acreditacién 
+correspondientes), 
+y deben 
+contar con 
+grupos 
+de 
+investigacién, 
+desarrollo tecnoldgico y/o innovacién 
+en tematicas y/o actividades relacionadas con 
+el objeto del Centro de Excelencia y Apropiacién — CEA; se consideran grupos de 
+investigacion, desarrollo tecnoldgico y/o innovacién 
+aquellos que 
+a 
+la fecha de 
+apertura de la presente convocatoria se encuentran 
+reconocidos 
+por 
+COLCIENCIAS como resultado de la convocatoria 640 de 2013. 
+4.6. 
+La propuesta de la Alianza debe incluir la creacién de un Centro de Excelencia y 
+Apropiaci6n 
+- CEA que cuente como minimo con tres (3) grupos de investigacién, 
+desarrollo tecnoldgico y/o innovacioén reconocidos por COLCIENCIAS como resultado 
+de la convocatoria 640 de 2013. Cada grupo a su vez debe contar, como minimo con: 
+un (1) PhD, tres (3) estudiantes doctorales y diez (10) estudiantes de maestria, todos 
+con dedicacion de tiempo total. 
+Los miembros de los grupos deben estar enfocados 
+en areas de Internet de las Cosas. 
+4.7. 
+_Documento de 
+intencién de acuerdo de propiedad intelectual entre entidades que 
+presentan 
+el proyecto 
+y entre los investigadores que participarian en 
+el proyecto, 
+deberan 
+aclarar 
+de manera 
+explicita 
+la 
+distribucién 
+de derechos de autor 
+y 
+de 
+propiedad intelectual 
+de 
+los productos 
+y resultados que desprendan del eventual 
+desarrollo del proyecto presentado (ver anexo 2) 
+4.8. 
+Carta de presentacion, aval y aceptacién de compromisos, relacionando que este 
+proyecto no esta siendo presentado en otra convocatoria y no esta siendo financiado 
+con otros recursos del Estado, firmada por el representante legal de la empresa de TI. 
+Ver Anexo 3. 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 5 de 15 
+ 
+   
+  
+4.9. 
+Carta 
+de autorizacién 
+de uso 
+y almacenamiento 
+de datos personales de 
+las 
+personas involucradas en 
+el proyecto. Diligenciar de acuerdo con 
+el formato del 
+Anexo 4, uno por cada una de las personas involucradas en el proyecto. 
+4.10. 
+Componer la estructura presupuestal del proyecto Unicamente con los rubros de 
+financiacién y contrapartida descritos en la presente convocatoria. 
+4.11. 
+Documento en el cual 
+la entidad lider demuesire su posicién de liderazgo en 
+el 
+mercado, 
+a través del andlisis de los cuadrantes magicos de Gartner (para mayor 
+informacion www.gartner.com). 
+4.12. 
+La entidad 
+ancla debera demostrar 
+su 
+posicidn 
+de 
+liderazgo 
+en 
+el mercado 
+mediante la presentacién de un documento que contenga como minimo los aspectos 
+que se describen a continuaci6n: 
+e 
+Liderazgo demostrable a través de su participacién en el mercado al cual esta 
+orientada 
+y donde 
+las MiPyMes hacen parte de su cadena de distribucién 
+o 
+proveeduria 
+e 
+Demostrar que representa/posee demanda significativa por su especificidad 
+y 
+monto de productos y servicios con gran potencial para proyectar el desarrollo de 
+técnicas, modelos, soluciones o aplicaciones de Internet de las Cosas. 
+4.13. 
+Las universidades no acreditadas que hagan parte de la alianza, deberan entregar 
+un documento que demuestre que se encuentran en proceso de acreditacion. 
+4.14. 
+Documento 
+donde 
+describa 
+la 
+propuesta 
+de 
+valor, 
+donde 
+se 
+entienda 
+la 
+descripcién del producto y/o servicio que se desea implementar en 
+el Centro de 
+Excelencia y Apropiacion (CEA) para cubrir una necesidad de mercado, normalmente 
+se trata de un problema que hasta ahora no se ha resuelto 
+o bien de cubrir una 
+necesidad ya satisfecha 
+por encima de 
+las expectativas actuales, para un grupo 
+suficientemente significativo de clientes. 
+Las 
+caracteristicas 
+para 
+describir 
+una 
+propuesta 
+de 
+valor 
+innovadora_ 
+son: 
+focalizacién, divergencia en relacién a otras propuestas del mercado similares y que 
+se pueda transmitir a través de un mensaje contundente'.Teniendo en cuenta que el 
+Centro de Excelencia y Apropiacién (CEA) busca posicionar a Colombia como lider y 
+referente en Big Data Analytics a nivel nacional e internacional, 
+la evaluacién de la 
+propuesta de valor tendra en cuenta 
+la calidad de los socios que participen en 
+la 
+conformacidén de los Centros. 
+Notas: 
+1. Los interesados deberan cumplir con la totalidad de los requisitos minimos para que su 
+proyecto sea evaluado, en caso contrario no continuaran al proceso de evaluacidn. 
+  
+' Principios de la Innovacidn en Valor propuestos por W. Chan Kim y Renée Mauborgne en su publicacién Blu 
+Ocean Strategy 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 6 de 15
+ oT, 
+oF 
+COLCIENCIAs C7 
+IPaRa EAR 
+MinTIC 
+  
+Departormenta Administrative dir Clencia, Tecuokeyes 
+o inmewnitin 
+a 
+tmserat 
+pesretent 
+if 
+tor 
+  
+2. Las entidades que se presenten 
+en 
+alianza 
+y que tengan contratos 
+o convenios 
+vigentes con COLCIENCIAS, deberan estar 
+a paz 
+y salvo 
+con 
+los compromisos 
+adquiridos; de lo contrario no seran considerados para participar en esta convocatoria. 
+3. COLCIENCIAS, podra solicitar en cualquier momento, informacién 
+y documentacién 
+adicional o aclaraciones de las mismas. 
+0. DURACION Y FINANCIACION 
+  
+El término de duraci6n a financiar sera de doce (12) meses. 
+Para cofinanciar 
+la presente convocatoria, 
+se cuenta con 
+DOS MIL 
+QUINIENTOS 
+MILLONES DE PESOS ($2.500.000.000), los cuales corresponden a recursos asignados 
+por el Ministerio de Tecnologias de la Informacién y las Comunicaciones. 
+Los recursos otorgados por Ministerio TIC — COLCIENCIAS como apoyo 
+al CEA se 
+destinaran a financiar exclusivamente lo siguiente: 
+e 
+Talento humano; Hasta MIL CIEN MILLONES DE PESOS ($110.000.000) por 
+cada grupo de investigacién, desarrollo tecnolégico y/o innovacién. El CEA debe 
+contar con minimo dos 
+(2) grupos de investigacion, desarrollo tecnolégico y/o 
+innovaci6n. 
+e 
+Las actividades de apoyo a la investigacién; Hasta TRECIENTOS MILLONES DE 
+PESOS ($300.000.000) como apoyo a la investigacién. 
+La contrapartida minima es de 1:1 de los recursos financiados, es decir, que por un peso 
+asignado 
+como 
+apoyo 
+al 
+proyecto, 
+la 
+propuesta 
+debera 
+presentar 
+un 
+peso 
+como 
+contrapartida. El valor de la contrapartida debera estar dado en dinero y en especie; 
+el 
+valor en especie no puede superar el cincuenta por ciento de la contrapartida minima. El 
+presupuesto debera presentarse discriminado por rubros. Seran financiados con recursos 
+de COLCIENCIAS-MinTIC Unicamente los rubros financiables descritos en el Anexo 5. 
+Notas: 
+1. 
+El proyecto presentado 
+no 
+podra 
+ser financiando simultaneamente 
+y durante 
+el 
+tiempo de ejecucién por otra convocatoria o con recursos de COLCIENCIAS u 
+otras 
+entidades del Estado. 
+2. 
+En caso de no reintegro de los recursos acordados contractualmente, COLCIENCIAS 
+efectuara el respectivo reporte en el boletin de deudores morosos. 
+6. CONTENIDOS DEL PROYECTO 
+Con esta convocatoria se busca la creacién y operacién de un Centro de Excelencia y 
+Apropiacién en Internet de las Cosas con 
+el fin de capitalizar el analisis de datos en 
+sectores 
+estratégicos, 
+en 
+reconocimiento 
+prospectivo 
+de 
+las tendencias 
+y avances 
+tecnoldgicos. 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 7 de 15 
+ 
+   
+    
+conciencias 
+’ | ¢PROSPERIDAR 
+Departaranes Ackn|aivetws ie Chorck, Facreag 
+is m inners 
+  
+  
+Debera 
+entregarse 
+una 
+propuesta 
+de 
+valor agregado 
+del 
+Centro 
+de 
+Excelencia 
+y 
+Apropiacién 
+- CEA hacia la generacion del conocimiento, el desarrollo de soluciones y el 
+beneficio de un Ecosistema de Innovacién Nacional. 
+El Ministerio TIC y Colciencias reconocen 
+el valor de la informacién como herramienta 
+para 
+el 
+fortalecimiento 
+de 
+sectores 
+industriales, gubernamentales 
+y académicos. 
+La 
+existencia de informacion disponible hace de su consecuente analisis un insumo cada vez 
+mas valioso en 
+la toma de decisiones. Las tendencias mundiales en TIC evidencian 
+la 
+convergencia de tecnologias necesarias para el analisis de grandes volumenes de datos. 
+Internet de las Cosas 
+se posiciona progresivamente en 
+el centro de 
+las estrategias 
+sociales, econdémicas, culturales 
+y politicas 
+y su eficacidad significa 
+la preparacion 
+y 
+fortalecimiento de los recursos necesarios para su desarrollo. 
+El CEA debe incluir un elemento de Proveedores, un elemento de Clientes, un elemento 
+de Competidores 
+y un elemento de Complementarios. 
+En 
+Internet de 
+las Cosas, 
+los 
+Proveedores seran empresas lideres del sector TIC que suministren o integren tecnologia, 
+conocimiento, buenas practicas, que trabajen en infraestructura, software y modelos de 
+base, software 
+y modelos de aplicabilidad 
+y que busquen posicionar sus productos 
+y 
+conocimiento — i.e. los Big Players — Entidad Lider. Los Clientes serian las diferentes 
+entidades 
+privadas 
+de 
+otros 
+sectores 
+que tengan 
+necesidad 
+de 
+gestionar grandes 
+volimenes 
+de 
+informacién 
+estructurada 
+y 
+no 
+estructurada, 
+proveniente 
+de diversas 
+fuentes; i.e. Entidad Ancla. Los Competidores estan representados por otros Centros de 
+Investigacion, Centros de Desarrollo, Centros de Excelencia, entre otros, que pueden 
+idealmente ser aliados en algun momento. 
+De acuerdo con 
+lo anterior, se debe buscar que ciertos Proveedores, Competidores y 
+Clientes, sean socios del CEA, 
+y que a través de spin-offs y emprendimientos de los 
+Complementarios, 
+se 
+genere 
+una dinamica 
+dentro 
+de 
+la 
+industria 
+TIC 
+nacional 
+en 
+beneficio de un Ecosistema de Innovaci6n Nacional. 
+Se entendera entonces por CEA un motor de innovacién TIC que hace participe 
+a 
+diferentes grupos de interés, articulados alrededor de un programa comun de trabajo 
+estratégico para 
+el pais, 
+en donde las universidades, como vectores de investigacion 
+aplicada, 
+en conjunto con 
+la industria TIC 
+y 
+las grandes empresas de otros sectores 
+econémicos, 
+promueven 
+la 
+especializacién 
+sectorial 
+y 
+en 
+nuevas 
+tecnologias 
+para 
+resolver problemas y desarrollar soluciones a la medida, generando una dinamica dentro 
+de 
+la industria TIC nacional; construyendo un Ecosistema de Innovacién Nacional, de 
+emprendimiento y de empresarismo. 
+Contando 
+con 
+talento 
+humano 
+capacitado 
+y 
+grupos 
+de 
+investigaci6én, 
+desarrollo 
+tecnolégico 
+y/o 
+innovacién 
+del 
+mas 
+alto 
+nivel, 
+el CEA 
+permite 
+la 
+generacion 
+de 
+competencias y conocimiento en escenarios académicos y la transferencia de estos a la 
+industria TIC, siendo asi un articulador entre la oferta y la demanda, donde los Big Players 
+del sector TIC tienen participacién en el proceso de formacién de talento humano 
+y en el 
+desarrollo de soluciones ajustadas a las necesidades especificas de grandes empresas 
+de sectores economicos de relevancia para el pais con necesidades y oportunidades TIC, 
+generando 
+oportunidades 
+para 
+la 
+industria 
+nacional 
+y 
+valor 
+agregado 
+a 
+negocios 
+estratégicos de la economia nacional, con proyeccién internacional. 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C, Colombia 
+www.colciencias.gov.co 
+Pagina 8 de 15
+       
+alll 
+© 
+d 
+Qe 
+La convergencia de estos actores permite lograr una sinergia donde cada uno de estos 
+genere valor mutuo, potencializando 
+la investigacién aplicada enfocada 
+a patentes 
+y 
+productos en sectores estratégicos del pais 
+y generando una dinamica dentro de 
+la 
+industria nacional TIC que impulse y fortalezca la innovacién en Colombia. 
+COLCIENCIAs C7 | {PROSPERIDAD 
+o) a 
+Departomenta Adeesivantien da Clerein, Tacnnleg 
+ia a innowacidin 
+  
+Para el detalle del contenido de la propuesta favor verificar el Anexo 5. 
+7. PROCEDIMIENTO DE INSCRIPCION 
+7.1. 
+Descargar, 
+descomprimir 
+e 
+instalar 
+la maquina 
+virtual 
+de java 
+de 
+la 
+siguiente 
+direccién: 
+http://Awww. colciencias.gov.co/sites/default/files/ckeditor _files/files/formularios sigp/jre- 
+7u51-windows-i586.zip 
+7.2. 
+Descargar, descomprimir 
+y diligenciar 
+el formulario electronico disponible en 
+la 
+seccion correspondiente a esta convocatoria del 
+portal institucional de COLCIENCIAS 
+(http:/Avww.colciencias.gov.co). 
+El 
+formulario 
+electrénico 
+es 
+especifico 
+para 
+esta 
+convocatoria, asegurese de diligenciar efectivamente el formulario en cuestién. 
+7.3. Para enviar el proyecto desde el formulario electronico, debe Aceptar los Términos y 
+Condiciones, e inmediatamente se activa el boton de Validar. Si el proyecto es valido sin 
+errores, 
+se activa 
+el bot6n de Enviar. 
+Una vez 
+el proyecto sea enviado 
+al Sistema 
+Integrado de Gestién de Proyectos de COLCIENCIAS -SIGP-, 
+el Sistema emitira una 
+respuesta automatica, generando un numero de confirmacion de recibido en el servidor de 
+COLCIENCIAS; este numero garantizara la recepcién exitosa del proyecto. 
+7.4. 
+El numero de confirmacién de recibido 
+y 
+la contrasefia que 
+la entidad asigne 
+al 
+proyecto, le permitira realizar el envio de los requisitos minimos y hacer el seguimiento del 
+estado 
+del 
+proyecto. Tome 
+nota 
+de 
+este numero 
+de confirmacién 
+y 
+la 
+contrasefa 
+asignada. 
+7.5. Para realizar el envio de los requisitos minimos desde el formulario electrénico, debe 
+dar click en 
+el botén adjuntar documentos de requisitos; inmediatamente 
+el sistema 
+desplegara una pagina en el Portal de Sistema de Gestion de Proyectos para tal fin. En el 
+campo 
+Proyecto 
+digite 
+el 
+numero 
+de 
+confirmacién 
+de 
+recibido 
+y 
+en 
+el 
+campo 
+correspondiente diligencie 
+la contrasefia y proceda 
+a dar click en 
+el botén Ingresar. A 
+continuacion el sistema desplegara la informacién basica del proyecto y en la parte inferior 
+el detalle de los requisitos minimos. 
+7.6. Debe adjuntar la totalidad de los documentos que soportan los requisitos minimos. Si 
+para un requisito minimo requiere anexar mas de un documento, guardelos en una sola 
+carpeta y adjuntela como archivo comprimido .ZIP o .RAR en el campo correspondiente al 
+requisito. 
+Si 
+requiere cambiar algdn archivo de 
+los que previamente adjunté, 
+puede 
+hacerlo examinando y adjuntando el documento deseado. 
+7.7. Si requiere adjuntar documentaci6én adicional del proyecto (tablas, graficos, anexos, 
+etc.), guardela en una sola carpeta y adjuntela como archivo comprimido .ZIP o .RAR en 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 9 de 15 
+a
+   
+    
+a PROSPERIDAD 
+PARA TODOS 
+Te 
+COLCIENCIAS Co 
+Departments Achwinivintaiva dhe Clerc, Trcnealeey'ss 
+« bnascneniciee 
+Dae 
+Les! 
+   
+  
+   
+el requisito denominado Otros adjuntos. 
+Si requiere cambiar algun archivo de los que 
+previamente adjunt6, puede hacerlo examinando y adjuntando el documento deseado. 
+7.8. Recuerde que el formulario solo admite un archivo anexo por cada requisito minimo, 
+por lo que al cargar un archivo nuevo, este reemplazara al anterior. Usted puede verificar 
+el archivo que adjunté a través de la pagina http://201.234.78.164:7777/portal/ del SIGP, 
+con el numero de confirmacion y la contrasefia asignada al proyecto. 
+7.9. Anexando todos 
+los documentos obligatorios se puede generar 
+el Certificado de 
+requisitos minimos, que le sirve de evidencia del envio de los mismos. En caso contrario, 
+el sistema enviara el siguiente mensaje de error: Error — Debe adjuntar los documentos 
+obligatorios para obtener el certificado, y no permitira generar dicho certificado. 
+7.10. 
+Hasta que 
+no estén completos 
+los requisitos minimos 
+y se haya generado 
+el 
+certificado anteriormente mencionado, 
+no se dara por culminado satisfactoriamente 
+el 
+proceso de inscripcion del proyecto. 
+Notas: 
+1. 
+Se aceptaran Gnicamente 
+lo proyectos que se presenten 
+a traves del formulario 
+electrénico con toda la informaci6n solicitada en la presente convocatoria. 
+2. 
+Nose recibiran proyectos en fisico ni por otro medio diferente al mencionado. 
+3. 
+Los proyectos que se reciban fuera de la fecha limite establecida en calendario, no 
+participaran en el proceso de seleccion y posterior evaluacion. 
+4. 
+Los proyectos que se reciban 
+sin 
+el lleno de 
+los requisitos establecidos en esta 
+convocatoria, no participaran en 
+el proceso de seleccién para ser incorporados 
+al 
+Banco de Elegibles. 
+5. 
+COLCIENCIAS-Ministerio 
+TIC 
+se 
+reserva 
+el 
+derecho 
+de 
+solicitar 
+en 
+cualquier 
+momento la documentaci6n adicional que da soporte a los proyectos. 
+6. 
+COLCIENCIAS-Ministerio TIC se reserva 
+el derecho de verificar 
+la informacion 
+y 
+documentacion presentada, en cualquier momento antes de la fecha de publicacion 
+de resultados. 
+7. 
+En caso de que se presenten errores en el cargue de la informacion de la propuesta 
+y/o los adjuntos a través del SIGP, 
+y por esta razon después de efectuados varios 
+intentos no pueda enviarse el proyecto de forma normal dentro de! plazo establecido, 
+por favor capturar las pantallas con 
+el mensaje de error y cualquier evidencia que 
+soporte 
+el 
+problema, 
+explicando 
+en 
+el 
+cuerpo 
+del 
+correo 
+electrénico 
+los 
+inconvenientes 
+presentados. 
+Remitir 
+toda 
+la 
+ informaci6n 
+al 
+correo 
+contacto@colciencias.gov.co 
+antes 
+de 
+la 
+fecha 
+de 
+cierre 
+establecida 
+en 
+el 
+CRONOGRAMA de los presentes términos de referencia. 
+8. CRITERIOS DE EVALUACION 
+Los criterios de evaluacion seran los siguientes: 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C, Colombia 
+www.colciencias.gov.co 
+Pagina 10 de 15
+     CoLcieNcias 
+@ | @BROSPERIDAD 
+w 
+ld So 
+ee 
+Depastaments Achini rains. de Clencla, Eerolog 
+na w hnnewacdin 
+  
+e Li 
+ar 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+No. 
+Criterio 
+Puntaje 
+: 
+maximo 
+1 
+Calidad y Metodologia del proyecto 
+10 
+2 | Equipo de Trabajo 
+15 
+3 | Plan de negocio y de sostenibilidad 
+30 
+4 | Propuesta de Valor 
+15 
+Cantidad y Pertinencia de los Socios Adicionales 
+Se evaluara 
+el numero de entidades adicionales 
+a 
+las minimas 
+5 
+requeridas que conforman 
+la 
+alianza. 
+Cada 
+entidad 
+participante 
+20 
+adicional generara 2 puntos en la calificacién. Propuestas con 10 0 
+mas entidades adicionales obtendran 
+un puntaje maximo de 20 
+puntos. 
+Contrapartida Adicional 
+Se 
+le 
+dara 
+un 
+maximo 
+de 
+diez 
+puntos 
+a 
+la 
+propuesta 
+que 
+6 | incremente 
+el valor de 
+la contrapartida minima requerida, 
+la cual 
+10 
+debe presentarse en dinero. El calculo se hara mediante una regla 
+de tres simple. 
+Total 
+100 
+  
+  
+  
+  
+Informaci6n detallada sobre los criterios se encuentra en el Anexo 6. 
+En 
+el proyecto 
+se debera aportar toda 
+la informacion necesaria 
+para 
+su evaluacién 
+conforme a lo requerido en el numeral 6 — Contenidos del Proyecto. 
+9. PROCESO DE EVALUACION 
+Los proyectos inscritos dentro de los plazos establecidos para la presente convocatoria y 
+que cumplan con los requisitos minimos, seran evaluados por pares y/o panel de expertos 
+seleccionados 
+por COLCIENCIAS, 
+teniendo 
+en 
+cuenta 
+los 
+criterios 
+de 
+evaluacion 
+descritos en el numeral 8. 
+Los proyectos se clasificaran en una lista en orden descendente de mayor a menor, 
+acorde con la calificacién y puntaje obtenido. 
+El puntaje minimo para 
+la declaracién de 
+elegibilidad, sera de ochenta (80) puntos. 
+En caso de existir empate entre propuestas se procedera de la siguiente manera: 
+e 
+Sera clasificada primera 
+la propuesta con mayor puntaje en el criterio— plan de 
+negocio y de sostenibilidad. 
+e 
+De persistir en empate, sera clasificada 
+la propuesta con mayor puntaje en 
+el 
+criterio— cantidad y pertinencia de los socios. 
+e 
+De persistir en empate, sera clasificada 
+la propuesta con mayor puntaje en 
+el 
+criterio— equipo de trabajo. 
+¢ 
+De persistir en empate, sera clasificada 
+la propuesta con mayor puntaje en 
+el 
+criterio— Propuesta de valor. 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 11 de 15 
+F
+   
+    
+COLCIENCIAS Cc 
+UEROSPERIDAD 
+Deportamerm Administiea dw Clencia, Tenokag's a bnncwurides 
+     
+  
+e 
+De persistir en empate, sera clasificada 
+la propuesta con mayor puntaje en 
+el 
+criterio— calidad y metodologia. 
+e 
+De persistir en empate, sera clasificada 
+la propuesta con mayor puntaje en 
+el 
+criterio— contrapartida. 
+Si agotados todos los criterios de desempate aun persiste 
+la situacion de empate, se 
+desempatara utilizando el mecanismo de balotas. 
+Toda informacién proporcionada es de caracter confidencial 
+y 
+no sera utilizada para 
+ningtin fin diferente a la realizacion de la evaluacioén. Los expertos evaluadores estaran 
+cobijados por clausulas de confidencialidad y de no conflicto de interés. 
+De acuerdo con 
+el CRONOGRAMA de la convocatoria, se concedera un téermino para 
+solicitar aclaraciones y/o modificaciones a la publicaci6n preliminar del banco de elegibles, 
+una vez éstas sean resueltas, se procedera 
+a 
+la publicacién del banco definitivo de 
+proyectos elegibles. 
+La 
+inclusion 
+de 
+la 
+postulacién 
+en 
+el 
+Banco 
+de 
+Proyectos 
+Elegibles, 
+no 
+implica 
+obligatoriedad ni compromiso alguno para COLCIENCIAS o MINTIC de asignar recursos, 
+ni genera derecho 
+a 
+recibir apoyos econdmicos para quienes hayan presentado 
+los 
+proyectos correspondientes. 
+Nota: Ministerio TIC y COLCIENCIAS, se reservan el derecho de solicitar ajustes sobre la 
+propuesta 
+presentada 
+ya 
+sea 
+en 
+el 
+presupuesto 
+o 
+en 
+el 
+contenido 
+técnico. 
+Estas 
+solicitudes de ajustes seran el resultado del proceso de evaluacion 
+10. ACLARACIONES 
+Una vez publicados los resultados preliminares del banco de elegibles, los interesados 
+podran presentar solicitudes de aclaraciones y comentarios por un periodo de tres (3) dias 
+habiles. 
+Por 
+fuera 
+de 
+este 
+término 
+se 
+considera 
+que 
+las 
+reclamaciones 
+son 
+extemporaneas y no seran atendidas. 
+Las peticiones y reclamaciones se deben presentar exclusivamente a traves del correo 
+electrénico contacto@colciencias.gov.co, con el asunto “Convocatoria de CEA — loT”. 
+11. BANCO DE ELEGIBLES 
+Los resultados de 
+la convocatoria se publicaran en 
+la pagina web de COLCIENCIAS 
+(http:/Awww.colciencias.gov.co) en las fechas establecidas en el CRONOGRAMA. 
+Las propuestas que obtengan un puntaje igual o superior a 80 puntos ingresaran al banco 
+de elegibles y se asignaran los recursos a aquella que obtenga el mayor puntaje. 
+La vigencia de! banco de elegibles es de dos afios a partir de su publicacion definitiva. La 
+inclusion 
+de 
+las propuestas 
+en 
+el 
+banco 
+de elegibles, 
+no 
+implica 
+obligatoriedad 
+ni 
+compromiso alguno de COLCIENCIAS, de asignar recursos, 
+ni genera derecho a recibir 
+apoyos econémicos para quienes 
+las hayan presentado. 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 12 de 15
+ cri. 
+“ 
+© 
+oD 
+yt 
+       
+COLCIENCIAS C 
+[rroarepap 
+Depairtarmanta Adkminisnetive de Cancer, Ineneing 
+ix « Inncwsehon 
+   
+MTU 
+  
+  
+Notas: 
+¢ 
+Surtida 
+la publicacién definitiva 
+del banco de elegibles, COLCIENCIAS informara 
+mediante comunicacion escrita y/o electronica 
+a 
+los beneficiarios que hayan sido 
+seleccionados para ser financiados, indicando las instrucciones y condiciones para 
+suscribir el convenio. A partir de la fecha de comunicacion, se contaran quince (15) 
+dias calendario como plazo maximo para que el beneficiario remita a COLCIENCIAS 
+la totalidad de la documentacién. Vencido el término, en caso que el beneficiario no 
+remita la documentacion, se entendera que desiste de su interés por contratar con 
+COLCIENCIAS 
+y 
+se procedera 
+a financiar 
+la siguiente propuesta 
+del banco 
+de 
+elegibles. 
+e 
+Una vez remitida la minuta del convenio al beneficiario, éste contara con un plazo de 
+cinco 
+(5) 
+dias 
+habiles 
+para 
+devolverla 
+firmada 
+a COLCIENCIAS. 
+En 
+caso 
+de 
+correcciones a la minuta, el plazo de devolucién se contara a partir del envio de la 
+minuta ajustada, vencido el término anterior, si el beneficiario no remite el convenio 
+firmado, 
+se entendera que desiste de su interés por contratar 
+y se procedera 
+a 
+seleccionar la siguiente propuesta en orden descendente de 
+la lista del banco de 
+  
+  
+elegibles. 
+12. CRONOGRAMA 
+ACTIVIDAD 
+FECHA LIMITE 
+Apertura de la convocatoria 
+17 de septiembre de 2014 
+  
+10 de noviembre de 2014 a 
+las 5:00 pm hora colombiana. 
+28 de noviembre de 2014 
+Cierre de la convocatoria 
+  
+Publicacién del Banco preliminar de Proyectos 
+  
+  
+Elegibles 
+Periodo de solicitud de aclaraciones del Banco 
+Del 01 al 03 de diciembre de 
+preliminar de Elegibles 
+2014 
+Respuesia a solicitud de aclaraciones 
+04 diciembre de 2014 
+  
+  
+  
+  
+Publicacion del Banco definitivo de Proyectos Elegibles 
+11 de diciembre de 2014 
+13. PROPIEDAD INTELECTUAL 
+En desarrollo de lo previsto en el articulo 31 de la Ley 1450 de 2011, en la medida en que los 
+proyectos de ciencia, tecnologia e innovacién que al amparo de esta convocatoria se declaren 
+elegibles, serian financiados con recursos del presupuesto nacional, 
+el Ministerio de TIC y 
+COLCIENCIAS, salvo motivos de seguridad y defensa nacional, podran ceder a las alianzas 
+estratégicas, que desarrollen los proyectos financiados, los derechos de propiedad intelectual 
+que le puedan corresponder; segtin se establezca en el convenio. 
+  
+Los participantes del proyecto definiran entre ellos la titularidad de los derechos de propiedad 
+intelectual derivados de los resultados de la ejecucion del mismo. De esta definicion, resultara 
+un documento donde conste el acuerdo entre las entidades participantes en 
+el proyecto 
+respecto de los derechos patrimoniales sobre la propiedad intelectual de los productos del 
+mismo, requisito necesario para participar de la presente convocatoria. 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 13 de 15 
+ 
+   
+    
+COLCIENCIAS C 
+aprosrre DAD 
+Dejaarramenay Adnan ienanve- dda Clan, Tacavalenla » lnoeseiie 
+     
+Nota: En cualquier evento o medio de divulgacién utilizado para difundir los resultados del 
+proyecto 
+se debera 
+dar 
+el 
+respectivo 
+crédito 
+a COLCIENCIAS 
+y 
+el 
+Ministerio TIC, 
+incluyendo la imagen institucional. 
+  
+14, VEEDURIAS CIUDADANAS 
+Las veedurias ciudadanas establecidas en 
+la ley 850 de 2003, podran desarrollar su 
+actividad durante la presente convocatoria, conforme a lo estipulado en dicha normativa. 
+Anexo 1 
+- Carta de Alianza 
+Anexo 2 — Propiedad Intelectual 
+Anexo 3 - Carta de Presentacion y Aval 
+Anexo 4 - Carta Datos Personales 
+Anexo 5 - Contenido del proyecto rubros financiables y no financiables 
+Anexo 6 - Criterios de Evaluacién 
+46. ACEPTACION DE TERMINOS Y VERACIDAD 
+Con la inscripcion, los interesados aceptan las caracteristicas, requisitos y condiciones de 
+la presente convocatoria asi como lo dispuesto en los presentes terminos de referencia 
+para el desarrollo de la misma y para la entrega del beneficio. 
+De igual forma declaran que la informacién suministrada es veraz 
+y corresponde 
+a 
+la 
+realidad. En caso de encontrarse alguna incoherencia e inconsistencia en la informacion o 
+documentacién suministrada, COLCIENCIAS podra en cualquier momento rechazar la 
+postulacién o si es del caso declarar la pérdida del beneficio, sin perjuicio de las acciones 
+legales correspondientes. 
+Los proponentes aceptan 
+sin condicionamiento alguno 
+la existencia de una obligacion 
+solidaria en relacion con la presentacién de la propuesta, la suscripcion y legalizacion del 
+contrato, asi como de su cumplimiento y liquidacién (responsabilidad solidaria en las fases 
+pre-contractual, contractual y post-contractual). Los proponentes mantendran los términos 
+de la propuesta durante el desarrollo y ejecucién de la misma y no podran ser modificados 
+sin el consentimiento previo de COLCIENCIAS y 
+el Ministerio TIC. De igual manera, los 
+miembros de la alianza estratégica que presentan el proyecto, deben designar la persona 
+que, para todos los efectos, hara su representacion y sefialaran las reglas basicas que 
+regulen las relaciones entre ellos y su responsabilidad. Para la existencia de la obligacion 
+solidaria solamente sera necesario que 
+la 
+oferta se presente 
+en forma conjunta, 
+en 
+consecuencia no se requiere que se refiera a esta circunstancia de manera expresa. 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C, Colombia 
+www.colciencias.gov.co 
+Pagina 14 de 15
+     COLCIENCIAS C 
+opavtamanitn Arlenin|sinetines le Chemica, eciralieie wh 
+sil 
+Sa     
+Inmtrertesiche 
+    
+q PROSPERIDAD 
+17. MAYOR INFORMACION 
+  
+  
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS - 
+Carrera 7 B Bis No. 132-28, Bogota D.C. 
+http:/Awww.colciencias.gov.co 
+Centro de Contacto 
+Teléfono: (+57 - 1) 6258480 Extension 2081 
+Linea gratuita nacional: 018000 914446 
+En caso de inquietudes 0 comentarios sobre 
+la presente convocatoria, favor enviar un 
+correo 
+electrénico 
+con 
+el 
+asunto 
+“Convocatoria 
+de 
+CEA 
+—- 
+loT’, 
+al 
+correo 
+contacto@colciencias.gov.co.    
+YANETH GIHA TOVAR 
+J 
+Directora 
+Vo Bo. Director Técnico 
+i if 
+Vo Bo. Secretaria General 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 15 de 15
+       COLcIENCIAs 
+© | (PROSPERIDAD 
+oI, 
+es) 
+Owpartareenia Adminikirotiva de Clea, Frcrologic # never 
+Gr 
+Cry    
+  
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+— COLCIENCIAS — 
+CONVOCATORIA PARA CONFORMAR CENTROS DE EXCELENCIA Y APROPIACION 
+EN INTERNET DE LAS COSAS (loT) -— 2014 
+  
+ANEXO 1 
+- CARTA DE CONFORMACION DE ALIANZA 
+A continuaci6n se presentan los contenidos del modelo de carta de conformacién de 
+Alianza Estratégica: 
+(Ciudad), (Dia) de (Mes) de 201_ 
+Sefiores 
+COLCIENCIAS 
+Carrera 7B Bis No. 132 — 28 
+Bogota D.C. 
+Asunto: Conformacion de Alianza Estratégica (nombre de la alianza) para la convocatoria 
+para conformar Centros de Excelencia y Apropiacion en Internet de las Cosas. 
+Respetados sefiores, 
+La presente tiene por objeto presentar la conformacién de la Alianza Estratégica (nombre 
+de la alianza), que estara integrada por las siguientes entidades: (nombre de la entidad 1), 
+(nombre de 
+la entidad 
+2), (nombre de 
+la entidad 
+3),..., 
+etc.; designara como entidad 
+ejecutora 
+a (nombre de 
+la entidad ejecutora), quien sera 
+la encargada de firmar el 
+(contrato, convenio) resultado de la convocatoria para conformar Centros de Excelencia y 
+Apropiacion en Internet de las Cosas. 
+Asi mismo, los abajo firmantes declaran que: 
+e 
+Tienen poder y/o representacion legal para firmar y presentar el proyecto. 
+e 
+Este 
+proyecto 
+y 
+el 
+contrato 
+o 
+convenio 
+que 
+Ilegue 
+a 
+celebrarse 
+en 
+caso 
+de 
+financiaci6n, compromete totalmente 
+a 
+la(s) persona(s) juridica(s) que legalmente 
+represento. 
+La informacion suministrada es veraz y no fija condiciones artificiales. 
+e 
+Aceptan y reconocen que cualquier omisién o inconsistencia en la que hayan podido 
+incurrir y que pueda influir en nuestro proyecto, no les eximira de la obligacién de 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 1 de 3 
+ 
+   
+     
+  
+asumir las responsabilidades que les llegue a corresponder como futuros coniratistas 
+y renuncian a cualquier reclamacion, reembolso o ajuste de cualquier naturaleza, por 
+cualquier situacién que surja 
+y no haya sido contemplada en razon de 
+la falta de 
+diligencia en la obtencién de la informacion. 
+e 
+No 
+se 
+encuentran 
+incursos 
+en 
+ninguna 
+de 
+las 
+causales 
+de 
+inhabilidad 
+y/o 
+incompatibilidad establecidas en el Estatuto General de Contratacion y demas normas 
+legales pertinentes. 
+e 
+Aceptan y autorizan a COLCIENCIAS para que verifique la informacion aportada en el 
+proyecto. 
+e 
+Se 
+encuentran 
+al 
+dia 
+con 
+las 
+obligaciones 
+y 
+compromisos 
+adquiridos 
+con 
+COLCIENCIAS. 
+e 
+El 
+proyecto no esta siendo financiado por otra convocatoria 
+o con recursos de 
+COLCIENCIAS u otras entidades del Estado 
+conus | meee 
+(©) a 
+Cmpariorents Adinmurohwn dat Cimecat, Tacrudagio 
+« inniorsciot 
+  
+Por otra 
+parte, 
+y para 
+el desarrollo de 
+la propuesta, 
+las entidades que conforman 
+la 
+Alianza Estratégica aportaran los siguientes recursos de contrapartida: 
+  
+Monto de contrapartida 
+  
+  
+  
+  
+  
+  
+Entidad 
+Total 
+Especie 
+% 
+Efectivo 
+% 
+Especie 
+Efectivo 
+— de la entidad 
+$ 
+$ 
+o% 
+$ 
+% 
+oe de la entidad 
+$ 
+$ 
+% 
+$ 
+% 
+oa 
+de la entidad 
+$ 
+$ 
+of, 
+$ 
+%, 
+Total 
+$ 
+$ 
+% 
+$ 
+% 
+  
+  
+  
+  
+  
+  
+Ademas, ACEPTAMOS expresa e irrevocablemente que conocemos detalladamente las 
+caracteristicas, requisitos y condiciones de la convocatoria para Centros de Excelencia y 
+Apropiacién en Internet de las Cosas, de manera que nos sometemos a 
+lo establecido en 
+los Términos de Referencia determinados por COLCIENCIAS para 
+el desarrollo de 
+la 
+misma y para la entrega del beneficio. 
+Con la presente manifestacién inequivoca de voluntad, declaramos que en caso de ser 
+beneficiados en la convocatoria para conformar Centros de Excelencia y Apropiacion en 
+Internet de las Cosas, éste sera recibido en los términos que COLCIENCIAS establezca; 
+comprendemos y aceptamos que la no aceptaci6n o el incumplimiento de alguna de las 
+condiciones establecidas, dara lugar a la pérdida definitiva del beneficio. 
+Declaramos que 
+la informacién suministrada es veraz y corresponde 
+a 
+la realidad. En 
+caso 
+de 
+encontrarse 
+alguna 
+incoherencia 
+o 
+inconsistencia 
+en 
+la 
+informacioén 
+o 
+documentacién suministrada, COLCIENCIAS podra en cualquier momento, rechazar esta 
+postulacion o finiquitar el beneficio, sin perjuicio de las acciones legales correspondientes. 
+Cra. 7b Bis # 132-28 
+PBX; (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 2 de 3 
+ 
+ COLCIENCIAS Cc 
+Depearnarrmnic: Adiyinsiinviie 
+che Circa. Tecnolog 
+at © feienrancsdn 
+      
+4 PROSPERIDAD 
+PARA TODOS 
+   
+TURP 
+s 
+4 
+ey, 
+“DET 
+Cordialmente, 
+Firma 
+Nombre del representante Universidad 
+GC 
+; 
+Nombre de la Universidad 
+Direccién 
+Teléfono 
+Firma 
+Nombre del representante legal entidad lider 
+CC 
+Nombre de la entidad X 
+Direcci6n 
+Teléfono 
+Firma 
+Nombre del representante legal entidad ancla 
+CC 
+Nombre de la entidad X 
+Direccion 
+Teléfono 
+Teléfono 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+WTS 
+  
+Pagina 3 de 3 
+ 
+  COLCIENCIAS 
+GS 
+Cerprarieunmins Aebminishiries de Chane, Tecrotogio « hnronachin 
+      
+PROSPERIDAD 
+NY 
+Mintic 
+IPARA TODOS 
+aha 
+Rem 
+Ml; 
+o 
+| 
+S 
+ey    
+  
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+— COLCIENCIAS — 
+CONVOCATORIA PARA CONFORMAR CENTROS DE EXCELENCIA Y APROPIACION 
+EN INTERNET DE LAS COSAS (loT) — 2014 
+  
+ANEXO 
+2. - MODELO DE INTENCION DE ACUERDO DE PROPIEDAD INTELECTUAL 
+Las partes abajo firmantes, 
+convienen 
+la intencién de acuerdo que se regira bajos las 
+siguientes clausulas: 
+i) la titularidad de la propiedad intelectual sobre los resultados que 
+se obtengan 
+o se pudieran obtener en 
+el desarrollo del presente 
+proyecto /Programa 
+estara 
+a cargo de 
+y 
+ii) 
+La distribucién de 
+los derechos patrimoniales 
+sobre todos y cada uno de los entregables generados, se establecera de acuerdo con el 
+porcentaje de los aportes desembolsables y no desembolsables que las partes realicen, 
+los cuales se determinaran en 
+el acta 
+de liquidacidn del contrato. 
+iii) De igual manera 
+cualquiera de las partes podra iniciar los mecanismos de proteccién correspondientes 
+garantizando el respeto de los porcentajes que a cada una las partes corresponden sobre 
+los resultados, por su parte las demas entidades se comprometen 
+a disponer de los 
+recursos que sean necesarios para facilitar y apoyar que se conceda por la autoridad 
+competente el mecanismo de proteccién que se determine. 
+iv) 
+La custodia y cuidado de 
+los 
+productos 
+tecnoldgicos, 
+prototipos, 
+que 
+se 
+materialicen 
+estara 
+a 
+cargo 
+de 
+durante la duracién de proyecto. A la finalizacion y liquidacién de los 
+mismos, se definira 
+la custodia y cuidado de tales bienes. v) Los derechos morales de 
+autor que le correspondan a estudiantes, profesores o investigadores de las partes, que 
+por sus aportes significativos en una determinada obra le corresponden como autor(es) o 
+coautor(es), seran a estos siempre reconocidos. vii) Ninguna de las partes podra publicar, 
+comunicar, 
+divulgar, revelar ni permitir que los investigadores y personal vinculado 
+al 
+contrato publiquen, comuniquen, revelen o utilicen la informacién resultado del mismo, sin 
+previo aviso y aprobaci6n por escrito. viii) Sin perjuicio de lo anterior las partes podran 
+efectuar 
+modificaciones 
+al 
+presente documento 
+de 
+acuerdo 
+a 
+las 
+condiciones 
+de 
+desarrollo del proyecto. 
+FIRMA 
+NOMBRE DEL REPRESENTANTE LEGAL 
+FIRMA 
+NOMBRE DEL REPRESENTANTE LEGAL 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C, Colombia 
+www.colciencias.gov.co 
+Pagina 1 de 
+1 
+X F 
+ 
+      COLCIENCIAS a 
+[PARA TODOS 
+Departormente Adiminivintivn 
+sla Clencio, Tecralog it w Inncrmicin 
+   
+tilt, 
+Sy 5 “Y 
+Cry    
+  
+ATL 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS - 
+CONVOCATORIA PARA CONFORMAR CENTROS DE EXCELENCIA Y APROPIACION 
+EN INTERNET DE LAS COSAS - loT — 2014 
+  
+ANEXO 3 - CARTA DE PRESENTACION Y AVAL 
+A continuaci6n se presenta el modelo de carta de presentacién y aval: 
+(Ciudad), (Dia) de (Mes) de 201_ 
+Sefiores 
+COLCIENCIAS 
+Carrera 7B Bis No. 132 — 28 
+Bogota D.C. 
+Asunto: 
+Presentacién 
+y 
+aval 
+del 
+proyecto 
+(escriba 
+el 
+nombre 
+del 
+proyecto) 
+a 
+la 
+convocatoria (nombre de la convocatoria) 
+Respetados sefores, 
+La presente tiene como objeto avalar el proyecto (escriba el nombre del proyecto,) a la 
+convocatoria (nombre de la convocatoria) de 201_, propuesto por la alianza (nombre de la 
+alianza estratégica...), y manifiesto que el proyecto en mencion no esta siendo financiado 
+por otra convocatoria o con recursos de COLCIENCIAS u otras entidades del Estado. 
+Ademas, 
+ACEPTO 
+expresa 
+e 
+irrevocablemente 
+que 
+conozco 
+detalladamente 
+las 
+caracteristicas, requisitos y condiciones de la convocatoria para conformar un banco de 
+proyectos de soluciones innovadoras de TI aplicadas al sector turismo de Colombia, de 
+manera que me someto a lo establecido en los términos de referencia determinados por 
+COLCIENCIAS para el desarrollo de la misma y para la entrega del beneficio. 
+Declaro que la informacion suministrada es veraz y corresponde a la realidad. En caso de 
+encontrarse alguna incoherencia 
+o inconsistencia en 
+la informacién 
+o documentacién 
+suministrada, COLCIENCIAS podra en cualquier momento, rechazar mi postulacién o 
+finiquitar el beneficio, sin perjuicio de las acciones legales correspondientes. 
+Cordialmente, 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 1 de 2 
+ws 
+ 
+   
+<i 
+cociencias€” | PROSPRBIDAR 
+Departments Adiminlarsiins de Ciencia, Tecnctogia « lanorocsee 
+     
+> 
+< 
+or 
+  
+Firma 
+Nombre del representante legal (entidad Ejecutora de la alianza) 
+cc 
+Nombre (entidad Ejecutora de la alianza) 
+Direccion 
+Teléfono 
+e-Mail 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 2 de 2
+ Drparaisanin Aclminisiolive 
+de Circa, Ineredogiy 9 imasecceht 
+   
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS 
+- 
+  
+covcincas 
+| (BARTER 
+(@) FRE 
+  
+CONVOCATORIA PARA CONFORMAR CENTROS DE EXCELENCIA Y APROPIACION 
+EN INTERNET DE LAS COSAS (loT) — 2014 
+  
+ANEXO 4 - AUTORIZACION USO Y ALMACENAMIENTO DE DATOS PERSONALES 
+A continuacién se presentan los contenidos del modelo de carta para autorizacion uso y 
+almacenamiento de datos personales: 
+(Ciudad), (Dia) de (Mes) de 201_ 
+Sefiores 
+COLCIENCIAS 
+Carrera 7B Bis No. 132 — 28 
+Bogota D.C. 
+Asunto: Autorizacion uso y almacenamiento de datos personales. 
+En virtud de la Ley Estatutaria 1581 del 2012, mediante la cual se dictan las disposiciones 
+generales para la proteccién de datos personales, y su Decreto Reglamentario 1377 de 
+2013, autorizo 
+al Departamento Administrative de Ciencia, Tecnologia 
+e Innovacién 
+- 
+Colciencias, como responsable 
+y/o encargado 
+del tratamiento 
+de datos personales, 
+almacenados en bases de datos, las cuales incluyen informacién que se han reportado en 
+desarrollo de las diferentes actividades 
+y formularios, 
+y en 
+particular los siguientes: 
+nombres, 
+numero 
+de 
+documento 
+de 
+identificacién, 
+direccién, 
+teléfono 
+fijo 
+y 
+movil, 
+direcciones, correo electrénico, profesion, hoja de vida académica, certificados de notas, 
+etc. 
+Los datos seran utilizados para la misi6n institucional establecida en la ley 1286 de 2009, 
+como ente rector de la Ciencia Tecnologia e Innovaci6én en Colombia. 
+Atentamente, 
+FIRMA 
+NOMBRES Y APELLIDOS 
+IDENTIFICACION 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 
+1 de 1
+       covciencas | éFBREFBRER 
+ae 
+Sryrartawmeniy Acknistsnishive te Chancho, Kocrcleny\a © lyri 
+L) 
+  
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS - 
+CONVOCATORIA PARA CONFORMAR CENTROS DE EXCELENCIA Y APROPIACION 
+EN INTERNET DE LAS COSAS 
+( loT) 
+— 2014 
+  
+ANEXO 5 - CONTENIDO DEL PROYECTO 
+RUBROS FINANCIABLES Y NO FINANCIABLES 
+COMPONENTE CIENTIFICO - TECNICO DEL PROYECTO 
+Titulo del proyecto 
+Gerente del proyecto 
+y equipo de trabajo: 
+Especificar 
+el 
+perfil profesional, 
+la 
+experiencia y el rol dentro del proyecto tanto para el gerente del proyecto como para 
+el 
+resto 
+de miembros 
+del 
+equipo. Adjuntar 
+las 
+hojas 
+de 
+vida 
+con 
+los titulos 
+y 
+certificaciones correspondientes. La propuesta debera incluir la composicién de los 
+grupos de investigacién — conforme a lo estipulado en los requisitos minimos — asi 
+como 
+los temas generales 
+y especificos de 
+los mismos, 
+detallando cémo éstos 
+aportan al impulso del ecosistema de innovacién nacional. 
+Linea Tematica: Especificar las lineas tematicas de negocio en las cuales se enfoca 
+inicialmente teniendo en cuenta que 
+la dinamica del mercado puede incidir en 
+el 
+planteamiento inicial y que por lo tanto las lineas pueden ser modificadas. 
+Se debe 
+exponer la metodologia de trabajo que permita definir su estructura y su operacién 
+durante 
+el tiempo proyectado; 
+incluyendo 
+un 
+portafolio 
+de nuevos productos 
+y 
+servicios semestrales. 
+Resumen 
+ejecutivo: 
+Informacién 
+minima 
+necesaria 
+para 
+comunicar 
+de 
+manera 
+precisa los contenidos y alcances del proyecto. 
+Antecedentes: especificar si el proyecto ha tenido fases anteriores y cuales han sido 
+los resultados, cuantos recursos se han invertido 
+y cuales han sido sus fuentes de 
+financiacién. 
+Palabras Clave: Incluir maximo seis (6) palabras clave que describan 
+el objeto del 
+proyecto. 
+Planteamiento del Problema: Plasmar la propuesta de valor agregado del Centro de 
+Excelencia y Apropiacién (CEA) en Internet de las Cosas, hacia 
+la generacién del 
+conocimiento, el desarrollo de soluciones y el beneficio generado para un Ecosistema 
+de Innovacién Nacional. 
+Composicién Juridica: Describir el esquema-composicién juridico y organizacional 
+Cra, 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 1 de 6 
+ 
+   
+q PROSPERIDAD 
+PARA TODOS 
+COLCIENCIAS 
+Lepartamerts Adninicnotive 
+dhe Clemo imcnetagia 
+« erieeaeict 
+del CEA exponiendo la participacién de los socios-miembros del centro. 
+    
+  
+e 
+Portafolio: Describir los nuevos productos y servicios semestrales durante el tiempo 
+proyectado y un estimado de patentes solicitadas durante el tiempo proyectado 
+e 
+Justificacion: Factores que hacen necesario y pertinente la realizacion del proyecto. 
+e 
+Marco conceptual: Aspectos conceptuales y teéricos que contextualicen el problema 
+de investigacién en una tematica; asi como otros aspectos que sean pertinentes a 
+juicio de los proponentes. 
+e 
+Estado 
+del 
+arte: 
+Revisién 
+actual 
+de 
+la 
+tematica 
+en 
+el 
+contexto 
+nacional 
+e 
+internacional, avances, desarrollos y tendencias, en cuya elaboraci6n se pueden tener 
+en cuenta estudios de prospectiva y vigilancia tecnologica. 
+Objetivos: 
+- 
+Objetivo General: Enunciado que define de manera concreta el planteamiento del 
+problema 
+o necesidad 
+y se 
+inicia con 
+un verbo en modo 
+infinitivo, 
+es medible, 
+alcanzable y conlleva a una meta. 
+- 
+OQbjetivos Especificos: Enunciados que dan cuenta de 
+la secuencia logica para 
+alcanzar el objetivo general del proyecto. No debe confundirse con las actividades 
+propuestas 
+para 
+dar alcance 
+a 
+los objetivos 
+(ej. Tomar muestras 
+en 
+diferentes 
+localidades de estudio); ni con el alcance de los productos esperados (ej. Formar un 
+estudiante de maestria). 
+Metodologia: 
+Exposicién en forma organizada 
+y precisa 
+de cémo se desarrollara 
+y 
+alcanzara 
+el 
+objetivo general 
+y cada 
+uno 
+de 
+los objetivos especificos 
+del 
+proyecto, 
+presentando los componentes del mismo y las actividades para el logro de éstos. 
+Productos 
+esperados: 
+Evidencia 
+del 
+logro 
+en 
+cuanto 
+a 
+generacion 
+de 
+nuevo 
+conocimiento, 
+fortalecimiento 
+de 
+capacidades 
+cientificas 
+y 
+apropiacién 
+social 
+del 
+conocimiento, una aplicacién de software o su equivalente. 
+Impactos potenciales: Identificar los impactos potenciales de los resultados del proyecto, 
+los productos, servicios 0 procesos en las necesidades identificadas. 
+Cronograma: Distribucién de actividades mensuales de ejecucién del proyecto. Asociar a 
+cada actividad el o los objetivos (numerados) relacionados con éstos. 
+Presupuesto detallado: Incluye financiacion y contrapartida en efectivo por rubro. 
+Bibliografia: Fuentes bibliograficas empleadas en cada uno de los items del proyecto. Se 
+hara 
+referencia 
+Unicamente 
+a 
+aquellas fuentes empleadas 
+en 
+el 
+suministro 
+de 
+la 
+informacion del respectivo proyecto. No se incluiran referencias que no se citen. Las citas, 
+en cada uno de los campos del formulario, se utilizaran las normas APA No 6. 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 2 de 6
+   
+  
+rs 
+: 
+ui) 
+ay 
+COLCIENCIAS CS 
+Cmpakanerta Addminestolive de Clmnsie, Incnelogia a Innercchin 
+  
+n PROSPERIDAD 
+PARA TODOS 
+iS 
+Oe 
+a 
+cde son 
+  
+Plan de negocios y de sostenibilidad: Con 
+el objetivo de generar 
+la posibilidad de 
+negocio consecuente del desarrollo del proyecto, se hace necesario contemplar un plan 
+de negocio que permita evidenciar la existencia de soluciones frente a las necesidades 
+identificadas 
+en 
+el 
+sector 
+del 
+turismo 
+en 
+Colombia. 
+Entonces, 
+la 
+propuesta debera 
+demostrar cémo se ha disefado 
+la disponibilidad del producto para 
+la solucién de las 
+necesidades expuestas, para ello, se debera utilizar el modelo CANVAS, detallando en 
+profundidad cada uno de sus componentes, los cuales se muestran a continuaci6n: 
+  
+Socios clave 
+  
+Actividades clave 
+  
+doe n= pore report 
+ne lr 
+ies fed? 
+    
+    
+ihe 
+  
+  
+Recursos clave 
+(aitinainalniepine 
+sect penin ade ta! 
+nisi 
+usar 
+dit tninet eWbersiomtrtet 
+tami dred 
+  
+  
+Relaciones con tesa) 
+ive apneriesdarqo gr erp runtrgiet 
+ide 
+mess wegen de hele? 
+Propuestas de valor ey 
+~i) 
+oe lng ee? 
+coat Soest seat 
+aire? 
+uncharted 
+ype be) 
+Mitek ilar denna 
+   
+    
+   
+  
+edit 
+hegre tect reeds 
+ee 
+a 
+  
+Canales 
+t—/ 
+Ab 
+deat ark epenrnse cant tyres 
+“syrenttrs cherie! 
+leas nto ent 
+  
+  
+  
+Segmentos de cliente 
+i 
+(pith gats eitonenrrnctcty | 
+iene 
+soiteigqvekntramh mpttes? 
+   
+  
+Estructura de costes 
+lke sen 
+cede 
+eeeatea Haneercomceamaklsdeatexi! 
+eirere eelesamMect 
+  
+   
+Fuentes de ingresos 
+ip MY 
+spe la esiurrenert econ 
+apa ierceain! 
+spans cattle 
+seirmestin rede atant 
+shurcinen ptr 
+seni neg cafe degen bs ness ta 
+ten 
+  
+  
+  
+  
+- 
+El plan de negocios tiene tres partes: 
+i) el modelo grafico CANVAS, 
+ii) la descripcion 
+detallada de cada uno de sus items y 
+iii) el modelo de sostenibilidad a cinco (5) afios. 
+- 
+Para mayor informacién sobre el modelo CANVAS, puede consultar el siguiente 
+enlace: http:/Awww.businessmodelgeneration.com/ 
+- 
+Los documentos correspondientes al plan de negocio y de sostenibilidad deberan 
+adjuntarse utilizando la opci6n “otros adjuntos’. 
+e 
+Certificacidn de calidad de la empresa de TI: describa las certificaciones de calidad 
+que tiene 
+la empresa. Adjunte los certificados correspondientes utilizando 
+la opcién 
+“otros adjuntos”. 
+Cra, 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 3 de 6 
+& 
+Y 
+ 
+   
+  
+  
+coiciencias 
+C7 
+| ipARA TODOS 
+Asociatividad: describa 
+el gremio 
+o iniciativa de asociatividad 
+a 
+la que pertenece. 
+Adjunte los certificados correspondientes utilizando la opcién “otros adjuntos”. 
+Nota: Se debera aportar toda la informaci6n necesaria para la evaluacion del proyecto con 
+base en los criterios establecidos en el numeral 8 CRITERIOS DE EVALUACION, de los 
+términos de referencia de la convocatoria. 
+COMPONENTE PRESUPUESTAL 
+Rubros financiables: 
+Estudios 
+de 
+inteligencia 
+competitiva 
+— 
+incluida 
+vigilancia 
+tecnoldgica 
+— para 
+los 
+productos relacionados con la (s) innovacién (es) propuesta (s). 
+Adquisicién o arrendamiento de equipo de investigacién, simulacién, ensayos, pruebas 
+y 
+control 
+de 
+calidad 
+que vayan 
+a 
+ser 
+de 
+propiedad 
+del 
+ejecutor 
+o 
+alquilados 
+temporalmente. Se contempla también el disefo y construccién de equipos, cuando el 
+proyecto que vayan a realizar, lo requiera. 
+Materiales utilizados en la fabricacién de prototipos y plantas piloto que vayan a ser 
+propiedad del ejecutor. 
+Desarrollo de software. 
+Adquisici6n de software especializado cuya licencia vaya a ser propiedad del ejecutor 
+para investigaci6n, desarrollo y disefio. 
+Servicios tecnologicos nacionales 
+o internacionales (hosting, 
+infraestructura 
+en 
+la 
+nube, 
+virtualizaci6n, 
+ensayos, 
+pruebas, 
+andlisis, 
+simulacidn 
+y 
+otros 
+servicios 
+relacionados con TI plenamente justificados). 
+Contratacién de consultoria cientifica y tecnolégica especializada (igual o menor a 90 
+dias, y dé menor valor al 10% del proyecto). 
+Viajes nacionales relacionados con 
+el desarrollo del proyecto, Unicamente para 
+el 
+personal técnico vinculado al proyecto. 
+Capacitacion y actualizacion de personal a través de programas de entrenamiento de 
+corta 
+duracion 
+unicamente 
+para 
+el 
+personal 
+vinculado 
+al 
+proyecto 
+en 
+temas 
+relacionados con el mismo. 
+Conexion a redes de informacion para transferencia y apropiacién de tecnologia. 
+Desplazamientos, actividades 
+y materiales para 
+la promocién 
+y 
+la difusi6n de 
+los 
+resultados del proyecto por un valor de hasta el 5% del valor total del proyecto. 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C, Colombia 
+www.colciencias.gov.co 
+Pagina 4 de 6
+     coiciencias 
+© | (PROSPER 
+ee ae 
+Depertamens Admnininrtivs da Clemeits Techolagin a bemneuciia 
+     
+e 
+Desplazamientos, actividades 
+y materiales para 
+la promocién y 
+la difusién de los 
+resultados del proyecto por un valor de hasta el 5% del valor total del proyecto. 
+  
+e 
+Gastos 
+de Propiedad 
+intelectual 
+relacionados 
+con 
+los 
+resultados 
+del 
+proyecto 
+o 
+programa. 
+e 
+Talento Humano: Personal con formacién cientifica y técnica, que cuenta con titulo 
+profesional y/o de posgrado (maestria, doctorado), 
+y vinculaci6n de postdoctorados 
+que estaran 
+a cargo de 
+las actividades investigativas propias de 
+la ejecucién del 
+proyecto seguin el planteamiento cientifico-técnico. 
+Personal con formacion en carreras técnicas 
+y tecnolégicas con capacidades para 
+apoyar la ejecucién de actividades de Ciencia, Tecnologia e Innovacién - CTel. 
+A través del rubro de personal se financiaran los derechos académicos y de matricula. 
+Los costos individuales no podran exceder los topes maximos que COLCIENCIAS 
+define en la resoluci6n 000426 de 2014. 
+e 
+Bibliografia: Adquisicién de libros, revistas, articulos, suscripciones 0 acceso a bases 
+de datos especializadas, 
+que sean estrictamente necesarias para una ejecucién 
+exitosa del proyecto. 
+e 
+Servicios tecnicos: Contrataciones que se hacen para 
+la prestacién de servicios 
+especializados 
+y cuya necesidad esté suficientemente justificada en 
+el marco del 
+proyecto. 
+e 
+Software: Adquisicién de licencias de software especializado para las actividades de 
+CTel propias del desarrollo del proyecto. Su necesidad y cantidad debe soportarse en 
+justificaciones técnicas detalladas. No se considerara financiable dentro de este rubro 
+software 
+de 
+uso 
+cotidiano, 
+como 
+por 
+ejemplo 
+procesadores 
+de 
+texto, 
+hojas 
+electrénicas o sistemas operativos. 
+e 
+Salidas de campo: Costos asociados 
+al levantamiento de informacién en campo, 
+desde fuentes primarias 
+o secundarias, 
+para 
+la consecucién 
+de 
+los objetivos 
+del 
+proyecto. 
+e 
+Publicaciones: 
+Costos asociados 
+a 
+la publicacién de articulos, 
+libros, 
+manuales, 
+videos, cartillas, posters, etc. que presenten los resultados del proyecto y sirvan como 
+estrategia de divulgaci6n o apropiacién social de los resultados de la investigacion. 
+Rubros no financiables 
+No sera financiable con recursos de COLCIENCIAS rubros presupuestales como: 
+- 
+El personal que sea beneficiario actual de los programas “Jévenes Investigadores’, 
+“Es Tiempo de Volver” o “Formacion de Doctorados” de COLCIENCIAS, podra ser 
+vinculado a las actividades investigativas previstas para la ejecucién del proyecto, 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 5 de 6 
+ 
+   
+    
+COLCIENCIAS Ce 
+Ceparitcirennto Acliminisivatiers ule Cheesa, Tacnedagis 
+© lenceria 
+jPROSPERIDAD 
+MintIC 
+    
+  
+pero en 
+ninglin caso, podra ser financiado 
+al mismo tiempo con 
+los recursos 
+provenientes de COLCIENCIAS asignados a este rubro, en esta convocaioria. 
+No 
+seran financiables 
+con 
+recursos 
+de COLCIENCIAS 
+rubros presupuestales 
+como: infraestructura tecnolégica, 
+hardware, construcciones, mantenimiento de 
+equipos e infraestructura, seguros, adquisici6n de vehiculos, mobiliario de oficina, 
+membresias a Sociedades Cientificas. 
+Compra de maquinas y equipo de produccién corriente. 
+Pagos de pasivos, pago de dividendos, aumento de capital de las instituciones 
+participantes. 
+Pagos de dividendos 0 recuperaciones de capital de las instituciones participantes. 
+Capital de trabajo para la produccidén corriente. 
+Inversiones en otras empresas 
+Inversiones en planta de produccién a escala industrial. 
+Compra de acciones, derechos de empresas, bonos y otros valores mobiliarios. 
+Instalaciones llave en mano. 
+Software de 
+uso 
+cotidiano como procesadores 
+de texto, 
+hojas electrénicas 
+y 
+sistemas operativos. 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 6 de 6 
+G
+     COLCIENCIAS 
+C | §PROSPERIDAD 
+Denartaimants Adinielsretive da Ciencia, tncrelagia © lnnovacian 
+   
+  
+Wee 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+— COLCIENCIAS — 
+CONVOCATORIA PARA CONFORMAR CENTROS DE EXCELENCIA Y APROPIACION 
+EN INTERNET DE LAS COSAS (loT) — 2014 
+  
+ANEXO 6 - CRITERIOS DE EVALUACION 
+A continuaci6n se describen los criterios de seleccién de los proyectos: 
+1. 
+Calidad y metodologia del proyecto 
+Se otorgaran 10 puntos por la presentacién de la metodologia en coherencia con los 
+resultados e impactos esperados. El proyecto debera describir claramente el conjunto de 
+procedimientos, 
+actividades, 
+y/o tareas 
+a 
+ser utilizados 
+para alcanzar 
+los 
+objetivos, 
+resultados, ¢ impactos esperados del proyecto. 
+a. 
+Coherencia 
+interna 
+y 
+tratamiento 
+particular 
+de 
+antecedentes, 
+objetivos, 
+metodologia, actividades, presupuesto, cronograma y duracién. 
+b. 
+Adecuacién del grupo ejecutor del proyecto a los objetivos planeados. 
+c. 
+Conocimiento de los antecedentes cientificos y tecnolégicos en 
+la tematica del 
+proyecto 
+d. 
+Revisi6n de productos de Propiedad Intelectual para la conformacion del estado 
+del arte (patentes, modelos de utilidad, registro del disefio, registro de marca, etc.) 
+2. 
+Equipo de Trabajo 
+La documentacion del proyecto debera presentar el grupo de personas que conforman el 
+equipo de trabajo que llevara a cabo el proyecto; incluyendo las hojas de vida de cada 
+uno de los integrantes, su dedicacién al proyecto, las labores/tareas que cumpliran, asi 
+como el costo de su participacién. 
+Cada Centro de Excelencia 
+y Apropiacién (CEA) debe 
+incluir, como minimo, 
+tres 
+(3) 
+grupos de investigacién y cada grupo debe contar, como minimo, con un (1) Doctor (PhD), 
+tres 
+(3) 
+estudiantes 
+doctorales 
+y 
+treinta 
+(30) 
+estudiantes 
+de 
+maestria:; 
+todos 
+con 
+dedicacion de trabajo de tiempo total al CEA. 
+Adicionalmente se contempla que cada Centro de Excelencia y Apropiacién (CEA) cuente 
+con veinte (20) Desarrolladores con experiencia certificada de minimo un (1) afo cada 
+uno y diez (10) Cientificos de Datos con experiencia certificada en analisis y disefio de 
+sistemas de informacién de minimo un (1) afio cada uno; para estos perfiles adicionales 
+se contempla un maximo de quince (15) puntos para 
+la propuesta que cumpla con 
+el 
+equipo de trabajo deseado completo. 
+Cra, 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 1 de 3 
+wr 
+ 
+   
+   couciencias 
+C7 | aPRRSRSBOS 
+Caan 
+Departament Adiinicwalie da (Clerwas, Tacnakcgis o lnneyccider 
+    
+  
+Se realizara una regla de tres para el calculo del puntaje a otorgar por el equipo de trabajo 
+adicional, de acuerdo con el numero de integrantes de Desarrolladores y de Cientificos de 
+Datos que sean incluidos en la propuesta. 
+3. 
+Plan de negocio y de sostenibilidad 
+Se otorgaran un total maximo de 30 puntos por la presentacion de: 
+3.1. 
+3.2. 
+Un plan de negocio 
+que permita determinar las estrategias de mercadeo, tamano 
+del 
+mercado, 
+usuarios 
+potenciales, 
+proveedores 
+de 
+servicios, 
+capacidad 
+tecnologica 
+requerida, 
+precios, 
+esquemas 
+de 
+comercializacion, 
+planes 
+de 
+internacionalizacion y expansién de mercados y demas aspectos relacionados con 
+la masificacién de los productos, servicios 0 procesos. Con el objetivo de generar 
+la posibilidad de negocio consecuente con 
+el desarrollo del proyecto, 
+se hace 
+necesario contemplar un plan de negocio que permita la existencia de soluciones a 
+las oportunidades generadas en los Centros de Excelencia y Apropiacion (CEA). 
+La 
+propuesta 
+debera 
+demostrar 
+cémo 
+se 
+disefiara 
+la 
+disponibilidad 
+de 
+los 
+productos para la solucién de las necesidades expuestas por los diferentes actores 
+que conformen el Centro. 
+Como minimo, 
+el 
+plan de negocio debera proyectarse para cinco 
+(5) afos 
+y 
+comprender los siguientes aspectos: 
+Estructura del organo de administracion 
+Area juridico-mercantil 
+Area economica 
+Area de marketing 
+Area de ventas 
+e 
+Area de produccién 
+e 
+Area de recursos humanos 
+e 
+Area contable-financiera 
+Un plan de sostenibilidad, que debe describir las principales acciones para llevarse 
+a cabo con el fin de asegurar la existencia del Centro de Excelencia y Apropiacion. 
+El Plan de Sostenibilidad debera incluir una proyeccién de los ingresos y gastos de 
+la operacion del Centro, a cinco (5) afios, donde para el primer afo se reflejen los 
+recursos 
+provistos 
+en 
+el 
+marco 
+de 
+la 
+presente 
+convocatoria 
+por 
+parte 
+de 
+Colciencias — MinTIC 
+4. 
+Propuesta de Valor 
+Como propuesta de valor se entiende 
+la descripcién del producto y/o servicio que se 
+desea implementar en 
+el Centro de Excelencia 
+y Apropiacién (CEA) para cubrir una 
+necesidad de mercado, normalmente se trata de un problema que hasta ahora no se ha 
+resuelto o bien de cubrir una necesidad ya satisfecha por encima de las expectativas 
+actuales, para un grupo suficientemente significativo de clientes. 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 2 de 3
+     
+i PROSPERIDAD 
+PARA TODO 
+COLCIENCIAS © 
+p 
+<crilt 
+* 
+Py 
+Deprirtarnenin Adnenisrates de Cinnert. Tarrelen it innoyeciet 
+Zr      
+wie 
+ta 
+  
+Las caracteristicas para describir una propuesta de valor innovadora son: focalizaci6n, 
+divergencia 
+en 
+relacién 
+a 
+otras propuestas 
+del mercado 
+similares 
+y que 
+se 
+pueda 
+transmitir a través de un mensaje contundente’.Teniendo en cuenta que 
+el Centro de 
+Excelencia y Apropiacién (CEA) busca posicionar a Colombia como lider y referente en 
+Internet de las Cosas 
+a nivel nacional e internacional, 
+la evaluacién de la propuesta de 
+valor tendra en cuenta la calidad de los socios que participen en la conformacién de los 
+Centros. 
+5. 
+Cantidad y Pertinencia de los Socios Adicionales: Empresas, Universidades y 
+actores de otros sectores 
+Los Centros de Excelencia 
+y Apropiacién (CEA) buscaran hacer participes 
+y socios 
+a 
+diferentes grupos de interés estratégicos con el fin de converger hacia un Ecosistema de 
+Innovacién Nacional. Entre ellos se encuentran principalmente Universidades, Big Players 
+del sector TIC 
+y organizaciones/empresas de actividad comercial de otros sectores. Al 
+mismo 
+tiempo 
+buscara 
+vincular 
+e 
+integrar 
+otros 
+Centros 
+que 
+pueden 
+ser 
+aliados 
+estratégicos 
+por su conocimiento 
+y capacidades especificos 
+en TIC 
+o 
+en diferentes’ 
+negocios. 
+Los Centros de Excelencia y Apropiacién (CEA) deben ser facilitadores e impulsadores en 
+la industria nacional TIC, por tal motivo se dispone de 20 puntos para las propuestas que 
+integren mas entidades que enriquezcan los CEA (Universidades, Empresas y actores de 
+otros sectores). 
+El puntaje maximo sera asignado al o a los proponentes que acrediten el mayor numero 
+de socios. Cada entidad 
+participante adicional generaraé 
+2 
+puntos en 
+la 
+calificacién. 
+Propuestas con 
+10 
+o mas entidades adicionales obtendran un puntaje maximo de 20 
+puntos. 
+6. 
+Contrapartida Adicional 
+La contrapartida minima es de 
+1:1 de los recursos financiados por COLCIENCIAS — 
+Ministerio de Tecnologias de la Informacién y las Comunicaciones para cada Centro de 
+Excelencia y Apropiacién (CEA). 
+Se le dara un maximo de 10 puntos a las propuestas que incrementen el valor de esta 
+relacion de contrapartida.E! calculo se haré mediante una regla de tres simple. 
+  
+' Principios de la Innovacién en Valor propuestos por W. Chan Kim y Renée Mauborgne en su publicacién Blu 
+Ocean Strategy 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C, Colombia 
+www.colciencias.gov.co 
+Pagina 3 de 3 
+Q 
+x 
+ 
+  RESOLUCION'No.
+753
+DE 2014
+1 6 SEP 20V.
+"Por la cual se ordena la apertura de la convocatoria
+para conformar centros de
+excelencia en internet de las cosas (loT)."
+LA DIRECTORA
+GENERAL DEL DEPARTAMENTO
+ADMINISTRATIVO
+DE CIENCIA,
+TECNOLOGiA
+E INNOVACION
+- COLCIENCIAS
+En ejercicio de sus funciones,
+de conformidad
+con el numeral 5 del articulo 4
+0 de la Ley
+1286 de 2009, el numeral 4 del articulo 50 del Decreto 1904 de 2009,
+y
+CONSIDERANDO
+Que la Constitucion
+Politica de Colombia, establece en el articulo 71 que el Estado creara
+incentivos
+para
+personas
+e instituciones
+que
+desarrollen
+y fomenten
+la ciencia
+y la
+tecnologia
+y las demas
+manifestaciones
+culturalesy
+ofrecera
+estimulos
+especiales
+a
+personas e instituciones
+que ejerzan estas actividades;
+a su vez el articulo 70 establece
+que el estado
+promovera
+la investigacion,
+la ciencia,
+el desarrollo
+y la difusion
+de los
+valores culturales de la Nacion.
+Que el articulo 2 de la Ley 29 de 1990, establece que la accion del Estado en materia de
+promocion
+y
+orientacion
+del
+adelanto
+cientifico
+y
+tecnologico
+se
+dirigira
+a
+crear
+condiciones
+favorables
+para
+la
+generacion
+de
+conocimiento
+cientifico
+y
+tecnologia
+nacionales;
+a estimular
+la capacidad
+innovadora
+del
+sector
+productivo;
+a orientar
+la
+importacion
+selectiva
+de tecnologia
+aplicable
+a la produccion
+nacional;
+a fortalecer
+los
+servicios de apoyo a la investigacion
+cientifica
+y al desarrollo tecnologico;
+a organizar
+un
+sistema nacional de informacion
+cientifica
+y tecnologica;
+a consolidar el sistema nacional
+respectivo y, en general, a dar incentivos a la creatividad, aprovechando
+sus producciones
+en el mejoramiento
+de la vida y la cultura del pueblo.
+Que el articulo
+5 de la ley 1286 de 2009, confirio
+al Departamento
+Administrativo
+de
+Ciencia,
+Tecnologia
+e Innovacion
+-Colciencias,
+la direccion
+del sector
+y del Sistema
+Nacional
+de
+Ciencia,
+Tecnologia
+e Innovacion
+-SNCTI,
+estableciendo
+dentro
+de sus
+obligaciones
+la de formular,
+orientar, dirigir, coordinar,
+ejecutar e implementar
+la politica
+del Estado.
+Cra
+7b Sis 11132-28
+PBX: (57+1) 6258480
+Bogota 0 C Colombia
+www.colciencias.gov.co
+Pagina 1 de 3
+ COlCIENCIAS
+•
+> PROSPERI DAD
+PARATODOS
+., •...
+"'"
+753
+Que
+de
+acuerdo
+con
+el
+articulo
+7
+de
+la
+Ley
+1286
+de
+2009,
+son
+funciones
+de
+COLCIENCIAS
+entre otras, las siguientes:
+"... 6. Propiciar las condiciones
+necesarias para
+que los desarrollos cientificos,
+tecnologicos
+e innovadores,
+se relacionen can los sectores
+social y productivo,
+y favorezcan
+la competitividad,
+el emprendimiento,
+el empleo y el
+mejoramiento
+de las condiciones
+de vida de los ciudadanos ..", "... 9. Fomentar la creacion
+y el fortalecimiento
+de instancias
+e instrumentos
+financieros y administrativos
+de gestion
+para
+la Ciencia,
+Tecnologia
+e Innovacion. .." y "... 11. Promover
+la inversion
+a carta,
+mediano y largo plaza,
+para
+la investigacion,
+el desarrollo
+cientifico,
+tecnologico
+y la
+innovacion ... "
+Que el numeral
+5 del articulo 4 de la ley 1286 de 2009, faculta
+a COLCIENCIAS
+para
+efectuar
+convocatorias
+publicas,
+basadas
+en criterios de merito y calidad,
+al establecer
+que: ".. Las
+instituciones,
+programas,
+proyectos y personas
+objeto de apoyo, se podran
+seleccionar
+mediante
+convocatorias
+publicas,
+basadas
+en
+criterios
+de
+merito
+y
+calidad ... " Negrilla fuera de texto.
+Que en el marco
+de ejecuci6n
+del convenio
+768/543
+de 2013,
+COLCIENCIAS
+Y el
+Ministerio de Tecnologias
+de la Informaci6n y las Comunicaciones
+MinTIC, dan apertura a
+la presente
+convocatoria
+que busca la creaci6n,
+montaje
+y operaci6n
+de un Centro de
+Excelencia
+y Apropiaci6n
+- CEA en Internet de las Cosas (loT) para la generaci6n
+de
+soluciones innovadoras
+apalancadas
+en TI que agreguen valor a los sectores estrategicos
+del pais.
+Que en acatamiento
+de los principios generales
+de la administraci6n
+publica contenidos
+en el articulo
+209 de la Constituci6n
+Politica,
+en especial
+de transparencia
+y selecci6n
+objetiva,
+COLCIENCIAS
+desarrolla
+la presente
+convocatoria
+publica
+para
+permitir
+el
+acceso de todas aquellas personas que consideren
+tener las calidades y cumplir con los
+requisitos establecidos
+en los terminos de referencia por los cuales se reg ira.
+Que en merito de 10 expuesto
+RESUELVE
+ARTicULO
+PRIMERO:
+Ordenar
+la apertura de la "convocatoria
+para conformar
+centres
+de excelencia en internet de las cosas (loT)".
+Gra
+7b Sis # 132-28
+PBX
+(57+1) 6258480
+Bogol<\
+D C. Colombia
+www.colciencias.gov.Co
+Pagina 2 de 3
+ COLCIENCIAS
+•
+1!i PROSPERIDAD
+PARATODOS
+f'_I'~
+. ..- :'"", ;"'-'~'
+753
+ARTicULO
+SEGUNDO:
+Los
+requisitos
+generales
+y
+las
+bases
+especificas
+de
+la
+participaci6n
+de la presente
+convocatoria
+se encuentran
+establecidos
+en los terminos
+de referencia
+publicados
+en la pagina web de COLCIENCIAS,
+www.colciencias.gov.co.
+los cuales hacen parte integral de la presente resoluci6n.
+ARTicULO
+TERCERO:
+La presente resoluci6n rige a partir de la fecha de su expedici6n
+y
+sera publicada en la pagina web de COLCIENCIAS,
+www.colciencias.gov.co
+PUBLiQUESE
+Y CUMPLASE
+Dada en Bogota D.C. a los
+Va.Ba Imzapatab
+Reviso:
+Paula
+Chiquillo
+In
+Proyecto:
+Edwin Trujillo
+Bonilla oX
+era
+7b Bis # 132-28
+PBX
+(57+1) 6258480
+Bogota
+D C. Colombia
+www.coiciencias.gov.co
+1 6 SEP 2014
+ANETH GIHA TOVAR
+Directora General
+Pagina 3 de 3
+ I
+PROSPERIDAD
+PARATODOS
+CONVOCATORIA
+No. 686 de 2014
+"Para conformar Centros de Excelencia y Apropiacion
+en Internet de las
+Cosas (loT) - 2014."
+ADENDA No.1
+Mediante
+la Resolucion
+No. 844 del 17 de octubre
+de 2014,
+la Directora
+General de COLCIENCIAS,
+delego en la Subdireccion
+General la funcion de
+suscribir
+las adendas
+de modificacion
+de los terminos
+de referencia
+de las
+convocatorias,
+previa aprobacion del comite de subdireccion.
+Teniendo en cuenta que a la fecha no se ha presentado
+ninguna propuesta,
+con el objetivo de enriquecer
+las propuestas y permitir la participacion
+activa
+en el proceso de convocatoria,
+se requiere realizar algunos ajustes tecnicos a
+los terminos de referencia.
+EI acompanamiento
+de
+las
+entidades
+anclas,
+se
+estima
+catalizador
+del
+impacto
+del Centro de Excelencia
+y Apropiacion-
+CEA; en ese sentido
+su
+participacion
+no es viable
+tecnicamente
+imponerse
+como
+obligatoria
+sino
+como mecanismo
+opcional, toda vez que podria convertirse
+en una barrera
+para
+los
+posibles
+participantes,
+y
+aquellas
+propuestas
+que
+logren
+la
+vinculacion
+de
+las entidades
+anclas
+parten
+con
+una ventaja
+competitiva
+importante que sera tenida en cuenta en la calificacion.
+Se considera
+necesario ampliar los sectores economicos
+a los que el Centro
+de Excelencia
+y Apropiacion-
+CEA, prestara sus servicios,
+de tal forma que
+incluyan todos los sectores productivos estrategicos de la economia nacional.
+Adicionalmente
+se
+propone
+disminuir
+en
+dos
+el
+numero
+de
+grupos
+de
+investigacion,
+desarrollo
+tecnologico
+y/o
+innovacion,
+que
+debe
+incluir
+la
+propuesta
+de creacion
+del Centro de Excelencia
+y
+Apropiacion
+-
+CEA, en
+atencion
+a garantizar
+la calidad de la propuesta
+permitiendo
+el cumpliendo
+practico del requisito.
+Tambien
+se considera
+pertinente
+ajustar el anexo no. 6 de acuerdo
+con 10
+estipulado
+en el numeral 4 (requisitos
+minimos),
+en tanto que el equipo de
+conformacion
+del CEA, 10 integran diez (10) estudiantes
+de maestria
+y no
+treinta (30) como estaba en el anexo.
+Los
+cambios
+anteriormente
+enunciados,
+la
+epoca
+del
+ana
+y
+las
+particularidades
+de
+los
+calendarios
+academicos
+(para
+universidades)
+y
+Pagina 1 de 7
+ .'
+A PROSPERIDAD
+tI PARA TODOS
+comerciales
+(para entidades Iideres), hacen necesaria la ampliaci6n del plazo
+de cierre de la convocatoria y de las subsiguientes fechas.
+EI
+Departamento
+Administrativo
+de
+Ciencia,
+Tecnologia
+e
+Innovaci6n
+-
+COLCIENCIAS
+- modifica los terminos de la convocatoria
+No. 686 de 2014,
+en sus
+numerales
+3 (Dirigido
+a), 4 (Requisitos
+Minimos),
+11 (Banco
+de
+elegibles),
+13 (Cronograma),
+anexo 5 y anexo 6, conforme a la solicitud de la
+Direcci6n
+de
+Desarrollo
+Tecnol6gico
+e
+Innovaci6n,
+aprobada
+en
+sesi6n
+presencial
+del comite de subdirecci6n
+IIevado a cabo el 30 de octubre
+de
+2014, dejando la salvedad que con la presente modificaci6n
+no se vulnera la
+expectativa prevista de los posibles proponentes.
+Para
+mayor
+claridad
+las
+modificaciones
+se
+presentan
+subrayadas
+y
+en
+negrillas, asi:
+1- EI numeral 3 (Dirigido a) quedara asf:
+(...) ENTIDAD
+ANCLA:
+Se
+consideran
+entidades
+ancla
+las
+personas
+juridicas,
+de economfa
+mixta
+0 privada,
+con animo de lucro del sector
+productivo
+y
+de
+servicios,
+nacionales
+0
+extranjeras,
+legalmente
+constituidas
+en Colombia,
+las cuales ocupan
+una posici6n de Iiderazgo
+demostrable
+a traves de su participaci6n
+en el mercado
+al cual estan
+orientadas
+y
+donde
+las
+MiPyMes
+hacen
+parte
+de
+sus
+cadenas
+de
+distribuci6n
+0 proveedurfa.
+Las entidades
+ancla adicionalmente
+deberan
+representar/poseer
+demanda significativa
+por su especificidad
+y monto de
+productos y
+servicios con gran potencial para proyectar el desarrollo
+de
+tecnicas, modelos,
+soluciones
+0 aplicaciones
+de Internet de las Cosas -
+loT, las entidades publicas pueden actuar como entidades anclas, las
+entidades
+publicas son unicas y por ende Iideres y conocedores
+de
+las intimidades de estos mercados-sectores.
+Notas:
+1. Una entidad no puede ser simultaneamente
+Iider, ancla y Universidad
+en el mismo proyecto.
+2. Las alianzas estrab~gicas
+deben estar conformadas,
+como minimo,
+por dos (2) universidades
+y dos (2) entidades
+Iider. Podra haber mas
+de dos de cad a una de estas, 10 cual generara puntaje adicional en la
+Pagina 2 de 7
+ .
+1
+"
+COlCIENCIAS -
+m PROSPERI DAD
+tI PARA TODOS
+evaluaci6n.
+Para las universidades,
+de la tercera en adelante podran no
+estar acreditadas, pero deberan estar en el proceso de acreditaci6n.
+3. Las alianzas entre las entidades
+deberan asegurar
+la creaci6n de una
+figura-persona
+juridica
+independiente
+de los socios.
+Se entiende
+que el
+CEA es motor de innovaci6n en loT y TIC; que hace participe a diferentes
+grupos
+de interes,
+generando
+una dinamica
+dentro
+de la industria
+TIC
+nacional
+en
+beneficio
+de
+un
+Ecosistema
+de
+Innovaci6n
+Nacional,
+de
+emprendimiento
+y de empresarismo.
+La alianza entonces debera crear una
+personeria
+juridica
+en
+capacidad
+de
+desarrollar
+los
+modelos
+de
+sostenibilidad
+y negocio
+atribuidos
+al CEA
+y aun
+mas
+de
+asumir
+el
+protagonismo
+requerido
+en un ecosistema
+con interacci6n
+y asociaci6n
+con socios nacionales e internacionales.
+4. Es posible
+contar
+con la participaci6n
+de Entidades
+Ancla.
+La
+participaci6n
+de Entidades Anclas podra generar puntaje adicional en
+la evaluaci6n.
+5. Una Universidad
+y/o
+Entidad
+Lider
+no puede
+participar
+0 estar
+presente en mas de una propuesta en el marco de esta convocatoria.
+Colciencias verificara si la Universidad
+y/o Empresa Lider se presenta
+en mas de una propuesta;
+si esto ocurre, se anulara
+la totalidad
+de
+las solicitudes presentadas.
+2- EI numeral 4 (Requisitos Minimos) quedara asi:
+(... ) 4.2.
+La alianza
+estrategica
+para
+la conformaci6n
+del
+Centro
+de
+Excelencia
+y Apropiaci6n
+- CEA debe estar conformada,
+como minimo,
+por
+dos
+(2)
+Universidades-y
+dos
+(2)
+entidades
+Iideres.
+Para
+las
+Universidades,
+de
+la tercera
+en
+adelante
+si
+no estan
+acreditadas,
+deberan estar en el proceso de acreditaci6n.
+(... )
+(... ) 4.6. La propuesta de la Alianza debe incluir la creaci6n de un Centro
+de Excelencia y Apropiaci6n
+-CEA que cuente como minimo con dos (2)
+grupos
+de
+investigaci6n,
+desarrollo
+tecnol6gico
+y/o
+innovaci6n
+reconocidos par COLCIENCIAS
+como resultado de la convocataria 640 de
+2013. Cada grupo
+a su vez debe contar, como minimo con: un (1) PhD,
+tres (3) estudiantes
+doctorales y diez (10) estudiantes
+de maestria, todos
+Pagina 3 de 7
+ "
+,
+..
+II. PROSPERI DAD
+I!iPARATODOS
+con dedicaci6n
+de tiempo total. Los miembros de los grupos deben estar
+enfocados
+en areas de Internet de las Cosas. (... )
+3- EI numeral 8 (Criterios de Evaluaci6n) quedara asi:
+No.
+Criterio
+Puntaje
+Maximo
+1
+Calidad y Metodoloqia de Trabajo
+10
+2
+Equipo de Trabaio
+15
+3
+Plan de Negocio V de Sostenibilidad
+30
+4
+Propuesta de Valor
+15
+Cantidad
+y
+pertinencia
+de
+los
+socios
+adicionales
+Se
+evaluara
+el
+numero
+de
+entidades
+adicionales
+las
+' .
+requeridas
+a
+mlnlmas
+que
+conforman la alianza.
+•
+Cada Entidad Ancla de sector diferente
+a
+Gobierno
+generara
+3 puntos
+en
+la
+clasificacion.
+•
+Cada Entidad Ancla de sector Gobierno
+(Entidades
+del
+Orden
+Nacional
+y
+5
+Departamental,
+Empresas
+Industriales y
+20
+Comerciales
+del
+Estado
+y
+Entes
+Territoriales
+de Categoria
+Especial,
+1 y
+2,
+Distrito
+Especial
+de
+Bogota
+D.C.)
+generara 3 puntos en la clasificacion.
+•
+Cada Entidad Ancla de sector Gobierno
+(Entes Territoriales
+de Categoria
+3 y 4)
+generara 2 puntos en la clasificacion.
+•
+Cada Entidad Ancla de sector Gobierno
+(Otros)
+generara
+1
+puntos
+en
+la
+clasificacion.
+•
+Cada
+Entidad
+Lider
+0
+Universidad
+adicional
+aenerara
+1
+Duntos
+en
+la
+Pagina 4 de 7
+ ..
+"
+#
+COlCIENCIAS' -
+I"I PROSPERIDAD
+uPARATODOS
+clasificacion.
+Propuestas
+con
+entidades
+adicionales
+obtendran
+un puntaje maximo de 20 puntos
+Contrapartida Adicional
+Se Ie dara un maximo de 10 puntos a la
+6
+propuesta que incremente el valor de la
+10
+contrapartida
+minima requerida, la cual debe
+presentarse en dinero. EI calculo se hara
+mediante una regia de tres simple.
+Total
+100
+4- EI numeral 11 (Banco de elegibles) quedara asi:
+Los
+resultados
+de
+la convocatoria
+se
+publicaran
+en
+la paglna
+web
+de
+COLCIENCIAS
+(www.colciencias.gov.co)
+en las fechas
+establecidas
+en el
+CRONOGRAMA.
+La propuesta
+que supere
+los ochenta
+(80) puntos
+ingresaran
+al banco de
+elegibles
+y se Ie asignaran
+los recursos
+a aquella
+que obtenga
+el mayor
+puntaje.
+La asignacion
+de los recursos se realizara de acuerdo a la disponibilidad
+de los mismos.
+La vigencia del banco de elegibles es de dos arios a partir de su publicaci6n
+definitiva. La inclusi6n de las propuestas en el banco de elegibles, no implica
+obligatoriedad
+ni compromiso
+alguno de COLCIENCIAS,
+de asignar recursos,
+ni genera
+derecho
+a recibir
+apoyos
+econ6micos
+para quienes
+las hayan
+presentado.
+(... )
+5- EI numeral 12 (Cronograma)
+quedara asi:
+ACTIVIDAD
+FECHA LIMITE
+Apertura de la convocatoria
+17 de septiembre de 2014
+Cierre de la convocatoria
+16 de enero de 2015 a las
+Pagina 5 de 7
+ , .
+'"
+m PROSPERIDAD
+~PARATODOS
+ACTIVIDAD
+FECHA LIMITE
+5:00 pm. GTM -5
+Publicaci6n del Banco preliminar de
+10 de febrero de 2015
+Proyectos Elegibles
+Del11
+al13 de febrero de
+Perfodo de solicitud de aclaraciones
+2015
+del Banco preliminar de Elegibles
+20 de febrero de 2015
+Respuesta a solicitud de aclaraciones
+Publicaci6n del Banco definitivo de
+2 de marzo de 2015
+Proyectos Elegibles
+6- EI anexo 5 (Contenido del proyecto) quedara asf:
+(... ) Plan de negocios y de sostenibilidad:
+Con el objetivo de generar
+la
+posibilidad
+de negocio consecuente
+del desarrollo
+del proyecto, se hace
+necesario
+contemplar
+un
+plan
+de
+negocio
+que
+permita
+evidenciar
+la
+existencia
+de soluciones frente a las necesidades
+identificadas
+en todos
+los
+sectores
+productivos
+estrategicos
+de
+la
+economia
+nacional.
+Entonces,
+la
+propuesta
+debera
+demostrar
+c6mo
+se
+ha
+disefiado
+la
+disponibilidad
+del
+producto
+para
+la
+soluci6n
+de
+las
+necesidades
+expuestas,
+para ello, se debera utilizar el modelo CANVAS, detallando en
+profundidad
+cada uno de sus componentes,
+los cuales se muestran
+a
+continuaci6n:
+(... )
+Pagina 6 de 7
+ 'r
+Yo.t
+III PROSPERI DAD
+i PARA TODOS
+7- EI anexo 6 (Criterios de evaluaci6n) quedara asi:
+(... ) 2. Equipo de Trabajo
+La documentaci6n
+del proyecto
+debera presentar
+el grupo de personas
+que conforman
+el equipo
+de trabajo
+que
+lIevara a cabo
+el proyecto;
+incluyendo
+las
+hojas
+de
+vida
+de
+cada
+uno
+de
+los
+integrantes,
+su
+dedicaci6n
+al proyecto,
+las labores/tareas
+que cumpliran,
+asi como
+el
+costo de su participaci6n.
+Cada
+Centro
+de
+Excelencia
+y Apropiaci6n
+(CEA)
+debe
+incluir,
+como
+minimo, tres (3) grupos de investigaci6n
+y cada grupo debe contar, como
+minimo,
+con un (1) Doctor (PhD), tres (3) estudiantes
+doctorales
+y diez
+(10) estudiantes
+de maestria; todos con dedicaci6n
+de trabajo de tiempo
+total al CEA. (... )
+Los demas aspectos de los terminos de referencia de la convocatoria
+No. 686
+de 2014, se mantienen sin modificaci6n alguna.
+La presente adenda NO.1 se suscribe en Bogota D.C. a los
+07
+NOV. 2014
+A
+CIA RIOS HURTADO
+ubdirectora General (E)
+Vo. Bo.lmzapatab
+Revise:
+Paula
+Chiquillo
+\ I
+Proyecto:
+Edwin
+Trujillo
+Bonilla
+~
+Pagina 7 de 7
+      COLCIENClAS
+CONVOCATORIA
+PARA CONFORMAR
+CENTROS
+DE EXCELENCIA
+Y APROPIACION
+EN
+INTERNET
+DE LAS COSAS (lOT) - No. 686 DE 2014
+Publicacion
+preliminar
+EI Departamento
+Administrativo
+de Ciencia, Tecnologia e Innovaci6n - COLCIENCIAS,
+atendiendo
+los terminos de referencia de la Convocatoria
+686 de 2014 - PARA CONFORMAR
+CENTROS
+DE
+EXCELENCIA
+Y APROPIACION
+EN INTERNET
+DE LAS COSAS
+(lOT), informa que habiendo
+realizado el proceso de revisi6n de requisitos minimos establecido en el numeral 4 de los mismos,
+2
+de las 2 propuestas
+presentadas,
+cumplieron
+los requisitos y por 10 tanto entraron al proceso de
+evaluaci6n por parte de pares expertos.
+Las 2 propuestas
+fueron evaluadas
+teniendo en cuenta los criterios y el proceso de evaluaci6n
+establecidos en el numeral 8 y 9 respectivamente
+de los terminos de referencia. Como resultado el
+panel de expertos estableci6
+que ninguna de las propuestas
+contaba con la calificaci6n
+minima
+requerida para conformar el banco de elegibles, por 10 anterior se declara desierta esta convocatoria.
+~.v~------
+VaSa. MARIO VALENCIA
+Gestor Programa CTI en TIC
+COLCIENCIAS
+Bogota, D.C., marzo 10 de 2015
+ (ti) S9LClENCIAS
+TODOSPORUN
+NUEVO PAis
+PAZ
+EQUIDAD
+EDUCACION
+CONVOCATORIA
+No. 686 de 2014
+"Para conformar Centros de Excelencia y Apropiaci6n en Internet de las
+Cosas (loT) - 2014."
+ADENDA No.4
+Mediante
+la Resoluci6n
+No. 844 del 17 de octubre
+de 2014,
+la Directora
+General de COLCIENCIAS,
+deleg6 en la Subdirecci6n
+General la funci6n de
+suscribir
+las adendas
+de modificaci6n
+de los terminos
+de referencia
+de las
+convocatorias,
+previa aprobaci6n del comite de subdirecci6n.
+Con la presente
+adenda
+se pretende
+adelantar
+el cronograma
+establecido,
+toda
+vez
+que
+solo
+dos
+propuestas
+se
+presentaron
+en
+el
+marco
+de
+la
+convocatoria
+No. 686 de 2014, y ya se cuenta
+con los resultados
+de las
+evaluaciones,
+por
+10 tanto
+es
+viable
+proceder
+con
+la
+respuesta
+a
+las
+aclaraciones
+y acelerar la publicaci6n de los resultados definitivos.
+EI
+Departamento
+Administrativo
+de
+Ciencia,
+Tecnologia
+e
+Innovaci6n
+-
+COLCIENCIAS
+- modifica los terminos de la convocatoria
+No. 686 de 2014,
+en su numeral 12 (Cronograma),
+conforme
+a la solicitud de la Direcci6n
+de
+Desarrollo
+Tecnol6gico
+e
+Innovaci6n,
+aprobada
+en
+sesi6n
+presencial
+del
+comite de subdirecci6n
+lIevado a cabo el 13 de marzo de 2015, dejando
+la
+salved ad de que con la presente
+modificaci6n
+no se vulnera
+la expectativa
+prevista de los posibles proponentes.
+Para
+mayor
+c1aridad las
+modificaciones
+se
+presentan
+subrayadas
+y
+en
+negrillas, asi:
+1- EI numeral 12 (Cronograma) quedara asi:
+Pagina 1 de 2
+ COlCIENelAS
+TODOSPORUN
+NUEVOPAfs
+PAZ
+EQUIDAD
+EDUCACION
+ACTIVIDAD
+FECHA LIMITE
+Apertura de la convocatoria
+17 de septiembre de 2014
+Cierre de la convocatoria
+13 de febrero de 2015 a las
+5:00 pm hora colombiana.
+Publicaci6n del Banco preliminar de
+10 de marzo de 2015
+Proyectos Elegibles
+Periodo de solicitud de aclaraciones del
+Del11 al13 de marzo de 2015
+Banco preliminar de Elegibles
+Respuesta a solicitud de aclaraciones
+16 de marzo de 2015
+Publicaci6n del Banco definitivo de
+18 de marzo de 2015
+Proyectos Elegibles
+Los demas aspectos de los terminos de referencia de la convocatoria
+No. 686
+de 2014, se mantienen sin modificaci6n alguna.
+La presente adenda No.4 se suscribe en Bogota D.C. a los
+~ALEJANDRO
+OLAYA DAvILA
+Subdirector General
+Vo.Bo.lmzapatab
+Revis6:
+Paula
+Chiquillo
+~
+IL
+Proyecto:
+Edwin
+Trujillo
+Bonilla
+Url:l
+Pagina 2 de 2
+;
+v
+I ..\;.:. 2015
+ TODOSPORUN
+NUEVO PAis
+PAZ
+EQlJlDAO
+EOlJC.ACION
+RESOLUCION'N6.
+15'bE
+2015
+18 MAR. 2015
+UPor la cual se declara desierta la Convocatoria
+No. 686 de 2014"
+EI SUBDIRECTOR
+GENERAL DEL DEPARTAMENTO
+ADMINISTRATIVO
+DE
+CIENCIA, TECNOLOGiA
+E INNOVACION - COLCIENCIAS
+En ejercicio de sus funciones, de conformidad
+con el numeral 5 del articulo 4
+0 de
+la Ley 1286 de 2009, el numeral 4 del articulo 50 del Decreto 1904 de 2009, y la
+resoluci6n No. 844 de 2014, y
+CONSIDERANDO
+Que mediante
+la Resoluci6n
+No. 844 del 17 de octubre
+de 2014, la Directora
+General
+de COLCIENCIAS,
+deleg6
+en la Subdirecci6n
+General
+la funci6n
+de
+suscribir las resoluciones derivadas de los procesos de convocatorias.
+Que mediante
+Resoluci6n
+No. 753 de 2014 el Departamento
+Administrativo
+de
+Ciencia,
+Tecnologia
+e Innovaci6n
+- COLCIENCIAS
+orden6
+la apertura
+de
+la
+Convocatoria
+No.
+686
+de
+2014
+"Para
+conformar
+centros
+de
+excelencia
+y
+apropiaci6n en Internet de las Cosas (loT) - 2014".
+Que
+el 07 de
+noviembre
+de 2014,
+se procedi6
+a modificar
+los terminos
+de
+referencia
+en algunos ajustes tecnicos con el objetivo de permitir la participaci6n
+activa en el proceso de convocatoria.
+Que el 22 de enero de 2015,
+nuevamente
+se realiz6
+una modificaci6n
+en los
+terminos
+de referencia,
+teniendo
+en cuenta que parte del tiempo otorgado
+en la
+convocatoria
+para
+la estructuraci6n
+del
+proyecto
+coincidi6
+con el periodo
+de
+vacaciones de las universidades,
+las entidades anclas y Iideres.
+Que de acuerdo con el cronograma establecido en los terminos de referencia de la
+Convocatoria
+No. 686 de 2014, se estableci6 el cierre de la misma el 13 de febrero
+de la presente
+anualidad,
+perlodo
+en el que se presentaron
+dos propuestas,
+cumpliendo con los requisitos minimos.
+Que
+de
+acuerdo
+con
+el
+cronograma
+de
+los
+terminos
+de
+referencia
+de
+la
+Convocatoria
+No. 686 de 2014, se publicaron los resultados preliminares
+el 10 de
+marzo de 2015, y se estableci6
+un periodo de aclaraciones,
+durante el cual se
+Carrera 7 B bis W 132 - 28
+Teh!fono: (57-1) 625 8480
+Fax: (57-1) 625 1788
+Bogota D.C.- Colombia
+www.colciencias.gov.co
+ @) COLCIENCIAS
+TODOSPORUN
+NUEVO pAis
+PAZ
+EQUIDAD
+EDUCACl{iN
+••
+rI,
+154
+presentaron
+cuatro (4) solicitudes,
+las cuales fueron atendidas por el area tecnica,
+sin ser objeto de modificacion el banco preliminar de elegibles.
+Que
+mediante
+memoranda
+No.
+20154400033063,
+la Direccion
+de
+Desarrollo
+Tecnologico
+e
+Innovacion,
+solicito
+y justifico
+la elaboracion
+de
+la
+presente
+resolucion,
+aprobada
+en sesion presencial
+del comite de subdireccion
+lIevada a
+cabo el 13 de marzo de 2015.
+Que de acuerdo
+a 10 estipulado
+en el numeral
+9 (proceso
+de evaluacion),
+se
+determino
+el
+puntaje
+minima
+de
+calificacion
+para
+que
+los
+proyectos
+fueran
+declarados
+elegibles
+(80
+puntos)
+y
+de
+acuerdo
+a
+los
+resultados
+de
+las
+evaluaciones,
+ningun proyecto alcanzo, ni supero ese rango por 10 que se procede
+a la declaratoria desierta de la convocatoria
+No. 686 de 2014.
+Que en merito de 10 expuesto,
+RESUELVE
+ARTicULO
+PRIMERO: Declarar desierta la Convocatoria
+No. 686 de 2014.
+ARTicULO
+SEGUNDO:
+La presente
+resolucion
+rige a partir de la fecha de su
+expedicion
+y
+sera
+publicada
+en
+la
+pagina
+Web
+de
+COLCIENCIAS,
+www.colciencias.gov.co
+PUBLiQUESE
+Y CUMPLASE
+Dada en Bogota D.C. a los
+18
+MAR. 2015
+~
+~
+ALEJANDRO
+OLAYA DAvILA
+Subdirector General
+Vo.Bo.lmzapatab
+Revise:
+Paula Chiquillo
+'b
+Proyecto:
+Edwin Trujillo
+Bonilla 0~
+Carrera 7 B bis W 132 - 28
+Teletono: (57-1) 625 8480
+Fax: (57-1) 6251788
+Bogota D.C.- Colombia
+www.colciencias.gov.co

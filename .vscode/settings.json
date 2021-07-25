@@ -1,4 +1,5 @@
 {
     "python.pythonPath": "/home/duban/anaconda3/envs/scraping-clacso/bin/python",
-    "jupyter.jupyterServerType": "local"
+    "jupyter.jupyterServerType": "local",
+    "git.ignoreLimitWarning": true
 }

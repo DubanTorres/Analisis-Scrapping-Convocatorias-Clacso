@@ -1,0 +1,9945 @@
+@ COLCIENCIAS 
+EVO pals 
+MINTIC 
+PAZ 
+EQUIDAD 
+EDUCACION 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E 
+INNOVACION -COLCIENCIAS- 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS 
+DE TECNOLOGIAS DE LA INFORMACION PARA EL SECTOR DE SALUD EN 
+COLOMBIA - 2015 
+  
+  
+1. PRESENTACION 
+COLCIENCIAS, como ente rector del Sistema Nacional de 
+Ciencia, Tecnologia e 
+Innovaci6n en el pais, en alianza con el Ministerio de Tecnologias de la Informacion y 
+las Comunicaciones 
+- MINTIC, como lider de la estrategia de Fortalecimiento de la 
+Industria Tl de Colombia 
+- FITI, buscan con 
+la presente convocatoria, cofinanciar 
+proyectos de desarrollo de soluciones informaticas que sean aplicables al sector de 
+salud en Colombia para promover la especializacion de la industria TI en el pais. 
+La 
+presente convocatoria responde 
+a 
+la 
+linea 
+de 
+accion 
+de 
+la 
+estrategia 
+FITI 
+denominada “Visién Estratégica del Sector’, 
+la cual busca que las empresas que 
+conforman 
+la 
+industria 
+Tl 
+del 
+pais 
+se 
+especialicen 
+en segmentos 
+de 
+mercado 
+estratégicos, 
+maximizando 
+la 
+productividad 
+de 
+las 
+empresas, 
+al 
+orientar 
+sus 
+esfuerzos a focos especificos. 
+Por su parte, COLCIENCIAS, tiene como meta para el 2018, apoyar 11 mil nuevas 
+empresas en 
+la implementacién de métodos y herramientas para 
+la gestion de 
+la 
+innovacién. 
+En este sentido, 
+la presente convocaioria influye considerablemente en 
+la consecucién de 
+la misma, ya que amplia 
+el portafolio de productos y servicios 
+innovadores de la industria Tl, 
+al servicio de un mercado especifico como es el de 
+salud. 
+Para mayor informacion sobre los antecedentes de esta convocatoria, la ampliacién 
+de 
+la informacion 
+relacionada 
+con 
+la estrategia 
+FITI 
+y 
+el 
+concepto 
+de 
+“Visién 
+estratégica del Sector’, revisar el Anexo 1 — Antecedentes. 
+2. OBJETIVOS 
+OBJETIVO GENERAL 
+Cofinanciar proyectos de innovacién que estén orientados 
+al fortalecimiento de 
+la 
+industria de Tecnologias de la Informacion TI, mediante el desarrollo de soluciones 
+4 
+ 
+ TODOS POR UN 
+NUEVO PAIS 
+PAZ 
+EQUIDAD 
+EDUCACION 
+  
+  MINTIC 
+tecnolégicas innovadoras orientadas al sector de salud, 
+para dar respuesta a 
+las 
+necesidades de dicho sector y asi contribuir con la especializacién de la industria TI. 
+OBJETIVOS ESPECIFICOS 
+Incentivar el desarrollo de soluciones de Tl para responder a los desafios del 
+sector salud. 
+° 
+Estimular 
+la demanda de soluciones de TI 
+por parte de 
+las entidades del 
+sector salud. 
+° 
+Fortalecer la alianza universidad, empresa, estado con el propdsito de generar 
+sinergias que contribuyan con 
+la especializaci6n de 
+la industria 
+TI 
+y 
+a 
+la 
+solucién de problemas del sector de salud en Colombia. 
+e 
+Fortalecer la cultura de innovacion en el sector de salud en Colombia, a partir 
+de la implementacién de soluciones de TI. 
+3. DIRIGIDO A 
+Alianzas Estratégicas compuestas por: empresas de la industria de Tecnologias de 
+Informacion — TI del pais, entidades pertenecientes al sector de salud y unidades que 
+promueven 
+la investigacién 
+y 
+el desarrollo tecnolégico (Grupos de Investigacién, 
+Desarrollo Tecnolédgico 
+o de Innovacién, Centros de Investigacién 
+y Centros de 
+Desarrollo Tecnoldégico, reconocidos por Colciencias. 
+A continuacion 
+se 
+detalla 
+la informacién 
+sobre 
+los 
+actores que conformaran 
+la 
+alianza estratégica para la participacién en esta convocatoria: 
+Empresas de la Industria Tl 
+Las empresas que pertenecen 
+a 
+la Industria TI participantes en esta convocatoria 
+asumiran 
+el 
+rol 
+de 
+“ejecutoras”, 
+lo 
+cual 
+implica 
+que 
+son 
+las 
+entidades 
+administradoras de los recursos y lideran el desarrollo de la soluci6n TI. 
+Estas empresas deberan estar constituidas como personas juridicas y establecidas 
+como 
+sociedades 
+mercantiles 
+pertenecientes 
+a 
+la 
+industria 
+de Tecnologias 
+de 
+Informacion, domiciliadas en Colombia, las cuales deberan evidenciar que realizan 
+una 0 varias de las siguientes actividades econdémicas, a través de su objeto social: 
+e 
+Desarrollo de software. 
+ 
+ TODOS PORUN 
+NUEVO PAIS 
+PAZ 
+EQUIDAD 
+EDUCACION 
+  
+  
+) MINTIC 
+Desarrollo de aplicaciones informaticas. 
+Disefio y desarrollo de paginas web. 
+Administracién de bases de datos. 
+Testing, entendido como los servicios orientados a la realizacién de pruebas a 
+los sistemas de informacion. 
+Tercerizacién de servicios relacionados con 
+las tecnologias de informacién 
+(ITO). 
+Alojamiento de datos. 
+Gerencia de proyectos de Tl 
+Actividades 
+de consultoria 
+informatica 
+y actividades 
+de administracién 
+de 
+instalaciones informaticas. 
+Disefio y desarrollo de video juegos. 
+Entidades pertenecientes al sector de salud 
+Las 
+entidades 
+pertenecientes 
+al 
+sector actuaran 
+como 
+“Beneficiarias”, 
+quienes 
+participaran 
+en 
+el 
+desarrollo 
+de 
+la 
+solucién 
+informatica 
+que 
+contribuira 
+con 
+la 
+resolucién del problema o necesidad identificada previamente. 
+Se consideran entidades beneficiarias 
+las personas juridicas de caracter publico, 
+privado 
+o 
+mixto, 
+constituidas como sociedades 
+pertenecientes 
+al 
+sector 
+salud, 
+domiciliadas en Colombia que evidencien, mediante su objeto social que desarrollan 
+una 0 varias de las siguientes actividades: 
+a. 
+b. 
+c. 
+Fabricacién de productos farmacéuticos, sustancias quimicas medicinales 
+y 
+productos botanicos de uso farmacéutico. 
+Actividades de atenci6n de la salud humana: 
+Actividades de hospitales y clinicas, con internacién. 
+Actividades de hospitales y clinicas, sin internaci6n. 
+Actividades de practica médica y odontoldgica, con internacion. 
+Actividades de la practica médica y odontoldgica, sin internacion. 
+Otras actividades de atenci6on relacionadas con la salud humana. 
+Actividades de apoyo diagnostico. 
+e 
+Actividades de apoyo terapéutico. 
+Actividades de atencion residencial medicalizada: 
+e 
+Actividades de atencion residencial medicalizada de tipo general. 
+e 
+Actividades de atencion 
+residencial, 
+para 
+el cuidado de pacientes con 
+retardo mental, enfermedad mental y consumo de sustancias psicoactivas. 
+ 
+ TODOS PORUN 
+NUEVO PAIS 
+PAZ 
+EQUIDAD 
+EDUCACION 
+  
+3) MINTIC 
+  
+e 
+Actividades 
+de atencién 
+en 
+instituciones 
+para 
+el cuidado de personas 
+mayores y/o discapacitadas. 
+e 
+Otras actividades de atencion en instituciones con alojamiento. 
+Unidades que promueven la investigacion y el desarrollo tecnologico 
+Se trata de integrar a la alianza estratégica, una unidad que desarrolle actividades de 
+investigacion y desarrollo tecnoldgico. 
+Dichas unidades que pueden ser Grupos de 
+Investigacion, Desarrollo Tecnolégico o de Innovacién, Centros de Investigacion 
+o 
+Centros de Desarrollo Tecnolégico deben estar reconocidos por COLCIENCIAS a 
+la 
+fecha de apertura de la convocatoria. 
+Estas unidades tendran el rol de “Acompajiantes”, cumpliendo la funcién de aportar 
+su conocimiento y experiencia cientifica en el desarrollo de 
+la solucién informatica 
+propuesia. 
+Nota: El “Acompafiante” puede pertenecer al area de tecnologias de la informacién o 
+al area de salud. 
+4. REQUISITOS MINIMOS 
+A continuacién se presentan los requisitos minimos necesarios para participar en 
+esta 
+convocatoria, 
+los 
+cuales 
+se 
+detallan 
+por 
+actor 
+que 
+conforma 
+la 
+alianza 
+estratégica (Ejecutores, Beneficiarias, Acompafiantes): 
+Ejecutores: Empresas de la Industria Tl 
+e 
+Estar 
+legalmente 
+constituida 
+como 
+persona 
+juridica 
+y 
+establecida 
+como 
+sociedad mercantil perteneciente a la industria de Tecnologias de Informacion, 
+domiciliada en Colombia, acreditando 
+al menos, veinticuatro (24) meses de 
+constituci6n legal, a la fecha de apertura de la presente convocatoria. 
+e 
+La empresa TI, debera evidenciar que realiza una o varias de las actividades 
+econdémicas, 
+descritas 
+en 
+el 
+numeral 
+3, 
+en 
+la 
+informacién 
+sobre 
+las 
+ejecutoras. 
+e 
+Disponer de una (1) persona tiempo completo quien asumira el rol de gerente 
+del proyecto, éste debera ser profesional en Ingenieria de Sistemas o carreras 
+afines, 
+con 
+formacién 
+a 
+nivel 
+de 
+posgrado 
+en 
+gerencia 
+de 
+proyectos, 
+administraci6n o areas TI y con minimo un (1) proyecto TI gerenciado en los 
+ultimos tres (3) afios, a la fecha de apertura de la presente convocatoria. 
+e 
+Acreditar experiencia 
+en 
+el 
+desarrollo 
+de 
+soluciones 
+Tl, 
+a 
+través 
+de 
+la 
+4 
+ 
+ TODOS PORUN 
+NUEVO PAiS 
+PAZ 
+EQUIDAD 
+EDUCACION 
+  
+5) MINTIC 
+  
+ejecucidn y finalizacién de al menos tres (3) proyectos en los Uultimos cinco (5) 
+afios, a la fecha de apertura de la convocatoria. 
+Ser la entidad lider en el ejercicio de formulacién del proyecto a postular a la 
+presente 
+convocatoria. 
+Asi 
+mismo 
+es 
+requisito 
+minimo, 
+que 
+la 
+entidad 
+ejecutora sea responsable de recolectar todos los documentos de todos los 
+actores involucrados, segun lo mencionado en el numeral 5 de los presentes 
+términos de referencia. 
+Establecer una alianza estratégica con las siguientes caracteristicas: 
+v 
+Una 
+(1) 
+y 
+solamente 
+una 
+(1) 
+empresa 
+de 
+la 
+Industria 
+T| 
+(Entidad 
+Ejecutora). 
+¥ 
+Minimo una (1) entidad del sector salud (Entidad Beneficiaria), maximo 
+las que 
+el ejecutor considere necesarias para 
+la implementacion de su 
+solucion. 
+(Nota: Todas y cada una de las beneficiarias deben cumplir con 
+los requisitos minimos establecidos en la presente convocatoria). 
+v 
+Una 
+(1) 
+y solamente una (1) unidad que promueve 
+la investigacién y 
+el 
+desarrollo tecnolégico (Entidad Acompajiante). 
+Presentar 
+el 
+proyecto 
+segtin 
+el 
+formato 
+del 
+Anexo 
+2 
+- 
+Formato 
+de 
+Presentacion del Proyecto. 
+Entregar 
+el 
+proyecto 
+y 
+los 
+anexos 
+del 
+mismo, 
+de manera 
+fisica 
+en 
+las 
+instalaciones de COLCIENCIAS en el dia y hora indicados en el calendario de 
+la convocatoria, contenido en los presentes términos de referencia. 
+Beneficiarias: Entidades pertenecientes al sector de salud 
+Nota: 
+Las 
+entidades 
+participantes, 
+deben 
+estar 
+legalmente 
+constituidas 
+como 
+personas juridicas de caracter publico, 
+privado 
+o mixto 
+y domiciliadas 
+en 
+Colombia. 
+Demostrar que desarrolla una o varias de las actividades mencionadas en el 
+numeral 3. 
+Acreditar sin excepcién 
+al menos, veinticuatro 
+(24) meses de constitucion 
+legal, a la fecha de apertura de la presente convocatoria. 
+el ejecutor debe asegurarse de que todas 
+y cada 
+una 
+de 
+las entidades 
+beneficiarias cumplan con estos requisitos, ya que 
+si en 
+la alianza aparece por lo 
+menos 
+una entidad que 
+no cumple, 
+la alianza NO sera tenida en cuenta para 
+continuar en el proceso. 
+ 
+    
+om 
+TODOS PORUN 
+“ 
+NUEVO PAIS 
+PAZ 
+EQUIDAD 
+EDUCACION 
+5) MINTIC 
+  
+@ £9 
+  
+Acompafiante: 
+Unidades 
+que 
+promueven 
+la 
+investigacion 
+y 
+el 
+desarrollo 
+tecnoldgico 
+e 
+Estas 
+unidades 
+que 
+pueden 
+ser 
+Grupos 
+de 
+Investigacion, 
+Desarrollo 
+Tecnolégico 
+o 
+de 
+Innovacidén, 
+Centros 
+de 
+Investigacion 
+o 
+Centros 
+de 
+Desarrollo Tecnolégico deben estar reconocidos por COLCIENCIAS a la fecha 
+de apertura de la presente convocatoria. 
+e 
+Solo se acepta un (1) unidad que promueve 
+la investigacion y el desarrollo 
+tecnoldgico, por alianza. 
+e 
+La unidad que promueve 
+la investigacion y 
+el desarrollo tecnoldgico debera 
+acreditar como minimo dos (2) proyectos en ejecucidn o finalizados en alguna 
+de las siguientes dos areas del conocimiento: Tecnologias de Informacién o 
+Salud. 
+Notas: 
+1. 
+Las entidades ejecutoras, 
+beneficiarias 
+y acompanantes postulantes 
+que 
+tengan contratos 0 convenios vigentes con COLCIENCIAS o MINTIC deberan 
+estar a paz y salvo con los compromisos adquiridos; de lo contrario no seran 
+considerados para participar en esta convocatoria. 
+2. 
+La ejecutora, la(s) beneficiaria(s) y 
+la entidad acompafante deberan cumplir 
+con la totalidad de los requisitos minimos para la habilitaci6n de la propuesta. 
+5. DOCUMENTACION REQUERIDA 
+A continuacién se mencionan los documentos requeridos necesarios para evaluar la 
+propuesta, 
+los cuales se detallan 
+por actor que conforma 
+la alianza estratégica 
+(Ejecutores, Beneficiarias, Acompafantes): 
+Ejecutores: Empresas de la Industria Tl 
+e 
+Estados financieros de los Ultimos dos (2) afios fiscales, debidamente firmados 
+por el revisor fiscal o representante legal segun sea el caso. 
+e 
+Hoja de vida del gerente de proyecto propuesto con los respectivos soportes 
+de formacion y experiencia. 
+e 
+Proyecto formulado segun el formato del Anexo 2 - Formato de Presentacion 
+6 
+ 
+ TODOS PORUN 
+NUEVO PAIS 
+@ mintic 
+PAZ 
+EQUIDAD 
+EDUCACION 
+  
+del Proyecto. 
+e 
+Formato en donde se registra 
+la experiencia especificada en 
+los requisitos 
+minimos, segun el Anexo 3 — Carta de Experiencia de la empresa TI. 
+e 
+Carta de la alianza estratégica entre el ejecutor, la(s) entidad(es) beneficiaria(s) 
+y 
+la 
+entidad 
+acompafante, 
+presentando 
+el 
+proyecto 
+y 
+firmada 
+por 
+los 
+representantes legales de las organizaciones que conforman 
+la alianza en 
+la 
+cual se describe 
+la contrapartida en términos de monto 
+y entidad(es) que 
+dispone(n) 
+de 
+ésta. Anexo 
+4 
+- Carta 
+unificada 
+de 
+aval 
+y compromiso 
+institucional (Tipo II con Alianza Estratégica). 
+Nota: Es importante que la carta esté debidamente firmada por todos y cada uno de 
+los Representantes Legales integrantes de la alianza; en caso tal que una sola no 
+llegare 
+a firmar dicha 
+carta, 
+la alianza quedara automaticamente excluida 
+para 
+participar en la presente convocatoria. 
+De ser el caso se aceptaran cartas de alianza 
+firmadas por separado. 
+e 
+Registro de experiencia del acompafhante segtin el Anexo 5. 
+e 
+Plan de accion segun el formato del Anexo 6. 
+e 
+En caso de tener implementado un modelo de gestién de calidad Tl, adjuntar 
+documento vigente que acredite 
+la valoracion y/o certificacidn seguin sea 
+el 
+caso. 
+e 
+En caso de pertenecer 
+a 
+un modelo asociativo, presentar documento que 
+acredite 
+su 
+vinculacién, 
+firmado 
+por 
+el 
+representante 
+legal 
+del 
+modelo 
+asociativo o su delegado. 
+e 
+Anexo 7 —Autorizacion uso y almacenamiento de datos personales. 
+Beneficiarias: Entidades pertenecientes al sector salud 
+e 
+Allegar documento de existencia y representacion legal de la entidad. 
+Acompanante: 
+Unidades 
+que 
+promueven 
+la 
+investigacién 
+y 
+el 
+desarrollo 
+tecnoldgico 
+e 
+Diligenciar el Anexo 5 - Registro de experiencia de acompanante. 
+Notas: 
+ 
+ ~ @)coLciencias 
+TODOS POR UN 
+@ COLCIENCIAS 
+NUEVO PAIS 
+MINTIC 
+PAZ 
+EQUIDAD 
+EDUCACION 
+1. COLCIENCIAS-MINTIC, podra solicitar en cualquier momento, informacién y 
+documentaci6n adicional o aclaraciones de las mismas. 
+2. COLCIENCIAS — MINTIC, verificara la existencia y representacion legal de las 
+entidades postulantes a la presente convocatoria. 
+  
+6. ALCANCE DE LA CONVOCATORIA 
+En el presente apartado se describe el alcance especifico de la convocatoria, con el 
+fin de aclarar las condiciones, restricciones y oportunidades de la misma. 
+Generalidades: 
+La presente convocatoria pretende el desarrollo de soluciones Tl, que respondan a 
+las necesidades del sector de salud en Colombia, por tal razon, 
+los productos y/o 
+servicios derivados de los proyectos de desarrollo tecnolégico y/o innovacién que se 
+financien, deben tener necesariamente como usuarios potenciales 
+a entidades 
+y 
+organizaciones pertenecientes a dicho sector y deben responder a una problematica 
+clara y delimitada. 
+Las soluciones tecnoldgicas que se postulen a la presente convocatoria deberan ser 
+nuevas, es decir, que su desarrollo se iniciara y se llevara a cabo en su totalidad 
+durante la ejecucién del proyecto. COLCIENCIAS — MINTIC, se reserva el derecho a 
+validar el estado real del desarrollo propuesto. 
+Para poder postularse a la presente convocatoria y buscando estimular el desarrollo 
+de sinergias entre la academia, el Estado y la empresa; solo se podra hacer, a través 
+del establecimiento de alianzas estratégicas como se enuncia en el numeral 3 de los 
+presentes términos de referencia. 
+Restricciones de Participacion: 
+e 
+La alianza estratégica debe ser constituida por una (1) sola empresa de 
+la 
+industria 
+Tl, 
+quien 
+sera 
+la ejecutora 
+del 
+proyecto, 
+al menos 
+una entidad 
+beneficiaria y solamente una (1) entidad acompafante. 
+e 
+Una entidad ejecutora sdlo podra participar en una 
+(1) alianza estratégica 
+constituida para la presente convocatoria. 
+e 
+Una 
+entidad 
+beneficiaria 
+podra 
+participar 
+en 
+maximo 
+dos 
+(2) 
+alianzas 
+estratégicas constituidas para la presente convocaioria. 
+ 
+ TODOS PORUN 
+ER 
+(@) COLCIENCIAS 
+7. 
+@§ 
+NUEVO PAIS 
+@ mintic 
+PAZ 
+EQUIDAD 
+EDUCACION 
+e 
+Una 
+entidad 
+acompafante 
+podra 
+participar maximo 
+en 
+dos 
+(2) 
+alianzas 
+estratégicas, constituidas para la presente convocatoria. 
+e 
+Cada alianza podra participar Unicamente con 
+un 
+(1) sdlo proyecto en 
+la 
+presente convocatoria. 
+Alcance de los Roles 
+La entidad ejecutora sera 
+la responsable de 
+la gerencia técnica del proyecto, 
+del 
+desarrollo de la solucion TI y de la administracién de los recursos. Asi mismo tendra 
+la propiedad de los derechos patrimoniales de la solucién tecnolégica desarrollada y 
+tendra el derecho a la comercializaci6n del mismo. 
+La(s) entidad(es) beneficiaria(s) seran quienes planteen la necesidad o problematica 
+a resolver a través de 
+la solucion TI, objeto del proyecto (esto no excluye que 
+el 
+problema pueda 
+ser planteado también 
+por 
+la empresa 
+TI). 
+Participaran 
+en 
+el 
+proceso 
+de 
+ejecucién, 
+orientando 
+y 
+apoyando 
+a 
+la 
+entidad 
+ejecutora 
+en 
+el 
+levantamiento de requerimientos 
+y permitiendo 
+a ésta 
+el acceso 
+a 
+la informacién 
+empresarial que se requiera para 
+el desarrollo de proyecto. 
+Asi mismo seran las 
+entidades 
+en 
+donde 
+se 
+realicen 
+las 
+fases 
+de 
+prueba, 
+uso, 
+apropiacién 
+e 
+implementacion de la solucién TI obtenida. 
+La 
+Unica 
+entidad acompajfiante que 
+participa 
+en 
+la alianza estratégica, 
+sera 
+la 
+responsable del aporte cientifico y tecnoldgico del proyecto, asesoraran 
+al ejecutor 
+en 
+aspectos 
+técnicos, 
+metodolégicos 
+y 
+conceptuales; 
+y 
+podran 
+realizar 
+la 
+documentacién 
+cientifica del proyecto, que facilite procesos de transferencia del 
+conocimiento. 
+La entidad acompaniante podra realizar divulgaci6n cientifica, siempre 
+y cuando no afecte la propiedad intelectual de la solucién TI obtenida. 
+Notas: 
+e 
+La(s) entidad(es) beneficiaria(s) seran participes del desarrollo de la solucién 
+informatica hasta 
+la prueba piloto. 
+Para continuar con el uso de la solucién 
+desarrollada en el marco del proyecto, la entidad de salud debera adquirir los 
+derechos correspondientes bajo una negociacién con la empresa TI. 
+7. DURACION Y FINANCIACION 
+7.1. Duracion 
+ 
+ @ COLCIENCIAS 
+Intedo one 
+MINTIC 
+PAZ 
+EQUIDAD 
+EDUCACION 
+El término de duracién de los proyectos sera de hasta dieciséis meses (16) meses 
+distribuidos de la siguiente forma: 
+e 
+Hasta ocho (8) meses para la ejecucién de todas las etapas requeridas para el 
+desarrollo de las soluciones tecnoldgicas propuestas. 
+e 
+Hasta siete 
+(7) meses para 
+la realizacidn de 
+las pruebas funcionales, 
+uso 
+y 
+apropiacién de 
+la solucién de TI por parte de la(s) entidad(es) beneficiaria(s). 
+Durante este periodo de pruebas funcionales, uso y apropiacion, la(s) entidad(es) 
+beneficiaria(s) recibiran soporte técnico, mantenimiento y actualizaciones de 
+la 
+solucion 
+por parte de 
+la empresa de 
+TI, 
+sin que para 
+ello 
+la(s) entidad(es) 
+beneficiaria(s) deba(n) realizar pagos a la empresa de TI. 
+e 
+Un (1) mes para la entrega del informe final. 
+7.2. Presupuesto de la convocatoria 
+El 
+presupuesto 
+total 
+disponible 
+de 
+la 
+convocatoria 
+es 
+de 
+CUATRO 
+MIL 
+TRESCIENTOS 
+MILLONES 
+DE 
+PESOS 
+M/CTE 
+($4.300.000.000), 
+Ios 
+cuales 
+corresponden a recursos de la alianza COLCIENCIAS — MINTIC. 
+7.3. Monto financiable por proyecto 
+COLCIENCIAS 
+— MINTIC, 
+financiaraé 
+un 
+monto maximo 
+por proyecto 
+de 
+hasta 
+CUATROCIENTOS MILLONES DE PESOS MI/CTE ($400.000.000) bajo la modalidad 
+de cofinanciacién. 
+El valor total del proyecto sera la sumatoria del aporte de MINTIC- 
+COLCIENCIAS y los aportes de contrapartida. 
+7.4. Aportes de contrapartida 
+La contrapartida sera en efectivo y la aportara 
+la “Entidad ejecutora” (empresa Tl), 
+basada en 
+la normatividad vigente para clasificacion de empresas estipulado en 
+el 
+articulo 2 de la Ley 590 de 2000 y modificado por el articulo 2 de la Ley 905 de 2004; 
+de la siguiente manera: 
+  
+Taman de la 
+Valores de contrapartida minimos en 
+empresa 
+efectivo 
+Micro 
+5% del valor de cofinanciacién* 
+Pequefias 
+10% del valor de cofinanciacién* 
+Medianas 
+15% del valor de cofinanciacién* 
+  
+*Valor de cofinanciacion: Valor que aporta la alianza MINTIC - COLCIENCIAS 
+10 
+ 
+ ~ @coLciencias 
+TODOS PORUN 
+——— 
+NUEVO PAIS 
+@ mintic 
+PAZ 
+EQUIDAD 
+EDUCACION 
+Si la entidad ejecutora lo considera conveniente puede aportar una contrapartida en 
+especie adicional 
+a 
+la contrapartida 
+en 
+efectivo minima exigida 
+en 
+la presente 
+convocatoria. 
+Notas: 
+1. 
+En caso de que el ejecutor no cumpla con la totalidad de los objetivos fijados 
+en la propuesta presentada para esta convocatoria, COLCIENCIAS — MINTIC 
+solicitara el reintegro total de los recursos entregados. 
+2. 
+Todos 
+los impuestos de 
+ley que se deriven de 
+la ejecucién 
+del proyecto 
+deberan estar incluidos dentro del presupuesto del mismo. 
+3. 
+Los recursos entregados a la “Entidad ejecutora”, solo podran ser destinados a 
+las actividades relacionadas con el desarrollo del proyecto. 
+8. RUBROS FINANCIABLES Y NO FINANCIABLES 
+Rubros financiables: 
+e 
+Estudios de inteligencia competitiva — incluida vigilancia tecnologica — para los 
+productos relacionados con la (s) innovacién (es) propuesta (s). 
+e 
+Adquisicién de software especializado cuya licencia vaya a ser propiedad del 
+ejecutor para investigacién, desarrollo y disefio. 
+e 
+Servicios tecnoldgicos nacionales o internacionales (hosting, infraestructura en 
+la nube, virtualizacién, ensayos, pruebas, analisis, simulacién y otros servicios 
+relacionados con TI plenamente justificados). 
+e 
+Contratacién 
+de consultoria 
+cientifica 
+y tecnolédgica especializada 
+(igual 
+o 
+menor a 90 dias y de menor valor al 10% del proyecto). 
+e 
+Viajes nacionales relacionados con 
+el desarrollo 
+del proyecto, Uunicamente 
+para el personal técnico vinculado al proyecto. 
+° 
+Capacitacién 
+y 
+actualizacién 
+de 
+personal 
+a 
+través 
+de 
+programas 
+de 
+entrenamiento de corta duracién Unicamente para 
+el personal vinculado 
+al 
+proyecto en temas relacionados con el mismo. 
+e 
+Conexién 
+a 
+redes 
+de 
+informacion 
+para 
+transferencia 
+y 
+apropiacién 
+de 
+tecnologia. 
+11 
+ 
+ @ COLCIENCIAS 
+NUEVO pA 
+© mintic 
+PAZ 
+EQUIDAD 
+EDUCACION 
+Desplazamientos, actividades y materiales para la promocién y 
+la difusién de 
+los resultados del proyecto por un valor de hasta 
+el 5% del valor total del 
+proyecto. 
+Gastos de Propiedad intelectual relacionados con los resultados del proyecto o 
+programa. 
+Personal: Personal con formacion cientifica y técnica, que cuenta con titulo 
+profesional 
+y/o 
+de 
+posgrado 
+(maestria, 
+doctorado), 
+y 
+vinculacion 
+de 
+postdoctorados que estaran a cargo de las actividades investigativas propias 
+de la ejecucién del proyecto segun el planteamiento cientifico-técnico. 
+Personal con formaci6n en carreras técnicas y tecnoldgicas con capacidades 
+para apoyar la ejecucién de actividades de Ciencia, Tecnologia e Innovaci6n - 
+CTel. 
+Los 
+costos 
+individuales 
+no 
+podran 
+exceder 
+los 
+topes 
+maximos 
+que 
+COLCIENCIAS define en la resolucién 000426 de 2014. 
+Bibliografia: Adquisicién de libros, revistas, articulos, suscripciones 0 acceso a 
+bases de datos especializadas, que sean estrictamente necesarias para una 
+ejecucién exitosa del proyecto. 
+Servicios 
+técnicos: 
+Contrataciones 
+que 
+se 
+hacen 
+para 
+la 
+prestacién 
+de 
+servicios especializados y cuya necesidad esté suficientemente justificada en 
+el marco del proyecto. 
+Software: 
+Adquisicién 
+de 
+licencias 
+de 
+software 
+especializado 
+para 
+las 
+actividades 
+de CTel 
+propias 
+del desarrollo 
+del 
+proyecto. 
+Su necesidad 
+y 
+cantidad 
+debe 
+soportarse 
+en 
+justificaciones 
+técnicas 
+detalladas. 
+No 
+se 
+considerara financiable dentro de este rubro software de uso cotidiano, como 
+por ejemplo procesadores de texto, hojas electrénicas o sistemas operativos. 
+Salidas 
+de campo: 
+Costos asociados 
+al 
+levantamiento de informacion 
+en 
+campo, desde fuentes primarias 
+o secundarias, para 
+la consecucién de los 
+objetivos del proyecto. 
+Publicaciones: 
+Costos 
+asociados 
+a 
+la 
+publicacién 
+de 
+articulos, 
+libros, 
+manuales, videos, 
+cartillas, 
+posters, 
+etc. que presenten 
+los resultados del 
+proyecto y sirvan como estrategia de divulgacién o apropiacién social de los 
+resultados de la investigacion. 
+12 
+ 
+ TODOS PORUN 
+- 
+NUEVO PAIS 
+PAZ 
+EQUIDAD 
+EDUCACION 
+}) MINTIC 
+  
+  
+e 
+Administracién: incluye los salarios del personal administrativo, materiales y 
+suministros de oficina y demas servicios generales necesarios. 
+Se reconoce 
+hasta el 10% del monto solicitado a Colciencias. 
+Rubros no financiables: 
+No sera financiable con recursos de COLCIENCIAS rubros presupuestales como: 
+e 
+El 
+personal 
+que 
+sea 
+beneficiario 
+actual 
+de 
+los 
+programas 
+“Jévenes 
+Investigadores” 
+o “Formacién de Doctorados” de COLCIENCIAS, podra ser 
+vinculado 
+a 
+las actividades 
+investigativas 
+previstas 
+para 
+la 
+ejecuciédn 
+del 
+proyecto, pero en ningun caso, podra ser financiado al mismo tiempo con los 
+recursos provenientes de COLCIENCIAS asignados 
+a este rubro, 
+en esta 
+convocatoria. 
+e 
+A través del rubro de personal, no se financiaran los derechos académicos y 
+de matricula del personal. 
+e 
+No sera financiable con recursos de COLCIENCIAS rubros presupuestales 
+como: infraestructura tecnolégica, hardware, construcciones, mantenimiento 
+de equipos e 
+infraestructura, seguros, adquisicién de vehiculos, mobiliario de 
+oficina, membresias a Sociedades Cientificas. 
+e 
+Compra de maquinas y equipo de produccién corriente. 
+e 
+Pagos de pasivos, pago de dividendos, aumento de capital de las instituciones 
+participantes. 
+e 
+Pagos 
+de 
+dividendos 
+o 
+recuperaciones 
+de 
+capital 
+de 
+las_instituciones 
+participantes. 
+e 
+Capital de trabajo para la produccién corriente. 
+e 
+\Inversiones en otras empresas 
+e 
+Inversiones en planta de producci6n a escala industrial. 
+e 
+Compra 
+de 
+acciones, 
+derechos 
+de 
+empresas, 
+bonos 
+y 
+otros 
+valores 
+mobiliarios. 
+e 
+Instalaciones llave en mano. 
+13, 
+ 
+ @ COLCIENCIAS 
+eiopale 
+MINTIC 
+PAZ 
+EQUIDAD 
+EDUCACION 
+e 
+Software de uso cotidiano como procesadores de texto, hojas electrénicas y 
+sistemas operativos. 
+Nota: Con estos recursos no se podran cubrir costos asociados a 
+la legalizacién y 
+perfeccionamiento del contrato, pdlizas o rubros diferentes a los ya mencionados. 
+  
+9. PROCEDIMIENTO DE INSCRIPCION 
+La 
+propuesta 
+con 
+todos 
+sus 
+anexos 
+debe 
+radicarse 
+en 
+la 
+ventanilla 
+de 
+correspondencia de COLCIENCIAS, en fisico debidamente foliada y una copia del 
+paquete 
+completo 
+(propuesta, 
+anexos 
+y 
+documentos 
+adjuntos) 
+toda 
+la 
+documentacion en digital (CD o DVD). 
+La propuesta debe dirigirse a: 
+Sefiores: 
+PROGRAMA NACIONAL TIC — CONVOCATORIA SALUD/GOBIERNO 2015 
+Departamento Administrativo de Ciencia, Tecnologia e Innovacién- COLCIENCIAS 
+Carrera 7B BIS # 132-28 Bogota 
+Notas: 
+1. 
+Se aceptaran Unicamente 
+los proyectos que se presenten 
+a través de 
+la 
+ventanilla de correspondencia con toda la informacion solicitada en la presente 
+convocatoria. 
+2. 
+No sera tenida 
+en cuenta 
+para 
+el proceso de evaluacién 
+y selecci6on, 
+la 
+informacién enviada en medios distintos al definido en esta convocatoria (fax, 
+correo electrénico 
+o cualquier otro), 
+ni posterior 
+a 
+la fecha 
+y hora 
+limite 
+establecida. Ver el numeral correspondiente a cronograma. 
+3. 
+Los proyectos que se reciban sin cumplir los requisitos minimos establecidos 
+en esta convocatoria, no participaran en el proceso. 
+10. CRITERIOS DE EVALUACION 
+Los criterios de evaluacién de la presente convocatoria son los siguientes: 
+  
+No. 
+Criterio 
+Puntaje 
+1 
+Plan de Negocios. 
+25 
+Z 
+Calidad del Proyecto 
+15 
+Perfil de Gerente y Equipo 
+3 
+10 
+del Proyecto 
+4 
+Caracter Innovador de la 
+10 
+  
+14 
+ 
+ @ coc 
+TODOS PORUN 
+  
+© mintic 
+  
+  
+NUEVO PAIS 
+PAZ 
+EQUIDAD 
+EDUCACION 
+No. 
+Criterio 
+Puntaje 
+Propuesta 
+5 
+Marca TI 
+10 
+6 
+Capacidad Financiera 
+10 
+7 
+Vinculacién a Modelo 
+10 
+Asociativo. 
+Modelos de Calidad 
+10 
+Implementados 
+Total 
+100 
+  
+1. 
+Plan de Negocio (25 Puntos): Se evaluara la calidad del plan, la consistencia entre 
+sus componentes 
+y 
+la 
+viabilidad 
+financiera 
+que 
+garantice 
+la 
+sostenibilidad 
+del 
+producto o servicio Tl 
+a desarrollar, una vez concluida 
+la ejecucion del proyecto. 
+Ademas se debera mostrar claramente el beneficio que obtendra(n) la(s) empresa(s) 
+beneficiaria(s) y el sector salud con la implementacion del proyecto. 
+2. 
+Calidad del Proyecto (15 Puntos): Se evaluara la coherencia entre: los objetivos, la 
+metodologia, las actividades, el presupuesto planteado, el cronograma proyectado y 
+el 
+presupuesto 
+de 
+la 
+propuesta. 
+Adicionalmente 
+se evaluara 
+la 
+claridad 
+en 
+la 
+identificaci6n 
+del problema 
+o necesidad 
+y 
+los 
+posibles impactos que genere 
+el 
+desarrollo del proyecto. 
+3. 
+Perfil del Gerente 
+y del Equipo del Proyecto (10 Puntos): Se examinaran 
+las 
+calificaciones 
+y 
+la experiencia 
+del gerente del proyecto 
+y del equipo de trabajo 
+propuesto segun lo siguientes aspectos: 
+Perfil 
+Profesional: 
+Formacion académica 
+y 
+capacitacién, 
+afios 
+de experiencia 
+y 
+cargos desempenados. 
+Experiencia Especifica: En relacién con la ejecucién de proyectos relacionados con 
+el objetivo de la propuesta 
+4, 
+Caracter 
+Innovador 
+de 
+la 
+Propuesta 
+(10 
+puntos): 
+Se 
+evaluara 
+el 
+caracter 
+innovador 
+de 
+la 
+solucién 
+propuesta 
+en 
+términos 
+de 
+generacién 
+de 
+nuevos 
+o 
+significativamente mejorados: 
+productos/servicios, procesos, modelos 
+de gestion, 
+comercializaci6n y organizacién en las entidades ejecutoras y beneficiarias. También 
+se valorara la inclusin de componentes de investigacién y desarrollo (I+D), el uso de 
+tecnologias 
+emergentes, 
+la 
+identificacion 
+de 
+mejoras 
+en 
+la 
+productividad 
+y 
+competitividad tanto de las entidades ejecutoras 
+y beneficiarias y 
+la posibilidad de 
+generar documentos de divulgacion cientifica y tecnologica. 
+ 
+ COLCIENCIAS 
+Le meyraie 
+MINTIC 
+PAZ 
+EQUIDAD 
+EDUCACION 
+5. 
+Marca TI (10 Puntos): Se valorara que la ejecutora postulante cuente con la marca 
+TI 0 se encuentre en proceso de obtenerla a la fecha de apertura de la convocatoria. 
+Dicha informacion se encuentra disponible en www.colombiati.co. 
+6. Capacidad Financiera (10 Puntos): Se evaluaran los siguientes indicadores: 
+e 
+Utilidad Neta 20 
+e 
+El indice de liquidez 
+LIQ. = AC 
+/ PC 
+21,0 
+Donde, 
+LIQ. = indice de liquidez. 
+AC = Activo corriente. 
+PC = Pasivo corriente. 
+e 
+El nivel de endeudamiento 
+NE = PT/AT $0,70 
+Donde, 
+NE = Nivel de endeudamiento. 
+PT = Pasivo total. 
+AT = Activo total. 
+7. Vinculacion 
+a Modelo Asociativo 
+(10 
+Puntos): 
+Se valorara 
+que 
+la 
+ejecutora 
+postulante haga parte de algun gremio 
+o 
+iniciativa de asociatividad empresarial, 
+legalmente constituida y relacionada con la industria de TI, por ejemplo: FEDESOFT, 
+CETICS, ALIANZA SINERTIC, 
+KARION, NETWORKIT, CARIBETIC, 
+PACIFITIC, 
+INTERSOFTWARE, CLUSTER TI de la Camara de Comercio de Bogota, etc. 
+8. Modelos de Calidad Implementados (10 Puntos): Se evaluara que 
+la ejecutora 
+cuente con alguna certificacion de un modelo de gestion de calidad relacionado con 
+la industria de TI por ejemplo: ISO / 27001-2, CMMi development, ISO 14000, CMMi 
+services, NIIF, COBIT, ISO 
+/ IEC 20.000, TOGAF, SLAs, IT Mark, COPC 
+- PSIC — 
+eTOM, PCI, SOX — GLBA COMPLIANCE, eSCM, IAOP, LEED, Val iT, S&OP 
+/ IBP, 
+NPS, MPSBR, MOprosoft, ISO/IEC 29110 entre otras. 
+11. PROCESO DE EVALUACION 
+Los 
+proyectos 
+inscritos 
+dentro 
+de 
+los 
+plazos 
+establecidos 
+para 
+la 
+presente 
+convocatoria que cumplan con los requisitos minimos, seran evaluados por personal 
+experto seleccionado por COLCIENCIAS-MINTIC, teniendo en cuenta los criterios de 
+evaluacion descritos en el numeral 9. 
+16 
+ 
+ ~~ 
+@ coLciencias 
+TODOS POR UN 
+@ COLCIENCIAS 
+NUEVO PAIS 
+© mintic 
+PAZ 
+EQUIDAD 
+EDUCACION 
+En caso de empate, se tendra en cuenta aquel proyecto que presente un mayor 
+puntaje en 
+el criterio “Plan de negocios”; de mantenerse 
+el empate se tendra en 
+cuenta aquel proyecto que presente un mayor puntaje en 
+el criterio “Calidad 
+del 
+Proyecto”. 
+De mantenerse 
+el empate, 
+se tendra en cuenta aquel proyecto que 
+presente un mayor puntaje en el criterio “Perfil de Gerente y Equipo del Proyecto”. De 
+mantenerse el empate, se tendra en cuenta aquel proyecto que presente un mayor 
+puntaje 
+en 
+el 
+criterio “Caracter Innovador de 
+la Propuesta’. 
+De mantenerse 
+el 
+empate, se tendra en cuenta aquel proyecto que presente un mayor puntaje en 
+el 
+criterio “Marca TI’. De mantenerse el empate, se tendra en cuenta aquel proyecto 
+que presente un mayor puntaje en el criterio “Capacidad Financiera”. De mantenerse 
+el empate, se tendra en cuenta aquel proyecto que presente un mayor puntaje en el 
+criterio “Vinculacién Modelo Asociativo”. Finalmente, De mantenerse el empate, se 
+tendra 
+en cuenta aquel proyecto que presente 
+un mayor puntaje 
+en 
+el 
+criterio 
+“Modelos de Calidad Implementados’. 
+Toda informacién proporcionada es de caracter confidencial y no sera utilizada para 
+ningun 
+fin diferente 
+a 
+la realizacién de 
+la evaluacién. 
+Los expertos evaluadores 
+estaran cobijados por clausulas de confidencialidad y de no conflicto de interés. 
+Asi 
+mismo el resultado de las evaluaciones como los puntajes obtenidos en las mismas, 
+guardan estricto caracter confidencial. 
+De acuerdo con 
+el CRONOGRAMA de 
+la convocatoria, se concedera un término 
+para solicitar aclaraciones y/o modificaciones a la publicaci6n preliminar del banco de 
+elegibles, una vez éstas sean resueltas, se procedera a 
+la publicacién del banco 
+definitivo de proyectos elegibles. 
+Nota: 
+COLCIENCIAS 
+y 
+MINTIC, 
+se 
+reservan 
+el 
+derecho 
+a 
+solicitar ajustes 
+sobre 
+la 
+propuesta presentada ya sea en 
+el presupuesto 
+o en 
+el contenido técnico. Estas 
+solicitudes de ajustes seran el resultado del proceso de evaluaci6n. 
+12. BANCO DE ELEGIBLES 
+Los resultados de la convocatoria se publicaran en la pagina web de COLCIENCIAS 
+(www.colciencias.gov.co) en las fechas establecidas en el CRONOGRAMA. 
+Las propuestas se calificaran en una lista en orden descendente de mayor a menor 
+acorde 
+con 
+la 
+calificacién 
+obtenida. 
+El 
+puntaje 
+minimo 
+para 
+la 
+declaracién 
+de 
+elegibilidad, sera de setenta (70) puntos. 
+17 
+ 
+ TODOS PORUN 
+— 
+NUEVO PAIS 
+PAZ 
+EQUIDAD 
+EDUCACION 
+®) MINTIC 
+  
+Las propuestas que igualen o superen setenta (70) puntos ingresaran al banco de 
+elegibles 
+y 
+se asignaran 
+los 
+recursos 
+hasta 
+su agotamiento 
+en 
+estricto orden 
+descendenie. 
+La vigencia del banco de elegibles es de un afio a partir de su publicacion definitiva. 
+La inclusién de un proyecto en 
+el banco de elegibles, no implica obligatoriedad 
+ni 
+compromiso alguno de COLCIENCIAS o de MINTIC, de asignar recursos, 
+ni genera 
+derecho a recibir apoyos econdmicos para quienes hayan presentado los proyectos 
+correspondientes. 
+Notas: 
+1. 
+Surtida 
+la 
+publicaci6n 
+definitiva 
+del 
+Banco 
+de 
+Elegibles, 
+COLCIENCIAS 
+informara 
+mediante comunicacién escrita 
+o electrénica 
+a los proponentes, 
+cuyos proyectos resultaron beneficiados 
+y seran financiados, indicando las 
+instrucciones y condiciones para suscribir el contrato. 
+A partir de la fecha de 
+comunicaci6én, se contaran quince (15) dias calendario como plazo maximo 
+para 
+que 
+el 
+beneficiario 
+remita 
+a 
+COLCIENCIAS 
+la 
+totalidad 
+de 
+los 
+requerimientos para 
+la contratacioén. Vencido 
+el término, en caso de que 
+el 
+beneficiario no haya remitido la documentacién respectiva, se entendera que 
+desiste de 
+su 
+interés 
+por contratar con COLCIENCIAS 
+y 
+se procedera 
+a 
+financiar el siguiente proyecto del Banco de Elegibles. 
+2. 
+Una vez remitida la minuta del contrato a la entidad, se indicara el plazo para 
+devolverla firmada. Vencido dicho término, 
+si 
+el beneficiario 
+no 
+remite 
+el 
+contrato firmado, se entendera que desiste de su interés para contratar y se 
+procedera 
+a seleccionar el siguiente proyecto, en orden descendente de 
+la 
+lista del Banco de Elegibles. 
+13. ACLARACIONES 
+Una 
+vez 
+publicados 
+los 
+resultados 
+preliminares 
+del 
+banco 
+de 
+elegibles, 
+los 
+interesados podran presentar solicitudes 
+de aclaraciones 
+y comentarios 
+por 
+un 
+periodo de tres (3) dias habiles. Por fuera de este término se considera que las 
+reclamaciones son extemporaneas y no seran atendidas. 
+Las peticiones 
+y reclamaciones se deben presentar exclusivamente 
+a través 
+del 
+correo electrénico contacto@colciencias.gov.co, con el asunto “Convocatoria Salud — 
+TI - 2015”. 
+ 
+ COLCIENCIAS 
+ecaeaie 
+MINTIC 
+PAZ 
+EQUIDAD 
+EDUCACION 
+Notas: Se recibiran solicitudes de aclaraciones, dudas, inquietudes y comentarios a 
+los 
+términos 
+de 
+referencia 
+hasta 
+15 
+dias 
+calendario 
+antes 
+del 
+cierre 
+de 
+la 
+convocatoria. 
+  
+14. CRONOGRAMA 
+ACTIVIDAD 
+FECHA LIMITE 
+Apertura de la convocatoria 
+30 de abril de 2015 
+| 12 de agosto de 2015 
+Cierre de la convocatoria 
+| 17:00 hora colomibiana' 
+Publicacion del banco 
+preliminar de 
+i 
+elegibles 
+p 
+22 de septiembre de 2015 
+{ 
+Perjodo de solicitud de aclaraciones del 
+_ 
+. 
+banco preliminar de elegibles 
+Del 23 al 25 de septiembre de 2015 
+Respuesta a solicitud de aclaraciones 
+Del 28 al 30 de septiembre de 2015 
+Publicaci6n banco definitivo de 
+proyectos elegibles 
+| 8 de octubre de 2015 
+15. PROPIEDAD INTELECTUAL 
+En el evento en que se llegaren a generar derechos de propiedad intelectual sobre 
+los resultados que se obtengan o se pudieran obtener en el marco del desarrollo del 
+contrato 0 convenios que se llegasen a suscribir, 
+la titularidad sobre los mismos se 
+regira por 
+lo establecido en 
+el articulo 
+31 
+de 
+la Ley 1450 de 2011, Articulo 
+31 
+DERECHOS 
+DE 
+PROPIEDAD 
+INTELECTUAL 
+DE 
+PROYECTOS’- 
+DE 
+INVESTIGACION 
+FINANCIADOS 
+CON 
+RECURSOS 
+DEL 
+PRESUPUESTO 
+NACIONAL. 
+En 
+el 
+caso 
+de 
+proyectos 
+de 
+Ciencia, 
+Tecnologia 
+e 
+Innovacion 
+adelantados con recursos del presupuesto nacional, 
+el Estado salvo motivos de 
+seguridad y defensa nacional, cedera a las partes de la propuesta los derechos de 
+propiedad 
+intelectual 
+que 
+puedan 
+corresponderle, 
+segun 
+se 
+establezca 
+en 
+el 
+convenio. 
+En consecuencia respecto 
+a esta clase de derechos, COLCIENCIAS 
+- 
+MINTIC 
+limitaran 
+su intervencion 
+a verificar, 
+de conformidad con 
+criterios de equilibrio 
+y 
+equidad, 
+el acuerdo que deben celebrar las partes de la propuesta sobre titularidad 
+de derechos de propiedad intelectual. 
+‘ GMT-5. Bogota time 
+ 
+ ~ @)coLciencias 
+TODOS PORUN 
+—=—= 
+NUEVO PAIS 
+PAZ 
+EQUIDAD 
+EDUCACION 
+  
+Sin perjuicio de los derechos de propiedad intelectual, los resultados y productos de 
+la ejecucién de 
+los convenios resultantes de 
+la presente invitacion, podran 
+ser 
+divulgados por COLCIENCIAS - MINTIC. 
+Nota: 
+1. 
+En 
+cualquier 
+evento 
+o 
+medio 
+de 
+divulgacién 
+utilizado 
+para 
+difundir 
+los 
+resultados del proyecto se debera dar el respectivo crédito a COLCIENCIAS 
+y 
+MINTIC incluyendo la imagen institucional de las dos instituciones. 
+16. VEEDURIAS CIUDADANA 
+  
+Las veedurias ciudadanas establecidas en la ley 850 de 2003, podran desarrollar su 
+actividad 
+durante 
+la 
+presente 
+convocatoria, 
+conforme 
+a 
+lo 
+estipulado 
+en 
+dicha 
+normativa. 
+17. ANEXOS 
+Anexo 
+1 
+- Antecedentes 
+Anexo 2 - Formato de Presentacién del Proyecto 
+Anexo 3 - Formato Carta de Experiencia de la empresa TI 
+Anexo 4 - Carta unificada de aval y compromiso institucional (Tipo 
+II con Alianza 
+Estratégica) 
+Anexo 5 - Registro de experiencia del acompanante 
+Anexo 6 - Plan de Accién 
+Anexo 7 - Autorizacion uso y almacenamiento de datos personales 
+18. ACEPTACION DE TERMINOS Y VERACIDAD 
+Con 
+la 
+inscripcién, 
+los 
+interesados 
+aceptan 
+las 
+caracteristicas, 
+requisitos 
+y 
+condiciones de 
+la presente convocatoria asi como 
+lo dispuesto en 
+los presentes 
+términos de referencia para el desarrollo de la misma y para la entrega del beneficio. 
+De igual forma declaran que la informacion suministrada es veraz y corresponde a la 
+realidad. 
+En 
+caso 
+de 
+encontrarse 
+alguna 
+incoherencia 
+e 
+inconsistencia 
+en 
+la 
+informacién 
+o 
+documentacién 
+suministrada, 
+COLCIENCIAS 
+podra 
+en 
+cualquier 
+momento rechazar la postulacién o si es del caso declarar la pérdida del beneficio, 
+sin perjuicio de las acciones legales correspondientes. 
+20 
+ 
+ COLCIENCIAS 
+HUEY PAIS 
+MINTIC 
+PAZ 
+EQUIDAD 
+EDUCACION 
+Los 
+proponentes 
+aceptan 
+sin 
+condicionamiento 
+alguno 
+la 
+existencia 
+de 
+una 
+obligacion solidaria en relacién con la presentacion de la propuesta, la suscripcion y 
+legalizaci6n del contrato, asi como de su cumplimiento y liquidacién (responsabilidad 
+solidaria 
+en 
+las 
+fases 
+pre-contractual, 
+contractual 
+y 
+post-contractual). 
+Los 
+proponentes 
+mantendran 
+los términos 
+de 
+la 
+propuesta 
+durante 
+el 
+desarrollo 
+y 
+ejecucién de la misma y no podran ser modificados sin el consentimiento previo de 
+COLCIENCIAS 
+y 
+el Ministerio TIC. 
+De igual manera, 
+los miembros de 
+la alianza 
+estratégica que presentan el proyecto, deben designar la persona que, para 
+todos 
+los efectos, hara su representacién y sefalaran las reglas basicas que regulen las 
+relaciones 
+entre 
+ellos 
+y 
+su responsabilidad. 
+Para 
+la existencia de 
+la obligacion 
+solidaria solamente sera necesario que la oferta se presente en forma conjunta, en 
+consecuencia no se requiere que se refiera a esta circunstancia de manera expresa. 
+19. MAYOR INFORMACION 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E 
+INNOVACION 
+- COLCIENCIAS — 
+Carrera 7 B Bis No. 132-28, Bogota D.C. 
+http:/Awww.colciencias.gov.co 
+Centro de Contacto 
+Teléfono: (+57 - 1) 6258480 Extension 2081 
+Linea gratuita nacional: 018000 914446 
+En caso de inquietudes o comentarios sobre la presente convocatoria, favor enviar 
+un 
+correo 
+electronico 
+con 
+el 
+asunto 
+“Convocatoria 
+Salud 
+Tl 
+2015” 
+al 
+correo 
+contacto@colciencias.gov.co. 
+ALEJANDRO OLAYA DAVILA 
+Subdirector General Colciencias 
+   
+i) 
+| 
+Vo.Bo. Director Té 
+aq 
+Vo.Bo. Secretaria Ge! eral” 
+21 
+ 
+ COLCHENCIAS 
+ca 
+mata 
+MINTIC 
+PAZ 
+EQUIDAD 
+EDUCACION 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E 
+INNOVACION 
+- COLCIENCIAS - 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS 
+DE TECNOLOGIAS DE LA INFORMACION PARA EL SECTOR DE SALUD EN 
+COLOMBIA - 2015 
+  
+ANEXO 1 — ANTECEDENTES 
+La estrategia de Fortalecimiento de la Industria de Tecnologias de Informacion 
+- 
+FITI del Ministerio de Tecnologias de Informacioén y Comunicaciones - MINTIC, es 
+la estrategia de 
+la 
+Direccién 
+de 
+Politicas 
+y Desarrollo 
+Tl, 
+y su 
+propdsito 
+es 
+contribuir a la transformacion de la industria de Tecnologias de la Informacion -T.1- 
+. en un sector competitivo, 
+a través de 
+la dinamizacién de diferentes lineas de 
+acci6n que conforman un modelo integral y sistémico. 
+La 
+industria 
+T.|. 
+esta conformada por 
+la 
+Industria de Software, Empresas de 
+Hardware 
+y 
+Servicios asociados 
+a 
+las Tecnologias 
+de 
+Informacién. 
+Para 
+su 
+fortalecimiento 
+es 
+necesario 
+el 
+desarrollo 
+de 
+las 
+siguientes 
+dimensiones 
+estratégicas: 
+Visidn estratégica del 
+sector Tl. 
+| 
+    
+   
+    
+Talento Humano a 
+s 
+Normatividad “""""""" @ 
+  
+= 6 Dei 
+y 
+Emprendimiento y 
+eal 
+= fortalecimiento 
+empresarial 
+Infraestructura 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 1 de 3 
+ 
+ TODOS POR UN 
+EX 
+NUEVO PAIS 
+MINTIC 
+PAZ 
+EQUIDAD 
+EDUCACION 
+  
+e 
+Vision Estratégica del Sector: Dimension orientada a establecer un norte 
+para la industria Tl, a través de estudios y estrategias que orienten a todos 
+los 
+actores 
+involucrados, 
+a 
+trabajar 
+articuladamente 
+bajo 
+la 
+misma 
+direccion. 
+e 
+Investigacion, 
+Desarrollo 
+e 
+Innovacion: En 
+esta 
+linea 
+de 
+accién 
+se 
+pretende promover 
+ejercicios 
+de 
+investigacién, 
+desarrollo 
+e 
+innovacién 
+articulando academia, empresa, estado y clusters. 
+e 
+Calidad: Dimension con 
+la cual se promueve la adopcién de modelos de 
+calidad globalmente reconocidos por parte de 
+las empresas que hacen 
+parte de la Industria TI. 
+e 
+Normatividad: Dimension en la que se trabaja para formular y gestionar la 
+implementacioén 
+de normas que permitan 
+incentivar 
+a 
+la 
+industria 
+Tl, 
+a 
+manera de marco normativo competitivo. 
+e 
+Asociatividad: En 
+esta 
+dimensidn 
+se 
+busca 
+fortalecer 
+modelos 
+de 
+colaboracién 
+para que 
+se generen sinergias estratégicas que permitan 
+incrementar la competitividad del sector. 
+e 
+Infraestructura: Impulsar 
+el 
+desarrollo 
+de 
+estudios 
+de 
+viabilidad 
+para 
+implementacion de infraestructura apta y pertinente a las tendencias, para 
+fomento a 
+la industria TI. 
+e 
+Talento Humano: Dimension 
+en 
+la 
+que 
+se 
+articulan 
+esfuerzos 
+con 
+la 
+academia 
+y 
+el sector empresarial, 
+para 
+el disefio 
+e implementacion de 
+programas de formacién ajustados a las necesidades de la industria TI. 
+e 
+Emprendimiento 
+y 
+fortalecimiento 
+empresarial: |Implementacion 
+de 
+estrategias especializadas para 
+la industria de tecnologias de informacién 
+que dinamicen la creacién de nuevas empresas innovadoras en el sector. 
+VISION ESTRATEGICA DEL SECTOR 
+Una de las lineas de accién para dinamizar el fortalecimiento del sector TI, es la 
+denominada “Vision estratégica del Sector” én la que se busca que la industria T| 
+se especialice en segmentos de mercado especificos, buscando sustituir el clasico 
+modelo de negocios de desarrollo a la medida para pasar a contar con modelos de 
+negocio con alto valor agregado, acorde con los potenciales endogenos de las 
+regiones. 
+Cra. 7b Bis 
+# 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 2 de 3 
+ 
+ @ COLCIENCIAS 
+TODOS PORUN 
+NUEVO PAIS 
+PAZ 
+EQUIDAD 
+EDUCACION 
+}) MINTIC 
+  
+Para este fin, COLCIENCIAS en alianza con MINTIC adelantaron un proyecto de 
+consultoria 
+para 
+establecer 
+los segmentos 
+de 
+mercado 
+a 
+los 
+que deberian 
+orientarse esfuerzos desde las regiones priorizadas para potencializar la industria 
+TI del pais. Los resultados fueron los siguientes: 
+e 
+En 
+Antioquia 
+se 
+identificO 
+que 
+habian 
+capacidades 
+para 
+desarrollar 
+Tecnologias de informacion (TI), para el sector energia. 
+e 
+En 
+Eje Cafetero 
+se 
+identificaron capacidades 
+para 
+desarrollar 
+Tl 
+para 
+bioinformatica. 
+e 
+En los Santanderes se identificaron capacidades para desarrollar T| para el 
+sector hidrocarburos. 
+e 
+En Cundinamarca se identificaron capacidades para desarrollar Tl para el 
+sector banca y finanzas. 
+e 
+En Valle del Cauca se identificaron capacidades para desarrollar TI para el 
+sector de agroindustria. 
+e 
+En la region caribe se identificaron capacidades para desarrollar TI para el 
+sector de logistica y transporte. 
+e 
+Asi mismo, se identificaron capacidades en general en el territorio nacional 
+para desarrollar TI en los sectores de salud, turismo y gobierno. 
+Por 
+su 
+parte, 
+el 
+DEPARTAMENTO 
+ADMINISTRATIVO 
+DE _ 
+CIENCIA, 
+TECNOLOGIA E INNOVACION — COLCIENCIAS tiene como meta para el 2018, 
+apoyar 11 mil nuevas empresas en la implementacién de métodos y herramientas 
+para la gestion de la innovacién. 
+En este sentido, la presente convocatoria influye 
+considerablemente en la consecuci6én de dicha meta ya que se amplia el portafolio 
+de productos y servicios innovadores de la industria TI al servicio de un mercado 
+especifico como es el de salud. 
+La alianza Colciencias 
+- MinTIC a través del convenio 768/543-2013, adelantara 
+acciones orientadas 
+al cumplimiento de 
+las metas dispuestas tanto en 
+el plan 
+estratégico de COLCIENCIAS, como del Plan Vive Digital 2014-2018 del MINTIC. 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 3 de 3 
+ 
+ ~ @SOLCENcas 
+TODOS PORUN 
+= 
+NUEVO PAis 
+MINTIC 
+PAZ 
+EQUIDAD 
+EDUCACION 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS - 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS DE 
+TECNOLOGIAS DE LA INFORMACION PARA EL SECTOR DE SALUD EN 
+COLOMBIA - 2015 
+  
+ANEXO 2 —- FORMATO DE PRESENTACION DEL PROYECTO 
+  
+INFORMACION GENERAL DEL PROYECTO 
+  
+TITULO DEL 
+PROYECTO 
+  
+  
+ENTIDAD EJECUTORA 
+  
+ENTIDAD(ES) BENEFICIARIA(S) 
+  
+ENTIDAD ACOMPANANTE 
+  
+DURACION DEL PROYECTO 
+(MESES) 
+  
+COSTO TOTAL DEL PROYECTO 
+  
+MONTO SOLICITADO 
+  
+MONTO TOTAL DE LA 
+CONTRAPARTIDA 
+  
+DISTRIBUCION DE LA 
+En Efectivo 
+En Especie 
+  
+CONTRAPARTIDA 
+  
+  
+  
+Lugar de ejecucion del 
+Ciudad 
+Departament 
+proyecto 
+°o 
+  
+  
+  
+  
+  
+  
+  
+GERENTE GENERAL 
+Empresa / Institucion 
+Cargo 
+  
+DEL PROYECTO 
+  
+  
+  
+  
+  
+ 
+   
+INFORMACION DE LA ENTIDAD EJECUTORA 
+  
+Nombre o Razon Social 
+  
+  
+NIT 
+  
+Matricula 
+Camara 
+Comercio 
+de 
+Fecha 
+  
+Constitucion 
+de 
+  
+  
+Activos Totales 
+del ultimo afio 
+Numero 
+Empleados 
+  
+de 
+  
+  
+Ventas 
+Totales 
+en el ultimo afio 
+  
+  
+Exporta actualmente? 
+SiO 
+Noo 
+  
+Paises destino 
+de 
+las 
+exportaciones 
+  
+Tipo 
+de 
+contribuyente: 
+  
+Direccién 
+  
+Teléfono 
+Fax 
+  
+E-Mail 
+  
+  
+Web-Site 
+  
+AA. 
+  
+  
+Ciuda 
+  
+Departament 
+oO 
+  
+Representante legal 
+  
+Numero de 
+Identificacion 
+De (Ciudad) 
+  
+  
+  
+  C.C. 
+oO 
+Cédula de Extranjeria 
+oO 
+Pasaporte 
+oO 
+  
+Sector econdmico al que 
+pertenece la empresa beneficiaria 
+  
+Principales productos 0 servicios 
+generados por la empresa 
+beneficiaria 
+Producto 0 Servicio 
+Cédigo CIlU 
+  
+  
+  
+Gerente del Proyecto 
+  
+  
+  
+  
+Cargo 
+Teléfono 
+Fax 
+Direccién 
+Ciudad 
+  
+  
+  
+  
+E-Mail 
+  
+  
+  
+  
+  
+ 
+   
+INFORMACION DE LA ENTIDAD BENEFICIARIA 
+  
+NOMBRE O RAZON 
+SOCIAL 
+  
+  
+NIT 
+  
+  
+Matricula 
+Camara de 
+Comercio 
+  
+Fecha de 
+Constituci6n 
+  
+  
+Tipo de Entidad: 
+Publica L] 
+Privada [_] 
+Mixta L] 
+  
+Numero de 
+empleados: 
+  
+Activos totales 
+(para entidades 
+de salud): 
+  
+Direccion 
+  
+Teléfono 
+Fax 
+  
+E-mail 
+Web-site 
+  
+  
+AA. 
+  
+Ciudad 
+  
+  
+Departamento 
+  
+  
+  
+Representante legal 
+  
+  
+Numero de 
+[De (Ciudad) 
+| 
+  
+  
+identificacién 
+c.c. L] 
+Cédula de Extranjeria [_] 
+  
+Objeto Social de la Beneficiaria 
+  
+Gerente del Proyecto de la entidad 
+  
+  
+  
+  
+  
+  
+  
+  
+Beneficiaria 
+Cargo 
+Teléfono 
+Fax 
+Direccién 
+Ciudad 
+E-Mail 
+  
+  
+  
+  
+  
+  
+Pasaporte |_| 
+ 
+   
+INFORMACION DE LA ENTIDAD ACOMPANANTE 
+  
+NOMBRE DEL GRUPO 
+DE INVESTIGACION 
+  
+Cédigo del grupo 
+  
+Categoria (la obtenida en la 
+convocatoria 693-2014) 
+  
+Tipo de Entidad 
+la que | Institucién de Educacion Superior |_| Centro de Investigacién [_]Centro 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+pertenece el grupo 
+de desarrollo tecnolégico [_] Empresa L_] 
+Manioula 
+Fecha de 
+NIT 
+Camara de 
+ae 
+. 
+Constitucion 
+. 
+Comercio 
+Tipo de Entidad: 
+| Publical_] 
+Privadal_] 
+Mixta (] 
+Direccién 
+Teléfono 
+Fax 
+E-mail 
+Web- 
+site 
+AA. 
+Ciudad 
+Departamento 
+Representante legal 
+Numero de 
+| De (Ciudad) 
+| 
+identificacion 
+c.c. LJ 
+Cédula de Extranjeria [_] 
+Pasaporte [_] 
+Nombre del 
+lider del 
+grupo 
+Cargo 
+Teléfono 
+Fax 
+Direccién 
+Ciudad 
+E-Mail 
+  
+  
+  
+  
+  
+ 
+ TODOS PORUN 
+NUEVO PAIS 
+PAZ 
+EQUIDAD 
+EDUCACION 
+5) MINTIC 
+  
+  
+  
+  
+DESCRIPCION DEL PROYECTO 
+  
+  
+1TITULO DEL PROYECTO 
+2RESUMEN EJECUTIVO DEL PROYECTO 
+Describa en maximo 1 pagina el alcance del proyecto a presentar. 
+3 PLANTEAMIENTO DEL PROBLEMA 
+Describa delimitada y claramente la problematica o necesidad identificada y que 
+motiva el desarrollo del proyecto. Para una mejor comprensién puede emplear 
+estadisticas y una linea base que argumente desde lo cuantitativo el problema o 
+necesidad a resolver. 
+4ANTECEDENTES 
+Especificar si 
+el proyecto 
+ha 
+tenido 
+fases 
+anteriores 
+y cuales han 
+sido 
+los 
+resultados, cuantos recursos se han invertido y cuales han sido sus fuentes de 
+financiacién. Asi mismo 
+describir las soluciones informaticas existentes en 
+el 
+mercado, similares a la propuesta, indicando las ventajas respectivas. 
+5JUSTIFICACION 
+Factores que hacen necesario y pertinente la realizacién del proyecto. 
+6ESTADO DEL ARTE 
+Revision actual de la tematica en el contexto nacional e internacional, avances, 
+desarrollos y tendencias, en cuya elaboracién se pueden tener en cuenta estudios 
+de prospectiva y vigilancia tecnoldgica. 
+7OBJETIVOS DEL PROYECTO 
+7.1.1 
+OBJETIVO GENERAL 
+Enunciado que 
+define 
+de manera concreta 
+el planteamiento 
+del problema 
+o 
+necesidad y se inicia con un verbo en modo infinitivo, es medible, alcanzable y 
+conlleva a una meta. 
+ 
+ 7.1.2 
+OBJETIVOS ESPECIFICOS 
+Enunciados que dan cuenta de 
+la secuencia ldgica para alcanzar el objetivo 
+general del proyecto. No debe confundirse con las actividades propuestas para dar 
+alcance a los objetivos (ej. Tomar muestras en diferentes localidades de estudio); 
+ni con 
+el alcance 
+de 
+los productos esperados 
+(ej. Formar un estudiante 
+de 
+maestria). 
+8METODOLOGIA 
+Describa de forma organizada y precisa, cOmo se desarrollara y alcanzara 
+el 
+objetivo general y cada uno de los objetivos especificos del proyecto, presentando 
+los componentes del mismo y las actividades para el logro de ésios. 
+S9TRAYECTORIA 
+Y 
+ CAPACIDAD 
+EN 
+DESARROLLO 
+TECNOLOGICO 
+E 
+INNOVACION 
+DE 
+LAS 
+INSTITUCIONES 
+PARTICIPANTES 
+(BENEFICIARIA(S), 
+EJECUTORA, ACOMPANANTE(S)) 
+Describa la trayectoria de las entidades que participan en el proyecto, resaltando 
+las experiencias especificas para la modalidad y tematica a la cual postulan el 
+proyecto. 
+INVESTIGACION, 
+10 EQUIPO DE TRABAJO DEL PROYECTO 
+Relacionar 
+los 
+integrantes 
+del 
+proyecto, 
+describiendo 
+ef 
+rol 
+y 
+el 
+tipo 
+de 
+responsabilidades dentro del proyecto. Es indispensable incluir un organigrama del 
+personal del proyecto. 
+  
+  
+  
+  
+  
+. 
+ANOS DE 
+DESCRIPCION 
+NOMBREDELA | TMULO | rosrerano | expeniciecin | SENERALDE | GOLEM 
+EL 
+EXPERIENCIA 
+XX 
+XXXX 
+XX 
+= 
+ae 
+mK 
+xX 
+XXXX 
+XX 
+XX 
+XX 
+XX 
+xX 
+XXXX 
+XX 
+XX 
+XX 
+XX 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 11 
+RESULTADOS/PRODUCTOS ESPERADOS 
+Identificar los resultados del proyecto, los productos, servicios o procesos en las 
+necesidades identificadas. 
+12 
+IDENTIFICACION Y CARACTERIZACION DE LA INNOVACION 
+PROPUESTA 
+Describa 
+las 
+caracteristicas 
+innovadoras 
+del proyecto 
+o 
+de 
+la 
+tecnologia 
+a 
+desarrollar, en cuanto a procesos, productos, prestacién de servicios y/o gestion. 
+Explique el valor agregado en conocimiento 0 know-how generado en el proyecto 
+o ef esfuerzo tecnoldgico que hace a la beneficiaria, la ejecutora y el sector. 
+13 
+PLAN DE NEGOCIOS 
+Con el objetivo de generar la posibilidad de comercializacion del producto que se 
+obtenga del desarrollo del proyecto, 
+se hace necesario contemplar un plan de 
+negocio 
+que 
+permita 
+evidenciar 
+la 
+existencia 
+de 
+soluciones 
+frente 
+a 
+las 
+necesidades identificadas en el sector de salud en Colombia. En ese sentido la 
+propuesta debera demostrar cémo se ha disefiado la disponibilidad del producto 
+para 
+la solucién de las necesidades expuestas, para 
+ello, 
+se debera utilizar el 
+modelo CANVAS, detallando en profundidad cada uno de sus componentes, los 
+cuales se muestran 
+a continuacién: (Para 
+tal 
+fin, 
+consultar las fuentes que se 
+consideren necesarias). 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Estructura de costes 
+€ 
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+ 
+ 14 CRONOGRAMA 
+Distribucién de actividades mensuales de ejecucién del proyecto. Asociar a cada 
+actividad el o los objetivos (numerados) relacionados con éstos. 
+No. 
+Actividad 
+Inicio | Final | Ejecucion 
+Actividad 
+en 
+meses 
+meses 
+  
+15 IMPACTOS ESPERADOS 
+Describir los impactos 
+del proyecto 
+de acuerdo 
+con 
+los siguientes 
+tipos 
+de 
+impactos: (Los que apliquen) 
+Impacto cientificos y tecnolégicos 
+Impacto sobre medio ambiente y la sociedad 
+Impacto sobre la productividad y competitividad de la entidad beneficiaria 
+o el 
+sector relacionado 
+Impacto ciencia y tecnologia 
+Impacto en el conocimiento del campo de estudio 
+Impacto en la calidad de vida de la poblacion 
+Impacto en las politicas publicas 
+16 CERTIFICACION DE CALIDAD DE LA EJECUTORA 
+Describa 
+las 
+certificaciones 
+de 
+calidad 
+que 
+tiene 
+la 
+empresa. 
+Adjunte 
+los 
+certificados correspondientes utilizando la opcidn “otros adjuntos”. 
+17 MODELO ASOCIATIVO DE LA EJECUTORA 
+Describa el gremio o 
+iniciativa de asociatividad a la que pertenece. Adjunte los 
+certificados correspondientes utilizando la opcion “otros adjuntos”. 
+  
+  
+ 
+   
+  
+  
+  
+  
+  
+  
+Ros mete MMP)EEI NET TAR hdke) EEE T=) 
+_ 
+’ 
+  
+IILNIN 
+@) 
+OT 
+Nie 
+SVIDNAID109 
+iy 
+VdOLndara 
+OLSANdNSAYd 
+8b 
+Nolovanaa avainda 
+zvd 
+S]Wd OAZNN 
+SvDNaID103 @ 
+: 
+  
+  
+ 
+ TODOS POR UN 
+NUEVO PAIS 
+PAZ 
+EQUIDAD 
+EDUCACION 
+  
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION - 
+COLCIENCIAS- 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS DE 
+TECNOLOGIAS DE LA INFORMACION PARA EL SECTOR DE SALUD EN 
+COLOMBIA - 2015 
+  
+ANEXO 3 —- CARTA DE EXPERIENCIA DE LA EMPRESA TI 
+A continuaci6n se presenta el modelo de carta de certificacién de la experiencia con la 
+que cuenta la empresa TI: 
+(Ciudad), (Dia) de (Mes) de 201_ 
+Sefiores 
+COLCIENCIAS 
+Carrera 7B Bis No. 132 — 28 
+Bogota D.C. 
+Asunto: Certificacién de la experiencia de (Nombre de la empresa de Tl) 
+Respetados sefores, 
+Por medio de la presente yo NOMBRE DEL REPRESENTANTE LEGAL, identificado 
+con cédula de ciudadania numero (Numero de identificacién), como Representante 
+Legal de (Nombre de la empresa de TI), certifico que la empresa mencionada cumple 
+con los requisitos de experiencia minima exigida en el marco de la convocatoria para 
+conformar un banco de proyectos de soluciones innovadoras de TI en el sector de salud 
+de Colombia. 
+A continuacion se relaciona la experiencia de la empresa: 
+  
+  
+  
+  
+NOMBRE 
+OBJETO | DURACIO | VALO | FECH | TEMATIC 
+SOcio- 
+DEL 
+DEL 
+NEN 
+R 
+A DE 
+AY 
+ALIADO- 
+PROYECT | CONTRAT | MESES 
+INICIO | SECTOR | CONTRATIST 
+oO 
+oO 
+/ 
+A 
+FINAL 
+XX 
+XX 
+XX 
+$ XX 
+XX 
+XX 
+XX 
+XX 
+XX 
+XX 
+$ XX 
+XX 
+XX 
+XX 
+  
+  
+  
+  
+  
+  
+  
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 1 de 2 
+  
+ 
+ ; 
+TODOS POR UN 
+a 
+@ COLCIENCIAS 
+7 
+NUEVO PAIS 
+© mintic 
+PAZ 
+EQUIDAD 
+EDUCACION 
+  
+XX 
+XX 
+XX 
+$ XX 
+XX 
+XX 
+XX 
+  
+  
+  
+  
+  
+  
+  
+  
+TOTAL 
+XX 
+$ XX 
+  
+Para verificacién de la experiencia descrita anteriormente, se anexan las certificaciones 
+y/o contratos correspondientes. 
+Nota: Las propuestas que no cumplan con la experiencia minima solicitada, sera 
+motivo para que la propuesta sea evaluada como RECHAZADA. 
+Cordialmente, 
+FIRMA 
+NOMBRE DEL REPRESENTANTE LEGAL DE EMPRESA TI 
+C.C. 
+Direccion 
+Teléfono 
+e-Mail 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 2 de 2 
+  
+ 
+ COLCIENCIAS 
+ETO PAIS 
+MINTIC 
+PAZ 
+EQUIDAD 
+EDUCACION 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E 
+INNOVACION - COLCIENCIAS - 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS 
+DE TECNOLOGIAS DE LA INFORMACION PARA EL SECTOR DE SALUD EN 
+COLOMBIA — 2015 
+  
+ANEXO 4 - CARTA UNIFICADA DE AVAL Y COMPROMISO INSTITUCIONAL 
+(TIPO Il CON ALIANZA ESTRATEGICA) 
+(Ciudad), (Dia) de (Mes) de 201_ 
+Sefiores 
+COLCIENCIAS - MINTIC 
+Carrera 7B Bis No. 132 — 28 
+Bogota D.C. 
+Asunto: Aval y compromiso institucional del (proyecto, propuesta). 
+Respetados sefiores: 
+Por 
+medio 
+de 
+la 
+presente 
+yo 
+NOMBRE 
+DEL REPRESENTANTE 
+LEGAL, 
+identificado(a) con cédula de ciudadania numero (Numero de identificacién), como 
+Representante Legal de (Nombre de la entidad), avalo el proyecto titulado (escriba 
+el nombre del proyecto, a la convocatoria (nombre de la convocatoria). 
+Manifiesto 
+que el proyecto en comento no esta siendo financiado por otra convocatoria o con 
+recursos de COLCIENCIAS u otras entidades del Estado. 
+Para el desarrollo del proyecto, se conformara la Alianza Estratégica (nombre de 
+la alianza), que estara integrada 
+por 
+las siguientes entidades: (nombre de 
+la 
+entidad 
+Ejecutora) 
+en 
+calidad 
+de 
+“Ejecutora’, 
+(nombre 
+de 
+la(s) 
+entidad(es) 
+beneficiaria(s), en calidad de entidades “beneficiarias” 
+y (nombre de 
+la entidad 
+acompajiante) en calidad de entidad “acompafante”, designandose como entidad 
+ejecutora a (nombre de la entidad ejecutora), quien sera la encargada de firmar el 
+Kra. 7B Bis # 132-28 - PBX: (5741) 6258480, Ext. 2081 - Linea gratuita nacional: 018000914446 - Bogota D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+  
+Cbcigo: M301PRO1MO03 
+Versin: 00 
+. 
+Vigente desde 2015-04 
+Pagina 1 de 5 
+ 
+ TODOS PORUN 
+NUEVO PAIS 
+PAZ 
+EQUIDAD 
+EDUCACION 
+  
+  
+) MINTIC 
+contrato resultado de la convocatoria (nombre de la convocatoria) de 201X. 
+De la misma forma, mediante la presente me permito establecer los compromisos 
+que enuncio a continuacion: 
+1. 
+Interlocucion: 
+Informo 
+a 
+Colciencias 
+que 
+la 
+persona 
+encargada 
+de 
+ejercer 
+la 
+funcién 
+de 
+interlocutor valido del proyecto es: 
+Nombre del interlocutor: 
+Documento de identidad: (Tipo y Numero de identificacion). 
+Correo electrénico: 
+Teléfono: 
+2. Contrapartida: 
+Se establece el compromiso que en el caso de que el proyecto (escriba el nombre 
+del proyecto) resulte financiable por Colciencias, para el desarrollo del mismo 
+la 
+“Entidad Ejecutora” aportara los siguientes recursos de contrapartida: 
+  
+  
+  
+  
+  
+Monto de contrapartida 
+Entidad 
+Total 
+; 
+%, 
+_ 
+% 
+Expenia 
+Especie 
+Erenive 
+Efectivo 
+(Nombre de 
+la entidad 
+5 
+5 
+ejecutora) 
+$ 
+$ 
+i" 
+$ 
+" 
+Total 
+$ 
+$ 
+% 
+$ 
+% 
+  
+  
+  
+  
+  
+  
+3. 
+De 
+la aceptacién 
+de 
+las condiciones 
+y términos de referencia que 
+establece Colciencias 
+Los abajo firmantes declaran y aceptan que: 
+e 
+Tienen poder y/o representacion 
+legal para firmar 
+y presentar 
+el proyecto 
+denominado (escriba el nombre del proyecto). 
+e 
+Este proyecto y el contrato que Ilegue a celebrarse en caso de financiaci6n, 
+Kra. 7B Bis # 132-28 - PBX: (5741) 6258480, Ext. 2081 - Linea gratuita nacional: 018000914446 - Bogota D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+  
+  
+Cédigo: M301PRO1MO03 
+Version: 00 
+. 
+Vigente desde 2015-04 
+Pagina 2 de 5 
+ 
+     
+TODOS PORUN 
+NUEVO PAIS 
+PAZ 
+EQUIDAD 
+EDUCACION 
+  
+MINTIC 
+compromete 
+totalmente 
+a 
+la(s) 
+persona(s) 
+juridica(s) 
+que 
+legalmente 
+represento. 
+e 
+Lainformacion suministrada es veraz y no fija condiciones artificiales. 
+e 
+Aceptan y reconocen que cualquier omisién o inconsistencia en la que hayan 
+podido incurrir y que pueda influir en nuestro proyecto, no les eximira de 
+la 
+obligacién de asumir las responsabilidades que les llegue a corresponder como 
+futuros contratistas y renuncian a cualquier reclamacion, reembolso o ajuste de 
+cualquier 
+naturaleza, 
+por 
+cualquier 
+situacién 
+que 
+surja 
+y 
+no 
+haya 
+sido 
+contemplada 
+en 
+raz6n 
+de 
+la 
+falta 
+de 
+diligencia 
+en 
+la 
+obtenciédn 
+de 
+la 
+informacion. 
+e 
+No se encuentran incursos 
+en ninguna de 
+las causales de inhabilidad y/o 
+incompatibilidad establecidas en el Estatuto General de Contratacion y demas 
+normas legales pertinentes. 
+e 
+Aceptan y autorizan a Colciencias para que verifique la informacion aportada 
+en el proyecto. 
+e 
+Se encuentran 
+al 
+dia 
+con 
+las obligaciones 
+y compromisos adquiridos 
+con 
+Colciencias. 
+e 
+El 
+proyecto no esta siendo financiado por otra convocatoria o con recursos de 
+Colciencias ni de otras entidades del Estado. 
+Ademas, 
+ACEPTAMOS 
+expresa 
+e _ 
+irrevocablemente 
+que 
+conocemos 
+detalladamente 
+las caracteristicas, 
+requisitos 
+y condiciones de 
+la convocatoria 
+(nombre de la convocatoria), de manera que nos sometemos a lo establecido en 
+los Términos de Referencia determinados por Colciencias para el desarrollo de la 
+misma y para la entrega del beneficio. 
+Con 
+la presente manifestacién inequivoca de voluntad, declaramos que en caso 
+de ser beneficiados en 
+la convocatoria (nombre de 
+la convocatoria), esté sera 
+recibido 
+en 
+los 
+términos 
+que 
+COLCIENCIAS 
+establezca; 
+comprendemos 
+y 
+aceptamos que la no aceptacién o el incumplimiento de alguna de las condiciones 
+establecidas, dara lugar a la pérdida definitiva del beneficio. 
+Declaramos que la informacién suministrada es veraz y corresponde a la realidad. 
+En caso de encontrarse alguna incoherencia o inconsistencia en la informacion o 
+documentacién 
+suministrada, 
+COLCIENCIAS 
+podra 
+en 
+cualquier 
+momento, 
+rechazar esta postulacion 
+o finiquitar el beneficio, sin perjuicio de las acciones 
+legales correspondientes. 
+4. 
+Intencion de acuerdo de propiedad intelectual 
+Las partes abajo firmantes, convienen la intencién de acuerdo que se regira bajos 
+Kra. 7B Bis # 132-28 - PBX: (S741) 6258480, Ext. 2081 - Linea gratuita nacional: 018000914446 - Bogota D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+  
+Cédigo: M301PROIMO03 
+Version: 00 
+; 
+Vigente desde 2015-04 
+Pagina 3 de 5 
+ 
+ @ COLCIENCIAS 
+Sud on. 
+MINTIC 
+PAZ 
+EQUIDAD 
+EDUCACION 
+las siguientes clausulas: 
+i) 
+la titularidad de 
+la propiedad 
+intelectual sobre 
+los 
+resultados que se obtengan o se pudieran obtener en el desarrollo del presente 
+proyecto /Programa estara a cargo de 
+y 
+. 
+li) La distribucién de 
+los derechos patrimoniales sobre todos y cada uno de los entregables generados, 
+se establecera de acuerdo con el porcentaje de los aportes desembolsables y no 
+desembolsables que las partes realicen, los cuales se determinaran en el acta de 
+liquidacion del contrato. 
+iii) De igual manera cualquiera de las partes podra iniciar 
+los mecanismos de proteccién correspondientes garantizando el respeto de los 
+porcentajes que a cada una las partes corresponden sobre los resultados, por su 
+parte las demas entidades se comprometen a disponer de los recursos que sean 
+necesarios para facilitar y apoyar que se conceda por la autoridad competente el 
+mecanismo de proteccién que se determine. 
+iv) 
+La custodia 
+y cuidado de 
+los 
+productos 
+tecnoldgicos, 
+prototipos, 
+que 
+se 
+materialicen 
+estara 
+a 
+cargo 
+de 
+durante la duracion de proyecto. A la finalizacion y liquidacién de 
+los mismos, se definira 
+la custodia y cuidado de tales bienes. v) Los derechos 
+morales de autor que le correspondan a estudiantes, profesores o investigadores 
+de 
+las partes, que por sus aportes significativos en una determinada obra 
+le 
+corresponden como autor(es) o coautor(es), seran a estos siempre reconocidos. 
+vii) Ninguna de las partes podra publicar, comunicar, divulgar, revelar ni permitir 
+que los investigadores y personal vinculado 
+al contrato publiquen, comuniquen, 
+revelen o utilicen la informacion resultado del mismo, sin previo aviso y aprobaci6én 
+por 
+escrito. 
+viii) 
+Sin 
+perjuicio 
+de 
+lo 
+anterior 
+las 
+partes 
+podran 
+efectuar 
+modificaciones 
+al 
+presente 
+documento 
+de 
+acuerdo 
+con 
+las 
+condiciones 
+de 
+desarrollo del proyecto. 
+Atentamente, 
+FIRMA 
+NOMBRE DEL REPRESENTANTE LEGAL ENTIDAD EJECUTORA 
+cc 
+NOMBRE DE LA ENTIDAD EJECUTORA 
+DIRECCION 
+TELEFONO 
+FIRMA 
+NOMBRE DEL REPRESENTANTE LEGAL ENTIDAD BENEFICIARIA 1 
+Kra. 78 Bis # 132-28 - PBX: (S741) 6258480, Ext. 2081 
+- Linea gratuita nacionak 018000914446 - Bogota D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+  
+Cédigo: M301PROIMO03 
+Version: 00 
+Vigente desde 2015-04 
+Pagina 4 de 5 
+ 
+ TODOS POR UN 
+  
+NUEVO PAIS 
+MINTIC 
+PAZ 
+EQUIDAD 
+EDUCACION —L— 
+CC 
+NOMBRE DE LA ENTIDAD BENEFICIARIA 1 
+DIRECCION 
+TELEFONO 
+FIRMA 
+NOMBRE DEL REPRESENTANTE LEGAL ENTIDAD BENEFICIARIA 2 
+cc 
+NOMBRE DE LA ENTIDAD BENEFICIARIA 2 
+DIRECCION 
+TELEFONO 
+ama (tantas entidades como se requiera y que conformen la alianza).... 
+FIRMA 
+NOMBRE DEL REPRESENTANTE LEGAL ENTIDAD ACOMPANANTE 
+cc 
+NOMBRE DE LA ENTIDAD ACOMPANANTE 
+DIRECCION 
+TELEFONO 
+Kea. 7B Bis # 132-28 - PBX: (5741) 6258480, Ext. 2081 - Linea gratuita nacional: 018000914446 - Bogota D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+  
+Cécigo: M301PROIMOO3 
+Versi6n: 00 
+a 
+‘Vigente desde 2015-04 
+Pagina 5 de 5 
+ 
+ COLCIE 
+  
+TODOS PORUN 
+2 
+NUEVO PAIS 
+ei 
+PAZ 
+EQUIDAD 
+EDUCACION 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E 
+INNOVACION - COLCIENCIAS 
+- 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS DE 
+TECNOLOGIAS DE LA INFORMACION PARA EL SECTOR DE SALUD EN 
+COLOMBIA - 2015 
+  
+ANEXO 5 — REGISTRO DE EXPERIENCIA DE ACOMPANANTE 
+(Ciudad), (Dia) de (Mes) de 201_ 
+Sefiores 
+COLCIENCIAS - MINTIC 
+Carrera 7B Bis No. 132 — 28 
+Bogota D.C. 
+Asunto: Certificacién de la experiencia de (Nombre de entidad acompanante) 
+Respetados sefores, 
+Por medio de la presente yo NOMBRE DEL REPRESENTANTE LEGAL, identificado 
+con cédula de ciudadania numero (Numero de identificacion), como Representante 
+Legal de (Nombre de 
+la universidad 
+a 
+la que pertenece 
+el grupo de Investigaci6n, 
+desarrollo tecnolégico 
+o 
+de 
+innovacion, 
+el 
+centro 
+de 
+investigaci6n 
+o 
+el centro 
+de 
+desarrollo 
+tecnolégico), 
+certifico 
+que 
+la 
+organizacién 
+mencionada 
+cumple 
+con 
+los 
+requisitos de experiencia minima exigida en el marco de la convocatoria para conformar 
+un banco de proyectos de soluciones innovadoras de TI en 
+el sector de salud en 
+Colombia. 
+A continuacion se relaciona la experiencia la entidad acompafante: 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 1 de 2 
+ 
+   
+  
+  
+  
+  
+  
+TODOS PORUN 
+a 
+COLCIENCIAS 
+7 
+COLCIENCIAS 
+NUEVO PAIS 
+MINTIC 
+PAZ 
+EQUIDAD 
+EDUCACION 
+FECHA 
+: 
+socio- 
+NOMBRE DEL 
+. 
+DE | TEMATICA 
+PROYECTO | OBYETIVO | DURACION | Wwicios | YSECTOR | conte ncTA 
+FINAL 
+Xx 
+Xx 
+XX 1 XX 
+Xx 
+Xx 
+XX 
+Xx 
+XX 1 XX 
+Xx 
+Xx 
+Xx 
+Xx 
+XX / XX 
+Xx 
+Xx 
+TOTAL 
+xXx 
+XX 
+1 XX 
+  
+  
+  
+  
+  
+  
+Para verificacion de la experiencia descrita anteriormente, se anexan las certificaciones, 
+evidencias y/o contratos correspondientes. 
+Nota: Las propuestas que no cumplan con la experiencia minima solicitada, sera 
+motivo para que la propuesta sea evaluada como RECHAZADA. 
+Cordialmente, 
+FIRMA 
+NOMBRE DEL REPRESENTANTE LEGAL DE LA ENTIDAD ACOMPANANTE 
+Direccién 
+Teléfono 
+e-Mail 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 2 de 2 
+  
+ 
+ (esojnosle pepljus eB] 9p siquuou ja equosy) 
+(o}OeAOJd JEP SiquuOU |e eqUOSy) 
+NOIDOV 3d NV1d 
+9 OxOUuYy 
+SL0¢ - VISINO1OS NA GNIVS Ad YOLDAS 14 VaVd NOIDVINHOSNI 
+V1 4d SVIDOIONOSL AG SVHOCVAONNI SANOIDN1OS AG OTIONNVSAC 15 VeVd VIYOLVIOANOD 
+  
+NQI3vINGa 
+avainda 
+Zzvd 
+————_——__ 
+Sid OASNN 
+UN 
+@® 
+NNOd SOdOL 
+   
+ ‘opejuasaid oyoefoud J@ uoo Opsanoe ap (soayjoadse A je1ouab) soysandoid sonnalqo so] Jeo1pul Uaqap ag *| 
+SOPEUOINL]Ol SJUSWE}IEIIP SOPe}jNsei UOD SOAIEfGO Z'ON A LON Seige 
+‘sojqepyen A sajqeseduiod ‘sajqeoijlan ‘sajqipew SeJOped|pU! a}Ue/PEW Je]}eJNUOD Uaqap 9s sope}|nsel 
+so] anb sepiooes ajueLodul] 
+sy 
+‘sopeuoloRias ajuaWe}OelIp sopeynsel 
+soj 
+A jersue6 onjelgo 
+je ojoedse: osed 
+J@ GUIWUA}Ep SOdWJ9edse soarelgo so] ep oUN eped eleq 
+“oeAoId Jap sese} A sooylosdse sonijelgo ‘jeseueb onjelgo 
+‘Jod osendwoo else oJeAold jap ope|jejeaq ugIonoely ap ued 0 OJAI JOP UgIDDY Ep Ue|q a}SF 
+‘Jeu, SUOJU! [jap eBe.jUe e] eed sow (L) UN 
+e 
+‘(s)euelojoueq (Se)pepijue (s)e| op syed 
+Jod || @p ugionjos e| ap ugloeldosde A osn ‘seyeuo|ounj seqanid se] ap ugioezijeel e| eied sosow (7) oJels e}Se} 
+© 
+‘sejsendoid seoiho}ous9} 
+SQUOIONJOS se] Bp O|[oWesep 
+[ea eed seplenbes sedeja se; sepo} ap ugionoele 
+e; eed sesow 
+(g) OYDO e}seY 
+e 
+:o}0eAoJd jap ewIxewW Ugoe/np e| eJUeNd Us JOUd | 
+‘jeuyy 0 
+SOURAe Ap SUOJUI ap SeHaljUe se] ap eUN eped Ua OpejoeAoJd soUeAe 9p OpeJB ja Jed!pul ered eUuenbse ja Opuey|IOe} 
+‘gsopeajugid soaielqo so) A sopeiedse sope}jnse so| ajUe eJOaJIP UIDe|A/ e| JO09/qGe}se se Ue|d S]se Ep UQIOUS}U! 27 
+  
+:ugIoenuljuod & sopeE||ejep so}UatUuNJsU! Seu} US Je[oje UeJaqep as sejend so] OJOeAOJd 
+Jep ugionoele e| ap UgIOeeuE|d e| eed BJUSNO US JeUI9} UEqeap as anb sojUus|WweaUl| So] eJUeseJd O}EUOY ajUaseJd [J 
+OLOAAONd 140 NOISNDALA V7 3d OISINI 
+NQIJvINGa 
+avainda 
+Zvd 
+NN¥Od SOaol 
+a 
+ee 
+  
+JILNIW 
+   
+ 0}09A0i1d jap sese_ ¢'ON eIGQeL 
+‘€ — 
+| SOSOW SO] a/]Ue BIe]Noa!e as :,a)e Jap OPe}sa Op UDISIAAY,, OOWJoedsy 
+oatjalqg :o|dwiefe sod ‘oajefqo onyoedsel je e1eynoela 9s end ja US Opoliead je eIoUaJaje1 soe} (UgIONDele ep seselA)) , 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+€ 
+C 
+‘b 
+€ oAnefgo 
+€ 
+S 
+‘L 
+Zz oAnelgo 
+‘e 
+c 
+‘L 
+| oanaiqo 
+yugondaly 
+aIQeoyuaA 
+jesauab oanelqo 
+ap soso 
+sopeuoloejai sope}jnsey 
+4opesipu] 
+[ap osad % 
+Lsooioedsy soanelqo 
+JON BIQeL 
+% 00L 
+uoleoyisnt 
+OAHelqo jap OSsed % 
+jesus OAlelqO 
+LON BgeL 
+‘oprjawoiduod opesedse opeynsei |e Jeuo|oe|e1 eqap as ‘opeajueld oolj!9adse onalqo eped Jod 
+“y 
+“sajqepljea A sajqeseduuoo 
+‘Sa|qedJUaA ‘Se|qIPEU SOJOPeOIPU! ejUeIPEW Je}eJNU0D Ueqap as sope}insel 
+so] enb Jepsooes ejueHodwil 
+sy 
+Eg 
+‘jes9U96 OAHelgo [ep oyUAltUl|duno [a UCD OpeuUO!De|al BSE A %QO] [ep 49S Eqep sooyloadse 
+SOAIgo so] ep eLOyeluNs e7 
+‘Je1auEbh oAalgo 
+Je aus CoWJoadse onjelqo epeo ep osed 
+|e Jedlpul eqep eg Z 
+NOIDVINGa 
+avainda 
+Zvd 
+SiWd OAINN 
+a 
+NN Od Soaol 
+SVIDNAII109 
+JILNIW 
+   
+ (SvNVINAS) 
+A1EVolsIdsA 
+VISNAGIAA 
+ATaVSNOdsay 
+SHQVGIAILOV 
+OAILSrado 
+NoIlSvund 
+YOaVOICNI 
+  
+‘(esendoid e| ue sepejuaseid 
+uolen) anb sase}) 0x9 ns 1160) ered oJOeAold |@ aJUeINp Jeljouesep & sesej se] JesoJHul oqep es B|qQe} ejUaINBis e| UZ 
+NoIovINGa 
+avainda 
+zvd 
+SIWd OAINN 
+: 
+NN uod SOdoL 
+elo 
+   
+jipenouLy a eF20)0U22p 
+  
+JILNIW 
+   
+ TODOS PORUN 
+= 
+NUEVO PAIS 
+@ mintic 
+PAZ 
+EQUIDAD 
+EDUCACION 
+  
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E 
+INNOVACION 
+- COLCIENCIAS - 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS 
+DE TECNOLOGIAS DE LA INFORMACION PARA EL SECTOR DE SALUD EN 
+COLOMBIA - 2015 
+  
+ANEXO 7 - AUTORIZACION USO Y ALMACENAMIENTO DE DATOS 
+PERSONALES 
+(Ciudad), (Dia) de (Mes) de 201_ 
+Sefiores 
+COLCIENCIAS 
+Carrera 7B Bis No. 132 —28 
+Bogota D.C. 
+Asunto: Autorizacion, uso y almacenamiento de datos personales. 
+En virtud de 
+la Ley Estatutaria 1581 
+del 2012, mediante 
+la cual se dictan 
+las 
+disposiciones generales para 
+la proteccién de datos personales, 
+y su Decreto 
+Reglamentario 1377 de 2013, autorizo 
+el uso de 
+la informacién registrada, 
+al 
+Departamento 
+Administrativo 
+de 
+Ciencia, 
+Tecnologia 
+e 
+Innovacién 
+- 
+COLCIENCIAS, considerado como responsable y/o encargado del tratamiento de 
+datos 
+personales, 
+almacenados 
+en 
+bases 
+de 
+datos, 
+las 
+cuales 
+incluyen 
+informacién que se han reportado en desarrollo de las diferentes actividades 
+y 
+formularios. Lo anterior hace referencia particular a los siguientes datos: nombres, 
+numero 
+de 
+documento 
+de 
+identificacién, 
+direccién, 
+teléfono 
+fijo 
+y 
+miédvil, 
+direcciones, correo electrénico, profesidn, hoja de vida académica, certificados de 
+notas, entre otros. 
+Los datos seran utilizados para la mision institucional establecida en la ley 1286 de 
+2009, como ente rector de la Ciencia Tecnologia e innovacién en Colombia. 
+Kra. 7B Bis # 132-28 - PBX: (S7+1) 6258480, Ext. 2081 - Linea gratuita nacional: 018000914446 - Bogota D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+  
+M301PRO1FO4/ 
+Version: 02 
+x 
+Vigente desde 2015-04-20 
+Pagina 1 de 2 
+ 
+ OLCIENcIAS 
+TODOS PORUN 
+Bs 
+@ COLCIENCIAS 
+: 
+© MINTIC 
+ee _ 
+NUEVO PAIS 
+: 
+PAZ 
+EQUIDAD 
+EDUCACION 
+Atentamente, 
+  
+FIRMA 
+NOMBRES Y APELLIDOS 
+IDENTIFICACION 
+  
+FIRMA 
+NOMBRES Y APELLIDOS 
+IDENTIFICACION 
+  
+FIRMA 
+NOMBRES Y APELLIDOS 
+IDENTIFICACION 
+Registrar tantas autorizaciones como personal vinculado al proyecto se relacione. 
+En caso que no haya personas aun identificadas que se colocan como NN, 
+el 
+investigador principal, debera enviar a COLCIENCIAS dicha autorizacion para el 
+uso de datos personales, al momento en que la persona seleccionada se vincule 
+al proyecto. 
+Kra_ 7B Bis # 132-28 - PBX: (57+1) 6258480, Ext. 2081 - Linea gratuita nacional: 018000914446 - Bogota D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+  
+M301PRO1FO4/ 
+Version: 02 
+5a 
+Vigente desde 2015-04-20 
+Pagina 2 de 2 
+ 
+  
+ 
+     
+ 
+1 
+ 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION -
+COLCIENCIAS- 
+ 
+ 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS DE 
+TECNOLOGÍAS DE LA INFORMACIÓN PARA EL SECTOR DE SALUD  EN 
+COLOMBIA - 2015 
+ 
+ 
+ 
+1. PRESENTACIÓN 
+ 
+COLCIENCIAS, como ente rector del Sistema Nacional de  Ciencia, Tecnología e 
+Innovación en el país, en alianza con el Ministerio de Tecnologías de la Información y 
+las Comunicaciones - MINTIC, como líder de la estrategia de Fortalecimiento de la 
+Industria TI de Colombia - FITI, buscan con la presente convocatoria, cofinanciar 
+proyectos de desarrollo de soluciones informáticas que sean aplicables al sector de 
+salud en Colombia para promover la especialización de la industria TI en el país. 
+ 
+La presente convocatoria responde a la línea de acción de la estrategia FITI 
+denominada “Visión Estratégica del Sector”, la cual busca que las empresas que 
+conforman la industria TI del país se especialicen en segmentos de mercado 
+estratégicos, maximizando la productividad de las empresas, al orientar sus esfuerzos a 
+focos específicos. 
+ 
+Por su parte, COLCIENCIAS, tiene como meta para el 2018, apoyar 11 mil nuevas 
+empresas en la implementación de métodos y herramientas para la gestión de la 
+innovación.  En este sentido, la presente convocatoria influye considerablemente en la 
+consecución de la misma, ya que amplía el portafolio de productos y servicios 
+innovadores de la industria TI, al servicio de un mercado específico como es el de 
+salud. 
+ 
+Para mayor información sobre los antecedentes de esta convocatoria, la ampliación de 
+la información relacionada con la estrategia FITI y el concepto de “Visión estratégica del 
+Sector”, revisar el Anexo 1 – Antecedentes. 
+ 
+ 
+2. OBJETIVOS 
+ 
+OBJETIVO GENERAL 
+ 
+Cofinanciar proyectos de innovación que estén orientados al fortalecimiento de la 
+industria de Tecnologías de la Información TI, mediante el desarrollo de soluciones 
+ 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+tecnológicas innovadoras orientadas al sector de salud,  para dar respuesta a  las 
+necesidades de dicho sector y así contribuir con la especialización de la industria TI. 
+ 
+OBJETIVOS ESPECÍFICOS 
+ 
+ 
+Incentivar el desarrollo de soluciones de TI para responder a los desafíos del 
+sector salud. 
+ 
+ 
+Estimular la demanda de soluciones de TI por parte de las entidades del sector 
+salud. 
+ 
+ 
+Fortalecer la alianza universidad, empresa, estado con el propósito de generar 
+sinergias que contribuyan con la especialización de la industria TI y a la solución 
+de problemas del sector de salud en Colombia. 
+ 
+ 
+Fortalecer la cultura de innovación en el sector de salud en Colombia, a partir de 
+la implementación de soluciones de TI. 
+ 
+ 
+3. DIRIGIDO A 
+ 
+Alianzas Estratégicas compuestas por: empresas de la industria de Tecnologías de 
+Información – TI del país, entidades pertenecientes al sector de salud y unidades que 
+promueven la investigación y el desarrollo tecnológico (Grupos de Investigación, 
+Desarrollo Tecnológico o de Innovación, Centros de Investigación y Centros de 
+Desarrollo Tecnológico, reconocidos por Colciencias. 
+ 
+A continuación se detalla la información sobre los actores que conformarán la alianza 
+estratégica para la participación en esta convocatoria:  
+ 
+Empresas de la Industria TI 
+ 
+Las empresas que pertenecen a la Industria TI participantes en esta convocatoria 
+asumirán el rol de “ejecutoras”, lo cual implica que son las entidades administradoras 
+de los recursos y lideran el desarrollo de la solución TI.  
+ 
+Estas empresas deberán estar constituidas como personas jurídicas y establecidas 
+como sociedades mercantiles pertenecientes a la industria de Tecnologías de 
+Información, domiciliadas en Colombia, las cuales deberán evidenciar que realizan una 
+o varias de las siguientes actividades económicas, a través de su objeto social: 
+ 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+ Desarrollo de software.  
+ Desarrollo de aplicaciones informáticas. 
+ Diseño y desarrollo de páginas web. 
+ Administración de bases de datos. 
+ Testing, entendido como los servicios orientados a la realización de pruebas a 
+los sistemas de información. 
+ Tercerización de servicios relacionados con las tecnologías de información (ITO). 
+ Alojamiento de datos. 
+ Gerencia de proyectos de TI 
+ Actividades de consultoría informática y actividades de administración de 
+instalaciones informáticas. 
+ Diseño y desarrollo de video juegos. 
+ 
+Entidades pertenecientes al sector de salud 
+ 
+Las entidades pertenecientes al sector actuarán como “Beneficiarias”, quienes 
+participarán en el desarrollo de la solución informática que contribuirá con la resolución 
+del problema o necesidad identificada previamente. 
+ 
+Se consideran entidades beneficiarias las personas jurídicas de carácter público, 
+privado o mixto, constituidas como sociedades pertenecientes al sector salud, 
+domiciliadas en Colombia que evidencien, mediante su objeto social que desarrollan 
+una o varias de las siguientes actividades: 
+ 
+a. Fabricación de productos farmacéuticos, sustancias químicas medicinales y 
+productos botánicos de uso farmacéutico. 
+ 
+b. Actividades de atención de la salud humana:  
+ Actividades de hospitales y clínicas, con internación.  
+ Actividades de hospitales y clínicas, sin internación.  
+ Actividades de práctica médica y odontológica, con internación.  
+ Actividades de la práctica médica y odontológica, sin internación.  
+ Otras actividades de atención relacionadas con la salud humana.  
+ Actividades de apoyo diagnóstico.  
+ Actividades de apoyo terapéutico.  
+ 
+c. Actividades de atención residencial medicalizada:  
+ Actividades de atención residencial medicalizada de tipo general.  
+ 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+ Actividades de atención residencial, para el cuidado de pacientes con retardo 
+mental, enfermedad mental y consumo de sustancias psicoactivas.  
+ Actividades de atención en instituciones para el cuidado de personas 
+mayores y/o discapacitadas.  
+ Otras actividades de atención en instituciones con alojamiento.  
+ 
+Unidades que promueven la investigación y el desarrollo tecnológico  
+ 
+Se trata de integrar a la alianza estratégica, una unidad que desarrolle actividades de 
+investigación y desarrollo tecnológico.  Dichas unidades que pueden ser Grupos de 
+Investigación, Desarrollo Tecnológico o de Innovación, Centros de Investigación o 
+Centros de Desarrollo Tecnológico deben estar reconocidos por COLCIENCIAS a la 
+fecha de apertura de la convocatoria.  
+ 
+Estas unidades tendrán el rol de “Acompañantes”, cumpliendo la función de aportar 
+su conocimiento y experiencia científica en el desarrollo de la solución informática 
+propuesta.  
+ 
+Nota: El “Acompañante” puede pertenecer al área de tecnologías de la información o al 
+área de salud.  
+ 
+ 
+4. REQUISITOS MÍNIMOS  
+ 
+A continuación se presentan los requisitos mínimos necesarios para participar en esta 
+convocatoria, los cuales se detallan por actor que conforma la alianza estratégica 
+(Ejecutores, Beneficiarias, Acompañantes):  
+ 
+Ejecutores: Empresas de la Industria TI 
+ 
+ Estar legalmente constituida como persona jurídica y establecida como sociedad 
+mercantil perteneciente a la industria de Tecnologías de Información, domiciliada 
+en Colombia, acreditando al menos, veinticuatro (24) meses de constitución legal, 
+a la fecha de apertura de la presente convocatoria.  
+ 
+ La empresa TI, deberá evidenciar que realiza una o varias de las actividades 
+económicas, descritas en el numeral 3, en la información sobre las ejecutoras. 
+ 
+ Disponer de una (1) persona tiempo completo quien asumirá el rol de gerente del 
+proyecto, éste deberá ser profesional en Ingeniería de Sistemas o carreras 
+afines, con formación a nivel de posgrado en gerencia de proyectos,  
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+administración o áreas TI y con mínimo un (1) proyecto TI gerenciado en los 
+últimos tres (3) años, a la fecha de apertura de la presente convocatoria.   
+ 
+ Acreditar experiencia en el desarrollo de soluciones TI, a través de la ejecución y 
+finalización de al menos tres (3) proyectos en los últimos cinco (5) años, a la 
+fecha de apertura de la convocatoria.  
+ 
+ Ser la entidad líder en el ejercicio de formulación del proyecto a postular a la 
+presente convocatoria. Así mismo es requisito mínimo, que la entidad ejecutora 
+sea responsable de recolectar todos los documentos de todos los actores 
+involucrados, según lo mencionado en el numeral 5 de los presentes términos 
+de referencia. 
+ 
+ Establecer una alianza estratégica con las siguientes características: 
+ Una (1) y solamente una (1) empresa de la Industria TI (Entidad Ejecutora). 
+ Mínimo una (1) entidad del sector salud (Entidad Beneficiaria), máximo las 
+que el ejecutor considere necesarias para la implementación de su solución.  
+(Nota: Todas y cada una de las beneficiarias deben cumplir con los requisitos 
+mínimos establecidos en la presente convocatoria). 
+ Una (1) y solamente una (1) unidad que promueve la investigación y el 
+desarrollo tecnológico (Entidad Acompañante). 
+  
+ Presentar el proyecto según el formato del Anexo 2 - Formato de Presentación 
+del Proyecto. 
+ 
+ Entregar el proyecto y los anexos del mismo, de manera física en las 
+instalaciones de COLCIENCIAS en el día y hora indicados en el calendario de la 
+convocatoria, contenido en los presentes términos de referencia.  
+ 
+Beneficiarias: Entidades pertenecientes al sector de salud 
+ 
+ Las entidades participantes, deben estar legalmente constituidas como personas 
+jurídicas de carácter público, privado o mixto y domiciliadas en Colombia. 
+ 
+ Demostrar que desarrolla una o varias de las actividades mencionadas en el 
+numeral 3. 
+ 
+ Acreditar sin excepción al menos, veinticuatro (24) meses de constitución legal, a 
+la fecha de apertura de la presente convocatoria. 
+ 
+ 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+Nota: el ejecutor debe asegurarse de que todas y cada una de las entidades 
+beneficiarias cumplan con estos requisitos, ya que si en la alianza aparece por lo 
+menos una entidad que no cumple, la alianza NO será tenida en cuenta para continuar 
+en el proceso. 
+ 
+Acompañante: Unidades que promueven la investigación y el desarrollo 
+tecnológico  
+ 
+ Estas unidades que pueden ser Grupos de Investigación, Desarrollo Tecnológico 
+o de Innovación, Centros de Investigación o Centros de Desarrollo Tecnológico 
+deben estar reconocidos por COLCIENCIAS a la fecha de apertura de la 
+presente convocatoria. 
+ 
+ Solo se acepta un (1) unidad que promueve la investigación y el desarrollo 
+tecnológico, por alianza. 
+ 
+ La unidad que promueve la investigación y el desarrollo tecnológico deberá 
+acreditar como mínimo dos (2) proyectos en ejecución o finalizados en alguna  
+de las siguientes dos áreas del conocimiento: Tecnologías de Información o 
+Salud. 
+ 
+Notas:  
+ 
+1. Las entidades ejecutoras,  beneficiarias y acompañantes postulantes que tengan 
+contratos o convenios vigentes con COLCIENCIAS o MINTIC deberán estar a 
+paz y salvo con los compromisos adquiridos; de lo contrario no serán 
+considerados para participar en esta convocatoria. 
+ 
+2. La ejecutora, la(s) beneficiaria(s) y la entidad acompañante deberán cumplir con 
+la totalidad de los requisitos mínimos para la habilitación de la propuesta. 
+ 
+ 
+5. DOCUMENTACIÓN REQUERIDA   
+ 
+A continuación se mencionan los documentos requeridos necesarios para evaluar la  
+propuesta, los cuales se detallan por actor que conforma la alianza estratégica 
+(Ejecutores, Beneficiarias, Acompañantes):  
+ 
+ 
+ 
+ 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+Ejecutores: Empresas de la Industria TI 
+ 
+ Estados financieros de los últimos dos (2) años fiscales, debidamente firmados 
+por el revisor fiscal o representante legal según sea el caso. 
+ 
+ Hoja de vida del gerente de proyecto propuesto con los respectivos soportes de 
+formación y experiencia.  
+ 
+ Proyecto formulado según el formato del Anexo 2 - Formato de Presentación 
+del Proyecto. 
+ 
+ Formato en donde se registra la experiencia especificada en los requisitos 
+mínimos, según el Anexo 3 – Carta de Experiencia de la empresa TI.    
+ 
+ Carta de la alianza estratégica entre el ejecutor, la(s) entidad(es) beneficiaria(s) y 
+la entidad acompañante, presentando el proyecto y firmada por los 
+representantes legales de las organizaciones que conforman la alianza en la cual 
+se describe la contrapartida en términos de monto y entidad(es) que dispone(n) 
+de ésta. Anexo 4 - Carta unificada de aval y compromiso institucional (Tipo II 
+con Alianza Estratégica).  
+ 
+Nota: Es importante que la carta esté debidamente firmada por todos y cada uno de los 
+Representantes Legales integrantes de la alianza; en caso tal que una sola no llegare a 
+firmar dicha carta, la alianza quedará automáticamente excluida para participar en la 
+presente convocatoria.  De ser el caso se aceptarán cartas de alianza firmadas por 
+separado. 
+ 
+ Registro de experiencia del acompañante según el Anexo 5. 
+ 
+ Plan de acción según el formato del Anexo 6. 
+ 
+ En caso de tener implementado un modelo de gestión de calidad TI, adjuntar 
+documento vigente que acredite la valoración y/o certificación según sea el caso.   
+ 
+ En caso de pertenecer a un modelo asociativo, presentar documento que acredite 
+su vinculación, firmado por el representante legal del modelo asociativo o su 
+delegado.  
+ 
+ Anexo 7 – Autorización uso y almacenamiento de datos personales. 
+ 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+Beneficiarias: Entidades pertenecientes al sector salud 
+ 
+ Allegar  documento de existencia y representación legal de la entidad. 
+ 
+Acompañante: Unidades que promueven la investigación y el desarrollo 
+tecnológico  
+ 
+ Diligenciar el Anexo 5 - Registro de experiencia de acompañante. 
+ 
+Notas: 
+1. COLCIENCIAS-MINTIC, podrá solicitar en cualquier momento, información y 
+documentación adicional o aclaraciones de las mismas. 
+ 
+2. COLCIENCIAS – MINTIC, verificará la existencia y representación legal de las 
+entidades postulantes a la presente convocatoria.  
+ 
+ 
+6. ALCANCE DE LA CONVOCATORIA   
+ 
+En el presente apartado se describe el alcance específico de la convocatoria, con el fin 
+de aclarar las condiciones, restricciones y oportunidades de la misma. 
+ 
+Generalidades: 
+ 
+La presente convocatoria pretende el desarrollo de soluciones TI, que respondan a las 
+necesidades del sector de salud en Colombia, por tal razón, los productos y/o servicios 
+derivados de los proyectos de desarrollo tecnológico y/o innovación que se financien, 
+deben tener necesariamente como usuarios potenciales a entidades y organizaciones 
+pertenecientes a dicho sector y deben responder a una problemática clara y delimitada.  
+ 
+Las soluciones tecnológicas que se postulen a la presente convocatoria deberán ser 
+nuevas, es decir, que su desarrollo se iniciará y se llevará a cabo en su totalidad 
+durante la ejecución del proyecto.  COLCIENCIAS – MINTIC, se reserva el derecho a 
+validar el estado real del desarrollo propuesto.  
+ 
+Para poder postularse a la presente convocatoria y buscando estimular el desarrollo de 
+sinergias entre la academia, el Estado y la empresa; sólo se podrá hacer, a través del 
+establecimiento de alianzas estratégicas como se enuncia en el numeral 3 de los 
+presentes términos de referencia.   
+ 
+ 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+Restricciones de Participación: 
+ 
+ La alianza estratégica debe ser constituida por una (1) sola empresa de la 
+industria TI, quien será la ejecutora del proyecto, al menos una entidad 
+beneficiaria y solamente una (1) entidad acompañante.  
+ 
+ Una entidad ejecutora sólo podrá participar en una (1) alianza estratégica 
+constituida para la presente convocatoria.  
+ 
+ Una entidad beneficiaria podrá participar en máximo dos (2) alianzas estratégicas 
+constituidas para la presente convocatoria.  
+ 
+ Una entidad acompañante podrá participar máximo en dos (2) alianzas 
+estratégicas, constituidas para la presente convocatoria. 
+ 
+ Cada alianza podrá participar únicamente con un (1) sólo proyecto en la presente 
+convocatoria. 
+ 
+Alcance de los Roles 
+ 
+La entidad ejecutora será la responsable de la gerencia técnica del proyecto, del 
+desarrollo de la solución TI y de la administración de los recursos. Así mismo tendrá la 
+propiedad de los derechos patrimoniales de la solución tecnológica desarrollada y 
+tendrá el derecho a la comercialización del mismo.  
+ 
+La(s) entidad(es) beneficiaria(s) serán quienes planteen la necesidad o problemática a 
+resolver a través de la solución TI, objeto del proyecto (esto no excluye que el problema 
+pueda ser planteado también por la empresa TI). Participarán en el proceso de 
+ejecución, orientando y apoyando a la entidad ejecutora en el levantamiento de 
+requerimientos y permitiendo a ésta el acceso a la información empresarial que se 
+requiera para el desarrollo de proyecto.  Así mismo serán las entidades en donde se 
+realicen las fases de prueba, uso, apropiación e implementación de la solución TI 
+obtenida.  
+ 
+La única entidad acompañante que participa en la alianza estratégica, será la 
+responsable del aporte científico y tecnológico del proyecto, asesorarán al ejecutor en 
+aspectos técnicos, metodológicos y conceptuales; y podrán realizar la documentación 
+científica del proyecto, que facilite procesos de transferencia del conocimiento.  La 
+entidad acompañante podrá realizar divulgación científica, siempre y cuando no afecte 
+la propiedad intelectual de la solución TI obtenida.  
+ 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+Nota: 
+ 
+ La(s) entidad(es) beneficiaria(s) serán partícipes del desarrollo de la solución 
+informática hasta la prueba piloto.  Para continuar con el uso de la solución 
+desarrollada en el marco del proyecto, la entidad de salud deberá adquirir los 
+derechos correspondientes bajo una negociación con la empresa TI. 
+ 
+ 
+7. DURACIÓN Y FINANCIACIÓN 
+ 
+7.1. Duración 
+ 
+El término de duración de los proyectos será de hasta dieciséis meses (16) meses 
+distribuidos de la siguiente forma: 
+ 
+ Hasta ocho (8) meses para la ejecución de todas las etapas requeridas para el 
+desarrollo de las soluciones tecnológicas propuestas. 
+ 
+ Hasta siete (7) meses para la realización de las pruebas funcionales, uso y 
+apropiación de la solución de TI por parte de la(s) entidad(es) beneficiaria(s). 
+Durante este período de pruebas funcionales, uso y apropiación, la(s) entidad(es) 
+beneficiaria(s) recibirán soporte técnico, mantenimiento y actualizaciones de la 
+solución por parte de la empresa de TI, sin que para ello la(s) entidad(es) 
+beneficiaria(s) deba(n) realizar pagos a la empresa de TI. 
+ 
+ Un (1) mes para la entrega del informe final. 
+ 
+7.2. Presupuesto de la convocatoria  
+ 
+El presupuesto total disponible de la convocatoria es de CUATRO MIL TRESCIENTOS 
+MILLONES DE PESOS M/CTE ($4.300.000.000), los cuales corresponden a recursos 
+de la alianza COLCIENCIAS – MINTIC.  
+ 
+7.3. Monto financiable por proyecto  
+ 
+COLCIENCIAS – MINTIC, financiará un monto máximo por proyecto de hasta 
+CUATROCIENTOS MILLONES DE PESOS M/CTE ($400.000.000) bajo la modalidad 
+de cofinanciación.  El valor total del proyecto será la sumatoria del aporte de MINTIC-
+COLCIENCIAS y los aportes de contrapartida. 
+ 
+ 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+  
+7.4. Aportes de contrapartida 
+ 
+La contrapartida será en efectivo y la aportará la “Entidad ejecutora” (empresa TI), 
+basada en la normatividad vigente para clasificación de empresas estipulado en el 
+artículo 2 de la Ley 590 de 2000 y modificado por el artículo 2 de la Ley 905 de 2004; 
+de la siguiente manera: 
+ 
+Tamaño de la 
+empresa 
+Valores de contrapartida mínimos en 
+efectivo 
+Micro 
+5% del valor de cofinanciación* 
+Pequeñas 
+10% del valor de cofinanciación* 
+Medianas 
+15% del valor de cofinanciación* 
+ 
+ 
+*Valor de cofinanciación: Valor que aporta la alianza MINTIC - COLCIENCIAS 
+ 
+Si la entidad ejecutora lo considera conveniente puede aportar una contrapartida en 
+especie adicional a la contrapartida en efectivo mínima exigida en la presente 
+convocatoria. 
+ 
+Notas: 
+ 
+1. En caso de que el ejecutor no cumpla con la totalidad de los objetivos fijados en 
+la propuesta presentada para esta convocatoria, COLCIENCIAS – MINTIC 
+solicitará el reintegro total de los recursos entregados. 
+2. Todos los impuestos de ley que se deriven de la ejecución del proyecto deberán 
+estar incluidos dentro del presupuesto del mismo. 
+3. Los recursos entregados a la “Entidad ejecutora”, solo podrán ser destinados a 
+las actividades relacionadas con el desarrollo del proyecto.  
+ 
+ 
+8. RUBROS FINANCIABLES Y NO FINANCIABLES  
+ 
+Rubros financiables: 
+ 
+ Estudios de inteligencia competitiva – incluida vigilancia tecnológica – para los 
+productos relacionados con la (s) innovación (es) propuesta (s).  
+ 
+ Adquisición de software especializado cuya licencia vaya a ser propiedad del 
+ejecutor para investigación, desarrollo y diseño. 
+ 
+ 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+ Servicios tecnológicos nacionales o internacionales (hosting, infraestructura en la 
+nube, virtualización, ensayos, pruebas, análisis, simulación y otros servicios 
+relacionados con TI plenamente justificados). 
+ 
+ Contratación de consultoría científica y tecnológica especializada (igual o menor 
+a 90 días y de menor valor al 10% del proyecto). 
+ 
+ Viajes nacionales relacionados con el desarrollo del proyecto, únicamente para el 
+personal técnico vinculado al proyecto. 
+ 
+ Capacitación y actualización de personal a través de programas de 
+entrenamiento de corta duración únicamente para el personal vinculado al 
+proyecto en temas relacionados con el mismo. 
+ 
+ Conexión a redes de información para transferencia y apropiación de tecnología. 
+ 
+ Desplazamientos, actividades y materiales para la promoción y la difusión de los 
+resultados del proyecto por un valor de hasta el 5% del valor total del proyecto. 
+ 
+ Gastos de Propiedad intelectual relacionados con los resultados del proyecto o 
+programa. 
+ 
+ Personal: Personal con formación científica y técnica, que cuenta con título 
+profesional y/o de posgrado (maestría, doctorado), y vinculación de 
+postdoctorados que estarán a cargo de las actividades investigativas propias de 
+la ejecución del proyecto según el planteamiento científico-técnico. 
+ 
+ Personal con formación en carreras técnicas y tecnológicas con capacidades 
+para apoyar la ejecución de actividades de Ciencia, Tecnología e Innovación - 
+CTeI. 
+ 
+ Los costos individuales no podrán exceder los topes máximos que 
+COLCIENCIAS define en la resolución 000426 de 2014. 
+ 
+ Bibliografía: Adquisición de libros, revistas, artículos, suscripciones o acceso a 
+bases de datos especializadas, que sean estrictamente necesarias para una 
+ejecución exitosa del proyecto. 
+ 
+ Servicios técnicos: Contrataciones que se hacen para la prestación de servicios 
+especializados y cuya necesidad esté suficientemente justificada en el marco del 
+proyecto. 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+ Software: Adquisición de licencias de software especializado para las actividades 
+de CTeI propias del desarrollo del proyecto. Su necesidad y cantidad debe 
+soportarse en justificaciones técnicas detalladas. No se considerará financiable 
+dentro de este rubro software de uso cotidiano, como por ejemplo procesadores 
+de texto, hojas electrónicas o sistemas operativos. 
+ 
+ Salidas de campo: Costos asociados al levantamiento de información en campo, 
+desde fuentes primarias o secundarias, para la consecución de los objetivos del 
+proyecto. 
+ 
+ Publicaciones: Costos asociados a la publicación de artículos, libros, manuales, 
+videos, cartillas, posters, etc. que presenten los resultados del proyecto y sirvan 
+como estrategia de divulgación o apropiación social de los resultados de la 
+investigación. 
+ 
+ Administración: incluye los salarios del personal administrativo, materiales y 
+suministros de oficina y demás servicios generales necesarios.  Se reconoce 
+hasta el 10% del monto solicitado a Colciencias. 
+ 
+Rubros no financiables: 
+ 
+No será financiable con recursos de COLCIENCIAS rubros presupuestales como: 
+ 
+ El personal que sea beneficiario actual de los programas “Jóvenes 
+Investigadores” o “Formación de Doctorados” de COLCIENCIAS, podrá ser 
+vinculado a las actividades investigativas previstas para la ejecución del 
+proyecto, pero en ningún caso, podrá ser financiado al mismo tiempo con los 
+recursos provenientes de COLCIENCIAS asignados a este rubro, en esta 
+convocatoria.  
+ 
+ A través del rubro de personal, no se financiarán los derechos académicos y de 
+matrícula del personal.  
+ 
+ No será financiable con recursos de COLCIENCIAS rubros presupuestales como: 
+infraestructura tecnológica, hardware, construcciones, mantenimiento de equipos 
+e infraestructura, seguros, adquisición de vehículos, mobiliario de oficina, 
+membresías a Sociedades Científicas.  
+ 
+ Compra de máquinas y equipo de producción corriente. 
+ 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+ 
+ Pagos de pasivos, pago de dividendos, aumento de capital de las instituciones 
+participantes. 
+ 
+ Pagos de dividendos o recuperaciones de capital de las instituciones 
+participantes. 
+ 
+ Capital de trabajo para la producción corriente. 
+ 
+ Inversiones en otras empresas  
+ 
+ Inversiones en planta de producción a escala industrial. 
+ 
+ Compra de acciones, derechos de empresas, bonos y otros valores mobiliarios. 
+ 
+ Instalaciones llave en mano. 
+ 
+ Software de uso cotidiano como procesadores de texto, hojas electrónicas y 
+sistemas operativos. 
+ 
+Nota: Con estos recursos no se podrán cubrir costos asociados a la legalización y 
+perfeccionamiento del contrato, pólizas o rubros diferentes a los ya mencionados. 
+ 
+ 
+9. PROCEDIMIENTO DE INSCRIPCION  
+ 
+La propuesta con todos sus anexos debe radicarse en la ventanilla de correspondencia 
+de COLCIENCIAS, en físico debidamente foliada y una copia del paquete completo 
+(propuesta, anexos y documentos adjuntos) toda la documentación en digital (CD o 
+DVD). 
+ 
+La propuesta debe dirigirse a: 
+ 
+Señores: 
+PROGRAMA NACIONAL TIC – CONVOCATORIA SALUD/GOBIERNO 2015 
+Departamento Administrativo de Ciencia, Tecnología e Innovación- COLCIENCIAS 
+Carrera 7B BIS # 132-28 Bogotá 
+ 
+ 
+ 
+ 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+Notas: 
+ 
+1. Se aceptarán únicamente los proyectos que se presenten a través de la 
+ventanilla de correspondencia con toda la información solicitada en la presente 
+convocatoria. 
+2. No será tenida en cuenta para el proceso de evaluación y selección, la 
+información enviada en medios distintos al definido en esta convocatoria (fax, 
+correo electrónico o cualquier otro), ni posterior a la fecha y hora límite 
+establecida. Ver el numeral correspondiente a cronograma. 
+3. Los proyectos que se reciban sin cumplir los requisitos mínimos establecidos en 
+esta convocatoria, no participarán en el proceso. 
+ 
+ 
+10. CRITERIOS DE EVALUACIÓN 
+ 
+Los criterios de evaluación de la presente convocatoria son los siguientes:  
+No. 
+Criterio 
+Puntaje 
+1 
+Plan de Negocios. 
+25 
+2 
+Calidad del Proyecto  
+15 
+3 
+Perfil de Gerente y Equipo 
+del Proyecto  
+10 
+4 
+Carácter Innovador de la 
+Propuesta 
+10  
+5 
+Marca TI  
+10 
+6  
+Capacidad Financiera  
+10  
+7 
+Vinculación a Modelo 
+Asociativo. 
+10 
+8 
+Modelos de Calidad 
+Implementados 
+10 
+Total 
+100 
+ 
+1. Plan de Negocio (25 Puntos): Se evaluará la calidad del plan, la consistencia entre 
+sus componentes y la viabilidad financiera que garantice la sostenibilidad del producto o 
+servicio TI  a desarrollar, una vez concluida la ejecución del proyecto. Además se 
+deberá mostrar claramente el beneficio que obtendrá(n) la(s) empresa(s) beneficiaria(s) 
+y el sector salud con la implementación del proyecto. 
+ 
+2. Calidad del Proyecto (15 Puntos): Se evaluará la coherencia entre: los objetivos, la 
+metodología, las actividades, el presupuesto planteado, el cronograma proyectado y el 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+presupuesto de la propuesta. Adicionalmente se evaluará la claridad en la identificación 
+del problema o necesidad y los posibles impactos que genere el desarrollo del proyecto.  
+ 
+3. Perfil del Gerente y del Equipo del Proyecto (10 Puntos): Se examinarán las 
+calificaciones y la experiencia del gerente del proyecto y del equipo de trabajo 
+propuesto según lo siguientes aspectos: 
+ 
+Perfil Profesional: Formación académica y capacitación, años de experiencia y cargos 
+desempeñados. 
+ 
+Experiencia Específica: En relación con la ejecución de proyectos relacionados con el 
+objetivo de la propuesta  
+ 
+4. Carácter Innovador de la Propuesta (10 puntos): Se evaluará el carácter innovador 
+de la solución propuesta en términos de generación de nuevos o significativamente 
+mejorados: productos/servicios, procesos, modelos de gestión, comercialización y 
+organización en las entidades ejecutoras y beneficiarias. También se valorará la 
+inclusión de componentes de investigación y desarrollo (I+D), el uso de tecnologías 
+emergentes, la identificación de mejoras en la productividad y competitividad tanto de 
+las entidades ejecutoras y beneficiarias y la posibilidad de generar documentos de 
+divulgación científica y tecnológica. 
+5. Marca TI (10 Puntos): Se valorará que la ejecutora postulante cuente con la marca TI o 
+se encuentre en proceso de obtenerla a la fecha de apertura de la convocatoria. Dicha 
+información se encuentra disponible en www.colombiati.co. 
+ 
+6. Capacidad Financiera (10 Puntos): Se evaluarán los siguientes indicadores: 
+ 
+ Utilidad Neta ≥ 0 
+ 
+ El índice de liquidez 
+LIQ. = AC / PC ≥ 1,0  
+Donde,  
+LIQ. = Índice de liquidez.  
+AC = Activo corriente.  
+PC = Pasivo corriente. 
+ 
+ El nivel de endeudamiento  
+NE = PT / AT ≤ 0,70 
+Donde,  
+NE = Nivel de endeudamiento.  
+PT = Pasivo total.  
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+AT = Activo total. 
+ 
+7. Vinculación a Modelo Asociativo (10 Puntos): Se valorará que la ejecutora 
+postulante haga parte de algún gremio o iniciativa de asociatividad empresarial, 
+legalmente constituida y relacionada con la industria de TI, por ejemplo: FEDESOFT, 
+CETICS, ALIANZA SINERTIC, KARIÓN, NETWORKIT, CARIBETIC, PACIFITIC, 
+INTERSOFTWARE, CLUSTER TI de la Cámara de Comercio de Bogotá, etc. 
+ 
+8. Modelos de Calidad Implementados (10 Puntos): Se evaluará que la ejecutora 
+cuente con alguna certificación de un modelo de gestión de calidad relacionado con la 
+industria de TI por ejemplo: ISO / 27001-2, CMMi development, ISO 14000, CMMi 
+services, NIIF, COBIT, ISO / IEC 20.000, TOGAF, SLAs, IT Mark, COPC - PSIC – 
+eTOM, PCI, SOX – GLBA COMPLIANCE, eSCM, IAOP, LEED, Val iT, S&OP / IBP, 
+NPS, MPSBR, MOprosoft, ISO/IEC 29110 entre otras. 
+ 
+ 
+11. PROCESO DE EVALUACIÓN 
+ 
+Los proyectos inscritos dentro de los plazos establecidos para la presente convocatoria 
+que cumplan con los requisitos mínimos, serán evaluados por personal experto 
+seleccionado por COLCIENCIAS-MINTIC, teniendo en cuenta los criterios de 
+evaluación descritos en el numeral 9. 
+ 
+En caso de empate, se tendrá en cuenta aquel proyecto que presente un mayor puntaje 
+en el criterio “Plan de negocios”; de mantenerse el empate se tendrá en cuenta aquel 
+proyecto que presente un mayor puntaje en el criterio “Calidad del Proyecto”. De 
+mantenerse el empate, se tendrá en cuenta aquel proyecto que presente un mayor 
+puntaje en el criterio “Perfil de Gerente y Equipo del Proyecto”. De mantenerse el 
+empate, se tendrá en cuenta aquel proyecto que presente un mayor puntaje en el 
+criterio “Carácter Innovador de la Propuesta”. De mantenerse el empate, se tendrá en 
+cuenta aquel proyecto que presente un mayor puntaje en el criterio “Marca TI”. De 
+mantenerse el empate, se tendrá en cuenta aquel proyecto que presente un mayor 
+puntaje en el criterio “Capacidad Financiera”. De mantenerse el empate, se tendrá en 
+cuenta aquel proyecto que presente un mayor puntaje en el criterio “Vinculación Modelo 
+Asociativo”. Finalmente, De mantenerse el empate, se tendrá en cuenta aquel proyecto 
+que presente un mayor puntaje en el criterio “Modelos de Calidad Implementados”.   
+ 
+Toda información proporcionada es de carácter confidencial y no será utilizada para 
+ningún fin diferente a la realización de la evaluación. Los expertos evaluadores estarán 
+cobijados por cláusulas de confidencialidad y de no conflicto de interés.  Así mismo el  
+ 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+resultado de las evaluaciones como los puntajes obtenidos en las mismas, guardan 
+estricto carácter confidencial. 
+  
+De acuerdo con el CRONOGRAMA de la convocatoria, se concederá un término para 
+solicitar aclaraciones y/o modificaciones a la publicación preliminar del banco de 
+elegibles, una vez éstas sean resueltas, se procederá a la publicación del banco 
+definitivo de proyectos elegibles.  
+ 
+Nota:  
+ 
+COLCIENCIAS y MINTIC, se reservan el derecho a solicitar ajustes sobre la propuesta 
+presentada ya sea en el presupuesto o en el contenido técnico. Estas solicitudes de 
+ajustes serán el resultado del proceso de evaluación. 
+ 
+ 
+12. BANCO DE ELEGIBLES 
+ 
+Los resultados de la convocatoria se publicarán en la página web de COLCIENCIAS 
+(www.colciencias.gov.co) en las fechas establecidas en el CRONOGRAMA.  
+ 
+Las propuestas se calificarán en una lista en orden descendente de mayor a menor 
+acorde con la calificación obtenida. El puntaje mínimo para la declaración de 
+elegibilidad, será de setenta (70) puntos. 
+ 
+Las propuestas que igualen o superen setenta (70) puntos ingresarán al banco de 
+elegibles y se asignarán los recursos hasta su agotamiento en estricto orden 
+descendente.  
+ 
+La vigencia del banco de elegibles es de un año a partir de su publicación definitiva.  
+ 
+La inclusión de un proyecto en el banco de elegibles, no implica obligatoriedad ni 
+compromiso alguno de COLCIENCIAS o de MINTIC, de asignar recursos, ni genera 
+derecho a recibir apoyos económicos para quienes hayan presentado los proyectos 
+correspondientes.  
+ 
+Notas:  
+ 
+1. Surtida la publicación definitiva del Banco de Elegibles, COLCIENCIAS 
+informará   mediante comunicación escrita o electrónica a los proponentes, cuyos 
+proyectos 
+resultaron 
+beneficiados 
+y 
+serán 
+financiados, 
+indicando 
+las 
+instrucciones y condiciones para suscribir el contrato.  A partir de la fecha de 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+ 
+comunicación, se contarán quince (15) días calendario como plazo máximo para 
+que el beneficiario remita a COLCIENCIAS la totalidad de los requerimientos 
+para la contratación. Vencido el término, en caso de que el beneficiario no haya 
+remitido la documentación respectiva, se entenderá que desiste de su interés por 
+contratar con COLCIENCIAS y se procederá a financiar el siguiente proyecto del 
+Banco de Elegibles.  
+ 
+2. Una vez remitida la minuta del contrato a la entidad, se indicará el plazo para 
+devolverla firmada. Vencido dicho término, si el beneficiario no remite el contrato 
+firmado, se entenderá que desiste de su interés para contratar y se procederá a 
+seleccionar el siguiente proyecto, en orden descendente de la lista del Banco de 
+Elegibles.  
+ 
+ 
+13. ACLARACIONES 
+ 
+Una vez publicados los resultados preliminares del banco de elegibles, los interesados 
+podrán presentar solicitudes de aclaraciones y comentarios por un período de tres (3) 
+días hábiles. Por fuera de este término se considera que las reclamaciones son 
+extemporáneas y no serán atendidas.  
+ 
+Las peticiones y reclamaciones se deben presentar exclusivamente a través del correo 
+electrónico contacto@colciencias.gov.co, con el asunto “Convocatoria Salud – TI - 
+2015”. 
+ 
+ 
+Notas: Se recibirán solicitudes de aclaraciones, dudas, inquietudes y comentarios a los 
+términos de referencia hasta 15 días calendario antes del cierre de la convocatoria. 
+ 
+ 
+14. CRONOGRAMA 
+ 
+ACTIVIDAD 
+FECHA LIMITE 
+Apertura de la convocatoria 
+30 de abril de 2015 
+Cierre de la convocatoria 
+12 de agosto de 2015 
+17:00 hora colombiana1 
+Publicación del banco preliminar de 
+elegibles 
+22 de septiembre de 2015 
+                                                           
+1 GMT-5. Bogotá time 
+ 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ACTIVIDAD 
+FECHA LIMITE 
+Período de solicitud de aclaraciones del 
+banco preliminar de elegibles 
+Del 23 al 25 de septiembre de 2015 
+Respuesta a solicitud de aclaraciones 
+Del 28 al 30 de septiembre de 2015 
+Publicación banco definitivo de 
+proyectos elegibles 
+8 de octubre de 2015 
+ 
+ 
+15. PROPIEDAD INTELECTUAL 
+ 
+En el evento en que se llegaren a generar derechos de propiedad intelectual sobre los 
+resultados que se obtengan o se pudieran obtener en el marco del desarrollo del 
+contrato o convenios que se llegasen a suscribir, la titularidad sobre los mismos se 
+regirá por lo establecido en el artículo 31 de la Ley 1450 de 2011, Artículo 31 
+DERECHOS DE PROPIEDAD INTELECTUAL DE PROYECTOS DE INVESTIGACION 
+FINANCIADOS CON RECURSOS DEL PRESUPUESTO NACIONAL. En el caso de 
+proyectos de Ciencia, Tecnología e Innovación adelantados con recursos del 
+presupuesto nacional, el Estado salvo motivos de seguridad y defensa nacional, cederá 
+a las partes de la propuesta los derechos de propiedad intelectual que puedan 
+corresponderle, según se establezca en el convenio. 
+  
+En consecuencia respecto a esta clase de derechos, COLCIENCIAS -  MINTIC limitarán 
+su intervención a verificar, de conformidad con criterios de equilibrio y equidad, el 
+acuerdo que deben celebrar las partes de la propuesta sobre titularidad de derechos de 
+propiedad intelectual.  
+ 
+Sin perjuicio de los derechos de propiedad intelectual, los resultados y productos de la 
+ejecución de los convenios resultantes de la presente invitación, podrán ser divulgados 
+por COLCIENCIAS -  MINTIC. 
+ 
+Nota:  
+ 
+1. En cualquier evento o medio de divulgación utilizado para difundir los resultados 
+del proyecto se deberá dar el respectivo crédito a COLCIENCIAS  y MINTIC 
+incluyendo la imagen institucional de las dos instituciones. 
+ 
+ 
+16. VEEDURIAS CIUDADANA 
+  
+Las veedurías ciudadanas establecidas en la ley 850 de 2003, podrán desarrollar su 
+actividad durante la presente convocatoria, conforme a lo estipulado en dicha 
+normativa. 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+ 
+17. ANEXOS 
+ 
+Anexo 1 - Antecedentes 
+Anexo 2 - Formato de Presentación del Proyecto  
+Anexo 3 - Formato Carta de Experiencia de la empresa TI 
+Anexo 4 - Carta unificada de aval y compromiso institucional (Tipo II con Alianza             
+Estratégica) 
+Anexo 5 - Registro de experiencia del acompañante 
+Anexo 6 - Plan de Acción 
+Anexo 7 - Autorización uso y almacenamiento de datos personales 
+ 
+ 
+18. ACEPTACIÓN DE TERMINOS Y VERACIDAD 
+ 
+Con la inscripción, los interesados aceptan las características, requisitos y condiciones 
+de la presente convocatoria así como lo dispuesto en los presentes términos de 
+referencia para el desarrollo de la misma y para la entrega del beneficio.  
+ 
+De igual forma declaran que la información suministrada es veraz y corresponde a la 
+realidad. En caso de encontrarse alguna incoherencia e inconsistencia en la 
+información o documentación suministrada, COLCIENCIAS podrá en cualquier 
+momento rechazar la postulación o si es del caso declarar la pérdida del beneficio, sin 
+perjuicio de las acciones legales correspondientes.  
+ 
+Los proponentes aceptan sin condicionamiento alguno la existencia de una obligación 
+solidaria en relación con la presentación de la propuesta, la suscripción y legalización 
+del contrato, así como de su cumplimiento y liquidación (responsabilidad solidaria en las 
+fases pre-contractual, contractual y post-contractual). Los proponentes mantendrán los 
+términos de la propuesta durante el desarrollo y ejecución de la misma y no podrán ser 
+modificados sin el consentimiento previo de COLCIENCIAS y el Ministerio TIC. De igual 
+manera, los miembros de la alianza estratégica que presentan el proyecto, deben 
+designar la persona que, para  todos los efectos, hará su representación y señalarán las 
+reglas básicas que regulen las relaciones entre ellos y su responsabilidad. Para la 
+existencia de la obligación solidaria solamente será necesario que la oferta se presente 
+en forma conjunta, en consecuencia no se requiere que se refiera a esta circunstancia 
+de manera expresa.   
+ 
+ 
+ 
+ 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+19. MAYOR INFORMACIÓN 
+ 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN  
+- COLCIENCIAS – 
+  
+Carrera 7 B Bis No. 132-28, Bogotá D.C.  
+http://www.colciencias.gov.co  
+Centro de Contacto  
+Teléfono: (+57 - 1) 6258480 Extensión 2081  
+Línea gratuita nacional: 018000 914446  
+ 
+En caso de inquietudes o comentarios sobre la presente convocatoria, favor enviar un 
+correo electrónico con el asunto “Convocatoria Salud - TI 2015” al correo 
+contacto@colciencias.gov.co. 
+ 
+ 
+ 
+ 
+ 
+ALEJANDRO OLAYA DÁVILA 
+Subdirector General Colciencias 
+ 
+Vo.Bo. Director Técnico 
+Vo.Bo. Secretaría General 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E 
+INNOVACION - COLCIENCIAS - 
+ 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS DE 
+TECNOLOGÍAS DE LA INFORMACIÓN PARA EL SECTOR DE SALUD  EN 
+COLOMBIA - 2015 
+ 
+ 
+ANEXO 1 – ANTECEDENTES 
+ 
+La estrategia de Fortalecimiento de la Industria de Tecnologías de Información - FITI del 
+Ministerio de Tecnologías de Información y Comunicaciones - MINTIC, es la estrategia 
+de la Dirección de Políticas y Desarrollo TI, y su propósito es contribuir a la 
+transformación de la industria de Tecnologías de la Información -T.I-. en un sector 
+competitivo, a través de la dinamización de diferentes líneas de acción que conforman 
+un modelo integral y sistémico. 
+ 
+La industria T.I. está conformada por la Industria de Software, Empresas de Hardware y 
+Servicios asociados a las Tecnologías de Información. Para su fortalecimiento es 
+necesario el desarrollo de las siguientes dimensiones estratégicas:  
+ 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+ Visión Estratégica del Sector: Dimensión orientada a establecer un norte para 
+la industria TI, a través de estudios y estrategias que orienten a todos los actores 
+involucrados, a trabajar articuladamente bajo la misma dirección. 
+ 
+ Investigación, Desarrollo e Innovación: En esta línea de acción se pretende 
+promover ejercicios de investigación, desarrollo e innovación articulando 
+academia, empresa, estado y clusters. 
+ 
+ Calidad: Dimensión con la cual se promueve la adopción de modelos de calidad 
+globalmente reconocidos por parte de las empresas que hacen parte de la 
+Industria TI. 
+ 
+ Normatividad: Dimensión en la que se trabaja para formular y gestionar la 
+implementación de normas que permitan incentivar a la industria TI, a manera de 
+marco normativo competitivo. 
+ 
+ Asociatividad: En esta dimensión se busca fortalecer modelos de colaboración 
+para que se generen sinergias estratégicas que permitan incrementar la 
+competitividad del sector. 
+ 
+ Infraestructura: Impulsar el desarrollo de estudios de viabilidad para 
+implementación de infraestructura apta y pertinente a las tendencias, para 
+fomento a la industria TI. 
+ 
+ Talento Humano: Dimensión en la que se articulan esfuerzos con la academia y 
+el sector empresarial, para el diseño e implementación de programas de 
+formación ajustados a las necesidades de la industria TI. 
+ 
+ Emprendimiento 
+y 
+fortalecimiento 
+empresarial: Implementación 
+de 
+estrategias especializadas para la industria de tecnologías de información que 
+dinamicen la creación de nuevas empresas innovadoras en el sector. 
+ 
+ 
+VISION ESTRATÉGICA DEL SECTOR 
+ 
+Una de las líneas de acción para dinamizar el fortalecimiento del sector TI, es la 
+denominada “Visión estratégica del Sector” en la que se busca que la industria TI se 
+especialice en segmentos de mercado específicos, buscando sustituir el clásico modelo 
+de negocios de desarrollo a la medida para pasar a contar con modelos de negocio con 
+alto valor agregado, acorde con los potenciales endógenos de las regiones. 
+ 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+Para este fin, COLCIENCIAS en alianza con MINTIC adelantaron un proyecto de 
+consultoría para establecer los segmentos de mercado a los que deberían orientarse 
+esfuerzos desde las regiones priorizadas para potencializar la industria TI del país. Los 
+resultados fueron los siguientes: 
+ 
+ En Antioquia se identificó que habían capacidades para desarrollar Tecnologías 
+de información (TI), para el sector energía. 
+ 
+ En Eje Cafetero se identificaron capacidades para desarrollar TI para 
+bioinformática. 
+ 
+ En los Santanderes se identificaron capacidades para desarrollar TI para el 
+sector hidrocarburos. 
+ 
+ En Cundinamarca se identificaron capacidades para desarrollar TI para el sector 
+banca y finanzas. 
+ 
+ En Valle del Cauca se identificaron capacidades para desarrollar TI para el sector 
+de agroindustria. 
+ 
+ En la región caribe se identificaron capacidades para desarrollar TI para el sector 
+de logística y transporte. 
+ 
+ Así mismo, se identificaron capacidades en general en el territorio nacional para 
+desarrollar TI en los sectores de salud, turismo y gobierno. 
+ 
+ 
+Por su parte, el DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGÍA E 
+INNOVACIÓN – COLCIENCIAS tiene como meta para el 2018, apoyar 11 mil nuevas 
+empresas en la implementación de métodos y herramientas para la gestión de la 
+innovación.  En este sentido, la presente convocatoria influye considerablemente en la 
+consecución de dicha meta ya que se amplía el portafolio de productos y servicios 
+innovadores de la industria TI al servicio de un mercado específico como es el de salud. 
+ 
+La alianza Colciencias - MinTIC a través del convenio 768/543-2013, adelantará 
+acciones orientadas al cumplimiento de las metas dispuestas tanto en el plan 
+estratégico de COLCIENCIAS, como del Plan Vive Digital 2014-2018 del MINTIC. 
+ 
+ 
+ 
+ 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS - 
+ 
+ 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS DE 
+TECNOLOGÍAS DE LA INFORMACIÓN PARA EL SECTOR DE SALUD  EN 
+COLOMBIA - 2015 
+ 
+ 
+ANEXO 2 – FORMATO DE PRESENTACIÓN DEL PROYECTO   
+ 
+ INFORMACIÓN GENERAL DEL PROYECTO 
+TÍTULO DEL 
+PROYECTO 
+   
+ENTIDAD EJECUTORA  
+ 
+ENTIDAD(ES) BENEFICIARIA(S) 
+ 
+ENTIDAD ACOMPAÑANTE  
+ 
+DURACIÓN DEL PROYECTO 
+(MESES) 
+ 
+COSTO TOTAL DEL PROYECTO 
+ 
+MONTO SOLICITADO 
+ 
+MONTO TOTAL DE LA 
+CONTRAPARTIDA 
+ 
+DISTRIBUCIÓN DE LA 
+CONTRAPARTIDA 
+En Efectivo 
+En Especie 
+ 
+ 
+Lugar de ejecución del 
+proyecto 
+Ciudad 
+ 
+Departament
+o 
+ 
+ 
+GERENTE GENERAL 
+DEL PROYECTO  
+ 
+Empresa / Institución 
+Cargo 
+ 
+ 
+ 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+INFORMACIÓN DE LA ENTIDAD EJECUTORA  
+Nombre o Razón Social  
+NIT 
+ 
+Matrícula 
+Cámara 
+de 
+Comercio 
+ 
+Fecha 
+de 
+Constitución 
+ 
+Activos Totales 
+del último año 
+ 
+Número 
+de 
+Empleados 
+ 
+Ventas Totales 
+en el último año 
+ 
+Exporta actualmente?   Si              No   
+Países destino 
+de 
+las 
+exportaciones  
+ 
+Tipo 
+de 
+contribuyente: 
+ 
+Dirección  
+ 
+Teléfono 
+ 
+Fax  
+ 
+E-Mail 
+ 
+Web-Site  
+A.A. 
+ 
+Ciuda
+d 
+ 
+Departament
+o 
+ 
+Representante legal  
+Número de 
+Identificación 
+ 
+De (Ciudad) 
+ 
+C.C.                Cédula de Extranjería                Pasaporte       
+Sector económico al que 
+pertenece la empresa beneficiaria 
+ 
+Principales productos o servicios 
+generados por la empresa 
+beneficiaria 
+Producto o Servicio 
+Código CIIU 
+ 
+ 
+Gerente del Proyecto  
+ 
+Cargo 
+ 
+Teléfono 
+ 
+Fax 
+ 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Dirección  
+Ciudad 
+ 
+E-Mail 
+ 
+ 
+ 
+INFORMACIÓN DE LA ENTIDAD BENEFICIARIA  
+NOMBRE O RAZÓN 
+SOCIAL 
+ 
+NIT 
+ 
+Matrícula 
+Cámara de 
+Comercio 
+ 
+Fecha de 
+Constitución  
+Tipo de Entidad: 
+Pública 
+ 
+ 
+Privada 
+ 
+ 
+Mixta 
+ 
+Número de 
+empleados: 
+ 
+Activos totales 
+(para entidades 
+de salud): 
+ 
+Dirección 
+ 
+Teléfono 
+ 
+Fax 
+ 
+E-mail 
+ 
+Web-site  
+A.A. 
+ 
+Ciudad  
+Departamento  
+Representante legal 
+ 
+Número de 
+identificación 
+ 
+De (Ciudad) 
+ 
+C.C. 
+ 
+ 
+Cédula de Extranjería 
+  
+Pasaporte 
+ 
+Objeto Social de la Beneficiaria   
+ 
+Gerente del Proyecto de la entidad 
+Beneficiaria 
+ 
+Cargo 
+ 
+Teléfono 
+ 
+Fax 
+ 
+Dirección 
+ 
+Ciudad 
+ 
+E-Mail 
+ 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+INFORMACIÓN DE LA ENTIDAD ACOMPAÑANTE  
+NOMBRE DEL GRUPO 
+DE INVESTIGACIÓN 
+ 
+Código del grupo 
+ 
+Categoría (la obtenida en la 
+convocatoria 693-2014) 
+ 
+Tipo de Entidad  la que 
+pertenece el grupo 
+Institución de Educación Superior 
+ Centro de Investigación 
+Centro 
+de desarrollo tecnológico 
+ Empresa 
+ 
+NIT 
+ 
+Matrícula 
+Cámara de 
+Comercio 
+ 
+Fecha de 
+Constitución 
+ 
+Tipo de Entidad: 
+Pública
+ 
+ 
+Privada
+ 
+ 
+Mixta 
+ 
+Dirección 
+ 
+Teléfono 
+ 
+Fax 
+ 
+E-mail 
+ 
+Web-
+site 
+ 
+A.A. 
+ 
+Ciudad 
+ 
+Departamento 
+ 
+Representante legal 
+ 
+Número de 
+identificación 
+ 
+De (Ciudad) 
+ 
+C.C. 
+ 
+ 
+Cédula de Extranjería 
+  
+Pasaporte 
+ 
+Nombre del 
+líder del 
+grupo 
+ 
+Cargo 
+ 
+Teléfono 
+ 
+Fax 
+ 
+Dirección 
+ 
+Ciudad 
+ 
+E-Mail 
+ 
+ 
+  
+ 
+     
+ 
+ 30 
+DESCRIPCIÓN DEL PROYECTO 
+1 TÍTULO DEL PROYECTO 
+2 RESUMEN EJECUTIVO DEL PROYECTO 
+Describa en máximo 1 página el alcance del proyecto a presentar. 
+ 3 PLANTEAMIENTO DEL PROBLEMA 
+Describa delimitada y claramente la problemática o necesidad identificada y que 
+motiva el desarrollo del proyecto. Para una mejor comprensión puede emplear 
+estadísticas y una línea base que argumente desde lo cuantitativo el problema o 
+necesidad a resolver.  
+4 ANTECEDENTES 
+Especificar si el proyecto ha tenido fases anteriores y cuáles han sido los 
+resultados, cuántos recursos se han invertido y cuáles han sido sus fuentes de 
+financiación. Así mismo  describir las soluciones informáticas existentes en el 
+mercado, similares a la propuesta, indicando las ventajas respectivas. 
+5 JUSTIFICACIÓN 
+Factores que hacen necesario y pertinente la realización del proyecto. 
+6 ESTADO DEL ARTE  
+Revisión actual de la temática en el contexto nacional e internacional, avances, 
+desarrollos y tendencias, en cuya elaboración se pueden tener en cuenta estudios 
+de prospectiva y vigilancia tecnológica. 
+7 OBJETIVOS DEL PROYECTO 
+ 
+7.1.1 OBJETIVO GENERAL 
+Enunciado que define de manera concreta el planteamiento del problema o 
+necesidad y se inicia con un verbo en modo infinitivo, es medible, alcanzable y 
+conlleva a una meta. 
+ 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+7.1.2 OBJETIVOS ESPECÍFICOS 
+Enunciados que dan cuenta de la secuencia lógica para alcanzar el objetivo 
+general del proyecto. No debe confundirse con las actividades propuestas para dar 
+alcance a los objetivos (ej. Tomar muestras en diferentes localidades de estudio); 
+ni con el alcance de los productos esperados (ej. Formar un estudiante de 
+maestría). 
+8 METODOLOGÍA  
+Describa de forma organizada y precisa, cómo se desarrollará y alcanzará el 
+objetivo general y cada uno de los objetivos específicos del proyecto, presentando 
+los componentes del mismo y las actividades para el logro de éstos. 
+9 
+TRAYECTORIA 
+Y 
+CAPACIDAD 
+EN 
+INVESTIGACIÓN, 
+DESARROLLO TECNOLÓGICO E INNOVACIÓN DE LAS 
+INSTITUCIONES 
+PARTICIPANTES 
+(BENEFICIARIA(S), 
+EJECUTORA, ACOMPAÑANTE(S)) 
+Describa la trayectoria de las entidades que participan en el proyecto, resaltando 
+las experiencias específicas para la modalidad y temática a la cual postulan el 
+proyecto. 
+10 EQUIPO DE TRABAJO DEL PROYECTO  
+Relacionar los integrantes del proyecto, describiendo el rol y el tipo de 
+responsabilidades dentro del proyecto. Es indispensable incluir un organigrama del 
+personal del proyecto.  
+ 
+NOMBRE DE LA 
+PERSONA 
+TÍTULO  
+PROFESIONAL 
+POSTGRADO 
+AÑOS DE 
+EXPERICIENCIA 
+GENERAL 
+DESCRIPCIÓN 
+GENERAL DE 
+LA 
+EXPERIENCIA 
+ROL EN EL 
+PROYECTO 
+XX 
+XXXX 
+XX 
+XX 
+XX 
+XX 
+XX 
+XXXX 
+XX 
+XX 
+XX 
+XX 
+XX 
+XXXX 
+XX 
+XX 
+XX 
+XX 
+ 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+11 RESULTADOS/PRODUCTOS ESPERADOS 
+Identificar los resultados del proyecto, los productos, servicios o procesos en las 
+necesidades identificadas.  
+12 IDENTIFICACIÓN Y CARACTERIZACIÓN DE LA INNOVACIÓN 
+PROPUESTA 
+Describa las características innovadoras del proyecto o de la tecnología a 
+desarrollar, en cuanto a procesos, productos, prestación de servicios y/o gestión. 
+Explique el valor agregado en conocimiento o know-how generado en el proyecto 
+o el esfuerzo tecnológico que hace a la beneficiaria, la ejecutora y el sector.  
+13 PLAN DE NEGOCIOS  
+Con el objetivo de generar la posibilidad de comercialización del producto que se 
+obtenga del desarrollo del proyecto, se hace necesario contemplar un plan de 
+negocio que permita evidenciar la existencia de soluciones frente a las 
+necesidades identificadas en el sector de salud en Colombia. En ese sentido la 
+propuesta deberá demostrar cómo se ha diseñado la disponibilidad del producto 
+para la solución de las necesidades expuestas, para ello, se deberá utilizar el 
+modelo CANVAS, detallando en profundidad cada uno de sus componentes, los 
+cuales se muestran a continuación: (Para tal fin, consultar las fuentes que se 
+consideren necesarias). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+ 
+14 CRONOGRAMA 
+Distribución de actividades mensuales de ejecución del proyecto. Asociar a cada 
+actividad el o los objetivos (numerados) relacionados con éstos. 
+No. 
+Actividad 
+Actividad 
+Inicio Final Ejecución 
+en 
+ 
+ 
+ 
+ 
+meses 
+ 
+ 
+ 
+ 
+meses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 IMPACTOS ESPERADOS  
+Describir los impactos del proyecto de acuerdo con los siguientes tipos de 
+impactos: (Los que apliquen) 
+Impacto científicos y tecnológicos  
+Impacto sobre medio ambiente y la sociedad 
+Impacto sobre la productividad y competitividad de la entidad beneficiaria o el 
+sector relacionado 
+Impacto ciencia y tecnología 
+Impacto en el  conocimiento del campo de estudio 
+Impacto en la calidad de vida de la población 
+Impacto en las políticas públicas 
+16 CERTIFICACIÓN DE CALIDAD DE LA EJECUTORA   
+Describa las certificaciones de calidad que tiene la empresa. Adjunte los 
+certificados correspondientes utilizando la opción “otros adjuntos”. 
+ 
+17 MODELO ASOCIATIVO DE LA EJECUTORA 
+Describa el gremio o iniciativa de asociatividad a la que pertenece. Adjunte los 
+certificados correspondientes utilizando la opción “otros adjuntos”. 
+ 
+  
+     
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 34 de 49 
+PRESUPUESTO 
+ 
+Id.  
+RUBRO  
+COLCIENCIAS 
+- MINTIC 
+EJECUTORA 
+BENEFICIARIA 
+1 
+BENEFICIARIA… 
+n 
+TOTAL  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+     
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 35 de 49 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E 
+INNOVACION -COLCIENCIAS- 
+ 
+ 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS 
+DE TECNOLOGÍAS DE LA INFORMACIÓN PARA EL SECTOR DE SALUD  EN 
+COLOMBIA - 2015 
+ 
+ 
+ANEXO 3 – CARTA DE EXPERIENCIA DE LA EMPRESA TI 
+ 
+A continuación se presenta el modelo de carta de certificación de la experiencia 
+con la que cuenta la empresa TI: 
+ 
+(Ciudad), (Día) de (Mes) de 201_  
+ 
+Señores  
+COLCIENCIAS 
+Carrera 7B Bis No. 132 – 28 
+Bogotá D.C.  
+ 
+ 
+Asunto: Certificación de la experiencia de (Nombre de la empresa de TI) 
+ 
+Respetados señores, 
+ 
+Por medio de la presente yo NOMBRE DEL REPRESENTANTE LEGAL, 
+identificado con cédula de ciudadanía número (Número de identificación), como 
+Representante Legal de (Nombre de la empresa de TI), certifico que la empresa 
+mencionada cumple con los requisitos de experiencia mínima exigida en el marco 
+de la convocatoria para conformar un banco de proyectos de soluciones 
+innovadoras de TI en el sector de salud de Colombia.  A continuación se relaciona 
+la experiencia de la empresa: 
+ 
+NOMBRE 
+DEL 
+PROYECT
+O 
+OBJETO 
+DEL 
+CONTRAT
+O 
+DURACIÓ
+N EN 
+MESES 
+VALO
+R 
+FECH
+A DE 
+INICI
+O / 
+FINAL 
+TEMÁTIC
+A Y 
+SECTOR 
+SOCIO-
+ALIADO-
+CONTRATIS
+TA 
+XX 
+XX 
+XX 
+$ XX 
+XX 
+XX 
+XX 
+XX 
+XX 
+XX 
+$ XX 
+XX 
+XX 
+XX 
+XX 
+XX 
+XX 
+$ XX 
+XX 
+XX 
+XX 
+TOTAL 
+ 
+XX 
+$ XX 
+ 
+ 
+ 
+  
+     
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 36 de 49 
+Para verificación de la experiencia descrita anteriormente, se anexan las 
+certificaciones y/o contratos correspondientes. 
+ 
+Nota: Las propuestas que no cumplan con la experiencia mínima solicitada, 
+será motivo para que la propuesta sea evaluada como RECHAZADA. 
+ 
+ 
+Cordialmente,  
+ 
+ 
+FIRMA 
+NOMBRE DEL REPRESENTANTE LEGAL DE EMPRESA TI 
+C.C. 
+Dirección 
+Teléfono                        
+e-Mail 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+     
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 37 de 49 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E 
+INNOVACIÓN - COLCIENCIAS - 
+ 
+ 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS 
+DE TECNOLOGÍAS DE LA INFORMACIÓN PARA EL SECTOR DE SALUD  EN 
+COLOMBIA – 2015 
+ 
+ 
+ANEXO 4 - CARTA UNIFICADA DE AVAL Y COMPROMISO INSTITUCIONAL 
+(TIPO II CON ALIANZA ESTRATÉGICA) 
+ 
+ 
+(Ciudad), (Día) de (Mes) de 201_  
+ 
+ 
+Señores  
+COLCIENCIAS - MINTIC 
+Carrera 7B Bis No. 132 – 28 
+Bogotá D.C. 
+ 
+Asunto: Aval y compromiso institucional del (proyecto, propuesta). 
+ 
+ 
+Respetados señores: 
+ 
+Por medio de la presente yo NOMBRE DEL REPRESENTANTE LEGAL, 
+identificado(a) con cédula de ciudadanía número (Número de identificación), como 
+Representante Legal de (Nombre de la entidad), avalo el proyecto titulado (escriba 
+el nombre del proyecto, a la convocatoria (nombre de la convocatoria).  Manifiesto 
+que el proyecto en comento no está siendo financiado por otra convocatoria o con 
+recursos de COLCIENCIAS u otras entidades del Estado. 
+ 
+Para el desarrollo del proyecto, se conformará la Alianza Estratégica (nombre de 
+la alianza), que estará integrada por las siguientes entidades: (nombre de la 
+entidad Ejecutora) en calidad de “Ejecutora”, (nombre de la(s) entidad(es) 
+beneficiaria(s), en calidad de entidades “beneficiarias” y (nombre de la entidad 
+acompañante) en calidad de entidad “acompañante”; designándose como entidad 
+ejecutora a (nombre de la entidad ejecutora), quien será la encargada de firmar el 
+contrato resultado de la convocatoria (nombre de la convocatoria) de 201X. 
+  
+     
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 38 de 49 
+De la misma forma, mediante la presente me permito establecer los compromisos 
+que enuncio a continuación: 
+ 
+1. Interlocución: 
+Informo a Colciencias que la persona encargada de ejercer la función de 
+interlocutor válido del proyecto es:  
+ 
+Nombre del interlocutor: 
+Documento de identidad: (Tipo y Número de identificación). 
+Correo electrónico: 
+Teléfono: 
+ 
+2. Contrapartida: 
+ 
+Se establece el compromiso que en el caso de que el proyecto (escriba el nombre 
+del proyecto) resulte financiable por Colciencias, para el desarrollo del mismo la 
+“Entidad Ejecutora” aportará los siguientes recursos de contrapartida:  
+ 
+Entidad 
+Total 
+Monto de contrapartida 
+Especie 
+% 
+Especie 
+Efectivo 
+% 
+Efectivo 
+(Nombre de la entidad 
+ejecutora) 
+$ 
+$ 
+% 
+$ 
+% 
+Total 
+$ 
+$ 
+% 
+$ 
+% 
+ 
+ 
+3. De la aceptación de las condiciones y términos de referencia que 
+establece Colciencias 
+ 
+Los abajo firmantes declaran y aceptan que: 
+ 
+ Tienen poder y/o representación legal para firmar y presentar el proyecto 
+denominado (escriba el nombre del proyecto).  
+ Este proyecto y el contrato que llegue a celebrarse en caso de financiación, 
+compromete totalmente a la(s) persona(s) jurídica(s) que legalmente 
+represento.  
+ La información suministrada es veraz y no fija condiciones artificiales.  
+  
+     
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 39 de 49 
+ Aceptan y reconocen que cualquier omisión o inconsistencia en la que hayan 
+podido incurrir y que pueda influir en nuestro proyecto, no les eximirá de la 
+obligación de asumir las responsabilidades que les llegue a corresponder como 
+futuros contratistas y renuncian a cualquier reclamación, reembolso o ajuste de 
+cualquier naturaleza, por cualquier situación que surja y no haya sido 
+contemplada en razón de la falta de diligencia en la obtención de la 
+información. 
+ No se encuentran incursos en ninguna de las causales de inhabilidad y/o 
+incompatibilidad establecidas en el Estatuto General de Contratación y demás 
+normas legales pertinentes. 
+ Aceptan y autorizan a Colciencias para que verifique la información aportada 
+en el proyecto. 
+ Se encuentran al día con las obligaciones y compromisos adquiridos con 
+Colciencias. 
+ El  proyecto no está siendo financiado por otra convocatoria o con recursos de 
+Colciencias ni de otras entidades del Estado. 
+ 
+Además, 
+ACEPTAMOS 
+expresa 
+e 
+irrevocablemente 
+que 
+conocemos 
+detalladamente las características, requisitos y condiciones de la convocatoria 
+(nombre de la convocatoria), de manera que nos sometemos a lo establecido en 
+los Términos de Referencia determinados por Colciencias para el desarrollo de la 
+misma y para la entrega del beneficio.  
+ 
+Con la presente manifestación inequívoca de voluntad, declaramos que en caso 
+de ser beneficiados en la convocatoria (nombre de la convocatoria), esté será 
+recibido en los términos que COLCIENCIAS establezca; comprendemos y 
+aceptamos que la no aceptación o el incumplimiento de alguna de las condiciones 
+establecidas, dará lugar a la pérdida definitiva del beneficio.  
+ 
+Declaramos que la información suministrada es veraz y corresponde a la realidad. 
+En caso de encontrarse alguna incoherencia o inconsistencia en la información o 
+documentación suministrada, COLCIENCIAS podrá en cualquier momento, 
+rechazar esta postulación o finiquitar el beneficio, sin perjuicio de las acciones 
+legales correspondientes. 
+ 
+4. Intención de acuerdo de propiedad intelectual 
+ 
+Las partes abajo firmantes, convienen la intención de acuerdo que se regirá bajos 
+las siguientes clausulas: i) la titularidad de la propiedad intelectual sobre los 
+resultados que se obtengan o se pudieran obtener en el desarrollo del presente 
+proyecto /Programa estará a cargo de ______ y ________. ii) La distribución de 
+los derechos patrimoniales sobre todos y cada uno de los entregables generados, 
+se establecerá de acuerdo con el porcentaje de los aportes desembolsables y no 
+  
+     
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 40 de 49 
+desembolsables que las partes realicen, los cuales se determinarán en el acta de 
+liquidación del contrato. iii) De igual manera cualquiera de las partes podrá iniciar 
+los mecanismos de protección correspondientes garantizando el respeto de los 
+porcentajes que a cada una las partes corresponden sobre los resultados, por su 
+parte las demás entidades se comprometen a disponer de los recursos que sean 
+necesarios para facilitar y apoyar que se conceda por la autoridad competente el 
+mecanismo de protección que se determine. iv) La custodia y cuidado de los 
+productos tecnológicos, prototipos, que se materialicen estará a cargo de 
+_____________ durante la duración de proyecto. A la finalización y liquidación de 
+los mismos, se definirá la custodia y cuidado de tales bienes. v) Los derechos 
+morales de autor que le correspondan a estudiantes, profesores o investigadores 
+de las partes, que por sus aportes significativos en una determinada obra le 
+corresponden como autor(es) o coautor(es), serán a estos siempre reconocidos. 
+vii) Ninguna de las partes podrá publicar, comunicar, divulgar, revelar ni permitir 
+que los investigadores y personal vinculado al contrato publiquen, comuniquen, 
+revelen o utilicen la información resultado del mismo, sin previo aviso y aprobación 
+por escrito. viii) Sin perjuicio de lo anterior las partes podrán efectuar 
+modificaciones al presente documento de acuerdo con las condiciones de 
+desarrollo del proyecto. 
+ 
+Atentamente,  
+ 
+ 
+ 
+__________________________ 
+FIRMA 
+NOMBRE DEL REPRESENTANTE LEGAL ENTIDAD EJECUTORA 
+CC 
+NOMBRE DE LA ENTIDAD EJECUTORA 
+DIRECCIÓN  
+TELÉFONO 
+ 
+ 
+__________________________ 
+FIRMA 
+NOMBRE DEL REPRESENTANTE LEGAL ENTIDAD BENEFICIARIA 1 
+CC 
+NOMBRE DE LA ENTIDAD BENEFICIARIA 1 
+DIRECCIÓN  
+TELÉFONO 
+ 
+ 
+  
+     
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 41 de 49 
+__________________________ 
+FIRMA 
+NOMBRE DEL REPRESENTANTE LEGAL ENTIDAD BENEFICIARIA 2 
+CC 
+NOMBRE DE LA ENTIDAD BENEFICIARIA 2 
+DIRECCIÓN  
+TELÉFONO 
+ 
+……(tantas entidades como se requiera y que conformen la alianza)…. 
+ 
+ 
+FIRMA 
+NOMBRE DEL REPRESENTANTE LEGAL ENTIDAD ACOMPAÑANTE 
+CC 
+NOMBRE DE LA ENTIDAD ACOMPAÑANTE 
+DIRECCIÓN  
+TELÉFONO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+     
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 42 de 49 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E 
+INNOVACION - COLCIENCIAS - 
+ 
+ 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS 
+DE TECNOLOGÍAS DE LA INFORMACIÓN PARA EL SECTOR DE SALUD  EN 
+COLOMBIA - 2015 
+ 
+ 
+ 
+ANEXO 5 – REGISTRO DE EXPERIENCIA DE ACOMPAÑANTE 
+ 
+ 
+(Ciudad), (Día) de (Mes) de 201_  
+ 
+Señores  
+COLCIENCIAS - MINTIC 
+Carrera 7B Bis No. 132 – 28 
+Bogotá D.C.  
+ 
+ 
+Asunto: Certificación de la experiencia de (Nombre de entidad acompañante) 
+ 
+Respetados señores, 
+ 
+Por medio de la presente yo NOMBRE DEL REPRESENTANTE LEGAL, 
+identificado con cédula de ciudadanía número (Número de identificación), como 
+Representante Legal de (Nombre de la universidad a la que pertenece el grupo de 
+Investigación, desarrollo tecnológico o de innovación, el centro de investigación o 
+el centro de desarrollo tecnológico), certifico que la organización mencionada 
+cumple con los requisitos de experiencia mínima exigida en el marco de la 
+convocatoria para conformar un banco de proyectos de soluciones innovadoras de 
+TI en el sector de salud en Colombia.  
+ 
+A continuación se relaciona la experiencia la entidad acompañante: 
+ 
+  
+     
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 43 de 49 
+NOMBRE DEL 
+PROYECTO 
+OBJETIVO 
+DURACIÓN 
+FECHA 
+DE 
+INICIO / 
+FINAL 
+TEMÁTICA 
+Y SECTOR  
+SOCIO-
+ALIADO-
+CONTRATISTA 
+XX 
+ 
+XX 
+XX / XX 
+XX 
+XX 
+XX 
+ 
+XX 
+XX / XX 
+XX 
+XX 
+XX 
+ 
+XX 
+XX / XX 
+XX 
+XX 
+TOTAL 
+ 
+XX 
+XX / XX 
+ 
+ 
+ 
+Para verificación de la experiencia descrita anteriormente, se anexan las 
+certificaciones, evidencias y/o contratos correspondientes. 
+ 
+Nota: Las propuestas que no cumplan con la experiencia mínima solicitada, 
+será motivo para que la propuesta sea evaluada como RECHAZADA. 
+ 
+ 
+Cordialmente,  
+ 
+ 
+FIRMA 
+NOMBRE DEL REPRESENTANTE LEGAL DE LA ENTIDAD ACOMPAÑANTE 
+Dirección 
+Teléfono                        
+e-Mail 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+     
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 44 de 49 
+ 
+ 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS DE TECNOLOGÍAS DE LA 
+INFORMACIÓN PARA EL SECTOR DE SALUD  EN COLOMBIA - 2015 
+ 
+ 
+ 
+ 
+Anexo 6 
+PLAN DE ACCIÓN 
+(Escriba el nombre del proyecto) 
+(Escriba el nombre de la entidad ejecutora) 
+  
+     
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 45 de 49 
+INICIO DE LA EJECUCIÓN DEL PROYECTO  
+El presente formato presenta los lineamientos que se deben tener en cuenta para la planeación de la ejecución del 
+proyecto los cuales se deberán alojar en tres instrumentos detallados a continuación:  
+ 
+La intención de este plan es establecer la relación directa entre los resultados esperados y los objetivos planteados, 
+facilitando el esquema para indicar el grado de avance proyectado en cada una de las entregas de informe de avance o 
+final. 
+ 
+Tener en cuenta la duración máxima del proyecto:  
+ 
+ Hasta ocho (8) meses para la ejecución de todas las etapas requeridas para el desarrollo de las soluciones 
+tecnológicas propuestas. 
+ 
+ Hasta siete (7) meses para la realización de las pruebas funcionales, uso y apropiación de la solución de TI por parte 
+de la(s) entidad(es) beneficiaria(s).  
+ 
+ Un (1) mes para la entrega del informe final. 
+ 
+Este Plan de Acción del Proyecto o Plan de Ejecución Detallado del Proyecto está compuesto por: 
+ 
+Objetivo general, objetivos específicos y fases del proyecto.  Para cada uno de los objetivos específicos determine el 
+peso respecto al objetivo general y los resultados directamente relacionados.  Es importante recordar que los resultados 
+se deben concretar mediante indicadores medibles, verificables, comparables y validables. 
+ 
+Tablas No.1 y No.2 Objetivos con resultados directamente relacionados 
+ 
+1. Se deben indicar los objetivos propuestos (general y específicos) de acuerdo con el proyecto presentado.   
+  
+     
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 46 de 49 
+2. Se debe indicar el peso de cada objetivo específico frente al objetivo general.  La sumatoria de los objetivos 
+específicos debe ser del 100% y está relacionado con el cumplimiento del objetivo general. 
+3.  Es importante recordar que los resultados se deben concretar mediante indicadores medibles, verificables, 
+comparables y validables. 
+4.  Por cada objetivo específico planteado, se debe relacionar el resultado esperado comprometido. 
+ 
+Tabla No.1 
+Objetivo General 
+% Peso del objetivo 
+Justificación 
+ 
+ 
+ 
+ 
+100 % 
+ 
+ 
+Tabla No.2 
+Objetivos Específicos1 
+% Peso del 
+objetivo general 
+Indicador 
+Verificable 
+Resultados relacionados 
+Meses de 
+Ejecución* 
+Objetivo 1 
+ 
+ 
+1. 
+ 
+2. 
+3. 
+Objetivo 2 
+ 
+ 
+1. 
+ 
+2. 
+3. 
+Objetivo 3 
+ 
+ 
+1. 
+ 
+2. 
+3. 
+* (Meses de ejecución) Hace referencia al período en el cual se ejecutará el respectivo objetivo, por ejemplo: Objetivo 
+Específico “Revisión de estado del arte”: se ejecutará entre los meses 1 – 3. 
+ 
+ 
+Tabla No.3 Fases del proyecto 
+ 
+  
+     
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 47 de 49 
+En la siguiente tabla se debe ingresar las fases a desarrollar durante el proyecto para lograr su éxito (fases que fueron 
+presentadas en la propuesta).  
+ 
+FASE 
+OBJETIVO 
+ACTIVIDADES 
+RESPONSABLE 
+INDICADOR 
+VERIFICABLE 
+EVIDENCIA  
+DURACION 
+(SEMANAS) 
+AÑO  
+MES 1 
+MES 2 
+MES 3 
+1 
+2 
+3 
+4 
+1 
+2 
+3 
+4 
+1 
+2 
+3 
+4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+     
+ 
+ 
+48 
+ 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E 
+INNOVACIÓN - COLCIENCIAS - 
+ 
+ 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS 
+DE TECNOLOGÍAS DE LA INFORMACIÓN PARA EL SECTOR DE SALUD  EN 
+COLOMBIA - 2015 
+ 
+ 
+ANEXO 7 - AUTORIZACIÓN USO Y ALMACENAMIENTO DE DATOS 
+PERSONALES 
+ 
+ 
+(Ciudad), (Día) de (Mes) de 201_  
+ 
+ 
+Señores  
+COLCIENCIAS 
+Carrera 7B Bis No. 132 – 28 
+Bogotá D.C. 
+ 
+Asunto: Autorización, uso y almacenamiento de datos personales. 
+ 
+ 
+En virtud de la Ley Estatutaria 1581 del 2012, mediante la cual se dictan las 
+disposiciones generales para la protección de datos personales, y su Decreto 
+Reglamentario 1377 de 2013, autorizo el uso de la información registrada, al 
+Departamento Administrativo de Ciencia, Tecnología e Innovación - COLCIENCIAS, 
+considerado como responsable y/o encargado del tratamiento de datos personales, 
+almacenados en bases de datos, las cuales incluyen información que se han 
+reportado en desarrollo de las diferentes actividades y formularios. Lo anterior hace 
+referencia particular a los siguientes datos: nombres, número de documento de 
+identificación, dirección, teléfono fijo y móvil, direcciones, correo electrónico, 
+profesión, hoja de vida académica, certificados de notas, entre otros.  
+ 
+Los datos serán utilizados para la misión institucional establecida en la ley 1286 de 
+2009, como ente rector de la Ciencia Tecnología e innovación en Colombia. 
+ 
+ 
+Atentamente,  
+ 
+  
+     
+ 
+ 
+49 
+ 
+ 
+_________________________________ 
+FIRMA 
+ 
+NOMBRES Y APELLIDOS 
+IDENTIFICACIÓN 
+ 
+ 
+ 
+_________________________________ 
+FIRMA 
+NOMBRES Y APELLIDOS 
+IDENTIFICACIÓN 
+ 
+ 
+ 
+ 
+_________________________________ 
+FIRMA 
+NOMBRES Y APELLIDOS 
+ 
+IDENTIFICACIÓN 
+ 
+ 
+ 
+Registrar tantas autorizaciones como personal vinculado al proyecto se relacione. En 
+caso que no haya personas aún identificadas que se colocan como NN, el 
+investigador principal, deberá enviar a COLCIENCIAS dicha autorización para el uso 
+de datos personales, al momento en que la persona seleccionada se vincule al 
+proyecto. 
+ 
+ 
+ No.
+RM 1
+RM 2
+RM 3
+RM 4
+RM 5
+RM 6
+RM 7
+RM 8
+RM 9
+RM 10
+RM 11
+RM 12
+Elegible 
+preliminar
+RM 1 RM
+2
+RM 
+3
+RM 
+4
+RM 
+5
+RM 
+6
+RM 
+7
+RM 
+8
+RM 
+9
+RM 
+10
+RM 
+11
+RM 
+12
+Cumple
+Criterio 1
+Criterio 
+2
+Criterio 3 Criterio 4 Criterio 5 Criterio 6 Criterio 7 Criterio 8 Puntaje 
+Final
+Observaciones 
+del desempate
+20152430114822
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+14
+7
+10
+8
+0
+10
+10
+0
+59
+NO
+20152430115652
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+20
+12
+10
+10
+10
+10
+10
+10
+92
+SI
+20152430115832
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+20152430115882
+-
+-
+-
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+20152430116472
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+23
+13
+10
+10
+10
+10
+10
+10
+96
+SI
+Sección 1
+Sección 2
+La carta debe estar debidamente firmada por todos y cada uno de los Representantes Legales integrantes de la alianza; 
+en caso tal que una sola no llegare a firmar dicha carta, la alianza quedará automáticamente excluida para participar en la 
+presente convocatoria.  De ser el caso se aceptarán cartas de alianza firmadas por separado.
+Acreditar sin excepción al menos, veinticuatro (24) meses de constitución legal, a la fecha de apertura de la presente 
+convocatoria.
+Nota: el ejecutor debe asegurarse de que todas y cada una de las entidades beneficiarias cumplan con estos requisitos, 
+ya que si en la alianza aparece por lo menos una entidad que no cumple, la alianza NO será tenida en cuenta para 
+continuar en el proceso.
+Anexo 2
+Proyecto formulado según el formato
+Estados financieros
+Estados financieros de los últimos dos (2) años fiscales, debidamente firmados por el revisor fiscal o representante legal 
+según sea el caso.
+Anexo 5
+Registro de experiencia del acompañante
+Anexo 6
+Plan de acción
+Código de la propuesta: 
+Número de radicación en 
+ventanilla
+Autorización uso y almacenamiento de datos personales
+Verificación 24 meses constitución Beneficiarias
+Verificación Actividad Económica Beneficiarias
+Contrapartida
+La contrapartida será en efectivo y la aportará la “Entidad ejecutora” (empresa TI), basada en la normatividad vigente para 
+clasificación de empresas estipulado en el artículo 2 de la Ley 590 de 2000 y modificado por el artículo 2 de la Ley 905 de 
+2004; de la siguiente manera:
+Valores de contrapartida mínimos en efectivo
+- Micro 5% del valor de cofinanciación*
+- Pequeñas 10% del valor de cofinanciación*
+Cumplimiento de requisítos mínimos
+Resultados de la evaluación
+PUBLICACIÓN DE BANCO PRELIMINAR DE PROPUESTAS ELEGILES DE CONVOCATORIAS
+Convocatoria 709-2015
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS DE TECNOLOGÍAS DE LA INFORMACIÓN PARA EL SECTOR DE SALUD  EN COLOMBIA - 2015
+EI Departamento Administrativo de Ciencia, Tecnología e Innovación - COLCIENCIAS, atendiendo a lo establecido en los términos de referencia de la convocatoria 709 de 2015, 
+publica el banco preliminar de propuestas elegibles, para tal fin se permite reiterar la siguiente información debidamente publicada en los términos de referencia:
+De acuerdo con el numeral 4. Requisitos mínimos Nota 2. La ejecutora, la(s) beneficiaria(s) y la entidad acompañante deberán cumplir con la totalidad de los requisitos 
+mínimos para la habilitación de la propuesta.
+I. Los requisitos mínimos y la documentación requerida establecidos para la convocatoria son los que se relacionan a continuación:
+Anexo 7
+Perfil gerente de proyecto
+Experiencia gerente de proyecto
+Disponer de una (1) persona tiempo completo quien asumirá el rol de gerente del proyecto, éste deberá ser profesional en 
+Ingeniería de Sistemas o carreras afines, con formación a nivel de posgrado en gerencia de proyectos, administración o 
+áreas TI.
+El gerente de proyecto debe contar con mínimo un (1) proyecto TI gerenciado en los últimos tres (3) años, a la fecha de 
+apertura de la presente convocatoria.  
+Experiencia en proyectos TI - Anexo 3 – Carta de 
+Experiencia de la empresa TI
+Acreditar ex¬periencia en el desarrollo de soluciones TI, a través de la ejecución y finalización de al menos tres (3) 
+proyectos en los últimos cinco (5) años, a la fecha de apertura de la convocatoria.
+Alianza Estratégica - Anexo 4 Carta unificada de aval y 
+compromiso institucional
+Sección 4
+Requisitos mínimos y documentación requerida de la convocatoria
+Estar legalmente constituida como persona jurídica y establecida como sociedad mercantil perteneciente a la industria de 
+Tecnologías de Información, domiciliada en Colombia, acreditando al menos, veinticuatro (24) meses de constitución 
+legal, a la fecha de apertura de la presente convocatoria.
+Descripción
+Verificación 24 meses constitución (Ejecutora)
+Requisito mínimo
+Verificación Actividad Económica (Ejecutora)
+La empresa TI, deberá evidenciar que realiza una o varias de las actividades económicas, descritas en el numeral 3, en la 
+información sobre las ejecutoras.
+Página 1 de 3
+ Elegible 
+preliminar
+RM 1 RM
+2
+RM 
+3
+RM 
+4
+RM 
+5
+RM 
+6
+RM 
+7
+RM 
+8
+RM 
+9
+RM 
+10
+RM 
+11
+RM 
+12
+Cumple
+Criterio 1
+Criterio 
+2
+Criterio 3 Criterio 4 Criterio 5 Criterio 6 Criterio 7 Criterio 8 Puntaje 
+Final
+Observaciones 
+del desempate
+Código de la propuesta: 
+Número de radicación en 
+ventanilla
+Cumplimiento de requisítos mínimos
+Resultados de la evaluación
+Sección 4
+20152430116442
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+20152430116422
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+20152430116452
+-
+-
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+20152430116482
+-
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+20152430116462
+-
+-
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+20152430115682
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+20152430116652
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+10
+7
+5
+10
+10
+10
+10
+0
+62
+NO
+20152430116172
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+15
+8
+10
+8
+10
+10
+10
+10
+81
+SI
+20152430116122
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+20
+15
+10
+8
+10
+10
+0
+0
+73
+SI
+20152430116112
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+20152430116102
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+20152430116092
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+14
+5
+10
+5
+0
+0
+10
+10
+54
+NO
+20152430116052
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+20152430115912
+-
+-
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+20152430116412
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+5
+5
+10
+3
+10
+10
+10
+0
+53
+NO
+20152430116402
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+  20152430116302
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+  20152430116272
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+11
+10
+10
+10
+0
+10
+10
+10
+71
+SI
+  20152430116192
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+8
+7
+10
+5
+10
+10
+10
+10
+70
+El
+criterio
+de
+desempate
+será
+el
+criterio 1
+SI
+  20152430116182
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+21
+15
+10
+10
+10
+10
+10
+10
+96
+SI
+20152430116742
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+20152430116032
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+20152430115922
+-
+-
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+20152430115932
+-
+-
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+20152430115942
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+20152430115982
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+5
+2
+10
+3
+10
+10
+10
+10
+60
+NO
+20152430116722
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+5
+3
+10
+2
+10
+10
+10
+10
+60
+NO
+20152430115952
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+20152430116502
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+20152430116612
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+25
+14
+10
+9
+0
+10
+10
+0
+78
+SI
+20152430116522
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+20152430116552
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+9
+5
+3
+2
+10
+10
+10
+0
+49
+NO
+20152430116492
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+5
+5
+10
+2
+0
+10
+10
+0
+42
+NO
+20152430116642
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+15
+10
+10
+5
+0
+10
+10
+0
+60
+NO
+20152430116562
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+20152430116532
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+18
+2
+10
+5
+10
+10
+10
+10
+75
+SI
+20152430116792
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+20152430116672
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+20
+12
+10
+9
+10
+10
+10
+10
+91
+SI
+20152430116712
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+20152430116732
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+20152430116702
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+20152430116752
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+15
+10
+10
+8
+10
+10
+10
+10
+83
+SI
+20152430116572
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+25
+15
+10
+10
+0
+10
+10
+0
+80
+SI
+20152430116622
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+18
+14
+9
+9
+0
+10
+10
+0
+70
+El
+criterio
+de
+desempate
+será
+el
+criterio 1
+SI
+20152430116662
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+18
+11
+9
+8
+0
+10
+10
+10
+76
+SI
+20152430116692
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+20152430116772
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+5
+5
+9
+2
+0
+10
+0
+0
+31
+NO
+20152430116762
+-
+-
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+20152430116582
+-
+-
+-
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+Sección 4
+Página 2 de 3
+ Elegible 
+preliminar
+RM 1 RM
+2
+RM 
+3
+RM 
+4
+RM 
+5
+RM 
+6
+RM 
+7
+RM 
+8
+RM 
+9
+RM 
+10
+RM 
+11
+RM 
+12
+Cumple
+Criterio 1
+Criterio 
+2
+Criterio 3 Criterio 4 Criterio 5 Criterio 6 Criterio 7 Criterio 8 Puntaje 
+Final
+Observaciones 
+del desempate
+Código de la propuesta: 
+Número de radicación en 
+ventanilla
+Cumplimiento de requisítos mínimos
+Resultados de la evaluación
+Sección 4
+20152430116602
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+6
+4
+8
+2
+10
+10
+10
+10
+60
+NO
+20152430116592
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+20152430116632
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+4
+5
+10
+3
+0
+0
+10
+0
+32
+NO
+20152430116542
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+CÓDIGO: M301PR02MO7
+VERSIÓN: 00
+FECHA: 2015-07-22
+Sección 5
+La inclusión de una propuesta en el banco preliminar de elegibles no implica obligatoriedad ni compromiso alguno de Colciencias de asignar recursos, ni genera derecho a recibir 
+apoyos económicos para quienes hayan presentado las correspondientes propuestas.
+La presente se firma a los 21 días del mes de septiembre de 2015
+JULIÁN PONTÓN SILVA
+DIRECCIÓN DE INNOVACIÓN Y DESARROLLO TECNOLÓGICO
+Sección 4
+Página 3 de 3
+    No
+RM 1
+RM 2
+RM 3
+RM 4
+RM 5
+RM 6
+RM 7
+RM 8
+RM 9
+RM 10
+RM 11
+RM 12
+No
+Criterio 1
+Criterio 2
+Criterio 3
+Criterio 4
+Criterio 5
+Criterio 6
+Criterio 7
+Criterio 8
+PUBLICACIÓN DE BANCO DEFINITIVO DE PROPUESTAS ELEGIBLES DE CONVOCATORIAS
+10
+10
+Total
+100
+De acuerdo con el numeral 4. Requisitos mínimos Nota 2. La ejecutora, la(s) beneficiaria(s) y la entidad acompañante deberán cumplir con la totalidad de los requisitos mínimos para la habilitación de la propuesta.
+Puntaje máximo a asignar
+Criterio de Evaluación
+Criterios de evaluación de la convocatoria
+Estar legalmente constituida como persona jurídica y establecida como sociedad mercantil perteneciente a la industria de Tecnologías de Información, domiciliada 
+en Colombia, acreditando al menos, veinticuatro (24) meses de constitución legal, a la fecha de apertura de la presente convocatoria.
+La empresa TI, deberá evidenciar que realiza una o varias de las actividades económicas, descritas en el numeral 3, en la información sobre las ejecutoras.
+Disponer de una (1) persona tiempo completo quien asumirá el rol de gerente del proyecto, éste deberá ser profesional en Ingeniería de Sistemas o carreras 
+afines, con formación a nivel de posgrado en gerencia de proyectos, administración o áreas TI.
+El gerente de proyecto debe contar con mínimo un (1) proyecto TI gerenciado en los últimos tres (3) años, a la fecha de apertura de la presente convocatoria.  
+Acreditar ex¬periencia en el desarrollo de soluciones TI, a través de la ejecución y finalización de al menos tres (3) proyectos en los últimos cinco (5) años, a la 
+fecha de apertura de la convocatoria.
+La carta debe estar debidamente firmada por todos y cada uno de los Representantes Legales integrantes de la alianza; en caso tal que una sola no llegare a 
+firmar dicha carta, la alianza quedará automáticamente excluida para participar en la presente convocatoria.  De ser el caso se aceptarán cartas de alianza 
+firmadas por separado.
+Proyecto formulado según el formato
+Estados financieros
+Anexo 5
+La contrapartida será en efectivo y la aportará la “Entidad ejecutora” (empresa TI), basada en la normatividad vigente para clasificación de empresas estipulado 
+en el artículo 2 de la Ley 590 de 2000 y modificado por el artículo 2 de la Ley 905 de 2004; de la siguiente manera:
+Valores de contrapartida mínimos en efectivo
+- Micro 5% del valor de cofinanciación*
+- Pequeñas 10% del valor de cofinanciación*
+- Medianas 15% del valor de cofinanciación*
+ *Valor de cofinanciación: Valor que aporta la alianza MINTIC - COLCIENCIAS
+Plan de Negocio
+Calidad del Proyecto
+Perfil del Gerente y del Equipo del Proyecto
+Carácter Innovador de la Propuesta
+Marca TI
+Capacidad Financiera
+Estados financieros de los últimos dos (2) años fiscales, debidamente firmados por el revisor fiscal o representante legal según sea el caso.
+Registro de experiencia del acompañante
+Plan de acción
+Autorización uso y almacenamiento de datos personales
+Acreditar sin excepción al menos, veinticuatro (24) meses de constitución legal, a la fecha de apertura de la presente convocatoria.
+Nota: el ejecutor debe asegurarse de que todas y cada una de las entidades beneficiarias cumplan con estos requisitos, ya que si en la alianza aparece por lo 
+menos una entidad que no cumple, la alianza NO será tenida en cuenta para continuar en el proceso.
+Verificación Actividad Económica (Ejecutora)
+Perfil gerente de proyecto
+Experiencia gerente de proyecto
+Experiencia en proyectos TI - Anexo 3 – Carta de Experiencia de 
+la empresa TI
+Alianza Estratégica - Anexo 4 Carta unificada de aval y 
+compromiso institucional
+Anexo 2
+I. Los requisitos mínimos y la documentación requerida establecidos para la convocatoria son los que se relacionan a continuación:
+Sección 1
+Convocatoria 709-2015
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS DE TECNOLOGÍAS DE LA INFORMACIÓN PARA EL SECTOR DE SALUD  EN COLOMBIA - 2015
+EI Departamento Administrativo de Ciencia, Tecnología e Innovación - COLCIENCIAS, atendiendo a lo establecido en los términos de referencia de la convocatoria 709 de 2015, publica el banco preliminar de propuestas elegibles, para tal fin se
+permite reiterar la siguiente información debidamente publicada en los términos de referencia:
+Sección 2
+Requisitos mínimos de la convocatoria
+Descripción
+Requisito mínimo
+Anexo 6
+Anexo 7
+Verificación 24 meses constitución Beneficiarias
+Verificación Actividad Económica Beneficiarias
+Contrapartida
+Verificación 24 meses constitución (Ejecutora)
+Sección 3
+II. Los criterios de evaluación para la convocatoria son los que se relacionan a continuación:
+Vinculación a Modelo Asociativo
+Modelos de Calidad Implementados
+25
+15
+10
+10
+10
+10
+Página 1 de 3
+ RM 
+1
+RM
+2
+RM 3 RM 4 RM 5 RM 6 RM 
+7
+RM 
+8
+RM 9 RM 10
+RM 
+11
+RM 
+12
+Cumple
+Criterio 
+1
+Criterio 
+2
+Criterio 3 Criterio 4
+Criterio 
+5
+Criterio 
+6
+Criterio 
+7
+Criterio 
+8
+Puntaje 
+Final
+Observaciones del desempate
+20152430116472
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+23
+13
+10
+10
+10
+10
+10
+10
+96
+El criterio de desempate será el criterio 1
+SI
+NO
+SI
+  20152430116182
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+21
+15
+10
+10
+10
+10
+10
+10
+96
+El criterio de desempate será el criterio 1
+SI
+NO
+SI
+20152430115652
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+20
+12
+10
+10
+10
+10
+10
+10
+92
+SI
+NO
+SI
+20152430116672
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+20
+12
+10
+9
+10
+10
+10
+10
+91
+SI
+NO
+SI
+20152430116572
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+25
+15
+10
+10
+10
+10
+10
+0
+90
+SI
+SI
+SI
+20152430116752
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+15
+10
+10
+8
+10
+10
+10
+10
+83
+SI
+NO
+SI
+20152430116172
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+15
+8
+10
+8
+10
+10
+10
+10
+81
+SI
+NO
+SI
+20152430116622
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+18
+14
+9
+9
+0
+10
+10
+10
+80
+SI
+SI
+SI
+20152430116612
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+25
+14
+10
+9
+0
+10
+10
+0
+78
+SI
+NO
+SI
+20152430116662
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+18
+11
+9
+8
+0
+10
+10
+10
+76
+SI
+NO
+SI
+20152430116532
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+18
+2
+10
+5
+10
+10
+10
+10
+75
+SI
+NO
+SI
+20152430116122
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+20
+15
+10
+8
+10
+10
+0
+0
+73
+SI
+NO
+SI
+  20152430116272
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+11
+10
+10
+10
+0
+10
+10
+10
+71
+SI
+NO
+SI
+  20152430116192
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+8
+7
+10
+5
+10
+10
+10
+10
+70
+SI
+NO
+SI
+20152430115882
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+20
+10
+10
+6
+7
+6
+10
+0
+69
+NO
+NO
+NO
+20152430116092
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+14
+5
+10
+5
+10
+0
+10
+10
+64
+NO
+SI
+NO
+20152430115932
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+15
+7
+9
+6
+3
+10
+10
+3
+63
+NO
+NO
+NO
+20152430116652
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+10
+7
+5
+10
+10
+10
+10
+0
+62
+NO
+NO
+NO
+20152430115682
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+16
+12
+9
+6
+0
+10
+7
+0
+60
+NO
+NO
+NO
+20152430115982
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+5
+2
+10
+3
+10
+10
+10
+10
+60
+NO
+NO
+NO
+20152430116722
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+5
+3
+10
+2
+10
+10
+10
+10
+60
+NO
+NO
+NO
+20152430116642
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+15
+10
+10
+5
+0
+10
+10
+0
+60
+NO
+NO
+NO
+20152430116602
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+6
+4
+8
+2
+10
+10
+10
+10
+60
+NO
+NO
+NO
+20152430114822
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+14
+7
+10
+8
+0
+10
+10
+0
+59
+NO
+NO
+NO
+20152430115922
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+10
+6
+10
+5
+0
+10
+3
+10
+54
+NO
+NO
+NO
+20152430116412
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+5
+5
+10
+3
+10
+10
+10
+0
+53
+NO
+NO
+NO
+20152430116552
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+9
+5
+3
+2
+10
+10
+10
+0
+49
+NO
+NO
+NO
+20152430116492
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+5
+5
+10
+2
+0
+10
+10
+0
+42
+NO
+NO
+NO
+20152430116632
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+4
+5
+10
+3
+0
+0
+10
+0
+32
+NO
+NO
+NO
+20152430116772
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+5
+5
+9
+2
+0
+10
+0
+0
+31
+NO
+NO
+NO
+20152430115832
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+NO
+NO
+20152430116442
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+NO
+NO
+20152430116422
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+NO
+NO
+20152430116452
+-
+-
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+NO
+NO
+20152430116482
+-
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+NO
+NO
+20152430116462
+-
+-
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+NO
+NO
+20152430116112
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+NO
+NO
+20152430116102
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+NO
+NO
+20152430116052
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+NO
+NO
+20152430115912
+-
+-
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+NO
+NO
+20152430116402
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+NO
+NO
+  20152430116302
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+NO
+NO
+20152430116742
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+NO
+NO
+20152430116032
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+NO
+NO
+20152430115942
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+NO
+NO
+20152430115952
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+NO
+NO
+20152430116502
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+NO
+NO
+20152430116522
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+NO
+NO
+Cumplimiento de requisítos mínimos
+IV. Colciencias atendiendo a lo establecido en los términos de referencia de la convocatoria, publica a continuación el banco definitivo de propuestas elegibles
+Sección 3
+III. El puntaje mínimo para que la propuesta sea declarada elegible es de 70 puntos
+Sección 4
+Código de la propuesta 
+Número de radicación en 
+ventanilla
+Resultados de la evaluación
+Elegible 
+preliminar
+Se presentaron 
+aclaraciones a la 
+publicación de banco 
+preliminar de elegibles que 
+modifican el banco de 
+propuestas elegibles
+Elegible 
+definitivo
+Página 2 de 3
+ RM 
+1
+RM
+2
+RM 3 RM 4 RM 5 RM 6 RM 
+7
+RM 
+8
+RM 9 RM 10
+RM 
+11
+RM 
+12
+Cumple
+Criterio 
+1
+Criterio 
+2
+Criterio 3 Criterio 4
+Criterio 
+5
+Criterio 
+6
+Criterio 
+7
+Criterio 
+8
+Puntaje 
+Final
+Observaciones del desempate
+Cumplimiento de requisítos mínimos
+Sección 4
+Código de la propuesta 
+Número de radicación en 
+ventanilla
+Resultados de la evaluación
+Elegible 
+preliminar
+Se presentaron 
+aclaraciones a la 
+publicación de banco 
+preliminar de elegibles que 
+modifican el banco de 
+propuestas elegibles
+Elegible 
+definitivo
+20152430116562
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+NO
+NO
+20152430116792
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+NO
+NO
+20152430116712
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+NO
+NO
+20152430116732
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+NO
+NO
+20152430116702
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+NO
+NO
+20152430116692
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+NO
+NO
+20152430116762
+-
+-
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+NO
+NO
+20152430116582
+-
+-
+-
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+NO
+NO
+20152430116592
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+NO
+NO
+20152430116542
+-
+-
+NO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+NO
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NO
+NO
+NO
+CÓDIGO: M301PR02MO7
+VERSIÓN: 00
+FECHA: 2015-07-22
+Sección 5
+Sección 4
+ALEJANDRO OLAYA DÁVILA
+Subdirector General
+La presente se firma a los 8 días del mes de octubre de 2015
+La vigencia del banco definitivo de propuestas elegibles será de un año a partir de esta publicación. La inclusión de una propuesta en el banco definitivo de elegibles no implica obligatoriedad ni compromiso alguno de Colciencias para asignar
+recursos, ni genera derecho a recibir apoyos económicos para quienes hayan presentado las propuestas correspondientes.
+Página 3 de 3

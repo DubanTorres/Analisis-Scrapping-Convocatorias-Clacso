@@ -1,0 +1,1276 @@
+1
+ Call for Proposals 
+Sources, distribution & impact of  
+microplastics in the marine environment
+Funding: up to 9.2 million Euro
+Deadline: 28.02.2019, 12:00 CE 
+                         
+T
+ 2                            
+Table of Contents
+ 
+Introduction 
+Scientific Framework 
+Procedures and Criteria
+Eligibility 
+General Procedure 
+Criteria for Evaluation and Selection 
+Call Structure and Management 
+Funding 
+Eligible budget items 
+Further information 
+Call Secretariat
+Submission of Proposals and Deadline 
+3
+5
+9 
+9 
+10 
+10 
+11 
+12 
+12 
+12 
+14 
+14
+1
+3
+2
+                           3
+1. Introduction
+Joint Call “Sources, distribution & impact of microplastics in the marine environment”
+Plastics, synthetic polymers virtually unknown prior to their broad commercialization in the 1950s, are 
+nowadays ubiquitous in the environment, and their production continues to rise. The global production 
+of plastics was 335 million tons in 2016 (Plastic Europe), of which 60 million tons were produced 
+in Europe alone . Plastics are used in a wide range of applications from food packaging, to basic 
+household items, personal care products, agriculture and industry. Other sources are the shedding 
+of synthetic fibres from polymers (for instance, in clothing, textiles and fishing related items) and the 
+rubber particles via roadway runoff.
+Plastics in the marine environment have become a major concern because of their persistence at 
+sea, and adverse consequences to marine life. According to estimates from Eunomia (2016) between 
+27—66.7 million tons of plastic can be found in the world’s ocean as of 2016. 
+To add to that, Lebreton et al. (2017)  estimate that between 1.15 and 2.41 million tons of plastic waste 
+currently enters the ocean every year from rivers alone whereas Jambeck et al. (2015)  estimate that 
+between 4.8 to 12.7 million tons of plastic enter the ocean annually in total. They are not biodegradable, 
+but undergo weathering that produce increasingly small particles termed microplastics. 
+In the last number of years many governmental initiatives have been launched to reduce the input of 
+plastic into the (marine) environment. A ban on microbeads in cosmetics has come into force in many 
+countries. Numerous other initiatives and strategies such as plastic bag levies are also emerging and 
+taking form across the globe, including in the EU. In January 2018, the EU published its plastics strategy 
+that aims to transform the way products are designed, produced, used, as well as recycled in the EU so 
+that the 30% recycling rate can be increased dramatically.
+However, plastic pollution of the ocean is not only a European but a global problem. The necessity to 
+tackle the plastics issue was recognised by both the G7 and G20 countries. In particular, the groups 
+of states acknowledge that marine litter, in particular plastic litter, poses a global challenge, directly 
+affecting marine and coastal life and ecosystems and potentially also human health. Accordingly, 
+increased effectiveness and intensity of work is required to reduce the input of plastic litter into the 
+environment. Under the Agenda 2030 for Sustainable Development of the United Nations countries 
+worldwide also pledge to tackle the marine litter issue. With Sustainable Development Goal 14 “Conserve 
+and sustainably use the oceans, seas and marine resources for sustainable development” countries 
+have pledged to “prevent and significantly reduce marine pollution of all kinds, in particular from land 
+based activities, including marine debris and nutrient pollution by 2025”. Better plastic management 
+across the world can make a contribution to the objectives of the 2030 Agenda for Sustainable 
+Development by developing sustainable consumption and production practices, improving waste 
+prevention and recycling and preventing marine litter. 
+Microplastic particles are a particular aspect of the problem of plastic pollution in the ocean. 
+Microplastics can be categorized in primary and secondary microplastics with a size smaller than 5 
+mm. Primary microplastics are high production volume materials applied in a large range of products 
+as plastic granulates, powders or micro- and nano-spheres. Secondary microplastics result from the 
+partial degradation of larger pieces of plastic litter into fragments in the micro-and possibly nano-
+size ranges, while decomposition is expected to take place over the course of hundreds of years. 
+Therefore now microplastic particles are found in all oceanic gyres, bays, gulfs and seas worldwide. 
+ 4                            
+Joint Call “Sources, distribution & impact of microplastics in the marine environment”
+Higher concentrations of microplastics were recently reported from Arctic sea ice, from the deep sea 
+and also marine regions far away from urban areas. 
+The EU Marine Strategy Framework Directive (MSFD – 2008/56/EC) requires the maintenance or 
+achievement of Good Environmental Status of the Seas and Oceans in order to protect marine species 
+and habitats from human activity. The 2017 Commission Decision 2017/848/EU on the Common 
+Understanding of the Directive replacing Decision 2010/477/EU sets out requirements to develop new 
+criteria and methodological standards and specifications and standardised methods for monitoring 
+and assessment. The Decision requires the development of new mandatory criteria under Descriptor 
+10 for litter and micro litter in the environment and the impact of the litter on marine species through 
+ingestion and entanglement. This work must be linked to the development of other criteria, threshold 
+values and methodologies for other descriptors for marine biological diversity, seafloor integrity and 
+contaminants in sea food and requires a transdisciplinary European research initiative. Although micro-
+plastic particles can be reliably quantified and identified by using spectroscopic techniques (e.g. FTIR, 
+Raman) from a particle size of >10 µm. Pyrolysis-gaschromatography (GC) in combination with mass 
+spectrometry (MS) can be used to assess the chemical composition (polymer type) and a quantitative 
+analysis of micro-plastics of entire environmental samples. But the preparation of the samples and the 
+spectroscopic measurements can take a long time. Marine environment managers involved in MSFD 
+and Regional Seas Conventions work on marine litter and its impacts require cost effective, timely 
+and standardised methodologies for sampling, analysis and assessments for European monitoring 
+programs. The development of new methodologies is necessary for standard operation protocols (SOP) 
+for marine micro litter including microplastics.
+In the joint transnational call “Ecological aspects of microplastics in the marine environment”, launched 
+under the framework of JPI Oceans, four projects were selected for funding from January 2016 for a 
+three year period. The project BASEMAN is focused on first steps for defining environmental baselines, 
+as well as the development of measurement methods and standards for microplastics analyses in 
+European waters - especially for the particle fraction higher than 300 µm.  EPHEMARE studies biological 
+effects of marine pollutants at molecular, cellular, physiological and organismic levels through the 
+implementation of several experiments in partner laboratories, to allow for detection of effects of 
+microplastics across the main phyla of marine organisms from bacteria to fish covering most of the 
+trophic levels. PLASTOX investigates the ingestion, food-web transfer, and ecotoxicological impact of 
+microplastics, together with the persistent organic pollutants metals and plastic additive chemicals 
+associated with them, on key European marine species and ecosystems. WEATHER-MIC assesses 
+how microplastic weathering changes its transport, fate and toxicity in the marine environment. In the 
+oceans, microplastic particles are exposed to factors including UV light, physical stress and biofilm 
+growth on their surface. 
+Through these research projects the knowledge about the analysis, weathering and, ecotoxicological 
+effects of microplastics in the marine environment has been substantially improved. But not all relevant 
+questions have been addressed in the four projects and the knowledge and understanding about 
+smaller microplastic particles (from 10 µm to very small particles - nanoparticles) is in particular limited.
+One new aspect that just recently started to be addressed is the use of satellite images to directly or 
+indirectly observe and reduce uncertainty of the numerical models for identifying and quantifying the 
+                           5
+Joint Call “Sources, distribution & impact of microplastics in the marine environment”
+sources, distribution patterns and sinks of plastics and microplastics in the ocean and in the shorelines. 
+Significant progress has been made on remote sensing technologies and some encouraging new 
+results have been presented and discussed to advance the global detection of floating marine debris 
+and its relationship with microplastics global mapping. But still several relevant questions have not 
+been addressed.
+Following on from the success and findings of the four projects funded under the first joint transnational 
+call of the JPI Oceans microplastic initiative, several funding partners decided to announce a second 
+funding opportunity to submit joint international proposals. In view of the global nature of the challenge, 
+JPI Oceans is explicitly inviting other international partners to join this initiative. Thereby JPI Oceans is 
+aiming to promote transatlantic and global cooperation on the issue, and contribute to the Regional 
+Seas Conventions, to the implementation of the Belém Statement as well as G7, G20 and UN aims of 
+reducing (micro-) plastic pollution in the ocean.
+JPI Oceans is an intergovernmental strategic process that focuses on solving the societal challenges 
+related to our seas and oceans that cannot be solved solely on the national level. In JPI Oceans national 
+ministries and agencies responsible for research funding seek to define common long-term strategic 
+priorities for marine and maritime research and technology development as a basis for strengthening 
+cooperation and coordination of national investments in these fields.
+2. Scientific Framework
+Building on the results from the joint transnational call “Ecological aspects of microplastics in the 
+marine environment” and recent scientific findings this joint transnational call intends to increase 
+the knowledge about the relevant sources of microplastics, analytical methods for identifying smaller 
+micro- and (nano-)plastics, monitoring their distribution and abundance in marine systems  and their 
+effects thereon as well as concepts to reduce inputs of plastic into the marine environment. This call 
+comprises four main themes:
+• 
+Identification, characterisation and quantification of the major microplastic sources, especially 
+mechanisms and time scales of macroplastic fragmentation
+• 
+New sampling and analytical  methodologies - focusing on the smaller (nano-)particles and in 
+situ measurement methods for all matrices (water, sediment, biota) 
+• 
+Monitoring and mapping of microplastics in the marine environment including its effects on the 
+marine environment
+• 
+Concepts to reduce inputs of plastics into the marine environment including through new 
+recycling methods, raising public awareness, promoting behavioural change, socio-economic 
+analyses
+ 6                            
+Joint Call “Sources, distribution & impact of microplastics in the marine environment”
+i. Identification, characterisation and quantification of the major microplastic 
+sources, especially mechanisms and time scales of macroplastic fragmentation 
+Microplastic particles of different size fractions can be found in the marine environments where they 
+undergo processes of weathering and biofouling. Several key knowledge gaps remain that prevent a true 
+understanding of the persistence of plastic in the marine environment. All the established degradation 
+mechanisms for plastic in the marine environment share a common issue: they are extremely slow 
+processes. The specific degradation rate of a plastic item depends on many factors, including polymer 
+type, the presence of additive chemicals, environmental conditions, seasonal differences etc. There is 
+very limited information about the different particulate and chemical degradation products that may 
+be formed and about their potential transport, behaviour, fate and impacts on the natural environment.
+In addition to analytical methods, mathematical methods and models are necessary for a better 
+understanding of the fragmentation and aggregation of microplastic in the marine environment. 
+Possible proxy functions of "a certain size class" which could potentially be used to predict the 
+occurrence of other particles should be explored. However, possible “mathematical links” between 
+larger microplastic and smaller particle size are still largely unknown. Similarly, knowledge on the 
+extent microplastic particles tend to exist as single free floating particles in the water or tend to form 
+larger aggregates (e.g. marine snow) is limited. This could have implications for trophic upgrading of 
+microplastic but also, in general, for the sedimentation of microplastic in aquatic systems.
+The following objectives should be addressed by submitted proposals and are required for a better 
+understanding of the occurrence and spatial variability of microplastics in marine systems:
+• 
+Fragmentation, aggregation, sedimentation and deposition characteristics of plastic in order to 
+understand the fate of microplastics in the marine environment;
+• 
+Identification, characterisation and quantification of microplastic particles before and after 
+weathering in marine systems; 
+• 
+Investigation of ingested microplastics inside marine organisms - description of residence 
+times, degradation and release of degradation product.
+ii. New sampling and analysis  methodologies - focusing on the smaller (nano-)
+particles and in situ measurement methods
+Microplastic particles can be reliably quantified and identified by using spectroscopic techniques 
+(e.g. µFTIR spectroscopy and Raman spectroscopy). Current methods for detecting and quantifying 
+microplastics in the laboratory can however be very costly, time consuming and resource-intensive. 
+In addition, the cost of purchasing the instrumentation required for such analyses often prevents 
+standardised monitoring and analysis. The development of alternative technologies for analysing and 
+characterising microplastic should be considered a research priority and solutions may well come from 
+outside the existing research community working in this field. Furthermore, it is suggested that the 
+development of methods and technologies to detect, characterise and quantify microplastic remotely 
+in the field should have a focus in future research activities. There are promising methods based upon 
+silhouette/ holographic imagery and satellite imagery that could be developed and optimised further.
+                           7
+Joint Call “Sources, distribution & impact of microplastics in the marine environment”
+Results of the projects from the first JPI Oceans joint transnational call demonstrate, that the 
+low micron-sized plastic particles (<300 µm) are the dominant fraction in the marine environment. 
+Concentrations of particles smaller than 10 µm and nanoplastic particles in the marine environment are 
+virtually unknown at present. This means that we are potentially missing data and knowledge about 
+the bulk of the particles in the marine environment. For the ecotoxicological aspects and the impact 
+of the marine organisms the smaller particles are very important. Whilst there is increasing evidence 
+that microplastics are unable to transfer across biological membranes and barriers due to their size, 
+nanoplastic particles appear to be sufficiently small to undergo this process. This mobility within 
+organisms significantly increases the risk of nanoplastic uptake and accumulation and, consequently, 
+the increase of adverse effects at cellular and molecular levels. Therefore, analytical methods are 
+necessary to identify and quantify such smaller particle sizes.
+There are now first studies on the sources of nanoplastic and microplastic litter that give a good 
+indication about what the main sources of this pollution are (e.g. car tyres, microfibres from textiles). 
+However, a number of these microplastic materials are not amenable to the techniques developed for 
+polymere microplastic particles. It would therefore be necessary to encourage projects that include 
+defined cases studies (e.g. car tyres or textiles) where the necessary methods are developed (or 
+existing methods are modified) to facilitate an investigation of their transport routes, environmental 
+sinks and environmental behaviour.
+Therefore, we are explicitly calling for proposals for development of new analytical in-situ and field 
+methods and improvement of established methods:
+• 
+For in-situ and field method for routine analysis of microplastic particles > 10 µm;
+• 
+For the quantification, identification and characterization of microplastic particles < 10 µm (incl. 
+nanoplastics);
+• 
+For the quantification, identification and characterisation of car tyres, microfibres by using 
+spectroscopic techniques; 
+• 
+For the simulation of accelerated macroplastics degradation pathways so that degradation 
+mechanisms can be studied within a realistic timescale within the laboratory.
+iii. Monitoring and mapping of microplastics in the marine environment including its 
+effects on the marine environment 
+In the first call “Ecological aspects of microplastics in the marine environment” research focused on 
+the development of measurement methods for microplastic in the marine environment. This method 
+development should form the basis for baseline studies and risk‐based monitoring, allowing to 
+estimate ‐ in combination with ecotoxicological studies ‐ the risks for marine environments and marine 
+organisms associated with plastics. In this new call more field measurements to identify and quantify 
+microplastic particles in the ocean and shorelines. 
+There is an urgent need for a comprehensive and systematic picture of distribution of plastics, 
+ 8                            
+Joint Call “Sources, distribution & impact of microplastics in the marine environment”
+especially microplastics, in the ocean. The degradation of macroplastic is the dominant source of 
+microplastic in the oceans. Therefore, the mapping of macroplastics in the oceans is necessary to 
+understand the generation, distribution and fate of microplastics. Remote sensing, aerial and in-
+situ observations and advanced numerical models combined together can significantly contribute 
+to advance the understanding of the sources, circulation patterns and fate of microplastics in the 
+ocean and shorelines. Several projects aiming at the direct or indirect observation of marine litter have 
+been developed by space agencies and initial results are very encouraging and they will certainly 
+contribute to a better global mapping to assess and monitor the quantity of floating plastics, including 
+microplastics, and its correlation with immersed microplastics life cycles and circulation patterns.
+Proposals should address the flowing themes:
+• 
+Quantification of microplastic in marine systems (water, sediment, biota) – spatial distribution 
+of microplastic litter, supported by modelling studies;
+• 
+Assessment of existing technologies for remote sensing and aerial in-situ observation and 
+development of new methodologies for remote sensing (sampling, quantifying, monitoring and 
+identifying) microplastics in the ocean and coastal areas;
+• 
+Mapping of microplastic distribution in the oceans and shorelines - combining satellite imagery, 
+field data, advanced global and local numerical models to describe the effects on the marine 
+environment;
+• 
+Development of monitoring strategies and methods for the implementation of the Marine 
+Strategy Framework Directive (MSFD) and UN Sustainable Development Goals (SDG) and liaison 
+with relevant science-policy processes such as the MSFD Technical Subgroup on Marine Litter 
+and GESAMP Working Group 40.
+iv. Concepts to reduce inputs of plastics into the marine environment including 
+through raising public awareness, promoting behavioural change, socio-economic 
+analyses
+Current evidence does not support the case that plastic pollution in the ocean constitutes a significant 
+risk for the marine environment at large, since effects only occur at very high concentrations that 
+are far above environmental levels; moreover these effects and concentrations are similar to those 
+reported for particulate matter of non-anthropogenic origin. However, due to the persistence, ubiquitous 
+presence and potential indirect effects of plastic particles, they represent a hazard and a potential 
+planetary boundary threat. There is public awareness and political willingness to take precautionary 
+action against plastic. Therefore, it is important to confront our possible ignorance of effects that might 
+make plastic a real planetary boundary threat, and to address knowledge gaps regarding the main 
+sources of plastic pollution so that emissions can be targeted and reduced. The ultimate goal is a 
+circular economy.
+Both the recent refusal from China to import and recycle Western waste and the European Strategy 
+for Plastics in a Circular Economy show the pertinence of shifting from the current macroeconomic 
+approaches towards a more circular economy. Proposals should assess and evaluate the life cycle 
+of different polymers, taking into consideration production, supply chains and recycling of plastic 
+                           9
+Joint Call “Sources, distribution & impact of microplastics in the marine environment”
+materials, and understanding their impact on the EU economy. Analyses should identify best‐practice 
+initiatives across Europe in order to raise public and stakeholder awareness – ocean literacy – among 
+different stakeholder groups (from port and waste managers, to fishermen and consumers) and 
+promoting behavioural change. 
+Proposals should address the following themes:
+• 
+Reduction and prevention of plastic inflow into the ocean, e.g. through improved waste 
+management systems or through development of new technologies for recycling of plastics, the 
+adoption of improved practices, circular models and closed-loop supply chains;
+• 
+Contributing to ocean literacy by raising of public and citizen awareness about the problem of 
+plastic pollution thereby inducing behavioural change;
+• 
+Assessing the life-cycle impacts of specific plastic polymers and identifying most sustainable 
+materials, including alternatives to plastics.  
+3. Procedures and criteria
+Proposals should address at least one of the four themes in the call text. Applicants are advised to 
+consult their national contact points for this call prior to planning and submitting proposals (contact 
+person see further information).
+a) Eligibility
+The call is open to proposals that meet the following criteria:
+• 
+Applications must be submitted timely, complete and following all the requirements set under 
+point i)
+• 
+The proposal addresses at least one of the four themes in the call text;
+• 
+The transnational collaboration must have a clear added value for at least one of the four 
+proposed research themes.
+• 
+Research partners who are eligible to apply for financial support from any of the participating 
+FUNDING PARTNERS are eligible to apply for funding within this call for proposals; 
+• 
+Research partners from other countries (ASSOCIATE PARTNERS) or ineligible for the participating 
+FUNDING PARTNERS can participate in project proposals on the condition that they provide written 
+proof that their part of the project will be covered independently of this call (in kind), however 
+they cannot coordinate a project and their contribution to the project should not be essential;
+• 
+The principal investigator leading an application must be eligible for submitting funding proposals 
+to one of the FUNDING PARTNERS; 
+ 10                            
+Joint Call “Sources, distribution & impact of microplastics in the marine environment”
+Number of applicants per proposal:
+• 
+Each application must involve eligible research partners from at least three participating 
+countries (countries of the FUNDING PARTNERS); no maximum number of partners is specified; 
+Funding Period: Project duration should be:
+• 
+Maximum of three years;
+• 
+Projects should preferably start on 01.01.2020 (earliest).
+The maximum requested funding per proposal is € 2,000,000. The maximum budget per partner and/
+or per proposal is specified in the national regulation from each FUNDING PARTNER.
+The eligibility criteria specified by the respective FUNDING PARTNERS have to be met. For details 
+please check the National annex published on the online submission tool and/or contacts the 
+national representative(s) for further advice. https://epss-jpi-oceans.ptj.de/Call 2018.
+b) General Procedure 
+The following procedure will be applied:
+1. 
+Proposals must be submitted via a submission platform to the LEAD AGENCY (Project 
+Management Juelich) by the coordinator (principal investigator) of the proposal.
+2. 
+After the submission deadline, all proposals are checked against the mandatory call eligibility 
+criteria by the LEAD AGENCY. FUNDING PARTNERS check the eligibility criteria specified in the 
+National annex. The national eligibility check will include an ethics screening to ensure that the 
+proposals comply with applicable national rules and regulations.
+3. 
+Eligible proposals are sent to independent, international peer referees for assessment. 
+4. 
+Principal Investigators will have the chance to rebut.
+5. 
+An EVALUATION PANEL, consisting of independent, international experts, ranks the proposals 
+based on the results of the peer-review procedure (review reports).The EVALUATION PANEL 
+recommends the top-ranked proposals for funding.
+6. 
+The FUNDING PARTNERS jointly agree on a short-list of projects selected for funding out of the 
+top-ranked proposals based on the recommendations from the EVALUATION PANEL. 
+The composition of the EVALUATION PANEL will be made public after the funding procedure has been 
+completed. Strict confidentiality is maintained with respect to the identities of applicants and the 
+contents of the proposals throughout the duration of the whole procedure. The list of funded projects 
+will be published on the website of JPI Oceans. 
+                           11
+Joint Call “Sources, distribution & impact of microplastics in the marine environment”
+c) Criteria for Evaluation and Selection
+Potential applicants are advised to take carefully notice of the aims and scope of the call as 
+described above. The following criteria will be applied to assess the quality of proposals:
+Scientific quality, including novelty, originality and innovation of the proposed research 
+• 
+Relevance to the topics of the call
+• 
+Sound concept and quality of objectives
+• 
+Innovation level (progress beyond the state of the art)
+• 
+ Novelty, unique feature
+ Quality of applicants and suitability of the consortium, level of integration and collaboration
+• 
+ Scientific quality of the consortium
+• 
+ Interdisciplinarity of the consortium
+• 
+International/ European added value for the proposed research
+• 
+Management structure and procedure (incl. data management plan)
+ Networking and dissemination activities, training opportunities
+• 
+Level of integration and collaboration
+• 
+Outreach and Dissemination plan, including science-policy interface
+• 
+Integration of stakeholder or activities for stakeholder
+• 
+Training activities for young scientists or students
+ Feasibility of the proposed research, suitability of budget request
+• 
+Work plan and methodology 
+• 
+Feasibility of deliverables and milestones
+• 
+Suitability of budget request
+d) Call Structure and Management
+The principal investigator (PI) should submit a mid-term report including a publishable summary in 
+ 12                            
+Joint Call “Sources, distribution & impact of microplastics in the marine environment”
+English to the JPI Oceans Secretariat and LEAD AGENCY within three months after the mid-term. 
+Furthermore the PI will be responsible to submit a final report to the LEAD AGENCY, in English, within 
+three months after the end of the project. This report should cover the work undertaken by all of the 
+project partners.
+Independent of the reporting to the LEAD AGENCY all project partners need to report to their national 
+funding agency in accordance with the relevant national rules of each country.
+At the beginning of the projects a joint kick-off meeting with all funded projects will be organised. A joint 
+mid-term meeting will be organised half way through the funding period. A joint final conference will be 
+organized at the end of the funding period. The FUNDING PARTNERS will organise these three meetings 
+in cooperation with the PIs of the funded projects. PIs must include capacity for their participation to 
+the three meetings in their proposal, Participants of funded projects are expected to participate in the 
+kick-off, mid-term meetings and in the final conference and should include the relevant travel costs in 
+their proposal budgets. FUNDING PARTNERS will cover the other costs for the above meetings.
+e) Funding
+A total amount of up to € 9.2 million has been blocked by the FUNDING PARTNERS from Belgium, Brazil, 
+Estonia France, Germany, Iceland, Ireland, Italy, Malta, Norway, Portugal, Spain and Sweden for this 
+call. Each research partner will be funded by its national funding partner (see point g). The FUNDING 
+PARTNERS aim at funding as many top-ranked proposals as possible. 
+f) Eligible budget items
+Eligible costs are ruled by national regulations (see National Annex). Specific questions should be 
+addressed to the national partner organisations (see point g), if possible in advance of submitting an 
+application.
+g) Further information
+Potential applicants are strongly advised to consult the general funding requirements of the national 
+organisations participating in the call and to contact the national contact persons whenever necessary, 
+especially with regard to eligible costs and other country-specific aspects of the call. 
+Contact person Belgium: 
+David Cox 
+Belgian Science Policy Office (BELSPO) 
+Louizalaan 231 Avenue Louise 
+1050 Brussels 
+Tel: +32 2238 34 03 
+Email: david.cox@belspo.be
+Contact person Brazil:  
+Elisa Natola  
+National Council of State Research Support 
+Foundations (Confap) 
+Tel : +55 61 9 9613.8850 
+Email: elisa.confap@gmail.com
+         13
+Joint Call “Sources, distribution & impact of microplastics in the marine environment”
+Contact person Estonia:  
+Rene Reisner/ Dr. Katarina Viik 
+Ministry of the Environment of the Estonian 
+Republic, Marine Environment Department 
+Narva mnt 7A 
+15172 Tallinn, Estonia 
+Tel: +372 626 2855/ +372 626 2949 
+Rene.Reisner@Envir.ee/ Katarina.Viik@envir.ee
+Dr. Katrin Kello 
+Estonian Research Council 
+Department of International Research Cooperation  
+Soola 8  Tartu 51004, Estonia 
+Tel : +372 731 7361 
+Email: Katrin.Kello@etag.ee
+Contact person France:  
+Dr. Claude Yven/ Maurice Heral 
+The French National Research Agency (ANR) 
+50 avenue Daumesnil 
+75012 Paris, France 
+Tel: +33 173 54 82 87 
+Email: claude.yven@agencerecherche.fr
+Contact person Germany:  
+Dr. Uwe Selig 
+Project Management Juelich 
+Schweriner Str. 44 
+D-18 069 Rostock, Germany 
+Tel: +49 381 20356-295 
+Email: u.selig@fz-juelich.de
+Contact person Iceland:  
+Sóley Morthens 
+The Marine and Freshwater Research Institute 
+Skúlagata 4, IS-101 Reykjavík 
+Tel: + 354 575 2000 
+Email: soley.morthens@hafogvatn.is
+Contact person Ireland:  
+Veronica Cunningham 
+Ireland Marine Institute  
+Rinville, Oranmore | Co. Galway 
+Tel: +353 91 387 532  
+Email: veronica.cunningham@marine.ie
+Richard Cronin 
+Department of Housing, Planning and Local 
+Government (DHPLG) 
+Tel: +353 761 002 683 
+Email: Richard.Cronin@housing.gov.ie
+Contact person Italy: 
+Aldo Covello/ Mauro Bertelletti 
+ltalian Ministry of Education, University and Research 
+(MIUR) 
+Tel: +39 06 97726465/ +39 06 9772 7902 
+Email: aldo.covello@miur.it/ mauro.bertelletti@miur.it
+Contact person Malta: 
+Corinne Muscat Terribile 
+R&I Monitoring Executive | Policy, Strategy and 
+Internationalisation Unit 
+The Malta Council for Science and Technology  
+Villa Bighi, Kalkara KKR 1320 – Malta 
+Tel. +356 2360 2152 
+Email: corinne.muscat-terribile@gov.mt 
+Contact person Norway:  
+Marius Omland 
+Research Council of Norway (RCN) 
+Drammensveien 288, 
+PO Box 564 
+1327 Lysaker, Norway 
+Tel: +47 938 17 508 
+Email: mo@rcn.no
+Contact person Portugal: 
+Dr. Marta Norton/ Sofia Cordeiro 
+Science & Technology Foundation 
+(FCT) Av. D. Carlos I 
+1249-074 Lisboa 
+Tel: +351 21 391 1565 
+Email: marta.norton@fct.pt
+Contact person Spain: 
+Abraham Trujillo  
+Spanish State Research Agency (AEI) 
+Paseo de la Castellana, 162. 28046, Madrid, 
+Spain Tel: +34 916038359 
+Email: oceans@aei.gob.es
+Contact person Sweden:  
+Dr. Petra Wallberg 
+The Swedish Research Council for Environment, 
+Agricultural Sciences and Spatial Planning 
+(FORMAS) Tel:+ 46 8 775 41 27 
+Email: petra.wallberg@formas.se 
+ 14            
+Joint Call “Sources, distribution & impact of microplastics in the marine environment”
+h) Call Secretariat
+The call will be run by Project Management Juelich (PTJ), Div. MGS. The CALL SECRETARIAT is responsible 
+for organizing the evaluation procedure and for all communication with coordinators regarding their 
+applications.
+i) Submission of Proposals and Deadline
+The language of the application is English. Applications must be submitted electronically to PTJ via 
+the link provided on the website https://epss-jpi-oceans.ptj.de/Call2018.
+The use of the official application form for this call is mandatory. Instructions and guidelines for 
+submitting applications can be found on the website. In case of technical questions, please contact 
+the call secretariat (show website).
+The deadline for submitting proposals is 28.02.2019, 12:00 CET. Applications received after the 
+deadline will not be considered.
+////
+                           15
+ 16                            
+JPI Oceans
+Rue du Trône 4   |   1000 Brussels   |   Belgium
+Tel. +32 (0)2 626 16 60   |   Fax: +32 (0)2 626 16 61   |   jpioceans@rcn.no
+www.jpi-oceans.eu
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Guidelines Proposal Submission 
+      
+Joint call for proposals under the framework of JPI Oceans on 
+ 
+ 
+“Sources, distribution & impact of microplastics in the marine environment” 
+ 
+ 
+ 
+ 
+20.11.2018 
+ 
+ 
+ 
+ 
+ 
+Version: 2018/11/20 
+ 
+ JPI Oceans Call microplastic II 
+Guidelines Proposal Submission 
+1 
+ 
+ 
+CONTENT 
+ 
+1. 
+Background .............................................................................................................................................. 1 
+2. 
+Process overview ...................................................................................................................................... 1 
+3. 
+Template proposal ................................................................................................................................... 3 
+ 
+1. Background 
+The Call Announcement of the joint call provides the essential information about the evaluation procedure, 
+eligibility and evaluation criteria. These guidelines briefly explain some technical issues related to the proposal 
+submission. 
+2. Process overview 
+The procedure is divided into several steps: submission, eligibility check and evaluation of full proposals. One 
+joint proposal should be prepared by the consortium members. The proposals must be electronically submitted 
+by the project coordinator via the online submission tool available at https://epss-jpi-oceans.ptj.de/Call2018. 
+ 
+Submission of a proposal 
+The proposal consists of different parts which have to be filled in online. First, the coordinator has to register in 
+the submission tool. A user can be registered several times in the submission tool with the same e-mail account but 
+different usernames, one for each proposal. In this way, a correct assignment to proposals is ensured in the 
+submission tool. 
+After registration a link will be sent to the registered e-mail account to activate the registration. 
+The coordinator can enter, edit and save the electronic forms, add partners to the consortium upload the project 
+description and submit the proposal. Partners can enter and edit their own data only. 
+In addition, the coordinator may reedit and resubmit the proposal before the submission deadline. In this 
+case, only the latest submitted version will be used for evaluation. Proposals can only be submitted and/or 
+modified prior to 12:00 CET on 28 February 2019. 
+After successful submission the coordinator as well as the partners will receive an automatically generated 
+confirmation of receipt. 
+Each project coordinator should make sure to register early enough. After the deadline, the website will neither 
+accept modification nor submission of any proposal. The project coordinator should also not underestimate 
+the effort needed to collect the required information from their project partners or fill in the online forms. 
+Therefore it is strongly recommended to submit the first version of proposals well before the deadline. 
+The information given in the proposal is binding in terms o f consortium composition and maximum requested 
+budget. The project description presents the scientific part. Please keep in mind that the project description should 
+allow experts to evaluate its relevance to the aim of the call and its excellence despite the limited space for details. 
+The project description cannot exceed the limited characters in each section.  
+The limits in the template are given and have a maximum number of characters (4000 characters are 
+approximately one A4 page of text). Please use only the formatting in the submission tool - remove all formatting 
+before copy the text in the submission tool. 
+ 
+ JPI Oceans Call microplastic II 
+Guidelines Proposal Submission 
+2 
+ 
+Up to five figures can be embedded in the text through place markers. The figures should be uploaded as .jpeg, 
+.gif or .png files and should have a maximum size of 600 pixels. 
+Only the newest uploaded file will be saved. If the project description is not uploaded to the proposal, that 
+particular proposal will be considered ineligible. 
+The proposal must be filled out online in the submission tool https://epss-jpi-oceans.ptj.de/Call2018. A template is 
+attached. 
+If consortium partners are requested to submit separate or different proposal documents towards their 
+national funding organization, the consortium partner(s) concerned shall submit these documents directly to the 
+respective national / regional funding organization. 
+ 
+Eligibility check of proposals 
+The proposals will be checked whether they can be considered eligible regarding to eligibility criteria as laid down in 
+the Call Announcement. Every partner country has individual funding conditions and eligibility criteria. Please check 
+the national regulation.  
+Please note: If one partner of a consortium does not fulfil their national/regional eligibility criteria, the whole 
+consortium will be deemed ineligible. 
+ 
+It is the responsibility of the consortium coordinator to verify that the consortium fulfils the Call eligibility criteria 
+and that all partners fulfil their national/regional eligibility criteria. In case of uncertainty regarding eligibility 
+criteria, please contact the National Funding Partners. 
+ 
+If a proposal is ineligible, the Call Office will inform the coordinator. 
+Each proposal will be at least checked for eligibility at the Call Office and at national level.  
+All proposals were review from independent referees. An Evaluation Panel ranks the proposals based on the peer-
+review procedure. A final selection of proposals will be done in a meeting of the management committee. The Call 
+Office will inform the coordinators about the evaluation results of the proposals. 
+ 
+ JPI Oceans Call microplastic II 
+Guidelines Proposal Submission 
+3 
+ 
+3. Template proposal 
+The proposal consists of different parts which have to be filled in online. Please note that you can save your text 
+only if it does not contain more characters than pre-defined within the submission tool.  
+ 
+ 
+1. REGISTRATION : In order to use the Electronic Submission and Evaluation System, the project coordinator 
+has to register via the website: https://epss-jpi-oceans.ptj.de/Call2018  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ JPI Oceans Call microplastic II 
+Guidelines Proposal Submission 
+4 
+ 
+2. ACCOUNT: Coordinators can change the password in this section. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. COORDINATOR PROFILE The project coordinator has to fill in the registration form, on which most of the 
+fields are mandatory: details like salutation, family name, first name, affiliation and address details. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Please note: the project coordinator has to be from a country participating in this call and has to have a funding organisation 
+assigned to him. The relevant funding organisations can be chosen from a dropdown menu. 
+Please note that the registration will not proceed if one of these fields is empty (except for area and region, as they are optional 
+fields). The project coordinator should treat the password confidentially. He should not give his password to other people, 
+including proposal partners. 
+ 
+ JPI Oceans Call microplastic II 
+Guidelines Proposal Submission 
+5 
+ 
+4.          PARTNERS details like salutation, family name, first name, affiliation and address details 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Just click on “Add Partner” and enter the relevant details. In case a consortium partner drops out during the 
+submission process, it is possible to remove the partner from the list by clicking on “Remove Partner” and add the 
+replacement as a new partner.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+     
+ 
+ JPI Oceans Call microplastic II 
+Guidelines Proposal Submission 
+6 
+ 
+5. PROJECT (Project data): Project title, acronym, duration, priority area, topics must be filled in next. 
+Please note: Please attach the proposal to one or more topics of the call. If more than one topic is addressed in 
+your proposal, please indicate the percentage in the text field under the selection menu. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6. Keywords: Maximum 5 keywords related to your project, separated by comma. keywords enable effective 
+expert selection to evaluate your proposal, 5 keywords maximum 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The next several sections comprises fields for project summary, state of the art, objectives, description of the 
+research plan, dissemination, networking, international cooperation, project management etc..  
+ 
+ JPI Oceans Call microplastic II 
+Guidelines Proposal Submission 
+7 
+ 
+7. PROJECT Summary/ Abstract (2.000 characters1): summary, general objectives of the project (strategic, 
+commercial, etc.), scientific and/or technological aims of the project, relevance to the scientific scope 
+(including sub-theme) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8. STATE OF THE ART (25.000 characters) in research and development (including alternative solutions, 
+Intellectual property protection rights, information search), earlier research activities and experience of 
+partners in the proposed field. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 The number of character incl. spaces 
+ 
+                                                                 
+ JPI Oceans Call microplastic II 
+Guidelines Proposal Submission 
+8 
+ 
+9. Project Objectives/ Description (25.000 characters) general objectives of the project, scientific and/or 
+technological aims of the project, relevance to the scientific scope of the Call (including sub-theme); 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10. Detail description of working plan (1.000 character per work package, task, milestones) - proposal 
+objectives, methodology, research design, first work plan details with of assignment of personnel 
+capacity. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Please note: please describe in detail your Work packages and Tasks and enter Milestones and Deliverables for each Work 
+package by klick on the symbols. You can extend the list if it is needed. The submission tool automatically generates a Gantt 
+chart. Please check in the factsheet the presentation of the work packages. 
+ 
+ JPI Oceans Call microplastic II 
+Guidelines Proposal Submission 
+9 
+ 
+ 
+11. Dissemination, Outreach, networking, training opportunities (8.000 characters) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12. International Cooperation - Affiliation with (inter)national research programmes (6.000 characters) 
+European added value in carrying the work at European level, clear added value in carrying out the work 
+at trans national level, solving of societal or environmental problems. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ JPI Oceans Call microplastic II 
+Guidelines Proposal Submission 
+10 
+ 
+ 
+13. Description of project management incl. data management (6.000 characters) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14. Scientific publications (6.000 characters) - Other relevant publications with respect to the application in 
+addition to the partner profile 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ JPI Oceans Call microplastic II 
+Guidelines Proposal Submission 
+11 
+ 
+ 
+15. FINANCIAL PLAN organization name, personnel, travel, material, equipment, consumables, other costs 
+like subcontracts, depreciation and rent/leasing, overheads, requested funding, total own contribution, 
+total costs. Some types of costs may not be fundable by all funding organisations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16. FINANCIAL COMMENTS (1.000 characters) please enter a brief description regarding your costs, for 
+overhead costs national regulations apply, if you have other costs please specify. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ JPI Oceans Call microplastic II 
+Guidelines Proposal Submission 
+12 
+ 
+ 
+17. Additional Information please uploads a PDF document, which relevant documents (letter of intent - 
+please no CV from all partners) up to 1 MB. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18. FIGURES you have the opportunity to upload up to 5 images, to insert them, you enter the place marker 
+"[[figureX]]" into your text (where the image should appear), by replacing the X with the number of the 
+image you create the link to the image, allowed formats are jpg, png or gif, the max file size: 600px x 
+600px, 2 MB. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ JPI Oceans Call microplastic II 
+Guidelines Proposal Submission 
+13 
+ 
+ 
+19. FACTSHEET the coordinator and the partners can download the work version (the current state of your 
+entered data) as well as the finalized version (the state of your entered data from your last submit). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20. VALIDATION the proposal is ready for submission if all fields are green and the comment says “validation 
+successful, ready to submit”, please have in mind that this is no guaranty that all pages are filled in 
+properly. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ JPI Oceans Call microplastic II 
+Guidelines Proposal Submission 
+14 
+ 
+ 
+ 
+21. SUBMIT you have to confirm the following declarations after validation: 
+The project applicants hereby declare, that to the best of their knowledge the research outlined in this 
+proposal is unique in character and does not duplicate research already funded at national, regional or EU 
+level, within national, regional, international or EU calls. 
+The applicants confirm that they are aware that failure to fulfil this condition will result in the withdrawal 
+of this proposal from the application process or the withdrawal of funding from approved projects. 
+The proposal is line with the guidelines to ethical aspects of the Horizon 2020 Programme: here  
+ 
+In a final step the coordinator confirms that they are aware that failure to fulfil this condition will result in 
+withdraw of this proposal from the application process or withdraw of funding from approved projects. 
+The final step is to enter the submission button. After that A SUBMITTED PROPOSAL EXISTS. You have already 
+submitted a proposal but you can resubmit at any time until the closing date. 
+ 
+ 
+ 
+ Check list of eligibility for the Priority Area/ thematic topics 
+ 
+ 
+Topic 1 
+Topic 2 
+Topic 3 
+Topic 4 
+Funding organisation 
+Identification, 
+characterisation, 
+quantification …. 
+New sampling and 
+analytical  
+methodologies  … 
+Monitoring and 
+mapping  ... 
+Concepts to reduce 
+inputs of plastics 
+…. 
+Belgium: 
+Belgian Science Policy Office (BELSPO) 
+eligible 
+eligible 
+eligible 
+eligible 
+Brazil:  
+National Council of State Research Support Foundations (Confap) 
+eligible 
+eligible 
+eligible 
+eligible 
+Estonia:  
+Ministry of the Environment of the Estonian Republic and Estonian 
+Research Council 
+eligible 
+eligible 
+eligible 
+eligible 
+France:  
+French National Research Agency (ANR) 
+eligible 
+eligible 
+not eligible 
+eligible 
+Germany:  
+Project Management Juelich/ on behalf of BMBF 
+eligible 
+eligible 
+eligible 
+not eligible 
+Iceland:  
+The Marine and Freshwater Research Institute (MFRI) 
+eligible 
+eligible 
+eligible 
+eligible 
+Ireland:  
+Marine Institute  and Department of Housing, Planning and Local 
+Government (DHPLG) 
+eligible 
+eligible 
+eligible 
+eligible 
+Italy: 
+ltalian Ministry of Education, University and Research (MIUR) 
+eligible 
+eligible 
+eligible 
+eligible 
+Lativia: 
+Ministry of Education and Science(IZM)  
+eligible 
+eligible 
+eligible 
+eligible 
+Malta: 
+Malta Council for Science and Technology 
+eligible 
+eligible 
+eligible 
+eligible 
+Norway:  
+Research Council of Norway (RCN) 
+eligible 
+eligible 
+eligible 
+eligible 
+Portugal: 
+Science & Technology Foundation (FCT) 
+not eligible 
+not eligible 
+eligible 
+not eligible 
+Spain: 
+Spanish State Research Agency (AEI) 
+eligible 
+eligible 
+eligible 
+ not eligible 
+Sweden:  
+Swedish Research Council for Environment, Agricultural Sciences and 
+Spatial Planning (FORMAS) 
+eligible 
+eligible 
+eligible 
+eligible 
+ 

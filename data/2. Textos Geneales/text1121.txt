@@ -1,0 +1,862 @@
+
+ 
+ 
+ 
+ 
+M301PR01F03 
+Versión: 06 
+Vigente desde 2017-03-09 
+Página 1 de 13 
+Av. Calle 26 # 57-41 Torre 8 Pisos 2 al 6 –PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS - 
+ 
+ 
+ANEXO No. 3 
+ 
+ 
+RETO DE CIENCIA Y TIC – SAN MIGUEL, PUTUMAYO 
+ 
+Construir, educar y proteger: una misión dorada 
+ 
+1. 
+DESCRIPCIÓN DEL RETO 
+¿Cuál es el reto? 
+ 
+Implementar una solución científico – tecnológica que permita a partir de la apropiación 
+social de la ciencia, tecnología e innovación, el desarrollo de herramientas y acciones que 
+mejoren el aprovechamiento sostenible de los recursos y servicios ecosistémicos que 
+provee la quebrada La Dorada 
+ 
+ 
+Condiciones del reto  
+ 
+• Que independiente del diseño de la solución científico - tecnológica, ésta debe basarse en una 
+dinámica de apropiación social de la ciencia, la tecnología e innovación. 
+• Que integre ciencia y tecnología con tecnologías de la información y las comunicaciones – TIC. 
+• Que se conciba que la solución, además de solucionar una situación específica, permita el 
+fortalecimiento del tejido social de la comunidad participante alrededor de la conservación del 
+entorno natural de la quebrada la Dorada, incluyendo la zona de los lavaderos. 
+• Que se implemente colaborativamente con la comunidad participante. 
+• Que una vez implementada, ésta sea sostenible en el tiempo en términos técnicos, económicos, 
+sociales y ambientales. 
+• Que sea diseñada para que pueda ser replicable posteriormente en otros contextos similares. 
+• Que su desarrollo sea al más bajo costo posible, sin que vaya en detrimento de su alcance, con 
+el fin de facilitar su replicabilidad posterior. 
+ 
+Tiempo máximo de ejecución del reto: 9 meses. 
+ 
+Comunidad participante: Sujeto de Reparación Colectiva (SRC) del municipio de San Miguel. 
+ 
+Familias a impactar directamente: 730 Familias. 
+ 
+Valor del aporte de COLCIENCIAS Y MINTIC para la Cofinanciación: $ 180.000.000. En caso 
+de que la solución requiera recursos económicos superiores al aporte de cofinanciación descrito, 
+se podrá brindar contrapartida o gestionar alianzas con otras entidades que puedan aportar los 
+recursos necesarios para la implementación de la solución.  
+ 
+Ubicación: Municipio de San Miguel – Putumayo. 
+ 
+Objetivos de Desarrollo Sostenible en el que se enmarca el reto:  
+Objetivo 6: Agua limpia y saneamiento.  
+Objetivo 16: Paz, justicia e instituciones solidarias. 
+Objetivo 15: Vida de Ecosistemas terrestres. 
+  
+ 
+ 
+ 
+ 
+M301PR01F03 
+Versión: 06 
+Vigente desde 2017-03-09 
+Página 2 de 13 
+Av. Calle 26 # 57-41 Torre 8 Pisos 2 al 6 –PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+2. 
+¿CUÁL ES LA NECESIDAD EXISTENTE? 
+La comunidad del Sujeto de Reparación Colectiva del municipio de San Miguel, Putumayo plantea 
+una necesidad de carácter integral y en los siguientes términos: Existe una relación de la 
+comunidad con el entorno natural de la quebrada la Dorada que, debido al desarrollo de una 
+actividad doméstica, el lavado de ropa, y la descarga de aguas residuales domésticas, 
+estaría provocando afectación ambiental a la misma. 
+ 
+A la luz de este planteamiento, se identifica una necesidad específica en torno a un ecosistema 
+natural importante para la comunidad: La quebrada La Dorada. Esta necesidad se encuentra 
+enfocada por la conservación, protección y uso sostenible del agua como recurso vital y eje de 
+articulación de la población.  
+ 
+La microcuenca de la quebrada La Dorada, además de ser un sitio de encuentro permanente (la 
+existencia del punto de los lavaderos y de actividades lúdicas así lo confirman), recoge el interés 
+de plantear una existencia armónica con el entorno debido a los servicios significativos que presta 
+a la comunidad tales como:  
+ 
+• Se realiza la actividad de lavado con más facilidad, dado que en sus casas no tienen agua 
+suficiente disponible (si bien el acueducto tiene una cobertura del 70% en redes en la cabecera 
+municipal, no se utiliza porque el tanque elevado no tiene colector (Plan de Desarrollo Municipal 
+2016-2019, p. 73). La mayoría de viviendas tienen en sus casas o cerca un aljibe del que 
+extraen agua o recogen aguas lluvias principalmente para el consumo.  
+• Se reúnen con otras personas y pueden conversar, se convierte en un sitio de esparcimiento. 
+Cuando es posible los niños van con las madres y disfrutan del baño en la quebrada mientras 
+ellas lavan la ropa.  
+• Esta zona de lavaderos dispone en la parte alta de un espacio físico rodeado de árboles donde 
+se encuentran diferentes especies de aves y fauna natural. Un lugar especial para motivar la 
+conservación y promover la cultura ambiental. 
+ 
+En el punto de los lavaderos, ubicado sobre la quebrada, los residuos de jabón del lavado de ropa, 
+detergentes convencionales compuestos por sulfonatos de alquilbenceno lineal (LAS) y productos 
+químicos como el límpido, junto con otros elementos de este tipo de actividades domésticas que 
+suelen ser los más económicos disponibles en el mercado, probablemente pueden estar afectando 
+las condiciones naturales de este entorno representando riesgos para las familias que utilizan los 
+servicios ecosistémicos de esta fuente, además de la flora y fauna que hacen parte de este 
+ambiente.  
+ 
+En complemento, la quebrada que se concibe como el eje central de una estrategia de 
+recuperación del tejido social, impacta sobre 5.811 habitantes del casco urbano (resultados y 
+proyecciones DANE 2005 – 2020) y en caso de no recuperarla, las dificultades no sólo ambientales 
+sino de salud pública podrían ser de alto impacto. 
+ 
+Finalmente, es importante decir que la necesidad existente gira ante la intencionalidad de hacer un 
+“lavado de ropa sostenible” que reúna las siguientes condiciones: a) permitir un lavado de ropa que 
+no deteriore las condiciones de calidad del agua de la quebrada, b) permitir el lugar de encuentro 
+de personas y familias en una actividad cotidiana que los mantiene en contacto en pro del 
+fortalecimiento del tejido social, c) mantener el valor simbólico de este lugar como espacio de 
+dialogo tanto de mujeres como de hombres que desarrollan esta labor. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+M301PR01F03 
+Versión: 06 
+Vigente desde 2017-03-09 
+Página 3 de 13 
+Av. Calle 26 # 57-41 Torre 8 Pisos 2 al 6 –PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+3. 
+¿CUÁL ES LA COMUNIDAD INTERESADA EN EL RETO? 
+Hay dos niveles de participación o involucramiento de la comunidad alrededor de este reto. El 
+primero, aquellas personas que usan el lavadero señalado (quienes participarían directamente) y el 
+segundo, aquellas personas que sin usar el lavadero, si usan la quebrada o velan por mantener las 
+buenas condiciones de ésta (a quienes se podrían involucrar de manera puntual). Ahora, en cuanto 
+a las personas que usan el lavadero, hay dos tipos de personas. Un primer grupo ubicado en el 
+Barrio Central (donde se ubican los lavaderos) quienes estarían permanentemente para el 
+desarrollo de actividades. El segundo grupo corresponde a personas que hacen lavado en este 
+sitio pero que se desplazan desde otros barrios, lo que implica que no necesariamente estar a total 
+disposición para participar en las actividades pero que deberían ser participantes. 
+ 
+Todos los niveles de participación mencionados hacen parte del Sujeto de Reparación Colectiva 
+del municipio de San Miguel, Putumayo integrado por cerca de 730 familias. El Colectivo esta 
+conformado por una comunidad de 8 barrios: Prado, Central, Libertad y Amistad, se encuentra en 
+los límites de la quebrada la Dorada, y, de otra parte, los barrios Metropolitano, 7 de agosto, san 
+Felipe y 9 de abril se ubican detrás de los anteriores.   
+ 
+Dentro del colectivo se identifican personas de diferentes barrios del casco urbano de la Dorada, 
+especialmente del Barrio Central en donde se ubica el lavadero de ropa, el cual se contempla 
+como un posible elemento clave (por ser punto de encuentro) en la solución que se plantee. La 
+Junta de Acción Comunal será entonces el punto de contacto de organización de acciones que 
+involucren al resto de comunidad.  
+ 
+La quebrada la Dorada para este Sujeto de Reparación Colectiva tiene un especial significado 
+porque es el lugar de encuentro gracias a la actividad de lavado de ropa. Es decir, la quebrada no 
+solo proporciona la posibilidad de lavar la ropa de casa sino la construcción y fortalecimiento de las 
+redes sociales de los miembros del colectivo. Es este el lugar donde acuerdan acciones, donde 
+discuten y se actualizan en las noticias locales.  
+ 
+El entorno de la quebrada está arborizado y a unos 150 metros hacia arriba de la zona de 
+lavaderos se ubica un pozo que es usado por la comunidad para esparcimiento - baño. A lo largo 
+de este recorrido hay una importante variedad de árboles, que pueden hacer parte del paisaje de 
+un sendero ecológico. 
+ 
+4. 
+¿QUÉ NOS IMAGINAMOS COMO POSIBLES SOLUCIONES? 
+ 
+La solución es una integración de tres elementos claves: a) un desarrollo concreto desde la ciencia 
+y la tecnología, b) un componente de tecnologías de la información y las comunicaciones y c) un 
+proceso de apropiación social de ciencia, tecnología e innovación. A continuación, se comparten 
+elementos para cada uno de ellos, queriendo con esto ilustrar más no limitar lo que pueda 
+concebirse como solución. 
+ 
+4.1.  La solución desde la óptica de ciencia y tecnología. 
+ 
+Las soluciones deben ser innovadoras y basadas en ciencia y tecnología, sin abandonar la 
+posibilidad de incorporar conocimientos y experiencia acumulada que puedan existir en los 
+territorios. A la luz de este contexto algunas posibilidades son: 
+ 
+• 
+Una solución que optimice el uso del sector de los lavaderos, centrándose en una menor 
+afectación a la quebrada, pero también involucrando espacios para la práctica de actividades 
+  
+ 
+ 
+ 
+ 
+M301PR01F03 
+Versión: 06 
+Vigente desde 2017-03-09 
+Página 4 de 13 
+Av. Calle 26 # 57-41 Torre 8 Pisos 2 al 6 –PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+saludables, que integren la sostenibilidad ambiental de esta actividad con herramientas 
+físicas y educativas. 
+• 
+Un sistema de lavado con características sostenibles para el manejo de los residuos de la 
+actividad doméstica y que su implementación sea un símbolo de recuperación tanto de la 
+quebrada como del tejido social. 
+• 
+Un sistema de lavado que sea sostenible y sirva como un laboratorio ambiental para los 
+distintos miembros de la comunidad. 
+• 
+Una solución que integre cultural y ambientalmente, los espacios del entorno para promover 
+el uso y cuidado del entorno (zona de lavaderos, pozo para baño ubicado a 100 metros de 
+esta zona; parte superior de la zona de lavaderos con espacio para siembra de plantas  
+• 
+Teniendo en cuenta otras acciones que pueden afectar la quebrada como los vertimientos 
+de aguas grises y/o la disposición de residuos, la solución podría incluir tecnologías y/o 
+acciones de intervención que permita mitigar los efectos sobre la quebrada y fortalecer la 
+cultura ambiental. 
+ 
+Cualquiera sea la opción, ésta tiene que desarrollarse en el marco de la normativa colombiana 
+para cualquiera de sus componentes. 
+ 
+4.2.  La solución desde la óptica del uso de las TIC. 
+ 
+• 
+En la propuesta de solución se debe garantizar la utilización complementaria a la solución 
+técnica y tecnológica de una herramienta soportada en tecnologías de la información y las 
+comunicaciones – TIC, entendiendo que la apropiación y el uso efectivo de estas aportan al 
+mejoramiento de la calidad de vida y a la reducción de la pobreza desde un enfoque 
+multidimensional. 
+• 
+Estas tecnologías de la información y las comunicaciones se circunscriben en la captura, 
+envío, almacenamiento, procesamiento o difusión de información que permita la toma de 
+decisiones a la luz del reto planteado por parte de la comunidad participante.  
+• 
+En este contexto, se deben plantear elementos que ya sean en línea (online) o fuera de línea 
+(offline) desde el concepto de uso de la Internet, brinden valor agregado a la solución. 
+Ejemplos posibles a desarrollar son sistemas de captura de datos y su respectivo envío o 
+almacenamiento. También se pueden involucrar el desarrollo o adecuación de software (con 
+el nivel de complejidad que se adecue a la situación) que permita procesar información para 
+la toma de decisiones o el desarrollo de portales web que sean soporte al componente de 
+ciencia y tecnología, al proceso de apropiación social de ciencia, tecnología e innovación o 
+al fortalecimiento del tejido social de la comunidad.  
+ 
+4.3.  La solución desde la apropiación social de ciencia, tecnología e innovación. 
+ 
+• 
+En cuanto a la apropiación social de la ciencia, tecnología e innovación, ésta se concibe 
+como la participación activa y consciente de los diversos grupos sociales para generar 
+conocimiento durante la concepción, desarrollo e implementación de la solución.  
+• 
+La estrategia nacional de apropiación social de la ciencia, tecnología e innovación propone 
+cuatro grandes dimensiones sobre las cuales se pueden desarrollar acciones que 
+fortalezcan este ejercicio: a) participación ciudadana, b) comunicación de relaciones entre 
+  
+ 
+ 
+ 
+ 
+M301PR01F03 
+Versión: 06 
+Vigente desde 2017-03-09 
+Página 5 de 13 
+Av. Calle 26 # 57-41 Torre 8 Pisos 2 al 6 –PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+ciencia, tecnología y sociedad, c) intercambio y trasferencia de conocimiento y d) gestión del 
+conocimiento. La propuesta de solución debe plantear acciones en cada uno de estos 
+frentes. 
+• 
+La participación de la comunidad ha de ser permanente en el diseño, adaptación o 
+implementación de la solución según sea el tipo de solución. Se hace completamente 
+necesario tener en cuenta los saberes y elementos culturales que pueda tener la comunidad 
+para que se facilite la construcción colaborativa de la solución y de esta manera fortalecer un 
+eje central de la convocatoria que es la apropiación social de C.T.I. por parte de las 
+comunidades participantes quienes no han de verse como beneficiarios pasivos sino como 
+participantes activos. 
+• 
+La solución debe plantear acciones concretas en donde se asegure la apropiación del 
+conocimiento por parte de la comunidad y la sostenibilidad en el tiempo de la misma. Las 
+actividades allí propuestas deben facilitar el empoderamiento de la sociedad civil a partir de 
+su participación activa en la generación del nuevo conocimiento y posibilidades de 
+comunicación y réplica de la solución en otras comunidades.  
+ 
+5. 
+¿QUÉ ALCANCE DEBE TENER LA SOLUCIÓN? 
+ 
+Cualquiera sea la solución planteada, ésta debe cubrir a la mayor cantidad de las 730 familias 
+mencionadas. Al estar implementada la comunidad debe palpar el beneficio que ésta ofrecerá y 
+tener un plan de sostenibilidad para su proyección. En este marco, elementos que definen el 
+alcance son los siguientes: 
+ 
+• 
+La solución ha de entregarse con todo el soporte de información que la describa. Es 
+importante desarrollar y entregar sus planos, manuales, fichas técnicas y demás elementos 
+necesarios para que la comunidad quede con una alta comprensión de cómo opera ésta, de 
+los principios que la componen, de los riesgos asociados y de otros aspectos que permitan 
+una real apropiación de la solución. Es importante resaltar que no se trata solamente de un 
+entrenamiento operativo sino de garantizar la aprehensión total de la solución por parte de la 
+comunidad interlocutora, desde su concepto hasta su funcionalidad. 
+• 
+La solución tendrá que ser implementada en un tiempo máximo de nueve (9) meses. 
+Implementación significa que al final de este periodo de tiempo se tenga lo siguiente: a) 
+solución instalada y operando de manera eficiente, b) proceso de apropiación social de 
+ciencia, tecnología e innovación desarrollado, c) plan de sostenibilidad de la solución en el 
+tiempo, construido con la comunidad. 
+• 
+La solución debe propender por la protección del ambiente, por lo cual debe contemplar 
+acciones de mitigación durante la implementación y la operación de la misma. La 
+sostenibilidad de la solución basada en un adecuado funcionamiento técnico debe 
+concebirse en términos sociales, económicos y ambientales. 
+• 
+Es importante considerar, tal cómo se plantea en la descripción inicial del reto, que la 
+solución debe considerar herramientas sostenibles en el tiempo. Lo anterior indica que, 
+además de la solución científico – tecnológica, esta debe brindar elementos que fortalezcan 
+el tejido social de la comunidad con el fin que ésta pueda realizar posteriormente acciones 
+similares. 
+  
+ 
+ 
+ 
+ 
+M301PR01F03 
+Versión: 06 
+Vigente desde 2017-03-09 
+Página 6 de 13 
+Av. Calle 26 # 57-41 Torre 8 Pisos 2 al 6 –PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+• 
+La ubicación de la solución debe ser concertada con la comunidad toda vez que representa 
+un articulador que tendrá implicaciones directas en el mejoramiento de necesidades de 
+primer orden de estas comunidades. 
+• 
+Es importante pensar soluciones que brinden la mayor cobertura posible a la población a la 
+que va dirigida. 
+• 
+La solución debe tener total o parcialmente posibilidades de replicabilidad a otras 
+comunidades. 
+ 
+6. 
+¿EN QUÉ REGIÓN SE UBICA EL RETO? 
+Este reto se enfoca en la comunidad del municipio de San Miguel, Putumayo. Es una población 
+diversificada en sus actividades económicas ubicada a 2,5 horas del municipio de Puerto Asís, 
+Putumayo. Las coordenadas de ubicación satelital son: 0.345813, -76.879107. 
+ 
+ 
+Fuente: Google maps. 
+ 
+ 
+7. 
+¿CÓMO SE LLEGA Y QUÉ SE ENCUENTRA EN EL SITIO EN DONDE SE UBICA EL 
+RETO? 
+ 
+Desde el centro del país se puede llegar vía aérea desde Bogotá al municipio de Puerto Asís, 
+Putumayo. Posteriormente, se puede tomar transporte público para ir vía terrestre al casco urbano 
+de la Dorada por un costo promedio de $25.000 pesos. 
+ 
+La quebrada la Dorada se encuentra al norte del casco urbano de la Dorada, compartiendo una 
+longitud aproximada de 1.5 km. El tiempo desde el parque central al ecosistema es de cinco (5) 
+minutos a pie. 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+M301PR01F03 
+Versión: 06 
+Vigente desde 2017-03-09 
+Página 7 de 13 
+Av. Calle 26 # 57-41 Torre 8 Pisos 2 al 6 –PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+8. 
+¿CUÁLES SON LAS CONDICIONES DEL ENTORNO? 
+ 
+El municipio de San Miguel, Putumayo es un municipio del sur del departamento del Putumayo en 
+límites con el vecino país de Ecuador, fundado en 1994. Se destaca por su exploración petrolera y 
+la agricultura, especialmente los cultivos de maíz, arroz, yuca, caucho, plátano, chontaduro y 
+cacao. Además de la ganadería en menor escala, la explotación de productos forestales y madera 
+de diferentes especies. Cuenta con recursos hídricos importantes como el río San Miguel, La 
+Guisia y quebradas como la Dorada y la Hormiga. 
+ 
+Se puede mencionar que el abastecimiento de agua para los habitantes del municipio se desarrolla 
+a partir de sistemas artesanales - aljibes, los cuales son pozos profundos que utilizan bombas 
+hidráulicas para abastecer tanques que son cargados con el objetivo de contar con fluidez del 
+líquido para uso doméstico. Esta agua profunda se obtiene de las filtraciones que permiten los 
+recursos hídricos cercanos.  
+ 
+La quebrada – eje central de este reto - no es fuente de abastecimiento de agua para el acueducto. 
+Se tiene un tanque elevado, pero no está en uso ya que como alternativa de suministro no fue 
+adecuado en la medida en que se demoraba dos (2) o tres (3) horas para llenarse y menos de una 
+(1) hora para desocuparse. En tiempos de sequía que son entre enero y febrero la quebrada baja 
+significativamente su caudal y esto hacía más crítico el uso del tanque. 
+ 
+8.1. Condiciones características del colectivo. 
+ 
+El casco urbano del Municipio de San Miguel consta de 730 familias y 5.811 personas 
+aproximadamente quienes en sus actividades cotidianas muestran una gran diversidad desde 
+campesinos, vendedores ambulantes, personas con trabajo de oficina, amas de casa, conductores 
+de vehículos, comerciantes entre otros. Como Sujeto de Reparación Colectiva, éste es orientado 
+por un comité de impulso que cuenta con 12 personas activas en promedio. Ahora, la solución 
+específicamente estará puesta en la zona de confluencia de la quebrada específicamente en la 
+zona de los lavaderos y espacio de encuentro en inmediaciones del Barrio Central, aunque se 
+espera que todas las familias se vean directa o indirectamente impactadas con la solución al reto 
+expuesto.  
+ 
+En promedio las familias están integradas por cinco personas y por vivienda hay un promedio de 
+tres (3) a cinco (5); el principal grado de escolaridad de los integrantes adultos del Sujeto de 
+Reparación Colectiva es la primaria, aunque también hay bachilleres y personas con grado 
+universitario. El ingreso promedio mensual de una familia es de menos de un salario mínimo y 
+algunos superan estos. Los ingresos dependen de actividades informales como el mototaxismo y 
+jornales rurales. El 95% de niños en edad escolar se encuentran estudiando. El 5% restante 
+corresponde a jóvenes que efectúan actividades de trabajo de jornal en las unidades productivas 
+de sus padres. 
+ 
+Su vida organizativa como Sujeto de Reparación Colectiva está caracterizada por los siguientes 
+aspectos: 
+ 
+• 
+Según los datos conciliados del censo de población realizado por el DANE en el año 2005 la 
+población está integrada en un 85,3% por mestizos, 10,0% por indígenas de la etnia Kofán 
+principalmente, y 4,7% por mulatos y afrodescendientes. El 42,4% de la población censada 
+reporta haber nacido en el mismo municipio. 
+  
+ 
+ 
+ 
+ 
+M301PR01F03 
+Versión: 06 
+Vigente desde 2017-03-09 
+Página 8 de 13 
+Av. Calle 26 # 57-41 Torre 8 Pisos 2 al 6 –PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+• 
+De acuerdo con el mismo censo, San Miguel posee una tasa de alfabetismo del 85,5%; ‑ el 
+59,8% de la población cuenta con educación básica primaria, el 14,1% con básica 
+secundaria y el 2,0% cuenta con educación superior. 
+• 
+Los integrantes expresaron que el colectivo está orientado por el comité de impulso de la 
+Unidad para las Víctimas. Además, el liderazgo no está definido por escalas jerárquicas 
+pues por decisión autónoma y con el fin de evitar conflictos, todos tienen la misma 
+oportunidad de participación y los roles están definidos según los escenarios. Sin embargo, 
+se notan miembros más activos que otros. 
+• 
+En otro sentido, expresaron que la guerra indudablemente dejo fuertes huellas en la historia 
+de la comunidad de la que hace parte este Sujeto de Reparación Colectiva y por lo tanto 
+enuncian la importancia de obras que fortalezcan el tejido social. 
+• 
+Es destacable que la estructura organizativa actual del Sujeto de Reparación Colectiva les 
+ha permitido tomar decisiones concertadas en cuanto a los escenarios de perdón y 
+reparación emocional. Es así como el comité de impulso viene generando espacios donde 
+los Sujeto de Reparación Colectiva asumen roles importantes para la búsqueda del perdón. 
+• 
+Por otro lado, como en buena parte el Sujeto de Reparación Colectiva está compuesto por 
+mujeres emprendedoras, esto les ha permitido incursionar en esfuerzos colectivos para la 
+conformación de grupos de mujeres dedicadas al arte y se identifican como “mujeres 
+tejedoras de paz”, en efecto, este ejercicio les ha permitido involucrar hombres. En el mismo 
+sentido, el acompañamiento de organizaciones no gubernamentales y la Unidad para las 
+Víctimas han propiciado actividades que van en todo caso direccionadas a la reconstrucción 
+del tejido social. 
+• 
+La comunidad no cuenta con infraestructura destinada a acciones comunitarias, utilizan la 
+casa comunal del barrio San Felipe como sitio de reuniones. 
+• 
+Los integrantes del Sujeto de Reparación Colectiva referenciaron las obras de infraestructura 
+como hitos históricos en su comunidad, teniendo en cuenta que el Putumayo y más aún una 
+región apartada como San Miguel se tiene la percepción de poca presencia de las entidades 
+del estado.  
+• 
+La quebrada la Dorada tiene un especial significado porque es el lugar de encuentro de 
+mujeres gracias a la actividad de lavado de ropa. Es decir, está quebrada no solo 
+proporciona la posibilidad de lavar la ropa de casa sino la construcción y fortalecimiento de 
+las redes sociales de los miembros del colectivo. Es este el lugar donde acuerdan acciones, 
+donde discuten decisiones y donde se actualizan en las noticias locales y hoy por hoy es el 
+epicentro de la construcción y reconstrucción del tejido social porque logra convocar de 
+forma orgánica una buena parte de la comunidad y del Sujeto de Reparación Colectiva. En 
+conclusión, ha permitido identificar este lugar como un lugar especial donde no solo se lava 
+ropa sino el alma, de allí la importancia de su conservación. 
+• 
+Como la quebrada es el escenario donde los niños permanecen una gran parte del tiempo 
+en el día, las madres vienen inculcando el respeto del medio ambiente y han desarrollado 
+acciones en pro del bienestar de la quebrada, por ello, el Sujeto de Reparación Colectiva 
+plantea que el malecón podría ser un escenario de pedagogía ambiental, donde los colegios 
+puedan involucrarlo como parte de su estructura de formación y así propiciar campañas de 
+educación ambiental alrededor de la quebrada. También mencionan la quebrada el Muerto y 
+la Bomba como recursos importantes para la obtención de agua y como cordones de 
+conservación de flora y fauna. 
+  
+ 
+ 
+ 
+ 
+M301PR01F03 
+Versión: 06 
+Vigente desde 2017-03-09 
+Página 9 de 13 
+Av. Calle 26 # 57-41 Torre 8 Pisos 2 al 6 –PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+• 
+El Sujeto de Reparación Colectiva percibe los cultivos ilícitos como una amenaza ambiental 
+y en el mismo sentido percibe a la industria petrolera como una amenaza para el equilibrio 
+ambiental. 
+• 
+En cuanto a ciencia y tecnología los miembros del colectivo manifiestan no tener la 
+costumbre de buscar información al respecto, pero manifiestan interés en abordar el tema y 
+consideran que puede ayudar a resolver problemas especialmente en temas como 
+educación, salud y productividad. 
+• 
+El 63,8% de las unidades censales del municipio de San Miguel desarrollan actividades 
+agropecuarias. 
+Ahora, en términos específicos, algunas características del barrio Central a tener en cuenta son las 
+siguientes: 
+ 
+• 
+Viven cerca de 130 familias, es el más poblado de los 8 barrios de la Dorada 
+• 
+Barrio más antiguo, allí se ubica el Colegio Básica Primaria La Dorada, con los grados 
+preescolar, primero, segundo y tercero de primaria   
+• 
+La disposición de los establecimientos en el barrio son la vivienda y el comercio. La mayoría 
+de familias tienen allí su vivienda pero además disponen de fincas en las que desarrollan 
+actividades agropecuarias.  
+• 
+El 95% de las viviendas están conectadas al alcantarillado. 
+• 
+Cuentan con una Junta de Acción Comunal organizada y activa.  
+ 
+8.2. Condiciones de entorno físico para el desarrollo de la solución. 
+ 
+El entorno donde se encuentra esta comunidad cuenta con una humedad relativa del 57%, y con 
+una probabilidad de lluvia de aproximadamente el 16%. Su temperatura promedio anual es de 28 
+grados Celsius. 
+ 
+En términos concretos, el punto sobre el cual podría girar la solución serían los lavaderos, los 
+cuales están en un territorio plano, como es la mayoría del territorio en esta zona. En total son 11 
+lavaderos, compuestos por placas de cemento de aproximadamente 60 cm de ancho por 100 cm 
+de largo. Entre una y otra placa existe una separación de 10 cm de ancho. Con respecto al alto se 
+diseñó una estructura de soporte compuesta por una fase de piedra, hierro y una formaleta cuya 
+altura es de 1 metro. La extensión total de los lavaderos cubre aproximadamente 12 metros en 
+total robre la ribera de la quebrada. Se tienen tres (3) metros aproximadamente de descenso con 
+20 escalones para llegar a los lavaderos desde las casas que están más cercanas a estos.  
+Las personas de los 8 barrios mencionados (hombres, mujeres, niños) que conforman el Sujeto de 
+Reparación Colectiva utilizan este espacio con mayor frecuencia en épocas de verano. El promedio 
+de afluencia para lavado de ropa por día es de 80 personas entre semana y de 100 personas el fin 
+de semana, cuando confluyen todo el día, se pueden encontrar incluso hasta 3 personas haciendo 
+fila siempre, esperando por un cupo. El uso es principalmente de día, con menor frecuencia en las 
+noches por falta de iluminación, aunque las personas usan lámparas o linternas cuando están allí. 
+Aproximadamente se lavan 4 docenas de ropa por persona al día y tanto en invierno como en 
+verano las personas van a lavar con una frecuencia de día por medio. La carga de lavado es 
+transportada en moto y un 30% de las personas la cargan al hombro en un recorrido promedio de 6 
+a 10 cuadras para los que se localizan más lejos de este punto. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+M301PR01F03 
+Versión: 06 
+Vigente desde 2017-03-09 
+Página 10 de 13 
+Av. Calle 26 # 57-41 Torre 8 Pisos 2 al 6 –PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+8.3. 
+Condición hídrica asociada al reto. 
+ 
+• 
+El nacimiento de la quebrada se da en el cabildo tierra linda del municipio del Valle del 
+Guamués, en un punto ubicado a ocho (8) kilómetros del punto de referencia denominado 
+“Lavaderos” (donde están los lavaderos mencionados). Por otra parte, la quebrada 
+desemboca en la quebrada “el muerto” del municipio de San Miguel, punto que se ubica 
+aproximadamente a siete (7) kilómetros del punto de referencia.  
+• 
+Descendiendo por la quebrada desde su nacimiento y 100 metros antes de llegar a los 
+“Lavaderos” hay tanques que fueron construidos para un acueducto, pero están 
+abandonados. Este descuido llevó a que los tanques se llenaran con basura que se filtra en 
+ocasiones a la quebrada.  
+• 
+Previamente hubo deforestación en el barrio la Libertad, pero las autoridades llamaron la 
+atención y se presentó un proceso de reforestación alrededor de la quebrada, la cual tiene 
+como se ha manifestado un uso principal en lavado de ropas y desarrollo de actividades 
+lúdicas (paseos y encuentro de personas). 
+• 
+En invierno la altura de la quebrada sube, pero no ha causado inundaciones. En sequía, la 
+altura de la quebrada baja significativamente el caudal. En promedio, la profundidad de la 
+quebrada es de un (1) metro y en época de lluvias sube unos 30 cm. En complemento, en el 
+punto “Lavaderos” el ancho de la quebrada es de aproximadamente 10 metros. 
+• 
+La población vegetal más común alrededor de la quebrada es uva moradita, pomarroso, 
+guamos y limones. 
+• 
+Metros más abajo del sitio de lavadero se encuentran descargas de aguas grises de 
+aproximadamente de 36 viviendas con las siguientes características: a) Distancia de zona de 
+lavaderos 200 mts b) Distancia entre una casa y otra de 10 a 15 mts. c) Estas familias a 
+diferencia de otras no disponen de pozo séptico. 
+ 
+8.4. 
+Condiciones de residencia del colectivo. 
+ 
+• 
+La quebrada hace contacto con cuatro barrios en el siguiente orden: Barrio Prados, Barrio 
+Central, Barrio La Libertad y la Amistad. La quebrada comparte con el Barrio Central – en el 
+cual está ubicado el punto de los “Lavaderos” -- aproximadamente tres (3) cuadras. 
+• 
+Las casas en el barrio Central tienen diferentes dimensiones, pero la mayoría son de 10 
+metros de frente. Se contabilizan 25 casas en las tres (3) cuadras que se comparten con la 
+quebrada, no existiendo distancia que separa una casa de las otras. La distancia entre las 
+casas y la orilla de la quebrada es aproximadamente de 20 metros.  
+• 
+Las casas – como se mencionó – poseen aljibes y electrobombas que suben el agua a un 
+tanque o albercas. Los tanques son en promedio de 500 litros. 
+• 
+Las aguas residuales de la mayoría de los barrios cercanos a la quebrada caen en una 
+planta de tratamiento de aguas y los residuos sólidos se recogen y se llevan a un sitio 
+ubicado a cinco (5) kilómetros del casco urbano, con excepción de los barrios la Amistad y la 
+Libertad donde solo el 20% están conectados al alcantarillado. 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+M301PR01F03 
+Versión: 06 
+Vigente desde 2017-03-09 
+Página 11 de 13 
+Av. Calle 26 # 57-41 Torre 8 Pisos 2 al 6 –PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+8.5. 
+Condiciones en tecnologías de la información y las comunicaciones TIC del colectivo. 
+ 
+En cuanto a las tecnologías de la información y las comunicaciones - TIC, para efectos del diseño, 
+el Ministerio de las Tecnologías de la Información y las Comunicaciones – MINTIC reporta la 
+siguiente infraestructura de soporte: 
+ 
+• 
+Existen los siguientes Kioscos Vive Digital en San Miguel: 
+ 
+CENTRO POBLADO 
+DIRECCION DEL 
+KIOSCOS 
+INSTITUCIÓN 
+EDUCATIVA 
+NOMBRE SEDE 
+VDA EL SOL 
+VDA PUERTO EL 
+SOL 
+C.E.R. PUERTO EL 
+SOL 
+C.E.R. PUERTO EL SOL 
+- SEDE PRINCIPAL 
+VEREDA MAIZAL 
+VEREDA EL MAIZAL 
+IE RUR JORDAN 
+ORTIZ 
+ESC RUR MIX EL 
+MAIZAL 
+VDA JORDAN ORTIZ VDA JORDAN ORTIZ 
+IE RUR JORDAN 
+ORTIZ 
+I.E.R. JORDAN ORTIZ - 
+SEDE PRINCIPAL 
+VDA AGUA BLANCA 
+VDA AGUA BLANCA 
+I.E.R. AGUA CLARA 
+ESC RUR MIX AGUA 
+CLARA 
+VDA PUERTO EL 
+SOL 
+VEREDA PUERTO 
+EL SOL 
+C.E.R. PUERTO EL 
+SOL 
+ESC RUR MIX EL 
+PORVENIR 
+VDA EL SABALITO 
+VDA MESAS DEL 
+SABALITO 
+I.E.R. EL SABALO 
+ESC RUR MIX EL 
+SABALITO 
+VDA EL SABALO 
+VDA EL SABALO 
+I.E.R. EL SABALO 
+ESC RUR MIX EL 
+SABALO 
+VDA LA CRISTALINA VEREDA EL MAIZAL 
+I.E.R. JORDAN 
+ORTIZ 
+ESC RUR MIX LA 
+CRISTALINA II 
+VEREDA EL 
+AFILADOR 
+VDA EL AFILADOR 
+I.E.R. EL AFILADOR 
+ESC RUR MIX EL 
+AFILADOR 
+VDA EL ESPINAL 
+VDA EL ESPINAL 
+I.E.R. AGUA CLARA 
+ESC RUR MIX EL 
+ESPINAL 
+VEREDA LA 
+CAMPIÑA 
+VEREDA EL SÁBALO 
+I.E.R. EL SABALO 
+ESC RUR MIX LA 
+CAUCANITA 
+PUERTO COLON 
+PUERTO COLÓN 
+I.E.R. SAN 
+MARCELINO 
+ESC RUR MIX SAN 
+MARCELINO 
+KOFAN 
+CAMPOALEGRE 
+DEL AFILADOR 
+KOFAN 
+CAMPOALEGRE 
+DEL AFILADOR 
+COMUNIDAD 
+INDIGENA 
+COMUNIDAD INDIGENA 
+ 
+• 
+El tipo de conectividad de estos Kioscos Vive Digital es satelital y el tipo de energía es de 
+red interconectada. 
+• 
+En el municipio de San Miguel opera una emisora en la modalidad de Interés Público 
+asignada a Radio Televisión Nacional de Colombia. (RTVC) y una emisora en la modalidad 
+comercial asignada a la señora Claudia Mabel Narváez. 
+• 
+Desde el año 2010 el Programa Computadores para Educar ha dotado a instituciones 
+educativas en San Miguel con un total de 787 computadores, de los cuales uno (1) fue 
+puesto en La Dorada en el 2010. 
+Por su parte, la comunidad reporta su condición en cuanto al uso de las TIC de la siguiente 
+manera: 
+  
+ 
+ 
+ 
+ 
+M301PR01F03 
+Versión: 06 
+Vigente desde 2017-03-09 
+Página 12 de 13 
+Av. Calle 26 # 57-41 Torre 8 Pisos 2 al 6 –PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+ 
+• 
+En el municipio de San Miguel existe servicio de telefonía celular e internet, pero su uso es 
+limitado y deficiente. 
+• 
+El Sujeto de Reparación Colectiva tiene en su totalidad acceso a telefonía celular pero un 
+pequeño porcentaje accede al servicio de internet inalámbrico. Existen salas de internet que 
+ofrecen el servicio a través de módems de dos operadoras. 
+• 
+Existen actualmente puntos vive digital que según el Sujeto de Reparación Colectiva tienen 
+una oferta del servicio deficiente. 
+• 
+El servicio de televisión la población lo obtiene a través de operadores locales y un operador 
+nacional. Sin embargo, está sujeto a la compra del servicio, es decir la oferta no es gratuita 
+razón por la cual hay limitaciones para el acceso a este servicio, lo que genera una 
+desventaja en cuanto al uso e implementación de las TIC. 
+ 
+9. 
+¿QUÉ ACCIONES CONCRETAS HA REALIZADO PREVIAMENTE LA COMUNIDAD EN 
+TORNO AL RETO PLANTEADO? 
+Algunos elementos a mencionar aquí son los siguientes: 
+ 
+• 
+Concientización de las familias para que en el proceso de lavado no arrojen pañales, 
+desperdicios – empaques, tarros de los jabones y ropa a la quebrada. 
+• 
+Reuniones y publicaciones que distribuyen con información a los habitantes de los barrios. 
+• 
+Aplicación por parte de las autoridades de la ley 180 que sanciona a las personas que 
+contaminen. 
+• 
+Información a la Policía Nacional para que sancionen e impongan comparendos 
+ambientales. 
+• 
+En la parte urbana hay mayor conciencia ambiental (40%) de la gente es consciente de ello 
+y en la parte rural, solo un 20 % tiene estos cuidados. 
+• 
+Desarrollo de algunos carteles y espacios adecuados de manera manual para el cuidado del 
+entorno. 
+ 
+10. 
+¿QUÉ CONOCIMIENTOS O QUÉ TIPO DE RECURSOS PODRÍA TENER LA COMUNIDAD 
+PARA AYUDAR EN LA IMPLEMENTACIÓN DE LA SOLUCIÓN? 
+La comunidad puede aportar los siguientes conocimientos o recursos disponibles en el 
+asentamiento: 
+ 
+• 
+Conocimiento de su entorno natural, la infraestructura instalada en los lavaderos 
+comunitarios y el conocimiento de los planes regionales para el cubrimiento de esta 
+necesidad. 
+• 
+Capacidades administrativas de las Juntas de Acción Comunal de cada uno de los barrios, y   
+específicamente la del barrio central, para el desarrollo de actividades comunitarias. 
+• 
+Existe un colegio que se llama Técnico Comercial La Dorada, con 2 sedes, la central en el 
+barrio Central y Ruperto Benavides en el barrio 07 de agosto. En varios barrios hay 
+escuelas, pero el colegio se ubica en el barrio La Amistad. 
+• 
+Hay una biblioteca pública Gabriel García Márquez, donde confluyen para tareas, reuniones 
+y cuenta con acceso a internet. 
+ 
+  
+ 
+ 
+ 
+ 
+M301PR01F03 
+Versión: 06 
+Vigente desde 2017-03-09 
+Página 13 de 13 
+Av. Calle 26 # 57-41 Torre 8 Pisos 2 al 6 –PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.COLCIENCIAS.gov.co 
+11. 
+¿EN QUÉ OBJETIVOS DE DESARROLLO SOSTENIBLE SE ENMARCA EL RETO? 
+ 
+Este reto se enmarca en los siguientes objetivos de desarrollo sostenible:  
+ 
+Objetivo 6: Agua limpia y saneamiento.  
+Objetivo 16: Paz, justicia e instituciones solidarias. 
+Objetivo 15: Vida de Ecosistemas terrestres. 
+ 
+Cualquiera sea la solución que se presente, ésta estará contribuyendo a los objetivos 
+mencionados. Para hacerlo, se recomienda focalizarse en la necesidad expuesta y atender a las 
+condiciones tanto del Sujeto de Reparación Colectiva como de lo que se espera de solución. 
+ 
+  
+SAN MIGUEL PUTUMAYO 
+Fotografías de la zona de los lavaderos Quebrada La Dorada 
+ 
+Quebrada la Dorada 
+ 
+Escalera que lleva del borde de la vía a la zona de lavaderos 
+  
+SAN MIGUEL PUTUMAYO 
+Fotografías de la zona de los lavaderos Quebrada La Dorada 
+ 
+Mujeres de dos barrios distintos, compartiendo a través de la actividad de lavado 
+ 
+Características físicas de los lavaderos 
+ 
+  
+SAN MIGUEL PUTUMAYO 
+Fotografías de la zona de los lavaderos Quebrada La Dorada 
+ 
+Espacio parte alta de zona de lavaderos  
+ 

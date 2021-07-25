@@ -1,0 +1,1528 @@
+ 
+6
+ANNEX 1 
+ 
+THE REVISED FIELD OF SCIENCE AND TECHNOLOGY CLASSIFICATION 
+1. Natural sciences 
+1.1 Mathematics 
+• 
+Pure mathematics, Applied mathematics; Statistics and probability1;  
+1.2 Computer and information sciences 
+• 
+Computer sciences, information science and bioinformatics (hardware development to be 2.2, 
+social aspect to be 5.8); 
+1.3 Physical sciences 
+• 
+Atomic, molecular and chemical physics (physics of atoms and molecules including collision, 
+interaction with radiation; magnetic resonances; Moessbauer effect); Condensed matter physics 
+(including formerly solid state physics, superconductivity); Particles and fields physics; Nuclear 
+physics; Fluids and plasma physics (including surface physics); Optics (including laser optics and 
+quantum optics), Acoustics; Astronomy (including astrophysics, space science); 
+1.4 Chemical sciences 
+• 
+Organic chemistry; Inorganic and nuclear chemistry; Physical chemistry, Polymer science, 
+Electrochemistry (dry cells, batteries, fuel cells, corrosion metals, electrolysis); Colloid 
+chemistry; Analytical chemistry; 
+1.5 Earth and related Environmental sciences 
+• 
+Geosciences, multidisciplinary; Mineralogy; Palaeontology; Geochemistry and geophysics; 
+Physical geography; Geology; Volcanology; Environmental sciences (social aspects to be 5.7); 
+• 
+Meteorology and atmospheric sciences; climatic research; 
+• 
+Oceanography, Hydrology, Water resources; 
+                                                      
+1. 
+This includes research on statistical methodologies, but excludes research on applied statistics which 
+should be classified under the relevant field of application (e.g. Economics, Sociology, etc.) 
+  
+ 
+ 
+7
+1.6 Biological sciences (Medical to be 3, and Agricultural to be 4) 
+• 
+Cell biology, Microbiology; Virology; Biochemistry and molecular biology; Biochemical 
+research methods; Mycology; Biophysics; 
+• 
+Genetics and heredity (medical genetics to be 3); reproductive biology (medical aspects to be 3); 
+developmental biology; 
+• 
+Plant sciences, botany; 
+• 
+Zoology, Ornithology, Entomology, Behavioural sciences biology; 
+• 
+Marine biology, freshwater biology, limnology; Ecology; Biodiversity conservation; 
+• 
+Biology (theoretical, mathematical, thermal, cryobiology, biological rhythm), Evolutionary 
+biology; other biological topics; 
+1.7 Other natural sciences 
+2. Engineering and technology 
+2.1 Civil engineering 
+• 
+Civil engineering; Architecture engineering; Construction engineering, Municipal and structural 
+engineering; Transport engineering; 
+2.2 Electrical engineering, Electronic engineering, Information engineering 
+• 
+Electrical and electronic engineering; Robotics and automatic control; Automation and control 
+systems; Communication engineering and systems; telecommunications; Computer hardware and 
+architecture; 
+2.3 Mechanical engineering 
+• 
+Mechanical engineering; Applied mechanics; Thermodynamics; 
+• 
+Aerospace engineering; 
+• 
+Nuclear related engineering; (nuclear physics to be 1.3); 
+• 
+Audio engineering, reliability analysis; 
+2.4 Chemical engineering 
+• 
+Chemical engineering (plants, products); Chemical process engineering; 
+2.5 Materials engineering 
+• 
+Materials engineering; Ceramics; Coating and films; Composites (including laminates, reinforced 
+plastics, cermets, combined natural and synthetic fibre fabrics; filled composites); Paper and 
+wood; textiles; including synthetic dyes, colours, fibres; (nanoscale materials to be 2.10; 
+biomaterials to be 2.9); 
+2.6 Medical engineering 
+• 
+Medical engineering; Medical laboratory technology (including laboratory samples analysis; 
+diagnostic technologies); (Biomaterials to be 2.9 [physical characteristics of living material as 
+related to medical implants, devices, sensors]); 
+  
+8
+2.7 Environmental engineering 
+• 
+Environmental and geological engineering, geotechnics; Petroleum engineering, (fuel, oils), 
+Energy and fuels; Remote sensing; Mining and mineral processing; Marine engineering, sea 
+vessels; Ocean engineering; 
+2.8 Environmental biotechnology 
+• 
+Environmental biotechnology; Bioremediation, diagnostic biotechnologies (DNA chips and 
+biosensing devices) in environmental management; environmental biotechnology related ethics; 
+2.9 Industrial biotechnology 
+• 
+Industrial biotechnology; Bioprocessing technologies (industrial processes relying on biological 
+agents to drive the process) biocatalysis, fermentation; bioproducts (products that are 
+manufactured using biological material as feedstock) biomaterials, bioplastics, biofuels, bio-
+derived bulk and fine chemicals, bio-derived novel materials; 
+2.10 Nano-technology 
+• 
+Nano-materials [production and properties]; 
+• 
+Nano-processes [applications on nano-scale]; (biomaterials to be 2.9); 
+2.11 Other engineering and technologies 
+• 
+Food and beverages; 
+• 
+Other engineering and technologies;  
+3. Medical and Health sciences 
+3.1 Basic medicine 
+• 
+Anatomy and morphology (plant science to be 1.6); Human genetics; Immunology; 
+Neurosciences (including psychophysiology); Pharmacology and pharmacy; Medicinal 
+chemistry; Toxicology; Physiology (including cytology); Pathology; 
+3.2 Clinical medicine 
+• 
+Andrology; Obstetrics and gynaecology; Paediatrics; Cardiac and Cardiovascular systems; 
+Peripheral vascular disease; Hematology; Respiratory systems; Critical care medicine and 
+Emergency medicine; Anaesthesiology; Orthopaedics; Surgery; Radiology, nuclear medicine and 
+medical imaging; Transplantation; Dentistry, oral surgery and medicine; Dermatology and 
+venereal diseases; Allergy; Rheumatology; Endocrinology and metabolism (including diabetes, 
+hormones); 
+Gastroenterology 
+and 
+hepatology; 
+Urology 
+and 
+nephrology; 
+Oncology; 
+Ophthalmology; 
+Otorhinolaryngology; 
+Psychiatry; 
+Clinical 
+neurology; 
+Geriatrics 
+and 
+gerontology; General and internal medicine; other clinical medicine subjects; Integrative and 
+complementary medicine (alternative practice systems); 
+  
+ 
+ 
+9
+3.3 Health sciences 
+• 
+Health care sciences and services (including hospital administration, health care financing); 
+Health policy and services; 
+• 
+Nursing; Nutrition, Dietetics; 
+• 
+Public and environmental health; Tropical medicine; Parasitology; Infectious diseases; 
+epidemiology; 
+• 
+Occupational health; Sport and fitness sciences; 
+• 
+Social biomedical sciences (includes family planning, sexual health, psycho-oncology, political 
+and social effects of biomedical research); Medical ethics; Substance abuse; 
+3.4 Medical biotechnology 
+• 
+Health-related biotechnology; Technologies involving the manipulation of cells, tissues, organs 
+or the whole organism (assisted reproduction); Technologies involving identifying the 
+functioning of DNA, proteins and enzymes and how they influence the onset of disease and 
+maintenance 
+of 
+well-being 
+(gene-based 
+diagnostics 
+and 
+therapeutic 
+interventions 
+(pharmacogenomics, gene-based therapeutics); Biomaterials (as related to medical implants, 
+devices, sensors); Medical biotechnology related ethics; 
+3.5 Other medical sciences 
+• 
+Forensic science 
+• 
+Other medical sciences 
+4. Agricultural sciences 
+4.1 Agriculture, Forestry, and Fisheries 
+• 
+Agriculture; Forestry; Fishery; Soil science; Horticulture, viticulture; Agronomy, plant breeding 
+and plant protection; (Agricultural biotechnology to be 4.4) 
+4.2 Animal and Dairy science 
+• 
+Animal and dairy science; (Animal biotechnology to be 4.4) 
+• 
+Husbandry; Pets; 
+4.3 Veterinary science 
+4.4 Agricultural biotechnology 
+• 
+Agricultural biotechnology and food biotechnology; GM technology (crops and livestock), 
+livestock cloning, marker assisted selection, diagnostics (DNA chips and biosensing devices for 
+the early/accurate detection of diseases) biomass feedstock production technologies, 
+biopharming; agricultural biotechnology related ethics; 
+ 
+  
+10
+4.5 Other agricultural sciences 
+5. Social sciences 
+5.1 Psychology 
+• 
+Psychology (including human - machine relations); 
+• 
+Psychology, special (including therapy for learning, speech, hearing, visual and other physical 
+and mental disabilities); 
+5.2 Economics and Business 
+• 
+Economics, Econometrics; Industrial relations; 
+• 
+Business and Management; 
+5.3 Educational sciences 
+• 
+Education, general; including training, pedagogy, didactics; 
+• 
+Education, special (to gifted persons, those with learning disabilities); 
+5.4 Sociology 
+• 
+Sociology; Demography; Anthropology, ethnology, 
+• 
+Social topics (Women’s and gender studies; Social issues; Family studies, Social work);  
+5.5 Law 
+• 
+Law, criminology, penology; 
+5.6 Political science 
+• 
+Political science; public administration; organisation theory; 
+5.7 Social and economic geography 
+• 
+Environmental sciences (social aspects); Cultural and economic geography; Urban studies 
+(Planning and development); Transport planning and social aspects of transport (transport 
+engineering to be 2.1); 
+5.8 Media and communications 
+• 
+Journalism; Information science (social aspects); Library science; Media and socio-cultural 
+communication; 
+5.9 Other social sciences 
+• 
+Social sciences, interdisciplinary; 
+• 
+Other social sciences;  
+  
+ 
+ 
+11
+6. Humanities 
+6.1 History and Archaeology 
+• 
+History (history of science and technology to be 6.3, history of specific sciences to be under the 
+respective headings); Archaeology; 
+6.2 Languages and Literature 
+• 
+General language studies; Specific languages; General literature studies; Literary theory; Specific 
+literatures; Linguistics;  
+6.3 Philosophy, Ethics and Religion 
+• 
+Philosophy, History and philosophy of science and technology; 
+• 
+Ethics (except ethics related to specific subfields); Theology; Religious studies; 
+6.4 Arts (arts, history of arts, performing arts, music) 
+• 
+Arts, Art history; Architectural design; Performing arts studies (Musicology, Theater science, 
+Dramaturgy); Folklore studies; 
+• 
+Studies on Film, Radio and Television; 
+6.5 Other humanities 
+ 
+ APRUEBA BASES DE POSTULACIÓN PARA
+CONCURSO DE APOYO A LA FORMACIÓN
+DE  REDES  INTERNACIONALES  ENTRE
+CENTROS
+ 
+DE
+ 
+INVESTIGACIÓN,
+CONVOCATORIA  2018,  PROGRAMA  DE
+COOPERACIÓN
+ 
+INTERNACIONAL
+ 
+DE
+CONICYT
+RESOLUCION EXENTO Nº: 4534/2018
+Santiago  18/04/2018
+DOCUMENTO ELECTRONICO
+VISTOS:
+Lo dispuesto en el Decreto Supremo N° 491/1971 y en el Decreto Supremo N° 97/2015,
+ambos del Ministerio de Educación; Ley de Presupuestos del Sector Público N° 21.053, para
+el año 2018; Resolución N° 1600/2008, de la Contraloría General de la República; y
+CONSIDERANDO:
+1.-  El  texto  de  las  Bases  de  Concurso  de  Apoyo  a  la  Formación  de  Redes
+Internacionales entre Centros de Investigación, Convocatoria 2018, Programa de
+Cooperación  Internacional  de  CONICYT,  que  además  se  adjuntan  en  original  a  la
+presente resolución y se entienden formar parte de la misma.
+2.- El Certificado de Revisión PCI, de Bases, Convenio e Instructivo Rendición Financiera de
+Concurso  2018  de  Apoyo  a  la  Formación  de  Redes  Internacionales  entre  Centros  de
+Investigación,  de fecha 27 de  febrero de  2018, del  Departamento  de  Administración  y
+Finanzas de CONICYT.
+3.- El Memorándum TED N° 3009/2018, de fecha 08 de febrero de 2018, del Departamento
+de Tecnologías y Procesos, por medio del cual se da V° B° de disponibilidad de sistemas para
+el presente concurso.
+4.- El Memorándum TED N° 5879/2018, de fecha 15 de marzo de 2018, del Programa de
+Cooperación Internacional, mediante el cual se solicita dictar resolución aprobatoria de las
+bases de concurso.
+5.- Las facultades que detenta esta Dirección Ejecutiva en virtud de lo dispuesto en el
+Decreto Supremo Nº 491/71 y en el Decreto Supremo N° 97/2015, ambos del Ministerio de
+Educación;
+RESUELVO:
+1.-  APRUÉBANSE  las  Bases  de  Concurso  de  Apoyo  a  la  Formación  de  Redes
+Internacionales entre Centros de Investigación, Convocatoria 2018, Programa de
+Cooperación Internacional de CONICYT.
+2.- TÉNGASE en calidad de transcripción fiel e íntegra de las BASES CONCURSALES precitadas,
+el siguiente texto:
+SGDOC
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+1 de 14
+18-04-2018 18:43
+ INICIO DE TRANSCRIPCIÓN DE BASES
+Programa de Cooperación Internacional 
+CONCURSO DE APOYO A LA FORMACIÓN DE REDES INTERNACIONALES ENTRE
+CENTROS DE INVESTIGACIÓN 
+Bases de Postulación – Convocatoria 2018
+I.- DISPOSICIONES GENERALES
+1.- Antecedentes 
+La Comisión Nacional de Investigación Científica y Tecnológica, CONICYT, tiene como uno
+de sus objetivos estratégicos el fortalecimiento de la base científica y tecnológica del país.
+En ese contexto, promueve las alianzas internacionales que permitan dar a conocer el
+desarrollo de la investigación que se realiza en Chile y, a su vez, apoyar la participación de
+los científicos de nuestro país en investigación de frontera que se lleva a cabo en el mundo.
+En virtud de lo anterior, CONICYT, a través de su Programa de Cooperación Internacional
+(PCI), llama a concurso para proyectos de fortalecimiento de redes internacionales entre
+centros de investigación.
+2.- Objetivos del concurso
+2.1.- Apoyar la generación de redes para fortalecer vínculos internacionales, en todas las
+áreas del conocimiento, entre centros de investigación científica y tecnológica nacionales y
+centros extranjeros de los países señalados en el punto 3.
+2.2.- Contribuir a la formación de recursos humanos en el extranjero, a fin de participar en
+investigación de frontera y en nuevos procesos de innovación, de manera que aporten
+conocimientos en áreas de interés para el desarrollo nacional.
+3.- Estructura del concurso / contrapartes
+Los centros  de  investigación científica  y tecnológica  nacionales,  pueden  vincularse  con
+centros de investigación científica y tecnológica pertenecientes a cualquier país del mundo,
+sin restricción.
+4.- Resultados esperados
+Los proyectos deben fomentar la colaboración y la creación de redes entre centros de
+investigación  e  investigadores/as,  y  evidenciarlo  a  través  de  publicaciones  conjuntas,
+asistencia  a  seminarios  y  conferencias,  formación  de  capital  humano  avanzado,  tesis
+desarrolladas en el marco del proyecto, entre otros.
+II.- DISPOSICIONES DEL CONCURSO
+5.- Postulantes
+5.1. Podrán presentar propuestas a la presente convocatoria y recibir recursos financieros,
+los centros de investigación científica y tecnológica nacionales que se ajusten a la definición
+que se indica en el numeral 6.1.
+6.- Definiciones/glosario de términos
+6.1.-  Centro  de  Investigación  Científica  y  Tecnológica  Nacional  (Centro
+SGDOC
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+2 de 14
+18-04-2018 18:43
+ Beneficiario): Unidad funcional  de  investigación constituida  o  reconocida formalmente
+como tal, con o sin personalidad jurídica, formada por grupos de investigadores/as, con
+áreas de investigación específicas.
+6.2.- Investigador/a Responsable: Para efectos de este concurso la consideración de
+Investigador/a  Responsable  está  referida  al/a  la  Investigador/a  o  académico/a  con
+formación postdoctoral o doctoral, con una destacada trayectoria científica, alta producción
+científica respaldada por publicaciones en medios de corriente principal, experiencia en la
+formación de estudiantes de pre y postgrado. Es el/la investigador/a que dirige el proyecto,
+asume los compromisos y obligaciones que exige su ejecución y actúa como contraparte
+técnica ante CONICYT. Es responsable de la oportuna entrega de los informes técnicos
+solicitados,  así  como  de  las  rendiciones  de  cuenta  correspondientes.  Éste  deberá
+desempeñarse en el centro beneficiario, en conformidad a lo dispuesto en el numeral 12.2
+de las presentes bases.
+6.3.- Investigador/a Responsable Extranjero/a: Investigador/a o  académico/a que
+dirige el proyecto y que se desempeña en el centro o institución de investigación en el país
+de contraparte.
+6.4.- Investigador/a Asociado/a: Investigador/a o académico/a nacional, con formación
+doctoral o postdoctoral, que realice una función permanente en el proyecto y se desempeñe
+en una universidad, centro o instituto de investigación nacional que participe en la red.
+6.5.- Grupo de investigación: Grupo integrado por 2 o más investigadores/as residentes
+en Chile, que cuentan con una trayectoria en investigación científica y/o tecnológica en un
+área específica, como asimismo en trabajo colaborativo con otros/as investigadores/as, ya
+sea  nacionales  y/o  internacionales.  Se  incluyen  en  un  grupo  de  investigación:
+Investigador/a Responsable, Investigadores/as Asociados/as, postdoctorantes, estudiantes
+de  doctorado,  magister,  estudiantes  de  magister,  estudiantes/tesistas  de  pregrado  que
+participen en forma activa en el desarrollo del proyecto.  
+6.6.- Instituciones Nacionales Patrocinantes: Son Instituciones públicas o privadas,
+dedicadas a la investigación científica, que poseen personalidad jurídica y que patrocinan el
+proyecto  y  a  los  integrantes  del  equipo  de  investigación.  Podrán  ser  universidades,
+institutos  y  centros  académicos  de  investigación  científica  y/o  tecnológica,  centros  de
+investigación independientes, fundaciones y/o corporaciones sin fines de lucro, e institutos
+públicos que, en cualquier caso, deberán cumplir con los requisitos ya indicados.
+Las Instituciones Nacionales Patrocinantes serán de dos tipos:
+- Patrocinante Principal: Institución que respalda al Centro Beneficiario que no posee
+personalidad jurídica y que, en caso de ser adjudicado el proyecto, será la contraparte de
+CONICYT. En ésta debe residir el Centro Beneficiario.
+-  Patrocinantes Asociadas:  Instituciones que patrocinan el  proyecto  y en las cuales
+pueden desempeñarse otros integrantes del grupo de investigación que participan en el
+mismo.
+6.7.- Equipamiento científico y tecnológico: Son todos aquellos bienes y/o accesorios
+que se requieren para llevar a cabo investigación científica y/o desarrollo tecnológico.
+7. Restricciones e incompatibilidades
+7.1.- No podrán postular como investigadores/as responsables aquellos investigadores/as
+que se encuentren actualmente ejecutando como investigadores responsables un proyecto
+adjudicado en versiones anteriores de este concurso.
+7.2.-  Un/a  mismo/a  investigador/a  sólo  podrá  postular  a  este  concurso  como
+Investigador/a Responsable de un  proyecto, sin perjuicio que participe  en  el grupo de
+SGDOC
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+3 de 14
+18-04-2018 18:43
+ investigación de otros proyectos de este concurso.
+7.3.- Los doctorantes que se encuentren cursando su beca CONICYT no podrán hacer uso
+de la modalidad A (pasantías de perfeccionamiento en el extranjero) si tienen el mismo
+beneficio solicitado en su beca para usarlo en el centro extranjero de contraparte de la red
+adjudicada en la cual participan.
+7.4.- Para realizar la trasferencia de recursos, la Institución Beneficiaria no debe tener
+rendiciones pendientes con CONICYT.
+7.5- Quedan excluidos de postular las autoridades o funcionarios/as que participen en
+cualquiera de las etapas del proceso de concurso.
+De  verificarse  la  existencia  de  alguna  incompatibilidad,  CONICYT,  de  acuerdo  a  la
+oportunidad de su detección, declarará inadmisibles los proyectos involucrados, dejará sin
+efecto su adjudicación o dispondrá el término anticipado del mismo.
+8.- Áreas temáticas / líneas de investigación
+Este concurso está abierto a todas las áreas del conocimiento.
+9.- Duración de los proyectos (periodo de ejecución)
+Los proyectos podrán tener una duración de hasta 24 meses.  
+10.- Modalidades
+Las modalidades de vinculación con centros de investigación científica y tecnológica de los
+países incluidos en la presente convocatoria, son las siguientes: 
+A.-
+Pasantías  de  perfeccionamiento  de  corta  duración  en  el  extranjero,  para
+doctorantes  y  postdoctorantes  residentes  en  Chile,  en  el/los  centro/s  de  investigación
+extranjero/s que participa/n en la red.
+B.- Estadías en Chile, para investigadores/as o académicos/as extranjeros/as en el/los
+centro/s de investigación científica y tecnológica nacional/es que participa/n en la red.
+C.- Estadías en el extranjero, para investigadores/as o académicos/as residentes en
+Chile, en el/los centro/s de Investigación extranjero/s que participa/n en la red.
+D.- Realización de talleres o seminarios bilaterales en Chile, con el/los centro/s o
+instituto/s de investigación que forman parte de la red.
+E.- Acceso al uso de equipamiento científico y tecnológico, en la/s institución/es
+extranjera/s de investigación y/o de servicios para la investigación que participa/n en la
+red, para investigadores/as o académicos/as residentes en Chile. 
+11.- Financiamiento
+Los recursos asignados a través del presente concurso estarán destinados a financiar las
+modalidades de vinculación propuestas, de conformidad con lo establecido en el punto 10
+de  las  presentes  bases,  para  lo  cual,  el  financiamiento  máximo  a  otorgar  será
+de $16.000.000.- (dieciséis millones de pesos) por proyecto y por el total del período de
+ejecución.  
+A continuación, se detallan los ítems de gastos que se pueden financiar en cada modalidad,
+y las restricciones asociadas. 
+Modalidades
+Ítems de
+gastos
+Restricción
+SGDOC
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+4 de 14
+18-04-2018 18:43
+ Modalidad A
+Pasantías de
+corta
+duración en
+el extranjero
+Pasajes
+Pasajes  en  clase
+económica  punto  a
+punto.
+Viáticos
+·
+Máximo 3
+meses por
+persona.
+·
+Valor máximo  por
+persona:$1.600.000
+mensual.
+Modalidad B  
+Estadías en
+Chile 
+Pasajes
+Pasajes  en  clase
+económica  punto  a
+punto.
+Viáticos
+·
+Máximo 15 días por
+persona.
+·
+Valor máximo por
+persona:  $100.000
+diarios.
+Modalidad C  
+Estadías en
+el extranjero 
+Pasajes
+Pasajes  en  clase
+económica  punto  a
+punto.
+Viáticos
+·
+Viáticos hasta 15
+días por persona.
+·
+Valor máximo por
+persona:  $150.000
+diarios.
+Modalidad D  
+Realización
+de Talleres o
+seminarios
+bilaterales en
+Chile 
+Pasajes
+Pasajes  en  clase
+económica  punto  a
+punto.
+Viáticos
+·
+Viáticos hasta 5
+días  por  persona
+(para  participantes
+extranjero/as,
+ 
+y
+para  residentes  en
+Chile
+ 
+de
+ 
+otras
+regiones  distintas
+de  las  sedes  del
+evento).
+·
+Valor máximo por
+persona:  $100.000
+diarios.
+Difusión y
+Seminarios
+No
+ 
+se
+ 
+podrán
+realizar
+ 
+gastos
+asociados
+ 
+a
+alimentación (coffee
+break,  almuerzos,
+cenas,  otros)  ni
+pagos de honorarios
+por
+ 
+concepto
+de   organización
+talleres
+ 
+o
+SGDOC
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+5 de 14
+18-04-2018 18:43
+ seminarios.
+Modalidad E
+Acceso al uso
+de
+equipamiento
+científico y
+tecnológico,
+en
+instituciones
+extranjeras
+Acceso a
+equipos
+Presupuesto
+máximo:
+$5.000.000.
+Nota: Se podrá incluir el gasto para la obtención del documento de garantía mencionado en
+el punto 18.2 de las presentes bases.
+Descripción de los ítems de gastos financiados:
+- Acceso al uso de equipamiento en instituciones extranjeras: gastos de capacitación
+en manejo de equipo, de operación, arriendo y administración de equipos. Incluye los
+gastos  de  entrenamiento  para  el  uso  de  equipos,  los  insumos,  las  horas  de  uso  del
+equipamiento y el cobro de muestras y de personal técnico asociado.
+Se podrá incluir el gasto o comisión que cobre el banco por la transferencia de fondos al
+centro extranjero, con motivo del pago que permita acceder a los equipos.
+- Difusión y Seminarios:
+a.- Gastos vinculados a la difusión de los resultados en conferencias, cursos y otros que se
+realicen en Chile, dirigidos a audiencias no académicas, publicación de artículos y noticias
+en páginas web, afiches, diarios y/o revistas que aseguren una proyección a los medios
+más amplios y relevantes considerando la naturaleza del proyecto.
+b.- Gastos para la realización de seminarios, congresos, charlas, talleres, mesas de trabajo
+en  la temática del  proyecto  (se  excluyen gastos de alimentación y  de  honorarios  por
+concepto de organización talleres o seminarios.).
+III.- POSTULACIÓN
+12.- Requisitos de postulación
+12.1.- La propuesta deberá ser presentada por un Centro de Investigación Científica y
+Tecnológica  Nacional  (Centro  Beneficiario),  para  ser  ejecutada  por  un  grupo  de
+investigación residente en Chile.
+- Los Centros de Investigación con personalidad jurídica podrán postular por sí mismos, y
+aquéllos  que  no  la  poseen  deberán  postular  respaldados  por  una  Institución  Nacional
+Patrocinante Principal.
+-  No  se  considerarán  como  Centros  de  Investigación  Científica  y  Tecnológica  a  las
+Facultades, Departamentos y otras unidades académicas-administrativas universitarias.
+12.2.- El/la Investigador/a Responsable deberá desempeñarse en el Centro Beneficiario
+que presenta el proyecto y residir de manera permanente en Chile durante la ejecución del
+proyecto.
+SGDOC
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+6 de 14
+18-04-2018 18:43
+ 12.3.- El/la Investigador/a Responsable, deberá contar con el apoyo del Centro Beneficiario
+y/o de la Institución Nacional Patrocinante Principal a la cual pertenece. La propuesta puede
+contar con el apoyo de una o más Instituciones Nacionales Patrocinantes Asociadas.
+12.4.- El grupo de investigación deberá incluir por lo menos 2 investigadores/as nacionales,
+por lo que, además del/de la Investigador/a Responsable, el proyecto debe contar con al
+menos un/a Investigador/a Asociado/a.
+12.5.- El proyecto debe incluir por lo menos un/a investigador/a responsable extranjero/a
+por cada centro extranjero que participe.
+12.6.- La propuesta deberá considerar a lo menos 2 de las 5 modalidades de vinculación
+indicadas en el punto 10 de éstas bases, en cuyo caso, una de ellas deberá ser “Pasantías
+de perfeccionamiento” (Modalidad A) o “Realización de talleres o seminarios” (Modalidad
+D).
+12.7.- Para las propuestas que incluyan el “Acceso al uso de equipamiento científico y
+tecnológico” (Modalidad E), ésta deberá ir asociada a las “Pasantías de perfeccionamiento”
+(Modalidad A) y/o a las “Estadías en el extranjero” (Modalidad C).
+12.8.- La propuesta deberá acreditar formalmente el compromiso de participación del o de
+los Centros de Investigación en el Extranjero con los cuales los centros nacionales llevarán
+a cabo las actividades de vinculación internacional, según lo indicado en el numeral 13.C.
+de las presentes bases concursales.
+12.9.- Se entiende por centros o institutos de investigación nacionales y/o extranjeros
+aquellos que participan en la red y se encuentran nombrados o descritos en el proyecto
+presentado a la presente convocatoria.
+13.- Documentos a presentar
+La propuesta deberá ser presentada a través del sistema de postulación en línea disponible
+en la página web de CONICYT, y deberá incluir la siguiente información y documentación:
+A.- Formulario de postulación completado en inglés (según formato disponible).
+B.- Documento(s) acreditando la constitución del Centro Beneficiario:
+- Si el Centro cuenta con personería propia, deberá presentar un documento acreditando su
+constitución, personalidad jurídica y representación legal.
+- Si el Centro no posee personería propia, la Institución Nacional Patrocinante Principal
+deberá  presentar  un  documento  acreditando  la  constitución  o
+existencia  del
+Centro Beneficiario.
+C.-  Carta(s)  de  compromiso  del/de  los  Centro(s)  de  Investigación  Extranjero(s)
+participante(s) en el proyecto. Ésta(s) deberá(n) especificar el acceso a equipamientos en
+el caso de postular a la modalidad E.
+D.-  Curriculum  vitae
+en  inglés
+del/de  la  Investigador/a  Responsable
+y
+de  los/as
+Investigadores/as Asociados/as que participan en el proyecto
+E.- Curriculum vitae en inglés de los/as Investigadores/as Responsables Extranjeros/as de
+cada Centro Extranjero participante en el proyecto.
+F.- Anexo Presupuesto (en inglés, según formato disponible).
+IV.- ADMISIBILIDAD, EVALUACIÓN Y ADJUDICACIÓN
+14.- Admisibilidad
+SGDOC
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+7 de 14
+18-04-2018 18:43
+ 14.1- Las postulaciones incompletas o que no cumplan con los requisitos de postulación
+serán declaradas fuera de bases y no ingresarán al proceso de evaluación.  
+14.2.- Los postulantes cuyas propuestas hayan sido declaradas fuera de bases, podrán
+interponer ante el Jefe de Servicio el recurso de reposición correspondiente, en el plazo de
+5 días hábiles desde la notificación.
+14.3.- No se aceptarán postulaciones fuera de plazo.
+15.- Proceso de Evaluación
+15.1.- Las propuestas declaradas admisibles pasarán a la etapa de evaluación, en la cual
+participará  un  Panel  especialmente  nombrado  para  este  concurso,  constituido  por
+científicos/as de excelencia, residentes en Chile, de trayectoria y experticia en las áreas de
+los proyectos presentados al concurso.
+15.2.- El Panel de Evaluación estará a cargo de:
+•
+Asignar proyectos a evaluar a los miembros del panel que cuenten con competencias
+afines a las temáticas de éstos.
+•
+Realizar una evaluación conjunta de los proyectos.
+•
+Solicitar el pronunciamiento de evaluaciones externas, en caso de ser necesario.
+•
+Determinar la nota final de los proyectos presentados a esta convocatoria.
+•
+Proponer  a  CONICYT  una  nómina  priorizada  de  los  proyectos  susceptibles  de  ser
+adjudicados.
+15.3.- Los criterios de evaluación y las ponderaciones correspondientes son las siguientes:
+Criterio de Evaluación
+Ponderación
+Calidad de la propuesta
+50%
+Nivel científico de los grupos de investigación participantes y
+su complementariedad
+20%
+Resultados esperados
+30%
+15.4.- El Panel tendrá el rol de asignar una puntuación de 0 a 5 a cada criterio evaluado
+del proyecto, pudiendo utilizar fracciones menores. Se define un puntaje de corte mínimo
+de tres (3) puntos, para recomendar a los proyectos susceptibles de financiamiento, sin
+perjuicio de lo ponderado por el Panel respecto de las evaluaciones de los proyectos y de la
+disponibilidad presupuestaria del Servicio.
+15.5.-  En  igualdad  de  condiciones,  se  dará  prioridad  a  las  propuestas  que  declaren
+recursos  adicionales  (monetarios  o  valorados)  de  sus  contrapartes  extranjeras  para  la
+realización del proyecto.
+15.6.- Escala de evaluación:
+0.
+No
+califica
+La  propuesta
+no
+cumple/aborda
+el  criterio  bajo
+análisis  o  no
+puede
+ 
+ser
+evaluada
+debido  a  la
+falta
+ 
+de
+antecedentes  o
+SGDOC
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+8 de 14
+18-04-2018 18:43
+ información
+incompleta.
+1.
+Deficiente
+La  propuesta
+no
+cumple/aborda
+adecuadamente
+los aspectos del
+criterio  o  hay
+graves
+deficiencias
+inherentes.
+2.
+Regular
+La  propuesta
+cumple/aborda
+en
+ 
+términos
+generales  los
+aspectos
+ 
+del
+criterio,  pero
+existen
+importantes
+deficiencias.
+3.
+Bueno
+La  propuesta
+cumple/aborda
+correctamente
+los aspectos del
+criterio, aunque
+requiere ciertas
+mejoras.
+4.
+Muy
+bueno
+La  propuesta
+cumple/aborda
+los aspectos del
+criterio de muy
+buena  manera,
+aun cuando son
+posibles ciertas
+mejoras.
+5.
+Excelente
+La  propuesta
+cumple/aborda
+de
+ 
+manera
+sobresaliente
+todos
+ 
+los
+aspectos
+relevantes  del
+criterio
+ 
+en
+cuestión.
+Cualquier
+debilidad
+ 
+es
+muy menor.
+16.- Selección, adjudicación y entrega de resultados
+16.1.-  CONICYT  aprobará  el  fallo  y  adjudicará  los  proyectos  a  través  del  acto
+administrativo correspondiente.
+16.2.-
+Asimismo,  todos  los  postulantes  serán  notificados  de  los  resultados  de  la
+convocatoria  mediante  carta  certificada  o  correo  electrónico,  esto  último  cuando  el
+SGDOC
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+9 de 14
+18-04-2018 18:43
+ postulante lo autorice expresamente en la postulación. A través de este medio se realizarán
+todas y cada una de las notificaciones que sean requeridas en este concurso. En dicha
+notificación se indicará que el resultado se encuentra disponible en el sitio web de CONICYT.
+16.3.- Los postulantes podrán interponer ante el Jefe de Servicio el recurso de reposición
+correspondiente, en el plazo de 5 días hábiles desde la notificación.
+16.4.- Este concurso podrá contemplar lista de espera, en caso que CONICYT lo estime
+pertinente.  La  lista  de  espera  se  materializará  a  través  del  correspondiente  acto
+administrativo de CONICYT y operará en los siguientes casos: renuncia de alguno de los
+beneficiarios o que alguno de ellos se encuentre imposibilitado para ejecutar el proyecto;
+que el beneficiario no suscriba el convenio dentro de los plazos establecidos en las bases;
+o, que exista disponibilidad presupuestaria del Servicio en el período.
+16.5.-  CONICYT  podrá  realizar  el  control  de  los  objetivos  e  hitos  establecidos  en  el
+proyecto  y  en  el  convenio  respectivo,  teniendo  la  facultad  de  solicitar  información  en
+cualquier  etapa  del  proyecto. Consecuentemente,  CONICYT  podrá realizar  visitas  a los
+Centros  de  Investigación Científica  y Tecnológica  nacionales  adjudicatarios y/o  solicitar
+exposiciones a el/la Investigador/a Responsable de la propuesta. El adjudicatario, deberá
+dar las facilidades necesarias para la realización del presente seguimiento.
+V.- EJECUCIÓN Y SEGUIMIENTO DE LOS PROYECTOS
+17.- Firma de convenio
+17.1.-  Posteriormente  a  la  adjudicación,  CONICYT  comunicará  al/a  la  Investigador/a
+Responsable en Chile el plazo en que se deberá suscribir el convenio de financiamiento. En
+este instrumento se establecerán expresamente los derechos y obligaciones de cada una de
+las  partes,  la  duración  del  proyecto  y  todas  aquellas  cláusulas  que  resguarden  el
+cumplimiento  de  los  objetivos  del  concurso  y  el  uso  de  los  recursos  transferidos  por
+CONICYT para los fines señalados en el proyecto.
+17.2.- Para todos los efectos legales y la suscripción del convenio respectivo, la contraparte
+de CONICYT será el Centro Beneficiario que presenta el proyecto y en el que se desempeña
+el/la Investigador/a Responsable. Para los Centros sin personalidad jurídica, el convenio
+deberá suscribirlo la Institución Nacional Patrocinante Principal del Centro Beneficiario, la
+cual será la responsable de la ejecución del proyecto ante CONICYT.
+17.3.- Al momento de la firma del convenio el Centro Beneficiario o la Institución Nacional
+Patrocinante Principal, según corresponda, deberá presentar la siguiente documentación:
+17.3.1. Escritura Pública de Constitución;
+17.3.2.- Certificado del Conservador de Bienes Raíces de vigencia de los poderes;
+17.3.3.  Certificado  de  Inscripción  en  el  Registro  de  Colaboradores  del  Estado  y
+Municipalización, requisito obligatorio para que CONICYT pueda realizar la transferencia de
+los recursos, según lo establecido en la Ley N° 19862 del 08/02/2003.
+18.- Vigencia del proyecto, periodo de ejecución y transferencia de recursos
+18.1.- La vigencia del correspondiente convenio se contará a partir de la fecha de la total
+tramitación del acto administrativo de CONICYT que aprueba el convenio de financiamiento
+y por el período que indique el mismo.
+18.2.- Aquellos Centros que sean Instituciones Privadas, deberán garantizar el fiel uso de
+los  recursos  que  transfiere  CONICYT  para  las  actividades  de  los  proyectos,  según  lo
+dispongan las cláusulas indicadas en los convenios, mediante boleta de garantía bancaria
+SGDOC
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+10 de 14
+18-04-2018 18:43
+ pagadera a la vista, vale vista endosable o póliza de seguro de ejecución inmediata. Dicho
+documento debe tener una vigencia de a lo menos 150 (ciento cincuenta) días adicionales a
+la fecha exigible de la Rendición de Cuentas por cada desembolso o cuota respecto del
+período a cubrir con ella, y en caso  que sea la última cuota a desembolsar debe ser
+garantizado  por un  plazo no  menor  a seis meses (180 días) a contar  de  la fecha de
+finalización del proyecto.
+El costo de la emisión de este documento podrá ser incluido dentro de los gastos de este
+proyecto
+En caso que el proyecto sea prorrogado, se deberá renovar la caución, de manera que
+tenga una vigencia superior a 180 días adicionales al período de extensión.
+18.3-  Para  realizar  la  trasferencia  de  recursos,  el  Centro  Beneficiario  o  la  Institución
+Nacional Patrocinante Principal, según corresponda, no debe tener rendiciones pendientes
+con CONICYT.
+18.4.- Según dictamen N°15.978/10 de Controlaría General de la República, señala que en
+las  instituciones  nacionales  pertenecientes  a  la  administración  del  Estado  “no  existe
+obligatoriedad de garantizar o asegurar el cumplimiento de compromisos contraídos entre
+Órganos  de  la  Administración  de  Estado”,  por  lo  cual  CONICYT  no  debe  exigir  la
+presentación de garantías a Instituciones del Estado, por recursos que transfiere en el
+marco de convenios suscritos por las partes.
+18.5.- Las Instituciones Públicas y Privadas deberán destinar una cuenta bancaria, en la
+cual  CONICYT  transfiera  los  recursos  correspondientes  a  los  proyectos  adjudicados,
+además,  de  registrar  los  recursos  pecuniarios  de  terceros  y  los  aportes  de  la  propia
+Institución al proyecto, según corresponda.
+19.- Seguimiento y control del proyecto: entrega de informes técnicos y rendición
+de cuentas
+19.1.- El/la Investigador/a responsable deberá dar estricto y oportuno cumplimiento a las
+fechas y forma de presentación de informes técnicos y rendiciones de cuentas que se
+establezcan  en  el  respectivo  Convenio  y  en  los  documentos  “Informes  Técnicos”  e
+“Instructivo  de  Rendición  de  Cuentas”,  entregados  por  CONICYT  a  la  fecha  de  la
+transferencia de los recursos.
+Informes técnicos:
+El/la Investigador/a Responsable en Chile, deberá presentar a CONICYT un informe técnico
+y económico de avance durante el mes 12 del periodo de ejecución del proyecto, así como
+un informe técnico final, hasta 30 días después del término del periodo de ejecución del
+proyecto.
+Rendiciones de cuentas:
+El/la Investigador/a Responsable deberá entregar al PCI, una rendición de la totalidad de
+los  recursos  transferidos  durante  el  período,  según  las  indicaciones  establecidas  en  el
+instructivo de rendición de cuentas, el cual será entregado por CONICYT al momento de
+transferir los recursos correspondientes al periodo. El/la Investigador/a Responsable deberá
+presentar la rendición de cuentas a más tardar 30 días después de terminado el periodo de
+ejecución del proyecto.
+19.2.- La rendición de cuentas de los recursos transferidos por CONICYT se regirán en lo
+que corresponda según las normas establecidas por la Resolución Nº 30 del 11 de marzo de
+2015 de la Contraloría General de la República y por CONICYT. Además de las normas e
+indicaciones detalladas en el correspondiente manual de rendición de cuentas del concurso
+respectivo.
+SGDOC
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+11 de 14
+18-04-2018 18:43
+ 19.3.- Para efectos de la rendición de cuentas, sólo se aceptarán gastos a nombre del
+Centro Beneficiario o de la Institución Nacional Patrocinante Principal, según corresponda, y
+en ningún caso a nombre de CONICYT.
+19.4.- En el evento que el Centro Beneficiario no dé cumplimiento a cualquiera de las
+obligaciones que se deriven de las presentes bases, así como del convenio específico que se
+suscriba, CONICYT podrá poner término anticipado al proyecto, pudiendo además solicitar
+la devolución total o parcial de los recursos transferidos, o bien hacer efectivo el documento
+de garantía presentado, sin perjuicio de reservarse el derecho a ejercer las demás acciones
+legales que correspondan.
+19.5.- Queda estrictamente prohibido invertir los fondos transferidos para el desarrollo del
+proyecto, en cualquier tipo de instrumento financiero, ya sea de renta fija o variable, de
+corto o largo plazo, que reditúe intereses, reajustes u otras utilidades, tales como: fondos
+mutuos, acciones, depósitos a plazo, bonos, etc.
+En  la  eventualidad  que  se  detecten  ganancias  obtenidas  con  motivo  de  inversiones
+efectuadas  con  los  recursos  destinados  a  gastos  propios  del  proyecto,  dichos  montos
+deberán ser entregados a CONICYT, quedando ésta facultada para evaluar el alcance de
+dicha  operación, de cuyo  análisis podrá establecer el término  anticipado  del  proyecto,
+previa calificación del mérito del incumplimiento en que se ha incurrido.
+20.- Mención al apoyo de CONICYT
+Toda productividad científica asociada a los proyectos que se financien por este programa,
+tales como publicaciones, artículos, libros, patentes, ponencias u otros, deberá contener los
+reconocimientos a CONICYT por el financiamiento otorgado, utilizando el siguiente formato:
+“CONICYT + Programa/Instrumento + Folio (Cód. Proyecto)”.
+21.- Modificaciones del proyecto
+Durante la ejecución del proyecto, el/la Investigador/a Responsable nacional podrá solicitar
+por escrito, de manera fundada y oportunamente, a CONICYT, a través de su Programa de
+Cooperación Internacional, modificaciones tales como: cambios en el presupuesto, en los
+integrantes del equipo y en el plazo de ejecución, entre otros. 
+VI.- TÉRMINO DEL PROYECTO (NORMAL Y ANTICIPADO)
+Una vez cumplido el plazo del proyecto, éste se considerará terminado cuando hayan sido
+cumplidos, a satisfacción de CONICYT, sus objetivos y resultados comprometidos y además
+sean aprobados los informes técnicos y las rendiciones de cuentas o reintegros respectivos.
+Ocurrido esto se suscribirá el respectivo finiquito, el que será aprobado por medio del acto
+administrativo correspondiente.
+CONICYT pondrá término anticipado al convenio suscrito, si estimare que el informe del/de
+la  Investigador/a  Responsable  del  proyecto  no  responde  a  las  observaciones  de
+incumplimiento de los objetivos del concurso y/o de las actividades de seguimiento, que
+surgen tras la evaluación de los informes técnicos de avance y/o rendiciones de cuenta del
+proyecto.
+VII.- OBLIGACIONES Y RESTRICCIONES
+23- Cumplimiento e interpretación de las bases
+23.1.-  CONICYT  se  reserva  el  derecho  para  interpretar  el  sentido  y  alcance  de  las
+presentes bases, en caso de dudas y/o conflictos que se suscitaren sobre la aplicación de
+SGDOC
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+12 de 14
+18-04-2018 18:43
+ las mismas.
+23.2.- CONICYT podrá, en cualquier momento, antes de la firma y durante la ejecución de
+los convenios respectivos, verificar el total cumplimiento de las presentes bases y, más
+específicamente, de la exactitud y completitud de los antecedentes presentados en las
+respectivas postulaciones que se lleven a cabo con motivo del presente concurso, como
+asimismo en relación con el respaldo de la documentación requerida. En caso de detectarse
+incongruencias, omisiones y/o incompatibilidades, CONICYT declarará la improcedencia de
+la adjudicación del o los proyectos de que se trate.
+VIII.- CONSULTAS Y CALENDARIO DEL CONCURSO
+24.- Consultas
+Se podrán realizar consultas a través del sitio web de CONICYT, hasta 05 días antes de la
+fecha de cierre de recepción de las postulaciones: http://www.conicyt.cl/oirs
+25.- Publicación y calendario del Concurso
+Publicación de la Convocatoria:
+CONICYT  convocará  al  presente  concurso  a  través  de  un  diario  de  amplia  circulación
+nacional, y en su sitio web, en el cual se señalará la fecha de apertura y cierre de la
+convocatoria. Las bases de postulación estarán disponibles en http://www.conicyt.cl/pci/
+Recepción de las postulaciones
+Las
+ 
+postulaciones
+ 
+se
+ 
+recibirán
+ 
+únicamente
+ 
+en
+ 
+sistema
+ 
+en
+línea http://www.conicyt.cl/pci/ desde la apertura del presente Concurso hasta su cierre. 
+FIN TRANSCRIPCIÓN DE BASES
+3.- CONVÓQUESE a concurso una vez totalmente tramitado el presente acto administrativo.
+4.- DISTRIBÚYASE la presente resolución a la Dirección Ejecutiva, Programa de Cooperación
+Internacional y Fiscalía.
+ANÓTESE Y COMUNÍQUESE
+CHRISTIAN NICOLAI ORELLANA
+Director(a) Ejecutivo
+DIRECCION EJECUTIVA
+SGDOC
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+13 de 14
+18-04-2018 18:43
+ CNO / / JVP / smm
+DISTRIBUCION:
+INGRID MARLENE TAPIA - Ejecutivo(a) de Proyectos - RELACIONES INTERNACIONALES
+PAZ ANGELICA SCHACHTEBECK - Coordinador(a) de Proyectos - PROGRAMA PIA
+RICARDO CONTADOR - Coordinador(a) de Finanzas Unidad de Coop. Internacional - RELACIONES INTERNACIONALES
+OFICINA DE - Asistente Oficina de Partes - ADMINISTRACION Y FINANZAS
+Firmado Electrónicamente en Conformidad con el Artículo 2º letra F y G de la Ley 19.799
+SGDOC
+http://ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+14 de 14
+18-04-2018 18:43
+  
+ 
+Programa de Cooperación Internacional   
+CONCURSO DE APOYO A LA FORMACIÓN DE REDES INTERNACIONALES ENTRE CENTROS 
+DE INVESTIGACIÓN   
+Bases de Postulación – Convocatoria 2018  
+I.- DISPOSICIONES GENERALES 
+1.- Antecedentes   
+La Comisión Nacional de Investigación Científica y Tecnológica, CONICYT, tiene como uno de sus 
+objetivos estratégicos el fortalecimiento de la base científica y tecnológica del país. En ese contexto, 
+promueve las alianzas internacionales que permitan dar a conocer el desarrollo de la investigación 
+que se realiza en Chile y, a su vez, apoyar la participación de los científicos de nuestro país en 
+investigación de frontera que se lleva a cabo en el mundo.  
+En virtud de lo anterior, CONICYT, a través de su Programa de Cooperación Internacional (PCI), 
+llama a concurso para proyectos de fortalecimiento de redes internacionales entre centros de 
+investigación.  
+2.- Objetivos del concurso  
+2.1.- Apoyar la generación de redes para fortalecer vínculos internacionales, en todas las áreas del 
+conocimiento, entre centros de investigación científica y tecnológica nacionales y centros 
+extranjeros de los países señalados en el punto 3. 
+2.2.- Contribuir a la formación de recursos humanos en el extranjero, a fin de participar en 
+investigación de frontera y en nuevos procesos de innovación, de manera que aporten 
+conocimientos en áreas de interés para el desarrollo nacional. 
+3.- Estructura del concurso / contrapartes  
+Los centros de investigación científica y tecnológica nacionales, pueden vincularse con centros de 
+investigación científica y tecnológica pertenecientes a cualquier país del mundo, sin restricción.  
+ 4.- Resultados esperados 
+Los proyectos deben fomentar la colaboración y la creación de redes entre centros de investigación 
+e investigadores/as, y evidenciarlo a través de publicaciones conjuntas, asistencia a seminarios y 
+conferencias, formación de capital humano avanzado, tesis desarrolladas en el marco del proyecto, 
+entre otros. 
+ 
+ 
+  
+ 
+II.- DISPOSICIONES DEL CONCURSO 
+5.- Postulantes 
+5.1. Podrán presentar propuestas a la presente convocatoria y recibir recursos financieros, los 
+centros de investigación científica y tecnológica nacionales que se ajusten a la definición que se 
+indica en el numeral 6.1. 
+6.- Definiciones/glosario de términos 
+6.1.- 
+Centro 
+de 
+Investigación 
+Científica 
+y 
+Tecnológica 
+Nacional 
+(Centro 
+Beneficiario): Unidad funcional de investigación constituida o reconocida formalmente como tal, 
+con o sin personalidad jurídica, formada por grupos de investigadores/as, con áreas de investigación 
+específicas. 
+6.2.- Investigador/a Responsable: Para efectos de este concurso la consideración de 
+Investigador/a Responsable está referida al/a la Investigador/a o académico/a con formación 
+postdoctoral o doctoral, con una destacada trayectoria científica, alta producción científica 
+respaldada por publicaciones en medios de corriente principal, experiencia en la formación de 
+estudiantes de pre y postgrado. Es el/la investigador/a que dirige el proyecto, asume los 
+compromisos y obligaciones que exige su ejecución y actúa como contraparte técnica ante CONICYT. 
+Es responsable de la oportuna entrega de los informes técnicos solicitados, así como de las 
+rendiciones de cuenta correspondientes. Éste deberá desempeñarse en el centro beneficiario, en 
+conformidad a lo dispuesto en el numeral 12.2 de las presentes bases. 
+6.3.- Investigador/a Responsable Extranjero/a: Investigador/a o académico/a que dirige el 
+proyecto y que se desempeña en el centro o institución de investigación en el país de contraparte. 
+6.4.- Investigador/a Asociado/a: Investigador/a o académico/a nacional, con formación 
+doctoral o postdoctoral, que realice una función permanente en el proyecto y se desempeñe en una 
+universidad, centro o instituto de investigación nacional que participe en la red. 
+ 
+ 
+ 
+6.5.- Grupo de investigación: Grupo integrado por 2 o más investigadores/as residentes en Chile, 
+que cuentan con una trayectoria en investigación científica y/o tecnológica en un área específica, 
+como asimismo en trabajo colaborativo con otros/as investigadores/as, ya sea nacionales y/o 
+internacionales. Se incluyen en un grupo de investigación: Investigador/a Responsable, 
+Investigadores/as Asociados/as, postdoctorantes, estudiantes de doctorado, magister, estudiantes 
+de magister, estudiantes/tesistas de pregrado que participen en forma activa en el desarrollo del 
+proyecto.   
+  
+ 
+6.6.- Instituciones Nacionales Patrocinantes: Son Instituciones públicas o privadas, dedicadas 
+a la investigación científica, que poseen personalidad jurídica y que patrocinan el proyecto y a los 
+integrantes del equipo de investigación. Podrán ser universidades, institutos y centros académicos 
+de investigación científica y/o tecnológica, centros de investigación independientes, fundaciones y/o 
+corporaciones sin fines de lucro, e institutos públicos que, en cualquier caso, deberán cumplir con 
+los requisitos ya indicados. 
+Las Instituciones Nacionales Patrocinantes serán de dos tipos: 
+- Patrocinante Principal: Institución que respalda al Centro Beneficiario que no posee 
+personalidad jurídica y que, en caso de ser adjudicado el proyecto, será la contraparte de CONICYT. 
+En ésta debe residir el Centro Beneficiario. 
+- Patrocinantes Asociadas: Instituciones que patrocinan el proyecto y en las cuales pueden 
+desempeñarse otros integrantes del grupo de investigación que participan en el mismo. 
+6.7.- Equipamiento científico y tecnológico: Son todos aquellos bienes y/o accesorios que se 
+requieren para llevar a cabo investigación científica y/o desarrollo tecnológico. 
+7. Restricciones e incompatibilidades 
+7.1.- No podrán postular como investigadores/as responsables aquellos investigadores/as que se 
+encuentren actualmente ejecutando como investigadores responsables un proyecto adjudicado en 
+versiones anteriores de este concurso. 
+7.2.- Un/a mismo/a investigador/a sólo podrá postular a este concurso como Investigador/a 
+Responsable de un proyecto, sin perjuicio que participe en el grupo de investigación de otros 
+proyectos de este concurso. 
+7.3.- Los doctorantes que se encuentren cursando su beca CONICYT no podrán hacer uso de la 
+modalidad A (pasantías de perfeccionamiento en el extranjero) si tienen el mismo beneficio 
+solicitado en su beca para usarlo en el centro extranjero de contraparte de la red adjudicada en la 
+cual participan. 
+7.4.- Para realizar la trasferencia de recursos, la Institución Beneficiaria no debe tener rendiciones 
+pendientes con CONICYT. 
+7.5- Quedan excluidos de postular las autoridades o funcionarios/as que participen en cualquiera 
+de las etapas del proceso de concurso. 
+De verificarse la existencia de alguna incompatibilidad, CONICYT, de acuerdo a la oportunidad de 
+su detección, declarará inadmisibles los proyectos involucrados, dejará sin efecto su adjudicación o 
+dispondrá el término anticipado del mismo. 
+8.- Áreas temáticas / líneas de investigación  
+  
+ 
+Este concurso está abierto a todas las áreas del conocimiento. 
+9.- Duración de los proyectos (periodo de ejecución) 
+Los proyectos podrán tener una duración de hasta 24 meses.   
+10.- Modalidades 
+Las modalidades de vinculación con centros de investigación científica y tecnológica de los países 
+incluidos en la presente convocatoria, son las siguientes:  
+A.-  Pasantías de perfeccionamiento de corta duración en el extranjero, para doctorantes y 
+postdoctorantes residentes en Chile, en el/los centro/s de investigación extranjero/s que participa/n 
+en la red. 
+B.-  Estadías en Chile, para investigadores/as o académicos/as extranjeros/as en el/los centro/s 
+de investigación científica y tecnológica nacional/es que participa/n en la red. 
+C.- Estadías en el extranjero, para investigadores/as o académicos/as residentes en Chile, en 
+el/los centro/s de Investigación extranjero/s que participa/n en la red. 
+D.- Realización de talleres o seminarios bilaterales en Chile, con el/los centro/s o instituto/s 
+de investigación que forman parte de la red. 
+E.- Acceso al uso de equipamiento científico y tecnológico, en la/s institución/es 
+extranjera/s de investigación y/o de servicios para la investigación que participa/n en la red, para 
+investigadores/as o académicos/as residentes en Chile.  
+11.- Financiamiento 
+Los recursos asignados a través del presente concurso estarán destinados a financiar las 
+modalidades de vinculación propuestas, de conformidad con lo establecido en el punto 10 de las 
+presentes bases, para lo cual, el financiamiento máximo a otorgar será de $16.000.000.- (dieciséis 
+millones de pesos) por proyecto y por el total del período de ejecución.   
+A continuación, se detallan los ítems de gastos que se pueden financiar en cada modalidad, y las 
+restricciones asociadas.  
+Modalidades 
+Ítems de 
+gastos 
+Restricción 
+Modalidad A 
+Pasantías de corta 
+duración en el 
+extranjero 
+Pasajes 
+Pasajes en clase económica punto a punto. 
+Viáticos 
+• 
+Máximo 3 meses por persona. 
+  
+• 
+Valor máximo  por persona:$1.600.000 
+mensual. 
+Modalidad B   
+Estadías en Chile  
+Pasajes 
+Pasajes en clase económica punto a punto. 
+Viáticos 
+• 
+Máximo 15 días por persona. 
+• 
+Valor máximo por persona: $100.000 diarios. 
+Modalidad C   
+Estadías en el 
+extranjero  
+Pasajes 
+Pasajes en clase económica punto a punto. 
+Viáticos 
+• 
+Viáticos hasta 15 días por persona. 
+• 
+Valor máximo por persona: $150.000 diarios. 
+Modalidad D   
+Realización de 
+Talleres o seminarios 
+bilaterales en Chile  
+Pasajes 
+Pasajes en clase económica punto a punto. 
+Viáticos 
+• 
+Viáticos 
+hasta 5 
+días por 
+persona 
+(para 
+participantes extranjero/as, y para residentes en 
+Chile de otras regiones distintas de las sedes del 
+evento). 
+• 
+Valor máximo por persona: $100.000 diarios. 
+Difusión y 
+Seminarios 
+No se podrán realizar gastos asociados a alimentación 
+(coffee break, almuerzos, cenas, otros) ni pagos de 
+honorarios por concepto de  organización talleres o 
+seminarios. 
+Modalidad E 
+Acceso al uso de 
+equipamiento 
+científico y 
+tecnológico, en 
+instituciones 
+extranjeras 
+Acceso a 
+equipos 
+Presupuesto máximo: $5.000.000. 
+ Nota: Se podrá incluir el gasto para la obtención del documento de garantía mencionado en el 
+punto 18.2 de las presentes bases. 
+Descripción de los ítems de gastos financiados: 
+- Acceso al uso de equipamiento en instituciones extranjeras: gastos de capacitación en 
+manejo de equipo, de operación, arriendo y administración de equipos. Incluye los gastos de 
+entrenamiento para el uso de equipos, los insumos, las horas de uso del equipamiento y el cobro 
+de muestras y de personal técnico asociado. 
+Se podrá incluir el gasto o comisión que cobre el banco por la transferencia de fondos al centro 
+extranjero, con motivo del pago que permita acceder a los equipos. 
+  
+ 
+- Difusión y Seminarios:   
+a.- Gastos vinculados a la difusión de los resultados en conferencias, cursos y otros que se realicen 
+en Chile, dirigidos a audiencias no académicas, publicación de artículos y noticias en páginas web, 
+afiches, diarios y/o revistas que aseguren una proyección a los medios más amplios y relevantes 
+considerando la naturaleza del proyecto.   
+b.- Gastos para la realización de seminarios, congresos, charlas, talleres, mesas de trabajo en la 
+temática del proyecto (se excluyen gastos de alimentación y de honorarios por concepto de 
+organización talleres o seminarios.). 
+  
+III.- POSTULACIÓN 
+12.- Requisitos de postulación 
+12.1.- La propuesta deberá ser presentada por un Centro de Investigación Científica y 
+Tecnológica Nacional (Centro Beneficiario), para ser ejecutada por un grupo de investigación 
+residente en Chile. 
+- Los Centros de Investigación con personalidad jurídica podrán postular por sí mismos, y aquéllos 
+que no la poseen deberán postular respaldados por una Institución Nacional Patrocinante Principal. 
+- No se considerarán como Centros de Investigación Científica y Tecnológica a las Facultades, 
+Departamentos y otras unidades académicas-administrativas universitarias. 
+12.2.- El/la Investigador/a Responsable deberá desempeñarse en el Centro Beneficiario que 
+presenta el proyecto y residir de manera permanente en Chile durante la ejecución del proyecto. 
+12.3.- El/la Investigador/a Responsable, deberá contar con el apoyo del Centro Beneficiario y/o de 
+la Institución Nacional Patrocinante Principal a la cual pertenece. La propuesta puede contar con el 
+apoyo de una o más Instituciones Nacionales Patrocinantes Asociadas. 
+12.4.- El grupo de investigación deberá incluir por lo menos 2 investigadores/as nacionales, por lo 
+que, además del/de la Investigador/a Responsable, el proyecto debe contar con al menos un/a 
+Investigador/a Asociado/a. 
+12.5.- El proyecto debe incluir por lo menos un/a investigador/a responsable extranjero/a por cada 
+centro extranjero que participe. 
+12.6.- La propuesta deberá considerar a lo menos 2 de las 5 modalidades de vinculación indicadas 
+en el punto 10 de éstas bases, en cuyo caso, una de ellas deberá ser “Pasantías de 
+perfeccionamiento” (Modalidad A) o “Realización de talleres o seminarios” (Modalidad D). 
+ 
+  
+ 
+12.7.- Para las propuestas que incluyan el “Acceso al uso de equipamiento científico y tecnológico” 
+(Modalidad E), ésta deberá ir asociada a las “Pasantías de perfeccionamiento” (Modalidad A) y/o a 
+las “Estadías en el extranjero” (Modalidad C). 
+12.8.- La propuesta deberá acreditar formalmente el compromiso de participación del o de los 
+Centros de Investigación en el Extranjero con los cuales los centros nacionales llevarán a cabo las 
+actividades de vinculación internacional, según lo indicado en el numeral 13.C. de las presentes 
+bases concursales. 
+12.9.- Se entiende por centros o institutos de investigación nacionales y/o extranjeros aquellos que 
+participan en la red y se encuentran nombrados o descritos en el proyecto presentado a la presente 
+convocatoria. 
+13.- Documentos a presentar 
+La propuesta deberá ser presentada a través del sistema de postulación en línea disponible en la 
+página web de CONICYT, y deberá incluir la siguiente información y documentación: 
+A.- Formulario de postulación completado en inglés (según formato disponible). 
+B.- Documento(s) acreditando la constitución del Centro Beneficiario: 
+- Si el Centro cuenta con personería propia, deberá presentar un documento acreditando su 
+constitución, personalidad jurídica y representación legal. 
+- Si el Centro no posee personería propia, la Institución Nacional Patrocinante Principal deberá 
+presentar un documento acreditando la constitución o existencia del Centro Beneficiario. 
+C.- Carta(s) de compromiso del/de los Centro(s) de Investigación Extranjero(s) participante(s) en 
+el proyecto. Ésta(s) deberá(n) especificar el acceso a equipamientos en el caso de postular a la 
+modalidad E. 
+D.- Curriculum vitae en inglés del/de la Investigador/a Responsable y de los/as Investigadores/as 
+Asociados/as que participan en el proyecto 
+E.- Curriculum vitae en inglés de los/as Investigadores/as Responsables Extranjeros/as de cada 
+Centro Extranjero participante en el proyecto. 
+F.- Anexo Presupuesto (en inglés, según formato disponible). 
+ 
+IV.- ADMISIBILIDAD, EVALUACIÓN Y ADJUDICACIÓN 
+14.- Admisibilidad 
+  
+ 
+14.1- Las postulaciones incompletas o que no cumplan con los requisitos de postulación serán 
+declaradas fuera de bases y no ingresarán al proceso de evaluación.   
+14.2.- Los postulantes cuyas propuestas hayan sido declaradas fuera de bases, podrán interponer 
+ante el Jefe de Servicio el recurso de reposición correspondiente, en el plazo de 5 días hábiles desde 
+la notificación. 
+14.3.- No se aceptarán postulaciones fuera de plazo. 
+15.- Proceso de Evaluación 
+15.1.- Las propuestas declaradas admisibles pasarán a la etapa de evaluación, en la cual participará 
+un Panel especialmente nombrado para este concurso, constituido por científicos/as de excelencia, 
+residentes en Chile, de trayectoria y experticia en las áreas de los proyectos presentados al 
+concurso. 
+15.2.- El Panel de Evaluación estará a cargo de: 
+•    Asignar proyectos a evaluar a los miembros del panel que cuenten con competencias afines a las 
+temáticas de éstos. 
+•    Realizar una evaluación conjunta de los proyectos. 
+•    Solicitar el pronunciamiento de evaluaciones externas, en caso de ser necesario. 
+•    Determinar la nota final de los proyectos presentados a esta convocatoria. 
+•    Proponer a CONICYT una nómina priorizada de los proyectos susceptibles de ser adjudicados. 
+15.3.- Los criterios de evaluación y las ponderaciones correspondientes son las siguientes: 
+ Criterio de Evaluación 
+Ponderación 
+Calidad de la propuesta 
+50% 
+Nivel científico de los grupos de investigación participantes y su 
+complementariedad 
+20% 
+Resultados esperados 
+30% 
+ 15.4.- El Panel tendrá el rol de asignar una puntuación de 0 a 5 a cada criterio evaluado del 
+proyecto, pudiendo utilizar fracciones menores. Se define un puntaje de corte mínimo de tres (3) 
+puntos, para recomendar a los proyectos susceptibles de financiamiento, sin perjuicio de lo 
+ponderado por el Panel respecto de las evaluaciones de los proyectos y de la disponibilidad 
+presupuestaria del Servicio. 
+ 
+  
+ 
+15.5.- En igualdad de condiciones, se dará prioridad a las propuestas que declaren recursos 
+adicionales (monetarios o valorados) de sus contrapartes extranjeras para la realización del 
+proyecto. 
+15.6.- Escala de evaluación: 
+ 0.    No califica 
+La propuesta no cumple/aborda el criterio bajo análisis o no 
+puede ser evaluada debido a la falta de antecedentes o 
+información incompleta. 
+1.    Deficiente 
+La propuesta no cumple/aborda adecuadamente los aspectos del 
+criterio o hay graves deficiencias inherentes. 
+2.    Regular 
+La propuesta cumple/aborda en términos generales los aspectos 
+del criterio, pero existen importantes deficiencias. 
+3.    Bueno 
+La propuesta cumple/aborda correctamente los aspectos del 
+criterio, aunque requiere ciertas mejoras. 
+4.    Muy bueno 
+La propuesta cumple/aborda los aspectos del criterio de muy 
+buena manera, aun cuando son posibles ciertas mejoras. 
+5.    Excelente 
+La propuesta cumple/aborda de manera sobresaliente todos los 
+aspectos relevantes del criterio en cuestión. Cualquier debilidad 
+es muy menor. 
+ 16.- Selección, adjudicación y entrega de resultados 
+16.1.- CONICYT aprobará el fallo y adjudicará los proyectos a través del acto administrativo 
+correspondiente. 
+16.2.- Asimismo, todos los postulantes serán notificados de los resultados de la convocatoria 
+mediante carta certificada o correo electrónico, esto último cuando el postulante lo autorice 
+expresamente en la postulación. A través de este medio se realizarán todas y cada una de las 
+notificaciones que sean requeridas en este concurso. En dicha notificación se indicará que el 
+resultado se encuentra disponible en el sitio web de CONICYT. 
+16.3.- Los postulantes podrán interponer ante el Jefe de Servicio el recurso de reposición 
+correspondiente, en el plazo de 5 días hábiles desde la notificación. 
+16.4.- Este concurso podrá contemplar lista de espera, en caso que CONICYT lo estime pertinente. 
+La lista de espera se materializará a través del correspondiente acto administrativo de CONICYT y 
+operará en los siguientes casos: renuncia de alguno de los beneficiarios o que alguno de ellos se 
+encuentre imposibilitado para ejecutar el proyecto; que el beneficiario no suscriba el convenio 
+dentro de los plazos establecidos en las bases; o, que exista disponibilidad presupuestaria del 
+Servicio en el período. 
+16.5.- CONICYT podrá realizar el control de los objetivos e hitos establecidos en el proyecto y en 
+el convenio respectivo, teniendo la facultad de solicitar información en cualquier etapa del proyecto. 
+Consecuentemente, CONICYT podrá realizar visitas a los Centros de Investigación Científica y 
+Tecnológica nacionales adjudicatarios y/o solicitar exposiciones a el/la Investigador/a Responsable 
+  
+de la propuesta. El adjudicatario, deberá dar las facilidades necesarias para la realización del 
+presente seguimiento. 
+ 
+ V.- EJECUCIÓN Y SEGUIMIENTO DE LOS PROYECTOS 
+17.- Firma de convenio 
+17.1.- Posteriormente a la adjudicación, CONICYT comunicará al/a la Investigador/a Responsable 
+en Chile el plazo en que se deberá suscribir el convenio de financiamiento. En este instrumento se 
+establecerán expresamente los derechos y obligaciones de cada una de las partes, la duración del 
+proyecto y todas aquellas cláusulas que resguarden el cumplimiento de los objetivos del concurso 
+y el uso de los recursos transferidos por CONICYT para los fines señalados en el proyecto. 
+17.2.- Para todos los efectos legales y la suscripción del convenio respectivo, la contraparte de 
+CONICYT será el Centro Beneficiario que presenta el proyecto y en el que se desempeña el/la 
+Investigador/a Responsable. Para los Centros sin personalidad jurídica, el convenio deberá 
+suscribirlo la Institución Nacional Patrocinante Principal del Centro Beneficiario, la cual será la 
+responsable de la ejecución del proyecto ante CONICYT. 
+17.3.- Al momento de la firma del convenio el Centro Beneficiario o la Institución Nacional 
+Patrocinante Principal, según corresponda, deberá presentar la siguiente documentación: 
+17.3.1. Escritura Pública de Constitución; 
+17.3.2.- Certificado del Conservador de Bienes Raíces de vigencia de los poderes; 
+17.3.3. Certificado de Inscripción en el Registro de Colaboradores del Estado y Municipalización, 
+requisito obligatorio para que CONICYT pueda realizar la transferencia de los recursos, según lo 
+establecido en la Ley N° 19862 del 08/02/2003. 
+18.- Vigencia del proyecto, periodo de ejecución y transferencia de recursos 
+18.1.- La vigencia del correspondiente convenio se contará a partir de la fecha de la total 
+tramitación del acto administrativo de CONICYT que aprueba el convenio de financiamiento y por el 
+período que indique el mismo. 
+18.2.- Aquellos Centros que sean Instituciones Privadas, deberán garantizar el fiel uso de los 
+recursos que transfiere CONICYT para las actividades de los proyectos, según lo dispongan las 
+cláusulas indicadas en los convenios, mediante boleta de garantía bancaria pagadera a la vista, vale 
+vista endosable o póliza de seguro de ejecución inmediata. Dicho documento debe tener una 
+vigencia de a lo menos 150 (ciento cincuenta) días adicionales a la fecha exigible de la Rendición 
+de Cuentas por cada desembolso o cuota respecto del período a cubrir con ella, y en caso que sea 
+la última cuota a desembolsar debe ser garantizado por un plazo no menor a seis meses (180 días) 
+a contar de la fecha de finalización del proyecto. 
+El costo de la emisión de este documento podrá ser incluido dentro de los gastos de este proyecto 
+  
+ 
+En caso que el proyecto sea prorrogado, se deberá renovar la caución, de manera que tenga una 
+vigencia superior a 180 días adicionales al período de extensión. 
+18.3- Para realizar la trasferencia de recursos, el Centro Beneficiario o la Institución Nacional 
+Patrocinante Principal, según corresponda, no debe tener rendiciones pendientes con CONICYT. 
+18.4.- Según dictamen N°15.978/10 de Controlaría General de la República, señala que en las 
+instituciones nacionales pertenecientes a la administración del Estado “no existe obligatoriedad de 
+garantizar o asegurar el cumplimiento de compromisos contraídos entre Órganos de la 
+Administración de Estado”, por lo cual CONICYT no debe exigir la presentación de garantías a 
+Instituciones del Estado, por recursos que transfiere en el marco de convenios suscritos por las 
+partes. 
+18.5.- Las Instituciones Públicas y Privadas deberán destinar una cuenta bancaria, en la cual 
+CONICYT transfiera los recursos correspondientes a los proyectos adjudicados, además, de registrar 
+los recursos pecuniarios de terceros y los aportes de la propia Institución al proyecto, según 
+corresponda. 
+19.- Seguimiento y control del proyecto: entrega de informes técnicos y rendición de 
+cuentas 
+19.1.- El/la Investigador/a responsable deberá dar estricto y oportuno cumplimiento a las fechas y 
+forma de presentación de informes técnicos y rendiciones de cuentas que se establezcan en el 
+respectivo Convenio y en los documentos “Informes Técnicos” e “Instructivo de Rendición de 
+Cuentas”, entregados por CONICYT a la fecha de la transferencia de los recursos. 
+Informes técnicos: 
+El/la Investigador/a Responsable en Chile, deberá presentar a CONICYT un informe técnico y 
+económico de avance durante el mes 12 del periodo de ejecución del proyecto, así como un informe 
+técnico final, hasta 30 días después del término del periodo de ejecución del proyecto. 
+Rendiciones de cuentas: 
+El/la Investigador/a Responsable deberá entregar al PCI, una rendición de la totalidad de los 
+recursos transferidos durante el período, según las indicaciones establecidas en el instructivo de 
+rendición de cuentas, el cual será entregado por CONICYT al momento de transferir los recursos 
+correspondientes al periodo. El/la Investigador/a Responsable deberá presentar la rendición de 
+cuentas a más tardar 30 días después de terminado el periodo de ejecución del proyecto. 
+19.2.- La rendición de cuentas de los recursos transferidos por CONICYT se regirán en lo que 
+corresponda según las normas establecidas por la Resolución Nº 30 del 11 de marzo de 2015 de la 
+Contraloría General de la República y por CONICYT. Además de las normas e indicaciones detalladas 
+en el correspondiente manual de rendición de cuentas del concurso respectivo. 
+ 
+  
+ 
+19.3.- Para efectos de la rendición de cuentas, sólo se aceptarán gastos a nombre del Centro 
+Beneficiario o de la Institución Nacional Patrocinante Principal, según corresponda, y en ningún caso 
+a nombre de CONICYT. 
+19.4.- En el evento que el Centro Beneficiario no dé cumplimiento a cualquiera de las obligaciones 
+que se deriven de las presentes bases, así como del convenio específico que se suscriba, CONICYT 
+podrá poner término anticipado al proyecto, pudiendo además solicitar la devolución total o parcial 
+de los recursos transferidos, o bien hacer efectivo el documento de garantía presentado, sin 
+perjuicio de reservarse el derecho a ejercer las demás acciones legales que correspondan. 
+19.5.- Queda estrictamente prohibido invertir los fondos transferidos para el desarrollo del 
+proyecto, en cualquier tipo de instrumento financiero, ya sea de renta fija o variable, de corto o 
+largo plazo, que reditúe intereses, reajustes u otras utilidades, tales como: fondos mutuos, 
+acciones, depósitos a plazo, bonos, etc. 
+En la eventualidad que se detecten ganancias obtenidas con motivo de inversiones efectuadas con 
+los recursos destinados a gastos propios del proyecto, dichos montos deberán ser entregados a 
+CONICYT, quedando ésta facultada para evaluar el alcance de dicha operación, de cuyo análisis 
+podrá establecer el término anticipado del proyecto, previa calificación del mérito del incumplimiento 
+en que se ha incurrido. 
+20.- Mención al apoyo de CONICYT 
+Toda productividad científica asociada a los proyectos que se financien por este programa, tales 
+como publicaciones, artículos, libros, patentes, ponencias u otros, deberá contener los 
+reconocimientos a CONICYT por el financiamiento otorgado, utilizando el siguiente formato: 
+“CONICYT + Programa/Instrumento + Folio (Cód. Proyecto)”. 
+21.- Modificaciones del proyecto 
+Durante la ejecución del proyecto, el/la Investigador/a Responsable nacional podrá solicitar por 
+escrito, de manera fundada y oportunamente, a CONICYT, a través de su Programa de Cooperación 
+Internacional, modificaciones tales como: cambios en el presupuesto, en los integrantes del equipo 
+y en el plazo de ejecución, entre otros.   
+ 
+VI.- TÉRMINO DEL PROYECTO (NORMAL Y ANTICIPADO) 
+Una vez cumplido el plazo del proyecto, éste se considerará terminado cuando hayan sido 
+cumplidos, a satisfacción de CONICYT, sus objetivos y resultados comprometidos y además sean 
+aprobados los informes técnicos y las rendiciones de cuentas o reintegros respectivos. Ocurrido esto 
+se suscribirá el respectivo finiquito, el que será aprobado por medio del acto administrativo 
+correspondiente. 
+ 
+  
+ 
+CONICYT pondrá término anticipado al convenio suscrito, si estimare que el informe del/de la 
+Investigador/a Responsable del proyecto no responde a las observaciones de incumplimiento de los 
+objetivos del concurso y/o de las actividades de seguimiento, que surgen tras la evaluación de los 
+informes técnicos de avance y/o rendiciones de cuenta del proyecto. 
+ 
+VII.- OBLIGACIONES Y RESTRICCIONES 
+23- Cumplimiento e interpretación de las bases 
+23.1.- CONICYT se reserva el derecho para interpretar el sentido y alcance de las presentes bases, 
+en caso de dudas y/o conflictos que se suscitaren sobre la aplicación de las mismas. 
+23.2.- CONICYT podrá, en cualquier momento, antes de la firma y durante la ejecución de los 
+convenios respectivos, verificar el total cumplimiento de las presentes bases y, más 
+específicamente, de la exactitud y completitud de los antecedentes presentados en las respectivas 
+postulaciones que se lleven a cabo con motivo del presente concurso, como asimismo en relación 
+con el respaldo de la documentación requerida. En caso de detectarse incongruencias, omisiones 
+y/o incompatibilidades, CONICYT declarará la improcedencia de la adjudicación del o los proyectos 
+de que se trate. 
+ 
+VIII.- CONSULTAS Y CALENDARIO DEL CONCURSO 
+24.- Consultas 
+Se podrán realizar consultas a través del sitio web de CONICYT, hasta 05 días antes de la fecha de 
+cierre de recepción de las postulaciones: http://www.conicyt.cl/oirs 
+25.- Publicación y calendario del Concurso 
+Publicación de la Convocatoria: 
+CONICYT convocará al presente concurso a través de un diario de amplia circulación nacional, y en 
+su sitio web, en el cual se señalará la fecha de apertura y cierre de la convocatoria. Las bases de 
+postulación estarán disponibles en http://www.conicyt.cl/pci/ 
+Recepción de las postulaciones 
+Las postulaciones se recibirán únicamente en sistema en línea http://www.conicyt.cl/pci/ desde la 
+apertura del presente Concurso hasta su cierre.  
+ 

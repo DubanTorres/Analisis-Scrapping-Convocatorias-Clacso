@@ -1,0 +1,772 @@
+#
+PROC.
+COORDENADOR
+TÍTULO
+INSTITUIÇÃO
+ VALOR 
+1
+APQ-00902-15
+ROSANA ZACARIAS DOMINGUES
+Desenvolvimento e análise de eficiência de arquiteturas para APU com pilha a combustível de óxido sólido 
+multifuncional em aeronaves regionais
+Universidade Federal de Minas Gerais
+133.397,21
+ RESULTADO DE JULGAMENTO - PROPOSTAS  RECOMENDADAS PARA CONTRATAÇÃO
+Belo Horizonte, 29 de outubro de 2015.
+EDITAL 05/2015 - PESQUISAS NA ÁREA DO SETOR AERONÁUTICO - EMBRAER S.A.
+ATENÇÃO : A instituição que tiver proposta aprovada deverá atualizar seu credenciamento na FAPEMIG até 10 dias corridos da publicação dos resultados, sob pena de desclassificação da proposta.  A situação cadastral da instituição poderá ser 
+verificada no endereço : http://www.fapemig.br/cadastro/
+ #
+PROC.
+COORDENADOR
+TÍTULO
+INSTITUIÇÃO
+PARECER 
+CONCLUSIVO
+1
+APQ-02785-15
+JÚLIO AKASHI HERNANDES
+Desenvolvimento e caracterização de um sistema de propulsão com 
+tocha de plasma
+Universidade Federal de Juiz de Fora
+Não Enquadrado
+2
+APQ-03510-15
+ELISANGELA MARTINS LEAL
+Avaliação Energética de Arquiteturas com Célula Combustível 
+Multifuncional para Uso em Aeronaves
+Universidade Federal de Ouro Preto
+Indeferido
+3
+APQ-03516-15
+SÉRGIO VALE AGUIAR CAMPOS
+VFMAC: Validação através de Verificação Formal dos Requisitos de 
+Missões Aeronáuticas Complexas e de suas Implementações
+Universidade Federal de Minas Gerais
+Indeferido
+4
+APQ-03531-15
+PEDRO AMÉRICO ALMEIDA MAGALHÃES JÚNIOR
+Análise de Métodos de Controle de Escoamento em Aerodinâmicas 
+de Aeronaves Usando Fotoelasticidade para Verificação 
+Experimental de Protótipos Impressos em 3D Feitos de Resinas 
+Transparentes
+Sociedade Mineira de Cultura/Pontifícia 
+Universidade Católica de Minas Gerais
+Indeferido
+5
+APQ-03533-15
+PAULO HENRIQUES ISCOLD ANDRADE DE OLIVEIRA
+Construção e ensaio de um corpo fuselado equipado com um 
+sistema de propulsão com ingestão de camada limite ? uma 
+aplicação para redução de arrasto em sistemas de propulsão 
+distribuída
+Universidade Federal de Minas Gerais
+Não Enquadrado
+6
+APQ-03535-15
+Dimas Abreu Dutra
+Retardo da transição laminar-tubulento por controle ativo de ondas 
+de Tollmien-Schlichting em túnel de vento
+Universidade Federal de Minas Gerais
+Indeferido
+7
+APQ-03537-15
+THIAGO AUGUSTO ARAUJO MOREIRA
+Prova de Conceito de um Fan Elétrico Adaptativo  para Aeronaves 
+Experimentais Leves com Propulsão Distribuída
+Instituto Federal de Educação, Ciência e 
+Tecnologia de Minas Gerais
+Não Enquadrado
+8
+APQ-03539-15
+SERGIO DE MORAIS HANRIOT
+Investigação Numérico-Experimental dos Efeitos Fluido Dinâmicos 
+Sobre Uma Bolha de Separação Turbulenta
+Sociedade Mineira de Cultura/Pontifícia 
+Universidade Católica de Minas Gerais
+Indeferido
+9
+APQ-03540-15
+RAMIRO GUSTAVO RAMIREZ CAMACHO
+Projeto de Rotores Axiais para Aeronaves de Propulsão Distribuída
+Universidade Federal de Itajubá
+Indeferido
+10
+APQ-03542-15
+FLÁVIO HENRIQUE VASCONCELOS
+Recuperação de Energia Baseada em Sensores Piezoelétricos para 
+Monitoramento da Integridade Estrutural de Aeronaves com RSSF
+Universidade Federal de Minas Gerais
+Não Enquadrado
+Não enquadrado: O projeto não atende aos objetivos do Edital e/ou o Manual da FAPEMIG.
+Belo Horizonte, 29 de outubro de 2015.
+             RESULTADO DE JULGAMENTO - PROPOSTAS NÃO RECOMENDADAS PARA CONTRATAÇÃO
+EDITAL 05/2015 - PESQUISAS NA ÁREA DO SETOR AERONÁUTICO - EMBRAER S.A.
+ATENÇÃO: Para visualizar a justificativa da não aprovação do processo, basta acessar o sistema Everest (http://everest.fapemig.br/), digitar o login e a senha, selecionar a opção "Acompanhar Processos"
+no menu esquerdo e clicar no processo.
+Indeferido: O projeto não foi recomendado para contratação.
+Página 1 de 1
+  
+1 
+ 
+EDITAL FAPEMIG 05/2015 
+Pesquisas na área do setor aeronáutico 
+PARCERIA FAPEMIG – EMBRAER S.A. 
+ 
+A Fundação de Amparo à Pesquisa do Estado de Minas Gerais – FAPEMIG, 
+considerando as Leis de Inovação, Federal n. 10.973/04 e Mineira n. 17.348/08, que 
+“dispõem sobre incentivos à inovação e à pesquisa científica e tecnológica”, 
+atendendo à orientação programática da Secretaria de Estado de Ciência, Tecnologia 
+e Ensino Superior – SECTES/MG, observadas as diretrizes políticas emanadas do 
+Conselho Estadual de Ciência e Tecnologia – CONECIT e de seu Conselho Curador, 
+em parceria com a EMBRAER S.A., estabelecida pelo Termo de Cooperação Técnica 
+e Financeira n.10.255/14, torna público o presente Edital e convida Entidades 
+Científicas, Tecnológicas e de Inovação, sediadas, no Estado de Minas Gerais e 
+cadastradas junto à FAPEMIG, a apresentarem propostas para obtenção de apoio 
+financeiro, para o desenvolvimento de projetos de pesquisa, em conformidade com o 
+que estabelece o presente Edital. 
+1. 
+OBJETIVO 
+Financiar projetos de pesquisa e inovação científica e tecnológica nas 
+Entidades Científicas, Tecnológicas e de Inovação para o desenvolvimento de 
+tecnologias alinhadas aos interesses da EMBRAER, do setor aeronáutico e 
+da sociedade como um todo e que estejam relacionados às linhas temáticas 
+estabelecidas neste Edital. 
+2. 
+LINHAS TEMÁTICAS (Anexos I e II) 
+O presente Edital destina-se a apoiar propostas que se enquadrem nas linhas 
+temáticas abaixo, cujos subtemas se encontram nos Anexos I e II, 
+respectivamente: 
+2.1 
+Linhas do Anexo I: 
+a) Energy Harvesting 
+b) Controle de escoamento 
+c) Célula combustível 
+d) Otimização de missões complexas para aviação comercial 
+2.2 
+Linhas do Anexo II: 
+a) Configurações alternativas de aeronaves com propulsão distribuída 
+b) Eficiência energética de arquiteturas de propulsão híbrida 
+c) Gerenciamento de energia térmica 
+3. 
+NÚMERO DE PROPOSTAS E PRAZOS 
+3.1 
+O número de propostas a se contratar está condicionado ao limite dos 
+recursos disponíveis neste Edital. 
+  
+2 
+ 
+3.2 
+O prazo de execução de cada proposta contratada é de até 24 meses, 
+contados a partir da data de assinatura do Termo de Outorga Eletrônico – 
+TO@, publicado no Diário Oficial do Estado de Minas Gerais. 
+4. 
+PROPOSTAS ELEGÍVEIS 
+São consideradas elegíveis as propostas de Entidades Científicas, 
+Tecnológicas e de Inovação sediadas no Estado de Minas Gerais e 
+cadastradas junto à FAPEMIG, que atendam aos requisitos abaixo. 
+Aquelas 
+de 
+natureza 
+criativa 
+ou 
+empreendedora, 
+desenvolvidas 
+sistematicamente, com vistas à geração de novos conhecimentos ou aplicação 
+inovadora de conhecimento existente, inclusive para investigação de novas 
+aplicações, dentro dos temas e subtemas relacionados no Anexo I e no Anexo 
+II. 
+4.1 
+Por parte da Proponente 
+A Entidade de vínculo do autor da proposta, ora denominada Proponente, 
+deve: 
+4.1.1 
+se comprometer a propiciar condições adequadas de espaço, infraestrutura, 
+pessoal de apoio técnico e administrativo, bem como tempo para a equipe 
+dedicar-se ao projeto proposto; 
+4.1.2 
+observar diretrizes específicas constantes do Manual da FAPEMIG, desde a 
+submissão da proposta até a prestação final de contas. 
+4.2 
+Por parte do Coordenador 
+Para ser coordenador o autor da proposta deve atender às seguintes 
+condições: 
+4.2.1 
+ter vínculo com a Proponente; 
+4.2.2 
+possuir título de doutor e currículo na Plataforma Lattes do CNPq; 
+4.2.3 
+estar cadastrado no sistema EVEREST da FAPEMIG; 
+4.2.4 
+apresentar e ser responsável por apenas uma proposta. 
+5. RECURSOS FINANCEIROS 
+5.1 
+Os recursos alocados para financiamento do presente Edital serão da ordem 
+de R$ 1.000.000,00 (hum milhão de reais).  
+5.2 
+As despesas decorrentes deste Edital correrão à conta das dotações 
+orçamentárias da FAPEMIG a seguir relacionadas ou pelas que as 
+sucederem: 
+ 
+2071.19.573.259.4134.0001.442042.0.10.3; 
+2071.19.573.259.4134.0001.444042.0.10.3; 
+2071.19.573.259.4134.0001.445042.0.10.3; 
+2071.19.573.259.4134.0001.446039.0.10.3; 
+2071.19.573.259.4134.0001.449020.0.10.3; 
+  
+3 
+ 
+2071.19.573.259.4134.0001.442042.0.70.1; 
+2071.19.573.259.4134.0001.444042.0.70.1; 
+2071.19.573.259.4134.0001.445042.0.70.1; 
+2071.19.573.259.4134.0001.446039.0.70.1; 
+2071.19.573.259.4134.0001.449020.0.70.1; 
+5.3 
+O valor dos recursos solicitados à FAPEMIG em cada projeto deverá ser de, 
+no máximo, R$ 250.000,00 (duzentos e cinquenta mil reais), considerando as  
+despesas operacionais. 
+5.4 
+A Proponente de direito público deverá, obrigatoriamente, indicar uma 
+Gestora credenciada junto à FAPEMIG para gerenciamento dos recursos a 
+serem liberados para a proposta aprovada. A inexistência deste dado impedirá 
+o encaminhamento da proposta por meio eletrônico. 
+5.5 
+Constitui fator impeditivo ao julgamento e à liberação do apoio financeiro a 
+existência de inadimplência ou pendências de natureza financeira ou técnica 
+do Coordenador, bem como de qualquer outro membro da equipe do projeto, 
+da Proponente e da Gestora junto à FAPEMIG. 
+6. 
+ITENS FINANCIÁVEIS 
+6.1 
+Serão financiados, desde que compatíveis com o objetivo do presente Edital, 
+com o Manual da FAPEMIG e devidamente justificados, os seguintes itens de 
+despesa: 
+6.1.1 
+equipamentos e material permanente; 
+6.1.2 
+material de consumo (incluindo aquisição de livros); 
+6.1.3 
+serviços de terceiros (consultoria limitada a 20% do total solicitado); 
+6.1.4 
+software; 
+6.1.5 
+passagens e diárias, conforme valores da FAPEMIG; 
+6.1.6 
+bolsas, limitadas a duas por projeto, nas modalidades de Iniciação Científica 
+e Tecnológica – BIC, de Apoio Técnico à Pesquisa – BAT e de 
+Desenvolvimento Tecnológico Industrial – BDTI; 
+6.1.7 
+manutenção de equipamentos; 
+6.1.8 
+despesas acessórias de importação; 
+6.1.9 
+despesas operacionais. 
+7. 
+PROPOSTAS 
+7.1 
+As propostas devem ser apresentadas sob a forma de projeto de pesquisa e 
+submetidas, obrigatoriamente, em versão eletrônica. 
+7.2 
+A proposta deverá ser preenchida no sistema EVEREST, clicando em 
+http://everest.fapemig.br/ e deverá conter: 
+7.2.1 
+Formulário Eletrônico do EVEREST, devidamente preenchido; 
+  
+4 
+ 
+7.2.2 
+detalhamento, listado no formulário eletrônico, de todos os recursos 
+necessários e financiáveis para a execução da proposta, inclusive despesas 
+operacionais e mensalidades de bolsas, entre outros. A não observância 
+deste procedimento implicará no não financiamento dos itens, sendo os itens 
+não informados, considerados automaticamente pela FAPEMIG como 
+contrapartida da Proponente. Não serão considerados os itens e/ou 
+justificativas dos recursos necessários apresentados exclusivamente no corpo 
+da proposta. 
+7.3 
+Os documentos citados nos subitens 7.3.1 a 7.3.7 deverão ser encaminhados 
+na forma de arquivo eletrônico a serem anexados ao Formulário Eletrônico no 
+sistema EVEREST. 
+7.3.1 
+Arquivo eletrônico com a proposta de financiamento contendo: título; objetivo; 
+contexto da linhas temáticas (Anexos I e II); justificativa; contextualização da 
+proposta de pesquisa baseada na literatura e nos bancos de patentes; 
+metodologia de trabalho; cronograma das atividades a serem desenvolvidas, 
+indicando as fases ou etapas do projeto e o detalhamento das atividades de 
+cada membro da equipe; instalações e equipamentos existentes ou a serem 
+utilizados para a execução das atividades previstas; valor e identificação dos 
+itens que integrarão a contrapartida proposta, quando for o caso; 
+7.3.2 
+Arquivo eletrônico contendo informações adicionais à proposta, conforme 
+Anexo III; 
+7.3.3 
+Arquivo eletrônico contendo o(s) Plano(s) de Trabalho(s) proposto(s) para o(s) 
+bolsista(s), quando houver; 
+7.3.4 
+Arquivo eletrônico contendo Termo de Compromisso assinado pela Direção 
+Superior das entidades parceiras, confirmando a sua participação e aceitação 
+do seu papel na parceria, se houver; 
+7.3.5 
+Arquivo eletrônico contendo a indicação do Coordenador, assinado e 
+carimbado pelo representante legal da Proponente (Anexo IV); 
+7.3.6 
+Arquivo eletrônico contendo currículo do Coordenador na Plataforma Lattes 
+do CNPq; 
+7.3.7 
+Arquivo eletrônico contendo parecer do Comitê de Ética, se for o caso. 
+7.4 
+No momento da submissão das propostas, a Proponente deverá estar 
+cadastrada e a Gestora credenciada na FAPEMIG. A relação das instituições 
+cadastradas 
+e 
+credenciadas 
+encontra-se 
+no 
+endereço 
+http://www.fapemig.br/apoio/pesquisa/cadastro/. 
+8. 
+JULGAMENTO E SELEÇÃO 
+Esta fase compreende três etapas: 
+8.1 
+Enquadramento: as propostas submetidas serão analisadas pelo corpo 
+técnico da FAPEMIG e da EMBRAER para verificar se atendem aos termos 
+do presente Edital. Esta etapa é eliminatória. 
+8.2 
+Análise de Mérito: cada proposta enquadrada será analisada quanto ao 
+mérito técnico, científico, relevância, estruturação e adequação metodológica, 
+  
+5 
+ 
+orçamento e qualificação da equipe, e será classificada em ordem de 
+prioridade. As propostas que obtiverem pelo menos 70% (setenta por cento) 
+da pontuação máxima, por item, serão classificadas. 
+8.3 
+Homologação: as propostas recomendadas e classificadas na etapa anterior 
+serão homologadas pela Diretoria Executiva da FAPEMIG. 
+8.4 
+Os critérios específicos de julgamento das propostas submetidas são: 
+8.4.1 
+justificativa fundamentada para o apoio solicitado; 
+8.4.2 
+mérito da proposta; 
+8.4.3 
+originalidade e relevância da pesquisa, tendo em vista os interesses sociais, 
+ambientais, econômicos, científicos e tecnológicos para Minas Gerais e para 
+a EMBRAER, e dos produtos esperados; 
+8.4.4 
+competência e experiência prévia do Coordenador na área de conhecimento 
+do projeto de pesquisa proposto; 
+8.4.5 
+qualificação da equipe para execução do projeto; 
+8.4.6 
+plano(s) de trabalho(s) do(s) bolsista(s); 
+8.4.7 
+viabilidade de execução do projeto; 
+8.4.8 
+adequação dos  equipamentos e espaço físico disponíveis para o funcionamento 
+e operacionalização efetiva do projeto; 
+8.4.9 
+adequação do cronograma de atividades e do orçamento proposto; 
+8.4.10 contrapartidas financeiras e econômicas, quando for o caso; 
+8.4.11 contribuição para a formação de recursos humanos. 
+9. 
+ACOMPANHAMENTO E AVALIAÇÃO 
+9.1 
+A FAPEMIG e a EMBRAER reservam-se o direito de, a qualquer tempo, 
+acompanhar o desenvolvimento das atividades, analisar o relatório técnico e 
+científico e a prestação de contas e, após a conclusão dos trabalhos, verificar 
+o cumprimento das condições fixadas no TO@. 
+9.2 
+A FAPEMIG adotará instrumentos de acompanhamento e avaliação final dos 
+projetos com base nos critérios descritos a seguir: 
+9.2.1 
+cumprimento dos objetivos propostos e apresentação dos produtos oriundos 
+do projeto, com a devida menção do apoio da FAPEMIG e da EMBRAER; 
+9.2.2 
+aplicabilidade dos resultados obtidos; 
+9.2.3 
+impactos sociais, ambientais, econômicos, científicos e tecnológicos, diretos 
+e indiretos, provenientes da execução do projeto; 
+9.2.4 
+impacto do projeto na produção técnico-científica do coordenador e da equipe; 
+9.2.5 
+relevância e abrangência dos periódicos e/ou livros onde forem realizadas as 
+publicações; 
+9.2.6 
+contribuição para a difusão e transferência do conhecimento e da tecnologia 
+gerada; 
+  
+6 
+ 
+9.2.7 
+contribuição para o aprimoramento da infraestrutura e para formação de 
+recursos humanos. 
+10. 
+DIREITOS DE PROPRIEDADE INTELECTUAL E DE EQUIPAMENTOS 
+10.1 
+Os direitos relativos à propriedade intelectual, resultantes dos projetos 
+desenvolvidos no âmbito deste Edital, terão como cotitulares a EMBRAER, a 
+FAPEMIG e a Proponente. Desde já fica estabelecido que caberá à 
+EMBRAER 50% (cinquenta por cento) desses direitos de propriedade 
+intelectual, sendo que os outros 50% (cinquenta por cento) serão divididos 
+entre a FAPEMIG e a instituição proponente em proporção a ser acordada. 
+10.2 
+É facultado à EMBRAER o uso próprio total ou parcial dos resultados dos 
+projetos que não forem passíveis de proteção intelectual, para consecução de 
+suas atividades fim, sem que haja qualquer remuneração da EMBRAER para 
+a FAPEMIG e/ou para a Proponente. Entende-se por uso próprio a utilização 
+dos resultados não passíveis de proteção intelectual pela EMBRAER e ainda 
+por suas afiliadas, coligadas ou “joint-ventures”, dentro e fora do Brasil. 
+10.3 
+É facultado à FAPEMIG e a Proponente o uso próprio total ou parcial dos 
+resultados que não forem passíveis de proteção intelectual, para consecução 
+de suas atividades fim, sem que haja qualquer forma de remuneração da 
+FAPEMIG e da Proponente para a EMBRAER. Fica desde já estabelecido que 
+a FAPEMIG e a Proponente não poderão utilizar os resultados com 
+concorrentes da EMBRAER a não ser que haja prévia e expressa autorização 
+da mesma. 
+10.4 
+Os projetos selecionados por meio deste Edital, que gerarem algum resultado 
+que seja considerado passível de proteção intelectual, farão jus ao pagamento 
+de remuneração (Prêmio) que será devido pela EMBRAER à Proponente na 
+proporção de 1/10 (um décimo) do valor aportado pela FAPEMIG e pela 
+EMBRAER no financiamento deste projeto. Fica desde já acordado que o 
+pagamento do Prêmio será um valor único para cada projeto, 
+independentemente de quantos forem os resultados passíveis de proteção 
+intelectual do projeto. 
+10.5 
+No caso de haver pagamento de Prêmio, a EMBRAER, incluindo suas 
+coligadas e afiliadas ou “joint-ventures”, será a exclusiva detentora do direito 
+de uso industrial e comercial dos resultados passíveis de proteção intelectual, 
+nos seus respectivos campos de atuação. Neste caso caberá apenas à 
+EMBRAER o direito de licenciar a terceiros os resultados passíveis de 
+proteção intelectual, dando ciência à FAPEMIG e à Proponente, sendo os 
+royalties auferidos divididos pelos cotitulares na proporção da cotitularidade, 
+de acordo com o item 10.1 deste Edital, subtraídos os possíveis tributos 
+incidentes sobre esses pagamentos. 
+10.6 
+Os equipamentos adquiridos com os recursos provenientes do financiamento 
+deste Edital são de propriedade da FAPEMIG. 
+10.7 
+A FAPEMIG poderá doar ou ceder, à executora do projeto, de ora em diante 
+  
+7 
+ 
+simplesmente Executora, os equipamentos adquiridos em decorrência deste 
+Edital, mediante a figura jurídica da “doação sob encargo”, ou outro 
+instrumento equivalente. 
+10.8 
+A FAPEMIG poderá dar outra destinação aos equipamentos adquiridos com 
+os recursos provenientes deste financiamento, diferentemente dos previstos 
+neste Edital, no caso da(s) parte(s) contratada(s) deixar(em) de cumprir o 
+estabelecido no TO@. 
+11. 
+DIVULGAÇÃO DOS RESULTADOS 
+11.1 
+O resultado final da seleção das propostas será publicado no Diário Oficial do 
+Estado de Minas Gerais, em forma de extrato e, na íntegra, na página da 
+FAPEMIG no endereço www.fapemig.br. 
+11.2 
+Eventuais recursos poderão ser interpostos junto ao Presidente da FAPEMIG, 
+no prazo de cinco dias úteis após a publicação dos resultados, nos seguintes 
+casos: 
+ quando o solicitante entender que houve falha de julgamento quanto ao       
+mérito da proposta;  
+ quando o solicitante julgar que houve falha de procedimento operacional 
+ou administrativo. 
+12. 
+CONTRATAÇÃO E LIBERAÇÃO DOS RECURSOS 
+12.1 
+A contratação dos projetos aprovados neste Edital obedecerá à ordem de 
+classificação e dar-se-á de acordo com a disponibilidade financeira, por meio 
+da assinatura de TO@, que será firmado entre a FAPEMIG, a Executora, a 
+Gestora e o Coordenador, todos indicados na proposta, nos termos deste 
+Edital 
+12.1.1 A Gestora, se houver, será responsável pelo gerenciamento dos recursos 
+financeiros. 
+12.2 
+A liberação dos recursos far-se-á na forma estabelecida no correspondente 
+TO@, devendo o repasse financeiro se iniciar após a assinatura do citado 
+documento pelos representantes das partes interessadas e a publicação do 
+seu extrato no Diário Oficial do Estado de Minas Gerais 
+12.3 
+Serão definidas no TO@ as formas, condições de participação, direitos e 
+obrigações de cada um dos partícipes. 
+13. 
+ORIENTAÇÕES GERAIS 
+13.1 
+Este Edital submete-se, no que couber, aos dispositivos legais e 
+regulamentares vigentes e ao Manual da FAPEMIG. 
+13.2 
+O Manual da FAPEMIG, incluindo os formulários e as tabelas de diárias e de 
+mensalidades de bolsas, encontra-se disponível na página da FAPEMIG, no 
+  
+8 
+ 
+endereço www.fapemig.br. 
+13.3 
+Todos os valores deverão ser expressos em real. 
+13.4 
+Não é permitida a contratação de pessoa física por um período superior a 
+oitenta e nove dias, sendo vedada a prorrogação. É vedado, também, o 
+pagamento, a qualquer título, para servidor da administração pública ou 
+empregado de empresa pública ou de sociedade de economia mista, por 
+serviços de consultoria ou assistência técnica. 
+13.5 
+Todos os itens necessários ao desenvolvimento do projeto deverão estar 
+previstos, não sendo permitida alteração após sua submissão à FAPEMIG. 
+13.6 
+Toda correspondência emitida por qualquer das partes envolvidas, relativas 
+às propostas ou aos projetos e seus respectivos processos, deverá, 
+obrigatoriamente, mencionar o seu código de identificação. 
+13.7 
+Decairá do direito de impugnar os termos deste Edital aquele que, tendo-o 
+aceito sem objeção, venha a apontar, posteriormente, eventuais falhas ou 
+imperfeições, hipótese em que sua comunicação não terá efeito de recurso. 
+13.8 
+Os profissionais prestadores de serviços técnicos especializados, consultores 
+científicos, consultores ad hoc, bolsistas, membros de Comissão Especial de 
+Julgamento e quaisquer outros profissionais e/ou entidades envolvidas nas 
+ações e atividades decorrentes deste Edital, deverão obrigar-se, por escrito, 
+à manutenção de sigilo sobre os conteúdos de todas as propostas recebidas. 
+13.9 
+O TO@ definirá as bases em que a FAPEMIG e a EMBRAER acompanharão 
+e supervisionarão tecnicamente a evolução da execução das atividades objeto 
+do projeto e deste Edital. 
+13.10 As cláusulas de sigilo não serão objeto de renúncia, por qualquer das partes 
+signatárias do TO@, enquanto vigentes os objetivos e finalidades deste Edital 
+e suas cláusulas correspondentes, resguardando-se, irrestritamente, 
+eventuais direitos de propriedade intelectual das partes ou interessados. 
+13.11 As partes contratadas obrigam-se a prestar contas do valor financiado nas 
+épocas e condições previamente definidas no TO@. 
+13.12 Os casos omissos serão resolvidos pela Diretoria Executiva da FAPEMIG. 
+14. 
+INFORMAÇÕES COMPLEMENTARES 
+14.1 
+Não será concedida suplementação de recursos para fazer frente a despesas 
+adicionais, ficando entendido que qualquer acréscimo de gastos será de 
+responsabilidade da Executora. 
+14.2 
+A ausência de quaisquer documentos e informações exigidas pela FAPEMIG, 
+bem como o preenchimento incorreto do formulário e seus anexos, implicará 
+na desqualificação da proposta. 
+  
+9 
+ 
+14.3 
+Em qualquer ação promocional ou publicação de trabalhos relacionados com 
+o objeto do projeto financiado por este Edital, deverá ser feita, 
+obrigatoriamente, menção expressa à FAPEMIG e à EMBRAER. 
+14.4 
+Outras informações poderão ser obtidas junto à Central de Informações da 
+FAPEMIG, por meio do correio eletrônico ci@fapemig.br. 
+15. 
+CALENDÁRIO 
+As propostas serão recebidas, eletronicamente, pela FAPEMIG, até as 
+dezessete horas do dia 12 de maio de 2015. 
+16. 
+DISPOSIÇÕES FINAIS 
+16.1 
+Os resultados dos recursos, previstos no subitem 11.2, serão comunicados 
+por escrito aos recorrentes. 
+16.2 
+A existência de eventuais recursos impedirá o andamento normal de todas as 
+demais ações e procedimentos previstos para este Edital. 
+16.3 
+O presente Edital poderá ser revogado ou anulado a qualquer tempo, no todo 
+ou em parte, seja por decisão unilateral da FAPEMIG, seja por motivo de 
+interesse público ou exigência legal, sem que isso implique direito à 
+indenização ou reclamação de qualquer natureza 
+ 
+ 
+Belo Horizonte, 25 de março de 2015. 
+ 
+ 
+ 
+Prof. Evaldo Fereira Vilela, PhD. 
+Presidente da FAPEMIG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+10 
+ 
+EDITAL FAPEMIG 05/2015 
+ANEXO I 
+SUBTEMAS 
+ 
+I.1 Energy Harvesting 
+I.1.1 Estudo conceitual de um sistema de energy harvesting baseado em sensores 
+piezoelétricos. 
+I.1.2 Desenvolvimento de modelos matemáticos para a avaliação de eficiência 
+energética do sistema. 
+I.2 Controle de escoamento 
+I.2.1 – Análise de modelos numéricos de instabilidades fluidodinâmicas. 
+I.2.2 – Investigação de técnicas de controle passivo e ativo do escoamento visando o 
+retardo da transição laminar para turbulento. 
+I.3 Célula combustível 
+I.3.1 – Investigação, desenvolvimento e análise de eficiência energética de 
+arquiteturas de célula combustível multifuncional para uso em aeronaves. 
+I.4 Otimização de missões complexas 
+I.4.1 – Desenvolvimento de modelos numéricos de análise de missões  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+11 
+ 
+EDITAL FAPEMIG 05/2015 
+ANEXO II 
+SUBTEMAS 
+ 
+II.1 Configurações alternativas de aeronaves com propulsão distribuída 
+II.1.1 Definição e proposição de uma arquitetura de propulsão distribuída para uma 
+aeronave regional. 
+II.1.2 Projeto conceitual e cálculos de desempenho de uma aeronave não 
+convencional equipada com propulsão distribuída. 
+II.1.3 Desenvolvimento de metodologias de análise de eficiência energética de 
+sistemas distribuídos de propulsão. 
+II.1.4 Investigação de efeitos de instalação propulsiva distribuída na eficiência 
+aerodinâmica de uma aeronave não convencional. 
+II.1.5 Desenvolvimento e comparação de modelos de performance de sistemas 
+propulsivos distribuídos e convencionais. 
+II.2 Eficiência energética de arquiteturas de propulsão híbrida 
+II.2.1 Projeto e construção de uma bancada de testes de um sistema de propulsão 
+híbrido para aeronaves. 
+II.2.2 Desenvolvimento de modelos matemáticos de baixa fidelidade para um sistema 
+genérico de propulsão hibrida permitindo comparações parametrizadas com sistemas 
+convencionais. 
+II.2.3 Projeto conceitual e cálculos de desempenho de uma aeronave não 
+convencional equipada com propulsão híbrida. 
+II.2.4 Avaliação dos potenciais benefícios e limitações tecnológicas de uma arquitetura 
+híbrida em relação aos sistemas convencionais (turbojatos). 
+II.2.5 Desenvolvimento e comparação de modelos de performance de sistemas 
+propulsivos híbridos e convencionais. 
+II.3 Gerenciamento de energia térmica 
+II.3.1 Avaliação experimental de sistemas de transferência de calor usando estruturas 
+aeronáuticas. 
+II.3.2 Avaliação dos potenciais benefícios e limitações tecnológicas que norteiem os 
+próximos desenvolvimentos da tecnologia. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+12 
+ 
+EDITAL FAPEMIG 05/2015 
+ANEXO III 
+ROTEIRO PARA APRESENTAÇÃO DO PROJETO 
+ 
+ 
+1. 
+Sobre o projeto 
+1.1 Título: 
+Área e subárea do conhecimento:  
+(Disponível no endereço http://www.fapemig.br/apoio/tabelas-vigentes-0/areas-
+de-atuacao/) 
+Tema/Subtema: 
+1.2 Este projeto originará resultado prático (uma nova técnica, uma nova tecnologia, 
+um novo equipamento, uma nova metodologia ou uma nova prática)? Isto é, seus 
+resultados poderão ser usados para resolver algum problema prático? 
+☐ Não. Nesse primeiro momento caracteriza uma pesquisa básica, cujo os 
+resultados não poderão ser aplicados de imediato, pois haverá necessidade de 
+continuar a pesquisa visando gerar e ampliar o conhecimento na área, com foco 
+em aplicações futura. 
+☐ Sim. É uma pesquisa aplicada, pois após a conclusão do projeto, os resultados 
+poderão ser aplicados para solução de um problema prático.  
+1.3 Este projeto originará conhecimento teórico novo? Isto é, seus resultados 
+poderão significar um avanço para área de conhecimento e do tema/subtema a 
+que se refere o projeto? 
+☐ Não. O projeto não objetiva resolver questões teóricas. 
+☐ Sim. O projeto objetiva resolver questões teóricas ainda não elucidadas da 
+área de conhecimento.  
+1.4 Qual é a questão abordada neste projeto? Apresente de forma clara e objetiva a 
+pergunta ou a hipótese principal que será investigada neste projeto. (Máximo 
+250 palavras) 
+1.5 Cite e comente as três principais referências bibliográficas de seu projeto que 
+sustentam a pesquisa proposta (Máximo 500 palavras). 
+1.6 Por que este tema/subtema é importante para a sua área e ou subárea de 
+conhecimento? Quais serão os possíveis impactos, em face dos resultados 
+esperados? (Máximo 500 palavras). 
+1.7 Por que é importante para FAPEMIG e para EMBRAER financiar este projeto? 
+(Máximo 250 palavras) 
+ 
+ 
+ 
+  
+13 
+ 
+2. 
+Sobre a equipe 
+2.1 Por que a equipe (grupo de pesquisa) proponente é capacitada para   
+desenvolver o projeto proposto de forma a atingir o(s) resultado(s) esperado(s) 
+(Máximo 400 palavras). 
+2.2 Quais são os três trabalhos anteriores desenvolvidos recentemente pela equipe, 
+que demonstram a experiência com tema projeto proposto? Cite publicações 
+científicas (artigos, livros), propriedade intelectual, exibições, espetáculos, 
+palestras, dias de campo, ou qualquer outra realização que possam demonstrar 
+a qualidade e experiência prévia da equipe com o tema/subtema (Máximo 500 
+palavras). 
+3. 
+Sobre a instituição 
+3.1 Por que o projeto proposto pode ser desenvolvido na Instituição Proponente, de 
+forma a atingir os resultados esperados? 
+4. 
+Adendo 
+4.1 Inclua aqui qualquer informação que julgar estritamente importante para o 
+julgamento e seleção do projeto proposto e que não está contemplada nas 
+questões acima e no item 7.3.1. Não use este espaço, se julgar que respondeu 
+as questões de forma clara e convincente. (Máximo 500 palavras) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+14 
+ 
+EDITAL FAPEMIG 05/2015 
+ANEXO IV 
+INDICAÇÃO DE COORDENADOR 
+ 
+Indicamos para coordenar o projeto objeto da Proposta XXXXXX (incluir o 
+título), submetida no âmbito do Edital XX/2015 da FAPEMIG, XXXXXX (incluir o nome 
+do funcionário da Proponente, que obrigatoriamente deverá ser o mesmo a submeter 
+a proposta no EVEREST), que terá como atribuições responsabilizar-se pela 
+execução do projeto, desde a submissão da proposta até a prestação de contas e 
+apresentação do Formulário Síntese de Resultados – FSR. 
+O mesmo será, ainda, responsável pela interlocução junto à FAPEMIG em 
+relação a questões que porventura possam surgir durante a execução do projeto. 
+ 
+ 
+ 
+..............................................................., ......... de .......................... de 2015. 
+Representante Legal da Proponente 
+(Assinatura e Carimbo) 
+ 

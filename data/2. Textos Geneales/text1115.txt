@@ -1,0 +1,2022 @@
+
+ 
+Código: A106PR17MO1 
+Versión: 01 
+Vigente desde: su liberación en GINA 
+ 
+Bogotá, 14 de diciembre de 2018. 
+ 
+DIRIGIDA A: Grupos de Investigación, Desarrollo Tecnológico o Innovación con 
+categoría A1 o A vigente a la fecha de cierre de la presente invitación, 
+preferiblemente en alianza con algún grupo de I+D+i1 o Unidad de las 
+Fuerzas Militares2.  
+ 
+                       El grupo categorizado debe demostrar experiencia3 en al menos dos de 
+las siguientes temáticas:  
+ 
+- 
+Investigaciones en gestión tecnológica o historia de la ciencia y la 
+tecnología. 
+- 
+Investigaciones relacionadas con las Fuerzas Armadas de Colombia. 
+- 
+Procesos de reconstrucción de memoria histórica4. 
+- 
+Investigaciones en conflicto y guerra. 
+ 
+ASUNTO: 
+Invitación a presentar propuestas para el estudio de caso de tecnologías 
+en el área de ingeniería, desarrolladas o implementadas, por las Fuerzas 
+Militares de Colombia durante el conflicto armado5.  
+ 
+De manera atenta y en el marco del Programa Nacional de CTeI en Seguridad y 
+Defensa, el cual pertenece a la Dirección de Fomento a la Investigación de Colciencias, 
+me permito solicitar la presentación de una propuesta orientada al estudio de caso de 
+desarrollos tecnológicos en el área de ingeniería realizados por las Fuerzas Militares de 
+Colombia durante el conflicto armado, la cual deberá tener en cuenta el contenido del 
+documento de requerimientos técnicos que se anexan a esta comunicación (ver anexos 
+1, 2, 3 y 4) 
+Con la información enviada por usted, Colciencias realizará un estudio que le permita 
+conocer los potenciales proponentes y las características de los productos, programas 
+                                                           
+1 Entiéndase por I+D+i: Investigación, Desarrollo tecnológico e Innovación.  
+2 Fuerzas Militares: Fuerzas Militares (Ejército, Armada, Fuerza Aérea) y se podrán nombrar dentro del 
+documento como FFMM. 
+3 Se verificará a través de la información consignada en el Gruplac del Grupo y Cvlac de los investigadores 
+y se analizará en el proceso de evaluación de la propuesta.  
+4 Memoria histórica: Recuento de hechos pasados a través de la memoria colectiva e individual de 
+diferentes actores, con el fin de entender determinada situación.  
+5 Entiéndase por conflicto armado en Colombia a un conflicto armado no internacional, que se caracteriza 
+por enfrentamientos, según el Comité Internacional de la Cruz Roja, “…entre fuerzas gubernamentales y 
+grupos armados no gubernamentales, o entre esos grupos únicamente...” (Tomado de 
+https://www.icrc.org/es/doc/resources/documents/article/other/armed-conflict-article-170308.htm, 
+2018). Según Calderón (2016) citando a Wallensteen y Sollenberg, el conflicto armado en Colombia se 
+caracteriza por la generación de violencia directa donde divergen los intereses del gobierno, se usan las 
+fuerzas armadas y se evidencian más de 25 muertos. Plantea sus inicios con la aparición de nuevas 
+organizaciones armadas en Colombia, aspecto que se da aproximadamente, después de la década de los 
+años 50 y plantea enfrentamiento entre el Estado, guerrillas, paramilitares, narcotraficantes y bandas 
+criminales.  
+Nota: El estudio de caso podrá definir cualquier periodo de tiempo dentro de los últimos 60 años, teniendo 
+en cuenta el periodo de implementación o desarrollo de la tecnología por parte de las FFMM. 
+  
+ 
+Código: A106PR17MO1 
+Versión: 01 
+Vigente desde: su liberación en GINA 
+y proyectos que se están realizando o se proponen realizar en la materia, los cuales 
+podrán ser utilizados como referentes para la construcción de instrumentos que 
+financien proyectos que permitan entender cómo las Fuerzas Militares han contribuido 
+a la paz en épocas de conflicto, a través del desarrollo y movilización de tecnología en 
+el País.  
+Dada la especificidad de la temática y el objeto de estudio que es limitado a las 
+tecnologías desarrolladas por las Fuerzas Militares; la estructura del “dirigido a” que es 
+cerrada a unos grupos específicos y con experiencia específica en unas temáticas; al 
+monto de los recursos disponibles; y a que es posible contabilizar los diferentes 
+potenciales grupos que se pueden presentar; se opta por realizar una invitación y no 
+una convocatoria.  
+La presentación de una propuesta no implica obligatoriedad, ni compromiso alguno de 
+parte de Colciencias para asignar recursos, ni genera derecho a recibir apoyo 
+económico ni ningún otro tipo de beneficios.  
+La presentación de la propuesta tampoco establece ninguna obligación para Colciencias 
+de informar sobre las decisiones adoptadas producto de este análisis. 
+Señalado lo anterior, Colciencias dentro de su plan estratégico, tiene como objetivos 
+entre otros,  
+ 
+Mejorar la calidad y el impacto de la investigación y la transferencia de 
+conocimiento y tecnología. 
+ 
+ Fomentar el conocimiento y la innovación para la transformación productiva y 
+social del país. 
+Los cuales, a través de este tipo de investigación, podrán mostrar los avances y aportes 
+tecnológicos y de conocimiento desde las Fuerzas Militares para transformar social y 
+productivamente al país; además de transferir este conocimiento a la sociedad, a través 
+de la reconstrucción de memoria e identificación de fuentes de información en esta 
+materia.  
+JUSTIFICACIÓN TÉCNICA.  
+EL 
+DEPARTAMENTO 
+ADMINISTRATIVO 
+DE 
+CIENCIA, 
+TECNOLOGÍA 
+E 
+INNOVACIÓN – COLCIENCIAS, como rector del Sistema Nacional de Ciencia, 
+Tecnología e Innovación (SNCTeI), es el encargado de formular la política pública de 
+Ciencia, Tecnología e Innovación – CTeI del Estado Colombiano y de direccionar, 
+articular y fomentar el desarrollo científico, el desarrollo tecnológico y la innovación en 
+el país. En su ejercicio de promoción y fomento de la CTeI busca por un lado consolidar 
+comunidades científicas en las distintas áreas del conocimiento y al mismo tiempo 
+propiciar la transferencia del conocimiento para aportar activamente al desarrollo 
+económico y social del país. Es por esto que, el Programa Nacional de CTeI en 
+Seguridad y Defensa, “…es un espacio para impulsar el desarrollo de capacidades para 
+la creación, transferencia y uso de conocimiento en el sector Defensa y Seguridad, en 
+la búsqueda de la consolidación de capacidades estratégicas, tácticas y operacionales 
+de las Fuerzas, así como del desarrollo económico nacional…”. 
+  
+ 
+Código: A106PR17MO1 
+Versión: 01 
+Vigente desde: su liberación en GINA 
+En esta búsqueda de consolidación de capacidades para el sector, se ha evidenciado, 
+que poco se ha trabajado en la temática de reconstrucción de memoria histórica 
+relacionada con los desarrollos tecnológicos, industriales y de infraestructura 
+desarrollados por las Fuerzas Militares que han solucionado problemáticas de país en 
+medio del conflicto armado.  
+Si bien el Ministerio de Defensa Nacional, el Comando General de las Fuerzas Militares 
+de Colombia y cada una de las Fuerzas Militares han adelantado algunas 
+investigaciones en la temática, éstas se han centrado más en tópicos  que tiene que ver 
+con víctimas del conflicto, jurisprudencia, justicia transicional, reconstrucción de 
+diferentes intervenciones y operaciones militares, y cambio de mentalidad en las 
+Fuerzas Armadas; pero pocas, o por no decir ninguna, ha realizado una reconstrucción  
+de memoria que indique cómo las Fuerzas Armadas  han contribuido al país desde sus 
+desarrollos tecnológicos, industriales y de infraestructura para brindar respuestas 
+eficaces orientadas al desarrollo social y económico del país.  
+Por tal motivo se considera pertinente realizar esta reconstrucción dirigida a fortalecer 
+las capacidades de las Fuerzas, que brinde luces sobre nuevas líneas de investigación 
+o profundización de las ya existentes, para favorecer a las comunidades más afectadas 
+por el conflicto.  
+A través de este tipo de investigación, se podrán mostrar los avances y aportes 
+tecnológicos y de conocimiento desde las Fuerzas Militares orientadas a transformar 
+social y productivamente al país; además de transferir este conocimiento a la sociedad 
+resaltando los logros alcanzados por las Fuerzas Militares en cuanto a desarrollos 
+tecnológicos que contribuyen a la construcción de país. 
+Por lo anterior, la presente invitación tiene como objeto realizar un estudio de caso de 
+tecnologías en el área de ingeniería, desarrolladas o implementadas, por las Fuerzas 
+Militares de Colombia durante el conflicto armado, que permita a través de un 
+documento técnico, iniciar la identificación de desarrollos tecnológicos en ingeniería y 
+sus aportes a la sociedad, identificar quiénes están haciendo investigación relacionada 
+y comenzar a dar insumos para la reconstrucción de memoria en estas temáticas.  
+Así mismo, está invitación está articulada con las líneas de investigación que promueve 
+el Programa Nacional de CTeI en Seguridad y Defensa de COLCIENCIAS, en lo que 
+respecta al fomento de la investigación en temáticas de Paz e identificación de 
+investigaciones, desarrollos tecnológicos y otros, que han aportado al fortalecimiento de 
+capacidades estratégicas, tácticas y operativas de las Fuerzas Militares y su relación 
+con la sociedad.   
+Esta invitación es solo un pequeño paso para mostrar como las capacidades militares, 
+no solo trabajan en temas bélicos y de Defensa, sino que también aportan a generar 
+desarrollo económico y social en el país.  Se ha evidenciado la necesidad de resaltar 
+que las Fuerzas Militares han brindado soluciones y respuestas eficaces para el 
+desarrollo social y económico del país, aún en medio del conflicto armado. 
+Con la presente invitación, al identificar algún desarrollo tecnológico que ha generado 
+soluciones reales para el país y socializarlo, se pretende: 
+  
+ 
+Código: A106PR17MO1 
+Versión: 01 
+Vigente desde: su liberación en GINA 
+ 
+Potencializar la capacidad de investigación, desarrollo tecnológico e 
+innovación de las Fuerzas Militares; motivando a los grupos y unidades de 
+las Fuerzas Militares a que continúen realizando este tipo de desarrollos.   
+ 
+Obtener productos apropiación social del conocimiento que permitan 
+compartir estos aprendizajes con la sociedad.  
+ 
+Consolidar los grupos y centros de investigación de las Fuerzas Militares y 
+sus aliados, a través de la posible alianza que se realice en este ejercicio. 
+ 
+Contribuir al logro de los objetivos estratégicos y las metas de Colciencias en 
+cuanto a financiación de proyectos de I+D+i y sus productos derivados. 
+ 
+Conformar y fortalecer alianzas y redes de CTeI. 
+ 
+Brindar insumos para establecer una estrategia de apropiación de los 
+desarrollos tecnológicos realizados por las Fuerza Militares.  
+ 
+Responder a las siguientes causales de CTeI según lo establecido en el 
+Decreto 591 de 1991 artículo 2, numeral 1. 
+1. Investigación científica y desarrollo tecnológico, desarrollo de nuevos 
+productos y procesos y conformación de redes de investigación e 
+información. Esta causal se atiende con este tipo de proyectos, toda vez que 
+se presentará un proyecto de investigación orientado a realizar un estudio de 
+caso en el que puede presentarse una alianza entre grupos de I+D+i  y/o 
+unidades de las Fuerzas Militares, que permitirán no solo obtener algún 
+producto de generación de nuevo conocimiento como artículos, capítulos de 
+libros, documentos técnicos, etc.; o de apropiación social del conocimiento 
+que 
+involucren 
+participación 
+ciudadana, 
+comunicación 
+social 
+del 
+conocimiento o circulación de conocimiento especializado.   
+OBJETIVO GENERAL:  
+Realizar un estudio de caso de tecnologías en el área de ingeniería, desarrolladas o 
+implementadas, por las Fuerzas Militares de Colombia durante el conflicto armado.  
+Objetivos específicos:  
+- 
+Identificar actores, beneficios, lecciones aprendidas, entre otros aspectos, en 
+estos procesos. 
+- 
+Determinar aportes de estas tecnologías en el desarrollo económico y social del 
+país. 
+- 
+Brindar insumos para establecer una estrategia de apropiación de los desarrollos 
+tecnológicos realizados por las Fuerzas Militares de Colombia. 
+- 
+Determinar una metodología de estudio de caso que permita replicar este 
+ejercicio para la identificación y análisis de otras tecnologías desarrolladas o 
+implementadas por las Fuerzas Militares. 
+DESCRIPCIÓN DEL PROYECTO:  
+PLAZO O DURACIÓN: El plazo máximo para el desarrollo del proyecto será de 18 
+meses. 
+  
+ 
+Código: A106PR17MO1 
+Versión: 01 
+Vigente desde: su liberación en GINA 
+VALOR O COSTO: La propuesta presentada no podrá exceder de $100.000.000 
+REQUERIMIENTOS TÉCNICOS, TECNOLÓGICOS, HUMANOS  
+Ver la siguiente información:  
+Anexo 1: Condiciones generales de la invitación  
+Anexo 2: Carta unificada de aval y compromiso institucional 
+Anexo 3: Contenido del proyecto 
+Anexo 4: Descripción de los productos esperados 
+ 
+Nota: Esta invitación ni el correo electrónico de invitación a presentar propuesta, genera 
+obligatoriedad alguna para Colciencias de suscribir contrato, o de entregar información 
+referente al proceso interno que se está adelantando, toda vez que éste es un 
+procedimiento de contratación directa, que tiene su fundamento en la ley 1286 de 2009 
+y conforme al cual Colciencias en su desarrollo está obligado a garantizar el mérito, 
+calidad e idoneidad. 
+ 
+ 
+ 
+Cordialmente,  
+ 
+ 
+EDUARDO ROJAS PINEDA 
+Director de Fomento a la Investigación 
+  
+ 
+Código: A106PR17MO1 
+Versión: 01 
+Vigente desde: su liberación en GINA 
+ANEXO 1.  
+Condiciones generales de la Invitación a presentar propuestas para el estudio 
+de caso de tecnologías en el área de ingeniería, desarrolladas o implementadas, 
+por las Fuerzas Militares de Colombia durante el conflicto armado. 
+ 
+1. REQUISITOS 
+1.1 
+Diligenciar o actualizar la hoja de vida de cada uno de los miembros del equipo de 
+investigación (investigadores y coinvestigadores) en el aplicativo CvLAC 
+(Currículum Vitae para Latinoamérica y el Caribe), el GrupLAC de los grupos 
+participantes y el proyecto en el Sistema Integrado de Gestión de Proyectos de 
+COLCIENCIAS -SIGP. 
+1.2 
+Cumplir con el dirigido a. 
+1.3 
+Carta unificada de aval y compromiso institucional debidamente diligenciado y 
+firmado (Anexo 2).  
+1.4 
+Aval del Comité de Ética/Bioética de la institución que presenta el proyecto cuando 
+aplique, donde especifique claramente que la propuesta ha sido revisada y 
+avalada en sus componentes éticos e instrumentos a emplear. En caso de que la 
+institución que presenta la propuesta no cuente con un Comité de ética, podrá 
+solicitar este aval ante otra entidad que cuente con este Comité. Debe anexar a 
+este aval, el acto administrativo que soporta la conformación del Comité de 
+ética que lo expide. 
+COLCIENCIAS revisará y conceptuará acerca de los componentes éticos del 
+proyecto. En caso de requerirlo y no contar con el aval respectivo la propuesta 
+deberá subsanar. 
+ 
+Notas:  
+ 
+COLCIENCIAS podrá solicitar, en cualquier momento, información y documentación 
+adicional o aclaraciones de los requisitos. 
+2. PROCEDIMIENTO DE PRESENTACIÓN DE LA PROPUESTA 
+2.1 Ingresar a la página web de Colciencias (www.colciencias.gov.co). 
+2.2 Ingresar al menú ubicado en la parte superior de la página web – SCIENTI Y SIGP, 
+donde se despliega Sistemas de Información- Plataforma SIGP, allí encontrará 
+disponibles los diferentes formularios en línea para aplicar a las convocatorias de 
+Colciencias (http://www.colciencias.gov.co/scienti). 
+2.3 Hacer clic en la opción Formulario en línea para registro de entidades ubicado en 
+la 
+parte 
+derecha, 
+http://formulariosigp.colciencias.gov.co:7001/EntidadesColciencias/.  En caso de 
+haberla registrado previamente, continuar con el paso número 5.7.  
+2.4 Realizar el pre-registro de las entidades participantes en el proyecto con la 
+información solicitada. Colciencias en un periodo de 2 días hábiles remitirá a su 
+correo electrónico de contacto las credenciales de acceso para el ingreso al 
+sistema de registro de entidades, solo si la entidad fue avalada, de lo contrario el 
+  
+ 
+Código: A106PR17MO1 
+Versión: 01 
+Vigente desde: su liberación en GINA 
+sistema enviará un correo informando que la entidad fue rechazada y la razón del 
+rechazo. 
+2.5 Ingresar al módulo de entidades con sus credenciales y registrar la información de 
+la entidad ejecutora y entidades participantes en el proyecto. En caso de 
+encontrarse registradas las entidades en este sistema, no se requiere de un nuevo 
+registro, sin embargo, podrá actualizar la información. 
+2.6 Una vez finalizado el registro de la entidad, Ingresar al link de Formulario de 
+Proyectos 
+y/o 
+programas: 
+http://formulariosigp.colciencias.gov.co:7001/FormularioProyectos/. 
+2.7 Diligenciar la información solicitada por el formulario en línea para la presentación 
+de los proyectos a la invitación. Para recibir las credenciales de acceso por correo 
+electrónico deberá registrar como mínimo el título del proyecto, la entidad 
+ejecutora, convocatoria, y correo electrónico.  
+2.8 Debe adjuntar la totalidad de los documentos que soportan los requisitos. Si para 
+un requisito requiere anexar más de un documento, guárdelos en una sola carpeta 
+y adjúntela como archivo comprimido .ZIP o .RAR en el campo correspondiente al 
+requisito. Si requiere cambiar algún archivo de los que previamente adjuntó, puede 
+hacerlo examinando y adjuntando el documento deseado. Es importante resaltar 
+que el tamaño de cada archivo anexado de cada uno de los requisitos cuenta con 
+una capacidad máxima de 3MB; para el requisito “Otros adjuntos” tiene una 
+capacidad máxima de 10 MB.  
+2.9 Para validar, por favor hacer clic en el botón “Validar”, ubicado en la parte inferior 
+del menú. Si la información registrada cumple con los criterios solicitados por la 
+convocatoria, la validación será exitosa y se activará la opción de “Enviar 
+formulario”, en caso contrario se mostrará en pantalla la información que no cumple 
+con los criterios definidos en la convocatoria.  
+2.10 Una vez se oprime el botón de enviar formulario, el sistema registrará el proyecto 
+y generará su respectivo código del proyecto. 
+2.11 Una vez haya sido enviado el proyecto, si la convocatoria se encuentra abierta 
+el sistema le permite modificar el proyecto, oprimiendo el botón "Modificar 
+Proyecto", para realizar los cambios que consideren. Al dar clic en la opción 
+"Modificar Proyecto" que está en el menú, se muestra una pantalla de confirmación 
+con el siguiente mensaje "¿Está seguro de modificar el proyecto?, una vez confirme 
+esta acción el proyecto ya no estará radicado en Colciencias. Para volver a 
+radicarlo debe validar y enviar de nuevo el proyecto una vez lo haya modificado." 
+Cabe aclarar que, si no lo vuelve a validar y enviar el proyecto a Colciencias, este 
+proyecto no quedará radicado oficialmente en Colciencias y no seguirá a la etapa 
+de revisión de requisitos, así cuente con la pantalla de evidencia de un envío 
+anterior satisfactorio. 
+2.12 Para realizar seguimiento a la propuesta, deberá ingresar al formulario con el 
+usuario y contraseña enviados mediante el correo electrónico al momento de 
+registrar la propuesta en el sistema, y por el menú de requisitos podrá consultar las 
+observaciones realizadas a los requisitos del proyecto, con el fin de que sean 
+subsanadas por el proponente. 
+Notas:  
+  
+ 
+Código: A106PR17MO1 
+Versión: 01 
+Vigente desde: su liberación en GINA 
+ 
+Se aceptarán únicamente los proyectos que se presenten a través del formulario en 
+línea con toda la información solicitada en la presente invitación. 
+ 
+No se tendrá en cuenta para el proceso de evaluación y selección, la información 
+enviada en medios distintos al SIGP (correo postal, fax, correo electrónico otro), ni 
+posterior a la fecha y hora límite establecida. Excepto cuando sea solicitado 
+directamente por Colciencias. 
+ 
+Si requieren anexar documentación adicional del proyecto como: tablas, fórmulas, 
+gráficas, anexos, cartas, etc., guárdelos en una sola carpeta y adjúntelas como 
+archivo .ZIP o .RAR (archivo comprimido), en el requisito de Otros adjuntos. Si 
+requieren cambiar algún archivo de los que previamente adjuntó, puede hacerlo 
+examinando y adjuntando el documento deseado. 
+ 
+Para remitir toda la documentación relacionada con cada uno de los requisitos, el 
+tamaño máximo de envío es de 3 MB, en caso de requerir información adicional al 
+proyecto, puede utilizar la opción llamada “Otros adjuntos” y contará con un tamaño 
+máximo de 10 Mb.  
+ 
+En caso de que se presenten errores en el aplicativo SIGP durante el proceso de 
+inscripción y envío del proyecto o del cargue de la documentación soporte, y por 
+esta razón después de efectuados varios intentos no pueda enviarse el proyecto de 
+forma normal dentro del plazo establecido, por favor capturar las pantallas con el 
+mensaje de error junto con la fecha y hora en que se presentó el inconveniente que 
+soporte el problema. Remitir antes de la fecha de cierre establecida en el 
+Cronograma de las presentes condiciones, todas las evidencias de la falla 
+presentada exclusivamente a través del formulario electrónico que se encuentra 
+disponible en el enlace http://www.colciencias.gov.co/ciudadano/canal-pqrds 
+explicando en el cuerpo de dicha comunicación los inconvenientes ocurridos durante 
+el envío. COLCIENCIAS por medio de la Oficina de Sistemas verificará el error 
+reportado. Enviar copia de los errores a los correos contacto@colciencias.gov.co, 
+lhgalindo@colciencias.gov.co, nmunoz@colciencias.gov.co. 
+ 
+El envío de la propuesta no implica obligatoriedad, ni compromiso alguno de parte 
+de COLCIENCIAS para asignar recursos, ni genera derecho a recibir apoyo 
+económico ni ningún otro tipo de beneficios. La presentación de la propuesta 
+tampoco establece ninguna obligación para COLCIENCIAS de informar sobre las 
+decisiones adoptadas producto de este análisis. 
+ 
+En caso de presentar inquietudes éstas serán recibidas exclusivamente a través del 
+correo contacto@colciencias.gov.co a partir de la recepción de la presente invitación 
+y hasta 25 de febrero de 2019. La fecha estimada mínimo de respuesta será de tres 
+(3) días hábiles posteriores al envío de la inquietud. 
+3. DURACIÓN Y FINANCIACIÓN 
+3.1 El término de duración de los proyectos a financiar será de hasta dieciocho (18) 
+meses. 
+3.2 COLCIENCIAS financiarán como máximo el 80% del valor total del proyecto. 
+  
+ 
+Código: A106PR17MO1 
+Versión: 01 
+Vigente desde: su liberación en GINA 
+3.3 Los proyectos presentados deberán presentar aportes en contrapartida por mínimo 
+el 20% del valor total del proyecto los cuales pueden ser en especie y/o en dinero. 
+3.4 La contrapartida debe quedar definida y soportada de acuerdo con lo estipulado 
+en el Anexo 2, Carta unificada de aval y compromiso institucional, ítem 3. 
+Contrapartida y en la ficha técnica del proyecto.  
+ 
+4. CONTENIDO DEL PROYECTO 
+Los proyectos deberán incluir dos componentes: científico-técnico y presupuestal; como 
+se describe a continuación y se detalla en el Anexo 3. 
+4.1 Componente científico-técnico del proyecto: 
+ 
+ 
+Título del proyecto. 
+ 
+Lugar de ejecución. 
+ 
+Duración. 
+ 
+Investigador principal y co-investigadores. 
+ 
+Conformación del equipo de investigación. 
+ 
+Resumen ejecutivo. 
+ 
+Palabras clave. 
+ 
+Planteamiento del problema. 
+ 
+Estado del arte. 
+ 
+Objetivos (generales y específicos). 
+ 
+Metodología. 
+ 
+Resultados esperados. 
+ 
+Productos esperados. 
+ 
+Carácter novedoso del proyecto. 
+ 
+Impacto esperado.  
+ 
+Cronograma. 
+ 
+Bibliografía. 
+ 
+4.2 Componente presupuestal 
+Este componente deberá presentarse en forma discriminada. Se exigirá como mínimo 
+un 20% de contrapartida en especie y/o en dinero. Para el cálculo de los Gastos de 
+Operación, deberá seguir las instrucciones y ejemplo del Anexo 3 – Contenido del 
+Proyecto (ítem componente presupuestal). 
+  
+ 
+Código: A106PR17MO1 
+Versión: 01 
+Vigente desde: su liberación en GINA 
+El presupuesto deberá presentarse discriminado por rubros de acuerdo con los 
+lineamientos del Anexo 3. Serán financiados con recursos de COLCIENCIAS 
+únicamente los siguientes rubros: 
+ 
+Equipos. 
+ 
+Materiales e insumos. 
+ 
+Bibliografía. 
+ 
+Servicios técnicos. 
+ 
+Software. 
+ 
+Salidas de campo. 
+ 
+Movilidad de investigadores. 
+ 
+Participación en eventos académicos. 
+ 
+Publicaciones. 
+ 
+Personal científico (investigador, profesional de apoyo y auxiliar de investigación). 
+ 
+Consultoría y Asesoría especializada. 
+ 
+Gastos de operación: Hasta el 7% de las sumatoria de los rubros con cargo a 
+Colciencias, sin incluir el rubro de seguimiento y evaluación. 
+ 
+Seguimiento y evaluación: Se refiere al 3% del monto financiado y se destina para 
+realizar el seguimiento y evaluación de la ejecución del proyecto por parte de 
+Colciencias. 
+Notas:  
+ 
+El presupuesto para el pago de personal científico y de apoyo no podrá exceder el 
+60% del presupuesto total solicitado a COLCIENCIAS.  El personal de planta de los 
+integrantes de la alianza participante no será financiado con recursos 
+COLCIENCIAS. 
+ 
+El personal que sea beneficiario actual de los programas “Jóvenes Investigadores” 
+o “Formación de Doctorados” de COLCIENCIAS, podrán estar vinculados a las 
+actividades investigativas previstas para la ejecución del programa, pero en ningún 
+caso será financiado al mismo tiempo con los recursos provenientes de esta 
+invitación asignados a este rubro. 
+ 
+No será financiable con recursos de COLCIENCIAS ningún otro rubro presupuestal, 
+como: construcciones, mantenimiento de equipos e infraestructura, imprevistos, 
+seguros, adquisición de vehículos, mobiliario de oficina, membresías a sociedades 
+científicas e impuestos (excepto IVA). 
+ 
+Serán sometidas a evaluación únicamente tres (3) solicitudes de cambio de rubro 
+durante el tiempo de ejecución del proyecto. Se aclara que cada solicitud podrá 
+incluir varios cambios de rubro, y serán autorizadas siempre y cuando no 
+comprometan los resultados esperados. 
+ 
+Todo cambio de rubro inferior al 20% del total del rubro de destino, NO requerirá 
+autorización o aprobación de COLCIENCIAS.  
+ 
+  
+ 
+Código: A106PR17MO1 
+Versión: 01 
+Vigente desde: su liberación en GINA 
+5. RESULTADOS Y PRODUCTOS ESPERADOS 
+Se espera que los proyectos incluyan como mínimo el siguiente producto: 
+ 
+Documento técnico del estudio de caso que defina: 
+o Estado del arte 
+o Métodos e instrumentos de recolección de información 
+o Métodos de análisis de la información 
+o Recomendaciones para replicar y sistematizar este tipo estudio de caso al 
+interior de las Fuerzas Militares.   
+o Lecciones aprendidas y recomendaciones 
+o Insumos para establecer una estrategia de apropiación de los desarrollos 
+tecnológicos realizados por las Fuerzas Militares de Colombia. 
+ 
+Los proyectos presentados podrán  asociar otro tipo de productos asociados a las 
+actividades de ciencia y tecnología que tradicionalmente se han distinguido en el 
+Sistema Nacional de CTI (productos de nuevo conocimiento, productos de 
+actividades de investigación y desarrollo tecnológico, productos de formación del 
+talento humano y de apropiación social de la CTI)6. Ver anexo 4. 
+ 
+6. CONSIDERACIONES DE LA PROPUESTA RECIBIDA 
+Todo proyecto presentado por fuera del plazo establecido no será tenido en cuenta. La 
+entrega de un proyecto no implica obligatoriedad para COLCIENCIAS de escogerlo. 
+7. CRONOGRAMA 
+ACTIVIDAD 
+FECHA LIMITE 
+Publicación de la invitación 
+14 de diciembre de 2018 
+Cierre de la invitación 
+28 de febrero de 2019 
+Comunicación acerca de la decisión 
+sobre las propuestas7 
+29 de marzo de 2019 
+ 
+ 
+ 
+ 
+                                                           
+6 Modelo de medición de Grupos de Investigación, Desarrollo Tecnológico y/o de Innovación y de reconocimiento de 
+investigadores del Sistema Nacional de Ciencia, Tecnología e Innovación, año 2017. Departamento Administrativo de 
+Ciencia 
+Tecnología 
+e 
+Innovación-COLCIENCIAS; 
+Dirección 
+de 
+Fomento 
+a 
+la 
+Investigación. 
+http://www.colciencias.gov.co/convocatorias/investigacion/convocatoria-nacional-para-el-reconocimiento-y-medicion-
+grupos/ 
+anexo_1._documento_conceptual_modelo_medicion_de_grupos_e_investigadores_2017_-
+_12_05_2017_protected.pdf 
+7 Solo se enviará comunicación, vía correo electrónico, al investigador principal de la propuesta que sea elegida para 
+ser financiada. 
+  
+ 
+Código: A106PR17MO1 
+Versión: 01 
+Vigente desde: su liberación en GINA 
+8. INFORMACIÓN DECISIÓN 
+Si su proyecto ha sido aceptado, COLCIENCIAS le informará mediante comunicación 
+electrónica que la propuesta ha sido elegida para ser financiada, junto con las 
+instrucciones y condiciones para la ejecución del proyecto. 
+9. PROPIEDAD INTELECTUAL 
+En el evento en que se llegaren a generar derechos de propiedad intelectual sobre los 
+resultados que se obtengan o se pudieran obtener en el marco del desarrollo del 
+presente contrato, la titularidad sobre los mismos se regirá por lo establecido en el 
+artículo 10 de la ley 1753 de 2015, que determinó: “Derechos de propiedad intelectual 
+y desarrollo financiados con recursos públicos. En los casos de proyectos de 
+investigación y desarrollo de ciencia, tecnología e innovación y de tecnologías de la 
+información y las comunicaciones, adelantados con recursos públicos, el Estado podrá 
+ceder a título gratuito salvo por motivos de Seguridad y Defensa Nacional los derechos 
+de propiedad intelectual que le correspondan, y autorizará su transferencia, 
+comercialización y explotación a quien adelante y ejecute el proyecto, sin que ello 
+constituya daño patrimonial al Estado. Las condiciones de esta sesión serán fijadas en 
+el respectivo contrato, y en todo caso, el estado se reserva el derecho de obtener una 
+licencia no exclusiva y gratuita de estos derechos de propiedad intelectual por motivos 
+de interés nacional”.  
+De cualquier forma, Colciencias y las entidades cooperantes respetaran los derechos 
+morales de las personas naturales que participen en el proyecto derivado de la presente 
+invitación.  
+Las Partes del proyecto definirán la titularidad de los derechos de propiedad intelectual 
+que se generen en la ejecución de los proyectos financiados con recursos del 
+presupuesto nacional.  
+Parágrafo 1. Sin perjuicio de lo anterior, COLCIENCIAS se reserva el derecho de 
+obtener una licencia no exclusiva y gratuita sobre los derechos de propiedad intelectual 
+obtenidos en desarrollo de la presente invitación por motivos de interés nacional, 
+comprometiéndose a respetar los derechos morales a que hubiere lugar.  
+Parágrafo 2. En cualquier evento o medio de divulgación utilizado para difundir los 
+resultados del proyecto se deberá dar el respectivo crédito a COLCIENCIAS, incluyendo 
+la imagen institucional de acuerdo con el manual de imagen corporativa alojado en 
+http://www.colciencias.gov.co 
+10. - ACEPTACIÓN DE TÉRMINOS Y VERACIDAD 
+Con la presentación del proyecto, los interesados aceptan las características, requisitos 
+y condiciones de la presente invitación, así como lo dispuesto para el desarrollo de la 
+misma, para la entrega del recurso y el uso de datos personales. Los interesados 
+deberán declarar que no están incursos en ninguna causal de inhabilidad o 
+incompatibilidad para recibir los recursos otorgados como resultado de la presente 
+invitación.  
+  
+ 
+Código: A106PR17MO1 
+Versión: 01 
+Vigente desde: su liberación en GINA 
+De igual forma deberán declarar que la información suministrada es veraz y corresponde 
+a la realidad. En caso de encontrarse alguna incoherencia o inconsistencia en la 
+información o documentación suministrada, COLCIENCIAS podrá en cualquier 
+momento rechazar la postulación o si es el caso, declarar la pérdida del recurso sin 
+perjuicio de las acciones legales correspondientes. 
+ 
+  
+ 
+ 
+ 
+ 
+Página 1 de 5 
+ 
+ 
+ 
+Av. Calle 26 # 57-83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+ 
+ 
+ 
+ 
+M301PR01F03 
+ 
+ANEXO 2 - CARTA UNIFICADA DE AVAL Y COMPROMISO INSTITUCIONAL 
+ 
+(Ciudad), (Día) de (Mes) de 201_  
+ 
+ 
+Señores  
+COLCIENCIAS 
+Av. Calle 26 No. 57 – 83 Torre 8 Piso 2 
+Bogotá D.C. 
+ 
+Asunto: Aval y compromiso institucional del proyecto (escriba el nombre del proyecto) 
+ 
+Respetados señores, 
+ 
+ 
+Por medio de la presente yo XXXXXXX, identificado con cédula de ciudadanía número 
+XXXX de XXXX, quien obra en su calidad de XXXXXX, nombrado mediante Resolución 
+Ministerial No. 006 del 19 de enero de 2018, avalo el proyecto titulado (escriba el nombre 
+del proyecto), presentado en la “Invitación a presentar propuestas para el estudio de caso 
+de tecnologías en el área de ingeniería, desarrolladas o implementadas, por las Fuerzas 
+Militares de Colombia durante el conflicto armado”. Manifiesto que el proyecto (escriba el 
+nombre del proyecto) no está siendo financiado con recursos de otra convocatoria de 
+COLCIENCIAS u otras entidades del Estado. 
+ 
+Para el desarrollo del proyecto (escriba el nombre del proyecto) se conformará una Alianza, 
+que estará integrada por las siguientes entidades: (nombre de la entidad 1), (nombre de la 
+entidad 2), (nombre de la entidad 3),…, etc.; designándose como entidad ejecutora a 
+_____________________ (escribir el nombre de la entidad ejecutora), quien será la 
+encargada de firmar el (acta de inicio) en caso de resultar seleccionados como financiable 
+durante el proceso de la “Invitación a presentar propuestas para el estudio de caso de 
+tecnologías en el área de ingeniería, desarrolladas o implementadas, por las Fuerzas 
+Militares de Colombia durante el conflicto armado”. 
+ 
+De la misma forma, mediante la presente me permito establecer los compromisos que 
+enuncio a continuación: 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Página 2 de 5 
+ 
+ 
+ 
+Av. Calle 26 # 57-83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+ 
+ 
+ 
+ 
+M301PR01F03 
+1. Interlocución. 
+ 
+Informo a COLCIENCIAS que la(s) persona(s) encargada(s) de ejercer la función de 
+interlocutor(es) válido(s) del proyecto (escriba el nombre del proyecto) es (son): 
+ 
+Nombre del interlocutor: (Nombre líder del proyecto) 
+Documento de identidad: (Tipo y Número de identificación). 
+Correo electrónico:  
+Teléfono:  
+ 
+Nombre del interlocutor: (Nombre investigador principal) 
+Documento de identidad: (Tipo y Número de identificación). 
+Correo electrónico:  
+Teléfono:  
+ 
+Nombre del interlocutor: (Nombre investigador suplente o co-investigador) 
+Documento de identidad: (Tipo y Número de identificación). 
+Correo electrónico:  
+Teléfono:  
+ 
+2. Aspectos Éticos. 
+ 
+Informo a COLCIENCIAS que el proyecto (escriba el nombre del proyecto), presentado a la 
+“Invitación a presentar propuestas para el estudio de caso de tecnologías en el área de 
+ingeniería, desarrolladas o implementadas, por las Fuerzas Militares de Colombia durante 
+el conflicto armado”, no requirió del concepto de un comité de ética dado que la propuesta 
+de investigación no utilizará recurso vivo, agentes o muestras biológicas, datos personales, 
+información proveniente de investigaciones previas realizadas en seres vivos o no tendrá 
+impacto sobre la vida. 
+  
+ 
+ 
+ 
+ 
+Página 3 de 5 
+ 
+ 
+ 
+Av. Calle 26 # 57-83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+ 
+ 
+ 
+ 
+M301PR01F03 
+Informo a COLCIENCIAS que el proyecto (escriba el nombre del proyecto), presentado a la 
+“Invitación a presentar propuestas para el estudio de caso de tecnologías en el área de 
+ingeniería, desarrolladas o implementadas, por las Fuerzas Militares de Colombia durante 
+el conflicto armado”, fue revisado por un comité de ética debidamente constituido. Se 
+adjunta concepto del comité de ética y acto administrativo de constitución del mismo. 
+ 
+3. Contrapartida: 
+ 
+Se establece el compromiso que en caso de que el proyecto (escriba el nombre del 
+proyecto), resulte financiable por COLCIENCIAS, las entidades que conforman la Alianza 
+Estratégica aportarán los siguientes recursos como contrapartida:  
+Entidad 
+Total 
+Monto de contrapartida 
+Especie 
+% Especie 
+Efectivo 
+% Efectivo 
+(Nombre de la entidad 1) 
+$ 
+$ 
+% 
+$ 
+% 
+(Nombre de la entidad 2) 
+$ 
+$ 
+% 
+$ 
+% 
+(Nombre de la entidad 3) 
+$ 
+$ 
+% 
+$ 
+% 
+Total 
+$ 
+$ 
+% 
+$ 
+% 
+ 
+4. Intención de acuerdo de propiedad intelectual. 
+ 
+Las partes abajo firmantes, convienen la intención de acuerdo que se regirá bajos las 
+siguientes clausulas: i) la titularidad de la propiedad intelectual respecto a Derechos 
+Patrimoniales sobre los resultados que se obtengan o se pudieran obtener en el desarrollo 
+del presente proyecto estará a cargo de XXXXX  ii) La custodia y cuidado de los productos 
+tecnológicos, prototipos, que se materialicen estarán a cargo del líder del proyecto y del 
+Investigador principal durante la duración de proyecto. A la finalización y liquidación de los 
+mismos, se definirá la custodia y cuidado de tales bienes. v) Los derechos morales de autor 
+que le correspondan a estudiantes, profesores o investigadores de las partes, que por sus 
+aportes significativos en una determinada obra le corresponden como autor(es) o 
+coautor(es), serán a estos siempre reconocidos. vii) Ninguna de las partes podrá publicar, 
+comunicar, divulgar, revelar ni permitir que los investigadores y personal vinculado al 
+contrato publiquen, comuniquen, revelen o utilicen la información resultado del mismo, sin 
+previo aviso y aprobación por escrito. viii) Sin perjuicio de lo anterior las partes podrán 
+efectuar modificaciones al presente documento de acuerdo a las condiciones de desarrollo 
+del proyecto. 
+ 
+5. De la aceptación de las condiciones que establece COLCIENCIAS. 
+Los abajo firmantes declaran y aceptan que: 
+  
+ 
+ 
+ 
+ 
+Página 4 de 5 
+ 
+ 
+ 
+Av. Calle 26 # 57-83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+ 
+ 
+ 
+ 
+M301PR01F03 
+ 
+ 
+Tienen poder y/o representación legal para firmar y presentar el proyecto (escriba el 
+nombre del proyecto). 
+ 
+Este proyecto (escriba el nombre del proyecto) compromete totalmente a la(s) 
+persona(s) jurídica(s) que legalmente represento.  
+ 
+La información suministrada es veraz y no fija condiciones artificiales. 
+ 
+Aceptan y reconocen que cualquier omisión o inconsistencia en la que hayan podido 
+incurrir y que pueda influir en el proyecto (escriba el nombre del proyecto), no les eximirá 
+de la obligación de asumir las responsabilidades que les llegue a corresponder y 
+renuncian a cualquier reclamación, reembolso o ajuste de cualquier naturaleza, por 
+cualquier situación que surja y no haya sido contemplada en razón de la falta de 
+diligencia en la obtención de la información. 
+ 
+No se encuentran incursos en ninguna de las causales de inhabilidad y/o 
+incompatibilidad establecidas en el Estatuto General de Contratación y demás normas 
+legales pertinentes. 
+ 
+Aceptan y autorizan a COLCIENCIAS para que verifique la información aportada en el 
+proyecto (escriba el nombre del proyecto) 
+ 
+Se encuentran al día con las obligaciones y compromisos adquiridos con 
+COLCIENCIAS. 
+ 
+El proyecto (escriba el nombre del proyecto) no está siendo financiado por otra 
+convocatoria con recursos de COLCIENCIAS u otras entidades del Estado. 
+ 
+Además, se sugiere declarar que: “ACEPTAMOS expresa e irrevocablemente que 
+conocemos detalladamente las características, requisitos y condiciones de la “Invitación a 
+presentar propuestas para el estudio de caso de tecnologías en el área de ingeniería, 
+desarrolladas o implementadas, por las Fuerzas Militares de Colombia durante el conflicto 
+armado”, de manera que nos sometemos a lo establecido en las condiciones determinadas 
+por COLCIENCIAS para el desarrollo de la misma y para la entrega del recurso en caso 
+que el proyecto (escriba el nombre del proyecto) resulte financiable. 
+ 
+Con la presente manifestación inequívoca de voluntad, declaramos que en caso de ser 
+beneficiados en la “Invitación a presentar propuestas para el estudio de caso de tecnologías 
+en el área de ingeniería, desarrolladas o implementadas, por las Fuerzas Militares de 
+Colombia durante el conflicto armado”, el recurso de financiación será recibido en los 
+términos que COLCIENCIAS establezca; comprendemos y aceptamos que la no aceptación 
+o el incumplimiento de alguna de las condiciones establecidas, dará lugar a la pérdida 
+definitiva del recurso. 
+Declaramos que la información suministrada es veraz y corresponde a la realidad. En caso 
+de encontrarse alguna incoherencia o inconsistencia en la información o documentación 
+  
+ 
+ 
+ 
+ 
+Página 5 de 5 
+ 
+ 
+ 
+Av. Calle 26 # 57-83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+ 
+ 
+ 
+ 
+M301PR01F03 
+suministrada, COLCIENCIAS podrá en cualquier momento, rechazar esta propuesta o 
+finiquitar el beneficio, sin perjuicio de las acciones legales correspondientes”. 
+ 
+ 
+Atentamente,  
+ 
+ 
+ 
+FIRMA 
+XXXXXXXX XXXXX XXXX XXX 
+CC XXXXXXXXXXXXX de XXXXXXXXXX 
+Investigador principal - Entidad 
+Dirección. 
+Conmutador xxxxxxxx- Ext.xxxxx 
+Ciudad. 
+ 
+ 
+FIRMA 
+XXXXXXXX XXXXX XXXX XXX 
+CC XXXXXXXXXXXXX de XXXXXXXXXX 
+Co-investigador - Entidad. 
+Dirección. 
+Conmutador xxxxxxxx- Ext.xxxxx 
+Ciudad. 
+ 
+ 
+ 
+ 
+FIRMA 
+NOMBRE DEL REPRESENTANTE LEGAL 
+ENTIDAD ALIADA 1 
+CC 
+NOMBRE DE LA ENTIDAD ALIADA 1 
+DIRECCIÓN  
+TELÉFONO 
+ 
+FIRMA 
+NOMBRE DEL REPRESENTANTE LEGAL 
+ENTIDAD ALIADA 2 
+CC 
+NOMBRE DE LA ENTIDAD ALIADA 2 
+DIRECCIÓN  
+TELÉFONO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Tantas entidades como se requiera y que conformen la alianza). 
+  
+ 
+ 
+ 
+ 
+Página 1 de 7 
+ 
+ 
+ 
+Av. Calle 26 # 57-83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+ 
+ 
+ 
+ 
+M301PR01F03 
+ANEXO 3. CONTENIDO DEL PROYECTO 
+ 
+Invitación a presentar propuestas para el estudio de caso de tecnologías en el área 
+de ingeniería, desarrolladas o implementadas, por las Fuerzas Militares de 
+Colombia durante el conflicto armado. 
+ 
+ 
+Los proyectos se deben estructurar bajo los siguientes parámetros: 
+ 
+COMPONENTE CIENTÍFICO-TÉCNICO: 
+ 
+ 
+Título del Proyecto 
+ 
+Lugar de ejecución 
+ 
+Duración 
+ 
+Investigador principal y co investigadores: El investigador principal deberá 
+pertenecer a un grupo reconocido por Colciencias.  
+ 
+Conformación del equipo de investigación: Colocar el nombre y código, registrado 
+en el GrupLAC, del o de los grupos de investigación. Al igual que el nombre de los 
+demás integrantes que conforman el equipo de trabajo. Se debe incluir el tiempo de 
+dedicación y funciones en el marco del proyecto. 
+ 
+Resumen ejecutivo: Información mínima necesaria para comunicar de manera precisa 
+los contenidos y alcances del proyecto. Dicho resumen debe articular los componentes: 
+(1) fase previa de la investigación y (2) la propuesta de continuidad o complemento a 
+dicha fase. 
+ 
+Palabras clave: Incluir máximo seis (6) palabras clave que describan el objeto del 
+proyecto. 
+ 
+Planteamiento del problema: Delimitación clara y precisa del objeto de la investigación 
+que se realiza por medio de una pregunta. 
+ 
+Estado del arte: Revisión actual de la temática en el contexto nacional e internacional, 
+avances, desarrollos y tendencias, en cuya elaboración se deberán tener en cuenta 
+estudios de prospectiva y vigilancia tecnológica. 
+ 
+Objetivos:  
+ Objetivo general: Enunciado que define de manera concreta el planteamiento del 
+problema o necesidad y se inicia con un verbo en modo infinitivo, es medible, 
+alcanzable y conlleva a una meta. 
+  
+ 
+ 
+ 
+ 
+Página 2 de 7 
+ 
+ 
+ 
+Av. Calle 26 # 57-83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+ 
+ 
+ 
+ 
+M301PR01F03 
+ Objetivos específicos: Enunciados que dan cuenta de la secuencia lógica para 
+alcanzar el objetivo general del proyecto. No debe confundirse con las actividades 
+propuestas para dar alcance a los objetivos (ej. Tomar muestras en diferentes 
+localidades de estudio); ni con el alcance de los productos esperados (ej. Formar un 
+estudiante de maestría). 
+ 
+Metodología: Exposición en forma organizada y precisa de cómo se desarrollará y 
+alcanzará el objetivo general y cada uno de los objetivos específicos del proyecto, 
+presentando los componentes del mismo y las actividades para el logro de estos. 
+ 
+Resultados esperados: Conocimiento generado en el cumplimiento de cada uno de 
+los objetivos.  
+ 
+Productos esperados: 
+Se espera que los proyectos incluyan como mínimo el siguiente producto: 
+ 
+Documento técnico del estudio de caso que defina: 
+o Estado del arte 
+o Métodos e instrumentos de recolección de información 
+o Métodos de análisis de la información 
+o Recomendaciones para replicar y sistematizar este tipo estudio de caso al 
+interior de las Fuerzas Militares.   
+o Lecciones aprendidas y recomendaciones 
+ 
+Los proyectos presentados podrán  asociar otro tipo de productos asociados a las 
+actividades de ciencia y tecnología que tradicionalmente se han distinguido en el 
+Sistema Nacional de CTI (productos de nuevo conocimiento, productos de 
+actividades de investigación y desarrollo tecnológico, productos de formación del 
+talento humano y de apropiación social de la CTI)1. Ver anexo 4. 
+ 
+Carácter novedoso del proyecto: En relación con el aporte al desarrollo de 
+innovaciones de sistemas, productos, procesos o servicios, así como al mejoramiento 
+significativo de los mismos. Este deberá estar sustentado en el estado del arte.  
+                                                           
+1 Modelo de medición de Grupos de Investigación, Desarrollo Tecnológico y/o de Innovación y de reconocimiento de 
+investigadores del Sistema Nacional de Ciencia, Tecnología e Innovación, año 2017. Departamento Administrativo de Ciencia 
+Tecnología 
+e 
+Innovación-COLCIENCIAS; 
+Dirección 
+de 
+Fomento 
+a 
+la 
+Investigación. 
+http://www.colciencias.gov.co/convocatorias/investigacion/convocatoria-nacional-para-el-reconocimiento-y-medicion-grupos/ 
+anexo_1._documento_conceptual_modelo_medicion_de_grupos_e_investigadores_2017_-_12_05_2017_protected.pdf 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Página 3 de 7 
+ 
+ 
+ 
+Av. Calle 26 # 57-83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+ 
+ 
+ 
+ 
+M301PR01F03 
+ 
+Impacto Esperado: Teniendo en cuenta que todo proyecto tiene efectos no solamente 
+en los aspectos ambientales por el uso y transformación de materiales o de información, 
+sino también apunta a la solución de necesidades o problemas de la sociedad indique 
+el impacto esperado del proyecto. 
+Si la ejecución de un proyecto requiera autorización de las autoridades ambientales, 
+con tal autorización se entiende evaluado positivamente el cumplimiento de los 
+requisitos ambientales (se debe anexar copia).  
+Cuando no requiera autorización, así deberá manifestarlo en el registro del proyecto y 
+describir en este aparte: los aspectos ambientales indicando cómo el desarrollo del 
+proyecto da cumplimiento al concepto de desarrollo sostenible (Ley 99 de 1993 en el 
+artículo 3º). 
+ 
+Cronograma: Distribución de actividades a lo largo del tiempo de ejecución del 
+proyecto. Asociar a cada actividad el o los objetivos (numerados) relacionados con 
+estos. 
+ 
+Bibliografía: Fuentes bibliográficas empleadas en cada uno de los ítems del proyecto. 
+Se hará referencia únicamente a aquellas fuentes empleadas en el suministro de la 
+información del respectivo proyecto. No se incluirán referencias que no se citen. Se debe 
+utilizar las normas APA No 6. 
+ 
+Nota: Se deberá aportar toda la información necesaria para la evaluación del proyecto con 
+base en los criterios establecidos en los términos de referencia de la invitación. 
+ 
+COMPONENTE PRESUPUESTAL 
+ 
+ 
+Equipos2: Aquellos necesarios para el desarrollo del proyecto, los cuales pueden 
+ser adquiridos a cualquier título. La financiación para compra de equipos nuevos 
+deberá estar sustentada en la estricta necesidad de los mismos para el desarrollo 
+del proyecto. 
+ 
+Materiales e insumos: Adquisición de insumos, bienes fungibles y demás 
+elementos necesarios para el desarrollo de algunas actividades previstas. Deben 
+presentarse a manera de listado detallado agrupado por categorías sobre las cuales 
+debe hacerse una justificación de su necesidad y cantidad (Ej. consumibles, 
+reactivos, herramientas, elementos de protección, controles e instrumentación 
+accesoria, material biológico, audiovisual, de laboratorio y de campo, etc.). 
+ 
+Bibliografía: Adquisición de libros, revistas, artículos, suscripciones o acceso a 
+bases de datos especializadas, que sean estrictamente necesarias para una 
+                                                           
+2 Los equipos quedarán bajo propiedad de la Entidad a la que pertenezca el grupo de investigación desde el 
+momento que sean adquiridos.   
+  
+ 
+ 
+ 
+ 
+Página 4 de 7 
+ 
+ 
+ 
+Av. Calle 26 # 57-83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+ 
+ 
+ 
+ 
+M301PR01F03 
+ejecución exitosa del proyecto. 
+ 
+Servicios técnicos: Contrataciones que se hacen para la prestación de servicios 
+especializados y cuya necesidad esté suficientemente justificada, por ejemplo: 
+ensayos, pruebas, análisis de laboratorio y caracterizaciones, etc. Estos no deben 
+incluirse en los gastos de personal. 
+ 
+Software: Adquisición de licencias de software especializado para las actividades 
+de CTeI propias del desarrollo del proyecto. Su necesidad y cantidad debe 
+soportarse en justificaciones técnicas detalladas. No se considerará financiable 
+dentro de este rubro software de uso cotidiano, como por ejemplo procesadores de 
+texto, hojas electrónicas o sistemas operativos. 
+ 
+Salidas de campo: Costos asociados al levantamiento de información en campo, 
+desde fuentes primarias o secundarias, para la consecución de los objetivos del 
+proyecto; o requeridas para el desarrollo de pruebas piloto. 
+ 
+Movilidad de investigadores: Se refiere a los gastos de transporte (pasajes 
+nacionales e internacionales) y viáticos relacionados con las actividades propuestas 
+en el componente científico-técnico del proyecto (capacitaciones, estancias cortas 
+en instituciones académicas nacionales o extranjeras, presentación de ponencias 
+en eventos especializados, etc.) y que son estrictamente necesarios para la 
+ejecución exitosa del proyecto y la generación de productos y resultados. 
+ 
+Participación en eventos académicos: Gastos ocasionados por la organización y 
+divulgación de eventos (paneles, simposios, talleres, seminarios, congresos, ferias 
+de CTeI, etc.) que permitan retroalimentar o presentar productos y resultados del 
+proyecto. 
+ 
+Publicaciones: Costos de publicación de artículos científicos en revistas indexadas 
+con un alto factor de impacto. Costos asociados a la publicación de libros, manuales, 
+videos, cartillas, posters, etc. que presenten los resultados del proyecto y sirvan 
+como estrategia de divulgación o apropiación social de los resultados de la 
+investigación. 
+ 
+Gastos de operación: Hasta el 7% de las sumatoria de los rubros con cargo a 
+Colciencias, sin incluir el rubro de seguimiento y evaluación. 
+ 
+Seguimiento y evaluación: Se refiere al 3% del monto financiado y se destina para 
+realizar el seguimiento y evaluación de la ejecución del proyecto por parte de 
+Colciencias.   
+ 
+Personal científico: El componente de Recursos humanos para actividades de 
+CTeI, por un valor que no supere el 60% del valor solicitado a Colciencias:  
+ Personal con formación científica y técnica, que cuenta con título profesional 
+y/o de posgrado (maestría, doctorado), y vinculación de postdoctorados que 
+estarán a cargo de las actividades investigativas propias de la ejecución del 
+proyecto según el planteamiento científico-técnico. 
+ Personal con formación en carreras técnicas y tecnológicas con capacidades 
+  
+ 
+ 
+ 
+ 
+Página 5 de 7 
+ 
+ 
+ 
+Av. Calle 26 # 57-83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+ 
+ 
+ 
+ 
+M301PR01F03 
+para apoyar la ejecución de actividades de CTeI. 
+ 
+Consultoría y Asesoría Especializada: Subcontrataciones de actividades científicas 
+y/o tecnológicas nacionales o internacionales de corta duración, que son claves para el 
+desarrollo del proyecto. Se debe explicar en forma clara el objetivo de la consultoría y 
+las diferentes tareas encomendadas con sus entregables (distribución de 
+responsabilidades). 
+Deberán tenerse en cuenta los siguientes lineamientos: 
+a. No serán financiados con recursos de COLCIENCIAS, honorarios o bonificaciones 
+especiales a personal de nómina de tiempo completo de entidades públicas o privadas. 
+No obstante, estas sí pueden ser financiadas con recursos de contrapartida. 
+b. Personal 
+que 
+sea 
+beneficiario 
+del 
+programa 
+“Jóvenes 
+Investigadores 
+de 
+COLCIENCIAS” podrá ser vinculado a las actividades investigativas previstas para la 
+ejecución del proyecto, pero en ningún caso podrá ser financiado al mismo tiempo con 
+los recursos provenientes de COLCIENCIAS asignados al proyecto. Aquellos Jóvenes 
+Investigadores que se vinculen a las actividades del proyecto, podrán recibir 
+incrementos al monto previsto para su beca-pasantía, pero únicamente con recursos de 
+contrapartida de la entidad que lo presente. 
+c. Personal que sea beneficiario del programa de “Doctorados de COLCIENCIAS” podrá 
+ser vinculado a las actividades investigativas previstas para la ejecución del proyecto, 
+pero en ningún caso podrá ser financiado al mismo tiempo con los recursos 
+provenientes de COLCIENCIAS asignados al proyecto. Los estudiantes de doctorado 
+que se vinculen a las actividades del proyecto podrán recibir incrementos al monto 
+previsto para su beca, pero únicamente con recursos de contrapartida de la entidad que 
+lo presente. 
+ 
+Rubros No Financiables 
+ 
+El personal que sea beneficiario actual de los Programas “Jóvenes investigadores” o 
+“Formación de doctorados” de COLCIENCIAS, podrá ser vinculado a las actividades 
+investigativas previstas para la ejecución del proyecto, pero en ningún caso, podrá ser 
+beneficiado al mismo tiempo con los recursos provenientes de la COLCIENCIAS, 
+asignados a este rubro, en esta invitación. 
+ 
+A través del rubro de personal, no se financiarán los derechos académicos y de 
+matrícula del personal. 
+ 
+No serán financiables con recursos de COLCIENCIAS, rubros presupuestales como: 
+Construcciones, mantenimiento de equipos e infraestructura, imprevistos, seguros, 
+adquisición de vehículos, mobiliario de oficina y membresías a sociedades científicas. 
+  
+ 
+ 
+ 
+ 
+Página 6 de 7 
+ 
+ 
+ 
+Av. Calle 26 # 57-83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+ 
+ 
+ 
+ 
+M301PR01F03 
+ 
+No serán financiados con recursos de COLCIENCIAS, honorarios o bonificaciones 
+especiales a personal de nómina de tiempo completo, de entidades públicas o privadas. 
+No obstante, estos sí podrán ser financiados con recursos de contrapartida. 
+Tabla 1. Ejemplo de cómo establecer el presupuesto en el proyecto de investigación 
+(indicativo solamente) 
+Rubros 
+Financiado 
+Contrapartida* 
+Total 
+Especie 
+Efectivo 
+EQUIPOS 
+$60.000.000 $60.000.000 $50.000.000 $170.000.00
+0 
+MATERIALES E INSUMOS 
+$150.000.00
+0 
+$120.000.00
+0 $30.000.000 $300.000.00
+0 
+BIBLIOGRAFÍA 
+$5.000.000 
+$   - 
+$   -  
+$5.000.000 
+SERVICIOS TÉCNICOS 
+$12.000.000 $10.000.000 $15.000.000 $37.000.000 
+SOFTWARE 
+$10.000.000 
+$   - 
+$   - $10.000.000 
+SALIDAS DE CAMPO 
+$15.000.000 
+$   - $10.000.000 $25.000.000 
+MOVILIDAD DE 
+INVESTIGADORES 
+$10.000.000 
+$   - 
+$   -  $10.000.000 
+PARTICIPACIÓN EN 
+EVENTOS ACADÉMICOS 
+$  - 
+$   - 
+$   - 
+$0 
+PUBLICACIONES  
+$20.000.000 $20.000.000 
+$   - $40.000.000 
+PERSONAL CIENTÍFICO 
+$60.000.000 $30.000.000 $15.000.000 $105.000.00
+0 
+CONSULTORÍA Y 
+ASESORÍA  
+ESPECIALIZADA 
+$30.000.000 $30.000.000 
+$   - $60.000.000 
+GASTOS DE OPERACIÓN 
+(Hasta el 7% del valor 
+solicitado a Colciencias)** 
+$15.000.000 
+$   - 
+$   - $15.000.000 
+SUBTOTAL 
+$387.000.00
+0 
+$270.000.00
+0 
+$120.000.00
+0 
+$777.000.00
+0 
+SEGUIMIENTO Y 
+EVALUACIÓN (El 3% del 
+valor del subtotal de rubros 
+financiados por 
+Colciencias)** 
+$11.610.000 
+$   - 
+$   - $11.610.000 
+VALOR TOTAL DEL 
+PROYECTO 
+$398.610.00
+0 
+$270.000.00
+0 
+$120.000.00
+0 
+$788.610.00
+0 
+  
+ 
+ 
+ 
+ 
+Página 7 de 7 
+ 
+ 
+ 
+Av. Calle 26 # 57-83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+ 
+ 
+ 
+ 
+M301PR01F03 
+ 
+*El porcentaje de contrapartida debe estar de acuerdo con lo establecido el 
+numeral X.X de las condiciones a presentar propuestas para esta invitación. En 
+este caso el porcentaje de contrapartida es del 100,7%. Se cumple la condición 
+para los rubros Gastos de Operación (7%). 
+ 
+** Seguimiento y Evaluación: Se refiere al 3% del monto financiado y se destina para 
+realizar el seguimiento y evaluación de la ejecución del proyecto por parte de 
+Colciencias. 
+  
+ 
+ 
+ 
+ 
+Página 1 de 6 
+ 
+ 
+ 
+Av. Calle 26 # 57-83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+ 
+ 
+ 
+ 
+ANEXO 4. DESCRIPCIÓN DE LOS PRODUCTOS ESPERADOS  
+Invitación a presentar propuestas para el estudio de caso de tecnologías en el área 
+de ingeniería, desarrolladas o implementadas, por las Fuerzas Militares de 
+Colombia durante el conflicto armado. 
+Se espera que los proyectos presentados incluyan como mínimo el siguiente producto: 
+ 
+Documento técnico del estudio de caso que defina: 
+o Estado del arte 
+o Métodos e instrumentos de recolección de información 
+o Métodos de análisis de la información 
+o Recomendaciones para replicar y sistematizar este tipo estudio de caso al 
+interior de las Fuerzas Militares.   
+o Lecciones aprendidas y recomendaciones 
+El proponente podrá también incluir el siguiente tipo de productos asociados a las 
+actividades de ciencia, tecnología e innovación: 
+1. 
+Productos y resultados de actividades de Formación de Recurso Humano: 
+ 
+Tipo Producto 
+Resultado esperado 
+Medio de verificación 
+JÓVENES 
+INVESTIGADORES 
+Vinculación del joven 
+investigador 
+al 
+proyecto. 
+Producto: Contrato de vinculación 
+del joven investigador e informe de 
+las actividades desarrolladas en el 
+marco del proyecto. 
+FORMACIÓN 
+DE 
+PREGRADO 
+Formación 
+culminada 
+del 
+estudiante 
+de 
+pregrado al proyecto. 
+Producto: Documento que certifique 
+el trabajo de grado realizado por el 
+estudiante de pregrado en el marco 
+del proyecto y el acta de grado. 
+VINCULACIÓN 
+DE 
+ESTUDIANTE 
+DE 
+MAESTRÍA  
+Tesis de maestría en 
+ejecución, enmarcada 
+en 
+el 
+proyecto 
+financiado.  
+Producto: Documento que certifique 
+que el trabajo de grado se realiza en 
+el marco del proyecto, emitido por la 
+autoridad en investigación de la 
+institución educativa e informe de 
+actividades realizadas. 
+  
+ 
+ 
+ 
+ 
+Página 2 de 6 
+ 
+ 
+ 
+Av. Calle 26 # 57-83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+ 
+ 
+ 
+Tipo Producto 
+Resultado esperado 
+Medio de verificación 
+FORMACIÓN 
+DE 
+ESTUDIANTE 
+DE 
+MAESTRÍA 
+Formación 
+culminada 
+del 
+estudiante 
+de 
+maestría en el marco 
+del proyecto. 
+Producto: Documento que certifique 
+la aprobación del trabajo de grado 
+realizado en el marco del proyecto o 
+el acta de grado. 
+VINCULACIÓN 
+DE 
+ESTUDIANTE 
+DE 
+DOCTORADO 
+Tesis de doctorado en 
+ejecución, enmarcada 
+en 
+el 
+proyecto 
+financiado.  
+Producto: Documento que certifique 
+que la tesis se realiza en el marco 
+del proyecto, emitido por la autoridad 
+en investigación de la institución 
+educativa e informe de actividades 
+realizadas. 
+FORMACIÓN 
+DE 
+ESTUDIANTE 
+DE 
+DOCTORADO 
+Formación 
+culminada 
+del 
+estudiante 
+de 
+doctorado en el marco 
+del proyecto. 
+Producto: Documento que certifique 
+la aprobación de la tesis realizada en 
+el marco del proyecto o el acta de 
+grado. 
+ 
+2. 
+Productos y resultados de actividades de Apropiación Social del Conocimiento 
+ 
+Tipo Producto 
+Resultado esperado 
+Medio de verificación 
+PONENCIAS 
+Participación 
+en 
+eventos 
+científicos, 
+presentando 
+los 
+resultados 
+de 
+la 
+investigación. 
+Producto: 
+Certificado 
+como 
+de 
+participación 
+como 
+ponente 
+y 
+soporte 
+del 
+trabajo 
+presentado 
+(memorias, 
+programa 
+de 
+los 
+eventos). 
+EVENTOS 
+CIENTÍFICOS 
+Participación 
+en 
+eventos 
+científicos, 
+presentando 
+los 
+resultados 
+de 
+la 
+investigación. 
+Producto: 
+Certificado 
+como 
+de 
+participación en calidad de poster y 
+soporte 
+del 
+trabajo 
+presentado 
+(memorias, 
+programa 
+de 
+los 
+eventos). 
+EVENTOS 
+CIENTÍFICOS  
+Organización 
+de 
+eventos 
+especializados. 
+Producto: 
+Certificación 
+de 
+la 
+organización 
+y 
+realización 
+de 
+eventos 
+científicos 
+tales 
+como 
+workshops, simposios y congresos. 
+CARTILLA 
+o 
+Elaboración 
+de 
+Producto: Copia de la cartilla o folleto 
+  
+ 
+ 
+ 
+ 
+Página 3 de 6 
+ 
+ 
+ 
+Av. Calle 26 # 57-83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+ 
+ 
+ 
+FOLLETO 
+Cartillas o Folletos 
+como 
+medio 
+de 
+divulgación de los 
+resultados 
+del 
+proyecto. 
+y documento donde se certifique su 
+distribución. 
+PRESENTACIÓN DE 
+LOS RESULTADOS A 
+LAS AUTORIDADES 
+LOCALES, 
+NACIONALES 
+Y 
+SECTORIALES. 
+Presentación de los 
+resultados ante las 
+autoridades 
+competentes 
+Producto: Documento que certifique 
+la presentación de los resultados a 
+las autoridades locales y nacionales. 
+REALIZACIÓN 
+DE 
+CURSOS 
+DE 
+CAPACITACIÓN, 
+SEMINARIOS 
+Y 
+TALLERES 
+Cursos 
+de 
+capacitación, 
+seminarios o talleres 
+realizados. 
+Producto: 
+Programa 
+del 
+curso, 
+capacitación, 
+seminario 
+o 
+taller; 
+intensidad horaria, duración y lista de 
+asistencia. 
+ARTICULACIÓN 
+DE 
+REDES 
+DE 
+CONOCIMIENTO 
+Red 
+creada 
+o 
+articulación en una 
+red a nivel nacional o 
+internacional. 
+Producto: Documento expedido por 
+la entidad referida que certifique de 
+las actividades de articulación de 
+redes. 
+PARTICIPACIÓN 
+CIUDADANA 
+EN 
+CTeI. 
+ 
+Participación 
+ciudadana 
+o 
+comunidad(es) 
+en 
+proyectos 
+de 
+investigación. 
+Espacio/evento 
+de 
+participación 
+ciudadana 
+o 
+de 
+comunidad(es) 
+relacionado con la 
+CTeI. 
+Producto: Documento del proyecto 
+de investigación que evidencie la 
+participación 
+activa 
+de 
+la(s) 
+comunidad(es) en su ejecución, o 
+documento del evento que evidencie 
+la participación en el mismo de la(s) 
+comunidad(es).  Agenda de las 
+reuniones y/o listas de asistencia. 
+RECONOCIMIENTOS 
+Premios 
+o 
+distinciones 
+otorgadas 
+por 
+instituciones, 
+organizaciones 
+públicas o privadas, 
+Producto: Documento que certifique 
+el premio o distinción otorgada. 
+  
+ 
+ 
+ 
+ 
+Página 4 de 6 
+ 
+ 
+ 
+Av. Calle 26 # 57-83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+ 
+ 
+ 
+que 
+utilizan 
+parámetros 
+de 
+excelencia 
+para 
+reconocer la gestión, 
+la productividad y los 
+aportes y el impacto 
+de la investigación o 
+el 
+desarrollo 
+tecnológico, en un 
+área 
+del 
+conocimiento. 
+ 
+3. 
+Productos y resultados de actividades de Generación de Nuevo Conocimiento. 
+ 
+Tipo Producto 
+Resultado esperado 
+Medio de verificación 
+ARTICULO 
+ORIGINAL 
+EN 
+REVISTA 
+INDEXADA 
+Artículos originales A1, 
+A2, B y C. 
+ 
+Producto: Copia del artículo original 
+aceptado en revista categorizada o 
+la carta de aceptación del artículo. 
+ 
+Categorías: 
+Artículo 
+A1: 
+Revista 
+que 
+se 
+encuentra en el cuartil uno (25% 
+superior de ISI [SCI y SSCI] o 
+SCOPUS). 
+Artículo 
+A2: 
+Revista 
+que 
+se 
+encuentra en el cuartil dos (entre el 
+74,9% y el 50% inferior de ISI [SCI y 
+SSCI] o SCOPUS). 
+Artículo B: Revista que se encuentra 
+en el cuartil tres (entre el 49,9% y el 
+25% inferior de ISI [SCI y SSCI] o 
+SCOPUS). 
+Artículo C: Revista que se encuentra 
+en el cuartil cuatro (entre el 24,9% y 
+el 25% inferior de ISI [SCI y SSCI] o 
+  
+ 
+ 
+ 
+ 
+Página 5 de 6 
+ 
+ 
+ 
+Av. Calle 26 # 57-83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+ 
+ 
+ 
+Tipo Producto 
+Resultado esperado 
+Medio de verificación 
+SCOPUS) o aparecer indexada en 
+los índices, Index Medicus,Psyc 
+INFO, Arts & Humanities Citation 
+Index (A&HCL). 
+PATENTE 
+Documento sobre la 
+patente. 
+Producto: Certificado de registro de 
+patente. 
+Patente 
+obtenida 
+o 
+solicitada por vía PCT o tradicional y 
+Modelo de utilidad. 
+LIBROS 
+RESULTADO 
+DE 
+INVESTIGACIÓN 
+Publicación de un libro 
+o borrador sometido a 
+evaluación. 
+Producto: 
+Ejemplar 
+del 
+libro 
+resultado de la investigación o 
+borrador avalado por una editorial 
+para ser publicado. Deben cumplir 
+con los requerimientos mínimos de 
+calidad especificados en el modelo 
+de medición de grupos. 
+CAPÍTULOS 
+EN 
+LIBRO RESULTADO 
+DE INVESTIGACIÓN 
+Capítulo de libro o 
+borrador sometido a 
+evaluación. 
+Producto: Copia del capítulo o el 
+borrador avalado por una editorial. 
+Documentos que cumplen con los 
+requerimientos mínimos de calidad 
+especificados en el modelo de 
+medición de grupos. 
+ 
+4. Productos y resultados de actividades de Desarrollo Tecnológico e 
+Innovación 
+ 
+Tipo Producto 
+Resultado Esperado 
+Medio de verificación 
+PRODUCTOS 
+TECNOLÓGICOS 
+CERTIFICADOS O 
+VALIDADOS  
+Diseño industrial, esquema de 
+circuito integrado, software, planta 
+piloto y prototipo industrial 
+Producto: Certificación de registro  
+aprobado 
+por 
+la 
+ 
+institución 
+otorgante, o copia de contratos de 
+desarrollo para el caso de planta 
+piloto 
+REGULACIONES, 
+NORMAS, 
+REGLAMENTOS O 
+Regulaciones, normas técnicas, 
+reglamentos técnicos, guías de 
+práctica clínica, o proyectos de 
+Producto: 
+Certificación 
+de 
+la 
+entidad competente que emite la 
+reglamentación o normatividad, en 
+  
+ 
+ 
+ 
+ 
+Página 6 de 6 
+ 
+ 
+ 
+Av. Calle 26 # 57-83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LEGISLACIONES 
+ley, diferenciadas según el ámbito 
+de 
+aplicación 
+(nacional 
+e 
+internacional). 
+la que se indique la participación 
+del grupo de investigación o de 
+alguno de sus integrantes en la 
+construcción.  
+PRODUCTOS 
+EMPRESARIALES 
+Secreto empresarial, empresas de 
+base 
+tecnológica 
+(spin-off), 
+innovaciones generadas en la 
+gestión empresarial, innovaciones 
+en procesos y procedimientos 
+Producto: Registro del producto o 
+de la empresa ante la entidad 
+competente, 
+certificación 
+institucional 
+firmada 
+por 
+el 
+representante legal que declare la 
+implementación de la innovación 
+en pequeñas, medianas y grandes 
+empresas. 
+CONSULTORÍAS 
+CIENTÍFICO-
+TECNOLÓGICAS E 
+INFORMES 
+TÉCNICOS 
+FINALES  
+Consultorías 
+científico-
+tecnológicas e informes técnicos 
+finales. 
+Producto: Documento o informe 
+que valide la consultoría realizada 
+y/o los informes técnicos realizados 
+en el marco del proyecto. 

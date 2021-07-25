@@ -1,0 +1,8402 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 1 de 24  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+ 
+EL MINISTERIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN - MINCIENCIAS – 
+ 
+ 
+CONVOCATORIA PARA EL FORTALECIMIENTO DE LABORATORIOS DE CALIBRACIÓN O DE ENSAYO EN 
+DEPARTAMENTOS PRIORIZADOS DEL PAÍS-2020 
+ 
+ 
+TABLA DE CONTENIDO 
+ 
+ 
+1. 
+PRESENTACIÓN ................................................................................................................................................................. 2 
+2. 
+OBJETIVO .......................................................................................................................................................................... 3 
+3. 
+DIRIGIDA A ......................................................................................................................................................................... 3 
+4. 
+ALCANCE ........................................................................................................................................................................... 4 
+5. 
+CONCEPTOS ...................................................................................................................................................................... 8 
+6. 
+REQUISITOS ...................................................................................................................................................................... 9 
+7. 
+CONDICIONES INHABILITANTES. .................................................................................................................................... 12 
+8.       DURACIÓN Y FINANCIACIÓN ........................................................................................................................................... 12 
+9. 
+CONTENIDOS DE LA PROPUESTA DEL PROYECTO ........................................................................................................ 13 
+10. 
+PROCEDIMIENTO DE INSCRIPCIÓN ................................................................................................................................. 16 
+11. 
+AUTORIZACION USO DE DATOS PERSONALES .............................................................................................................. 18 
+12. 
+CRITERIOS DE EVALUACIÓN ........................................................................................................................................... 18 
+13. 
+PROCEDIMIENTO DE EVALUACIÓN ................................................................................................................................. 19 
+14. 
+BANCO DE ELEGIBLES .................................................................................................................................................... 20 
+15. 
+ACLARACIONES .............................................................................................................................................................. 21 
+16. 
+CRONOGRAMA ................................................................................................................................................................ 21 
+17. 
+MODIFICACIONES ............................................................................................................................................................ 22 
+18. 
+PROPIEDAD INTELECTUAL .............................................................................................................................................. 22 
+19. 
+VEEDURÍAS CIUDADANAS ............................................................................................................................................... 23 
+20. 
+ANEXOS ........................................................................................................................................................................... 23 
+21. 
+ACEPTACIÓN DE TÉRMINOS Y VERACIDAD .................................................................................................................... 23 
+22. 
+MAYOR INFORMACIÓN .................................................................................................................................................... 24 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 2 de 24  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+1. 
+PRESENTACIÓN 
+ 
+El Ministerio de Ciencia, Tecnología e Innovación en la adelante MINCIENCIAS, como ente rector del Sistema Nacional de 
+Ciencia, Tecnología e Innovación (SNCTeI), es el encargado de formular la política pública de Ciencia, Tecnología e 
+Innovación – CTeI del Estado Colombiano, de direccionar, articular y fomentar el desarrollo científico, el desarrollo 
+tecnológico y la innovación en el país. Entre las estrategias contempladas en el PAI 20201, se registra como objetivo 
+estratégico “Impulsar el desarrollo tecnológico y la innovación para la transformación social y productiva” donde una de sus 
+metas estratégicas es “Empresas con capacidades en gestión de innovación”, orientada al fortalecimiento de actores clave 
+que realizan actividades de I+D+i y que cuentan con la capacidad de generar impactos en el sector empresarial asociado a 
+sus actividades.   
+ 
+En el Plan Nacional de Desarrollo (PND) 2018-2022: “Pacto por Colombia, pacto por la equidad”, se encuentra el Pacto II 
+denominado: “Pacto por el emprendimiento, la formalización y la productividad: Una economía dinámica, incluyente y 
+sostenible que potencie todos nuestros talentos”, el cual establece entre otros aspectos, acciones para fortalecer la 
+infraestructura de la calidad como soporte para la sofisticación de las empresas. Así mismo, destaca dentro de sus línea 
+temáticas la transformación empresarial, en donde realiza un diagnóstico sobre la baja diversificación y complejidad 
+económica del aparato productivo y el bajo desarrollo del mercado de capitales para el financiamiento y, considera el 
+fortalecimiento del Instituto Nacional de Metrología (INM), para aumentar su capacidad de medición y su participación en 
+instancias internacionales, el mencionado fortalecimiento repercutirá en el mejoramiento de capacidades empresariales y 
+desarrollo de procesos de innovación en laboratorios de calibración y ensayo del país, con el fin de aumentar la oferta de 
+servicios metrológicos en dichos laboratorios.  
+ 
+Del mismo modo,  el Pacto V denominado: “Pacto por la Ciencia, Tecnología y la Innovación: un sistema para construir el 
+conocimiento de la Colombia del futuro”, considera que entidades tales como Colciencias (ahora MINCIENCIAS),  
+Ministerio de Comercio, Industria y Turismo (MinCit), Organismo Nacional de Acreditación de Colombia (ONAC) y el INM, 
+diseñarán incentivos e instrumentos para la acreditación de alcances o métodos de los laboratorios que permitirán 
+fortalecer las capacidades en identificación y estandarización de métodos de calibración y de ensayo en laboratorios, con lo 
+cual se incentivará la innovación y el aumento de capacidades tecnológicas en los laboratorios del país. 
+ 
+De otra parte, el documento CONPES 3957 de 2019: “Política Nacional de Laboratorios: Prioridades para Mejorar el 
+Cumplimiento de Estándares de Calidad”, el objetivo de esta política pública es mejorar la calidad de los productos 
+nacionales, no solo en defensa de la salud y los derechos de los consumidores, sino para lograr el acceso a mercados 
+sofisticados con estándares internacionales más exigentes que los que son habituales en el país. Lo anterior se 
+fundamenta en tres estrategias: (i) mejorar las capacidades técnicas de los laboratorios, (ii) establecer incentivos que 
+permitan consolidar el mercado de servicios de laboratorios, apropiar la cultura de la calidad y fomentar el trabajo en red, y 
+(iii) mejorar el marco normativo e institucional aplicable a los laboratorios que permita una correcta gestión y articulación del 
+Subsistema Nacional de la Calidad - SICAL y del Sistema Nacional de Competitividad, Ciencia, Tecnología e Innovación 
+SNCCI. 
+ 
+Es así como esta convocatoria se desarrolla en el marco del Convenio Especial de Cooperación No 584/2020 radicado 
+MINCIENCIAS y 002/2020 radicado INM, el cual tiene como objetivo “Aunar esfuerzos con el fin de fortalecer las 
+capacidades técnicas y científicas de laboratorios de calibración y ensayo, para ampliar la oferta de servicios metrológicos 
+de acuerdo con las demandas de los sectores productivos en regiones del territorio colombiano.” 
+ 
+ 
+1 Plan de acción Institucional- Minciencias: https://minciencias.gov.co/planeacion_gestion/2020  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 3 de 24  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+La presente convocatoria está encaminada a fortalecer las capacidades metrológicas en los laboratorios de calibración o de 
+ensayo ubicados en los departamentos priorizados del territorio colombiano, a través de la cofinanciación de proyectos de 
+innovación que permitan la introducción en el mercado de nuevos servicios, para las apuestas productivas, que contribuyan 
+a mejorar la productividad y competitividad. Cabe resaltar que esta representa el desarrollo de actividades de ciencia, 
+tecnología e innovación dado que involucra el desarrollo de nuevos servicios y procesos, la normalización, metrología, 
+certificación y control de calidad, así como la promoción y gestión de sistemas de calidad total y de evaluación tecnológica, 
+descritos en inciso 3 del Artículo 2 del Decreto 591 de 1991, así: “3. Servicios científicos y tecnológicos que se refieren a la 
+realización de planes, estudios, estadísticas y censos de ciencia y tecnología; a la homologación, normalización, 
+metrología, certificación y control de calidad; a la prospección de recursos, inventario de recursos terrestres y ordenamiento 
+territorial; a la promoción científica y tecnológica; a la realización de seminarios, congresos y talleres de ciencia y 
+tecnología, así como a la promoción y gestión de sistemas de calidad total y de evaluación tecnológica” 
+2. 
+OBJETIVO 
+General 
+ 
+Conformar un banco de proyectos elegibles para apoyar la implementación y/o acreditación de servicios de calibración o de 
+ensayo en los departamentos priorizados, a través del fortalecimiento de las capacidades metrológicas de los laboratorios, 
+con el propósito de contribuir a la mejora de la productividad y competitividad en el país. 
+ 
+Específicos 
+ 
+1. Apoyar laboratorios que requieran la implementación de nuevos servicios de calibración o de ensayo bajo la norma 
+ISO/IEC 17025:2017 con el propósito de mejorar la oferta de servicios en los departamentos priorizados. 
+ 
+2. Impulsar procesos de acreditación o ampliación del alcance de la acreditación bajo la norma ISO/IEC 17025:2017 en los 
+laboratorios de calibración o de ensayo, con el propósito de asegurar la calidad de los servicios en los departamentos 
+priorizados. 
+ 
+3. Promover la articulación de la oferta de servicios de laboratorios de calibración o de ensayo con las necesidades de las 
+apuestas productivas en los departamentos priorizados, con el fin de fortalecer la productividad y la mejora de la 
+competitividad del país.  
+3. 
+DIRIGIDA A 
+ 
+Instituciones de educación superior, centros de investigación y/o desarrollo tecnológico, personas jurídicas y demás 
+organizaciones que presten servicios de calibración o de ensayo, públicos o privados, que requieran fortalecer sus 
+capacidades metrológicas y se encuentren interesadas en implementar, acreditar y/o ampliar el alcance de la acreditación 
+para la prestación de servicios en los departamentos priorizados en la presente convocatoria. 
+ 
+Notas:  
+ 
+1. Los proponentes deberán tener experiencia en la prestación de servicios calibración o de ensayo con miras a la 
+implementación bajo la norma ISO/IEC 17025:2017 y podrán contar o no con servicios de calibración o de ensayo 
+acreditados para presentarse a la presente convocatoria.  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 4 de 24  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+2. Los proponentes cuyo domicilio principal sea en Bogotá D.C. y que estén interesados en participar en esta 
+convocatoria, deberán cumplir con lo siguiente: 
+ 
+i. Estar acreditados bajo la norma ISO/IEC 17025. 
+ii. Implementar uno o varios servicios de calibración o de ensayo de acuerdo con los tipos de servicios descritos 
+en los numerales 4.1.2, 4.1.3 y/o 4.1.4, bajo la norma ISO/IEC 17025:2017 en uno o varias apuestas 
+productivas y en uno o varios de los departamentos priorizados en la presente convocatoria, diferentes a su 
+domicilio principal.   
+ 
+3. Como resultado del desarrollo de las propuestas de proyecto los proponentes deberán contar con instalaciones 
+permanentes o móviles que les permitan implementar el o los nuevos servicios en el/los departamento(s) 
+priorizado(s) seleccionado(s). 
+ 
+4. Los proponentes deberán seleccionar uno o varios tipos de servicios, uno o varias apuestas productivas y uno o 
+varios departamentos priorizados descritos en la presente convocatoria.  
+ 
+5. Dentro de las estrategias de sostenibilidad el proponente deberá garantizar la prestación del servicio, un (1) año 
+después de terminar la ejecución del proyecto. 
+ 
+6. La acreditación de servicios que se financiará en el marco de la presente convocatoria, se deberá realizar ante el 
+ONAC u otro organismo reconocido por la Cooperación Internacional de Acreditación de Laboratorios (ILAC, de 
+sus siglas en inglés) y estas actividades deberán desarrollarse en el tiempo de ejecución de la propuesta de 
+proyecto.  
+4. 
+ALCANCE  
+ 
+Este numeral está orientado a dar lineamientos a los proponentes, para que inicien la construcción de la propuesta de 
+proyecto, la cual debe estar encaminada a lograr la implementación, acreditación o ampliación del alcance de la 
+acreditación de nuevos servicios, bajo los lineamientos de la norma ISO/IEC 17025:2017. Dentro de la propuesta el 
+proponente deberá incluir los siguientes puntos: 
+ 
+4.1. Tipos de servicios:  
+ 
+La prestación de servicios en el(los) departamento(s) priorizado(s) deberá concordar con las necesidades de las apuestas 
+productivas, en especial con el cumplimiento de los requisitos de calidad del servicio. En este sentido, las propuestas de 
+proyecto deberán aportar soluciones en los siguientes tipos de servicios, para esto el proponente deberá seleccionar uno o 
+varios tipos de servicios para desarrollar su propuesta de proyecto, así:  
+ 
+4.1.1. 
+Servicio convencional: está enfocado a los servicios de calibración o de ensayo, que tendrá que implementar 
+y acreditar el laboratorio para ser ofrecidos a las apuestas productivas en algún(os) de lo(s) departamento(s) 
+priorizado(s) en la presente convocatoria. Este tipo de servicio incluye servicios de medición de tipo físico, 
+químico y biológico.  Por ejemplo: diseño, implementación y/o acreditación de servicios de ensayo para 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 5 de 24  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+determinación de acidez total del aceite extraído, humedad, contenido de aceite, contenido de cenizas, para 
+coco según Codex Stan2 177-1991 para ofrecer el nuevo servicio en los departamentos de Nariño y Córdoba. 
+4.1.2. 
+Sistemas de calibración portátiles: se relaciona con la implementación de esquemas de transporte de 
+patrones de medición para prestar servicios de calibración ya acreditados en sitio a las apuestas productivas 
+en los departamentos priorizados, a través de la implementación de conceptos novedosos y/o tecnologías 
+elaboradas con este propósito. Por ejemplo: desarrollo e implementación de una aplicación (versión 
+Android/IOS) que oferte el servicio y permita sincronizar y optimizar los tiempos y procesos de logística 
+(recolección, transporte y entrega) del laboratorio que requiere el servicio de calibración, el transportador del 
+equipamiento y el usuario final (entidad que requiere del servicio), en los departamentos priorizados. 
+4.1.3. 
+Campañas de prestación de servicio de calibración: se relaciona con la implementación de esquemas de 
+servicio que permitan la prestación de servicios ya acreditados que respondan a las necesidades de las 
+apuestas productivas en los departamentos priorizados, reduciendo costos, facilitando el acceso a la industria 
+y a los servicios que tradicionalmente se encuentran centralizados en las grandes ciudades. Por ejemplo: 
+desarrollo e implementación de esquemas para la prestación de servicios que incluya diseños logísticos de 
+operaciones, en donde se puede incluir las rutas, tiempos, cantidad de puntos de atención, selección de 
+entidad que transportará el equipamiento, diseño de protocolo de transporte, personal que prestará el servicio, 
+método para entregar la información del resultado de la calibración en los departamentos priorizados. 
+4.1.4. 
+Estrategia de innovación para servicios en laboratorios de ensayo: se relaciona con la introducción de 
+una nueva estrategia organizativa o de una nueva estrategia de comercialización de los servicios de ensayo, 
+que permita reducir los costos y que facilite el acceso a los servicios de ensayo para las apuestas productivas, 
+en los departamentos priorizados descritos en la presente convocatoria. Por ejemplo: dispositivos portátiles de 
+mano para monitorear la calidad del aguacate hass en el cultivo de los departamentos de Caldas, Quindío y 
+Risaralda.  
+4.2. Apuestas Productivas:  
+ 
+Para seleccionar las apuestas productivas de la presente convocatoria se tomó como insumo la información de las Apuestas 
+Productivas priorizadas en el marco de las Agendas Departamentales de Competitividad e Innovación-ADCI y las Apuestas 
+Productivas Departamentales de Colombia Productiva, lo cual permitió identificar las actividades económicas que tienen 
+mayor nivel de relevancia para las regiones y cuales requerían de servicios de la infraestructura de la calidad en temas de 
+metrología. De acuerdo con lo anterior se identificaron en el país cincuenta (50) Apuestas productivas priorizadas, las 
+cuales guardan correspondencia con las clases de la Clasificación Industrial Internacional Uniforme CIIU3 Rev 44. Para esto 
+los proponentes deberán seleccionar una o varias apuestas productivas de la siguiente tabla: 
+ 
+2 El Codex Alimentarius es una colección de normas, códigos de práctica, directrices y otras recomendaciones internacionalmente reconocidas relacionadas con 
+los alimentos, la producción de alimentos y la inocuidad de los alimentos. 
+3 Hace referencia a la clasificación uniforme  de las actividades económicas por procesos productivos  
+4 Es una clasificación de actividades económicas por procesos productivos que clasifica unidades estadísticas con base en su actividad económica principal. Su propósito 
+es ofrecer un conjunto de categorías de actividades que se pueda utilizar para la reunión, análisis y presentación de estadísticas de acuerdo con esas actividades. La 
+Resolución 0549 de 2020. "Por la cual se modifica la Clasificación Industrial Internacional Uniforme de todas las actividades económicas adaptada para Colombia — CIIU 
+Rev. 4 A.C. y se dictan otras disposiciones". 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 6 de 24  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+ 
+# 
+Descripción CIIU Rev. 4 a 2 Dígitos 
+Apuestas Productivas 
+1 
+Agricultura, ganadería, caza y actividades de servicios 
+conexas  
+Cultivo de frutas tropicales y subtropicales 
+Cultivo de plátano y banano 
+Cultivo de café 
+Cultivo de palma para aceite (palma africana) y otros frutos 
+oleaginosos 
+Cultivo de plantas con las que se preparan bebidas 
+2 
+Pesca y acuicultura 
+Pesca marítima  
+3 
+Extracción de minerales metalíferos 
+Minería 
+4 
+Elaboración de productos alimenticios 
+Procesamiento y conservación de carne y productos cárnicos 
+Procesamiento y conservación de pescados, crustáceos y 
+moluscos 
+Procesamiento y conservación de frutas, legumbres, hortalizas y 
+tubérculos 
+Elaboración de aceites y grasas de origen vegetal y animal 
+Elaboración de productos lácteos 
+Trilla de café 
+Descafeinado, tostión y molienda del café 
+Otros derivados del café 
+Elaboración de productos de panadería 
+Elaboración de cacao, chocolate y productos de confitería 
+Elaboración de otros productos alimenticios n.c.p. 
+5 
+Fabricación de productos textiles 
+Fabricación de tejidos de punto y ganchillo 
+Fabricación de otros artículos textiles n.c.p. 
+6 
+Confección de prendas de vestir 
+Confección de prendas de vestir, excepto prendas de piel 
+Fabricación de artículos de punto y ganchillo 
+7 
+Curtido y recurtido de cueros; fabricación de calzado; 
+fabricación de artículos de viaje, maletas, bolsos de mano 
+y artículos similares, y fabricación de artículos de 
+talabartería y guarnicionería; adobo y teñido de pieles 
+Fabricación de artículos de viaje, bolsos de mano y artículos 
+similares elaborados en cuero, y fabricación de artículos de 
+talabartería y guarnicionería 
+ 
+Fabricación de calzado de cuero y piel, con cualquier tipo de suela   
+Fabricación de otros tipos de calzado, excepto calzado de cuero y 
+piel 
+ 
+Fabricación de partes del calzado 
+ 
+8 
+Coquización, fabricación de productos de la refinación del 
+petróleo y actividad de mezcla de combustibles 
+Extracción de petróleo y gas 
+ 
+9 
+Fabricación de sustancias y productos químicos 
+Fabricación de sustancias y productos químicos básicos 
+ 
+Fabricación de abonos y compuestos inorgánicos nitrogenados 
+ 
+Fabricación de plásticos en formas primarias 
+ 
+Fabricación de plaguicidas y otros productos químicos de uso 
+agropecuario 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 7 de 24  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+# 
+Descripción CIIU Rev. 4 a 2 Dígitos 
+Apuestas Productivas 
+Fabricación de pinturas, barnices y revestimientos similares, tintas 
+para impresión y masillas 
+ 
+Fabricación de jabones y detergentes, preparados para limpiar y 
+pulir; perfumes y preparados de tocador 
+ 
+Fabricación de otros productos químicos n.c.p. 
+ 
+10 
+Fabricación de productos farmacéuticos, sustancias 
+químicas medicinales y productos botánicos de uso 
+farmacéutico 
+Fabricación de productos farmacéuticos, sustancias químicas 
+medicinales y productos botánicos de uso farmacéutico 
+ 
+11 
+Fabricación de productos de caucho y de plástico 
+Fabricación de formas básicas de plástico 
+ 
+Fabricación de artículos de plástico n.c.p. 
+ 
+12 
+Fabricación de otros productos minerales no metálicos 
+Fabricación de vidrio y productos de vidrio 
+ 
+Fabricación de productos refractarios 
+ 
+Fabricación de materiales de arcilla para la construcción 
+ 
+Fabricación de artículos de hormigón, cemento y yeso 
+ 
+13 
+Fabricación de productos elaborados de metal, excepto 
+maquinaria y equipo 
+Fabricación de productos metálicos para uso estructural 
+ 
+Fabricación de otros productos elaborados de metal n.c.p. 
+ 
+14 
+Fabricación de maquinaria y equipo n.c.p. 
+Fabricación de maquinaria agropecuaria y forestal  
+ 
+Fabricación de maquinaria para la elaboración de alimentos, 
+bebidas y tabaco 
+ 
+15 
+Fabricación de vehículos automotores, remolques y 
+semirremolques 
+Fabricación de vehículos automotores y sus motores 
+ 
+Fabricación de carrocerías para vehículos automotores; fabricación 
+de remolques y semirremolques 
+ 
+Fabricación de partes, piezas (autopartes) y accesorios (lujos) para 
+vehículos automotores 
+ 
+16 
+Fabricación de otros tipos de equipo de transporte 
+Construcción de barcos y de estructuras flotantes 
+ 
+Fabricación de motocicletas 
+ 
+ 
+Por otra parte, se realizó una correspondencia entre las apuestas productivas en términos de la Clasificación Industrial 
+Internacional Uniforme a 2 dígitos con la clasificación de áreas de acreditación que realiza el Organismo Nacional de 
+Acreditación de Colombia (ONAC), lo que permitió establecer que existen laboratorios que prestan servicios de calibración o 
+de ensayo para las apuestas productivas descritas en la presente convocatoria.   
+ 
+4.3. Departamentos Priorizados:  
+ 
+El Informe Nacional de Competitividad 2019-20205, relaciona el indicador de sofisticación y diversificación, el cual indica que 
+el aparato productivo de los departamentos, listados en la tabla, presentan un nivel de complejidad que sugiere la existencia 
+de actividades económicas las cuales generan un mínimo de demanda de servicios de calibración o de ensayo.  Para esto 
+los proponentes deberán seleccionar una o varios departamentos de la siguiente tabla: 
+ 
+ 
+5 La visión del Sistema Nacional de Competitividad está completamente ligada al desarrollo a nivel territorial. La Agenda Nacional de Competitividad tiene como uno de 
+sus pilares el Desarrollo Productivo Regional y la competitividad a nivel subnacional. En ese contexto, es importante que las acciones del Gobierno Nacional promuevan 
+una visión integrada y sistémica, sin desconocer las particularidades de cada región y promoviendo sus fortalezas.. http://www.colombiacompetitiva.gov.co/snci/agendas-
+departamentales-de-competitividad/apuestas-productivas-departamentales.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 8 de 24  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+# 
+Departamentos  
+1 
+Antioquia 
+2 
+Atlántico 
+3 
+Bolívar 
+4 
+Boyacá 
+5 
+Caldas 
+6 
+Caquetá 
+7 
+Cauca 
+8 
+Cesar 
+9 
+Chocó 
+10 
+Córdoba 
+11 
+Cundinamarca 
+12 
+Huila 
+13 
+La Guajira 
+14 
+Magdalena 
+15 
+Meta 
+16 
+Nariño 
+17 
+Norte de Santander 
+18 
+Putumayo 
+19 
+Quindío 
+20 
+Risaralda 
+21 
+Santander 
+22 
+Sucre 
+23 
+Tolima 
+24 
+Valle del Cauca 
+ 
+Nota: En caso de que el proponente solo pueda realizar la implementación del servicio y no haya solicitado dentro de su 
+propuesta de proyecto la acreditación de este, esta deberá contemplar actividades, que incluyan la participación en un 
+ensayo de aptitud durante la ejecución del proyecto.  
+5. CONCEPTOS 
+ 
+1. Implementación: todas las actividades previas relacionadas con la oferta de un nuevo servicio, las cuales pueden 
+incluir: desarrollo, validación o verificación, documentación del servicio bajo los lineamientos 17025:2017, 
+participación en ensayos de aptitud, entrenamiento de personal, entre otras. 
+ 
+2. Empresa: personas jurídicas que realice actividad económica organizada para la producción, transformación, 
+circulación, administración o custodia de bienes, o para la prestación de servicios. Así mismo, hace referencia a 
+aquellas organizaciones pequeñas, medianas y grandes que tengan adscrito o no, uno o varios laboratorios de 
+calibración o de ensayos, los cuales pueden estar acreditados o no.   
+ 
+3. Laboratorio: Instituciones de educación superior, centros de investigación y/o desarrollo tecnológico, personas 
+jurídicas y demás organizaciones que presten servicios de calibración o de ensayo, públicos o privados, que realiza 
+una o más de las siguientes actividades: ensayos, calibración, muestreo, asociado con el subsiguiente ensayo o 
+calibración. 
+ 
+4. Proyecto: es un esfuerzo temporal que se lleva a cabo para crear un producto, servicio o resultado único. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 9 de 24  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+5. Proponente: es un laboratorio que presta servicios de calibración o de ensayos públicos o privados quien presenta 
+una propuesta de proyecto en el marco de la presente convocatoria y en caso de quedar elegible se apoya 
+económicamente para que ejecute este.  
+ 
+6. Norma ISO/ IEC 17025:2017: establece los requisitos a cumplir para acreditar la competencia de los laboratorios 
+de ensayo y calibración. 
+ 
+7. SICAL: es el Subsistema Nacional de Calidad, el cual reúne y articula a las entidades públicas y privadas que 
+desarrollan actividades para mejorar la calidad y seguridad de los productos que están en el mercado para el bien 
+de los colombianos. 
+ 
+8. ONAC: Organismo Nacional de Acreditación de Colombia, que presta el servicio de acreditación a los organismos 
+de evaluación de la conformidad, contribuyendo así al desarrollo de Colombia.  
+ 
+9. ILAC: Cooperación Internacional de Acreditación de Laboratorios (siglas en ingles International Laboratory 
+Accreditation Cooperation), es la autoridad internacional en la acreditación de laboratorios y de organismos de 
+inspección que está constituida por organismos de acreditación y organizaciones interesadas de todo el mundo.  
+ 
+10. Acreditación: es un reconocimiento formal de la competencia del laboratorio y, como tal, brinda a los clientes un 
+medio para acceder a servicios de calibración y ensayo confiables. 
+ 
+11. Alcance de la acreditación: es el proceso por el cual el laboratorio solicita al ente acreditador incluir nuevos 
+parámetros de análisis, debido a que se han mejorado metodologías de ensayos y rangos de cuantificación que 
+permitirán ampliar las capacidades del laboratorio. 
+ 
+12. Solicitud de acreditación: tramite que debe adelantar el laboratorio para obtener la acreditación que representa el 
+reconocimiento formal para emitir resultados fiables.  
+ 
+13. Ensayos de aptitud: son una herramienta de aseguramiento de la calidad que permite a los laboratorios comparar 
+su desempeño con otros, detectar tendencias y, por lo tanto, tomar cualquier acción preventiva o correctiva que 
+sea necesaria para asegurar su competencia técnica y mejora continua. 
+ 
+14. Infraestructura básica: hace referencia a instalaciones permanentes y móviles, adecuadas para prestar el servicio 
+en una o varios de los departamentos priorizados en la presente convocatoria.  
+ 
+15. Campaña de prestación de servicios calibración: Periodo de tiempo o temporada en la que se prestan servicios 
+de calibración en un sitio o zona siguiendo una programación y los esquemas lógicos de la investigación 
+operacional para optimizar los tiempos, movimientos y uso de patrones, garantizando la menor afectación y el 
+estado de calibración de los mismos. 
+6. REQUISITOS 
+ 
+6.1. Ajustarse al tipo de proponente especificado en el numeral 3 DIRIGIDA A, definido en los presentes términos de 
+referencia. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 10 de 24  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+6.2. Estar legalmente constituido en Colombia con un tiempo no inferior a doce (12) meses a la fecha de cierre de la 
+convocatoria. 
+ 
+6.3. Inscripción de la propuesta de proyecto en el Sistema integrado de Gestión de Proyectos de MINCIENCIAS – SIGP a 
+través del formulario electrónico disponible en el portal de MINCIENCIAS (https://minciencias.gov.co/scienti), de 
+acuerdo con lo estipulado en el numeral 9. CONTENIDOS DE LA PROPUESTA DEL PROYECTO. Ver Anexo 4.  
+ 
+6.4. Adjuntar la carta unificada de aval que se encuentra en el Anexo 1. Carta de aval y compromiso institucional, 
+debidamente firmada por el representante legal o quien haga sus veces en la entidad participante. En caso de que no 
+firme el representante legal, se debe anexar el documento de delegación. 
+ 
+6.5. Adjuntar el portafolio de servicios prestados por el proponente de acuerdo con el Anexo 2. Portafolio de Servicios. En 
+este se deberá evidenciar: la misión, visión, público objetivo al que van dirigidos sus servicios, indicadores de entidades 
+que atienden al año, los servicios acreditados o no acreditados, tiempo de experiencia prestando el servicio, la(s) 
+apuesta(s) productiva(s) atendida(s) y el(los) departamento(s) para el cual presta el servicio.  Este documento deberá 
+estar debidamente firmado por el representante legal o quien haga sus veces en la entidad proponente. 
+ 
+6.6. Para el caso de las personas jurídicas o demás organizaciones de carácter privado, estas deberán presentar 
+certificación expedida y firmada por contador o revisor fiscal (según sea el caso), quien deberá anexar copia de la 
+tarjeta profesional, donde se certifique los siguientes indicadores correspondientes al año fiscal 2019 para al menos una 
+de las siguientes dos opciones:  
+ 
+a) Opción uno:  
+ 
+- Utilidad Neta ≥ 0 
+ 
+- El índice de liquidez: LIQ. = AC / PC ≥ 1 
+ 
+Donde,  
+LIQ. = Índice de liquidez.  
+AC = Activo corriente.  
+PC = Pasivo corriente.  
+ 
+b) Opción dos:  
+ 
+- El nivel de endeudamiento: NE = PT / AT ≤ 0,7 
+ 
+Donde,  
+NE = Nivel de endeudamiento.  
+PT = Pasivo total.  
+AT = Activo total.  
+ 
+- La Relación Deuda Financiera DF= (CP+LP) / EBTIDA es ≤ 3,5 
+ 
+Dónde,  
+DF = Deuda financiera  
+CP = Pasivos a Corto plazo  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 11 de 24  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+LP = Pasivos a Largo Plazo  
+EBTIDA: Utilidad Neta + Impuestos - Ingresos No Operacionales + Egresos  
+No Operacionales + Depreciaciones y Amortizaciones. 
+ 
+6.7. Anexar hoja de vida del gerente o director del proyecto, quien ejercerá funciones de gestión y coordinación de las 
+acciones requeridas para fortalecer las capacidades metrológicas implementando uno o varios servicios, en la(s) 
+apuesta(s) productiva(s), en el(los) departamento(s) seleccionado(s) y facilitar la incursión de procesos de calidad en la 
+entidad de acuerdo con la norma ISO/IEC 17025:2017. Esta hoja de vida debe ser allegada de acuerdo con el Anexo 3. 
+Hoja de Vida Gerente o Director del Proyecto. Este documento deberá venir firmado por la persona que ejercerá 
+dichas funciones.  
+ 
+6.8. Realizar el autodiagnóstico de innovación en http://pactosporlainnovacion.minciencias.gov.co por al menos una persona 
+de la organización. Este requisito será validado mediante el Certificado de firma del autodiagnóstico de la organización 
+cuyos pasos se encuentran en pie de página6. 
+ 
+Mecanismo del proceso de ajuste de requisitos: 
+ 
+i 
+Surtido el proceso de revisión de requisitos, MINCIENCIAS habilitará el aplicativo SIGP a las postulaciones que se 
+consideran debe ajustar algún(os) requisito(s) para poder continuar con el proceso. 
+ 
+ii 
+El documento que debe ser subsanado tendrá la frase “No cumple” y a su lado la respectiva observación con los 
+motivos del incumplimiento en el SIGP. 
+ 
+iii Los postulantes deberán adjuntar al aplicativo el o los documento(s) corregido(s) durante el periodo establecido por 
+MINCIENCIAS en el numeral 16. CRONOGRAMA. 
+ 
+iv MINCIENCIAS, dando cumplimiento a lo indicado en el numeral 5 del artículo 4 de la Ley 1286 de 2009, y 
+garantizando los principios del mérito y la calidad, establece el periodo de ajuste de requisitos en el SIGP, que se 
+realizará en la actividad señalada en el numeral 16. CRONOGRAMA presentado en este documento. 
+ 
+Notas:  
+ 
+1. El proponente debe seleccionar uno o varios tipos de servicios, una o varias apuestas productivas y uno o varios 
+departamentos priorizados en la presente convocatoria, para formular su propuesta de proyecto.  
+ 
+2. MINCIENCIAS podrá solicitar en cualquier momento información y documentación adicional, complementaria o 
+aclaraciones de los documentos entregados. 
+ 
+3. No se recibirán proyectos en físico ni por otro medio diferente al mencionado. Los proyectos que no cumplan con 
+los requisitos antes enunciados no podrán participar en el proceso de selección para ser incorporados al Banco de 
+Elegibles.  
+ 
+ 
+6 Pasos: 1) Ingrese a la link http://pactosporlainnovacion.minciencias.gov.co/registro-organizacion/ ;  2)Registrarse; 3) Inicie sesión; 4) Complete el autodiagnóstico; 5) Dar 
+clic en “Guardar y terminar”; 6) Dar clic en la parte superior derecha “Mi Cuenta”; 7) En el menú desplegable clic en “Certificado de Firma”; 8) Para descargar clic en el 
+icono PDF en la parte superior derecha. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 12 de 24  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+4. Se aceptarán firmas electrónicas o digitales de los representantes legales en los documentos que requieran ser 
+suscritos por parte de estos. 
+ 
+5. Los proponentes podrán incluir como mínimo la implementación y/o acreditación o ampliación del alcance de 
+acreditación de un servicio de calibración o ensayo. 
+ 
+6. Las Instituciones de educación superior, centros de investigación y/o desarrollo, personas jurídicas o demás 
+organizaciones que presten servicios de calibración o de ensayo, que tengan adscrito más de un laboratorio solo 
+podrán presentar hasta máximo cinco (5) propuestas en el marco de la presente convocatoria.  Si se llegara a 
+presentar el caso que un participante se postule con más de cinco (5) propuestas con diferentes laboratorios 
+adscritos a su organización, se seleccionaran las primeras cinco (5) propuestas inscritas en el Sistema Integrado 
+de Gestión de Proyectos de MINCIENCIAS – SIGP. 
+7. CONDICIONES INHABILITANTES. 
+ 
+7.1. No cumplir cabalmente con el numeral 6 REQUISITOS de la presente convocatoria. 
+ 
+7.2. No estar incurso en ninguna de las causales de inhabilidad e Incompatibilidad establecidas en la Constitución, en ley, 
+Reglamentos. 
+ 
+7.3. Presentar una propuesta de proyecto que relaciona actividades que están siendo financiadas parcial o totalmente, por 
+otra convocatoria, con recursos de MINCIENCIAS u otras entidades del Estado.  
+ 
+7.4. Estar reportado en el último Boletín de Responsables Fiscales expedido por la Contraloría General de la República. 
+ 
+7.5. Estar incurso en causales de disolución o liquidación.  
+ 
+7.6. Presentar más de una (1) propuesta de proyecto con el mismo gerente o director de proyectos. En caso de ocurrencia 
+se tendrá en cuenta la primera propuesta radicada en el SIGP. 
+8. DURACIÓN Y FINANCIACIÓN 
+8.1. Duración:  
+El término de duración de los proyectos a financiar será de hasta (12) meses contados a partir de la suscripción del acta de 
+inicio de proyecto.  
+8.2. Financiación:  
+ 
+Para la presente convocatoria se cuenta con una disponibilidad presupuestal de TRES MIL SEISCIENTOS CUARENTA Y 
+UN MILLONES NOVECIENTOS TREINTA Y UN MIL PESOS M/CTE ($3.641.931.000) de acuerdo con los CDR Globales 
+No. 15757-2020, 15233-2020 y 15251-2020.  Del total de los recursos anteriormente descritos se reserva un 10% para 
+gastos de evaluación, administración y seguimiento de la misma, sin perjuicio de que los recursos que no se utilicen en el 
+proceso de evaluación, vuelvan a hacer parte del disponible para la financiación de proyectos. 
+Cada uno de los proyectos podrá solicitar un valor máximo de financiación de DOSCIENTOS MILLONES DE PESOS 
+M/CTE ($200.000.000) de acuerdo con sus requerimientos particulares y a las actividades a realizar.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 13 de 24  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+La entidad ejecutora deberá aportar una contrapartida en dinero y/o especie por un monto mínimo equivalente al 30% del 
+valor total de la propuesta del proyecto. Esta contrapartida debe quedar definida y soportada mediante Anexo 1. Carta 
+de aval y compromiso institucional.  
+Notas:  
+1. La financiación será por un monto máximo equivalente hasta del 70% del valor total de la propuesta del proyecto.  
+2. El valor total del proyecto corresponderá al valor de financiación solicitado, más el valor de contrapartida aportado por 
+la entidad ejecutora del proyecto. 
+3. Para la asignación de los recursos se tendrá en cuenta la disponibilidad presupuestal para la financiación y la 
+asignación del mismo se hará de acuerdo con lo establecido en el numeral 14. BANCO DE ELEGIBLES. 
+4. Los Centros Autónomos o Institutos Públicos de Investigación y Desarrollo Tecnológico reconocidos por 
+MINCIENCIAS que presenten propuesta de proyecto en el marco de la presente convocatoria, no están obligados a 
+realizar aportes de contrapartida, con base en lo definido en el numeral 8.2.2 Financiación, del documento 1602 
+Política de actores de CTeI. 
+5. Las Instituciones de educación superior, centros de investigación y/o desarrollo, personas jurídicas o demás 
+organizaciones que presten servicios de calibración o de ensayo, que tengan adscrito más de un laboratorio solo 
+podrán presentar hasta máximo cinco (5) propuestas en el marco de la presente convocatoria.  Si se llegara a 
+presentar el caso que un participante se postule con más de cinco (5) propuestas con diferentes laboratorios adscritos 
+a su organización, se seleccionaran las primeras cinco (5) propuestas inscritas en el Sistema integrado de Gestión de 
+Proyectos de MINCIENCIAS – SIGP. 
+6. Los proponentes que tengan adscritos más de un laboratorio podrán presentar sus propuestas de proyectos en el 
+marco de la presente convocatoria. Si se llegara a presentar el caso que un proponente cuente con más de tres (3) 
+propuestas elegibles, se financiarán máximo tres (3) propuestas, que serán las que presenten los mayores puntajes.  
+7. Los costos de formulación y estructuración de la propuesta serán responsabilidad del proponente y en ningún caso se 
+financiarán o serán responsabilidad de MINCIENCIAS o del INM. 
+8. Las propuestas presentadas deben aprovechar y no duplicar la capacidad científica, tecnológica e innovación nacional 
+y departamental existente. 
+9. 
+CONTENIDOS DE LA PROPUESTA DEL PROYECTO 
+ 
+El contenido de la propuesta de proyecto debe contemplar lo siguiente:  
+ 
+9.1. Contenido técnico de la propuesta del proyecto: 
+ 
+Los proyectos participantes en la presente convocatoria deberán presentar una propuesta de proyecto que contenga cada 
+uno de los ítems señalados a continuación: 
+ 
+• 
+Título  
+• 
+Tipo de servicio 
+• 
+Apuestas productivas 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 14 de 24  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+• 
+Departamentos priorizados  
+• 
+Palabras claves 
+• 
+Duración 
+• 
+Domicilio principal 
+• 
+Monto solicitado  
+• 
+Resumen Ejecutivo 
+• 
+Identificación y descripción del problema o necesidad  
+• 
+Justificación del proyecto 
+• 
+Objetivos del proyecto  
+• 
+Metodología propuesta 
+• 
+Plan de trabajo detallado  
+• 
+Riesgos del Proyecto 
+• 
+Sostenibilidad 
+• 
+Resultados o productos esperados, entregables e indicadores.  
+• 
+Impactos del proyecto (se incluyan los ambientales)  
+• 
+Divulgación de los resultados 
+• 
+Idoneidad y trayectoria del proponente 
+• 
+Aspectos éticos 
+• 
+Bibliografía  
+• 
+Cronograma 
+• 
+Personal  
+• 
+Presupuesto  
+ 
+Nota: en el Anexo 4. Contenido Técnico de la Propuesta de Proyecto se dispone del detalle de lo cual puede contener 
+cada uno de los ítems anteriormente relacionados.  
+ 
+9.2. Presupuestal 
+ 
+El presupuesto de cada propuesta de proyecto deberá estar acorde con las actividades, este deberá presentarse 
+discriminado por rubros de acuerdo con los lineamientos de los rubros financiables y no financiables descritos en el Anexo 
+5. Rubros Financiables y No Financiables.  
+ 
+Rubros financiables con recursos de cofinanciación 
+ 
+• 
+Personal 
+• 
+Materiales e insumos  
+• 
+Adquisición de equipos 
+• 
+Servicios tecnológicos  
+• 
+Consultoría especializada  
+• 
+Capacitación 
+• 
+Alquiler de equipos 
+• 
+Software 
+• 
+Difusión de resultados 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 15 de 24  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+• 
+Bibliografía  
+• 
+Acreditación 
+• 
+Gastos de Viaje 
+• 
+Gastos de Administración 
+ 
+Rubros no financiables: 
+ 
+No se aportarán recursos de esta convocatoria ni recursos de la contrapartida, para las siguientes acciones: 
+ 
+• 
+Capital de trabajo para la producción corriente. 
+• 
+Compra de lotes, construcciones, adecuación de infraestructura física. 
+• 
+Pagos de deudas, dividendos o recuperaciones de capital. 
+• 
+Inversiones en otras entidades y/o empresas. 
+• 
+Compra de acciones, derechos de empresas, bonos y otros valores mobiliarios. 
+• 
+Pago de regalías e impuestos causados en el desarrollo del proyecto a excepción de los impuestos, tasas, 
+contribuciones y gravámenes que se causen por la adquisición de bienes muebles y servicios, necesarios 
+para la ejecución del proyecto, incluido el gravamen a los movimientos financieros, los cuales podrán ser 
+causados con los recursos de Contrapartida. 
+• 
+Matriculas para formación de alto nivel (maestría y doctorado). 
+• 
+Gastos de legalización del contrato o gastos asociados. 
+• 
+Diagnósticos, así como estudios sectoriales, locales, regionales, nacionales o de tecnologías. 
+ 
+Notas:  
+ 
+1. Con los recursos financiados del proyecto se podrán cubrir los costos asociados a la solicitud de acreditación ante el 
+ONAC u otro organismo reconocido por la ILAC.  
+ 
+2. No se financiarán rubros con recursos de esta convocatoria que correspondan a actividades ejecutadas en el marco 
+de proyectos apoyados con recursos públicos de otras convocatorias de entidades públicas en los últimos dos (2) 
+años.  
+ 
+3. No se aceptarán cubrir con recursos de financiación, el mantenimiento de equipos, seguros, membresías a 
+sociedades científicas, suscripción a revistas científicas e impuestos. Ver Anexo 5. Rubros Financiables y No 
+Financiables.  
+ 
+4. En caso de solicitar apoyo en la financiación de los rubros Servicios tecnológicos, Capacitación, Consultoría 
+especializada y Materiales e Insumos, la sumatoria de estos no podrá superar el 40% del total de la financiación del 
+proyecto, sin embargo, el resto podrá ser asumido con recursos de contrapartida.  
+ 
+5. El presupuesto para el pago de personal científico y de apoyo, incluyendo al gerente o directo del proyecto no podrá 
+exceder el 40% del monto total solicitado. Sin embargo, el resto podrá ser asumido con recursos de contrapartida. 
+Así mismo, los honorarios individuales no deberán exceder los topes establecidos en la Resolución 000426 del 9 de 
+junio de 2014.  
+ 
+6. El personal que sea beneficiario actual de programas financiados por MINCIENCIAS podrá ser vinculado a las 
+actividades investigativas previstas para la ejecución del proyecto, mas no como un producto esperado del mismo y 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 16 de 24  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+en ningún caso dicho personal podrá ser financiado al mismo tiempo con los recursos provenientes de 
+MINCIENCIAS asignados a esta convocatoria. 
+ 
+7. Los recursos asignados para la difusión de los resultados del proyecto deben ser ejecutados exclusivamente en 
+estas destinaciones. 
+ 
+8. Todo cambio de rubro debe ser solicitado ante MINCIENCIAS para su revisión y aprobación, este no podrá superar 
+el 20% del valor total del rubro destino. Cada solicitud puede incluir varios cambios de rubro y podrán ser requeridas 
+siempre y cuando no comprometan los resultados esperados de la propuesta de proyecto. 
+10. PROCEDIMIENTO DE INSCRIPCIÓN 
+ 
+10.1. Ingresar a la página web de MINCIENCIAS (www.minciencias.gov.co). 
+ 
+10.2. Ingresar al menú ubicado en la parte superior de la página web – SCIENTI Y SIGP, donde se despliega Sistemas de 
+Información- Plataforma SIGP. Allí encontrará disponibles los diferentes formularios en línea para aplicar a las 
+convocatorias de MINCIENCIAS (https://minciencias.gov.co/scienti). 
+ 
+10.3. Hacer clic en la opción Formulario en línea para registro de entidades ubicado en la parte derecha, 
+https://plataformasigp.minciencias.gov.co:7003/Entidades/  En caso de haberla registrado previamente, continuar con 
+el paso número 10.5.  
+ 
+10.4. Realizar el pre-registro de las entidades participantes en el proyecto con la información solicitada. MINCIENCIAS en 
+un periodo de dos (2) días hábiles remitirá a su correo electrónico de contacto las credenciales de acceso para el 
+ingreso al sistema de registro de entidades, solo si la entidad fue avalada, de lo contrario el sistema enviará un 
+correo informando que la entidad fue rechazada y la razón del rechazo. 
+ 
+10.5. Ingresar al módulo de entidades con sus credenciales y registrar la información de la entidad ejecutora y entidades 
+participantes en el proyecto. En caso de encontrarse registradas las entidades en este sistema, no se requiere de un 
+nuevo registro, sin embargo, podrá actualizar la información. 
+ 
+10.6. Una vez finalizado el registro de la entidad, ingresar al link de Formulario de Proyectos y/o programas: 
+https://plataformasigp.minciencias.gov.co:7003/FormularioProyectos/ 
+ 
+10.7. Diligenciar la información solicitada por el formulario en línea para la presentación de las propuestas de proyectos a 
+la convocatoria. Para recibir las credenciales de acceso por correo electrónico deberá registrar como mínimo el título 
+del proyecto, la entidad ejecutora, convocatoria y correo electrónico.  
+ 
+10.8. Debe adjuntar la totalidad de los documentos que soportan los requisitos. Si para un requisito requiere anexar más 
+de un documento, guárdelos en una sola carpeta y adjúntela como archivo comprimido .ZIP o .RAR en el campo 
+correspondiente al requisito. Si requiere cambiar algún archivo de los que previamente adjuntó, puede hacerlo 
+examinando y adjuntando el documento deseado. Es importante resaltar que el tamaño de cada archivo anexado de 
+cada uno de los requisitos cuenta con una capacidad máxima de 3MB; para el requisito “Otros adjuntos” tiene una 
+capacidad máxima de 10 MB. Toda la documentación requerida deberá presentarse en formato digital PDF. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 17 de 24  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+10.9. Para validar, por favor hacer clic en el botón Validar, ubicado en la parte inferior del menú. Si la información 
+registrada cumple con los criterios solicitados por la convocatoria, la validación será exitosa y se activará la opción 
+de Enviar formulario, en caso contrario se mostrará en pantalla la información que no cumple con los criterios 
+definidos en la convocatoria.  
+ 
+10.10. Una vez se oprime el botón de enviar formulario, el sistema registrará el proyecto y generará su respectivo código del 
+proyecto. 
+ 
+10.11. Una vez haya sido enviado el proyecto, si la convocatoria se encuentra abierta el sistema le permite modificar el 
+proyecto, oprimiendo el botón "Modificar Proyecto", para realizar los cambios que consideren. Al dar clic en la opción 
+"Modificar Proyecto" que está en el menú se muestra una pantalla de confirmación con el siguiente mensaje "¿Está 
+seguro de modificar el proyecto?, una vez confirme esta acción el proyecto ya no estará radicado en MINCIENCIAS. 
+Para volver a radicarlo debe validar y enviar de nuevo el proyecto una vez lo haya modificado." Cabe aclarar 
+que, si no lo vuelve a validar y enviar el proyecto a MINCIENCIAS, este proyecto no quedará radicado 
+oficialmente en MINCIENCIAS y no seguirá a la etapa de revisión de requisitos, así cuente con la pantalla de 
+evidencia de un envío anterior satisfactorio. 
+ 
+10.12. Para realizar seguimiento a la propuesta, deberá ingresar al formulario con el usuario y contraseña enviados 
+mediante el correo electrónico al momento de registrar la propuesta en el sistema, y por el menú de requisitos podrá 
+consultar las observaciones realizadas a los requisitos del proyecto, con el fin de que sean subsanadas por el 
+proponente. 
+ 
+Notas:  
+ 
+1. Se aceptarán únicamente las propuestas de proyectos que se presenten a través del formulario en línea con toda la 
+información solicitada en la presente convocatoria. 
+ 
+2. No se tendrá en cuenta para el proceso de evaluación y selección, la información enviada en medios distintos al 
+SIGP (correo postal, fax, correo electrónico otro), ni posterior a la fecha y hora límite establecida. Excepto cuando 
+sea solicitado directamente por MINCIENCIAS. 
+ 
+3. Si requieren anexar documentación adicional del proyecto como: tablas, fórmulas, gráficas, anexos, cartas, etc., 
+guárdelos en una sola carpeta y adjúntelas como archivo .ZIP o .RAR (archivo comprimido), en el requisito de Otros 
+adjuntos. Si requieren cambiar algún archivo de los que previamente adjuntó, puede hacerlo examinando y 
+adjuntando el documento deseado. 
+ 
+4. En caso que la información suministrada en los anexos no coincida con la del SIGP, solo se tendrá en cuenta la 
+información señalada en el aplicativo SIGP. 
+ 
+5. En caso que se presenten errores en el aplicativo SIGP durante el proceso de inscripción y envío del proyecto o del 
+cargue de la documentación soporte, y por esta razón después de efectuados varios intentos no pueda enviarse el 
+proyecto de forma normal dentro del plazo establecido, por favor capturar las pantallas con el mensaje de error junto 
+con la fecha y hora en que se presentó el inconveniente que soporte el problema. Remitir antes de la fecha de cierre 
+establecida en el Cronograma de los presentes términos de referencia, todas las evidencias de la falla presentada 
+exclusivamente a través del formulario electrónico que se encuentra disponible en el enlace 
+http://www.MinCiencias.gov.co/ciudadano/canal-pqrds, explicando en el cuerpo de dicha comunicación los 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 18 de 24  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+inconvenientes ocurridos durante el envío. MINCIENCIAS por medio de la Oficina de Sistemas verificará el error 
+reportado. 
+11. AUTORIZACION USO DE DATOS PERSONALES 
+ 
+Para todos los efectos legales, la presentación, inscripción o registro de la propuesta de proyecto, de forma inequívoca y 
+exclusivamente para los fines de la presente convocatoria implica obligatoriamente la autorización expresa del titular de 
+información, para el tratamiento de sus datos personales por parte del Ministerio de Ciencias, Tecnología e Innovación – 
+MINCIENCIAS.  
+ 
+Quien presente, inscriba o registre el proyecto como persona natural o jurídica en cuyo nombre se presenta la propuesta 
+declara que ha recibido autorización expresa de todas las personas naturales y jurídicas vinculadas a esta propuesta y a 
+este proyecto, para suministrar las informaciones a que hace referencia la ley de manejo de datos, comprometiéndose a 
+responder ante MINCIENCIAS, por cualquier demanda, litigio presente o eventual, reclamación judicial o extrajudicial, 
+formulada por cualquiera de las personas naturales o jurídicas vinculadas a la propuestas y el proyecto.  
+ 
+PARÁGRAFO: Lo anterior, de conformidad con la Resolución 0451 del 24 de mayo de 2017 por medio de la cual se adopta 
+la Política de Protección y Tratamiento de Datos Personales de la entidad.   
+12. 
+CRITERIOS DE EVALUACIÓN 
+ 
+Las propuestas de proyectos inscritas dentro de los plazos establecidos para la presente convocatoria y que cumplan con la 
+totalidad de los requisitos se someterán a los siguientes criterios de evaluación:  
+ 
+Criterios de Evaluación  
+Puntaje  
+1.     Calidad de la 
+Propuesta de Proyecto 
+1.1.  Problema o necesidad para resolver con el proyecto 
+identificada y detallada.  
+15 
+40 
+1.2.  Coherencia y articulación en la estructura de la 
+propuesta de proyecto.  
+15 
+1.3.  Concordancia entre el presupuesto, las actividades 
+y los resultados o productos esperados de la propuesta 
+de proyecto.  
+10 
+2.     Pertinencia de la 
+Propuesta de Proyecto 
+2.1.  La propuesta de proyecto está enmarcada a lo 
+indicado en el numeral 4. Alcance de estos Términos de 
+referencia y justifica la pertinencia del servicio para 
+mejorar la productividad y la competitividad en el(los) 
+departamento(s) 
+priorizado(s) 
+y 
+la(s) 
+apuesta(s) 
+productiva(s) 
+seleccionado(s) 
+por 
+el 
+proponente. 
+Adicionalmente explica la necesidad de la ejecución del 
+presente proyecto en concordancia con las capacidades 
+del proponente y la magnitud del problema para la(s) 
+apuesta(s) productiva(s) y para el o los departamentos 
+seleccionado(s).  
+15 
+30 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 19 de 24  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+2.2.  Las actividades propuestas en el proyecto apuntan 
+al cumplimiento de los objetivos del proyecto y al 
+fortalecimiento de los servicios de medición en el o los 
+departamentos seleccionados y de las capacidades del 
+proponente. 
+15 
+3.     Resultados e 
+impactos del proyecto 
+3.1.  Los resultados o productos esperados están 
+enfocados al cumplimiento del numeral 4. Alcance de 
+estos Términos de Referencia y al fortalecimiento del 
+proponente. 
+10 
+30 
+3.2.  La propuesta de proyecto incluye estrategias de 
+sostenibilidad que garanticen que los objetivos e 
+impactos positivos de la propuesta perduren en el tiempo 
+después de la fecha de su conclusión.   
+10 
+3.3.  La propuesta de proyecto incluye un análisis de los 
+posibles impactos y riesgos que se obtienen con el 
+desarrollo de este. 
+5 
+3.4.  La propuesta de proyecto plantea una estrategia 
+clara de divulgación de los resultados previstos en el 
+proyecto, con el fin de que los usuarios conozcan y se 
+apropien de los mismos y que el(los) departamento(s) 
+seleccionado(s) 
+reconozca(n) 
+el 
+aporte 
+como 
+laboratorios 
+innovadores, 
+para 
+promover 
+la 
+competitividad del país.  
+5 
+TOTAL 
+100 
+100 
+ 
+Puntajes mínimos para conformar el banco de elegibles:  
+ 
+Para que una propuesta de proyecto sea declarado elegible deberá obtener una calificación igual o superior a setenta (70) 
+puntos. El puntaje máximo obtenido por un proyecto será de 100 puntos. 
+ 
+De acuerdo con el documento técnico descrito en el Anexo 4. Contenido Técnico de la Propuesta de Proyecto, la 
+calidad, la pertinencia y los resultados e impactos del proyecto se evaluarán considerando únicamente la información 
+registrada por el proponente en el formulario electrónico inscrito en la plataforma dispuesta por MINCIENCIAS.  
+13. 
+PROCEDIMIENTO DE EVALUACIÓN 
+ 
+Las propuestas de proyectos inscritas dentro de los plazos establecidos para la presente convocatoria y que cumplan con 
+los requisitos, que no incurran en condiciones inhabilitantes, serán evaluados por dos (2) pares evaluadores externos 
+seleccionados por MINCIENCIAS y teniendo en cuenta los criterios de evaluación descritos el numeral 12 CRITERIOS DE 
+EVALUACIÓN. 
+ 
+La calificación final se obtiene calculando el promedio de las dos (2) calificaciones de los pares evaluadores asignados 
+a cada proyecto. Los proyectos cuya diferencia entre las evaluaciones por pares sea igual o mayor a 30 puntos, siempre y 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 20 de 24  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+cuando una de las dos sea igual o superior a setenta (70) puntos, contará con la evaluación de un tercer par evaluador, la 
+cual será promediada con las dos anteriores. 
+ 
+En caso de empate, se tendrán en cuenta los siguientes criterios en el orden presentado:  
+ 
+1. La propuesta de proyecto que hayan obtenido mayor puntaje en el criterio: Calidad del proyecto.  
+2. En caso de que el empate persista, se seguirá con la propuesta de proyecto que hayan obtenido mayor puntaje en 
+el criterio: Pertinencia del proyecto  
+3. En caso de que el empate persista, se seguirá con la propuesta de proyecto que hayan obtenido mayor puntaje en 
+el criterio: Resultado e impacto de la propuesta de proyecto.  
+4. En caso de que el empate persista, se asignará el primer lugar a la primera propuesta de proyecto inscrita en el 
+SIGP. 
+ 
+Toda información proporcionada es de carácter confidencial y no será utilizada para ningún fin diferente a la realización de 
+la evaluación. Los expertos evaluadores estarán cobijados por cláusulas de confidencialidad y de no conflicto de interés. 
+ 
+De acuerdo con el CRONOGRAMA de la convocatoria, se concederá un término para solicitar aclaraciones y/o 
+modificaciones a la publicación preliminar del banco de proyectos elegibles, una vez éstas sean resueltas, se procederá a la 
+publicación del banco definitivo de proyectos elegibles. 
+14. 
+BANCO DE ELEGIBLES 
+ 
+Las propuestas de proyectos que superen setenta (70) puntos en la evaluación ingresarán al banco de elegibles y se 
+asignarán los recursos hasta su agotamiento en estricto orden descendente. 
+ 
+Los resultados de la convocatoria se publicarán en la página web de MINCIENCIAS (http://www.minciencias.gov.co) en las 
+fechas establecidas en el numeral 16. CRONOGRAMA. 
+ 
+La vigencia del banco de elegibles es de doce (12) meses a partir de su publicación definitiva. La inclusión de un proyecto 
+en el banco de elegibles no implica obligatoriedad ni compromiso alguno de MINCIENCIAS o del INM de asignar recursos, 
+ni genera derecho a recibir apoyos económicos para quienes hayan presentado los proyectos correspondientes.  
+ 
+Notas: 
+ 
+1. Los recursos se asignarán en orden descendente, de conformidad con los resultados obtenidos de acuerdo con los 
+criterios de evaluación y hasta agotar la disponibilidad presupuestal indicada en el numeral 8. DURACIÓN Y 
+FINANCIACIÓN.  
+ 
+2. Surtida la publicación definitiva del banco de elegibles, MINCIENCIAS informará mediante comunicación escrita y/o 
+electrónica a los beneficiarios que hayan sido seleccionados para ser financiados, indicando las instrucciones y 
+condiciones para suscribir el contrato. A partir de la fecha de comunicación, se contarán quince (15) días 
+calendario como plazo máximo para que el beneficiario remita a MINCIENCIAS la totalidad de la documentación. 
+Vencido el término, en caso de que el beneficiario no remita la documentación, se entenderá que desiste de su 
+interés por contratar con MINCIENCIAS y se procederá a financiar el siguiente proyecto del banco definitivo de 
+proyectos elegibles. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 21 de 24  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+3. Una vez remitida la minuta del contrato al beneficiario, éste contará con un plazo máximo de cinco (5) días hábiles 
+para devolverla firmada a MINCIENCIAS. Vencido el término anterior, si el beneficiario no remite el contrato 
+firmado, se entenderá que desiste de su interés por contratar y se procederá a seleccionar el siguiente en orden 
+descendente de la lista del banco definitivo de proyectos elegibles. 
+ 
+4. El beneficiario deberá acogerse a los procedimientos, formatos y al sistema de información definidos por 
+MINCIENCIAS para realizar el seguimiento, evaluación y liquidación a los proyectos, programas, contratos o 
+convenios suscritos en el marco de la presente convocatoria. 
+ 
+15. 
+ACLARACIONES 
+ 
+Una vez publicados los resultados preliminares del banco de proyectos elegibles, los interesados podrán presentar 
+solicitudes de aclaraciones y comentarios por un período de dos (2) días hábiles. Por fuera de este término se considera 
+que las reclamaciones son extemporáneas y no serán tenidas en cuenta.  
+ 
+Las peticiones y reclamaciones se deben presentar exclusivamente a través del formulario electrónico que se encuentra 
+disponible en el enlace http://www.minciencias.gov.co/ciudadano/canal-pqrds, con el asunto “CONVOCATORIA PARA EL 
+FORTALECIMIENTO DE LABORATORIOS DE CALIBRACIÓN O DE ENSAYO EN DEPARTAMENTOS PRIORIZADOS 
+DEL PAÍS- 2020” 
+16. 
+CRONOGRAMA 
+ACTIVIDAD 
+FECHA LIMITE 
+Apertura de la convocatoria 
+14 de septiembre de 2020 
+Cierre de la convocatoria 
+14 de octubre de 2020 a las 17:00:00 
+Periodo de revisión de requisitos 
+ 14 al 16 de octubre de 2020 
+Período de subsanación de requisitos 
+16 al 20 de octubre de 2020 
+Publicación del banco preliminar de proyectos elegibles 
+6 de noviembre de 2020 
+Período de solicitud de aclaraciones del banco 
+preliminar de proyectos elegibles 
+6 al 9 de noviembre de 2020 hasta las 17:00:00 
+Respuesta a solicitud de aclaraciones 
+10 de noviembre de 2020 
+Publicación del banco definitivo de proyectos elegibles 
+20 de noviembre de 2020 
+ 
+Notas:  
+ 
+1. La inscripción de los proyectos deberá ser por SIGP, con el fin de garantizar la etapa de verificación de requisitos.  
+ 
+2. En el periodo de revisión de requisitos, MINCIENCIAS verificará que los documentos adjuntos presentan la 
+información requerida de forma consistente; MINCIENCIAS reportará en el SIGP las inconsistencias en la 
+información de modo tal que el proponente pueda ajustarla a través del aplicativo durante el período establecido en 
+el Cronograma. La etapa denominada período de revisión de requisitos, no eximen de responsabilidad a los 
+interesados en esta convocatoria de la consulta permanente de la información a fin de entregar la propuesta o 
+proyecto completa.  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 22 de 24  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+3. Los beneficios otorgados por MINCIENCIAS para facilitar la presentación de las propuestas de proyectos no 
+desplazan la responsabilidad de los aspirantes de consultar y adjuntar correctamente los documentos necesarios 
+para ser habilitados, evaluados o seleccionados en esta convocatoria. 
+ 
+4. La hora de cierre de la convocatoria corresponde a la hora legal de Colombia. 
+ 
+17. 
+MODIFICACIONES  
+ 
+MINCIENCIAS podrá modificar el contenido de los términos de referencia, así como su cronograma, por las causas 
+establecidas en el Instructivo Trámite de Adendas a Convocatorias de CTeI (documento disponible en la página web de 
+MINCIENCIAS, Micrositio Calidad), esto es por fuerza mayor o caso fortuito, por causas imprevisibles no atribuibles a 
+MINCIENCIAS y por necesidad de la Entidad acordes con el interés general, garantizando que con la modificación no se 
+vulnerará la expectativa prevista de los posibles participantes. 
+ 
+18. 
+PROPIEDAD INTELECTUAL 
+ 
+De acuerdo con la Resolución 0361 de 2020 del Ministerio de Ciencia, Tecnología e Innovación, en el evento en que se 
+llegaren a generar derechos de propiedad intelectual sobre los resultados que se obtengan o se pudieran obtener en el 
+marco del desarrollo de la presente convocatoria, la titularidad sobre los mismos se regirá por lo establecido en el artículo 
+169 de la Ley 1955 de 2019 que determina: “En los casos de proyectos de investigación y desarrollo de ciencia, tecnología 
+e innovación y tecnologías de la información y de las comunicaciones, adelantados con recursos públicos, el Estado como 
+titular de los derechos de propiedad intelectual derivados de estos proyectos podrá ceder dichos derechos a través de la 
+entidad financiadora, y autorizará su transferencia, comercialización y explotación a quien adelante y ejecute el proyecto, sin 
+que ello le constituya daño patrimonial. Las condiciones de esta cesión serán fijadas en el respectivo contrato o convenio. 
+En todo caso, el Estado, a través de la entidad financiadora, se reserva el derecho de obtener una licencia no exclusiva y 
+gratuita de estos derechos de propiedad intelectual por motivos de interés público. 
+  
+Así mismo, en caso de presentarse motivos de seguridad y defensa nacional, el titular de los derechos de propiedad 
+intelectual deberá ceder a título gratuito y sin limitación alguna al Estado, los derechos de propiedad intelectual que le 
+correspondan. Los derechos de propiedad intelectual a ceder, así como sus condiciones de uso, serán fijados en el 
+respectivo contrato o convenio. 
+  
+PARÁGRAFO. Cuando en el respectivo contrato o convenio se defina que el titular de derechos de propiedad intelectual es 
+quien adelante y ejecute el proyecto, y este realice la explotación de dichos derechos, obteniendo ganancias económicas, 
+deberá garantizar al Estado, a través de la entidad financiadora, un porcentaje de las ganancias netas obtenidas en la 
+explotación de la propiedad intelectual de la cual es titular, porcentaje que deberá ser acordado por mutuo acuerdo con el 
+Estado, a través de la entidad financiadora. El Estado a través de la entidad financiadora, deberá invertir los dineros 
+obtenidos, en programas y proyectos de Ciencia, Tecnología e Innovación y de tecnologías de la información y las 
+comunicaciones”.   
+  
+De cualquier forma, MINCIENCIAS y el INM respetarán los derechos morales de las personas naturales que participen en 
+los proyectos derivados de la presente convocatoria. 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 23 de 24  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+Las partes de la postulación definirán entre ellas la titularidad de los derechos de propiedad intelectual que se generen en la 
+ejecución de los proyectos financiados con recursos del presupuesto nacional. 
+  
+PARÁGRAFO 1. Sin perjuicio de lo anterior, MINCIENCIAS se reserva el derecho de obtener una licencia no exclusiva y 
+gratuita sobre los derechos de propiedad intelectual obtenidos en desarrollo de la presente convocatoria por motivos de 
+interés nacional, comprometiéndose a respetar los derechos morales a que hubiere lugar. 
+  
+PARÁGRAFO 2. En cualquier evento o medio de divulgación utilizado para difundir los resultados del proyecto se deberá 
+dar el respectivo crédito a MINCIENCIAS y al MSPS, incluyendo la imagen institucional de acuerdo con el manual de 
+imagen corporativa alojado en  http://www.minciencias.gov.co, pestaña Ciudadano. 
+ 
+19. 
+VEEDURÍAS CIUDADANAS 
+ 
+Las veedurías ciudadanas establecidas de conformidad con la Ley 850 de 2003, podrán desarrollar su actividad durante la 
+presente convocatoria, conforme a lo estipulado en dicha normativa.  
+ 
+ 
+20. 
+ANEXOS 
+Anexo 1: Carta de Aval y Compromiso Institucional.  
+Anexo 2: Portafolio de Servicios  
+Anexo 3: Hoja de Vida Gerente o Director de Proyecto. 
+Anexo 4: Contenido Técnico de la Propuesta de Proyecto.  
+Anexo 5: Rubros Financiables y No Financiables.   
+ 
+21. 
+ACEPTACIÓN DE TÉRMINOS Y VERACIDAD 
+ 
+Con la inscripción, los interesados aceptan las características, requisitos y condiciones de la presente convocatoria, así 
+como lo dispuesto en los presentes términos de referencia para el desarrollo de la misma y la entrega del recurso. Una vez 
+presentado el proyecto no será posible alegar desconocimiento de lo escrito en estos términos de referencia ni de sus 
+anexos. El momento para referirse a lo establecido en los términos de referencia de la convocatoria y sus anexos es durante 
+la etapa de reclamaciones y antes de publicación del banco preliminar de proyectos elegibles.  
+ 
+De igual forma declaran que la información suministrada es veraz y corresponde a la realidad. En caso de encontrarse 
+alguna incoherencia y/o inconsistencia en la información o documentación suministrada, MINCIENCIAS podrá en cualquier 
+momento rechazar la propuesta o si es del caso declarar la pérdida del beneficio, sin perjuicio de las acciones legales 
+correspondientes. 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 24 de 24  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+22. 
+MAYOR INFORMACIÓN 
+ 
+EL MINISTERIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN - MINCIENCIAS - 
+Av. Calle 26 N° 57- 83 / 41 Torre 8 Piso 2, Bogotá D.C. 
+http://www.minciencias.gov.co  
+ 
+Atención al Usuario  
+Teléfono: (+57 - 1) 6258480 Extensión 2081 
+Línea gratuita nacional: 018000 914446 
+Horario: lunes a jueves de 8:00 a.m. a 5:00 p.m. y viernes de 7:00 a.m. a 4:00 p.m. (jornada continua). 
+ 
+En caso de inquietudes o comentarios sobre la presente convocatoria, favor diligenciar el formulario electrónico que se 
+encuentra disponible en el enlace http://www.minciencias.gov.co/ciudadano/canal-pqrds, con el asunto “CONVOCATORIA 
+PARA EL FORTALECIMIENTO DE LABORATORIOS DE CALIBRACIÓN O DE ENSAYO EN DEPARTAMENTOS 
+PRIORIZADOS DEL PAÍS- 2020”. 
+ 
+ 
+ 
+ 
+ 
+ 
+NELSON DAVID GUTIÉRREZ OLAYA  
+Director de Inteligencia de Recursos de la Ciencia, la Tecnología y la Innovación 
+ 
+ 
+ 
+ 
+V.o Bo. Director de Transferencia y Uso de Conocimiento  
+ 
+ 
+ 0956
+14 SET. 2020
+ 0956
+ 0956
+ 0956
+14 SET. 2020
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 1 de 11  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+EL MINISTERIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN - MINCIENCIAS – 
+ 
+ 
+CONVOCATORIA PARA EL FORTALECIMIENTO DE LABORATORIOS DE CALIBRACIÓN O DE ENSAYO EN 
+DEPARTAMENTOS PRIORIZADOS DEL PAIS-2020 
+ 
+ 
+ANEXO 4. CONTENIDO TÉCNICO DE LA PROPUESTA DE PROYECTO 
+ 
+Este documento contiene una guía para la preparación de la propuesta de proyecto de acuerdo con los criterios de 
+evaluación.  Se sugiere el uso de la estructura, el cual está ajustado con los campos del formato de registro del Sistema de 
+Información de Gestión de Proyectos - SIGP.  
+ 
+El presente modelo de documento técnico podrá ser ajustado o modificado según las necesidades, el alcance, las 
+actividades, los resultados y productos esperados de la propuesta de proyecto a presentar en el marco de la convocatoria, 
+manteniendo los elementos mínimos descritos a continuación:  
+ 
+GUÍA DEL PROPONENTE: 
+ 
+1. 
+IDENTIFICACIÓN DE LA PROPUESTA DE PROYECTO 
+INFORMACIÓN SOLICITADA EN 
+LOS TERMINOS DE REFERENCIA 
+DESCRIPCIÓN 
+Título  
+ 
+El título es la primera referencia de la propuesta de proyecto, por lo que debe 
+describir el tema y el trabajo a realizar. Para ello es importante tener en cuenta el 
+contenido de la propuesta y la finalidad que se busca cumplir con la ejecución 
+proyecto.  
+Se recomienda utilizar un máximo de 250 caracteres para el título y describir el 
+tipo de servicio seleccionado.  
+Tipo de servicio 
+ 
+De acuerdo con los tipos de servicios descritos en el numeral 4. Alcance de los 
+Términos de Referencia, el proponente debe seleccionar mínimo un (1) tipo de 
+servicio para el desarrollo de su propuesta de proyecto.   
+Apuestas productivas 
+ 
+De acuerdo con las apuestas productivas descritas en el numeral 4. Alcance de 
+los Términos de Referencia, el proponente debe seleccionar mínimo una (1) 
+apuesta productiva para el desarrollo de su propuesta de proyecto.   
+Departamentos priorizados 
+ 
+De acuerdo con los departamentos priorizados descritos en el numeral 4. Alcance 
+de los Términos de referencia, el proponente debe seleccionar mínimo un (1) 
+departamento para el desarrollo de su propuesta de proyecto.   
+Palabras clave 
+Definir las palabras clave utilizadas en la propuesta de proyecto. 
+Duración 
+ 
+Se debe determinar claramente el tiempo de duración del proyecto que para 
+efectos de la presente convocatoria no podrá exceder los doce (12) meses. 
+Domicilio principal 
+ 
+Se debe determinar el lugar geográfico en el que se encuentra ubicado su 
+domicilio o sede principal.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 2 de 11  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+Monto solicitado  
+ 
+La entidad ejecutora del proyecto debe registrar en el formulario electrónico cuál 
+es el valor total del proyecto y discriminar allí el valor de financiamiento solicitado 
+y el valor de contrapartida a aportar. 
+2. 
+CONTENIDO DEL PROYECTO  
+Resumen Ejecutivo 
+ 
+Resumir en máximo de 500 palabras la información necesaria para explicar en 
+qué consiste el problema, oportunidad o necesidad que se presenta, cómo se 
+espera resolver, cuáles son las razones que justifican la ejecución del proyecto y 
+las herramientas que se utilizarán en su desarrollo.  
+Identificación y descripción del 
+problema o necesidad  
+ 
+Indique brevemente la novedad, innovación potencial, si se trataría de un nuevo 
+servicio, en el(los) departamento(s) seleccionado(s), de acuerdo con las apuestas 
+productivas. Se debe describir la relevancia y el aporte del proyecto a las 
+apuestas productivas, la región, el departamento y el país. 
+ 
+Explique el valor agregado en conocimiento o “Know–how” que se espera generar 
+con el proyecto o el esfuerzo técnico que hace el proponente. 
+ 
+Se recomienda que explique:   
+ 
+Problema central: en esta sección es necesario que el proponente indique 
+cuál es el problema central de la(s) apuesta(s) productiva(s) en el(los) 
+departamento(s) seleccionado(s) en relación con los actuales servicios de 
+medición. 
+ 
+Antecedentes y la situación existente: describir los antecedentes del(los) 
+departamento(s) y la(s) apuesta(s) productiva(s) seleccionados e incluir 
+condiciones actuales del proponente frente a sus capacidades para 
+desarrollar actividades de CTeI relacionadas con la prestación de servicios 
+de calibración o de ensayo. Describir las dificultades entre la actual oferta 
+de servicios de medición (calibración o ensayo) y la productividad y 
+competitividad de la(s) apuesta(s) productiva(s) en los departamentos 
+priorizados por la convocatoria.  
+ 
+Magnitud actual del problema: puede incluir indicadores de referencia que 
+soporten la problemática evidenciada en la(s) apuesta(s) productiva(s) y 
+el(los) departamento(s) priorizado(s) y seleccionado(s).  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 3 de 11  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+Justificación del proyecto 
+ 
+Argumentar las razones por las cuales considera que el proyecto se ajusta a la 
+tipología de innovación. Se recomienda realizar una justificación concisa, que no 
+supere las 500 palabras, y que responda a las siguientes preguntas:  
+ 
+1. ¿Qué características tiene el presente proyecto que pueda catalogarse 
+como una propuesta de Innovación? 
+2. ¿Cómo contribuye el proyecto al desarrollo departamental y al de 
+capacidades propias en materia de ciencia, tecnología e innovación? 
+3. ¿Cómo el proyecto satisface las necesidades de la(s) apuesta(s) 
+productiva(s) en el o los departamentos seleccionados?  
+ 
+Objetivos del proyecto 
+ 
+Los objetivos definen lo que se pretende lograr con el desarrollo del proyecto y se 
+convierten en una guía durante su ejecución pues definen el alcance de la 
+investigación.  
+ 
+Al momento de formular un objetivo es necesario verificar que sea alcanzable y 
+esté redactado de forma clara, de manera tal que se eviten ambigüedades o 
+desviaciones a lo largo del desarrollo del proyecto.   
+ 
+A continuación, se presentan unas recomendaciones para su formulación:   
+ 
+El objetivo general del proyecto es uno solo y debe establecer qué pretende 
+alcanzar con la propuesta. Para eso debe responder el qué, cómo y para qué se 
+quiere hacer el proyecto. Se debe mostrar de forma general cuál será el resultado 
+de la innovación, los métodos a utilizar y el reto a resolver. Se recomienda 
+redactar con un verbo en infinitivo que traduzca acción, por ejemplo: establecer, 
+implantar, sintetizar, analizar, desarrollar entre otros. 
+ 
+Los objetivos específicos definen los aspectos, fases y/o etapas principales que 
+se necesitan para alcanzar el objetivo general. Éstos deberán ser coherentes 
+entre sí y mostrar cuáles son los resultados y métodos por cada fase del 
+proyecto. Se recomienda establecer un máximo de 4 objetivos específicos y 
+redactar iniciando con un verbo en infinitivo. Los objetivos específicos deben ser 
+medibles. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 4 de 11  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+Metodología propuesta 
+La metodología define el camino a seguir para alcanzar los objetivos propuestos, 
+y debe identificar y describir el uso de métodos, procedimientos, técnicas 
+analíticas cualitativas y cuantitativas que se utilizarán para alcanzar cada uno de 
+los objetivos específicos.  
+ 
+Se recomienda redactar la metodología por objetivo específico y definir para cada 
+uno de ellos, el procedimiento, técnica o herramienta a utilizar, por ejemplo:  
+observaciones, encuestas, entrevistas, diseños de experimentos, simulaciones, 
+validaciones, pruebas, ensayos y otros, así como las variables a analizar cuando 
+aplique y la información o datos que aspira a obtener y los resultados. Incluya el 
+alcance de los métodos que pretende implementar. 
+ 
+Debe incluir las respectivas referencias que soporten la selección de los métodos, 
+los materiales de referencia, entre otros aspectos técnicos que son 
+fundamentales para prestar servicios bajo la norma ISO/IEC 17025:2017 
+ 
+Plan de trabajo detallado 
+ 
+Explique cada una de las actividades por cada fase (diseño, requerimientos, 
+implementación, puesta en marcha, terminación) que se espera ejecutar dentro 
+del proyecto para implementar el método de desarrollo definido, el tipo de análisis 
+y pruebas requeridas, los principales hitos  por  fase,  sus  verificables  e 
+indicadores. Así mismo, lo que necesita el producto para su potencial 
+comercialización en el mercado objetivo.  
+ 
+El Plan de trabajo deberá contener:   
+ 
+ 
+Objetivo Específico que se quiere alcanzar 
+ 
+Actividad  
+ 
+Resultado esperado 
+ 
+Indicador 
+ 
+Medio Verificación 
+ 
+Mes Cumplimiento 
+ 
+Fases/hitos 
+ 
+Cada actividad debe identificar la hipótesis externa o supuestos, que debe 
+cumplirse para que se pueda alcanzar el objetivo general (los supuestos son los 
+factores críticos, externos al proyecto que representan riesgos, que están fuera 
+del control del líder del proyecto y/o los ejecutores pero que afectan la ejecución y 
+requieren posibles cambios para el éxito del proyecto). 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 5 de 11  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+Riesgos del Proyecto 
+ 
+En este ítem se solicita registrar los principales riesgos que se han identificado y 
+que podrían impactar en la ejecución del proyecto, así como las actividades o 
+puntos de control para su mitigación. Esta información es necesaria para el 
+seguimiento al proyecto. Para el caso de la evaluación de las propuestas, los 
+Evaluadores verificarán que los riesgos identificados permitan reducir la 
+incertidumbre de alcanzar los objetivos planteados.  
+ 
+Se sugiere redactar los riesgos con base en la siguiente estructura: “Como 
+consecuencia de (ingrese la causa), existe la posibilidad que (evento posible 
+futuro) ocasionando (ingresar el efecto)”, por ejemplo: como consecuencia de un 
+inadecuado diseño de un prototipo funcional, existe la posibilidad que el prototipo 
+no cumpla con las necesidades identificadas ocasionando que no se alcance el 
+objetivo específico 1. Para este riesgo la entidad define una validación con 
+expertos del diseño antes de realizar el prototipo. 
+Sostenibilidad 
+ 
+Enuncié las estrategias de sostenibilidad indicando cómo se asumirán los costos 
+de funcionamiento del(los) laboratorio(s), teniendo en cuenta sus capacidades, 
+recursos, aspectos ambientales que garanticen la continuidad y sostenibilidad de 
+los resultados y productos del proyecto luego de su ejecución. 
+Resultados 
+o 
+productos 
+esperados, 
+entregables 
+e 
+indicadores.  
+ 
+Identificar un gran producto o entregable que debe ser desarrollado y entregado 
+al final de la ejecución de cada actividad diligenciada en el plan de trabajo. Así 
+mismo indique el producto o resultado final del proyecto. Para cada resultado 
+indique las características de nuevo conocimiento generado, medios de 
+verificación y los indicadores del mismo.  
+ 
+Los resultados deben ser medibles y cuantificables, indicando las características 
+del nuevo conocimiento generado. Especifique los medios de verificación del 
+logro de los mismos. Es necesario determinar el plazo o fecha para la cual se 
+espera haber alcanzado dichos resultados y el indicador verificable.  
+ 
+Ejemplo de indicadores: número de publicaciones indexadas, prototipos, 
+protocolos desarrollados, software, etc.  (durante la ejecución del proyecto).  
+Cada objetivo específico debe tener mínimo un resultado esperado y un 
+indicador, claramente definido y relacionado con dicho objetivo.  
+ 
+La formulación de los resultados debe guardar coherencia con los objetivos y 
+actividades que se formulan en el plan de trabajo del formulario en línea, así 
+mismo deben alcanzarse en su totalidad en el marco del desarrollo del proyecto. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 6 de 11  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+Impactos 
+del 
+proyecto 
+(se 
+incluyan los ambientales)  
+ 
+Relacionar los posibles impactos esperados (económico, social, ambiental y 
+cultura), que se lograrán en el mediano y largo plazo como resultado del 
+conocimiento adquirido durante el desarrollo del proyecto una vez finalice el 
+proyecto.  
+ 
+Es importante identificar para cada impacto, los indicadores cualitativos y 
+cuantitativos verificables. Ejemplo de indicadores podrían ser:  tasa de mortalidad 
+infantil, tasa de estudiantes promovidos, tasa de morbilidad, tasa de crecimiento, 
+etc. 
+ 
+Identificar los efectos que tiene el desarrollo del proyecto, ya sea positivos o 
+negativos. En el caso de que el proyecto identifique un impacto ambiental 
+negativo deberá identificar si es necesario obtener permisos y autorizaciones 
+ambientales emitidas por las autoridades competentes que habiliten el desarrollo 
+del pritecto. Se recomienda establecer acciones pertinentes ara mitigar los 
+impactos negativos identificados.  
+Divulgación de los resultados  
+Enuncie las estrategias de divulgación de los resultados previstos en el proyecto, 
+indicando cómo se dará a conocer el tipo de servicio de calibración o ensayo en 
+el(los) departamento(s) seleccionado(s), cómo se promoverá su apropiación y los 
+escenarios de difusión de los resultados obtenidos.  
+ 
+Adicionalmente el proponente deberá plantear estrategias claramente 
+identificadas para capturar valor agregado del proyecto y expandir el servicio a 
+nuevos departamentos del país. Así mismo, en la propuesta de proyecto existen 
+actividades que permiten la apropiación del conocimiento generado por el 
+proponente, 
+la(s) 
+apuesta(s) 
+productiva(s) 
+y 
+el(los) 
+departamento(s) 
+seleccionado(s).  
+Idoneidad y trayectoria del 
+proponente 
+ 
+Escriba en 2500 caracteres la capacidad e idoneidad del proponente para la 
+ejecución del proyecto.  
+Aspectos éticos 
+ 
+Incluya aspectos éticos y bioéticos relevante de la propuesta de proyecto en caso 
+de aplicar. 
+ 
+Bibliografía  
+ 
+Relacionar las fuentes de información científica y/o tecnológica relevantes, 
+vigentes y/o actualizadas que fueron consultadas y/o citadas en el texto del 
+proyecto.  Se recomienda utilizar fuentes reconocidas por la comunidad científica 
+y tecnológica nacional o internacional y los formatos APA, ISO o MLA para las 
+citaciones.  
+ 
+El proponente del proyecto es responsable de realizar la respectiva citación de los 
+documentos consultados.  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 7 de 11  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+Cronograma 
+ 
+Relacionar las principales actividades a realizar en función de los objetivos 
+específicos, la metodología, los resultados y acotarlas en un periodo de tiempo, 
+de tal manera que permita observar toda la ejecución del proyecto y conocer el 
+estado de avance.  
+ 
+Es preciso tener en cuenta posibles contingencias y mostrar las actividades 
+requeridas en forma coherente con las actividades descritas en la metodología.   
+Personal  
+ 
+Indicar el personal necesario para la ejecución del proyecto por el proponente.  
+Se debe presentar como mínimo para el gerente o director del proyecto, los 
+coordinadores y/o asesores, y para el personal de apoyo requerido para el 
+proyecto, la siguiente información: 
+ 
+ 
+Formación y experiencia profesional  
+ 
+El rol, la especialidad, función, actividad y tiempo de dedicación a la 
+labor o función que desarrollará en el proyecto.  
+ 
+Presentar la capacidad técnica del grupo de trabajo. Esto significa, conocer su 
+importancia estratégica y logros a partir de proyectos realizados anteriormente, 
+experiencia en el área o sector que esté relacionado con la temática del proyecto 
+propuesto, incluyendo sus productos más relevantes o logros alcanzados. 
+Presupuesto  
+ 
+El presupuesto del proyecto da el respaldo financiero a la propuesta y se 
+convierte en una de las restricciones que acotan el alcance del proyecto.  Por 
+esta razón, debe estar directamente relacionado con cada una de las actividades 
+definidas en la metodología y los recursos que se requieren para alcanzar los 
+objetivos.  
+ 
+En este ítem, la entidad deberá registrar por vigencia fiscal los valores de la 
+inversión en el proyecto enmarcados en los rubros descritos en el Anexo 5.  
+Rubros Financiables y No Financiables con recursos de cofinanciación. Es 
+importante registrar el proveedor cuando se realice compra a otras entidades y la 
+justificación de por qué es necesario este rubro en el proyecto y su relación con la 
+metodología y actividades propuestas. De igual manera se recomienda desglosar 
+los rubros a detalle y no agrupar las inversiones en grandes rubros. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 8 de 11  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+GUÍA DEL EVALUADOR 
+ 
+Puntajes mínimos para conformar el banco de elegibles:  
+ 
+Para que un proyecto sea declarado elegible deberá obtener una calificación igual o superior a setenta (70) puntos. El 
+puntaje máximo obtenido por un proyecto será de 100 puntos. 
+ 
+De acuerdo con el documento técnico descrito en el Anexo 4. Contenido Técnico de la Propuesta de Proyecto, la 
+calidad, la pertinencia y los resultados e impactos del proyecto se evaluarán considerando únicamente la información 
+registrada por el proponente en el formulario electrónico inscrito en la plataforma dispuesta por MINCIENCIAS y teniendo en 
+cuenta lo siguiente: 
+ 
+1. Calidad del Proyecto (40 puntos):  
+ 
+1.1. Problema o necesidad para resolver con el proyecto identificada y detallada. 
+ 
+Se evaluará la claridad en la descripción del problema o necesidad identificado, la justificación de la necesidad o 
+problema identificado y cómo el proyecto planteado lo resuelve. Para ello se requerirán los siguientes 
+componentes: 
+ 
+ 
+Identificación y descripción del problema o necesidad detallado. 
+ 
+Coherencia entre la identificación y descripción del problema o necesidad, la justificación del proyecto y los 
+objetivos planteados.   
+ 
+Beneficios de la innovación propuesta, es decir, del tipo de servicio a prestar en el(los) departamento(s) y la(s) 
+apuesta(s) productiva(s) seleccionado(s).  
+ 
+Autodiagnóstico de innovación de acuerdo con el requisito No. 6.8 de los Términos de Referencia.  
+ 
+1.2. Coherencia y articulación en la estructura de la propuesta de proyecto.  
+ 
+Se evaluará:  
+ 
+ 
+El proyecto registrado se ha formulado teniendo en cuenta el Anexo 4. Contenido Técnico de la Propuesta 
+de Proyecto.  
+ 
+Coherencia y articulación entre la identificación y descripción del problema o necesidad a resolver, los 
+objetivos, el diseño metodológico, roles, responsabilidades y tiempo de dedicación del equipo del proyecto, el 
+plan de trabajo, resultados o productos esperados, entregables y cronograma.  
+ 
+La metodología propuesta es coherente y evidencia conocimiento en la implementación de servicios de 
+medición bajo la norma ISO/IEC 17025:2017. Los resultados del proyecto apuntan a que el proponente 
+fortalezca sus capacidades metrológicas de acuerdo con los requisitos generales de la norma ISO/ICE 
+17025:2017 hasta llegar a la solicitud de acreditación o ampliación del alcance de acreditación y a la 
+incorporación de un nuevo servicio en alguno(s) de lo(s) departamento(s) y apuesta(s) productiva(s) 
+priorizado(s) por el proyecto.  
+ 
+La incorporación de un nuevo servicio en el(los) departamento(s) propone un grado de novedad y valor 
+agregado, para abordar la oportunidad o generar cambios de posicionamiento en el mercado que tendría el 
+proponente dada la ejecución de la propuesta del proyecto.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 9 de 11  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+ 
+La metodología planteada permite la obtención de resultados, el alcance del objetivo general y responde a la 
+naturaleza de un proyecto de innovación.  
+ 
+El proyecto describe actividades claras que permitan verificar el cumplimiento de los resultados esperados y 
+de los objetivos planteados, fortaleciendo los servicios de medición, la(s) apuesta(s) productiva(s), la región, el 
+departamento y el país.  
+ 
+Verificar que la aptitud del método y del alcance estén alineados para el uso previsto del o los nuevos 
+servicios.  
+ 
+La revisión bibliográfica descrita en la propuesta de proyecto.  
+ 
+1.3. Concordancia entre el presupuesto, las actividades y los resultados o productos esperados de la 
+propuesta de proyecto. 
+ 
+Se evaluará:  
+ 
+ 
+Que las actividades planteadas están acordes con el presupuesto diseñado para la propuesta del proyecto.  
+ 
+Que el presupuesto del proyecto le apunta al cumplimiento de los resultados o productos esperados 
+planteados en la propuesta de proyecto.  
+ 
+La distribución de recursos presupuestados en el proyecto es coherente y suficiente. 
+ 
+Que los ítems presupuestados sean necesarios para la consecución de los objetivos, se encuentran 
+claramente definidos y justificados en la propuesta.  
+ 
+2. Pertinencia del proyecto (30 Puntos):  
+ 
+2.1. La propuesta de proyecto está enmarcada a lo indicado en el numeral 4. Alcance de estos Términos de 
+referencia y justifica la pertinencia del servicio para mejorar la productividad y la competitividad en 
+el(los) departamento(s) priorizado(s) y la(s) apuesta(s) productiva(s) seleccionado(s) por el proponente. 
+Adicionalmente explica la necesidad de la ejecución del presente proyecto en concordancia con las 
+capacidades del proponente y la magnitud del problema para la(s) apuesta(s) productiva(s) y para el o 
+los departamentos seleccionado(s).  
+ 
+ 
+Se evaluará que en la propuesta existe un mercado que tiene necesidades de medición (calibración o ensayo) 
+claramente identificado con sus impactos económicos y sociales, frente a: clientes potenciales, usuarios finales 
+y directos, estimación de ingresos adicionales.  
+ 
+Se evaluará que la propuesta se encuentra debidamente formulada y las actividades propuestas apuntan a la 
+solución de las necesidades previamente identificadas.  
+ 
+Se evaluará que el proyecto esté enfocado en el mejoramiento de la productividad y competitividad 
+departamental y a la diversificación y sofisticación del portafolio de servicios del proponente. 
+ 
+2.2. Las actividades propuestas en el proyecto apuntan al cumplimiento de los objetivos del proyecto y al 
+fortalecimiento de los servicios de medición en el o los departamentos seleccionados y de las 
+capacidades del proponente. 
+ 
+ 
+Se evaluará el personal científico, profesional o interdisciplinario (por ejemplo: técnicos, expertos en calidad, 
+capacitadores en la norma, etc), respecto a su experiencia en el ámbito de aplicación del proyecto, que hayan 
+estado inmersos en otros procesos de incorporación de nuevos servicios o que ha hayan tenido experiencia en 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 10 de 11  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+el desarrollo de proyectos de impacto en la(s) apuesta(s) productiva(s).  
+ 
+El proponente cuenta con la capacidad de infraestructura y equipos necesarios para el desarrollo del proyecto y 
+para asignar los recursos necesarios para su exitosa ejecución.  
+ 
+El personal de apoyo definido en el proyecto es suficiente para realizar las tareas asignadas dentro del 
+proyecto.  
+ 
+Existe coherencia entre el tiempo dedicado por el equipo de trabajo y las actividades a desarrollar.  
+ 
+Los estudios y la experiencia del gerente o director del Proyectos son coherentes para liderar la propuesta de 
+proyecto. Adicionalmente cuenta con experiencia en la ejecución del objeto de la convocatoria.  
+ 
+3. Resultados e impacto de la propuesta de proyecto (30 puntos) 
+ 
+3.1. Los resultados o productos esperados están enfocados al cumplimiento del numeral 4. Alcance de 
+estos Términos de Referencia y al fortalecimiento del proponente. 
+ 
+ 
+Se evaluará que se evidencia una definición clara y precisa de los resultados o entregables del proyecto, los 
+cuales aportan a la productividad y competitividad de el(los) departamento(s) seleccionado(s) y del laboratorio, 
+contribuyendo a solucionar el problema o necesidad identificada y tienen aplicación real en la(s) apuesta(s) 
+productiva(s) seleccionada(s). 
+ 
+Se evaluará que el desarrollo del proyecto traerá como resultado la prestación de uno o varios nuevo(s) 
+servicio(s) por parte del laboratorio, en el(los) departamento(s) y la(s) apuesta(s) productiva(s) seleccionado(s).  
+ 
+Se evaluará que la propuesta de proyecto contribuye al fortalecimiento de la competitividad del laboratorio, 
+el(los) departamento(s) y la(s) apuesta(s) productiva(s) seleccionado(s). 
+ 
+3.2. La propuesta de proyecto incluye estrategias de sostenibilidad que garanticen que los objetivos e 
+impactos positivos de la propuesta perduren en el tiempo después de la fecha de su conclusión.   
+ 
+ 
+Se evaluará que la propuesta de proyecto incluye el impacto de la implementación del proyecto a mediano y 
+largo plazo.  
+ 
+Se evaluará que el impacto económico, social, ambiental y cultural de la innovación ha sido identificado y 
+cuantificado y se considera significativo comparado con la problemática identificada.  
+ 
+Se evaluará que el proyecto contemple estrategias de sostenibilidad a largo plazo para la prestación del servicio 
+en la(s) apuesta(s) productiva(s) seleccionada(s), en uno o varios departamentos seleccionados. 
+ 
+Se evaluará que el proyecto describe estrategias que garanticen la prestación del servicio por lo menos un (1) 
+año después de terminar su ejecución. 
+ 
+3.3. La propuesta de proyecto incluye un análisis de los posibles impactos y riesgos que se obtienen con el 
+desarrollo de éste. 
+ 
+ 
+Se evaluará que la propuesta de proyecto identifica riesgos que pueden afectar el diseño y desarrollo del 
+proyecto. 
+ 
+Se evaluará que la propuesta de proyecto identifica riesgos positivos y negativos dentro de la propuesta de 
+proyecto 
+ 
+3.4. La propuesta de proyecto plantea una estrategia clara de divulgación de los resultados previstos en el 
+proyecto, con el fin de que los usuarios conozcan y se apropien de los mismos y que el(los) 
+departamento(s) seleccionado(s) reconozca(n) el aporte como laboratorios innovadores, para promover 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 11 de 11  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+la competitividad del país. 
+ 
+ 
+Se evaluará las estrategias de divulgación de los resultados previstos en el proyecto.  
+ 
+Se evaluará las estrategias que contemplen las acciones para dar a conocer del tipo de servicio de calibración o 
+de ensayo ejecutado en el proyecto en el o los departamentos priorizados seleccionados.  
+ 
+Se evaluarán las acciones de cómo se dará la apropiación del servicio y los escenarios de difusión de los 
+resultados obtenidos.  
+ 
+Se evaluará que la propuesta de proyecto proponga estrategias claramente identificadas para capturar valor 
+agregado del proyecto y expandir el servicio a nuevos departamentos del país. 
+ 
+Se evaluará que en la propuesta de proyecto existen actividades que permiten la apropiación del conocimiento 
+generado por el proponente, la(s) apuesta(s) productiva(s) y el(los) departamento(s) seleccionado(s). 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 1 de 4  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+EL MINISTERIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN - MINCIENCIAS – 
+ 
+ 
+CONVOCATORIA PARA EL FORTALECIMIENTO DE LABORATORIOS DE CALIBRACIÓN O DE ENSAYO EN 
+DEPARTAMENTOS PRIORIZADOS DEL PAIS-2020 
+ 
+ 
+ANEXO 5. RUBROS FINANCIABLES Y NO FINANCIABLES  
+ 
+Los proponentes de la convocatoria deben planificar los rubros de inversión o donación identificando de forma clara las 
+fuentes de financiación.  El presupuesto debe estar basado en la estimación de los costos y la planificación de las 
+actividades, cada rubro debe estar claramente definido, justificado y distribuido en el tiempo. (Registrar cada rubro por 
+vigencia fiscal). Registre en forma detallada solo los rubros necesarios para la ejecución del proyecto. 
+ 
+El presupuesto de la propuesta de proyecto debe estar estructurado acorde con las actividades planeadas para dar 
+cumplimiento a los objetivos y metas previstas. De esta manera, los rubros que lo componen se consideran parte integral 
+del proyecto y requieren de un manejo eficaz para la exitosa ejecución de sus actividades.  
+ 
+De acuerdo con lo anterior, se aceptan los siguientes Rubros Financiables y No Financiables con recursos de 
+cofinanciación de la convocatoria, así: 
+ 
+1. Rubros Financiables:  
+ 
+RUBROS 
+DESCRIPCIÓN / EXCLUSIONES 
+PERSONAL 
+Costo del personal y/o pago de honorarios de profesionales que realizarán labores directas y 
+exclusivas para el desarrollo del proyecto y cuya participación sea necesaria para la obtención 
+de los resultados. Este rubro sumado con el personal de apoyo no podrá ser mayor al 40% del 
+total de los recursos totales presupuestados para el proyecto. 
+ 
+Científico-técnico:  Conformado por el Gerente del proyecto, coordinador y/o asesor nacional 
+que realiza actividades directas de Ciencia, Tecnología e Innovación en el proyecto 
+encaminadas al alcance de los objetivos. Identifique el valor del personal por cada vigencia 
+fiscal del proyecto.  
+ 
+En el caso que se destinen recursos humanos directamente vinculados al laboratorio, se 
+deberá demostrar el tiempo destinado para el proyecto por medio de bitácora de seguimiento y 
+presentación de responsabilidades directamente vinculadas con el proyecto.  Este personal 
+deberá tener su hoja de vida registrada en CvLAC. 
+ 
+De apoyo: Conformado por auxiliares de investigación, personal de campo, estudiantes.  Etc, 
+que realizan actividades indirectas de ciencia, tecnología e Innovación.  En este ítem 
+presupuestal se pueden incluir los asesores internacionales que no tienen la hoja de vida en 
+CvLAC. (Personal con labores administrativas no serán reconocidos en este rubro). 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 2 de 4  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+MATERIALES E 
+INSUMOS  
+Incluye el costo de adquisición de los materiales y elementos de laboratorio y/o campo e 
+insumos necesarios en la ejecución del proyecto y que estén justificados en la metodología. 
+Cuando los materiales no sean consumibles, podrá determinare el valor a registrar tomando 
+como base el rubro de adquisición.  
+ 
+Exclusiones: Materiales e insumos adquiridos previamente a la ejecución de proyecto o que no 
+tengan relación con el proyecto ni mantenimiento normales de equipos existentes o elementos 
+de laboratorio.  
+ADQUISICIÓN DE 
+EQUIPOS 
+Incluye el valor de la depreciación o amortización de los equipos necesarios para la ejecución 
+del proyecto que fueron comprados en el marco del proyecto. Se debe describir y justificar con 
+claridad cada uno de los equipos que serán comprados y quedarán en propiedad de la entidad 
+ejecutora del proyecto.  
+ 
+Incluye los costos asociados a la compra de equipamiento para la prestación del servicio. Con 
+este rubro se cubrirá la compra de equipo hasta por un 40% del valor total del proyecto, y por 
+un valor financiable de máximo el 80% del rubro. 
+ 
+SERVICIOS 
+TECNOLÓGICOS  
+Pago de servicios tecnológicos nacionales o internacionales para la obtención de:  modelos, 
+metodologías, diseños u operaciones logísticas, pruebas de laboratorio que sean requeridos 
+para el desarrollo y obtención de resultados previstos por el proyecto, de manera cuantificable y 
+verificable, y que estén claramente relacionados y valorados en el proyecto. Su ejecución debe 
+ser realizada por persona jurídica especializada en el servicio tecnológico requerido.  Por 
+ejemplo: participación de ensayos de aptitud, servicio de calibración, etc.  
+ 
+ No se reconoce personal, costos de papelería en este ítem y tampoco servicios de 
+mantenimiento de equipos, sin embargo, este ultimo puede ser asumido con recursos de 
+contrapartida. 
+CONSULTORÍA  
+ESPECIALIZADA 
+Subcontrataciones de actividades científicas y/o tecnológicas nacionales o internacionales de 
+corta duración, directamente relacionadas con el desarrollo del proyecto.  
+ 
+Se debe explicar en forma clara el objetivo de la consultoría y las diferentes tareas 
+encomendadas con sus entregables (distribución de responsabilidades).  
+ 
+Se excluyen los servicios tecnológicos que se prestan al interior del laboratorio y el valor de la 
+asesoría brindada por firmas consultoras en formulación de proyectos que no participan 
+activamente en la ejecución de las actividades del proyecto. 
+CAPACITACIÓN  
+Formación y actualización del personal técnico de la entidad que participa en el proyecto para 
+las actividades necesarias en su ejecución y la participación en cursos específicos.  
+ 
+No se reconocen actividades logísticas, ni la capacitación ofrecida por personal directamente la 
+entidad ejecutora. Tampoco los cursos ofrecidos a personal administrativo. Así como también 
+los cursos de capacitación no mencionados en la metodología.  
+ALQUILER DE 
+EQUIPOS 
+Alquiler de equipos necesarios para la ejecución del proyecto. Se debe describir y justificar con 
+claridad cada uno de los equipos que serán usados en el desarrollo del proyecto.  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 3 de 4  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+SOFTWARE 
+Se reconocerá la adquisición de licencias especializadas y destinadas al desarrollo del proyecto 
+de carácter científico, tecnológico o de innovación.  
+ 
+No se acepta la compra de sistemas operativos y programas básicos como Office, Windows o 
+sistemas de información tales como ERP, CRM entre otros.  
+DIFUSIÓN DE  
+RESULTADOS 
+Incluye el diseño, elaboración y distribución de cartillas técnicas, posters, así como inscripción a 
+congresos y publicación de los distintos resultados esperados del proyecto. 
+BIBLIOGRAFÍA 
+Sólo la relacionada con el proyecto de carácter científico o tecnológico. Se reconocerá en este 
+rubro la suscripción a redes de información para consulta de las bases de datos y redes 
+especializadas necesarias para la temática del proyecto. 
+ACREDITACIÓN 
+Obtención de acreditación de cumplimiento de normas de aseguramiento de la calidad o 
+requisitos que sean totalmente necesarios para el desarrollo del proyecto, para este caso se 
+pueden incluir los gastos de implementación de dichas normas. (Se reconocerán si son una 
+actividad necesaria para la ejecución o como resultado del proyecto y no el proyecto en sí 
+mismo).  
+ 
+Se debe establecer claramente cuál es el porcentaje de participación y valor de estas 
+inversiones en el proyecto, para lo cual se tendrá en cuenta criterios como la depreciación o 
+amortización durante la ejecución del proyecto, sin incluir el uso de estos en la etapa posterior 
+de producción. 
+GASTOS DE 
+VIAJE  
+Se reconocerán los gastos relacionados con tiquetes nacionales, viáticos del personal del 
+proyecto que requiera desplazamiento al departamento seleccionado en donde prestará el 
+servicio.  
+GASTOS DE  
+ADMINISTRACIÓN 
+Son las erogaciones o gastos tales como: los salarios del personal administrativo, materiales y 
+suministros de oficina, Imprevistos y servicios generales claramente identificados y que sean 
+necesarios para la ejecución del proyecto.  Se reconocerá hasta un diez por ciento (10%) del 
+valor total del proyecto, lo cual deberá estar justificado en su formulación. 
+ 
+Adicionalmente, podrá incluir gastos asociados a mercadeo o comercialización de servicios en 
+los departamentos seleccionados. 
+ 
+Notas:  
+ 
+1. En caso de solicitar apoyo en la financiación de los rubros Servicios tecnológicos, Capacitación, Consultoría 
+especializada y Materiales e Insumos, la sumatoria de estos no podrá superar el 40% del total de la financiación 
+del proyecto, sin embargo, el resto podrá ser asumido con recursos de contrapartida.  
+ 
+2. No se financiarán rubros con recursos de esta convocatoria que correspondan a actividades ejecutadas en el 
+marco de proyectos apoyado con recursos públicos de otras convocatorias de entidades públicas en los últimos 
+dos (2) años.  
+ 
+3. Rubros No Financiables 
+ 
+No se aportarán recursos de esta convocatoria ni recursos de la contrapartida, para las siguientes acciones: 
+ 
+1. Capital de trabajo para la producción corriente. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F01 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 4 de 4  
+ 
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+ 
+ 
+2. Compra de lotes, construcciones, adecuación de infraestructura física. 
+3. Pagos de deudas, dividendos o recuperaciones de capital. 
+4. Inversiones en otras entidades y/o empresas. 
+5. Compra de acciones, derechos de empresas, bonos y otros valores mobiliarios. 
+6. Pago de regalías e impuestos causados en el desarrollo del proyecto a excepción de los impuestos, tasas, 
+contribuciones y gravámenes que se causen por la adquisición de bienes muebles y servicios, necesarios para la 
+ejecución del proyecto, incluido el gravamen a los movimientos financieros, los cuales podrán ser causados en los 
+recursos de Contrapartida. 
+7. Matriculas para formación de alto nivel (maestría y doctorado). 
+8. Gastos de legalización del contrato o gastos asociados. 
+9. Diagnósticos, así como estudios sectoriales, locales, regionales, nacionales o de tecnologías. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ No
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+No
+Criterio 1
+Criterio 2
+Criterio 3
+ Inscripción de la propuesta de proyecto en el Sistema integrado de 
+Gestión de Proyectos de MINCIENCIAS – SIGP a través del 
+formulario electrónico disponible en el portal de MINCIENCIAS 
+(https://minciencias.gov.co/scienti
+Adjuntar la carta unificada de aval que se encuentra en el Anexo 1. 
+Carta de aval y compromiso institucional, debidamente firmada por 
+el representante legal o quien haga sus veces en la entidad 
+participante
+Código de la 
+propuesta o 
+proyecto, número 
+de identificación 
+del proponente o 
+ID 
+Cumplimiento de requisitos
+Condiciones inhabilitantes
+Resultados de la evaluación
+Elegible 
+preliminar
+Requisito
+ DIirigido A
+Calidad de la Propuesta de Proyecto
+Pertinencia de la Propuesta de Proyecto
+ Inscripción de la propuesta de proyecto 
+40
+Lugar en 
+el banco
+IV. MinCiencias atendiendo a lo establecido en los términos de referencia de la convocatoria, publica a continuación los resultados preliminares del proceso de evaluación de las propuestas recibidas, que
+contiene el banco preliminar de propuestas elegibles
+Criterio de Evaluación
+30
+30
+Convocatoria 888 de 2020
+CONVOCATORIA PARA EL FORTALECIMIENTO DE LABORATORIOS DE CALIBRACIÓN O DE ENSAYO EN DEPARTAMENTOS PRIORIZADOS DEL PAÍS-2020
+EI Ministerio de Ciencia, Tecnología e Innovación - MINCIENCIAS, atendiendo a lo establecido en los términos de referencia de la convocatoria 888 de 2020, publica el banco preliminar de propuestas elegibles*, para tal fin se
+permite reiterar la siguiente información debidamente publicada en los términos de referencia:
+ BANCO PRELIMINAR DE PROPUESTAS ELEGIBLES DE CONVOCATORIAS
+Convocatoria 888 de 2020
+Nota: La inclusión de un proyecto en el banco de elegibles no implica obligatoriedad ni compromiso alguno de MINCIENCIAS o del INM de asignar recursos, ni genera derecho a recibir apoyos económicos para quienes hayan
+presentado los proyectos correspondientes. 
+Sección 1
+Ajustarse al tipo de proponente especificado en el numeral 3 
+DIRIGIDA A, definido en los presentes términos de referencia.
+Descripción
+II. Los criterios de evaluación para la convocatoria son los que se relacionan a continuación:
+III. El puntaje mínimo para que la propuesta sea declarada elegible es de 70 puntos
+Estar legalmente constituido en Colombia con un tiempo no inferior 
+a doce (12) meses a la fecha de cierre de la convocatoria.
+Constitucion 
+100
+Sección 4
+Carta de aval y compromiso institucional
+Portafolio de Servicios
+Certificación expedida y firmada por contador o revisor fiscal 
+ Hoja de vida del gerente o director del proyecto
+Autodiagnóstico de innovación
+Total
+Resultados e impactos del proyecto
+Anexar hoja de vida del gerente o director del proyecto, quien 
+ejercerá funciones de gestión y coordinación de las acciones 
+requeridas para fortalecer las  capacidades metrológicas 
+implementando uno o varios servicios, en la(s) apuesta(s) 
+productiva(s), en el(los) departamento(s) seleccionado(s) y facilitar 
+la incursión de procesos de calidad en la entidad de acuerdo con la 
+norma ISO/IEC 17025:2017. 
+Realizar el autodiagnóstico de innovación en 
+http://pactosporlainnovacion.minciencias.gov.co por al menos una 
+persona de la organización. Este requisito será validado mediante 
+el Certificado de firma del autodiagnóstico de la organización cuyos 
+pasos se encuentran en pie de página
+Sección 3
+Sección 2
+Adjuntar el portafolio de servicios prestados por el proponente de 
+acuerdo con el Anexo 2. Portafolio de Servicios.
+Para el caso de las personas jurídicas o demás organizaciones de 
+carácter privado, estas deberán presentar certificación expedida y 
+firmada por contador o revisor fiscal (según sea el caso), quien 
+deberá anexar copia de la tarjeta profesional
+I. Los requisitos establecidos para la convocatoria son los que se relacionan a continuación:
+Puntaje máximo a asignar
+Página 1 de 4
+ Convocatoria 888 de 2020
+CONVOCATORIA PARA EL FORTALECIMIENTO DE LABORATORIOS DE CALIBRACIÓN O DE ENSAYO EN DEPARTAMENTOS PRIORIZADOS DEL PAÍS-2020
+ BANCO PRELIMINAR DE PROPUESTAS ELEGIBLES DE CONVOCATORIAS
+Convocatoria 888 de 2020
+Sección 1
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+Cumple Habilitada
+Inhabilitada
+Observaciones
+Criterio 1
+Criterio 2
+Criterio 3 Puntaje 
+Final
+Observaciones del 
+desempate
+1
+81742
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+40,0
+29,5
+28,0
+97,5
+SI
+2
+81754
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+40,0
+29,5
+27,0
+96,5
+SI
+3
+81899
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+39,0
+28,5
+28,5
+96,0
+Criterio Desempate 1
+SI
+4
+81817
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+38,0
+28,5
+29,5
+96,0
+Criterio Desempate 1
+SI
+5
+81613
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+40,0
+28,5
+27,0
+95,5
+SI
+6
+81835
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+38,5
+28,0
+28,5
+95,0
+Criterio Desempate 1
+SI
+7
+81632
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+37,5
+28,5
+29,0
+95,0
+Criterio Desempate 1
+SI
+8
+81793
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+38,5
+28,5
+27,5
+94,5
+Criterio Desempate 1
+SI
+9
+81815
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+36,0
+28,5
+30,0
+94,5
+Criterio Desempate 1
+SI
+10
+81857
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+39,0
+29,0
+26,0
+94,0
+Criterio Desempate 2
+SI
+11
+81933
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+39,0
+28,0
+27,0
+94,0
+Criterio Desempate 2
+SI
+12
+81818
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+38,0
+28,5
+27,5
+94,0
+Criterio Desempate 1
+SI
+13
+81850
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+37,5
+27,5
+29,0
+94,0
+Criterio Desempate 1
+SI
+14
+81791
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+38,0
+29,0
+26,5
+93,5
+SI
+15
+81724
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+38,0
+27,5
+27,0
+92,5
+SI
+16
+81888
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+37,5
+28,0
+26,0
+91,5
+Criterio Desempate 1
+SI
+17
+81826
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+37,0
+27,5
+27,0
+91,5
+Criterio Desempate 1
+SI
+18
+81864
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+36,5
+29,0
+25,5
+91,0
+Criterio Desempate 1
+SI
+19
+81661
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+36,0
+28,0
+27,0
+91,0
+Criterio Desempate 1
+SI
+20
+81716
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+33,5
+30,0
+27,5
+91,0
+Criterio Desempate 1
+SI
+21
+81693
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+33,5
+28,5
+28,5
+90,5
+SI
+22
+81872
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+36,0
+28,0
+26,0
+90,0
+SI
+23
+81955
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+38,5
+27,5
+23,5
+89,5
+Criterio Desempate 1
+SI
+24
+81804
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+36,5
+26,5
+26,5
+89,5
+Criterio Desempate 1
+SI
+25
+81798
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+36,0
+28,0
+25,5
+89,5
+Criterio Desempate 1
+SI
+26
+81624
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+35,5
+28,0
+26,0
+89,5
+Criterio Desempate 1
+SI
+27
+81871
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+33,5
+28,5
+27,5
+89,5
+Criterio Desempate 1
+SI
+28
+81879
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+38,5
+27,5
+23,0
+89,0
+Criterio Desempate 1
+SI
+29
+81900
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+38,0
+26,5
+24,5
+89,0
+Criterio Desempate 1
+SI
+30
+81733
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+35,5
+26,5
+27,0
+89,0
+Criterio Desempate 1
+SI
+31
+81785
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+35,0
+26,5
+27,0
+88,5
+Criterio Desempate 1
+SI
+32
+81741
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+34,5
+26,5
+27,5
+88,5
+Criterio Desempate 1
+SI
+33
+81777
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+35,0
+27,0
+26,0
+88,0
+Primera
+Propuesta
+de
+Proyecto Inscrita
+SI
+34
+81866
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+35,0
+27,0
+26,0
+88,0
+Primera
+Propuesta
+de
+Proyecto Inscrita
+SI
+35
+81688
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+33,0
+27,0
+28,0
+88,0
+Criterio Desempate 1
+SI
+36
+81720
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+36,5
+25,0
+26,0
+87,5
+SI
+37
+81747
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+34,0
+25,5
+27,0
+86,5
+SI
+38
+81882
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+33,5
+27,0
+25,5
+86,0
+Criterio Desempate 2
+SI
+39
+81672
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+33,5
+25,5
+27,0
+86,0
+Criterio Desempate 2
+SI
+40
+81752
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+35,5
+24,0
+26,3
+85,8
+SI
+41
+81846
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+35,5
+25,0
+25,0
+85,5
+Criterio Desempate 1
+SI
+42
+81731
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+34,5
+23,5
+27,5
+85,5
+Criterio Desempate 1
+SI
+43
+81767
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+34,0
+25,0
+26,5
+85,5
+Criterio Desempate 1
+SI
+44
+81799
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+37,5
+26,5
+21,0
+85,0
+Criterio Desempate 1
+SI
+45
+81722
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+33,5
+25,0
+26,5
+85,0
+Criterio Desempate 1
+SI
+46
+81912
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+33,0
+27,0
+25,0
+85,0
+Criterio Desempate 1
+SI
+47
+81673
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+34,5
+26,0
+24,0
+84,5
+Criterio Desempate 1
+SI
+48
+81721
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+32,5
+27,0
+25,0
+84,5
+Criterio Desempate 1
+SI
+49
+81951
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+35,5
+25,0
+23,5
+84,0
+Criterio Desempate 1
+SI
+50
+81761
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+32,0
+27,5
+24,5
+84,0
+Criterio Desempate 1
+SI
+51
+81719
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+31,0
+26,0
+27,0
+84,0
+Criterio Desempate 1
+SI
+52
+81806
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+35,5
+25,0
+23,0
+83,5
+Criterio Desempate 1
+SI
+Código de la 
+propuesta o 
+proyecto, número 
+de identificación 
+del proponente o 
+ID 
+Elegible 
+preliminar
+Lugar en 
+el banco
+Sección 4
+Página 2 de 4
+ Convocatoria 888 de 2020
+CONVOCATORIA PARA EL FORTALECIMIENTO DE LABORATORIOS DE CALIBRACIÓN O DE ENSAYO EN DEPARTAMENTOS PRIORIZADOS DEL PAÍS-2020
+ BANCO PRELIMINAR DE PROPUESTAS ELEGIBLES DE CONVOCATORIAS
+Convocatoria 888 de 2020
+Sección 1
+53
+81717
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+32,0
+26,0
+25,5
+83,5
+Criterio Desempate 1
+SI
+54
+81945
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+31,0
+26,0
+26,5
+83,5
+Criterio Desempate 1
+SI
+55
+81763
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+30,5
+27,5
+25,5
+83,5
+Criterio Desempate 1
+SI
+56
+81735
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+35,5
+23,0
+24,5
+83,0
+Criterio Desempate 1
+SI
+57
+81710
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+34,0
+25,0
+24,0
+83,0
+Criterio Desempate 1
+SI
+58
+81593
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+33,5
+26,5
+23,0
+83,0
+Criterio Desempate 1
+SI
+59
+81789
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+28,5
+27,5
+27,0
+83,0
+Criterio Desempate 1
+SI
+60
+81845
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+35,5
+27,0
+19,5
+82,0
+Criterio Desempate 1
+SI
+61
+81760
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+32,0
+24,0
+26,0
+82,0
+Criterio Desempate 1
+SI
+62
+81745
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+32,0
+27,0
+22,5
+81,5
+SI
+63
+81810
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+31,0
+26,0
+23,5
+80,5
+Criterio Desempate 1
+SI
+64
+81959
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+29,0
+27,0
+24,5
+80,5
+Criterio Desempate 1
+SI
+65
+81822
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+32,0
+26,0
+22,0
+80,0
+Criterio Desempate 2
+SI
+66
+81768
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+32,0
+25,5
+22,5
+80,0
+Criterio Desempate 2
+SI
+67
+81555
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+30,0
+23,5
+26,5
+80,0
+Criterio Desempate 1
+SI
+68
+81782
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+29,0
+23,0
+28,0
+80,0
+Criterio Desempate 1
+SI
+69
+81764
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+30,5
+25,0
+24,0
+79,5
+Criterio Desempate 2
+SI
+70
+81748
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+30,5
+24,0
+25,0
+79,5
+Criterio Desempate 2
+SI
+71
+81877
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+32,5
+23,0
+23,0
+78,5
+Criterio Desempate 1
+SI
+72
+81852
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+30,5
+25,5
+22,5
+78,5
+Criterio Desempate 1
+SI
+73
+81662
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+26,0
+25,5
+25,0
+76,5
+SI
+74
+81648
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+32,5
+23,0
+20,5
+76,0
+Criterio Desempate 1
+SI
+75
+81890
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+31,0
+23,0
+22,0
+76,0
+Criterio Desempate 1
+SI
+76
+81907
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+32,5
+20,5
+22,5
+75,5
+Criterio Desempate 1
+SI
+77
+81796
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+29,5
+23,0
+22,5
+75,0
+Criterio Desempate 1
+SI
+78
+81684
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+29,0
+23,0
+23,0
+75,0
+Criterio Desempate 1
+SI
+79
+81859
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+28,0
+26,0
+21,0
+75,0
+Criterio Desempate 1
+SI
+80
+81797
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+30,0
+22,0
+22,5
+74,5
+SI
+81
+81908
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+29,0
+23,0
+21,5
+73,5
+Criterio Desempate 1
+SI
+82
+81740
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+25,5
+23,0
+25,0
+73,5
+Criterio Desempate 1
+SI
+83
+81743
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+30,5
+20,0
+22,5
+73,0
+Criterio Desempate 1
+SI
+84
+81756
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+30,0
+23,0
+20,0
+73,0
+Criterio Desempate 1
+SI
+85
+81893
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+30,0
+22,0
+21,0
+73,0
+Criterio Desempate 2
+SI
+86
+81802
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+30,5
+21,5
+20,5
+72,5
+SI
+87
+81825
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+26,0
+24,0
+20,0
+70,0
+SI
+88
+81739
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+28,5
+22,5
+18,5
+69,5
+NO
+89
+81753
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+27,0
+24,0
+18,0
+69,0
+NO
+90
+81749
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+27,0
+19,5
+22,0
+68,5
+NO
+91
+81800
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+29,5
+22,5
+16,0
+68,0
+Criterio Desempate 1
+NO
+92
+81906
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+29,0
+19,0
+20,0
+68,0
+Criterio Desempate 1
+NO
+93
+81824
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+23,0
+23,0
+22,0
+68,0
+Criterio Desempate 1
+NO
+94
+81729
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+27,0
+20,5
+18,0
+65,5
+NO
+95
+81557
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+27,5
+17,5
+20,0
+65,0
+NO
+96
+81837
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+26,5
+17,0
+20,8
+64,3
+NO
+97
+81854
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+23,5
+17,5
+22,5
+63,5
+NO
+98
+81858
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+24,0
+20,5
+18,0
+62,5
+Criterio Desempate 1
+NO
+99
+81792
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+23,5
+20,5
+18,5
+62,5
+Criterio Desempate 1
+NO
+100
+81914
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+23,5
+18,0
+21,0
+62,5
+Criterio Desempate 2
+NO
+101
+81984
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+21,0
+21,0
+20,0
+62,0
+Criterio Desempate 1
+NO
+102
+81703
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+22,0
+17,5
+22,5
+62,0
+Criterio Desempate 1
+NO
+103
+81730
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+24,5
+19,0
+18,0
+61,5
+Criterio Desempate 1
+NO
+104
+81840
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+22,0
+18,5
+21,0
+61,5
+Criterio Desempate 1
+NO
+105
+81947
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+24,0
+18,5
+18,0
+60,5
+NO
+106
+81778
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+23,0
+16,0
+19,0
+58,0
+NO
+107
+81898
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+23,5
+16,5
+17,0
+57,0
+Criterio Desempate 1
+NO
+108
+81813
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+22,5
+16,5
+18,0
+57,0
+Criterio Desempate 1
+NO
+109
+81967
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+17,5
+17,5
+22,0
+57,0
+Criterio Desempate 1
+NO
+110
+81780
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+18,0
+19,0
+19,5
+56,5
+NO
+111
+81728
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+17,0
+14,0
+25,0
+56,0
+NO
+112
+81926
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+22,0
+14,5
+17,0
+53,5
+NO
+Sección 4
+Página 3 de 4
+ Convocatoria 888 de 2020
+CONVOCATORIA PARA EL FORTALECIMIENTO DE LABORATORIOS DE CALIBRACIÓN O DE ENSAYO EN DEPARTAMENTOS PRIORIZADOS DEL PAÍS-2020
+ BANCO PRELIMINAR DE PROPUESTAS ELEGIBLES DE CONVOCATORIAS
+Convocatoria 888 de 2020
+Sección 1
+113
+81794
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+22,5
+21,5
+5,5
+49,5
+NO
+114
+81808
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+19,0
+16,5
+13,0
+48,5
+Criterio Desempate 2
+NO
+115
+81894
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+19,0
+14,0
+15,5
+48,5
+Criterio Desempate 2
+NO
+116
+81592
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+17,5
+13,5
+17,0
+48,0
+NO
+117
+81758
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+16,5
+13,0
+17,5
+47,0
+NO
+118
+81737
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+15,5
+14,0
+15,5
+45,0
+NO
+119
+81594
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+13,5
+14,5
+13,5
+41,5
+NO
+120
+81862
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+17,0
+11,5
+11,0
+39,5
+NO
+121
+81952
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+16,0
+11,0
+8,0
+35,0
+NO
+122
+81786
+SI
+SI
+SI
+NO
+SI
+SI
+SI
+SI
+NO
+X
+NO
+123
+81572
+SI
+SI
+SI
+SI
+SI
+NO
+SI
+SI
+NO
+X
+NO
+124
+81805
+SI
+SI
+SI
+si
+SI
+NO
+SI
+SI
+NO
+X
+NO
+125
+81707
+SI
+SI
+SI
+SI
+SI
+NO
+SI
+SI
+NO
+X
+NO
+126
+81870
+SI
+SI
+SI
+SI
+SI
+NO
+SI
+SI
+NO
+X
+NO
+127
+81803
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+NO
+NO
+X
+NO
+128
+81874
+NO
+SI
+SI
+SI
+SI
+SI
+NO
+SI
+NO
+X
+NO
+129
+81842
+SI
+SI
+SI
+SI
+SI
+NO
+SI
+SI
+NO
+X
+NO
+130
+81834
+SI
+SI
+SI
+NO
+SI
+SI
+SI
+SI
+NO
+X
+NO
+131
+81891
+SI
+SI
+SI
+SI
+NO
+NO
+SI
+SI
+NO
+X
+NO
+132
+81956
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+NO
+NO
+X
+NO
+133
+81953
+NO
+SI
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+X
+NO
+134
+81838
+SI
+SI
+SI
+SI
+SI
+NO
+SI
+SI
+NO
+X
+NO
+135
+81924
+SI
+SI
+SI
+SI
+SI
+NO
+SI
+SI
+NO
+X
+NO
+136
+81685
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+NO
+NO
+X
+NO
+CÓDIGO: M801PR02MO3
+VERSIÓN: 00
+FECHA: 2020-01-09
+SI
+NO
+X
+CLARA BEATRIZ OCAMPO DURÁN
+Director Técnico encargado de las funciones de la 
+Dirección de Transferencia y Uso del Conocimiento
+La presente se firma a los 06 días del mes de Noviembre de 2020
+* Banco preliminar: Listado de propuestas o proyectos evaluados, que de acuerdo a lo establecido en los términos de referencia, cumplen requisitos básicos y podrían ingresar al banco definitivo de elegibles, previo agotamiento del periodo de aclaraciones.
+Observaciones o notas adicionales:
+Sección 5
+NELSON DAVID GUTIÉRREZ OLAYA 
+Director de Inteligencia de Recursos
+de la Ciencia, la Tecnología y la Innovación (CTeI)
+Sección 4
+Página 4 de 4
+ �
+�
+������������������������������������������������
+�
+���������������������������������������� �������������������!������������
+��� ���������"""����#$#$�
+%&'(
+)*+,-,./,0�
+12.(
+'3+,4567%8659:-,
+;/<=(
+2)+,6-,
+>/?@*+,5656A65A-B,
+�
+CD
+,E(
+</?F3<,./,G)F/D
+(
+'/)?(
+*,./,8/?H<=3=,./,D
+*,1I/GJ,/),H=3,./,=H=,K*?HD
+F*./=,?3)=F(
+FH?(
+3)*D
+/=,L,D
+/'*D
+/=,/),
+/=M/?(
+*D
+,D
+*=,?3)K/<(
+.*=,/),/D
+,E/?</F3,555N,./,56-BJ,D
+*,8/=3D
+H?(
+2),65O5,./,5656J,D
+*,8/=3D
+H?(
+2),B5P,./,5656,L,
+/),*F/)?(
+2),*,D
+3=,=(
+'H(
+/)F/=+,
+�
+��������Q�����
+RH/,S/.(
+*)F/,D
+*,8/=3D
+H?(
+2),T3UB7N,./D
+,-O,./,=/MF(
+/SV</,./,5656,/D
+,9(
+)(
+=F/<(
+3,./,1(
+/)?(
+*J,I/?)3D
+3'W*,/,
+G))3X*?(
+2)J,3<./)2,D
+*,*M/<FH<*,./,D
+*,13)X3?*F3<(
+*,T3UYYY,./,5656,Z[\]^\_`a\bc
+`de`b`dfg
+dh\ba`g
+f_c
+ic
+f]a\djfd
+g
+`k\b`a\bc
+\ldjfd_`g
+c
+kb`_c
+m]d\djfdf]l`n\df]djfe`ba`if]a\ldebc
+\bc
+o`j\ldjfg
+de`c
+lpqrqrst,
+,
+RH/,/),/D
+,S*<?3,./,D
+*,13)X3?*F3<(
+*,T3UYYY,./,5656J,=/,</?(
+V(
+/<3),D
+*=,M<3MH/=F*=,L,*uH/D
+D
+*=,uH/,?HSMD
+(
+/<3),
+?3),D
+3=,</uH(
+=(
+F3=,KH/<3),/X*D
+H*.*=,M<3?/.(
+/).3,*,MHVD
+(
+?*<,/D
+,v*)?3,%</D
+(
+S(
+)*<,./,CD
+/'(
+VD
+/=,/D
+,.W*,6N,./,
+)3X(
+/SV</,./,5656U,
+RH/,S/.(
+*)F/,S/S3<*).3,5656655605BNO0,./D
+,-P,./,)3X(
+/SV</,./,5656J,=/,=3D
+(
+?(
+F2,D
+*,MHVD
+(
+?*?(
+2),./D
+,D
+(
+=F*.3,
+./D
+,v*)?3,E/K(
+)(
+F(
+X3,./,CD
+/'(
+VD
+/=,./,D
+*,13)X3?*F3<(
+*,T3U,YYY,./,5656J,/),*F/)?(
+2),?3),D
+3,/=F*VD
+/?(
+.3,/),D
+3=,
+Iw<S(
+)3=,./,8/K/</)?(
+*U,
+,
+RH/,
+.H<*)F/,
+/D
+,
+M/<W3.3,
+./,
+*?D
+*<*?(
+3)/=J,
+=/,
+</?(
+V(
+/<3),
+x5-y,
+=3D
+(
+?(
+FH./=,
+./,
+*?D
+*<*?(
+2)J,
+D
+*=,
+?H*D
+/=,
+KH/<3),
+*F/).(
+.*=J,
+)(
+)'H)*,FHX3,S/<(
+F3,M*<*,S3.(
+K(
+?*<,D
+3=,</=HD
+F*.3=,(
+)(
+?(
+*D
+S/)F/,3VF/)(
+.3=U,
+RH/,=(
+),/SV*<'3,=(
+,=/,S3.(
+K(
+?2,/D
+,D
+(
+=F*.3,M</D
+(
+S(
+)*<,?3S3,?3)=/?H/)?(
+*,./,H)*,</X(
+=(
+2),(
+)F/<)*,./D
+,M<3?/=3,./,
+?*D
+(
+K(
+?*?(
+2)J,M3<,H),?&D
+?HD
+3,(
+)*./?H*.3,/),D
+*,M3)./<*?(
+2),K(
+)*D
+,./,D
+3=,M<3L/?F3=,uH/,</uH(
+<(
+/<3),H),F/<?/<,
+/X*D
+H*.3<U,z3=,Fw<S(
+)3=,./,
+</K/</)?(
+*,./,D
+*,?3)X3?*F3<(
+*,YYY,./,5656,(
+).(
+?*),
+uH/,D
+*,?*D
+(
+K(
+?*?(
+2),K(
+)*D
+,=/,3VF(
+/)/,
+?*D
+?HD
+*).3,/D
+,M<3S/.(
+3,./,D
+*=,.3=,x5y,?*D
+(
+K(
+?*?(
+3)/=,./,D
+3=,M*</=,/X*D
+H*.3</=,*=(
+')*.3=,*,?*.*,M<3L/?F3U,z3=,
+M<3L/?F3=,?HL*,.(
+K/</)?(
+*,/)F</,D
+*=,/X*D
+H*?(
+3)/=,M3<,M*</=,=/*,(
+'H*D
+,3,S*L3<,*,06,MH)F3=J,=(
+/SM</,L,?H*).3,
+H)*,
+./,
+D
+*=,.3=,
+=/*,
+(
+'H*{
+|
+}|
+~�����
+}�|
+�|
+~������|
+����|
+����}~�|�}������|
+�}�|
+{
+�|
+���{
+����
+��|
+��|
+��|
+������|
+���|
+���{
+���}��|
+{
+�|���{
+|~����
+,M<3S/.(
+*.*,?3),D
+*=,.3=,*)F/<(
+3</=U,,
+,
+RH/,/),/D
+,V*)?3,M</D
+(
+S(
+)*<J,D
+*,MH)FH*?(
+2),K(
+)*D
+,./,D
+3=,M<3L/?F3=,uH/,</uH(
+<(
+/<3),H),F/<?/<,/X*D
+H*.3<,=/,</*D
+(
+�2,
+M<3S/.(
+*).3,D
+*=,.3=,x5y,?*D
+(
+K(
+?*?(
+3)/=,./,D
+3=,/X*D
+H*.3</=,*=(
+')*.3=,uH/,M</=/)F*<3),S/)3<,.(
+=M/<=(
+2),/)F</,
+=WU,%3<,/=F/,S3F(
+X3J,/=,)/?/=*<(
+3,?3<</'(
+<,/=F*,M3)./<*?(
+2),*F/).(
+/).3,*,D
+3=,KH).*S/)F3=,(
+).(
+?*.3=,/),D
+3=,
+Fw<S(
+)3=,./,</K/</)?(
+*,./,D
+*,?3)X3?*F3<(
+*U,C=,(
+SM3<F*)F/,*?D
+*<*<,uH/,D
+*,*)F/<(
+3<,S3.(
+K(
+?*?(
+2),*D
+F/<2,/D
+,D
+H'*<,./,
+H)*,3,S&=,M<3MH/=F*=,/),/D
+,V*)?3,./K(
+)(
+F(
+X3U,�(
+),/SV*<'3J,)3,?*SV(
+3,/D
+,)�S/<3,./,M<3L/?F3=,/D
+/'(
+VD
+/=,L,)3,
+/D
+/'(
+VD
+/=,M</=/)F*.3=,?3),</=M/?F3,*,D
+3,/�MH/=F3,/),/D
+,V*)?3,M</D
+(
+S(
+)*<
+��
+,
+CD
+,=(
+'H(
+/)F/,?H*.<3,=/,SH/=F<*,D
+*=,M<3MH/=F*=,uH/,M</=/)F*<3),S3.(
+K(
+?*?(
+2),/),/D
+,V*)?3,./K(
+)(
+F(
+X3+,,
+����
+������������
+ �
+�����
+�
+�����������
+�
+�
+�
+������������������������������������������������
+�
+�
+���������������������������������������� �������������������!������������
+��� ���������"""����#$#$�
+%
+&'()
+*+,-.-/0-1%
+23/)
+(4,-5.67&86.9:;-
+<0=>)
+3*,-6;-
+?0@A+,-.6.6B6.B;C-
+D%
+EFGHIJKLMNOPGG QIROMIRJGSG
+FMTRURORVJG
+QIROMIRJGWG
+FMTRURORVJG
+QIROMIRJGXG
+FMTRURORVJG
+HLUOPYMG
+ZRUP[G
+HLUOPYMGKL\[R]P^JGMUG
+_PU]JGKIM[R`RUPIG
+a[MbR\[MG
+KIM[R`RUPIG
+cD
+dcefgD
+ghihhD
+jkifeD
+jgiggD
+lmnooG
+dgikD
+pEG
+jD
+dcdkqD
+jdifeD
+cdiggD
+jjiggD
+rmnXXG
+fgikD
+stG
+gD
+dceuqD
+jcihhD
+cdiggD
+dihhD
+vlnXXG
+quikD
+stG
+qD
+dckkkD
+gcihhD
+jkifeD
+jeiggD
+wvnooG
+dhD
+pEG
+kD
+dceujD
+jfihhD
+jhifeD
+cdiggD
+rxnooG
+fjikD
+stG
+fD
+dcdudD
+jciggD
+ckihhD
+cuifeD
+xrnooG
+keD
+stG
+eD
+dcuheD
+gcihhD
+jhifeD
+jgihhD
+lvnrlG
+ekikD
+pEG
+dD
+dcegeD
+cuihhD
+ckiggD
+cqifeD
+vmnooG
+qkD
+stG
+uD
+dcefqD
+gjihhD
+jqifeD
+jkihhD
+wSnrlG
+euikD
+pEG
+chD
+dcuqeD
+jcifeD
+cuihhD
+cuifeD
+ronXXG
+fhikD
+stG
+ccD
+dceghD
+jeifeD
+jhifeD
+cuiggD
+rlnrlG
+fcikD
+stG
+cjD
+dceedD
+jkiggD
+cuihhD
+jcihhD
+rxnXXG
+kdD
+stG
+-
+yz0-0{
+-{
+)
+>|+/4-/0{
+-}+*@4-~0�)
+*)
+|)
+�4-/0-�{
+0()
+�{
+0>-0>|'-0{
++�4=+/4-+@4=/0-@4*-{
+4-0>|+�{
+0@)
+/4-0*-0{
+-*z�0=+{
+-;�-/0-
+{
+4>-��=�)
+*4>-/0-80�0=0*@)
++�-
+yz0-/0-@4*�4=�)
+/+/-@4*-{
+4-0>|+�{
+0@)
+/4-0*-0{
+-�0*@)
+4*+/4-*z�0=+{
+�->0-)
+*�4=�+='-�0/)
++*|0-@4�z*)
+@+@)
+3*-
+0>@=)
+|+-
+��4-0{
+0@|=3*)
+@+-+-{
+4>-�0*0�)
+@)
++=)
+4>-�z0-A+�+*->)
+/4->0{
+0@@)
+4*+/4>-�+=+->0=-�)
+*+*@)
++/4>�-)
+*/)
+@+*/4-{
++>-
+)
+*>|=z@@)
+4*0>-�-@4*/)
+@)
+4*0>-�+=+->z>@=)
+�)
+=-0{
+-@4*|=+|4�--
+yz0-0*-��=)
+|4-/0-{
+4-0��z0>|4�-
+�
+�
+�
+����
+ �
+�����
+�
+�����������
+�
+�
+�
+������������������������������������������������
+�
+�
+���������������������������������������� �������������������!������������
+��� ���������"""����#$#$�
+%
+&'()
+*+,-.-/0-.%
+12/)
+(3,-4567&8659:;-
+<0=>)
+2*,-6;-
+?0@A+,-5656B65B;C-
+������D��
+E�FG�����H��I���J�:=/0*+=-K
++-LMNK
+)
+@+@)
+2*-/0K
+-O+*@3-P0Q)
+*)
+R)
+S3-
+/0-&=3LM0>R+>-
+TK
+0()
+NK
+0>-
+/0-K
++-13*S3@+R3=)
++-
+U3V-WWW-/0-5656V-
+-
+E�FG�������X����J�Y+@0-L+=R0-)
+*R0(=+K
+-/0-K
++-L=0>0*R0-80>3K
+M@)
+2*-0K
+-K
+)
+>R+/3-/0K
+-O+*@3-P0Q)
+*)
+R)
+S3-/0-
+&=3LM0>R+>-TK
+0()
+NK
+0>-/0-K
++-13*S3@+R3=)
++-U3VWWW-/0-5656V-
+-
+E�FG�����F������J-Z+-L=0>0*R0-80>3K
+M@)
+2*-=)
+(0-+-L+=R)
+=-/0-K
++-Q0@A+-/0->M-0[L0/)
+@)
+2*-\->0='-LMNK
+)
+@+/+-0*-
+K
++-L'()
+*+-]0N-^^^V_)
+*@)
+0*@)
++>V(3SV@3-
+-
+H�`�Ga�����b��cIH�E���
+�
+P+/+-0*-O3(3R'-PV1V--+-K
+3>-
+�
+��������ED���X�F�����d���EbE�
+P)
+=0@R3=-/0-e*R0K
+)
+(0*@)
++-/0-80@M=>3>-/0-K
++-1)
+0*@)
++f-K
++-g0@*3K
+3(h+-\-K
++-e**3S+@)
+2*-
+-
+-
+-
+TK
++N3=2,-iM+*)
+R+-P'S)
+K
++-j-13*R=+R)
+>R+-j-P)
+=0@@)
+2*-/0-e*R0K
+)
+(0*@)
++-/0-80@M=>3>-/0-K
++-1g0e-
+%
+80S)
+>2,--&+3K
++-Z+S0=/0j-j-13*R=+R)
+>R+-j-P)
+=0@@)
+2*-/0-e*R0K
+)
+(0*@)
++-/0-80@M=>3>-/0-K
++-1R0e--
+%
+-
+-
+klmn
+lopqrstplolo
+ No
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+No
+Criterio 1
+Criterio 2
+Criterio 3
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+Cumple
+Habilitada
+Inhabilitada
+Observaciones Criterio 
+1
+Criterio 
+2
+Criterio 
+3
+Puntaje Final
+Observaciones del 
+desempate
+1
+81742
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+40
+29,5
+28
+97,50
+SI
+SI
+2
+81754
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+40
+29,5
+27
+96,50
+SI
+SI
+3
+81899
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+39
+28,5
+28,5
+96,00
+Criterio Desempate 1
+SI
+SI
+4
+81817
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+38
+28,5
+29,5
+96,00
+Criterio Desempate 1
+SI
+SI
+5
+81613
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+40
+28,5
+27
+95,50
+SI
+SI
+6
+81835
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+38,5
+28
+28,5
+95,00
+Criterio Desempate 1
+SI
+SI
+Sección 3
+Total
+100
+Criterio de Evaluación
+Calidad de la Propuesta de Proyecto
+Pertinencia de la Propuesta de Proyecto
+Resultados e impactos del proyecto
+Cumplimiento de requisitos
+40
+30
+Anexar hoja de vida del gerente o director del proyecto, 
+quien ejercerá funciones de gestión y coordinación de las 
+acciones requeridas para fortalecer las  capacidades 
+metrológicas implementando uno o varios servicios, en 
+la(s) apuesta(s) productiva(s), en el(los) departamento(s) 
+seleccionado(s) y facilitar la incursión de procesos de 
+calidad en la entidad de acuerdo con la norma ISO/IEC 
+Requisito
+Descripción
+Sección 2
+Estar legalmente constituido en Colombia con un tiempo 
+no inferior a doce (12) meses a la fecha de cierre de la 
+convocatoria.
+Código de la 
+propuesta o 
+proyecto, número 
+de identificación 
+del proponente o 
+ID 
+IV. MinCiencias atendiendo a lo establecido en los términos de referencia de la convocatoria, publica los resultados definitivos del proceso de evaluación de las propuestas recibidas, que contiene el banco definitivo de propuestas elegibles
+Observaciones 
+sobre aclaraciones
+Resultados de la evaluación
+Elegible 
+preliminar
+Se presentaron 
+aclaraciones a la 
+publicación de banco 
+preliminar de 
+elegibles que 
+modifican el banco de 
+propuestas elegibles
+Condiciones inhabilitantes
+Sección 1
+Sección 4
+Elegible 
+definitivo
+Lugar en 
+el banco
+II. Los criterios de evaluación para la convocatoria son los que se relacionan a continuación:
+30
+ DIirigido A
+ Inscripción de la propuesta de proyecto 
+ Inscripción de la propuesta de proyecto en el Sistema 
+integrado de Gestión de Proyectos de MINCIENCIAS – 
+SIGP a través del formulario electrónico disponible en el 
+portal de MINCIENCIAS 
+(https://minciencias.gov.co/scienti
+Carta de aval y compromiso institucional
+Adjuntar la carta unificada de aval que se encuentra en el 
+Anexo 1. Carta de aval y compromiso institucional, 
+debidamente firmada por el representante legal o quien 
+haga sus veces en la entidad participante
+Ajustarse al tipo de proponente especificado en el 
+numeral 3 DIRIGIDA A, definido en los presentes 
+términos de referencia.
+Adjuntar el portafolio de servicios prestados por el 
+proponente de acuerdo con el Anexo 2. Portafolio de 
+Servicios.
+Para el caso de las personas jurídicas o demás 
+organizaciones de carácter privado, estas deberán 
+presentar certificación expedida y firmada por contador o 
+revisor fiscal (según sea el caso), quien deberá anexar 
+copia de la tarjeta profesional
+III. El puntaje mínimo para que la propuesta sea declarada elegible es de 70 puntos
+Puntaje máximo a asignar 
+Convocatoria 888 de 2020
+CONVOCATORIA PARA EL FORTALECIMIENTO DE LABORATORIOS DE CALIBRACIÓN O DE ENSAYO EN DEPARTAMENTOS PRIORIZADOS DEL PAÍS-2020
+EI Ministerio de Ciencia, Tecnología e Innovación - MINCIENCIAS, atendiendo a lo establecido en los términos de referencia de la convocatoria 888 de 2020, publica el banco definitivo de propuestas elegibles*, para tal fin se permite reiterar la siguiente información debidamente publicada en los términos de referencia:
+BANCO DEFINITIVO DE PROPUESTAS ELEGIBLES DE CONVOCATORIAS
+ Convocatoria 888 de 2020
+Nota: La vigencia del banco definitivo de propuestas elegibles será de 12 meses a partir de esta publicación. La inclusión de una propuesta en el banco definitivo de elegibles no implica obligatoriedad ni compromiso alguno de MinCiencias o del INM para asignar recursos, ni genera derecho a recibir apoyos económicos para quienes hayan presentado las propuestas correspondientes,
+pues las mismas dependen de la disponibilidad de recursos.
+I. Los requisitos establecidos para la convocatoria son los que se relacionan a continuación:
+Portafolio de Servicios
+Certificación expedida y firmada por contador o revisor fiscal 
+ Hoja de vida del gerente o director del proyecto
+Autodiagnóstico de innovación
+Constitucion 
+Realizar el autodiagnóstico de innovación en 
+http://pactosporlainnovacion.minciencias.gov.co por al 
+menos una persona de la organización. Este requisito 
+será validado mediante el Certificado de firma del 
+autodiagnóstico de la organización cuyos pasos se 
+encuentran en pie de página
+Página 1 de 3
+ Sección 1
+Convocatoria 888 de 2020
+CONVOCATORIA PARA EL FORTALECIMIENTO DE LABORATORIOS DE CALIBRACIÓN O DE ENSAYO EN DEPARTAMENTOS PRIORIZADOS DEL PAÍS-2020
+BANCO DEFINITIVO DE PROPUESTAS ELEGIBLES DE CONVOCATORIAS
+ Convocatoria 888 de 2020
+7
+81632
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+37,5
+28,5
+29
+95,00
+Criterio Desempate 1
+SI
+SI
+8
+81793
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+38,5
+28,5
+27,5
+94,50
+Criterio Desempate 1
+SI
+SI
+9
+81815
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+36
+28,5
+30
+94,50
+Criterio Desempate 1
+SI
+SI
+10
+81857
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+39
+29
+26
+94,00
+Criterio Desempate 2
+SI
+SI
+11
+81933
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+39
+28
+27
+94,00
+Criterio Desempate 2
+SI
+SI
+12
+81818
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+38
+28,5
+27,5
+94,00
+Criterio Desempate 1
+SI
+SI
+13
+81850
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+37,5
+27,5
+29
+94,00
+Criterio Desempate 1
+SI
+SI
+14
+81791
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+38
+29
+26,5
+93,50
+SI
+SI
+15
+81724
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+38
+27,5
+27
+92,50
+SI
+SI
+16
+81888
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+37,5
+28
+26
+91,50
+Criterio Desempate 1
+SI
+SI
+17
+81826
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+37
+27,5
+27
+91,50
+Criterio Desempate 1
+SI
+SI
+18
+81864
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+36,5
+29
+25,5
+91,00
+Criterio Desempate 1
+SI
+SI
+19
+81661
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+36
+28
+27
+91,00
+Criterio Desempate 1
+SI
+SI
+20
+81716
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+33,5
+30
+27,5
+91,00
+Criterio Desempate 1
+SI
+SI
+21
+81693
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+33,5
+28,5
+28,5
+90,50
+SI
+SI
+22
+81872
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+36
+28
+26
+90,00
+SI
+SI
+23
+81955
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+38,5
+27,5
+23,5
+89,50
+Criterio Desempate 1
+SI
+SI
+24
+81804
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+36,5
+26,5
+26,5
+89,50
+Criterio Desempate 1
+SI
+SI
+25
+81798
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+36
+28
+25,5
+89,50
+Criterio Desempate 1
+SI
+SI
+26
+81624
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+35,5
+28
+26
+89,50
+Criterio Desempate 1
+SI
+SI
+27
+81871
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+33,5
+28,5
+27,5
+89,50
+Criterio Desempate 1
+SI
+SI
+28
+81879
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+38,5
+27,5
+23
+89,00
+Criterio Desempate 1
+SI
+SI
+29
+81900
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+38
+26,5
+24,5
+89,00
+Criterio Desempate 1
+SI
+SI
+30
+81733
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+35,5
+26,5
+27
+89,00
+Criterio Desempate 1
+SI
+SI
+31
+81785
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+35
+26,5
+27
+88,50
+Criterio Desempate 1
+SI
+SI
+32
+81741
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+34,5
+26,5
+27,5
+88,50
+Criterio Desempate 1
+SI
+SI
+33
+81777
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+35
+27
+26
+88,00
+Primera Propuesta de 
+Proyecto Inscrita
+SI
+SI
+34
+81866
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+35
+27
+26
+88,00
+Primera Propuesta de 
+Proyecto Inscrita
+SI
+SI
+35
+81688
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+33
+27
+28
+88,00
+Criterio Desempate 1
+SI
+SI
+36
+81720
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+36,5
+25
+26
+87,50
+SI
+SI
+37
+81747
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+34
+25,5
+27
+86,50
+SI
+SI
+38
+81882
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+33,5
+27
+25,5
+86,00
+Criterio Desempate 2
+SI
+SI
+39
+81672
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+33,5
+25,5
+27
+86,00
+Criterio Desempate 2
+SI
+SI
+40
+81752
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+35,5
+24
+26,25
+85,75
+SI
+SI
+41
+81846
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+35,5
+25
+25
+85,50
+Criterio Desempate 1
+SI
+SI
+42
+81731
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+34,5
+23,5
+27,5
+85,50
+Criterio Desempate 1
+SI
+SI
+43
+81767
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+34
+25
+26,5
+85,50
+Criterio Desempate 1
+SI
+SI
+44
+81799
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+37,5
+26,5
+21
+85,00
+Criterio Desempate 1
+SI
+SI
+45
+81722
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+33,5
+25
+26,5
+85,00
+Criterio Desempate 1
+SI
+SI
+46
+81912
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+33
+27
+25
+85,00
+Criterio Desempate 1
+SI
+SI
+47
+81673
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+34,5
+26
+24
+84,50
+Criterio Desempate 1
+SI
+SI
+48
+81721
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+32,5
+27
+25
+84,50
+Criterio Desempate 1
+SI
+SI
+49
+81951
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+35,5
+25
+23,5
+84,00
+Criterio Desempate 1
+SI
+SI
+50
+81761
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+32
+27,5
+24,5
+84,00
+Criterio Desempate 1
+SI
+SI
+51
+81719
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+31
+26
+27
+84,00
+Criterio Desempate 1
+SI
+SI
+52
+81555
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+31
+25,67
+27,33
+84,00
+Criterio Desempate 2
+SI
+SI
+53
+81806
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+35,5
+25
+23
+83,50
+Criterio Desempate 1
+SI
+SI
+54
+81717
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+32
+26
+25,5
+83,50
+Criterio Desempate 1
+SI
+SI
+55
+81945
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+31
+26
+26,5
+83,50
+Criterio Desempate 1
+SI
+SI
+56
+81735
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+35,5
+23
+24,5
+83,00
+Criterio Desempate 1
+SI
+SI
+57
+81710
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+34
+25
+24
+83,00
+Criterio Desempate 1
+SI
+SI
+58
+81593
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+33,5
+26,5
+23
+83,00
+Criterio Desempate 1
+SI
+SI
+59
+81789
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+28,5
+27,5
+27
+83,00
+Criterio Desempate 1
+SI
+SI
+60
+81845
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+35,5
+27
+19,5
+82,00
+Criterio Desempate 1
+SI
+SI
+61
+81760
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+32
+24
+26
+82,00
+Criterio Desempate 1
+SI
+SI
+62
+81764
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+32
+24,67
+25
+81,67
+SI
+SI
+63
+81745
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+32
+27
+22,5
+81,50
+SI
+SI
+64
+81810
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+31
+26
+23,5
+80,50
+Criterio Desempate 1
+SI
+SI
+65
+81959
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+29
+27
+24,5
+80,50
+Criterio Desempate 1
+SI
+SI
+66
+81822
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+32
+26
+22
+80,00
+Criterio Desempate 2
+SI
+SI
+67
+81768
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+32
+25,5
+22,5
+80,00
+Criterio Desempate 2
+SI
+SI
+68
+81782
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+29
+23
+28
+80,00
+Criterio Desempate 1
+SI
+SI
+69
+81748
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+30,5
+24
+25
+79,50
+SI
+SI
+70
+81763
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+30
+25,67
+23,33
+79,00
+SI
+SI
+71
+81877
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+32,5
+23
+23
+78,50
+Criterio Desempate 1
+SI
+SI
+72
+81852
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+30,5
+25,5
+22,5
+78,50
+Criterio Desempate 1
+SI
+SI
+73
+81662
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+26
+25,5
+25
+76,50
+SI
+SI
+74
+81648
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+32,5
+23
+20,5
+76,00
+Criterio Desempate 1
+SI
+SI
+75
+81890
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+31
+23
+22
+76,00
+Criterio Desempate 1
+SI
+SI
+76
+81796
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+29,5
+23
+22,5
+75,00
+Criterio Desempate 1
+SI
+SI
+77
+81684
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+29
+23
+23
+75,00
+Criterio Desempate 1
+SI
+SI
+78
+81859
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+28
+26
+21
+75,00
+Criterio Desempate 1
+SI
+SI
+79
+81907
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+31
+20,67
+23
+74,67
+SI
+SI
+80
+81797
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+30
+22
+22,5
+74,50
+SI
+SI
+81
+81908
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+29
+23
+21,5
+73,50
+Criterio Desempate 1
+SI
+SI
+82
+81740
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+25,5
+23
+25
+73,50
+Criterio Desempate 1
+SI
+SI
+83
+81743
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+30,5
+20
+22,5
+73,00
+Criterio Desempate 1
+SI
+SI
+84
+81756
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+30
+23
+20
+73,00
+Criterio Desempate 1
+SI
+SI
+85
+81893
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+30
+22
+21
+73,00
+Criterio Desempate 2
+SI
+SI
+86
+81802
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+30,5
+21,5
+20,5
+72,50
+SI
+SI
+87
+81825
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+26
+24
+20
+70,00
+SI
+SI
+88
+81739
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+28,5
+22,5
+18,5
+69,50
+NO
+NO
+89
+81854
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+28,67
+18,33
+22,33
+69,33
+NO
+NO
+90
+81753
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+27
+24
+18
+69,00
+NO
+NO
+91
+81749
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+27
+19,5
+22
+68,50
+NO
+NO
+92
+81800
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+29,5
+22,5
+16
+68,00
+Criterio Desempate 1
+NO
+NO
+Sección 4
+Página 2 de 3
+ Sección 1
+Convocatoria 888 de 2020
+CONVOCATORIA PARA EL FORTALECIMIENTO DE LABORATORIOS DE CALIBRACIÓN O DE ENSAYO EN DEPARTAMENTOS PRIORIZADOS DEL PAÍS-2020
+BANCO DEFINITIVO DE PROPUESTAS ELEGIBLES DE CONVOCATORIAS
+ Convocatoria 888 de 2020
+93
+81906
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+29
+19
+20
+68,00
+Criterio Desempate 1
+NO
+NO
+94
+81824
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+23
+23
+22
+68,00
+Criterio Desempate 1
+NO
+NO
+95
+81730
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+27,67
+20,67
+19,33
+67,67
+NO
+NO
+96
+81729
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+27
+20,5
+18
+65,50
+NO
+NO
+97
+81778
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+25,33
+19
+21
+65,33
+NO
+NO
+98
+81557
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+27,5
+17,5
+20
+65,00
+Criterio Desempate 1
+NO
+NO
+99
+81792
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+26
+20,67
+18,33
+65,00
+Criterio Desempate 1
+NO
+NO
+100
+81837
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+26,5
+17
+20,75
+64,25
+NO
+NO
+101
+81858
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+24
+20,5
+18
+62,50
+Criterio Desempate 1
+NO
+NO
+102
+81914
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+23,5
+18
+21
+62,50
+Criterio Desempate 1
+NO
+NO
+103
+81984
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+21
+21
+20
+62,00
+Criterio Desempate 1
+NO
+NO
+104
+81703
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+22
+17,5
+22,5
+62,00
+Criterio Desempate 1
+NO
+NO
+105
+81840
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+22
+18,5
+21
+61,50
+NO
+NO
+106
+81947
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+21,67
+19
+19,67
+60,34
+NO
+NO
+107
+81813
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+22,5
+16,5
+18
+57,00
+Criterio Desempate 1
+NO
+NO
+108
+81967
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+17,5
+17,5
+22
+57,00
+Criterio Desempate 1
+NO
+NO
+109
+81780
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+18
+19
+19,5
+56,50
+NO
+NO
+110
+81898
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+21,33
+15
+19,67
+56,00
+Criterio Desempate 1
+NO
+NO
+111
+81728
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+17
+14
+25
+56,00
+Criterio Desempate 1
+NO
+NO
+112
+81926
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+22
+14,5
+17
+53,50
+NO
+NO
+113
+81737
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+19
+15,33
+14,67
+49,00
+NO
+NO
+114
+81808
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+19
+16,5
+13
+48,50
+Criterio Desempate 2
+NO
+NO
+115
+81894
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+19
+14
+15,5
+48,50
+Criterio Desempate 2
+NO
+NO
+116
+81592
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+17,5
+13,5
+17
+48,00
+NO
+NO
+117
+81794
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+21
+18,33
+8
+47,33
+NO
+NO
+118
+81758
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+16,5
+13
+17,5
+47,00
+NO
+NO
+119
+81594
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+13,5
+14,5
+13,5
+41,50
+NO
+NO
+120
+81862
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+17
+11,5
+11
+39,50
+NO
+NO
+121
+81952
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+X
+16
+11
+8
+35,00
+NO
+NO
+122
+81786
+SI
+SI
+SI
+NO
+SI
+SI
+SI
+SI
+NO
+X
+NO
+NO
+123
+81572
+SI
+SI
+SI
+SI
+SI
+NO
+SI
+SI
+NO
+X
+NO
+NO
+124
+81805
+SI
+SI
+SI
+si
+SI
+NO
+SI
+SI
+NO
+X
+NO
+NO
+125
+81707
+SI
+SI
+SI
+SI
+SI
+NO
+SI
+SI
+NO
+X
+NO
+NO
+126
+81870
+SI
+SI
+SI
+SI
+SI
+NO
+SI
+SI
+NO
+X
+NO
+NO
+127
+81803
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+NO
+NO
+X
+NO
+NO
+128
+81874
+NO
+SI
+SI
+SI
+SI
+SI
+NO
+SI
+NO
+X
+NO
+NO
+129
+81842
+SI
+SI
+SI
+SI
+SI
+NO
+SI
+SI
+NO
+X
+NO
+NO
+130
+81834
+SI
+SI
+SI
+NO
+SI
+SI
+SI
+SI
+NO
+X
+NO
+NO
+131
+81891
+SI
+SI
+SI
+SI
+NO
+NO
+SI
+SI
+NO
+X
+NO
+NO
+132
+81956
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+NO
+NO
+X
+NO
+NO
+133
+81953
+NO
+SI
+SI
+SI
+SI
+NO
+SI
+NO
+NO
+X
+NO
+NO
+134
+81838
+SI
+SI
+SI
+SI
+SI
+NO
+SI
+SI
+NO
+X
+NO
+NO
+135
+81924
+SI
+SI
+SI
+SI
+SI
+NO
+SI
+SI
+NO
+X
+NO
+NO
+136
+81685
+SI
+SI
+SI
+SI
+SI
+NO
+NO
+NO
+NO
+X
+NO
+NO
+CÓDIGO: M801PR02MO3
+VERSIÓN: 00
+FECHA: 2020-01-09
+Sección 5
+Observaciones o notas adicionales: 
+La presente se firma a los 20 días del mes de noviembre de 2020
+JOHAN SEBASTIÁN ESLAVA GARZÓN  
+Director Técnico Código 0100 grado 22 
+Dirección de Transferencia y Uso del Conocimiento
+Vo.Bo. Responsable de la convocatoria
+NELSON DAVID GUTIÉRREZ OLAYA 
+Director de Inteligencia de Recursos
+de la Ciencia, la Tecnología y la Innovación (CTeI) 
+Director de la Dirección de Inteligencia de Recursos de la Ciencia, la Tecnología y la Innovación (CTeI)
+* Banco definitivo: Listado final de las propuestas o proyectos organizados de acuerdo a la calificación obtenida en el proceso de evaluación, de acuerdo a lo establecido en los términos de referencia que podrán ser objeto de financiamiento, de acuerdo a la disponibilidad de recursos.
+Sección 4
+Página 3 de 3

@@ -1,0 +1,4486 @@
+
+           
+   
+ 
+ 
+1 
+ 
+ 
+EDITAL DE SELEÇÃO PÚBLICA MCTI/AEB/FINEP/FNDCT – Subvenção Econômica à Inovação –
+Transferência de Tecnologia do SGDC – 01/2015 
+Transferência de Tecnologia Espacial no Âmbito do Decreto nº 7.769, de 28/06/2012 
+ 
+ 
+1. OBJETIVO 
+ 
+Esta Seleção Pública visa conceder recursos de subvenção econômica para apoiar projetos de 
+empresas brasileiras referentes à transferência das tecnologias previstas no Acordo de 
+Transferência de Tecnologia Espacial firmado entre a Agência Espacial Brasileira (AEB) e a 
+empresa Thales Alenia Space, no âmbito do Decreto nº 7.769, de 28/06/2012.  
+ 
+ 
+2. TÓPICOS 
+ 
+A seleção dos tópicos inseridos no Edital levou em consideração o alto risco tecnológico e o 
+grau de inovação inerentes às tecnologias contempladas. 
+ 
+Serão apoiadas propostas para transferência tecnológica nos seguintes tópicos: 
+ 
+1) Subsistema de Propulsão. 
+2) Subsistema de Potência e Painéis Solares.  
+3) Subsistema de Controle Térmico: Engenharia de Sistemas e Qualificação de Interfaces. 
+4) Tecnologia de cargas úteis ópticas de observação: Pacotes de trabalho 1 e 2. 
+5) Estruturas mecânicas para cargas úteis de observação da Terra a base de fibra de carbono. 
+6) Tecnologia de componentes FPGA e ASIC para aplicações espaciais embarcadas. 
+ 
+A descrição de cada tópico encontra-se no Anexo 1 do presente edital. 
+ 
+A Empresa poderá acessar o Plano de Trabalho de cada tópico após subscrição do Termo de 
+Confidencialidade constante do Anexo 8, conforme disposto no item 6 do presente edital. 
+ 
+O Plano de Trabalho conterá as diretrizes a serem seguidas pelas proponentes na elaboração 
+de suas propostas. 
+ 
+ 
+3. RECURSOS FINANCEIROS A SEREM CONCEDIDOS 
+ 
+No âmbito desta Seleção Pública serão comprometidos recursos não reembolsáveis de 
+subvenção econômica do Fundo Nacional de Desenvolvimento Científico e Tecnológico 
+(FNDCT) até o limite global de R$ 53.000.000,00 (cinquenta e três milhões de reais), conforme 
+tabela a seguir. 
+ 
+Tópicos 
+Valor limite sugerido para 
+alocação de Recursos 
+Subvencionados (R$) 
+1) Subsistema de Propulsão 
+11.000.000 
+2) Subsistema de Potência e Painéis Solares 
+5.000.000 
+  
+           
+   
+ 
+ 
+2 
+ 
+3) Subsistema de Controle Térmico: Engenharia de Sistemas 
+e Qualificação de Interfaces 
+2.200.000 
+4) Tecnologia de cargas úteis ópticas de observação: 
+Pacotes de trabalho 1 e 2 
+30.000.000 
+5) Estruturas mecânicas para cargas úteis de observação da 
+Terra a base de fibra de carbono 
+4.000.000 
+6) Tecnologia de componentes FPGA e ASIC para aplicações 
+espaciais embarcadas 
+800.000 
+TOTAL 
+53.000.000 
+ 
+ 
+4. ELEGIBILIDADE 
+ 
+São elegíveis empresas brasileiras, doravante também chamadas de proponentes, que sejam 
+organizações econômicas individualmente instituídas para a produção ou a circulação de bens 
+ou de serviços, com finalidade lucrativa, constituídas sob as leis brasileiras, com sede de sua 
+administração no Brasil. Não serão aceitos consórcios ou associação de empresas. 
+ 
+Na data de divulgação do presente Edital, as proponentes deverão ter objeto social que 
+contemple atividade relacionada com o tópico da proposta. 
+ 
+ 
+5. CARACTERÍSTICAS DAS PROPOSTAS 
+ 
+É facultado às empresas apresentarem propostas em todos os tópicos que desejarem. No 
+entanto, cada empresa poderá concorrer com apenas uma proposta para cada tópico citado 
+no item 2.  
+ 
+A proposta deverá atender o Plano de Trabalho de cada tópico. Para este fim, as atividades a 
+serem custeadas com recursos solicitados à FINEP e de contrapartida deverão estar 
+adequadamente identificadas. 
+ 
+O Plano de Trabalho para cada tópico será disponibilizado, no idioma inglês, por correio 
+eletrônico às empresas que encaminharem uma cópia digitalizada do Termo de 
+Confidencialidade, disponível no Anexo 8 do presente edital, para o endereço eletrônico 
+ttsgdc@finep.gov.br.  
+ 
+O valor total da proposta consiste no somatório do valor solicitado à FINEP com o valor da 
+contrapartida a ser aportado pelas beneficiárias. A FINEP somente reconhecerá as despesas 
+efetuadas com recursos subvencionados a partir da data de assinatura do contrato. Em relação 
+aos recursos de contrapartida, a FINEP reconhecerá as despesas efetuadas a partir da 
+divulgação do resultado final da Seleção Pública. 
+ 
+5.1. Valor solicitado à FINEP 
+ 
+Os itens financiáveis devem ser enquadrados nos seguintes elementos de despesa: 
+ 
+ 
+ 
+  
+           
+   
+ 
+ 
+3 
+ 
+Despesas de Custeio 
+• 
+Vencimentos e Vantagens Fixas e Obrigações Patronais – pessoal próprio com vínculo 
+trabalhista de acordo com as regras da Consolidação das Leis do Trabalho – CLT, alocado 
+na proposta em atividades de pesquisa, desenvolvimento e inovação (P,D&I); 
+• 
+Serviços de Terceiros – Pessoa Física ou Jurídica – para realização de serviços específicos 
+necessários à execução do projeto; 
+• 
+Material de Consumo; 
+• 
+Diárias – exclusivamente para a equipe executora, em atividades relacionadas ao projeto; 
+• 
+Passagens e Despesas com Locomoção – exclusivamente para a equipe executora, em 
+atividades relacionadas ao projeto. 
+ 
+5.1.1. Itens não financiáveis 
+ 
+É vedado o pagamento de quaisquer despesas a militar, servidor ou empregado público, 
+integrante do quadro de pessoal da Administração Pública Direta ou Indireta, salvo se 
+permitido por legislação específica. 
+ 
+Também não serão admitidas despesas de capital com os recursos subvencionados. Caso 
+sejam necessárias despesas de capital, essas deverão ser efetuadas com recursos de 
+contrapartida. 
+ 
+5.2. Valores mínimos de contrapartida  
+ 
+A concessão de recursos de Subvenção Econômica implica, obrigatoriamente, que a 
+beneficiária aporte no projeto recursos de contrapartida, passíveis de mensuração em moeda.  
+ 
+As empresas responsáveis por projetos habilitados a receber recursos de Subvenção 
+Econômica deverão aportar recursos financeiros em função do Faturamento Bruto de 2014.  
+ 
+CLASSIFICAÇÃO POR PORTE 
+FATURAMENTO BRUTO EM 
+2014 
+PERCENTUAL DE 
+CONTRAPARTIDA (sobre o 
+valor da Subvenção) 
+Microempresa e Empresa de 
+Pequeno Porte 
+Até R$ 16.000.000,00 
+10% 
+Média Empresa 
+De R$ 16.000.000,01 a 
+R$ 90.000.000,00 
+15% 
+Grande Empresa 
+Acima de R$ 90.000.000,00 
+20% 
+ 
+5.2.1. Itens de contrapartida 
+ 
+O valor de contrapartida financeira poderá ser composto por despesas de custeio e de capital, 
+desde que associadas à execução de atividades do projeto. 
+ 
+O montante despendido em contrapartida deverá ser comprovado apenas nas seguintes 
+rubricas: Vencimentos e Vantagens Fixas, Obrigações Patronais, Diárias, Material de Consumo, 
+Passagens e Despesas com Locomoção, Serviços de Terceiros - Pessoa Física e Jurídica, Obras e 
+Instalações, Equipamento e Material Permanente. 
+ 
+ 
+ 
+  
+           
+   
+ 
+ 
+4 
+ 
+5.3. Prazo de execução 
+ 
+O prazo de referência para a execução de cada proposta encontra-se estabelecido nos 
+respectivos Planos de Trabalho. A proposta deverá ter prazo de até 36 meses, admitida a sua 
+prorrogação nos termos do contrato de subvenção. 
+ 
+ 
+6. APRESENTAÇÃO DA PROPOSTA E DOCUMENTOS COMPLEMENTARES 
+ 
+6.1. Apresentação da Proposta 
+ 
+A proposta deverá ser enviada à FINEP através da Internet, até a data limite estabelecida no 
+item 11, por meio do Formulário de Apresentação de Propostas – FAP específico para esta 
+Seleção Pública, disponível no Portal da FINEP no endereço www.finep.gov.br. 
+ 
+Adicionalmente, será obrigatório o envio à FINEP dos seguintes documentos impressos: 
+ 
+a) Carta de Apresentação da Proposta, preenchida e assinada por representante legal da 
+proponente, segundo modelo disponível no Anexo 2; 
+b) Formulário de Apresentação de Proposta – FAP, impresso e assinado por representante 
+legal após o envio por meio eletrônico; 
+c) Estatuto / Contrato Social atualizado; 
+d) Ato de Designação dos atuais dirigentes, quando a designação não estiver indicada no 
+estatuto/contrato social; 
+e) Documentos para Análise Econômico-Financeira (Anexos 3 e 4); 
+f) Documentos para Análise Jurídica (Anexos 5 e 6). 
+ 
+À cópia impressa do Formulário de Apresentação de Proposta poderão ser anexados 
+documentos com informações complementares às inseridas no FAP, até o limite total de 20 
+(vinte) páginas. 
+ 
+Os documentos impressos deverão ser encaminhados à FINEP até a data limite estabelecida no 
+item 11. A versão impressa do FAP deverá ser idêntica à versão enviada por meio eletrônico. 
+Todos os documentos deverão ser inseridos em envelope único lacrado, no qual devem estar 
+claramente indicados o número de identificação da proposta (protocolo eletrônico) e a razão 
+social da empresa. O envelope poderá ser postado ou entregue diretamente na FINEP, no 
+endereço indicado a seguir: 
+ 
+SELEÇÃO PÚBLICA MCTI/AEB/FINEP/FNDCT – Subvenção Econômica à Inovação – 01/2015 – 
+Transferência de Tecnologia do SGDC 
+Tópico: [ ] 
+Protocolo Eletrônico: [] 
+ 
+FINEP – Financiadora de Estudos e Projetos 
+Praia do Flamengo, 200, 3º andar, Protocolo 
+CEP 22210-065 - –Rio de Janeiro, RJ 
+ 
+Caso uma mesma proposta apresente mais de um envelope para o mesmo tópico, será 
+considerado aquele cuja data do carimbo de postagem ou do protocolo da FINEP, se entregue 
+diretamente, seja a mais recente, observado o prazo estabelecido no item 11. 
+  
+           
+   
+ 
+ 
+5 
+ 
+A Finep poderá solicitar às proponentes ajustes e/ou esclarecimentos adicionais porventura 
+necessários com relação aos documentos enumerados acima, estabelecendo prazo para 
+atendimento. O não atendimento do prazo estabelecido acarretará a eliminação da proposta, 
+independentemente da etapa em que esteja a seleção. 
+ 
+ 
+7. SELEÇÃO DAS PROPOSTAS 
+ 
+O processo de seleção das propostas consistirá da avaliação eliminatória da FINEP e da 
+classificação das propostas pelo Comitê de Avaliação formado pela FINEP e AEB. 
+ 
+7.1. Avaliação eliminatória da FINEP 
+ 
+Caberá à FINEP, em caráter eliminatório, a avaliação dos seguintes aspectos:  
+ 
+1 
+Elegibilidade das proponentes (conforme item 4) 
+2 
+Envio dos documentos mencionados no item 6.1 (alíneas “a” até “d”) até a data limite 
+(item 11) 
+ 
+Apenas se atendidos todos os aspectos acima listados, será a proposta reputada “Satisfatória”, 
+estando apta a ser avaliada na forma do item 7.2. do presente Edital.  
+ 
+7.2. Classificação das propostas  
+ 
+A avaliação de cada proposta será realizada pelo Comitê de Avaliação, composto por membros 
+da Finep e da AEB de acordo com o tópico escolhido no item 2, segundo os seguintes critérios:  
+ 
+Item 
+Critérios de Avaliação 
+Peso 
+1 
+Histórico de projetos relacionados ao tópico proposto. A 
+avaliação se baseará em valor, quantidade, qualidade e 
+resultados de projetos realizados em consonância ao tópico 
+proposto.  
+2 
+2 
+Capacitação técnica da equipe executora no tópico proposto. A 
+avaliação se baseará na composição, titulação, experiência da 
+equipe executora em projetos relacionados ao tópico escolhido 
+e na existência de vínculo com a empresa proponente 
+(participação como sócio ou empregado com vínculo 
+trabalhista, de acordo com as regras da Consolidação das Leis 
+do Trabalho – CLT)  
+2 
+3 
+Adequação da infraestrutura para o tópico proposto. A 
+avaliação se baseará na disponibilidade de edificações,  
+equipamentos e softwares para a execução do projeto.  
+1 
+4 
+Adequação ao Plano de Trabalho do tópico. A avaliação se 
+baseará no alinhamento entre o cronograma, orçamento e 
+escopo propostos pela empresa e o plano de trabalho do 
+tópico.  
+1 
+ 
+Todos os critérios do quadro acima serão pontuados com notas de 1 a 5. A nota final será 
+composta pela média ponderada das notas de cada critério. Serão eliminadas as propostas que 
+  
+           
+   
+ 
+ 
+6 
+ 
+não alcançarem nota igual ou superior a 2,0 (dois) (antes de aplicação dos pesos) em cada um 
+dos critérios de avaliação e/ou não alcançarem nota final igual ou superior a 3,0 (três). As 
+propostas não eliminadas serão classificadas de acordo com suas notas finais, por tópico, em 
+ordem decrescente. 
+ 
+Em caso de empate, a ordem de classificação será definida com base na maior média 
+aritmética das notas obtidas nos critérios de avaliação de peso 2 (dois). Mantido o empate, 
+será vencedora a proposta de maior média aritmética das notas obtidas nos critérios de 
+avaliação de peso 1 (um). 
+ 
+7.3. Solicitação de informações adicionais  
+ 
+Ao longo do processo de seleção, o Comitê de Avaliação poderá contar com a participação de 
+especialistas ad hoc, integrantes ou não do quadro de pessoal da Finep ou AEB, solicitar 
+informações e documentações adicionais, realizar visitas conjuntas às instalações de empresa 
+participante, promover reuniões presenciais ou adotar outras medidas que se façam 
+necessárias à condução da seleção. 
+ 
+7.4. Análise Jurídica e Análise Econômico-Financeira 
+ 
+Durante a etapa de Seleção das propostas serão realizadas as Análises Jurídica e Econômico-
+Financeira, as quais poderão ter os seguintes posicionamentos: recomendar a aprovação, 
+recomendar a aprovação com condicionantes à contratação e/ou liberação ou não 
+recomendar a aprovação. Estas análises levarão em consideração as normas internas e a 
+legislação aplicáveis. 
+ 
+ 
+8. DELIBERAÇÃO 
+ 
+As propostas classificadas na forma do item 7 serão submetidas à apreciação da Diretoria 
+Executiva da FINEP para decisão final. 
+ 
+ 
+9. RESULTADOS 
+ 
+Os resultados, PRELIMINAR e FINAL, serão divulgados no Portal da FINEP na Internet e caberá 
+às empresas interessadas a sua verificação para atendimento dos prazos estabelecidos nesta 
+Seleção Pública. 
+ 
+A proposta de cada empresa para cada tópico será desclassificada se:  
+a) não alcançar nota igual ou superior a 2,0 (dois) em cada um dos critérios de avaliação e/ou 
+não alcançar nota final igual ou superior a 3,0 (três) conforme item 7.2. 
+b) for definida como Insatisfatória, conforme item 7.1. 
+ 
+Para cada tópico estabelecido no item 2, será selecionada a proposta que obtiver a maior nota 
+final. 
+ 
+Após a divulgação do resultado Preliminar, cada proponente receberá, no endereço de correio 
+eletrônico cadastrado no FAP, o resultado individual para cada proposta submetida.  
+ 
+  
+           
+   
+ 
+ 
+7 
+ 
+ 
+Após o exame de todos os recursos, o resultado FINAL será divulgado no Portal da FINEP na 
+Internet e no Diário Oficial da União. 
+ 
+ 
+10. RECURSO 
+ 
+Após a divulgação do resultado PRELIMINAR, eventual recurso poderá ser apresentado por 
+carta à FINEP, protocolada no endereço físico indicado no item 6, no prazo de até 10 (dez) dias 
+corridos a contar da data de divulgação do resultado preliminar no Portal da FINEP na Internet. 
+ 
+O recurso deverá obedecer aos requisitos dos artigos 58, inciso I, e 60, da Lei nº 9.784/1999. 
+No texto do pedido de recurso, não serão aceitas informações adicionais de qualquer natureza 
+que modifiquem a proposta original, nem o envio de documentos complementares àqueles 
+originalmente encaminhados. 
+ 
+ 
+11. CRONOGRAMA DA SELEÇÃO PÚBLICA 
+ 
+Etapas 
+Datas 
+Lançamento do Edital 
+15/09/2015 
+Apresentação das Propostas 
+15/10/2015 
+Seleção das Propostas e Divulgação do 
+Resultado Preliminar 
+10/11/2015 
+Apresentação de Recursos 
+20/11/2015 
+Análise dos Recursos e Divulgação do 
+Resultado Final 
+30/11/2015 
+ 
+ 
+12. CONTRATAÇÃO  
+ 
+Após a divulgação do resultado final, as empresas aprovadas receberão a minuta contratual e 
+uma lista de eventuais condicionantes para a contratação e/ou primeira liberação de recursos. 
+O prazo limite para atendimento das condicionantes para a contração, bem como o 
+encaminhamento à FINEP da minuta de contrato assinada pelos representantes legais das 
+empresas, será o dia 15/12/2015, prorrogável a critério da FINEP.  
+ 
+Caso os documentos não sejam encaminhados até a data fixada pela Finep, esta poderá 
+arquivar as propostas e convocar as empresas situadas em segundo lugar na ordem de 
+classificação de cada tópico em que ocorrer esta situação. Será dado ao segundo colocado, 
+nesta hipótese, o mesmo tempo para atendimento das condicionantes à contratação 
+concedido ao primeiro colocado.  
+ 
+As empresas cujas propostas forem aprovadas poderão ser objeto de visita técnica, com o 
+objetivo de conferir os dados informados na apresentação da proposta, especialmente quanto 
+à infraestrutura física e à equipe executora própria da empresa, bem como outras informações 
+relevantes prestadas no processo seletivo. 
+  
+           
+   
+ 
+ 
+8 
+ 
+ 
+Se for verificado que as informações prestadas não correspondem à realidade ou haja a 
+constatação da existência de outro fator impeditivo para a contratação, a Finep arquivará a 
+proposta. 
+ 
+Caso qualquer das empresas já possua contrato anterior ativo firmado com a Finep, a nova 
+contratação dependerá da avaliação das operações já contratadas, considerando o 
+cumprimento satisfatório das respectivas obrigações. 
+ 
+A Finep poderá acrescentar condições específicas para cada empresa além das condições 
+contratuais gerais constantes do Anexo 7 – Minuta de Contrato. 
+ 
+Até a assinatura do contrato, a minuta prevista no Anexo 7 poderá sofrer alterações: i) que 
+confiram maior clareza ao seu texto; ii) para atender determinações de órgãos de controles; e 
+iii) para observar legislação superveniente. 
+ 
+A aprovação final da proposta não garante a contratação, que não será realizada nas hipóteses 
+de: 
+• 
+As empresas ou seus sócios majoritários constarem do cadastro nacional de condenados 
+por improbidade administrativa do Conselho Nacional de Justiça (CNJ); 
+• 
+As empresas constarem do Cadastro Nacional de Empresas Inidôneas e Suspensas (CEIS); 
+• 
+As empresas estarem inadimplentes com a FINEP ou garantirem contratos em cobrança 
+judicial pela FINEP;  
+• 
+Ficar demonstrado, mesmo após a aprovação, que o repasse dos recursos à empresa não 
+atenderá aos objetivos da subvenção econômica; 
+• 
+As empresas não apresentarem regularidade jurídica diante das normas legais e 
+regulamentares para receber financiamento público; 
+• 
+As empresas deixarem de apresentar quaisquer dos documentos cuja apresentação seja 
+exigida neste Edital ou não comprovarem a sua capacidade para a execução do projeto. 
+ 
+A contratação e liberação de recursos dependem da disponibilidade orçamentária e financeira 
+da Finep/FNDCT. 
+ 
+ 
+13. CONDICIONANTES PARA A PRIMEIRA LIBERAÇÃO DE RECURSOS 
+ 
+Para o desembolso da primeira parcela dos contratos assinados pela Finep,  as etapas abaixo 
+deverão ser cumpridas na ordem apresentada: 
+ 
+a) Assinatura do “Termo de Compromisso de Manutenção de Sigilo – Pessoa Jurídica”, a ser 
+firmado pela empresa vencedora e a AEB, cujo objetivo é estabelecer as regras de sigilo 
+relativas a tecnologias e ao conhecimento a serem transferidos para a empresa. 
+b) Assinatura do “Termo de Adesão à Política de Transferência de Tecnologia da Agência 
+Espacial Brasileira (AEB) para o projeto do Satélite Geoestacionário de Defesa e 
+Comunicações Estratégicas (SGDC)”, instrumento jurídico pactuado entre a AEB e a 
+empresa vencedora de cada tópico, que regulará o pagamento de royalties pelo uso das 
+tecnologias, os direitos de propriedade intelectual, a fiscalização pela AEB, os direitos e 
+restrições de uso, as obrigações da empresa subvencionada perante a empresa que cederá 
+a tecnologia/know-how, dentre outras questões.  
+  
+           
+   
+ 
+ 
+9 
+ 
+c) Assinatura do “Contrato Tripartite de Implementação da Transferência de Tecnologia”, a 
+ser firmado pela empresa vencedora, a AEB e a empresa Thales Alenia Space, cujo objetivo 
+é firmar os deveres e responsabilidades de cada parte ao longo do processo de 
+transferência de tecnologia. 
+ 
+Os instrumentos jurídicos citados acima serão redigidos individualmente pela AEB para cada 
+proposta convocada para contratação após o Resultado Final, tendo em vista a necessidade de 
+adequação de cada instrumento à proposta e à empresa vencedora. Encontram-se, nos Anexos 
+9, 10 e 11 do presente Edital, as minutas padrão dos instrumentos jurídicos citados neste item. 
+ 
+Em caso de não atendimento das condições para desembolso da primeira parcela, ocorrerá 
+rescisão unilateral do contrato pela FINEP. 
+ 
+Dúvidas acerca dos instrumentos jurídicos citados, neste item 13, deverão ser encaminhadas 
+para dpei@aeb.gov.br. 
+ 
+13.1 A possibilidade de veto à seleção das propostas 
+ 
+A AEB poderá vetar a empresa e/ou a proposta, baseando-se no Acordo de Transferência de 
+Tecnologia Espacial assinado entre a AEB e a Thales Alenia Space (TAS) em 30 de janeiro de 
+2015, assim como nos acordos que o sucederem. Pelos termos desses acordos, a AEB 
+compromete-se a solicitar à empresa TAS prévia autorização para realizar a transferência de 
+tecnologia para uma empresa brasileira. O veto somente poderá ser realizado durante a etapa 
+de seleção. 
+ 
+Quando consultada, a empresa TAS poderá recusar seu consentimento somente nos seguintes 
+casos: (i) transmissão de tecnologia a qualquer concorrente direto ou indireto da TAS e/ou (ii) 
+limitações devido a quaisquer regulamentações de controle de exportações aplicáveis. 
+ 
+13.2. Da Propriedade Intelectual, Licenciamento e Royalties. 
+ 
+Nos termos do § 2º do Art. 10 do Decreto 7.769, de 28 de junho de 2012, ficou estabelecido 
+que a AEB será a detentora dos direitos de propriedade intelectual decorrentes do processo de 
+transferência de tecnologia. 
+ 
+Com vistas a implementar esta determinação normativa, o Termo de Adesão, constante do 
+Anexo 9, conterá cláusulas complementares estabelecendo: a) as limitações de uso e da 
+comercialização da tecnologia; b) o pagamento de royalties à AEB por produtos ou serviços 
+decorrentes da aplicação do conhecimento adquirido; c) os procedimentos de fiscalização 
+realizados pela AEB, como o direito a auditorias sobre vendas ou faturamento; d) 
+condicionantes referentes à exportação; dentre outras.  
+ 
+Quanto ao valor dos royalties, este não deverá exceder o percentual de 5% sobre o preço 
+líquido de venda do produto ou serviço que se beneficiou inteiramente da tecnologia 
+transferida. Esta recomendação geral deverá ser ajustada a cada caso, particularmente quando 
+o produto ou serviço comercializado tiver apenas em parte uma contribuição da tecnologia 
+transferida, sendo o resto baseado em tecnologia própria da empresa (Background Intelectual 
+Property – BIP). Quanto maior a proporção e importância da BIP, menor deverá ser a 
+incidência de royalties sobre os futuros resultados comerciais. 
+ 
+  
+           
+   
+ 
+ 
+10 
+ 
+14. BASE LEGAL 
+ 
+Lei nº 10.973/2004, regulamentada pelo Decreto nº 5.563/2005, Lei nº 11.540/2007, 
+regulamentada pelo Decreto nº 6.938/2009; e Decreto nº 7.769/2012.  
+ 
+ 
+15. DISPOSIÇÕES GERAIS 
+ 
+Serão desconsideradas as propostas que estejam em desacordo com quaisquer itens desta 
+Seleção Pública. 
+ 
+ 
+Ao preencher o Formulário de Apresentação de Proposta – FAP e assiná-lo, a empresa 
+proponente compromete-se com a veracidade das informações declaradas. 
+ 
+Os anexos listados a seguir integram esta Seleção Pública: 
+• 
+Anexo 1 – DESCRIÇÃO DOS TÓPICOS LISTADOS NO ITEM 2 (DOIS) 
+• 
+Anexo 2 – LISTA DE DOCUMENTOS PARA APRESENTAÇÃO DA PROPOSTA 
+• 
+Anexo 3 – MODELO DE CARTA DE APRESENTAÇÃO DA PROPOSTA 
+• 
+Anexo 4 – MODELO DE DECLARAÇÃO DE ORIGEM DE CONTRAPARTIDA 
+• 
+Anexo 5 – LISTA DE DOCUMENTOS PARA ANÁLISE JURÍDICA 
+• 
+Anexo 6-A – MODELO DE DECLARAÇÃO DE CONTENCIOSO 
+• 
+Anexo 6-B – MODELO DE DECLARAÇÃO AMBIENTAL 
+• 
+Anexo 7 – MINUTA DE CONTRATO - CLÁUSULAS PADRÃO 
+• 
+Anexo 8 – SOLICITAÇÃO DE PLANO DE TRABALHO E TERMO DE CONFIDENCIALIDADE 
+• 
+Anexo 9 – MINUTA PADRÃO DE TERMO DE ADESÃO À POLÍTICA DE TRANSFERÊNCIA DE 
+TECNOLOGIA DA AGÊNCIA ESPACIAL BRASILEIRA (AEB) PARA O PROJETO DO SATÉLITE 
+GEOESTACIONÁRIO DE DEFESA E COMUNICAÇÃO ESTRATÉGICA (SGDC) 
+• 
+Anexo 10 – MINUTA DE CONTRATO TRIPARTITE DE IMPLEMENTAÇÃO DA 
+TRANSFERÊNCIA DE TECNOLOGIA 
+• 
+Anexo 11 – MINUTA DE TERMO DE COMPROMISSO DE MANUTENÇÃO DE SIGILO – 
+PESSOA JURÍDICA 
+ 
+Dúvidas a respeito do conteúdo da presente Seleção Pública deverão ser dirigidas 
+exclusivamente para o endereço eletrônico ttsgdc@finep.gov.br e, a critério da Finep, poderão 
+ser divulgadas. Questionamentos específicos sobre os Planos de Trabalho mencionados no 
+item 2 deverão ser feitos nos idiomas português e inglês. 
+ 
+ 
+ 
+ 
+  
+           
+   
+ 
+ 
+11 
+ 
+ 
+Os casos omissos serão dirimidos pela Diretoria Executiva da FINEP. A Ouvidoria da FINEP pode 
+ser acessada no Portal www.finep.gov.br/ouvidoria. 
+ 
+ 
+ 
+Rio de Janeiro,  15  de setembro de 2015. 
+ 
+ 
+ 
+________________________________ 
+José Raimundo Braga Coelho  
+Presidente da Agência Espacial Brasileira – AEB 
+ 
+ 
+ 
+ 
+________________________________ 
+Luis Manuel Rebelo Fernandes  
+Presidente da Financiadora de Estudos e Projetos – Finep 
+ 
+ 
+ 
+ 
+ 
+  
+           
+   
+ 
+ 
+12 
+ 
+EDITAL DE SELEÇÃO PÚBLICA MCTI/AEB/FINEP/FNDCT – Subvenção Econômica à Inovação –
+Transferência de Tecnologia do SGDC – 01/2015 
+Transferência de Tecnologia Espacial no Âmbito do Decreto nº 7.769, de 28/06/2012 
+ 
+ANEXO 1 
+ 
+DESCRIÇÃO DOS TÓPICOS 
+ 
+1) Propulsion Subsystem (Subsistema de Propulsão) 
+ 
+A transferência de tecnologia contemplada neste tópico envolve os conhecimentos requeridos 
+para uma empresa nacional tornar-se Autoridade de Projeto para um subsistema de propulsão 
+a bipropelente para satélites. 
+O Plano de Trabalho define as atividades a serem realizadas, os dados a serem fornecidos, os 
+produtos a serem gerados e a organização do trabalho. 
+ 
+2) Electrical Power Subsystem and Solar Array (Subsistema de Potência e Painéis Solares) 
+ 
+A transferência de tecnologia contemplada neste tópico envolve os conhecimentos requeridos 
+para uma empresa nacional capacitar-se a desenvolver equipamentos de suprimento de 
+potência elétrica para satélites de forma geral e, particularmente, para o projeto e qualificação 
+de painéis solares fotovoltaicos destinados a satélites de órbita baixa e geoestacionários. 
+O Plano de Trabalho define a lista de atividades a serem realizadas, os dados a serem 
+fornecidos, os produtos a serem gerados e a organização do trabalho. 
+ 
+3) Thermal Control Subsystem: System Level Engineering and Interface Qualification 
+(Subsistema de Controle Térmico: Engenharia de Sistemas e Qualificação de Interfaces) 
+ 
+A transferência de tecnologia contemplada neste tópico envolve os conhecimentos requeridos 
+para uma empresa nacional capacitar-se a realizar análises de controle térmico, seu 
+dimensionamento e definição do subsistema, de forma a apoiar o projeto térmico de satélites 
+e seu desenvolvimento. Também inclui o processo de qualificação de materiais de interface 
+térmica para uso em satélites. 
+O Plano de Trabalho define as atividades a serem realizadas, os dados a serem fornecidos, os 
+produtos a serem gerados e a organização do trabalho. 
+ 
+4) Optical Observation Payload Technology: WP1 and WP2 (Tecnologia de cargas úteis ópticas 
+de observação: Pacotes de trabalho 1 e 2) 
+ 
+A transferência de tecnologia contemplada neste tópico envolve os conhecimentos requeridos 
+para uma empresa nacional capacitar-se a realizar o projeto, a aquisição de partes, a 
+montagem e a caracterização de elementos ópticos das seguintes classes de cargas úteis de 
+satélites: 
+• 
+Imageadores multiespectrais posicionados em órbita geoestacionária para 
+aplicações meteorológicas e ambientais; 
+• 
+Imageadores de resolução de até 2,5 m posicionados em órbita baixa, no espectro 
+visível. 
+O Plano de Trabalho define as atividades a serem realizadas, os dados a serem fornecidos, os 
+produtos a serem gerados e a organização do trabalho. 
+ 
+  
+           
+   
+ 
+ 
+13 
+ 
+5) Structure for Observation: Carbon Panels (Estruturas mecânicas para cargas úteis de 
+observação da Terra à base de fibra de carbono) 
+ 
+A transferência de tecnologia contemplada neste tópico envolve os conhecimentos requeridos 
+para uma empresa nacional capacitar-se a desenvolver e manufaturar estruturas estáveis 
+baseadas em fibra de carbono para aplicações de observação da Terra. 
+O Plano de Trabalho define as atividades a serem realizadas, os dados a serem fornecidos, os 
+produtos a serem gerados e a organização do trabalho. 
+ 
+6) FPGA and ASIC for space (Tecnologia de componentes FPGA e ASIC para aplicações espaciais 
+embarcadas) 
+ 
+A transferência de tecnologia contemplada neste tópico envolve os conhecimentos requeridos 
+para uma empresa nacional capacitar-se a desenvolver aplicações embarcadas em satélites de 
+tecnologias FPGA (Field Programmable Gate Array) e ASIC (Application Specific Integrated 
+Circuit). 
+O Plano de Trabalho define as atividades a serem realizadas, os dados a serem fornecidos, os 
+produtos a serem gerados e a organização do trabalho. 
+ 
+ 
+ 
+ 
+  
+           
+   
+ 
+ 
+14 
+ 
+EDITAL DE SELEÇÃO PÚBLICA MCTI/AEB/FINEP/FNDCT – Subvenção Econômica à Inovação –
+Transferência de Tecnologia do SGDC – 01/2015 
+Transferência de Tecnologia Espacial no Âmbito do Decreto nº 7.769, de 28/06/2012 
+ 
+ANEXO 2 
+ 
+MODELO DE CARTA DE APRESENTAÇÃO DA PROPOSTA 
+ 
+EDITAL DE SELEÇÃO PÚBLICA MCTI/AEB/FINEP/FNDCT – Subvenção Econômica à Inovação –
+Transferência de Tecnologia do SGDC – 01/2015 
+Transferência de Tecnologia Espacial no Âmbito do Decreto nº 7.769, de 28/06/2012 
+Nº de Identificação da Proposta (protocolo eletrônico): 
+Título da proposta: 
+Proponente: 
+Tópico: 
+ 
+ 
+ 
+[PROPONENTE ], com sede em [ ENDEREÇO ], inscrita no CNPJ sob o nº [ NÚMERO ], por seu 
+representante legal abaixo qualificado, encaminha em envelope único contendo, além desta 
+carta, os documentos exigidos no Edital, conforme disposição abaixo: 
+ 
+Documentos 
+Formulário de Apresentação de Proposta – FAP, impresso e assinado por representante legal 
+após o envio por meio eletrônico 
+Estatuto / Contrato Social atualizado 
+Ato de Designação dos atuais dirigentes, quando a designação não estiver indicada no 
+estatuto/contrato social 
+Documentos para Análise Econômico-Financeira (Anexos 3 e 4) 
+Documentos para Análise Jurídica (Anexos 5 e 6) 
+ 
+ 
+ 
+[Local], ___de ___________ de 2015. 
+ 
+ 
+____________________________________ 
+[NOME] 
+[CARGO] 
+[PROPONENTE] 
+ 
+ 
+ 
+ 
+  
+           
+   
+ 
+ 
+15 
+ 
+EDITAL DE SELEÇÃO PÚBLICA MCTI/AEB/FINEP/FNDCT – Subvenção Econômica à Inovação –
+Transferência de Tecnologia do SGDC – 01/2015 
+Transferência de Tecnologia Espacial no Âmbito do Decreto nº 7.769, de 28/06/2012 
+ 
+ANEXO 3 
+ 
+LISTA DE DOCUMENTOS PARA ANÁLISE ECONÔMICO-FINANCEIRA 
+ 
+ 
+ 
+A documentação para Análise Econômico-Financeira deverá ser composta por: 
+ 
+• Cópia autenticada do BALANÇO PATRIMONIAL (BP) de 2012, 2013 e 2014 da Empresa. 
+• Cópia autenticada do DEMONSTRATIVO DE RESULTADOS DO EXERCÍCIO (DRE) referente aos 
+anos de 2012, 2013 e 2014 da Empresa. 
+• DECLARAÇÃO de ORIGEM da CONTRAPARTIDA dos recursos financeiros (conforme modelo 
+no Anexo 4).  
+ 
+Os documentos contábeis discriminados acima deverão estar assinados por um contador e por 
+um representante legal da Proponente. A Declaração de origem de contrapartida deve ser 
+assinada por representante legal da Proponente. Caso a representação legal seja exercida por 
+procuração, esta deverá ser apresentada juntamente com a documentação exigida.  
+ 
+Observação: Para fins de participação neste Edital, NÃO estão isentas de apresentar a 
+documentação contábil exigida as empresas optantes pelo SIMPLES NACIONAL. 
+ 
+ 
+ 
+ 
+ 
+  
+           
+   
+ 
+ 
+16 
+ 
+EDITAL DE SELEÇÃO PÚBLICA MCTI/AEB/FINEP/FNDCT – Subvenção Econômica à Inovação –
+Transferência de Tecnologia do SGDC – 01/2015 
+Transferência de Tecnologia Espacial no Âmbito do Decreto nº 7.769, de 28/06/2012 
+ 
+ANEXO 4 
+ 
+MODELO DE DECLARAÇÃO DE ORIGEM DA CONTRAPARTIDA DA PROPONENTE 
+ 
+[ PROPONENTE ], com sede em [ ENDEREÇO ], inscrita no CNPJ sob o nº [ NÚMERO ], por seu 
+representante legal abaixo qualificado, declara junto à FINANCIADORA DE ESTUDOS E 
+PROJETOS – FINEP, que apresenta a seguinte origem de recursos para a Contrapartida 
+Financeira do projeto [título do projeto]: 
+ 
+Origem da Contrapartida: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[A Proponente deverá indicar neste quadro a origem dos recursos que apresentará como 
+contrapartida, tais como: recursos próprios; financiamentos junto a instituições financeiras; 
+aporte de capital; etc.] 
+ 
+Declara, também, estar ciente de que, caso a Proponente apresente a opção de Aporte de 
+Capital Futuro como Origem de Contrapartida, a Finep poderá exigir como condição prévia à 
+contratação e/ou condição prévia às liberações de recursos: 
+ 
+• Para Sociedade Anônima: Ata da Assembleia da alteração do Capital Social junto com o 
+Boletim de Subscrição e Comprovante de Integralização do Capital; 
+ 
+• Para outros tipos de Sociedade: Alteração Contratual registrada na Junta Comercial ou no 
+Registro Civil de Pessoas Jurídicas. 
+ 
+ 
+[Local], ___de ___________ de 2015.  
+ 
+ 
+_________________________________________________ 
+[NOME] 
+[CARGO] 
+[CPF] 
+ 
+ 
+  
+           
+   
+ 
+ 
+17 
+ 
+EDITAL DE SELEÇÃO PÚBLICA MCTI/AEB/FINEP/FNDCT – Subvenção Econômica à Inovação –
+Transferência de Tecnologia do SGDC – 01/2015 
+Transferência de Tecnologia Espacial no Âmbito do Decreto nº 7.769, de 28/06/2012 
+ 
+ANEXO 5 
+ 
+LISTA DE DOCUMENTOS PARA ANÁLISE JURÍDICA 
+ 
+ 
+A apresentação dos documentos a seguir se refere à Proponente, ou seja, à sociedade 
+empresária constante do FAP, a qual assinará o contrato. 
+ 
+ 
+1. Certidão de Débitos relativos aos Tributos Federais e à Dívida Ativa da União; 
+2. Certificado de Regularidade do FGTS (CRF); 
+3. Certidão Negativa da Receita/Dívida Ativa do Estado; 
+4. Certidão Negativa da Receita/Dívida Ativa do Município; 
+5. Certidão(ões) do(s) Cartório(s) Distribuidor(es) de Ações Cíveis, Fiscais e Falimentares, 
+emitida(s) pela Justiça Estadual; 
+6. Certidão de Distribuição de Ações e Execuções Cíveis e Fiscais, emitida pela Justiça 
+Federal; 
+7. Certidão(ões) emitida(s) pelo(s) Cartório(s) Distribuidor(es) de Feitos da Justiça 
+Trabalhista; 
+8. Certidão(ões) do(s) Cartório(s) de Protestos ou do Distribuidor de Protestos; 
+9. Recibo de entrega da Relação Anual de Informações Sociais – RAIS.; 
+10. Licença Ambiental para o projeto ou para a(s) atividade(s) a serem desenvolvidas no 
+projeto e Declaração ambiental no modelo constante do Anexo 6 - B; 
+11. Apresentar autorizações essenciais para a realização do projeto, se for o caso; 
+12. Relação dos acionistas majoritários, com sua qualificação completa, assinada pelos 
+representantes legais da Proponente, no caso de sociedades por ações. Caso a 
+representação legal seja exercida por procuração, a mesma deverá ser apresentada 
+juntamente com a documentação exigida; 
+13. Declaração sobre o contencioso (ver modelo no Anexo 6 - A), assinada pelos 
+representantes legais da Proponente. Caso o representante não esteja relacionado no 
+Contrato/Estatuto Social, a Proponente deverá encaminhar a procuração que confere 
+poderes a este representante para tal ato. 
+ 
+A Finep poderá vir a solicitar outros documentos que entenda necessários à análise jurídica 
+e/ou contratação em tela. 
+ 
+ 
+ 
+ 
+  
+           
+   
+ 
+ 
+18 
+ 
+EDITAL DE SELEÇÃO PÚBLICA MCTI/AEB/FINEP/FNDCT – Subvenção Econômica à Inovação –
+Transferência de Tecnologia do SGDC – 01/2015 
+Transferência de Tecnologia Espacial no Âmbito do Decreto nº 7.769, de 28/06/2012 
+ 
+ANEXO 6 - A 
+ 
+MODELO DE DECLARAÇÃO DE CONTENCIOSO DA PROPONENTE  
+ 
+ 
+[PROPONENTE], com sede em [ ENDEREÇO ], inscrita no CNPJ sob o nº [ NÚMERO ], por seu 
+representante legal abaixo qualificado, declara, junto à FINANCIADORA DE ESTUDOS E 
+PROJETOS – FINEP, 
+ 
+(  ) que apresenta o seguinte quadro relativo ao seu contencioso: 
+ 
+ 
+PERDA 
+ 
+PROCESSOS 
+PROVÁVEL (R$) 
+POSSÍVEL (R$) REMOTA (R$) PROVISIONADO (R$) 
+Cíveis 
+  
+  
+  
+  
+Fiscais / Tributários 
+  
+  
+  
+  
+Trabalhistas / 
+Previdenciários 
+  
+  
+  
+  
+TOTAL 
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+(  ) que não possui processos de contencioso. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Local], ___de ___________ de 2015.  
+ 
+ 
+_________________________________________________ 
+[NOME] 
+[CARGO] 
+[CPF] 
+ 
+ 
+ 
+  
+           
+   
+ 
+ 
+19 
+ 
+EDITAL DE SELEÇÃO PÚBLICA MCTI/AEB/FINEP/FNDCT – Subvenção Econômica à Inovação –
+Transferência de Tecnologia do SGDC – 01/2015 
+Transferência de Tecnologia Espacial no Âmbito do Decreto nº 7.769, de 28/06/2012 
+ 
+ANEXO 6 - B 
+ 
+DECLARAÇÃO AMBIENTAL 
+[Nome da proponente], com sede em [ ], Estado de [ ], no Município de [ ], inscrita no 
+CNPJ sob o nº [ ], por seus representantes legais abaixo assinados e qualificados, presta as 
+seguintes informações à FINANCIADORA DE ESTUDOS E PROJETOS – Finep: 
+1. Referência Finep nº: 
+2. Localização das atividades do projeto (endereço completo): 
+ 
+3. Licenciamento do projeto: 
+3.1. 
+O projeto requer licenciamento ambiental específico? 
+ 
+a) Em caso negativo, houve dispensa formal de licença ambiental para o projeto por 
+parte do órgão competente? Anexar o documento. 
+ 
+b) Em caso positivo, preencher o quadro abaixo e anexar os documentos existentes: 
+Atividades que 
+dependem de 
+licenciamento 
+ambiental 
+Local de execução 
+das atividades 
+Tipo de Licença ambiental 
+(Prévia, de Instalação ou de 
+Operação/Funcionamento) 
+Momento de apresentação 
+do licenciamento 
+(indicar o semestre) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+c) Se as atividades do projeto já estiverem abrangidas pelas licenças já obtidas pela 
+proponente, preencher o quando abaixo e anexar os documentos pertinentes. 
+ 
+Atividades que dependem de 
+licenciamento ambiental 
+Local de execução das 
+atividades 
+Tipo de Licença ambiental 
+(Prévia, de Instalação ou de 
+Operação/Funcionamento) 
+ 
+ 
+ 
+  
+           
+   
+ 
+ 
+20 
+ 
+ 
+ 
+ 
+ 
+Sob pena de incidência das sanções legais, de natureza civil e penal, a [nome da 
+empresa] declara que todas as informações prestadas à FINEP são verdadeiras. 
+ 
+[Local e data] 
+ 
+Representante legal 
+CPF 
+ 
+ 
+ 
+ 
+  
+           
+   
+ 
+ 
+21 
+ 
+EDITAL DE SELEÇÃO PÚBLICA MCTI/AEB/FINEP/FNDCT – Subvenção Econômica à Inovação –
+Transferência de Tecnologia do SGDC – 01/2015 
+Transferência de Tecnologia Espacial no Âmbito do Decreto nº 7.769, de 28/06/2012 
+ 
+ANEXO 7 
+MINUTA DE CONTRATO DE CONCESSÃO DE SUBVENÇÃO ECONÔMICA 
+(Lei no. 10.973/2004) 
+ 
+FINANCIADORA DE ESTUDOS E PROJETOS - Finep 
+INSTRUMENTO CONTRATUAL CÓDIGO N.º 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FINANCIADORA DE ESTUDOS E PROJETOS, doravante denominada simplesmente 
+Finep, empresa pública federal, vinculada ao Ministério da Ciência, Tecnologia e Inovação, com 
+sede em Brasília, Distrito Federal e escritório nesta Cidade, na Praia do Flamengo, n.º 200 e na 
+Avenida República do Chile, 330, Torre Oeste, Centro, inscrita no CNPJ sob o n.º 
+33.749.086/0001-09, por seus representantes legais ao final qualificados, na qualidade de 
+SECRETARIA EXECUTIVA DO FUNDO NACIONAL DE DENVOLVIMENTO CIENTÍFICO E 
+TECNOLÓGICO – FNDCT;  
+NOME, doravante denominada BENEFICIÁRIA DA SUBVENÇÃO, situada em 
+_____, inscrita no CNPJ sob o n° _________________, por seus representantes legais ao final 
+qualificados, 
+por seus representantes legais, têm justo e contratado o seguinte: 
+CLÁUSULA PRIMEIRA 
+OBJETO 
+Concessão de subvenção econômica pela Finep à BENEFICIÁRIA DA SUBVENÇÃO, 
+para 
+a 
+execução 
+do 
+PROJETO 
+“________________________________”, 
+doravante 
+denominado PROJETO, conforme PLANO DE TRABALHO aprovado pela Finep. 
+ 
+CLÁUSULA SEGUNDA 
+AUTORIZAÇÕES 
+Decisão da Diretoria Executiva da Finep n° ______, de __/__/____, relativa à 
+  
+           
+   
+ 
+ 
+22 
+ 
+referência Finep n° ___________. 
+CLÁUSULA TERCEIRA 
+RECURSOS 
+1. VALOR Finep: até o valor de R$_____________ (______________), a ser 
+desembolsado em ____ (_____________) parcelas, disponíveis para saque nas épocas e 
+valores seguintes: 
+ 
+1ª parcela: R$ _ (_______________________), após a assinatura do presente 
+CONTRATO; 
+2ª parcela: R$ _ (_________________________), XXX (    ) dias após a liberação da 
+primeira parcela; 
+3ª parcela: R$ _ (_________________________), XXX (    ) dias após a liberação da 
+segunda parcela; 
+4ª parcela: R$ _ (_________________________), XXX (    ) dias após a liberação da 
+terceira parcela. 
+2. FONTE: recursos do Fundo Nacional de Desenvolvimento Científico e 
+Tecnológico - FNDCT/SUBVENÇÃO ECONÔMICA. 
+3. DISCRIMINAÇÃO ORÇAMENTÁRIA: os recursos financeiros correrão à conta da 
+discriminação orçamentária constante da NOTA DE EMPENHO que integra o presente 
+CONTRATO. 
+4. LIBERAÇÃO: a Finep efetuará a transferência de recursos financeiros conforme 
+Cronograma de Desembolso contido no PLANO DE TRABALHO, respeitadas as suas 
+disponibilidades orçamentárias e financeiras, bem como as condições determinadas pela 
+Diretoria Executiva da Finep. 
+ 
+CLÁUSULA QUARTA 
+CONDIÇÕES DE DESEMBOLSO DOS RECURSOS 
+1. Para o desembolso da primeira parcela dos recursos, a BENEFICIÁRIA DA 
+SUBVENÇÃO deverá, no prazo de 60 (sessenta) dias contados da assinatura do contrato: 
+a) 
+indicar a conta-corrente exclusiva para movimentação dos recursos; 
+b) 
+apresentar a Certidão Negativa de Débitos Relativos aos Tributos Federais e 
+à Dívida Ativa da União e o Certificado de Regularidade do FGTS; 
+c) 
+Assinatura do “Termo de Compromisso de Manutenção de Sigilo – Pessoa 
+Jurídica”, a ser firmado pela empresa vencedora e a AEB, cujo objetivo é 
+  
+           
+   
+ 
+ 
+23 
+ 
+estabelecer as regras de sigilo relativas a tecnologias e ao conhecimento a 
+serem transferidos para a empresa. 
+d) 
+Assinatura do “Termo de Adesão à Política de Transferência de Tecnologia 
+da Agência Espacial Brasileira (AEB) para o projeto do Satélite 
+Geoestacionário de Defesa e Comunicações Estratégicas (SGDC)”, 
+instrumento jurídico pactuado entre a AEB e a empresa vencedora de cada 
+tópico, que regulará o pagamento de royalties pelo uso das tecnologias, os 
+direitos de propriedade intelectual, a fiscalização pela AEB, os direitos e 
+restrições de uso, as obrigações da empresa subvencionada perante a 
+empresa que cederá a tecnologia/know-how, dentre outras questões.  
+e) 
+Assinatura do “Contrato Tripartite de Implementação da Transferência de 
+Tecnologia”, a ser firmado pela empresa vencedora, a AEB e a empresa 
+Thales Alenia Space, cujo objetivo é firmar os deveres e responsabilidades 
+de cada parte ao longo do processo de transferência de tecnologia. 
+ 
+f) 
+apresentar 
+licenciamento 
+ambiental 
+válido 
+e 
+adequado 
+para 
+o 
+desenvolvimento das atividades do Plano Estratégico de Inovação, 
+conforme seu cronograma de execução (se for o caso);  
+g) 
+apresentar declaração de que observa e cumpre as disposições previstas na 
+legislação ambiental, mantém-se em situação regular junto aos órgãos e 
+entidades integrantes do Sistema Nacional do Meio Ambiente e os 
+documentos relacionados ao licenciamento ambiental, apresentados 
+previamente à Finep, permanecem válido (se for o caso); 
+ 
+1.1. O não cumprimento das condições elencadas no item 1 acima no prazo 
+estipulado acarretará, a critério da FINEP, a extinção de pleno direito do 
+presente contrato sem a necessidade de prévia notificação da BENEFICIÁRIA 
+DA SUBVENÇÃO e o consequente cancelamento do PROJETO. 
+2. Para o desembolso das parcelas subsequentes à primeira, a BENEFICIÁRIA DA 
+SUBVENÇÃO deverá apresentar à Finep, os seguintes documentos: 
+a) demonstrativo das despesas realizadas com os recursos anteriormente 
+desembolsados pela Finep; 
+b) demonstrativo da utilização de recursos de contrapartida no valor mínimo 
+de: 
+i. 
+R$ __ (_______________________), para liberação da segunda parcela; 
+ii. 
+R$ __ (_______________________), para liberação da terceira parcela; 
+iii. 
+R$ __ (_______________________), para liberação da quarta parcela. 
+c) relatório parcial de execução do PROJETO; 
+d) a Certidão Negativa de Débitos Relativos aos Tributos Federais e à Dívida 
+Ativa da União e o Certificado de Regularidade do FGTS; 
+e) licenciamento ambiental válido e adequado para o desenvolvimento das 
+atividades do Plano Estratégico de Inovação, conforme seu cronograma de 
+execução (se for o caso); 
+  
+           
+   
+ 
+ 
+24 
+ 
+f) declaração de que observa e cumpre as disposições previstas na legislação 
+ambiental, mantém-se em situação regular junto aos órgãos e entidades 
+integrantes do Sistema Nacional do Meio Ambiente e os documentos 
+relacionados ao licenciamento ambiental, apresentados previamente à 
+Finep, permanecem válidos (se for o caso); 
+ 
+3. Para o desembolso de cada parcela dos recursos, a BENEFICIÁRIA DA 
+SUBVENÇÃO deverá estar adimplente com a União, seus órgãos e entidades 
+das Administrações Direta e Indireta. 
+CLÁUSULA QUINTA 
+PRAZOS 
+1. O prazo de utilização dos recursos do PROJETO é de ____ (___________) 
+meses, contados da data de assinatura deste instrumento, findo o qual as parcelas não 
+utilizadas serão automaticamente canceladas. 
+1.1. O prazo de utilização dos recursos poderá ser prorrogado, a critério da 
+Finep, mediante solicitação prévia da BENEFICIÁRIA DA SUBVENÇÃO. 
+ 
+2. Em até 60 (sessenta) dias após o término do prazo de utilização dos recursos 
+do PROJETO deverão ser apresentados: 
+ 
+a) relatório técnico final e o demonstrativo de despesas realizadas com os 
+recursos desembolsados da última parcela pela Finep; 
+ 
+b) demonstrativo de utilização de recursos de contrapartida referente à 
+última parcela, no valor mínimo de R$      (    ).  
+ 
+CLÁUSULA SEXTA 
+OBRIGAÇÕES 
+1. OBRIGAÇÕES DA FINEP 
+1.1. A Finep se obriga a: 
+a) transferir os recursos financeiros e realizar a classificação funcional-
+programática e econômica das despesas relativas a exercícios futuros, por 
+meio de apostilamento de empenhos ou notas de movimentação de 
+crédito; 
+b) formalizar em documento próprio, contendo o registro dos respectivos 
+empenhos ou notas de movimentação de crédito, os recursos financeiros 
+alocados em exercícios futuros, os quais correrão à conta dos orçamentos 
+  
+           
+   
+ 
+ 
+25 
+ 
+respectivos; 
+c) prorrogar, de ofício, os prazos deste CONTRATO, quando houver atraso no 
+desembolso dos recursos por culpa da Finep, limitada a prorrogação ao 
+exato período de tempo correspondente ao do atraso verificado; 
+d) analisar e emitir parecer sobre os aspectos técnicos e financeiros das 
+demonstrações 
+financeiras 
+apresentadas 
+pela 
+BENEFICIÁRIA 
+DA 
+SUBVENÇÃO; 
+e) decidir sobre a regularidade ou não da aplicação dos recursos transferidos 
+por este CONTRATO. 
+ 
+2. OBRIGAÇÕES DA BENEFICIÁRIA DA SUBVENÇÃO 
+2.1. A BENEFICIÁRIA DA SUBVENÇÃO se obriga a: 
+a) executar o PROJETO objeto deste CONTRATO, estritamente em 
+conformidade com o que foi aprovado pela Finep; 
+b) informar à Finep quaisquer alterações que a BENEFICIÁRIA DA SUBVENÇÃO 
+pretenda realizar no PROJETO, especialmente no que concerne aos itens 
+apoiados pela Finep; 
+c) movimentar os recursos de subvenção econômica em conta bancária 
+exclusiva, realizando aplicação financeira com os recursos transferidos, 
+enquanto não empregados na sua finalidade, em fundo de curto prazo ou 
+operação de mercado aberto lastreada em título da dívida pública federal; 
+d) utilizar os recursos desembolsados pela Finep, bem como os rendimentos 
+das aplicações financeiras, exclusivamente na execução do PROJETO; 
+e) manter em arquivo exclusivo disponível para a Finep, pelo prazo de cinco 
+anos, contados da data da aprovação da prestação de contas final do 
+projeto pela Finep, os registros financeiros e contábeis e demonstrativos 
+financeiros referentes aos recursos transferidos por este instrumento, de 
+acordo com as normas estipuladas na legislação em vigor e no presente 
+CONTRATO, adequados para o acompanhamento e avaliação físico-
+financeira do PROJETO; 
+f) comunicar à Finep, previamente à sua realização, as mudanças no quadro 
+societário, na distribuição do capital social e no controle societário, ou 
+qualquer outra alteração em seu ato constitutivo ou por meio de acordo de 
+acionista, hipóteses em que, a critério da Finep, o CONTRATO poderá ser 
+rescindido, aplicando-se o disposto nas Cláusulas Décima Primeira e Décima 
+Segunda; 
+  
+           
+   
+ 
+ 
+26 
+ 
+g) restituir à Finep, no prazo improrrogável de 30 (trinta) dias, contados a 
+partir da conclusão, rescisão ou extinção deste CONTRATO, o eventual 
+saldo financeiro remanescente, inclusive o valor atualizado dos 
+rendimentos de aplicação financeira; 
+h) restituir à Finep, no prazo improrrogável de 30 (trinta) dias, contados da 
+data de notificação expedida pela Finep, o valor transferido, atualizado 
+monetariamente, acrescido de juros legais, na forma da legislação aplicável 
+aos débitos para com a Fazenda Nacional, a partir da data do seu 
+recebimento, quando: 
+(i) não for executado o objeto pactuado; 
+(ii) não forem apresentadas, nos prazos exigidos, os demonstrativos 
+financeiros e/ou de execução física; 
+(iii) os recursos forem utilizados em finalidade diversa da estabelecida neste 
+CONTRATO. 
+i) afixar, destacadamente, em lugar visível de seu estabelecimento e em todos 
+os materiais de divulgação resultantes da execução do PROJETO, o apoio 
+financeiro da Finep, da AEB e do MCTI, com recursos do FNDCT, através de 
+placa conforme modelo, dimensão e inscrição, constantes na página da 
+Finep na internet (http://www.finep.gov.br), especialmente no caso de: 
+(i) seminários e eventos científicos e tecnológicos; 
+(ii) publicações técnicas e científicas em revistas especializadas; 
+(iii) relatórios técnicos e resumos publicados ou divulgados em qualquer 
+meio, inclusive magnético ou eletrônico. 
+j) inserir banner virtual da Finep e da AEB na sua página de Internet, se houver, 
+bem como fixar sinalização destacando a colaboração financeira da Finep e 
+da AEB em lugar visível do local da realização do PROJETO, conforme 
+modelo indicados no Portal da Finep e da AEB: http://www.finep.gov.br e 
+http://www.aeb.gov.br. O banner virtual deverá possuir link que direcione 
+aos referidos Portais; 
+k) responder a qualquer solicitação de informação que a Finep lhe fizer, por 
+carta, no prazo de até 30 (trinta) dias contados dessa solicitação, sobre o 
+andamento dos trabalhos ou o resultado do PROJETO, independentemente 
+da fiscalização a ser exercida pela Finep e pela AEB; 
+l) assegurar à Finep e à AEB os mais amplos poderes de fiscalização referentes 
+à execução do presente CONTRATO, tanto em relação à aplicação dos 
+recursos da subvenção econômica, quanto em relação à aplicação dos 
+  
+           
+   
+ 
+ 
+27 
+ 
+recursos de contrapartida; 
+m) assegurar à Finep e à AEB todas as facilidades e acessos necessários à 
+realização de estudos sobre sua situação jurídica, técnica, econômica e 
+financeira, inclusive, a critério da Finep e da AEB, de serviços de auditoria; 
+n) participar dos custos de elaboração do PROJETO com as quantias adicionais 
+que se fizerem necessárias a sua conclusão; 
+o) manter a sua sede e administração no País; 
+p) cumprir o disposto na legislação referente à Política Nacional de Meio 
+Ambiente, adotando, durante o prazo de vigência deste CONTRATO, 
+medidas e ações destinadas a evitar ou corrigir danos ao meio ambiente, 
+segurança e medicina do trabalho, que possam vir a ser causados pelo 
+PROJETO financiado;  
+q) assegurar aos órgãos de controle o acesso à aplicação dos recursos de 
+subvenção econômica e de sua contrapartida no âmbito do seu poder de 
+fiscalização; 
+r) não ceder ou transferir os direitos e obrigações decorrentes deste 
+CONTRATO; 
+s) não cumular os recursos de subvenção econômica com recursos federais 
+provenientes, direta ou indiretamente, de transações de compensação 
+(offset), relacionadas ao projeto ora apoiado; 
+t) cumprir o disposto nos instrumentos firmados pela BENEFICIÁRIA DA 
+SUBVENÇÃO 
+no 
+âmbito 
+do 
+Edital 
+de 
+Seleção 
+Pública 
+MCTI/AEB/FINEP/FNDCT – Subvenção Econômica à Inovação –Transferência 
+de Tecnologia do SGDC – 01/2015 (Termo de Adesão à Política de 
+Transferência de Tecnologia da Agência Espacial Brasileira (AEB) para o 
+Projeto do Satélite Geoestacionário de Defesa e Comunicações Estratégicas 
+(SGDC); Contrato Tripartite de Implementação de Transferência de 
+Tecnologia e Termo de Compromisso de Manutenção do Sigilo). 
+ 
+CLÁUSULA SÉTIMA 
+AQUISIÇÃO DE BENS E SERVIÇOS 
+1. A aquisição de bens e serviços, no mercado nacional ou no mercado externo 
+(importação), vinculados ao PROJETO, deverá ser feita pela BENEFICIÁRIA DA SUBVENÇÃO 
+com estrita observância da legislação vigente, respeitados os princípios da legalidade, 
+moralidade e economicidade, buscando a proposta mais vantajosa para a BENEFICIÁRIA DA 
+SUBVENÇÃO. 
+  
+           
+   
+ 
+ 
+28 
+ 
+ 
+1.1. 
+Deverá ser realizada cotação de preços sempre que necessário. 
+1.2. 
+No caso da proposta mais vantajosa não ser a de menor valor caberá a 
+beneficiária da subvenção justificar a escolha do fornecedor. 
+ 
+CLÁUSULA OITAVA 
+RELATÓRIO TÉCNICO E DEMONSTRAÇÕES FINANCEIRAS 
+1. Os relatórios técnicos e as demonstrações financeiras deverão ser 
+apresentados à Finep, observando-se as Cláusulas CONDIÇÕES DE DESEMBOLSO DOS 
+RECURSOS e PRAZOS, nos termos do roteiro fornecido pela Finep, composto de: 
+a) relatório de execução PROJETO; 
+b) demonstrativo de despesas realizadas com os recursos desembolsados pela 
+Finep, de contrapartida da beneficiária e dos rendimentos provenientes de 
+aplicação financeira, quando for o caso, bem como os saldos respectivos; 
+c) relação de pagamentos efetuados, identificando o fato gerador da despesa, 
+seu valor e o número da respectiva nota fiscal ou documento similar. 
+2. Para fins de divulgação externa, a BENEFICIÁRIA DA SUBVENÇÃO se obriga a 
+apresentar, juntamente com o relatório mencionado no item anterior, um resumo, de até 200 
+palavras, contendo informações relativas aos resultados alcançados pelo PROJETO, no qual 
+deverão ser destacadas até 6 (seis) palavras-chave que melhor caracterizem o conteúdo desses 
+resultados. 
+3. As obrigações assumidas no presente CONTRATO somente serão consideradas 
+cumpridas após a aprovação pela Finep do relatório técnico final e da demonstração financeira 
+final. 
+CLÁUSULA NONA 
+PROPRIEDADE INTELECTUAL 
+1. As questões associadas à Propriedade Intelectual vinculada ao objeto deste 
+contrato são regidas pelo Termo de Adesão à Política de Transferência de Tecnologia da 
+Agência Espacial Brasileira para o projeto do Satélite Geoestacionário de Defesa e 
+Comunicações Estratégicas (SGDC), firmado entre a Beneficiária da Subvenção e a AEB. 
+ 
+ 
+2. Quando os resultados alcançados pelo PROJETO ensejarem proteção dos 
+direitos relativos à propriedade intelectual e caso faça parte da estratégia de mercado da 
+BENEFICIÁRIA DA SUBVENÇÃO obter tal proteção, deverão ser levados a registro no Instituto 
+Nacional de Propriedade Industrial - INPI ou em outro órgão competente para a proteção da 
+propriedade intelectual no Brasil, e a Finep e a AEB deverá ser informada. 
+  
+           
+   
+ 
+ 
+29 
+ 
+ 
+CLÁUSULA DÉCIMA 
+CONDIÇÕES GERAIS 
+1. É vedado o aditamento deste CONTRATO com o intuito de alterar seu objeto, 
+entendida como tal a modificação, ainda que parcial, da finalidade definida no PROJETO. 
+2. Excepcionalmente, a Finep poderá admitir, a pedido da BENEFICIÁRIA DA 
+SUBVENÇÃO, a reformulação do PLANO DE TRABALHO, quando se tratar apenas de alteração 
+da programação de execução do CONTRATO. 
+3. A Finep poderá delegar formalmente o acompanhamento da execução do 
+CONTRATO. 
+4. A BENEFICIÁRIA DA SUBVENÇÃO reconhece a autoridade normativa da Finep 
+para exercer o controle e a fiscalização sobre a execução do PROJETO, reorientar ações e 
+acatar, ou não, justificativas com relação às eventuais disfunções havidas na sua execução. 
+5. Não será aceito pela Finep pagamento por serviços de consultoria ou assessoria 
+técnica, bem como de diárias e passagens, feito a militar, servidor ou empregado público, 
+integrante do quadro de pessoal da Administração Pública Direta ou Indireta, salvo se 
+permitido por legislação específica. 
+6. As despesas realizadas com recursos de subvenção econômica somente serão 
+reconhecidas a partir da assinatura do presente CONTRATO. 
+6.1. As despesas realizadas a título de contrapartida serão aceitas até a data do 
+prazo de utilização de recursos a partir da divulgação oficial pela Finep das empresas 
+escolhidas na Seleção Pública. 
+ 
+CLÁUSULA DÉCIMA PRIMEIRA 
+SUSPENSÃO DOS DESEMBOLSOS DOS RECURSOS 
+1. Sem prejuízo da denúncia ou rescisão do presente CONTRATO, a Finep poderá 
+suspender os desembolsos dos recursos nas seguintes hipóteses: 
+a) aplicação dos recursos do financiamento em fins diversos do pactuado ou 
+em desacordo com o PLANO DE TRABALHO; 
+b) inexatidão nas informações prestadas à Finep pela BENEFICIÁRIA DA 
+SUBVENÇÃO, objetivando a obtenção desta subvenção econômica ou 
+durante a execução deste CONTRATO; 
+c) paralisação do PROJETO; 
+  
+           
+   
+ 
+ 
+30 
+ 
+d) outras circunstâncias que, a juízo da Finep, tornem inseguro ou impossível o 
+cumprimento, pela BENEFICIÁRIA DA SUBVENÇÃO, das obrigações 
+assumidas no presente CONTRATO ou a realização dos objetivos para os 
+quais foi concedido a subvenção econômica; 
+e) inadimplemento, por parte da BENEFICIÁRIA DA SUBVENÇÃO, de qualquer 
+obrigação assumida neste CONTRATO; 
+f) na hipótese de recuperação judicial ou extrajudicial, falência decretada ou 
+protesto de título cambial em relação à BENEFICIÁRIA DA SUBVENÇÃO, 
+ressalvada a hipótese de protesto indevido, devidamente justificado; 
+g) descumprimento por parte da BENEFICIÁRIA DA SUBVENÇÃO do disposto 
+no Termo de Adesão à Política de Transferência de Tecnologia da Agência 
+Espacial Brasileira (AEB) para o Projeto do Satélite Geoestacionário de 
+Defesa e Comunicações Estratégicas (SGDC) ou no Contrato Tripartite de 
+Implementação de Transferência de Tecnologia ou no Termo de 
+Compromisso de Manutenção do Sigilo. 
+Parágrafo único. A Finep poderá nas hipóteses descritas nesta Cláusula, 
+alternativamente ou em conjunto com a suspensão dos desembolsos dos recursos, fixar 
+condicionantes de ordem técnica-operacional, jurídica ou financeira, que deverão ser 
+cumpridas dentro de prazo a ser estabelecido, sob pena de aplicação do disposto nas Cláusulas 
+Décima Segunda e Décima Quarta. 
+ 
+CLÁUSULA DÉCIMA SEGUNDA 
+TOMADA DE CONTAS ESPECIAL 
+1. Será instaurada Tomada de Contas Especial pela Finep ou, na sua omissão, por 
+determinação do Controle Interno ou do Tribunal de Contas da União, para identificação dos 
+responsáveis e quantificação do dano, quando ocorrer o seguinte: 
+a) não apresentação de relatório técnico e de demonstrações financeiras no prazo 
+de até 30 (trinta) dias da notificação que lhe for encaminhada pela Finep; 
+b) não aprovação de relatório técnico e de demonstrações financeiras, em 
+decorrência de: 
+i. 
+não execução do objeto pactuado; 
+ii. 
+atingimento parcial dos objetivos avençados; 
+iii. 
+desvio de finalidade; 
+iv. 
+impugnação de despesas; 
+v. 
+não aporte dos recursos de contrapartida; 
+vi. 
+não aplicação de rendimentos de aplicações financeiras no objeto 
+pactuado. 
+  
+           
+   
+ 
+ 
+31 
+ 
+c) ocorrência de qualquer outro fato do qual resulte prejuízo ao erário; 
+d) não devolução de eventuais saldos financeiros remanescentes após 30 (trinta) 
+dias da conclusão, denúncia, rescisão ou extinção do contrato. 
+2. A não-execução do PROJETO pactuado, ou sua execução parcial, decorrente de 
+insucesso técnico devidamente justificado e aprovado pela Finep não ensejará a instauração 
+de Tomada de Contas Especial. 
+ 
+CLÁUSULA DÉCIMA TERCEIRA 
+PUBLICAÇÃO 
+A eficácia deste CONTRATO e de seus eventuais aditivos fica condicionada à 
+publicação do respectivo extrato no Diário Oficial da União, que será providenciada pela Finep 
+até 30 dias contados da assinatura deste CONTRATO. 
+CLÁUSULA DÉCIMA QUARTA 
+RESCISÃO 
+Este CONTRATO poderá ser rescindido a qualquer tempo, em caso de infringência 
+de quaisquer de seus dispositivos, imputando-se às partes a responsabilidade pelas obrigações 
+decorrentes do prazo em que tenham vigido e creditando-se-lhes, igualmente, os benefícios 
+adquiridos no mesmo período. 
+ 
+CLÁUSULA DÉCIMA QUINTA 
+DISPOSIÇÕES APLICÁVEIS 
+Aplica-se ao presente instrumento a Lei nº 10.973, de 02 de dezembro de 2004, o 
+Decreto nº 5.563, de 11 de outubro de 2005, a Lei nº 11.540, de 12 de novembro de 2007, o 
+Decreto nº 6.938, de 13 de agosto de 2009, Decreto nº 7.769, de 28 de junho de 2012 e 
+demais atos normativos pertinentes. 
+CLÁUSULA DÉCIMA SEXTA 
+DAS DECLARAÇÕES  
+Sob pena de incidência das sanções contratuais e legais, de natureza civil e penal, 
+a BENEFICIÁRIA DA SUBVENÇÃO declara que: 
+a) o imóvel onde será implantado o projeto descrito na Cláusula Primeira do 
+presente contrato não possui reserva legal e/ou área de preservação 
+permanente, ou se possui, que sobre determinado imóvel inexistem 
+embargos vigentes de uso econômico de áreas desmatadas ilegalmente, 
+  
+           
+   
+ 
+ 
+32 
+ 
+nos termos do art. 1º, II, da Resolução do Conselho Monetário Nacional nº 
+3.545, de 29 de fevereiro de 2008; 
+ 
+b) não está descumprindo embargo de atividade nos termos do art. 11 do 
+Decreto nº 6.321, de 21 de dezembro de 2007, c/c os art. 16, §1º e §2º, 
+art. 17 e art. 54, caput e parágrafo único do Decreto nº 6.514, de 22 de 
+julho de 2008, bem como não ter sido notificada de qualquer sanção 
+restritiva de direito, nos termos dos incisos I, II, IV e V do art. 20 do 
+Decreto nº 6.514, de 22 de julho de 2008; 
+ 
+c) está adimplente com a União, seus órgãos e entidades das Administrações 
+Direta e Indireta, com ressalva das obrigações cujo adimplemento se 
+comprova por meio de certidão, em razão da legislação vigente; 
+ 
+d) não está descumprindo embargo de atividade nos termos do art. 1º, II, da 
+Resolução do Conselho Monetário Nacional nº 3545, de 29 de fevereiro de 
+2008; 
+ 
+e) inexistem Deputado(a), Senador(a) e Vereador(a) diplomados(as) ou 
+empossados(as), 
+exercendo 
+função 
+remunerada 
+ou 
+entre 
+seus 
+administradores, não se configurando as vedações previstas pela 
+Constituição Federal, artigo 54, incisos I e II, artigo 27, § 1º e artigo 29, IX; 
+ 
+f) não é beneficiária, direta ou indireta, de recursos federais provenientes de 
+transações de compensação (offset), com relação ao projeto ora 
+subvencionado; 
+ 
+g) todas as informações prestadas à Finep, inclusive no preenchimento de 
+formulários e cadastros na internet, são verdadeiras. 
+ 
+CLÁUSULA DÉCIMA SÉTIMA 
+NÃO EXERCÍCIO DE DIREITOS 
+O atraso ou abstenção, pela Finep do exercício de quaisquer direitos ou 
+faculdades que lhe assistam em decorrência da lei ou do presente CONTRATO, ou a eventual 
+concordância com atrasos no cumprimento das obrigações assumidas pela BENEFICIÁRIA DA 
+SUBVENÇÃO, não implicarão qualquer novação, não podendo ser interpretados como 
+renúncia a tais direitos ou faculdades, que poderão ser exercidos, a qualquer tempo, a critério 
+exclusivo da Finep. 
+CLÁUSULA DÉCIMA OITAVA 
+VIGÊNCIA 
+1. O prazo de vigência deste CONTRATO é de 48 (quarenta e oito) meses contados 
+da data de assinatura deste CONTRATO. 
+  
+           
+   
+ 
+ 
+33 
+ 
+ 
+1.1. 
+O prazo de vigência poderá ser prorrogado por, no máximo, mais 12 
+(doze) meses, desde que se mostre necessário, a critério da Finep, e a 
+prorrogação seja requerida com, no mínimo, 30 (trinta) dias de 
+antecedência. 
+ 
+CLÁUSULA NONA 
+FORO DO CONTRATO 
+As partes elegem o foro da Cidade do Rio de Janeiro para solução de qualquer 
+controvérsia oriunda do presente CONTRATO, ressalvado à Finep o direito de optar pelo foro 
+de sua sede. 
+ 
+As folhas deste CONTRATO são rubricadas por Nome, inscrita(o) na OAB/RJ sob nº 
+000000, advogada(o) da Finep, por autorização dos representantes legais que o assinam. 
+E, por estarem assim justos e acordados, firmam o presente instrumento em X 
+(____) vias de igual teor e forma para um só efeito, juntamente com as testemunhas abaixo. 
+ 
+Rio de Janeiro, 
+ 
+Pela FINANCIADORA DE ESTUDOS E PROJETOS - Finep: 
+ 
+ 
+____________________________ 
+            ___________________________ 
+ 
+ 
+ 
+Pela BENEFICIÁRIA DA SUBVENÇÃO: 
+ 
+_______________________________                        ___________________________ 
+Nome: 
+ 
+Nome: 
+  
+           
+   
+ 
+ 
+34 
+ 
+CPF: 
+ 
+CPF: 
+ 
+TESTEMUNHAS: 
+ 
+_______________________________                         ___________________________ 
+Nome: 
+ 
+Nome: 
+CPF: 
+ 
+CPF: 
+ 
+ 
+ 
+ 
+ 
+  
+           
+   
+ 
+ 
+35 
+ 
+EDITAL DE SELEÇÃO PÚBLICA MCTI/AEB/FINEP/FNDCT – Subvenção Econômica à Inovação –
+Transferência de Tecnologia do SGDC – 01/2015 
+Transferência de Tecnologia Espacial no Âmbito do Decreto nº 7.769, de 28/06/2012 
+ 
+ANEXO 8 
+ 
+SOLICITAÇÃO DE PLANO DE TRABALHO E TERMO DE CONFIDENCIALIDADE 
+ 
+Solicito o Plano de Trabalho do tópico____________________________________________, 
+constante do EDITAL DE SELEÇÃO PÚBLICA MCTI/AEB/FINEP/FNDCT – Subvenção Econômica à 
+Inovação – Transferência de Tecnologia do SGDC – 01/2015 - Transferência de Tecnologia 
+Espacial no Âmbito do Decreto nº 7.769, de 28/06/2012.Declaro ciência da confidencialidade 
+do Plano de Trabalho nos seguintes termos: 
+- uso exclusivo do Plano de Trabalho para elaboração da proposta de subvenção econômica do 
+EDITAL DE SELEÇÃO PÚBLICA MCTI/AEB/FINEP/FNDCT – Subvenção Econômica à Inovação –
+Transferência de Tecnologia do SGDC – 01/2015 – Transferência de Tecnologia Espacial no 
+Âmbito do Decreto nº 7.769, de 28/06/2012; e 
+- são proibidos difusão, uso e/ou proveito das informações constantes do Plano de Trabalho 
+para fim diverso da elaboração da proposta de subvenção econômica do EDITAL DE SELEÇÃO 
+PÚBLICA MCTI/AEB/FINEP/FNDCT – Subvenção Econômica à Inovação –Transferência de 
+Tecnologia do SGDC – 01/2015 – Transferência de Tecnologia Espacial no Âmbito do Decreto 
+nº 7.769, de 28/06/2012. 
+Proponente: 
+CNPJ: 
+Correio Eletrônico: 
+Representante legal: 
+CPF: 
+Cargo:  
+Data:  
+ 
+______________________________________ 
+Assinatura do representante legal 
+ 
+ 
+  
+           
+   
+ 
+ 
+36 
+ 
+EDITAL DE SELEÇÃO PÚBLICA MCTI/AEB/FINEP/FNDCT – Subvenção Econômica à Inovação –
+Transferência de Tecnologia do SGDC – 01/2015 
+Transferência de Tecnologia Espacial no Âmbito do Decreto nº 7.769, de 28/06/2012 
+ 
+ANEXO 9 
+ 
+MINUTA PADRÃO DO TERMO DE ADESÃO À POLÍTICA DE TRANSFERÊNCIA DE TECNOLOGIA 
+DA AGÊNCIA ESPACIAL BRASILEIRA (AEB) PARA O PROJETO DO SATÉLITE GEOESTACIONÁRIO 
+DE DEFESA E COMUNICAÇÕES ESTRATÉGICAS (SGDC) 
+ 
+Este Termo de Adesão é celebrado entre: (i) A AGÊNCIA ESPACIAL BRASILEIRA (AEB), autarquia 
+federal criada pela Lei nº 8.854, de 10 de fevereiro de 1994, vinculada ao Ministério da Ciência, 
+Tecnologia e Inovação (MCTI), nos termos do Decreto nº 6.129, de 20 de junho de 2007, com 
+sede no Setor Policial Sul, Área 5, Quadra 3, Bloco “A”, Brasília/DF, CEP 70610-200, inscrita no 
+CNPJ sob o nº 86.900.545/0001-70, neste ato representado pelo seu Presidente, Senhor 
+.............................., (nacionalidade), portador da Carteira de Identidade nº .............., inscrito 
+no CPF/MF sob o nº ....................., residente e domiciliado em Brasília-DF, no exercício regular 
+da competência que lhe foi delegada pelo Decreto sem número, datado de ... de .... de ...., 
+publicada no D.O.U, Seção 2, página ..., do dia ... de .... de ...., doravante denominada 
+simplesmente “AEB”; (ii) ..........................., com sede na cidade de ................., Estado d(e) 
+....................., à ..............., no. ......., .................., inscrita no CNPJ/MF sob nº ......................, 
+doravante denominada simplesmente “Empresa Brasileira”, neste ato representada pelo seu 
+Presidente, Senhor(a) ..............., brasileiro(a), inscrito no CPF/MF sob o nº ..............., residente 
+e domiciliado na cidade de ...................., Estado d(e) ....................., doravante conjuntamente 
+denominadas como “Partes”. 
+ 
+1. 
+Base Legal 
+1.1 
+Decreto No. 7.769/2012, que dispõe sobre a gestão do planejamento, da construção e 
+do lançamento do Satélite Geoestacionário de Defesa e Comunicações Estratégicas (SGDC). 
+1.2 
+Lei nº 10.973/2004, regulamentada pelo Decreto nº 5.563/2005. 
+ 
+2. 
+Introdução 
+2.1 
+Este Termo de Adesão tem caráter individual e é firmado entre a Agência Espacial 
+Brasileira (AEB) e a Empresa Brasileira candidata a Beneficiária da Subvenção pela Finep no 
+âmbito do Edital de Subvenção Econômica 01/2015 – Transferência de Tecnologia do SGDC – 
+Transferência de Tecnologia Espacial no Âmbito da Aquisição do Satélite Geoestacionário de 
+Defesa e Comunicações Estratégicas (SGDC). 
+  
+           
+   
+ 
+ 
+37 
+ 
+2.2 
+Este Termo de Adesão regula aspectos essenciais da Transferência de Tecnologia não 
+inclusos no Contrato de Concessão de Subvenção Econômica (entre a Beneficiária da 
+Subvenção e a Finep) ou no Contrato Tripartite de Implementação de Transferência de 
+Tecnologia, Anexo 10 do Edital, (entre a AEB, a empresa Thales Alenia Space France – TAS-F, 
+Thales Alenia Space Italia S.p.A – TAS-I e a Empresa Brasileira). 
+2.3 
+Todos os termos e condições do Contrato de Concessão de Subvenção Econômica e do 
+Contrato Tripartite de Implementação de Transferência de Tecnologia deverão ser respeitados 
+pela Empresa Brasileira e pela AEB. 
+2.4 
+Em caso de conflito entre este Termo de Adesão e o Contrato de Concessão de 
+Subvenção Econômica ou o Contrato Tripartite de Implementação de Transferência de 
+Tecnologia, prevalecem os Contratos. 
+ 
+3. 
+Dos Direitos e Obrigações da Empresa Brasileira 
+3.1 
+A Empresa Brasileira reconhece que deverá firmar, juntamente com a empresa Thales 
+Alenia Space France – TAS-F, e/ou Thales Alenia Space Italia S.p.A – TAS-I, um Plano de 
+Trabalho conjunto para o desenvolvimento das atividades de Transferência de Tecnologia no 
+Tópico para o qual ela foi indicada vencedora nos termos do Edital de Subvenção Econômica 
+01/2015. 
+3.2 
+A Empresa Brasileira reconhece que deverá celebrar, juntamente com a AEB e a TAS-F 
+e/ou TAS-I, um Contrato Tripartite de Implementação de Transferência de Tecnologia, pelo 
+qual assume perante as outras partes responsabilidade pela condução das atividades que lhe 
+cabem no processo de Transferência de Tecnologia, particularmente quanto ao treinamento 
+de pessoal, modelo de assistência técnica, licença de uso da tecnologia transferida, gestão da 
+propriedade intelectual, e indenizações decorrentes do uso inadequado, atrasos e deficiências 
+no desempenho, destinação final das tecnologias e outras responsabilidades gerais constantes 
+do referido Contrato. 
+3.3 
+A Empresa Brasileira reconhece que deverá celebrar, juntamente com a AEB, um 
+Termo de Compromisso de Manutenção de Sigilo – Pessoa Jurídica, Anexo 11 do Edital, pelo 
+qual assume responsabilidades na gestão das Informações Sigilosas que receber durante o 
+processo de Transferência de Tecnologia. 
+3.4 
+A Empresa Brasileira reconhece que a AEB será a detentora integral e exclusiva dos 
+direitos de propriedade intelectual decorrentes do processo de Transferência de Tecnologia 
+(conforme disposto no artigo 10, inciso §2º, do Decreto 7.769 de 28 de junho de 2012). 
+3.5 
+A AEB e a Empresa Brasileira terão, sujeito a notificação prévia à TAS-F e/ou TAS-I, o 
+direito de fornecer produtos e/ou serviços que incorporem as Tecnologias Transferidas a 
+qualquer entidade internacional, desde que o fornecimento respeite todas as restrições 
+descritas no Acordo de Transferência de Tecnologia Espacial celebrado entre a AEB e a TAS-F 
+e/ou TAS-I. 
+  
+           
+   
+ 
+ 
+38 
+ 
+3.5.1 
+A Empresa Brasileira compromete-se a, durante as vigências desse Termo de Adesão e 
+do Termo de Compromisso de Manutenção de Sigilo, a consultar antecipadamente a AEB em 
+todas as ocasiões que pretender utilizar em produtos e/ou serviços as invenções, relatórios, 
+know-how, bancos de dados, modelos, resultados de testes, processos de produção, 
+especificações, patentes, pedidos de patentes, modelos de utilidade, software de computador 
+(em formatos código fonte e objeto), informações técnicas, direitos de autores, nomes de 
+domínio, desenhos, logotipos, marcas comerciais, planos, qualquer tipo de dados, notas 
+técnicas, protótipos, ferramentas, processos, métodos, segredos comerciais, algoritmos, 
+qualquer documentação técnica associada, projetos registrados e outros direitos de projeto a 
+ela transferidos como resultado da Transferência de Tecnologia. 
+3.5.2 
+Como decorrência da consulta à AEB, a Empresa Brasileira compromete-se a acatar 
+integralmente as deliberações da AEB pela possibilidade de uso integral ou parcial das 
+referidas Tecnologias Transferidas, pela eventual negação de autorização para o uso, pela 
+imposição de restrições de territorialidade, ou outras restrições aplicáveis ao Tópico de 
+Transferência de Tecnologia em questão. 
+3.5.3 
+As autorizações para uso das Tecnologias Transferidas deverão ser solicitadas a cada 
+aplicação pretendida pela Empresa Brasileira. As autorizações serão de natureza específica e 
+individual, não se estendendo automaticamente para qualquer gama de produtos e/ou 
+serviços da Empresa Brasileira. 
+3.5.4 
+Concedida a autorização, a Empresa Brasileira deverá pactuar com a AEB os termos de 
+utilização, que incluem os royalties a serem recolhidos, o calendário financeiro dos resultados 
+a serem auferidos, e as formas de verificação. 
+3.5.4.1 A Empresa Brasileira reconhece, nos Termos do Edital de Subvenção Econômica 
+01/2015, que a AEB poderá impor o recolhimento de royalties sobre os resultados econômicos 
+da utilização das Tecnologias Transferidas em cada produto e/ou serviço comercializado. 
+3.5.4.2 Para fins de cálculo da remuneração considera-se preço líquido o valor do faturamento 
+baseado nas vendas efetivas, deduzidos os impostos, taxas, insumos e componentes 
+importados tanto do fornecedor da tecnologia como de outros, direta ou indiretamente 
+vinculados a este, as comissões, os créditos por devoluções, os fretes, os seguros e as 
+embalagens. Esta recomendação geral deverá ser ajustada a cada caso, particularmente 
+quando o produto ou serviço comercializado tiver apenas em parte uma contribuição da 
+Tecnologia Transferida, sendo o resto baseado em tecnologia pré-existente da empresa 
+(“Background Intelectual Property” – BIP). 
+3.5.4.3 O percentual a ser recolhido não deve exceder 5% sobre o preço líquido de venda do 
+produto e/ou serviço que se beneficiou da Tecnologia Transferida. A Empresa Brasileira pagará 
+à AEB, esse percentual, a título de remuneração pela Tecnologia Transferida. A definição da 
+porcentagem será feita individualmente pela AEB. 
+  
+           
+   
+ 
+ 
+39 
+ 
+3.5.4.4 O crédito da remuneração pelo uso das Tecnologias Transferidas será feito no fim de 
+cada trimestre. A remessa será efetuada em até mais tardar trinta (30) dias após o 
+encerramento de cada trimestre em forma determinada pela AEB. 
+3.5.4.5 A Empresa Brasileira no fim de cada trimestre, por ocasião do pagamento da 
+remuneração, fornecerá à AEB quadro demonstrativo do faturamento e das deduções exigidas 
+pelas leis brasileiras, do período correspondente. 
+3.5.4.6 A Empresa Brasileira compromete-se a manter em sua sede social registros contábeis 
+separados onde constem com precisão todas as informações necessárias ao controle de 
+produção de produtos e/ou prestação de serviços que envolvam as Tecnologias Transferidas. 
+3.5.4.7 A AEB reserva-se o direito de examinar controles constituídos pela Empresa Brasileira 
+por meio de um representante da Agência, a qualquer tempo, porém dentro de limites 
+razoáveis. 
+3.6 
+Os direitos aqui concedidos destinam-se a uma única Empresa Brasileira, e não 
+poderão ser transmitidos ou transferidos de nenhum modo, seja por meio de fusão, aquisição, 
+mudança nas participações ou de outro modo, nos casos em que a transmissão infrinja os 
+seguintes requisitos do Acordo de Transferência de Tecnologia Espacial celebrado entre a AEB 
+e a TAS-F e/ou TAS-I: (i) transmissão a qualquer concorrente direto ou indireto da TAS-F e/ou 
+TAS-I e/ou (ii) limitações devido a quaisquer regulamentações de controle de exportações 
+aplicáveis. 
+3.6.1 
+A Empresa Brasileira compromete-se a comunicar à AEB por escrito, com antecedência 
+de, no mínimo, 60 (sessenta) dias, toda e qualquer alteração de seu tipo ou controle societário, 
+endereço da sede social, objeto social ou outro fator relevante que altere sua forma de 
+operação. 
+3.6.1.1 A Empresa Brasileira reconhece e concorda que a AEB dará pleno e imediato 
+conhecimento de todas as comunicações conforme esta Cláusula 3.6.1 à TAS-F e/ou TAS-I, e 
+que esta poderá não aceitar a alteração nas seguintes situações: (i) caso a Empresa Brasileira, 
+por qualquer motivo, fique sob controle de um concorrente direto ou indireto da TAS-F e/ou 
+TAS-I; (ii) devido a regras de controle de exportações a que a TAS-F e/ou TAS-I ou outras 
+empresas de seu grupo estejam sujeitas; ou (iii) caso a alteração viole as disposições de 
+territorialidade previstas no Contrato Tripartite de Implementação de Transferência de 
+Tecnologia. 
+3.6.1.2 Caso a Empresa Brasileira deixe de comunicar ou realize uma alteração não aceita pela 
+TAS-F e/ou TAS-I nos termos desta Cláusula, esta poderá rescindir o Contrato Tripartite de 
+Implementação de Transferência de Tecnologia, conforme disposto em sua Cláusula 17.2.2. 
+Neste caso, a AEB poderá ainda, em acordo com a TAS-F e/ou TAS-I, outorgar o direito de 
+utilização, venda e fabricação da Tecnologia Transferida para qualquer outra empresa. 
+3.6.2 
+A Empresa Brasileira reconhece e concorda que os direitos a serem concedidos sob a 
+Transferência de Tecnologia estarão sempre sujeitos aos regulamentos de controle de 
+  
+           
+   
+ 
+ 
+40 
+ 
+exportações aplicáveis dos Estados Unidos, da França e/ou da Itália, e/ou qualquer outra 
+regulamentação de controle de exportações devida aos fornecedores da TAS-F e/ou TAS-I, 
+conforme informado por escrito pela TAS-F e/ou TAS-I à AEB; também reconhece que fica 
+proibida qualquer parceria com um país com embargo de armas pelos Estados Unidos. 
+3.7 
+À AEB e à Empresa Brasileira é facultado, de forma conjunta ou independente, o direto 
+de aperfeiçoar as Tecnologias Transferidas. 
+3.7.1 
+A AEB terá o direito de solicitar o registro de patentes, projetos e/ou marcas 
+comerciais de qualquer dispositivo, processo, maquinário, equipamento e/ou outro item que 
+possa ser registrado de acordo com a legislação aplicável, como resultado da Propriedade 
+Intelectual Nova da AEB. A propriedade intelectual nova da Empresa Brasileira será de 
+propriedade da AEB ou da Empresa Brasileira, dependendo do investimento de cada um. 
+3.7.2 
+Os direitos de Propriedade Intelectual que resultem diretamente do investimento 
+realizado pela AEB ou outra Empresa Brasileira como parte do Programa de Transferência de 
+Tecnologia, bem como qualquer aperfeiçoamento feito no futuro exclusivamente pela AEB 
+com relação à Tecnologia Transferida, será considerada Propriedade Intelectual Nova da AEB e 
+será de propriedade da AEB. 
+3.7.3 
+Toda a propriedade intelectual, que for desenvolvida exclusivamente pela Empresa 
+Brasileira, ou qualquer melhoria feita exclusivamente por ela sobre a Tecnologia Transferida, 
+durante e/ou após o transcurso da implementação do contrato específico de Transferência de 
+Tecnologia, será considerada Propriedade Intelectual Nova da Empresa Brasileira. Assim, 
+pertencerão a ela todas as inovações, melhoramentos ou aperfeiçoamentos por ela 
+introduzidas ou obtidas com relação à Tecnologia Transferida. 
+ 
+4. 
+Dos Direitos e Obrigações da AEB 
+4.1 
+Caberá à AEB cumprir as obrigações e exercer os direitos advindos do Art. 10 do 
+Decreto No. 7.769/2012, do Acordo de Transferência de Tecnologia Espacial firmado junto à 
+TAS, assim como dos demais instrumentos deles decorrentes e por ela firmados. 
+ 
+5. 
+Da Vigência 
+5.1 
+A vigência deste Termo de Adesão será vinculada à vigência do Acordo de 
+Transferência de Tecnologia Espacial entre a AEB e a Thales Alenia Space France (TAS-F) e/ou 
+Thales Alenia Space Italia (TAS-I) para o tópico de Transferência de Tecnologia em questão, 
+que estará explicitado no Contrato Tripartite de Implementação de Transferência de 
+Tecnologia. 
+  
+           
+   
+ 
+ 
+41 
+ 
+5.2 
+Caso a Empresa Brasileira signatária não venha a firmar o Contrato de Concessão de 
+Subvenção Econômica ou o Contrato Tripartite de Implementação de Transferência de 
+Tecnologia, esse Termo de Adesão torna-se sem efeito. 
+5.3 
+Caso o Contrato de Concessão de Subvenção Econômica e o Contrato Tripartite de 
+Implementação de Transferência de Tecnologia sejam rescindidos, este Termo de Adesão 
+torna-se sem efeito, permanecendo em vigor todas as cláusulas dos Contratos que regulam a 
+rescisão contratual, assim como o Termo de Compromisso de Manutenção de Sigilo. 
+ 
+6. 
+Das Penalidades 
+6.1 
+O descumprimento das cláusulas desse Termo de Adesão sujeita a Empresa Brasileira 
+às penalidades aplicáveis estabelecidas: 
+a) 
+no Contrato de Concessão de Subvenção Econômica; 
+b) 
+na Lei 8.666/93, que regerá o Contrato Tripartite de Implementação de Transferência 
+de Tecnologia; 
+c) 
+no Termo de Compromisso de Manutenção de Sigilo – Pessoa Jurídica. 
+ 
+7.  
+Do Foro 
+7.1 
+Todas as disputas, controvérsias, conflitos ou reclamações associados a ou em 
+decorrência deste Termo de Adesão, que não sejam solucionados de forma amigável entre as 
+Partes, serão encaminhados aos Tribunais Federais de Brasília, Distrito Federal, Brasil, 
+excluindo-se todos os outros tribunais, por mais privilegiados que possam ser. 
+ 
+Brasília, xx de xxxxx de 2015. 
+(seguem assinaturas das partes e de testemunhas) 
+ 
+ 
+ 
+ 
+  
+           
+   
+ 
+ 
+42 
+ 
+EDITAL DE SELEÇÃO PÚBLICA MCTI/AEB/FINEP/FNDCT – Subvenção Econômica à Inovação –
+Transferência de Tecnologia do SGDC – 01/2015 
+Transferência de Tecnologia Espacial no Âmbito do Decreto nº 7.769, de 28/06/2012 
+ 
+ANEXO 10 
+MINUTA PADRÃO DO CONTRATO TRIPARTITE DE IMPLEMENTAÇÃO DA TRANSFERÊNCIA DE 
+TECNOLOGIA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONTRATO TRIPARTITE DE IMPLEMENTAÇÃO DE TRANSFERÊNCIA DE 
+TECNOLOGIA 
+Para a aplicação no  
+Acordo de Transferência de Tecnologia definitivo assinado entre a  
+AEB, a Thales Alenia Space Itália e a Thales Alenia Space France em [●]. 
+ 
+Entre 
+A AGÊNCIA ESPACIAL BRASILEIRA – AEB, autarquia federal criada pela Lei n º 8.854, de 
+fevereiro de 1994, no âmbito do Ministério da Ciência, Tecnologia e Inovação – MCTI, 
+conforme a Portaria nº 6.129 de 20 de junho de 2007, com sede na cidade de Brasília, Distrito 
+Federal, Brasil, no Setor Policial Sul, Área 5, Quadra 3, Bloco "A", inscrita no CNPJ / MF sob o 
+número de registro 86.900.545/0001-70, 
+(doravante referida como “AEB”) 
+E 
+A Thales Alenia Space France, companhia constituída sob as leis da França, com endereço 
+comercial situado na 26 Avenue Jean-François Champollion, 31100 Toulouse – FRANÇA 
+ 
+Ou 
+ 
+A Thales Alenia Space Itália S.p.A., companhia de único acionista, gerenciada conjuntamente 
+e coordenada pela Thales S.A. e Finmeccanica S.p.A., constituída sob as leis da República da 
+Itália, com escritório estabelecido à Via Saccomuro, 24 – 00131 Roma, Itália, com capital 
+totalmente integralizado de € 204.007.999,00, com Tax Code and Companies’ Register of 
+Rome no. 02101600480 – VAT Code: IT-00991340969 
+(doravante referida como “TAS”) 
+Este documento é um esboço para ser anexado ao Acordo de TT, a fim de ser utilizado 
+como modelo para a negociação dos contratos de implementação de TT. 
+[●] significa para ser completada. 
+Todos os realces em cinza indicam os itens que devem ser adaptados para cada tópico. 
+Os realçados não são exaustivos. Algum texto pode ser relevante apenas para alguns 
+tópicos e terá de ser suprimido caso a caso. 
+  
+           
+   
+ 
+ 
+43 
+ 
+ 
+E 
+ 
+[Nome da empresa brasileira ●] uma empresa constituída sob as leis do Brasil, com sede em 
+[●], designada pela TAS e AEB no âmbito do Acordo de TT definitivo como beneficiária da 
+presente transferência de tecnologia da TAS. 
+ 
+(Doravante referida como “Beneficiária da Transferência de Tecnologia” ou “Beneficiária 
+de TT”) 
+ 
+AEB, TAS e a Beneficiária TT são individualmente ou coletivamente referidas como “Parte” ou 
+“Partes”. 
+ 
+ÍNDICE 
+ 
+ANEXOS 
+ 
+ANEXO 1: 
+ 
+Plano de Trabalho 
+ANEXO 2: 
+ 
+[●] 
+ANEXO 3: 
+ 
+[●] 
+ANEXO 4: 
+ 
+[●] 
+ 
+PREÂMBULO 
+ 
+Considerando que  
+a AEB e TAS assinaram um Acordo de Transferência de Tecnologia 
+em [●] pelo qual AEB e TAS definiram uma série de Tópicos de 
+tecnologia que serão transferidos às empresas brasileiras selecionadas 
+pela TAS e AEB com base nas suas competências tecnológicas; e 
+Considerando que  
+sob o presente Contrato as Partes concordam em implementar a 
+Transferência de tecnologia sobre o Tópico denominado (Seção [●]), 
+conforme descrito no Plano de Trabalho ref. [●]; e 
+Considerando que  
+a AEB e FINEP – FINANCIADORA DE ESTUDOS E PROJETOS, 
+empresa 
+pública 
+federal 
+brasileira, 
+concebeu 
+e 
+realizou 
+um 
+chamamento público, de acordo com as leis brasileiras, para selecionar 
+uma empresa brasileira a ser a Beneficiária de TT; e 
+Considerando que  
+a [Nome da empresa brasileira ●] apresentou a melhor proposta e 
+venceu o processo de seleção, sendo assim designada pela AEB como 
+a Beneficiária de TT; e 
+Considerando que  
+a Beneficiária de TT está interessada em se beneficiar da 
+Transferência garantindo que tem a experiência e a capacidade 
+  
+           
+   
+ 
+ 
+44 
+ 
+necessárias para uma Transferência bem-sucedida utilizando a 
+tecnologia e as habilidades já presentes em suas instalações; e 
+Considerando que  
+a TAS está disposta a implementar a Transferência para a Beneficiária 
+de TT com base nos termos e condições definidas no presente 
+Contrato; e 
+Considerando que  
+a AEB, no presente Contrato, não é a destinatária da Transferência, 
+mas está supervisionando a implementação da transferência da TAS 
+para a Beneficiária de TT e é responsável pelos pagamentos para a 
+TAS; e 
+Considerando que  
+no âmbito do Programa de Transferência de Tecnologia, a AEB foi 
+designada como a proprietária exclusiva dos direitos sobre o know-how 
+e/ou propriedade intelectual transferida para a Beneficiária de TT 
+brasileiro; e 
+Considerando que  
+a TAS preparou o Plano de Trabalho ref. [●] que define todas as 
+atividades a serem realizadas pela TAS e que serão executadas pela 
+Beneficiária de TT e pela AEB, de modo a fazer a Transferência a mais 
+eficiente possível; e 
+Considerando que  
+a TAS não deve, de forma alguma, ser responsável ou imputada pelo 
+não cumprimento de todas as obrigações pela Beneficiária de TT no 
+âmbito do presente Contrato; e 
+Considerando que  
+o know-how e software da TAS são compostos de informações 
+confidenciais e de conhecimentos que constituem segredos comerciais 
+valiosos da TAS que ela desenvolveu ao longo dos anos e que só 
+podem ser replicados por concorrentes durante um longo período de 
+tempo e com grandes despesas; e 
+Considerando que  
+a TAS está disposta a transferir para a Beneficiária de TT através da 
+AEB seu know-how e software, e para ajudar a Beneficiária de TT na 
+Transferência e conceder os direitos, licenças e autorização para a 
+Beneficiária de TT de acordo com os termos deste Contrato. 
+ 
+ISTO POSTO, tendo em consideração as premissas e os acordos mútuos aqui contidos pelos 
+quais as Partes pretendem estar legalmente vinculadas, fica acordado entre as Partes, em 
+conformidade com as disposições, os termos e as condições a seguir estabelecidas. 
+ 
+ARTIGO 1 – DEFINIÇÕES 
+Para efeitos do presente Contrato, e sem prejuízo das demais definições contidas neste 
+documento, as seguintes palavras e/ou termos terão os significados estabelecidos abaixo: 
+ 
+“Contrato” 
+entende-se este Contrato, seus Anexos e quaisquer futuros aditivos. 
+“AEB” 
+entende-se a AGÊNCIA ESPACIAL BRASILEIRA. 
+“Gerente de Tópico de Projeto da AEB” 
+significa [●]. 
+“Propriedade Intelectual Desenvolvida pela AEB” 
+significa toda a Propriedade Intelectual, 
+que for desenvolvida exclusivamente pela AEB através da 
+  
+           
+   
+ 
+ 
+45 
+ 
+Beneficiária de TT ou qualquer melhoria feita exclusivamente pela 
+AEB através da Beneficiária de TT sobre a tecnologia transferida, 
+durante a execução do contrato. 
+“Propriedade Intelectual Pré-existente” 
+significa a Propriedade Intelectual: (i) de 
+propriedade ou controlada por qualquer das Partes antes da 
+assinatura do Contrato; (ii) e/ou gerada ou adquirida por qualquer das 
+Partes, a qualquer momento, independentemente da execução do 
+Contrato. A Propriedade Intelectual Pré-existente de uma Parte 
+sempre será propriedade de tal Parte. 
+“Documentação” 
+entende-se a documentação relacionada à Transferência a qual será 
+fornecida pela TAS à Beneficiária de TT de acordo com este 
+Contrato. 
+“Data de Vigência” 
+entende-se a data em que este Contrato torna-se eficaz, em 
+conformidade com seu Artigo 16.1. 
+“Propriedade Intelectual” 
+significa quaisquer direitos de propriedade intelectual e 
+industrial se legalmente protegidas ou não, incluindo, mas não 
+limitado a, invenções, relatórios, know-how, direitos de banco de 
+dados, direitos de confidencialidade, modelos, resultados de testes, 
+processos de fabricação, especificações, patentes , pedidos de 
+patentes, modelos de utilidade, direitos autorais, incluindo software de 
+computador (original e no formato de código-fonte), os direitos em 
+informações técnicas, direitos de autor, nomes de domínio, desenhos, 
+logotipos, marcas comerciais, planos, qualquer tipo de dados, notas 
+técnicas, protótipos, ferramentas, processos, métodos, segredos 
+comerciais, algoritmos, toda a documentação técnica relacionada, 
+projetos registrados e outros direitos de projeto. 
+“Propriedade Intelectual Conjunta” 
+significa toda a Propriedade Intelectual gerada em 
+conjunto pela AEB através da Beneficiária de TT e TAS e/ou o 
+resultado de qualquer contribuição feita pela AEB através da 
+Beneficiária de TT à Propriedade Intelectual Pré-existente da TAS, 
+durante a execução do Contrato. Essa Propriedade Intelectual deve 
+pertencer à AEB e à TAS em frações a serem repartidas entre as 
+Partes, de acordo com a participação (técnica, financeira e outras) de 
+qualquer das Partes no desenvolvimento da referida Propriedade 
+Intelectual. 
+“Know-How” 
+compreende o conhecimento e as competências técnicas à 
+disposição da TAS e na forma como geralmente mantidas pela TAS 
+na Data de Vigência do presente Contrato e usadas pela TAS para 
+executar os Serviços [●]/para fabricar o produto e como será 
+documentado na Documentação ou comunicado à Beneficiária de TT 
+por meio deste Contrato. 
+“Produto Licenciado” 
+entende-se o [●], como descrito e especificado no Anexo [●] deste 
+Contrato. 
+“Fabricação” 
+entende-se a fabricação, montagem, testes e manutenção pela 
+Beneficiária de TT do Produto Licenciado. 
+“Informação Proprietária” 
+tem o significado definido no § 10.1. 
+  
+           
+   
+ 
+ 
+46 
+ 
+“Software” 
+entende-se o software [●], a ser entregue em código executável pela 
+TAS à Beneficiária de TT nas condições da Licença Padrão [●], 
+apresentada no Anexo [●]. 
+“Equipamento Específico de Teste” 
+entende-se o equipamento específico de teste e as 
+ferramentas definidas no Anexo [●] em anexo, que devem ser 
+vendidos pela TAS para a Beneficiária de TT em conformidade com o 
+artigo [●]. 
+“Suprimentos” 
+entendem-se os kits ou subconjuntos do Produto Licenciado que 
+devem ser vendidos pela TAS para a Beneficiária de TT em 
+conformidade com [●]. 
+“Assistência Técnica” 
+entendem-se os serviços de assistência prestados à Beneficiária de 
+TT pela TAS, de acordo com o Anexo 1 do presente Contrato. 
+“Território” 
+entende-se o Brasil. 
+“Treinamento” 
+entendem-se os serviços de treinamento como serão prestados pela 
+TAS em suas fábricas, a fim de treinar os engenheiros da Beneficiária 
+de TT, em conformidade com o Anexo 1 do presente Contrato. 
+“Transferência” 
+entende-se a transferência de tecnologia relativa ao Tópico chamado 
+[●] (Seção [●]) conforme descrito no Plano de Trabalho ref. [●]. 
+“Tecnologia Transferida” 
+entende-se a transferência de tecnologia no âmbito do presente 
+Contrato. 
+“Acordo de TT” 
+entende-se o acordo de transferência de tecnologia assinado entre a 
+AEB, Thales Alenia Space France e Thales Alenia Space Itália em [●]. 
+“Beneficiária de TT” 
+significa [● inserir o nome da empresa selecionada]. 
+“Responsável pela Equipe” 
+entende-se o treinando, membro da Beneficiária de TT, que foi 
+selecionado por este e notificada a TAS de acordo com a § 5.1. 
+“Propriedade Intelectual Desenvolvida pela TAS” 
+significa toda a Propriedade Intelectual 
+que é desenvolvida exclusivamente pela TAS, ou qualquer melhoria 
+feita exclusivamente pela TAS sobre a Tecnologia Transferida, 
+durante a execução do Contrato. 
+ARTIGO 2 – ESCOPO DO CONTRATO 
+O escopo deste Contrato é definir os termos e condições de: 
+2.1 
+Da prestação pela TAS à Beneficiária de TT de Treinamento (incluindo On Job Training), 
+Documentação associada, de Assistência Técnica e da concessão pela TAS à 
+Beneficiária de TT do direito de usar o Know-How e Software para o desempenho de [●] 
+(os "Serviços") / para a fabricação de [●] (em conformidade com o disposto no artigo [●] 
+abaixo) exclusivamente no âmbito do Acordo de TT (TTA). 
+2.2 
+O fornecimento pela TAS à Beneficiária de TT do Software [●] e a licença associada 
+(Anexo [●]) e documentação. 
+ 
+ARTIGO 3 – FORNECIMENTO DA DOCUMENTAÇÃO 
+3.1 
+O conteúdo da Documentação a ser fornecida pela TAS deve ser tal como indicado no 
+Anexo 1 (Plano de Trabalho) do presente Contrato. 
+  
+           
+   
+ 
+ 
+47 
+ 
+3.2 
+Toda a Documentação deve ser fornecida na forma, tamanho, normas e sistema de 
+medidas de documentação padrão da TAS, que é usado pela TAS em sua própria 
+fábrica, no entendimento de que a mesma será fornecida no idioma Inglês à Beneficiária 
+de TT. 
+ 
+ARTIGO 4 – FORNECIMENTO DE PRODUTOS, EQUIPAMENTOS ESPECÍFICOS DE TESTE 
+E SUPRIMENTOS 
+4.1 
+Produtos 
+[●] 
+4.2 
+Equipamentos Específicos de Teste 
+[●] 
+4.3 
+Suprimentos 
+[●] 
+4.4 
+Entrega 
+O Produtos, Equipamentos Específicos de Teste e Suprimentos devem ser entregues em 
+conformidade com o Anexo 1. 
+As entregas devem ser efetuadas [●], nos termos do DAP (Incoterms 2010) publicado 
+pela Câmara de Comércio Internacional. 
+A titularidade sobre os Produtos, Equipamentos Específicos de Teste e Suprimentos 
+entregues recairá sobre a AEB baseado em [●]. 
+A transferência de riscos de danos ou perda deve ocorrer de acordo com DAP 
+(Incoterms 2010). 
+ 
+ARTIGO 5 – TREINAMENTO DO PESSOAL DA BENEFICIÁRIA DE TT 
+5.1 
+A AEB, a TAS e a Beneficiária de TT concordaram com um programa de Treinamento 
+cujo conteúdo, duração e condições específicas estão descritos no Anexo 1. 
+A AEB informará à TAS, antes do início do treinamento, o nome de um gerente para o 
+Tópico do projeto ("AEB Topic Project Manager"), que será responsável por gerenciar 
+o Tópico e as comunicações com TAS. 
+A Beneficiária de TT informará à TAS e à AEB, antes do início do treinamento, o nome 
+do responsável pela equipe de treinandos (doravante denominado "Responsável pela 
+Equipe") dentre os treinandos da Beneficiária de TT, o qual deverá ser fluente no idioma 
+Inglês e será responsável pelos treinandos e por todos os contatos com a TAS. 
+5.2 
+A TAS deverá treinar até [●] engenheiros e técnicos da Beneficiária de TT (doravante 
+referidos como "Treinandos") nas instalações da TAS em [●], França, condicionada à 
+concessão aos Treinandos de toda e quaisquer aprovações necessárias e autorizações 
+da [●] Autoridades com a finalidade de tornar tais Treinandos familiarizados com o 
+desempenho dos Serviços/fabricação do Produto. Aos Treinandos deverá ser concedido 
+acesso limitado às instalações da TAS, sujeito às regras de segurança aplicáveis, e 
+apenas às partes das instalações da TAS onde o Treinamento/On the Job Training é 
+realizado. 
+  
+           
+   
+ 
+ 
+48 
+ 
+5.3 
+Por razões de segurança, e de acordo com as normas francesas, uma lista dos 
+Treinandos e do Gerente de Tópico de Projeto da AEB (se houver), incluindo, mas não 
+limitado à identidade, título e função, deverá ser comunicada à TAS pela AEB e/ou a 
+Beneficiária de TT com pelo menos 60 (sessenta) dias de antecedência da data de início 
+do treinamento, para a necessária concessão de autorização das autoridades francesas 
+para a entrada dos Treinandos e do Gerente de Tópico da AEB nas instalações da TAS. 
+5.4 
+Todas as despesas de viagem, transporte local, de embarque e hospedagem do Gerente 
+de Tópico de Projeto da AEB (se houver) serão suportadas pela AEB. 
+A AEB, em papel de empregador, deverá arcar com o custo de ordenados, salários, 
+seguro social, seguros e quaisquer outros encargos relacionados, do Gerente de Tópico 
+de Projeto da AEB (se houver) enviado para as instalações da TAS nos termos deste 
+Contrato, tudo de acordo com as leis e regulamentos aplicáveis. 
+A Beneficiária de TT, em seu papel de empregador, deverá arcar com todas as despesas 
+de viagem, transporte local, embarque, despesas de hospedagem, salários, seguro 
+social, seguros e quaisquer outros encargos relacionados, dos Treinandos enviados às 
+instalações da TAS nos termos deste Contrato, tudo em conformidade com as leis e 
+regulamentos aplicáveis. 
+5.5 
+Os Treinandos e o Gerente de Tópico de Projeto da AEB (se houver) devem se sujeitar 
+às regras e regulamentos da TAS quando nas instalações da TAS, como aplicável a 
+funcionários próprios da TAS ou a visitantes. 
+5.6 
+O Treinamento deve ser fornecido no idioma Inglês nas ocasiões detalhadas no Anexo 1, 
+em dias de trabalho na [França/Itália] (de segunda a sexta-feira) e durante as horas de 
+trabalho acordados em conformidade com os regulamentos aplicáveis nas instalações da 
+TAS. 
+5.7 
+Os funcionários da Beneficiária de TT que devem ser indicados à TAS pela Beneficiária 
+de TT para se beneficiarem do Treinamento previsto no presente Contrato deverão ter: 
+• 
+um domínio adequado do idioma Inglês em questões técnicas, 
+• 
+o conhecimento técnico necessário, 
+• 
+o nível de pré-requisito e a capacidade profissional e experiência descritas em [●]. 
+Antes do início do treinamento, a TAS poderá verificar, por meio de entrevistas e testes, 
+se os Treinandos propostos pela Beneficiária de TT atendem aos padrões técnicas 
+necessários. Se não, a TAS poderá rejeitar qualquer Treinando que não satisfizer às 
+exigências requeridas. No caso da TAS decidir verificar os Treinandos, as partes devem 
+concordar sobre um procedimento comum para a apresentação dos candidatos a 
+Treinando da Beneficiária de TT para aprovação da TAS (se aplicável), a fim de agilizar 
+o processo e reduzir o seu custo ao mínimo possível. 
+Além disso, durante a realização do treinamento, a TAS terá o direito de rejeitar, por 
+meio do Responsável da Equipe, qualquer Treinando por razões de incompetência, má 
+conduta, negligência ou desrespeito à segurança ou outros regulamentos aplicáveis nas 
+instalações envolvidas. Quando e se esta situação ocorrer, a TAS deve informar 
+imediatamente o Responsável da Equipe e o Gerente de Tópico de Projeto da AEB, 
+solicitando as ações apropriadas a serem tomadas. 
+A Beneficiária de TT pode, às suas próprias expensas ou da AEB, indicar um Treinando 
+substituto para substituir um rejeitado pela TAS ou repatriado por causa de problemas de 
+saúde, acidente ou motivos pessoais. 
+  
+           
+   
+ 
+ 
+49 
+ 
+A AEB e a Beneficiária TT estão informados de que a eficiência do Treinamento depende 
+da assiduidade dos Treinandos da Beneficiária de TT ao longo de todo o Treinamento. 
+Qualquer alteração nos Treinandos durante a realização da sessão de treino irá impedir 
+uma formação eficaz. Qualquer treinamento adicional para Treinandos substituídos, se 
+houver, estará sujeito a uma notificação de alteração contratual pela TAS. 
+5.8 
+O Treinamento deve ser fornecido numa base coletiva, mas a TAS será considerada 
+como tendo cumprido as suas obrigações nos termos deste instrumento, mesmo que 
+alguns dos Treinandos não tenham assistido a todos os cursos. A responsabilidade da 
+TAS está limitada ao fornecimento do Treinamento de acordo com as condições do 
+presente artigo. Na prestação do Treinamento, a TAS deve atuar apenas em função 
+consultiva. Nem a TAS nem os seus funcionários devem ter qualquer responsabilidade 
+pela execução dos Serviços ou a fabricação de um Produto pela Beneficiária de TT ou 
+por qualquer perda ou dano resultante, tenha ou não uma recomendação dada pela TAS 
+sido levada em consideração pela Beneficiária de TT. 
+5.9 
+Ao enviar pessoal para instalações da TAS, nos termos deste instrumento, a AEB deve 
+fazer com que seu Gerente de Tópico de Projeto (se houver) e a Beneficiária de TT deve 
+fazer com que seus Treinandos cumpram com todos os requisitos administrativos (tais 
+como, mas não limitados a: vistos, atestados médicos, autorizações de entrada, 
+residência e de trabalho), de acordo com os regulamentos aplicáveis na França, e 
+arquem com todos os custos. A AEB e a Beneficiária de TT devem manter disciplina 
+rigorosa e boa ordem entre essas pessoas, e levá-las a respeitar todos os regulamentos 
+e as regras de segurança aplicáveis nas instalações da TAS. 
+5.10 A fim de limitar a divulgação de informação de propriedade da TAS, tal como definido no 
+artigo 10 a seguir, apenas os funcionários da Beneficiária de TT que irão trabalhar 
+diretamente nos Serviços / [●] e que, portanto, não seriam capazes de desempenhar 
+suas respectivas obrigações sem receber o Treinamento da TAS, terão direito a 
+participar do Treinamento nos termos deste Contrato. A AEB deve fazer com que seu 
+Gerente de Tópico de Projeto e a Beneficiária de TT obriguem os Treinandos a manter 
+sigilo das informações relativas à TAS que cheguem ao seu conhecimento, e a TAS vai 
+exigir dos Treinandos e do Gerente de Tópico de Projeto da AEB que firmem em 
+compromisso pessoal por escrito sua obrigação de manter a confidencialidade. 
+5.11 Após a conclusão do período de Treinamento, a TAS deve emitir um certificado de 
+conclusão de Treinamento, conforme estabelecido no Anexo [●] do presente contrato. O 
+certificado de conclusão de Treinamento será o relatório de atendimento, aprovado com 
+as observações, se houver, feita pelo Responsável pela Equipe. 
+5.12 Pontos de contato da TAS: [●] 
+5.13 Pontos de contato da AEB: [●] 
+5.14 Pontos de contato da Beneficiária de TT: [●] 
+ARTIGO 6 – ASSISTÊNCIA TÉCNICA [para ser adaptado em função da natureza e da 
+localização da assistência] 
+6.1 
+As partes concordaram com o programa de Assistência Técnica do Anexo 1, o qual 
+detalha a duração e as condições específicas de tal Assistência Técnica. 
+6.2 
+A Beneficiária de TT colocará à disposição da TAS, nas instalações da Beneficiária de 
+TT, de forma gratuita, serviços de escritório, telefones e aparelhos de fax para uso na 
+comunicação com a sede / fábricas / escritórios da TAS, e qualquer apoio administrativo 
+  
+           
+   
+ 
+ 
+50 
+ 
+necessário, razoavelmente exigido pelo pessoal da TAS para o desempenho da 
+Assistência Técnica. 
+6.3 
+O pessoal da TAS que estará realizando a Assistência Técnica ficará sujeito às regras e 
+regulamentos da Beneficiária de TT, quando nas instalações da Beneficiária de TT, que 
+são aplicáveis aos próprios funcionários da Beneficiária de TT ou para outros visitantes. 
+6.4 
+As despesas de viagem, despesas de transporte, embarque e hospedagem locais de 
+pessoal da TAS no Brasil, conforme descrito no Anexo 1 estão incluídos no Preço do 
+Contrato. Qualquer outro custo ou despesa deve ser objeto de um aviso de alteração do 
+Contrato a ser paga pela AEB. 
+6.5 
+A Assistência Técnica será fornecida no Brasil, no idioma Inglês, nos dias úteis, (de 
+segunda a sexta-feira) e nas horas de trabalho aprovadas em conformidade com os 
+regulamentos aplicáveis nas instalações da Beneficiária de TT. 
+6.6 
+Na prestação da Assistência Técnica, a TAS atua apenas na função consultiva. Nem a 
+TAS nem seus empregados devem ter qualquer responsabilidade pela execução dos 
+Serviços ou a fabricação dos Produtos pela Beneficiária de TT. 
+Nem a TAS nem os seus funcionários devem ter qualquer responsabilidade pela 
+prestação dos Serviços/fabricação dos Produtos pela Beneficiária de TT ou por qualquer 
+perda ou dano resultante, seja ou não devido a uma recomendação dada pela TAS 
+tomada em consideração pela Beneficiária de TT. 
+6.7 
+Quando enviar pessoal para as instalações da Beneficiária de TT abaixo descritas, a 
+TAS fará seu pessoal cumprir todos os requisitos administrativos, em conformidade com 
+os regulamentos aplicáveis no Território e arcar com os custos relacionados. A TAS deve 
+manter rigorosa disciplina e boa ordem entre essas pessoas e levá-las a respeitar todos 
+os regulamentos e as regras de segurança aplicáveis nas instalações da Beneficiária de 
+TT. 
+6.8 
+O pessoal da TAS enviados à fábrica da Beneficiária de TT no Brasil para executar a 
+Assistência Técnica só irá participar durante a sua permanência no Brasil no trabalho 
+que consiste em executar a Assistência Técnica acordada como definida pela TAS. 
+6.9 
+A TAS reserva-se o direito de substituir qualquer dos seus funcionários que estão 
+executando a Assistência Técnica. Nesse caso, a TAS arcará com os custos, fornecendo 
+pessoal de substituição, com a qualificação e capacidade similar. 
+ARTIGO 7 – CONCESSÃO DE LICENÇA 
+7.1 
+Sujeito aos termos e condições deste Contrato, a TAS concede à AEB: 
+7.1.1 
+o direito pessoal, cedido e transferido apenas à Beneficiária de TT, e não 
+exclusivo, sem o direito de sublicença, para usar o Know-How fornecido 
+conforme este documento pela TAS para executar os Serviços/para 
+desenvolver e fabricar os Produtos no Território e vender os Serviços ou os 
+Produtos para qualquer programa de satélites no Brasil ou nos programas 
+feitos com outras entidades governamentais brasileiras e/ou internacionais. A 
+Beneficiária de TT está autorizada a melhorar e desenvolver, em qualquer 
+momento e sem autorização prévia, qualquer Tecnologia Transferida. À 
+Beneficiária de TT não será concedido qualquer direito de sublicenciar. 
+7.1.2 
+[OPÇÃO por exemplo para Software TAS eTherm] um direito pessoal, 
+intransferível e não exclusivo, sem o direito de sublicença de uso do Software 
+nos termos e condições da licença padrão incluído no Anexo [●]. Esse direito 
+inclui o direito de reproduzir o Software unicamente para fins da execução 
+  
+           
+   
+ 
+ 
+51 
+ 
+dos serviços no Brasil. Uma licença específica será concedida à Beneficiária 
+de TT. 
+7.2 
+Sujeito à aplicação prévia do processo definido no § 3.7.6 do Acordo de TT definitivo, 
+pelo qual a TAS poderá permitir ou não uma transferência para fora do Brasil, a 
+Beneficiária de TT terá o direito de desenvolver e fabricar componentes ou serviços com 
+incorporação da Tecnologia Transferida para fora do Território e fornecê-los a qualquer 
+entidade internacional, desde que essa oferta esteja em conformidade com todas as 
+restrições descritas no Acordo de TT definitivo e reproduzidos no Anexo [●] do presente 
+Contrato e sempre sujeita a uma autorização prévia de controle de exportação por parte 
+das autoridades francesas, e no que se refere às seguintes tecnologias transferidas 
+[ESCOLHA DA TECNOLOGIA EM CAUSA // [●] Aviônicos, SMC LEO, Observação 
+Ótica, Estruturas de Painel de Carbono e SAR, Controle Térmico] tal fornecimento 
+acontece na condição de não-competição com a TAS. 
+7.3 
+A AEB e a Beneficiária de TT não serão autorizados a divulgar o Know-How e/ou o 
+Software entregue pela TAS a terceiros. 
+ARTIGO 8 – CONSIDERAÇÕES 
+8.1 
+Preço 
+O preço da TAS está anexado em um Documento Financeiro da TAS separado, que é 
+apenas para conhecimento da AEB e da TAS. 
+8.2 
+Condições de Preços 
+a) 
+Todos os preços estabelecidos abaixo são válidos para uma data efetiva anterior a 
+01/01/2015. 
+b) 
+Fórmula de reajuste de preço [●]. 
+c) 
+Todos os preços dos itens entregues a serem fornecidos pela TAS nos termos 
+deste Contrato devem ser entendidos entregue DAP (Incoterms 2010). 
+d) 
+Todos os preços abaixo não incluem quaisquer impostos, direitos aduaneiros, 
+taxas, ou as taxas de movimentação em portos no Brasil, que estarão a cargo 
+exclusivo da AEB, conforme especificado no artigo 9.3. 
+e) 
+Os preços abaixo estabelecidos são cotados em Euros (EUR), com o qual será 
+faturado e será a moeda de pagamento. 
+ARTIGO 9 – CONDIÇÕES DE PAGAMENTO 
+9.1  
+Geral 
+Todos os pagamentos serão efetuados pela AEB para TAS na seguinte conta bancária: 
+[●] 
+As condições de pagamento são as seguintes: 
+[●] 
+Os pagamentos à Beneficiária de TT são regulados em um Contrato em separado. 
+9.2 
+Etapas do Plano de Pagamento 
+As Etapas do Plano Pagamento para a TAS estão relacionadas em um Documento 
+Financeiro da TAS em separado que é apenas para conhecimento da AEB e da TAS. [A 
+primeira etapa a ser paga à TAS será a reunião inicial (Kick-off meeting) + 10 dias. A 
+TAS será autorizada a emitir a fatura na assinatura do contrato]. 
+  
+           
+   
+ 
+ 
+52 
+ 
+As Etapas do Plano de Pagamento da Beneficiária de TT estão relacionadas em um 
+Contrato em separado. 
+Entretanto, a relação das Etapas está incluída no Plano de Trabalho. 
+9.3 
+Impostos  
+a) 
+Pagamentos de Impostos 
+Os preços do Contrato incluem quaisquer impostos, taxas, cobranças, tributos, 
+contribuições sociais, impostos de valor adicionado, impostos sobre vendas, impostos 
+documentários e quaisquer outros impostos similares, impostos de consumo, sobretaxas 
+e cobranças de importação e exportações e outros impostos presentes ou futuros 
+cobrados por qualquer autoridade governamental não brasileira ou subdivisão desta 
+(“Impostos Não-Brasileiros”) que possam ser cobrados ou incorridos pela TAS como 
+resultado do cumprimento deste Acordo. Os Impostos Não-Brasileiros serão assumidos 
+pela TAS e pagos pela TAS diretamente às autoridades governamentais pertinentes, na 
+medida em que a TAS seja o contribuinte legal de tais impostos ou, caso sejam pagos 
+pela AEB, serão reembolsados pela TAS à AEB. 
+O valor do Contrato exclui quaisquer impostos, taxas, cobranças, tributos, contribuições 
+sociais, impostos de valor adicionado, impostos sobre vendas, impostos documentários e 
+quaisquer outros impostos similares, impostos de consumo, sobretaxas e cobranças de 
+importação e exportações e outros impostos presentes ou futuros cobrados por qualquer 
+autoridade governamental brasileira ou subdivisão desta (“Impostos Brasileiros”) que 
+possam ser cobrados ou incorridos pela TAS como resultado de seu desempenho no 
+âmbito deste Acordo. Os Impostos Brasileiros serão assumidos e, quando aplicável, 
+pagos pela AEB diretamente às autoridades pertinentes além do preço do Contrato, ou, 
+caso sejam pagos pela TAS, serão reembolsados pela AEB à TAS. 
+Para evitar dúvidas, caso a TAS seja obrigada a pagar quaisquer Impostos Brasileiros 
+em decorrência de desempenho no âmbito do Acordo, fica especificamente ajustado 
+entre as Partes que a AEB será responsável por reembolsar a TAS pelos Impostos 
+Brasileiros. Diante da responsabilidade precedente assumida pela AEB, a TAS fará o 
+melhor possível para garantir que a estrutura e as posições tomadas com relação a 
+questões tributárias sejam realizadas oportunamente, com eficiência fiscal e em plena 
+concertação com a AEB, caso assim seja requerido pela AEB de maneira oportuna e 
+razoável. Para evitar dúvidas, no transcurso da concertação prévia e em coordenação 
+com a TAS, a AEB terá o direito de tomar posições, de forma razoável, que possam 
+afetar o valor do pagamento ou reembolso de tais impostos ou outros itens. 
+Caso qualquer pagamento feito pela AEB esteja sujeito a quaisquer Impostos Brasileiros 
+cobrados mediante retenção na fonte ou dedução (tais como, mas sem a tanto limitar, 
+imposto retido na fonte e/ou CIDE e/ou ISS), a AEB concorda em aumentar o valor de 
+qualquer pagamento que esteja sujeito à retenção ou dedução, conforme necessário 
+para garantir que a TAS receba o mesmo valor que receberia caso não houvesse 
+nenhuma retenção na fonte ou dedução em razão dos Impostos Brasileiros. 
+Ambas as Partes concordam em cooperar e emendar o Contrato se necessário, e 
+conforme legalmente admissível, eliminar ou reduzir quaisquer impostos, tributos, 
+cobranças, impostos sobre o consumo, taxas de importação, custos de desembaraço ou 
+outras cobranças de qualquer tipo que possam ser cobradas de qualquer das Partes, 
+onde aplicável, obtendo quaisquer certificados de isenção ou recuperação desde que 
+tais modificações ou alterações não transfiram o ônus tributário de uma Parte à outra 
+Parte. Em particular, as Partes reconhecem que os produtos e serviços são tributados de 
+  
+           
+   
+ 
+ 
+53 
+ 
+forma diferente sob a lei brasileira, e as Partes irão cooperar para chegar a uma decisão 
+sobre a caracterização adequada (em que a Parte que assuma o ônus de tais impostos 
+sobre o consumo, sobretaxas e cobranças de importação e exportação e outros tributos 
+impostos pela autoridade governamental brasileira ou subdivisão desta com base neste 
+Contrato terá o direito de tomar a decisão final com relação a tais assuntos). 
+Cada Parte deverá prestar assistência razoável à outra Parte que busque recuperar tais 
+impostos, taxas, cobranças, tributos, contribuições sociais, impostos de valor agregado, 
+impostos sobre vendas, impostos documentários e quaisquer outros impostos similares 
+ou não, impostos de consumo, sobretaxas e cobranças de importação e exportações e 
+outros impostos pagos por ela às autoridades tributárias que possam ser recuperáveis 
+conforme a lei, regra ou regulamentação aplicável. 
+b) 
+Impostos Trabalhistas 
+Cada Parte será responsável por todos os relatórios e pagamentos tributários, bem como 
+pelo pagamento das contribuições de seguridade social e o cumprimento de todas as 
+regulamentações de seguridade social ou outras aplicáveis que sejam requeridas ou 
+tenham que ser cumpridas pelo empregador em conformidade com a lei do governo 
+central ou local da outra Parte, onde aplicável, com relação aos seus funcionários 
+lotados em localidades da outra Parte. 
+c) 
+As disposições deste artigo 9.3 devem sobreviver ao término ou rescisão deste 
+Contrato. 
+ARTIGO 10 –  INFORMAÇÕES DE PROPRIEDADE DO CONCEDENTE 
+10.1 Para os fins deste Contrato, Informação Proprietária significará todas as informações ou 
+dados, quer ou não marcados ou de outro modo especificados como proprietário ou 
+confidencial, associado ao Programa de TT relativo à tecnologia, segredos comerciais, 
+know-how, produtos existentes ou futuros, informações financeiras, corporativas ou 
+qualquer outra, de uma Parte, divulgada no âmbito do Programa de TT. Essa informação 
+pode incluir, mas sem a tanto limitar, informações relativas a: invenções, programação e 
+tecnologia de software de computador, pesquisa, desenvolvimento de novos produtos, 
+engenharia, processos de fabricação, dados de compras, planos de fazer ou comprar, 
+planos de negócios, contabilidade, marketing, vendas ou dados de preços. Tais 
+informações ou dados podem estar contidos em materiais tais como desenhos, projetos, 
+atualizações de engenharia, ferramentas, ferramentas avançadas, modelos, amostras, 
+banco de dados, conjuntos de dados, especificações, algoritmos, manuais, relatórios, 
+compilações, pesquisa, pedidos de patente, programas de computador, dados legíveis 
+por máquina (tais como arquivos eletrônicos), planos e informações financeiras e de 
+marketing, e quaisquer informações derivadas ou compiladas em todo ou em parte 
+destes, ou de qualquer outra forma. Tais informações e dados incluem, mas não se 
+limitam a, informações classificadas recebidas por uma Parte, as quais a Parte tem 
+obrigação, seja por contrato ou de outra forma, de manter em sigilo. 
+10.2 Cada Parte concorda que, durante a vigência deste Contrato e por um período adicional 
+de cinco (5) anos após a sua expiração ou término, mas não inferior a 15 (quinze) anos a 
+partir da data de recepção da Informação Proprietária no caso de rescisão anterior, a 
+Informação Proprietária recebidas da Parte divulgadora deve: 
+a) 
+ser protegida e mantida em sigilo pela Parte receptora, que deve usar o mesmo 
+grau de precaução e salvaguardas, como usa para proteger suas próprias 
+informações proprietárias da mesma importância, mas em nenhum caso com 
+cuidado menor que o razoável; 
+  
+           
+   
+ 
+ 
+54 
+ 
+b) 
+ser divulgada e utilizada somente pelas pessoas dentro da organização da Parte 
+recebedora que tenham a necessidade de saber e exclusivamente para os fins do 
+presente Contrato; 
+c) 
+não ser utilizado no todo ou em parte, para qualquer outra finalidade que não a 
+finalidade do Contrato; 
+d) 
+não ser divulgada nem causar a divulgação de forma direta ou indireta, a terceiros 
+ou pessoas que não as mencionados na alínea (b) acima; 
+e) 
+nem ser copiada, ou de outra forma reproduzida, nem publicada no todo ou em 
+parte, quando essa cópia, reprodução ou duplicação não tenha sido expressamente 
+autorizada por escrito pela Parte divulgadora. 
+10.3 Exceto conforme acima mencionado, a Parte receptora não terá quaisquer obrigações ou 
+restrições com relação a qualquer informação privilegiada que a Parte receptora puder 
+provar que: 
+a) 
+caiu em domínio público antes ou após a divulgação das mesmas e, nesse caso, 
+por meio de ato não ilegal da Parte receptora, 
+b) 
+tenha sido ou seja publicado sem violação deste Contrato. 
+ 
+10.4 Qualquer informação privilegiada divulgada por uma Parte do presente Contrato que seja 
+Informação Confidencial será identificada pela Parte divulgadora como Informação 
+Confidencial no momento da divulgação e a divulgação, proteção, uso e manuseio de 
+tais informações devem estar em conformidade com os procedimentos de segurança 
+prescritos pelo devido Governo. 
+10.5 Nenhum direito de propriedade ou titularidade das Informações Proprietárias é 
+transferida para a Parte recebedora no âmbito deste Contrato. 
+10.6 O final ou término deste Contrato não deve liberar as Partes recebedoras de suas 
+obrigações nos termos deste Artigo 10, com relação ao uso e proteção das Informações 
+Proprietárias recebidas antes da data da rescisão ou término deste Contrato. 
+10.7 A AEB e a Beneficiária de TT reconhecem que a confidencialidade das Informações 
+Proprietárias é vital para a TAS e que TAS terá o direito de rescindir o Contrato 
+imediatamente e sem processos judiciais em caso de violação das disposições do 
+presente artigo pela AEB ou pela Beneficiária de TT. Além disso, a TAS terá o direito de 
+fazer cumprir por todos os meios disponíveis (tais como, mas não limitados a, medida 
+cautelar) todos os direitos e recursos que ela pode ter a esse respeito. 
+ARTIGO 11 – DIREITOS DE PROPRIEDADE INTELECTUAL 
+11.1 A TAS declara e garante, por meio deste, que toda a Propriedade Intelectual transferida 
+à Beneficiária de TT ou pertence à TAS, ou está licenciada à TAS ou é de domínio 
+público.  
+Nada neste Acordo reduzirá ou limitará quaisquer direitos de Propriedade Intelectual Pré-
+existentes da TAS, incluindo patentes e/ou direitos autorais, conforme estabelecido na 
+legislação aplicável. 
+Os Direitos de Propriedade Intelectual Pré-existente da TAS estão listados no Anexo [●]. 
+A AEB, a Beneficiária de TT e os seus representantes e funcionários terão acesso à 
+Propriedade Intelectual Pré-existente da TAS na medida do necessário para a realização 
+das atividades no âmbito do presente Contrato, sem qualquer custo adicional para AEB. 
+  
+           
+   
+ 
+ 
+55 
+ 
+11.2 Os direitos de Propriedade Intelectual que resultem diretamente do investimento 
+realizado pela AEB ou pela Beneficiária de TT, como parte do Programa de TT, bem 
+como qualquer aperfeiçoamento feito no futuro exclusivamente pela AEB sobre a 
+Tecnologia Transferida, será considerada Propriedade Intelectual Desenvolvida pela 
+AEB, e será de propriedade da AEB. 
+11.3 Os direitos de Propriedade Intelectual que resultem diretamente do investimento 
+realizado pela TAS, como parte do Programa de TT, bem como qualquer 
+aperfeiçoamento feito no futuro exclusivamente pela TAS sobre a Tecnologia 
+Transferida, será considerada Propriedade Intelectual Desenvolvida pela TAS, e será de 
+propriedade da TAS. 
+11.4 A AEB terá o direito de solicitar o registro de patentes, projetos e/ou marcas comerciais 
+de qualquer dispositivo, processo, maquinário, equipamento e/ou outro item que possa 
+ser registrado de acordo com a legislação aplicável, como resultado da Propriedade 
+Intelectual Desenvolvida pela AEB. 
+11.5 Sujeito às restrições estabelecidas neste Contrato, a Propriedade Intelectual Conjunta 
+será explorada pelas Partes mediante termos e condições a serem negociados de boa fé 
+entre as Partes.  
+Caso a AEB queira explorar a Propriedade Intelectual Conjunta para uma das ações do 
+programa espacial brasileiro e qualquer programa governamental conjunto entre o Brasil 
+e outra entidade internacional governamental, a AEB deverá assim informar à TAS, e tal 
+exploração (com a exclusão de qualquer exploração comercial não-governamental) 
+ocorrerá sem a cobrança de quaisquer royalties à AEB. 
+11.6 Pedidos de patentes de Propriedade Intelectual Conjunta. As Partes deverão concordar 
+quanto aos procedimentos para a notificação das invenções e a apresentação e 
+acompanhamento de pedidos de patente com relação a qualquer Propriedade Intelectual 
+Conjunta. O princípio geral será que as Partes contribuirão para os custos de 
+apresentação, 
+acompanhamento 
+e 
+manutenção 
+do 
+pedido 
+de 
+patente, 
+proporcionalmente à sua participação na propriedade. 
+ARTIGO 12 – INDENIZAÇÕES DE DIREITOS DE PROPRIEDADE INTELECTUAL 
+12.1 Cada Parte ("Parte Indenizadora") deverá indenizar e isentar as outras Partes (as 
+"Partes Indenizadas") de e contra qualquer reivindicação de terceiros ou ação com base 
+na alegação de que a participação da Propriedade Intelectual Pré-existente da Parte 
+Indenizadora na Propriedade Intelectual Conjunta infringe qualquer direito de 
+Propriedade Intelectual de terceiros, ou informação técnica proprietária em relação ao 
+presente Contrato ("Reivindicação de Propriedade Intelectual"). 
+12.2 Reservado 
+12.3 No caso de haver qualquer pedido de reivindicação ou ameaça de reivindicação, 
+qualquer início de ação ou processo judicial, ou de haver qualquer conhecimento de uma 
+situação de fato que, não sendo corrigida, possa levar ao direito de indenização para 
+qualquer Parte Indenizada por parte da Parte Indenizadora baseada no item 12.1 acima, 
+a Parte Indenizadora deverá, às suas próprias custas, sujeita à aprovação por escrito da 
+Parte Indenizada, também: 
+(1) 
+obter para a Parte Indenizada o direito de continuar usando tal Propriedade Intelectual 
+da Parte Indenizadora; 
+(2) 
+substituir essa Propriedade Intelectual de forma aceitável e não violadora de Propriedade 
+Intelectual; ou 
+  
+           
+   
+ 
+ 
+56 
+ 
+(3) 
+modificar essa Propriedade Intelectual para que se torne satisfatória e não ilícita; desde 
+que tal Propriedade Intelectual substitutiva ou modificada esteja em conformidade com 
+todas as especificações técnicas aplicáveis iniciais. 
+Não obstante o acima, a TAS não será responsável em caso de reivindicação devido a 
+qualquer modificação da Tecnologia Transferida sem autorização escrita da TAS. 
+12.4 Como condição para o desempenho das obrigações da Parte Indenizadora nos termos 
+desta Seção 12.1, a Parte Indenizada irá (i) notificar por escrito a Parte Indenizadora, 
+com a maior brevidade possível, após o recebimento da notificação ou conhecimento de 
+tal reclamação ou ameaça, ação, processo judicia ou situação de fato, e (ii) garantir à 
+Parte Indenizadora amplos poderes para a defesa da reivindicação de Propriedade 
+Intelectual, e (iii) a pedido e às custas da Parte Indenizadora, prover cooperação e 
+assistência razoáveis e eventuais informações relevantes disponíveis para a Parte 
+Indenizada. 
+12.5 A Parte Indenizadora poderá, em nome da Parte Indenizada, defender, acordar e 
+resolver qualquer processo judicial, reivindicação ou procedimento na medida em que a 
+Parte Indenizadora possa ser responsável em relação à Parte Indenizada em relação a 
+estas. Nesse caso, a Parte Indenizadora deverá manter a Parte Indenizada bem 
+informada com relação a quaisquer e todas as ações a serem realizadas em nome da 
+Parte Indenizada em relação ao exercício de tal direito. A Parte Indenizada deverá ter o 
+direito de intervir em tais ações sempre e quando a Parte Indenizada acredite que tal 
+ação possa lhe prejudicar, desde que não prejudique o amplo controle conferido à Parte 
+Indenizadora. 
+Qualquer pagamento realizado pela Parte Indenizadora à Parte Indenizada 
+resultante de uma reivindicação de Propriedade Intelectual só deve ser realizada 
+após uma decisão judicial definitiva. 
+12.6 A TAS incluirá todos os custos relacionados com a aquisição da Propriedade Intelectual 
+de terceiros no preço pago pela Transferência de Tecnologia. A AEB não deverá ser 
+responsabilizada pelo pagamento de royalties a terceiros pela Propriedade Intelectual 
+deste. 
+12.7 Todas as restrições, com exceção daquelas relacionadas ao uso de ferramentas e 
+bibliotecas de software proprietário da TAS fornecidos com base em licenças padrão, 
+aqui descritas com relação ao uso de Tecnologias Transferidas, vencerão após 10 (dez) 
+anos contados a partir da entrada em vigor do respectivo Contrato. Não obstante o 
+acima exposto, qualquer restrição imposta pela aplicação de qualquer regulamentação 
+de controle de exportações, deverá continuar a ser aplicada. 
+ARTIGO 13 – NOMES 
+A AEB e a Beneficiária de TT não deve usar qualquer nome, marca registrada, qualquer 
+referência ou logotipo da TAS em relação com a execução deste Contrato e da venda de 
+Serviços/Produtos, sem a aprovação prévia por escrito da TAS. 
+ARTIGO 14 – ATRASOS OU DEFICIÊNCIAS NO DESEMPENHO 
+14.1 A TAS não deve ser penalizada por qualquer atraso devido à Beneficiária de TT ou da 
+AEB ou qualquer evento de Força Maior. 
+14.2 No caso de atraso devido apenas à TAS no desempenho dos Marcos Prejudicados 
+definidos no Plano de Trabalho (SoW), a AEB terá direito a uma indenização de [●]  por 
+atrasos em um montante máximo correspondente a [●] -> (para ser adaptado) 
+  
+           
+   
+ 
+ 
+57 
+ 
+EXEMPLO de cláusula de penalização fornecida pela AEB apenas para informação: 
+[Esta cláusula é apenas um exemplo e, até agora, nunca foi discutida entre as partes e 
+nunca foi acordada entre a AEB e TAS. Essa cláusula terá de ser adaptada aos 
+princípios estabelecidos na Cláusula 14.6 e ser negociada caso a caso. A forma e o 
+caminho de como serão aplicadas terão de ser adaptados a fim de levar em conta as 
+especificidades desta transferência, as interações entre as 3 partes, e o fato de que toda 
+a transferência (ao abrigo do Acordo de TT) está cobrindo vários tópicos. Um tópico não 
+deve impactar ou impedir a realização de outros tópicos]. 
+O atraso injustificado na execução do Contrato sujeitará a CONTRATADA, após regular 
+processo administrativo, à penalidade de multa moratória de até 0,4% (quatro décimos 
+por cento) por dia de atraso injustificado sobre o valor do fornecimento, sendo que caso 
+a multa atinja o percentual de 10% sobre o valor do Contrato, a CONTRATANTE poderá 
+proceder à rescisão unilateral. 
+SUBCLÁUSULA UM – A inexecução total ou parcial do Contrato, ou o descumprimento 
+de qualquer dos deveres elencados neste Instrumento e seus Anexos, sujeitará a 
+CONTRATADA, garantida a prévia defesa, sem prejuízo da responsabilidade civil e 
+criminal, às penalidades de: 
+I – advertência por faltas leves, assim entendidas como aquelas que não acarretarem 
+prejuízos significativos ao objeto da contratação; 
+II – multa compensatória de até 10% (dez por cento) sobre o valor total da contratação; 
+III – suspensão de licitar e impedimento de contratar com a CONTRATANTE pelo prazo 
+de até dois anos; 
+IV – declaração de inidoneidade para licitar ou contratar com a Administração Pública 
+enquanto perdurarem os motivos determinantes da punição ou até que seja promovida a 
+reabilitação perante a própria autoridade que aplicou a penalidade, que será concedida 
+sempre que a CONTRATADA ressarcir a Administração pelos prejuízos resultantes e 
+após decorrido o prazo da penalidade de suspensão do subitem anterior. 
+SUBCLÁUSULA DOIS – A aplicação de qualquer penalidade não exclui a aplicação da 
+multa. 
+SUBCLÁUSULA TRÊS – A aplicação de qualquer das penalidades previstas realizar-se-
+á em processo administrativo que assegurará o contraditório e a ampla defesa.  
+SUBCLÁUSULA QUATRO – A autoridade competente, na aplicação das sanções, levará 
+em consideração a gravidade da conduta do infrator, o caráter educativo da pena, bem 
+como o dano causado à Administração, observado o princípio da proporcionalidade. 
+SUBCLÁUSULA 
+CINCO 
+– 
+As 
+multas 
+devidas 
+e/ou 
+prejuízos 
+causados 
+à 
+CONTRATANTE serão deduzidos dos valores a serem pagos, ou recolhidos em favor da 
+União, ou deduzidos da garantia.  
+SUBCLÁUSULA SEIS – Caso a CONTRATANTE determine, a multa deverá ser 
+recolhida no prazo máximo de 15 (quinze) dias, a contar da data do recebimento da 
+comunicação enviada pela CONTRATADA. 
+SUBCLÁUSULA SETE – As sanções aqui previstas são independentes entre si, 
+podendo ser aplicadas isoladas ou, no caso das multas, cumulativamente, sem prejuízo 
+de outras medidas cabíveis. 
+SUBCLÁUSULA OITO – As penalidades somente poderão ser relevadas em razão de 
+circunstâncias excepcionais, e as justificativas somente serão aceitas por escrito, 
+  
+           
+   
+ 
+ 
+58 
+ 
+fundamentadas em fatos reais e comprováveis, a critério da autoridade competente da 
+CONTRATANTE, e, desde que formuladas no prazo máximo de 10 (dez) dias úteis da 
+data estipulada para o cumprimento da obrigação. 
+14.3 No caso da TAS parar de trabalhar totalmente ou não conseguir completar uma parte 
+substancial da entrega por razões externas à AEB e externas à Beneficiária de TT, a 
+AEB notificará a TAS de tal falha grave, e a TAS deverá, no prazo de 60 (sessenta) dias 
+a contar da notificação, remediar não conformidade mais relevante. 
+Caso a TAS falhe na correção da não conformidade mais relevante dentro desse tempo, 
+então AEB terá o direito de aplicar uma multa no valor máximo de [●]. -> Para ser 
+calculada com base no princípio estabelecido no âmbito do Acordo de TT. 
+14.4 O critério para determinar a falha na execução -> A ser definido caso a caso. 
+14.5 O pagamento dos danos acima mencionados liquidando prejuízos ou penalidade, não vai 
+liberar a TAS de qualquer e de todas as suas obrigações contratuais no que diz respeito 
+à transferência de tecnologia, conforme estabelecido no Contrato. 
+14.6 No caso de atraso na execução das atividades da Beneficiária de TT impedirem a TAS 
+de executar suas próprias atividades e alcançar suas próprias metas, a TAS terá o direito 
+de interromper o trabalho. Neste caso a AEB deverá compensar essa interrupção do 
+trabalho com base nos custos incorridos pela TAS e no atraso da execução e atraso no 
+pagamento associado aos marcos contratuais da TAS. -> Para ser detalhado caso a 
+caso. 
+14.6.1 
+A Beneficiária de TT concorda e pactua que reembolsará a AEB por 
+quaisquer valores pagos pela AEB para a TAS, de acordo com este item 14.6. 
+ARTIGO 15 – LIMITAÇÕES DE RESPONSABILIDADE 
+15.1 Em nenhuma hipótese poderá a responsabilidade agregada total (todas as reivindicações 
+contratuais reunidas) de qualquer das Partes exceder, com relação a questões que não 
+aquelas previstas ou contempladas na seção 11.1, 120% do preço do respectivo 
+Contrato. Com relação a questões previstas ou contempladas na seção 11.1 acima, a 
+responsabilidade será ilimitada. Todas as outras medidas ou recursos contra qualquer 
+Parte de qualquer tipo são expressamente negados e renunciados pela outra Parte. 
+15.2 Nenhuma Parte deverá, sob quaisquer circunstâncias, ou com base em qualquer teoria 
+de responsabilidade (incluindo negligência, responsabilidade civil, responsabilidade 
+objetiva, contrato ou outra teoria jurídica ou equitativa) ser responsabilizada perante a 
+outra Parte ou seu contratado, ou com relação a qualquer outra pessoa por quaisquer 
+danos passíveis de punição, quer especiais, indiretos e/ou incidentais, quer previsíveis 
+ou não, incluindo, mas sem se limitar a, perdas de receitas ou lucros, custo de capital, ou 
+qualquer outra forma de prejuízo econômico, como resultado deste Contrato. 
+15.3 Em nenhuma hipótese pode a TAS arcar com qualquer tipo de responsabilidade em 
+relação a qualquer produto fabricado ou serviço realizado pela AEB ou pela Beneficiária 
+de TT usando qualquer Tecnologia Transferida. A transferência deve ser realizada pela 
+TAS baseada em empenhos razoáveis e a TAS não se compromete quanto a um 
+resultado específico para tal transferência, diferente dos compromissos expressamente 
+estabelecidas no Anexo 1. 
+ARTIGO 16 – FORÇA MAIOR 
+A TAS não será responsável perante a AEB e a Beneficiária de TT se não puder cumprir 
+as suas obrigações nos termos deste Contrato devido à uma causa de Força Maior. 
+Força Maior deve incluir todos os eventos fora do controle da TAS que ocorram após a 
+data de assinatura deste Contrato que impeçam ou dificultem a realização das 
+  
+           
+   
+ 
+ 
+59 
+ 
+obrigações da TAS e, sem limitação, deve incluir guerra (declarada ou não), ato de 
+Deus, bloqueio, revolução, invasão, insurreição, motim, comoção civil, sabotagem, 
+embargo, regulamentos governamentais ou decisões (incluindo atraso ou falta de 
+emissão de licenças, permissões ou autorizações de qualquer natureza), boicote, greves 
+e lock-out, epidemias, terremotos, incêndio, inundação. 
+Nesse caso, a notificação do evento será feita pela TAS à AEB e o calendário será 
+estendido pelo número de dias necessários para superar as consequências do caso de 
+força maior. 
+Em qualquer caso, a ocorrência de um evento de Força Maior não constituirá omissão ou 
+dará motivos para qualquer reclamação por danos. 
+Em qualquer caso, a ocorrência de um evento de Força Maior não deve constituir falta 
+ou dar motivo para reinvindicação de indenização. 
+As entregas e a execução desse Contrato deverão ser reiniciadas logo que possível 
+depois que tal evento se encerrar. Se o desempenho do todo ou parte do Contrato for 
+postergada por razão de Força Maior por um período excedendo seis (6) meses, cada 
+Parte poderá solicitar a rescisão desse Contrato, ou da parte afetada. Neste caso as 
+Partes buscarão estabelecer por acordo mútuo um compromisso de encerramento; caso 
+este acordo falhe, as cláusulas do Artigo [●] (Resolução de Disputas) deverão ser 
+aplicadas. 
+ARTIGO 17 – DATA DE VIGÊNCIA E TÉRMINO 
+17.1 Data de Vigência 
+Este Contrato entrará em vigor após a conclusão de todos os seguintes eventos: 
+a) 
+Assinatura do contrato pela TAS, AEB e pela Beneficiária de TT. 
+b) 
+Recebimento pela TAS do Certificado de Usuário Final, conforme Anexo [●], 
+devidamente assinado pela AEB e o Cliente. 
+Caso as condições acima de eficácia não sejam atingidas até [●], este Contrato será 
+automaticamente considerado nulo e sem validade, sem qualquer responsabilidade de 
+uma Parte em relação à outra. 
+17.2 Término deste Contrato  
+17.2.1. 
+No caso da AEB e da Beneficiária de TT terem cumprido todas as suas 
+obrigações contratuais estabelecidas no Contrato, e a TAS materialmente não 
+conseguiu satisfazer as suas obrigações contratuais, que não seja por motivo 
+de Força Maior ou devido à AEB e à Beneficiária de TT, e tal falha impedir o 
+bom desempenho dentro do cronograma inicialmente acordado no Contrato, 
+a TAS será contratualmente responsável perante a AEB e a AEB terá o direito 
+de rescindir o contrato e aplicar as medidas previstas no Artigo 14. 
+17.2.2.  
+Se a TAS acreditar que uma violação material deste Contrato tenha sido 
+cometida pela AEB ou pela Beneficiária de TT por outros motivos que não 
+sejam de Força Maior, a TAS deve notificar, por escrito, à AEB apontando as 
+circunstâncias da violação material. 
+A AEB pode expor, em conformidade com o Artigo [●] (Resolução de 
+Disputas), se contesta a existência de tal violação material ou solucioná-la no 
+prazo de [●] ([●]) dias a contar da recepção da notificação por escrito. 
+  
+           
+   
+ 
+ 
+60 
+ 
+Se a AEB não assumir uma das ações mencionadas acima, então a TAS terá 
+o direito de rescindir este Contrato, de pleno direito e sem demanda em 
+qualquer momento posterior, mediante notificação por escrito à AEB. A 
+rescisão não afetará pagamento feito pela AEB para a TAS nos termos deste 
+Contrato antes da data da rescisão. 
+A rescisão pela TAS deste Contrato, conforme o acima exposto, será feita 
+sem prejuízo de quaisquer outros direitos e recursos que a TAS pode ter a 
+esse respeito. 
+No caso de rescisão do Contrato pela AEB ou pela Beneficiária de TT, a AEB 
+e a Beneficiária TT não terão mais direitos para usar a Tecnologia Transferida 
+e vender os Serviços/Produtos e a AEB cessará e fará com que a Beneficiária 
+de TT cesse de utilizar o Know-How, Software e Documentação. No caso de 
+rescisão do Contrato, a AEB deverá enviar de volta e fará com que a 
+Beneficiária de TT envie de volta à TAS toda a documentação e cópias das 
+mesmas e garanta que deixou de utilizar o Software/[●] e apagou-o de seu 
+computador no prazo de trinta (30) dias após a data da rescisão. Todos os 
+pagamentos já realizados pela AEB deverão ser mantido pela TAS. 
+ARTIGO 18 – CESSÃO 
+Nenhuma das Partes poderá ceder, co-contratar ou subcontratar a totalidade ou parte de 
+seus direitos e obrigações a qualquer outra empresa sem o consentimento prévio da 
+outra Parte. 
+ARTIGO 19 – INDENIZAÇÕES 
+ 
+19.1 A TAS deverá indenizar a AEB em relação a quaisquer custos, ativos ou passivos 
+resultante de qualquer morte ou ferimentos aos funcionários da TAS e qualquer dano à 
+propriedade, morte ou danos pessoais de qualquer natureza, causados por negligência 
+ou omissão de tais empregados durante sua presença nas instalações da Beneficiária de 
+TT no Território em decorrência deste Contrato. 
+19.2 A AEB deverá indenizar a TAS em relação a quaisquer custos, ativos ou passivos 
+resultante de qualquer morte ou ferimentos aos funcionários da AEB ou da Beneficiária 
+de TT e todos os danos ao imóvel, morte ou danos pessoais de qualquer natureza, 
+causados por negligência ou omissão de tais empregados durante sua presença nas 
+instalações da TAS em decorrência deste Contrato. 
+ARTIGO 20 – RESOLUÇÃO DE DISPUTAS 
+Todas as disputas, controvérsias, conflitos ou reclamações associados a ou em 
+decorrência deste Acordo que não sejam solucionados de forma amigável entre as 
+Partes serão encaminhados aos Tribunais Federais de Brasília, Distrito Federal, Brasil, 
+excluindo-se todos os outros tribunais, por mais privilegiados que possam ser. 
+As Partes acordam que o presente acordo é um título extrajudicial, nos termos do artigo 
+585, II, do Código de Processo Civil Brasileiro. 
+ARTIGO 21 – LEGISLAÇÃO APLICÁVEL 
+O presente Acordo será regido pela lei brasileira. 
+ARTIGO 22 – DEVERES E APROVAÇÕES LEGAIS 
+Informar se há formalidades a serem cumpridas. [●] 
+  
+           
+   
+ 
+ 
+61 
+ 
+ARTIGO 23 – NOTIFICAÇÕES 
+23.1 Qualquer notificação a uma Parte do presente Contrato deverá ser enviada para os 
+seguintes endereços: 
+TAS  
+AEB 
+______________ 
+______________ 
+______________ 
+______________ 
+FRANCE 
+______________ 
+Em atenção de:  
+Em atenção de: 
+Sr. ______________ 
+Sr. ______________ 
+ 
+Beneficiária de TT [●] 
+______________ 
+______________ 
+______________ 
+Em atenção de:  
+Sr. ______________ 
+Cada Parte poderá alterar seu endereço, mediante notificação por escrito às outras 
+Partes de tal alteração. 
+23.2 A língua Inglesa será utilizada em todas as comunicações entre as partes no âmbito 
+deste Contrato com respeito a todas as comunicações e documentos. 
+ARTIGO 24 – DIVERSOS 
+24.1 Este Contrato contempla todo o acordo entre a AEB e a TAS e a Beneficiária de TT a 
+respeito da Transferência e não pode ser divulgado, alijado, abandonado, alterado ou 
+modificado de forma alguma, verbalmente ou de outro modo, a não ser por um 
+instrumento jurídico por escrito e devidamente assinado pelas respectivas Partes. Em 
+caso de discrepâncias entre este Contrato e seus Anexos, este Contrato deve 
+prevalecer. 
+24.2 Se qualquer uma das disposições do presente Contrato for entendida por uma 
+autoridade competente como nula ou ineficaz, tal disposição será avaliada para ser 
+excluída do presente Contrato e as demais disposições deste Contrato permanecerão 
+em pleno vigor e efeito na medida em que ainda expressarem a intenção das Partes. 
+As Partes devem negociar, em consequência disso, de boa-fé, a fim de acordar os 
+termos de uma disposição mutuamente satisfatória para substituir a disposição 
+considerada nula ou inexequível. 
+24.3 Em todas as situações, as Partes continuam contratantes independentes, cada uma 
+responsável por seus próprios empregados. Nada aqui contido deve ser considerado por 
+formar, criar, dar efeito ou reconhecer uma joint venture, corporação, sociedade ou outra 
+entidade jurídica de qualquer natureza. 
+24.4 Os títulos deste Contrato são apenas para conveniente referência e não devem ser 
+utilizados na interpretação das disposições deste Contrato. 
+  
+           
+   
+ 
+ 
+62 
+ 
+24.5 A falta de providências por uma Parte pela violação ou descumprimento de qualquer das 
+disposições deste Contrato pela outra Parte não deve ser interpretada como uma 
+renúncia, por essa Parte, em qualquer violação sucessiva da mesma ou de outra 
+provisão, nem deve qualquer atraso ou omissão por parte da Parte em exercer ou valer-
+se de qualquer direito, poder ou privilégio que tem ou poderá ter nos termos deste 
+instrumento significar uma renúncia a qualquer direito, poder ou privilégio de tal Parte. 
+ARTIGO 25 – DESTINAÇÃO FINAL (restrições de controle de exportação) 
+25.1 As entregas a serem feitas pela TAS, no âmbito do presente contrato, ficam 
+subordinadas à concessão das autorizações de exportação válidas e necessárias pelas 
+autoridades francesas. 
+A TAS envidará os melhores esforços para conseguir todas as autorizações necessárias 
+para a execução do presente Contrato. Se a qualquer momento durante a vigência deste 
+Contrato, as referidas autorizações não forem conseguidas, o fato deve ser comunicado 
+pela TAS à AEB e à Beneficiária de TT no prazo de 15 (quinze) dias da suspensão / 
+cessação / revogação das autorizações e as Partes discutirão as consequências de tal 
+fato em relação ao andamento do presente Contrato. 
+25.2 A AEB e a Beneficiária de TT se comprometem a não vender, emprestar ou entregar a 
+terceiros, sob qualquer condição, com ou sem remuneração, temporária ou 
+permanentemente, 
+a 
+Tecnologia 
+Transferida 
+objeto 
+deste 
+Contrato, 
+incluindo 
+equipamentos e peças de reposição entregues em conexão com a mesma e a 
+documentação e informações de qualquer forma relacionadas com este Contrato, sem o 
+acordo prévio, por escrito, do Governo Francês para qualquer uso diferente do definido 
+no contrato. 
+25.3 Além disso, de acordo com a regulamentação francesa, a Beneficiária de TT deve 
+fornecer à TAS um certificado na forma solicitada pelo Governo Francês que consta 
+como Anexo [●] em que a Beneficiária de TT devem concordar com as condições do 
+artigo 25.2 acima pelo uso da Tecnologia Transferida. 
+ 
+EM TESTEMUNHO, os representantes das Partes, devidamente autorizados, assinam este 
+Contrato em 3 (três) cópias originais, na data indicada abaixo, recebendo cada Parte uma (1) 
+cópia original do mesmo. 
+ 
+Em nome da 
+Em nome da 
+ 
+THALES ALENIA SPACE [●]  
+AEB 
+ 
+Name : 
+ 
+Name : 
+Title 
+: 
+ 
+Title 
+: 
+Date 
+: 
+ 
+Date 
+: 
+Signature  
+Signature 
+ 
+ 
+  
+           
+   
+ 
+ 
+63 
+ 
+Em nome da 
+ 
+Beneficiária de TT [●] 
+ 
+Name : 
+Title 
+: 
+Date 
+: 
+Signature 
+ 
+ 
+ 
+ 
+  
+           
+   
+ 
+ 
+64 
+ 
+ANEXO xxxxx; FÓRMULA DE REAJUSTE DE PREÇOS 
+ 
+FÓRMULAS DE CORREÇÃO DE PREÇOS PARA OS TEMAS DA TAS-F E DA TAS-
+I, RESPECTIVAMENTE 
+FÓRMULA DE REAJUSTE DE PREÇOS APLICÁVEL A TEMAS DE 
+TRANSFERÊNCIA DE TECNOLOGIA DA TAS-F 
+P = Po (0,67 Sw-IME_1/Sw-IME_0 + 0,33 PsdG2_1/PsdG2_0) 
+P = Preço em Euros revisto na data considerada 
+Po = Preço em Euros original válido até o final de dezembro de 2014, conforme escrito na 
+proposta comercial da TAS (parte do ANEXO II) 
+Sw-IME_1: valor do "Índice Sw-IME", baseado nas Condições Econômicas e apurado na data 
+considerada. 
+Sw-IME_0: valor de referência do "Índice Sw-IME", baseado na média das Condições 
+Econômicas em dezembro de 2013.  
+Considerando que "Sw- IME" é o índice do custo médio do trabalho por hora para todos os 
+funcionários da indústria mecânica na França, conforme publicado pelo INSEE (Institut National 
+des Statistiques et Etudes Economiques). 
+PsdG2_1: valor do "Índice PsdG2", baseado nas Condições Econômicas e apurado na data 
+considerada. 
+PsdG2_0: valor de referência do "Índice PsdG2", baseado na média das Condições 
+Econômicas apurada em dezembro de 2013.  
+Considerando que "PsdG2" é o índice do preço de produtos e serviços na França, publicado 
+pela IXARM DGA (Direction Générale de l' Armement) e disponível no portal web DGA. 
+ 
+FÓRMULA DE REAJUSTE DE PREÇOS APLICÁVEL A TEMAS DE 
+TRANSFERÊNCIA DE TECNOLOGIA DA TAS-I 
+P = Po (0,84 L1/L0 + 0,16 M1/M0) 
+P = Preço em Euros revisto na data considerada 
+Po = Preço em Euros original e válido até final de dezembro de 2014, conforme escrito na 
+proposta comercial TAS (parte do ANEXO II) 
+L0 = Índice Salarial de acordo com SOGETI com base em dados fornecidos pelo EUROSTAT e 
+procedentes do ISTAT, tabela 21.32.587 – Elétrica e eletrônica: Trabalhadores não manuais. 
+Valor de referência de salários de dezembro de 2013. 
+L1 = Índice Salarial acima baseado nas Condições Econômicas e apurado na data considerada 
+M0 = Índice de Preços de Materiais, de acordo com SOGETI, conforme dados fornecidos pelo 
+EUROSTAT, procedentes do ISTAT, tabela 21.32.620 – Total da indústria excluindo a da 
+construção. 
+Valor de referência para preços de materiais: Índice de Preços de Materiais em dezembro de 
+2013.  
+  
+           
+   
+ 
+ 
+65 
+ 
+Valor M1 = Índice de Preços de Materiais acima baseado nas Condições Econômicas e 
+apurado na data considerada. 
+ 
+  
+           
+   
+ 
+ 
+66 
+ 
+EXEMPLO 
+ 
+ 
+CERTIFICAT D’UTILISATION FINALE 
+END-USER CERTIFICATE 
+(to be adapted for each topic) 
+ 
+ 
+ 
+ 
+ 
+ 
+  A. Parties 
+  
+  1. Exportateur : (Exportador) 
+4. Pays de destination 
+finale : 
+(País de destino final) 
+  
+  THALES ALENIA SPACE  
+26, AV JF CHAMPOLLION  
+BP 33787 
+F-31037 TOULOUSE CEDEX 1 
+  
+  
+BRAZIL 
+  
+  
+  
+  
+  
+  2. Destinataire : (Destinatário) 
+  
+  AEB Agencia Espacial Brasileira 
+SP0 - AREA 5 - Quadra 3  
+70610-200 - Brasilia / DF 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+  3. Utilisateur final : (usuário final) 
+  
+  
+TT Beneficiary : 
+  
+  
+  
+  
+  
+  
+  
+  
+5. N° 
+Contrat :  
+/ 
+6. Date de signature du contrat : 
+/ 
+  
+  ContratoN° : 
+Data da assinatura do contrato : 
+  
+  B. Biens* 
+  
+  1. Biens : (Items) 
+  
+  Transfers of Know-How about xxxx  
+  
+  
+  
+  
+  
+  
+           
+   
+ 
+ 
+67 
+ 
+  
+  
+  2. Quantités (unités)/poids (Quantidade (Unidades) / peso) : 
+  
+  / 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  3. Utilisation finale : (Uso final) 
+  
+  Satellite engineering 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  4. Lieu d'utilisation finale : (Especificção do local do uso final dos itens) 
+  
+  BRAZIL 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  C. Engagement 
+  
+  Nous certifions que les biens décrits au point B1 : 
+  
+  1. seront utilisés uniquement aux fins précisées au point B.3 et que les biens sont destinés à une 
+utilisation finale dans le pays mentionné au point A.4. 
+  
+  
+  
+  2. que les biens ne seront pas utilisés dans des activités en rapport avec les explosifs nucléaires ou 
+des activités non contrôlées liées au cycle du combustible nucléaire. 
+  
+  
+  
+   
+3. que les biens ne seront pas utilisés à des fins liées aux armes chimiques, biologiques ou nucléaires, ou à des 
+missiles pouvant servir de vecteurs à de telles armes. 
+ 
+  
+  
+  
+  
+     4. que les biens sont exclusivement destinés à des utilisations finales civiles. (cocher si 
+applicable) 
+  
+  
+           
+   
+ 
+ 
+68 
+ 
+  5. en ce qui concerne la technologie, nous certifions que nous traitons la technologie de manière 
+strictement confidentielle, que nous ne transférons pas de technologies à d’autres entreprises, et 
+que nous ne mettons pas de connaissances à la disposition de tiers. En ce qui concerne les biens 
+produits grâce à un transfert de technologie, ceux-ci ne seront fournis à un tiers, personne 
+physique ou entreprise, que s’il accepte d’être lié par des engagements figurant dans la déclaration 
+ci-dessus et s’il est notoire que ce tiers est digne de confiance et fiable pour ce qui est du respect 
+de tels engagements. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  6. nous certifions également que nous ne réexporterons pas les biens vers un pays tiers sans 
+l’accord préalable des autorités françaises. 
+  
+  
+  
+  C. Commitment 
+  
+  We certify that the items described in section B1 : 
+  
+  1. will only be used for the purposes described in section B.3 and that the items are intended for 
+final use in the country named in section A.4. 
+  
+  
+  
+  
+2. that the items will not be used in any nuclear explosive activity or unsafeguarded nuclear fuel 
+cycle activity. 
+  
+   
+3. that the items will not be used for any purpose connected with any chemical or biological or nuclear 
+weapons, or missiles capable of delivering such weapons. 
+ 
+  
+  
+  
+       4. that the items will only be used for civil end uses. (Tick if applicable) 
+  
+  5. as far as technology is concerned, we certify that we treat the technology strictly confidential 
+and neither pass the technology on to other companies nor shall we make knowledge available to 
+third parties. In case of goods produced by the help of transferred technology, these goods will 
+only be delivered to a third person/company in condition that this person/company accepts the 
+commitments of the above declaration as binding for itself and on condition that this third 
+person/company is known to be trustworthy and reliable in the observance or such commitments. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+6. we further certify that we will not re-export the items to a third country without the consent of 
+the French authorities. 
+  
+    
+  
+  
+  
+  
+  
+    
+  Je soussigné   
+  
+  
+ I 
+undersigned 
+            Nom et Fonction en toutes lettres - Name and Title of signer in block 
+letters 
+  
+  
+  
+  
+certifie sincères et véritables les informations portées sur le présent document. 
+  
+  
+certify true and accurate information given in this document 
+  
+  
+  
+  
+    ..…………………………..               ..…………..……………………….         
+..……………………………………. 
+  
+  
+           
+   
+ 
+ 
+69 
+ 
+  
+         Signature Originale                                          Lieu, date                                    Tampon 
+/Cachet officiel 
+  
+  
+               (Signature)                                                (Place, date)                           (Company 
+Stamp / Official Seal) 
+  
+ 
+ 
+ 
+ 
+  
+           
+   
+ 
+ 
+70 
+ 
+EDITAL DE SELEÇÃO PÚBLICA MCTI/AEB/FINEP/FNDCT – Subvenção Econômica à Inovação –
+Transferência de Tecnologia do SGDC – 01/2015 
+Transferência de Tecnologia Espacial no Âmbito do Decreto nº 7.769, de 28/06/2012 
+ 
+ANEXO 11  
+ 
+(Minuta Padrão) Termo de Compromisso de Manutenção de Sigilo – TCMS 
+Pessoa Jurídica 
+Este Termo de Compromisso de Manutenção de Sigilo, doravante referido 
+como Termo de Sigilo, é celebrado entre: (i) A AGÊNCIA ESPACIAL BRASILEIRA 
+(AEB), autarquia federal criada pela Lei nº 8.854, de 10 de fevereiro de 1994, 
+vinculada ao Ministério da Ciência, Tecnologia e Inovação (MCTI), nos termos do 
+Decreto nº 6.129, de 20 de junho de 2007, com sede no Setor Policial Sul, Área 5, 
+Quadra 3, Bloco “A”, Brasília/DF, CEP 70610-200, inscrita no CNPJ sob o nº 
+86.900.545/0001-70, 
+neste 
+ato 
+representado 
+pelo 
+seu 
+Presidente, 
+Senhor 
+................................, (nacionalidade), portador da Carteira de Identidade nº 
+......................., inscrito no CPF/MF sob o nº ........................, residente e domiciliado 
+em Brasília-DF, no exercício regular da competência que lhe foi delegada pelo Decreto 
+sem número, datado de ....................., publicada no D.O.U, Seção 2, página ......, do 
+dia ....... de ....... de ....., doravante denominada simplesmente “AEB”; (ii) (Razão Social 
+do Órgão, entidade ou Empresa), com sede (endereço), na cidade de ...................., 
+Estado de ................., inscrita no CNPJ/MF sob nº ................................., doravante 
+denominada simplesmente “..................”, neste ato representada pelo seu (cargo e 
+nome do representante legal da empresa), (nacionalidade), portador da Carteira de 
+Identidade nº ...................., inscrito no CPF/MF sob o nº .................., residente e 
+domiciliado na cidade de ..........................., Estado de ................., doravante 
+conjuntamente denominadas como “Partes”. 
+ 
+CONSIDERANDO QUE: 
+a) 
+A AEB é detentora de tecnologias, segredos industriais, informações e 
+documentos classificados como sigilosos; 
+b) 
+De acordo com a legislação vigente, se impõe à AEB a proteção de 
+tecnologias, segredos industriais, informações e documentos classificados como 
+sigilosos; 
+c) 
+As Partes desejam proteger as tecnologias, segredos industriais, informações e 
+documentos classificados como sigilosos que serão transferidos sob este Termo 
+(antes, durante e após a data de assinatura deste Termo), incluindo as informações 
+sigilosas divulgadas por escrito, visualmente, verbalmente e, ainda, através de 
+gráficos, programas de computadores e/ou em outros formatos; 
+d) 
+A AEB, com base no disposto no Decreto nº. 7.769, de 28 de junho de 2012, 
+assinou com as companhias Thales Alenia Space France e Thales Alenia Space Itália 
+S.p.A. um Acordo de Transferência de Tecnologia Espacial; 
+  
+           
+   
+ 
+ 
+71 
+ 
+e) 
+O Acordo de Transferência de Tecnologia Espacial está classificado no grau de 
+“secreto”, nos termos da Lei nº 12.527, de 18 de novembro de 2011; e 
+f) 
+De acordo com a legislação vigente, a AEB tem que preservar o sigilo de 
+documentos classificados por meio de Termos de Sigilo. 
+ 
+RESOLVEM, as Partes, de comum acordo celebrar o presente Termo de Sigilo, que se 
+regerá pelos seguintes termos e condições: 
+1.  
+Todas e quaisquer informações, incluindo sem se limitar às informações 
+relativas: (a) à (nome da empresa), (b) à AEB, (c) a toda e qualquer informação, 
+especialmente, mas não apenas, de ordem técnica, fornecida de uma Parte à outra, 
+deverá ser e efetivamente é considerada como Informação Sigilosa. 
+ 
+2.  
+Cada Parte obriga-se a: 
+a) 
+Manter em sigilo todas as Informações Sigilosas recebidas da outra Parte, 
+incluindo a existência deste Termo; 
+b) 
+Notificar a Parte divulgadora, tão logo tome conhecimento, por terceiros, a 
+respeito de qualquer divulgação das Informações Sigilosas não autorizada nos termos 
+deste Termo; 
+c) 
+Proteger as Informações Sigilosas divulgadas pela outra Parte usando o 
+mesmo grau de cuidado e proteção que dispensa às suas informações sigilosas contra 
+a divulgação, sendo requerido, todavia, no mínimo, um cuidado razoável; 
+d) 
+Não divulgar qualquer Informação Sigilosa de que tiver conhecimento para 
+terceiros, exceto (i) quando estritamente necessário, desde que estes atestem 
+expressamente sua concordância em manter todas as informações recebidas nos 
+termos deste Termo, ou (ii) conforme estabelecido na legislação aplicável, ou exigido 
+através de sentença judicial, desde que a Parte que estiver obrigada a fazer tal 
+revelação, ajude a Parte proprietária da Informação Sigilosa a limitar a divulgação ao 
+estritamente necessário ao cumprimento da lei ou da sentença e, ainda, notifique a 
+Parte proprietária imediatamente de tal divulgação, para que esta possa tomar 
+medidas apropriadas a fim de defender seus direitos; 
+e) 
+Cada Parte deverá fazer com que as pessoas (naturais e jurídicas) 
+mencionadas no item 2.d. (i), assinem um termo de conhecimento e aceitação deste 
+Termo de Sigilo; 
+f) 
+Não usar as Informações Sigilosas recebidas para outros fins além daqueles 
+previstos neste Termo de Sigilo, exceto se esta utilização for previamente autorizada 
+pela Parte proprietária da Informação Sigilosa; e 
+g) 
+Não fazer cópia das informações fornecidas nos termos deste Termo de Sigilo, 
+nem abandonar quaisquer materiais ou meios que contenham quaisquer das 
+Informações Sigilosas recebidas da Parte proprietária das Informações Sigilosas, salvo 
+no caso de expresso consentimento desta Parte. 
+ 
+  
+           
+   
+ 
+ 
+72 
+ 
+3.  
+As obrigações de sigilo não se aplicam para as informações que: 
+a) 
+Já sejam ou se tornem de domínio público, desde que esta situação não 
+decorra de culpa ou dolo da outra Parte ou de quaisquer terceiros; 
+b) 
+Sejam desenvolvidas legal e independentemente pela Parte receptora, sem 
+qualquer referência, influência ou conexão com as Informações Sigilosas divulgadas 
+pela outra Parte; 
+c) 
+Estejam lícita e comprovadamente na posse da Parte receptora anteriormente 
+à sua revelação pela Parte reveladora; ou 
+d) 
+Sejam licitamente recebidas pela Parte receptora – sem qualquer restrição de 
+sigilo – por terceiro(s) autorizado(s) a revelar tais informações. 
+ 
+4.  
+O presente Termo de Sigilo não concede a qualquer das Partes, de forma 
+implícita ou expressa, quaisquer direitos, licenças ou relacionamentos entre as 
+mesmas como um resultado da troca das Informações sigilosas. 
+ 
+5.  
+As Partes não poderão, em nenhuma hipótese ou condição, se eximir do 
+cumprimento das obrigações de sigilo assumidas neste Termo de Sigilo. Esta 
+obrigação inicia-se na data de assinatura do presente Termo e permanecerá válida até 
+que as Informações Sigilosas se tornem de domínio público. 
+ 
+6.  
+Toda Informação sigilosa revelada sob este Acordo, incluindo informações 
+licenciadas e protegidas por patentes, direitos autorais, segredos de negócio, ou por 
+qualquer outro direito de propriedade intelectual, transmitida sob qualquer forma de 
+uma Parte à outra Parte, deve permanecer como propriedade da Parte divulgadora, 
+exceto se de outra forma for expressamente estabelecido entre as Partes. Na hipótese 
+de término ou resolução deste Termo, as Partes deverão devolver as Informações 
+Sigilosas recebidas uma da outra e suas respectivas cópias, ou alternativamente, a 
+pedido da Parte divulgadora, a Parte receptora poderá destruir todas as Informações 
+Sigilosas e suas eventuais cópias, fornecendo à Parte divulgadora um certificado de 
+destruição de tais Informações. 
+ 
+7.  
+O presente Termo de Sigilo não confere a qualquer Parte, expressa ou 
+implicitamente, o direito de fazer declarações ou comprometer-se em nome da outra 
+Parte. 
+ 
+8.  
+Os direitos e obrigações do presente Termo de Sigilo não poderão ser 
+transferidos ou cedidos por qualquer das Partes, sob nenhum motivo, sem a prévia, 
+expressa e por escrito anuência da outra Parte. 
+ 
+  
+           
+   
+ 
+ 
+73 
+ 
+9.  
+As Partes declaram e garantem a adequação e o cumprimento de toda 
+legislação aplicável relativa à exportação, reexportação, transferência ou divulgação 
+dos dados técnicos previstos neste Termo de Sigilo, sem prejuízo do seguinte: 
+a) 
+As Partes declaram e garantem que os dados ou informações, controlados por 
+tratados internacionais, somente serão exportados, reexportados, transferidos ou 
+importados de um país para o outro em consonância com todos os requerimentos 
+exigíveis para cada tipo de dado e informação, na forma de controle aplicável para 
+cada caso; e 
+b) 
+A Parte divulgadora de dado ou informação sujeito a algum controle de 
+exportação de alguma localidade deverá notificar a Parte receptora da existência de 
+tais restrições e da obrigatoriedade de obtenção de licenças (se requeridas), informar, 
+ainda, quais são as licenças apropriadas ao caso e enviar cópias destas para a Parte 
+receptora da Informação Sigilosa antes da sua divulgação. 
+ 
+10.  
+Cada uma das Partes comprometer-se-á a indenizar a outra Parte por 
+quaisquer danos ou prejuízos efetivamente comprovados, a serem apurados 
+judicialmente, causados por descumprimento das cláusulas deste Termo de Sigilo, 
+seja pelas Partes, seja por quaisquer de seus representantes e demais pessoas, 
+naturais ou jurídicas. 
+ 
+11.  
+Novação. A aceitação, omissão, ou tolerância das Partes em relação ao 
+descumprimento, pela outra Parte, de cláusula ou condição deste Termo de Sigilo, 
+será considerada mera liberalidade, não desonerando de nenhuma forma cada parte 
+em cumprir todas as obrigações nele assumidas, as quais permanecerão inalteradas, 
+como se nenhuma aceitação, omissão ou tolerância houvesse ocorrido, não se 
+constituindo em nenhuma hipótese novação. 
+ 
+12.  
+Independência. Se uma ou mais disposições contidas neste Termo de Sigilo for 
+considerada inválida, ilegal ou inexequível sob qualquer aspecto, a validade, 
+legalidade ou exequibilidade das demais disposições contidas neste Termo não será, 
+de forma alguma, afetada ou prejudicada por esse fato. As partes negociarão, de boa 
+fé, a substituição das disposições inválidas, ilegais ou inexequíveis, por disposições 
+válidas. 
+ 
+13.  
+Vigência. O presente Termo de Sigilo vigerá pelo prazo mínimo de 05 (cinco) 
+anos a contar da presente data (prazo a ser estabelecido para o Tópico de 
+Transferência de Tecnologia em questão). 
+ 
+14.  
+Para dirimir quaisquer dúvidas ou solucionar quaisquer controvérsias 
+resultantes do presente Termo de Sigilo fica, desde já, eleita a legislação aplicável da 
+  
+           
+   
+ 
+ 
+74 
+ 
+República Federativa do Brasil e o foro da Comarca de Brasília, Distrito Federal, 
+prevalecendo este sobre qualquer outro, por mais privilegiado que seja. 
+ 
+E por estarem as Partes assim justas e contratadas, assinam o presente Termo de 
+Sigilo em 02 (duas) vias de igual teor, na presença de duas testemunhas. 
+ 
+Brasília, xx de xxxxx de 2015. 
+(seguem assinaturas das partes e de testemunhas) 
+ 
+ 
+                                     
+ 
+ 
+EDITAL DE SELEÇÃO PÚBLICA MCTI/AEB/FINEP/FNDCT – Subvenção Econômica à Inovação –
+Transferência de Tecnologia do SGDC – 01/2015 
+RESULTADO FINAL 
+Propostas Classificadas: 
+Tópico 1 
+CNPJ 
+Empresa 
+Classificação 
+00.011.009/0001-06 FIBRAFORTE ENGENHARIA INDUSTRIA E COMÉRCIO LTDA. 
+1º 
+ 
+Tópico 2 
+CNPJ 
+Empresa 
+Classificação 
+04.318.188/0001-71 ORBITAL ENGENHARIA S.A. 
+1º 
+ 
+Tópico 3 
+CNPJ 
+Empresa 
+Classificação 
+01.111.976/0001-02 EQUATORIAL SISTEMAS S.A. 
+1º 
+ 
+Tópico 4 
+Não houve empresas classificadas neste tópico. 
+ 
+Tópico 5 
+CNPJ 
+Empresa 
+Classificação 
+96.238.134/0001-14 CENIC ENGENHARIA INDUSTRIA E COMERCIO LTDA. 
+1º 
+65.047.250/0001-22 AKAER ENGENHARIA S.A. 
+2º 
+ 
+Tópico 6 
+CNPJ 
+Empresa 
+Classificação 
+88.031.539/0001-59 AEL SISTEMAS S.A. 
+1º 
+02.807.737/0001-46 BRADAR INDÚSTRIA S.A. 
+2º 
+ 
+ 
+ 
+ 
+                                     
+ 
+ 
+Propostas selecionadas em cada Tópico: 
+Tópico 1 
+Empresa 
+Projeto 
+Valor de 
+Subvenção 
+Econômica 
+FIBRAFORTE ENGENHARIA 
+INDÚSTRIA E COMÉRCIO LTDA. 
+Desenvolvimento de Subsistema Propulsão 
+Monopropelente para Pequenos Satélites. 
+R$ 10.966.650,00 
+ 
+Tópico 2 
+ 
+Empresa 
+Projeto 
+Valor de 
+Subvenção 
+Econômica 
+ORBITAL ENGENHARIA S.A. 
+Subsistema de Potência e Geradores Solares 
+para Satélites. 
+R$ 5.000.000,00 
+ 
+Tópico 3 
+ 
+Empresa 
+Projeto 
+Valor de 
+Subvenção 
+Econômica 
+EQUATORIAL SISTEMAS S.A. 
+Transferência de Tecnologia em Controle 
+Térmico para Satélites. 
+R$ 1.733.311,13 
+ 
+Tópico 5 
+ 
+Empresa 
+Projeto 
+Valor de 
+Subvenção 
+Econômica 
+CENIC ENGENHARIA INDUSTRIA 
+E COMERCIO LTDA 
+Desenvolvimento de estruturas mecânicas para 
+cargas úteis de observação da Terra a base de 
+fibra de carbono. 
+R$ 4.000.000,00 
+ 
+Tópico 6 
+ 
+Empresa 
+Projeto 
+Valor de 
+Subvenção 
+Econômica 
+AEL SISTEMAS S.A. 
+Transferência de Tecnologias Espaciais em FPGA 
+e ASIC. 
+R$ 798.627,32 
+ 
+30 de novembro de 2015 
+ 
+                                     
+ 
+ 
+EDITAL DE SELEÇÃO PÚBLICA MCTI/AEB/FINEP/FNDCT – Subvenção Econômica à Inovação –
+Transferência de Tecnologia do SGDC – 01/2015 
+RESULTADO PRELIMINAR 
+Tópico 1 
+CNPJ 
+Empresa 
+Classificação 
+00.011.009/0001-06 FIBRAFORTE ENGENHARIA INDUSTRIA E COMÉRCIO LTDA. 
+1º 
+ 
+Tópico 2 
+CNPJ 
+Empresa 
+Classificação 
+04.318.188/0001-71 ORBITAL ENGENHARIA S.A. 
+1º 
+ 
+Tópico 3 
+CNPJ 
+Empresa 
+Classificação 
+01.111.976/0001-02 EQUATORIAL SISTEMAS S.A. 
+1º 
+ 
+Tópico 4 
+Não houve empresas classificadas neste tópico. 
+ 
+Tópico 5 
+CNPJ 
+Empresa 
+Classificação 
+96.238.134/0001-14 CENIC ENGENHARIA INDUSTRIA E COMERCIO LTDA. 
+1º 
+65.047.250/0001-22 AKAER ENGENHARIA S.A. 
+2º 
+ 
+Tópico 6 
+CNPJ 
+Empresa 
+Classificação 
+88.031.539/0001-59 AEL SISTEMAS S.A. 
+1º 
+02.807.737/0001-46 BRADAR INDÚSTRIA S.A. 
+2º 
+ 
+ 
+10 de novembro de 2015 
+  
+           
+   
+ 
+ 
+1 
+ 
+ 
+EDITAL DE SELEÇÃO PÚBLICA MCTI/AEB/FINEP/FNDCT – Subvenção Econômica à Inovação –
+Transferência de Tecnologia do SGDC – 01/2015 
+Transferência de Tecnologia Espacial no Âmbito do Decreto nº 7.769, de 28/06/2012 
+ 
+RERRATIFICAÇÃO 
+ 
+1. RETIFICAÇÃO 
+ 
+A presente rerratificação visa a ajustar os textos dos itens 5.2 e 6.1 do edital para atender ao 
+disposto no item 9.3., do Acórdão 1.925/2013 do Plenário do Tribunal de Contas da União e, 
+adicionalmente, realizar os seguintes ajustes: correção do item 7.2 com relação ao segundo 
+critério de desempate, por ter ação inócua na nota final, e do termo mencionado no item 1 do 
+Anexo 1 (monopropelente ao invés de bipropelente). 
+ 
+O item 5.2 do edital passa a ter a seguinte redação: 
+ 
+ 
+5.2. Valores mínimos de contrapartida  
+ 
+A concessão de recursos de Subvenção Econômica implica, obrigatoriamente, que 
+a beneficiária aporte no projeto recursos de contrapartida, passíveis de 
+mensuração em moeda.  
+ 
+As empresas responsáveis por projetos habilitados a receber recursos de 
+Subvenção Econômica deverão aportar recursos financeiros em função do 
+Faturamento Bruto de 2014. Caso as empresas pertençam a Grupo Econômico, 
+será utilizada a composição do faturamento deste para apuração do percentual de 
+contrapartida. 
+ 
+Define-se Grupo Econômico como conjunto de empresas cujo controle majoritário 
+ou efetivo seja exercido pelas mesmas pessoas físicas e/ou jurídicas. 
+ 
+No caso de grupo econômico que envolva empresas no exterior, o Faturamento 
+Bruto das empresas no exterior também comporá o somatório de receita do 
+Grupo Econômico. 
+ 
+CLASSIFICAÇÃO POR PORTE 
+FATURAMENTO BRUTO EM 
+2014 
+PERCENTUAL DE 
+CONTRAPARTIDA 
+(sobre o valor da 
+Subvenção) 
+Microempresa e Empresa 
+de Pequeno Porte 
+Até R$ 16.000.000,00 
+10% 
+Média Empresa 
+De R$ 16.000.000,01 a 
+R$ 90.000.000,00 
+15% 
+Grande Empresa 
+Acima de R$ 90.000.000,00 
+20% 
+ 
+ 
+ 
+ 
+  
+           
+   
+ 
+ 
+2 
+ 
+ 
+O item 6.1 do edital passa a ter a seguinte redação: 
+ 
+(...) 
+g) Para as empresas que pertençam a Grupo Econômico, nos termos do item 
+5.2 do edital, será necessário envio de documentação que ateste o 
+Faturamento Bruto do mesmo com referência ao exercício de 2014. 
+(...) 
+ 
+O item 7.2 do edital passa a ter a seguinte redação: 
+ 
+(...) 
+Em caso de empate, a ordem de classificação será definida com base na maior 
+média aritmética das notas obtidas nos critérios de avaliação de peso 2 (dois). 
+ 
+O item 1 do Anexo 1 do edital passa a ter a seguinte redação: 
+ 
+A transferência de tecnologia contemplada neste tópico envolve os 
+conhecimentos requeridos para uma empresa nacional tornar-se Autoridade 
+de Projeto para um subsistema de propulsão a monopropelente para satélites. 
+(...) 
+ 
+ 
+2. RATIFICAÇÃO 
+ 
+Ratificam-se os demais termos do edital que não colidam com a presente rerratificação. 
+ 
+Rio de Janeiro,  __ de outubro de 2015. 
+ 
+________________________________ 
+José Raimundo Braga Coelho  
+Presidente da Agência Espacial Brasileira – AEB 
+ 
+________________________________ 
+Luis Manuel Rebelo Fernandes  
+Presidente da Financiadora de Estudos e Projetos – Finep 
+  
+              
+ 
+ 
+           
+ 
+ 
+1 
+EDITAL DE SELEÇÃO PÚBLICA MCTI/AEB/FINEP/FNDCT – Subvenção Econômica à Inovação –
+Transferência de Tecnologia do SGDC – 01/2015 
+Transferência de Tecnologia Espacial no Âmbito do Decreto nº 7.769 de 28/06/2012 
+ 
+Guia Rápido para Acesso, Preenchimento e Envio  
+Formulário de Cadastro da Empresa e Formulário de Projeto 
+ 
+A Finep disponibilizou para este Edital uma ferramenta on-line para preenchimento e envio 
+eletrônico das propostas. Recomendamos que este Guia Rápido seja lido previamente ao 
+preenchimento. 
+ 
+ 
+SUMÁRIO 
+ 
+1. 
+REQUISITOS DO SISTEMA ...................................................................................................... 2 
+2. 
+ACESSO AO SISTEMA ............................................................................................................. 2 
+3. 
+PREENCHIMENTO DA PROPOSTA .......................................................................................... 4 
+3.1. 
+Orientações Gerais ........................................................................................................ 4 
+3.2. 
+Formulário de Cadastramento da Empresa .................................................................. 7 
+3.3. 
+Formulário de Projeto ................................................................................................... 9 
+4. 
+ENVIO ELETRÔNICO DOS FORMULÁRIOS ............................................................................ 10 
+5. 
+GERAÇÃO DE ARQUIVO PDF ................................................................................................ 10 
+ 
+ 
+ 
+  
+              
+ 
+ 
+           
+ 
+ 
+2 
+1. REQUISITOS DO SISTEMA 
+Para o preenchimento dos formulários deverão ser utilizados, preferencialmente, os seguintes 
+navegadores: 
+→ Mozilla Firefox Versão 18.00 ou superior; ou 
+→ Google Chrome versão 24.00 ou superior. 
+ 
+2. ACESSO AO SISTEMA 
+O 
+acesso ao sistema 
+é 
+feito 
+através 
+de 
+link 
+disponível 
+no 
+site 
+da 
+Finep 
+(http://www.finep.gov.br/chamadas-publicas/chamadapublica/587). 
+Os formulários pertinentes ao Edital estão sob a designação “Transferência de Tecnologia do 
+SGDC”. 
+ 
+Ao acessar qualquer um dos formulários, o sistema apresentará uma tela de “Login”. Caso 
+ainda não tenha uma conta cadastrada, clique em “Não tenho conta”. 
+Observação: basta o cadastramento de uma única conta para acesso a todos os formulários 
+deste Edital. 
+ 
+  
+              
+ 
+ 
+           
+ 
+ 
+3 
+ 
+Insira as informações solicitadas para criar uma nova conta de acesso ao sistema. 
+ 
+Clique no botão “Incluir” e uma mensagem será enviada ao e-mail informado contendo um link 
+para a conclusão do processo. 
+ 
+O link informado no e-mail dá acesso à tela de definição de senha. Insira e confirme a senha 
+desejada. 
+ 
+ 
+ 
+Retorne à tela de “Login” e insira os dados relativos à conta criada.  
+  
+              
+ 
+ 
+           
+ 
+ 
+4 
+ 
+Observação: caso o usuário esqueça sua senha, basta clicar em “Esqueci minha senha” na 
+tela de “Login” e inserir os dados da conta. Um e-mail será enviado ao endereço eletrônico 
+cadastrado contendo link para a redefinição da senha.  
+ 
+3. PREENCHIMENTO DA PROPOSTA 
+3.1. Orientações Gerais 
+Para elaboração da proposta, deverão ser preenchidos os seguintes formulários: 
+→ Formulário de Cadastramento da Empresa  
+→ Formulário do Projeto (específico para cada um dos 6 tópicos constantes no item 2 do 
+Edital). 
+ 
+Em um menu flutuante dos formulários estão localizados os botões para salvar, enviar, gerar 
+PDF, trocar senha e sair do sistema. 
+ 
+ 
+Importante: É extremamente recomendável que durante o preenchimento da proposta o 
+usuário realize recorrentemente a operação de salvar para prevenir a perda dos dados 
+digitados. 
+ 
+Os campos marcados com o identificador * são de preenchimento obrigatório. Para obter 
+instruções de preenchimento de cada campo, basta parar o ponteiro do mouse sobre o ícone 
+ ao lado do título do campo. 
+ 
+ 
+ 
+  
+              
+ 
+ 
+           
+ 
+ 
+5 
+Há uma restrição de até 4.000 caracteres para o preenchimento dos campos texto. Em alguns 
+casos este limite pode ser inferior. 
+ 
+Campos que utilizam o recurso de auto completar: 
+Existem campos em que o sistema completa o que foi digitado, como “Natureza Jurídica”, 
+“Atividade Econômica Predominante” e “Nome do Profissional”. O usuário deverá preencher 
+ao menos três caracteres e, a partir daí, o campo será completado pelo sistema. Nestes 
+campos não será possível digitar outros valores que não os pré-determinados.  
+ 
+ 
+Campos com múltiplos valores: 
+Estes campos aceitam que sejam inseridas várias linhas de informações. Para iniciar o 
+preenchimento deste campo basta clicar no ícone 
+ e aparecerá uma linha com o ícone 
+. 
+Clicando neste ícone os campos ficarão liberados para edição. Em seguida, os valores deverão 
+ser preenchidos, lembrando que os campos marcados com * são obrigatórios. Após a 
+realização do preenchimento, o ícone 
+ deverá ser clicado para confirmar a inserção da  
+informação no campo ou no ícone 
+ para que ela seja desconsiderada. Importante lembrar 
+que o ícone para inserir a informação não salvará os dados digitados no formulário, sendo 
+necessário para isto acionar a opção “Salvar” do menu flutuante. Ver a sequência abaixo: 
+ 
+ 
+ 
+  
+              
+ 
+ 
+           
+ 
+ 
+6 
+ 
+ 
+ 
+ 
+Obs1: Quando for digitada uma informação não compatível com o campo, o quadro se torna 
+vermelho e fica impossibilitada a conclusão da operação. 
+ 
+ 
+Obs2: Caso exista alguma dificuldade para visualização dos campos em função do navegador 
+utilizado, varie a largura das colunas posicionando o mouse nas linhas divisórias. 
+ 
+ 
+Visualização dos formulários em preenchimento/ enviados: 
+Na tela inicial de seleção dos formulários vigentes, clique no link “Clique aqui para visualizar 
+todas as suas propostas enviadas à FINEP”. Na tela de “Login”, selecione a chamada 
+“Transferência de Tecnologia do SGDC” para acessar uma listagem com os formulários 
+preenchidos e respectivos status (“salvo” / “enviado”) e data do último envio. 
+  
+              
+ 
+ 
+           
+ 
+ 
+7 
+ 
+ 
+Observação: desconsiderar o link “Anexos” desta tela. 
+ 
+Encerramento automático de sessão: 
+Por questão de segurança, o sistema encerra automaticamente o formulário aberto para 
+edição após 10 minutos de inatividade, com perda dos dados não gravados. 
+ 
+3.2. Formulário de Cadastramento da Empresa 
+Este formulário deve ser preenchido apenas uma vez, independente da quantidade de tópicos 
+nos quais a empresa pretende concorrer. 
+Na primeira aba serão inseridas informações gerais para identificação e caracterização da 
+empresa proponente, tais como CNPJ, nome, endereço, faturamento, linha de produtos, etc. 
+ 
+  
+              
+ 
+ 
+           
+ 
+ 
+8 
+ 
+ 
+Também há a necessidade de informar os dados da pessoa de contato na empresa. 
+ 
+Importante: as comunicações efetuadas diretamente à empresa durante o processo seletivo 
+do Edital serão encaminhadas ao endereço de e-mail do contato. A pessoa de contato será a 
+mesma independentemente dos tópicos para os quais a empresa encaminhou proposta. 
+ 
+Na segunda aba devem ser inseridos os dados do representante legal ou procurador para 
+assinatura do formulário. 
+  
+              
+ 
+ 
+           
+ 
+ 
+9 
+ 
+ 
+3.3. Formulário de Projeto 
+Há um formulário de projeto específico para cada um dos 6 tópicos elencados no item 2 do 
+Edital. Neste formulário serão inseridas as informações relativas ao projeto propriamente dito 
+que a empresa pretende submeter. 
+ 
+Na aba “1. Empresa”, informar o mesmo número do CNPJ e Nome Empresarial indicados no 
+Formulário de Cadastro da Empresa, além do número de protocolo eletrônico que o sistema 
+gerará após o envio daquele formulário (vide item 4 deste documento). 
+ 
+Atenção: as abas “3. Atividades” e “4. Equipe Executora” possuem campos (“Prazo Total de 
+Execução do Projeto” e “Nome do Profissional” respectivamente) que serão utilizados nas abas 
+“5. Itens” e “6. Cronograma de Desembolso”. 
+ 
+  
+              
+ 
+ 
+           
+ 
+ 
+10 
+Nas abas “5. Itens” e “6. Cronograma de Desembolso”, utilize o botão 
+ para atualização 
+dos somatórios. Na aba “6”, o mesmo botão atualizará também o número de parcelas a partir 
+do prazo total de execução informado na aba “3”. 
+ 
+Na aba “7 . Representante(s)...” devem ser inseridos os dados do representante legal ou 
+procurador para assinatura do formulário. 
+ 
+4. ENVIO ELETRÔNICO DOS FORMULÁRIOS 
+O envio eletrônico dos formulários poderá ser realizado a qualquer momento depois que 
+todos os campos estiverem corretamente preenchidos. Para enviar basta clicar no botão 
+“Enviar” do menu flutuante. Se o formulário não estiver pronto para envio o sistema indicará 
+os campos que ainda não foram preenchidos ou possuem preenchimento incorreto. 
+ 
+Importante: após preenchimento e envio eletrônico do Formulário de Cadastramento da 
+Empresa, o sistema disponibilizará o número do protocolo de envio eletrônico. Este número 
+poderá ser consultado no arquivo PDF do formulário (vide item 5 deste documento) e deverá 
+ser obrigatoriamente indicado no Formulário de Projeto. 
+ 
+É possível alterar o formulário depois de enviado, porém este deverá ser reenviado até a data 
+limite publicada no Edital (item 11 do Edital). As vias eletrônica e impressa deverão ser 
+idênticas. 
+ 
+Devido à complexidade e volume das informações requeridas, recomenda-se o 
+preenchimento dos formulários com considerável antecedência em relação à data limite de 
+envio, para evitar transtornos.  
+ 
+5. GERAÇÃO DE ARQUIVO PDF  
+Existem duas alternativas para geração do arquivo PDF de um formulário: 
+→ Clicando no botão “PDF” no menu flutuante do formulário. 
+→ A partir da tela de visualização dos formulários em preenchimento / enviados (vide 
+item 3.1 deste documento). 
+ 
+  
+              
+ 
+ 
+           
+ 
+ 
+11 
+Após o envio do formulário, o arquivo PDF gerado conterá um recibo que indicará o número de 
+protocolo eletrônico, a data e a hora em que o usuário realizou o envio. A impressão deverá 
+ser providenciada a partir dos arquivos gerados. 
+ 
+Importante: no caso da empresa apresentar proposta em mais de um tópico do edital, uma 
+via impressa e assinada do Formulário de Cadastramento da Empresa deverá ser 
+encaminhada junto à proposta de cada tópico. Por exemplo, se a empresa pretende  
+candidatar-se a 2 tópicos do edital ela deve encaminhar os formulários impressos de cada 
+tópico e também 2 vias impressas e assinadas do Formulário de Cadastramento da Empresa. 
+ 
+A única forma de preenchimento aceita será por meio dos formulários on-line, com envio 
+eletrônico realizado pelo próprio sistema. Serão desconsiderados envios por e-mail com 
+arquivos PDF anexados. 

@@ -1,0 +1,931 @@
+
+                                                       
+ 
+ 
+ 
+1 
+Chamada MCTI/CNPq/ANA N º 23/2015 – Pesquisa em Mudança do 
+Clima 
+ 
+I - CHAMADA 
+ 
+O Ministério da Ciência, Tecnologia e Inovação – MCTI, por intermédio do Conselho Nacional de 
+Desenvolvimento Científico e Tecnológico – CNPq, e a Agência Nacional de Águas – ANA tornam 
+pública a presente Chamada e convidam os interessados a apresentarem propostas nos termos 
+aqui estabelecidos, e em conformidade com o anexo REGULAMENTO, parte integrante desta 
+Chamada.  
+ 
+I.1 – OBJETIVO 
+I.1.1 – A presente Chamada tem por objetivo selecionar propostas para apoio financeiro a projetos 
+de desenvolvimento científico, tecnológico e de inovação do País, voltados para a geração de: i) 
+modelos numéricos atmosféricos e hidrológicos em escala local e regional; ii) conhecimentos 
+sobre os impactos da mudança do clima sobre os sistemas naturais e humanos; iii) 
+conhecimentos sobre medidas de adaptação com ênfase em recursos hídricos e usos da água; e 
+iv) conhecimentos sobre os estoques e fluxos de carbono no solo e na vegetação do Brasil. 
+ 
+I.1.2 – São objetivos específicos desta chamada: 
+ 
+a) Identificar os impactos observados associados à mudança do clima que podem influenciar, 
+de forma positiva ou negativa, os setores de agropecuária, biodiversidade e ecossistemas 
+(incluindo zonas costeiras e oceanos), áreas urbanas e rurais, desastres naturais, energia, 
+indústria, recursos hídricos, saúde humana, e a interação entre eles, além dos efeitos da 
+mudança do clima sobre povos e comunidades vulneráveis; 
+b) Elaborar modelos de projeção de impactos futuros (setoriais ou integrados) que auxiliem 
+na identificação de riscos e oportunidades potenciais aos sistemas estudados;  
+c) Ampliar o conhecimento científico disponível sobre projeção dos impactos associados à 
+mudança do clima no Brasil que possam vir a subsidiar a avaliação de vulnerabilidade e do 
+risco climático, bem como orientar a proposição de medidas de adaptação e a 
+implementação do Plano Nacional de Adaptação; 
+d) Ampliar o número de pessoas qualificadas que tratam de questões referentes à mudança 
+do clima, seus efeitos e medidas de adaptação necessárias para diversos setores do País; 
+e) Reduzir as incertezas sobre impactos das mudanças climáticas nos recursos hídricos do 
+País, contribuindo para aprimorar a planejamento operacional e o gerenciamento da 
+questão; 
+f) Ampliar a pesquisa brasileira sobre recursos hídricos e mudanças climáticas, e adaptação 
+aos impactos das mudanças climáticas atuais e futuras sobre os recursos hídricos do País; 
+g) Aprimorar os dados que subsidiarão a elaboração do Inventário de Emissões e Remoções 
+de Gases de Efeito Estufa do setor uso da terra, mudança do uso da terra e florestas; 
+h) Ampliar o conhecimento científico disponível sobre estoque e fluxo de carbono nos solos 
+na biomassa do Brasil.  
+ 
+  
+                                                       
+ 
+ 
+ 
+2 
+I.1.3 – As propostas devem observar as condições específicas estabelecidas na parte II – 
+REGULAMENTO, anexo a esta Chamada, que determina os requisitos relativos ao proponente, 
+cronograma, recursos financeiros a serem aplicados nas propostas aprovadas, origem dos 
+recursos, itens financiáveis, prazo de execução dos projetos, critérios de elegibilidade, critérios e 
+parâmetros objetivos de julgamento e demais informações necessárias.  
+ 
+I.2 – APRESENTAÇÃO E ENVIO DAS PROPOSTAS 
+I.2.1 – As propostas devem ser acompanhadas de arquivo contendo o projeto e devem ser 
+encaminhadas ao CNPq exclusivamente via Internet, utilizando-se do Formulário de Propostas 
+online, disponível na Plataforma Carlos Chagas, a partir da data indicada no subitem II.1.2 -
+CRONOGRAMA do REGULAMENTO. 
+I.2.2 – As propostas devem ser transmitidas ao CNPq até às 23h59 (vinte e três horas e cinquenta 
+e nove minutos), horário de Brasília, da data limite de submissão das propostas, descrita no 
+subitem II.1.2 - CRONOGRAMA do REGULAMENTO.  
+I.2.2.1 – O atendimento pelo endereço eletrônico atendimento@cnpq.br ou pelo telefone 0800 61 
+9697 encerra-se, impreterivelmente, às 18h30 e esse fato não será aceito como justificativa para 
+envio posterior à data limite. 
+I.2.2.2 – O proponente receberá, após o envio, um recibo eletrônico de protocolo da sua proposta, 
+o qual servirá como comprovante da transmissão. 
+I.2.3 – As propostas devem ser apresentadas em conformidade com o descrito no subitem II.2 -
+CRITÉRIOS DE ELEGIBILIDADE – do REGULAMENTO, contendo rigorosamente todos os itens 
+previstos nesta Chamada.  
+I.2.4 – O arquivo contendo o projeto de pesquisa deve ser gerado fora do Formulário de Propostas 
+online e anexado a este, no formato “pdf”, limitando-se a 1Mb (um megabyte).  
+I.2.5 – Caso seja necessário utilizar figuras, gráficos, etc, para esclarecer a argumentação da 
+proposta, estes não devem comprometer a capacidade do arquivo, pois as propostas que 
+excederem o limite de 1Mb não serão recebidas pelo guichê eletrônico do CNPq. 
+I.2.6 – Não serão aceitas propostas submetidas por qualquer outro meio, tampouco após o prazo 
+final de recebimento estabelecido no subitem I.2.2 acima.  
+I.2.7 – Será aceita uma única proposta por proponente. 
+I.2.8 – Na hipótese de envio de uma segunda proposta pelo mesmo proponente, respeitando-se o 
+prazo limite estipulado para submissão das propostas, esta será considerada substituta da 
+anterior, sendo levada em conta para análise apenas a última proposta recebida. 
+I.2.9 – Constatado o envio de propostas idênticas, serão tomadas as seguintes medidas: 
+a) caso se verifique que as propostas são do mesmo proponente, será considerada somente a 
+última versão enviada por ele; 
+b) se as propostas idênticas forem enviadas por proponentes diferentes, ambas as propostas 
+serão sumariamente desclassificadas. 
+ 
+  
+                                                       
+ 
+ 
+ 
+3 
+I.3 – ADMISSÃO, ANÁLISE E JULGAMENTO 
+A seleção das propostas submetidas ao CNPq, em atendimento a esta Chamada, será realizada 
+por intermédio de análises e avaliações comparativas. Para tanto, são estabelecidas as seguintes 
+etapas: 
+ 
+I.3.1 – Etapa I – Análise pela Área Técnica do CNPq  
+1.3.1.1 – Esta etapa, a ser realizada pela área técnica do CNPq, consiste na análise das 
+propostas apresentadas quanto ao atendimento às disposições estabelecidas nos itens do 
+REGULAMENTO, relativos ao subitem II.1.4 - ITENS FINANCIÁVEIS e subitens II.2.1- QUANTO 
+AO PROPONENTE E EQUIPE DE APOIO e II.2.3 - QUANTO À INSTITUIÇÃO DE EXECUÇÃO, 
+dos CRITÉRIOS DE ELEGIBILIDADE. 
+ 
+I.3.2 – Etapa II – Análise, Julgamento e Classificação pelo Comitê Julgador 
+I.3.2.1 – As propostas serão avaliadas e classificadas nesta etapa considerando a análise da 
+etapa anterior e os CRITÉRIOS DE ELEGIBILIDADE, indicados no subitem II.2.2 - QUANTO À 
+PROPOSTA, e de JULGAMENTO, indicados no subitem II.3, do REGULAMENTO, que serão 
+pontuados pelo Comitê Julgador. 
+I.3.2.2 – A pontuação final de cada projeto será aferida conforme estabelecido no subitem II.3 – 
+CRITÉRIOS PARA JULGAMENTO do REGULAMENTO. 
+I.3.2.3 – Após a análise de mérito e relevância de cada proposta e da adequação de seu 
+orçamento, o Comitê, dentro dos limites orçamentários estipulados pela Diretoria Executiva do 
+CNPq, poderão recomendar: 
+a) aprovação sem cortes orçamentários;  
+b) aprovação com cortes orçamentários, desde que devidamente justificados e não inviabilizem a 
+execução do projeto; ou 
+c) não aprovação.  
+I.3.2.4 – O parecer do Comitê sobre as propostas, dentro dos critérios estabelecidos, será 
+registrado em Planilha Eletrônica, contendo a relação das propostas julgadas, recomendadas e 
+não recomendadas, com as respectivas pontuações finais, em ordem decrescente, assim como 
+outras informações e recomendações julgadas pertinentes. 
+I.3.2.5 – Para propostas recomendadas, será definido o valor a ser financiado pelo CNPq. 
+I.3.2.6 – Todas as propostas avaliadas serão objeto de parecer técnico consubstanciado, 
+contendo as justificativas para a recomendação ou não recomendação. 
+I.3.2.7 – A Planilha Eletrônica será assinada pelos membros do Comitê.  
+I.3.2.8 – Não é permitido integrar o Comitê Julgador o pesquisador que tenha apresentado 
+propostas a esta Chamada ou que participe da equipe do projeto. 
+I.3.2.9 – É vedado aos membros do Comitê: 
+a) julgar processos em que haja conflito de interesses; 
+  
+                                                       
+ 
+ 
+ 
+4 
+b) divulgar, antes do anúncio oficial do CNPq, os resultados de qualquer julgamento; 
+c) fazer cópia de processos; 
+d) discriminar áreas ou linhas de pensamento; 
+e) emitir parecer em recurso contra decisão sua, e 
+f) 
+comportar-se como representante de uma instituição ou de uma região. 
+ 
+I.3.3 – Etapa III – Análise pela Diretoria Executiva (DEX) do CNPq 
+Todas as propostas analisadas pelo Comitê Julgador serão submetidas à apreciação da Diretoria 
+Executiva do CNPq, que emitirá a decisão final sobre sua aprovação, observados os limites 
+orçamentários desta Chamada. 
+ 
+I.4 – RESULTADO DO JULGAMENTO 
+I.4.1 – A relação das propostas aprovadas com recursos financeiros da presente Chamada será 
+divulgada na página eletrônica do CNPq, disponível na Internet no endereço www.cnpq.br e 
+publicada no Diário Oficial da União.  
+I.4.2 – Todos os proponentes da presente Chamada terão acesso ao parecer sobre sua proposta, 
+preservada a identificação dos pareceristas. 
+ 
+I.5 – RECURSOS ADMINISTRATIVOS 
+I.5.1 – Caso o proponente tenha justificativa para contestar o resultado do julgamento das 
+propostas, poderá apresentar recurso em formulário eletrônico específico, disponível na 
+Plataforma Carlos Chagas (http://carloschagas.cnpq.br), no prazo de 10 (dez) dias corridos a partir 
+da publicação dos resultados na página do CNPq e da disponibilização dos pareceres na 
+Plataforma Carlos Chagas, conforme NORMAS RECURSAIS deste Conselho.  
+I.5.2 – O recurso deverá ser dirigido à Comissão Permanente de Análise de Recursos - COPAR 
+que, após exame, encaminhará o resultado para deliberação final da Diretoria Executiva do CNPq. 
+I.5.3 – Na contagem do prazo excluir-se-á o dia do início e incluir-se-á o do vencimento, e 
+considerar-se-ão os dias consecutivos. 
+I.5.4 – O prazo terá início e término em dias de expediente no CNPq.  
+ 
+I.6 – APOIO DAS PROPOSTAS APROVADAS 
+I.6.1 – As propostas aprovadas serão apoiadas na modalidade de Auxílio Individual, em nome do 
+Coordenador/Proponente, mediante assinatura de TERMO DE ACEITAÇÃO DE APOIO 
+FINANCEIRO. 
+  
+                                                       
+ 
+ 
+ 
+5 
+I.6.2 – A firmatura do TERMO DE ACEITAÇÃO ficará subordinada à existência prévia de Acordo 
+de Cooperação Técnica, celebrado entre a instituição de execução do projeto e o CNPq, 
+conforme disposto nas normas deste Conselho. 
+I.6.3 – A existência de alguma inadimplência do proponente com a Administração Pública Federal 
+direta ou indireta constituirá fator impeditivo para a contratação do projeto. 
+I.6.4 – O proponente terá até 90 dias, contados a partir da data do envio da notificação eletrônica 
+do resultado do julgamento pelo CNPq, para implementar o auxílio mediante a assinatura do 
+TERMO DE ACEITAÇÃO. Expirado esse prazo a concessão será cancelada. 
+ 
+I.7 – CANCELAMENTO DA CONCESSÃO 
+A concessão do apoio financeiro poderá ser cancelada pela Diretoria Executiva do CNPq, por 
+ocorrência, durante sua implementação, de fato cuja gravidade justifique o cancelamento, sem 
+prejuízo de outras providências cabíveis em decisão devidamente fundamentada. 
+ 
+I.8 – PUBLICAÇÕES 
+I.8.1 – As publicações científicas e qualquer outro meio de divulgação de projetos de pesquisa 
+apoiados pela presente Chamada deverão citar, obrigatoriamente, o apoio do CNPq, do MCTI e 
+da ANA. 
+ 
+I.8.2 – As AÇÕES PUBLICITÁRIAS atinentes a projetos e obras financiadas com recursos da 
+União deverão observar rigorosamente as disposições que regulam as espécies. 
+ 
+I.9 – IMPUGNAÇÃO DA CHAMADA 
+I.9.1 – Decairá do direito de impugnar os termos desta Chamada o cidadão que não o fizer até o 
+segundo dia útil anterior ao prazo final estabelecido para recebimento das propostas. 
+I.9.2 – Não terá efeito de recurso a impugnação feita por aquele que, em o tendo aceitado sem 
+objeção, venha apontar, posteriormente ao julgamento, eventuais falhas ou imperfeições. 
+I.9.3 – A impugnação deverá ser dirigida à Diretoria Executiva do CNPq, por correspondência 
+eletrônica, para o endereço: presidencia@cnpq.br. 
+ 
+I.10 – REVOGAÇÃO OU ANULAÇÃO DA CHAMADA  
+A qualquer tempo, a presente Chamada poderá ser revogada ou anulada, no todo ou em parte, 
+seja por decisão unilateral da Diretoria Executiva do CNPq, seja por motivo de interesse público 
+ou exigência legal, em decisão fundamentada, sem que isso implique direito a indenização ou 
+reclamação de qualquer natureza. 
+ 
+  
+                                                       
+ 
+ 
+ 
+6 
+I.11 – PERMISSÕES E AUTORIZAÇÕES ESPECIAIS 
+É de exclusiva responsabilidade de cada proponente adotar todas as providências que envolvam 
+permissões e autorizações especiais, de caráter ético, legal ou logístico, necessárias para a 
+execução do projeto. 
+ 
+I.12 – DAS DISPOSIÇÕES GERAIS 
+I.12.1 – A publicação dos artigos científicos resultantes dos projetos apoiados deverá ser 
+realizada, preferencialmente, em revistas de acesso aberto. 
+I.12.2 – Durante a fase de execução do projeto, toda e qualquer comunicação com o CNPq deverá 
+ser feita por meio de correspondência eletrônica à Coordenação do Programa de Pesquisas 
+Oceanográficas e de Impactos Ambientais – COIAM (coiam@cnpq.br). 
+I.12.3 – Qualquer alteração relativa à execução do projeto deverá ser solicitada ao CNPq por seu 
+coordenador, acompanhada da devida justificativa, devendo tal alteração ser autorizada antes de 
+sua efetivação. 
+I.12.4 – Ao final da vigência, o coordenador deverá apresentar a prestação de contas financeira e 
+os relatórios técnicos, em conformidade com o que estiver estabelecido no TERMO DE 
+ACEITAÇÃO e demais normas do CNPq, sob pena de ressarcimento dos valores despendidos 
+pelo CNPq e demais penalidades previstas na legislação de regência. 
+I.12.5 – Durante a execução, o projeto será acompanhado e avaliado, em todas as suas fases, de 
+acordo com o estabelecido no TERMO DE ACEITAÇÃO. 
+I.12.6 – O CNPq reserva-se o direito de, durante a execução do projeto, promover visitas técnicas 
+ou 
+solicitar 
+informações 
+adicionais 
+visando 
+aperfeiçoar 
+o 
+sistema 
+de 
+Avaliação 
+e 
+Acompanhamento. 
+ 
+I.12.7 – Estão previstas até duas reuniões de avaliação e acompanhamento da Chamada, as 
+quais deverão ser realizadas em Brasília (DF), com duração aproximada de 02 (dois) dias cada, 
+sob a coordenação do CNPq, MCTI e ANA. 
+ 
+I.12.8 – As informações geradas com a implementação das propostas selecionadas e 
+disponibilizadas na base de dados do CNPq serão consideradas de acesso público, observadas 
+as disposições abaixo: 
+I.12.8.a) Os projetos submetidos a esta Chamada, bem como quaisquer relatórios técnicos 
+apresentados pelos pesquisadores e/ou bolsistas para o CNPq, que contenham informações 
+sobre os projetos em andamento, terão acesso restrito até o ato decisório referente à aprovação 
+final pelo CNPq. (Lei 12.527/2011 de 18 de novembro de 2011, art 7º, §3º, e Decreto 7.724/2012 
+de 16 de maio de 2012, art 20); 
+I.12.8.b) Aqueles pesquisadores cujos projetos submetidos ao CNPq, aprovados ou não, e/ou 
+seus relatórios técnicos apresentados que possam gerar, no todo ou em parte, resultado 
+potencialmente objeto de Patente de Invenção, Modelo de Utilidade, Desenho Industrial, 
+Programa de Computador ou qualquer outra forma de registro de Propriedade Intelectual e 
+semelhantes deverão manifestar explicitamente o interesse na restrição de acesso na ocasião da 
+submissão do projeto e/ou do envio do relatório técnico. 
+I.12.8.b1) As obrigações de sigilo e restrição de acesso público previstas na cláusula anterior 
+subsistirão pelo prazo de 5 (cinco) anos a partir da solicitação da restrição. 
+  
+                                                       
+ 
+ 
+ 
+7 
+I.12.8.b2) Em que pese a possibilidade de restrição de acesso, esta não reduz, contudo, a 
+responsabilidade que os pesquisadores, suas equipes e instituições têm, como membros da 
+comunidade de pesquisa, de manter, sempre que possível, os resultados da pesquisa, dados e 
+coleções à disposição de outros pesquisadores para fins acadêmicos.  
+I.12.8.c) As partes deverão assegurar que cada um de seus empregados, funcionários, agentes 
+públicos e subcontratadas, que tenham acesso às informações de acesso restrito, tenham 
+concordado em cumprir as obrigações de restrição de acesso à informação. 
+ I.12.8.d) O CNPq disponibilizará, a seu critério, as informações primárias de todos os projetos, 
+tais como: título, resumo, objeto, proponente(s), instituições executoras e recursos aplicados pelo 
+órgão. 
+I.12.9 – Caso os resultados do projeto ou o relatório em si venham a ter valor comercial ou 
+possam levar ao desenvolvimento de um produto ou método envolvendo o estabelecimento de 
+uma patente, a troca de informações e a reserva dos direitos, em cada caso, dar-se-ão de acordo 
+com o estabelecido na Lei de Inovação (Lei nº 10.973 de 02 de dezembro de 2004), 
+regulamentada pelo Decreto 5.563, de 11 de outubro de 2005, na a Lei de Propriedade Industrial 
+(Lei nº 9.279, de 14 de maio de 1996) e pelas normas internas do CNPq que regulam a matéria. 
+ 
+I.12.10 – Os projetos de pesquisa que vierem a ser contratados pela presente Chamada deverão 
+fornecer os dados gerados a partir das pesquisas, bem como os metadados a eles associados, 
+para disponibilização em sistemas de informações públicos como o Sistema de Informação sobre 
+a Biodiversidade Brasileira (SiBBr) e o Sistema Nacional de Informações sobre Recursos Hídricos 
+(SNIRH). 
+ 
+I.12.11 – Os projetos de pesquisa apoiados pela presente Chamada que gerarem conhecimentos 
+sobre os impactos da mudança do clima sobre os sistemas naturais e humanos deverão também 
+fornecer seus dados, bem como propor indicadores ou índices de monitoramento desses 
+impactos, para o Sistema de Monitoramento e Observação dos Impactos da Mudança do Clima 
+(SISMOI) que encontra-se em fase de desenvolvimento pelo MCTI e que visa disponibilizar à 
+sociedade informações que apoiarão a tomada de decisão sobre políticas públicas de adaptação e 
+investimentos destinados a aumentar a resiliência dos sistemas sociais e ambientais. 
+I.12.12 – A presente Chamada regula-se pelos preceitos de direito público inseridos no caput do 
+artigo 37 da Constituição Federal, pelas disposições da Lei nº 8.666/93, no que couber, e, em 
+especial, pelas normas internas do CNPq. 
+I.12.13 – OS ESCLARECIMENTOS E AS INFORMAÇÕES ADICIONAIS ACERCA DO 
+CONTEÚDO DA CHAMADA E PREENCHIMENTO DO FORMULÁRIO DE PROPOSTA ONLINE, 
+BEM COMO A LEGISLAÇÃO QUE REGULA ESTA CHAMADA, PODERÃO SER OBTIDOS 
+NOS ITENS II.5 e II.6 DO REGULAMENTO, RESPECTIVAMENTE. 
+ 
+I.13 – CLÁUSULA DE RESERVA 
+A Diretoria Executiva do CNPq reserva-se o direito de resolver os casos omissos e as situações 
+não previstas na presente Chamada. 
+ 
+Brasília, 09 de outubro de 2015. 
+  
+                                                       
+ 
+ 
+ 
+8 
+Chamada MCTI/CNPq/ANA N º 23/2015 – Pesquisa em Mudança do 
+Clima 
+ 
+II - REGULAMENTO 
+ 
+O presente REGULAMENTO tem por finalidade definir as atividades a serem apoiadas 
+financeiramente e as condições para implementação do apoio, mediante a seleção, por Chamada, 
+de propostas para execução de projetos. 
+ 
+II.1 – DAS DISPOSIÇÕES ESPECÍFICAS  
+II.1.1 – DO OBJETO 
+Apoiar projetos de pesquisas científicas, tecnológicas e de inovação que visem a contribuir para 
+melhorar a capacidade brasileira de mitigação e adaptação às mudanças climáticas atuais e 
+futuras, gerando: i) modelos numéricos atmosféricos e hidrológicos em escala local e regional; ii) 
+conhecimentos sobre os impactos da mudança do clima sobre os sistemas naturais e humanos; 
+iii) conhecimentos sobre medidas de adaptação com ênfase em recursos hídricos e usos da água; 
+e iv) conhecimentos sobre os estoques e fluxos de carbono no solo e na vegetação do Brasil. 
+ 
+ 
+II.1.1.1 – DAS LINHAS TEMÁTICAS 
+A presente Chamada contemplará projetos de pesquisa e de desenvolvimento tecnológico 
+e de inovação nas seguintes linhas temáticas: 
+ 
+Linha 1: Previsão e avaliação dos impactos associados à mudança do clima, especialmente 
+na disponibilidade hídrica e de seus reflexos para a segurança alimentar e energética do 
+Brasil: 
+1.1. Regionalização de modelos globais climáticos na escala espacial mais fina possível para 
+estudos de impacto nos setores naturais e humanos, especialmente em recursos hídricos; 
+1.2. Desenvolvimento de modelos hidrológicos que incorporem questões de mudança do clima 
+e de uso da terra;  
+1.3. Desenvolvimento e aplicação de metodologias de incorporação dos resultados de 
+projeções climáticas regionais a modelos hidrológicos; 
+1.4. Análise de dados históricos para detecção de alterações de tendências hidrológicas e 
+identificação de impactos associados à mudança do clima sobre os recursos hídricos, 
+especialmente eventos prolongados ou intensos de seca e inundação; 
+1.5. Modelagem de impactos futuros – desenvolvimento de projeções de impactos futuros, 
+potenciais ou residuais, a partir de modelos climáticos ou de modelos socioeconômicos, 
+considerando: 
+  
+                                                       
+ 
+ 
+ 
+9 
+1.5.1. as projeções de clima existentes geradas por modelos globais e regionais 
+disponíveis para o tempo presente – 1961-2005 – e o futuro – 2010-40, 2041-70 (no 
+mínimo) e 2071-2100 (se possível);  
+1.5.2. os cenários de níveis de emissão de gases de efeito estufa RCP 4.5 e RCP 8.5, e 
+RCP 
+2.6 
+e 
+RCP 
+6.0 
+se 
+disponíveis. 
+(AR5 
+IPCC, 
+2013 
+- 
+http://www.ipcc.ch/report/ar5/wg1). 
+1.6. Identificação e análise de riscos e possíveis oportunidades potenciais para a 
+disponibilidade hídrica e seus reflexos para a segurança alimentar e energética no Brasil 
+resultantes da mudança do clima; 
+1.7. Identificação de indicadores ou índices potenciais para o monitoramento dos impactos 
+observados ou esperados para serem utilizados no Sistema de Observação dos Impactos 
+da Mudança do Clima; 
+1.8. Desenvolvimento de técnicas, tecnologias e instrumentos de adaptação aos impactos de 
+mudanças climáticas adequados a diferentes regiões e setores usuários da água; e 
+1.9. Análise dos instrumentos de gerenciamento de recursos hídricos tendo em vista sua 
+contribuição para a adaptação aos impactos de mudanças climáticas, visando a garantir a 
+segurança hídrica, energética e alimentar do país: implicações no planejamento, na 
+alocação, nas instituições e nos mecanismos econômicos, entre outros. 
+ 
+Linha 2: Análise dos impactos associados à mudança do clima em outros setores e sobre 
+povos e comunidades vulneráveis: 
+2.1. Projetos de pesquisas nas áreas de biodiversidade e ecossistemas (zonas costeiras e 
+oceanos), áreas urbanas e rurais, desastres naturais, indústria, saúde humana, povos e 
+populações vulneráveis visando à: 
+2.1.1. Análise de dados para detecção de tendências e atribuição de impactos associados 
+à mudança do clima; 
+2.1.2. Modelagem de impactos futuros – desenvolvimento de projeções de impactos 
+futuros, potenciais ou residuais, a partir de modelos climáticos ou de modelos 
+socioeconômicos, considerando: 
+2.1.2.1. 
+as projeções de clima existentes geradas por modelos globais e regionais 
+disponíveis para o tempo presente 1961-2005 e futuro 2010-40, 2041-70 (no 
+mínimo) e 2071-2100 (se possível); 
+2.1.2.2. 
+os cenários de níveis de emissão de gases de efeito estufa RCP 4.5 e RCP 
+8.5, e RCP 2.6 e RCP 6.0 se disponíveis (AR5 IPCC, 2013 - 
+http://www.ipcc.ch/report/ar5/wg1). 
+2.1.3. 
+Identificação e análise de riscos e possíveis oportunidades aos sistemas humanos 
+e naturais advindos da mudança do clima; 
+2.1.4. 
+Identificação de indicadores ou índices potenciais para o monitoramento dos 
+impactos observados ou esperados, considerando diferentes escalas espaciais e 
+temporais, para serem utilizados no Sistema de Observação dos Impactos da Mudança 
+do Clima; 
+2.1.5. 
+Análise da relação entre o custo das medidas adaptativas a serem implementadas 
+nas áreas vulneráveis e os custos evitados pela prevenção dos impactos observados ou 
+esperados. 
+  
+                                                       
+ 
+ 
+ 
+10 
+Linha 3: Análise dos estoques e fluxos de carbono no solo e na vegetação do Brasil: 
+3.1. Desenvolvimento de estratégias de mapeamento e monitoramento dos estoques (solos e 
+vegetação) e fluxos de carbono (dinâmica temporal dos estoques de carbono) nos biomas 
+Cerrado, Caatinga, Pantanal ou Mata Atlântica; 
+3.2. 
+Aprimoramento da quantificação dos diferentes compartimentos ecossistêmicos de 
+carbono considerando as variações fitofisionômicas dos diferentes biomas e variações de 
+estágios sucessionais pós-distúrbios (degradação e regeneração florestal); 
+3.3. 
+Avaliação da integração de medidas de campo com análises por sensores remotos. 
+ 
+II.1.1.2 – DOS RESULTADOS ESPERADOS 
+De maneira geral, espera-se aumento da capacidade técnico-científica do Brasil em áreas 
+científicas e tecnológicas de grande relevância com relação à mitigação e à adaptação aos 
+impactos das mudanças climáticas em curso, e às futuras, visando maior proteção da vida e da 
+economia do País. Especificamente, os resultados esperados são: 
+ 
+• 
+Melhoria da previsão e da análise de impactos da mudança do clima; 
+• 
+Melhoria na capacidade brasileira de prever os impactos futuros das mudanças 
+climáticas e dos extremos hidrometeorológicos sobre os recursos hídricos, inclusive o 
+impacto de secas extremas, e o desenvolvimento de ferramentas auxiliares para o 
+planejamento do setor produtivo;  
+• 
+Identificação e análise dos impactos da mudança do clima, observados e 
+esperados, nos setores de agropecuária, biodiversidade e ecossistemas, centros urbanos 
+e rurais, desastres naturais, energia, indústria, saúde humana, zonas costeiras e oceanos, 
+além dos efeitos da mudança do clima sobre povos e comunidades vulneráveis; 
+• 
+Identificação de riscos e oportunidades potenciais aos sistemas naturais e 
+humanos, especialmente no setor de recursos hídricos; 
+• 
+Identificação de indicadores ou índices potenciais para o monitoramento dos 
+impactos observados ou esperados; 
+• 
+Melhoria da qualidade e confiabilidade dos estudos brasileiros sobre impactos da 
+mudança do clima; 
+• 
+Disponibilização dos dados gerados pelos projetos apoiados em bases de dados 
+públicas; 
+• 
+Identificação de bancos de dados que devem vir a ser considerados durante o 
+desenvolvimento do Sistema de Observação e Monitoramento dos Impactos da Mudança 
+do Clima; 
+• 
+Regionalização dos valores de estoque de carbono no solo e na vegetação dos 
+biomas Cerrado, Caatinga, Pantanal ou Mata Atlântica; 
+• 
+Quantificação de carbono para as diferentes fitofisionomias e variações de estágios 
+sucessionais pós-distúrbios de acordo com o bioma; 
+• 
+Análise comparativa da integração das medidas de campo com as análises por 
+sensoriamento remoto. 
+ 
+  
+                                                       
+ 
+ 
+ 
+11 
+II.1.1.3 – CONSIDERAÇÕES GERAIS 
+ 
+II.1.1.3.1 – O proponente poderá apresentar um único projeto e para apenas uma das três Linhas 
+Temáticas descritas no item II.1.1.1, sendo facultada sua participação em mais de uma proposta 
+na condição de pesquisador colaborador. 
+ 
+II.1.1.3.2 – Os projetos deverão utilizar a escala espacial mais adequada à gestão dos recursos 
+hídricos ou à implementação de medidas de adaptação. 
+ 
+II.1.1.3.3 – A Política Nacional sobre Mudança do Clima (PNMC) definiu a Rede Brasileira de 
+Pesquisas sobre Mudanças Climáticas Globais - Rede CLIMA (http://redeclima.ccst.inpe.br/) como 
+um de seus instrumentos de atuação. Neste sentido, incentiva-se que, durante a execução, os 
+projetos aprovados busquem desenvolver colaborações com as sub-redes associadas à Rede 
+CLIMA. Essas colaborações podem incluir a realização de reuniões e workshops entre os 
+coordenadores dos projetos apoiados e os líderes das sub-redes. 
+ 
+II.1.2 – CRONOGRAMA 
+Atividades 
+Data 
+Lançamento da Chamada no Diário Oficial da União e na página do CNPq 
+09/10/2015 
+Data limite para submissão das propostas 
+23/11/2015 
+Divulgação dos resultados no Diário Oficial da União e na página do CNPq na internet 
+A partir de 
+dezembro de 2015 
+Apoio às propostas aprovadas 
+A partir de 
+dezembro de 2015 
+ 
+II.1.3 – RECURSOS FINANCEIROS 
+ 
+II.1.3.1 – As propostas aprovadas serão financiadas com recursos no valor global estimado de R$ 
+6.728.753,03 (seis milhões, setecentos e vinte e oito mil reais e três centavos), sendo R$ 
+4.052.457,00 (quatro milhões, cinqüenta e dois mil e quatrocentos e cinqüenta e sete reais) 
+provenientes da ANA e R$ 2.676.296,03 (dois milhões, seiscentos e setenta e seis mil, duzentos e 
+noventa e seis reais e três centavos) do MCTI.  
+ 
+II.1.3.2 – Os recursos serão liberados em uma única parcela, a depender da transferência 
+orçamentária e financeira da ANA e MCTI ao CNPq.  
+II.1.3.3 – Para cada Linha Temática prevista nesta Chamada serão destinados os valores 
+máximos por rubrica discriminados abaixo: 
+ 
+ 
+ 
+  
+                                                       
+ 
+ 
+ 
+12 
+LINHA TEMÁTICA 
+RECURSOS 
+FONTE 
+Linha1 
+R$ 2.662.457,00 (Custeio/Bolsas) 
+R$ 1.390.000,00 (Capital) 
+ANA 
+Linha 2 
+R$ 1.599.553,75 (Custeio/Bolsas) 
+R$ 465.701,00 (Capital) 
+MCTI 
+Linha 3 
+R$ 611.041,28 (Custeio/Bolsas) 
+MCTI 
+ 
+II.1.3.4 – As propostas submetidas para a Linha Temática 1 terão o valor máximo de 
+financiamento de R$ 800.000,00 (oitocentos mil reais) e para as Linhas Temáticas 2 e 3 terão 
+valor máximo de financiamento de R$ 400.000,00 (quatrocentos mil reais). 
+ 
+II.1.4 – ITENS FINANCIÁVEIS 
+II.1.4.1 – Os recursos da presente Chamada serão destinados ao financiamento de itens de 
+custeio, capital e bolsas para as Linhas Temáticas 1 e 2, e somente de custeio e bolsas para a 
+Linha Temática 3. Esses itens serão incluídos, automaticamente, no Formulário de Propostas 
+online, no orçamento do projeto, compreendendo: 
+ 
+II.1.4.1.1 – CUSTEIO: 
+a) material de consumo, componentes e/ou peças de reposição de equipamentos, software, 
+instalação, recuperação e manutenção de equipamentos; 
+b) serviços de terceiros – pagamento integral ou parcial de contratos de manutenção e serviços de 
+terceiros, pessoa física ou jurídica, de caráter eventual; 
+c) despesas acessórias, especialmente as de importação e as de instalações necessárias ao 
+adequado funcionamento dos equipamentos (ver subitem II.1.4.4); 
+d) passagens e diárias, de acordo com as Tabelas de Valores de Diárias para Auxílios Individuais 
+e Bolsas de Curta Duração. 
+ 
+II.1.4.1.1.1 – Cada proponente deve prever em seu orçamento, na rubrica de Custeio (passagens 
+e diárias), recursos para permitir sua participação, como coordenador de projeto, em reuniões de 
+acompanhamento e avaliação desta Chamada, as quais deverão ser realizadas em Brasília (DF), 
+sob a coordenação do CNPq, MCTI e ANA. Estão previstas até duas reuniões de 
+acompanhamento e avaliação da Chamada, com duração aproximada de 02 (dois) dias cada. 
+ 
+II.1.4.1.1.2 – Qualquer pagamento à pessoa física deve ser realizado de acordo com a legislação 
+em vigor, de forma a não estabelecer vínculo empregatício. 
+II.1.4.1.1.3 – A mão-de-obra empregada na execução do projeto não terá vínculo de qualquer 
+natureza com o CNPq e deste não poderá demandar quaisquer pagamentos, permanecendo na 
+exclusiva responsabilidade do Coordenador/Instituição de execução do projeto. 
+  
+                                                       
+ 
+ 
+ 
+13 
+II.1.4.1.1.4 – O valor total solicitado para os itens de custeio descritos nas alíneas “a” a “c” 
+deverão ser incluídos no campo “custeio” do Formulário de Propostas online. 
+II.1.4.1.1.5 – Os valores de passagens e diárias deverão ser incluídos em campos do mesmo 
+nome do referido formulário, seguindo as instruções lá contidas. 
+ 
+II.1.4.1.2 – CAPITAL (Financiável apenas para as Linhas Temáticas 1 e 2): 
+a) equipamentos e material permanente; 
+b)  material bibliográfico. 
+II.1.4.1.2.1 – Os itens de capital serão alocados na instituição de execução do projeto sob a 
+responsabilidade, manutenção e guarda do Coordenador/Instituição de execução do projeto. 
+ 
+II.1.4.1.3 – BOLSAS 
+II.1.4.1.3.1 – Serão concedidas bolsas nas modalidades Iniciação Tecnológica e Industrial - ITI, 
+Apoio Técnico em Extensão no País – ATP, Desenvolvimento Tecnológico e Industrial – DTI, 
+Extensão no País – EXP e Especialista Visitante - EV. 
+II.1.4.1.3.2 – A implementação das bolsas deverá ser realizada dentro dos prazos e critérios 
+estipulados para cada uma dessas modalidades, que estão indicadas no endereço 
+http://www.cnpq.br/bolsas/index.htm. 
+II.1.4.1.3.3 – A duração das bolsas não poderá ultrapassar o prazo de execução do projeto. 
+II.1.4.1.3.4 – As bolsas não poderão ser utilizadas para pagamento de prestação de serviços, uma 
+vez que tal utilização estaria em desacordo com a finalidade das bolsas do CNPq. 
+II.1.4.1.3.5 – As bolsas não poderão ser concedidas a coordenadores de projetos. 
+II.1.4.1.3.6 – Caberá ao coordenador fazer as indicações dos bolsistas tão logo seja assinado o 
+Termo de Aceitação de Apoio Financeiro.  
+ 
+II.1.4.2 – São vedadas despesas com: 
+a) crachás, pastas e similares, certificados, ornamentação, coquetel, jantares, shows ou 
+manifestações artísticas de qualquer natureza; 
+b) despesas de rotina como contas de luz, água, telefone, correios, reprografia e similares, 
+entendidas como despesas de contrapartida obrigatória da instituição de execução do projeto; 
+c) pagamento de taxas de administração, de gerência, a qualquer título; 
+d) obras civis (ressalvadas as obras com instalações e adaptações necessárias ao adequado 
+funcionamento de equipamentos, as quais deverão ser justificadas no orçamento detalhado 
+da proposta - subitem II.2.2), entendidas como de contrapartida obrigatória da instituição de 
+execução do projeto; 
+  
+                                                       
+ 
+ 
+ 
+14 
+e) aquisição de veículos automotores, locação e despesas com combustíveis de qualquer 
+natureza; 
+f) 
+pagamento de salários ou complementação salarial de pessoal técnico e administrativo ou 
+quaisquer outras vantagens para pessoal de instituições públicas (federal, estadual e 
+municipal); 
+g) pagamento, a qualquer título, a agente público da ativa por serviços prestados, inclusive 
+consultoria, assistência técnica ou assemelhados, à conta de quaisquer fontes de recursos; 
+h) pagamento, a qualquer título, a empresas privadas que tenham em seu quadro societário 
+servidor público da ativa, ou empregado de empresa pública ou de sociedade de economia 
+mista, por serviços prestados, inclusive consultoria, assistência técnica ou assemelhados. 
+II.1.4.2.1 – As demais despesas deverão ser de responsabilidade do proponente/instituição de 
+execução do projeto, a título de contrapartida. 
+II.1.4.3 – Para contratação ou aquisição de bens e serviços deverão ser observados os princípios 
+constitucionais e legais, bem como as normas do CNPq de PRESTAÇÃO DE CONTAS. 
+II.1.4.4 – Quando aplicável, a proposta deve incluir as despesas acessórias decorrentes da 
+importação de equipamentos, material permanente e material de consumo, na razão de até 18% 
+(dezoito por cento) do montante previsto para tais gastos. 
+II.1.4.5 – O CNPq não responde pela suplementação de recursos para fazer frente a despesas 
+decorrentes de quaisquer fatores externos ao seu controle, como flutuação cambial. 
+ 
+II.1.5 – PRAZO DE EXECUÇÃO DOS PROJETOS 
+II.1.5.1 – As propostas a serem apoiadas pela presente Chamada deverão ter seu prazo máximo 
+de execução estabelecido em 24 (vinte e quatro) meses. 
+II.1.5.2 – Excepcionalmente, o prazo de execução dos projetos poderá ser prorrogado, mediante 
+pedido fundamentado do coordenador, que justifique a prorrogação pleiteada, e aceito pelo CNPq. 
+ 
+II.2 – CRITÉRIOS DE ELEGIBILIDADE  
+a) Os critérios de elegibilidade indicados abaixo são obrigatórios. 
+b) O atendimento aos mesmos é considerado imprescindível para o exame da proposta, seu 
+enquadramento, análise e julgamento.  
+c) A ausência ou insuficiência de informações sobre quaisquer deles poderá resultar na 
+desclassificação da proposta. 
+ 
+II.2.1 – QUANTO AO PROPONENTE E EQUIPE DE APOIO: 
+II.2.1.1 – O proponente, responsável pela apresentação da proposta, deve atender, 
+obrigatoriamente, aos itens abaixo: 
+  
+                                                       
+ 
+ 
+ 
+15 
+a) possuir o título de doutor e ter seu currículo cadastrado na Plataforma Lattes, atualizado até a 
+data limite para submissão da proposta; 
+b) ser obrigatoriamente o coordenador do projeto; 
+c) ter vínculo formal com a instituição de execução do projeto. Vínculo formal é entendido como 
+toda e qualquer forma de vinculação existente entre o proponente, pessoa física, e a instituição de 
+execução do projeto. Na inexistência de vínculo empregatício ou funcional, o vínculo estará 
+caracterizado por meio de documento oficial que comprove haver concordância entre o 
+proponente e a instituição de execução do projeto para o desenvolvimento da atividade de 
+pesquisa e/ou ensino, documento esse expedido por autoridade competente da instituição. Esse 
+documento deve ficar em poder do proponente, não sendo necessária a remessa ao CNPq.  
+ 
+II.2.1.2 – O proponente deve, preferencialmente, liderar ou integrar grupos de pesquisa 
+multidisciplinares nas áreas do conhecimento contempladas na Chamada. 
+II.2.1.3 – Ao apresentar a proposta, o proponente assume o compromisso de manter, durante a 
+execução do projeto, todas as condições de qualificação, habilitação e idoneidade necessárias ao 
+perfeito cumprimento do seu objeto, preservando atualizados os seus dados cadastrais juntos aos 
+registros competentes. 
+II.2.1.4 – A equipe técnica poderá ser constituída por pesquisadores, alunos e técnicos. Outros 
+profissionais poderão integrar a equipe na qualidade de colaboradores. 
+II.2.1.5 – Somente deverão ser incluídos na equipe do projeto aqueles que tenham prestado 
+anuência formal escrita, a qual deve ser mantida sob a guarda do Coordenador do projeto. 
+II.2.1.6 – É obrigatório que os membros da equipe técnica caracterizados como pesquisadores 
+tenham seus currículos cadastrados na Plataforma Lattes. Essa exigência não se aplica a 
+pesquisadores estrangeiros. 
+ 
+II.2.2 – QUANTO À PROPOSTA: 
+II.2.2.1 – O projeto deve estar claramente caracterizado como de pesquisa científica, tecnológica 
+ou de inovação. 
+II.2.2.2 – As propostas deverão ser apresentadas em língua portuguesa e na forma de projeto de 
+pesquisa. Recomenda-se que este projeto apresente as seguintes informações, de forma a 
+permitir sua adequada análise por parte do Comitê Julgador: 
+a)   identificação da proposta; 
+b)   qualificação do principal problema a ser abordado; 
+c) objetivos e metas a serem alcançados; 
+d) indicadores de acompanhamento; 
+e) metodologia a ser empregada; 
+f)    principais contribuições científicas, tecnológicas ou de inovação da proposta; 
+g)   orçamento detalhado, bem como justificativa para os referidos gastos; 
+h)   cronograma físico-financeiro; 
+  
+                                                       
+ 
+ 
+ 
+16 
+i)    identificação de todos os participantes do projeto (equipe do projeto); 
+j)   grau de interesse e comprometimento de empresas com o escopo da proposta, quando for o 
+caso; 
+k)  indicação de colaborações ou parcerias já estabelecidas com outros centros de pesquisa na 
+área; 
+l)    disponibilidade efetiva de infraestrutura e de apoio técnico para o desenvolvimento do projeto; 
+m) estimativa dos recursos financeiros de outras fontes que serão aportados pelos eventuais 
+Agentes Públicos e Privados parceiros; e 
+n)   principais referências bibliográficas. 
+ 
+II.2.3 – QUANTO À INSTITUIÇÃO DE EXECUÇÃO:  
+II.2.3.1 – A instituição de execução do projeto é aquela onde será desenvolvido o projeto de 
+pesquisa e com a qual o proponente deve apresentar vínculo e será doravante denominada 
+“Instituição de Execução do Projeto”, podendo ser: 
+a) instituição de ensino superior, pública ou privada sem fins lucrativos; 
+b) instituto e centro de pesquisa e desenvolvimento, público ou privado sem fins lucrativos; 
+c) empresa pública, que execute atividades de pesquisa em Ciência, Tecnologia ou Inovação. 
+II.2.3.1.1 – A instituição de execução do projeto deverá ser constituída sob as leis brasileiras e ter 
+sua sede e administração no País. 
+ 
+II.3 – CRITÉRIOS PARA JULGAMENTO 
+ 
+II.3.1 – São os seguintes os critérios para classificação das propostas quanto ao mérito técnico-
+científico e sua adequação orçamentária:  
+ 
+Critérios de análise e julgamento 
+Peso 
+Nota 
+A 
+mérito, originalidade e relevância do projeto para o 
+desenvolvimento científico, tecnológico e de inovação 
+do País nas Linhas Temáticas da presente Chamada, 
+contribuindo para o alcance dos resultados esperados 
+neste certame 
+3 
+0 a 10 
+  
+                                                       
+ 
+ 
+ 
+17 
+B 
+coerência entre objetivos, metodologia, resultados 
+esperados e cronograma de execução 
+2 
+0 a 10 
+C 
+experiência prévia do coordenador na área do projeto 
+de pesquisa, considerando sua produção científica ou 
+tecnológica e sua liderança ou participação em grupos 
+de pesquisas multidisciplinares. 
+2 
+0 a 10 
+D 
+existência de parcerias inter e multiinstitucionais 
+2 
+0 a 10 
+E 
+Coerência e adequação entre a capacitação e a 
+experiência da equipe do projeto aos objetivos, 
+atividades e metas propostos. 
+1 
+0 a 10 
+F 
+adequação do orçamento aos objetivos, atividades e 
+metas propostas 
+1 
+0 a 10 
+G 
+Caráter multidisciplinar do projeto 
+1 
+0 a 10 
+ 
+II.3.2 – Para estipulação das notas poderão ser utilizadas até duas casas decimais. 
+II.3.3 – A pontuação final de cada projeto será aferida pela média ponderada das notas atribuídas 
+para cada item. 
+II.3.4. Será considerado como critério de desempate a maior pontuação obtida pela proposta no 
+somatório dos itens A, B, C e G. 
+ 
+II.4 – AVALIAÇÃO FINAL/PRESTAÇÃO DE CONTAS 
+II.4.1 – O Coordenador do projeto deverá encaminhar em Formulário online específico, no prazo 
+de até 60 (sessenta) dias após o término da vigência do projeto, em conformidade com o TERMO 
+DE ACEITAÇÃO e demais normas do CNPq: 
+II.4.1.1 – A prestação de contas financeira, com apresentação de comprovantes de despesas, em 
+conformidade com as normas de PRESTAÇÃO DE CONTAS disponíveis no endereço eletrônico 
+http://www.cnpq.br/web/guest/prestacao-de-contas1. 
+II.4.1.2 – O relatório técnico final, com detalhamento de todas as atividades desenvolvidas durante 
+a execução do projeto e o registro de todas as ocorrências que afetaram o seu desenvolvimento. 
+II.4.2 – Quando solicitado pelo CNPq, o Coordenador deverá preencher formulário de avaliação e 
+acompanhamento do projeto de pesquisa aprovado. 
+  
+                                                       
+ 
+ 
+ 
+18 
+ 
+II.5 – ESCLARECIMENTOS E INFORMAÇÕES ADICIONAIS ACERCA DO CONTEÚDO DA 
+CHAMADA E PREENCHIMENTO DO FORMULÁRIO DE PROPOSTA ONLINE E LEGISLAÇÃO 
+II.5.1 – Esclarecimentos e informações adicionais acerca do conteúdo desta Chamada podem ser 
+obtidos encaminhando mensagem para o endereço: chamada23-2015@cnpq.br. 
+II.5.2 – O atendimento a proponentes com dificuldades técnicas no preenchimento do Formulário 
+de Propostas será feito pelo endereço eletrônico atendimento@cnpq.br. 
+II.5.3 – No caso de dúvidas ou dificuldades no preenchimento dos itens do Formulário de 
+Propostas, o atendimento será realizado pelo telefone 0800.61.9697, de segunda a sexta-feira, no 
+horário de 8h30 às 18h30. 
+ 
+II.6 – DAS LEGISLAÇÕES MENCIONADAS: 
+ 
+ 
+TERMO 
+DISPOSITIVOS e LEGISLAÇÃO 
+AÇÕES PUBLICITÁRIAS 
+Caput e parágrafo 1º do art. 37 da Constituição Federal 
+http://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm 
+ 
+IN/SECOM-PR n° 02 de 16 de dezembro de 2009 
+http://www.secom.gov.br/sobre-a-secom/institucional/legislacao/instrucoes-
+normativas 
+AUXÍLIOS INDIVIDUAIS 
+ 
+RN 017/2011 
+http://www.cnpq.br/web/guest/view/-
+/journal_content/56_INSTANCE_0oED/10157/25480 
+LEI DE LICITAÇÕES 
+Lei nº 8.666/1993 
+http://www.planalto.gov.br/ccivil_03/leis/l8666cons.htm 
+INOVAÇÃO 
+Lei nº 10.973/2004 
+http://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Lei/L10.973.htm 
+LDO 
+Lei nº 13.080, de 02 de janeiro de 2015 
+http://www.planalto.gov.br/CCIVIL_03/_Ato2015- 
+2018/2015/Lei/L13080.htm 
+PROPRIEDADE 
+INTELECTUAL 
+RN-013/2008 
+http://www.cnpq.br/web/guest/view/-
+/journal_content/56_INSTANCE_0oED/10157/24829 
+NORMAS 
+ESPECÍFICAS 
+DE BOLSAS 
+RN-015/2010 
+http://www.cnpq.br/view/-
+/journal_content/56_INSTANCE_0oED/10157/25314#rn1510dti 
+http://www.cnpq.br/view/-
+/journal_content/56_INSTANCE_0oED/10157/25314#rn1510iti 
+http://www.cnpq.br/view/-
+/journal_content/56_INSTANCE_0oED/10157/25314#rn1510exp 
+http://www.cnpq.br/view/-
+/journal_content/56_INSTANCE_0oED/10157/25314#rn1510atp 
+http://www.cnpq.br/view/-
+/journal_content/56_INSTANCE_0oED/10157/25314#rn1510ev 
+NORMAS RECURSAIS 
+RN-049/2014 
+http://cnpq.br/web/guest/view/- 
+/journal_content/56_INSTANCE_0oED/10157/2339316?COMPANY_ID 
+=10132 
+  
+                                                       
+ 
+ 
+ 
+19 
+PRINCIPIOS 
+CONSTITUCIONAIS 
+ 
+Caput e parágrafo 1º do art. 37 da Constituição Federal 
+http://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm 
+ RITO PROCESSUAL   
+ 
+LEI nº 9.784/1999, Art. 2º 
+http://www.planalto.gov.br/ccivil_03/Leis/L9784.htm   
+TERMO DE ACEITAÇÃO, 
+CONDIÇÕES GERAIS E 
+MANUAL DE 
+UTILIZAÇÃO DE 
+RECURSOS 
+FINANCEIROS E 
+PRESTAÇÃO DE 
+CONTAS 
+RN-018/2011 que revoga a RN-024/2006 
+http://www.cnpq.br/web/guest/view/-
+/journal_content/56_INSTANCE_0oED/10157/25465 
+ 
+II.7 – COORDENAÇÂO RESPONSÁVEL PELA CHAMADA 
+A Coordenação responsável pelo acompanhamento da presente Chamada é a Coordenação do 
+Programa de Pesquisas Oceanográficas e de Impactos Ambientais – COIAM. 
+ 
+ANEXO I – Modelo Estruturado 
+ 

@@ -1,0 +1,455 @@
+ 
+Propuesta de proyecto de investigación 
+SOUTHTRAC “Transport and Composition of the Southern Hemisphere Upper Troposphere and 
+Lower Stratosphere” 
+(Transporte y composición de la troposfera superior y estratosfera inferior en el hemisferio sur) 
+ 
+Un proyecto de investigación en el campo de las ciencias atmosféricas, utilizando la aeronave 
+alemana de investigación HALO en Argentina y Chile  
+ 
+ 
+1. Proyecto de investigación "SOUTHTRAC“ – Introducción  
+El proyecto de investigación "Transport and Composition of the Southern Hemisphere Upper 
+Troposphere and Lower Stratosphere (SOUTHTRAC)“ (Transporte y composición de la troposfera 
+superior y de la estratosfera inferior en el Hemisferio Sur) tiene como objetivo investigar el papel 
+de los procesos atmosféricos tanto dinámicos como químicos en la troposfera superior y la 
+estratosfera inferior (UTLS), así como en la atmósfera central del hemisferio sur, mediante el uso de 
+observaciones atmosféricas realizadas desde la Aeronave Alemana de Investigación de Gran Altitud 
+y Largo Alcance "HALO". La aeronave de investigación HALO se basa en una aeronave de reacción 
+tipo avión de negocios Gulfstream 550, capaz de alcanzar altitudes de vuelo de hasta 15 km. Llevará 
+a bordo una serie de instrumentos científicos especiales ofrecidos por varios grupos de investigación 
+alemanes. Los vuelos de investigación se centrarán en realizar mediciones en la banda de altitud 
+situada aproximadamente entre los 7 km y los 80 km, que se llevarán a cabo en el espacio aéreo de 
+Argentina y Chile, para cumplir con los objetivos científicos del proyecto. Se ha programado una 
+campaña de mediciones de campo de la aeronave para el período comprendido entre los meses de 
+septiembre y noviembre de 2019. La estrategia para los vuelos y el análisis de los datos serán 
+aportados por diferentes modelos numéricos de la atmósfera.  
+En los siguientes apartados de esta propuesta se detallan los antecedentes científicos (apartado 8), 
+proyectos anteriores relacionados con esta propuesta (apartado 10) y los métodos de medición 
+(apartado 9) que utiliza la aeronave HALO.  
+Los detalles del consorcio del proyecto, la definición temporal del experimento de campo, las 
+especificaciones de la aeronave se encuentran especificados entre los apartados 2 y 6. En el 
+apartado 7 se ilustra la amplia área geográfica destinada a las mediciones, así como las típicas rutas 
+de vuelo ejemplares que se requieren para poder realizar la investigación.  
+ 
+2. Definición del marco temporal  
+Por razones científicas, es imprescindible que las mediciones se tomen durante la temporada 
+comprendida entre los meses de septiembre, octubre y noviembre. Se planifica programar dos 
+períodos intensivos de observaciones en 2019 en América del Sur, uno al principio de la temporada 
+y el otro al final, con una duración de 3-4 semanas cada uno. HALO volverá a su base en Alemania 
+entre estas dos intervenciones. Para satisfacer los requisitos científicos, teniendo en cuenta al 
+mismo tiempo las restricciones logísticas, se proponen los siguientes dos períodos intensivos de 
+observaciones (con flexibilidad de ± 1 semana a estas alturas del proceso de planificación): 
+  
+1º período de observaciones: de unas 4 semanas de duración, localizado en América del Sur, entre 
+el 5 de septiembre y el 7 de octubre de 2019.  
+2º período de observaciones: de unas 3 semanas de duración, localizado en América del Sur, entre 
+aproximadamente los días 7 y 25 de noviembre de 2019.  
+  
+Las fechas indicadas pueden estar sujetas a cambios, pero aun así solo sería cuestión de unos pocos 
+días.  
+ 
+En la Figura 1 que se ofrece a continuación se resume esquemáticamente el programa de HALO para 
+SOUTHTRAC. 
+ 
+Figura 1. Posible plan aproximado para las dos intervenciones (Fase 1 y Fase 2) de la aeronave HALO en 
+América del Sur en 2019. A estas alturas de la planificación se aconseja tener en cuenta una flexibilidad de ± 1 
+semana (es decir, la Fase 1 podría comenzar una semana antes de la fecha aquí indicada). 
+ 
+3. El consorcio del proyecto  
+SOUTHTRAC es un proyecto nacional alemán conjunto propuesto por el Centro Helmholtz de 
+Investigación, el Centro Aerospacial Alemán (Deutsches Zentrum für Luft- und Raumfahrt, DLR), el 
+Centro Jülich de Investigación (Forschungszentrum Jülich, FZJ), el Instituto Tecnológico de Karlsruhe 
+(KIT) y las Universidades de Mainz, Frankfurt, Wuppertal y Heidelberg. Las universidades que 
+participan en el proyecto cuentan con el apoyo de la Fundación Alemana para la Investigación (DFG).  
+SOUTHTRAC se enmarca entre otros programas internacionales como son el proyecto "Procesos 
+estratosféricos-troposféricos y su función en el clima" (SPARC) del Programa Mundial de 
+Investigaciones Climáticas.  
+ 
+4. El propietario y operador de la aeronave de investigación HALO  
+DLR, el Centro Alemán Aerospacial (Deutsches Zentrum für Luft- und Raumfahrt) es el propietario y 
+operador de la aeronave de investigación que se va a utilizar en este proyecto: HALO (matrícula D-
+ADLR) Los instrumentos que constituyen la carga útil de HALO para los proyectos SOUTHTRAC son 
+de su propiedad y están operados por diferentes colaboradores científicos. Para información más 
+detallada, véase el apartado 9 de este documento.  
+DLR es una entidad pública sin ánimo de lucro. Sus operaciones de vuelo son de naturaleza no 
+comercial/privada y están dedicadas a la investigación.  
+ 
+5. Información acerca de la aeronave  
+DLR tiene en propiedad una flota de aeronaves de investigación especialmente modificadas, 
+basadas en las instalaciones de DLR para Vuelos Experimentales localizadas en Braunschweig y 
+Oberpfaffenhofen (Figura 2) en Alemania. DLR tiene una gran experiencia en el manejo de estas 
+aeronaves con fines de investigación. 
+  
+Figura 2. La flota de DLR en sus instalaciones de Oberpfaffenhofen 
+ 
+Figura 3. HALO con una configuración parecida a la planificada para el proyecto SOUTHTRAC 
+HALO se basa en un reactor de negocios modelo G550 fabricado por Gulfstream Aerospace 
+Corporation. Ha experimentado múltiples modificaciones para poder ofrecer la infraestructura 
+técnica necesaria para unas cargas útiles científicas muy diversas. En términos generales se elige la 
+configuración de la carga útil en función de la finalidad de la investigación en cuestión. En la Figura 
+3 se ve una fotografía de la configuración exterior de la aeronave tal y como se ha planificado para 
+el proyecto SOUTHTRAC.  
+ 
+A continuación, se detallan los datos técnicos de la aeronave. Datos técnicos de HALO 
+  
+Fabricante / clase  
+Gulfstream G550  
+Matrícula  
+D-ADLR  
+Dimensiones  
+Largo 31,10 m | Alto 7,90 m | Envergadura 28,40 m  
+Velocidad  
+Velocidad mínima 92 m/s | Velocidad máxima 258 m/s | Velocidad 
+normal 210 m/s  
+Altitud  
+Altitud mínima sobre el nivel 
+del mar/tierra Techo 
+máximo  
+1000 pies / 1500 pies 51000 pies  
+ Carga útil  
+Peso en vacío Peso máximo 
+de despegue Carga útil 
+científica máxima  
+22120 kg 41277 kg 3000 kg  
+Instrumentación básica y 
+comunicaciones de la 
+aeronave  
+2 VHF (8,33 kHz), 1 UHF, 1 HF  
+Iridio (2 canales)  
+1 radar meteorológico de turbulencias  
+2 radioaltímetros  
+2 EGPWS  
+2 GPS  
+3 INS  
+2 NDB  
+2 VOR/DME  
+Transpondedor de Modo-S  
+Homologación RVSM  
+Homologación MNPS  
+Homologación RNP 1, 4, 5, 10; Homologación de Aproximación RNP;  
+Homologación LNAV/VNAV y LPV  
+CPDLC; ADS-C  
+ADS-B equipamiento exterior  
+ 
+6. Tripulación de vuelo y equipo del proyecto in situ  
+Tripulación de vuelo  
+La tripulación constará de 2 pilotos, 1 ingeniero aeronáutico y 4 ó 5 operadores de instrumentos 
+científicos. Los pilotos cuentan con una sólida formación y son pilotos con experiencia que han 
+trabajado para DLR.  
+Equipo científico  
+El equipo completo (incluyendo la tripulación de vuelo) que se encontrará in situ durante la 
+intervención de campo de la aeronave constará de unas 40-50 personas presentes de forma 
+simultánea. Estarán representadas las siguientes áreas/funciones: planificación de vuelos 
+científicos, incluyendo las previsiones meteorológicas; apoyo técnico tanto para la aeronave como 
+para los equipos de instrumentación; operación de los instrumentos (calibración en tierra y 
+operación en vuelo); operaciones de la aeronave; dirección del proyecto y apoyo logístico. Parte de 
+este equipo será el que estará presente cuando se comience a trabajar con los datos obtenidos 
+por las mediciones en Alemania y que es el objetivo de este concurso el poder acceder a estos y a 
+su análisis y modelamiento in situ. 
+Investigador científico principal  
+Prof. Dr. Markus Rapp Centro Aerospacial Alemán (DLR) Director del Instituto de Física Atmosférica 
+de DLR 
+Equipo científico de coordinación  
+Dr. Björn-Martin Sinnhuber Instituto Tecnológico de Karlsruhe (KIT). Instituto de Meteorología e 
+Investigaciones Climáticas 
+Prof. Dr. Martin Riese Forschungszentrum Jülich GmbH IEK-7 
+Prof. Dr. Andreas Engel Instituto de Ciencias Atmosféricas y Medioambientales Universidad Goethe 
+de Frankfurt 
+ Prof. Dr. Peter Hoor Instituto de Física Atmosférica Universidad Johannes Gutenberg de Mainz 
+ 
+7. Zona de mediciones  
+Zona geográfica seleccionada para las mediciones  
+En general, los objetivos científicos de este proyecto requieren unos vuelos en una zona muy amplia, 
+que corresponde al espacio aéreo y las regiones de información de vuelo controlados por Chile y 
+Argentina (incluyendo las zonas oceánicas controladas por Chile y Argentina, la mayoría de las cuales 
+se encuentran al sur de 40° Sur, y también incluyendo vuelos hacia la península antártica (sin 
+aterrizar en la Antártida).  
+Altitudes de vuelo  
+La mayoría de las mediciones que se realicen con HALO tendrán lugar entre los 25.000 y 47.000 pies, 
+con una altitud máxima de vuelo de 51.000 pies, que se alcanzarán solamente durante las etapas 
+finales del vuelo.  
+Número total esperado y duración de los vuelos de investigación  
+El número total de horas de vuelo planificadas para los vuelos locales desde la base en el aeropuerto 
+sudamericano será un bloque temporal de 120 horas (aproximadamente 70 horas durante la Fase 1 
+y otras 50 horas en la Fase 2), más unas 90 horas para los vuelos de traslado.  
+La duración típica de un vuelo para una misión científica de HALO es de 7-10 horas, con una duración 
+máxima de vuelo de 11 horas.  
+Por tanto, el número total de vuelos locales desde la base sudamericana será de unos 14 vuelos 
+(excluyendo los vuelos de traslado): 7-8 durante la Fase 1 más 6-7 durante la Fase 2.  
+Los vuelos se programarán tanto de día como de noche, aunque durante la parte inicial de la 
+campaña se programarán principalmente de noche.  
+La planificación de los vuelos individuales comienza unos 2-3 días antes de cada vuelo. La trayectoria 
+de vuelo deberá ajustarse a las condiciones meteorológicas previstas y actuales. 
+ 
+Trayectorias de vuelo  
+Aunque algunos vuelos constarán básicamente de unas transecciones lineales con diferentes 
+altitudes, es posible que se pidan unas trayectorias de vuelo especiales (siempre en coordinación 
+con el control de tránsito aéreo). Algunas de estas trayectorias especiales se ilustran de forma 
+esquemática en la Figura 4. 
+ 
+Figura 4. Esquemática de unas trayectorias ejemplares de vuelos laterales (generalmente realizadas a una 
+sola altitud), en donde la duración de los extremos / tramos es de unos 10-60 minutos de vuelo. 
+ 
+ Rutas de vuelo ejemplares  
+En las siguientes figuras se presentan unos ejemplos de las rutas de vuelo típicas que se esperan 
+para los vuelos de investigación desde una base aeroportuaria ubicada en América del Sur, el 
+programa 
+inicial 
+se 
+encuentra 
+en 
+el 
+sitio 
+web 
+oficial 
+del 
+proyecto  https://www.pa.op.dlr.de/southtrac/general-information/timetable , este se irá modificando ya 
+que la planificación real y el perfeccionamiento de dichas rutas dependen siempre de las 
+condiciones atmosféricas presentes. A partir de diversos modelos de previsiones atmosféricas y 
+meteorológicas, la planificación detallada de la ruta y del perfil de la altitud para cada vuelo de 
+investigación comienza con una antelación aproximada de 2-3 días. Aunque el concepto global de 
+cada vuelo generalmente se establece en función de requisitos científicos, el grupo de operaciones 
+de vuelo de DLR, actuando en coordinación con todos los centros de control de tránsito aéreo 
+involucrados, confirmará la hora y la ruta de vuelo propuesta. 
+ 
+ 
+ 
+ 
+ 
+Figura 5. Unas rutas de vuelo ejemplares para diferentes objetivos científicos del proyecto SOUTHTRAC, 
+volando por lo general a una altitud de entre 25.000 y 51.000 pies. Nótese que las rutas de vuelo reales 
+dependerán de las condiciones atmosféricas reales y se planificarán con una antelación de 2-3 días, de forma 
+coordinada con los centros de control de tráfico aéreo. Mapa base https://difrol.gob.cl/mapas/ 
+ 8. Breve descripción de los objetivos científicos  
+El proyecto de investigación "Transport and Composition of the Southern Hemisphere Upper 
+Troposphere and Lower Stratosphere (SOUTHTRAC)“ (Transporte y composición de la troposfera 
+superior y de la estratosfera inferior en el Hemisferio Sur) investigará el papel de los procesos 
+atmosféricos tanto dinámicos como químicos en la troposfera superior y en la estratosfera inferior 
+(UTLS), así como en la atmósfera central del hemisferio sur, mediante el uso de observaciones 
+atmosféricas realizadas desde la Aeronave Alemana de Investigación de Gran Altitud y Largo Alcance 
+"HALO". Además, se utilizará una amplia gama de modelos numéricos para investigar el impacto 
+tanto regional como global en la circulación y la composición atmosféricas. Los cambios en la 
+composición atmosférica en la UTLS, tales como los cambios del vapor de agua, el índice de ozono 
+y de otros oligogases condicionan de forma significativa el forzamiento radiactivo que es de 
+relevancia para las estimaciones del estado atmosférico en el contexto de un clima cambiante. Por 
+ejemplo, las asimetrías hemisféricas que se observan en los patrones de circulación y de transporte, 
+como son las corrientes en chorro y los sistemas monzónicos, introducen en ambos hemisferios 
+unas diferencias en la composición de la región de la UTLS. Las emisiones que se derivan de la quema 
+de biomasa en el hemisferio sur afectan al ozono en la troposfera superior.  
+El agujero de ozono de la Antártida da lugar al transporte de aire pobre en ozono y deshidrato hasta 
+la parte más inferior de la estratosfera. Se reconoce también que el agujero en la capa de ozono de 
+la Antártida es un importante impulsor del cambio climático en el hemisferio sur. Apenas 
+disponemos de mediciones de la región UTLS al sur de los 35°S, y existe una gran laguna en los datos 
+que tenemos sobre las zonas entre la región subtropical del sur y el continente antártico. Es más, el 
+impacto de las ondas gravitatorias internas en las corrientes en chorro no se ha investigado nunca 
+mediante experimentos basados en observaciones aéreas. La fuerza del chorro polar nocturno en 
+los modelos de circulación globales es muy sensible a las modificaciones de las parametrizaciones 
+de arrastre de las ondas gravitatorias aplicadas. La comunidad científica denomina este problema 
+"el inexistente arrastre de ondas gravitatorias a 60ºS". Asociados con las magnitudes simuladas del 
+chorro polar nocturno nos encontramos los desvíos fríos (“el problema del polo frío") dentro del 
+vórtice polar que, a su vez, influyen en la generación y en la persistencia de las nubes estratosféricas 
+polares y, en última instancia, en la química del ozono. Es necesario delimitar estas 
+parametrizaciones mediante observaciones de las ondas gravitatorias a lo largo del chorro polar 
+nocturno, así como en las regiones donde se excitan las ondas gravitatorias internas.  
+SOUTHTRAC nace como proyecto alemán nacional conjunto propuesto por el Centro Alemán 
+Aerospacial (DLR), el Centro Jülich de Investigación, el Instituto Tecnológico de Karlsruhe y las 
+Universidades de Mainz, Frankfurt, Wuppertal y Heidelberg y cuenta con el apoyo del Consejo de 
+Investigaciones Científicas Alemán (DFG). SOUTHTRAC se encuentra dentro del marco de otros 
+programas internacionales como son el proyecto "Procesos estratosféricos-troposféricos y su 
+función en el clima" (SPARC) del Programa Mundial de Investigaciones Climáticas.  
+El proyecto realizará mediciones de variables atmosféricas como son la temperatura, humedad, 
+viento, y las concentraciones mezcladas de oligogases clave, principalmente a altitudes mayores de 
+6 km, mediante una combinación única de la espectroscopia, sondas remotas y sensores in situ 
+ubicados a bordo de la aeronave de investigación HALO. El proyecto se ha programado para llevarse 
+a cabo entre septiembre y noviembre de 2019, con dos periodos intensivos de observaciones, de 
+unas cuatro semanas de duración cada uno, en la región sureña de América del Sur. La programación 
+del proyecto se ha organizado de esta manera para poder investigar el impacto de la quema de 
+biomasa, la deformación del vórtice polar y la fase tardía del agujero de ozono de la Antártida.  
+Concretamente, esta localización permitirá al proyecto estudiar los efectos en el flujo de la UTLS, y 
+particularmente los efectos en la distribución de temperaturas en la atmósfera media, de las ondas 
+ gravitatorias internas excitadas por los fuertes vientos del oeste que corren por encima de los Andes 
+y de la península antártica.  
+9. Instrumentos de a bordo de HALO y parámetros de medición  
+Aspectos generales  
+La Tabla 1 contiene un resumen de los instrumentos que componen la carga útil científica de la 
+aeronave de investigación HALO para el proyecto SOUTHTRAC, agrupados por categorías según el 
+tipo de medición al que corresponden (mediante sondas remotas o mediciones in situ). Todos los 
+instrumentos estarán cubiertos por certificación de aeronavegabilidad específica para la aeronave 
+HALO y estarán instalados para la duración completa de la misión (incluidos los vuelos de traslado 
+entre Alemania y América del Sur). Los instrumentos individuales que componen esta carga útil se 
+describen con algo más de detalle en el siguiente apartado. 
+ 
+ 
+Tabla 1: Relación de instrumentos científicos instalados en la aeronave HALO para el proyecto SOUTHTRAC. 
+ 
+ Descripciones de la instrumentación  
+A continuación se describen de forma abreviada los instrumentos que forman parte de la carga útil 
+científica a bordo de HALO para la misión SOUTHTRAC, ofreciendo una mayor información y 
+referencias a publicaciones. 
+ 
+ALIMA Airborne Lidar for Studying the Middle Atmosphere (lidar aéreo para el estudio de la 
+atmósfera media, ALIMA) es un instrumento sensor remoto que mide la temperatura atmosférica y 
+el viento vertical desde aproximadamente el nivel del vuelo hasta una altitud de 105 km. Consta de 
+dos transmisores de pulsaciones láser que operan con longitudes de onda de 372 nm y 532 nm, 
+además de un telescopio receptor, que se utiliza para recolectar la luz láser de retrodispersión, y 
+una unidad de detección óptica que analiza la luz recolectada. Ambos haces láser se transmiten 
+verticalmente hacia arriba a través de una sola ventanilla en el techo de la aeronave. Se utiliza una 
+luz láser emitida a una longitud de onda de 372 nm para sondear la línea de absorción ampliado por 
+Doppler de los átomos libres de hierro en la atmósfera desde una altitud de entre 70 y 105 km. 
+Sintonizando la longitud de onda a lo ancho de la línea de hierro y grabando la señal recibido como 
+una función de la longitud de onda, se puede medir con precisión el espectro Doppler de hierro. 
+Gracias a estas mediciones, se puede recuperar la temperatura atmosférica a partir de la anchura 
+Doppler, además del viento en la dirección de la línea visual (viento vertical) a partir de la desviación 
+Doppler. En la parte inferior de la atmósfera, donde no existen átomos de hierro libre, se utiliza el 
+haz láser de 532 nm como fuente de luz para las mediciones de la densidad del aire y la desviación 
+Doppler (viento vertical). La combinación de ambas técnicas de medición da como resultado unos 
+perfiles con una resolución de aproximadamente 1 km en vertical y 1 km en horizontal.  
+GLORIA El instrumento GLORIA (Gimballed Limb Observer for Radiance Imaging of the Atmosphere) 
+analiza la radiación infrarroja que emite la atmósfera de la tierra en la dirección del limbo. El 
+instrumento observa los espectros infrarrojos en la región de longitud de onda de entre 7 μm y 13 
+μm. Derivamos unas secciones verticales/horizontales de la temperatura y de las concentraciones 
+de oligogases como el ozono, vapor de agua, ClONO2, CFC-11, CFC-12, C2H6 y otros en estos 
+espectros. Las secciones pueden obtenerse para altitudes de entre la parte superior de las nubes y 
+la altitud de vuelo (aproximadamente 15 km) con una resolución vertical de alrededor de 0,8 km. 
+En el caso de configuraciones de vuelo especiales, se obtendrán distribuciones de estos parámetros 
+atmosféricos incluso en tres dimensiones.  
+miniDOAS El instrumento mini-DOAS (Differential Optical Absorption Spectroscopy) es un 
+espectrómetro óptico de 6 canales que analiza la luz del cielo recibida en la dirección del nadir 
+(mirando hacia abajo) y del limbo (dirigida hacia el horizonte). En cada dirección la luz del cielo se 
+analiza en tres bandas de longitud de onda (310–440 nm, FWHM = 0.47 nm; 420–640 nm, FWHM = 
+1.1 nm 1100–1680 nm, FWHM = 10 nm) para detectar ciertos oligogases y parámetros atmosféricos. 
+Los oligogases seleccionados para su detección son O3, O2-O2, NO2, HONO, HCHO, C2H2O2, BrO, IO, 
+OClO, H2O, además de agua líquida y sólida (hielo) y el radio efectivo de las gotas de las nubes.  
+AIMS Se trata de un espectrómetro de masa de ionización química que se utiliza para medir las 
+concentraciones atmosféricas de los oligogases. Los oligogases que mide son el vapor de agua (H2O), 
+cloruro hídrico (HCl), nitrato de cloro (ClONO2), ácido nítrico (HNO3) y dióxido de sulfuro (SO2). Su 
+uso SOUTHTRAC se dedicará al estudio del vapor de agua. El aire ambiente se succiona hasta el 
+interior de la aeronave a través de una entrada ubicada en el fuselaje. Se añaden al flujo de gas el 
+nitrógeno (N2) y el pentafluoruro de trifluorometilazufre (SCF8) para posibilitar la reacción de 
+ionización química. Se detectan y contabilizan los iones en la cámara al vacío de un espectrómetro 
+ de masa comercial de cuatro polos a una frecuencia de 0,5 Hz. Para calibrar el instrumento, se puede 
+a veces añadir al flujo de gas el vapor de agua, HCl, HNO3 ó SO2 con las concentraciones típicas de la 
+UTLS.  
+ 
+AMICA El instrumento AMICA (Airborne Mid Infrared CAvity enhanced spectrometer) ha sido 
+desarrollado por FZJ en colaboración con Los Gatos Research (LGR, www.lgrinc.com). El instrumento 
+OA-ICOS (= Off-Axis Integrated Cavity Output Spectroscopy) consta de dos cavidades con 
+combinaciones intercambiables de láser/detector/espejo para permitir la medición simultánea de 
+varios oligogases en dos regiones de número de ondas seleccionable en la zona infrarroja media 
+(MIR), donde muchos de los oligogases más relevantes absorben la luz. Actualmente, mide el OCS 
+(oxisulfuro de carbono, un precursor del aerosol estratosférico), CO (monóxido de carbono), CO2 
+(dióxido de carbono) y H2O (vapor de agua en la fase gaseosa con ratios de mezcla superiores a los 
+200 ppm). AMICA se ha diseñado para operar a bordo de una aeronave a grandes altitudes y se ha 
+implantado con éxito en la M55 Geophysica durante dos campañas, en 2016 y 2017.  
+BAHAMAS/SHARC El BAsic HALO Measurement and Sensor System (BAHAMAS) consiste en un 
+sistema de recopilación de datos que realiza un seguimiento de diferentes interfaces de los sistemas 
+aviónicos de la aeronave además de un conjunto de instrumentos que pertenecen al propio sistema. 
+Estos sensores permiten realizar una determinación precisa de los parámetros meteorológicos 
+básicos, como son la presión, temperatura, humedad y el vector de viento en tres dimensiones. 
+Además, se determina la humedad mediante un sensor basado en Lyman-Alpha (SHARC).  
+FAIRO FAIRO (Fast AIRborne Ozone instrument) es un instrumento pequeño y ligero para la medición 
+del oligogas ozono (O3) en el aire ambiente. Aplica dos técnicas: (a) un fotómetro que mide la 
+absorción de la luz del O3 con una longitud de onda de unos 255 nm (emitida por un LED) y (b) un 
+detector seco de quimiluminiscencia que realiza un seguimiento de la luz de quimiluminiscencia 
+(con una longitud de onda de unos 500 nm) emitida por el O3 que reacciona con una capa de tinte 
+orgánico en la superficie de un pequeño disco sensor.  
+FISH El instrumento Fast In situ Stratospheric Hygrometer (FISH) mide el vapor de agua en la 
+atmósfera. La técnica de medición se basa en la fluorescencia fotofragmentaria Lyman-α y es 
+adecuado para medir el vapor de agua en la banda de entre 1 y 1000 ppmv. FISH es un higrómetro 
+de vía cerrada bien establecida, con una amplia trayectoria en el campo de las mediciones de 
+aeronaves y las comparaciones entre instrumentos.  
+GhOST-MS GhOST-MS es un cromatógrafo de gases hecho a la medida con un espectrómetro de 
+masa y un detector de captaciones de electrones. Mide los hidrocarburos halogenados, 
+especialmente los gases agotadores de ozono corta vida como los halocarbonos brominados, que 
+son de interés para nuestra comprensión de la cantidad de halógeno que entre en el estratosfera, 
+donde puede agotar el ozono. En un segundo canal el instrumento mide el SF6, que es un importante 
+gas del efecto invernadero y puede utilizarse para derivar datos de la delimitación temporal para el 
+transporte atmosférico. GhOST se ha desarrollado y construido íntegramente en la Universidad 
+Goethe de Frankfurt, Alemania.  
+HAGAR-V. HAGAR-V es un paquete instrumental que consta de tres módulos de medición: i) un 
+analizador infrarrojo no dispersor (NDIR) para el CO2, que ofrece unas mediciones extremadamente 
+precisas de la concentración del CO2 atmosférico (precisión de 0,025 %) con una alta resolución 
+temporal de 1-3 s; ii) un cromatógrafo de gases con dos canales que utiliza la detección de captura 
+de electrones configurada para medir la concentración atmosférica de una serie de oligogases de 
+ larga vida de efecto invernadero y/o agotadores del ozono: CH4, SF6, CFC-12, CFC-11, CFC-113, CCl4 
+cada 90 s; iii) un cromatógrafo de gas que utiliza la detección espectrométrica de gases configurada 
+para medir la concentración atmosférica de una serie de oligogases, de vida larga y corta, del efecto 
+invernadero y/o agotadores del ozono: CFC-11, CFC-113, CH3Cl, CH2Cl2, CHCl3, C2Cl4, HFC-125, HFC-
+134a cada 3 minutos.  
+ 
+IPA-NOY Este instrumento aplica una técnica de quimiluminiscencia. El óxido nítrico en el aire 
+ambiente reacciona en una cámara con el ozono y produce una moléculas iluminadoras. La luz es 
+detectada por un fotomultiplicador. Las especies de oligogases medidas son: NO (óxido nítrico) y 
+NOy (nitrógeno reactivo total)  
+ 
+UMAQS Este instrumento está basado en Quantum Cascade Laser Absorption Spectroscopy (QCLAS) 
+y opera a 50 torr. Se utiliza para detectar los gases de efecto invernadero como el monóxido de 
+carbono (CO), dióxido de carbono (CO2), óxido nítrico (N2O) y metano (CH4). El aire se introduce en 
+una celda de medición, donde la atenuación de la luz láser dentro de la celda se utiliza para la 
+determinación del respectivo ratio de mezcla de oligogases. La operación de una bomba al vacío 
+mantiene un flujo continuo a través de la celda de medición. Para controlar el láser y la temperatura 
+interior del instrumento, se utiliza una unidad de refrigeración (Thermorack de AMS Technologies), 
+basada en un sistema de refrigeración líquida. Para comprobar la estabilidad del instrumento 
+durante el vuelo, se utiliza un cilindro de gas de aire ambiente bajo presión para realizar 
+calibraciones durante el vuelo.  
+KITsonde El sistema modular de radiosonda con múltiples sensores "KITsonde" es un dispositivo de 
+medición meteorológica que se utiliza para obtener unos perfiles atmosféricos de alta resolución. 
+Derivado de las radiosondas meteorológicas que los servicios meteorológicos nacionales lanzan 
+varias veces al día en todas partes del mundo desde estaciones fijas en la tierra para recopilar 
+información sobre la estructura vertical de la atmósfera, KITsonde se despliega desde aeronaves, 
+donde sondea la atmósfera desde el nivel del vuelo hasta la tierra. Lanzados en un contenedor con 
+dispositivo de protección de lanzamiento, las sondas se separan unos pocos segundos después de 
+producirse el lanzamiento y descienden hasta la tierra cada una con su paracaídas. Las 
+configuraciones permiten un total de 4 sondas en cada lanzamiento. La sonda individual mide los 
+siguientes parámetros meteorológicos básicos: temperatura (T), humedad relativa (H), presión 
+atmosférica (P) y la localización (GPS, Galileo, GLONASS, Beidou) a partir de la cual se derivan la 
+velocidad y dirección del viento. Un contador óptico de partículas detecta los aerosoles o las gotas 
+de las nubes y puede lanzarse junto con una sonda meteorológica. Los datos medidos se transmiten 
+a la aeronave usando una banda estrecha de frecuencias dentro de la banda meteorológica de 400 
+…. 405 MHz. Se pueden recibir datos de hasta 30 sondas activas a la vez. Como alternativa, se puede 
+usar sondas estándares VAISALA, o bien una combinación de los dos sistemas. 
+ 
+  
+ 
+Figura 6. La aeronave HALO en la configuración de SOUTHTRAC, ilustrando las principales categorías de 
+mediciones de la carga útil científica 
+ 
+10. Proyectos anteriores con HALO relevantes para SOUTHTRAC  
+SOUTHTRAC investigará la UTLS del hemisferio sur, ampliando al hemisferio sur los enfoques de las 
+misiones anteriores de la aeronave HALO para investigar la UTLS. Esta región presenta una 
+estructura química y dinámica diferente en comparación con su contraparte del hemisferio norte.  
+La misión TACTS (Transport and Composition in the UTLS over Europe) con HALO en 2012 ha ofrecido 
+una visión exhaustiva del impacto del monzón asiático de verano en la región UTLS europea. TACTS 
+ha demostrado que durante los meses de agosto y septiembre unas masas de aire de la capa 
+limítrofe de Asia oriental contribuyen de una forma importante a la composición de la región UTLS 
+del hemisferio norte (Vogel et al., 2014, 2015, 2016; Müller et al., 2016; Gottschaldt, et al., 2017), 
+con un impacto significativo en el vapor de agua (Rolf et al., 2018). Se ha podido cuantificar el efecto 
+de mezcla y transporte a lo ancho del chorro subtropical (Jurkat et al., 2014). Notablemente, GLORIA 
+(Gimballed Limb Observer for Radiance Imaging of the Pyrophosphate) ya ha trabajado por primera 
+vez a bordo de HALO durante TACTS (Riese et al., 2014), permitiendo por primera vez los análisis en 
+dos y tres dimensiones de las estructuras de las trazas y de las temperaturas atmosféricas (p. ej. 
+Krisch et al., 2017).  
+Durante la misión realizada con HALO, llamada POLSTRACC (The POLar STRAtosphere in Changing 
+Climate) en 2015/16 se investigó el impacto del vórtice ártico en la composición y dinámica de la 
+UTLS del hemisferio norte. POLSTRACC, en especial, ha posibilitado una caracterización de la 
+evolución de la composición de la UTLS ártica entre los meses de diciembre y de marzo bajo la 
+influencia de una mayor actividad de PSC (Höpfner et al., 2018, Voigt et al., 2018) y química del 
+ozono (Grooß et al., 2018). Gracias al instrumento GLORIA se ha podido obtener las primeras 
+imágenes tomográficas de la actividad de las ondas gravitatorias (Krisch et al., 2017), además de una 
+visión sin precedentes de la distribución del vapor de agua en la tropopausa (Woiwode et al., 2018). 
+Mediante el uso de la evolución de las relaciones de las trazas en la UTLS, se ha podido cuantificar 
+el impacto, que varía según la estación del año, del transporte y de la mezcla con el aire de las 
+latitudes subtropicales y tropicales (Krause et al., 2018).  
+ Por último, la misión WISE (Wave-driven ISentropic Exchange), llevada a cabo con HALO en los meses 
+de septiembre y de octubre de 2017, se centró en unos procesos dinámicos específicos que afectan 
+a la estructura de la tropopausa y el intercambio a través de la misma, así como el presupuesto de 
+ozono y de vapor de agua en la UTLS del hemisferio norte. Estos procesos incluyen la ocurrencia de 
+cirrus en la tropopausa y por encima de ella, así como el papel de la mezcla por encima del chorro 
+durante la evolución de los ciclos de vida baroclínicos. El avance de los primeros resultados de WISE 
+demuestra que la turbulencia puede ocurrir como característica general de los ciclones 
+extratropicales en las regiones de alta estabilidad estática (la capa de inversión de la tropopausa, 
+TIL) asociada a una fuerte cizalladura del viento horizontal (Kaluza et al., 2018). 
+El proyecto SOUTHTRAC se basa fundamentalmente en la experiencia y en los resultados científicos 
+obtenidos gracias a estos tres proyectos realizados con HALO que se han descrito anteriormente. 
+ 

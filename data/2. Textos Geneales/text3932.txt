@@ -1,0 +1,769 @@
+
+ 
+ 
+1 
+ 
+Chamada MCTIC/CNPq Nº 40/2018 – Apoio à produção de inventários de 
+Avaliação de Ciclo de Vida  
+ 
+ 
+ 
+O Ministério da Ciência, Tecnologia, Inovações e Comunicações – MCTIC e o Conselho Nacional 
+de Desenvolvimento Científico e Tecnológico – CNPq tornam pública a presente Chamada e 
+convidam os interessados a apresentarem propostas nos termos aqui estabelecidos. 
+ 
+ 
+1 – São partes integrantes desta Chamada 
+1.1 – Anexo I: Orientações e Procedimentos 
+1.2 - Anexo II: Modelo Estruturado de Projeto de Pesquisa 
+1.3 – Anexo III: Guia Qualidata – IBICT 
+1.4 – Anexo IV: Agenda 2030 – ODS 
+ 
+2 – Objeto 
+Apoiar a execução de projetos de pesquisa focados na construção de inventários do ciclo de vida 
+de produtos (ICVs) visando alimentar o Banco Nacional de Inventários de Ciclo de Vida (SICV 
+Brasil) com ICVs representativos da economia brasileira e que estejam em concordância com os 
+preceitos da Bioeconomia, alinhados com as diretrizes do Programa Brasileiro de Avaliação do 
+Ciclo de Vida e aos Objetivos de Desenvolvimento Sustentável - ODS. 
+2.1 – Conceito 
+A Bioeconomia tem como um de seus princípios a gestão dos recursos de origem biológica, 
+promovendo a viabilidade da circularidade de bens e serviços e a análise de suas externalidades. 
+A circularidade remete basicamente à diminuição da geração de resíduos e, como consequência, à 
+redução da demanda por matérias-primas fósseis e não renováveis. Os resíduos passam de 
+externalidades a insumos, coprodutos, que retornam aos ciclos produtivos de origem ou entram 
+em outros ciclos. Quando se tratam de materiais de origem biológica, as taxas de reciclagem 
+aumentam consideravelmente. A bioeconomia necessita de métricas que transpareçam o perfil 
+ambiental dos bioprodutos e explicitem os ganhos ambientais destes, de forma a evidenciar o 
+“grau de circularidade” que um bioproduto promove em comparação ao seu substituto fóssil. 
+ 
+A Avaliação do Ciclo de Vida (ACV) é a técnica que compila as entradas e saídas de recursos 
+materiais e energéticos envolvidos nos sistemas produtivos e traduzem estes valores em impactos 
+ambientais. O Inventário do Ciclo de Vida (ICV) é uma das etapas de uma ACV, em que são 
+medidos, calculados e estimados todo material e energia que circulam direta e indiretamente ao 
+                                                                            
+ 
+ 
+2 
+longo do ciclo de vida de um produto, ou seja, desde a extração das matérias-primas e insumos, 
+passando pela produção, distribuição até chegar à fase de consumo e disposição final. O ICV 
+apresenta informação sobre a quantidade de água, de eletricidade, de metais, de plásticos, entre 
+outros recursos materiais e energéticos, consumidos para se produzir uma unidade de um produto. 
+Tais consumos implicam, além do produto em si, em emissões para o ar, para a água e para o 
+solo, materiais residuais e coprodutos. Desta forma, o ICV permite o conhecimento sobre o fluxo 
+de recursos naturais, renováveis ou não, e suas consequências na biosfera, litosfera, hidrosfera e 
+atmosfera. 
+ 
+O Governo Brasileiro atua institucionalmente há 9 anos na temática de ACV por meio do Programa 
+Brasileiro de Avaliação do Ciclo de Vida (PBACV), oficializado pela resolução nº 4 de 2010 do 
+CONMETRO. O PBACV possui cinco grandes áreas de atuação: i) banco de dados; ii) inventários 
+do ciclo de vida; iii) avaliação de impactos; iv) rotulagem e comunicação; e v) capacitação. Dentre 
+as atividades do Programa, destaca-se o lançamento, em 2016, do Banco Nacional de Inventários 
+do Ciclo de Vida – SICV Brasil. Embora o SICV Brasil tenha gerado ao país destaque no cenário 
+internacional, a falta de dados recentes e atualizados relativos ao setor produtivo nacional ameaça 
+à efetividade da ferramenta enquanto promotora da competividade ambiental da indústria 
+brasileira. 
+ 
+Acredita-se que os ICVs de bioprodutos expõem um perfil ambiental melhor que seus concorrentes 
+da economia tradicional. Os inventários podem evidenciar o potencial do prefixo “bio” em mitigar 
+impactos ambientais negativos. O Brasil tem posição de destaque na bioeconomia mundial, com 
+condições edafoclimáticas promovendo a alta produtividade de biomassa, matéria-prima base da 
+bioeconomia, e com custos muito menores que os concorrentes europeus, asiáticos ou norte-
+americanos. Alinhado à necessidade de desenvolvimento de ICVs para o SICV Brasil, a 
+construção de ICVs de bioprodutos brasileiros será um estímulo à competividade da bioeconomia 
+nacional. 
+Ressalta-se que o conceito de Bioeconomia relaciona-se ao de Desenvolvimento Sustentável, 
+integrando sociedade, meio ambiente e economia, incorporando a inclusão social e a proteção 
+ambiental. Também está relacionado à Economia Verde, que reconhece a finitude dos recursos 
+naturais, dos serviços ecossistêmicos e os limites planetários como marcos importantes dentro dos 
+quais as atividades de produção, distribuição e consumo poderão ter lugar e onde os processos de 
+tomada de decisões, externalidades ambientais e questões como mudança do clima, escassez dos 
+recursos naturais, eficiência energética e justiça social são elementos centrais. Relaciona-se ainda 
+com os princípios da Economia Circular de eliminar resíduos e poluição por princípio, manter 
+produtos e materiais em ciclos de uso e regenerar sistemas naturais.  
+Destaca-se que a Bioeconomia situa-se como um do temas da Estratégia Nacional de Ciência, 
+Tecnologia e Inovação que buscam agregar valor aos recursos naturais e serviços ambientais e 
+contribuir para o desenvolvimento de soluções para a saúde humana, segurança hídrica, alimentar 
+e energética e para a mitigação e adaptação à mudança do clima, integrando preservação e 
+conservação  da biodiversidade e desenvolvimento ambientalmente sustentável. 
+Considera-se e incentiva-se na presente ação a relação da Bioeconomia aos Objetivos de 
+Desenvolvimento Sustentável – ODS, na forma de seus 17 objetivos que integram as três 
+dimensões do desenvolvimento sustentável: a econômica, a social e a ambiental, como uma lista 
+de tarefas a serem cumpridas pelos governos, a sociedade civil, o setor privado e todos cidadãos 
+na jornada coletiva para um 2030 sustentável. Tais objetivos vão ao encontro também dos 
+compromissos assumidos pelo País como signatário da Convenção sobre Diversidade Biológica – 
+CDB, incluindo os marcos regulatórios que visam a conservação, o uso sustentável e a repartição 
+de benefícios advindos da Biodiversidade. Os Inventários de Ciclo de Vida para a sustentabilidade 
+ambiental que se proponham a ir ao encontro das dimensões econômica, social e ambiental dos 
+                                                                            
+ 
+ 
+3 
+Objetivos de Desenvolvimento Sustentável – ODS tem o desafio de subsidar novos mercados para 
+bioprodutos, incluindo Inventários de Ciclos de Vida de produtos da biodiversidade e da 
+sociobiodiversidade, tendo em vista a equidade social e cultural, a proteção ambiental e a 
+conservação da biodiversidade para as presentes e futuras gerações.  
+ 
+2.2 – Objetivos 
+2.2.1 – Contribuir para a implementação de pesquisas, produção de conhecimento, formação de 
+recursos humanos e divulgação das informações e conhecimento nos temas citados nesta 
+chamada, em especial os conceitos de Avaliação de Ciclo de Vida e sua associação aos Objetivos 
+de Desenvolvimento Sustentável, tendo em vista a equidade social e cultural, a proteção ambiental 
+e a conservação da biodiversidade para as presentes e futuras gerações; 
+2.2.2 – Realizar Inventários de Ciclo de Vida – ICV em consonância com as diretrizes do Guia 
+Qualidata do IBICT – Instituto Brasileiro de Informação em Ciência e Tecnologia. Os ICV devem 
+conter processos unitários/elementares (não agregados), não sendo aceitos inventários baseados 
+em adaptações de dados existentes em de bases estrangeiras. 
+2.2.3 – Contemplar a construção de inventários de base não constantes no Banco Nacional de 
+Inventários do Ciclo de Vida – SICV Brasil, disponível em http://sicv.acv.ibict.br/, bem como a 
+publicação dos inventários de base resultantes desta Chamada no SICV Brasil; 
+2.2.4 – Fomentar parcerias com a iniciativa privada para desenvolvimento do Inventário de Ciclo 
+de Vida; 
+2.2.5 - Contemplar ações que proponham soluções aos desafios postos pelos Objetivos de 
+Desenvolvimento Sustentável – ODS da agenda 2030 da ONU. 
+ 
+3 – Cronograma 
+ 
+FASES 
+DATA 
+Lançamento da Chamada no Diário Oficial da União e na página do CNPq 
+26/12/2018 
+Prazo para impugnação da Chamada 
+07/01/2019 
+Data limite para submissão das propostas 
+22/02/19 
+Julgamento 
+08 a 12/04/2019 
+Divulgação do Resultado preliminar do julgamento no Diário Oficial da União, 
+por extrato, e na página do CNPq na internet 
+22/04/2019 
+Prazo final para interposição de recurso administrativo do resultado preliminar 
+do julgamento 
+02/05/2019 
+Divulgação Final das propostas aprovadas no Diário Oficial da União, por 
+extrato, e na página do CNPq na internet 
+24/05/2019 
+                                                                            
+ 
+ 
+4 
+ 
+4 – Critérios de Elegibilidade 
+4.1 – Os critérios de elegibilidade indicados abaixo são obrigatórios e o atendimento aos mesmos 
+é considerado imprescindível para o exame da proposta, análise e julgamento. 
+4.1.1 – A ausência ou insuficiência de informações sobre quaisquer deles poderá resultar na 
+desclassificação da proposta. 
+4.2 – Quanto ao Proponente: 
+4.2.1 – O proponente, responsável pela apresentação da proposta, deve atender, 
+obrigatoriamente, aos itens abaixo: 
+a) ter seu currículo cadastrado na Plataforma Lattes, atualizado até a data limite para submissão 
+da proposta; 
+b) possuir o título de Doutor; 
+c) ser obrigatoriamente o coordenador do projeto; 
+d) ter experiência com Avaliação de Ciclo de Vida; 
+e) possuir vínculo celetista ou estatutário jurídico com a instituição de execução do projeto ou, se 
+aposentado, comprovar manter atividades acadêmico-científicas e apresentar declaração da 
+instituição de execução do projeto concordando com a sua execução. 
+4.3 – Quanto à Instituição de Execução do Projeto: 
+4.3.1 – A instituição de execução do projeto deve ser uma Instituição Científica, Tecnológica e de 
+Inovação (ICT).  
+4.3.1.1 – Entende-se por Instituição Científica, Tecnológica e de Inovação (ICT): órgão ou entidade 
+da administração pública direta ou indireta ou pessoa jurídica de direito privado sem fins lucrativos 
+legalmente constituída sob as leis brasileiras, com sede e foro no País, que inclua em sua missão 
+institucional ou em seu objetivo social ou estatutário a pesquisa básica ou aplicada de caráter 
+científico ou tecnológico ou o desenvolvimento de novos produtos, serviços ou processos. 
+4.3.2 – A instituição de execução do projeto deverá comprovar o estabelecimento de parceria com 
+a iniciativa privada para o desenvolvimento do ICV. 
+4.3.3 – A instituição de execução do projeto é aquela com a qual o proponente deve apresentar 
+vínculo. 
+ 
+5 – Recursos Financeiros 
+5.1 – As propostas aprovadas serão financiadas com recursos no valor global de R$ 485.000,00 
+(quatrocentos e oitenta e cinco mil reais), oriundos do orçamento do MCTIC, sendo R$ 335.000,00 
+em Bolsas e R$ 150.000,00 em Custeio, a serem liberados em duas parcelas, a depender da 
+transferência orçamentária e financeira do MCTIC para o CNPq.  
+5.1.1 – Quando o cronograma de desembolso ocorrer em mais de um exercício financeiro, o 
+repasse de cada ano ficará condicionado à disponibilidade orçamentária e financeira do CNPq e 
+dos demais parceiros.  
+5.2 – As propostas terão o valor máximo de financiamento de R$ 50.000,00 (cinquenta mil reais). 
+                                                                            
+ 
+ 
+5 
+5.3 - Identificada a conveniência e a oportunidade e havendo disponibilidade de recursos 
+adicionais para esta Chamada, em qualquer fase, o CNPq e o(s) parceiro(s) poderá(ão) decidir por 
+suplementar os projetos contratados e/ou aprovar novos projetos. 
+5.4 – O orçamento da proposta deve, obrigatoriamente, prever a participação do coordenador em 
+uma reunião de acompanhamento e avaliação dos projetos a ser realizada em Brasília/DF, a qual 
+está prevista para ocorrer antes da entrega do relatório final da prestação de contas. 
+5.5 – Os recursos desta Chamada serão destinados, exclusivamente, ao financiamento de itens de 
+custeio e bolsa, compreendendo: 
+5.5.1 – Custeio: 
+a) material de consumo; 
+b) serviços de terceiros – pagamento integral ou parcial de contratos para pessoa física ou jurídica, 
+de caráter eventual; 
+c) passagens e diárias, de acordo com as Tabelas de Valores de Diárias para Auxílios Individuais 
+e Bolsas de Curta Duração. A proposta deverá prever a destinação de recursos de passagens e 
+diárias para viabilizar a participação do coordenador do projeto em pelo menos 1 reunião de 
+Acompanhamento e Avaliação, a ser realizada em Brasília, com duração de três dias. 
+5.5.1.1 – Qualquer pagamento a pessoa física deve ser realizado de acordo com a legislação em 
+vigor, de forma a não estabelecer vínculo empregatício. 
+5.5.1.2 – A mão-de-obra empregada na execução do projeto não terá vínculo de qualquer natureza 
+com o CNPq e deste não poderá demandar quaisquer pagamentos, permanecendo na exclusiva 
+responsabilidade do Coordenador/Instituição de execução do projeto. 
+5.5.2 – Bolsas 
+5.5.2.1 – Serão concedidas bolsas de fomento tecnológico e extensão inovadora, na modalidade 
+Desenvolvimento Tecnológico e Industrial (DTI). 
+5.5.2.2 – A implementação das bolsas deverá ser realizada dentro dos prazos e critérios 
+estipulados para as modalidades, que estão indicadas no sitio eletrônico do CNPq em 
+http://www.cnpq.br/view/-/journal_content/56_INSTANCE_0oED/10157/25314#rn1510dti.  
+5.5.2.3 – A duração das bolsas não poderá ultrapassar o prazo de execução do projeto. 
+5.5.2.4 – As bolsas não poderão ser utilizadas para pagamento de prestação de serviços, uma vez 
+que tal utilização estaria em desacordo com a finalidade das bolsas do CNPq. 
+5.5.2.5 – Caberá ao coordenador fazer as indicações dos bolsistas, via Plataforma Integrada 
+Carlos Chagas, tão logo seja assinado o TERMO de OUTORGA.  
+5.5.2.6 – É vedado ao coordenador ser bolsista no projeto. 
+5.5.2.7 – É possível a transformação do nível da bolsa considerando as necessidades do projeto. 
+5.6 – São vedadas despesas com: 
+a) certificados, ornamentação, coquetel, alimentação, shows ou manifestações artísticas de 
+qualquer natureza; 
+b) despesas de rotina, tais como contas de energia elétrica, água e telefone, entendidas como 
+despesas de contrapartida obrigatória da instituição de execução do projeto; 
+                                                                            
+ 
+ 
+6 
+c) despesas de correios e reprografia, salvo se relacionadas diretamente com a execução do 
+projeto de pesquisa; 
+d) pagamento de taxas de administração e de gerência, a qualquer título; 
+e) obras civis (ressalvadas as obras com instalações e adaptações necessárias ao adequado 
+funcionamento de equipamentos, as quais deverão ser justificadas no orçamento detalhado da 
+proposta), entendidas como de contrapartida obrigatória da instituição de execução do projeto; 
+f) aquisição de veículos automotores;  
+g) pagamento de salários ou complementação salarial de pessoal técnico e administrativo ou 
+quaisquer outras vantagens para pessoal de instituições públicas (federal, estadual e municipal); 
+h) pagamento de serviços de terceiros a agente público da ativa por serviços prestados, à conta de 
+quaisquer fontes de recursos; 
+i) pagamento, a qualquer título, a empresas privadas que tenham em seu quadro societário 
+servidor público da ativa, ou empregado de empresa pública ou de sociedade de economia mista, 
+por serviços prestados, inclusive consultoria, assistência técnica ou assemelhados. 
+5.7 – As demais despesas serão de responsabilidade do proponente e da instituição de execução 
+do projeto, respondendo cada um pelos atos praticados. 
+5.8 – Para contratação ou aquisição de bens e serviços deverão ser observadas as normas do 
+CNPq de PRESTAÇÃO DE CONTAS. 
+5.9 – O CNPq não responde pela suplementação de recursos para fazer frente a despesas 
+decorrentes de quaisquer fatores externos ao seu controle, como flutuação cambial. 
+ 
+6 – Submissão da Proposta 
+6.1 – As propostas deverão ser encaminhadas ao CNPq exclusivamente via Internet, utilizando-se 
+o Formulário de Propostas online, disponível na Plataforma Carlos Chagas. 
+6.1.1 – O horário limite para submissão das propostas ao CNPq será até às 23h59 (vinte e três 
+horas e cinquenta e nove minutos), horário de Brasília, da data descrita no CRONOGRAMA, não 
+sendo aceitas propostas submetidas após este horário. 
+6.2 - As propostas deverão apresentar as seguintes características: 
+6.2.1 – Contemplar a realização de inventários de base não constantes no Banco Nacional de 
+Inventários do Ciclo de Vida – SICV, disponível em: https://sicv.ibict.br/ 
+6.2.2 – A proposta deverá ter como objetivo a realização de pelo menos 1 (um) inventário base e 
+pelo menos 3 (três) inventários derivados do inventário base, totalizando o mínimo de 4 inventários 
+por proposta. 
+6.3 – As orientações para o preenchimento do Formulário de Propostas online e para a elaboração 
+do projeto de pesquisa estão disponíveis no ANEXO I: ORIENTAÇÕES E PROCEDIMENTOS e 
+ANEXO II: MODELO ESTRUTURADO DE PROJETO DE PESQUISA. 
+ 
+7 – Julgamento 
+7.1 – O julgamento das propostas submetidas a esta Chamada seguirá as etapas descritas no 
+ANEXO I: ORIENTAÇÕES E PROCEDIMENTOS. 
+                                                                            
+ 
+ 
+7 
+7.2 - Critérios do Julgamento 
+7.2.1 – Os critérios para classificação das propostas quanto ao mérito técnico-científico e sua 
+adequação orçamentária são: 
+Critérios de análise e julgamento 
+Peso 
+Nota 
+A 
+Mérito, originalidade e relevância do projeto para o 
+atingimento dos objetivos da Chamada. 
+3 
+0 a 10 
+B 
+Contribuição da proposta para realização de pelo menos 1(um) 
+inventário base e pelo menos 3 (três) inventários (derivados do 
+inventário base) 
+3 
+0 a 10 
+C 
+Parceria com a iniciativa privada para desenvolvimento do 
+ICV 
+3 
+0 ou 10 
+D 
+Relação da proposta com os Objetivos de Desenvolvimento 
+Sustentável – ODS 
+2 
+0 a 10 
+E 
+Capacitação e experiência da equipe para o desenvolvimento 
+do projeto 
+2 
+0 a 10 
+F 
+Adequação da metodologia proposta 
+2 
+0 a 10 
+G 
+Experiência prévia do Coordenador com Avaliação de Ciclo 
+de Vida 
+1 
+0 a 10 
+H 
+Adequação do orçamento aos objetivos, atividades e metas 
+1 
+0 a 10 
+ 
+7.2.2 – Para estipulação das notas poderão ser utilizadas até duas casas decimais. 
+7.2.3 – A pontuação final de cada proposta será aferida pela média ponderada das notas 
+atribuídas para cada item. 
+7.2.4. – Em caso de empate, o Comitê Julgador deverá considerar a obtenção da maior pontuação 
+no somatório dos critérios de julgamento “A”, “B” e “C”. 
+ 
+8 – Resultado Preliminar do Julgamento 
+8.1 – A relação de todas as propostas julgadas, aprovadas e não aprovadas, será divulgada na 
+página eletrônica do CNPq, disponível na Internet no endereço www.cnpq.br e publicada, por 
+extrato, no Diário Oficial da União conforme CRONOGRAMA.  
+8.2 – Todos os proponentes da presente Chamada terão acesso ao parecer sobre sua proposta, 
+preservada a identificação dos pareceristas. 
+ 
+9 – Recursos Administrativos 
+9.1 – Recurso Administrativo do Resultado Preliminar do Julgamento 
+                                                                            
+ 
+ 
+8 
+9.1.1 – Caso o proponente tenha justificativa para contestar o resultado preliminar do julgamento, 
+poderá apresentar recurso em formulário eletrônico específico, disponível na Plataforma Carlos 
+Chagas (http://carloschagas.cnpq.br), no prazo de 10 (dez) dias corridos a partir da publicação do 
+resultado na página do CNPq e da disponibilização dos pareceres na Plataforma Carlos Chagas, 
+conforme NORMAS RECURSAIS deste Conselho. 
+ 
+10 – Resultado Final do Julgamento pela DEX 
+10.1 – A DEX emitirá decisão do julgamento com fundamento na Nota Técnica elaborada pela 
+área técnico-científica responsável, acompanhada dos documentos que compõem o processo de 
+julgamento. 
+10.2 – O resultado final do julgamento pela DEX será divulgado na página eletrônica do CNPq, 
+disponível na Internet no endereço www.cnpq.br e publicado, por extrato, no Diário Oficial da 
+União, conforme CRONOGRAMA.  
+ 
+11 – Impugnação da Chamada 
+11.1 – Decairá do direito de impugnar os termos desta Chamada o cidadão que não o fizer até o 
+prazo disposto no CRONOGRAMA. 
+11.1.1 – Caso não seja impugnada dentro do prazo, o proponente não poderá mais contrariar as 
+cláusulas desta Chamada, concordando com todos os seus termos. 
+11.2 – A impugnação deverá ser dirigida à Presidência do CNPq, por correspondência eletrônica, 
+para o endereço: presidencia@cnpq.br, seguindo as normas do processo administrativo federal. 
+ 
+12 – Disposições Gerais 
+12.1 – A presente Chamada regula-se pelos preceitos de direito público inseridos no Marco Legal 
+de CT&I (EC n°85/2015, Lei n°10.973/2004, Lei n°13.243/2016, Decreto n°9.283/2018) e, em 
+especial, pelas normas internas do CNPq.. 
+12.2 – A Coordenação responsável pelo acompanhamento desta Chamada é a Coordenação do 
+Programa de Pesquisas Oceanográficas e Impactos Ambientais – COIAM (coiam@cnpq.br). 
+12.3 – A qualquer tempo, a presente Chamada poderá ser revogada ou anulada, no todo ou em 
+parte, seja por decisão unilateral da Diretoria Executiva do CNPq, seja por motivo de interesse 
+público ou exigência legal, em decisão fundamentada, sem que isso implique direito à indenização 
+ou reclamação de qualquer natureza. 
+12.4 – A Diretoria Executiva do CNPq reserva-se o direito de resolver os casos omissos e as 
+situações não previstas nesta Chamada. 
+ 
+Brasília, 26 de dezembro de 2018. 
+                                                                            
+ 
+ 
+9 
+ 
+ANEXO I – ORIENTAÇÕES E PROCEDIMENTOS 
+ 
+1 – As ORIENTAÇÕES E PROCEDIMENTOS contidos no presente ANEXO tem por finalidade 
+estabelecer a forma de submissão da proposta e as etapas de julgamento e definir as condições 
+para implementação, monitoramento e avaliação das propostas aprovadas. 
+2 – DA SUBMISSÃO DA PROPOSTA 
+2.1 – Formulário de Proposta online 
+2.1.1 – O Formulário de Proposta online deverá ser preenchido com as seguintes informações: 
+a) Identificação da proposta; 
+b) Dados do proponente; 
+c) Instituições Executora e Colaboradora(s); 
+d) Área do conhecimento predominante e áreas do conhecimento correlatas; 
+e) Etapas de execução da proposta com respectivo cronograma de atividades; 
+f) Orçamento detalhado, o qual deve prever diárias e passagens para participação na reunião 
+de acompanhamento e avaliação a ser realizada na sede do CNPq em Brasília/DF, com 
+duração de até 3 (três) dias; 
+g) Dados gerais do projeto em português, incluindo título, palavras-chave, resumo e objetivo geral; 
+h) Relevância e impacto do projeto para o desenvolvimento científico, tecnológico ou de inovação; 
+i) Informações dos membros da equipe. 
+ 
+2.1.2 – Todos os itens do Formulário devem ser necessariamente preenchidos. 
+2.1.3 – As instituições de pesquisa envolvidas com o projeto, sejam nacionais ou internacionais, 
+deverão estar cadastradas previamente no Diretório de Instituições do CNPq, sob pena de impedir 
+a sua inserção na proposta. 
+2.1.4 – É obrigatório que os membros da equipe tenham seus currículos cadastrados na 
+Plataforma Lattes. Essa exigência não se aplica a pesquisadores estrangeiros residentes fora do 
+Brasil. 
+2.1.5 – A equipe técnica poderá ser constituída por pesquisadores, alunos e técnicos. Outros 
+profissionais poderão integrar a equipe na qualidade de colaboradores. 
+2.1.6 – Somente deverão ser indicados como instituições participantes do projeto e como membro 
+da equipe aqueles que tenham prestado anuências formais escritas, as quais devem ser mantidas 
+sob a guarda do Coordenador do projeto. 
+ 
+2.2 – Projeto de Pesquisa 
+2.2.1 - As propostas deverão conter, obrigatoriamente, as informações descritas abaixo. 
+a) Título do projeto; 
+                                                                            
+ 
+ 
+1
+0 
+b) Coordenador(a); 
+c) Instituição executora/UF; 
+d) Empresa(s) parceira(s) para desenvolver o ICV (Anexar, ao final do projeto, a(s) cópia(s) do(s) 
+comprovante(s) da(s) parceria(s), tais como convênio(s), termo(s) de parceria, carta(s) de 
+intenção ou quaisquer outros comprovantes de trabalhos conjuntos); 
+e) Explicite quais são as instituições colaboradoras (ICTs) e de que forma essas contribuirão para 
+o atingimento dos objetivos do projeto? (Informar UF); 
+f) O(A) coordenador(a) participa e/ou lidera algum grupo de Avaliação de Ciclo de Vida (ACV 
+apoiado pelo CNPq ou outra instituição de pesquisa e fomento? Em caso afirmativo, qual(is)? 
+g) Explicite a capacitação e experiência da equipe para o desenvolvimento do projeto: 
+h) Explicite de forma objetiva como o projeto pretende realizar o ICV em consonância com as 
+diretrizes do Guia Qualidata do IBICT e correlacionar com os objetivos e soluções presentes na 
+proposta com os Objetivos de Desenvolvimento Sustentável (ODS) da Agenda 2030 da 
+Organização das Nações Unidas (ONU), especificando quais objetivos e metas serão 
+abordados; 
+i) A divulgação e a difusão dos conhecimentos e tecnologias desenvolvidas estão previstas no 
+projeto? Em caso afirmativo, de que maneira? 
+j) Serão construídos inventários voltados ao desenvolvimento sustentável da economia nacional, 
+com foco em sistemas de produtos que promovam uma análise para a gestão eficiente de 
+recursos naturais? Em caso afirmativo, de que forma?  
+k) Introdução; 
+l) Qualificação do problema; 
+m) Metodologia; 
+n) Produtos e soluções derivados do projeto de pesquisa; 
+o) Recursos financeiros ou não financeiros de outras fontes, incluindo setores empresarial e/ou 
+governamental; e 
+p) Infraestrutura e apoio técnico disponíveis para o desenvolvimento do projeto. 
+ 
+2.2.2 – Para a apresentação do projeto recomenda-se fortemente a utilização do ANEXO II: 
+MODELO ESTRUTURADO DE PROJETO DE PESQUISA desta Chamada. 
+2.2.3 – O arquivo (Modelo Estruturado – Anexo II) deve ser gerado em formato PDF e anexado ao 
+Formulário de Propostas online, limitando-se a 1Mb (um megabyte).  
+2.2.3.1 – Caso seja necessário utilizar figuras, gráficos, fotos e/ou outros, para esclarecer a 
+argumentação da proposta, estes não devem comprometer a capacidade do arquivo, pois as 
+propostas que excederem o limite de 1Mb não serão recebidas pelo guichê eletrônico do CNPq. 
+ 
+2.3 – Envio da Proposta 
+2.3.1 – As propostas deverão ser submetidas pela Plataforma Eletrônica do CNPq até às 23h59, 
+horário de Brasília, da data descrita no CRONOGRAMA, não sendo aceitas propostas submetidas 
+após este horário. 
+                                                                            
+ 
+ 
+1
+1 
+2.3.1.1 – Recomenda-se o envio das propostas com antecedência, uma vez que o CNPq não se 
+responsabilizará por aquelas não recebidas em decorrência de eventuais problemas técnicos e de 
+congestionamentos.  
+2.3.1.2 – Caso a proposta seja enviada fora do prazo de submissão, ela não será aceita pelo 
+sistema eletrônico, razão pela qual não haverá possibilidade de ser acolhida, analisada e julgada. 
+2.3.1.3 – Após o envio, será gerado um recibo eletrônico de protocolo da proposta submetida, o 
+qual servirá como comprovante da transmissão. 
+2.3.2 – Será aceita uma única proposta por proponente. 
+2.3.2.1 – Na hipótese de envio de uma segunda proposta pelo mesmo proponente, respeitando-se 
+o prazo limite estipulado para submissão das propostas, esta será considerada substituta da 
+anterior, sendo levada em conta para análise apenas a última proposta recebida. 
+2.3.2.2 – Constatado o envio de propostas idênticas por proponentes diferentes será instaurado 
+um procedimento apuratório e, ao final, uma ou ambas as propostas poderão ser eliminadas. 
+2.3.3 – Esclarecimentos e informações adicionais acerca desta Chamada podem ser obtidos pelo 
+endereço eletrônico atendimento@cnpq.br ou pelo telefone (61) 3211-4000. 
+2.3.3.1 – O atendimento encerra-se impreterivelmente às 18h30 (horário de Brasília), em dias 
+úteis, e esse fato não será aceito como justificativa para envio posterior à data limite. 
+2.3.3.2 – É de responsabilidade do proponente entrar em contato com o CNPq em tempo hábil 
+para obter informações ou esclarecimentos. 
+ 
+3 – DAS ETAPAS DE JULGAMENTO 
+3.1 – Etapa I - Análise pelos Consultores ad hoc 
+3.1.1 – Esta etapa consistirá na análise quanto ao mérito e relevância da proposta, a ser realizada 
+por especialistas indicados pelo CNPq. 
+3.1.2 – Os Consultores ad hoc deverão se manifestar sobre os tópicos contidos no "Formulário de 
+Parecer ad hoc", que contemplará o disposto nos itens 2.1 e 2.2 do ANEXO I desta Chamada, 
+dentre outros estabelecidos pelo Gestor da Chamada. 
+3.2 – Etapa II – Análise e classificação pelo Comitê Julgador 
+3.2.1 – A composição e as atribuições do Comitê Julgador seguirão as disposições contidas em 
+normas específicas do CNPq que tratam da matéria. 
+3.2.2 – As propostas serão classificadas pelo Comitê Julgador, seguindo os critérios de julgamento 
+dispostos nesta Chamada. 
+3.2.3 – Os cortes orçamentários, quando cabíveis, não deverão ultrapassar 20% do valor global 
+solicitado, de forma a garantir a viabilidade da execução do projeto. 
+                                                                            
+ 
+ 
+1
+2 
+3.2.4 – A pontuação final de cada projeto será aferida conforme estabelecido no item 7.2 da 
+CHAMADA. 
+3.2.5 – Todas as propostas avaliadas serão objeto de parecer de mérito consubstanciado, 
+contendo a fundamentação que justifica a pontuação atribuída. 
+3.2.6 – Após a análise de mérito e relevância de cada proposta, o Comitê deverá recomendar: 
+a) aprovação; ou  
+b) não aprovação. 
+3.2.7 – O parecer do Comitê Julgador será registrado em Planilha de Julgamento, contendo a 
+relação das propostas recomendadas e não recomendadas, com as respectivas pontuações finais, 
+assim como outras informações e recomendações pertinentes. 
+3.2.8 – Para cada proposta recomendada, o Comitê Julgador deverá sugerir o valor a ser 
+financiado pelo CNPq. 
+3.2.9 – Durante a classificação das propostas pelo Comitê Julgador, o Gestor da Chamada e a 
+Área Técnico-científica responsável acompanharão as atividades e poderão recomendar ajustes e 
+correções necessários, como a possibilidade que se refaça ou modifique pareceres de 
+recomendação e a Planilha de Julgamento. 
+3.2.10 – A Planilha de Julgamento será assinada pelos membros do Comitê. 
+3.3 – Etapa III – Classificação pelo Comitê de Relevância 
+3.3.1 – O Comitê de Relevância, composto por representantes do MCTIC, CNPq e IBICT, será 
+responsável por analisar as propostas pré-selecionadas pelo Comitê Julgador e determinar a 
+classificação final das mesmas considerando o atendimento ao interesse nacional de interiorização 
+da ciência e representatividade econômica e de impacto ambiental do objeto da proposta. 
+3.4 – Etapa IV – Análise pela Área Técnico-Científica 
+3.4.1 – Esta etapa consiste na supervisão da etapa de classificação pelo Comitê Julgador e 
+análise quanto ao cumprimento dos critérios de elegibilidade estabelecidos no item 3 desta 
+Chamada. 
+3.4.2 – A Área Técnico-científica deverá analisar os pareceres elaborados pelo Comitê Julgador e 
+a Planilha de Julgamento, apresentando os subsídios para etapa de Decisão pelo Presidente do 
+CNPq. 
+3.4.3 – A Área Técnico-científica poderá indicar itens orçamentários, informações incorretas ou 
+inverídicas, inconsistências técnicas, falhas de julgamento, elementos a serem inseridos, 
+modificados ou excluídos, que poderão ou não inviabilizar a aprovação da proposta. 
+3.4.4 – A Área Técnico-científica do CNPq, com a colaboração de representantes do Ministério da 
+Ciência, Tecnologia, Inovações e Comunicações e do Instituto Brasileiro de Informações em 
+                                                                            
+ 
+ 
+1
+3 
+Ciência e Tecnologia, analisarão os projetos quanto às informações dos Inventários de Ciclo de 
+Vida (ICV) de interesse nacional, conforme Modelo Estruturado (ANEXO II), podendo recomendar 
+o indeferimento da proposta com base nessas informações. 
+3.4.5 – Identificadas falhas, ausências, inconsistências e/ou equívocos, deverá a Área Técnico-
+científica tomar as providências necessárias para sanar os problemas, podendo determinar a 
+elaboração de novo parecer, a complementação do parecer anterior e a retificação da Planilha de 
+Julgamento. 
+3.5 – Etapa IV – Decisão do julgamento pelo Presidente do CNPq 
+3.5.1 – O Presidente do CNPq emitirá decisão do julgamento com fundamento na Nota Técnica 
+elaborada pela área técnico-científica responsável, acompanhada dos documentos que compõem 
+o processo de julgamento. 
+3.5.2 – Na decisão do Presidente do CNPq deverão ser determinadas quais as propostas a serem 
+aprovadas e os respectivos valores a serem financiados dentro dos limites orçamentários desta 
+Chamada 
+ 
+4 – DA IMPLEMENTAÇÃO DAS PROPOSTAS APROVADAS 
+4.1 – As propostas aprovadas serão apoiadas na modalidade de Auxílio Individual, em nome do 
+proponente, mediante assinatura de TERMO DE OUTORGA. 
+4.1.1 – A firmatura do TERMO DE OUTORGA ficará subordinada à existência prévia de Acordo 
+de Cooperação Técnica, celebrado entre a instituição de execução do projeto e o CNPq, 
+conforme disposto nas normas deste Conselho. 
+4.1.2 – A existência de qualquer inadimplência, por parte do proponente, com o CNPq, com a 
+Administração Pública Federal, direta ou indireta, ou o registro do proponente como inadimplente 
+em quaisquer cadastros mantidos por órgãos da Administração Pública Federal, constituirá fator 
+impeditivo para a contratação do projeto, devendo o projeto ser cancelado posteriormente caso 
+verificado que o proponente deixou de declarar sua inadimplência.  
+4.1.3 – A assinatura do TERMO DE OUTORGA deverá ser feita pelo beneficiário em até 90 dias 
+após a divulgação do resultado final do julgamento. 
+4.2 – As propostas a serem apoiadas pela presente Chamada deverão ter seu prazo máximo de 
+execução estabelecido em 12 (doze) meses. 
+4.2.1 – Excepcionalmente, o prazo de execução dos projetos poderá ser prorrogado, mediante 
+pedido fundamentado do proponente, que justifique a prorrogação pleiteada, e aceito pelo CNPq. 
+4.2.1.1 – A prorrogação da vigência do projeto deverá observar, necessariamente, a 
+correspondente prorrogação do instrumento de cooperação firmado entre os parceiros desta ação. 
+4.3 – O proponente assume o compromisso de manter, durante a execução do projeto, todas as 
+condições, apresentadas na submissão da proposta, de qualificação, habilitação e idoneidade 
+necessárias ao perfeito cumprimento do seu objeto, preservando atualizados os seus dados 
+cadastrais nos registros competentes. 
+4.4 – As informações geradas com a implementação das propostas selecionadas e 
+disponibilizadas na base de dados do CNPq serão consideradas de acesso público, observadas as 
+disposições abaixo: 
+                                                                            
+ 
+ 
+1
+4 
+4.4.1 – Os projetos submetidos a esta Chamada, bem como quaisquer relatórios técnicos 
+apresentados pelos pesquisadores e/ou bolsistas para o CNPq, que contenham informações sobre 
+os projetos em andamento, terão acesso restrito até o ato decisório referente à aprovação final 
+pelo CNPq. (Lei 12.527/2011 de 18 de novembro de 2011, art 7º, §3º, e Decreto 7.724/2012 de 16 
+de maio de 2012, art 20). 
+4.4.2 – Aqueles pesquisadores cujos projetos submetidos ao CNPq, aprovados ou não, e/ou seus 
+relatórios técnicos apresentados que possam gerar, no todo ou em parte, resultado potencialmente 
+objeto de Patente de Invenção, Modelo de Utilidade, Desenho Industrial, Programa de Computador 
+ou qualquer outra forma de registro de Propriedade Intelectual e semelhantes deverão manifestar 
+explicitamente o interesse na restrição de acesso na ocasião da submissão do projeto e/ou do 
+envio do relatório técnico. 
+4.4.2.1 – As obrigações de sigilo e restrição de acesso público previstas na cláusula anterior 
+subsistirão pelo prazo de 5 (cinco) anos a partir da solicitação da restrição. 
+4.4.2.2. – Em que pese a possibilidade de restrição de acesso, esta não reduz, contudo, a 
+responsabilidade que os pesquisadores, suas equipes e instituições têm, como membros da 
+comunidade de pesquisa, de manter, sempre que possível, os resultados da pesquisa, dados e 
+coleções à disposição de outros pesquisadores para fins acadêmicos.  
+4.4.3 – As partes deverão assegurar que cada um de seus empregados, funcionários, agentes 
+públicos e subcontratadas, que tenham acesso às informações de acesso restrito, tenham 
+concordado em cumprir as obrigações de restrição de acesso à informação. 
+4.4.4 – O CNPq disponibilizará, a seu critério, as informações primárias de todos os projetos, tais 
+como: título, resumo, objeto, proponente(s), instituições executoras e recursos aplicados pelo 
+órgão. 
+4.5 – A concessão do apoio financeiro poderá ser cancelada pela Diretoria Executiva do CNPq, por 
+ocorrência, durante sua implementação, de fato cuja gravidade justifique o cancelamento, sem 
+prejuízo de outras providências cabíveis em decisão devidamente fundamentada. 
+4.6 – É de exclusiva responsabilidade de cada proponente adotar todas as providências que 
+envolvam permissões e autorizações especiais, de caráter ético ou legal, necessárias à execução 
+do projeto. 
+ 
+5 – DO MONITORAMENTO E DA AVALIAÇÃO 
+5.1 – Durante a execução, o projeto será acompanhado e avaliado, em todas as suas fases, de 
+acordo com o estabelecido no TERMO DE OUTORGA e demais normas do CNPq. 
+5.1.1 – Qualquer alteração relativa à execução do projeto deverá ser solicitada ao CNPq pelo 
+oponente/coordenador, acompanhada da devida justificativa, devendo tal alteração ser autorizada 
+antes de sua efetivação e observadas as Resoluções Normativas do CNPq que tratam do tema. 
+5.2 – Durante a execução do projeto o CNPq poderá, a qualquer tempo e quantas vezes quiser, 
+promover visitas técnicas ou solicitar informações adicionais visando ao monitoramento e à 
+avaliação do projeto. 
+5.2.1 – Caso seja detectado que o projeto não esteja sendo executado conforme o previsto, o 
+CNPq deverá determinar diligências para o devido cumprimento e, caso não atendidas, promover 
+o encerramento do projeto. 
+                                                                            
+ 
+ 
+1
+5 
+5.3 – As ações de monitoramento e avaliação terão caráter preventivo e saneador, objetivando a 
+gestão adequada e regular dos projetos, observado o disposto no Decreto n° 9.293/2018. 
+5.4 – Durante a fase de execução do projeto, toda e qualquer comunicação com o CNPq deverá 
+ser feita por meio da Central de Atendimento: atendimento@cnpq.br. 
+5.5 – O proponente/coordenador deverá preencher formulário de avaliação e acompanhamento do 
+projeto de pesquisa aprovado. 
+5.6 – Os resultados parciais do projeto de pesquisa serão acompanhados por meio de um relatório 
+parcial, a ser encaminhado ao CNPq após seis meses da implementação do projeto. 
+5.7 – O coordenador do projeto deverá encaminhar a prestação de contas em Formulário online 
+específico, no prazo de até 60 (sessenta) dias após o término da vigência do projeto, em 
+conformidade com o TERMO DE OUTORGA e demais normas do CNPq, sob pena de 
+ressarcimento dos valores despendidos pelo CNPq e demais penalidades previstas na legislação 
+de regência. 
+5.7.1 – Todos os campos do formulário online de prestação de contas deverão ser devidamente 
+preenchidos.  
+5.7.2 – Deverá ser anexado ao formulário online um arquivo contendo o relatório técnico final, com 
+detalhamento das atividades desenvolvidas durante a execução do projeto, o registro das 
+ocorrências que afetaram o seu desenvolvimento e a descrição dos gastos com adicional de 
+bancada, quando houver. 
+ 
+6 – DAS PUBLICAÇÕES 
+6.1 – As publicações científicas e qualquer outro meio de divulgação ou promoção de eventos ou 
+de projetos de pesquisa apoiados pela presente Chamada deverão citar, obrigatoriamente, o apoio 
+do MCTIC, do CNPq e de outras entidades/órgãos financiadores. 
+6.1.1 – Nas publicações científicas o MCTIC deverá ser citado exclusivamente como “Ministério da 
+Ciência, Tecnologia, Inovações e Comunicações – MCTIC” ou como “Ministry of Science, 
+Technology, Innovation and Communication – MCTIC”. Por sua vez, o CNPq deverá ser citado 
+exclusivamente como “Conselho Nacional de Desenvolvimento Científico e Tecnológico – CNPq” 
+ou como “National Council for Scientific and Technological Development – CNPq”. 
+6.2 – As ações publicitárias atinentes a projetos realizados com recursos desta Chamada deverão 
+observar rigorosamente as disposições que regulam a matéria. 
+6.3 – A publicação dos artigos científicos resultantes dos projetos apoiados deverá ser realizada, 
+preferencialmente, em revistas de acesso aberto. 
+6.4 – Caso os resultados do projeto venham a ter valor comercial ou possam levar ao 
+desenvolvimento de um produto ou método envolvendo o estabelecimento de uma propriedade 
+intelectual, a troca de informações e a reserva dos direitos, em cada caso, dar-se-ão de acordo 
+com o estabelecido na legislação vigente: Lei de Propriedade Industrial (Lei nº 9.279, de 14 de 
+maio de 1996), Marco Legal de CT&I (EC 85/2015, Lei 13.243/2016, Decreto nº 9.283, de 7 de 
+fevereiro de 2018) e normas internas do CNPq que regulam a matéria. 
+                                                                            
+ 
+ 
+1
+6 
+ 
+ANEXO II – MODELO ESTRUTURADO DE PROJETO DE PESQUISA 
+ 
+Chamada MCTI/CNPq Nº 40/2018 – Apoio à produção de inventários de Avaliação de Ciclo de 
+Vida 
+ 
+ 
+IDENTIFICAÇÃO DA PROPOSTA 
+ 
+a) TÍTULO DO PROJETO 
+ 
+ 
+b) COORDENADOR(A) 
+ 
+ 
+c) INSTITUIÇÃO EXECUTORA 
+ 
+ 
+d) EMPRESA PARCEIRA PARA 
+DESENVOLVER O ICV** 
+ 
+**Anexar, ao final deste modelo estruturado, a(s) cópia(s) do(s) comprovante(s) da(s) parceria(s), tais como 
+convênio(s), termo(s) de parceria, carta(s) de intenção ou quaisquer outros comprovantes de trabalhos 
+conjuntos.  
+ 
+e) Explicite, de forma resumida, quais são as instituições colaboradoras e de que forma 
+essas contribuirão para atingimento dos objetivos do projeto. 
+ 
+f) O(A) coordenador(a) participa e/ou lidera algum grupo de Avaliação de Ciclo de Vida 
+apoiado pelo CNPq ou outra instituição de fomento? Em caso afirmativo, qual(is)? 
+ 
+g) A equipe possui capacitação e experiência para o desenvolvimento do projeto? Explicite. 
+ 
+h) Explicite de forma objetiva como o projeto pretende realizar o ICV em consonância com 
+as diretrizes do Guia Qualidata do IBICT e correlacionar com os objetivos e soluções 
+presentes na proposta com os Objetivos de Desenvolvimento Sustentável (ODS) da Agenda 
+2030 da Organização das Nações Unidas (ONU), especificando quais objetivos e metas 
+serão abordados 
+ 
+i) A divulgação e a difusão dos conhecimentos e tecnologias desenvolvidas estão previstas 
+no projeto? Em caso afirmativo, de que maneira? 
+ 
+                                                                            
+ 
+ 
+1
+7 
+j) Serão construídos Inventários ao Desenvolvimento Sustentável da economia nacional, 
+com foco em sistemas de produtos que promovam uma análise para gestão eficiente de 
+recursos naturais? Em caso afirmativo, de que forma? 
+ 
+k) Introdução 
+ 
+l) Qualificação do problema 
+ 
+m) Metodologia 
+ 
+n) Produtos e soluções derivados do projeto de pesquisa 
+ 
+o) Recursos financeiros ou não financeiros de outras fontes, incluindo setores empresarial 
+e/ou governamental 
+ 
+p) Infraestrutura e apoio técnico disponíveis para o desenvolvimento do projeto 
+ 
+ 
+                                                                            
+ 
+ 
+1
+8 
+ 
+ANEXO III: GUIA QUALIDATA – IBICT 
+ 
+Disponível no endereço eletrônico: 
+http://acv.ibict.br/documentos/publicacoes/2825-guia-qualidata-requisitos-de-qualidade-de-
+conjuntos-de-dados-para-o-banco-nacional-de-inventarios-do-ciclo-de-vida/ 
+ 
+ 
+ 
+ANEXO IV: AGENDA 2030 – ODS 
+ 
+Disponível no endereço eletrônico: 
+https://nacoesunidas.org/pos2015/agenda2030/ 
+ 

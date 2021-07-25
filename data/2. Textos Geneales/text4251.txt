@@ -1,0 +1,871 @@
+
+1 
+ 
+Edital FAPERJ  Nº 20/2016 - Programa Apoio ao Desenvolvimento da Tecnologia da 
+Informação no Estado do Rio de Janeiro 2016 
+O Governo do Estado do Rio de Janeiro, a Secretaria de Estado de Ciência e Tecnologia e 
+Inovação – SECTI, a Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro 
+- FAPERJ fazem saber, pelo presente Edital, que estão abertas as inscrições para seleção de projetos 
+no âmbito do Programa Apoio ao Desenvolvimento da Tecnologia da Informação no Estado do 
+Rio de Janeiro 2016.  
+ 
+1. Objetivos 
+Apoiar por meio da concessão de recursos de subvenção econômica (recursos não reembolsáveis) 
+projetos de inovação tecnológica para o desenvolvimento da tecnologia da informação e 
+comunicação, com foco na convergência digital, uso da Internet das Coisas e de aplicações para 
+cidades inteligentes, contribuindo para o desenvolvimento econômico e social sustentável e melhoria 
+da qualidade de vida do cidadão do Estado do Rio de Janeiro.  
+As propostas deverão buscar todos ou alguns dos seguintes objetivos: 
+  
+• Soluções novas e criativas; 
+• Relevância imediata para a sociedade; 
+• Potencial para impacto econômico; e 
+• Realização de pilotos e/ou a produção de protótipo. 
+ 
+2. Áreas e temas  
+Dentro do escopo de seus objetivos, as propostas deverão abordar um ou mais dos temas abaixo 
+relacionados: 
+• Apoio a processos de capacitação na apropriação e uso das Tecnologias da Informação e 
+Comunicação abrangendo o corpo discente e/ou o corpo docente dos níveis médio, 
+técnico e superior, com foco na convergência digital e aplicações para cidades 
+inteligentes; 
+  
+2 
+ 
+• Desenvolvimento de equipamentos de baixo custo com interfaces inovadoras para 
+plataformas fixas ou móveis; 
+• Desenvolvimento de soluções utilizando a Internet das Coisas para a promoção de 
+cidades inteligentes, como a simplificação de cadeias de produção por meio do 
+monitoramento e uso de componente conectados, nas fases de design e marketing, 
+manutenção, vendas e reposição proativa, engenharia do produto; melhoria de serviços; 
+melhoria do conhecimento de clientes; gerenciamento do consumo de energia; serviços 
+de transporte (parquímetros e pontos de ônibus inteligentes); 
+• Desenvolvimento de soluções para agricultura, como monitorar temperatura do ar, do 
+solo, velocidade do vento, umidade, radiação solar, probabilidade de chuva, umidade das 
+folhas e coloração das frutas.  
+• Aplicações da tecnologia da informação à área médica; coletando e organizando dados 
+de dispositivos conectados e de tecnologia vestível (wearable); 
+• Desenvolvimento de soluções para fomentar a utilização de dados públicos em benefício 
+da sociedade; 
+3. Elegibilidade e restrições 
+3.1. São elegíveis como proponentes, em cooperação ou não com ICTs sediadas no Estado do 
+Rio de Janeiro: 
+• Empresas Brasileiras que tenham auferido receita operacional bruta anual ou anualizada 
+até R$ 16.000.000,00 (dezesseis milhões de reais) e, excepcionalmente, médias 
+empresas (receita operacional bruta anual ou anualizada até R$ 90.000.000,00 (noventa 
+milhões de reais), sediadas no Estado do Rio de Janeiro, bem como Empresas Públicas 
+do Estado do Rio de Janeiro. Observação: São definidas como Empresas Brasileiras as 
+organizações econômicas instituídas para a produção ou a circulação de bens ou de 
+serviços, com finalidade lucrativa, devidamente registrada na Junta Comercial, 
+constituídas sob as leis brasileiras, e que tenham a sede de sua administração no País. 
+• Sociedades cooperativas, assim entendidas pela legislação brasileira; 
+• Inventores independentes - pessoa natural, não ocupante de cargo efetivo, cargo militar 
+ou emprego público, que seja inventor, obtentor ou autor de criação; 
+  
+3 
+ 
+• Empresários individuais, conforme definido nos artigos 966 e seguintes do Código Civil 
+Brasileiro. 
+ 
+3.2. Os proponentes descritos no item 3.1 deverão estar sediados no Rio de Janeiro e poderão 
+estar em cooperação com Sociedades de direito privado, sem fins lucrativos, que tenham 
+por finalidade executar, promover, fomentar e apoiar ações de inovação e desenvolvimento 
+científico e tecnológico que digam respeito à Tecnologia da Informação e Comunicação, ou 
+com Instituições Científicas e Tecnológicas (ICTs) sediadas no Estado do Rio de Janeiro, 
+definidas como órgãos ou entidades da administração pública ou pessoas jurídicas com 
+personalidade jurídica de direito privado que tenham por missão institucional, dentre 
+outras, executar atividades de pesquisa básica ou aplicada para o desenvolvimento 
+científico e tecnológico. 
+3.3. No caso de Empresas Brasileiras, Empresas Públicas, em consórcio ou individualmente, ou 
+de Sociedades Cooperativas, o proponente do projeto deverá ser a pessoa jurídica, 
+obrigatoriamente, representada pelo responsável legal, formalmente designado nos 
+estatutos da empresa, consórcio e/ou cooperativa; 
+3.4. Participantes do projeto (pessoas jurídicas, em consórcio ou individualmente, e pessoas 
+naturais elegíveis, responsável pela pessoa jurídica e/ou integrantes associados à equipe) 
+com pendências na entrega de relatórios técnico-científico ou na prestação de contas junto 
+à FAPERJ (inadimplentes) NÃO poderão participar do edital; a eventual entrega da 
+documentação não implica na aceitação do projeto, que será indeferido liminarmente; 
+3.5. Proponentes de projetos contemplados em versões anteriores deste mesmo programa 
+(editais de 2008, 2010, 2012 e 2014) que ainda não tenham apresentado o Relatório Técnico 
+e a Prestação de Contas à FAPERJ NÃO poderão participar deste Edital, mesmo na condição 
+de empreendedores associados; em adição, projetos contemplados em editais anteriores 
+não poderão ser reapresentados neste Edital de 2016; 
+3.6. O proponente e integrantes associados a cada equipe de desenvolvimento do projeto 
+deverão comprovar experiência recente no tema proposto e/ou em áreas correlatas em 
+período compreendido nos últimos cinco anos. Essa comprovação deverá ser feita por meio 
+  
+4 
+ 
+de declaração de terceiros, clientes e/ou parceiros no desenvolvimento de outros produtos 
+ou processos, e sinopse descritiva dos processos e produtos desenvolvidos; 
+3.7. Cada proponente poderá submeter apenas um projeto e não poderá integrar mais de uma 
+equipe no presente edital; 
+3.8. Caso o proponente esteja em consórcio com outras das pessoas elegíveis, deverá 
+demonstrá-lo por meio de instrumento legal, registrado em cartório de títulos e 
+documentos da sede da empresa proponente; a cópia do instrumento deverá estar incluída 
+como anexo ao projeto; 
+3.9. A empresa proponente deverá realizar as atividades do projeto no Estado do Rio de Janeiro. 
+Excepcionalmente, atividades complementares ou de certificação, homologação e testes 
+poderão ser realizadas em outros Estados ou fora do País. Para esse fim, as atividades a 
+serem custeadas com recursos solicitados e de contrapartida deverão estar 
+adequadamente identificadas no projeto submetido; 
+3.10. 
+As Pessoas Jurídicas proponentes e as pessoas físicas dos Coordenadores e membros 
+da equipe executora com pendências na entrega de relatório técnico-científico, de 
+reformulação de relatório técnico-científico, de prestação de contas ou de exigências de 
+prestação de contas, caracterizando inadimplência junto à FAPERJ, não poderão participar 
+do presente edital; 
+3.11. 
+As propostas submetidas neste edital que não se enquadrem nos objetivos e/ou que 
+não atendam aos critérios de elegibilidade serão desclassificadas. 
+ 
+4. Enquadramento e critérios de seleção 
+4.1 Serão considerados na avaliação das propostas: 
+· 
+adesão aos termos deste edital; 
+· 
+aplicabilidade dos objetivos propostos; 
+· 
+relevância para o desenvolvimento científico, tecnológico, estratégico, econômico, 
+ambiental e social do Estado do Rio de Janeiro; 
+· 
+clareza quanto à definição das metas de acompanhamento e avaliação, pela FAPERJ, da 
+evolução do trabalho desenvolvido; 
+  
+5 
+ 
+· 
+experiência e a capacidade técnica do proponente e da equipe responsável pelo 
+desenvolvimento do projeto. 
+4.2 As propostas serão analisadas por um Comitê Especial de Julgamento, designado pela Diretoria 
+de Tecnologia e Inovação da FAPERJ; 
+4.3 Os resultados do julgamento serão divulgados apenas pela página da FAPERJ na Internet, em 
+data constante no cronograma (item 7). 
+  
+5. Recursos financeiros 
+5.1 Recursos financeiros da FAPERJ  
+5.1.1 Os recursos alocados para financiamento do presente Edital são da ordem de R$ 
+15.000.000,00 (quinze milhões de reais) definidos na Programação Orçamentária da FAPERJ, 
+podendo, a critério de sua diretoria, incluir recursos adicionais, dependendo da disponibilidade 
+decorrente de alteração na citada Programação; 
+5.1.2 Os recursos financeiros serão destinados a projetos de desenvolvimento de produtos 
+(bens ou serviços) e/ou processos novos ou significativamente aprimorados, que envolvam 
+significativo risco tecnológico associado a oportunidades de mercado, na forma de Subvenção 
+Econômica, em que a/o proponente é a/o principal responsável pela solução de desenvolvimento e 
+gestora dos recursos do projeto; 
+5.1.3 O valor solicitado como subvenção econômica no projeto não poderá exceder R$ 
+500.000,00 (quinhentos mil reais); 
+5.1.4 Os recursos serão liberados em 2 (duas) parcelas. A liberação da 2ª parcela será 
+efetuada após decorridos 12 (doze) meses, no mínimo, contados do início do projeto (que ocorrerá 
+a partir da data do recebimento da 1º parcela) e condicionada à aprovação de Relatório Técnico-
+Científico Parcial, que deve evidenciar a evolução da execução do projeto e informar 
+detalhadamente em quais realizações (execuções/etapas/ações) foram realizadas despesas 
+custeadas com os recursos da FAPERJ e de contrapartida. Este relatório não substitui a Prestação de 
+Contas a ser apresentada juntamente com o Relatório Técnico-Científico final, conforme item 11 
+deste Edital. 
+6. Itens financiáveis  
+  
+6 
+ 
+6.1 Para Sociedades cooperativas e Inventores independentes, são financiáveis itens (elementos 
+de despesa) dos grupos de custeio e de capital, indispensáveis à realização do projeto, de acordo 
+com o classificador de receita e despesa do Estado do Rio de Janeiro (disponível no endereço 
+http://www.rj.gov.br/web/seplag/exibeconteudo?article-id=186311) 
+e 
+as 
+Instruções 
+para 
+Concessão 
+e 
+Utilização 
+de 
+Auxílios 
+e 
+Bolsas 
+(disponível 
+no 
+endereço 
+http://www.faperj.br/downloads/Instrucoes_para_Concessao_e_Execucao_de_Auxilios_e_Bolsas.pdf), 
+compreendendo: 
+6.1.1 Despesas de capital:  
+• aquisição de materiais permanentes e equipamentos nacionais e importados;  
+• obras de infraestrutura e instalações;  
+6.1.2 Despesas de custeio:  
+• serviços de terceiros (pessoa física ou jurídica), com caráter eventual, inclusive para a 
+manutenção de equipamentos e para a realização de reparos e adaptações de bens 
+imóveis;  
+• passagens e diárias (conforme a tabela de diárias nacionais do CNPq, disponível no 
+endereço http://www.cnpq.br/web/guest/diarias-para-auxilios), para participação em 
+eventos/trabalhos de campo/visitas técnicas;  
+• material de consumo, componentes e/ou peças de reposição de equipamentos;  
+• despesas de importação, limitadas a 18% (dezoito por cento) do valor free on board – 
+FOB da mercadoria; 
+6.2 Para Empresas Brasileiras e Empresários individuais, são financiáveis somente itens (elementos 
+de despesa) do grupo de custeio, indispensáveis à realização do projeto, de acordo com o 
+classificador de receita e despesa do Estado do Rio de Janeiro (disponível no endereço 
+http://www.rj.gov.br/web/seplag/exibeconteudo?article-id=186311) 
+e 
+as 
+Instruções 
+para 
+Concessão 
+e 
+Utilização 
+de 
+Auxílios 
+e 
+Bolsas 
+(disponível 
+no 
+endereço 
+http://www.faperj.br/downloads/Instrucoes_para_Concessao_e_Execucao_de_Auxilios_e_Bolsas.pdf), 
+compreendendo: 
+6.2.1 Despesas de custeio:  
+• serviços de terceiros (pessoa física ou jurídica), com caráter eventual, inclusive para a 
+manutenção de equipamentos e para a realização de reparos e adaptações de bens 
+imóveis;  
+• passagens e diárias (conforme a tabela de diárias nacionais do CNPq, disponível no 
+endereço http://www.cnpq.br/web/guest/diarias-para-auxilios), para participação em 
+eventos/trabalhos de campo/visitas técnicas;  
+• material de consumo, componentes e/ou peças de reposição de equipamentos;  
+• despesas de importação, limitadas a 18% (dezoito por cento) do valor free on board – 
+FOB da mercadoria; 
+6.2.2 É vedada para Empresas Brasileiras e Empresários individuais a utilização dos recursos 
+concedidos por este Edital para despesas de capital. 
+ 
+Observações:  
+1) compreendem-se como despesas de capital aquelas necessárias ao pagamento de material 
+permanente e equipamentos nacionais e importados, sendo importado todo material 
+permanente e equipamento adquirido com pagamento destinado a estabelecimento 
+  
+7 
+ 
+comercial em país estrangeiro, e obras e instalações; 
+2) como despesas de custeio, compreendem-se aquelas necessárias ao pagamento de diárias, 
+passagens (nacionais e internacionais), material de consumo, serviços de terceiros de pessoa 
+física (desde que eventuais), serviços de terceiros de pessoa jurídica e despesas para 
+importação de bens; 
+3) incluem-se como serviços de terceiros as despesas que envolvam reparo e adaptação de 
+bens móveis e imóveis; 
+4) entendem-se como despesas de capital com “obras e instalações de grande porte” aquelas 
+para pagamento de obras que serão patrimoniadas na instituição a que está vinculado o 
+proponente contemplado; e por despesas com “instalações”, as que sejam incorporáveis, 
+como, p.ex., elevadores, ar condicionado central etc.; 
+5) entendem-se como despesas de custeio com “serviços de pequenos reparos e adaptações 
+de bens imóveis” aquelas que importam em modificações ou melhorias em espaço físico já 
+existente, sem que envolvam alteração estrutural do imóvel; 
+6) caso o período de realização do evento/trabalho de campo/visita técnica seja inferior a 8 
+(oito) horas, ocorra na cidade sede do beneficiário ou em cidade contígua e não haja 
+necessidade de pernoite, o valor das diárias será apenas para despesas com alimentação, 
+sendo limite o proporcional a até 50% do valor da diária nacional praticada pelo CNPq. 
+ 
+6.3 Todos os itens financiados devem estar diretamente relacionados ao objeto e às atividades do 
+projeto apoiado pelo Programa Apoio ao Desenvolvimento de TI 2016;  
+6.4 Itens não financiáveis: 
+• Não serão permitidas nas propostas despesas com a contratação ou complementação 
+salarial de funcionários técnico-administrativos e as de custeio, tais como as contas de 
+luz, água, telefone, correio, reprografia e similares, entendidas como despesas de 
+contrapartida obrigatória da instituição; similarmente, não será permitido o pagamento 
+de bolsas de qualquer natureza;  
+• É vedado o pagamento, a qualquer título, a servidor da administração pública, ou 
+empregado de empresa pública ou de sociedade de economia mista, por serviços de 
+consultoria ou assistência técnica;  
+6.5 As propostas deverão ser apresentadas com o orçamento detalhado quanto à necessidade de 
+despesas por elemento de despesa, juntamente com proposta dos fornecedores, haja vista que, 
+depois de concedido o fomento, não poderá haver modificações entre os grupos de despesa de 
+capital e custeio; 
+6.6 Os proponentes poderão também utilizar recursos oriundos de outras pessoas físicas e jurídicas 
+que se interessarem em participar no desenvolvimento do projeto, devendo a previsão documentada 
+desses aportes constar do orçamento do projeto; 
+6.7 A utilização dos recursos concedidos por esse Edital deverá seguir as Instruções para Concessão e 
+Utilização 
+de 
+Auxílios 
+e 
+Bolsas 
+(disponível 
+no 
+endereço 
+http://www.faperj.br/downloads/Instrucoes_para_Concessao_e_Execucao_de_Auxilios_e_Bolsas.pdf). 
+ 
+ 
+ 
+  
+8 
+ 
+7. Cronograma 
+Lançamento do edital 
+13/10/2016 
+Submissão de propostas on-line 
+de 13/10/2016 a 01/12/2016 05/01/2017 19/01/2017 
+Divulgação dos resultados preliminares 
+a partir de 02/03/2017 23/03/2017 20/04/2017 
+Entrega da documentação para 
+comprovação da regularidade econômica e 
+financeira para projetos pré-qualificados 
+Até 23/03/2017 27/04/2017 16/05/2017 
+Divulgação dos resultados finais 
+a partir de 06/04/2017 11/05/2017 01/06/2017 
+ 
+8. Procedimentos para inscrição 
+8.1 O proponente do projeto será responsável pelo preenchimento do formulário próprio on-line 
+no sistema SisFAPERJ e pela submissão do projeto (com login e senha próprios). 
+No caso de Empresas Brasileiras ou de Sociedades Cooperativas, o proponente do projeto deverá 
+ser, obrigatoriamente, o seu representante legal.  
+8.2 A inscrição se dará em duas fases:  
+Fase 1: cadastramento ou atualização do cadastro on-line do Proponente, Coordenador e 
+dos demais integrantes da equipe responsável pelo desenvolvimento do projeto (vide item 
+8.3);  
+Fase 2: preenchimento do formulário on-line, com prazo final às 16h do dia 19 de janeiro de 
+2017 (vide item 8.4); 
+8.3 Cadastramento on-line  
+Deverão estar inscritos e com dados atualizados no cadastro on-line (Sistema SisFAPERJ) a empresa 
+proponente e todos os participantes do projeto (preenchimento inicial ou atualização para os já 
+cadastrados).  
+· 
+Acessar https://sisfaperj.faperj.br/sisfaperj/ (login = o seu CNPJ ou CPF);  
+· 
+Clicar em "Meu Cadastro";  
+· 
+Preencher todos os dados da aba “Meu Cadastro” 
+ 
+Observação:  
+Para esclarecimento de dúvidas sobre o preenchimento do Sistema SisFaperj, favor 
+consultar, dentro do sistema, o manual na opção “Download – Manual de utilização do 
+  
+9 
+ 
+SisFAPERJ” ou em https://sisfaperj.faperj.br/sisfaperj/manual_do_usuario.pdf ou entrar em 
+contato com a Central de Atendimento da FAPERJ. 
+8.4 Preenchimento do formulário on-line:  
+Dentro do Sistema SisFAPERJ, seguir os seguintes passos:  
+· 
+Acessar o menu "Meu SisFAPERJ";  
+· 
+Selecionar a linha do Edital “Programa Apoio ao Desenvolvimento da Tecnologia da 
+Informação no Estado do Rio de Janeiro 2016" e clicar em “Solicitar fomento”; 
+· 
+Verificar os termos do contrato e clicar em "PROSSEGUIR";  
+· 
+A proposta deverá ser apresentada sob a forma de projeto;  
+· 
+O projeto deverá ser planejado para a duração máxima de até 24 (vinte e quatro) meses, 
+contados a partir da data de liberação inicial dos recursos e conter, obrigatoriamente, os 
+seguintes itens introdução, justificativa, objetivos, metas, estágio de desenvolvimento 
+do produto e/ou processo, metodologia, grau de inovação para o mercado local, 
+regional, nacional ou internacional e risco tecnológico, impactos econômicos e sociais 
+esperados no Estado do Rio de Janeiro e no País, nome e experiência do coordenador do 
+projeto e da equipe envolvida, cronograma de execução em meses corridos, orçamento 
+detalhado de todos os itens, e infraestrutura existente na empresa para a execução do 
+projeto; 
+· 
+Preencher o formulário on-line e anexar na aba “Documentos”, quando aplicável:  
+a) Cópia do Ato Constitutivo e alterações registradas na Junta Comercial (Contrato 
+Social); 
+b) Cópia do Registro referente ao Cadastro de Pessoa Jurídica – CNPJ;  
+c) Cópia do Alvará de Funcionamento da Empresa (válido);  
+d) Cópia da comprovação do vínculo do Coordenador do Projeto à Empresa;  
+e) Proposta orçamentária das firmas para aquisição de todos os itens solicitados à 
+FAPERJ (“proforma invoice”, em caso de companhias estrangeiras), indicando em 
+quais etapas do projeto serão utilizados. Serviços em equipamentos e contratos de 
+manutenção corretiva ou preventiva também deverão ter as suas propostas de 
+orçamento incluídas no projeto, quando houver previsão destes itens; 
+f) Documento com a assinatura de todos os participantes da proposta, atestando 
+participar apenas desta proposta neste Edital, assim como a concordância com seus 
+termos. 
+· 
+Esses dados devem ser totalmente preenchidos no formulário online. Não serão aceitos 
+os projetos submetidos que não estejam acompanhados dos documentos referidos ou 
+que contenham documentos ilegíveis; 
+· 
+Para fins de participação neste Edital, as empresas que, por questões de Legislação 
+Tributária, forem optantes pelo SIMPLES, NÃO estão isentas de apresentar a 
+  
+10 
+ 
+documentação contábil exigida. A documentação contábil é obrigatória e, se não for 
+apresentada, causará a desclassificação do projeto; 
+· 
+O solicitante responsável pela proposta eletrônica no presente Edital poderá salvar o seu 
+preenchimento no SISFAPERJ quantas vezes for necessário e acessá-lo novamente a 
+partir do menu "Meu SisFaperj"; 
+· 
+Para fazer o envio definitivo do pedido, clicar no botão "Enviar para Faperj". Após o envio 
+definitivo da proposta, não haverá possibilidade de alteração ou substituição de seu 
+conteúdo; 
+· 
+Para gerar e imprimir o Formulário de Inscrição o solicitante deve acessar seu pedido no 
+SisFaperj e selecionar o “botão” Imprimir; 
+· 
+O sistema SisFaperj foi projetado para: Google Chrome, Mozilla Firefox e Internet Firefox 
+em ambiente Windows. A utilização do SisFaperj em ambientes fora dos recomendados 
+pode representar risco ao conteúdo da Proposta e é de inteira responsabilidade do 
+solicitante. 
+· 
+É responsabilidade do proponente verificar o correto preenchimento e envio das 
+informações. 
+Após o envio:  
+· 
+O pedido encontra-se no estado "Em Verificação" (vide menu “Meu SisFaperj”);  
+· 
+O solicitante receberá um e-mail com a confirmação do recebimento e o número de 
+protocolo;  
+· 
+O Formulário de Inscrição on-line será gerado automaticamente. O formulário é gerado 
+somente após o envio definitivo da inscrição on-line;  
+· 
+Somente os proponentes contemplados neste edital deverão entregar no Setor de 
+Protocolo da FAPERJ uma cópia impressa desse formulário, com as devidas assinaturas e 
+carimbos requeridos, assim como os documentos de regularidade fiscal e jurídica na  
+data indicada no Cronograma (item 7). 
+ 
+ Observação: Para esclarecimento de dúvidas sobre o preenchimento do Sistema SisFAPERJ, favor 
+consultar, dentro do sistema, o manual na opção “Download – Manual de utilização do SisFAPERJ” 
+ou em https://sisfaperj.faperj.br/sisfaperj/manual_do_usuario.pdf ou ainda pela Central de 
+Atendimento da FAPERJ; dúvidas remanescentes poderão ser dirimidas com envio de mensagem 
+eletrônica para  ti2016@faperj.br. 
+ 
+9. Rejeição de propostas 
+  
+11 
+ 
+9.1 Serão rejeitadas as propostas de cuja equipe conste pessoas físicas com pendências ou 
+inadimplências junto à FAPERJ; também se aplica nesse caso a não entrega de relatórios solicitados 
+a coordenadores de propostas anteriores financiadas, tais como o relatório final e resumos para 
+divulgação organizada pela Fundação; 
+9.2 Serão rejeitadas as propostas que não apresentarem as cotações de preços dos fornecedores e 
+prestadores de serviços, no mínimo uma por item orçado; 
+9.3 Não serão aceitas propostas submetidas por qualquer outro meio, tampouco após o prazo final 
+de recebimento estabelecido no cronograma (item 7). As propostas enviadas fora do prazo 
+estipulado para submissão não serão aceitas pelo sistema SisFAPERJ; por este motivo, e no 
+cumprimento do disposto no caput do art. 41, da Lei n.º 8.666, de 21 de junho de 1993, não haverá 
+possibilidade da proposta ser acolhida, examinada e julgada; 
+9.4 A FAPERJ não se responsabilizará por propostas não recebidas dentro do prazo em decorrência 
+de eventuais problemas técnicos e congestionamentos da rede ou com problemas de 
+preenchimento devido a não utilização dos navegadores e/ou ambiente operacional conforme 
+orientações do item 8.4; 
+9.5 Será aceita uma única proposta por proponente; após o envio, o mesmo proponente fica 
+impedido de enviar uma segunda proposta; 
+9.6 Serão desclassificadas as propostas não aderentes a este Edital, bem como quaisquer propostas 
+idênticas apresentadas em outros editais ou programas lançados pela FAPERJ; 
+9.7 A falta de qualquer arquivo na submissão on-line desclassificará a proposta. 
+ 
+ 
+10. Análise e julgamento 
+ 
+10.1 A Diretoria de Tecnologia e Inovação da FAPERJ nomeará Comitê Especial de Julgamento 
+específico para o presente Edital, ao qual caberá a análise, o julgamento e a classificação das 
+propostas; 
+ 
+ 
+  
+12 
+ 
+10.2 É vedado a qualquer membro do Comitê Especial julgar propostas em que: 
+a) haja interesse direto; 
+b) esteja participando da equipe da proposta seu cônjuge, companheiro ou parente, 
+consanguíneo ou afim, em linha reta ou na colateral, até o terceiro grau; 
+c) esteja litigando judicial ou administrativamente com qualquer membro da equipe da 
+proposta ou seus respectivos cônjuges ou companheiros. 
+10.3 Nenhum membro do Comitê Especial de Julgamento poderá fazer parte da equipe de qualquer 
+proposta; 
+10.4 A avaliação das propostas cumprirá as seguintes etapas: pré-qualificação, análise de mérito e 
+priorização, comprovação da Regularidade Fiscal e Jurídica e deliberação pela Diretoria da FAPERJ:  
+10.4.1 Pré-qualificação 
+Esta etapa, a ser realizada pela área técnica da FAPERJ, consiste na análise das propostas 
+quanto ao atendimento às disposições estabelecidas no Edital relativas à: 
+· 
+elegibilidade do proponente; 
+· 
+preenchimento completo do Formulário de Propostas on line, segundo suas instruções 
+de preenchimento; 
+· 
+conformidade com os modelos de formulários da FAPERJ; 
+· 
+atendimento aos valores limites;  
+· 
+itens financiáveis do projeto; 
+· 
+contrapartida apresentada pelo proponente; 
+· 
+duplicidade de propostas; 
+· 
+coerência do cronograma estabelecido. 
+ 
+ 
+ 
+10.4.2 Análise do mérito e priorização 
+O Comitê de Julgamento deverá apresentar as justificativas de recomendação ou não para 
+todas as propostas e, após a conclusão dos trabalhos de julgamento, elaborará Relatório da Reunião, 
+contendo a relação dos projetos julgados recomendados ou não recomendados, assim como outras 
+informações e recomendações julgadas pertinentes. 
+ 
+ 
+  
+13 
+ 
+ 
+ 
+Serão levados em consideração os seguintes critérios: 
+Critério 
+Notas 
+Peso 
+Conformidade ao objetivo 
+1 a 5 
+4 
+Estágio de desenvolvimento do produto e/ou processo 
+1 a 5 
+3 
+Grau de inovação para o mercado local, regional, nacional ou  
+internacional  
+1 a 5 
+4 
+Capacitação técnica da equipe executora 
+1 a 5 
+4 
+Adequação da metodologia 
+1 a 5 
+3 
+Adequação da infraestrutura 
+1 a 5 
+2 
+Adequação do orçamento do projeto 
+1 a 5 
+4 
+Adequação do cronograma físico do projeto 
+1 a 5 
+1 
+ 
+As propostas serão enquadradas com base nas seguintes prioridades: 
+· 
+recomendadas com prioridade, de acordo com os recursos financeiros disponibilizados 
+pelo Edital; 
+· 
+recomendadas sem prioridade, para a eventual substituição de propostas 
+recomendadas com prioridade que não forem implementadas; 
+· 
+não recomendadas. 
+  
+10.4.3 Comprovação da Regularidade Fiscal e Jurídica 
+Os projetos recomendados com prioridade irão compor o resultado preliminar, que será 
+divulgado na data prevista no cronograma deste Edital (item 7), para que apresentem os 
+documentos de regularidade fiscal e jurídica, relacionados no Anexo I. 
+ 
+QUAISQUER AÇÕES JUDICIAIS QUE DEVERIAM SER CONHECIDAS PELO PROPONENTE E QUE NÃO 
+FORAM REGISTRADAS NO RELATÓRIO DE CONTENCIOSO ACARRETARÃO A ELIMINAÇÃO DA PROPOSTA. 
+CASO A FAPERJ ENTENDA QUE AS AÇÕES JUDICIAIS EM CURSO PODERÃO COMPROMETER A BOA 
+EXECUÇÃO DO PROJETO, DESCLASSIFICARÁ O PROPONENTE, MESMO QUE A AÇÃO TENHA SIDO REGISTRADA 
+NO RELATÓRIO DE CONTENCIOSO. 
+ 
+  
+14 
+ 
+A documentação necessária, solicitada no Anexo I, deverá ser entregue no protocolo da 
+FAPERJ, acondicionada em envelope lacrado e identificado de acordo com o modelo abaixo:  
+  
+DOCUMENTAÇÃO PARA AVALIAÇÃO DA REGULARIDADE 
+FISCAL E DE CONTECIOSO JUDICIAL 
+Edital FAPERJ N.º 20/2016 Programa Apoio ao Desenvolvimento da 
+Tecnologia da Informação no Estado do Rio de Janeiro 2016 
+NOME DO PROPONENTE: 
+TÍTULO DO PROJETO: 
+NÚMERO DE PROTOCOLO DO PROJETO: 
+  
+ 
+10.4.4 Deliberação pela Diretoria 
+A etapa decisória será concluída com a classificação e aprovação das propostas consideradas 
+qualificadas pelo Comitê de Julgamento, submetidas à decisão final da Diretoria da FAPERJ. A 
+decisão final da Diretoria se fundamentará nos recursos financeiros disponibilizados para o 
+presente. 
+ 
+ 
+11. Relatório Técnico-Científico e Prestação de Contas dos recursos concedidos pela FAPERJ 
+11.1 O prazo máximo para a apresentação no Setor de Protocolo da FAPERJ do Relatório Técnico 
+Científico, juntamente com a Prestação de Contas, é de 60 (sessenta) dias, a contar do término de 
+execução do projeto; 
+11.2 A comprovação de execução das despesas com recursos concedidos pela FAPERJ para os 
+projetos aprovados deverá obedecer às normas das Instruções para Prestação de Contas -  
+disponíveis no endereço 
+http://www.faperj.br/downloads/Instrucoes_para_Prestacao_de_Contas.pdf 
+ e ao tutorial “Como elaborar a Prestação de Contas” - disponível no endereço 
+http://www.faperj.br/downloads/TUTORIAL_Como_elaborar_Prestacao_de_Contas.pdf 
+ bem como a orientações complementares que venham a ser expedidas por sua Diretoria; 
+11.3 Caso o Relatório Técnico-Científico ou a Prestação de Contas não sejam entregues ou 
+aprovados, serão adotadas as medidas legais cabíveis, bem como as penalidades previstas no Termo 
+de Outorga e Aceitação de Auxílio; 
+  
+15 
+ 
+11.4 Além do relatório detalhado, ao final do desenvolvimento do projeto, cada grupo apoiado por 
+este Edital deverá estar disponível para apresentação de seus resultados, em data e local a serem 
+marcados em comum acordo com a diretoria da FAPERJ; 
+11.5 A FAPERJ poderá, analisada a conveniência e oportunidade, divulgar ou publicar os resultados 
+obtidos pela concessão do fomento aos projetos aprovados pelo presente Edital. 
+ 
+12. Revogação ou anulação do edital 
+A qualquer tempo, o presente Edital poderá ser revogado ou anulado, no todo ou em parte, 
+inclusive quanto aos recursos a ele alocados, por decisão unilateral da FAPERJ, por motivo de 
+interesse público ou por exigência legal, sem que isso implique direitos à indenização ou reclamação 
+de qualquer natureza. 
+  
+13. Disposições gerais 
+13.1 Qualquer resultado apoiado com recursos provenientes do presente Edital deverá citar, 
+obrigatoriamente, o apoio da FAPERJ; 
+13.2 Deverá ser comunicada à FAPERJ, pelo proponente, qualquer alteração relativa à execução do 
+projeto apresentado, acompanhada da devida justificativa; 
+13.3 A FAPERJ poderá realizar, periodicamente, acompanhamento da execução do projeto, por meio 
+de formulários específicos a serem remetidos aos responsáveis, e por visitas técnicas; 
+13.4 A concessão do apoio financeiro poderá ser cancelada pela diretoria da FAPERJ por ocorrência 
+de fato cuja gravidade justifique o seu cancelamento, sem prejuízo de outras providências cabíveis; 
+13.5 Os executores dos projetos selecionados neste Edital se comprometem a prestar assessoria ad 
+hoc para a FAPERJ durante o período de sua vigência; 
+13.6 Em se constatando violação às cláusulas do presente Edital, a FAPERJ poderá restringir apoios 
+futuros aos componentes das equipes das propostas contempladas, registrando-os em cadastro 
+interno de inadimplentes; 
+13.7 Dúvidas e esclarecimentos sobre este edital deverão ser enviados única e exclusivamente para 
+o endereço ti2016@faperj.br; 
+  
+16 
+ 
+13.8 Eventual recurso aos resultados divulgados deverá ser única e exclusivamente submetido à 
+FAPERJ, pelo endereço ti2016@faperj.br até 7 (sete) dias úteis após a notificação do resultado; 
+nesse caso, nenhum novo documento ou fato poderá ser incluído no recurso, cabendo à diretoria 
+da FAPERJ o seu julgamento; 
+13.9 Após a liberação dos resultados finais, a FAPERJ fará contato com os proponentes das propostas 
+aprovadas, por meio do e-mail informado nos cadastros, para a retirada dos Termos de Outorga e 
+Aceitação de Auxílio, e de documentos necessários para abertura de conta bancária (específica para 
+administração dos recursos disponibilizados pela Fundação); 
+13.10 Por ocasião da emissão dos Termos de Outorga e Aceitação de Auxílio, se o Proponente, 
+Coordenador ou demais membros da equipe do projeto estiverem no estado de inadimplência, 
+estes deverão entregar no Setor de Protocolo da FAPERJ o Relatório Técnico-Científico, ou sua 
+reformulação, e a Prestação de Contas pendentes, em até 30 dias, sob pena de desclassificação do 
+projeto contemplado; 
+13.11 Os casos omissos neste Edital serão resolvidos pela Diretoria da FAPERJ. 
+  
+Rio de Janeiro, 13 de outubro de 2016. 
+  
+Augusto C. Raupp 
+Presidente 
+ 
+ 
+  
+17 
+ 
+ANEXO I 
+ 
+Documentação comprobatória da regularidade fiscal, jurídica e econômico-financeira 
+ 
+Os proponentes deverão apresentar os documentos relativos à sua regularidade fiscal, e 
+jurídica.  
+A documentação exigida deverá ser apresentada no prazo estipulado. Caso contrário, o 
+projeto será desclassificado em consonância com este Edital.  
+ 
+PESSOA JURÍDICA 
+ 
+Os proponentes deverão apresentar os seguintes documentos comprobatórios de regularidade 
+fiscal, jurídica e econômico-financeira: 
+ 
+• Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas (CNPJ);  
+• Ato constitutivo inscrito no respectivo registro (contrato social ou estatuto ou outro 
+equivalente) e, SE HOUVER, regimento interno;  
+• Ato que comprova a designação do(s) atual(s) representante(s) legal;  
+• Prova de inscrição no cadastro de contribuintes estadual ou municipal, SE HOUVER, relativo 
+ao domicílio ou sede do proponente, ou outra equivalente;  
+• Certidão conjunta de débitos relativos a Tributos Federais e à Dívida Ativa da União emitida 
+pela Receita Federal e Procuradoria Geral da União (PGN);  
+• Certificado de regularidade do FGTS (CRF) expedido pela Caixa Econômica Federal;  
+• Certidão Negativa da Receita/Dívida Ativa do Estado;  
+• Certidão Negativa da Receita/Dívida Ativa do Município; 
+• Prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho, mediante a 
+apresentação de Certidão Negativa de Débitos Trabalhistas (CNDT) ou da Certidão Positiva 
+de Débitos Trabalhistas com os mesmos efeitos da CNDT.  
+• Relatório de contencioso, indicando o total de processos cíveis, fiscais/tributários e 
+trabalhistas, os valores pedidos e os valores provisionados, assinado pelo(s) representante(s) 
+legal(s) da proponente. Obs.: se não houver, obrigatório marcar o campo específico “que 
+não possui processos de contencioso”. 
+• Declaração do proponente de que não possui em seu quadro funcional menor de dezoito 
+anos desempenhando trabalho noturno, perigoso ou insalubre ou qualquer trabalho por 
+menor de dezesseis anos, na forma do artigo 7º, inciso XXXIII, da Constituição Federal; e  
+• Declaração da receita bruta no exercício fiscal anterior.  
+ 
+A documentação exigida deverá ser apresentada no prazo estipulado. Caso contrário, o projeto será 
+desclassificado em consonância com este Edital.  
+Observação: no caso de o proponente ser uma cooperativa, os seguintes documentos deverão ser 
+apresentados EM CONJUNTO com os anteriormente citados:  
+  
+I – Ata de fundação; 
+  
+18 
+ 
+II – Estatuto (com ata da assembleia de aprovação); 
+III – Regimento interno (com ata da aprovação); 
+IV – Regimento dos fundos (com ata de aprovação); 
+V – Edital de convocação de assembleia geral e ata em que foram eleitos os dirigentes e 
+conselheiros; 
+VI – Registro da presença dos cooperados em assembleias gerais; 
+VII – Ata da sessão em que os cooperados autorizaram a cooperativa a contratar o objeto 
+deste certame, se vencedora; 
+VIII – Relação dos cooperados que executarão o objeto, acompanhada dos documentos 
+comprobatórios da data de ingresso de cada qual na cooperativa. 
+  
+PESSOA FÍSICA 
+ 
+Os proponentes deverão apresentar os seguintes documentos comprobatórios de regularidade 
+fiscal, jurídica e econômico-financeira: 
+  
+• 
+Prova de inscrição no Cadastro Nacional de Pessoas Físicas (CPF);  
+• 
+Identidade, civil, profissional ou militar, com validade em todo território nacional;  
+• 
+Certidão conjunta de débitos relativos a Tributos Federais e à Dívida Ativa da União emitida 
+pela Receita Federal e Procuradoria Geral da União (PGN);  
+• 
+Certificado de regularidade do FGTS (CRF) expedido pela Caixa Econômica Federal, por 
+Cadastro Específico do INSS (CEI), SE HOUVER.  
+• 
+Certidão Negativa da Receita/Dívida Ativa do Estado;  
+• 
+Certidão Negativa da Receita/Dívida Ativa do Município; 
+• 
+Prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho, mediante a 
+apresentação de Certidão Negativa de Débitos Trabalhistas (CNDT) ou da Certidão Positiva de 
+Débitos Trabalhistas com os mesmos efeitos da CNDT.  
+• 
+Relatório de contencioso, indicando o total de processos cíveis, fiscais/tributários e 
+trabalhistas, os valores pedidos e os valores provisionados, assinado pelo proponente. Obs.: se não 
+houver, obrigatório marcar o campo específico “que não possui processos de contencioso”. 
+ 
+A documentação exigida deverá ser apresentada no prazo estipulado. Caso contrário, o projeto 
+será desclassificado em consonância com este Edital.  
+ 
+  
+19 
+ 
+ANEXO II 
+Modelos de Declaração de Contencioso 
+ 
+ 
+DECLARAÇÃO DE CONTENCIOSO – PESSOA JURÍDICA 
+ 
+[EMPRESA], com sede em [ENDEREÇO], inscrita no [CNPJ] sob o nº. [NÚMERO], por seu representante legal abaixo qualificado, declara 
+junto à FAPERJ que apresenta o seguinte quadro relativo ao seu contencioso: 
+ 
+ 
+ 
+PERDA 
+ 
+ 
+ 
+PROCESSOS 
+ 
+PROVÁVEL (R$) 
+POSSÍVEL (R$) 
+REMOTA (R$) 
+PROVISIONADO (R$) 
+ 
+CÍVEIS 
+ 
+ 
+ 
+ 
+ 
+ 
+FISCAIS/TRIBUTÁRIOS 
+ 
+ 
+ 
+ 
+ 
+ 
+TRABALHISTAS 
+ 
+ 
+ 
+ 
+ 
+ 
+TOTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+(  ) que NÃO possui processos de contencioso. 
+ 
+[Local], _____ de ____________ de 2016. 
+ 
+__________ 
+[NOME] 
+[CARGO] 
+[CPF] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+20 
+ 
+ 
+ 
+ 
+DECLARAÇÃO DE CONTENCIOSO – PESSOA FÍSICA 
+ 
+[NOME], domiciliado em [ENDEREÇO], inscrito no [CPF] sob o nº. [NÚMERO], declara junto à FAPERJ que apresenta o seguinte quadro 
+relativo ao seu contencioso: 
+ 
+ 
+ 
+PERDA 
+ 
+ 
+ 
+PROCESSOS 
+ 
+PROVÁVEL (R$) 
+POSSÍVEL (R$) 
+REMOTA (R$) 
+PROVISIONADO (R$) 
+ 
+CÍVEIS 
+ 
+ 
+ 
+ 
+ 
+ 
+FISCAIS/TRIBUTÁRIOS 
+ 
+ 
+ 
+ 
+ 
+ 
+TRABALHISTAS 
+ 
+ 
+ 
+ 
+ 
+ 
+TOTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+(  ) que NÃO possui processos de contencioso. 
+ 
+[Local], _____ de ____________ de 2016. 
+ 
+__________ 
+[NOME] 
+ 

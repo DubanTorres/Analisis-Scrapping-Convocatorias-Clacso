@@ -1,0 +1,760 @@
+Edital FAPERJ Nº 07/2018 – Programa de Apoio a Projetos de 
+Inovação no Campo da Segurança Pública - Ciência Forense 
+2018 
+O Governo do Estado do Rio de Janeiro, a Secretaria de Estado de Ciência, Tecnologia, Inovação e 
+Desenvolvimento Social e a Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de 
+Janeiro - FAPERJ fazem saber, por via do presente Edital, que estão abertas as inscrições para a 
+seleção de projetos de apoio à pesquisa e inovação no campo da Ciência Forense, a serem 
+desenvolvidos no Estado do Rio de Janeiro. 
+1. Objetivos do Edital 
+1.1. Estimular a pesquisa forense a fim de gerar condições para qualificar metodologias e 
+tecnologias de pesquisa e de atuação relevantes para a segurança pública, especialmente nas 
+áreas da informática e tecnologia da informação; laboratórios analíticos forenses; avanços 
+metodológicos e tecnologias inovadoras na investigação do crime de homicídio, ampliando o 
+espaço de difusão e troca nos e entre os diferentes campos do conhecimento; 
+1.2. Apoiar o desenvolvimento tecnológico e científico de empresas inovadoras nascentes e já 
+estabelecidas na atuação junto à resolução de problemas no campo da ciência forense do 
+Estado do Rio de Janeiro. 
+2. Elegibilidade 
+2.1. Enquadramento 
+2.1.1. Para este Edital, os proponentes elegíveis são Pessoas Físicas vinculadas a uma ICT, à 
+perícia técnica da Policia Civil do Estado do Rio de Janeiro, ou a instituição inovadora 
+nascente ou já estabelecida; 
+2.1.2. Serão aceitos projetos para a criação, experimentação, pesquisa, desenvolvimento e 
+inovação, no campo da ciência forense, especialmente nos segmentos de:  
+2.1.2.1. 
+Informática e tecnologia da informação (Aplicativos para análise de locais de 
+crime e provas materiais; Aplicativos e programas para geração de laudos 
+compatíveis com sistema SPTWEB; Programas de seguranças de informação 
+aplicados as ações policiais; Programas para gestão da cadeia de custódia e gestão de 
+materiais;  Desenvolvimento de software ou hardware para identificação e 
+ reconhecimento de imagens e padrões + GPS, incluindo padrões de manchas de 
+sangue), 
+2.1.2.2. 
+Laboratórios analíticos forenses (Desenvolvimento de metodologia analítica para 
+amostras químicas e bioquímicas forenses; Desenvolvimento de kit de diagnóstico 
+rápido para amostras químicas, físicas e biológicas; Avanços metodológicos e 
+tecnologias inovadoras em análise de toxicologia forenses; Desenvolvimentos de kits 
+de ensaios para análises forenses);  
+2.1.2.3. 
+Avanços metodológicos e tecnologias inovadoras na investigação do crime de 
+homicídio. 
+2.1.3. O proponente deverá realizar as atividades do projeto no Estado do Rio de Janeiro. 
+Excepcionalmente, atividades complementares ou de certificação, homologação e testes 
+poderão ser realizadas em outros estados ou fora do país. Para esse fim, as atividades a 
+serem custeadas com os recursos solicitados deverão estar adequadamente identificadas 
+no projeto submetido; 
+2.1.4. O proponente deverá ser o principal responsável pelo desenvolvimento do projeto, 
+conforme o objetivo do Edital, pelas informações referentes à gestão do projeto e pela 
+movimentação da conta bancária exclusiva; 
+2.2. Restrições 
+2.2.1. Os proponentes e membros da equipe, com pendência na entrega de Relatório Técnico, 
+reformulação de Relatório Técnico, Prestação de Contas, ou exigência de Prestação de 
+Contas, caracterizando inadimplência junto à FAPERJ, não poderão participar do presente 
+Edital; 
+2.2.2. Somente serão aceitas as propostas enviadas pelo sistema SisFAPERJ e dentro do prazo 
+final de recebimento estabelecido no cronograma do Edital. Em cumprimento ao disposto 
+no caput do art. 41, da Lei n.º 8.666, de 21 de junho de 1993, não haverá possibilidade das 
+propostas encaminhadas fora do prazo serem acolhidas, examinadas e julgadas; 
+2.2.3. A FAPERJ não se responsabilizará por propostas não recebidas dentro do prazo em 
+decorrência de eventuais problemas técnicos e congestionamentos da rede; 
+2.2.4. As propostas submetidas neste Edital que não se enquadrarem nos objetivos, critérios de 
+elegibilidade, ou sejam similares a propostas apresentadas em outros editais ou programas 
+lançados pela FAPERJ serão desclassificadas; 
+2.2.5. Será aceita uma única proposta por proponente; 
+ 2.2.6. Serão rejeitados os projetos que não apresentarem as propostas dos fornecedores e de 
+prestadores de serviços, ou qualquer arquivo solicitado na submissão on-line; 
+2.2.7. O prazo para execução do projeto será de 24 (vinte e quatro) meses, contados a partir da 
+data da liberação (depósito) dos recursos financeiros. 
+3. Recursos financeiros 
+3.1. Os recursos alocados para financiamento do presente Edital são da ordem de R$ 3.500.000,00 
+(três milhões e quinhentos mil reais) definidos na Programação Orçamentária da FAPERJ, 
+podendo, a critério de sua diretoria, incluir recursos adicionais, dependendo da disponibilidade 
+decorrente de alteração na citada Programação; 
+3.2. O presente Edital é dividido em duas categorias: 
+ Categoria A: nível de implementação e validação de protótipos de produtos e serviços de 
+empreendimentos nascentes, contemplando até R$ 1.500.000,00 (hum milhão e quinhentos 
+mil reais) em projetos de valor unitário até R$ 250.000,00 (duzentos e cinquenta mil reais); 
+ 
+Categoria B: nível de desenvolvimento e escalabilidade de empreendimentos nascentes, 
+contemplando até R$ 2.000.000,00 (dois milhões de reais) em projetos de valor unitário até 
+R$ 500.000,00 (quinhentos mil reais); 
+3.3. Os recursos financeiros serão destinados a despesas de capital e custeio, conforme o 
+Classificador de Despesa e Receita do Estado do Rio de Janeiro; 
+3.4. As propostas selecionadas receberão recursos em 2 (duas) parcelas; 
+3.5. Os proponentes poderão também utilizar recursos oriundos de empresas ou outras instituições 
+que se interessarem em participar no desenvolvimento do projeto. 
+3.6. A liberação da 2ª parcela está condicionada à apresentação e aprovação de Relatório Técnico 
+Parcial a ser apresentado 12 meses após a liberação da 1ª parcela. 
+ 
+4. Cronograma 
+Lançamento do Edital 
+18 de outubro de 2018 
+Submissão de propostas on-line 
+Até às 16h de12 de novembro de 2018 
+Divulgação dos resultados preliminares  
+ 29 de novembro de 2018 
+Apresentação dos documentos exigidos 
+De 29 de novembro a10 de dezembro de 
+2018 
+Divulgação dos resultados finais 
+13 de dezembro de 2018 
+ 
+5. Procedimentos de inscrição 
+ 5.1. O proponente é responsável pelo preenchimento do formulário on-line no sistema SisFAPERJ 
+(com login e senha próprios associados ao CPF do proponente); 
+5.2. A proposta deverá ser apresentada sob a forma de projeto; 
+5.3.  O projeto deverá ser planejado para a duração máxima de até 24 (vinte e quatro) meses 
+contados a partir da data de liberação dos recursos e conter, obrigatoriamente, os seguintes 
+itens: título, introdução, objetivos, justificativas, metas, método, resultados esperados, 
+impactos esperados no Estado do Rio de Janeiro e no País, histórico do proponente, equipe, e 
+infraestrutura existente para execução do projeto, orçamento e cronograma; 
+5.4. O conteúdo do projeto, bem como outras informações e documentos anexados, é de inteira 
+responsabilidade de quem o submete. Nele deverão ser relacionados todos os auxílios 
+pleiteados pelo solicitante, para a mesma finalidade, a outras agências de fomento;  
+5.5. Antes da elaboração da proposta, deverão ser consultadas as informações detalhadas sobre 
+despesas de capital ou custeio admitidas, que constam no item “Despesas Cobertas com 
+Recursos Concedidos pela FAPERJ” das Instruções para Concessão e Utilização de Auxílios e 
+Bolsas, bem como as Instruções para Prestação de Contas, disponíveis na página eletrônica da 
+FAPERJ; 
+5.6. A inscrição se dará em duas fases: 
+ 
+Fase 1: Cadastramento ou atualização do cadastro on-line do Proponente, 
+(Coordenador) e dos demais integrantes da equipe responsável pelo desenvolvimento do 
+projeto; 
+ 
+Fase 2: Preenchimento do formulário on-line. 
+5.7. Cadastramento on-line: Deverão estar inscritos e com dados atualizados no cadastro on-line do 
+Sistema SisFAPERJ o Proponente e todos os participantes do projeto (preenchimento inicial 
+ou atualização para os já cadastrados): 
+ Acessar https://sisfaperj.faperj.br/sisfaperj/ (login = o seu CPF); 
+ Clicar em "Meu Cadastro"; 
+ Preencher todos os dados da aba “Meu Cadastro”. 
+5.8. Preenchimento do formulário on-line. No Sistema SisFAPERJ, seguir os seguintes passos:  
+ Acessar o menu "Meu SisFAPERJ"; 
+  Selecionar a linha do Edital “Programa de Apoio a Projetos de Ciência Forense; 
+ Impacto Socioambiental 2018" e clicar em “Solicitar fomento”; 
+ Preencher as informações solicitadas em cada aba; 
+5.9. Conforme as necessidades do projeto, cada item do orçamento deverá ser alocado nos itens 
+específicos das abas “Orçamento Detalhado de Custeio” ou “Orçamento Detalhado de 
+Capital”. Os totais dos itens solicitados à FAPERJ serão transportados automaticamente pelo 
+sistema para a aba “Orçamento Resumido”. Nesta aba deverão ser relacionadas as 
+contrapartidas financeiras, se houverem; 
+5.10. 
+As propostas orçamentárias das firmas deverão ser anexadas na aba "Documentos", 
+assim como os demais arquivos correspondentes ao item 6.1 "Documentação para Avaliação 
+de Conformidade" e outros documentos relevantes para a análise da proposta. 
+5.11. 
+Preenchidos todos os campos e anexados todos os documentos, o Proponente deverá 
+seguir até a aba “Histórico”, escolher a opção “Enviar para a FAPERJ”, e, em seguida, clicar 
+no botão “Exec” (executar). Feito isso, o status do pedido no SisFAPERJ deverá estar “Em 
+Verificação”, o que garante que o pedido foi devidamente enviado e recebido pela FAPERJ. 
+Antes do envio, porém, a proposta apresentará o status “Em Elaboração” e poderá ser salva a 
+qualquer momento, sendo que os campos podem ser revistos e os documentos substituídos;  
+5.12. 
+Após o envio da submissão da proposta no SisFAPERJ  ou após o encerramento do 
+prazo da chamada, não é possível anexar, modificar ou enviar por e-mail qualquer documento 
+ou informação complementar; 
+5.13. 
+Para esclarecimento de dúvidas sobre o preenchimento do Sistema SisFAPERJ deverá 
+ser consultado o manual disponível, dentro do próprio sistema, na opção “Download – Manual 
+de 
+ 
+utilização 
+do 
+SisFAPERJ” 
+ou 
+através 
+do 
+endereço 
+https://sisfaperj.faperj.br/sisfaperj/manual_do_usuario.pdf, ou, ainda, entrar em contato com a 
+Central de Atendimento da FAPERJ. 
+6. Avaliação das propostas 
+6.1. Documentação para Avaliação de Conformidade 
+6.1.1. Declaração de responsabilidade – Documento com assinatura, nome e CPF de todos 
+os participantes da proposta, atestando participar apenas desta proposta neste Edital, 
+ concordância com seus termos, e responsabilidade pela veracidade das informações 
+apresentadas; 
+6.1.2. Proposta orçamentária das firmas para a aquisição de todos os itens solicitados à 
+FAPERJ (“proforma invoice”, em caso de companhias estrangeiras); 
+6.1.3. Comprovante de vínculo dos proponentes com entidades citadas no item 2.1.1; 
+6.1.4. Cronograma. 
+6.2. Avaliação de Mérito 
+6.2.1. Comitê de julgamento 
+6.2.1.1. 
+A Diretoria de Tecnologia e Inovação da FAPERJ nomeará Comitê Especial de 
+Julgamento específico para o presente Edital, ao qual caberá a análise, o julgamento 
+e a classificação das propostas; 
+6.2.1.2. 
+Poderão ser convidados a integrar o Comitê Especial de Julgamento integrantes 
+da Polícia Civil do Estado do Rio de Janeiro; 
+6.2.1.3. 
+É vedado a qualquer membro do Comitê Especial julgar projetos em que: 
+ Haja interesse direto; 
+ Esteja participando da equipe do projeto seu cônjuge, companheiro ou parente, 
+consanguíneo ou afim, em linha reta ou colateral, até o terceiro grau; 
+ Esteja litigando judicial ou administrativamente com qualquer membro da equipe do 
+projeto ou seus respectivos cônjuges ou companheiros. 
+6.2.1.4. 
+Nenhum membro do Comitê Especial de Julgamento poderá fazer parte da 
+equipe de qualquer proposta; 
+6.2.2. Critérios de avaliação 
+6.2.2.1. 
+Serão considerados os seguintes critérios para a avaliação de mérito das 
+propostas: 
+ 
+Excelência e originalidade do projeto para a criação, experimentação e pesquisa no 
+campo da ciência forense;  
+ 
+Experiência e capacidade técnica de execução da equipe envolvida no projeto, com 
+análise do currículo dos envolvidos; 
+  
+Aplicabilidade e relevância para o desenvolvimento do Estado do Rio de Janeiro, 
+especialmente no campo da segurança pública na área de perícia criminal; 
+ 
+Clareza e coerência na apresentação dos resultados pretendidos, expressos no texto 
+do projeto; 
+ 
+Impacto para a segurança pública do Estado do Rio de Janeiro; 
+ 
+Repercussão positiva ao ecossistema de empreendedorismo e inovação do Estado do 
+Rio de Janeiro, em especial àqueles projetos apresentados na forma de consórcios ou 
+redes que envolvam pesquisadores com uma instituição inovadora nascente e já 
+estabelecida, com ou sem fins de lucro; 
+ 
+Resultados em favor do desenvolvimento tecnológico e científico do Estado do Rio 
+de Janeiro; 
+ 
+Capacidade de execução de acordo com o cronograma apresentado; 
+Critério 
+Notas 
+Peso 
+Excelência e originalidade do projeto 
+1 a 10 
+2 
+Experiência e capacidade técnica da equipe executora 
+1 a 10 
+3 
+Aplicabilidade e relevância para a segurança pública na área de perícia 
+criminal 
+1 a 10 
+3 
+Clareza e coerência na apresentação dos resultados pretendidos 
+1 a 10 
+1 
+Impacto para a segurança pública do Estado 
+1 a 10 
+3 
+Repercussão positiva ao ecossistema de empreendedorismo e inovação 
+1 a 10 
+2 
+Resultados em favor do desenvolvimento tecnológico e científico 
+1 a 10 
+2 
+Capacidade de execução de acordo com o cronograma 
+1 a 10 
+1 
+ 
+6.2.2.2. 
+As propostas serão enquadradas com base nas seguintes prioridades: 
+ Recomendadas com prioridade, de acordo com os recursos financeiros 
+disponibilizados pelo Edital; 
+ Recomendadas sem prioridade, para a eventual substituição de propostas 
+recomendadas com prioridade que não forem implementadas; 
+  Não recomendadas. 
+6.3. A etapa decisória será concluída com a classificação e aprovação das propostas consideradas 
+qualificadas pelo Comitê de Julgamento, submetidas à decisão final da Diretoria da FAPERJ. 
+A decisão final da Diretoria se fundamentará nos recursos financeiros disponibilizados para o 
+presente Edital; 
+6.4. Os resultados do julgamento serão divulgados pela página da FAPERJ na Internet, em data 
+constante no cronograma deste Edital. 
+7. Obrigações do outorgado 
+7.1. Após aprovação 
+7.1.1. Somente os projetos recomendados com prioridade irão compor o resultado preliminar, 
+que será divulgado na data prevista no cronograma deste Edital para que os documentos 
+de regularidade fiscal e jurídica, relacionados no ANEXO I sejam entregues no protocolo 
+da FAPERJ, acondicionados em envelope lacrado e identificado de acordo com o modelo 
+abaixo: 
+ 
+ 
+ 
+ 
+ 
+ 
+7.1.2. Após a liberação dos resultados finais, a FAPERJ fará contato com os proponentes das 
+propostas aprovadas, por meio do e-mail informado nos cadastros, para a retirada dos 
+Termos de Outorga e Aceitação de Auxílio (ANEXO III) e de documentos necessários 
+para abertura de conta bancária (específica para administração dos recursos 
+disponibilizados pela Fundação); 
+7.1.3. Não serão recebidos pelo Setor de Protocolo da FAPERJ documentos entregues por 
+serviço de correios; 
+7.1.4. Caso a FAPERJ entenda que ações judiciais em curso poderão comprometer a boa 
+execução do projeto, desclassificará o proponente. 
+DOCUMENTAÇÃO PARA AVALIAÇÃO DA DOCUMENTAÇÃO FISCAL E DE 
+CONTENCIOSO JUDICIAL 
+Edital FAPERJ 07/2018 - Programa de Apoio a Projetos de Inovação no Campo da 
+Ciência Forense 2018 
+NOME DO PROPONENTE: 
+TÍTULO DO PROJETO: 
+NÚMERO DE INSCRIÇÃO DO PROJETO: 
+ 7.1.5. Se necessário, o Outorgado poderá submeter ao Departamento de Auxílios e Bolsas da 
+FAPERJ, por meio do formulário disponível na página eletrônica da Fundação, a 
+Solicitação de Retificação e Reemissão do Termo de Outorga, caso identifique alguma 
+rubrica em discordância com os itens aprovados pela FAPERJ. 
+7.2. Aplicação dos Recursos Financeiros 
+7.2.1. Após a devolução dos documentos para a concessão do Auxílio, o Outorgado deverá 
+aguardar, através de correio eletrônico, a comunicação do depósito do auxílio financeiro, 
+que caracteriza o início do prazo de execução financeira do projeto, para que então possa 
+realizar qualquer pagamento de despesas referentes ao Auxílio; 
+7.2.2. Os recursos deverão ser aplicados pelo proponente em itens estritamente relacionados 
+ao desenvolvimento e finalidade dos projetos por ele submetidos à FAPERJ; 
+7.2.3. Para realizar qualquer despesa, o Outorgado deverá cumprir as orientações contidas no 
+presente documento, assim como no item “Movimentação Financeira” das Instruções para 
+Concessão e Utilização de Auxílios e Bolsas e nas Instruções para Prestação de Contas. 
+Despesas que não estejam de acordo com a finalidade do projeto aprovado, assim como 
+aquelas que não forem devidamente comprovadas, serão ressarcidas à FAPERJ pelo 
+Outorgado; 
+7.2.4. São financiáveis com recursos deste Edital os itens do grupo de Despesas de Capital e 
+Custeio, relacionadas no item “4. Despesas Cobertas com Recursos Concedidos pela 
+FAPERJ” nas Instruções para Concessão e Utilização de Auxílios e Bolsas (disponível no 
+endereço 
+http://www.faperj.br/downloads/Instrucoes_para_Concessao_e_Execucao_de_Auxilios_e
+_Bolsas.pdf);  
+7.2.5. São exemplos de itens financiáveis (rubricas) do grupo de Despesas de Custeio: 
+ 
+Serviços de terceiros (pessoas físicas e jurídicas), no Brasil e no exterior, inclusive 
+serviços de pequenos reparos e adaptações de bens imóveis que importam em 
+modificações ou melhorias em espaço físico já existente, sem que envolvam alteração 
+estrutural do imóvel; 
+ 
+Material de consumo, componentes e/ou peças de reposição de equipamentos; 
+ Diárias e passagens, conforme a tabela de diárias do CNPq, disponível no endereço 
+http://www.cnpq.br/web/guest/diarias-para-auxilios; 
+7.2.6. São exemplos de itens financiáveis (rubricas) do grupo de Despesas de Capital, quando 
+aplicáveis:  
+ Aquisição de materiais permanentes nacionais ou importados; 
+  Obras de infraestrutura e instalações; 
+ Desenvolvimento, aquisição ou modificação de software; 
+7.2.7. Para um maior detalhamento sobre a classificação de itens de Custeio e de Capital, o 
+proponente poderá acessar Classificador de Despesas do Estado do Rio de Janeiro, 
+disponível no endereço: http://www.fazenda.rj.gov.br; 
+7.3. Vedações 
+7.3.1. A lista completa com todas as VEDAÇÕES E RESTRIÇÕES pode ser encontrada no 
+item “4.3 Vedações aplicáveis à concessão e à utilização de recursos” nas Instruções para 
+Concessão 
+e 
+Utilização 
+de 
+Auxílios 
+e 
+Bolsas 
+(disponível 
+no 
+endereço: 
+http://www.faperj.br/downloads/Instrucoes_para_Concessao_e_Execucao_de_Auxilios_e
+_Bolsas.pdf; 
+7.3.1.1. 
+São exemplos de VEDAÇÕES APLICÁVEIS À CONCESSÃO E À 
+UTILIZAÇÃO DE RECURSOS as seguintes despesas: 
+ Taxas bancárias, multas, encargos, indenizações, juros ou correção monetária; 
+ Construção de imóveis; 
+ Contratação ou complementação salarial de funcionários técnico-administrativos; 
+ Contas de luz, água, telefone, correio, reprografia e similares, entendidas como 
+despesas de contrapartida obrigatória do outorgado; 
+ Pagamento de bolsas de qualquer natureza; 
+ Aquisição de veículos automotores ou de equipamentos de grande porte; 
+ Pagamento, a qualquer título, servidor da administração pública, ou empregado de 
+empresa pública ou de sociedade de economia mista, por serviços de consultoria ou 
+assistência técnica. 
+7.4. Relatório Técnico e Prestação de Contas 
+7.4.1. Fica o proponente obrigado a apresentar, ao término do 12º (décimo segundo) mês de 
+trabalho, relatório parcial, descrevendo as atividades executadas até aquele momento, 
+anexando materiais que contribuam para o entendimento claro do processo de 
+desenvolvimento do projeto; 
+7.4.2. O Relatório Técnico final e a Prestação de Contas deverão ser entregues conjuntamente 
+no setor de protocolo da FAPERJ, no prazo máximo de 60 (sessenta) dias, a contar do 
+término da execução do projeto, de acordo com o item 2.2.7 deste Edital; 
+7.4.3. Os Relatórios Técnico e Final deverão obedecer às normas das “Instruções para 
+Concessão e Execução de Auxílios e Bolsas”, item “5. Relatório Técnico”, disponível em: 
+ http://www.faperj.br/downloads/Instrucoes_para_Concessao_e_Execucao_de_Auxilios_e
+_Bolsas.pdf, acessíveis no site da FAPERJ; 
+7.4.4. A comprovação de execução das despesas com recursos concedidos para os projetos 
+aprovados deverá obedecer às normas das “Instruções para Prestação de Contas”, 
+disponível em: 
+http://www.faperj.br/downloads/Instrucoes_para_Prestacao_de_Contas.pdf e o Tutorial 
+“Como 
+Elaborar 
+a 
+Prestação 
+de 
+Contas”, 
+disponível 
+em: 
+http://www.faperj.br/downloads/TUTORIAL_Como_elaborar_Prestacao_de_Contas.pdf; 
+7.4.5. Os bens patrimoniais (equipamentos e material permanente) adquiridos, produzidos, 
+transformados ou construídos com o presente auxílio ficarão sob a posse e guarda do 
+outorgado e registrado na FAPERJ como “bens a patrimoniar”, até a sua transferência 
+definitiva, de acordo com o que orienta a Lei Estadual nº 5.361/08, o que deverá ocorrer 
+anteriormente à apresentação do Processo de Prestação de Contas referente ao mesmo 
+auxílio. 
+7.4.6. Caso o Relatório Técnico – Científico e/ou a Prestação de Contas não sejam entregues 
+ou aprovados, serão adotadas medidas legais cabíveis, bem como as penalidades previstas 
+no Termo de Outorga e Aceitação de Auxílio (ANEXO III); 
+7.4.7. O proponente apoiado por este Edital deverá estar disponível para, caso necessário, 
+realizar a apresentação de seus resultados, em data e local a serem marcados em comum 
+acordo com a diretoria da FAPERJ; 
+7.4.8. A FAPERJ poderá realizar, periodicamente, acompanhamento da execução do projeto, 
+por meio de formulários específicos a serem remetidos aos responsáveis, e por visitas 
+técnicas e analisada a conveniência e oportunidade, divulgar ou publicar os resultados 
+obtidos pela concessão do fomento aos projetos aprovados; 
+7.4.9. Caso o Outorgado deseje solicitar o cancelamento do projeto, deverá encaminhar via e-
+mail para a central de atendimento o formulário disponível na página eletrônica da 
+FAPERJ; 
+7.4.10. O encerramento do processo de concessão de auxílio somente ocorrerá após a aprovação 
+do Relatório Técnico e da Prestação de Contas. 
+8. Disposições gerais 
+8.1. A qualquer tempo, o presente Edital poderá ser revogado ou anulado, no todo ou em parte, 
+inclusive quanto aos recursos a ele alocados, por decisão unilateral da FAPERJ, por motivo de 
+ interesse público ou por exigência legal, sem que isso implique direitos a indenização ou 
+reclamação de qualquer natureza; 
+8.2. Qualquer resultado apoiado com recursos provenientes do presente Edital deverá citar, 
+obrigatoriamente, o apoio da FAPERJ; 
+8.3. Deverá ser comunicada à FAPERJ, pelo proponente, qualquer alteração relativa à execução do 
+projeto apresentado, acompanhada da devida justificativa; 
+8.4. A eventual solicitação de prorrogação do prazo de execução do projeto poderá ser autorizada, 
+de acordo com critérios da Diretoria da FAPERJ, desde que devidamente justificada e 
+apresentada em até 30 (trinta) dias anteriores à data final da sua execução, através de 
+formulário disponível na página eletrônica da Fundação; 
+8.5. Os executores dos projetos selecionados neste Edital se comprometem, caso solicitado a 
+prestar assessoria ad hoc para a FAPERJ durante o período de sua vigência; 
+8.6. Em se constatando violação às cláusulas do presente Edital, a FAPERJ poderá restringir 
+apoios futuros aos componentes das equipes das propostas contempladas, registrando-os em 
+cadastro interno de inadimplentes; 
+8.7. Dúvidas e esclarecimentos sobre este Edital deverão ser enviados única e exclusivamente para 
+o endereço forense2018@faperj.br; 
+8.8. Eventual recurso aos resultados divulgados deverá ser única e exclusivamente submetido à 
+FAPERJ, pelo endereço forense2018@faperj.br até 5 (cinco) dias úteis após a publicação do 
+resultado; nesse caso, nenhum novo documento ou fato poderá ser incluído no recurso, 
+cabendo à diretoria da FAPERJ o seu julgamento; 
+8.9. Por ocasião da emissão dos Termos de Outorga e Aceitação de Auxílio, se o proponente, 
+coordenador ou demais membros da equipe do projeto estiverem no estado de inadimplência, 
+estes deverão entregar no Setor de Protocolo da FAPERJ o Relatório Técnico, ou sua 
+reformulação, e a Prestação de Contas pendentes, em até 30 (trinta) dias, sob pena de 
+desclassificação do projeto contemplado; 
+8.10. 
+Eventuais resultados econômicos e outros direitos decorrentes da concessão do auxílio 
+serão compartilhados com a FAPERJ, na proporção de 1% (hum por cento) para a Fundação e 
+99% (noventa e nove por cento) para o Outorgado, independentemente de o produto ser ou não 
+patenteável; 
+8.11. Os casos omissos neste Edital serão resolvidos pela Diretoria da FAPERJ. 
+ 
+ 
+ Rio de Janeiro, 18 de Outubro de 2018. 
+Gabriell Neves 
+Presidente 
+ 
+ 
+ ANEXO I 
+Documentação comprobatória da regularidade fiscal, jurídica e econômico-financeira 
+(somente para as propostas aprovadas). 
+Os proponentes aprovados deverão apresentar os documentos relativos à sua regularidade 
+fiscal, jurídica e econômico-financeira. A documentação exigida deverá ser apresentada de acordo com 
+o cronograma do Edital. Caso contrário, o projeto será desclassificado em consonância com este 
+Edital.  
+Documentos a serem apresentados: 
+ 
+PESSOA FÍSICA 
+1. Prova de inscrição no Cadastro Nacional de Pessoas Físicas (CPF); 
+2. Identidade, civil, profissional ou militar, com validade em todo território nacional; 
+3. Certidão conjunta de débitos relativos a Tributos Federais e à Dívida Ativa da União emitida 
+pela Receita Federal e Procuradoria Geral da União (PGN) 
+4. Certificado de regularidade do FGTS (CRF) expedido pela Caixa Econômica Federal, por 
+Cadastro Específico do INSS (CEI), SE HOUVER. 
+5. Certidão Negativa da Receita e Dívida Ativa do Estado; 
+6. Certidão Negativa da Receita e Dívida Ativa do Município; 
+7. Prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho, mediante a 
+apresentação de Certidão Negativa de Débitos Trabalhistas (CNDT) ou da Certidão Positiva de 
+Débitos Trabalhistas com os mesmos efeitos da CNDT 
+8. Relatório de contencioso, indicando o total de processos cíveis, fiscais/tributários e trabalhistas, 
+os valores pedidos e os valores provisionados, assinado pelo proponente (ANEXO III).  
+ 
+ 
+ 
+ 
+ 
+ ANEXO II 
+Modelo de Declaração de Contencioso do proponente. 
+PROPONENTE PESSOA FÍSICA: 
+[NOME], domiciliado em [ENDEREÇO], inscrita no CPF sob o nº [NÚMERO], declara junto à 
+FAPERJ que apresenta o seguinte quadro relativo ao seu contencioso: 
+ 
+PERDA 
+ 
+PROCESSOS 
+ 
+PROVÁVEL 
+(R$) 
+POSSÍVEL 
+(R$) 
+REMOTA 
+(R$) 
+PROVISIONADO 
+(R$) 
+Cíveis 
+ 
+ 
+ 
+ 
+Fiscais /  
+Tributários 
+ 
+ 
+ 
+ 
+Trabalhistas /  
+Previdenciários 
+ 
+ 
+ 
+ 
+TOTAL 
+ 
+ 
+ 
+ 
+(   ) que não possui processos de contencioso. 
+ 
+[LOCAL], _____ de _____________ de 20__ 
+[NOME DO PROPONENTE] 
+[ASSINATURA DO PROPONENTE] 
+[CPF DO PROPONENTE] 
+ 
+ 
+ ANEXO III 
+Modelo de Termo de Outorga e Concessão de Auxílio 
+TERMO DE OUTORGA E ACEITAÇÃO DE AUXÍLIO 
+Rio de Janeiro, XX/XX/XXXX, 
+ 
+Nº DO PROCESSO E-26/XXX.XXX.XXX/XXXX 
+Nº DE MATRÍCULA   XXX.XXX.XX 
+Ref. XXX.XXX/XXXX 
+Parcela:  
+Deliberação:  
+PROGRAMA 
+ADT1  
+ 
+PROJETO  
+****** TÍTULO DO PROJETO ***** 
+ 
+OUTORGANTE 
+Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de 
+Janeiro 
+ 
+OUTORGADO 
+****** NOME OUTORGADO ******* 
+ 
+ 
+ 
+ 
+PLANO DE APLICAÇÃO 
+ 
+CUSTEIO 
+R$ 0,00 
+ 
+ 
+ 
+ 
+ 
+ 
+CAPITAL 
+R$ 0,00 
+ 
+ 
+ 
+ 
+TOTAL 
+R$ 0,00 
+ 
+ 
+ 
+PRAZO DE EXECUÇÃO DO PROJETO: XX (XX) meses a contar do depósito da primeira parcela 
+do fomento na conta bancária do Outorgado.   
+ 
+Caso o Outorgado pretenda solicitar a prorrogação deverá ser apresentado com 
+antecedência mínima de 30(trinta) dias. 
+ 
+RELATÓRIO TECNICO-CIENTÍFICO e PRESTAÇÃO DE CONTAS: Deverão ser apresentados 
+juntamente no Setor de Protocolo da FAPERJ no prazo máximo de 60 (sessenta) dias a partir do 
+término do prazo total de execução do projeto. 
+ 
+Ao término do projeto, se houver saldo remanescente na conta corrente, o Outorgado deverá 
+devolver o valor à FAPERJ mediante o pagamento da GRE – Guia de Recolhimento Estadual, 
+obtida no site da Secretaria de Estado de Fazenda do Estado do Rio de Janeiro 
+(http://www.fazenda.rj.gov.br/). 
+ 
+ 
+Declaro que os dados acima foram conferidos por mim nesta data, estando os mesmos corretos. 
+ 
+ 
+Rio, _____ de _____________________ de ______. 
+ 
+ 
+ 
+ 
+__________________________________________ 
+Assinatura do Outorgado 
+ 
+ 
+ 
+ 
+ TERMO DE OUTORGA E DE ACEITAÇÃO DE AUXÍLIO  
+ 
+ 
+ 
+Em XX/XX/XXXX, a Diretoria da Fundação Carlos Chagas Filho de Amparo à Pesquisa do 
+Estado do Rio de Janeiro, aqui designada simplesmente FAPERJ, usando das atribuições que lhe 
+confere o inciso II, artigo 16 do Decreto 45.275, de 10 de junho de 2015, defere ao OUTORGADO, 
+nacional do(a) , residente na XXXXXXXXXXXXXXXXXX, portador da Carteira de Identidade nº. 
+XXXXXXX, expedida pelo XXXX e inscrito no CPF sob o n.º XXX.XXX.XXX.XX, que também será o 
+responsável pela execução do projeto, o auxílio especificado no presente TERMO, mediante as 
+cláusulas e condições seguintes, a que se obrigam: 
+ 
+CLÁUSULA PRIMEIRA – A utilização do auxílio deverá se realizar de acordo com o plano de 
+aplicação apresentado pelo OUTORGADO, com ou sem modificações feitas pela FAPERJ, 
+conforme discriminado no preâmbulo do presente TERMO. 
+ 
+CLÁUSULA SEGUNDA – Os recursos recebidos pelo OUTORGADO serão movimentados por 
+meio de conta bancária específica, a ser aberta, com autorização da FAPERJ, no Banco Bradesco, 
+exclusivamente para atender às finalidades do presente TERMO. 
+ 
+Parágrafo Único – O OUTORGADO fica pessoalmente responsável pela perfeita aplicação do 
+auxílio, de acordo com a sua finalidade. Qualquer alteração no plano de aplicação aprovado pela 
+FAPERJ deverá ser solicitada formalmente pelo OUTORGADO e aprovada pela FAPERJ, antes de 
+implementada. 
+ 
+CLÁUSULA TERCEIRA – O OUTORGADO deverá afixar, destacadamente, em lugar visível de 
+seu estabelecimento e em todos os materiais de divulgação resultantes da execução do projeto o 
+apoio financeiro ao projeto, bem como sempre que, em virtude do auxílio deferido, houver 
+divulgação de trabalho técnico, científico ou de produto, deverão fazer expressa menção ao 
+benefício concedido pela FAPERJ. Além disso, o OUTORGADO compromete-se a informar, no seu 
+cadastro no Sistema SisFAPERJ, quaisquer publicações obtidas com o financiamento da FAPERJ, 
+podendo tais dados ser utilizados para divulgação da Fundação. 
+ 
+CLÁUSULA QUARTA – Os bens patrimoniais (equipamentos e material permanente) adquiridos, 
+produzidos, transformados ou construídos com o presente auxílio ficarão sob a posse e guarda do 
+outorgado e registrado na FAPERJ como “bens a patrimoniar”, até a sua transferência definitiva, de 
+acordo com o que orienta a Lei Estadual nº 5.361/08, o que deverá ocorrer anteriormente à 
+apresentação do Processo de Prestação de Contas referente ao mesmo auxílio.  
+ 
+PARÁGRAFO ÚNICO – O OUTORGADO deve comunicar imediatamente à FAPERJ sobre a 
+aquisição dos bens referidos no caput deste artigo, discriminando as suas características, e a 
+retirada desse material do local especificado na proposta deverá ser solicitada formalmente à 
+FAPERJ. 
+ 
+CLÁUSULA QUINTA – A Prestação de Contas e o Relatório Técnico final do auxílio financeiro 
+deverão ser apresentados juntamente no Setor de Protocolo da FAPERJ, pelo OUTORGADO ou 
+seu portador, até a data do vencimento indicada no preâmbulo deste TERMO, devendo observar as 
+“INSTRUÇÕES PARA PRESTAÇÃO DE CONTAS”, disponíveis no Portal da Fundação 
+(www.faperj.br), que passam a fazer parte integrante do presente TERMO. Se houver saldo 
+remanescente na conta do fomento, o OUTORGADO deverá devolvê-lo à FAPERJ mediante o 
+ pagamento, no Banco Bradesco, da Guia de Recolhimento Estadual – GRE obtida no site da 
+Secretaria de Estado de Fazenda (www.fazenda.rj.gov.br) e encerrar a conta bancária referente ao 
+presente auxílio.  
+ 
+PARÁGRAFO ÚNICO – A não apresentação da Prestação de Contas e/ou do Relatório Técnico final 
+no prazo determinado no preâmbulo deste TERMO, além das implicações legais, acarretará, 
+automaticamente, a inclusão do nome do OUTORGADO no Cadastro interno de Inadimplentes da 
+FAPERJ. Por consequência, não será concedido novo auxílio/bolsa ao outorgado e aos bolsistas 
+vinculados, como também, os pagamentos subsequentes serão suspensos até que seja apresentada 
+a Prestação de Contas e/ou o Relatório Técnico, ou, ainda, na ausência dessas documentações, seja 
+promovido o ressarcimento total do auxílio recebido à FAPERJ.  
+ 
+CLÁUSULA SEXTA – A Auditoria Interna da FAPERJ analisará a Prestação de Contas protocolada 
+na FAPERJ e, sendo identificadas pendências (ausência de documentos e/ou informações), o 
+OUTORGADO será comunicado, por e-mail, e terá o prazo de até 30 dias, a contar da comunicação, 
+para entregar no Setor de Protocolo da FAPERJ a pendência solicitada pela Auditoria Interna da 
+Fundação. Da mesma forma, havendo a necessidade de reformulações do Relatório Técnico será 
+solicitado, por meio do envio de mensagem para o e-mail do OUTORGADO, a sua reformulação para 
+atendimento no prazo máximo de 30 dias. 
+ 
+PARÁGRAFO PRIMEIRO – A FAPERJ comunicará o OUTORGADO sobre as pendências 
+identificadas na Prestação de Contas e as reformulações do Relatório Técnico por meio do seu e-
+mail cadastrado no SisFAPERJ, ficando o OUTORGADO responsável pela atualização do seu 
+cadastro junto à FAPERJ. 
+ 
+PARÁGRAFO SEGUNDO – O não atendimento às solicitações de exigências da Prestação de 
+Contas e/ou às reformulações do Relatório Técnico fará com que o OUTORGADO seja registrado na 
+FAPERJ como “bloqueado”, ficando impedido de obter novos recursos da Fundação. 
+ 
+CLÁUSULA SÉTIMA – O OUTORGADO é responsável pela entrega da Prestação de Contas e do 
+Relatório Técnico no Setor de Protocolo da FAPERJ, dos documentos e/ou informações pendentes 
+de sua Prestação de Contas, como também, das reformulações do Relatório Técnico, e, ainda, pelo 
+acompanhamento dos comunicados enviados pela FAPERJ para o seu e-mail cadastrado no 
+SisFAPERJ, até a aprovação definitiva da Prestação de Contas e do Relatório Técnico, comunicada 
+ao OUTORGADO. 
+ 
+CLÁUSULA OITAVA – A prestação de contas será aceita condicionalmente até a sua aprovação 
+definitiva pela FAPERJ, fundamentado em parecer favorável do seu órgão de Auditoria Interna. 
+ 
+CLÁUSULA NONA – Independentemente do disposto na Cláusula Quinta, o OUTORGADO obriga-
+se a apresentar à FAPERJ relatórios de desenvolvimento do projeto nos prazos estabelecidos no 
+preâmbulo deste TERMO. 
+ 
+CLÁUSULA DÉCIMA – Todo e qualquer impedimento que interfira na execução do projeto nos 
+termos contratados deverá ser imediatamente comunicado pelo OUTORGADO à FAPERJ. 
+ 
+CLÁUSULA DÉCIMA PRIMEIRA – Eventuais resultados econômicos e outros direitos decorrentes 
+da concessão do auxílio serão compartilhados com a FAPERJ, na proporção de 1% (hum por 
+cento) para a Fundação e 99% (noventa e nove por cento) para o OUTORGADO, 
+independentemente de o invento ser ou não patenteável. 
+ 
+ PARÁGRAFO PRIMEIRO – Obriga-se o OUTORGADO a informar à FAPERJ sobre a possibilidade 
+de resultado sustentável de seu projeto. 
+ 
+PARÁGRAFO SEGUNDO – O registro de eventual patente, obrigatório prioritariamente no Brasil, 
+se fará sempre em nome da FAPERJ e do OUTORGADO, cabendo a qualquer deles a iniciativa do 
+requerimento, dando ciência à outra parte. 
+ 
+PARÁGRAFO TERCEIRO – A FAPERJ poderá, a seu critério, ceder ao OUTORGADO, parcial ou 
+total, onerosa ou gratuitamente, os direitos resultantes do projeto. 
+ 
+CLÁUSULA DÉCIMA SEGUNDA – O presente TERMO não cria e não envolve nenhuma espécie 
+de relação empregatícia entre o OUTORGADO e a FAPERJ. 
+ 
+CLÁUSULA DÉCIMA TERCEIRA – O OUTORGADO concorda em atuar como consultor ou 
+parecerista ad hoc da FAPERJ, sempre que solicitado pela Diretoria da Fundação. 
+ 
+CLÁUSULA DÉCIMA QUARTA – A violação de qualquer das cláusulas do presente TERMO 
+importará em sua rescisão, bem como dará direito à FAPERJ de restringir apoios futuros ao 
+OUTORGADO, registrando-o em cadastro interno de inadimplentes. 
+ 
+PARÁGRAFO ÚNICO – O OUTORGADO se compromete a conceder mandato à FAPERJ, que é 
+parte integrante do presente TERMO, com plenos poderes para a movimentação e encerramento 
+da conta corrente aberta em nome do OUTORGADO no Banco Bradesco, nos casos de: 
+inadimplemento da presente outorga, morte (se for o caso), dissolução de sociedade empresarial 
+(se for o caso); em que o OUTORGADO extinguir a sua atividade empresarial; sofrer os efeitos da 
+falência e/ou da recuperação judicial e/ou insolvência civil; e representá-la judicial e 
+extrajudicialmente, com os poderes ad judicia, em ocorrendo inércia do MANDANTE, nos casos em 
+que houver penhora judicial sobre os recursos depositados na citada conta bancária. 
+ 
+CLÁUSULA DÉCIMA QUINTA – O OUTORGADO se compromete a aceitar a realização de 
+auditoria por parte da FAPERJ, sempre que esta julgar conveniente, observado o disposto na 
+legislação vigente.  
+ 
+CLÁUSULA DÉCIMA SEXTA – O OUTORGADO declara que aceita, sem restrições, o auxílio que 
+neste ato é deferido e compromete-se a cumprir o disposto neste instrumento, em todos os seus 
+termos e condições, sob pena das sanções ora estabelecidas. 
+ 
+Rio de Janeiro, XX/XX/XXXX. 
+ 
+ 
+ 
+__________________________________ 
+ Gabriell Carvalho Neves Franco dos 
+Santos 
+Presidente interino 
+ 
+_______________________________ 
+OUTORGADO 
+(Assinatura e carimbo) 
+ 
