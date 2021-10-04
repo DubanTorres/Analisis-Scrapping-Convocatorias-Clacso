@@ -1,0 +1,4220 @@
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 1 de 14 
+ 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS – 
+ 
+ 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS 
+DE TI APLICADAS EN EL SECTOR DE TURISMO EN COLOMBIA - 2014 
+ 
+ 
+1. PRESENTACIÓN 
+ 
+COLCIENCIAS, como ente rector de la Ciencia, Tecnología e Innovación en el país, 
+en alianza con el Ministerio de Tecnologías de la Información y las Comunicaciones 
+MinTIC, busca con la presente convocatoria fortalecer el desarrollo de aplicaciones 
+tecnológicas orientadas a la solución de necesidades identificadas en el sector del 
+turismo en Colombia, promoviendo así la especialización de la industria de 
+Tecnologías de la Información -TI- en dicho sector; específicamente se busca 
+fortalecer, impulsar y promover las actividades y proyectos innovadores en TIC 
+aplicados al turismo y con ello, acercar la actividad investigativa básica al mercado. 
+ 
+La presente convocatoria responde a la contribución para la transformación de la 
+industria TI aplicada a un sector estratégico para el país, como lo es el turismo, a partir 
+de la “Visión estratégica del Sector” definida en la estrategia de MinTIC denominada 
+“Fortalecimiento de la Industria de Tecnologías de Información – FITI” 
+ 
+Para mayor información sobre antecedentes de esta convocatoria y ampliación de 
+información relacionada con la estrategia FITI y la “Visión estratégica del Sector”, favor 
+revisar el anexo 1. 
+ 
+2. OBJETIVOS 
+ 
+2.1. GENERAL: 
+ 
+Cofinanciar proyectos de innovación que estén orientados al fortalecimiento del sector 
+del turismo en Colombia a través del desarrollo de soluciones de Tecnologías de 
+Información TI que brinden respuesta a las necesidades de dicho sector y contribuyan 
+a la especialización de la industria TI. 
+ 
+2.2. ESPECÍFICOS: 
+ 
+2.2.1. Fortalecer la alianza universidad, empresa, estado con el propósito de generar 
+sinergias que contribuyan a la especialización de la industria TI y a la solución 
+de problemas del sector turismo en Colombia. 
+  
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 2 de 14 
+ 
+2.2.2. Incentivar el desarrollo de soluciones de TI para responder a los desafíos del 
+sector turismo. 
+ 
+2.2.3. Dinamizar la demanda de soluciones de TI por parte de las entidades del sector 
+turismo. 
+ 
+2.2.4. Fortalecer la “Visión estratégica del Sector” de TI, impulsada por el MinTIC y 
+COLCIENCIAS, específicamente en el sector de turismo. 
+ 
+2.2.5. Fortalecer la cultura de innovación en el sector del turismo en Colombia, a partir 
+de la implementación de soluciones de TI. 
+ 
+2.2.6. Fomentar el flujo de conocimiento y experiencia que las universidades, centros 
+de investigación o centros de desarrollo tecnológico tienen en trabajo en red y 
+prospectiva en concordancia con la “Visión estratégica del Sector”.  
+ 
+3. DIRIGIDO A 
+ 
+Alianzas estratégicas entre: empresas de TI, un grupo de investigación (opcional) y 
+entidad beneficiaria. A continuación se presenta la definición de los participantes: 
+ 
+3.1. 
+Empresa de TI: micro, pequeñas y medianas empresas1, personas jurídicas 
+constituidas como sociedades mercantiles pertenecientes a la industria de 
+Tecnologías de Información, domiciliadas en Colombia, con ánimo de lucro, las 
+cuales deben evidenciar que practican una o varias de las siguientes 
+actividades económicas, a través de su objeto social o código CIIU: 
+ 
+ Desarrollo de software.  
+ Desarrollo de aplicaciones informáticas. 
+ Administración de bases de datos. 
+ Tercerización de servicios relacionados con las tecnologías de información 
+(ITO). 
+ Alojamiento de datos. 
+ Diseño y desarrollo de video juegos. 
+ 
+Las empresas de TI serán las ejecutoras del proyecto, por ello, serán responsables 
+de la presentación de la propuesta, la gerencia del proyecto, el desarrollo de la 
+solución tecnológica y la administración de los recursos entregados por parte de 
+Colciencias, así mismo, aportarán recursos de contrapartida, elaborarán el plan de 
+                                                            
+1 Micro, pequeña y mediana empresa de acuerdo con lo definido en la ley 905 de 2004. 
+  
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 3 de 14 
+negocios del producto resultado del proyecto y serán los responsables de la 
+comercialización futura de dicho producto/servicio. 
+ 
+ 
+3.2. 
+Entidad beneficiaria: se consideran entidades beneficiarias las personas 
+jurídicas de carácter público, economía mixta o privadas, con o sin ánimo de 
+lucro cuya actividad económica pertenezca al sector del turismo en Colombia. 
+ 
+La entidad beneficiaria asumirá el rol de beneficiario del proyecto, quien plantea 
+la necesidad o problemas a resolver a través de soluciones TI. Así mismo será 
+partícipe de la construcción de la solución a través de las actividades que se 
+requieran para tal fin, permitirá a la empresa de TI tener acceso a la información 
+empresarial que se requiera en desarrollo del proyecto, implementará la 
+aplicación tecnológica resultante y retroalimentará a la empresa de TI para 
+mejoras de la misma. 
+ 
+3.3. 
+Grupo de investigación: se considera grupos de investigación, aquellos que a 
+la fecha de apertura de la presente convocatoria se encuentran reconocidos por 
+COLCIENCIAS como resultado de la convocatoria 640 de 2013, los cuales 
+desarrollen su trabajo en líneas de investigación relacionadas con tecnologías 
+de información o áreas afines a las del objeto de la convocatoria. El grupo de 
+investigación será responsable de llevar a cabo el aporte científico e 
+investigativo que permita materializar un producto orientado al fortalecimiento 
+del turismo en Colombia. 
+ 
+Notas: 
+ 
+ Las alianzas estratégicas deberán estar constituidas como mínimo por una 
+empresa de TI y una o más entidades beneficiarias en las cuales se implementará 
+la solución tecnológica fruto del proyecto. 
+ 
+ Es opcional que se incluya el grupo de investigación dentro de la alianza, sin 
+embargo la existencia de esta unidad en el proyecto otorga puntuación en el 
+proceso de evaluación. 
+ 
+4. LINEAS TEMÁTICAS  
+ 
+Las propuestas que se presenten en el marco de la presente convocatoria podrán estar 
+enmarcadas en las temáticas que a continuación se describen: 
+ 
+ Administración de la cadena de suministros 
+ Aplicaciones 3D y transmedia para promoción hotelera y turística 
+ Aplicaciones de georreferenciación aplicadas al turismo 
+  
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 4 de 14 
+ Aplicaciones de notificación automática de ofertas basadas en las preferencias de 
+los turistas 
+ Aplicaciones de turismo para dispositivos móviles 
+ Aplicaciones para configuración personalizada de planes turísticos (alojamiento, 
+transporte y atractivos turísticos) 
+ Gestión de relaciones con los clientes 
+ Mapeo y divulgación de atractivos turísticos 
+ Nuevos sistemas de pago para el sector 
+ Otras temáticas relacionadas con la industria del turismo en Colombia 
+ Sistemas  de información turística basados en georreferenciación 
+ Sistemas de administración hotelera 
+ Sistemas de autenticación y control de acceso para turistas frecuentes 
+ Sistemas de minería de datos y data analytics aplicados a turistas  
+ Sistemas para gestión de reservas de transporte de personas 
+ Sistemas para gestión de reservas hoteleras 
+ 
+Nota: 
+ 
+Las temáticas anteriormente descritas son sugeridas más no obligatorias. El proyecto 
+deberá describir la temática o temáticas elegidas de acuerdo con la necesidad a 
+resolver y la experiencia de los miembros que integran la alianza. 
+ 
+5. REQUISITOS MÍNIMOS  
+ 
+Los requisitos mínimos para participar en la presente convocatoria, son los siguientes: 
+ 
+5.1. 
+Inscripción del proyecto en el Sistema integrado de Gestión de Proyectos de 
+COLCIENCIAS – SIGP a través del formulario electrónico disponible en el portal 
+de COLCIENCIAS (www.colciencias.gov.co). 
+ 
+5.2. 
+Las alianzas estratégicas deben estar conformadas, como mínimo, por una 
+empresa de TI y una o varias entidades beneficiarias del sector turismo. 
+Opcionalmente podrán incluir un grupo de investigación. 
+ 
+5.3. 
+Los productos o servicios de los proyectos de desarrollo tecnológico e 
+innovación resultado de esta convocatoria deben tener como usuarios 
+potenciales necesariamente a instituciones del sector de turismo en Colombia, 
+públicas o privadas, ya sean del orden nacional, departamental o municipal.  
+ 
+5.4. 
+Carta de la alianza estratégica entre la empresa TI, la(s) entidad(es) 
+beneficiaria(s) y el grupo de investigación (si fuera el caso), firmada por los 
+representantes legales de las partes, en la cual se designe a la empresa de TI 
+como ejecutor del proyecto; así mismo, deberá describirse la contrapartida. En 
+  
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 5 de 14 
+caso que el representante legal no cuente con la competencia para asumir los 
+compromisos consignados en la carta de alianza estratégica, deberá presentar 
+documento que lo faculte firmado por el órgano competente. Formato de carta: 
+anexo 2. 
+ 
+5.5. 
+Tanto las empresas de TI como las entidades beneficiarias deberán acreditar 
+como mínimo veinticuatro (24) meses de constitución legal a la fecha de 
+apertura de la convocatoria, lo cual será verificado por COLCIENCIAS mediante 
+el certificado de existencia y representación legal. 
+ 
+5.6. 
+Las empresas de TI deberán acreditar experiencia en desarrollo de soluciones 
+de TI mediante certificaciones de ejecución o actas de finalización de por lo 
+menos tres (3) proyectos terminados en los últimos cinco (5) años hasta la fecha 
+de apertura de la presente convocatoria. Cada empresa de TI o entidad 
+beneficiaria deberá diligenciar el formato del anexo 3. 
+ 
+5.7. 
+Carta de autorización de uso y almacenamiento de datos personales de las 
+personas involucradas en el proyecto. Diligenciar de acuerdo con el formato del 
+anexo 4, uno por cada una de las personas involucradas en el proyecto. 
+ 
+5.8. 
+Carta de presentación, aval y aceptación de compromisos; relacionando que 
+este proyecto no está siendo presentado en otra convocatoria y no está siendo 
+financiado con otros recursos del Estado, firmada por el representante legal de 
+la empresa de TI. Ver anexo 5.  
+ 
+5.9. 
+Presentar los estados financieros de la empresa de TI de los dos últimos años 
+(2012 y 2013) debidamente firmados por el contador o revisor fiscal. 
+ 
+5.10. En la presente convocatoria, las alianzas solamente podrán presentarse una 
+vez y solamente se podrá presentar un proyecto por alianza. 
+ 
+5.11. En la presente convocatoria, un mismo proyecto no podrá ser presentado por 
+más de una alianza. 
+ 
+Notas: 
+ 
+● Los interesados deberán cumplir con la totalidad de los requisitos mínimos para 
+que su proyecto sea evaluado, en caso contrario no continuarán al proceso de 
+evaluación. 
+ 
+● Las empresas y entidades que se presenten en alianzas y que tengan contratos o 
+convenios vigentes con COLCIENCIAS deberán estar a paz y salvo con los 
+compromisos adquiridos; de lo contrario no serán considerados para participar en 
+  
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 6 de 14 
+esta convocatoria. 
+ 
+● COLCIENCIAS, podrá solicitar en cualquier momento, información, documentación 
+adicional y aclaraciones. 
+ 
+● Las soluciones tecnológicas que se presentarán deberán ser nuevas, es decir, que 
+su desarrollo se lleve a cabo durante la ejecución del proyecto. 
+ 
+ 
+6. DURACIÓN Y FINANCIACIÓN 
+ 
+6.1. Duración 
+ 
+El término de duración de los proyectos será hasta veinte meses (20) meses 
+distribuidos de la siguiente forma: 
+ 
+ Hasta ocho (8) meses para la ejecución de todas las etapas requeridas para el 
+desarrollo de las soluciones tecnológicas propuestas. 
+ 
+ Mínimo doce (12) meses para el uso y apropiación de la solución de TI por parte 
+de la(s) entidad(es) beneficiaria(s). Durante este período de uso y apropiación, 
+la(s) entidad(es) beneficiaria(s) recibirán soporte técnico, mantenimiento y 
+actualizaciones de la solución por parte de la empresa de TI, sin que para ello la(s) 
+entidad(es) beneficiaria(s) deba(n) realizar pagos a la empresa de TI. 
+ 
+6.2. Presupuesto de la convocatoria  
+ 
+El presupuesto disponible de la convocatoria es de CUATRO MIL TRESCIENTOS 
+MILLONES DE PESOS M/CTE ($4.300.000.000), los cuales corresponden a recursos 
+de la alianza COLCIENCIAS – MINTIC. 
+ 
+6.3. Monto financiable por proyecto 
+ 
+COLCIENCIAS financiará un monto máximo por proyecto de hasta CUATROCIENTOS 
+MILLONES DE PESOS M/CTE ($400.000.000) bajo la modalidad de cofinanciación. 
+El valor total del proyecto será la sumatoria del aporte de COLCIENCIAS y los aportes 
+de contrapartida. 
+ 
+6.4. Aportes de contrapartida 
+ 
+La contrapartida en efectivo será aportada por la empresa TI, de la siguiente manera: 
+ 
+ 
+  
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 7 de 14 
+Tamaño de la 
+empresa 
+Valores de contrapartida mínimos en 
+efectivo 
+Micro 
+5% del valor total del proyecto 
+Pequeñas 
+10% del valor total del proyecto 
+Medianas 
+15% del valor total del proyecto 
+ 
+Notas: 
+ 
+● El proyecto presentado no podrá ser financiando simultáneamente por otra 
+convocatoria o con recursos de COLCIENCIAS u otras entidades del Estado. 
+ 
+● En caso de no reintegro de los recursos acordados contractualmente, 
+COLCIENCIAS efectuará el respectivo reporte en el boletín de deudores morosos. 
+ 
+7. CONTENIDO DEL PROYECTO 
+ 
+El proyecto deberá incluir la información que se describe a continuación y que se 
+detalla en el anexo 6.   
+ 
+7.1. COMPONENTE CIENTÍFICO - TÉCNICO DEL PROYECTO 
+ 
+ Título del proyecto. 
+ Gerente de proyecto y equipo de trabajo. (Adjuntar hojas de vida con títulos y 
+certificaciones correspondientes). 
+ Línea Temática. 
+ Antecedentes. 
+ Resumen ejecutivo. 
+ Palabras Clave.  
+ Planteamiento del Problema.  
+ Justificación.  
+ Marco conceptual.  
+ Estado del arte.  
+ Objetivos: General, específicos. 
+ Metodología. 
+ Productos esperados. 
+ Impactos potenciales. 
+ Cronograma. 
+ Bibliografía. 
+ Plan de negocios. (Adjuntar gráfico CANVAS y descripción de sus 
+componentes) 
+ Certificaciones de calidad. (Adjuntar certificaciones). 
+ Asociatividad. (Adjuntar certificaciones). 
+  
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 8 de 14 
+7.2. COMPONENTE PRESUPUESTAL 
+ 
+Este componente deberá presentarse discriminado mensualmente. El valor de la 
+contrapartida deberá estar dado en recursos en efectivo de acuerdo con lo estipulado 
+en el numeral 6.4 de esta convocatoria. 
+  
+El presupuesto deberá presentarse discriminado por rubros. Para mayor información 
+sobre los rubros financiables y no financiables con recursos de alianza MINTIC – 
+COLCIENCIAS en esta convocatoria ver el anexo 6. 
+ 
+8. PROCEDIMIENTO DE INSCRIPCION  
+ 
+8.1. Descargar, descomprimir e instalar la máquina virtual de java de la siguiente 
+dirección:  
+http://www.colciencias.gov.co/sites/default/files/ckeditor_files/files/formularios_sigp/jre-7u51-
+windows-i586.zip  
+8.2. Descargar, descomprimir y diligenciar el formulario electrónico disponible en la 
+sección correspondiente a esta convocatoria del portal institucional de COLCIENCIAS 
+(http://www.colciencias.gov.co). El formulario electrónico es específico para esta 
+convocatoria, asegúrese de diligenciar efectivamente el formulario en cuestión.  
+8.3. Para enviar el proyecto desde el formulario electrónico, debe Aceptar los Términos 
+y Condiciones, e inmediatamente se activa el botón de Validar. Si el proyecto es válido 
+sin errores, se activa el botón de Enviar. Una vez el proyecto sea enviado al Sistema 
+Integrado de Gestión de Proyectos de COLCIENCIAS -SIGP-, el Sistema emitirá una 
+respuesta automática, generando un número de confirmación de recibido en el servidor 
+de COLCIENCIAS; este número garantizará la recepción exitosa del proyecto.  
+8.4. El número de confirmación de recibido y la contraseña que la entidad asigne al 
+proyecto, le permitirá realizar el envío de los requisitos mínimos y hacer el seguimiento 
+del estado del proyecto. Tome nota de este número de confirmación y la contraseña 
+asignada. 
+8.5. Para realizar el envío de los requisitos mínimos desde el formulario electrónico, 
+debe dar click en el botón adjuntar documentos de requisitos; inmediatamente el 
+sistema desplegará una página en el Portal de Sistema de Gestión de Proyectos para 
+tal fin. En el campo Proyecto digite el número de confirmación de recibido y en el 
+campo correspondiente diligencie la contraseña y proceda a dar click en el botón 
+  
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 9 de 14 
+Ingresar. A continuación el sistema desplegará la información básica del proyecto y en 
+la parte inferior el detalle de los requisitos mínimos. 
+8.6. Debe adjuntar la totalidad de los documentos que soportan los requisitos mínimos. 
+Si para un requisito mínimo requiere anexar más de un documento, guárdelos en una 
+sola carpeta y adjúntela como archivo comprimido .ZIP o .RAR en el campo 
+correspondiente al requisito. Si requiere cambiar algún archivo de los que previamente 
+adjuntó, puede hacerlo examinando y adjuntando el documento deseado. 
+8.7. Si requiere adjuntar documentación adicional del proyecto (tablas, gráficos, 
+anexos, etc.), guárdela en una sola carpeta y adjúntela como archivo comprimido .ZIP 
+o .RAR en el requisito denominado Otros adjuntos. Si requiere cambiar algún archivo 
+de los que previamente adjuntó, puede hacerlo examinando y adjuntando el 
+documento deseado.  
+8.8. Recuerde que el formulario solo admite un archivo anexo por cada requisito 
+mínimo, por lo que al cargar un archivo nuevo, este reemplazará al anterior. Usted 
+puede 
+verificar 
+el 
+archivo 
+que 
+adjuntó 
+a 
+través 
+de 
+la 
+página 
+http://201.234.78.164:7777/portal/ del SIGP, con el número de confirmación y la 
+contraseña asignada al proyecto. 
+8.9. Anexando todos los documentos obligatorios se puede generar el Certificado de 
+requisitos mínimos, que le sirve de evidencia del envío de los mismos. En caso 
+contrario, el sistema enviará el siguiente mensaje de error: Error – Debe adjuntar los 
+documentos obligatorios para obtener el certificado, y no permitirá generar dicho 
+certificado. 
+8.10. Hasta que no estén completos los requisitos mínimos y se haya generado el 
+certificado anteriormente mencionado, no se dará por culminado satisfactoriamente el 
+proceso de inscripción del proyecto. 
+Notas: 
+ Se aceptarán únicamente los proyectos que se presenten a través del formulario 
+electrónico con toda la información solicitada en la presente convocatoria. 
+ 
+ No será tenida en cuenta para el proceso de evaluación y selección, la información 
+enviada en medios distintos al SIGP (correo postal, fax, correo electrónico o 
+cualquier otro), ni posterior a la fecha y hora límite establecida. Ver numeral 12 
+(Cronograma) 
+ 
+  
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 10 de 14 
+ En caso de que se presenten errores en el cargue de la información de la propuesta 
+y/o los adjuntos a través del SIGP, y por esta razón después de efectuados varios 
+intentos no pueda enviarse el proyecto de forma normal dentro del plazo 
+establecido, por favor capturar las pantallas con el mensaje de error y cualquier 
+evidencia que soporte el problema. Remitir antes de la fecha de cierre establecida 
+en el Cronograma de los presentes términos de referencia, todas las evidencias 
+de la falla presentada al correo contacto@colciencias.gov.co, explicando en el 
+cuerpo de dicha comunicación los inconvenientes ocurridos durante el cargue.  
+ 
+ 
+9. CRITERIOS DE EVALUACIÓN 
+ 
+Los criterios de evaluación de los proyectos presentados serán los siguientes: 
+ 
+ 
+Criterio 
+Descripción 
+ Puntaje
+Máximo 
+1. PERFIL DE LA 
+EMPRESA DE TI 
+(EJECUTOR) 
+Se evaluará que la empresa de TI tenga la experiencia, 
+conocimiento 
+y 
+capacidades 
+organizacionales 
+necesarias para ejecutar el proyecto mediante el 
+análisis de los ingresos operacionales en el último año, 
+la variación de los mismos en los últimos dos años y el 
+número de empleados. 
+15 
+2. ENTIDAD(ES) 
+BENEFICIARIA(S) 
+Se evaluará el número de entidades beneficiarias a 
+impactar con el proyecto. Cada entidad beneficiaria 
+generará 2 puntos en la calificación. Propuestas con 5 o 
+más entidades beneficiarias obtendrán un puntaje 
+máximo de 10 puntos. 
+10 
+3. PERFIL DEL 
+GERENTE DEL 
+PROYECTO Y 
+EQUIPO DE 
+TRABAJO 
+Se evaluará la experiencia del gerente y del resto de 
+miembros del equipo de trabajo, teniendo en cuenta 
+perfil profesional, certificaciones y estudios específicos 
+en gerencia de proyectos. 
+6 
+4. TRAYECTORIA 
+DEL GRUPO DE 
+INVESTIGACIÓN 
+Se evaluará a partir de la clasificación obtenida en la 
+convocatoria de COLCIENCIAS 640 de 2013: A1, A, B 
+y C. 
+4 
+5. PLAN DE 
+NEGOCIO 
+Se evaluará la calidad del plan, la consistencia entre sus 
+componentes y la viabilidad financiera que garantice la 
+sostenibilidad del producto o servicio en el tiempo una 
+vez concluida la ejecución del proyecto. 
+30 
+6. CALIDAD Y 
+METODOLOGÍA 
+DEL PROYECTO 
+Se evaluará el impacto del problema a resolver, el 
+componente de I+D+I de la propuesta, la coherencia 
+entre los objetivos, la metodología, las actividades y el 
+presupuesto de la propuesta. 
+25 
+7. CERTIFICACIÓN 
+DE CALIDAD DE 
+LA EMPRESA TI 
+Se evaluará que la empresa de TI cuente con alguna 
+certificación de un modelo de calidad relacionado con la 
+industria de TI. 
+5 
+  
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 11 de 14 
+Criterio 
+Descripción 
+ Puntaje
+Máximo 
+8. ASOCIATIVIDAD 
+Se evaluará que la empresa ejecutora hace parte de 
+algún gremio o iniciativa de asociatividad empresarial, 
+legalmente constituido y relacionado con la industria de 
+TI. 
+5 
+TOTAL 
+100 
+ 
+10. PROCESO DE EVALUACIÓN 
+ 
+Los proyectos inscritos dentro de los plazos establecidos para la presente convocatoria 
+y que cumplan con los requisitos mínimos, serán evaluados por COLCIENCIAS-
+MINTIC, teniendo en cuenta los criterios de evaluación descritos en el numeral 9.  
+ 
+Las propuestas se calificarán en una lista en orden descendente de mayor a menor 
+acorde a la calificación obtenida. El puntaje mínimo para la declaración de elegibilidad, 
+será de setenta (70) puntos. 
+ 
+En caso de empate, se tendrá en cuenta aquel proyecto que presente un mayor puntaje 
+en el criterio “Plan de negocio”; de mantenerse el empate se tendrá en cuenta aquel 
+proyecto que presente un mayor puntaje en el criterio “Calidad y metodología del 
+proyecto”. De aún mantenerse el empate, se tendrá en cuenta aquel proyecto que 
+presente un mayor puntaje en el criterio “Perfil empresa de TI (ejecutor). De aún 
+mantenerse el empate, se tendrá en cuenta aquel proyecto que presente un mayor 
+puntaje en el criterio “Entidad(es) beneficiaria(s)”. De aún mantenerse el empate, se 
+tendrá en cuenta aquel proyecto que presente un mayor puntaje en el criterio “Perfil 
+del gerente del proyecto y equipo de trabajo”. De aún mantenerse el empate, se 
+tendrá en cuenta aquel proyecto que presente un mayor puntaje en el criterio 
+“Trayectoria del grupo de investigación”.  De aún mantenerse el empate, se tendrá 
+en cuenta aquel proyecto que presente un mayor puntaje en el criterio “Certificación 
+de calidad de la empresa TI”. De aún mantenerse el empate, se tendrá en cuenta 
+aquel proyecto que presente un mayor puntaje en el criterio “Asociatividad”. Si 
+agotados todos los criterios de desempate aún persiste la situación de empate, se 
+desempatará utilizando el mecanismo de balotas. 
+ 
+Toda información proporcionada es de carácter confidencial y no será utilizada para 
+ningún fin diferente a la realización de la evaluación. Los expertos evaluadores estarán 
+cobijados por cláusulas de confidencialidad y de no conflicto de interés.  
+  
+De acuerdo con el CRONOGRAMA de la convocatoria, se concederá un término para 
+solicitar aclaraciones y/o modificaciones a la publicación preliminar del banco de 
+elegibles, una vez éstas sean resueltas, se procederá a la publicación del banco 
+definitivo de proyectos elegibles.  
+ 
+  
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 12 de 14 
+La inclusión de la postulación en el Banco de Proyectos Elegibles, no implica 
+obligatoriedad ni compromiso alguno para COLCIENCIAS o MINTIC de asignar 
+recursos, ni genera derecho a recibir apoyos económicos para quienes hayan 
+presentado los proyectos correspondientes. 
+ 
+Nota: COLCIENCIAS y MINTIC, se reservan el derecho de solicitar ajustes sobre la 
+propuesta presentada ya sea en el presupuesto o en el contenido técnico. Estas 
+solicitudes de ajustes serán el resultado del proceso de evaluación. 
+ 
+ 
+11. ACLARACIONES 
+ 
+Una vez publicados los resultados preliminares del banco de elegibles, los interesados 
+podrán presentar solicitudes de aclaraciones y comentarios por un período de tres (3) 
+días hábiles. Por fuera de este término se considera que las reclamaciones son 
+extemporáneas y no serán atendidas.  
+  
+Las peticiones y reclamaciones se deben presentar exclusivamente a través del correo 
+electrónico contacto@colciencias.gov.co, con el asunto “Convocatoria Turismo TI - 
+2014”. 
+ 
+12. CRONOGRAMA 
+ 
+ 
+ACTIVIDAD 
+FECHA LIMITE 
+Apertura 
+14 de agosto de 2014 
+Cierre de la convocatoria 
+30 de septiembre de 2014  
+Publicación del banco preliminar  
+4 de noviembre de 2014  
+Periodo de solicitud de aclaraciones.  
+5 al 7 de noviembre de 2014 
+Respuesta a solicitud de aclaraciones. 
+12 de noviembre de 2014 
+Publicación 
+definitiva 
+banco 
+de 
+proyectos elegibles. 
+18 de noviembre de 2014  
+ 
+ 
+13. PROPIEDAD INTELECTUAL 
+ 
+COLCIENCIAS- MINTIC exceptuando motivos de seguridad y defensa nacional, ceden 
+a la empresa de TI, los derechos patrimoniales de la solución TI desarrollada.  
+  
+La empresa de TI en el referido proyecto podrá utilizar en su propia actividad la 
+creación intelectual que llegue a generar. Lo anterior sin perjuicio del cumplimiento de 
+las obligaciones que le correspondan en caso de comercialización de la creación. 
+ 
+  
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 13 de 14 
+Nota: En cualquier evento o medio de divulgación utilizado para difundir los resultados 
+del proyecto se deberá dar el respectivo crédito a COLCIENCIAS y MINTIC incluyendo 
+la imagen institucional de las dos instituciones. 
+ 
+14. VEEDURIAS CIUDADANA 
+  
+Las veedurías ciudadanas establecidas en la ley 850 de 2003, podrán desarrollar su 
+actividad durante la presente convocatoria, conforme a lo estipulado en dicha 
+normativa. 
+  
+15. ANEXOS 
+ 
+Anexo 1 - Antecedentes 
+Anexo 2 - Formato carta de alianza estratégica 
+Anexo 3 – Carta de experiencia de la empresa TI 
+Anexo 4 - Carta autorización datos personales 
+Anexo 5 - Carta de presentación y aval 
+Anexo 6 - Contenido del proyecto 
+  
+16. ACEPTACION DE TERMINOS Y VERACIDAD 
+ 
+Con la inscripción, los interesados aceptan las características, requisitos y condiciones 
+de la presente convocatoria así como lo dispuesto en los presentes términos de 
+referencia para el desarrollo de la misma y para la entrega del beneficio.  
+ 
+De igual forma declaran que la información suministrada es veraz y corresponde a la 
+realidad. En caso de encontrarse alguna incoherencia e inconsistencia en la 
+información o documentación suministrada, COLCIENCIAS podrá en cualquier 
+momento rechazar la postulación o si es del caso declarar la pérdida del beneficio, sin 
+perjuicio de las acciones legales correspondientes.  
+ 
+Los proponentes aceptan sin condicionamiento alguno la existencia de una obligación 
+solidaria en relación con la presentación de la propuesta, la suscripción y legalización 
+del contrato, así como de su cumplimiento y liquidación (responsabilidad solidaria en 
+las fases pre-contractual, contractual y post-contractual). Los proponentes mantendrán 
+los términos de la propuesta durante el desarrollo y ejecución de la misma y no podrán 
+ser modificados sin el consentimiento previo de COLCIENCIAS y el Ministerio TIC. De 
+igual manera, los miembros de la alianza estratégica que presentan el proyecto, deben 
+designar la persona que, para todos los efectos, hará su representación y señalarán 
+las reglas básicas que regulen las relaciones entre ellos y su responsabilidad. Para la 
+existencia de la obligación solidaria solamente será necesario que la oferta se presente 
+en forma conjunta, en consecuencia no se requiere que se refiera a esta circunstancia 
+de manera expresa. 
+  
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 14 de 14 
+ 
+17. MAYOR INFORMACIÓN 
+ 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGÍA E 
+INNOVACIÓN  
+- COLCIENCIAS – 
+  
+Carrera 7 B Bis No. 132-28, Bogotá D.C.  
+http://www.colciencias.gov.co  
+Centro de Contacto  
+Teléfono: (+57 - 1) 6258480 Extensión 2081  
+Línea gratuita nacional: 018000 914446  
+En caso de inquietudes o comentarios sobre la presente convocatoria, favor enviar un 
+correo 
+electrónico 
+con 
+el 
+asunto 
+“Convocatoria 
+Turismo 
+TI” 
+al 
+correo 
+contacto@colciencias.gov.co. 
+ 
+ 
+ 
+ 
+ 
+ALICIA RÍOS HURTADO 
+Directora (E) 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 1 de 3 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS - 
+ 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS 
+DE TI APLICADAS EN EL SECTOR DE TURISMO EN COLOMBIA - 2014 
+ 
+ 
+ANEXO 1 – ANTECEDENTES 
+ 
+La estrategia de Fortalecimiento de la Industria de Tecnologías de Información - FITI del 
+Ministerio de Tecnologías de Información y Comunicaciones - MINTIC, es la estrategia de 
+la Dirección de Políticas y Desarrollo TI, y su propósito es contribuir a la transformación de 
+la industria de Tecnologías de la Información -T.I-. en un sector competitivo, a través de la 
+dinamización de diferentes líneas de acción que conforman un modelo integral y 
+sistémico. 
+ 
+La industria T.I. está conformada por la Industria de Software, Empresas de Hardware y 
+Servicios asociados a las Tecnologías de Información. Para su fortalecimiento es 
+necesario el desarrollo de las siguientes dimensiones estratégicas:  
+ 
+ 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 2 de 3 
+ 
+ 
+Visión Estratégica del Sector: Dimensión orientada a establecer un norte para la 
+industria TI, a través de estudios y estrategias que orienten a todos los actores 
+involucrados, a trabajar articuladamente bajo la misma dirección. 
+ 
+ 
+Investigación, Desarrollo e Innovación: En esta línea de acción se pretende 
+promover ejercicios de investigación, desarrollo e innovación articulando 
+academia, empresa, estado y clusters. 
+ 
+ 
+Calidad: Dimensión con la cual se promueve la adopción de modelos de calidad 
+globalmente reconocidos por parte de las empresas que hacen parte de la 
+Industria TI. 
+ 
+ 
+Normatividad: Dimensión en la que se trabaja para formular y gestionar la 
+implementación de normas que permitan incentivar a la industria TI, a manera de 
+marco normativo competitivo. 
+ 
+ 
+Asociatividad: En esta dimensión se busca fortalecer modelos de colaboración 
+para que se generen sinergias estratégicas que permitan incrementar la 
+competitividad del sector. 
+ 
+ 
+Infraestructura: Impulsar 
+el 
+desarrollo 
+de 
+estudios 
+de 
+viabilidad 
+para 
+implementación de infraestructura apta y pertinente a las tendencias, para fomento 
+a la industria TI. 
+ 
+ 
+Talento Humano: Dimensión en la que se articulan esfuerzos con la academia y 
+el sector empresarial, para el diseño e implementación de programas de formación 
+ajustados a las necesidades de la industria TI. 
+ 
+ 
+Emprendimiento y fortalecimiento empresarial: Implementación de estrategias 
+especializadas para la industria de tecnologías de información que dinamicen la 
+creación de nuevas empresas innovadoras en el sector. 
+ 
+ 
+VISION ESTRATÉGICA DEL SECTOR 
+ 
+Una de las líneas de acción para dinamizar el fortalecimiento del sector TI, es la 
+denominada “Visión estratégica del Sector” en la que se busca que la industria TI se 
+especialice en segmentos de mercado específicos, buscando sustituir el clásico modelo 
+de negocios de desarrollo a la medida para pasar a contar con modelos de negocio con 
+alto valor agregado, acorde con los potenciales endógenos de las regiones. 
+ 
+Para este fin, COLCIENCIAS en alianza con MINTIC adelantaron un proyecto de 
+consultoría para establecer los segmentos de mercado a los que deberían orientarse 
+esfuerzos desde las regiones priorizadas para potencializar la industria TI del país. Los 
+resultados fueron los siguientes: 
+ 
+  
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 3 de 3 
+ 
+En Antioquia se identificó que habían capacidades para desarrollar Tecnologías de 
+información (TI), para el sector energía. 
+ 
+ 
+En Eje Cafetero se identificaron capacidades para desarrollar TI para 
+bioinformática. 
+ 
+ 
+En los Santanderes se identificaron capacidades para desarrollar TI para el sector 
+hidrocarburos. 
+ 
+ 
+En Cundinamarca se identificaron capacidades para desarrollar TI para el sector 
+banca y finanzas. 
+ 
+ 
+En Valle del Cauca se identificaron capacidades para desarrollar TI para el sector 
+de agroindustria. 
+ 
+ 
+En la región caribe se identificaron capacidades para desarrollar TI para el sector 
+de logística y transporte. 
+ 
+ 
+Así mismo, se identificaron capacidades en general en el territorio nacional para 
+desarrollar TI en los sectores de salud, turismo y gobierno. 
+ 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+ 
+ 
+PBX: (57+1) 6258480      
+ 
+ 
+Bogotá D.C. Colombia  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+www.colciencias.gov.co 
+ 
+Página 1 de 3 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS – 
+ 
+ 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS DE TI 
+APLICADAS EN EL SECTOR DE TURISMO EN COLOMBIA - 2014 
+ 
+ 
+ANEXO 2 - CARTA DE CONFORMACIÓN DE LA ALIANZA ESTRATÉGICA 
+  
+A continuación se presenta el modelo de carta de conformación de la alianza estratégica: 
+ 
+(Ciudad), (Día) de (Mes) de 201_  
+ 
+Señores  
+COLCIENCIAS 
+Carrera 7B Bis No. 132 – 28 
+Bogotá D.C. 
+ 
+Asunto: Conformación de Alianza Estratégica (nombre de la alianza) para la convocatoria (nombre 
+de la convocatoria) de 201_,  
+ 
+Respetados señores,  
+ 
+La presente tiene por objeto presentar la conformación de la Alianza Estratégica (nombre de la 
+alianza), que estará integrada por las siguientes entidades: (nombre de la entidad 1 - empresa de 
+TI), (nombre de la entidad 2 – entidad(es) beneficiaria(s)…, etc.); designándose como entidad 
+ejecutora a (nombre de la entidad ejecutora – empresa de TI), quien será la encargada de firmar el 
+contrato o convenio resultado de la convocatoria (nombre de la convocatoria) de 201 . 
+ 
+De igual forma, certifico que el grupo de investigación que hace parte de la alianza es (nombre del 
+grupo de investigación / reconocimiento obtenido en la convocatoria 640 de 2013). (En caso de no 
+contar con grupo de investigación, omita completamente este párrafo). 
+ 
+Así mismo, los abajo firmantes declaran que: 
+ 
+ 
+Tienen poder y/o representación legal para firmar y presentar el proyecto. 
+ 
+Este proyecto y el contrato o convenio que llegue a celebrarse en caso de financiación, 
+compromete totalmente a la(s) persona(s) jurídica(s) que legalmente represento.  
+ 
+La información suministrada es veraz y no fija condiciones artificiales.  
+ 
+Aceptan y reconocen que cualquier omisión o inconsistencia en la que hayan podido incurrir y 
+que pueda influir en nuestro proyecto, no les eximirá de la obligación de asumir las 
+responsabilidades que les llegue a corresponder como futuros contratistas y renuncian a 
+cualquier reclamación, reembolso o ajuste de cualquier naturaleza, por cualquier situación que 
+surja y no haya sido contemplada en razón de la falta de diligencia en la obtención de la 
+información. 
+ 
+No se encuentran incursos en ninguna de las causales de inhabilidad y/o incompatibilidad 
+establecidas en el Estatuto General de Contratación y demás normas legales pertinentes. 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+ 
+ 
+PBX: (57+1) 6258480      
+ 
+ 
+Bogotá D.C. Colombia  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+www.colciencias.gov.co 
+ 
+Página 2 de 3 
+ 
+Aceptan y autorizan a COLCIENCIAS para que verifique la información aportada en el 
+proyecto. 
+ 
+Se encuentran al día con las obligaciones y compromisos adquiridos con COLCIENCIAS. 
+ 
+El  proyecto no está siendo financiado por otra convocatoria o con recursos de COLCIENCIAS 
+u otras entidades del Estado 
+ 
+Por otra parte y para el desarrollo de la propuesta la empresa TI que conforma la alianza 
+estratégica aportará los siguientes recursos de contrapartida, de acuerdo con lo establecido en el 
+numeral 6.4. de la convocatoria:  
+ 
+Empresa 
+Beneficiaria 
+Total 
+Tamaño de 
+Empresa de 
+acuerdo con lo 
+establecido en 
+la Ley 905 de 
+2004 
+Monto de contrapartida 
+Efectivo 
+% Efectivo 
+Nombre 
+de 
+la 
+empresa de TI 
+$ 
+Micro / Pequeña / 
+Mediana 
+$ 
+% 
+ 
+Certificamos que la entidad ejecutora (Empresa de TI) cuenta con XX empleados y activos totales 
+de $XXXXXXX de acuerdo con la ley 905 de 2004, por lo tanto corresponde a una micro / pequeña 
+/ mediana empresa  
+ 
+Además, ACEPTAMOS expresa e irrevocablemente que conocemos detalladamente las 
+características, requisitos y condiciones de la convocatoria (nombre de la convocatoria), de manera 
+que nos sometemos a lo establecido en los Términos de Referencia determinados por 
+COLCIENCIAS para el desarrollo de la misma y para la entrega del beneficio.  
+ 
+Con la presente manifestación inequívoca de voluntad, declaramos que en caso de ser 
+beneficiados en la convocatoria (nombre de la convocatoria), esté será recibido en los términos 
+que COLCIENCIAS establezca; comprendemos y aceptamos que la no aceptación o el 
+incumplimiento de alguna de las condiciones establecidas, dará lugar a la pérdida definitiva del 
+beneficio.  
+ 
+Declaramos que la información suministrada es veraz y corresponde a la realidad. En caso de 
+encontrarse alguna incoherencia o inconsistencia en la información o documentación suministrada, 
+COLCIENCIAS podrá en cualquier momento, rechazar esta postulación o finiquitar el beneficio, sin 
+perjuicio de las acciones legales correspondientes. 
+ 
+Cordialmente,  
+ 
+ 
+Firma 
+Nombre del representante legal empresa de TI (entidad Ejecutora) 
+CC_________________ 
+Nombre de la empresa de TI (entidad Ejecutora) 
+Dirección  
+Teléfono 
+e-Mail 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+ 
+ 
+PBX: (57+1) 6258480      
+ 
+ 
+Bogotá D.C. Colombia  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+www.colciencias.gov.co 
+ 
+Página 3 de 3 
+ 
+Firma 
+Nombre del representante legal de la entidad beneficiaria 1 
+CC_________________ 
+Nombre 
+Dirección  
+Teléfono 
+e-Mail 
+ 
+ 
+ 
+Firma 
+Nombre del representante legal de la entidad beneficiaria 2 
+CC_________________ 
+Nombre 
+Dirección  
+Teléfono 
+e-Mail  
+ 
+Firma 
+Nombre del representante legal de la entidad beneficiaria 3 
+CC_________________ 
+Nombre 
+Dirección  
+Teléfono 
+e-Mail  
+ 
+Firma 
+Nombre del representante legal de la entidad a la que pertenece el grupo de investigación 
+(opcional) 
+CC_________________ 
+Nombre de la Universidad 
+Nombre del grupo de investigación 
+Dirección  
+Teléfono 
+e-Mail 
+ 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 1 de 2 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS – 
+	
+ 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS DE TI 
+APLICADAS EN EL SECTOR DE TURISMO EN COLOMBIA - 2014 
+ 
+ 
+ANEXO 3 – CARTA DE EXPERIENCIA DE LA EMPRESA TI 
+ 
+A continuación se presenta el modelo de carta de certificación de la experiencia con la que 
+cuenta la empresa TI: 
+ 
+ 
+(Ciudad), (Día) de (Mes) de 201_  
+ 
+Señores  
+COLCIENCIAS 
+Carrera 7B Bis No. 132 – 28 
+Bogotá D.C. 
+ 
+ 
+ 
+Asunto: Certificación de la experiencia de (Nombre de la empresa) 
+ 
+ 
+Respetados señores, 
+ 
+Por medio de la presente yo NOMBRE DEL REPRESENTANTE LEGAL, identificado con cédula de 
+ciudadanía número (Número de identificación), como Representante Legal de (Nombre de la 
+empresa), certifico que la entidad mencionada cumple con los requisitos de experiencia mínima 
+exigida en el marco de la convocatoria para conformar un banco de proyectos de soluciones 
+innovadoras de TI en el sector de turismo en Colombia. A continuación se relaciona la experiencia 
+de la empresa: 
+ 
+NOMBRE DEL 
+PROYECTO 
+DURACIÓN 
+VALOR 
+TEMÁTICA 
+SOCIO-ALIADO-
+CONTRATISTA 
+XX 
+XX 
+$ XXXXX 
+XX 
+XX 
+XX 
+XX 
+$ XXXXX 
+XX 
+XX 
+XX 
+XX 
+$ XXXXX 
+XX 
+XX 
+TOTAL 
+XX 
+$ XXXXX 
+XX 
+XX 
+ 
+Para verificación de la experiencia descrita anteriormente, se anexan las certificaciones 
+correspondientes. 
+ 
+Cordialmente,  
+ 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 2 de 2 
+FIRMA 
+NOMBRE DEL REPRESENTANTE LEGAL O PERSONA NATURAL  
+CC_________________ 
+Dirección 
+Teléfono                        
+e-Mail 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 1 de 1 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS - 
+ 
+ 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS DE TI 
+APLICADAS EN EL SECTOR DE TURISMO EN COLOMBIA - 2014 
+ 
+ 
+ANEXO 4 - AUTORIZACIÓN USO Y ALMACENAMIENTO DE DATOS PERSONALES 
+  
+A continuación se presenta el modelo de carta para autorización uso y almacenamiento 
+de datos personales: 
+ 
+(Ciudad), (Día) de (Mes) de 201_  
+ 
+ 
+Señores  
+COLCIENCIAS 
+Carrera 7B Bis No. 132 – 28 
+Bogotá D.C. 
+ 
+Asunto: Autorización uso y almacenamiento de datos personales. 
+ 
+En virtud de la Ley Estatutaria 1581 del 2012, mediante la cual se dictan las disposiciones 
+generales para la protección de datos personales, y su Decreto Reglamentario 1377 de 
+2013, autorizo al Departamento Administrativo de Ciencia, Tecnología e Innovación - 
+Colciencias, considerado como responsable y/o encargado del tratamiento de datos 
+personales, almacenados en bases de datos, las cuales incluyen información que se han 
+reportado en desarrollo de las diferentes actividades y formularios, y en particular los 
+siguientes: nombres, número de documento de identificación, dirección, teléfono fijo y 
+móvil, direcciones, correo electrónico, profesión, hoja de vida académica, certificados de 
+notas, etc.  
+ 
+Los datos serán utilizados para la misión institucional establecida en la ley 1286 de 2009, 
+como ente rector de la Ciencia Tecnología e innovación en Colombia. 
+ 
+ 
+Atentamente,  
+ 
+ 
+ 
+FIRMA 
+NOMBRES Y APELLIDOS 
+IDENTIFICACIÓN_________________ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 1 de 2 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS - 
+ 
+ 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS DE TI 
+APLICADAS EN EL SECTOR DE TURISMO EN COLOMBIA - 2014 
+ 
+ 
+ANEXO 5 - CARTA DE PRESENTACIÓN Y AVAL 
+  
+A continuación se presenta el modelo de carta de presentación y aval: 
+ 
+ 
+(Ciudad), (Día) de (Mes) de 201_  
+ 
+Señores  
+COLCIENCIAS 
+Carrera 7B Bis No. 132 – 28 
+Bogotá D.C. 
+ 
+Asunto: Presentación y aval del proyecto (escriba el nombre del proyecto) a la convocatoria 
+(nombre de la convocatoria) 
+ 
+Respetados señores,  
+ 
+La presente tiene como objeto avalar el proyecto (escriba el nombre del proyecto,) a la 
+convocatoria (nombre de la convocatoria) de 201_, propuesto por la (nombre de la alianza 
+estratégica…), y manifiesto que el proyecto en mención no está siendo financiado por otra 
+convocatoria o con recursos de COLCIENCIAS u otras entidades del Estado. 
+ 
+Además, ACEPTO expresa e irrevocablemente que conozco detalladamente las características, 
+requisitos y condiciones de la convocatoria para conformar un banco de proyectos de soluciones 
+innovadoras de TI aplicadas al sector turismo de Colombia, de manera que me someto a lo 
+establecido en los términos de referencia determinados por COLCIENCIAS para el desarrollo de la 
+misma y para la entrega del beneficio.  
+ 
+ 
+Declaro que la información suministrada es veraz y corresponde a la realidad. En caso de 
+encontrarse alguna incoherencia o inconsistencia en la información o documentación suministrada, 
+COLCIENCIAS podrá en cualquier momento, rechazar mi postulación o finiquitar el beneficio, sin 
+perjuicio de las acciones legales correspondientes. 
+ 
+ 
+Cordialmente,  
+ 
+ 
+ 
+Firma 
+Nombre del representante legal empresa de TI (entidad Ejecutora) 
+CC_________________ 
+  
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28     
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 2 de 2 
+Nombre de la empresa de TI (entidad Ejecutora) 
+Dirección  
+Teléfono 
+e-Mail 
+  
+ 
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28  
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 1 de 6 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS - 
+ 
+ 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS DE TI 
+APLICADAS EN EL SECTOR DE TURISMO EN COLOMBIA - 2014 
+ 
+ 
+ANEXO 6 - CONTENIDO DEL PROYECTO 
+ 
+ 
+COMPONENTE CIENTÍFICO - TÉCNICO DEL PROYECTO 
+ 
+ Título del proyecto 
+ 
+ Gerente del proyecto y equipo de trabajo: especificar el perfil profesional, la 
+experiencia, el rol dentro del proyecto y el tiempo de dedicación tanto para el 
+gerente del proyecto como para el resto de miembros del equipo de trabajo. 
+Adjuntar las hojas de vida con los títulos y certificaciones correspondientes. 
+ 
+ Línea Temática: Especificar en cuál(es) de las líneas temáticas definidas por 
+la convocatoria está enmarcado el proyecto de acuerdo con el numeral 4 de la 
+convocatoria. 
+ 
+ Resumen ejecutivo: Información mínima necesaria para comunicar de manera 
+precisa los contenidos y alcances del proyecto.  
+ 
+ Antecedentes: especificar si el proyecto ha tenido fases anteriores y cuáles 
+han sido los resultados, cuántos recursos se han invertido y cuáles han sido 
+sus fuentes de financiación. 
+ 
+ Palabras Clave: Incluir máximo seis (6) palabras clave que describan el objeto 
+del proyecto. 
+ 
+ Planteamiento del Problema: Delimitación clara y precisa del objeto de la 
+investigación que se realiza por medio de una pregunta. 
+ 
+ Justificación: Factores que hacen necesario y pertinente la realización del 
+proyecto. 
+ 
+ Marco conceptual: Aspectos conceptuales y teóricos que contextualicen el 
+problema de investigación en una temática; así como otros aspectos que sean 
+pertinentes a juicio de los proponentes. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28  
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 2 de 6 
+ Estado del arte: Revisión actual de la temática en el contexto nacional e 
+internacional, avances, desarrollos y tendencias, en cuya elaboración se 
+pueden tener en cuenta estudios de prospectiva y vigilancia tecnológica. 
+ 
+ Objetivos:  
+ 
+- 
+Objetivo General: Enunciado que define de manera concreta el planteamiento 
+del problema o necesidad y se inicia con un verbo en modo infinitivo, es 
+medible, alcanzable y conlleva a una meta. 
+ 
+- 
+Objetivos Específicos: Enunciados que dan cuenta de la secuencia lógica 
+para alcanzar el objetivo general del proyecto. No debe confundirse con las 
+actividades propuestas para dar alcance a los objetivos (ej. Tomar muestras en 
+diferentes localidades de estudio); ni con el alcance de los productos 
+esperados (ej. Formar un estudiante de maestría). 
+ 
+ Metodología: Exposición en forma organizada y precisa de cómo se desarrollará 
+y alcanzará el objetivo general y cada uno de los objetivos específicos del 
+proyecto, presentando los componentes del mismo y las actividades para el logro 
+de éstos. 
+ 
+ Productos esperados: Evidencia del logro en cuanto a generación de nuevo 
+conocimiento, fortalecimiento de capacidades científicas y apropiación social del 
+conocimiento, una aplicación de software o su equivalente. 
+ 
+ Impactos potenciales: Identificar los impactos potenciales de los resultados del 
+proyecto, los productos, servicios o procesos en las necesidades identificadas.  
+ 
+ Cronograma: Distribución de actividades mensuales de ejecución del proyecto. 
+Asociar a cada actividad el o los objetivos (numerados) relacionados con éstos. 
+ 
+ Presupuesto detallado: Incluye financiación y contrapartida en efectivo por rubro. 
+ 
+ Bibliografía: Fuentes bibliográficas empleadas en cada uno de los ítems del 
+proyecto. Se hará referencia únicamente a aquellas fuentes empleadas en el 
+suministro de la información del respectivo proyecto. No se incluirán referencias 
+que no se citen. Las citas, en cada uno de los campos del formulario, se utilizarán 
+las normas APA No 6.  
+ 
+ Plan de negocios: Con el objetivo de generar la posibilidad de negocio 
+consecuente del desarrollo del proyecto, se hace necesario contemplar un plan de 
+negocio que permita evidenciar la existencia de soluciones frente a las 
+necesidades identificadas en el sector del turismo en Colombia. Entonces, la 
+propuesta deberá demostrar cómo se ha diseñado la disponibilidad del producto 
+  
+ 
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28  
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 3 de 6 
+para la solución de las necesidades expuestas, para ello, se deberá utilizar el 
+modelo CANVAS, detallando en profundidad cada uno de sus componentes, los 
+cuales se muestran a continuación: 
+ 
+ 
+ 
+‐ 
+El plan de negocios tiene dos partes, el modelo gráfico CANVAS y la 
+descripción detallada de cada uno de sus ítems. 
+ 
+‐ 
+Para mayor información sobre el modelo CANVAS, puede consultar el 
+siguiente enlace: http://www.businessmodelgeneration.com/  
+ 
+ Certificación de calidad de la empresa de TI: describa las certificaciones de 
+calidad que tiene la empresa. Adjunte los certificados correspondientes 
+utilizando la opción “otros adjuntos”. 
+ 
+ Asociatividad: describa el gremio o iniciativa de asociatividad a la que 
+pertenece. Adjunte los certificados correspondientes utilizando la opción “otros 
+adjuntos”. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28  
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 4 de 6 
+Nota: Se deberá aportar toda la información necesaria para la evaluación del 
+proyecto con base en los criterios establecidos en el numeral 9: CRITERIOS DE 
+EVALUACION, de los términos de referencia de la convocatoria. 
+ 
+ 
+ 
+ 
+COMPONENTE PRESUPUESTAL 
+ 
+Rubros financiables: 
+ 
+ Estudios de inteligencia competitiva – incluida vigilancia tecnológica – para los 
+productos relacionados con la (s) innovación (es) propuesta (s).  
+ 
+ Adquisición o arrendamiento de equipo de investigación, simulación, ensayos, 
+pruebas y control de calidad que vayan a ser de propiedad del ejecutor o 
+alquilados temporalmente. Se contempla también el diseño y construcción de 
+equipos, cuando el proyecto que vayan a realizar, lo requiera. 
+ 
+ Materiales utilizados en la fabricación de prototipos y plantas piloto que vayan 
+a ser propiedad del ejecutor. 
+ 
+ Desarrollo de software. 
+ 
+ Adquisición de software especializado cuya licencia vaya a ser propiedad del 
+ejecutor para investigación, desarrollo y diseño. 
+ 
+ Servicios tecnológicos nacionales o internacionales (hosting, infraestructura en 
+la nube, virtualización, ensayos, pruebas, análisis, simulación y otros servicios 
+relacionados con TI plenamente justificados). 
+ 
+ Contratación de consultoría científica y tecnológica especializada (igual o 
+menor a 90 días, y de menor valor al 10% del proyecto). 
+ 
+ Viajes nacionales relacionados con el desarrollo del proyecto, únicamente para 
+el personal técnico vinculado al proyecto. 
+ 
+ Capacitación y actualización de personal a través de programas de 
+entrenamiento de corta duración únicamente para el personal vinculado al 
+proyecto en temas relacionados con el mismo. 
+ 
+ Conexión a redes de información para transferencia y apropiación de 
+tecnología. 
+ 
+ Desplazamientos, actividades y materiales para la promoción y la difusión de 
+  
+ 
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28  
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 5 de 6 
+los resultados del proyecto por un valor de hasta el 5% del valor total del 
+proyecto. 
+ 
+ Desplazamientos, actividades y materiales para la promoción y la difusión de 
+los resultados del proyecto por un valor de hasta el 5% del valor total del 
+proyecto. 
+ 
+ Gastos de Propiedad intelectual relacionados con los resultados del proyecto o 
+programa. 
+ 
+ Personal: Personal con formación científica y técnica, que cuenta con título 
+profesional y/o de posgrado (maestría, doctorado), y vinculación de 
+postdoctorados que estarán a cargo de las actividades investigativas propias 
+de la ejecución del proyecto según el planteamiento científico-técnico. 
+ 
+Personal con formación en carreras técnicas y tecnológicas con capacidades 
+para apoyar la ejecución de actividades de Ciencia, Tecnología e Innovación - 
+CTeI. 
+ 
+Los costos individuales no podrán exceder los topes máximos que 
+COLCIENCIAS define en la resolución 000426 de 2014. 
+ 
+ Bibliografía: Adquisición de libros, revistas, artículos, suscripciones o acceso 
+a bases de datos especializadas, que sean estrictamente necesarias para una 
+ejecución exitosa del proyecto. 
+ 
+ Servicios técnicos: Contrataciones que se hacen para la prestación de 
+servicios especializados y cuya necesidad esté suficientemente justificada en 
+el marco del proyecto. 
+ 
+ Software: Adquisición de licencias de software especializado para las 
+actividades de CTeI propias del desarrollo del proyecto. Su necesidad y 
+cantidad debe soportarse en justificaciones técnicas detalladas. No se 
+considerará financiable dentro de este rubro software de uso cotidiano, como 
+por ejemplo procesadores de texto, hojas electrónicas o sistemas operativos. 
+ 
+ Salidas de campo: Costos asociados al levantamiento de información en 
+campo, desde fuentes primarias o secundarias, para la consecución de los 
+objetivos del proyecto. 
+ 
+ Publicaciones: Costos asociados a la publicación de artículos, libros, 
+manuales, videos, cartillas, posters, etc. que presenten los resultados del 
+proyecto y sirvan como estrategia de divulgación o apropiación social de los 
+resultados de la investigación.  
+  
+ 
+ 
+ 
+ 
+ 
+Cra. 7b Bis # 132-28  
+PBX: (57+1) 6258480      
+Bogotá D.C. Colombia 
+www.colciencias.gov.co 
+ 
+Página 6 de 6 
+Rubros no financiables 
+ 
+No será financiable con recursos de COLCIENCIAS rubros presupuestales como: 
+ 
+‐ 
+El personal que sea beneficiario actual de los programas “Jóvenes 
+Investigadores” o “Formación de Doctorados” de COLCIENCIAS, podrá ser 
+vinculado a las actividades investigativas previstas para la ejecución del 
+proyecto, pero en ningún caso, podrá ser financiado al mismo tiempo con 
+los recursos provenientes de COLCIENCIAS asignados a este rubro, en 
+esta convocatoria.  
+ 
+‐ 
+A través del rubro de personal, no se financiarán los derechos académicos y 
+de matrícula del personal.  
+ 
+‐ 
+No será financiable con recursos de COLCIENCIAS rubros presupuestales 
+como: infraestructura tecnológica, hardware, construcciones, mantenimiento 
+de equipos e infraestructura, seguros, adquisición de vehículos, mobiliario 
+de oficina, membresías a Sociedades Científicas.  
+ 
+‐ 
+Compra de máquinas y equipo de producción corriente. 
+ 
+‐ 
+Pagos de pasivos, pago de dividendos, aumento de capital de las 
+instituciones participantes. 
+ 
+‐ 
+Pagos de dividendos o recuperaciones de capital de las instituciones 
+participantes. 
+ 
+‐ 
+Capital de trabajo para la producción corriente. 
+ 
+‐ 
+Inversiones en otras empresas  
+ 
+‐ 
+Inversiones en planta de producción a escala industrial. 
+ 
+‐ 
+Compra de acciones, derechos de empresas, bonos y otros valores 
+mobiliarios. 
+ 
+‐ 
+Instalaciones llave en mano. 
+ 
+‐ 
+Software de uso cotidiano como procesadores de texto, hojas electrónicas y 
+sistemas operativos. 
+ 
+ | PROSPERIDAD 
+- 
+MinTIC 
+  
+  
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS — 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS 
+DE Tl APLICADAS EN EL SECTOR DE TURISMO EN COLOMBIA - 2014 
+1. PRESENTACION 
+COLCIENCIAS, como ente rector de la Ciencia, Tecnologia e Innovacién en el pais, 
+en alianza con el Ministerio de Tecnologias de la Informacién y las Comunicaciones 
+MinTIC, busca con la presente convocatoria fortalecer el desarrollo de aplicaciones 
+tecnologicas orientadas a la solucién de necesidades identificadas en 
+el sector del 
+turismo 
+en 
+Colombia, 
+promoviendo 
+asi 
+la 
+especializacién 
+de 
+la 
+industria 
+de 
+Tecnologias 
+de 
+la 
+Informacién 
+-TI- 
+en 
+dicho 
+sector; 
+especificamente 
+se busca 
+fortalecer, 
+impulsar 
+y promover las actividades 
+y proyectos innovadores 
+en TIC 
+aplicados al turismo y con ello, acercar la actividad investigativa basica al mercado. 
+    
+La presente convocatoria responde a 
+la contribucién para 
+la transformacién de 
+la 
+industria Tl aplicada a un sector estratégico para el pais, como lo es el turismo, a partir 
+de la “Vision estratégica del Sector” definida en la estrategia de MinTIC denominada 
+“Fortalecimiento de la Industria de Tecnologias de Informacion — FIT!” 
+Para mayor informacion sobre antecedentes de esta convocatoria y ampliacién de 
+informacion relacionada con la estrategia FITI y la “Vision estratégica del Sector’, favor 
+revisar el anexo 1. 
+2. OBJETIVOS 
+2.1. GENERAL: 
+Cofinanciar proyectos de innovacién que estén orientados al fortalecimiento del sector 
+del turismo en Colombia 
+a través del desarrollo de soluciones de Tecnologias de 
+Informacion TI! que brinden respuesta a las necesidades de dicho sector y contribuyan 
+a la especializacion de la industria TI. 
+2.2. ESPECIFICOS: 
+2.2.1. Fortalecer la alianza universidad, empresa, estado con el propésito de generar 
+sinergias que contribuyan a la especializacion de la industria TI y a la solucién 
+de problemas del sector turismo en Colombia. 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 1 de 14 
+ 
+     coLcieNcias (| 
+(BROSPERIDAD 
+alle 
+Depattornente Acknimiuintivn dn Cisco, Zecrmagia » /aineccion 
+   
+  
+2.2.2. Incentivar el desarrollo de soluciones de TI para responder a los desafios del 
+sector turismo. 
+2.2.3. Dinamizar la demanda de soluciones de TI por parte de las entidades del sector 
+turismo. 
+2.2.4. Fortalecer la “Visién estratégica del Sector” de Tl, impulsada por el MinTIC y 
+COLCIENCIAS, especificamente en el sector de turismo. 
+2.2.5. Fortalecer la cultura de innovaci6n en el sector del turismo en Colombia, a partir 
+de la implementacion de soluciones de TI. 
+2.2.6. Fomentar el flujo de conocimiento y experiencia que las universidades, centros 
+de investigacion o centros de desarrollo tecnoldgico tienen en trabajo en red y 
+prospectiva en concordancia con la “Vision estratégica del Sector’. 
+3. DIRIGIDO A 
+Alianzas estratégicas entre: empresas de TI, un grupo de investigacién (opcional) y 
+entidad beneficiaria. A continuacién se presenta la definicién de los participantes: 
+3.1. 
+Empresa de TI: micro, pequefias y medianas empresas’, personas juridicas 
+constituidas como sociedades mercantiles pertenecientes 
+a 
+la industria de 
+Tecnologias de Informacion, domiciliadas en Colombia, con animo de lucro, las 
+cuales 
+deben 
+evidenciar 
+que 
+practican 
+una 
+o 
+varias 
+de 
+las 
+siguientes 
+actividades econémicas, a través de su objeto social o cédigo CIIU: 
+Desarrollo de software. 
+Desarrollo de aplicaciones informaticas. 
+Administracién de bases de datos. 
+Tercerizacion de servicios relacionados con las tecnologias de informacion 
+(ITO). 
+Alojamiento de datos. 
+e 
+Disefo y desarrollo de video juegos. 
+Las empresas de TI seran las ejecutoras del proyecto, por ello, seran responsables 
+de la presentaci6n de la propuesta, 
+la gerencia del proyecto, 
+el desarrollo de la 
+solucion tecnolégica y la administraci6n de los recursos entregados por parte de 
+Colciencias, asi mismo, aportaran recursos de contrapartida, elaboraran el plan de 
+  
+' Micro, pequefia y mediana empresa de acuerdo con lo definido en la ley 905 de 2004. 
+Cra. 7b Bis # 132-26 
+PBX: (57+1) 6258480 
+Bogota D.C. Colambia 
+www.colciencias.gov.co 
+Pagina 2 de 14
+     coiciencias C7 | (PROSPERIDAR 
+bile 
+Desetrinmvints Adirnitieotwe 
+din Cieeeit, lecrnkagi 
+© lepers 
+   
+  
+negocios del producto resultado del proyecto 
+y seran 
+los responsables de 
+la 
+comercializacion futura de dicho producto/servicio. 
+3.2. 
+Entidad 
+beneficiaria: 
+se consideran 
+entidades 
+beneficiarias 
+las personas 
+juridicas de caracter publico, economia mixta o privadas, con o sin animo de 
+lucro cuya actividad econémica pertenezca al sector del turismo en Colombia. 
+La entidad beneficiaria asumira el rol de beneficiario del proyecto, quien plantea 
+la necesidad o problemas a resolver a través de soluciones TI. Asi mismo sera 
+participe de la construccién de la solucién a través de las actividades que se 
+requieran para tal fin, permitira a la empresa de T| tener acceso a la informacion 
+empresarial que 
+se 
+requiera 
+en 
+desarrollo 
+del 
+proyecto, 
+implementara 
+la 
+aplicacion tecnologica resultante y retroalimentara 
+a 
+la empresa de TI para 
+mejoras de la misma. 
+3.3. 
+Grupo de investigaci6n: se considera grupos de investigacion, aquellos que a 
+la fecha de apertura de la presente convocatoria se encuentran reconocidos por 
+COLCIENCIAS como resultado de 
+la convocatoria 640 de 2013, 
+los cuales 
+desarrollen su trabajo en lineas de investigaci6n relacionadas con tecnologias 
+de informacion o areas afines a las del objeto de la convocatoria. El grupo de 
+investigacion 
+sera 
+responsable 
+de 
+llevar 
+a 
+cabo 
+el 
+aporte 
+cientifico 
+e 
+investigativo que permita materializar un producto orientado al fortalecimiento 
+del turismo en Colombia. 
+Notas: 
+e 
+Las 
+alianzas 
+estratégicas deberan 
+estar constituidas como minimo 
+por una 
+empresa de TI y una o mas entidades beneficiarias en las cuales se implementara 
+la solucion tecnoldgica fruto del proyecto. 
+e 
+Es opcional que se incluya 
+el grupo de investigacién dentro de 
+la alianza, sin 
+embargo 
+la existencia de esta unidad en 
+el proyecto otorga puntuacién en 
+el 
+proceso de evaluacion. 
+4. LINEAS TEMATICAS 
+Las propuestas que se presenten en el marco de la presente convocatoria podran estar 
+enmarcadas en las tematicas que a continuacion se describen: 
+e 
+Administracion de la cadena de suministros 
+e 
+Aplicaciones 3D y transmedia para promocion hotelera y turistica 
+e 
+Aplicaciones de georreferenciacién aplicadas al turismo 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C, Colombia 
+www.colciencias.gov.co 
+Pagina 3 de 14 
+ 
+   
+coLcieNcias 
+C7 | §PROSPERBAD 
+cp) 
+nt... 
+Dep lementes Admeniitesien ela Ciel. Sectsiogic « Vote 
+  
+Aplicaciones de notificacién automatica de ofertas basadas en las preferencias de 
+los turistas 
+Aplicaciones de turismo para dispositivos méviles 
+Aplicaciones para configuracién personalizada de planes turisticos (alojamiento, 
+transporte y atractivos turisticos) 
+Gestion de relaciones con los clientes 
+Mapeo y divulgacion de atractivos turisticos 
+Nuevos sistemas de pago para el sector 
+Otras tematicas relacionadas con la industria del turismo en Colombia 
+Sistemas de informacion turistica basados en georreferenciacion 
+Sistemas de administracion hotelera 
+Sistemas de autenticacién y control de acceso para turistas frecuentes 
+Sistemas de mineria de datos y data analytics aplicados a turistas 
+Sistemas para gestion de reservas de transporte de personas 
+Sistemas para gestién de reservas hoteleras 
+Nota: 
+Las tematicas anteriormente descritas son sugeridas mas no obligatorias. El proyecto 
+debera describir la tematica 0 tematicas elegidas de acuerdo con 
+la necesidad 
+a 
+resolver y la experiencia de los miembros que integran la alianza. 
+9. REQUISITOS MINIMOS 
+Los requisitos minimos para participar en la presente convocatoria, son los siguientes: 
+5.1, 
+5.2. 
+6.3. 
+5.4. 
+Inscripcion del proyecto en el Sistema integrado de Gestion de Proyectos de 
+COLCIENCIAS — SIGP a través del formulario electrénico disponible en el portal 
+de COLCIENCIAS (www.colciencias.gov.co). 
+Las alianzas estratégicas deben estar conformadas, como minimo, por una 
+empresa 
+de 
+TI 
+y una 
+o varias entidades beneficiarias 
+del sector turismo. 
+Opcionalmente podran incluir un grupo de investigaci6n. 
+Los 
+productos 
+o 
+servicios 
+de 
+los 
+proyectos 
+de 
+desarrollo tecnoldgico 
+e 
+innovacion 
+resultado 
+de 
+esta 
+convocatoria 
+deben 
+tener 
+como 
+usuarios 
+potenciales necesariamente a instituciones del sector de turismo en Colombia, 
+publicas o privadas, ya sean del orden nacional, departamental o municipal. 
+Carta 
+de 
+la 
+alianza 
+estratégica 
+entre 
+la 
+empresa 
+TI, 
+la(s) 
+entidad(es) 
+beneficiaria(s) y el grupo de investigaci6n 
+(si fuera el caso), firmada por los 
+representantes legales de las partes, en la cual se designe a la empresa de TI 
+como ejecutor del proyecto; asi mismo, debera describirse la contrapartida. En 
+Cra, 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 4 de 14 
+i 
+ 
+      
+coLcieNcias © PARA 
+re pae 
+Depararenta Adminitishen da Chenein. Tecxwlogie # teewaiian 
+  
+caso que el representante legal no cuente con la competencia para asumir los 
+compromisos consignados en la carta de alianza estratégica, debera presentar 
+documento que lo faculte firmado por el érgano competente. Formato de carta: 
+anexo 2. 
+5.5. 
+Tanto las empresas de TI como las entidades beneficiarias deberan acreditar 
+como minimo veinticuatro 
+(24) meses de constitucién 
+legal 
+a 
+la fecha de 
+apertura de la convocatoria, lo cual sera verificado por COLCIENCIAS mediante 
+el certificado de existencia y representacion legal. 
+5.6. 
+Las empresas de Tl deberan acreditar experiencia en desarrollo de soluciones 
+de TI mediante certificaciones de ejecucién o actas de finalizacion de por lo 
+menos tres (3) proyectos terminados en los ultimos cinco (5) afos hasta la fecha 
+de apertura 
+de 
+la presente convocatoria. Cada empresa 
+de 
+TI 
+o entidad 
+beneficiaria debera diligenciar el formato del anexo 3. 
+5.7. 
+Carta de autorizacién de uso y almacenamiento de datos personales de las 
+personas involucradas en el proyecto. Diligenciar de acuerdo con el formato del 
+anexo 4, uno por cada una de las personas involucradas en el proyecto. 
+5.8. 
+Carta de presentacion, aval y aceptacién de compromisos; relacionando que 
+este proyecto no esta siendo presentado en otra convocatoria y no esta siendo 
+financiado con otros recursos del Estado, firmada por el representante legal de 
+la empresa de TI. Ver anexo 5. 
+5.9. 
+Presentar los estados financieros de la empresa de TI de los dos ultimos afios 
+(2012 y 2013) debidamente firmados por el contador o revisor fiscal. 
+5.10. 
+En 
+la presente convocatoria, las alianzas solamente podran presentarse una 
+vez y solamente se podra presentar un proyecto por alianza. 
+5.11. 
+En la presente convocatoria, un mismo proyecto no podra ser presentado por 
+mas de una alianza. 
+Notas: 
+e 
+Los interesados deberan cumplir con 
+la totalidad de los requisitos minimos para 
+que su proyecto sea evaluado, en caso contrario no continuaran 
+al proceso de 
+evaluacion. 
+e 
+Las empresas y entidades que se presenten en alianzas y que tengan contratos o 
+convenios vigentes con COLCIENCIAS deberan estar 
+a paz 
+y salvo con 
+los 
+compromisos adquiridos; de lo contrario no seran considerados para participar en 
+Cra, 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C, Colombia 
+www.colciencias.gov.co 
+Pagina 5 de 14 
+v 
+ 
+   
+(Ron tone 
+; 
+TIC e 
+e 
+COLCIENCIAS, podra solicitar en cualquier momento, informacién, documentacién 
+adicional y aclaraciones. 
+  
+esta convocatoria. 
+e 
+Las soluciones tecnolégicas que se presentaran deberan ser nuevas, es decir, que 
+su desarrollo se lleve a cabo durante la ejecucién del proyecto. 
+  
+6. DURACION Y FINANCIACION 
+6.1. Duracion 
+El término de duracién 
+de 
+los proyectos 
+sera 
+hasta veinte meses 
+(20) meses 
+distribuidos de la siguiente forma: 
+e 
+Hasta ocho (8) meses para la ejecucién de todas las etapas requeridas para el 
+desarrollo de las soluciones tecnoldgicas propuestas. 
+e 
+Minimo doce (12) meses para el uso y apropiacién de la solucién de TI por parte 
+de la(s) entidad(es) beneficiaria(s). Durante este periodo de uso y apropiacion, 
+la(s) 
+entidad(es) 
+beneficiaria(s) 
+recibiran 
+soporte 
+técnico, 
+mantenimiento 
+y 
+actualizaciones de la solucién por parte de la empresa de TI, sin que para ello la(s) 
+entidad(es) beneficiaria(s) deba(n) realizar pagos a la empresa de TI. 
+6.2. Presupuesto de la convocatoria 
+EI presupuesto disponible de la convocatoria es de CUATRO MIL TRESCIENTOS 
+MILLONES DE PESOS M/CTE ($4.300,000.000), los cuales corresponden a recursos 
+de la alianza COLCIENCIAS — MINTIC. 
+6.3. Monto financiable por proyecto 
+COLCIENCIAS financiara un monto maximo por proyecto de hasta CUATROCIENTOS 
+MILLONES DE PESOS M/CTE ($400.000.000) bajo la modalidad de cofinanciaci6n. 
+El valor total del proyecto sera la sumatoria del aporte de COLCIENCIAS y los aportes 
+de contrapartida. 
+6.4. Aportes de contrapartida 
+La contrapartida en efectivo sera aportada por la empresa T1, de la siguiente manera: 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 6 de 14 
+ 
+   
+MinTIC 
+  
+  
+  
+  
+  
+  
+  
+Tamafio de la 
+Valores de contrapartida minimos en 
+empresa 
+efectivo 
+Micro 
+5% del valor total del proyecto 
+Pequefias 
+10% del valor total del proyecto 
+Medianas 
+15% del valor total del proyecto 
+  
+  
+Notas: 
+e 
+El 
+proyecto 
+presentado 
+no 
+podra 
+ser financiando simultaneamente 
+por 
+otra 
+convocatoria o con recursos de COLCIENCIAS u otras entidades del Estado. 
+e 
+En 
+caso 
+de 
+no 
+reintegro 
+de 
+los 
+recursos 
+acordados 
+contractualmente, 
+COLCIENCIAS efectuara el respectivo reporte en el boletin de deudores morosos. 
+  
+7. CONTENIDO DEL PROYECTO 
+El proyecto debera incluir la informacion que se describe a continuacién 
+y que se 
+detalla en el anexo 6. 
+7.1. COMPONENTE CIENTIFICO - TECNICO DEL PROYECTO 
+Titulo del proyecto. 
+Gerente de proyecto y equipo de trabajo. (Adjuntar hojas de vida con titulos y 
+certificaciones correspondientes). 
+Linea Tematica. 
+Antecedentes. 
+Resumen ejecutivo. 
+Palabras Clave. 
+Planteamiento del Problema. 
+Justificacion. 
+Marco conceptual. 
+Estado del arte. 
+Objetivos: General, especificos. 
+Metodologia. 
+Productos esperados. 
+Impactos potenciales. 
+Cronograma. 
+Bibliografia. 
+Plan 
+de 
+negocios. 
+(Adjuntar 
+grafico 
+CANVAS 
+y 
+descripci6n 
+de 
+sus 
+componentes) 
+Certificaciones de calidad. (Adjuntar certificaciones). 
+Asociatividad. (Adjuntar certificaciones). 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 7 de 14 
+ 
+     COLCIENCIAS Co 
+Drountameres Admauitatwe 
+che Chenin, lncraiogia ¢ bnowccitn 
+    
+i PROSPERIDAD 
+: 
+WTS 
+7.2. COMPONENTE PRESUPUESTAL 
+  
+Este componente debera presentarse discriminado mensualmente. 
+El valor de 
+la 
+contrapartida debera estar dado en recursos en efectivo de acuerdo con lo estipulado 
+en el numeral 6.4 de esta convocatoria. 
+El presupuesto debera presentarse discriminado por rubros. Para mayor informacion 
+sobre los rubros financiables y no financiables con recursos de alianza MINTIC — 
+COLCIENCIAS en esta convocatoria ver el anexo 6. 
+8. PROCEDIMIENTO DE INSCRIPCION 
+  
+8.1. Descargar, descomprimir e instalar la maquina virtual de java de 
+la siguiente 
+direccisn: 
+http:/Avww.colciencias.gov.co/sites/default/files/ckeditor_files/files/formularios sigp/jre-7u51- 
+windows-i586.zip 
+8.2. Descargar, descomprimir y diligenciar el formulario electrénico disponible en la 
+seccion correspondiente a esta convocatoria del portal institucional de COLCIENCIAS 
+(htto://www.colciencias.gov.co). 
+El formulario electrénico 
+es 
+especifico 
+para 
+esta 
+convocatoria, asegurese de diligenciar efectivamente el formulario en cuestidn. 
+8.3. Para enviar el proyecto desde el formulario electrénico, debe Aceptar los Términos 
+y Condiciones, e inmediatamente se activa el botén de Validar. Si el proyecto es valido 
+sin errores, se activa el botén de Enviar. Una vez el proyecto sea enviado al Sistema 
+Integrado de Gestién de Proyectos de COLCIENCIAS -SIGP-, el Sistema emitira una 
+respuesta automatica, generando un numero de confirmacién de recibido en el servidor 
+de COLCIENCIAS; este numero garantizara la recepcién exitosa del proyecto. 
+8.4. El numero de confirmacién de recibido y la contraseha que la entidad asigne al 
+proyecto, le permitira realizar el envio de los requisitos minimos y hacer el seguimiento 
+del estado del proyecto. Tome nota de este numero de confirmacién y la contrasefa 
+asignada. 
+8.5. Para realizar el envio de los requisitos minimos desde el formulario electrénico, 
+debe dar click en el botén adjuntar documentos de requisitos; inmediatamente 
+el 
+sistema desplegara una pagina en el Portal de Sistema de Gesti6n de Proyectos para 
+tal fin. En el campo Proyecto digite el numero de confirmacién de recibido y en el 
+campo correspondiente diligencie 
+la contrasefia 
+y proceda a dar click en 
+el botén 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 8 de 14 
+a 
+es 
+ 
+     COLCIENCIAS 
+C” | §PROSPERIDAD 
+Departmen Aciiniuiresian eq Canc. Frcralogla m tenredickin 
+   
+  
+Ingresar. A continuacién el sistema desplegara la informacién basica del proyecto yen 
+la parte inferior el detalle de los requisitos minimos. 
+8.6. Debe adjuntar la totalidad de los documentos que soportan los requisitos minimos. 
+Si para un requisito minimo requiere anexar mas de un documento, guardelos en una 
+sola carpeta 
+y 
+adjUntela como 
+archivo comprimido 
+.ZIP 
+o 
+.RAR 
+en 
+el campo 
+correspondiente al requisito. Si requiere cambiar algun archivo de los que previamente 
+adjunto, puede hacerlo examinando y adjuntando el documento deseado. 
+8.7. 
+Si 
+requiere adjuntar documentacién adicional 
+del proyecto 
+(tablas, 
+graficos, 
+anexos, etc.), guardela en una sola carpeta y adjuntela como archivo comprimido .ZIP 
+o .RAR en el requisito denominado Otros adjuntos. Si requiere cambiar algun archivo 
+de 
+los 
+que 
+previamente 
+adjunt6, 
+puede 
+hacerlo 
+examinando 
+y 
+adjuntando 
+el 
+documento deseado. 
+8.8. Recuerde que 
+el formulario solo admite un archivo anexo por cada requisito 
+minimo, por lo que al cargar un archivo nuevo, este reemplazara al anterior. Usted 
+puede 
+verificar 
+el 
+archivo 
+que 
+adjunto 
+a 
+través 
+de 
+la _ 
+pagina 
+http://201.234.78.164:7777/portal/ 
+del SIGP, 
+con 
+el numero de confirmacién 
+y 
+la 
+contrasena asignada al proyecto. 
+8.9. Anexando todos los documentos obligatorios se puede generar el Certificado de 
+requisitos minimos, que 
+le sirve de evidencia del envio de los mismos. 
+En caso 
+contrario, el sistema enviara el siguiente mensaje de error: Error — Debe adjuntar los 
+documentos obligatorios para obtener el certificado, 
+y no permitira generar dicho 
+certificado. 
+8.10. Hasta que no estén completos los requisitos minimos y se haya generado el 
+certificado anteriormente mencionado, no se dara por culminado satisfactoriamente el 
+proceso de inscripcion del proyecto. 
+Notas: 
+e 
+Se aceptaran Unicamente los proyectos que se presenten a través del formulario 
+electrénico con toda la informacion solicitada en la presente convocatoria. 
+e 
+No sera tenida en cuenta para el proceso de evaluacion y seleccion, la informacién 
+enviada en medios distintos 
+al SIGP (correo 
+postal, 
+fax, correo electrénico 
+o 
+cualquier otro), 
+ni posterior a la fecha y hora limite establecida. Ver numeral 12 
+(Cronograma) 
+Cra, 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 9 de 14 
+d 
+ 
+     coLcieNcias 
+C” | §PROSPERIDAD 
+Dewetarrerns Adminitrative da Cemeitt, leerolegia 
+# banesenkan 
+MTS 
+    
+    
+e 
+Encaso de que se presenten errores en el cargue de la informaci6n de la propuesta 
+y/o los adjuntos a través del SIGP, y por esta razén después de efectuados varios 
+intentos 
+no 
+pueda 
+enviarse 
+el 
+proyecto 
+de forma 
+normal 
+dentro 
+del 
+plazo 
+establecido, por favor capturar las pantallas con el mensaje de error y cualquier 
+evidencia que soporte el problema. Remitir antes de la fecha de cierre establecida 
+en el Cronograma de los presentes términos de referencia, todas las evidencias 
+de 
+la falla presentada 
+al correo contacto@colciencias.gov.co, explicando en 
+el 
+cuerpo de dicha comunicacion los inconvenientes ocurridos durante el cargue. 
+9. CRITERIOS DE EVALUACION 
+Los criterios de evaluacion de los proyectos presentados seran los siguientes: 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+es 
+pe 
+ess 
+Puntaje 
+Criterio 
+Descripcion 
+Maximo 
+Se evaluara que la empresa de TI tenga la experiencia, 
+4. 
+PERFILDELA 
+conocimiento 
+ee, 
+capacidades 
+organizacionales 
+EMPRESA DE TI | "ecesarias 
+para 
+ejecutar el 
+proyecto 
+mediante el 
+15 
+analisis de los ingresos operacionales en el ultimo afio, 
+(EJECUTOR) 
+| 
+eG 
+. 
+oat 
+= 
+ja variaci6n de los mismos en los ultimos dos afios y el 
+numero de empleados. 
+Se evaluara 
+el numero de entidades beneficiarias 
+a 
+impactar con 
+el proyecto. 
+Cada entidad beneficiaria 
+ RENEFICIALIALS) 
+generara 2 puntos en la calificacién. Propuestas con 50 
+10 
+mas 
+entidades 
+beneficiarias 
+obtendran 
+un 
+puntaje 
+maximo de 10 puntos. 
+3. 
+PERFIL DEL 
+Se evaluara 
+la experiencia del gerente y del resto de 
+GERENTE DEL 
+miembros del equipo de trabajo, teniendo en cuenta 
+PROYECTO Y 
+perfil profesional, certificaciones y estudios especificos 
+6 
+EQUIPO DE 
+en gerencia de proyectos. 
+__ 
+TRABAJO 
+4. 
+TRAYECTORIA 
+Se evaluara a partir de 
+la clasificacién obtenida en la 
+DEL GRUPO DE | convocatoria de COLCIENCIAS 640 de 2013: A1, A, B 
+4 
+INVESTIGACION | 
+yC. 
+Se evaluara la calidad del plan, la consistencia entre sus 
+5. 
+PLAN DE 
+componentes y la viabilidad financiera que garantice la 
+30 
+NEGOCIO 
+sostenibilidad del producto o servicio en el tiempo una 
+vez concluida la ejecucién del proyecto. 
+Se evaluara 
+el impacto 
+del problema 
+a 
+resolver, 
+el 
+6. 
+CALIDAD 
+Y 
+componente de I+D+I de 
+la propuesta, 
+la coherencia 
+METODOLOGIA | entre los objetivos, 
+la metodologia, las actividades y el 
+25 
+DEL PROYECTO | presupuesto de la propuesta. 
+7. 
+CERTIFICACION | Se evaluara que la empresa de TI cuente con alguna 
+DE CALIDAD DE | certificacid6n de un modelo de calidad relacionado con la 
+5 
+LA EMPRESA TI 
+industria de TI. 
+  
+  
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 10 de 14 
+A= 
+ 
+       
+  
+  
+  
+  
+  
+PROSPERIDAD 
+coLciencias C7 | (PROSPERDAD 
+Criterio 
+Descripcién 
+Pants Je 
+Maximo 
+Se evaluara que 
+la empresa ejecutora hace parte de 
+8. 
+ASOCIATIVIDAD 
+algun gremio o iniciativa de asociatividad empresarial, 
+5 
+: 
+legalmente constituido y relacionado con la industria de 
+Th. 
+TOTAL 
+700 
+  
+  
+  
+  
+10. PROCESO DE EVALUACION 
+Los proyectos inscritos dentro de los plazos establecidos para la presente convocatoria 
+y que cumplan con los requisitos minimos, seran evaluados por COLCIENCIAS- 
+MINTIC, teniendo en cuenta los criterios de evaluacién descritos en el numeral 9. 
+Las propuestas se calificaran en una lista en orden descendente de mayor a menor 
+acorde a la calificacion obtenida. El puntaje minimo para la declaracién de elegibilidad, 
+sera de setenta (70) puntos. 
+En caso de empate, se tendra en cuenta aquel proyecto que presente un mayor puntaje 
+en el criterio “Plan de negocio”; de mantenerse el empate se tendra en cuenta aquel 
+proyecto que presente un mayor puntaje en el criterio “Calidad y metodologia del 
+proyecto”. De aun mantenerse el empate, se tendra en cuenta aquel proyecto que 
+presente un mayor puntaje en el criterio “Perfil empresa de TI (ejecutor). De aun 
+mantenerse el empate, se tendra en cuenta aquel proyecto que presente un mayor 
+puntaje en el criterio “Entidad(es) beneficiaria(s)”. De ain mantenerse el empate, se 
+tendra en cuenta aquel proyecto que presente un mayor puntaje en el criterio “Perfil 
+del gerente del proyecto y equipo de trabajo”. De aun mantenerse el empate, se 
+tendra en cuenta aquel 
+proyecto que presente 
+un mayor puntaje 
+en 
+el 
+criterio 
+“Trayectoria del grupo de investigacién”. De alin mantenerse el empate, se tendra 
+en cuenta aquel proyecto que presente un mayor puntaje en el criterio “Certificacion 
+de calidad de la empresa TI”. De atin mantenerse el empate, se tendra en cuenta 
+aquel proyecto que presente un mayor puntaje en 
+el criterio “Asociatividad”. 
+Si 
+agotados todos los criterios de desempate aun persiste la situacién de empate, se 
+desempatara utilizando el mecanismo de balotas. 
+Toda informacion proporcionada es de caracter confidencial y no sera utilizada para 
+ningun fin diferente a la realizacion de la evaluaci6n. Los expertos evaluadores estaran 
+cobijados por clausulas de confidencialidad y de no conflicto de interés. 
+De acuerdo con el CRONOGRAMA de la convocatoria, se concedera un término para 
+solicitar aclaraciones y/o modificaciones 
+a 
+la publicacién preliminar del banco de 
+elegibles, una vez éstas sean resueltas, se procedera 
+a 
+la publicacién del banco 
+definitivo de proyectos elegibles. 
+Cra. 7b Bis # 132-28 
+PBX; (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 17 de 14 
+ 
+ I 
+{PROSPERIDAD 
+PARA TODOS 
+3 
+g 
+arp 
+  
+  
+definitivo de proyectos elegibles. 
+La 
+inclusion 
+de 
+la postulacién 
+en 
+el Banco 
+de 
+Proyectos 
+Elegibles, 
+no 
+implica 
+obligatoriedad 
+ni compromiso alguno 
+para COLCIENCIAS 
+o MINTIC de asignar 
+recursos, 
+ni genera derecho 
+a 
+recibir apoyos econdmicos 
+para quienes 
+hayan 
+presentado los proyectos correspondientes. 
+Nota: COLCIENCIAS y MINTIC, se reservan el derecho de solicitar ajustes sobre la 
+propuesta presentada ya sea en 
+el presupuesto o en 
+el contenido técnico. Estas 
+solicitudes de ajustes seran el resultado del proceso de evaluacion. 
+  
+11. ACLARACIONES 
+Una 
+vez 
+publicados 
+los 
+resultados 
+preliminares 
+del 
+banco 
+de 
+elegibles, 
+los 
+interesados podran 
+presentar solicitudes 
+de aclaraciones 
+y comentarios 
+por 
+un 
+periodo de tres (3) dias habiles. Por fuera de este término se considera que las 
+reclamaciones son extemporaneas y no seran atendidas. 
+Las peticiones 
+y reclamaciones se deben presentar exclusivamente 
+a través del 
+correo 
+electronico 
+contacto@colciencias.gov.co, 
+con 
+el 
+asunto 
+“Convocatoria 
+Turismo TI - 2014”. 
+; 
+12. CRONOGRAMA 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ACTIVIDAD 
+FECHA LIMITE 
+Apertura 
+14 de agosto de 2014 
+Cierre de la convocatoria 
+30 de septiembre de 2014 
+Publicacién del banco preliminar 
+4 de noviembre de 2014 
+Periodo de solicitud de aclaraciones. 
+5 al 7 de noviembre de 2014 
+Respuesta 
+m 
+solicitud 
+de 
+12 de noviembre de 2014 
+aclaraciones. 
+Publicacién 
+definitiva 
+banco 
+de 
+18 da novienbre de aia 
+proyectos elegibles. 
+  
+13. PROPIEDAD INTELECTUAL 
+COLCIENCIAS- MINTIC exceptuando motivos de seguridad 
+y defensa nacional, 
+ceden a la empresa de TI, los derechos patrimoniales de la solucién TI desarrollada. 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 12 de 14 
+ 
+       
+<i> 
+oe 
+<r 
+  
+COLCIENCIAS C 
+[EROSPERIDAD 
+bata 
+Le 
+ee 
+PARA TODOS 
+tna 
+Nota: En cualquier evento o medio de divulgacion utilizado para difundir los resultados 
+del proyecto se debera dar el respectivo crédito a COLCIENCIAS y MINTIC incluyendo 
+la imagen institucional de las dos instituciones. 
+  
+  
+14. VEEDURIAS CIUDADANA 
+Las veedurias ciudadanas establecidas en la ley 850 de 2008, podran desarrollar su 
+actividad 
+durante 
+la 
+presente convocatoria, 
+conforme 
+a 
+lo estipulado 
+en 
+dicha 
+normativa. 
+  
+Anexo 1 
+- Antecedentes 
+Anexo 2 - Formato carta de alianza estratégica 
+Anexo 3 — Carta de experiencia de la empresa TI 
+Anexo 4 - Carta autorizaci6n datos personales 
+Anexo 5 - Carta de presentacion y aval 
+Anexo 6 - Contenido del proyecto 
+16. ACEPTACION DE TERMINOS Y VERACIDAD 
+Con la inscripcion, los interesados aceptan las caracteristicas, requisitos y condiciones 
+de 
+la presente convocatoria asi como 
+lo dispuesto en 
+los presentes términos de 
+referencia para el desarrollo de la misma y para la entrega del beneficio. 
+De igual forma declaran que la informacion suministrada es veraz y corresponde a la 
+realidad. 
+En 
+caso 
+de 
+encontrarse 
+alguna 
+incoherencia 
+e 
+inconsistencia 
+en 
+la 
+informaci6n 
+o 
+documentacién 
+suministrada, 
+COLCIENCIAS 
+podra 
+en 
+cualquier 
+momento rechazar la postulacién o si es del caso declarar la pérdida del beneficio, sin 
+perjuicio de las acciones legales correspondientes. 
+Los proponentes aceptan sin condicionamiento alguno la existencia de una obligacion 
+solidaria en relaci6n con la presentacién de la propuesta, la suscripcién y legalizacion 
+del contrato, asi como de su cumplimiento y liquidacién (responsabilidad solidaria en 
+las fases pre-contractual, contractual y post-contractual). Los proponentes mantendran 
+los términos de la propuesta durante el desarrollo y ejecucidn de la misma y no podran 
+ser modificados sin el consentimiento previo de COLCIENCIAS y el Ministerio TIC. De 
+igual manera, los miembros de la alianza estratégica que presentan el proyecto, deben 
+designar la persona que, para todos los efectos, hara su representacion y sefalaran 
+las reglas basicas que regulen las relaciones entre ellos y su responsabilidad. Para la 
+existencia de la obligacion solidaria solamente sera necesario que la oferta se presente 
+en forma conjunta, en consecuencia no se requiere que se refiera a esta circunstancia 
+de manera expresa. 
+Cra, 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 13 de 14 
+ 
+ iT 
+(Eee e RAD 
+WTS 
+Cas 
+  
+  
+  
+17. MAYOR INFORMACION 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E 
+INNOVACION 
+- COLCIENCIAS — 
+Carrera 7 B Bis No. 132-28, Bogota D.C. 
+http:/Awww.colciencias.gov.co 
+Centro de Contacto 
+Teléfono: (+57 - 1) 6258480 Extensién 2081 
+Linea gratuita nacional: 018000 914446 
+En caso de inquietudes o comentarios sobre la presente convocatoria, favor enviar un 
+correo 
+electrénico 
+con 
+el 
+asunto 
+“Convocatoria , Turismo 
+TI” 
+al 
+correo 
+contacto@colciencias.gov.co. 
+    
+Directora (E) 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C, Colombia 
+www.colciencias.gov.co 
+Pagina 14 de 14
+ ihe 
+Brees | 
+| 
+ee eR eee 
+rr] 
+  
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS 
+- 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS 
+DE Tl APLICADAS EN EL SECTOR DE TURISMO EN COLOMBIA 
+- 2014 
+  
+ANEXO 1 —- ANTECEDENTES 
+La estrategia de Fortalecimiento de la Industria de Tecnologias de Informacion - FITI del 
+Ministerio de Tecnologias de Informacion y Comunicaciones - MINTIC, es la estrategia de 
+la Direccién de Politicas y Desarrollo TI, y su propésito es contribuir a la transformacién de 
+la industria de Tecnologias de la Informacién -T.I-. en un sector competitivo, a través de la 
+dinamizacion 
+de 
+diferentes 
+lineas 
+de 
+accién 
+que 
+conforman 
+un modelo 
+integral 
+y 
+sistémico. 
+La industria T.I. esta conformada por la Industria de Software, Empresas de Hardware y 
+Servicios 
+asociados 
+a 
+las Tecnologias 
+de 
+Informacién. 
+Para 
+su 
+fortalecimiento 
+es 
+necesario el desarrollo de las siguientes dimensiones estratégicas: 
+Vislén estratégica del 
+sector Th.    
+   
+  
+TalentoHumano 
+@ 
+Ss Ce 
+ae 
+I+D+i 
+Emprendimiento y 
+Normatividad 
+wee 
+Enea 
+rrr 
+“ 
+eae 
+one 
+ee 
+ prenersacres fortalecimienta 
+empresarial 
+Asociatividad 
+_ 
+Calidad 
+Infraestructura 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 1 de 3
+   
+      
+2 <r 
+cl 
+oy 
+   
+     
+ES 
+    
+comciencias 
+Oepartaments Administraliva 
+da Clancia, Tecnaloglae:tnrevachin 
+Me Bleue er) 
+Ce 
+BRO 
+een 
+    
+Vision Estratégica del Sector: Dimensién orientada a establecer un norte para la 
+industria Tl, 
+a través de estudios y estrategias que orienten a todos los actores 
+involucrados, a trabajar articuladamente bajo la misma direccidén. 
+Investigacion, Desarrollo 
+e Innovacion: En esta linea de accién se pretende 
+promover 
+ejercicios 
+de 
+investigacidn, 
+desarrollo 
+e 
+innovacién 
+articulando 
+academia, empresa, estado y clusters. 
+Calidad: Dimension con la cual se promueve la adopcién de modelos de calidad 
+globalmente reconocidos 
+por parte 
+de 
+las empresas que hacen 
+parte de 
+la 
+Industria TI. 
+Normatividad: Dimensi6n 
+en 
+la 
+que 
+se trabaja 
+para 
+formular 
+y gestionar 
+la 
+implementaci6n de normas que permitan incentivar a la industria Tl, a manera de 
+marco normativo competitivo. 
+Asociatividad: En esta dimension se busca fortalecer modelos de colaboracién 
+para 
+que 
+se 
+generen 
+sinergias 
+estratégicas 
+que 
+permitan 
+incrementar 
+la 
+competitividad del sector. 
+Infraestructura: Impulsar 
+el 
+desarrollo 
+de 
+estudios 
+de 
+viabilidad 
+para 
+implementacion de infraestructura apta y pertinente a las tendencias, para fomento 
+a la industria TI. 
+Talento Humano: Dimensién en la que se articulan esfuerzos con la academia y 
+el sector empresarial, para el disefio e implementacién de programas de formacién 
+ajustados a las necesidades de Ia industria TI. 
+Emprendimiento y fortalecimiento empresarial: Implementacion de estrategias 
+especializadas para la industria de tecnologias de informacién que dinamicen la 
+creacion de nuevas empresas innovadoras en el sector. 
+VISION ESTRATEGICA DEL SECTOR 
+Una 
+de 
+las 
+lineas 
+de accién 
+para 
+dinamizar 
+el fortalecimiento 
+del 
+sector 
+TI, 
+es 
+la 
+denominada “Visién estratégica del Sector” en 
+la que se busca que 
+la industria TI se 
+especialice en segmentos de mercado especificos, buscando sustituir el clasico modelo 
+de negocios de desarrollo a la medida para pasar a contar con modelos de negocio con 
+alto valor agregado, acorde con los potenciales enddgenos de las regiones. 
+Para 
+este 
+fin, COLCIENCIAS 
+en 
+alianza 
+con MINTIC adelantaron 
+un 
+proyecto 
+de 
+consultoria para establecer los segmentos de mercado 
+a 
+los que deberian orientarse 
+esfuerzos desde las regiones priorizadas para potencializar la industria Tl del pais. Los 
+resultados fueron los siguientes: 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 2 de3 
+ 
+    
+   
+SIL 
+. 
+rey 
+   
+    
+LS 
+COLCIENCIAS CS 
+Beoartamento Adimenisrativa da Cheneia, Teemologia @ Innovacién 
+Maxiithecio 
+de Tecnologias 
+ee 
+Ree 
+enti] 
+    
+En Antioquia se identificé que habian capacidades para desarrollar Tecnologias de 
+informacion (Tl), para el sector energia. 
+En 
+Eje 
+Cafetero 
+se 
+identificaron 
+capacidades 
+para 
+desarrollar 
+TI 
+para 
+bioinformatica. 
+En los Santanderes se identificaron capacidades para desarrollar TI para el sector 
+hidrocarburos. 
+En Cundinamarca se identificaron capacidades para desarrollar TI para el sector 
+banca y finanzas. 
+En Valle del Cauca se identificaron capacidades para desarrollar Tl para el sector 
+de agroindustria. 
+En la regi6n caribe se identificaron capacidades para desarrollar T| para el sector 
+de logistica y transporte. 
+Asi mismo, se identificaron capacidades en general en el territorio nacional para 
+desarrollar TI en los sectores de salud, turismo y gobierno. 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 3 de 3 
+ 
+ D 
+oil, 
+m7, 
+. 
+colon 
+COLCIENCIAS 
+©” | (PROSPERIDAD 
+ie 
+aS 
+    
+Departamanin Melmnicirctya dn Clenele, tnereloyio « Innevaciin 
+  
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS - 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS DE TI 
+APLICADAS EN EL SECTOR DE TURISMO EN COLOMBIA - 2014 
+  
+ANEXO 2 - CARTA DE CONFORMACION DE LA ALIANZA ESTRATEGICA 
+A continuacion se presenta el modelo de carta de conformacién de la alianza estratégica: 
+(Ciudad), (Dia) de (Mes) de 201_ 
+Sefiores 
+COLCIENCIAS 
+Carrera 7B Bis No. 132 —28 
+Bogota D.C. 
+Asunto: Conformacion de Alianza Estratégica (nombre de la alianza) para la convocatoria (nombre 
+de la convocatoria) de 201_, 
+Respetados sefiores, 
+La presente tiene por objeto presentar la conformacién de 
+la Alianza Estratégica (nombre de 
+la 
+alianza), que estara integrada por las siguientes entidades: (nombre de la entidad 
+1 
+- empresa de 
+Tl), (nombre de 
+la entidad 
+2 — entidad(es) beneficiaria(s)..., 
+etc.); designandose como entidad 
+ejecutora a (nombre de la entidad ejecutora — empresa de Tl), quien sera la encargada de firmar el 
+contrato o convenio resultado de la convocatoria (nombre de la convocatoria) de 201 
+. 
+De igual forma, certifico que el grupo de investigacién que hace parte de la alianza es (nombre del 
+grupo de investigacion / reconocimiento obtenido en la convocatoria 640 de 2013). (En caso de no 
+contar con grupo de investigacién, omita completamente este parrafo). 
+Asi mismo, los abajo firmantes declaran que: 
+Tienen poder y/o representacidon legal para firmar y presentar el proyecto. 
+Este proyecto 
+y 
+el contrato 
+o convenio que 
+Ilegue 
+a celebrarse en caso 
+de financiacidn, 
+compromete totalmente a la(s) persona(s) juridica(s) que legalmente represento. 
+e 
+La informacion suministrada es veraz y no fija condiciones artificiales. 
+e 
+Aceptan y reconocen que cualquier omisién o inconsistencia en la que hayan podido incurrir y 
+que 
+pueda 
+influir 
+en 
+nuestro 
+proyecto, 
+no 
+les 
+eximira 
+de 
+la 
+obligacion 
+de 
+asumir 
+las 
+responsabilidades que 
+les 
+llegue 
+a corresponder como futuros contratistas 
+y renuncian 
+a 
+cualquier reclamaci6n, reembolso o ajuste de cualquier naturaleza, por cualquier situacién que 
+surja y no haya sido contemplada en razon de 
+la falta de diligencia en 
+la obtencién de 
+la 
+informacion. 
+e 
+No se encuentran incursos en ninguna de 
+las causales de inhabilidad y/o incompatibilidad 
+establecidas en el Estatuto General de Contratacion y demas normas legales pertinentes. 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 
+1 de 3 
+ 
+      
+coLciencias © [ores 
+Drratiermamnts Achmiassvalive da Clima, Tmérsadin) 
+at w leneyachAe 
+   
+e 
+Aceptan 
+y autorizan 
+a COLCIENCIAS 
+para 
+que verifique 
+la 
+informacién 
+aportada 
+en 
+el 
+proyecto. 
+e 
+Se encuentran al dia con las obligaciones y compromisos adquiridos con COLCIENCIAS. 
+e 
+El 
+proyecto no esta siendo financiado por otra convocatoria o con recursos de COLCIENCIAS 
+u otras entidades del Estado 
+  
+Por otra parte 
+y para 
+el desarrollo 
+de 
+la propuesta 
+la empresa 
+TI que conforma 
+la alianza 
+estratégica aportara los siguientes recursos de contrapartida, de acuerdo con lo establecido en el 
+numeral 6.4. de la convocatoria: 
+  
+  
+  
+  
+Tamafio de 
+Monto de contrapartida 
+Empresa de 
+Empresa 
+Total 
+acuerdo con lo 
+Beneficiaria 
+establecido en 
+Efecti 
+% Efecti 
+la Ley 905 de 
+ectivo 
+0 
+ectivo 
+2004 
+Nombre 
+de 
+la 
+$ 
+Micro / Pequefia 
+/ 
+$ 
+% 
+empresa de TI 
+Mediana 
+  
+  
+  
+  
+  
+  
+  
+Certificamos que la entidad ejecutora (Empresa de Tl) cuenta con XX empleados y activos totales 
+de $XXXXXXX de acuerdo con la ley 905 de 2004, por lo tanto corresponde a una micro / pequenha 
+/ mediana empresa 
+Ademas, 
+ACEPTAMOS 
+expresa 
+e 
+irrevocablemente 
+que 
+conocemos 
+detalladamente 
+las 
+caracteristicas, requisitos y condiciones de la convocatoria (nombre de la convocatoria), de manera 
+que 
+nos sometemos 
+a 
+lo 
+establecido 
+en 
+los 
+Términos 
+de 
+Referencia 
+determinados 
+por 
+COLCIENCIAS para el desarrollo de la misma y para la entrega del beneficio. 
+Con 
+la 
+presente 
+manifestaci6n 
+inequivoca 
+de 
+voluntad, 
+declaramos 
+que 
+en 
+caso 
+de 
+ser 
+beneficiados en 
+la convocatoria (nombre de 
+la convocatoria), esté sera recibido en los términos 
+que 
+COLCIENCIAS 
+establezca; 
+comprendemos 
+y 
+aceptamos 
+que 
+la 
+no 
+aceptacién 
+o 
+el 
+incumplimiento de alguna de las condiciones establecidas, dara lugar a 
+la pérdida definitiva del 
+beneficio. 
+Declaramos que 
+la informacién suministrada es veraz y corresponde a 
+la realidad. En caso de 
+encontrarse alguna incoherencia o inconsistencia en la informacién o documentacién suministrada, 
+COLCIENCIAS podra en cualquier momento, rechazar esta postulacién o 
+finiquitar el beneficio, sin 
+perjuicio de las acciones legales correspondientes. 
+Cordialmenie, 
+Firma 
+Nombre del representante legal empresa de TI (entidad Ejecutora) 
+CC 
+Nombre de la empresa de TI (entidad Ejecutora) 
+Direccién 
+Teléfono 
+e-Mail 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 2 de 3 
+ 
+     
+CoLcieNcias ©” 
+Peirce 
+ae 
+Ceparkarmmits Achwimizvcrtiva da Clences, Taegan m Iniyaeices 
+     
+Firma 
+Nombre del representante legal de la entidad beneficiaria 
+1 
+cc 
+Nombre 
+Direccion 
+Teléfono 
+e-Mail 
+  
+Firma 
+Nombre del representante legal de la entidad beneficiaria 2 
+cc 
+Nombre 
+Direccién 
+Teléfono 
+e-Mail 
+  
+Firma 
+Nombre del representante legal de la entidad beneficiaria 3 
+Cc 
+Nombre 
+Direccién 
+Teléfono 
+e-Mail 
+Firma 
+Nombre 
+del representante 
+legal 
+de 
+la entidad 
+a 
+la que pertenece 
+el grupo 
+de 
+investigacion 
+(opcional) 
+cc 
+Nombre de la Universidad 
+Nombre del grupo de investigacion 
+Direccién 
+Teléfono 
+e-Mail 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 3 de 3 
+é
+    
+   
+<I; 
+cS 
+Bupartormani Adiminlivatwa de Cemcier, Tncrnlogio » Ini 
+GIT      
+COLCIENCIAS 
+C’ | §BARA TODOS 
+@) 
+  
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS — 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS DE TI 
+APLICADAS EN EL SECTOR DE TURISMO EN COLOMBIA - 2014 
+  
+ANEXO 3 —- CARTA DE EXPERIENCIA DE LA EMPRESA TI 
+A continuacién se presenta el modelo de carta de certificacion de la experiencia con la 
+que cuenta la empresa TI: 
+(Ciudad), (Dia) de (Mes) de 201_ 
+Sefiores 
+COLCIENCIAS 
+Carrera 7B Bis No. 132 — 28 
+Bogota D.C. 
+Asunto: Certificacion de la experiencia de (Nombre de la empresa) 
+Respetados sefiores, 
+Por medio de la presente yo NOMBRE DEL REPRESENTANTE LEGAL, identificado con cédula de 
+ciudadania numero (Numero de identificacién), como Representante Legal 
+de (Nombre de 
+la 
+empresa), certifico que la entidad mencionada cumple con los requisitos de experiencia minima 
+exigida en 
+el marco de 
+la convocatoria para conformar un banco de proyectos de soluciones 
+innovadoras de TI en el sector de turismo en Colombia. A continuacidn se relaciona la experiencia 
+de la empresa: 
+| 
+  
+  
+  
+  
+  
+  
+REE 
+e 
+DURACION 
+VALOR 
+TEMATICA 
+TOA RARILe 
+XX 
+XX 
+$ XXXXX 
+XX 
+XX 
+XX 
+XX 
+$ XXXXX 
+Xx 
+XX 
+XX 
+XX 
+$ XXXXX 
+Xx 
+XX 
+TOTAL 
+XX 
+$ XXXXX 
+XX 
+XX 
+  
+  
+  
+  
+  
+  
+Para 
+verificacién 
+de 
+la 
+experiencia 
+descrita 
+anteriormente, 
+se 
+anexan 
+las 
+certificaciones 
+correspondientes. 
+Cordialmente, 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 1 de 2 
+ 
+ lr, 
+SOLOW 
+  
+    COLCIENCIAS C” 
+Cepartoimemss Aelinin| irestnes So Cama ig, Tecnobeigic q lmnervaiesie 
+   
+(PROSPERIDAD 
+a 
+PARA TODOS 
+wo 
+FIRMA 
+NOMBRE DEL REPRESENTANTE LEGAL O PERSONA NATURAL 
+CG 
+Direccién 
+Teléfono 
+e-Mail 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+  
+Pagina 2 de 2 
+ 
+ COLCIENCIAS 
+(Row pAD 
+/ 
+Departanarta Adminanative ce Cinsces, Facnolioin a twine 
+   
+<I, 
+a ¢ 
+or   
+  
+| MinTIC 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS 
+- 
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS DE TI 
+APLICADAS EN EL SECTOR DE TURISMO EN COLOMBIA - 2014 
+  
+ANEXO 4 - AUTORIZACION USO Y ALMACENAMIENTO DE DATOS PERSONALES 
+A continuaci6n se presenta el modelo de carta para autorizacion uso y almacenamiento 
+de datos personales: 
+(Ciudad), (Dia) de (Mes) de 201_ 
+Sefiores 
+COLCIENCIAS 
+Carrera 7B Bis No. 132 — 28 
+Bogota D.C. 
+Asunto: Autorizacién uso y almacenamiento de datos personales. 
+En virtud de la Ley Estatutaria 1581 del 2012, mediante la cual se dictan las disposiciones 
+generales para la proteccién de datos personales, y su Decreto Reglamentario 1377 de 
+2013, autorizo 
+al Departamento Administrativo de Ciencia, Tecnologia 
+e Innovacion 
+- 
+Colciencias, 
+considerado como responsable 
+y/o encargado 
+del tratamiento 
+de datos 
+personales, almacenados en bases de datos, las cuales incluyen informacion que se han 
+reportado en desarrollo de las diferentes actividades 
+y formularios, 
+y en particular los 
+siguientes: nombres, numero de documento de identificacién, direccién, teléfono fijo y 
+movil, direcciones, correo electrénico, profesién, hoja de vida académica, certificados de 
+notas, etc. 
+Los datos seran utilizados para la misi6n institucional establecida en la ley 1286 de 2009, 
+como ente rector de la Ciencia Tecnologia e innovacién en Colombia. 
+Atentamente, 
+FIRMA 
+NOMBRES Y APELLIDOS 
+IDENTIFICACION 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 
+1 de 1 
+ 
+     COLCIENCIAS CS 
+oat DAD 
+Departareerts Adtinisisvenion a Chesca, Techelnin a fered 
+   
+   
+sulle 
+© 
+yer 
+  
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS - 
+  
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS DE TI 
+APLICADAS EN EL SECTOR DE TURISMO EN COLOMBIA - 2014 
+  
+ANEXO 5 - CARTA DE PRESENTACION Y AVAL 
+A continuacion se presenta el modelo de carta de presentacién y aval: 
+(Ciudad), (Dia) de (Mes) de 201_ 
+Sefiores 
+COLCIENCIAS 
+Carrera 7B Bis No. 132 — 28 
+Bogota D.C. 
+Asunto: Presentacion 
+y aval 
+del proyecto (escriba 
+el nombre del proyecto) 
+a 
+la convocatoria 
+(nombre de la convocatoria) 
+Respetados sefiores, 
+La 
+presente 
+tiene como 
+objeto 
+avalar 
+el 
+proyecto 
+(escriba 
+el 
+nombre 
+del 
+proyecto,) 
+a 
+la 
+convocatoria (nombre 
+de 
+la convocatoria) 
+de 201_, 
+propuesto 
+por 
+la (nombre 
+de 
+la 
+alianza 
+estratégica...), 
+y manifiesto que 
+el 
+proyecto en mencidn 
+no 
+esta siendo financiado 
+por otra 
+convocatoria o con recursos de COLCIENCIAS u otras entidades del Estado. 
+Ademas, ACEPTO expresa e irrevocablemente que conozco detalladamente las caracteristicas, 
+requisitos y condiciones de la convocatoria para conformar un banco de proyectos de soluciones 
+innovadoras de TI aplicadas 
+al sector turismo de Colombia, de manera que me someto 
+a 
+lo 
+establecido en los términos de referencia determinados por COLCIENCIAS para el desarrollo de la 
+misma y para la entrega del beneficio. 
+Declaro que 
+la informaci6n suministrada 
+es veraz 
+y corresponde 
+a 
+la 
+realidad. 
+En caso 
+de 
+enconitrarse alguna incoherencia o inconsistencia en la informacién o documentacién suministrada, 
+COLCIENCIAS podra en cualquier momento, rechazar mi postulacién o finiquitar el beneficio, sin 
+perjuicio de las acciones legales correspondientes. 
+Cordialmente, 
+Firma 
+Nombre del representante legal empresa de TI (entidad Ejecutora) 
+CC 
+Cra, 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 
+1 de 2
+         
+  
+“ae 
+PROSPERIDAD 
+COLCIENCIAS CS 
+UPROSPERIDAD 
+Nombre de la empresa de TI (entidad Ejecutora) 
+Direccion 
+Teléfono 
+e-Mail 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C, Colombia 
+www.colciencias.gov.co 
+Pagina 2 de 2
+ jPROSPERIDAD 
+\ 
+imie 
+DEPARTAMENTO ADMINISTRATIVO DE CIENCIA, TECNOLOGIA E INNOVACION 
+- COLCIENCIAS - 
+  
+  
+CONVOCATORIA PARA EL DESARROLLO DE SOLUCIONES INNOVADORAS DE TI 
+APLICADAS EN EL SECTOR DE TURISMO EN COLOMBIA - 2014 
+  
+ANEXO 6 - CONTENIDO DEL PROYECTO 
+COMPONENTE CIENTIFICO - TECNICO DEL PROYECTO 
+e 
+Titulo del proyecto 
+e 
+Gerente del proyecto y equipo de trabajo: especificar el perfil profesional, la 
+experiencia, el rol dentro del proyecto y el tiempo de dedicacién tanto para el 
+gerente del proyecto como para el resto de miembros del equipo de trabajo. 
+Adjuntar las hojas de vida con los titulos y certificaciones correspondientes. 
+e 
+Linea Tematica: Especificar en cual(es) de las lineas tematicas definidas por 
+la convocatoria esta enmarcado el proyecto de acuerdo con el numeral 4 de la 
+convocatoria. 
+e 
+Resumen ejecutivo: Informacién minima necesaria para comunicar de manera 
+precisa los contenidos y alcances del proyecto. 
+e 
+Antecedentes: especificar si el proyecto ha tenido fases anteriores y cuales 
+han sido los resultados, cuantos recursos se han invertido y cudles han sido 
+sus fuentes de financiacion. 
+e 
+Palabras Clave: Incluir maximo seis (6) palabras clave que describan el objeto 
+del proyecto. 
+e 
+Planteamiento del Problema: Delimitacion clara 
+y precisa del objeto de 
+la 
+investigaciOn que se realiza por medio de una pregunta. 
+e 
+Justificacidn: Factores que hacen necesario 
+y pertinente 
+la realizacién del 
+proyecto. 
+e 
+Marco conceptual: Aspectos conceptuales 
+y tedricos que contextualicen 
+el 
+problema de investigaci6n en una tematica; asi como otros aspectos que sean 
+pertinentes a juicio de los proponentes. 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C, Colombia 
+www.colciencias.gov.co 
+Pagina 1 de 6 
+AO
+      coiciencias” | §PRSSBBAe = 
+(Gj) 
+A 
+Separtcononia Admsmabya te Cima, lacnoboyia » innewsenea 
+i 
+   
+“Irn 
+vu 
+4 
+7 % : i 
+2, 
+. 
+Wry 
+e 
+Estado del arte: Revisidn actual de 
+la tematica en 
+el contexto nacional 
+e 
+internacional, 
+avances, 
+desarrollos 
+y tendencias, 
+en 
+cuya 
+elaboracién 
+se 
+pueden tener en cuenta estudios de prospectiva y vigilancia tecnoldgica. 
+  
+Objetivos: 
+- 
+Objetivo General: Enunciado que define de manera concreta el planteamiento 
+del problema 
+o necesidad 
+y se 
+inicia con 
+un verbo en modo 
+infinitivo, es 
+medible, alcanzable y conlleva a una meta. 
+- 
+Objetivos Especificos: Enunciados que dan cuenta de 
+la secuencia Idgica 
+para alcanzar el objetivo general del proyecto. No debe confundirse con las 
+actividades propuestas para dar alcance a los objetivos (ej. Tomar muestras en 
+diferentes 
+localidades 
+de 
+estudio); 
+ni 
+con 
+el 
+alcance 
+de 
+los 
+productos 
+esperados (ej. Formar un estudiante de maestria). 
+Metodologia: Exposici6n en forma organizada y precisa de cémo se desarrollara 
+y alcanzara 
+el 
+objetivo general 
+y cada 
+uno 
+de 
+los 
+objetivos especificos 
+del 
+proyecto, presentando los componentes del mismo y 
+las actividades para el logro 
+de éstos. 
+Productos esperados: Evidencia del logro en cuanto 
+a generacién de nuevo 
+conocimiento, fortalecimiento de capacidades cientificas y apropiacién social del 
+conocimiento, una aplicacion de software o su equivalente. 
+Impactos potenciales: Identificar los impactos potenciales de los resultados del 
+proyecto, los productos, servicios 0 procesos en las necesidades identificadas. 
+Cronograma: Distribucién de actividades mensuales de ejecucién del proyecto. 
+Asociar a cada actividad el o los objetivos (numerados) relacionados con éstos. 
+Presupuesto detallado: Incluye financiaci6n y contrapartida en efectivo por rubro. 
+Bibliografia: Fuentes bibliograficas empleadas en cada uno 
+de 
+los items 
+del 
+proyecto. Se hara referencia Unicamente 
+a aquellas fuentes empleadas en 
+el 
+suministro de la informacién del respectivo proyecto. No se incluiran referencias 
+que no se citen. Las citas, en cada uno de los campos del formulario, se utilizaran 
+las normas APA No 6. 
+Plan 
+de 
+negocios: 
+Con 
+el 
+objetivo 
+de 
+generar 
+la 
+posibilidad 
+de 
+negocio 
+consecuente del desarrollo del proyecto, se hace necesario contemplar un plan de 
+negocio 
+que 
+permita 
+evidenciar 
+la 
+existencia 
+de 
+soluciones 
+frente 
+a 
+las 
+necesidades identificadas en 
+el sector del turismo en Colombia. 
+Entonces, 
+la 
+propuesta debera demostrar como se ha disefado la disponibilidad del producto 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 2 de 6 
+y 
+ 
+     COLCIENCIAS Co 
+Desextamanin Adlmasierntiva da Cliricke lmcrologie « lnnnyacin 
+    
+a PROSPERIDAD 
+PARA TODOS 
+TLS 
+  
+para 
+la solucién de las necesidades expuestas, para ello, se debera utilizar 
+el 
+modelo CANVAS, detallando en profundidad cada uno de sus componentes, los 
+cuales se muestran a continuaci6én: 
+  
+Socios clave 
+Actividades clave 
+100 cae tre ipa praia cmyotreta Coma? 
+: 
+(preventer 
+cprvbes ees 
+rai rere ten aint 
+inet 
+bes de bapesin? 
+  
+  
+  
+  
+   
+  
+Recursos clave 
+(eat err 
+ston epson 
+ta pirate Oba 
+phen. frm 
+libra jeans 
+(Seley 
+Tene rte 
+  
+  
+  
+Propuestas de valor & 
+roby epee et 
+Relaciones con aieitee 
+  
+aeaterlnp 
+: 
+ssh agar depres 
+ove ob ucts wk ae yee ont! 
+veel 
+etait 
+aevelorias 
+antodoa 
+heres elder? 
+aisae 
+Meeks cone rst demverboretede 
+oan 
+1 enlen    
+  
+Canales 
+int 
+\     
+  
+  
+Segmentos de cliente 
+! 
+i 
+robe detec 
+bigantarhe? 
+vie 
+  
+  
+Estructura de costes 
+vipat     
+ernie eter 
+esa renege! 
+ie" 
+  
+= 
+Fuentes de ingresos 
+= 
+e 
+ota 
+yoke eon rilmweane 
+epee ates pie rue 
+coated! 
+Potaegt 
+pre ietecirer 
+honest 
+ta! 
+(jandoretnggnt 
+vaya Ke de 
+exccae ren Wt 
+    
+  
+  
+- 
+El 
+plan 
+de 
+negocios 
+tiene 
+dos 
+partes, 
+el 
+modelo 
+grafico CANVAS 
+y 
+la 
+descripcion detallada de cada uno de sus items. 
+- 
+Para mayor informacion sobre el modelo CANVAS, puede consultar el 
+siguiente enlace: http://www.businessmodelgeneration.com/ 
+e 
+Certificacion de calidad de la empresa de TI: describa las certificaciones de 
+calidad 
+que 
+tiene 
+la 
+empresa. 
+Adjunte 
+los 
+certificados 
+correspondientes 
+utilizando la opcidn “otros adjuntos”. 
+e 
+Asociatividad: 
+describa 
+el 
+gremio 
+o 
+iniciativa 
+de 
+asociatividad 
+a 
+la 
+que 
+pertenece. Adjunte los certificados correspondientes utilizando la opcién “otros 
+adjuntos”. 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 3 de6 
+  
+ 
+     
+COLcIENCIAS C” | §PROSPERIDAD 
+Penarkaieana Admumioratiys sn Clrei. Uncralog 
+ia a loneyciin 
+     
+e 
+  
+Nota: Se debera aportar toda 
+la informacion necesaria para 
+la evaluacion del 
+proyecto con base en los criterios establecidos en el numeral 9: CRITERIOS DE 
+EVALUACION, de los términos de referencia de la convocatoria. 
+COMPONENTE PRESUPUESTAL 
+Rubros financiables: 
+Estudios de inteligencia competitiva — incluida vigilancia tecnolégica — para los 
+productos relacionados con la (s) innovacién (es) propuesta (s). 
+Adquisicion o arrendamiento de equipo de investigacién, simulacion, ensayos, 
+pruebas 
+y control de calidad que vayan 
+a ser de propiedad del ejecutor 
+o 
+alquilados temporalmente. Se contempla también el disefio y construccién de 
+equipos, cuando el proyecto que vayan a realizar, lo requiera. 
+Materiales utilizados en la fabricacién de prototipos y plantas piloto que vayan 
+a ser propiedad del ejecutor. 
+Desarrollo de software. 
+Adquisicion de software especializado cuya licencia vaya a ser propiedad del 
+ejecutor para investigacion, desarrollo y disefio. 
+Servicios tecnolégicos nacionales o internacionales (hosting, infraestructura en 
+la nube, virtualizaci6n, ensayos, pruebas, analisis, simulacién y otros servicios 
+relacionados con TI plenamente justificados). 
+Contratacion 
+de 
+consultoria 
+cientifica 
+y tecnolégica 
+especializada 
+(igual 
+o 
+menor a 90 dias, y de menor valor al 10% del proyecto). 
+Viajes nacionales relacionados con el desarrollo del proyecto, Unicamente para 
+el personal técnico vinculado al proyecto. 
+Capacitaci6n 
+y 
+actualizaci6n 
+de 
+personal 
+a 
+través 
+de 
+programas 
+de 
+entrenamiento de corta duracién Uunicamente para 
+el personal vinculado 
+al 
+proyecto en temas relacionados con el mismo. 
+Conexi6n 
+a 
+redes 
+de 
+informacion 
+para 
+transferencia 
+y 
+apropiacién 
+de 
+tecnologia. 
+Desplazamientos, actividades y materiales para la promocion y la difusion de 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www,.colciencias.gov.co 
+Pagina 4 de 6 
+ 
+     
+COLCIENCIAS CS 
+Cwonrierrstn Ackwintartivves 
+de Clerc, twcraslagia 
+4 PROSPERIDAD 
+PARA TODOS 
+    
+eo 
+Sea” 
+Ei 
+los resultados del proyecto por un valor de hasta 
+el 5% del valor total del 
+proyecto. 
+  
+  
+Desplazamientos, actividades y materiales para la promocién y la difusién de 
+los resultados del proyecto por un valor de hasta 
+el 5% del valor total del 
+proyecto. 
+Gastos de Propiedad intelectual relacionados con los resultados del proyecto o 
+programa. 
+Personal: Personal con formacion cientifica 
+y técnica, que cuenta con titulo 
+profesional 
+y/o 
+de 
+posgrado 
+(maestria, 
+doctorado), 
+y 
+vinculacién 
+de 
+postdoctorados que estaran a cargo de las actividades investigativas propias 
+de la ejecucién del proyecto segun el planteamiento cientifico-técnico. 
+Personal con formacién en carreras técnicas y tecnolégicas con capacidades 
+para apoyar la ejecucion de actividades de Ciencia, Tecnologia e Innovacidén 
+- 
+CTel. 
+Los 
+costos 
+individuales 
+no 
+podran 
+exceder 
+los 
+topes 
+maximos 
+que 
+COLCIENCIAS define en la resoluci6n 000426 de 2014. 
+Bibliografia: Adquisicion de libros, revistas, articulos, suscripciones 0 acceso 
+a bases de datos especializadas, que sean estrictamente necesarias para una 
+ejecucion exitosa del proyecto. 
+Servicios técnicos: 
+Contrataciones que 
+se 
+hacen 
+para 
+la 
+prestacién 
+de 
+servicios especializados y cuya necesidad esté suficientemente justificada en 
+el marco del proyecto. 
+Software: 
+Adquisicién 
+de 
+licencias 
+de 
+software 
+especializado 
+para 
+las 
+actividades 
+de 
+CTel 
+propias 
+del 
+desarrollo 
+del 
+proyecto. 
+Su 
+necesidad 
+y 
+cantidad 
+debe 
+soportarse 
+en 
+justificaciones 
+técnicas 
+detalladas. 
+No 
+se 
+considerara financiable dentro de este rubro software de uso cotidiano, como 
+por ejemplo procesadores de texto, hojas electrénicas o sistemas operativos. 
+Salidas de campo: Costos asociados 
+al levantamiento de informacién en 
+campo, desde fuentes primarias 
+o secundarias, para 
+la consecucién de 
+los 
+objetivos del proyecto. 
+Publicaciones: 
+Costos 
+asociados 
+a 
+la 
+publicacidn 
+de 
+articulos, 
+libros, 
+manuales, 
+videos, 
+cartillas, 
+posters, 
+etc. 
+que presenten 
+los resultados 
+del 
+proyecto y sirvan como estrategia de divulgaci6n o apropiacién social de los 
+resultados de la investigacién. 
+Cra. 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+Pagina 5 de 6 
+ 
+ Pon fen tore 
+    
+COLCIENCIAS —” | §BROSPERIDAD 
+Haale 
+Separkarmpnta Admvecratves 
+dy Clana, Tectolegin © innevaeiin 
+   
+Rubros no financiables 
+   
+  
+No sera financiable con recursos de COLCIENCIAS rubros presupuestales como: 
+- 
+El 
+personal 
+que 
+sea 
+beneficiario 
+actual 
+de 
+los 
+programas 
+“Jévenes 
+Investigadores” o “Formacién de Doctorados” de COLCIENCIAS, podra ser 
+vinculado 
+a las actividades investigativas previstas para 
+la ejecucién del 
+proyecto, pero en ningun caso, podra ser financiado al mismo tiempo con 
+los recursos provenientes de COLCIENCIAS asignados 
+a este rubro, en 
+esta convocatoria. 
+- 
+A través del rubro de personal, no se financiaran los derechos académicos y 
+de matricula del personal. 
+- 
+No sera financiable con recursos de COLCIENCIAS rubros presupuestales 
+como: infraestructura tecnolégica, hardware, construcciones, mantenimiento 
+de equipos e infraestructura, seguros, adquisicién de vehiculos, mobiliario 
+de oficina, membresias a Sociedades Cientificas. 
+- 
+Compra de maquinas y equipo de produccién corriente. 
+- 
+Pagos 
+de 
+pasivos, 
+pago 
+de 
+dividendos, 
+aumento 
+de 
+capital 
+de 
+las 
+instituciones participantes. 
+- 
+Pagos 
+de dividendos 
+o 
+recuperaciones 
+de 
+capital 
+de 
+las 
+_instituciones 
+participantes. 
+- 
+Capital de trabajo para la produccién corriente. 
+- 
+Inversiones en otras empresas 
+- 
+Inversiones en planta de produccion a escala industrial. 
+- 
+Compra 
+de 
+acciones, 
+derechos 
+de 
+empresas, 
+bonos 
+y 
+otros 
+valores 
+mobiliarios. 
+- 
+Instalaciones Ilave en mano. 
+- 
+Software de uso cotidiano como procesadores de texto, hojas electrénicas y 
+sistemas operativos. 
+Cra, 7b Bis # 132-28 
+PBX: (57+1) 6258480 
+Bogota D.C. Colombia 
+www.colciencias.gov.co 
+4 
+Pagina 6 de 6 
+ 

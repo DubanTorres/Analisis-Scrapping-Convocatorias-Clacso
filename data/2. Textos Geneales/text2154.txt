@@ -1,0 +1,439 @@
+
+ 
+Fundação de Apoio ao Desenvolvimento do Ensino, Ciência e Tecnologia do Estado de Mato Grosso do Sul 
+Rua São Paulo, 1436 - Bairro Vila Célia CEP 79.010-050 – Campo Grande/MS  
+http://www.fundect.ms.gov.br   E-mail: secretaria@fundect.ms.gov.br                                                                          
+                                                                                                                                                                                                                              
+1 
+ 
+PROGRAMA ESPECIAL FUNDECT/UEMS/UFMS n° 28/2015 – SIGPOS - FASE I 
+ 
+Cadastro de Proposta para Apoiar o Desenvolvimento do Sistema 
+Informatizado de Pós-Graduação Stricto Sensu para Instituições de Ensino do 
+Estado de Mato Grosso do Sul 
+ 
+O Governo do Estado de Mato Grosso do Sul, por meio da Fundação de Apoio ao 
+Desenvolvimento do Ensino, Ciência e Tecnologia do Estado de Mato Grosso do Sul 
+(Fundect), 
+vinculada 
+à 
+Secretaria 
+de 
+Estado 
+de 
+Cultura, 
+Turismo, 
+Empreendedorismo e Inovação (SECTEI) em parceria com a Universidade Estadual 
+de Mato Groso do Sul (UEMS) e a Universidade Federal de Mato Grosso do Sul 
+(UFMS), tornam público o presente Programa Especial e convoca o pesquisador 
+doutor para cadastrar no SigFundect a proposta aprovada em observância ao 
+Termo 
+de 
+Cooperação 
+FUNDECT/UEMS/UFMS 
+Processo 
+nº10/2015 
+em 
+conformidade com as disposições do presente programa especial. 
+ 
+1. OBJETIVO 
+Fomentar projeto de pesquisa e extensão tecnológica de cooperação institucional 
+entre a UFMS, a UEMS e a Fundect a fim de desenvolver um sistema de 
+informatização para a pós-graduação para instituições de ensino superior 
+utilizando processo aderente ao modelo MPS-BR-SW, e tendo a UEMS como estudo 
+de caso para validação de tal modelo, nos termos do Art. 9º da Lei de Inovação nº 
+10.973/2004. A implantação deste sistema auxiliará na gestão das informações e 
+de indicadores dos programas de pós-graduação stricto sensu do Estado de Mato 
+Grosso do Sul. 
+ 
+2. CRONOGRAMA 
+Etapa 
+Data 
+Lançamento do Programa Especial no SigFundect (Sistema de 
+Informação e Gestão de Projetos da Fundect), no portal da 
+Fundect e publicação no Diário Oficial do Estado. 
+20/11/2015 
+Período para o envio eletrônico da proposta e documentos no 
+SigFundect. 
+20/11 a 
+25/11/2015 
+Divulgação e homologação da proposta enquadrada e aprovada 
+no SigFundect, no portal da Fundect e no Diário Oficial do 
+Estado. 
+Até 30/11/2015 
+Início da contratação da proposta aprovada. 
+A partir de 
+dezembro de 2015 
+  
+ 
+Fundação de Apoio ao Desenvolvimento do Ensino, Ciência e Tecnologia do Estado de Mato Grosso do Sul 
+Rua São Paulo, 1436 - Bairro Vila Célia CEP 79.010-050 – Campo Grande/MS  
+http://www.fundect.ms.gov.br   E-mail: secretaria@fundect.ms.gov.br                                                                          
+                                                                                                                                                                                                                              
+2 
+ 
+ 
+3. RECURSOS FINANCEIROS E PRAZO DE EXECUÇÃO DO PROJETO 
+3.1. As propostas aprovadas serão financiadas com recursos da UEMS e da 
+Fundect advindos do Termo de Cooperação Fundect/UEMS/UFMS Nº10/2015. O 
+total de recursos destinados para esse Programa Especial (1ª Fase) é de até R$ 
+140.000,00 (cento e quarenta mil reais), sendo até R$ 90.000,00 (noventa mil reais) 
+provenientes da UEMS para investimento em custeio, e até R$50.000,00 (cinquenta 
+mil reais) da Fundect para recursos de capital necessários para infraestrutura 
+tecnológica de desenvolvimento do sistema. 
+3.2. O projeto deverá ser executado no período de até 12 (doze meses), podendo o 
+mesmo ser prorrogado, desde que haja motivação justificada pelo coordenador e 
+aprovada pela diretoria executiva da Fundect e UEMS. 
+ 
+4. CRITÉRIOS DE ELEGIBILIDADE 
+Os requisitos abaixo são obrigatórios. O atendimento aos mesmos é considerado 
+imprescindível para o enquadramento, análise e julgamento da proposta. 
+ 
+4.1. Quanto à Instituição Executora: 
+a) estar localizada no Estado de Mato Grosso do Sul; e 
+b) instituições de ensino superior, públicas ou privadas. 
+ 
+4.2. Para o Coordenador: 
+a) ser brasileiro nato, naturalizado ou estrangeiro com visto permanente; 
+b) residir no Estado de Mato Grosso do Sul; 
+c) ter título de doutor; 
+d) ser servidor efetivo de instituição executora; 
+e) ser indicado como coordenador pela UFMS – instituição partícipe do acordo de 
+cooperação. É reservado à Fundect o direito de solicitar, se julgar necessário, 
+documentos que comprovem a atuação legal do coordenador nas atividades de pós-
+graduação; e 
+f) não ter qualquer pendência administrativa com a Fundect no momento da 
+submissão, análise e contratação da proposta. 
+ 
+4.3. Quanto à Proposta: 
+a) ser apresentada na forma de projeto de pesquisa, extensão ou inovação, 
+conforme roteiro descrito no item 5.3.1; 
+b) caracterizar, claramente, como um projeto com potencialidade para o 
+desenvolvimento da pós-graduação no Estado de Mato Grosso do Sul; 
+  
+ 
+Fundação de Apoio ao Desenvolvimento do Ensino, Ciência e Tecnologia do Estado de Mato Grosso do Sul 
+Rua São Paulo, 1436 - Bairro Vila Célia CEP 79.010-050 – Campo Grande/MS  
+http://www.fundect.ms.gov.br   E-mail: secretaria@fundect.ms.gov.br                                                                          
+                                                                                                                                                                                                                              
+3 
+ 
+c) estar vinculada à instituição executora que oferece as condições de 
+infraestrutura necessárias para seu desenvolvimento; e 
+d) ter equipe de execução constituída por pesquisadores, alunos e técnicos. Outros 
+profissionais poderão integrar a equipe na qualidade de colaboradores. 
+ 
+5. DOCUMENTAÇÃO OBRIGATÓRIA 
+5.1. Cadastro do coordenador e de todos os membros da equipe do projeto no 
+SigFundect (http://www.fundect.ms.gov.br). 
+5.2. Currículo do coordenador e dos membros da equipe na Plataforma Lattes 
+(CNPq). 
+5.3. Preenchimento, obrigatório, do Formulário Eletrônico da Proposta no 
+SigFundect, anexando os seguintes documentos: 
+5.3.1. Plano de Trabalho com até 20 páginas (incluindo a Capa), seguindo o roteiro 
+abaixo (Anexo 01): 
+ 
+Título do Projeto 
+ 
+Identificação do coordenador, da equipe de execução do projeto e laboratório 
+de pesquisa e desenvolvimento da instituição (infraestrutura disponível) 
+ 
+Qualificação do problema a ser abordado 
+ 
+Objetivos Gerais e Específicos 
+ 
+Revisão da Literatura 
+ 
+Metodologia 
+ 
+Cronograma de Execução 
+ 
+Produtos gerados, impactos e benefícios para Mato Grosso do Sul 
+ 
+Referências 
+5.3.2. Para a instituição executora: declaração da instituição de ensino superior 
+que indica o nome do coordenador do projeto de pesquisa e extensão tecnológica. A 
+declaração deverá ser digitalizada/escaneada, com a assinatura do representante 
+legal (Reitoria, Vice-Reitoria ou Pró-Reitoria de Pesquisa e Pós-Graduação) (Anexo 
+02). 
+5.3.3. Documentos pessoais do coordenador: anexar no Cadastro de Pesquisador 
+no SigFundect os documentos pessoais escaneados/digitalizados: a) RG, b) CPF e 
+c) comprovante de título de doutor (certificado ou Ata de defesa da tese). 
+ 
+6. APRESENTAÇÃO E ENVIO DA PROPOSTA 
+6.1. O coordenador deverá enviar, exclusivamente, via internet, pelo SigFundect 
+apenas uma proposta na forma de projeto, acompanhada dos documentos descritos 
+no item 5.3 deste Programa Especial. 
+  
+ 
+Fundação de Apoio ao Desenvolvimento do Ensino, Ciência e Tecnologia do Estado de Mato Grosso do Sul 
+Rua São Paulo, 1436 - Bairro Vila Célia CEP 79.010-050 – Campo Grande/MS  
+http://www.fundect.ms.gov.br   E-mail: secretaria@fundect.ms.gov.br                                                                          
+                                                                                                                                                                                                                              
+4 
+ 
+6.2. As propostas devem ser transmitidas à Fundect até às 23 horas e 59 minutos, 
+horário de Mato Grosso do Sul, da data limite de submissão das propostas (item 2). 
+O coordenador receberá por e-mail, imediatamente após o envio, protocolo do 
+SigFundect. 
+6.3. Não serão aceitas propostas enviadas por qualquer outro meio, tampouco após 
+o prazo final definido no item 6.2. 
+6.4. A Fundect não se responsabilizará por propostas não recebidas em decorrência 
+de eventuais problemas técnicos e congestionamentos das linhas de comunicação. 
+ 
+7. RECURSOS FINANCIÁVEIS E NÃO FINANCIÁVEIS  
+Os recursos deste Programa Especial serão destinados ao financiamento de itens de 
+custeio e capital para a execução do projeto. Os recursos financiáveis devem estar 
+estritamente relacionados à execução de atividades vinculadas diretamente ao 
+projeto. 
+ 
+7.1. Itens Financiáveis 
+a) Material de consumo nacional e/ou importado, software; 
+b) Bolsas para estudantes, técnicos e pesquisadores, nacionais e estrangeiros, de 
+curta ou longa duração, de acordo com a Tabela de Bolsas da Fundect: Iniciação 
+Científica – PIBIC, Extensão e Inovação Tecnológica – EXT, Pesquisador Visitante - 
+PV, Desenvolvimento Tecnológico Industrial – DTI, Especialista Visitante – EV e 
+outras modalidades de bolsa da Fundect desde que solicitadas, analisadas e 
+aprovadas pela diretoria executiva da Fundect. 
+c) Passagens nacionais e/ou internacionais para pesquisadores da equipe de 
+execução, a fim de fortalecer o grupo de pesquisa e apresentar trabalhos aceitos em 
+congressos, seminários ou em outros eventos/missões científicas nacionais ou 
+internacionais. 
+d) Diárias nacionais e internacionais para os pesquisadores da equipe de trabalho 
+de acordo com a Tabela de Diárias da Fundect. Todas as diárias internacionais 
+devem ser formalmente solicitadas pelo coordenador à Diretoria Executiva da 
+Fundect para aprovação, antes de serem utilizadas. 
+e) Serviços de Terceiros - Pessoa Física: pagamento de Pessoa Física em caráter 
+eventual e temporário, não podendo ultrapassar o período máximo de 90 dias 
+consecutivos. Qualquer pagamento a pessoa física deve ser realizado de acordo com 
+a legislação em vigor, de forma a não sendo permitido, em qualquer hipótese, 
+estabelecer vínculo empregatício de qualquer natureza com a Fundect.  Assim, a 
+mão-de-obra empregada na execução do projeto não terá vínculo de qualquer 
+  
+ 
+Fundação de Apoio ao Desenvolvimento do Ensino, Ciência e Tecnologia do Estado de Mato Grosso do Sul 
+Rua São Paulo, 1436 - Bairro Vila Célia CEP 79.010-050 – Campo Grande/MS  
+http://www.fundect.ms.gov.br   E-mail: secretaria@fundect.ms.gov.br                                                                          
+                                                                                                                                                                                                                              
+5 
+ 
+natureza com a Fundect e não poderá demandar quaisquer pagamentos, 
+permanecendo na exclusiva responsabilidade do coordenador/instituição executora. 
+f) Serviços de Terceiros – pessoa jurídica: 
+f.1) Serviços para a realização de instalações e adaptações necessárias ao 
+adequado funcionamento dos equipamentos adquiridos no projeto; 
+f.2) Hospedagem nacional para os pesquisadores da equipe na realização dos 
+workshops ou reuniões de trabalho. A hospedagem poderá incluir despesas 
+de estadia e de alimentação e deverá substituir as diárias, ou seja, não se 
+pode pagar simultaneamente diárias e hospedagem para o mesmo 
+pesquisador. 
+f.3) Despesas para solicitação de patentes e outros serviços essenciais para o 
+projeto deverão ser devidamente justificadas; e 
+f.4) Quando aplicável, a proposta deve incluir as despesas acessórias 
+decorrentes da importação de equipamentos, material permanente e material 
+de consumo, na razão de 18% (dezoito por cento) do montante previsto para 
+tais gastos. A Fundect não responderá por quaisquer suplementações de 
+recursos para fazer frente a qualquer despesa decorrente de quaisquer fatores 
+externos ao seu controle, como flutuação cambial, taxas e impostos não 
+previstos. 
+g) Serão permitidos, excepcionalmente, desde que devidamente justificado e 
+pertinente com o objetivo da proposta de projeto, os itens a seguir:  
+g.1) intercâmbios internacionais bilaterais de membros da equipe do projeto 
+(professores, pesquisadores, estudantes e cientistas) de outros centros do 
+Brasil e do exterior;  
+g.2) recrutamento, por tempo limitado, de pesquisadores e técnicos de apoio à 
+pesquisa;  
+g.4) pagamento de diárias e passagens para apresentação de trabalhos em 
+congressos, seminários, trabalhos de campo e visitas técnicas; e 
+g.5)  tradução de artigos, inscrição para apresentação de trabalhos em eventos 
+e/ou congressos nacionais e internacionais. 
+h) Equipamentos e materiais permanentes em geral, nacional ou internacional. 
+Quando houver importação deve-se incluir as despesas indicadas no item f.5). 
+Deve-se dar prioridade para a aquisição de equipamentos de multiuso e que não 
+existam em laboratórios das instituições parceiras do Estado Mato Grosso do Sul. 
+ 
+7.2. Itens não financiáveis: 
+a) reforma e construções de imóveis; 
+b) aquisição de veículos; 
+  
+ 
+Fundação de Apoio ao Desenvolvimento do Ensino, Ciência e Tecnologia do Estado de Mato Grosso do Sul 
+Rua São Paulo, 1436 - Bairro Vila Célia CEP 79.010-050 – Campo Grande/MS  
+http://www.fundect.ms.gov.br   E-mail: secretaria@fundect.ms.gov.br                                                                          
+                                                                                                                                                                                                                              
+6 
+ 
+c) pagamento de salários ou complementação salarial de pessoal técnico e 
+administrativo ou quaisquer outras vantagens para pessoal de instituições públicas 
+(federal, estadual e municipal); 
+d) Pagamento de taxas de administração ou gestão, a qualquer título, de acordo 
+com a Instrução Normativa 01/97 da Secretaria do Tesouro Nacional; 
+e) Despesas com coffe-break e promoção de eventos técnico-científicos; 
+f) Aquisição de livros e materiais bibliográficos; e 
+g) Taxas bancárias, multas, juros ou correção monetária. 
+7.3. As solicitações de passagens, diárias, serviços de terceiros, equipamentos e 
+bolsas deverão ser, detalhadamente justificadas, sob pena de corte orçamentário. 
+7.4. Os equipamentos serão alocados na instituição executora do projeto sob a 
+responsabilidade, manutenção e guarda do coordenador e da instituição executora. 
+7.5. A Fundect não assume qualquer compromisso de suplementação de recursos 
+para fazer frente a despesas adicionais decorrentes de quaisquer fatores externos a 
+seu controle, como por exemplo, inflação, taxas de armazenagem e flutuação 
+cambial. 
+ 
+8.  HOMOLOGAÇÃO E DIVULGAÇÃO DOS RESULTADOS  
+8.1. Os projetos aprovados serão homologados pela diretoria executiva da Fundect, 
+divulgados no portal da Fundect (www.fundect.ms.gov.br) e publicados no Diário 
+Oficial do Estado de Mato Grosso do Sul, com prazo para a entrega dos seguintes 
+DOCUMENTOS ORIGINAIS a Fundect: 
+a) Anexo 01 - ver item 5.3.1; 
+a) Anexo 02 - ver item 5.3.2; 
+b) Formulário do projeto gerado pelo SigFundect assinado pelo coordenador. 
+8.2. O coordenador tomará conhecimento do resultado por intermédio de 
+correspondência eletrônica no SigFundect e publicação do Diário Oficial do Estado 
+de Mato Grosso do Sul. 
+8.3. O não cumprimento dos prazos para entrega dos documentos acima implicará 
+no cancelamento da contratação do projeto. 
+8.4. Os motivos da não recomendação ou da desclassificação dos projetos estarão 
+disponíveis na área restrita do coordenador no SigFundect. 
+ 
+9. CONTRATAÇÃO DAS PROPOSTAS APROVADAS 
+9.1. As propostas aprovadas serão contratadas mediante assinatura do 
+instrumento jurídico Termo de Outorga com a Fundect, que estabelecerá os direitos 
+e obrigações entre as partes. 
+  
+ 
+Fundação de Apoio ao Desenvolvimento do Ensino, Ciência e Tecnologia do Estado de Mato Grosso do Sul 
+Rua São Paulo, 1436 - Bairro Vila Célia CEP 79.010-050 – Campo Grande/MS  
+http://www.fundect.ms.gov.br   E-mail: secretaria@fundect.ms.gov.br                                                                          
+                                                                                                                                                                                                                              
+7 
+ 
+9.2. A existência de alguma inadimplência do coordenador, da instituição 
+proponente e/ou do bolsista com órgãos da Administração Pública Federal, 
+Estadual ou Municipal, não regularizada no prazo máximo de 15 (quinze) dias após 
+a divulgação dos resultados, constituirá fator impeditivo para a concessão do 
+recurso. 
+9.3. A liberação dos recursos será efetuada em até quatro parcelas, conforme 
+cronograma de desembolso aprovado pela diretoria executiva da Fundect. 
+9.4. A concessão do apoio financeiro será cancelada pela diretoria executiva da 
+Fundect por ocorrência, durante sua implementação, de fato cuja gravidade 
+justifique o cancelamento, sem prejuízo de outras providências cabíveis. 
+ 
+10. PUBLICAÇÕES 
+10.1. Toda comunicação, divulgação e publicação resultante do fomento deste 
+Programa Especial deverá citar, obrigatoriamente, o apoio na parceria Fundect, a 
+UEMS e UFMS. 
+10.2. As ações publicitárias atinentes a projetos e obras financiadas com recursos 
+da União deverão observar rigorosamente as disposições contidas no §1º do art. 37 
+da Constituição Federal, bem como aquelas consignadas nas Instruções da 
+Secretaria de Comunicação de Governo e Gestão Estratégica da Presidência da 
+República - atualmente a IN/SECOM-PR nº 31, de 10 de setembro de 2003. 
+ 
+11. ACOMPANHAMENTO E AVALIAÇÃO 
+11.1. O coordenador deverá acompanhar todas as etapas da execução do projeto e 
+encaminhar os seguintes documentos para a Fundect, anualmente: 
+a) 
+Relatórios técnico-científicos e financeiros (parciais e final), preenchidos 
+eletronicamente no SigFundect, devidamente assinados e entregues a 
+Fundect, conforme o Termo de Outorga. 
+b) 
+Apresentação dos artigos publicados em revistas ou anais de congressos 
+nacionais ou estrangeiros (com indicação expressa do apoio da Fundect e 
+UEMS); artigos, ainda no prelo, submetidos a revistas, e outras formas de 
+comunicação científica. 
+c) 
+Apresentação das atividades desenvolvidas e resultados alcançados no 
+Seminário de Acompanhamento e Avaliação da Fundect. 
+11.2. A não apresentação das documentações no prazo estipulado significará 
+quebra do Termo de Outorga e a imediata suspensão do projeto. 
+11.3. A Fundect, durante a vigência do projeto, poderá promover visitas técnicas ou 
+solicitar informações adicionais. 
+ 
+  
+ 
+Fundação de Apoio ao Desenvolvimento do Ensino, Ciência e Tecnologia do Estado de Mato Grosso do Sul 
+Rua São Paulo, 1436 - Bairro Vila Célia CEP 79.010-050 – Campo Grande/MS  
+http://www.fundect.ms.gov.br   E-mail: secretaria@fundect.ms.gov.br                                                                          
+                                                                                                                                                                                                                              
+8 
+ 
+12. REVOGAÇÃO OU ANULAÇÃO DO PROGRAMA ESPECIAL 
+12.1. A qualquer tempo, este Programa Especial poderá ser revogado ou anulado, 
+no todo ou em parte, seja por decisão unilateral da Fundect, seja por motivo de 
+interesse público ou exigência legal, sem que implique direitos à indenização ou 
+reclamação de qualquer natureza. 
+ 
+13. PRESTAÇÃO DE CONTAS  
+13.1. O coordenador do projeto (beneficiário do Auxílio) deverá prestar contas 
+tecnicamente e financeiramente à Fundect a cada 12 (doze) meses e ao final da 
+vigência do projeto, em conformidade com o MANUAL DE INSTRUÇÕES PARA 
+UTILIZAÇÃO E PRESTAÇÃO DE CONTAS DE AUXÍLIOS FINANCEIROS 
+CONCEDIDOS PELA FUNDECT e demais normas desta chamada.  
+13.2. Para informações referentes à Prestação de Contas, entrar em contato com: 
+Setor de Prestação de Contas – E-mail: pcontas@fundect.ms.gov.br ou diretamente 
+na ferramenta de Correios do SigFundect. 
+ 
+14. DISPOSIÇÕES GERAIS 
+14.1. O coordenador que aderir às condições apresentadas neste Programa não 
+poderá arguir qualquer vício ou irregularidade do mesmo, sendo a apresentação de 
+sua proposta considerada como concordância irretratável nas condições aqui 
+estabelecidas. 
+14.2. A veracidade das informações prestadas, bem como a documentação 
+apresentadas, serão de responsabilidade do coordenador, respondendo por elas, na 
+forma da Lei. 
+14.3. As decisões finais da diretoria executiva da Fundect são terminativas, não 
+cabendo pedidos de reconsideração. 
+14.4. A veracidade das informações prestadas, bem como a documentação 
+apresentadas, serão de responsabilidade do coordenador, respondendo por elas, na 
+forma da Lei. 
+14.5. Toda e qualquer comunicação com a Fundect deverá ser feita por meio da 
+Ferramenta de Correio Eletrônico do SigFundect, utilizando as informações 
+existentes no cadastro do coordenador.  
+14.6. A Fundect não se responsabiliza por inscrições de propostas não recebidas 
+por motivos de ordem técnica dos computadores, falhas e/ou congestionamento das 
+linhas de comunicações, bem como outros fatores que impossibilitem a 
+transferência de dados. 
+14.7. Todas as orientações e normas para uso dos recursos públicos da Fundect 
+estão disponíveis no MANUAL DE INSTRUÇÕES PARA UTILIZAÇÃO E PRESTAÇÃO 
+  
+ 
+Fundação de Apoio ao Desenvolvimento do Ensino, Ciência e Tecnologia do Estado de Mato Grosso do Sul 
+Rua São Paulo, 1436 - Bairro Vila Célia CEP 79.010-050 – Campo Grande/MS  
+http://www.fundect.ms.gov.br   E-mail: secretaria@fundect.ms.gov.br                                                                          
+                                                                                                                                                                                                                              
+9 
+ 
+DE CONTAS DE AUXÍLIOS FINANCEIROS CONCEDIDOS PELA FUNDECT, 
+disponível para download no portal da Fundect. 
+14.8. O horário de atendimento da Fundect ao público é de 2ª a 5ª feira, de 7:30 as 
+17:30 horas, e 6a feira de 07:30 a 13:30 horas. 
+14.9. Não serão aceitas documentações incompletas. 
+ 
+15. CLÁUSULA DE RESERVA 
+A Fundect reserva-se o direito de arbitrar sobre os casos omissos e as situações não 
+previstas neste Programa Especial. 
+ 
+16. INFORMAÇÕES ADICIONAIS 
+Esclarecimentos e informações adicionais sobre o conteúdo deste Programa 
+Especial e sobre o preenchimento do Formulário de Propostas online no SigFundect 
+podem ser obtidos junto à Gerência de Projetos da Diretoria Científica da Fundect 
+pelo e-mail projetos@fundect.ms.gov.br ou pela ferramenta de Correio do 
+SigFundect. 
+Fundect - Fundação de Apoio ao Desenvolvimento do Ensino, Ciência e 
+Tecnologia do Estado de Mato Grosso do Sul 
+Rua São Paulo nº 1436 - Vila Célia,  
+CEP 79.010-050 - Campo Grande – MS 
+E-mail: secretaria@fundect.ms.gov.br 
+ 
+                                                    Campo Grande (MS), 20 de novembro de 2015. 
+ 
+ 
+Athayde Nery de Freitas Júnior 
+Presidente do Conselho Superior da Fundect 
+Secretário de Estado de Cultura, Turismo,  
+Empreendedorismo e Inovação 
+  
+ 
+Marcelo Augusto Santos Turine 
+Diretor-presidente/Fundect 
+ 

@@ -1,0 +1,323 @@
+11/6/2019
+SGDOC
+ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+1/7
+APRUEBA BASES DE POSTULACIÓN DEL
+CONCURSO PROGRAMA REGIONAL STIC-
+AMSUD, 
+DÉCIMOCUARTA
+CONVOCATORIA, AÑO 2019
+RESOLUCION EXENTO Nº: 6504/2019
+Santiago  11/06/2019
+DOCUMENTO ELECTRONICO
+ 
+ 
+ 
+ 
+VISTOS:
+ 
+Lo dispuesto en el Decreto Supremo N° 491/1971 y en el Decreto Exento N° 32/2019
+ambos del Ministerio de Educación; Ley de Presupuestos del Sector Público N° 21.125, para
+el año 2019; Resolución N° 1600/2008, de la Contraloría General de la República; y
+ 
+ 
+CONSIDERANDO:
+ 
+1.- El texto de las Bases de Postulación del Concurso Programa Regional Stic-Amsud,
+Decimocuarta Convocatoria, Año 2019, que además se adjuntan en original a la presente
+resolución y se entienden formar parte de la misma.
+2.- El Certificado de Revisión de Bases Concursos Stic-Amsud 2019, de fecha 31 de mayo de
+2019, del Departamento de Administración y Finanzas de CONICYT.
+3.- El Memorándum TED N° 5304/2019, de fecha 13 de marzo de 2019, del Departamento de
+Tecnologías y Procesos, por medio del cual se da V° B° a las bases concursales.
+4.- El documento Convenio de Financiamiento Programa Regional Stic-Amsud/CONICYT,
+Convocatoria 2019, en el formato aprobado para ser suscrito entre CONICYT y los
+adjudicados del presente certamen.
+5.- Los Memorándums TED N° 11851/2019 (E13149/2019), de fecha 05 de junio de 2019,
+del Programa de Cooperación Internacional, mediante el cual se solicita dictar resolución
+aprobatoria de las bases del presente concurso.
+6.- Las facultades que detenta esta Dirección Ejecutiva (S) en virtud de lo dispuesto en el
+Decreto Supremo Nº 491/71 y en el Decreto Exento N° 32/2019 ambos del Ministerio de
+Educación.
+ 
+ 
+RESUELVO:
+ 
+1.- APRUÉBANSE las Bases de Postulación del Concurso Programa Regional Stic-
+Amsud, Decimocuarta Convocatoria, Año 2019.
+2.- TÉNGASE en calidad de transcripción fiel e íntegra de las BASES CONCURSALES precitadas,
+el siguiente texto:
+INICIO DE TRANSCRIPCIÓN DE BASES
+  
+PROGRAMA REGIONAL STIC-AmSud          
+ 11/6/2019
+SGDOC
+ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+2/7
+14ª CONVOCATORIA
+Año 2019
+ 
+I.- El Programa Regional STIC-AmSud
+El Programa Regional STIC-AmSud es una iniciativa de la cooperación francesa y sus
+contrapartes de Argentina, Bolivia, Brasil, Chile, Colombia, Ecuador, Paraguay, Perú,
+Uruguay y Venezuela orientada a promover y fortalecer la colaboración y la creación de
+redes de investigación-desarrollo en el ámbito de las ciencias y tecnologías de la
+información y las comunicaciones (STIC), a través de la realización de proyectos conjuntos.
+ 
+1.1.- Sus objetivos específicos son:
+ 
+- Desarrollar la colaboración en el ámbito de las TIC’s a través del intercambio de
+investigadores/as y doctorantes y de información entre los países de América del Sur
+implicados, así como entre éstos y Francia. 
+- Apoyar proyectos de investigación básica y aplicada que contengan una dimensión
+potencial de transferencia y de innovación tecnológica, con componente regional, entre
+Francia y al menos dos países sudamericanos asociados.
+- Favorecer en América del Sur las sinergias con otros programas regionales y
+multilaterales en este sector, en particular con la Unión Europea.  
+- Favorecer la participación de jóvenes investigadores/as para asegurar la continuidad de
+las redes.
+1.2.- El Programa STIC-AmSud se apoya en dos comités:
+A.- El Comité Directivo, conformado de la siguiente manera:
+- Por la parte francesa, por representantes del Ministerio de Europa y Asuntos Exteriores
+(MEAE), del Centro Nacional de Investigación Científica (CNRS), el Instituto Nacional de
+Investigación en Informática y Automática (INRIA) y por el Instituto MINES-TELECOM
+(IMT);
+- Por la parte sudamericana, por representantes del Ministerio de Educación, Cultura,
+Ciencia y Tecnología de Argentina (MECCyT), de la Coordinación de Perfeccionamiento del
+Personal de Nivel Superior del Ministerio de Educación de Brasil (CAPES), de la Comisión
+Nacional de Investigación Científica y Tecnológica de Chile (CONICYT), del Consejo Nacional
+de Ciencia y Tecnología del Paraguay (CONACYT), del Consejo Nacional de Ciencia,
+Tecnología e Innovación Tecnológica de Perú (CONCYTEC) y de la Agencia Nacional de
+Investigación e Innovación del Uruguay (ANII), el Ministerio del Poder Popular para la
+Educación Universitaria, Ciencia y Tecnología de Venezuela (MPPEUCT), COLCIENCIAS de
+Colombia,  la Secretaría de Educación Superior, Ciencia Tecnología e Innovación de Ecuador
+(SENESCYT) y la Universidad Mayor de San Andrés de Bolivia (UMSA)
+B.- El Comité Científico, constituido:
+- Por la parte francesa, por representantes del CNRS, del INRIA y del Instituto MINES-
+TELECOM; 
+- Por la parte sudamericana, por científicos designados por el CONCYTEC, el MECCyT, el
+CONACYT, la CAPES, la CONICYT, la ANII, MPPEUCT, ColCiencias, el SENESCYT y la UMSA. 
+ 
+II.- Publicación y calendario del concurso
+CONICYT convocará al presente concurso a través de un diario de amplia circulación
+nacional, y en su sitio web, donde se señalará la fecha de apertura y la fecha de cierre.
+ 
+III.- Instrucciones para la constitución y el envío de las propuestas
+3.1.- Modalidad de la cooperación
+Presentación de proyectos conjuntos de investigación y desarrollo que incluyan
+intercambios entre los grupos participantes para la realización de talleres y/o de escuelas
+intensivas (cursos de corta duración), que permitan la participación de profesores y
+estudiantes.
+Á
+ 11/6/2019
+SGDOC
+ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+3/7
+3.2.- Áreas temáticas
+El llamado está abierto a todas las temáticas relacionadas al ámbito de las TIC’s. Las
+propuestas cuyas temáticas científicas estén matizadas de otras áreas científicas, tales
+como ciencias de la ingeniería, pueden considerarse dado que requieren también un
+importante trabajo innovador en TIC.
+3.3.- Duración de los proyectos
+Cada proyecto tendrá una duración de dos años. El/la Coordinador/a Internacional del
+proyecto deberá enviar a la Secretaria el informe de avance antes del 1er de octubre del
+2020. Al culminar el primer año de ejecución y, de acuerdo al informe de lo realizado, el
+Programa decidirá la entrega de recursos financieros para el segundo año.
+3.4.- Participantes
+Pueden postular investigadores/as de universidades, unidades y laboratorios de
+investigación, públicos o privados, vinculados a establecimientos de enseñanza superior,
+organismos de investigación o empresas.
+Cada proyecto deberá asociar al menos un grupo de investigación francés y al menos dos
+grupos de investigación pertenecientes a dos países sudamericanos participantes.
+3.5.- Financiamiento
+3.5.1.- La modalidad de financiamiento es la siguiente: el organismo que envía cubre
+los gastos de pasajes de sus investigadores/as y los gastos de estadía de sus
+investigadores/as.
+3.5.2.- Los proyectos deberán explicitar en sus presupuestos los co-financiamientos
+solicitados para cada año. Los recursos aportados por CONICYT, se entregarán anualmente
+al/a la investigador/a responsable nacional, según disponibilidad presupuestaria del
+Servicio.
+3.5.3.- Los gastos serán detallados indicando el número de intercambios, objetivos de cada
+uno, duración, país de destino y nombre del beneficiario.
+3.5.4.- Los presupuestos solicitados deberán indicar los aportes de:
+                     - Cada organismo sudamericano participante,  
+                     - El Ministerio francés de Asuntos Extranjeros,  
+                     - El o los organismos o laboratorios de investigación franceses,
+                     - Otras fuentes de financiamiento externas al Programa.
+Si se requiere orientación sobre el financiamiento solicitado a las distintas contrapartes,
+puede contactar a cada institución nacional participante del programa (como referencia, el
+monto total aprobado por proyecto, por año y por todos los organismos que financian el
+proyecto es de aproximadamente entre 10.000€ a 15.000€).  En todo caso, el presupuesto
+solicitado debe adaptarse al proyecto científico.
+3.6.- Duración de las misiones[1]
+- Se financiarán misiones de una duración igual o inferior a 30 días.
+- Se recomienda particularmente que la duración de las misiones sea de un mínimo de 10
+días en caso de traslados entre Francia y América del Sur (y viceversa), y de una semana
+dentro de la región sudamericana.  
+- Se debe realizar, al menos, un intercambio de Francia a América del Sur y de América del
+Sur a Francia durante la ejecución del proyecto. 
+- Asimismo, se valorará positivamente la realización de una reunión de trabajo en América
+del Sur con todo el equipo de investigación.
+3.7.- Propiedad intelectual
+Los responsables de los proyectos deberán tomar en consideración las disposiciones
+necesarias para la protección de la propiedad intelectual.
+3.8.- Presentación de postulaciones, modalidades y criterios de selección
+ 11/6/2019
+SGDOC
+ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+4/7
+3.8.1.- Los proyectos serán presentados por el/la investigador/a responsable en CONICYT,
+en los plazos de la convocatoria.
+3.8.2.- Las postulaciones incompletas o que no cumplan con los requisitos de postulación
+serán declaradas fuera de bases y no ingresarán al proceso de evaluación. Los postulantes
+cuyas propuestas hayan sido declaradas fuera de bases, podrán interponer ante el Jefe de
+Servicio el recurso de reposición correspondiente, en el plazo de 5 días hábiles desde la
+notificación. No se aceptarán postulaciones fuera de plazo.
+3.8.3.- La evaluación científica será realizada por dos expertos internacionales, designados
+por el Comité Científico.
+3.8.4.- El Comité Científico llevará a cabo la revisión de las evaluaciones internacionales y
+la clasificación de los proyectos.
+3.8.5.- Selección y aprobación de los proyectos por el Comité Directivo, en base a la
+evaluación internacional, al informe del Comité Científico y a la disponibilidad
+presupuestaria de cada contraparte, en la Reunión Anual del Programa STIC-AmSud.
+3.8.6.- Además de la excelencia científica, los principales criterios de selección de los
+proyectos, que tienen la misma ponderación, son:
+ 
+Su carácter innovador;
+La creación de nuevas colaboraciones internacionales;
+La complementariedad de los participantes;
+La transferencia mutua de competencia y de innovación;
+Los antecedentes de los grupos de investigación;
+La participación de jóvenes en proceso de formación;
+La promoción y valorización de las actividades conjuntas de
+investigación (co-publicaciones científicas, seminarios, talleres,
+patentes en conjuntos, otros)
+ 
+ 
+3.8.7.- La aprobación o el rechazo de los proyectos será notificado oficialmente a cada
+responsable científico del proyecto por la institución nacional correspondiente. Asimismo,
+respecto de los proyectos aprobados, cada institución informará al/a la responsable
+científico/a que le corresponde los recursos otorgados, indicando las modalidades y el
+calendario de desembolso.
+3.8.8.- CONICYT, a través del acto administrativo correspondiente, ratificará el fallo y
+adjudicará el concurso sobre la base de lo resuelto en la reunión de fallo organizada por la
+Secretaría del Programa, estableciendo los beneficios adjudicados al/a la investigador/a
+nacional. La resolución de CONICYT contendrá la lista de propuestas que incluyan
+participación nacional y su correspondiente financiamiento. Dicha información será
+publicada en la página Web institucional.
+En la presente convocatoria no procede lista de espera.
+3.9.- Coordinación
+Cada proyecto deberá indicar un responsable científico/a por institución y uno de los
+participantes actuará como Coordinador/a Internacional designado/a por los miembros del
+proyecto.
+3.10.- Puesta en marcha de los proyectos
+3.10.1.- Posteriormente al acto administrativo que declare la adjudicación por parte de
+CONICYT, el Servicio comunicará al/a la Investigador/a Responsable en Chile el plazo en
+que se deberá suscribir el convenio de financiamiento. En este instrumento se establecerán
+expresamente los derechos y obligaciones de cada una de las partes, la duración del
+proyecto y todas aquellas cláusulas que resguarden el cumplimiento de los objetivos del
+concurso y el uso de los recursos transferidos por CONICYT para los fines señalados en el
+proyecto.
+3.10.2.- Una vez puesto en marcha el proyecto, el/la Coordinador/a Internacional deberá
+desarrollar un sitio internet en donde se reflejen las actividades del mismo, el cual deberá
+ser informado a la Secretaría del Programa STIC-AmSud.
+3.10.3.- El/la Coordinador/a Internacional de cada proyecto deberá enviar dos informes a la
+Secretaría del Programa STIC-AmSud: el 1ro de octubre del primer año de desarrollo del
+ 11/6/2019
+SGDOC
+ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+5/7
+proyecto (informe de avance) y el segundo (informe final) en el plazo de los tres meses
+siguientes a la finalización del mismo: 31 de marzo 2022.
+3.10.4.- En la evaluación del informe final presentado, se considerarán las publicaciones
+conjuntas, la obtención de patentes, las tesis desarrolladas en el marco del proyecto, la
+formación de redes y otros tipos de colaboración.
+Todos los documentos generados en el marco de esta colaboración deberán indicar
+explícitamente el apoyo financiero recibido por el Programa Regional STIC-AmSud
+utilizando el siguiente formato: PROGRAMA REGIONAL STICAMSUD + Código del Proyecto.
+3.10.5.- Los/as responsables científicos/as nacionales, así como el/la Coordinador/a
+Internacional que formen parte de proyectos solo podrán presentar un nuevo proyecto, una
+vez aprobado el informe final del proyecto anterior en el que participaron. Deberán
+obligatoriamente referirse a nuevas temáticas a investigar. Sin embargo, se dará prioridad
+a equipos que no hayan sido financiados en los últimos dos años, así como a equipos que
+incluyan doctorantes y/o post-doctorantes.
+3.11.- Transferencia de fondos, garantías y rendiciones de cuentas.
+3.11.1.- El/la Investigador/a Responsable en Chile deberá destinar una cuenta bancaria, en
+la cual CONICYT transfiera los recursos correspondientes al proyecto adjudicado.
+Estos recursos serán transferidos al/a Investigador/a Responsable, de acuerdo al
+cumplimiento de los requisitos especificados en las presentes bases de postulación, en el
+convenio respectivo, según la disponibilidad presupuestaria de CONICYT, y al no tener
+rendiciones pendientes de su responsabilidad no garantizadas con CONICYT.
+3.11.2.- Con el objeto de garantizar el fiel cumplimiento del convenio celebrado con
+CONICYT, al momento de su firma el/la Investigador/a Responsable en Chile deberá
+presentar un mandato especial  y un pagaré firmados ante notario público (en el caso de
+los beneficiarios (as) que se encuentren en el extranjero, el pagaré debe estar visado por el
+consulado del país que se encuentre y autorizado por el Ministerio de Relaciones Exteriores
+de Chile), que contenga la promesa de pagar una determinable suma de dinero, destinado
+a garantizar el cumplimiento de las obligaciones inherentes a su calidad de beneficiario (a)
+y en el cual se incluya una cláusula que faculte a CONICYT a llenar los datos
+correspondientes a la suma adeudada y a la fecha del vencimiento en el pagaré, conforme
+a los cálculos que ésta realice y de conformidad a lo dispuesto en el convenio respectivo.
+Asimismo, el pagaré incorporará una cláusula en virtud de la cual se facultará a CONICYT
+para exigir el cobro inmediato del monto total del pagaré, como si fuere de plazo vencido,
+en caso de incumplimiento por parte del beneficiario (a) de una o más obligaciones
+convenidas, de manera de asegurar el fiel cumplimiento de las obligaciones contraídas. El
+pagaré, debe emitirse e imprimirse en una sola hoja.
+El formato del mandato especial y del pagaré será entregado por CONICYT.
+3.11.3.- La rendición de cuentas de los recursos transferidos por CONICYT se regirán en lo
+que corresponda según las normas establecidas por la Resolución Nº 30 del 11 de marzo de
+2015 de la Contraloría General de la República y por CONICYT. Además de las normas e
+indicaciones detalladas en el correspondiente manual de rendición de cuentas del concurso
+respectivo.
+3.12.- Presentación de las propuestas
+La postulación de las propuestas deberá efectuarse vía la plataforma en línea disponible
+en el sitio web de CONICYT para el efecto: https://auth.conicyt.cl/.
+Los formularios para la presentación de proyectos están disponibles
+en el sitio web de CONICYT: www.conicyt.cl 
+El/la Investigador Responsable deberá enviar a través de la plataforma de postulación
+una versión pdf en inglés del proyecto incluyendo los CVs de los(as) participantes del
+proyecto, antes del 28 de junio de 2019 a las 12:00hs. del mediodía de Chile
+Continental.
+ 11/6/2019
+SGDOC
+ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+6/7
+Contacto:
+Programa de Cooperación Internacional de CONICYT
+Santiago, Chile
+pespinoza@conicyt.cl
+(56 2) 2363 2633 /
+ 
+FIN DE TRANSCRIPCIÓN DE BASES 
+3.- CONVÓQUESE a concurso una vez totalmente tramitado el presente acto administrativo.
+4.- DISTRIBÚYASE la presente resolución a Dirección Ejecutiva, Programa de Cooperación
+Internacional y Fiscalía.
+ 
+[1] CAPES y CONACYT no financian estadías cortas/misiones de trabajo de doctorantes.
+ 
+ 
+ANÓTESE Y COMUNÍQUESE
+ 
+ 
+ 
+ 
+ 
+ALEJANDRA PIZARRO GUERRERO
+ 
+Director Ejecutivo(S)
+ 
+DIRECCION EJECUTIVA
+ 
+ 
+AGP / / JVP / smm
+DISTRIBUCION:
+INGRID MARLENE TAPIA - Analista de Seguimiento y Control - RELACIONES INTERNACIONALES
+RICARDO CONTADOR - Coordinador(a) de Finanzas Unidad de Coop. Internacional - RELACIONES INTERNACIONALES
+OFICINA DE - Asistente Oficina de Partes - ADMINISTRACION Y FINANZAS
+PATRICIO ERNESTO ESPINOZA - Coordinador(a) de Cooperación Internacional - RELACIONES INTERNACIONALES
+ 
+Firmado Electrónicamente en Conformidad con el Artículo 2º letra F y G de la Ley 19.799
+ 11/6/2019
+SGDOC
+ted.conicyt.cl/sgdoc/verExpedienteDesdeReporte.seam
+7/7

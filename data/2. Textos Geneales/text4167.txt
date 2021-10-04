@@ -1,0 +1,892 @@
+
+EDITAL  INTELIGÊNCIA ARTIFICIAL 
+ 
+Página 1 de 21 
+ 
+      EDITAL FAPERJ Nº 10/2020 – Apoio a Redes Temáticas de Inteligência 
+Artificial Processo SEI - 260003/002543/2020 
+A Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro – 
+FAPERJ, vinculada à Secretaria de Estado de Ciência, Tecnologia e Inovação – SECTI, faz 
+saber, por via do presente Edital, que estão abertas as inscrições para a seleção de 
+projetos no âmbito do Edital Inteligência Artificial, conforme segue. 
+1. OBJETIVOS 
+Apoiar Redes Temáticas de pesquisa cooperativa em projetos científicos e tecnológicos, 
+com duração de até 24 (vinte e quatro) meses, que congreguem grupos de reconhecida 
+competência, de forma a estimular a realização de projetos em pesquisa aplicada e 
+inovação que envolvem a Inteligência Artificial - IA no enfrentamento de desafios e 
+demandas sociais e econômicas da comunidade fluminense.  
+Nesse sentido, esta chamada busca estimular a conexão institucional entre parceiros 
+integrando pesquisadores e lideranças de Universidades ou Instituições de Ensino 
+Superior, Institutos de Pesquisa, Empresas públicas e privadas e órgãos de governo, em 
+estrutura federada, que faça uso de um sistema de governança integrado por diferentes 
+stakeholders, capaz de levar a pesquisa e desenvolvimento ao mercado, posicionando o 
+Estado do Rio de Janeiro como um centro de excelência e referência em inovação frente 
+aos desafios da revolução digital. 
+2. COMPOSIÇÃO DAS REDES E SISTEMA DE GOVERNANÇA 
+O sistema de governança reflete a maneira como diversos atores se orga-
+nizam, interagem e procedem para articular seus interesses, exercer seus direitos e 
+obrigações bem como mediar suas diferenças. Na governança em rede a coordenação é 
+realizada por meio de interação entre gestores interdependentes em processos de 
+negociação e tomada de decisão coletiva sobre a distribuição e conteúdo destas tarefas. 
+As propostas deverão apresentar o desenho do sistema de governança que pretendem 
+utilizar descrevendo mecanismos, processos e instituições por meio dos quais a Rede 
+realizará seus objetivos. 
+As Redes deverão ser constituídas por um Coordenador (proponente responsável pela 
+submissão e prestação de contas em caso de aprovação da proposta), um Vice-
+coordenador, um Comitê Gestor de Governança e Pesquisadores Associados. 
+As Redes devem, obrigatoriamente, ser compostas por no mínimo: 
+• Pesquisadores de pelo menos 3 (três) Instituições de Ciência e Tecnologia (ICT);  
+• Um integrante de empresas públicas ou privadas;  
+ 
+O Coordenador e os membros da equipe só poderão participar de uma única 
+proposta no presente Edital. Todos devem estar sediados no Estado do Rio de 
+Janeiro. 
+  
+EDITAL  INTELIGÊNCIA ARTIFICIAL 
+ 
+Página 2 de 21 
+ 
+3. CARACTERÍSTICAS DAS PROPOSTAS E ÁREAS DE INTERESSE DA CHAMADA 
+As propostas mais competitivas serão aquelas que centrem foco em projetos de 
+pesquisa aplicada e inovação, orientados a problemas bem especificados, nos temas 
+relacionados adiante, e com relevância social e/ou econômica para o Estado do Rio de 
+Janeiro.  
+Busca-se nesta chamada que as Redes enderecem desafios e problemas enfrentados 
+pela sociedade fluminense apresentando soluções que venham a ser implementadas 
+não apenas por terceiros, mas também “por e para” integrantes das próprias Redes de 
+pesquisa. Assim, a agenda de pesquisa almejada deve definir e delimitar claramente os 
+problemas a ser atacados. Além disso precisam detalhar a estratégia pela qual a 
+pesquisa pretende contribuir para a criação de soluções viáveis, contemplando as 
+alternativas de transferência de resultados e conhecimento para a ponta na qual reside 
+o problema ou desafio selecionado.  
+Em termos de áreas de interesse, as propostas a serem selecionadas terão foco, 
+preferencialmente, em projetos de pesquisa aplicada e inovação nos seguintes temas: 
+Energias Renováveis e Mudanças Climáticas; Óleo e Gás; Indústria 4.0; Educação; 
+Agronegócio; Cidades Inteligentes; Segurança Pública e Cibernética; Saúde; Questões 
+éticas na aplicação e uso de tecnologias; e Regulação Tecnológica. 
+4. ELEGIBILIDADE E RESTRIÇÕES 
+4.1 São elegíveis os seguintes tipos de proponentes: pessoa física ou pesquisador 
+vinculado a Instituições de Ciência e Tecnologia (ICT) localizadas no Estado do Rio de 
+Janeiro; 
+4.2 O proponente, bem como os demais representantes de cada um dos integrantes da 
+Rede, deve ter Curriculum LATTES atualizado, sendo considerados para a avaliação da 
+proposta apenas os cinco (5) últimos anos anteriores à solicitação; 
+4.3 O projeto deverá apresentar um Cronograma detalhado de execução para até 24 
+meses; 
+4.4 Será aceita uma única proposta por proponente; 
+4.5 As propostas submetidas neste edital que não se enquadrem nos objetivos e/ou que 
+não atendam aos critérios de elegibilidade serão desclassificadas; 
+4.6 Proponentes e membros da equipe do projeto com pendências na entrega de 
+relatórios científicos ou na prestação de contas (inadimplentes) junto a FAPERJ NÃO 
+SERÃO AVALIADOS e caso se tornem inadimplentes ao longo do processo de avaliação 
+NÃO SERÃO CONTEMPLADOS; 
+4.7 O proponente deverá ser o principal responsável pelo desenvolvimento do projeto, 
+conforme o objetivo do Edital, pelas informações referentes à sua gestão e pela 
+movimentação da conta bancária exclusiva; 
+4.8 As atividades do projeto deverão ser realizadas exclusivamente no Estado do Rio de 
+Janeiro. 
+  
+EDITAL  INTELIGÊNCIA ARTIFICIAL 
+ 
+Página 3 de 21 
+ 
+5. CRONOGRAMA 
+Lançamento do edital 
+03/12/2020 
+Submissão de propostas on-line 
+até 07/01/2021 
+Divulgação dos resultados preliminares 
+24/03/2021 
+Apresentação dos documentos exigidos 
+de 25/03/2021 a 02/04/2021 
+Divulgação dos resultados da etapa de 
+documentação 
+09/04/2021 
+Prazo para os recursos 
+até 07 (sete) dias após a divulgação da 
+etapa de documentação 
+Divulgação dos resultados dos recursos 
+finais 
+23/04/2021 
+ 
+5.1 O lançamento do edital ocorrerá na página da FAPERJ (www.faperj.br) na Internet e 
+publicado no Diário Oficial do Estado do RJ, em data constante no cronograma (item 5). 
+6. COMITÊ DE JULGAMENTO 
+6.1 As propostas serão analisadas por um Comitê Especial de Julgamento, designado 
+pela Diretoria da FAPERJ; 
+6.2 Os resultados do julgamento serão divulgados na página da FAPERJ (www.faperj.br) 
+na Internet e no Diário Oficial do Estado do Rio de Janeiro - DOERJ; 
+6.3 É vedado a qualquer membro do Comitê Especial julgar projetos em que:  
+• Haja interesse direto; 
+• Esteja participando seu cônjuge, companheiro ou parente, consanguíneo ou 
+afim, em linha reta ou na colateral, até o terceiro grau; 
+• Esteja litigando judicial ou administrativamente com qualquer membro da 
+equipe do projeto ou seus respectivos cônjuges ou companheiros. 
+7. PROCESSO DE AVALIAÇÃO 
+7.1 A avaliação das propostas cumprirá as seguintes etapas:  
+7.1.1 pré-qualificação,  
+7.1.2 avaliação de mérito,  
+7.1.3 etapa comprobatória da regularidade fiscal, jurídica e econômico-financeira; 
+7.1.4 priorização e deliberação pela Diretoria Tecnológica da FAPERJ  
+7.2 PRÉ-QUALIFICAÇÃO: 
+7.2.1 Nesta etapa, a área técnica da FAPERJ verificará os requisitos de elegibilidade do 
+proponente definidas neste edital; 
+  
+EDITAL  INTELIGÊNCIA ARTIFICIAL 
+ 
+Página 4 de 21 
+ 
+7.2.2 Critérios para pré-qualificação: 
+a. Cronograma de execução do projeto; 
+b. Declaração de anuência dos representantes de cada um dos integrantes da Rede; 
+c. Elegibilidade do proponente;  
+d. Preenchimento completo do Formulário de Proposta on-line, segundo suas 
+instruções (ANEXO 1);  
+e. Proposta orçamentária das firmas para aquisição de todos os itens solicitados à 
+FAPERJ (“proforma invoice”, em caso de fornecedores estrangeiros) referente ao 
+Auxílio Financeiro 
+f. Completude dos anexos exigidos pelo edital 
+7.2.3 A proposta será desclassificada nas seguintes situações:  
+• Preenchimento incompleto do Formulário de Propostas on-line, segundo suas 
+instruções (ANEXO 1);  
+• Proposição de pessoas físicas ou pesquisadores não-elegíveis; 
+• Ausência de qualquer anexo exigido pelo edital. 
+7.3 AVALIAÇÃO DE MÉRITO 
+7.3.1 Critérios de avaliação: 
+a. Representatividade, abrangência e diversidade do perfil da Rede proponente do 
+projeto; 
+b. Adequação da infraestrutura disponibilizada pelos integrantes da Rede para 
+execução do projeto;  
+c. Experiência e capacidade técnica da Rede proponente do projeto, com análise 
+dos currículos do coordenador (proponente) e dos demais integrantes da Rede; 
+d. Sistema de Governança da Rede proponente do projeto;  
+e. Presença e relevância de empresas brasileiras públicas ou privadas na Rede 
+proponente; 
+f. Participação de empresas brasileiras públicas ou privadas na Governança e no 
+financiamento da Rede; 
+g. Capacidade de formação de recursos humanos; 
+h. Mérito técnico-científico e viabilidade do projeto; 
+i. Adequação do orçamento aos objetivos e metas propostas; 
+j. Impacto para o desenvolvimento tecnológico, científico, econômico e social do 
+Estado do Rio de Janeiro; 
+k. Clareza quanto à definição dos indicadores de desempenho relativos ao 
+acompanhamento e avaliação, pela FAPERJ, da evolução do trabalho 
+desenvolvido; 
+l. Plano de Trabalho dos Bolsistas. 
+7.4 ETAPA COMPROBATÓRIA DA REGULARIDADE FISCAL, JURÍDICA E ECONÔMICO-
+FINANCEIRA 
+7.4.1 Apenas os projetos recomendados com prioridade na avaliação de mérito deverão 
+entregar a documentação de regularidade fiscal, jurídica e de contencioso judicial 
+(ANEXO 4). 
+  
+EDITAL  INTELIGÊNCIA ARTIFICIAL 
+ 
+Página 5 de 21 
+ 
+7.4.2 A documentação da etapa comprobatória da regularidade fiscal, jurídica e 
+econômico-financeira deverá ser entrega à FAPERJ através do sistema SISFAPERJ, ou por 
+outro meio comunicado pela instituição, com a documentação estabelecida no Anexo 4. 
+ 
+7.5 PRIORIZAÇÃO 
+7.5.1 As propostas serão enquadradas com base nas seguintes prioridades:  
+• RECOMENDADAS COM PRIORIDADE – propostas a serem implementadas de 
+acordo com os recursos financeiros disponibilizados pela chamada;  
+• RECOMENDADAS SEM PRIORIDADE – propostas que, apesar de terem o mérito 
+científico reconhecido, não serão implementadas, mas que podem 
+eventualmente substituir propostas recomendadas com prioridade que não 
+forem implementadas;  
+• NÃO RECOMENDADAS. 
+ 
+7.6 DELIBERAÇÃO PELA DIRETORIA 
+7.6.1 A etapa decisória será concluída com a classificação e aprovação das propostas 
+consideradas qualificadas pelo Comitê Especial de Julgamento, submetidas à decisão 
+final da Diretoria da FAPERJ.  
+7.6.2 O resultado final deliberado pela diretoria será publicado na página da FAPERJ e 
+em Diário Oficial do Estado do Rio de Janeiro - DOERJ em data estabelecida no 
+CRONOGRAMA do Edital (item 5). 
+8. PROCEDIMENTO DE INSCRIÇÃO 
+8.1 O procedimento de inscrição deverá ser realizado de acordo com o ANEXO 1 deste 
+documento; 
+8.2 Não serão aceitas propostas submetidas por qualquer outro meio que não o sistema 
+eletrônico SisFAPERJ, tampouco após o prazo final de recebimento estabelecido no 
+CRONOGRAMA do Edital (item 5). Por este motivo, e no cumprimento do disposto no 
+caput do art. 41, da Lei n.º 8.666, de 21 de junho de 1993, não haverá possibilidade da 
+proposta ser acolhida, examinada e julgada; 
+8.3 A FAPERJ não se responsabilizará por propostas não recebidas dentro do prazo em 
+decorrência de eventuais problemas técnicos e congestionamentos da rede; 
+8.4 Na submissão do projeto, para esta modalidade, devem ser preenchidos todos os 
+campos das abas do formulário on-line; 
+8.5 Propostas cujos orçamentos não estejam em consonância com os objetivos do 
+projeto serão desclassificadas; 
+9. RECURSOS FINANCEIROS E VIGÊNCIA 
+  
+EDITAL  INTELIGÊNCIA ARTIFICIAL 
+ 
+Página 6 de 21 
+ 
+9.1. Os recursos alocados para financiamento do Edital Inteligência Artificial, definidos 
+na Programação Orçamentária da FAPERJ, são da ordem de R$ 8.000.000,00 (oito 
+milhões de reais); 
+9.2. A Faperj irá apoiar até 3 (três) Redes, sendo que o orçamento de cada proposta 
+pode chegar até R$ 5.000.000,00 (cinco milhões de reais), contudo o somatório das 
+propostas aprovadas não deverá ultrapassar o valor total do Edital descrito no item 9.1.  
+9.3. Os recursos aprovados serão liberados em duas parcelas, sendo a segunda parcela 
+dependente da aprovação do Relatório Técnico Parcial; 
+9.4. Após a devolução dos documentos para a concessão do Auxílio, o Outorgado deverá 
+aguardar, através de correio eletrônico, a comunicação do depósito do Auxílio 
+financeiro, que caracteriza o início do prazo de execução financeira do projeto, para que 
+então possa realizar qualquer pagamento de despesas referentes ao Auxílio; 
+9.5. Os recursos deverão ser aplicados pelo proponente nos itens do projeto aprovados 
+pela FAPERJ e estritamente relacionados seu ao desenvolvimento; 
+9.6. Para realizar qualquer despesa, o Outorgado deverá cumprir as orientações 
+contidas no presente documento, assim como no item “Movimentação Financeira” das 
+Instruções para Concessão e Utilização de Auxílios e Bolsas e nas Instruções para 
+Prestação de Contas. Despesas que não estejam de acordo com a finalidade do projeto 
+aprovado, assim como aquelas que não forem devidamente comprovadas, serão 
+ressarcidas à FAPERJ pelo Outorgado; 
+9.7. O prazo para a execução de cada proposta contratada será de até 24 meses, 
+podendo ser prorrogável por no máximo no mesmo período de tempo, contados a partir 
+da data do término da execução do projeto, após solicitação e aprovação da FAPERJ. 
+10. ITENS FINANCIÁVEIS  
+10.1 São financiáveis itens (elementos de despesa) dos grupos de custeio e de capital, 
+indispensáveis à realização do projeto, de acordo com o Classificador de Planejamento 
+e Orçamento do Estado do Rio de Janeiro (disponível na página www.fazenda.rj.gov.br), 
+e seguindo as regras da FAPERJ dispostas nas Instruções para Concessão e Utilização de 
+Auxílios e Bolsas, disponível na página da FAPERJ; 
+10.2 As rubricas cobertas no grupo Capital incluem: 
+• Material permanente e equipamentos nacionais ou importados; 
+• Obras de infraestrutura e instalações; 
+• Desenvolvimento ou aquisição de software; 
+10.3 Equipamentos e materiais permanentes devem ter suas respectivas propostas 
+orçamentárias anexadas. Caso o valor total de cada um desses itens não ultrapasse R$ 
+10.000,00 (dez mil reais), são aceitas cotações obtidas em websites; 
+10.4 As rubricas cobertas no grupo Custeio incluem: 
+• Serviços de terceiros de pessoas jurídicas, ou físicas com caráter eventual, 
+incluindo a manutenção de equipamentos e a realização de pequenos reparos e 
+adaptações de bens imóveis necessários à execução do projeto; 
+  
+EDITAL  INTELIGÊNCIA ARTIFICIAL 
+ 
+Página 7 de 21 
+ 
+• Material de consumo, nacional ou importado, componentes e peças de 
+reposição de equipamentos; 
+• Passagens e diárias, conforme a tabela de diárias do CNPq, disponível no 
+endereço http://www.cnpq.br/web/guest/diarias-para-auxilios; 
+• Despesa de importação (até 18% do item importado). 
+• Bolsas, de acordo com a tabela “Valores de Bolsas e Auxílios”, disponível na página 
+da FAPERJ, até o limite de 20% do valor da proposta; 
+ 
+10.5 Não serão permitidas despesas com a contratação ou complementação salarial de 
+funcionários técnico-administrativos e as de custeio, tais como as contas de luz, água, 
+telefone, correio, reprografia e similares, entendidas como despesas de contrapartida 
+obrigatória da instituição, assim como taxas bancárias, multas, encargos, indenizações, 
+juros ou correção monetária; da mesma forma, não é permitido o pagamento de bolsas 
+de qualquer natureza e a aquisição de veículos automotores ou de equipamentos de 
+grande porte que estejam disponíveis em instituições próximas; 
+10.6 É vedado o pagamento, a qualquer título, a servidor da administração pública, ou 
+empregado de empresa pública ou de sociedade de economia mista, por serviços de 
+consultoria ou assistência técnica; 
+10.7 A lista completa com todas as vedações e restrições se encontra no item “4.3 
+Vedações aplicáveis à concessão e à utilização de recursos” das Instruções para 
+Concessão e Utilização de Auxílios e Bolsas, disponível na página da FAPERJ; 
+10.8 Devem ser observadas as rubricas atendidas pela FAPERJ e as vedações descritas 
+neste documento, devendo os itens relacionados necessariamente atender às metas 
+previstas; 
+10.9 Após a concessão do fomento, não são permitidas modificações entre os grupos 
+Custeio e Capital. 
+10.10 A solicitação das bolsas acima mencionadas deverá ser classificada de acordo com 
+a qualificação/experiência do bolsista e da atividade a ser desenvolvida, segundo os 
+critérios constantes nas Instruções para Concessão e Utilização de Auxílios e Bolsas 
+(disponível na página da FAPERJ), e seu prazo total de duração será de no máximo 24 
+(vinte e quatro) meses; 
+10.11 As cotas de bolsas acima mencionadas deverão ser explicitadas nas propostas 
+apresentadas, com os respectivos planos de trabalho que comprovem sua relação direta 
+no desenvolvimento da proposta, mas somente deverão ser solicitadas, por meio do 
+sistema SISFAPERJ, em edição específica destinada à sua solicitação a ser lançada após 
+a divulgação dos resultados deste edital; 
+10.12 A implementação das bolsas concedidas somente poderá ocorrer depois de 
+cumpridas todas as exigências pelos candidatos, não sendo autorizado o pagamento de 
+meses retroativos; 
+10.13 As solicitações para a substituição de bolsistas somente serão acatadas após os 
+primeiros 3 (três) meses do projeto, a critério da diretoria da Fundação, mantendo-se, 
+contudo, o período máximo das bolsas já implementadas; 
+  
+EDITAL  INTELIGÊNCIA ARTIFICIAL 
+ 
+Página 8 de 21 
+ 
+11. RELATÓRIO TÉCNICO E PRESTAÇÃO DE CONTAS 
+11.1. Fica o proponente obrigado a apresentar, através do sisFaperj,  ao término do 11º 
+(décimo primeiro) mês de trabalho, relatório parcial, descrevendo as atividades 
+executadas até aquele momento, anexando materiais que contribuam para o 
+entendimento claro do processo de desenvolvimento do projeto; 
+11.2. O Relatório Técnico final e a Prestação de Contas deverão ser entregues 
+conjuntamente através do Sistema Eletrônico de Informações – SEI RJ, no prazo máximo 
+de 60 (sessenta) dias, a contar do término da execução do projeto; 
+11.3. Os Relatórios Técnico e Final deverão obedecer às normas das “Instruções para 
+Concessão e Utilização de Auxílios e Bolsas” (item “5. Relatório Técnico”), acessível na 
+página da FAPERJ; 
+11.4. A comprovação de execução das despesas com recursos concedidos para os 
+projetos aprovados deverá obedecer às normas das “Instruções para Prestação de 
+Contas” e o Tutorial “Como Elaborar a Prestação de Contas”, ambos disponíveis na 
+página da FAPERJ; 
+11.5. Caso o Relatório Técnico – Científico e/ou a Prestação de Contas não sejam 
+entregues ou aprovados, serão adotadas medidas legais cabíveis, bem como as 
+penalidades previstas no Termo de Outorga e de Aceitação de Auxílio (ANEXO 7); 
+12. DISPOSIÇÕES GERAIS 
+12.1 A FAPERJ se reserva o direito de realizar, periodicamente, o acompanhamento da 
+execução do projeto, por meio de formulários específicos a serem remetidos aos 
+responsáveis, e por visitas técnicas; 
+12.2. O proponente apoiado por este Edital deverá estar disponível para, caso 
+necessário, realizar a apresentação de seus resultados, em data e local a serem 
+marcados em comum acordo com a diretoria da FAPERJ; 
+12.3 Em se constatando violação às cláusulas do presente Edital, a FAPERJ poderá 
+restringir apoios futuros aos proponentes contemplados; 
+12.4 A concessão do auxílio poderá ser cancelada pela diretoria da FAPERJ por 
+ocorrência de fato cuja gravidade justifique o seu cancelamento, sem prejuízo de outras 
+providências cabíveis; 
+12.5 A qualquer tempo, o presente edital poderá ser revogado ou anulado, no todo ou 
+em parte, inclusive quanto aos recursos a eles alocados, por decisão unilateral da 
+FAPERJ, por motivo de interesse público ou por exigência legal, sem que isso implique 
+direitos à indenização ou reclamação de qualquer natureza; 
+12.6 Caso a FAPERJ entenda que ações judiciais em curso poderão comprometer a boa 
+execução do projeto, desclassificará o proponente; 
+12.7 No caso de eventual recurso interposto ao resultado divulgado, o proponente 
+deverá única e exclusivamente submeter o pedido através do SisFAPERJ, de acordo com 
+os procedimentos relacionados no ANEXO 6. Essa ação deve ser realizada em até sete 
+  
+EDITAL  INTELIGÊNCIA ARTIFICIAL 
+ 
+Página 9 de 21 
+ 
+dias úteis após a divulgação da relação dos contemplados no sítio da Fundação, por uma 
+única vez, não sendo permitido novo recurso; 
+12.8 Após a liberação dos resultados finais, a FAPERJ fará contato com os proponentes 
+dos projetos aprovados, por meio do e-mail informado no cadastro do SisFAPERJ, para 
+o recebimento dos Termos de Outorga e de Aceitação de Auxílio (ANEXO 7), e de 
+documentos necessários para abertura de conta bancária (específica e exclusiva para 
+administração dos recursos disponibilizados pela Fundação). Por ocasião da devolução 
+desses documentos à FAPERJ, os aprovados também deverão entregar o Formulário de 
+Inscrição devidamente preenchido, com as assinaturas e carimbos requeridos; 
+12.9 O proponente contemplado terá quinze (15) dias úteis para fazer a devolução dos 
+documentos de outorga à FAPERJ, juntamente com o Formulário de Inscrição; 
+12.10 Qualquer impedimento de devolução dos documentos mencionados no item 10.8 
+dentro do prazo estabelecido deverá ser imediatamente comunicado à FAPERJ com a 
+devida justificativa, através do endereço eletrônico central.atendimento@faperj.br. A 
+não devolução da documentação sem comunicação formal e justificativa implicará no 
+cancelamento da concessão; 
+12.11. Se necessário, o Outorgado poderá submeter à Central de Atendimento da 
+FAPERJ, por meio do formulário disponível na página eletrônica da Fundação, a 
+Solicitação de Retificação e Reemissão do Termo de Outorga; 
+12.12 A titularidade de quaisquer inventos, aperfeiçoamentos e inovações tecnológicas, 
+nos termos da Lei de Propriedade Industrial, bem como quaisquer processos e produtos, 
+privilegiáveis ou não, adquiridos, produzidos, transformados, construídos ou em 
+construção, oriundos da execução do Auxílio concedido, será partilhada entre as partes, 
+em consonância com os aportes efetuados por cada uma, na forma do Projeto aprovado; 
+12.12.1 Esta disposição se aplica também às empresas participantes , desde que tenham 
+efetuado aportes financeiros nos projetos conduzidos pela Rede. 
+12.13 Caso o Outorgado deseje solicitar o cancelamento do projeto, deverá encaminhar, 
+via e-mail para a Central de Atendimento, o formulário disponível na página eletrônica 
+da FAPERJ; 
+12.14 O encerramento do processo de concessão de auxílio somente ocorrerá após a 
+aprovação do Relatório Técnico e da Prestação de Contas. 
+12.15Dúvidas e esclarecimentos sobre este Edital deverão ser enviados única e 
+exclusivamente para o endereço eletrônico central.atendimento@faperj.br; 
+12.16Os casos omissos neste Edital serão resolvidos pela diretoria da FAPERJ. 
+ 
+Rio de Janeiro, XX de XXXXXX de 2020 
+ 
+ 
+Jerson Lima Silva 
+Presidente da FAPERJ 
+ 
+ 
+ 
+  
+EDITAL  INTELIGÊNCIA ARTIFICIAL 
+ 
+Página 10 de 21 
+ 
+ANEXO 1 
+PROCEDIMENTOS PARA INSCRIÇÃO 
+I PREENCHIMENTO DO FORMULÁRIO 
+I.I O preenchimento do formulário on-line no sistema SisFAPERJ e a submissão do 
+projeto deverão ser realizadas pelo proponente do projeto (com login e senha próprios); 
+OBS: Para o preenchimento dos formulários no sistema SisFAPERJ devem ser utilizados 
+EXCLUSIVAMENTE os navegadores MOZILLA FIREFOX ou GOOGLE CHROME EM 
+AMBIENTE WINDOWS.  
+I.II A inscrição se dará em dois passos:  
+1º passo - Cadastro on-line: cadastramento ou atualização do cadastro on-line 
+do Proponente e da Equipe;  
+2º passo - Preenchimento do formulário on-line;  
+I.III Cadastro on-line:  
+1º Acessar o endereço eletrônico: https://sisfaperj.faperj.br/sisfaperj/ (login = o 
+seu CPF); 
+2º No item “Solicitante”, clicar em “Meu cadastro”; 
+3º Clicar em “GRAVAR” para concluir o processo de cadastro e obter o número 
+de matrícula na FAPERJ.  
+I.IV Preenchimento do formulário on-line:  
+I.IV.I Dentro do sistema SisFAPERJ, seguir os seguintes passos:  
+1º No item “Solicitante”, acessar o menu “Meu SisFAPERJ”; 
+2º Selecionar a linha correspondente ao presente Edital; 
+3º Clicar em “Solicitar fomento”; 
+4º Aceitar os termos de contrato; 
+5º Clicar em “prosseguir”; 
+II. FORMULÁRIO DE INSCRIÇÃO  
+II.I A proposta deverá ser apresentada sob a forma de projeto, devendo conter, 
+obrigatoriamente, os seguintes itens:  
+A. Título do projeto (divulgável); 
+B. Resumo em português e em inglês (divulgáveis); 
+C. Introdução e justificativa; 
+D. Objetivos; 
+E. Método; 
+F. Resultados esperados; 
+G. Indicadores de desempenho; 
+H. Endereço de execução do projeto; 
+I. Potenciais veículos de apresentação de resultados (Congressos, 
+Seminários, Agenda Acadêmica, Eventos ou Revistas Científicas); 
+  
+EDITAL  INTELIGÊNCIA ARTIFICIAL 
+ 
+Página 11 de 21 
+ 
+J. Orçamento detalhado e justificado de todos os itens orçamentários, 
+assim como as propostas dos fornecedores, quando exigidas pelo Edital; 
+K. Sistema de Governança; 
+L. Plano de trabalho dos bolsistas; 
+M. Orçamento de bolsas. 
+II.II Preencher o formulário on-line, anexando:  
+A. Projeto completo em PDF (correspondente ao que foi preenchido nos 
+respectivos campos do item anterior); 
+B. Currículo Lattes resumido do proponente, contendo apenas as publicações 
+e/ou demais produções dos últimos 5 (cinco) anos; 
+C. Resumo quantitativo da produção científica nos últimos 5 (cinco) anos; 
+D. Cronograma de execução, em meses corridos, para o desenvolvimento das 
+atividades propostas; 
+E. Quando for o caso de pesquisa com humanos e animais, anexar documento 
+de aprovação do Comitê de Ética — a não apresentação do documento (ou do 
+protocolo de submissão) acarretará em desclassificação da proposta; 
+F. Carta de anuência da instituição (ver ANEXO 2); 
+G. Declaração de Anuência da equipe (ver ANEXO 3) 
+II.III O solicitante poderá salvar o seu preenchimento quantas vezes for necessário e 
+acessá-lo novamente a partir do menu “Meu SisFaperj”; 
+II.IV Para fazer o envio definitivo do pedido, clicar na “OPÇÃO” – “Enviar para FAPERJ” – 
+após este envio não haverá possibilidade de alteração;  
+II.V O envio definitivo deve ser feito obrigatoriamente até a data prevista no 
+CRONOGRAMA, item 3 deste documento.  
+III. APÓS O ENVIO DA PROPOSTA:  
+III.I O pedido mudará para o estado “Aguarda Verificação” (vide menu “Meu 
+SisFAPERJ”); 
+III.II O Formulário de Inscrição é gerado automaticamente, após o envio on-line da 
+proposta e pode ser acessado ao clicar em “imprimir” – somente os proponentes que 
+tiverem propostas aprovadas deverão entregar à FAPERJ uma cópia impressa desse 
+formulário, com as devidas assinaturas e carimbos requeridos, em data a ser 
+oportunamente comunicada, após a divulgação dos resultados finais. 
+ 
+ 
+  
+EDITAL  INTELIGÊNCIA ARTIFICIAL 
+ 
+Página 12 de 21 
+ 
+ANEXO 2 
+TERMO DE ANUÊNCIA DA INTITUIÇÃO 
+ 
+ 
+Proponente:  
+CPF: 
+Título do Projeto:  
+Instituição Executora: 
+CNPJ:  
+Dirigente Máximo da Instituição: 
+CPF: 
+Cargo/Ocupação do Dirigente Máximo: 
+ 
+Através deste termo, confirmo a anuência da Instituição para a realização do Projeto 
+supracitado, sob a coordenação do Proponente, a ser submetido para financiamento 
+pela FAPERJ no âmbito do Edital nº XX/2020 –  Inteligência Artificial. 
+A Direção da Instituição apoia totalmente o pedido do Proponente e colocará à sua 
+disposição as infraestruturas, física e de pessoal da Instituição, visando o perfeito 
+andamento de seu projeto. 
+ 
+_____________________________ 
+Assinatura/Carimbo 
+Dirigente Máximo da instituição 
+ 
+ORIENTAÇÕES PARA O PREENCHIMENTO DO TERMO DE ANUÊNCIA DO DIRIGENTE 
+MÁXIMO DA INSTITUIÇÃO 
+Através deste documento a FAPERJ esclarece que, para efeitos desse Edital, considera-
+se dirigente máximo da instituição: o Reitor e seus prepostos (Vice-Reitor, Pró-Reitor e 
+Diretor de unidade), o Presidente de instituto de Pesquisa, Museu, Associação ou 
+Sociedade científica ou o Representante Legal da empresa. 
+Ressalta-se que o TERMO DE ANUÊNCIA DO DIRIGENTE MÁXIMO DA INSTITUIÇÃO deve 
+ser preenchido com todas as informações solicitadas do dirigente máximo da instituição, 
+ou seja: 
+• Os dados a serem informados (nome, CPF e cargo); 
+• A assinatura a ser coletada; 
+• O carimbo (com nome + cargo + instituição + matrícula) 
+OBSERVAÇÕES:  
+• Os dados, a assinatura e o carimbo devem ser da mesma pessoa; 
+• Não é necessário o envio por correio; 
+• Após o preenchimento, o termo deve ser anexado ao Sistema SisFAPERJ na aba 
+“Documentos”.  
+  
+EDITAL  INTELIGÊNCIA ARTIFICIAL 
+ 
+Página 13 de 21 
+ 
+Em caso de dúvidas, entre em contato com a equipe técnica do FAPERJ através do 
+endereço eletrônico central.atendimento@faperj.br. 
+ 
+ 
+  
+EDITAL  INTELIGÊNCIA ARTIFICIAL 
+ 
+Página 14 de 21 
+ 
+ANEXO 3 
+DECLARAÇÃO DE ANUÊNCIA DOS REPRESENTANTES  
+DE CADA UM DOS INTEGRANTES DA REDE 
+ 
+Através deste documento, os REPRESENTANTES abaixo assinados declaram que apoiam 
+a proposta de projeto “Título da Proposta”, que está sendo solicitado à FAPERJ pelo 
+Pesquisador “Nome do Proponente”, Coordenador do Projeto, no âmbito do Edital nº 
+XX/2020 – Inteligência Artificial e que concordam com o seu Plano de Trabalho proposto. 
+O Coordenador e os membros da equipe associados declaram ainda que não participam 
+de mais de um grupo que submete proposta no presente Edital. 
+ 
+Nome 
+Instituição/Empresa 
+CPF 
+Assinatura 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________________ 
+COORDENADOR DO PROJETO 
+ 
+ 
+  
+EDITAL  INTELIGÊNCIA ARTIFICIAL 
+ 
+Página 15 de 21 
+ 
+ANEXO 4 
+DOCUMENTAÇÃO COMPROBATÓRIA DA REGULARIDADE FISCAL, JURÍDICA E 
+ECONÔMICO-FINANCEIRA 
+Somente os proponentes aprovados deverão apresentar os documentos relativos à 
+sua regularidade fiscal, jurídica e econômico-financeira.  
+Documentos a serem apresentados: 
+PROPONENTE PESSOA FÍSICA 
+1. Prova de inscrição no Cadastro Nacional de Pessoas Físicas (CPF); 
+2. Identidade, civil, profissional ou militar, com validade em todo território 
+nacional; 
+3. Certidão conjunta de débitos relativos a Tributos Federais e à Dívida Ativa da 
+União emitida pela Receita Federal e Procuradoria Geral da União (PGN) 
+4. Certificado de regularidade do FGTS (CRF) expedido pela Caixa Econômica 
+Federal, por Cadastro Específico do INSS (CEI), SE HOUVER. 
+5. Certidão Negativa da Receita e Dívida Ativa do Estado; 
+6. Certidão Negativa da Receita e Dívida Ativa do Município; 
+7. Prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho, 
+mediante a apresentação de Certidão Negativa de Débitos Trabalhistas (CNDT) ou 
+da Certidão Positiva de Débitos Trabalhistas com os mesmos efeitos da CNDT; 
+8. Relatório 
+de 
+contencioso, 
+indicando 
+o 
+total 
+de 
+processos 
+cíveis, 
+fiscais/tributários e trabalhistas, os valores pedidos e os valores provisionados, 
+assinado pelo proponente (ANEXO 5). 
+ANEXO 5 
+MODELO DE DECLARAÇÃO DE CONTENCIOSO DO PROPONENTE 
+PROPONENTE PESSOA FÍSICA 
+ [NOME], domiciliado em [ENDEREÇO], inscrita no CPF sob o nº [NÚMERO], declara 
+junto à FAPERJ que apresenta o seguinte quadro relativo ao seu contencioso: 
+ 
+PERDA 
+ 
+PROCESSOS 
+ 
+PROVÁVEL 
+(R$) 
+POSSÍVEL 
+(R$) 
+REMOTA 
+(R$) 
+PROVISIONADO 
+(R$) 
+Cíveis 
+ 
+ 
+ 
+ 
+Fiscais/ 
+Tributários 
+ 
+ 
+ 
+ 
+  
+EDITAL  INTELIGÊNCIA ARTIFICIAL 
+ 
+Página 16 de 21 
+ 
+Trabalhistas/ 
+Previdenciários 
+ 
+ 
+ 
+ 
+TOTAL 
+ 
+ 
+ 
+ 
+ 
+(   ) Declaro não possuir processos de contencioso. 
+ 
+[LOCAL], _____ de _____________ de 20__ 
+[NOME DO PROPONENTE] 
+[ASSINATURA DO PROPONENTE] 
+[CPF DO PROPONENTE] 
+ 
+ 
+  
+EDITAL  INTELIGÊNCIA ARTIFICIAL 
+ 
+Página 17 de 21 
+ 
+ANEXO 6 
+PROCEDIMENTOS PARA ENVIO DE RECURSO VIA SisFAPERJ 
+1. A solicitação de recurso no sistema SisFAPERJ deve ser realizada pelo 
+proponente 
+do 
+projeto 
+(com 
+login 
+e 
+senha 
+próprios);  
+OBS: Para o preenchimento dos formulários no sistema SisFAPERJ devem ser 
+utilizados EXCLUSIVAMENTE os navegadores MOZILLA FIREFOX ou GOOGLE 
+CHROME EM AMBIENTE WINDOWS. 
+2. Acessar o endereço eletrônico: https://sisfaperj.faperj.br/sisfaperj/ (login = o 
+CPF do solicitante); 
+3. No item “Solicitante”, clicar em “Meu Protocolo”; 
+4. Dentro da janela “Meu Protocolo”, selecionar a lista “Recurso”; 
+5. Os pedidos negados aparecerão na lista – Selecione o pedido que deseja solicitar 
+um recurso; 
+6. Clique em “Solicitar”; 
+7. Na aba “Inicial”, localize o parecer fundamentado emitido pelo Comitê de 
+Avaliação; 
+8. Na aba “Arquivos”, descreva, em poucas palavras, o principal motivo da 
+solicitação; 
+9. No item “Arquivos em anexo”, clicar no botão “+” para anexar a carta de recurso. 
+A carta deve conter a argumentação necessária para interposição de recurso. 
+Solicitações sem a devida fundamentação não serão analisadas; 
+10. Clicar na lista “Opção:” e selecionar “Enviar para FAPERJ”; 
+11. Clicar em “Executar” 
+12. O solicitante receberá um e-mail informando a conclusão; 
+13. O status do pedido poderá ser acompanhado nessa mesma aba. 
+ 
+ 
+  
+EDITAL  INTELIGÊNCIA ARTIFICIAL 
+ 
+Página 18 de 21 
+ 
+ANEXO 7 
+MODELO DO TERMO DE OUTORGA E DE ACEITAÇÃO DO AUXÍLIO 
+ 
+ 
+ 
+TERMO DE OTORGA E DE ACEITAÇÃO DE AUXÍLIO  
+ 
+Em XX/XX/XXXX, a Diretoria da Fundação Carlos Chagas Filho de Amparo à Pesquisa do 
+Estado do Rio de Janeiro, aqui designada simplesmente FAPERJ, usando das 
+atribuições que lhe confere o inciso II, artigo 16 do Decreto 45.931, de 20 de fevereiro 
+de 2017, defere ao OUTORGADO, nacional do(a) , residente na XXXXXXXXXXXXXXXXXX, 
+portador da Carteira de Identidade nº. XXXXXXX, expedida pelo XXXX e inscrito no CPF 
+sob o n.º XXX.XXX.XXX.XX, que também será o responsável pela execução do projeto, 
+o auxílio especificado no presente TERMO, mediante as cláusulas e condições 
+seguintes, a que se obrigam: 
+ 
+CLÁUSULA PRIMEIRA – A utilização do auxílio deverá se realizar de acordo com o plano 
+de aplicação apresentado pelo OUTORGADO, com ou sem modificações feitas pela 
+FAPERJ, conforme discriminado no preâmbulo do presente TERMO. 
+ 
+CLÁUSULA SEGUNDA – Os recursos recebidos pelo OUTORGADO serão movimentados 
+por meio de conta bancária específica, a ser aberta, com autorização da FAPERJ, no 
+Banco Bradesco, exclusivamente para atender às finalidades do presente TERMO. 
+ 
+Parágrafo Único – O OUTORGADO fica pessoalmente responsável pela perfeita 
+aplicação do auxílio, de acordo com a sua finalidade. Qualquer alteração no plano de 
+aplicação aprovado pela FAPERJ deverá ser solicitada formalmente pelo OUTORGADO 
+e aprovada pela FAPERJ, antes de implementada. 
+ 
+CLÁUSULA TERCEIRA – O OUTORGADO deverá afixar, destacadamente, em lugar 
+visível de seu estabelecimento e em todos os materiais de divulgação resultantes da 
+execução do projeto o apoio financeiro ao projeto, bem como sempre que, em virtude 
+do auxílio deferido, houver divulgação de trabalho técnico, científico ou de produto, 
+deverão fazer expressa menção ao benefício concedido pela FAPERJ. Além disso, o 
+OUTORGADO compromete-se a informar, no seu cadastro no Sistema SisFAPERJ, 
+quaisquer publicações obtidas com o financiamento da FAPERJ, podendo tais dados 
+ser utilizados para divulgação da Fundação. 
+ 
+ 
+CLÁUSULA QUARTA – A Prestação de Contas e o Relatório Técnico final do auxílio 
+financeiro deverão ser apresentados juntamente através do Sistema Eletrônico de 
+Informações – SEI RJ, pelo OUTORGADO, até a data do vencimento indicada no 
+preâmbulo deste TERMO, devendo observar as “INSTRUÇÕES PARA PRESTAÇÃO DE 
+CONTAS”, disponíveis no Portal da Fundação (www.faperj.br), que passam a fazer parte 
+integrante do presente TERMO. Se houver saldo remanescente na conta do fomento, o 
+  
+EDITAL  INTELIGÊNCIA ARTIFICIAL 
+ 
+Página 19 de 21 
+ 
+OUTORGADO deverá devolvê-lo à FAPERJ mediante o pagamento, no Banco Bradesco, 
+da Guia de Recolhimento Estadual – GRE obtida no site da Secretaria de Estado de 
+Fazenda (www.fazenda.rj.gov.br) e encerrar a conta bancária referente ao presente 
+auxílio.  
+ 
+PARÁGRAFO ÚNICO – A não apresentação da Prestação de Contas e/ou do Relatório 
+Técnico final no prazo determinado no preâmbulo deste TERMO, além das implicações 
+legais, acarretará, automaticamente, a inclusão do nome do OUTORGADO no Cadastro 
+interno de Inadimplentes da FAPERJ. Por consequência, não será concedido novo 
+auxílio/bolsa ao outorgado e aos bolsistas vinculados, como também, os pagamentos 
+subsequentes serão suspensos até que seja apresentada a Prestação de Contas e/ou o 
+Relatório Técnico, ou, ainda, na ausência dessas documentações, seja promovido o 
+ressarcimento total do auxílio recebido à FAPERJ.  
+ 
+CLÁUSULA QUINTA – A Auditoria Interna da FAPERJ analisará a Prestação de Contas 
+protocolada na FAPERJ e, sendo identificadas pendências (ausência de documentos e/ou 
+informações), o OUTORGADO será comunicado, por e-mail, e terá o prazo de até 30 dias, 
+a contar da comunicação, para ser entregue através do SEI RJ, a pendência solicitada 
+pela Auditoria Interna da Fundação. Da mesma forma, havendo a necessidade de 
+reformulações do Relatório Técnico será solicitado, por meio do envio de mensagem 
+para o e-mail do OUTORGADO, a sua reformulação para atendimento no prazo máximo 
+de 30 dias. 
+ 
+PARÁGRAFO PRIMEIRO – A FAPERJ comunicará o OUTORGADO sobre as pendências 
+identificadas na Prestação de Contas e as reformulações do Relatório Técnico por meio 
+do seu e-mail cadastrado no SisFAPERJ, ficando o OUTORGADO responsável pela 
+atualização do seu cadastro junto à FAPERJ. 
+ 
+PARÁGRAFO SEGUNDO – O não atendimento às solicitações de exigências da Prestação 
+de Contas e/ou às reformulações do Relatório Técnico fará com que o OUTORGADO seja 
+registrado na FAPERJ como “bloqueado”, ficando impedido de obter novos recursos da 
+Fundação. 
+ 
+CLÁUSULA SEXTA– O OUTORGADO é responsável pela entrega da Prestação de Contas 
+e do Relatório Técnico através do SEI RJ, dos documentos e/ou informações pendentes 
+de sua Prestação de Contas, como também, das reformulações do Relatório Técnico, e, 
+ainda, pelo acompanhamento dos comunicados enviados pela FAPERJ para o seu e-mail 
+cadastrado no SisFAPERJ, até a aprovação definitiva da Prestação de Contas e do 
+Relatório Técnico, comunicada ao OUTORGADO. 
+ 
+CLÁUSULA SÉTIMA – A prestação de contas será aceita condicionalmente até a sua 
+aprovação definitiva pela FAPERJ, fundamentado em parecer favorável do seu órgão 
+de Auditoria Interna. 
+ 
+  
+EDITAL  INTELIGÊNCIA ARTIFICIAL 
+ 
+Página 20 de 21 
+ 
+CLÁUSULA OITAVA – Independentemente do disposto na Cláusula Quinta, o 
+OUTORGADO obriga-se a apresentar à FAPERJ relatórios de desenvolvimento do 
+projeto nos prazos estabelecidos no preâmbulo deste TERMO. 
+ 
+CLÁUSULA NONA – Todo e qualquer impedimento que interfira na execução do 
+projeto nos termos contratados deverá ser imediatamente comunicado pelo 
+OUTORGADO à FAPERJ. 
+ 
+CLÁUSULA DÉCIMA– A titularidade de quaisquer inventos, aperfeiçoamentos e 
+inovações tecnológicas, nos termos da Lei de Propriedade Industrial, bem como 
+quaisquer processos e produtos, privilegiáveis ou não, adquiridos, produzidos, 
+transformados, construídos ou em construção, oriundos da execução do Auxílio 
+concedido, será partilhada entre as partes, em consonância com os aportes efetuados 
+por cada uma, na forma do Projeto aprovado; 
+ 
+PARÁGRAFO PRIMEIRO – Obriga-se o OUTORGADO a informar à FAPERJ sobre a 
+possibilidade de resultado sustentável de seu projeto. 
+ 
+PARÁGRAFO SEGUNDO – O registro de eventual patente, obrigatório prioritariamente 
+no Brasil, se fará sempre em nome da FAPERJ e do OUTORGADO, cabendo a qualquer 
+deles a iniciativa do requerimento, dando ciência à outra parte. 
+ 
+PARÁGRAFO TERCEIRO – A FAPERJ poderá, a seu critério, ceder ao OUTORGADO, 
+parcial ou total, onerosa ou gratuitamente, os direitos resultantes do projeto. 
+ 
+CLÁUSULA DÉCIMA PRIMEIRA – O presente TERMO não cria e não envolve nenhuma 
+espécie de relação empregatícia entre o OUTORGADO e a FAPERJ. 
+ 
+CLÁUSULA DÉCIMA SEGUNDA – O OUTORGADO concorda em atuar como consultor 
+ou parecerista ad hoc da FAPERJ, sempre que solicitado pela Diretoria da Fundação. 
+ 
+CLÁUSULA DÉCIMA TERCEIRA – A violação de qualquer das cláusulas do presente 
+TERMO importará em sua rescisão, bem como dará direito à FAPERJ de restringir 
+apoios futuros ao OUTORGADO, registrando-o em cadastro interno de inadimplentes. 
+ 
+PARÁGRAFO ÚNICO – O OUTORGADO se compromete a conceder mandato à FAPERJ, 
+que é parte integrante do presente TERMO, com plenos poderes para a movimentação 
+e encerramento da conta corrente aberta em nome do OUTORGADO no Banco 
+Bradesco, nos casos de: inadimplemento da presente outorga, morte (se for o caso), 
+dissolução de sociedade empresarial (se for o caso); em que o OUTORGADO extinguir 
+a sua atividade empresarial; sofrer os efeitos da falência e/ou da recuperação judicial 
+e/ou insolvência civil; e representá-la judicial e extrajudicialmente, com os poderes ad 
+judicia, em ocorrendo inércia do MANDANTE, nos casos em que houver penhora 
+judicial sobre os recursos depositados na citada conta bancária. 
+ 
+  
+EDITAL  INTELIGÊNCIA ARTIFICIAL 
+ 
+Página 21 de 21 
+ 
+CLÁUSULA DÉCIMA QUARTA – O OUTORGADO se compromete a aceitar a realização 
+de auditoria por parte da FAPERJ, sempre que esta julgar conveniente, observado o 
+disposto na legislação vigente.  
+ 
+CLÁUSULA DÉCIMA QUINTA – O OUTORGADO declara que aceita, sem restrições, o 
+auxílio que neste ato é deferido e compromete-se a cumprir o disposto neste 
+instrumento, em todos os seus termos e condições, sob pena das sanções ora 
+estabelecidas. 
+ 
+Rio de Janeiro, XX/XX/XXXX. 
+ 
+ 
+ 
+__________________________________ 
+ Jerson Lima Silva 
+Presidente 
+ 
+_______________________________ 
+OUTORGADO 
+(Assinatura e carimbo) 
+ 

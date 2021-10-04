@@ -1,0 +1,2042 @@
+
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+1 
+ 
+Chamada pública para seleção de projetos 
+demandantes de tecnologias habilitadoras 
+ 
+1ª alteração em 19/12/2019 
+ 
+A Fundação de Amparo à Pesquisa e Inovação do Espírito Santo (Fapes), por meio do processo 
+administrativo nº 86574167/2019, torna público o presente Edital de chamada para seleção de 
+empresas desenvolvedoras de sistemas de gestão integrada (ERP) que atuam no ramo industrial 
+e convida aos interessados a apresentarem propostas nos termos aqui estabelecidos. 
+1. FINALIDADE 
+Fomentar por meio de atividades de capacitação e concessão de recursos de subvenção 
+econômica (recursos não-reembolsáveis) o desenvolvimento e/ou adequação dos sistemas de 
+gestão integrada (Enterprise Resource Planning – ERP), voltadas ao segmento industrial que 
+utilizam ou propõe-se utilizar das tecnologias habilitadoras como Blockchain, Internet das Coisas 
+– IoT, Inteligência Artificial - IA, Ciência de Dados (Big Data, Deep Learning, Machine Learning) e 
+Sistemas simuladores (tempo real X predições), conforme descrito no Anexo IV deste edital. 
+2. OBJETIVOS ESTRATÉGICOS 
+Objetiva-se com este edital apoiar o desenvolvimento, a adaptação e a transferência de 
+tecnologia, além de estimular o avanço científico, tecnológico e de inovação das empresas 
+capixabas e fortalecer a infraestrutura tecnológica e de inovação presente no Centro de 
+Pesquisa, Inovação e Desenvolvimento Eliezer Batista – CPID. 
+3. AÇÕES ESTRATÉGICAS  
+Um levantamento realizado em 06/2018, junto a 700 (setecentas) empresas filiadas ao Sindicato 
+das Empresas de Informática no estado do Espírito Santo - Sindinfo, foi constatado que a maioria 
+delas não estava preparada para competir no mercado das grandes inovações tecnológica, com 
+isso foi suscitada a necessidade de atividades de capacitação dessas empresas nas denominadas 
+tecnologias habilitadoras, no que tange o uso de um conjunto de tecnologias que permitem que 
+máquinas e humanos trabalhem de forma colaborativa e que as linhas de produção sejam ágeis, 
+favorecendo o desenvolvimento de aplicações de: 
+• 
+Virtualização da linha de produção: a representação digital do processo produtivo 
+podendo estar acessível em dispositivos moveis, tablets, etc. que ajudará interagir e 
+simular processos e operação. 
+• 
+Capacidade da tomada de decisão e operação em tempo real: sensores instalados em 
+máquinas ajudam a tomar decisões de forma rápida e segura. 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+2 
+ 
+• 
+Descentralização do processo de decisão: menos dependência na decisão humana, 
+passando a ocorrer por sistemas inteligentes baseados na análise dos dados das 
+máquinas e processos. 
+• 
+Divisão do sistema produtivo em subunidades (módulos) conectadas ou desconectadas 
+do processo de forma independente. 
+• 
+Com a modularidade do sistema produtivo de padronização na comunicação 
+(interoperabilidade) entre estas partes: sistemas, produtos, sensores, humanos por 
+intermédio de diferentes protocolos de comunicação, sendo a Internet das Coisas um 
+dos principais barramentos dessa comunicação. 
+ 
+4. FORMULÁRIOS E LEGISLAÇÃO 
+ Todas as resoluções citadas no presente edital estão disponíveis na página 
+eletrônica da Fapes (www.fapes.es.gov.br). Os formulários para submissão estão 
+disponíveis na área do edital no Sistema de Informação e Gestão da FAPES – 
+SIGFAPES (www.sigfapes.es.gov.br). 
+ As normas estabelecidas no presente edital seguem as disposições das Resoluções 
+CCAF: nº 217/2018 (Norma de itens financiáveis e não financiáveis no que se refere 
+a utilização de recursos financeiros da FAPES e do FUNCITEC), nº 218/2018 (Manual 
+de Utilização de Recursos Financeiros e Prestação de Contas da FAPES e do 
+FUNCITEC), nº 215/2018 (Interposição de recurso administrativo), nº 92/2013 
+(Propriedade Intelectual), 169/2017 (Empreendedorismo Inovador),  e suas 
+alterações, sem prejuízo dos critérios e condições específicos estabelecidos pelo 
+próprio edital. 
+5. FORMATO DA CHAMADA 
+ A chamada prevê atividades de capacitação a serem realizadas no Núcleo de 
+Transformação Digital – Cidig, laboratório localizado no Centro de Pesquisa, 
+Inovação e Desenvolvimento Eliezer Batista – Cpid, conforme cronograma 
+apresentado no Anexo II. 
+ Para as atividades de capacitação serão selecionadas até 20 (vinte) empresas 
+classificadas mediante a avaliação dos critérios estabelecidos no item 10.1. 
+ A chamada prevê também o aporte financeiro no modelo de subvenção econômica 
+para as empresas que alcançarem os melhores resultados conforme os critérios de 
+avaliação final de projeto elencados no item 10.2. 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+3 
+ 
+ As empresas selecionadas para o recebimento da subvenção econômica deverão 
+obedecer aos valores estabelecidos no item 16.2 e aos prazos indicados no item 
+6.2. 
+6. PRAZO DO PROJETO 
+ As atividades de capacitação terão duração de 07 (sete) meses. 
+ Os projetos subvencionados terão duração de 12 (doze) meses não prorrogáveis. 
+7. CRONOGRAMA 
+Etapa 
+Data 
+Data de publicação do Edital 
+22/11/2019 
+Data limite para submissão das propostas no Sigfapes 
+28/02/2020 
+Publicação do resultado de habilitação das propostas 
+06/03/2020 
+Prazo para submissão de recursos administrativos da 
+habilitação  
+09 a 13/03/2020 
+Publicação da homologação do resultado de habilitação 
+A partir de 27/03/2020 
+Análise e julgamento das propostas da Fase I 
+A partir de 30/03/2020 
+Divulgação do resultado da análise da Fase I 
+17/04/2020 
+Prazo para submissão de recursos administrativos da Fase I 
+22 a 28/04/2020 
+Publicação da homologação do resultado da Fase I 
+A partir de 18/05/2020 
+Realização da Etapa I - Capacitação 
+De 01/06 até 30/12/2020 
+Análise e julgamento das propostas da Fase II 
+A partir de 01/02/2021 
+Divulgação do resultado da análise da Fase II 
+A partir de 12/02/2021 
+Prazo para submissão de recursos administrativos da Fase II 
+15 a 19/02/2021 
+Divulgação do resultado final homologado 
+26/02/2021 
+Contratação das empresas 
+A partir de 08/03/2021 
+ 
+8. REQUISITOS 
+ O proponente deverá atentar-se para os seguintes requisitos: 
+a) ser o representante legal da empresa ou gestor formalmente designado pelo 
+representante legal por meio de contrato de trabalho ou procuração pública; 
+b) ser o Coordenador do Projeto; 
+c) estar adimplente junto à FAPES no ato da submissão da proposta; 
+d) estar cadastrado no Sistema de Informação e Gestão da FAPES - Sigfapes; 
+e) ser residente no estado do Espírito Santo; 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+4 
+ 
+f) estar em situação regular no país, se estrangeiro; 
+ A empresa deverá apresentar os seguintes documentos/comprovações: 
+a) registro na Junta Comercial ou no Registro Civil das Pessoas Jurídicas (RCPJ) de 
+sua jurisdição até 21/11/2018; 
+b) da atividade operacional, não-operacional, patrimonial ou financeira até 
+21/07/2019; 
+c) apresentar receita bruta operacional no último exercício igual ou inferior a R$ 
+16.000.000,00 (dezesseis milhões de reais); 
+d) o objeto social, na data de divulgação do presente Edital, que contemple 
+atividade compatível com o desenvolvimento do projeto proposto; 
+e) estar localizada no estado do Espírito Santo; 
+f) do portfólio de clientes ou declaração de usuário do produto, desde que não 
+seja empresa do grupo econômico. 
+ Da equipe participante: 
+8.3.1. 
+A equipe participante é limitada a cinco membros, com os seguintes 
+requisitos: 
+a) ter como membro sócio ou empregado da empresa, com vínculo 
+empregatício comprovado; 
+b) os membros deverão estar adimplentes com suas obrigações junto à 
+FAPES; 
+c) os membros deverão estar cadastrados no Sistema de Informação e 
+Gestão da Fapes – SigFapes; 
+d) os membros deverão ter disponibilidade de horário para cumprir com 
+as atividades propostas conforme cronograma disponibilizado no 
+Anexo II. 
+8.3.2. 
+A equipe designada poderá participar de momentos distintos durante a 
+realização das atividades propostas. 
+8.3.3. 
+Para o treinamento inicial de 40 (quarenta) horas, previsto no Anexo II, 
+deverá ser designado no máximo 02 (dois) participantes. 
+9. INSTRUÇÕES PARA ELABORAÇÃO DA PROPOSTA 
+ São documentos obrigatórios para a submissão da proposta: 
+a) comprovante da designação formal do Coordenador do Projeto, caso este não 
+seja sócio da empresa; 
+b) cópia do contrato social ou equivalente; 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+5 
+ 
+c) cópia do RG e CPF do proponente; 
+d) comprovante da maior titulação do Coordenador do Projeto; 
+e) apresentação da equipe disponível para o projeto, ressaltando-se a função de 
+cada integrante e a qualificação de cada um (cadastrar no SigFapes apenas 
+membros da equipe com função de coordenação ou que irão participar de 
+alguma atividade do projeto); 
+f) apresentar projeto conforme Anexo I. 
+10. SUBMISSÃO DA PROPOSTA  
+ O preenchimento no SigFapes e a submissão da proposta, bem como dos 
+documentos necessários, deverão ser realizadas pelo Proponente (com login e 
+senha próprios). 
+ O proponente designado pela empresa conforme item 6.1 poderá submeter 
+somente uma proposta. 
+ Somente será contratada uma proposta por CNPJ ou grupo econômico. 
+ 
+ As propostas deverão ser submetidas até as 17h59 da data limite de submissão, 
+prevista no item 7 do edital. Após esse prazo o sistema fechará e não receberá 
+propostas.  
+ A submissão, avaliação e seleção das propostas serão realizadas em 2 (duas) fases 
+distintas e eliminatórias, quais sejam: Fase I – Da Seleção para Atividade de 
+Capacitação; e Fase II - Da Seleção para Subvenção Econômica.  
+ Em todas as fases, as propostas deverão ser submetidas no Portal SigFapes, 
+conforme formulário específico para cada uma das fases, no prazo estabelecido no 
+Cronograma deste Edital (item 6). 
+ O conteúdo e a integridade da documentação inserida na proposta serão de 
+responsabilidade direta e exclusiva do proponente. 
+ A Fapes não se responsabilizará por propostas não recebidas em decorrência de 
+eventuais problemas técnicos e/ou congestionamentos das linhas de comunicação. 
+ Para a submissão e preenchimento da proposta no SigFapes, deverão ser 
+observadas as demais orientações constantes no Anexo III desta chamada. 
+11. HABILITAÇÃO DA PROPOSTA 
+ A habilitação da proposta será realizada pela equipe técnica da Fapes, observando-
+se o atendimento aos itens 8 e 9 deste Edital. 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+6 
+ 
+ A Diretoria de Inovação encaminhará à Diretoria Executiva da FAPES a lista das 
+propostas habilitadas e inabilitadas, indicando o motivo da inabilitação. 
+ A Diretoria Executiva da FAPES apreciará as propostas e aprovará o resultado da 
+habilitação. 
+ O aviso da divulgação do resultado da habilitação será publicado no Diário Oficial 
+do Estado e em jornal de grande circulação do estado do Espírito Santo. 
+11.4.1. 
+Os proponentes serão comunicados, via SIGFAPES, em até 24 (vinte e 
+quatro) horas antes da divulgação do resultado da habilitação. 
+11.4.2. 
+É de responsabilidade do proponente manter seus dados cadastrais 
+atualizados no SIGFAPES, uma vez que toda a comunicação formal será 
+feita por meio das informações fornecidas no sistema. 
+ O resultado detalhado da habilitação estará disponível na íntegra na página 
+eletrônica da FAPES. 
+ O prazo para divulgação do resultado de habilitação das propostas, pelo Diretoria 
+Executiva da FAPES, será de até 30 (trinta) dias após o encerramento do prazo de 
+submissão das propostas. 
+ O resultado da habilitação poderá ser contestado em recurso administrativo, 
+observando-se o item 16 do presente edital. 
+ O julgamento dos recursos administrativos do resultado da habilitação cabe ao 
+Conselho Científico-Administrativo da FAPES – CCAF. 
+ O aviso do julgamento dos recursos será publicado no Diário Oficial do Estado e em 
+jornal de grande circulação do estado do Espírito Santo. 
+11.9.1. 
+Os proponentes serão comunicados, via SIGFAPES, em até 24 (vinte e 
+quatro) horas antes da divulgação do resultado do julgamento dos 
+recursos administrativos. 
+11.9.2. 
+É de responsabilidade do proponente manter seus dados cadastrais 
+atualizados no SIGFAPES, uma vez que toda comunicação formal será feita 
+por meio das informações fornecidas no sistema. 
+ O prazo para divulgação da homologação do resultado de habilitação das 
+propostas, pela Diretoria Executiva da FAPES, será de até 20 (vinte) dias após o 
+encerramento do prazo de interposição dos recursos administrativos. 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+7 
+ 
+ Esta etapa é eliminatória e somente as propostas habilitadas serão analisadas na 
+etapa seguinte. 
+ 
+12. DA AVALIAÇÃO E SELEÇÃO DAS PROPOSTAS  
+ FASE I: DA SELEÇÃO PARA ATIVIDADE DE CAPACITAÇÃO  
+12.1.1. 
+A análise de mérito das propostas é etapa classificatória e será realizada 
+pela Câmara de Assessoramento de Inovação ou Comitê de Especialistas 
+designado para este fim, que registrará em ata própria as divergências e 
+consensos entabulados durante a análise das propostas, assim como os 
+resultados obtidos e os pareceres necessários para subsidiar os 
+resultados.  
+12.1.2. 
+A análise de mérito, para as atividades de capacitação, considerará os 
+seguintes critérios: 
+ 
+Ordem 
+Dimensões de Avaliação de Mérito 
+Peso 
+De 0 – 10 
+1 
+Grau de inovação e risco tecnológico 
+<Será avaliado se a introdução de novidade ou aperfeiçoamento no 
+ambiente produtivo e social resulta em novos produtos, serviços ou 
+processos 
+ou 
+que 
+compreenda 
+a 
+agregação 
+de 
+novas 
+funcionalidades ou características ao produto, serviço ou processo 
+já existente que possa resultar em melhorias e em efetivo ganho de 
+qualidade ou desempenho. Verificar se trata de inovação já adotada 
+pelo mercado ou se um ineditismo.> 
+4 
+ 
+2 
+Estágio de maturidade do ERP atual 
+ - em desenvolvimento 
+ - recentemente lançado (lançamento até 12 meses anterior ao 
+lançamento deste edital) 
+ - consolidado 
+3 
+ 
+3 
+Importância do projeto para o segmento (TIC + Indústria) 
+<A relevância para que a empresa se destaque no mercado local, 
+regional, nacional ou internacional no segmento industrial de 
+atuação.> 
+3 
+ 
+4 
+Parcerias Institucionais e com empresas da área estratégica 
+do projeto 
+<Parcerias institucionais relevantes para a inovação e execução do 
+plano de trabalho proposto.> 
+3 
+ 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+8 
+ 
+5 
+Competência técnica da equipe participante  
+<Será avaliado se o perfil e formação dos membros da equipe é 
+suficiente para desenvolver o produto, serviço ou processo. Bem 
+como se há titulação, complementaridade de perfis, certificações e 
+experiências especificas para a área.>  
+2 
+ 
+6 
+Conformidade com a finalidade  
+<Será verificada a aderência ao item 1 do Edital.> 
+2 
+ 
+7 
+Tecnologia ou conjunto de tecnologias que pretende utilizar 
+<Será verificada a aderência ao item III do Anexo I.>  
+1 
+ 
+ 
+12.1.3. 
+Todas as dimensões acima serão pontuadas de 0 a 10. 
+12.1.4. 
+Serão eliminadas as propostas que obtiverem aproveitamento inferior a 
+70% (setenta por cento) da pontuação máxima possível. 
+12.1.5. 
+A nota final da fase I será o somatório das notas das dimensões do item 
+12.1.2, observando-se os respectivos pesos. Fórmula de cálculo 
+(𝑁𝑜𝑡𝑎 𝐹𝑖𝑛𝑎𝑙 = (
+∑
+(𝑃𝑒𝑠𝑜𝑛 𝑥 𝑁𝑜𝑡𝑎𝑛)
+7𝑛=1
+180
+) 𝑥 100). 
+12.1.6. 
+As propostas serão encaminhadas para análise final da Diretoria de 
+Inovação da Fapes, que procederá a: 
+a) revisão do cálculo das pontuações das propostas; 
+b) cálculo da Nota Final. 
+12.1.7. 
+A Diretoria de Inovação da Fapes elaborará a lista de propostas 
+classificadas, em ordem decrescente da Nota Final. Em caso de propostas 
+com a mesma pontuação total, o desempate será definido com base na 
+maior pontuação obtida nas notas das dimensões 5 e 7, nesta ordem, até 
+que se configure o desempate. 
+12.1.8. 
+O resultado preliminar da seleção da Fase I será divulgado na forma do 
+item 11. 
+12.1.9. 
+A Fase I é classificatória e passível de interposição de recursos 
+administrativos, conforme item 12, uma vez que a nota da Fase I compõe 
+a Nota Final da seleção. 
+12.1.10. O resultado homologado segue as disposições do item 13. 
+12.1.11. Serão classificadas até 20 (vinte) propostas para participação nas 
+atividades de capacitação. 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+9 
+ 
+ FASE II: DA SELEÇÃO PARA SUBVENÇÃO ECONÔMICA 
+12.2.1. 
+Poderão submeter propostas à Fase II as 10 (dez) empresas qualificadas 
+com melhor desempenho, conforme item 10.3.2, que participaram das 
+atividades de capacitação prevista na Fase I, observando as orientações 
+constantes do item 8 e formulários do Sigfapes.  
+12.2.2. 
+A proposta deverá ser submetida no Sigfapes acompanhada da planilha 
+de execução orçamentária obedecendo a Resolução CCAF nº 217/2018 
+que estabelece a norma de itens financiáveis e não financiáveis ao que se 
+refere a utilização de recursos financeiros da FAPES e do FUNCITEC e que 
+consta do Anexo V. 
+12.2.3. 
+A avaliação de desempenho das atividades da fase II, para fins de 
+classificação para o recebimento da Subvenção Econômica, será realizada 
+pelo Comitê de Especialistas designado e considerará as seguintes 
+dimensões: 
+ 
+ORDEM 
+DIMENSÕES DA AVALIAÇÃO DE DESEMPENHO DAS ATIVIDADES 
+PESO 
+NOTA 0 A 10 
+1 
+Assiduidade da equipe participante 
+Evidência: fichas de participação preenchidas 
+2 
+ 
+2 
+Defesa do projeto no Pitch 
+Evidência: notas atribuídas pelos participantes da banca do Pitch 
+3 
+ 
+3 
+Evolução do projeto apresentado até o momento da defesa no 
+Pitch 
+Evidência: Produto Mínimo Viável (MVP) 
+3 
+ 
+4 
+Exponencialidade do negócio 
+Evidência: estudo de escala realizado pela empresa 
+2 
+ 
+5 
+Grau de inovação da nova solução em prototipação 
+Evidência: comparação com o mercado (o quanto a solução 
+desenvolvida se distancia das soluções de mercado) 
+2 
+ 
+6 
+Possibilidade de ampliação de participação no mercado 
+Evidência: pesquisa de mercado realizada pela empresa 
+2 
+ 
+ 
+12.2.4. 
+Todas as dimensões acima serão pontuadas de 0 a 10. 
+12.2.5. 
+A nota final da fase II será o somatório das notas das dimensões do item 
+10.2, observando-se os respectivos pesos. Fórmula de cálculo 
+(𝑁𝑜𝑡𝑎 𝐹𝑖𝑛𝑎𝑙 = (
+∑
+(𝑃𝑒𝑠𝑜𝑛 𝑥 𝑁𝑜𝑡𝑎𝑛)
+6
+𝑛=1
+140
+) 𝑥 100). 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+10 
+ 
+12.2.6. 
+A nota zero em quaisquer dos critérios de desempenho citados no item 
+10.2 acarretará desclassificação automática. 
+12.2.7. 
+Será elaborada a lista das propostas classificadas, em ordem decrescente 
+da Nota Final.  
+12.2.8. 
+Em caso de propostas com a mesma pontuação total, o desempate será 
+definido com base na maior pontuação obtida nas notas das dimensões 2 
+e 3, nesta ordem, até que se configure o desempate. 
+12.2.9. 
+A Diretoria de Inovação encaminhará a lista de propostas inabilitadas, 
+classificadas, desclassificadas e suplentes em ordem decrescente, com a 
+respectiva planilha orçamentária revisada para apreciação da Diretoria 
+Executiva da FAPES.  
+12.2.10. A distribuição dos recursos obedecerá a demanda qualificada, 
+respeitando a ordem de classificação das propostas. 
+ 
+13. DIVULGAÇÃO DOS RESULTADOS 
+ Em cada fase de avaliação será elaborada a lista das propostas classificadas, em 
+ordem decrescente da nota obtida.  
+ A Diretoria de Inovação encaminhará a lista de propostas inabilitadas, classificadas, 
+desclassificadas e suplentes em ordem decrescente, com a respectiva planilha 
+orçamentária revisada para apreciação da Diretoria Executiva da FAPES, no caso da 
+Fase II.  
+ Caberá à DIREX a avaliação do orçamento dos projetos de fomento submetidos na 
+Fase II, com eliminação dos itens não financiáveis e reclassificação de itens 
+financiáveis, caso necessário. 
+ A relação das propostas selecionadas, a cada fase, será disponibilizada no site da 
+FAPES (www.fapes.es.gov.br), nos prazos previstos conforme o item 6 
+(Cronograma) do Edital.  
+ Será publicado no Diário Oficial do Estado do Espírito Santo e em jornal de grande 
+circulação do estado do Espírito Santo o aviso de publicação do resultado da 
+seleção das fases I e II. 
+13.5.1. 
+Os proponentes serão comunicados via SigFapes quando da divulgação 
+dos resultados. 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+11 
+ 
+13.5.2. 
+É de responsabilidade do proponente manter seus dados cadastrais 
+atualizados no SigFapes, uma vez que toda a comunicação formal será 
+feita pelas informações fornecidas no sistema.  
+ O resultado da seleção estará disponível na íntegra na página eletrônica da FAPES 
+(www.fapes.es.gov.br/Editais/Resultados). 
+13.6.1. 
+O resultado preliminar da seleção poderá ser contestado em recurso 
+administrativo, observando-se o item 12 do presente edital.  
+ O resultado preliminar divulgado poderá ser alterado após análise dos recursos 
+administrativos. 
+14. RECURSOS ADMINISTRATIVOS 
+ Os proponentes poderão solicitar à FAPES o parecer com as justificativas 
+apresentadas pelos avaliadores em até 5 (cinco) dias após a divulgação dos 
+resultados de cada uma das duas fases de seleção do Edital. 
+ Caso o proponente tenha justificativa para contestar o resultado preliminar do 
+julgamento das propostas nas duas fases, poderá apresentar recurso 
+administrativo em até 5 (cinco) dias úteis, contados do dia subsequente à data de 
+publicação do aviso de divulgação do resultado.  
+14.2.1. 
+Os recursos contestando os resultados divulgados nas fases I e II deverão 
+ser apresentados de forma escrita e dirigidos ao Conselho Científico-
+Administrativo da FAPES (CCAF) em até cinco (05) dias úteis após a 
+publicação do respectivo resultado. 
+14.2.2. 
+Os recursos administrativos deverão obedecer às disposições e prazos 
+estabelecidos na Resolução FAPES nº 215/2018 e suas alterações, 
+disponível 
+na 
+página 
+eletrônica 
+da 
+FAPES 
+(https://fapes.es.gov.br/resolucoes). 
+14.2.3. 
+Não será considerado como recurso o pedido de reconsideração de 
+julgamento com alterações no conteúdo da proposta inicial: metodologia, 
+justificativa, objetivos, relevância, revisão de literatura e outros itens 
+relacionados, ou de avaliações curriculares posteriores à data de 
+julgamento da solicitação original. 
+14.2.4. 
+Não caberá na etapa de interposição de recursos administrativos a 
+apresentação ou a correção de documentos exigidos para a submissão da 
+proposta. 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+12 
+ 
+ Caberá ao CCAF, a análise, julgamento e deliberação quanto aos recursos 
+administrativos interpostos, em até 15 (quinze) dias após o encerramento do prazo 
+de submissão dos recursos. 
+ Os proponentes serão comunicados, via SIGFAPES, da divulgação do resultado do 
+julgamento dos recursos interpostos.  
+15. HOMOLOGAÇÃO E DIVULGAÇÃO DO RESULTADO FINAL DA SELEÇÃO DOS PROJETOS 
+ A homologação do resultado final de cada fase caberá ao CCAF. 
+ O aviso da divulgação da homologação do resultado final da seleção será publicado 
+no Diário Oficial do Estado e em jornal de grande circulação do estado do Espírito 
+Santo. 
+15.2.1. 
+Os proponentes serão comunicados, via SIGFAPES, da divulgação do 
+resultado. 
+ O resultado final das duas fases de seleção será homologado pelo CCAF com a lista 
+das propostas aprovadas, em ordem decrescente, assim como as propostas 
+inabilitadas e desclassificadas e a lista de suplentes, estará disponível na íntegra na 
+página eletrônica da FAPES (www.fapes.es.gov.br/Editais/Resultados).  
+15.3.1. 
+Junto ao resultado final da seleção homologado, será publicado o 
+cronograma de entrega da documentação e demais orientações 
+necessárias para contratação do projeto. 
+16. RECURSOS FINANCEIROS  
+ Os recursos financeiros disponíveis para a subvenção econômica das empresas que 
+alcançarem os melhores resultados, conforme os critérios de avaliação final de 
+projeto elencados no item 10.3.2 são de R$ 500.000,00 (quinhentos mil reais), 
+oriundos do Fundo Estadual de Ciência e Tecnologia do Espírito Santo – FUNCITEC 
+/ Mobilização Capixaba pela Inovação - MCI. 
+ Os projetos das empresas subvencionadas deverão respeitar o valor máximo de 
+recurso disponibilizado por projeto, bem como a contrapartida a ser aportada pela 
+empresa, conforme quadro abaixo: 
+ 
+VALOR MÁXIMO DA PROPOSTA (R$) 
+% DE CONTRAPARTIDA 
+100.000,00 
+10% 
+ 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+13 
+ 
+ O valor aprovado por projeto será liberado em duas parcelas, de acordo com a 
+disponibilidade orçamentária e financeira da FAPES. 
+ A empresa subvencionada obrigatoriamente deverá aportar recursos a título de 
+contrapartida financeira, em conta bancária específica, de 10% (dez por cento) do 
+valor contratado. 
+17. PROCEDIMENTOS PARA CONTRATAÇÃO DOS PROJETOS 
+ A concessão de recursos financeiros não reembolsáveis da FAPES será efetivada por 
+meio da celebração do Termo de Outorga de Subvenção Econômica (Anexo VI deste 
+Edital).  
+ Para contratação dos projetos aprovados, na forma de subvenção econômica, a 
+Empresa Beneficiária deverá apresentar a seguinte documentação nos prazos 
+estabelecidos:  
+a) 
+Inscrição no Cadastro Nacional de Pessoa Jurídica – CNPJ na Receita Federal 
+do Brasil, com indicação do nome e do endereço da empresa atualizada; 
+b) 
+Cópia do Contrato Social registrado na Junta Comercial do Estado do Espírito 
+Santo; 
+c) 
+Certidão Conjunta Negativa de Débitos relativa aos Tributos Federais e à Dívida 
+Ativa da União na Receita Federal do Brasil; 
+d) 
+Certidão Negativa de Débito junto à Fazenda Estadual; 
+e) 
+Certidão Negativa de Débito junto à Fazenda Municipal; 
+f) 
+Certidão Negativa junto à Justiça Trabalhista; 
+g) 
+Certificado de Regularidade do Fundo de Garantia do Tempo de Serviço – CRF-
+FGTS na Caixa Econômica Federal – CEF; 
+h) 
+Cópias do CPF e RG do responsável legal da empresa; 
+i) 
+Comprovante de residência do responsável legal da empresa; 
+j) 
+Declaração ou Extrato da conta corrente com nome personalizado e fornecido 
+pelo BANESTES com as seguintes informações: conta aberta específica para o 
+projeto de fomento, nome e CNPJ da Empresa, nº da conta corrente, 
+código/prefixo da agência bancária e nome do Edital.  
+ A ausência de qualquer documento exigido ou a inadimplência da Empresa 
+Beneficiária com a Administração Pública Municipal, Estadual e Federal, direta ou 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+14 
+ 
+indireta, constituirão fator impeditivo para a contratação do projeto de fomento. 
+Assim, a referida empresa deverá estar atualizada e regularizada com as Certidões 
+Negativas de Débito e prestações de contas de quaisquer órgãos da Administração 
+Pública. 
+18. LIBERAÇÃO DOS RECURSOS FINANCEIROS 
+ Os recursos financeiros aprovados para execução do projeto serão repassados, 
+após a assinatura do Termo de Outorga de Subvenção Econômica pelas partes, e 
+posteriormente à publicação do seu extrato no Diário Oficial do Estado do Espírito 
+Santo. 
+ Os recursos financeiros aprovados para execução do projeto serão repassados pela 
+Fapes, em 02 (duas) parcelas, para a conta corrente do Banco do Estado do Espírito 
+Santo - BANESTES, aberta pela Empresa Beneficiária. 
+18.2.1. 
+A primeira parcela será liberada após a assinatura e publicação do Termo 
+de Outorga de Subvenção Econômica e comprovação do aporte da 
+contrapartida financeira, conforme item 14.2; 
+18.2.2. 
+A segunda parcela será liberada a partir do 6º (sexto) mês de execução do 
+projeto, após a apresentação da prestação de contas técnica e financeira 
+do projeto. 
+ Constitui fator impeditivo à liberação das parcelas, a qualquer tempo, a existência 
+de inadimplência, de natureza financeira ou técnica, da Empresa Beneficiária com 
+a Fapes e com as esferas municipal, estadual e federal, com Justiça Trabalhista e 
+FGTS. 
+19. ACOMPANHAMENTO E AVALIAÇÃO 
+ Das atividades de capacitação 
+19.1.1. 
+Comporão o acompanhamento das atividades de capacitação o controle 
+da assiduidade nas atividades propostas, bem como o alcance dos 
+objetivos propostos no projeto. 
+19.1.2. 
+A avaliação do desenvolvimento do projeto, bem como os resultados 
+alcançados será realizada mediante dos critérios definidos no item 10.3.2. 
+19.1.3. 
+Após as atividades de capacitação, a Fapes poderá realizar um Evento de 
+Apresentação dos Resultados. 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+15 
+ 
+19.1.4. 
+As empresas e seus participantes receberão certificado de participação 
+das atividades. 
+ Do projeto subvencionado: 
+19.2.1. 
+As Prestações de Contas Parciais e Final serão compostas pelo Relatório 
+Técnico e Financeiro do projeto, e deverá ser apresentada à FAPES, da 
+seguinte forma: 
+a) 
+A prestação de contas parcial deverá ser apresentada à FAPES no 
+prazo de até 30 (trinta) dias após o 6º (sexto) mês de vigência do 
+Termo de Outorga, e assim sucessivamente. 
+b) 
+A prestação de contas final corresponderá aos últimos meses do 
+projeto deverá ser apresentada em até 30 (trinta) dias, após o prazo 
+de vigência do termo de outorga. 
+19.2.1.1.  Os Relatórios deverão ser apresentados em formulários 
+específicos da FAPES, acompanhados dos documentos 
+pertinentes, por meio do SIGFAPES e de forma impressa, em 
+conformidade com o Manual de Utilização de Recursos 
+Financeiros e Prestação de Contas da FAPES e do FUNCITEC, em 
+até 30 (trinta) dias após o período de competência. 
+19.2.2. 
+Após a conclusão de todos os projetos aprovados no presente Edital, a 
+Fapes poderá realizar um Evento de Apresentação dos Resultados. 
+19.2.3. 
+Alterações relativas à execução do projeto deverão ser solicitadas pela 
+empresa à Fapes, pelo Sistema Sigfapes, sujeitas a autorização da 
+Diretoria Executiva da Fapes. 
+19.2.4. 
+O relatório técnico do projeto será submetido à análise da Câmara de 
+Assessoramento de Inovação da Fapes ou Consultor Ad Hoc. 
+20. SUBSTITUIÇÃO DO COORDENADOR DO PROJETO 
+ Poderá ser permitida a troca de coordenador de projeto, desde que a solicitação 
+seja devidamente justificada pela Empresa Beneficiária, por meio de ofício 
+assinado pelo representante legal da empresa, e mediante autorização pela FAPES. 
+ Para coordenar o projeto em execução, o substituto deverá atender às seguintes 
+condições: 
+a) ser membro da equipe do projeto; 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+16 
+ 
+b) possuir vínculo com a Empresa Beneficiária; 
+c) atender aos demais requisitos estabelecidos no Edital. 
+ Se a substituição for aprovada pela FAPES, o novo coordenador deverá manter o 
+cumprimento às obrigações estabelecidas no Edital. 
+ Se a substituição não for aprovada, a Empresa Beneficiária poderá solicitar o 
+cancelamento do projeto. 
+21. CANCELAMENTO DO PROJETO 
+ O projeto financiado pela FAPES poderá ser cancelado nos casos de: 
+a) pedido da Empresa Beneficiária, devidamente justificado; 
+b) descumprimento das obrigações estabelecidas no Edital. 
+ Nos casos previstos no item 22.1 alínea “a” a empresa deverá apresentar a 
+prestação de contas final. 
+21.2.1. 
+Os recursos repassados e não utilizados deverão ser integralmente 
+devolvidos à FAPES conforme estabelecido no Manual de Utilização de 
+Recursos Financeiros e Prestação de Contas da FAPES/FUNCITEC. 
+ No caso de não aprovação ou não apresentação da prestação de contas, a empresa 
+deverá restituir à FAPES os recursos pagos em seu proveito, de acordo com o 
+Manual de Utilização de Recursos Financeiros e Prestação de Contas da 
+FAPES/FUNCITEC. 
+22. DAS OBRIGAÇÕES DAS PARTES 
+ Da empresa participante da capacitação: 
+22.1.1. 
+Proporcionar que os membros da equipe participante estejam presentes 
+durante as atividades de capacitação propostas. 
+22.1.2. 
+Realizar as atividades propostas utilizando-se das metodologias 
+apresentadas.  
+22.1.3. 
+Participar das atividades que forem realizadas com objetivo de formação 
+ou apresentação dos resultados dos projetos desenvolvidos e/ou 
+aprimorados a partir deste Edital. 
+ Da empresa subvencionada: 
+a) cumprir integralmente todas as atividades previstas no Plano de Trabalho 
+durante a vigência do projeto; 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+17 
+ 
+b) elaborar os relatórios nos prazos estabelecidos; 
+c) comprovar o aporte da contrapartida financeira previsto no item 15.2; 
+d) devolver à Fapes eventuais valores pagos indevidamente; 
+e) fazer referência, obrigatória, ao apoio prestado pela Fapes nas formas de 
+divulgação de atividades que resultem, total ou parcialmente, do apoio 
+financeiro concedido pela Fapes, exceto quando proibido por lei em decorrência 
+de período eleitoral; 
+f) participar de seminários específicos realizados pela Fapes para apresentação de 
+resultados parciais ou finais, sempre que convocado; 
+g) manter-se adimplente junto à Fapes; 
+h) manter-se adimplente junto às Fazendas Federal, Estadual e Municipal e à 
+Justiça Trabalhista. 
+ Da Fapes: 
+a) acompanhar as atividades de capacitação previstas; 
+b) liberar os recursos na forma aprovada; e 
+c) acompanhar a execução da proposta na forma aprovada. 
+23. PROPRIEDADE INTELECTUAL 
+ Caberá à instituição executora do projeto e demais parceiros, conforme suas 
+normativas internas e observância da legislação competente (Lei Federal nº 
+10.973/2004, regulamentada pelo Decreto nº 5.563/2005 e Lei Complementar 
+Estadual nº 642/2012, observando-se a Resolução/CCAF nº 92/2013 e as demais 
+disposições legais vigentes), definir a titularidade ou cotitularidade sobre criações 
+intelectuais decorrentes de resultados do projeto financiado pela Fapes, bem como 
+os procedimentos administrativos referentes ao depósito ou registro de pedido de 
+proteção intelectual e os encargos periódicos de manutenção do mesmo.  
+23.1.1. 
+A Fapes deverá ser notificada quando os resultados ensejarem registro no 
+Instituto Nacional de Propriedade Intelectual – INPI ou em outro órgão 
+competente para a proteção da propriedade intelectual.  
+23.1.2. 
+Os resultados econômicos auferidos na exploração comercial da criação 
+protegida, inclusive na hipótese de transferência do direito de exploração 
+a terceiros, serão partilhados com a Fapes, prevendo-se para tanto um 
+percentual de 0,1% (zero vírgula um por cento), por meio de Contrato a 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+18 
+ 
+ser celebrado com as instituições executoras de projetos nas quais as 
+patentes ou similares foram desenvolvidas.  
+24. DISPOSIÇÕES GERAIS E FINAIS 
+ Toda correspondência emitida, por qualquer das partes envolvidas, relativas às 
+propostas e os seus respectivos processos deverá, obrigatoriamente, mencionar o 
+número de processo e do Termo de Contrato de Concessão de Subvenção 
+Econômica. 
+ Esclarecimentos e informações adicionais acerca do conteúdo deste Edital podem 
+ser obtidos encaminhando mensagem para o endereço geinov@fapes.es.gov.br. 
+ A qualquer tempo o presente Edital poderá ser revogado ou anulado, no todo ou 
+em parte, seja por decisão unilateral da Fapes, seja por motivo de interesse público 
+ou exigência legal, sem que isso implique direito à indenização ou reclamação de 
+qualquer natureza. 
+ Decairá do direito de impugnar os termos deste Edital aquele que, tendo-o aceito 
+sem objeção, venha a apontar, posteriormente, eventuais falhas ou imperfeições, 
+hipótese em que sua comunicação não terá efeito de recurso.  
+ Os casos omissos serão resolvidos pela Diretoria Executiva da Fapes. 
+ 
+Vitória, 21 de novembro de 2019. 
+ 
+Denio Rebello Arantes 
+Diretor Presidente da Fapes 
+ 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+19 
+ 
+Anexo I 
+SUBMISSÃO DE PROPOSTA 
+ 
+I. IDENTIFICAÇÕES 
+NOME DO PROPONENTE 
+E-MAIL DO PROPONENTE 
+TELEFONE 
+INSTITUIÇÃO DA ÚLTIMA FORMAÇÃO 
+CURSO REALIZADO 
+NOME DA EMPRESA 
+SITE DA EMPRESA 
+TELEFONE 
+DATA DA CONSTITUIÇÃO 
+CNPJ 
+PRINCIPAIS CNAEs 
+ENDEREÇO 
+ 
+II. PROJETO 
+TÍTULO DO PROJETO: 
+TIPO DE SEGMENTO INDUSTRIAL EM QUE ATUA: 
+QUANTO TEMPO ATUA COM SOFTWARE DE ERP INDUSTRIAL 
+100 caracteres 
+OBJETIVO GERAL DO PROJETO: 
+500 caracteres 
+OPORTUNIDADE/DESAFIO: 
+1000 caracteres 
+SOLUÇÃO PROPOSTA: 
+1000 caracteres 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+20 
+ 
+DIFERENCIAL INOVADOR: 
+100 caracteres 
+ 
+III. PRODUTO 
+DESCREVA O PRODUTO APRESENTADO NO PROJETO: 
+1000 caracteres 
+ASSINALE A TECNOLOGIA (OU TECNOLOGIAS) QUE PRETENDE UTILIZAR NO PROJETO: 
+(     ) Big Data 
+(     ) Blockchain 
+(     ) Deep Learning 
+(     ) Inteligência Artificial 
+(     ) Machine Learning 
+(     ) Sistemas Simuladores 
+(    ) IoT (Internet das Coisas) 
+(     ) Outras. Especificar: _______________________________________________________ 
+ESTÁGIO DE CONHECIMENTO/EXPERIÊNCIA DA TECNOLOGIA PRETENDIDA: 
+1000 caracteres 
+ESTÁGIO DE DESENVOLVIMENTO DO PRODUTO: 
+1000 caracteres 
+DESCREVA COMO A EMPRESA SERÁ IMPULSIONADA PELAS TECNOLOGIAS HABILITADORAS: 
+1000 caracteres 
+ 
+IV. MERCADO 
+QUAIS OS SEUS PRINCIPAIS CONCORRENTES/COMPETIDORES: 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+21 
+ 
+500 caracteres 
+QUAIS SÃO AS BARREIRAS DE ENTRADA E AS DE SAÍDA JÁ IDENTIFICADAS: 
+1000 caracteres 
+SEGMENTO DE CLIENTES: 
+500 caracteres 
+DIMENSIONE A EXPANSÃO DE MERCADO PRETENDIDA: 
+500 caracteres 
+APRESENTE A ESTRATÉGIA DE ACESSO AO MERCADO: 
+1000 caracteres 
+ 
+V. EQUIPE 
+EQUIPE PARTICIPANTE (limitada a cinco membros): 
+NOME 
+FUNÇÃO 
+GRAU DE INSTRUÇÃO 
+1 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+4 
+ 
+ 
+ 
+5 
+ 
+ 
+ 
+ 
+DEFICIÊNCIAS EXISTENTES NA EQUIPE: 
+500 caracteres 
+COMPETÊNCIAS DIFERENCIAIS DA EQUIPE: 
+500 caracteres 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+22 
+ 
+FRAGILIDADES QUE PODERÃO ENFRENTAR DURANTE O DESENVOLVIMENTO DO PROJETO EM 
+RELAÇÃO À EQUIPE 
+500 caracteres 
+ 
+ 
+VI. GESTÃO e FINANCIAMENTO  
+ESTRATEGIA GERAL DO NEGÓCIO: 
+500 caracteres 
+ESTRATEGIA PARA FINANCIAMENTO DO NOVO PROJETO 
+1000 caracteres 
+ 
+VII. METAS E INDICADORES 
+METAS PROPOSTAS APÓS A CONCLUSÃO DO PROJETO 
+INDICADORES DE RESULTADO PRETENDIDOS APÓS A CONCLUSÃO DO PROJETO 
+ 
+VIII. PARCERIAS 
+INSTITUCIONAIS. QUAIS:  
+ECONÔMICAS. QUAIS:  
+TECNOLÓGICAS. QUAIS:  
+OUTRAS. QUAIS: 
+OBS.: Em caso de parcerias já firmadas, juntar ao arquivo para upload os termos assinados. 
+IX. DO TERMO DE COMPROMISSO E CONCORDÂNCIA  
+Declaro, para fins de direito, conhecer as normas da chamada Fapes n° XX/2019. 
+Local 
+Data 
+Assinatura do Proponente 
+(não é necessário assinar) 
+Orientação: Preencher o formulário. Gerar um arquivo em PDF para submissão no Sistema Sigfapes. Fazer upload como um dos 
+documentos obrigatórios. 
+ 
+ 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+23 
+ 
+Anexo II 
+CRONOGRAMA DAS ATIVIDADES DE CAPACITAÇÃO 
+ 
+ 
+ATIVIDADES 
+MESES 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+Capacitação Inicial - 40h 
+X 
+X 
+ 
+ 
+ 
+ 
+ 
+Desenvolvimento de Protótipos 
+X 
+X 
+X 
+X 
+X 
+X 
+ 
+Mentoria tecnológica - 45h 
+ 
+ 
+X 
+X 
+X 
+ 
+ 
+Elaboração do Pitch 
+X 
+X 
+X 
+X 
+X 
+X 
+ 
+Apresentação e Avaliação do Pitch 
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+ 
+ 
+ 
+ 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+24 
+ 
+Anexo III 
+ 
+ORIENTAÇÕES QUANTO À SUBMISSÃO E PREENCHIMENTO DA PROPOSTA 
+ 
+Em atendimento ao item 10 do edital, a proposta deverá ser submetida à Fapes pelo 
+proponente, através do Sistema de Informação e Gestão da Fapes – Sigfapes. 
+Abaixo seguem as instruções para preenchimento e submissão online da proposta: 
+ 
+Cadastramento/atualização do cadastro online no Sistema SIGFAPES: 
+a)  acessar www.sigfapes.es.gov.br; 
+b)  para todos os usuários (atuais e novos), acesse a plataforma Sigfapes 
+(http://www.sigfapes.es.gov.br/), clique em Não sou cadastrado e realize o cadastro 
+solicitado; 
+c)  na plataforma Sigfapes todos são cadastrados como pesquisadores, portanto, o 
+pesquisador é o proponente ou membro da equipe executora; 
+d)  o pesquisador já cadastrado no Sigfapes DEVERÁ atualizar seus dados; 
+e)  fazer o upload de cópias digitais (no formato .pdf) dos documentos solicitados no 
+edital. A responsabilidade pela integridade e atualização dos dados fornecidos é 
+integralmente do proponente; 
+ 
+Preenchimento da proposta online: 
+a)  o proponente deverá acessar o sistema (http://www.sigfapes.es.gov.br) com login e 
+senha próprios; 
+b)  em “Editais Abertos”, selecionar o edital e criar uma proposta, preenchendo os dados 
+da proposta; 
+c)  fazer download do Formulário Fapes, preencher e gerar uma versão em formato PDF; 
+d)  fazer upload do Formulário Fapes preenchido; 
+e)  submeter a proposta SOMENTE após verificadas e sanadas todas as pendências ou 
+erros; 
+ 
+Observações gerais: 
+a)  As propostas deverão ser submetidas até às 17h59min. da data limite de submissão, 
+prevista no item 5 do edital (Cronograma); 
+b)  O proponente poderá salvar a proposta em edição quantas vezes for necessário e 
+acessá-la novamente a partir do menu “Minhas Propostas/Inscrições em Edição”. 
+Porém, uma vez submetida, a proposta não poderá mais ser editada; 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+25 
+ 
+c)  A Fapes não se responsabilizará por propostas não recebidas em decorrência de 
+eventuais problemas técnicos e/ou congestionamentos das linhas de comunicação; 
+d)  O conteúdo e a integridade da documentação enviada serão de responsabilidade 
+direta e exclusiva do proponente; 
+e)  No caso de cópia de documentos, a Fapes poderá solicitar a apresentação do original 
+para conferência. 
+ 
+ 
+ 
+ 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+26 
+ 
+Anexo IV 
+CONCEITUAÇÃO DAS TECNOLOGIAS HABILITADORAS 
+ 
+ 
+No presente edital serão considerados os seguintes termos e definições: 
+Enterprise resource planning (ERP) é definido como a capacidade de fornecer um conjunto 
+integrado de aplicativos de negócios. As ferramentas de ERP compartilham processos e modelos 
+de dados abrangentes que visam apoiar, de ponta a ponta, os negócios de uma organização. São 
+aplicativos integrados, tais como: gestão de finanças, de RH, de distribuição, fabricação, de 
+serviços e de cadeia de suprimentos. ERPs apoiam não só áreas meio, mas especialmente a área 
+fim da organização (Gartner, 2019) [1]. Para este edital serão considerados ERPs apenas as 
+soluções integradas que apoiem não só as áreas meio, mas especialmente a área fim de um 
+segmento produtivo. 
+Big data: é um termo que descreve o grande volume de dados (SAS, 2019) [2], tanto 
+estruturados quanto não-estruturados, que sobrecarrega as empresas diariamente. Entretanto 
+não é a quantidade de dados disponíveis que importa; é o que as organizações fazem com eles. 
+O big data pode ser analisado para obter insights que levam a decisões melhores e ações 
+estratégicas de negócio. 
+Embora o termo "big data" seja relativamente novo, o ato de coletar e armazenar grandes 
+quantidades de informações para análises eventuais é muito antigo. O conceito ganhou força 
+no começo dos anos 2000, quando o analista Doug Laney articulou a definição atualmente 
+mainstream de big data em três Vs: 
+• 
+Volume. Organizações coletam dados de fontes variadas, incluindo transações 
+financeiras, mídias sociais e informações de sensores ou dados transmitidos de máquina 
+para máquina. No passado, armazená-los teria sido um problema — mas novas 
+tecnologias (como o Hadoop) aliviaram esse fardo. 
+• 
+Velocidade. Os dados são transmitidos numa velocidade sem precedentes e devem ser 
+tratados em tempo hábil. Etiquetas RFID, sensores e medições inteligentes estão 
+impulsionando a necessidade de lidar com torrentes de dados praticamente em tempo 
+real. 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+27 
+ 
+• 
+Variedade. Dados são gerados em inúmeros formatos — desde estruturados 
+(numéricos, em databases tradicionais) a não-estruturados (documentos de texto, e-
+mail, vídeo, áudio, cotações da bolsa e transações financeiras). 
+Existem ainda autores que consideram duas outras dimensões: 
+• 
+Variabilidade. Além da crescente velocidade e variedade dos dados, seus fluxos podem 
+ser altamente inconsistentes com picos periódicos. Qual a última tendência nas redes 
+sociais? Todos os dias, picos de dados sazonais ou gerados por eventos particulares 
+podem ser difíceis de gerenciar, ainda mais com dados não-estruturados. 
+• 
+Complexidade. Os dados de hoje vêm de múltiplas fontes, o que torna difícil ligá-los, 
+combiná-los, limpá-los e transformá-los entre sistemas. No entanto, é necessário 
+conectar e correlacionar relações, hierarquias e ligações múltiplas, ou você pode 
+rapidamente perder o controle sobre seus dados. 
+ 
+Inteligência Artificial 
+ 
+A Figura 1 apresenta as divisões conceituais da Inteligência Artificial. 
+ 
+ 
+Figura 1: Estrutura conceitual da Inteligência Artificial (IA). 
+ 
+Machine Learning (ML): É um método onde o objetivo a ser atingido pela máquina será 
+alcançado através de algum processo de aprendizado. Por exemplo, treinamento (ganho 
+de experiência). Um exemplo é identificar um simples objeto como uma maçã ou uma laranja. 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+28 
+ 
+Natural Language Processing (NLP): geralmente definida como a manipulação automatizada da 
+linguagem humana, por exemplo: discurso e texto. Um dos mais conhecidos exemplos é a 
+sugestão de textos na composição de e-mails. 
+Vision (machine vision): Pode ser considerado o campo tecnológico que permite às máquinas 
+enxergar. Machine vision captura e analisa informações visuais, usando câmeras e técnicas de 
+processamento de sinais. Busca as habilidades da visão humana. 
+BlockChain: é a tecnologia de registros distribuídos (tecnicamente conhecida como Distributed 
+Ledger Tecnology- DLT) [3] que permite a criação de bases de dados distribuídas, com garantia 
+de veracidade e sincronismo de suas alterações. É a tecnologia de suporte à cripto moedas, 
+como o BITCOIN. 
+Internet das Coisas(IoT): é o conjunto de tecnologias que permite a objetos das mais diversas 
+naturezas, transmitir informações via Internet. É eventualmente referenciada como Internet de 
+Todas a Coisas. Neste conjunto de tecnologias estão os dispositivos embarcados de baixo 
+consumo, os sistemas de transmissão sem fio, os protocolos de comunicação de baixo consumo 
+de energia e os middleware systems de coleta e armazenamento de informações. 
+ 
+ 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+29 
+ 
+Anexo V 
+ITENS FINANCIÁVEIS E NÃO FINANCIÁVEIS 
+ 
+1) ITENS FINANCIÁVEIS  
+Os seguintes itens são financiáveis e devem ser exclusivos para a Fase II do desenvolvimento do 
+projeto contratado: 
+a) As despesas de capital são aquelas que geram ganho de patrimônio, ou seja, 
+equipamentos e material permanente, livros e software, desde que tenham vida útil 
+superior a dois anos e com valor superior a 80 (oitenta) VRTE’s - Valor de Referência do 
+Tesouro do Estado. 
+b) As despesas de custeio são aquelas necessárias à execução e manutenção do projeto, e 
+que com o uso, manuseio e/ou estocagem, esgotam-se ou perdem a identidade física 
+em razão de suas características de mutabilidade, perecimento e fragilidade. 
+i) 
+Equipamento, material permanente, livro ou software com o valor inferior a 80 
+(oitenta) VRTE’s serão classificados como material de consumo. 
+c) Os bens de capital, caso necessários, deverão ser adquiridos com recursos da 
+contrapartida da empresa 
+d) São consideradas Despesas de Custeio, e, portanto, financiáveis, as seguintes rubricas: 
+i) 
+Material de Consumo: 
+(1) material de laboratório em geral; 
+(2) material de informática; 
+(3) material para áudio, vídeo e foto; 
+(4) material de papelaria e escritório; 
+(5) material de irrigação; 
+(6) insumos agrícolas; 
+(7) material elétrico, eletrônico, hidráulico; 
+(8) material educativo e esportivo; 
+(9) material de caça e pesca; 
+(10) ferramentas em geral; 
+(11) peças de reposição; 
+(12) material bibliográfico; 
+(13) animais para estudo e pesquisa; 
+(14) sementes, mudas de plantas; 
+(15) próteses, órteses, etc; 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+30 
+ 
+(16) combustíveis e lubrificantes: quando seu uso for para o objeto do projeto ou 
+para abastecimento de veículo locado, ou oficial devidamente autorizado e, 
+quando o projeto envolva projeto de campo ou em caso específico previsto em 
+edital. 
+ 
+ii) Serviços de Terceiros corresponde à prestação de serviços executada por pessoa 
+jurídica ou física. 
+(1)  Serviços de Terceiros Pessoa Física – contratação de pessoa física para executar 
+atividades relacionadas e essenciais ao desenvolvimento do projeto e somente 
+nos casos de serviços artesanais, braçais ou especializada em que o fator 
+principal é a qualificação de quem executa o serviço.  
+(2)  Serviços de Terceiros Pessoa jurídica - é aquela despesa decorrente de 
+prestação de serviço executada por empresas para execução de atividades 
+exclusivas do projeto, neste edital, limitados a 50% (cinquenta por cento) do 
+valor total do projeto aprovado. 
+(a) São consideradas despesas neste item, dentre outras: 
+(i) 
+impressão e encadernação: reprodução de documentos, confecção 
+de formulários de coleta de dados para projetos que demandem 
+pesquisa de campo folder e programas, impressão de banners; 
+outros itens listados em editais específicos; 
+(ii) 
+serviços de informática: desenvolvimento de softwares e hardware; 
+(iii) 
+pagamento de serviços técnicos e especializados: prestação de 
+serviços técnicos realizado por mão de obra especializada e 
+executado por empresas; 
+(iv) 
+Serviços de consultoria: atividade de natureza técnico-científica e 
+executada por pessoa jurídica, condizente com as características da 
+modalidade de apoio concedida, neste edital, limitado a 30% (trinta 
+por cento) do valor destinado a serviços de terceiros; 
+(v) 
+serviços de levantamento bibliográfico: em bancos de dados e de 
+fornecimento de cópias de documentos até o limite de 5% (cinco por 
+cento) do valor total do auxílio concedido (Selos COMUT, ISI e artigos 
+científicos); 
+(vi) 
+despesas acessórias de importação ou transporte: para cobrir 
+despesas adicionais, como fretes, embalagens, desembaraços 
+alfandegários, seguros, armazenamento, serviços de despachante e 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+31 
+ 
+outros, necessárias à efetiva aquisição de materiais no país ou 
+exterior; 
+(vii) despesas com patenteamento: resultante de pesquisas e projetos 
+financiados pela Fapes/Funcitec; 
+(viii) locação de máquinas e equipamentos: despesa com aluguel ou 
+arrendamento de máquinas e equipamentos, mediante contrato; 
+(ix) 
+manutenção ou reparo de equipamentos: serviços de conservação, 
+reparo e/ou aquisição de peças de reposição de equipamentos e 
+instrumentos utilizados em projetos, desde que devidamente 
+justificados 
+e 
+mediante 
+a 
+apresentação 
+do 
+orçamento 
+correspondente; 
+(x) 
+frete e transportes de encomendas: transporte de mercadoria e 
+produtos diversos; 
+(xi) 
+seguro-saúde: para beneficiários de auxílios e bolsas, cuja execução 
+será realizada no exterior; 
+(xii) 
+taxa de inscrição em eventos técnico-científicos: para eventos 
+nacionais ou internacionais, mediante apresentação de trabalho no 
+formato pôster ou oral, resultante de projeto financiado pela 
+Fapes/Funcitec; 
+(xiii) despesas com tradução: para tradução de documentos técnico-
+científicos, resultante de projeto financiado pela Fapes/Funcitec; 
+(xiv) publicação de artigo científico: refere- se a despesa com publicação 
+de artigos científicos em revista ou periódico, resultantes de projetos 
+financiado pela Fapes/Funcitec; 
+(xv) 
+capacitação e treinamento da equipe envolvida no projeto em cursos  
+(xvi) reconhecidamente necessários ao desenvolvimento do projeto por 
+seu caráter de inovação, a ser solicitado e aprovado pela Fapes; 
+(xvii) hospedagem: hospedagem de membros da equipe do projeto, paga 
+diretamente ao estabelecimento hoteleiro; 
+(xviii) considerando a necessidade das empresas com propostas 
+submetidas na modalidade II, incluem-se, como financiáveis, as 
+despesas de incubação da empresa em incubadora declarada no ato 
+da proposta; 
+(xix) incluem-se como serviços de terceiros, pessoa jurídica, pagamento 
+de inscrições em eventos técnicos, de acesso ao mercado, eventos 
+com investidores ou rodadas de negócios. 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+32 
+ 
+(b) As despesas com Serviços de Terceiros Pessoa jurídica deverão ser limitadas 
+a 30% do valor da proposta apresentada. 
+(3) Despesa de locomoção é aquela destinada a cobrir custas com deslocamentos 
+da equipe do projeto: 
+(a) passagens: nacionais ou internacionais, para membros da equipe do 
+projeto, para desenvolver atividade relacionada ao objeto do projeto, 
+exceto no caso de organização de eventos; 
+(b) locação de veículos automotivos: despesa com aluguel de veículos para 
+execução de atividades exclusivas do projeto; 
+(c) vale transporte: tarifas de transporte urbano; 
+(d) serviço de transporte de passageiros: despesa com contratação de serviços 
+de transporte para execução de atividades exclusivas do projeto. 
+(4) Diária é a despesa destinada a cobrir custas com alimentação, hospedagem e 
+locomoção decorrentes de afastamento da sede, em caráter eventual, para 
+outro ponto do estado, do país ou do exterior, pelo período máximo de 15 dias 
+consecutivos/por viagem, limitada a 15 (quinze) diárias por mês, de acordo com 
+o Decreto Estadual, disponível na página da Fapes. 
+(a) 8.3.4.1. Diárias nacionais - Coordenador do Projeto ou demais membros da 
+equipe para cumprimento exclusivo de metas do projeto e devidamente 
+justificadas.  
+(b) 8.3.4.2. É vedado o pagamento de serviços de terceiros para hospedagem 
+de membros do projeto que recebam diárias e vice-versa. 
+(c) 8.3.4.3. É vedada a utilização de diárias entre os Municípios da Região 
+Metropolitana da Grande Vitória. 
+2) DESPESAS NÃO FINANCIÁVEIS COM RECURSOS FINANCEIROS DA SUBVENÇÃO 
+a) Despesas de Capital. 
+b) Dos bens de custeio: 
+i) 
+Material de consumo: 
+(1) Material de limpeza e higiene; 
+(2) Medicamentos e materiais de primeiros socorros, exceto quando seu uso for 
+para o objeto do projeto; 
+(3) Uniformes, Camisas, calçados, tecidos e aviamentos, exceto roupas ou trajes 
+indispensáveis ao projeto ou casos específicos previstos em edital; 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+33 
+ 
+(4) Fornecimento de Alimentação: despesas com aquisição de refeições 
+preparadas, inclusive lanches e similares. 
+ii) Serviço de Terceiros – Pessoa Física 
+(1) Salários/encargos e/ou estagiários. 
+iii) Serviços de Terceiros Pessoa Jurídica 
+(1) Festividades e homenagens: qualquer despesa com refeições, lanches 
+preparados por terceiros, coffee-break, vale-refeição, coquetéis, recepções e 
+outras; 
+(2) Serviços de telecomunicação: pagamento de tarifas relativas à utilização de 
+serviços telecomunicação, exceto se for o objeto do projeto; 
+(3) Serviços de apoio administrativo: contratação de empresa para prestação de 
+serviços de apoio administrativo; 
+(4) Serviços de seleção e treinamento (cursos e atividades de extensão 
+tecnológica): são despesas com prestação de serviços nas áreas de instrução e 
+orientação profissional, recrutamento e seleção de pessoal e treinamento, por 
+Pessoa Física ou Jurídica; 
+(5) Brindes: distribuídos a título de cortesia, propaganda, divulgação habitual ou 
+por ocasião de eventos, Ex.: canetas, camisas, bolsas, chaveiros, etc; 
+(6) Anuidades de cursos e periódicos; 
+(7) Garantia estendida de equipamento ou material; 
+(8) Obras e instalações: despesas com planejamento e execução de obras de 
+infraestrutura. 
+iv) Multas: Pagamento de qualquer tipo de multa, tarifas ou acréscimo no valor de 
+qualquer produto em decorrência de atraso de pagamento ou alteração de 
+característica, dentre outras. 
+v) Vencimentos e Vantagens Fixas 
+(1) Pró-labore, exceto com a contrapartida da empresa; 
+(2) Gratificação; 
+vi) Obrigações Patronais  
+(1) multa rescisória; 
+(2) indenização trabalhista; 
+(3) hora extra. 
+ 
+ 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+34 
+ 
+Anexo VI 
+TERMO DE OUTORGA DE SUBVENÇÃO ECONÔMICA Nº XX/20XXX 
+EDITAL FAPES Nº XXX/2019 
+ 
+PARTÍCIPES 
+FUNDAÇÃO DE AMPARO À PESQUISA E INOVAÇÃO DO ESPÍRITO SANTO, reorganizada pela Lei 
+Complementar nº 731/2013, adiante designada simplesmente FAPES, com sede na Avenida 
+Fernando Ferrari, nº 1080, Ed. América Centro Empresarial, Torre Norte, 7º andar, Mata da 
+Praia, Vitória/ES, inscrita no CNPJ sob o nº 07.296.722/0001-84, na qualidade de gestora do 
+Fundo Estadual de Ciência e Tecnologia - FUNCITEC, neste ato representada pelo seu Diretor 
+Presidente, Sr. Denio Rebello Arantes, inscrito no CPF sob o nº 146.365.651-34, nomeado pelo 
+Governador do Estado do Espírito Santo, por meio do Decreto nº 819-S, publicado no DIOES de 
+25.02.2019, e por sua Diretora Administrativo‐Financeira, Sra. Lucia Aparecida de Queiroz 
+Araujo, inscrita no CPF sob o nº 035.863.687-63, nomeada pelo Governador do Estado do 
+Espírito Santo, por meio do Decreto nº 278-S; 
+ 
+xxxxxxxxxxxxxxxxxx, adiante designada simplesmente BENEFICIÁRIA DA SUBVENÇÃO, inscrita 
+no CNPJ sob o nº XXXXXXXXXXXXXXXX, situada na XXXXXXXXXXXXXXXXX, representada pelo  
+[CONDIÇÃO JURÍDICA DO REPRESENTANTE], XXXXXXXXXXXXXXXXXX, portador da CI nº 
+XXXXXXXXXX 
+e 
+inscrito 
+no 
+CPF 
+sob 
+o 
+nºXXXXXXXXXXXXX, 
+residente 
+na 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX; 
+ 
+[NOME DO PROPONENTE], portador da CI nº XXXXXXXXXXXXXXX e inscrito no CPF sob o nº 
+XXXXXXXXXXXXXXXX, 
+residente 
+na 
+XXXXXXXXXXXXXXXXXXX, 
+doravante 
+denominado 
+COORDENADOR DO PROJETO. 
+ 
+Resolvem  celebrar  o  presente  Instrumento  que  se  regerá  na forma das cláusulas abaixo e, 
+no que couber, de acordo com a Lei Federal nº 8.666/93 e suas respectivas alterações, bem 
+como com os demais instrumentos normativos pertinentes à matéria, em conformidade com 
+as Resoluções do CCAF nºs 122/2014 (Normas Gerais de Projetos e Auxílios), 169/2017 (Apoio 
+ao Empreendedorismo Inovador),  170/2017 (Boas Práticas Científicas), 215/2018 (Recursos 
+Administrativos), 217/2018 (Itens Financiáveis e Não Financiáveis) e 218/2018 (Manual de 
+Utilização de Recursos Financeiros e Prestação de Contas da FAPES e do FUNCITEC),  e suas 
+alterações, sem prejuízo dos critérios e condições específicos estabelecidos no Edital. 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+35 
+ 
+ 
+CLÁUSULA PRIMEIRA – DO OBJETO: Concessão de subvenção econômica pela FAPES à 
+BENEFICIÁRIA 
+DA 
+SUBVENÇÃO, 
+para 
+a 
+execução 
+do 
+projeto 
+intitulado 
+“xxxxxxxxxxxxxxxxxxxxxxxxxx”, aprovado na forma do Edital FAPES n° XXXX/2019, doravante 
+denominado PROJETO. 
+Parágrafo primeiro – O projeto será desenvolvido sob a integral responsabilidade da 
+BENEFICIÁRIA DA SUBVENÇÃO. 
+Parágrafo segundo – O projeto aprovado conterá a descrição da pesquisa, desenvolvimento 
+tecnológico e inovação a ser executado pela empresa, os resultados a serem atingidos e as 
+metas a serem alcançadas. 
+Parágrafo terceiro - O projeto aprovado pela FAPES integra o presente instrumento, como se 
+nele estivesse transcrito. 
+Parágrafo quarto - O projeto aprovado somente poderá ser modificado segundo os critérios e 
+formas definidos pela FAPES. 
+ 
+CLÁUSULA SEGUNDA – DO VALOR DOS RECURSOS FINANCEIROS: A FAPES se compromete a 
+repassar à BENEFICIÁRIA DA SUBVENÇÃO o valor global aprovado no Edital FAPES nº XXX/2019, 
+conforme cronograma de desembolso: 
+Cronograma de Desembolso FAPES 
+Tipo de Despesa 
+1ª Parcela 
+2ª Parcela 
+Total (R$) 
+Diárias  
+ 
+ 
+Material de Consumo  
+ 
+ 
+Passagens 
+ 
+ 
+ 
+STPF 
+ 
+ 
+ 
+STPJ 
+ 
+ 
+ 
+Total 
+ 
+ 
+ 
+R$  - (Reais) 
+ 
+Cronograma de Desembolso Empresa 
+Tipo de Despesa 
+1ª Parcela 
+2ª Parcela 
+Total (R$) 
+Contrapartida   
+ 
+ 
+Total 
+ 
+ 
+ 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+36 
+ 
+ 
+CLÁUSULA TERCEIRA – DA ORIGEM DOS RECURSOS / DOTAÇÃO ORÇAMENTÁRIA: Os recursos 
+financeiros destinados à execução deste Instrumento são provenientes do Fundo Estadual de 
+Ciência e Tecnologia – FUNCITEC, Fonte: 0159, atividade: 195720017.2225, Elemento de 
+Despesa: 339045. 
+ 
+CLÁUSULA QUARTA – DA LIBERAÇÃO DOS RECURSOS FINANCEIROS: A FAPES se compromete a 
+repassar a BENEFICIÁRIA DA SUBVENÇÃO o valor global aprovado, em até 02 (duas) parcelas, 
+conforme previsto no cronograma de desembolso, observando-se o seguinte: 
+I - A primeira parcela do recurso será liberada após a assinatura deste Instrumento e publicação 
+do seu extrato no Diário Oficial do Estado do Espírito Santo, em até 5 (cinco) dias úteis da 
+abertura da conta bancária; 
+II - O pagamento da segunda parcela ficará condicionado à apresentação da primeira Prestação 
+de Contas, e ao comprometimento/gasto de pelo menos 60% (sessenta por cento) dos recursos 
+financeiros recebidos. 
+Parágrafo primeiro - A utilização dos recursos pela BENEFICIÁRIA DA SUBVENÇÃO se dará de 
+acordo com o projeto aprovado, devendo ser observada a legislação vigente, bem como o 
+Manual de Utilização de Recursos Financeiros e Prestação de Contas da FAPES e do FUNCITEC. 
+Parágrafo segundo - A FAPES efetuará a transferência dos recursos financeiros para a conta 
+corrente específica aberta pela BENEFICIÁRIA DA SUBVENÇÃO para a execução do projeto no 
+Banco do Estado do Espírito Santo - BANESTES, conforme Cronograma de Desembolso contido 
+no projeto aprovado, respeitadas as disponibilidades orçamentárias e financeiras, bem como as 
+condições determinadas pela Diretoria Executiva da FAPES. 
+Parágrafo terceiro - A BENEFICIÁRIA DA SUBVENÇÃO se obriga a aportar a contrapartida em 
+conta específica no Banco do Estado do Espírito Santo – BANESTES para execução do PROJETO, 
+no valor de R$XXXXXXXXXXXXXXXXX (XXXXXXXXXXXXXXXXXX), bem como a aportar os recursos 
+necessários à cobertura de eventuais insuficiências ou acréscimos na sua execução. 
+Parágrafo quarto - Os rendimentos decorrentes da aplicação financeira somente poderão ser 
+incorporados ao valor do apoio na forma prevista no Manual de Utilização de Recursos 
+Financeiros e Prestação de Contas da FAPES e do FUNCITEC. 
+Parágrafo quinto -  Constitui fator impeditivo à liberação do recurso aprovado, a qualquer 
+tempo, a existência de inadimplência, de natureza financeira ou técnica, da BENEFICIÁRIA DA 
+SUBVENÇÃO com a FAPES ou com as Fazendas Públicas Federal, Estadual e Municipal e com a 
+Justiça Trabalhista. 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+37 
+ 
+ 
+CLÁUSULA QUINTA - DAS OBRIGAÇÕES: Ficam estabelecidas entre as partes as seguintes 
+condições e obrigações: 
+I - DA FAPES 
+a) Liberar os recursos na forma aprovada;  
+b) acompanhar e avaliar a execução do projeto mediante análise das prestações de contas; 
+c) analisar as solicitações de alteração do plano de trabalho, desde que apresentadas 
+previamente por escrito, acompanhadas de justificativa, e que não impliquem em mudança do 
+objeto; 
+II - DA BENEFICIÁRIA DA SUBVENÇÃO 
+a) Informar à FAPES os dados da conta corrente específica para a execução do projeto, de sua 
+titularidade, aberta no BANESTES (Banco do Estado do Espírito Santo S.A.), para o repasse dos 
+recursos financeiros na forma deste Instrumento, mantendo-os, obrigatoriamente, nela 
+depositados até a sua utilização; 
+b) utilizar a conta corrente de trata a alínea anterior, exclusivamente, para recebimento e 
+movimentação dos recursos financeiros objeto deste Instrumento; 
+c) movimentar a conta somente por meio de cheques nominativos aos favorecidos, ou pela 
+utilização do cartão administrativo de débito do BANESTES, correspondendo cada cheque 
+emitido ou débito no cartão a um único pagamento; 
+d) efetuar os pagamentos de acordo com as formas previstas no Manual de Utilização de 
+Recursos Financeiros e Prestação de Contas da FAPES; 
+e) aplicar imediatamente os recursos depositados na conta corrente de que trata a alínea “a” 
+em caderneta de poupança enquanto não utilizados, se a previsão de uso for igual ou superior 
+a 1(um) mês, ou em fundo de aplicação financeira de curto prazo ou operação de mercado, 
+lastreada em título de dívida pública, quando a utilização dos mesmos verificar-se em prazos 
+menores que 1 (um) mês; 
+f) aplicar os recursos repassados, única e exclusivamente, no projeto objeto deste Instrumento, 
+sendo vedado qualquer desvio de finalidade, ainda que temporariamente; 
+g) depositar obrigatoriamente até o décimo quinto dia após o prazo de vigência deste 
+Instrumento, no BANESTES – Banco do Estado do Espírito Santo S/A, na conta corrente nº 
+12380606, agência nº 104, em nome do Banco de Desenvolvimento do Espírito Santo S/A - 
+BANDES, o saldo remanescente e/ou os rendimentos oriundos da aplicação financeira não 
+utilizados na execução do projeto e tomar as seguintes providências:  
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+38 
+ 
+1 - comunicar e comprovar a devolução de recursos imediatamente após o prazo estipulado 
+para o depósito, com a identificação do número do processo, ao setor de Prestação de Contas 
+da FAPES; 
+2 - juntar a respectiva guia de depósito de devolução dos recursos, quando da apresentação do 
+Relatório Financeiro Final; 
+h) permitir e facilitar a FAPES o acesso aos locais de execução do projeto, o exame da 
+documentação produzida e a vistoria dos bens adquiridos; 
+i) apresentar nos prazos que forem determinados informações e/ou documentos adicionais à 
+FAPES sempre que solicitado; 
+j) assumir todas as obrigações legais decorrentes de contratações eventuais, necessárias à 
+consecução do objeto, não tendo tais contratações qualquer vínculo para com a FAPES; 
+k) arcar com os custos de deslocamento para participação nas capacitações presenciais; 
+l) comprovar a aplicação dos valores da contrapartida oferecida, bem como disponibilizar 
+pessoal devidamente qualificado, instalações apropriadas e recursos materiais necessários à fiel 
+execução do objeto do projeto; 
+m) não transferir a terceiros as obrigações ora assumidas; 
+n) participar de seminários específicos realizados pela FAPES para apresentação de resultados 
+parciais ou finais, sempre que convocada; 
+o) cooperar com a FAPES e suas instituições parceiras sempre que solicitado; 
+p) cumprir integralmente todas as atividades previstas no Plano de Trabalho durante a vigência 
+do projeto; 
+q) elaborar e entregar os relatórios técnico e financeiro nos prazos estabelecidos; 
+r) solicitar previamente à FAPES, por escrito, autorização para quaisquer modificações que 
+pretenda realizar no Plano de Trabalho, com anuência da Fundação CERTI, acompanhada de 
+justificativa, desde que não impliquem em mudança do objeto;  
+s) fazer referência, obrigatória, ao apoio prestado pela FAPES nas formas de divulgação de 
+atividades que resultem, total ou parcialmente, do apoio financeiro concedido pela FAPES, 
+exceto quando proibido por lei em decorrência de período eleitoral; 
+t) manter-se sediada no estado do Espírito Santo, durante o período de execução do projeto; 
+u) manter cadastro atualizado no SIGFAPES; 
+v) manter-se adimplente com a FAPES e em situação regular junto às fazendas públicas Federal, 
+Estadual e Municipal, com a Justiça do Trabalho e em regularidade com o FGTS, durante toda a 
+vigência deste Instrumento; 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+39 
+ 
+w) devolver à FAPES eventuais valores pagos indevidamente. 
+III – DO COORDENADOR DO PROJETO 
+a) manter atendimento aos requisitos previstos no Edital; 
+b) prestar apoio técnico à BENEFICIÁRIA DA SUBVENÇÃO na execução do PROJETO, objeto deste 
+Instrumento, na forma aprovada pela FAPES; 
+c) auxiliar a BENEFICIÁRIA DA SUBVENÇÃO no cumprimento de suas obrigações constantes 
+deste Termo de Outorga, para a execução do PROJETO na forma aprovada. 
+d) atuar obrigatoriamente como consultor ad hoc da FAPES ou de suas instituições parceiras, 
+quando solicitado;  
+e) fazer referência, obrigatória, ao apoio prestado pela FAPES nas formas de divulgação de 
+atividades que resultem, total ou parcialmente, do apoio financeiro concedido pela FAPES, 
+exceto quando proibido por lei em decorrência de período eleitoral; 
+f) participar de seminários específicos realizados pela FAPES para apresentação de resultados 
+parciais ou finais, sempre que convocado; 
+g) manter cadastro atualizado no SIGFAPES. 
+ 
+CLÁUSULA SEXTA – DAS VEDAÇÕES: É vedado à BENEFICIÁRIA DA SUBVENÇÃO: 
+I - utilizar os recursos financeiros concedidos para realizar aquisições e/ou pagamentos de itens 
+não financiáveis.  
+II - efetuar pagamento a si própria, exceto nos casos previstos no Manual de Utilização de 
+Recursos Financeiros e Prestação de Contas;  
+III - utilizar os recursos financeiros do projeto a título de empréstimo para reposição futura, 
+ainda que em caráter de emergência; 
+IV - transferir recursos para fundações e similares a título de execução da parte financeira do 
+projeto, bem como o pagamento de taxa de administração, gerência ou similar; 
+V - executar despesas com documentos fiscais emitidos em data anterior ou posterior à vigência 
+do presente Instrumento. Despesas realizadas, bem como documentos fiscais emitidos fora do 
+prazo de vigência deste Instrumento serão glosadas na forma da legislação vigente; 
+VI - efetuar pagamento a servidor ou empregado público, integrante de quadro de pessoal de 
+órgão ou entidade pública da Administração Direta ou Indireta, por serviço de consultoria ou 
+assistência técnica; 
+VII - efetuar despesas com a contratação ou complementação salarial de pessoal técnico e 
+administrativo, e despesas de rotina como contas de luz, água, telefone, correio e similares, 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+40 
+ 
+entendidas estas como despesas de contrapartida obrigatória da Instituição de Execução do 
+projeto; 
+VIII - realizar despesas com taxas bancárias, multas, juros ou correções monetárias referentes 
+a pagamentos ou recolhimentos efetuados fora dos prazos estabelecidos; 
+IX - atribuir vigência ou efeitos financeiros retroativos ao presente Instrumento. 
+ 
+CLÁUSULA SÉTIMA – DO ACOMPANHAMENTO E PRESTAÇÃO DE CONTAS: A BENEFICIÁRIA DA 
+SUBVENÇÃO deverá apresentar à FAPES as prestações de contas, Parcial e Final, compostas pelo 
+relatório técnico e pelo relatório financeiro do PROJETO, do período respectivo, de acordo com 
+os formulários específicos a serem disponibilizados pela FAPES, em conformidade com o 
+Manual de Utilização de Recursos Financeiros e Prestação de Contas da FAPES e do FUNCITEC, 
+observando-se os seguintes prazos: 
+I - A Prestação de Contas Parcial deverá ser apresentada à FAPES no prazo de até 30 (trinta) dias 
+após o 6º (sexto) mês de vigência deste Instrumento, e assim sucessivamente. 
+II - A Prestação de Contas Final corresponderá aos últimos meses do projeto e deverá ser 
+apresentada no prazo de até 30 (trinta) dias, após o prazo de vigência deste Instrumento. 
+Parágrafo primeiro - Os Relatórios deverão ser apresentados em formulários específicos da 
+FAPES, acompanhados dos documentos pertinentes, por meio do SIGFAPES e de forma 
+impressa, em conformidade com o Manual de Utilização de Recursos Financeiros e Prestação 
+de Contas da FAPES e do FUNCITEC, em até 30 (trinta) dias após o período de competência. 
+Parágrafo segundo – A Prestação de Contas Final deve ser acompanhada de documentos que 
+comprovem o encerramento da conta, com a devolução do saldo remanescente, mediante 
+depósito em conta bancária específica, conforme o presente instrumento. 
+Parágrafo terceiro - O atraso na entrega ou a não aprovação dos relatórios técnicos e financeiros 
+acarretará a suspensão temporária do repasse das parcelas restantes, o pagamento da bolsa, 
+até serem sanadas as pendências, na forma do Manual de Utilização de Recursos Financeiros e 
+Prestação de Contas da FAPES e do FUNCITEC. 
+Parágrafo quarto - Caso o presente Termo de Outorga de Subvenção Econômica seja alvo de 
+apuração formal pelos órgãos de controle ou pelos órgãos de investigação e persecução 
+criminal ou que contiverem indício de irregularidade, a BENEFICIÁRIA DA SUBVENÇÃO deverá 
+apresentar os documentos suplementares exigidos pela FAPES. 
+Parágrafo quinto - A BENEFICIÁRIA DA SUBVENÇÃO deverá manter toda a documentação 
+gerada até a aprovação da Prestação de Contas Final, devidamente organizada e arquivada, 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+41 
+ 
+separada por Projeto, pelo prazo de cinco anos, contados da data da aprovação da Prestação 
+de Contas Final. 
+Parágrafo sexto - A quitação do Termo de Outorga de Subvenção Econômica somente se dará 
+quando da aprovação formal, por parte da FAPES, da Prestação de Contas Final. 
+Parágrafo sétimo - Tendo o outorgado justificativas para impugnar o resultado da análise da 
+Prestação de Contas, poderá interpor recurso administrativo, nos termos da Resolução 
+CCAF/FAPES nº 218/2018 (Manual de Utilização de Recursos Financeiros e Prestação de Contas 
+da FAPES/FUNCITEC). 
+ 
+CLÁUSULA OITAVA – DA PROPRIEDADE INTELECTUAL E DA CRIAÇÃO PROTEGIDA: No caso das 
+atividades realizadas originarem criações intelectuais passíveis de proteção, na forma de 
+inovações tecnológicas, invenções, aperfeiçoamentos e novos conhecimentos aplicáveis às 
+atividades econômicas produtivas, que propiciarem incrementos de seu desempenho, aumento 
+da produtividade dos fatores envolvidos ou otimização do uso de recursos e insumos, as partes 
+obedecerão, quando for o caso, às determinações da Lei Federal nº 10.973/2004, 
+regulamentada pelo Decreto nº 5.563/2005, e da Lei Complementar Estadual nº 642/2012, 
+observando-se a Resolução do CCAF nº 92/2013, e as demais disposições legais vigentes 
+pertinentes à matéria. 
+Parágrafo primeiro - Caberá à instituição executora do projeto e demais parceiros definir a 
+titularidade ou cotitularidade sobre criações intelectuais decorrentes de resultados do projeto 
+financiado pela FAPES, bem como os procedimentos administrativos referentes ao depósito ou 
+registro de pedido de proteção intelectual e os encargos periódicos de manutenção do mesmo. 
+Parágrafo segundo - A FAPES deverá ser notificada quando os resultados ensejarem registro no 
+Instituto Nacional de Propriedade Intelectual – INPI ou em outro órgão competente para a 
+proteção da propriedade intelectual. 
+Parágrafo  terceiro - Os resultados econômicos auferidos na exploração comercial da criação 
+protegida, inclusive na hipótese de transferência do direito de exploração a terceiros, serão 
+partilhados com a FAPES, prevendo-se para tanto um percentual de 0,1% (zero vírgula um por 
+cento), por meio de CONTRATO a ser celebrado com as instituições executoras de projetos nas 
+quais as patentes ou similares foram desenvolvidas. 
+ 
+CLÁUSULA NONA – DO SIGILO: Comprometem-se as partes, assegurar, sob as penas da lei, sigilo 
+sobre os resultados parciais e final alcançados na execução do projeto, até que esses tenham 
+sido adequadamente avaliados e os direitos envolvidos devidamente reservados. 
+ 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+42 
+ 
+CLÁUSULA DÉCIMA – DOS DOCUMENTOS INTEGRANTES: Integram o presente Instrumento, 
+como se nele estivessem transcritos, os seguintes documentos: 
+I - o Projeto aprovado pela FAPES;  
+II - a Resolução CCAF nº 218/2018 (Manual de Utilização de Recursos Financeiros e Prestação 
+de Contas da FAPES e do FUNCITEC);  
+III - a Resolução CCAF nº 170/2017 (Boas Práticas Científicas na FAPES); 
+IV - as demais resoluções do CCAF citadas no presente ajuste. 
+ 
+CLÁUSULA DÉCIMA PRIMEIRA – DAS ALTERAÇÕES: As condições estabelecidas no presente 
+ajuste poderão ser alteradas dentro do prazo de vigência deste Instrumento, mediante 
+solicitação acompanhada das devidas justificativas, sendo efetivadas por termo de 
+apostilamento, desde que aceitas pela Diretoria Executiva da FAPES.  
+Parágrafo  único. Fica vedada a alteração do presente Termo com o intuito de modificar seu 
+objeto ou sua vigência, sob pena de nulidade do ato. 
+ 
+CLÁUSULA DÉCIMA SEGUNDA - SUSPENSÃO DOS DESEMBOLSOS DOS RECURSOS:  Sem prejuízo 
+da denúncia ou rescisão do presente Termo de Outorga de Subvenção Econômica, a FAPES 
+poderá suspender os desembolsos dos recursos nas seguintes hipóteses: 
+a) Aplicação dos recursos do financiamento em fins diversos do pactuado ou em desacordo com 
+o PROJETO APROVADO; 
+b) Inexatidão nas informações prestadas à FAPES pela BENEFICIÁRIA DA SUBVENÇÃO, 
+objetivando a obtenção desta subvenção econômica ou durante a execução deste 
+BENEFICIÁRIA DA SUBVENÇÃO; 
+c) Paralisação do PROJETO; 
+d) Outras circunstâncias que, a juízo da FAPES, tornem inseguro ou impossível o cumprimento, 
+pela BENEFICIÁRIA DA SUBVENÇÃO, das obrigações assumidas no presente Termo de Outorga 
+ou a realização dos objetivos para os quais foi concedida a subvenção econômica; 
+e) Inadimplemento, por parte da BENEFICIÁRIA DA SUBVENÇÃO, de qualquer obrigação 
+assumida neste Termo de Outorga de Subvenção Econômica; 
+f) Na hipótese de recuperação judicial ou extrajudicial, ou falência decretada em relação à 
+BENEFICIÁRIA DA SUBVENÇÃO. 
+Parágrafo primeiro - A FAPES poderá nas hipóteses descritas nesta Cláusula, alternativamente 
+ou em conjunto com a suspensão dos desembolsos dos recursos, fixar condicionantes de ordem 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+43 
+ 
+técnica-operacional, jurídica ou financeira, que deverão ser cumpridas dentro do prazo a ser 
+estabelecido, sob pena de aplicação do disposto nos termos desde instrumento. 
+Parágrafo segundo - A FAPES considerará o conceito de risco tecnológico, constante no Decreto 
+nº 9.283/2018, na avaliação do PROJETO. 
+ 
+CLÁUSULA DÉCIMA TERCEIRO - SUBSTITUIÇÃO DO COORDENADOR DO PROJETO: Será admitida 
+a substituição do COORDENADOR DO PROJETO, devidamente justificada pela BENEFICIÁRIA DA 
+SUBVENÇÃO. 
+Parágrafo primeiro - Para coordenar o projeto em execução, o substituto deverá atender às 
+seguintes condições: 
+a) ser membro da equipe do projeto; 
+b) possuir vínculo com a BENEFICIÁRIA DA SUBVENÇÃO; 
+c) atender aos demais requisitos estabelecidos no Edital. 
+Parágrafo segundo - A substituição do COORDENADOR DO PROJETO será realizada pela FAPES 
+por meio de Apostilamento. 
+Parágrafo terceiro - O novo coordenador deverá manter o cumprimento das obrigações 
+estabelecidas no Edital. 
+ 
+CLÁUSULA DÉCIMA QUARTA - CANCELAMENTO DO PROJETO: O PROJETO será cancelado nos 
+casos de: 
+a) Solicitação pela BENEFICIÁRIA DA SUBVENÇÃO, devidamente justificada; 
+b) Não apresentação ou irregularidade da prestação de contas que persista após o vencimento 
+dos prazos concedidos pela FAPES; 
+c) Não aprovação da prestação de contas, em decorrência de: 
+d) Não execução do objeto pactuado; 
+e) Atingimento parcial dos objetivos avençados; 
+f) Desvio de finalidade; 
+g) Impugnação de despesas; 
+h) Não aporte dos recursos de contrapartida; 
+i) Não aplicação de rendimentos de aplicações financeiras no objeto pactuado. 
+j) Prática de qualquer fraude, sem a qual a subvenção não teria ocorrido; 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+44 
+ 
+k) Descumprimento das obrigações previstas neste Instrumento; 
+l) Ocorrência de qualquer outro fato do qual resulte prejuízo ao erário; 
+m) Não devolução de eventuais saldos financeiros remanescentes após 15 (quinze) dias da 
+conclusão, denúncia, rescisão ou extinção do presente Termo de Outorga de Subvenção 
+Econômica. 
+Parágrafo primeiro - No caso da alínea “a” do item acima ou em caso de conclusão antecipada 
+do PROJETO, o presente Termo de Outorga será encerrado, devendo ser apresentada a 
+Prestação de Contas Final, conforme Cláusula de prestação de contas, e devolvido o saldo 
+financeiro remanescente dos valores repassados pela FAPES e os valores de contrapartida 
+apurados pela FAPES, se for o caso. 
+Parágrafo segundo - Os casos previstos nas alíneas “b” a “g” ensejarão em ressarcimento dos 
+valores apurados pela FAPES, incluindo os valores de contrapartida aportados, sem prejuízo das 
+medidas jurídicas cabíveis, quando for o caso. 
+Parágrafo  terceiro - A aplicação de qualquer penalidade será precedida do devido processo 
+legal, em respeitando os princípios constitucionais do contraditório e da ampla defesa. 
+ 
+CLÁUSULA DÉCIMA QUINTA – DO RESSARCIMENTO: A BENEFICIÁRIA DA SUBVENÇÃO ressarcirá 
+à FAPES e/ou o CNPq os recursos pagos em seu proveito nos seguintes casos de:  
+I - não tenha executado o objeto deste Instrumento, na forma e prazos aprovados; 
+II - não tenha apresentado a documentação prevista no neste Termo; 
+III - os recursos concedidos forem utilizados em finalidade diversa da proposta; 
+IV - tenha praticado qualquer fraude sem a qual a subvenção não teria ocorrido; 
+V - Paralisação do PROJETO; 
+VI - Outras circunstâncias que, a juízo da FAPES, tornem inseguro ou impossível o cumprimento, 
+pela BENEFICIÁRIA DA SUBVENÇÃO, das obrigações assumidas no presente Termo de Outorga 
+ou a realização dos objetivos para os quais foi concedida a subvenção econômica; 
+VII - Inadimplemento, por parte da BENEFICIÁRIA DA SUBVENÇÃO, de qualquer obrigação 
+assumida neste Termo de Outorga de Subvenção Econômica; 
+VIII - Na hipótese de recuperação judicial ou extrajudicial, ou falência decretada em relação à 
+BENEFICIÁRIA DA SUBVENÇÃO. 
+Parágrafo primeiro. Em caso de impugnação de despesa será considerada para efeito de 
+atualização legal, a data da realização da despesa. 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+45 
+ 
+Parágrafo segundo. Em caso de solicitação da BENEFICIÁRIA DA SUBVENÇÃO, devidamente 
+justificada, ou em caso de conclusão antecipada do projeto, este Instrumento será encerrado, 
+devendo ser apresentada a prestação de contas, conforme Cláusula Sétima, e devolvido os 
+valores financeiros apurados pela FAPES, se for o caso. 
+Parágrafo terceiro. Caso não seja apresentada a prestação de contas no prazo e na forma 
+previstos neste Instrumento, ou ainda, caso não seja sanada irregularidade na prestação de 
+contas após os prazos concedidos pela FAPES, a BENEFICIÁRIA DA SUBVENÇÃO deverá ressarcir 
+os valores financeiros recebidos, conforme previsto no caput desta Cláusula. 
+Parágrafo quarto. Mesmo que sanado o inadimplemento tratado nesta Cláusula, poderá a 
+BENEFICIÁRIA DA SUBVENÇÃO, bem como o Coordenador do Projeto, serem suspensos do 
+direito de pleitear recursos da FAPES, pelo prazo de até 24 (vinte e quatro) meses, por decisão 
+do Conselho Científico-Administrativo da FAPES - CCAF, na forma do Manual de Utilização de 
+Recursos Financeiros e Prestação de Contas da FAPES. 
+Parágrafo quinto. A aplicação de qualquer penalidade prevista nesta Cláusula será precedida do 
+devido processo legal, assegurado o contraditório e a ampla defesa. 
+ 
+CLÁUSULA DÉCIMA SEXTA – DA RESCISÃO: O presente Termo poderá ser automaticamente 
+rescindido, a qualquer tempo, se verificado o descumprimento de quaisquer exigências deste 
+Instrumento, bem como na hipótese de recuperação judicial ou extrajudicial, ou falência 
+decretada da BENEFICIÁRIA DA SUBVENÇÃO. 
+Parágrafo primeiro - O presente instrumento poderá ser rescindido por acordo entre as partes, 
+mediante prévia e expressa comunicação formalizada por escrito, e precedida de análise da 
+Procuradoria Geral do Estado quando for o caso, respeitadas as obrigações assumidas com 
+terceiros, desde que cessadas as obrigações aqui pactuadas. 
+ 
+CLÁUSULA DÉCIMA SÉTIMA – DO PRAZO DE EXECUÇÃO E DA VIGÊNCIA: O presente Termo de 
+terá vigência de 12 (doze) meses, não prorrogáveis, tendo início no primeiro dia do mês 
+subsequente ao da data da assinatura deste Instrumento.  
+ 
+CLÁUSULA DÉCIMA OITAVA – DA PUBLICAÇÃO: A publicação do extrato deste Instrumento no 
+Diário Oficial do Espírito Santo é condição indispensável para sua eficácia. 
+ 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+46 
+ 
+CLÁUSULA DÉCIMA NONA- DO FORO: Fica eleito pelas partes o foro do Juízo de Vitória, Comarca 
+da Capital do Estado do Espírito Santo, para dirimir quaisquer questões decorrentes, direta ou 
+indiretamente, do presente ajuste.  
+E assim, por estarem justas e acordadas, assinam o presente Termo em 01 (uma) única via, cujo 
+original ficará em posse da FAPES, sendo disponibilizada eletronicamente para a BENEFICIÁRIA 
+DA SUBVENÇÃO na página do SIGFAPES correspondente ao projeto, para que produza os efeitos 
+de direito, perante as testemunhas seguintes. 
+ 
+Vitória, _________de ______________________ de ____________. 
+ 
+                                   
+Pela FAPES: 
+ 
+ 
+  ____________________________ 
+ 
+     ____________________________ 
+Denio Rebello Arantes                                          Lucia Aparecida de Queiroz Araujo                  Diretor 
+Presidente / FAPES                           Diretora Administrativo-financeira / FAPES 
+ 
+Pela BENEFICIÁRIA DA SUBVENÇÃO: 
+ 
+ 
+_______________________________           
+Representante da Empresa 
+ 
+ 
+ 
+ 
+ 
+ 
+Pelo PROJETO da BENEFICIÁRIA DA SUBVENÇÃO 
+ 
+ 
+___________________________ 
+Coordenador do Projeto 
+ 
+  
+EDITAL FAPES Nº 15/2019 
+PROJETOS DEMANDANTES DE TECNOLOGIAS HABILITADORAS 
+Processo número 86574167 
+ 
+47 
+ 
+ 
+ 
+Testemunhas: 
+ 
+Nome:                                                      Identidade: 
+ 
+Nome:                                                      Identidade: 

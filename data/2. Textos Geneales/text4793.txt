@@ -1,0 +1,1878 @@
+ 
+1/12 
+ 
+CHAMADA PÚBLICA MCTIC/FINEP/CT-INFRA 03/2018 
+Manutenção Preventiva de Equipamentos e Manutenção de Infraestrutura de 
+Biotérios e de Coleções Biológicas de Microrganismos 
+ 
+SELEÇÃO PÚBLICA DE PROPOSTAS PARA APOIO A PROJETOS INSTITUCIONAIS DE MANUTENÇÃO 
+PREVENTIVA DE EQUIPAMENTOS DE PESQUISA APOIADOS PELO FNDCT E MANUTENÇÃO DA 
+INFRAESTRUTURA DE BIOTÉRIOS E DE COLEÇÕES BIOLÓGICAS DE MICRORGANISMOS NAS ICT’S  
+ 
+1) OBJETIVO 
+A presente Chamada Pública tem por objetivo selecionar propostas para apoio financeiro a projetos 
+institucionais que contemplem, pelo menos, uma das seguintes linhas temáticas, que serão 
+analisadas separadamente: 
+LINHA 1: manutenção preventiva de equipamentos de médio e grande porte, preferencialmente 
+multiusuários, adquiridos com recursos do FNDCT em ações patrocinadas pela Finep;  
+LINHA 2: manutenção da infraestrutura de biotérios existentes e implantação de 2 (dois) grupos 
+atuando em áreas de fronteira, sendo 1 (um) grupo para a Humanização de Modelos Experimentais 
+e 1 (um) grupo para Tecnologias de manipulação e edição de genoma de animais de laboratório com 
+a tecnologia CRISP-Cas9; e  
+LINHA 3: manutenção da infraestrutura de coleções biológicas de microrganismos diversos, vírus, 
+células de mamíferos e a organização de 1 (uma) coleção de plasmídeos; 
+visando a dar condições de continuidade às unidades nas respectivas  áreas do conhecimento, e em 
+todo território nacional, de forma a proporcionar um ambiente favorável para o crescimento e a 
+consolidação da pesquisa científica e tecnológica das Instituições Públicas de Ensino Superior e/ou 
+de Pesquisa do País. 
+ 
+2) ELEGIBILIDADE DAS INSTITUIÇÕES 
+São elegíveis as seguintes instituições: 
+I. 
+PROPONENTE/CONVENENTE:  
+i. 
+Órgão ou entidade da Administração Pública direta ou indireta de qualquer esfera de 
+governo. As Instituições Federais devem ser integrantes do Sistema Integrado de 
+Administração Financeira do Governo Federal – SIAFI; 
+ii. 
+Organizações Sociais (OS) qualificadas nos termos da Lei n° 9.637/1998, cujas 
+atividades sejam dirigidas à pesquisa científica e ao desenvolvimento tecnológico; 
+iii. 
+Entidade privada sem fins lucrativos, qualificada como instituição de apoio, 
+responsável pela execução gerencial e financeira do projeto. As instituições privadas 
+sem fins lucrativos deverão ter no mínimo 03 (três) anos de existência, em observância 
+ao disposto no Art. 72, inciso XIII, da Lei 13.473/2017– LDO 2018.  
+  
+2/12 
+ 
+II. 
+EXECUTOR: 
+i. 
+Instituição Pública de Ensino Superior e/ou Pesquisa; 
+ii. 
+Organizações Sociais (OS), qualificadas nos termos da Lei n° 9.637/1998, cujas 
+atividades sejam dirigidas à pesquisa científica e ao desenvolvimento tecnológico.  
+ 
+3) DEFINIÇÕES 
+Para fins desta Chamada, são adotadas as seguites definições: 
+I. 
+EQUIPAMENTOS MULTIUSUÁRIOS DE PESQUISA: 
+Equipamento especializado, disponível regularmente para usuários internos e externos da 
+Instituição, adquiridos com recursos do FNDCT, em ações promovidas pela Finep (chamamentos 
+públicos e encomendas).  
+É desejável que o equipamento em questão disponha de uma comissão de usuários. Tal comissão 
+deverá contar com um coordenador científico e usuários de outras unidades ou laboratórios, sendo 
+esta responsável pela determinação do uso do equipamento.     
+II. 
+EQUIPAMENTOS DE MÉDIO E DE GRANDE PORTE: 
+- Equipamentos de médio porte: aqueles cujo valor unitário de aquisição varie entre R$ 200 mil e 
+R$ 600 mil; e 
+- Equipamentos de grande porte:  aqueles com valor de aquisição acima de R$ 600 mil. 
+III. 
+CONCEA 
+O Conselho Nacional de Controle de Experimentação Animal - CONCEA, instituído pela Lei nº 
+11.794/2008, é órgão integrante do Ministério da Ciência, Tecnologia, Inovações e Comunicações, 
+constituindo-se em instância colegiada multidisciplinar de caráter normativo, consultivo, 
+deliberativo e recursal. Dentre as suas competências destacam-se a formulação de normas relativas 
+à utilização humanitária de animais com finalidade de ensino e pesquisa científica, bem como 
+estabelecer procedimentos para instalação e funcionamento de centros de criação, de biotérios e 
+de laboratórios de experimentação animal. O Conselho é responsável também pelo credenciamento 
+das instituições que desenvolvam atividades nesta área, além de administrar o cadastro de 
+protocolos experimentais ou pedagógicos aplicáveis aos procedimentos de ensino e projetos de 
+pesquisa científica realizados ou em andamento no País. 
+IV. 
+CIUCA 
+Trata-se do Cadastro das Instituições de Uso Científico de Animais – CIUCA. As instituições 
+interessadas em realizar atividades ou projetos que envolvam a produção, a manutenção ou a 
+utilização de animais pertencentes ao filo Chordata, subfilo Vertebrata, exceto humanos, que 
+englobam qualquer uso de animais para ensino ou pesquisa científica, deverão requerer o CIAEP 
+(Credenciamento Institucional para Atividades com Animais para Ensino ou Pesquisa) junto ao 
+CONCEA, por meio do Cadastro de Instituições de Uso Científico de Animais - CIUCA. 
+  
+3/12 
+ 
+V. 
+CIAEP 
+Trata-se de Credenciamento Institucional para Atividades com Animais para Ensino ou Pesquisa – 
+CIAEP. O biotério deverá estar credenciado no CONCEA, por meio do Cadastro das Instituições de 
+Uso Científico de Animais (CIUCA), em atendimento à Lei nº 11.794/2008 e à Portaria MCTIC nº 5861, 
+de 03 de outubro de 2017. As instituições que ainda não obtiveram o seu número de CIAEP 
+permanecem impedidas de produzir, manter ou utilizar animais para atividades de ensino ou 
+pesquisa científica até que obtenha o credenciamento deferido pelo CONCEA. 
+VI. 
+BIOTÉRIO  
+Local onde são reproduzidos, criados, mantidos ou utilizados animais vivos, destinados às atividades 
+de ensino e pesquisa científica, dispondo de infraestrutura adequada, atendendo às condições 
+ambientais, sanitárias, éticas, de biossegurança e de bem-estar animal, conforme os critérios 
+estabelecidos na Lei nº 11.794/2008 e nas Resoluções Normativas vigentes do CONCEA. 
+VII. 
+BIOTÉRIO DE CRIAÇÃO 
+Local destinado à reprodução e manutenção de animais para fins de ensino ou pesquisa científica, 
+observadas as condições previstas na definição de ‘biotério’. 
+VIII. 
+COLEÇÕES BIOLÓGICAS DE MICRORGANISMOS 
+Coleções biológicas que têm por função a aquisição, preservação, identificação, catalogação e 
+distribuição de microrganismos autenticados para dar suporte à pesquisa científica, estudos 
+epidemiológicos, bem como ao desenvolvimento e produção de bioprodutos para diagnóstico, 
+vacinas e medicamentos, atuando também como provedores de serviços especializados. 
+IX. 
+GRUPOS PRIORITÁRIOS 
+LINHA 2: 1 (um) subprojeto para a Humanização de Modelos Experimentais e 1 (um) subprojeto para 
+Tecnologias de manipulação e edição de genoma de animais de laboratório com a tecnologia CRISP-
+Cas9. 
+LINHA 3: 1 (uma) coleção de plasmídeos visando atendimento às necessidades dos pesquisadores 
+brasileiros atuando em todas as áreas de pesquisa biológica e biomédica. 
+ 
+4) CARACTERÍSTICAS DA PROPOSTA 
+§ 1º Cada Instituição Executora poderá submeter apenas uma proposta institucional, que deverá ser 
+apresentada à FINEP em formulário eletrônico específico.  
+§ 2º Cada proposta poderá conter até 3 (três) subprojetos, sendo cada um deles relativo a 1 (uma) 
+das linhas temáticas de apoio.  Não será aceita mais de uma proposta por instituição. 
+§ 3º Nos subprojetos relativos à LINHA 2, somente serão avaliados os biotérios que estiverem com 
+cadastro ativo no CIUCA e com credenciamento válido no CIAEP na data de publicação deste edital, 
+conforme item 8. 
+  
+4/12 
+ 
+§ 4º O valor solicitado ao FNDCT, em cada proposta, deverá estar de acordo com as seguintes regras: 
+(i) 
+subprojetos relativos à LINHA 1 deverão ter valor solicitado entre R$ 300 mil (trezentos mil 
+reais) e R$ 1,5 milhão (um milhão e quinhentos mil reais); 
+(ii) 
+subprojetos relativos à LINHA 2 deverão ter valor solicitado entre R$ 100 mil (cem mil reais) 
+e R$ 1 milhão (um milhão de reais); 
+(iii) 
+subprojetos relativos à LINHA 3 deverão ter valor solicitado entre R$ 100 mil (cem mil reais) 
+e R$ 500 mil (quinhentos mil reais); 
+§5º Subprojetos relativos à LINHA 2 deverão informar claramente se estão concorrendo à 
+implantação de um dos dois grupos prioritários, descritos no Item (1). Desta forma, o Subprojeto 
+deverá ter seu título iniciado com:  
+(i) 
+a expressão “HUMAN”, se concorrente ao Grupo Prioritário de Humanização de Modelos 
+Experimentais; 
+(ii) 
+a palavra “CRISP”, se concorrente ao Grupo Prioritário de Tecnologias de manipulação e 
+edição de genoma de animais de laboratório com a tecnologia CRISP-Cas9; 
+§6º Subprojetos relativos à LINHA 3 deverão informar claramente se estão concorrendo à 
+organização de uma coleção de plasmídeos, descrita no Item (1). Desta forma, o Subprojeto deverá 
+ter seu título iniciado com: 
+(i) 
+a expressão “PLASM”, se concorrente ao Grupo Prioritário de Coleção de Plasmídeos; 
+§7º A proposta deverá relacionar o(s) coordenador(es) e as equipes de pesquisadores que serão 
+beneficiados pela manutenção da infraestrutura de pesquisa. Os currículos Lattes de todos os 
+pesquisadores envolvidos deverão estar devidamente atualizados na plataforma em questão. 
+§8º O prazo de execução do projeto deverá ser de até 36 (trinta e seis) meses, podendo ser 
+prorrogado a critério da FINEP, respeitando as normas do FNDCT.  
+ 
+5) RECURSOS FINANCEIROS A SEREM CONCEDIDOS 
+§ 1º No âmbito desta Chamada Pública serão comprometidos recursos não reembolsáveis no valor 
+de até R$ 70 milhões (setenta milhões de reais) originários do FNDCT/CT-INFRA, sendo: 
+LINHA 1: até R$ 45 milhões (quarenta e cinco milhões de reais)  
+LINHA 2: até R$ 17 milhões (dezessete milhões de reais) 
+LINHA 3: até R$ 8 milhões (oito milhões de reais).  
+§ 2º Do total de recursos, em cada linha temática, pelo menos 30% (trinta por cento) deverão ser 
+aplicados nas regiões Norte (N), Nordeste (NE) e Centro-Oeste (CO) e nas regiões de abrangência da 
+SUDENE e da SUDAM.  
+§ 3º A aprovação do projeto e a liberação dos recursos somente ocorrerá em conformidade com a 
+disponibilidade orçamentária e financeira do FNDCT/CT-INFRA. 
+  
+5/12 
+ 
+ 
+6) CONTRAPARTIDA E OUTROS APORTES DE RECURSOS 
+§ 1º De acordo com o disposto na Lei de Diretrizes Orçamentárias – LDO 2018, será exigida a 
+apresentação de contrapartida financeira, nos convênios que vierem a ser firmados diretamente 
+com Instituições Estaduais, Municipais e do Distrito Federal, nos percentuais mínimos e máximos 
+sobre o valor total concedido, indicados nos itens abaixo: 
+Instituições Municipais: 
+Municípios com até 50.000 habitantes 
+............................................................................ 0,1-4% 
+Municípios acima de 50.000 habitantes localizados nas áreas prioritárias definidas no âmbito da Política 
+Nacional de Desenvolvimento Regional - PNDR, nas áreas da Superintendência do Desenvolvimento do 
+Nordeste (SUDENE), da Superintendência do Desenvolvimento da Amazônia (SUDAM) e da 
+Superintendência do Desenvolvimento do Centro-Oeste (SUDECO) ............................................. 0,2-8% 
+Municípios com até 200.000 habitantes, situados em áreas vulneráveis a eventos extremos, tais como 
+secas, deslizamentos e inundações, incluídas na lista classificatória de vulnerabilidade e recorrência de 
+mortes por desastres naturais fornecida pelo Ministério da Ciência, Tecnologia, Inovações e 
+Comunicações...................................................................................................................................0,1-5% 
+Demais Municípios ................................................................................................................ 1-20% 
+Instituições Estaduais e do Distrito Federal: 
+Distrito Federal e Estados localizados nas áreas prioritárias definidas no âmbito da Política Nacional de 
+Desenvolvimento Regional (PNDR), nas áreas da SUDENE, SUDAM e SUDECO ............................... 0,1-10% 
+Demais Estados ..................................................................................................................... 2-20% 
+§ 2º Não é exigida contrapartida de órgão ou entidade da Administração Pública Federal, direta ou 
+indireta, e de Instituições privadas sem fins lucrativos. 
+§ 3º Para as Instituições Estaduais, Municipais e do Distrito Federal poderão ser consideradas como 
+contrapartida financeira despesas com recursos humanos (horas de trabalho) alocados no projeto, 
+desde de que devidamente identificadas.  
+ 
+7) DESPESAS APOIÁVEIS 
+§ 1º No âmbito desta Chamada Pública poderão ser apoiadas as seguintes despesas, as quais deverão 
+estar diretamente relacionadas à manutenção preventiva da infraestrutura prevista em cada 
+Subprojeto: 
+ 
+LINHA 1: 
+a. Despesas Correntes: 
+- 
+despesas acessórias de importação para peças de reposição; 
+  
+6/12 
+ 
+- 
+serviços de terceiros (pessoa física ou jurídica), desde que diretamente relacionados com 
+a manutenção preventiva dos equipamentos; 
+- 
+material de consumo, desde que diretamente relacionado à manutenção preventiva dos 
+equipamentos; 
+b. Despesas de Capital: 
+- 
+equipamentos e material permanente, na forma de peças de reposição necessárias à 
+manutenção preventiva dos equipamentos; 
+LINHA 2: 
+a. Despesas Correntes: 
+- 
+despesas acessórias de importação para peças de reposição; 
+- 
+serviços de terceiros (pessoa física ou jurídica), desde que diretamente relacionados com 
+manutenção de equipamentos, pequenas reformas ou adaptações do biotério. No caso das 
+pequenas reformas e adaptações, o valor total no subprojeto não poderá exceder R$ 250 
+mil (duzentos e cinquenta mil reais); 
+- 
+material de consumo, desde que diretamente relacionado à manutenção do biotério; 
+b. Despesas de Capital: 
+- 
+equipamentos e material permanente, na forma de peças de reposição necessárias à 
+manutenção dos equipamentos; 
+- 
+para os grupos prioritários, será permitida a aquisição de novos equipamentos necessários 
+à implantação da área de fronteira; 
+LINHA 3: 
+a. Despesas Correntes: 
+- 
+despesas acessórias de importação para itens importados adquiridos; 
+- 
+serviços de terceiros (pessoa física ou jurídica), desde que diretamente relacionados com: 
+manutenção de equipamentos; pequenas reformas ou adaptações do laboratório; apoio a 
+acreditação de coleções; ou na forma de softwares para o Sistema de Informações 
+Gerenciais. No caso das pequenas reformas e adaptações, o valor total no subprojeto não 
+poderá exceder R$ 250 mil (duzentos e cinquenta mil reais); 
+- 
+material de consumo, desde que diretamente relacionado a: manutenção do laboratório; 
+ou reposição e manutenção do acervo; 
+b. Despesas de Capital: 
+- 
+equipamentos e material permanente, na forma de peças de reposição necessárias à 
+manutenção dos equipamentos; reposição e manutenção do acervo; ou relacionados ao 
+Sistema de Informações Gerenciais; 
+- 
+para o grupo prioritário, será permitida a aquisição de novos equipamentos necessários à 
+implantação da nova coleção; 
+  
+7/12 
+ 
+§2º Cada subprojeto poderá contemplar a cobertura de despesas operacionais e administrativas, de 
+caráter indivisível, respaldadas na Lei nº 10.973/04, denominada “Lei da Inovação”, até o limite de 
+3% do valor dos recursos solicitados à FINEP; 
+§3º Na LINHA 1, não serão apoiáveis despesas que se caracterizem como upgrade dos equipamentos, 
+exceto nos casos de inexistência no mercado de peça de reposição original ou equivalente.  
+§4º Nas LINHAS 2 e 3, para cada item solicitado referente a pequenas reformas ou adaptações 
+deverão ser fornecidas justificativa e descrição técnica do serviço. 
+8) PRAZOS 
+§ 1º As datas de cada etapa da Chamada Pública são apresentadas a seguir: 
+Lançamento da ação na página da Finep 
+11/07/2018 
+Disponibilização do formulário eletrônico (FAP) 
+a partir de 11/07/2018 
+Data final para envio do formulário eletrônico (FAP) 
+09/08/2018 
+Data final para a entrega na Finep / postagem da cópia impressa 
+10/08/2018 
+Divulgação do Resultado Preliminar 
+a partir de 28/09/2018 
+Divulgação do Resultado Final 
+a partir de 19/11/2018 
+ (*) O horário para envio da versão eletrônica na data limite para apresentação das propostas se encerra às 18h (horário de 
+Brasília). 
+(**) A FINEP não se responsabilizará por solicitação de inscrição de propostas não recebidas por motivo de ordem técnica dos 
+computadores, falhas de comunicação, congestionamento das linhas de comunicação, bem como por outros fatores que 
+impossibilitem a transferência de dados. 
+(***) EVENTUAIS DÚVIDAS E QUESTIONAMENTOS ENVIADOS À FINEP NÃO ALTERAM OS PRAZOS ACIMA ESTABELECIDOS. 
+§ 2º Esta Chamada Pública tem validade de 12 (doze) meses. 
+9) ENVIO DA PROPOSTA 
+9.1) 
+REQUISITOS PARA ADMISSÃO DA PROPOSTA 
+§1º A proposta deverá ser enviada à FINEP através da Internet, até as 18h (horário de Brasília) da 
+data limite estabelecida no Item 8 deste edital, por meio do Formulário de Apresentação de 
+Propostas - FAP - específico para essa Chamada Pública, disponível na página eletrônica da FINEP 
+(www.finep.gov.br). 
+§2º O preenchimento deverá ser realizado de acordo com as instruções contidas no Manual que 
+acompanha o Formulário. 
+§3º As propostas deverão ser impressas em papel A4, em duas vias, sem nenhum tipo de 
+encadernação ou grampeamento. 
+§4º É vedada qualquer alteração na proposta, posterior ao envio eletrônico dos dados. 
+§5º Às vias impressas, que deverão ser remetidas pelo correio em modalidade de encomenda 
+expressa registrada, poderão ser anexados outros documentos e informações consideradas 
+  
+8/12 
+ 
+relevantes para análise do projeto, até um limite total de 50 (cinquenta) folhas. Documentos 
+eventualmente solicitados nessa Chamada não serão contabilizados nesse limite. 
+§6º A documentação poderá ser entregue diretamente na FINEP/RJ, no endereço abaixo indicado, 
+ou remetida pelo correio, mediante registro postal ou equivalente, com comprovante da postagem 
+dos Correios até a data limite para envio das vias impressas estabelecida no Item 8 deste Edital, 
+devendo constar no envelope a seguinte identificação: 
+CHAMADA PÚBLICA MCTI/FINEP/CT-INFRA XX/2018 
+(sigla proponente) / (sigla executor) / (sigla projeto) 
+FINEP - Financiadora de Estudos e Projetos 
+Av. República do Chile, 330, Torre Oeste – Centro – 10º andar 
+20031-170 - Rio de Janeiro - RJ 
+§7º Após o prazo limite para apresentação das propostas, nenhuma outra será recebida, assim como 
+não serão aceitos adendos ou esclarecimentos que não forem explícita e formalmente solicitados 
+pela FINEP. 
+§8º Caso aplicável, deverá ser apresentado certificado de Organizações Sociais (OS) nos termos da 
+Lei nº 9.637/1998. 
+§9º A proposta institucional deverá atender aos seguintes requisitos: 
+(i) 
+possuir instituição proponente elegível; 
+(ii) 
+possuir instituição executora elegível; 
+(iii) 
+atender ao número máximo de subprojetos; 
+(iv) 
+atender aos valores mínimo e máximo de solicitação para cada subprojeto; 
+(v) 
+atender aos prazos de envio da proposta; 
+O não atendimento a quaisquer dos requisitos listados implicará na eliminação da proposta.  
+§10º Para os subprojetos submetidos a Linha 1, deverá ser apresentada “Declaração de Manutenção 
+Preventiva e Apoio Prévio pela Finep/FNDCT”, disponibilizada no Anexo I. O não envio do documento 
+implicará na eliminação do subprojeto. 
+§11º Para os subprojetos submetidos a Linha 2, deverá ser apresentada “Declaração de 
+Credenciamento Institucional para Atividades com Animais”, disponibilizada no Anexo II. O não envio 
+do documento implicará na eliminação do subprojeto. Para a contratação do projeto, será exigida a 
+apresentação de comprovação de cadastro no CIUCA e credenciamento válido no CIAEP. 
+9.2) 
+REQUISITOS PARA AVALIAÇÃO DOS ITENS DE ORÇAMENTO 
+§ 1º O descritivo da manutenção de cada equipamento deverá conter as seguintes informações:  
+(i) 
+discriminação dos serviços a serem executados;  
+(ii) 
+relação das peças a serem eventualmente substituídas; 
+  
+9/12 
+ 
+(iii) 
+prazo de assistência técnica gratuita, após a execução do serviço. 
+§ 2º A documentação referente à manutenção dos equipamentos, bem como a material permanente 
+ou de consumo, a serviços de terceiro, deverá atender aos seguintes requisitos: 
+(i) 
+para itens nacionais com valor total igual ou superior a R$100.000,00: apresentação de 
+orçamento. 
+(ii) 
+para todos os itens importados: apresentação de pro forma.  
+§ 3º Para as pequenas reformas e adaptações deverá ser apresentado Projeto Resumido, conforme 
+orientações disponíveis na Área para Clientes do site da Finep (http://www.finep.gov.br/area-para-
+clientes-externo/formularios-e-manuais). 
+§ 4º O lançamento dos valores referentes aos itens importados deverá ser feito na moeda nacional 
+Real (R$), devendo ser utilizada a taxa de câmbio da data de disponibilização do FAP. 
+§ 5º O não atendimento a quaisquer dos requisitos listados ou a falta de veracidade em quaisquer 
+das informações prestadas implicará na eliminação do item solicitado.  
+10) ESTRUTURA DA SELEÇÃO PÚBLICA 
+A seleção será feita através das seguintes etapas: 
+10.1) AVALIAÇÃO DE MÉRITO 
+§1º Os subprojetos que atenderem às exigências formais do presente edital serão avaliados por 
+consultores externos; 
+§2º Nenhum consultor poderá ter acesso ou participar da avaliação da proposta da instituição a qual 
+está vinculado; 
+§3º Os subprojetos serão divididos de acordo a Linha Temática a qual se relacionam; 
+§4º A avaliação de mérito de cada subprojeto seguirá critérios específicos a sua linha temática, 
+conforme o quadro abaixo: 
+Critérios 
+Notas 
+Peso 
+01 – Qualidade da equipe científica usuária da infraestrutura de pesquisa a ser 
+beneficiada pelo Subprojeto 
+1-5 
+5 
+02 - Utilização multiusuária da infraestrutura de pesquisa a ser beneficiada pelo 
+Subprojeto 
+1-5 
+5 
+03 – Relevância do plano de utilização da infraestrutura apresentada para o Subprojeto, 
+de acordo com as linhas de pesquisa a serem beneficiadas 
+1-5 
+4 
+04– Resultados e Impactos esperados no desenvolvimento das atividades de pesquisa 
+e/ou pós-graduação associadas à infraestrutura de pesquisa a ser beneficiada pelo 
+Subprojeto 
+1-5 
+3 
+05 - Adequação do orçamento e do cronograma de atividades previstas no Subprojeto 
+1-5 
+1 
+06 – Enquadramento do Subprojeto nos grupos prioritários (*) 
+0-1 
+- 
+(*) O critério 06 somente será considerado para os Subprojetos declarados como concorrente nos grupos prioritários.  Para os 
+demais, será atribuída a classificação “Não se aplica” (NA). 
+  
+10/12 
+ 
+§5º Após análise do mérito, em cada linha temática, serão indeferidos os subprojetos com média 
+ponderada inferior a 3 (três), bem como, os subprojetos que obtiverem nota 0 (zero) na avaliação 
+do critério 06; 
+§6º No âmbito de cada Grupo Prioritário será recomendado somente o subprojeto que obtiver a 
+maior pontuação na média ponderada dos critérios. Os demais subprojetos concorrentes serão 
+indeferidos; 
+§7º  Os subprojetos não indeferidos serão classificados de forma decrescente, em cada linha 
+temática, considerando sua pontuação final; 
+§8º  Os subprojetos serão recomendados para apoio, em cada linha temática, conforme sua 
+classificação, até o limite dos recursos previstos no § 1º do Item 5; 
+§9º  Em caso de empate na pontuação final entre dois ou mais subprojetos, prevalecerá o subprojeto 
+da Unidade Federativa com o menor PIB per capita, conforme último censo do IBGE. E caso ocorra 
+empate dentro da mesma Unidade Federativa, as notas dos critérios de avaliação serão consideradas 
+para desempate seguindo o ordenamento dos critérios; 
+§10º  Caso o percentual mínimo de recursos disposto no § 2º do Item 5 não seja alcançado, enquanto 
+houver subprojetos daquelas regiões, dentre os não indeferidos naquela linha temática, esses serão 
+reclassificados até o atingimento do percentual; 
+§11º  Caso a demanda qualificada numa determinada LINHA não atinja o limite de recursos previstos 
+para apoio a esta LINHA, a Finep poderá determinar a redistribuição dos recursos remanescentes 
+para as demais LINHAS, sempre observando a ordem de classificação. 
+10.2) ANÁLISE JURÍDICA 
+§ 12º Serão verificados os dados e documentação recebidos para ateste da elegibilidade das 
+instituições partícipes.  
+§ 13º Na fase de contratação, será analisada a documentação exigida de acordo com a legislação 
+vigente. Durante a análise jurídica, caso necessário, serão solicitados documentos institucionais. 
+§ 14º Durante a análise jurídica, poderá ser comunicada ao proponente qualquer irregularidade ou 
+imprecisão identificada na proposta, que deverá ser sanada no prazo de 5 (cinco) dias corridos, sob 
+pena de exclusão do processo.  
+§ 15º Caso algum dos aspectos avaliados não atenda às disposições da Chamada ou à legislação 
+vigente, a proposta será eliminada. 
+10.3) DELIBERAÇÃO 
+§ 16º As propostas aprovadas após análise jurídica serão submetidas à apreciação da Diretoria 
+Executiva da FINEP para decisão final. 
+§ 17º Caso haja uma maior disponibilidade de recursos, decorrente de acréscimo de recursos 
+orçamentários e financeiros ou caso alguma proposta aprovada não tenha sido contratada, outras 
+propostas recomendadas na etapa de Avaliação de mérito, respeitada a ordem de classificação, 
+poderão ser submetidas à análise jurídica para posterior deliberação da Diretoria Executiva da FINEP.  
+  
+11/12 
+ 
+10.4) CONTRATAÇÃO E LIBERAÇÃO DE RECURSOS 
+§ 18º As condições para a contratação de cada projeto serão definidas na Decisão da Diretoria 
+Executiva da FINEP. 
+§ 19º A minuta de convênio/termo de cooperação assinada pelos dirigentes máximos das 
+Instituições partícipes, exceto a Concedente, deverá ser enviada à FINEP no prazo máximo de 30 
+(trinta) dias corridos a contar da data do seu recebimento.  O não cumprimento do prazo poderá 
+acarretar o arquivamento definitivo da proposta.  
+§ 20º A contratação do projeto estará condicionada ao cumprimento das condições próprias para 
+recebimento de recursos da União.  
+§ 21º A não contratação do projeto no prazo de 120 (cento e vinte) dias corridos, a contar da data 
+de envio do instrumento contratual, poderá acarretar o arquivamento da proposta. 
+10.5) ACOMPANHAMENTO TÉCNICO E FINANCEIRO 
+§ 22º O acompanhamento técnico e financeiro dos projetos apoiados será feito pela FINEP ou por 
+entidade designada, através das metas e atividades previstas no plano de trabalho, de visitas de 
+acompanhamento, reuniões ou outros mecanismos de avaliação, a critério da FINEP.  
+11) DISPOSIÇÕES GERAIS 
+I - Base legal: Termo de referência assinado em xx/xx/2018; Instrução Normativa nº 01/2010 de 
+25/06/2010 do Conselho Diretor do FNDCT, publicada no DOU em 28/06/2010; Lei nº 10.973/2004 
+(Lei de Inovação); Decreto nº 9283/2018; Portarias Interministeriais MEC/MCTI n°3185/2004 e 
+n°191/2012 (Regularidade das Instituições/Fundações de Apoio); Lei nº 11.794/2008 
+(Procedimentos para Uso Científico de Animais); Lei nº 11.105/2005 (Lei de Biossegurança); Lei 
+13.123/2015 (Lei da Biodiversidade); Portaria MCTIC nº 5861/2017; Resoluções Normativas vigentes 
+do CONCEA. 
+II - Interposição de Recursos: Com base na Lei nº 9784/99, a instituição candidata poderá apresentar 
+recurso às decisões da FINEP em até 10 (dez) dias corridos após a divulgação do Resultado Preliminar, 
+através de correspondência formal dirigida ao Presidente da Finep e remetidas pelo correio, em 
+modalidade de encomenda expressa, ou entregue diretamente à Finep/RJ. 
+III - Revogação ou Anulação da Chamada Pública: A qualquer tempo, a presente Chamada Pública 
+poderá ser revogada ou anulada, no todo ou em parte, por motivo de interesse público ou exigência 
+legal, sem que isso implique direito a indenização ou reclamação de qualquer natureza. 
+Caberá à FINEP resolver os casos omissos e as situações não previstas na presente Chamada Pública.  
+ 
+ 
+  
+12/12 
+ 
+12) CONSIDERAÇÕES FINAIS 
+§ 1º O resultado final será divulgado na página eletrônica da FINEP, além de publicado no Diário 
+Oficial da União. 
+§ 2º As informações repassadas à FINEP, desde o envio da proposta, dependendo de sua natureza, 
+podem ser passíveis de divulgação externa, em virtude da Lei de Acesso a Informações (Lei 
+12.527/2011) e sua regulamentação. 
+§ 3º Esclarecimentos acerca do conteúdo desta Chamada Pública poderão ser obtidos através do 
+Serviço de Atendimento ao Cliente FINEP – SAC – por e-mail - sac@finep.gov.br, ou telefone: (21) 
+2555-0555. Eventuais dúvidas e questionamentos enviados à Finep não alteram os prazos 
+estabelecidos no item 8. 
+ 
+Rio de Janeiro, 11 de julho de 2018. 
+ 
+ 
+__________________________________________ 
+MARCOS CINTRA CAVALCANTI DE ALBUQUERQUE 
+Presidente 
+Financiadora de Estudos e Projetos – FINEP 
+ 0132/18 UEPG – UNIVERSIDADE ESTADUAL DE PONTA GROSSA
+0132/18
+Linha  Temática 1
+MANU-UEPG – MANUTENÇÃO PREVENTIVA DOS EQUIPAMENTOS MULTIUSUÁRIOS DA UEPG
+Recomendado e sujeito à disponibilidade de recursos
+0133/18 FEEVALE – UNIVERSIDADE FEEVALE
+0133/18
+Linha  Temática 2
+CRISP – CRISP-Cas9 para a geração de murinos geneticamente modificados por biotécnicas avançadas 
+para modelos biomédicos e para a produção e saúde animal
+Indeferido
+0134/18 UNIFESP – UNIVERSIDADE FEDERAL DE SÃO PAULO
+Até 
+2.591.861,22
+R$    
+0134/18
+Linha  Temática 1
+MECMU – Manutenção de Equipamentos dos Centros Multiusuários da UNIFESP
+Recomendado e dentro do limite de recursos
+Até 
+1.452.433,65
+R$     
+0134/18
+Linha  Temática 2
+MIBCEU – Manutenção da Infraestrutura dos Biotérios de Criação e Experimentação da UNIFESP
+Recomendado e dentro do limite de recursos
+Até 
+999.330,48
+R$        
+0134/18
+Linha  Temática 3
+MCBMF – Manutenção de coleção biológica de microrganismo: Fungos de interesse médico
+Recomendado e dentro do limite de recursos
+Até 
+140.097,09
+R$        
+0135/18 HCPA – HOSPITAL DE CLÍNICAS DE PORTO ALEGRE
+Até 
+433.460,55
+R$        
+0135/18
+Linha  Temática 2
+BIO UEA – MANUTENÇÃO E QUALIFICAÇÃO DA UNIDADE DE EXPERIMENTAÇÃO ANIMAL (UEA)
+Recomendado e dentro do limite de recursos
+Até 
+433.460,55
+R$        
+0136/18 UENF – UNIVERSIDADE ESTADUAL DO NORTE FLUMINENSE DARCY RIBEIRO
+Até 
+331.747,75
+R$        
+0136/18
+Linha  Temática 1
+UENFMPE – Manutenção preventiva de equipamentos multiusuários de médio e grande porte da UENF
+Recomendado e dentro do limite de recursos
+Até 
+191.374,00
+R$        
+0136/18
+Linha  Temática 2
+BIOTERIO – Manutenção do Biotério Central da UENF e suas Unidades
+Recomendado e dentro do limite de recursos
+Até 
+140.373,75
+R$        
+0137/18 UNIFAP – FUNDAÇÃO UNIVERSIDADE FEDERAL DO AMAPÁ
+0137/18
+Linha  Temática 2
+EPZFUNIFAP – Human - Estruturação e modernização da Plataforma de Zebrafish da UNIFAP
+Indeferido
+0138/18 FEC – FUNDAÇÃO EUCLIDES DA CUNHA DE APOIO INSTITUCIONAL À UFF
+0138/18
+Linha  Temática 1
+MANUTENCAO – Manutenção Preventiva de Equipamentos de Médio e Grande Porte de Laboratórios 
+Multiusuários
+Indeferido
+0138/18
+Linha  Temática 2
+BIOTERIO – Manutenção e a adequação das instalações para roedores e lagomorfos da REDEBIO-UFF 
+conforme a Resolução Normativa 15 do CONCEA
+Indeferido
+0139/18 UESB – UNIVERSIDADE ESTADUAL DO SUDOESTE DA BAHIA
+Até 
+382.244,24
+R$        
+0139/18
+Linha  Temática 1
+EQUIPA – Manutenção Equipamentos UESB
+Recomendado e dentro do limite de recursos
+Até 
+382.244,24
+R$        
+Resultado Final
+CHAMADA PÚBLICA MCTIC/FINEP/CT-INFRA 03/2018
+Manutenção Preventiva de Equipamentos e Manutenção de Infraestrutura de Biotérios e 
+de Coleções Biológicas de Microrganismos
+ Resultado Final
+CHAMADA PÚBLICA MCTIC/FINEP/CT-INFRA 03/2018
+Manutenção Preventiva de Equipamentos e Manutenção de Infraestrutura de Biotérios e 
+de Coleções Biológicas de Microrganismos
+0140/18 UFOP – UNIVERSIDADE FEDERAL DE OURO PRETO
+Até 
+2.599.875,16
+R$    
+0140/18
+Linha  Temática 1
+MULTIUFOP – Contratação de manutenções preventivas para viabilizar a consolidação da Plataforma 
+Multiusuária Integrada ECRN/NUPEB/CIPHARMA/PROAMB
+Recomendado e dentro do limite de recursos
+Até 
+1.476.182,00
+R$     
+0140/18
+Linha  Temática 2
+CCA18 – Biotério - Centro de Ciência Animal /CCA: biotério de criação e experimentação para 
+manutenção de animais para o ensino e pesquisa na UFOP
+Recomendado e dentro do limite de recursos
+Até 
+940.883,65
+R$        
+0140/18
+Linha  Temática 3
+COLUFOP – Curadoria e Gestão de Coleções Biológicas na UFOP
+Recomendado e dentro do limite de recursos
+Até 
+182.809,51
+R$        
+0142/18 UERJ – UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+Até 
+1.469.701,77
+R$    
+0142/18
+Linha  Temática 1
+MULTIUERJ – Manutenção dos equipamentos multiusuários da UERJ
+Recomendado e dentro do limite de recursos
+Até 
+1.469.701,77
+R$     
+0142/18
+Linha  Temática 3
+BIONÚCLEO – Manutenção do sistema de coleções de cultura da UERJ
+Indeferido
+0143/18 UFRB – UNIVERSIDADE FEDERAL DO RECÔNCAVO DA BAHIA
+0143/18
+Linha  Temática 1
+NUMMA – MANUTENÇÃO DOS EQUIPAMENTOS MULTIUSUÁRIOS E ADEQUAÇÃO DA INFRAESTRUTURA 
+DO NÚCLEO DE MICROSCOPIA E MICROANÁLISES DA UFRB
+Indeferido
+0144/18 UFU – UNIVERSIDADE FEDERAL DE UBERLÂNDIA
+Até 
+971.206,17
+R$        
+0144/18
+Linha  Temática 1
+MANUFU – Manutenção preventiva dos equipamentos multiusuários FINEP da Universidade Federal de 
+Uberlândia
+Recomendado e dentro do limite de recursos
+Até 
+971.206,17
+R$        
+0145/18 UNIPAMPA – FUNDAÇÃO UNIVERSIDADE FEDERAL DO PAMPA
+Até 
+1.325.307,04
+R$    
+0145/18
+Linha  Temática 1
+CIPNUPEVI – Manutenção preventiva dos equipamentos de pesquisa básica do CIP-Biotec e NUPEVI.
+Recomendado e dentro do limite de recursos
+Até 
+325.843,13
+R$        
+0145/18
+Linha  Temática 2
+CRISPBIO – CRISPR-pesquisa para humanização de modelos experimentais e manipulação genômica de 
+Danio rerio por meio da tecnologia CRISPR-Cas9.
+Recomendado
+Até 
+999.463,91
+R$        
+0145/18
+Linha  Temática 3
+PLASM-CIPA – PLASM-Manutenção da infraestrutura da coleção de células imortalizadas do CIP-BIOTEC Indeferido após seleção
+0146/18 CPATU – EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA - CENTRO DE PESQUISA  AGROFLORESTAL DA AMAZÔNIA ORIENTAL CPATU
+Até 
+1.918.168,86
+R$    
+0146/18
+Linha  Temática 1
+PREVEQ – Manutenção preventiva de equipamentos de alta complexidade dos laboratórios 
+multiusuários da Embrapa adquiridos com recursos do FNDCT
+Recomendado e dentro do limite de recursos
+Até 
+839.735,70
+R$        
+0146/18
+Linha  Temática 2
+ANIMALPROT – Manutenção preventiva da infraestrutura de biotérios da Embrapa destinados à 
+promoção da sustentabilidade das cadeias produtivas de proteína animal
+Recomendado e dentro do limite de recursos
+Até 
+630.101,04
+R$        
+0146/18
+Linha  Temática 3
+BACKUPBGM – Manutenção da infraestrutura de uma cópia de segurança do Banco Genético 
+Microbiano (BGM) e apoio à gestão da qualidade do acervo
+Recomendado e dentro do limite de recursos
+Até 
+448.332,12
+R$        
+0147/18 FUFS – FUNDAÇÃO UNIVERSIDADE FEDERAL DE SERGIPE
+Até 
+2.295.309,91
+R$    
+0147/18
+Linha  Temática 1
+PROMANPREV – Programa de Manutenção Preventiva do Parque de Equipamentos da Universidade 
+Federal de Sergipe
+Recomendado e dentro do limite de recursos
+Até 
+1.320.270,34
+R$     
+0147/18
+Linha  Temática 2
+REMABI – Reestruturação e manutenção de Biotérios da UFS
+Recomendado e dentro do limite de recursos
+Até 
+975.039,57
+R$        
+0147/18
+Linha  Temática 3
+BIOUFS – Formação e Manutenção da Rede UFS de Coleções Biológicas
+Indeferido
+ Resultado Final
+CHAMADA PÚBLICA MCTIC/FINEP/CT-INFRA 03/2018
+Manutenção Preventiva de Equipamentos e Manutenção de Infraestrutura de Biotérios e 
+de Coleções Biológicas de Microrganismos
+0148/18 UFGD – FUNDAÇÃO UNIVERSIDADE FEDERAL DA GRANDE DOURADOS
+0148/18
+Linha  Temática 2
+MINBIO – "[HUMAN]" Manutenção da infraestrutura de biotérios na faixa de fronteira
+Indeferido
+0149/18 UFVJM – UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI
+0149/18
+Linha  Temática 1
+MPMULTILAB – Manutenção Preventiva de Equipamentos dos Laboratórios Multiusuários-UFJM
+Recomendado e sujeito à disponibilidade de recursos
+0150/18 UFRRJ – UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO
+Até 
+1.196.077,06
+R$    
+0150/18
+Linha  Temática 1
+AMACERM – Apoio à Manutenção Preventiva do Centro de Ressonância Magnética da UFRRJ
+Recomendado e dentro do limite de recursos
+Até 
+764.215,01
+R$        
+0150/18
+Linha  Temática 3
+UFRRJCOL – Manutenção de Coleções Biológicas de Microrganismos localizadas na UFRRJ
+Recomendado e dentro do limite de recursos
+Até 
+431.862,05
+R$        
+0151/18 UFRGS – UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+Até 
+2.892.862,41
+R$    
+0151/18
+Linha  Temática 1
+MME18 – Manutenção de Equipamentos Multiusuários da Rede de Exatas UFRGS
+Recomendado e dentro do limite de recursos
+Até 
+1.474.020,99
+R$     
+0151/18
+Linha  Temática 2
+CREAL18 – Manutenção do Centro de Reprodução e Experimentação de Animais de Laboratório
+Recomendado e dentro do limite de recursos
+Até 
+919.283,42
+R$        
+0151/18
+Linha  Temática 3
+CELL18 – Coleções Biológicas UFRGS
+Recomendado e dentro do limite de recursos
+Até 
+499.558,00
+R$        
+0152/18 UNIRIO – UNIVERSIDADE FEDERAL DO ESTADO DO RIO DE JANEIRO
+Até 
+848.202,59
+R$        
+0152/18
+Linha  Temática 2
+INOVABIO – Manuntenção e Infraestrutura de biotério institucional para aplicação de novas tecnologias Recomendado e dentro do limite de recursos
+Até 
+848.202,59
+R$        
+0153/18 CETEM – CENTRO DE TECNOLOGIA MINERAL
+Até 
+483.680,25
+R$        
+0153/18
+Linha  Temática 1
+MANUTEMINE – Manutenção dos laboratórios multiusuário de tecnologia mineral
+Recomendado e dentro do limite de recursos
+Até 
+483.680,25
+R$        
+0154/18 UFC – UNIVERSIDADE FEDERAL DO CEARÁ
+Até 
+650.716,64
+R$        
+0154/18
+Linha  Temática 1
+PROEXC – Manutenção dos Equipamentos de destinados a pesquisa dos Programas de Excelência da 
+UFC
+Recomendado e dentro do limite de recursos
+Até 
+574.042,62
+R$        
+0154/18
+Linha  Temática 2
+BIOCERT – BIOTÉRIO - MANUTENÇÃO DA INFRAESTRUTURA DOS BIOTÉRIOS DE CRIAÇÃO DA 
+UNIVERSIDADE FEDERAL DO CEARÁ
+Recomendado e dentro do limite de recursos
+Até 
+76.674,02
+R$          
+0154/18
+Linha  Temática 3
+CBFB-UFC – Modernização e Manutenção de Coleções de Fungos e Bactérias mantidas na Universidade 
+Federal do Ceará
+Indeferido
+0155/18 UNESP – UNIVERSIDADE ESTADUAL PAULISTA JULIO DE MESQUITA FILHO
+Até 
+1.212.287,17
+R$    
+0155/18
+Linha  Temática 1
+MAEQUIP – Manutenção Preventiva e Corretiva de Equipamentos Multiusuários de Grande Porte 
+Utilizados na Pesquisa e na Prestação de Serviços
+Recomendado e dentro do limite de recursos
+Até 
+927.802,93
+R$        
+0155/18
+Linha  Temática 2
+CRISPUNESP – [CRISP] CRISPR-Cas9 - Adequação do Centro de Pesquisa e Produção de Animais - 
+CPPA/IBTEC - para desenvolvimento da tecnologia in vitro
+Indeferido após seleção
+0155/18
+Linha  Temática 3
+UNESP-COL – Central de Recursos Microbianos da UNESP (CRM-UNESP): Infraestrutura de base para a 
+pesquisa, ensino e desenvolvimento biotecnológico
+Recomendado e dentro do limite de recursos
+Até 
+284.484,24
+R$        
+ Resultado Final
+CHAMADA PÚBLICA MCTIC/FINEP/CT-INFRA 03/2018
+Manutenção Preventiva de Equipamentos e Manutenção de Infraestrutura de Biotérios e 
+de Coleções Biológicas de Microrganismos
+0156/18 SBIBHAE – SOCIEDADE BENEFICENTE ISRAELITA BRASILEIRA HOSPITAL ALBERT EINSTEIN
+0156/18
+Linha  Temática 2
+CRISPHIAE – TECNOLOGIA CRISPR PARA MODELOS PRÉ CLÍNICOS
+Indeferido após seleção
+0157/18 FPCRJ – FUNDAÇÃO PLANETÁRIO DA CIDADE DO RIO DE JANEIRO
+0157/18
+Linha  Temática 1
+SPMPEP – Manutenção preventiva de equipamentos de planetário
+Indeferido
+0158/18 UFSJ – UNIVERSIDADE FEDERAL DE SÃO JOÃO DEL-REI
+0158/18
+Linha  Temática 2
+HMGB – ?[HUMAN]? Humanização de modelos animais na UFSJ: Manutenção da Infraestrutura, 
+Gerenciamento e Implantação de novos modelos.
+Indeferido
+0159/18 UFRN – UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
+Até 
+1.807.193,33
+R$    
+0159/18
+Linha  Temática 1
+MAPEQ – Manutenção Preventiva de Equipamentos Multiusuários de Pesquisa da UFRN
+Recomendado e dentro do limite de recursos
+Até 
+1.499.431,83
+R$     
+0159/18
+Linha  Temática 2
+ICE-CRISP – CRISP - Manutenção e estruturação de biotério para implantação de tecnologia de edição 
+genômica por CRISPR-Cas9 no Instituto do Cérebro da UFRN
+Indeferido após seleção
+0159/18
+Linha  Temática 3
+CMC – Manutenção da Infraestrutura da Coleção de Microrganismos e Células da UFRN
+Recomendado e dentro do limite de recursos
+Até 
+307.761,50
+R$        
+0160/18 UFMG – UNIVERSIDADE FEDERAL DE MINAS GERAIS
+Até 
+2.371.827,19
+R$    
+0160/18
+Linha  Temática 1
+MAPRE-UFMG – Manutenção Preventiva da Infraestrutura de Laboratórios de Pesquisa Multiusuários e 
+Multidisciplinares da UFMG: Integração de Ciências Básicas, Aplica
+Recomendado e dentro do limite de recursos
+Até 
+1.207.206,19
+R$     
+0160/18
+Linha  Temática 2
+MABIO-UFMG – Manutenção da infraestrutura do Biotério Central da UFMG  para suporte e  avanço da 
+experimentação  científica com animais
+Recomendado e dentro do limite de recursos
+Até 
+998.791,00
+R$        
+0160/18
+Linha  Temática 3
+MACOL-UFMG – Coleção de Microrganismos e Células da Universidade Federal de Minas Gerais
+Recomendado e dentro do limite de recursos
+Até 
+165.830,00
+R$        
+0161/18 UESC – UNIVERSIDADE ESTADUAL DE SANTA CRUZ
+Até 
+984.321,85
+R$        
+0161/18
+Linha  Temática 1
+MANUTUESC – Manutenção preventiva de equipamentos de alta precisão disponíveis em Centros de 
+pesquisa Multiusuários da UESC
+Recomendado e dentro do limite de recursos
+Até 
+984.321,85
+R$        
+0162/18 UFES – UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO
+0162/18
+Linha  Temática 1
+RMN – Manutenção do sistema de hardware do espectrômetro de Ressonância Magnética Nuclear
+Indeferido
+0163/18 UFSC – UNIVERSIDADE FEDERAL DE SANTA CATARINA
+Até 
+1.817.197,05
+R$    
+0163/18
+Linha  Temática 1
+MANUFSC – MANutenção preventiva de equipamentos de pesquisa de estruturas multiusuárias da UFSC Recomendado e dentro do limite de recursos
+Até 
+1.242.869,05
+R$     
+0163/18
+Linha  Temática 2
+M-CPMR – Manutenção do Centro de Produção e Manutenção de Roedores
+Recomendado e dentro do limite de recursos
+Até 
+574.328,00
+R$        
+ Resultado Final
+CHAMADA PÚBLICA MCTIC/FINEP/CT-INFRA 03/2018
+Manutenção Preventiva de Equipamentos e Manutenção de Infraestrutura de Biotérios e 
+de Coleções Biológicas de Microrganismos
+0164/18 UEM – UNIVERSIDADE ESTADUAL DE MARINGÁ
+Até 
+1.600.455,35
+R$    
+0164/18
+Linha  Temática 1
+MAPRE-UEM – SP1 - Manutenção preventiva de equipamentos multiusuários da Universidade Estadual 
+de Maringá (UEM),  financiados pela Finep.
+Recomendado e dentro do limite de recursos
+Até 
+1.498.855,35
+R$     
+0164/18
+Linha  Temática 2
+BIT-UEM – SP2 - Manutenção da Infraestrutura do Biotério Central da Universidade Estadual de Maringá Recomendado e dentro do limite de recursos
+Até 
+101.600,00
+R$        
+0165/18 FURG – UNIVERSIDADE FEDERAL DO RIO GRANDE
+Até 
+120.429,40
+R$        
+0165/18
+Linha  Temática 1
+MANUPREV – Manutenção Preventiva de equipamentos multiusuários de médio e grande porte 
+adquiridos com recursos do FNDCT/FINEP
+Recomendado e sujeito à disponibilidade de recursos
+0165/18
+Linha  Temática 2
+CRISP@FURG – [CRISP] Implementação de um Centro de Produção de Linhagens Genomicamente 
+Editadas de roedores e peixes através da tecnologia CRISPR-Cas9
+Indeferido após seleção
+0165/18
+Linha  Temática 3
+OTIMACIANO – Otimização da Coleção de Culturas de Cianobactérias da FURG
+Recomendado e dentro do limite de recursos
+Até 
+120.429,40
+R$        
+0166/18 FUNECE – FUNDAÇÃO UNIVERSIDADE ESTADUAL DO CEARÁ
+Até 
+351.649,36
+R$        
+0166/18
+Linha  Temática 1
+EQUIPBIOT – Manutenção preventiva e corretiva de sistemas de equipamentos de Laboratórios 
+Multiusuário e Biotério de Produção e Experimentação
+Recomendado e dentro do limite de recursos
+Até 
+324.869,36
+R$        
+0166/18
+Linha  Temática 2
+INFRABIOT – Manutenção de infraestrutura do Biotério de Produção e de Experimentação de Produção 
+e Experimentação
+Recomendado e dentro do limite de recursos
+Até 
+26.780,00
+R$          
+0167/18 PUCPR – PONTIFICIA UNIVERSIDADE CATÓLICA DO PARANÁ
+Até 
+1.141.633,10
+R$    
+0167/18
+Linha  Temática 1
+MANPRPUCPR – Manutenção preventiva de equipamentos de médio e grande porte adquiridos com 
+recursos FNDCT em ações da Finep na PUCPR
+Recomendado e dentro do limite de recursos
+Até 
+755.571,10
+R$        
+0167/18
+Linha  Temática 3
+CTC/PUCPR – Coleção de células-tronco do Biobanco do Centro de Tecnologia Celular da (CTC/PUCPR) 
+manutenção da infraestrutura
+Recomendado e dentro do limite de recursos
+Até 
+386.062,00
+R$        
+0168/18 PRP-USP – UNIVERSIDADE DE SÃO PAULO
+Até 
+1.987.066,60
+R$    
+0168/18
+Linha  Temática 1
+INFRAMULTI – Manutenção da Infraestrutura Multiusuários
+Recomendado e dentro do limite de recursos
+Até 
+589.047,07
+R$        
+0168/18
+Linha  Temática 2
+REDEBIOT – Manutenção de biotérios da Rede de Biotérios da USP
+Recomendado e dentro do limite de recursos
+Até 
+898.077,60
+R$        
+0168/18
+Linha  Temática 3
+CEL-USP – Rede CEL-USP: Biobanco virtual da Universidade de São Paulo
+Recomendado e dentro do limite de recursos
+Até 
+499.941,93
+R$        
+0169/18 HNMD – COMANDO DA MARINHA - HOSPITAL NAVAL MARCÍLIO DIAS
+Até 
+125.141,25
+R$        
+0169/18
+Linha  Temática 2
+REDEBIOIPB – BIO-IPB: Estabelecimento de uma rede de fornecimento de modelos animais 
+experimentais
+Recomendado e dentro do limite de recursos
+Até 
+125.141,25
+R$        
+0170/18 UFPI – FUNDAÇÃO UNIVERSIDADE FEDERAL DO PIAUÍ
+Até 
+1.405.980,56
+R$    
+0170/18
+Linha  Temática 1
+MULTI – Manutenção de Equipamentos Multiusuários da UFPI
+Recomendado e dentro do limite de recursos
+Até 
+1.405.980,56
+R$     
+0170/18
+Linha  Temática 2
+FORBIOCEN – Fortalecimento das Barreiras Sanitárias do BIOCENTRAL para pesquisa em modelos 
+experimentais com animais de laboratório
+Indeferido
+ Resultado Final
+CHAMADA PÚBLICA MCTIC/FINEP/CT-INFRA 03/2018
+Manutenção Preventiva de Equipamentos e Manutenção de Infraestrutura de Biotérios e 
+de Coleções Biológicas de Microrganismos
+0171/18 FUERN – FUNDAÇÃO UNIVERSIDADE DO ESTADO DO RIO GRANDE DO NORTE
+0171/18
+Linha  Temática 1
+REDEMULTI – Manutenção dos equipamentos da rede de laboratórios multiusuários da UERN
+Recomendado e sujeito à disponibilidade de recursos
+0172/18 FUB – FUNDAÇÃO UNIVERSIDADE DE BRASÍLIA
+Até 
+1.428.258,54
+R$    
+0172/18
+Linha  Temática 1
+MODERNUNB – Modernização dos Equipamentos Multiusuários para Pesquisa e Desenvolvimento na 
+UnB
+Recomendado e dentro do limite de recursos
+Até 
+1.428.258,54
+R$     
+0173/18 UFG – UNIVERSIDADE FEDERAL DE GOIÁS
+Até 
+2.628.362,01
+R$    
+0173/18
+Linha  Temática 1
+MANEQUI – Manutenção de equipamentos de médio e grande porte da UFG
+Recomendado e dentro do limite de recursos
+Até 
+1.484.969,21
+R$     
+0173/18
+Linha  Temática 2
+REDBIOT – Manutenção da Infraestrutura da Rede de Biotérios da UFG
+Recomendado e dentro do limite de recursos
+Até 
+999.736,40
+R$        
+0173/18
+Linha  Temática 3
+BIOBANCO – Manutenção de Bancos Biológicas de Patógenos e de Células Pacientes do Centro-Oeste 
+Brasileiro
+Recomendado e dentro do limite de recursos
+Até 
+143.656,40
+R$        
+0174/18 UNICAMP – UNIVERSIDADE ESTADUAL DE CAMPINAS
+Até 
+921.186,86
+R$        
+0174/18
+Linha  Temática 1
+PIEMU – Parque Institucional de Equipamentos Multiusuários da UNICAMP
+Recomendado e dentro do limite de recursos
+Até 
+488.204,79
+R$        
+0174/18
+Linha  Temática 2
+BIOTUNI – Manutenção da infraestrutura dos Biotérios de Experimentação e do Biotério de Produção 
+(CEMIB) da UNICAMP
+Recomendado e dentro do limite de recursos
+Até 
+124.753,43
+R$        
+0174/18
+Linha  Temática 3
+MICROVÍRUS – Manutenção da infraestrutura da coleção de micro-organismos e da coleção de vírus da 
+UNICAMP
+Recomendado e dentro do limite de recursos
+Até 
+308.228,64
+R$        
+0175/18 INMETRO-RJ – INSTITUTO NACIONAL DE METROLOGIA NORMALIZAÇÃO E QUALIDADE INDUSTRIAL - XERÉM
+Até 
+1.427.431,06
+R$    
+0175/18
+Linha  Temática 1
+PREVMET – Apoio a manutenção preventiva de equipamentos de suporte a projetos em metrologia, 
+rastreabilidade e garantia da qualidade
+Recomendado e dentro do limite de recursos
+Até 
+1.427.431,06
+R$     
+0176/18 UFMS – FUNDAÇÃO UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL
+Até 
+402.880,38
+R$        
+0176/18
+Linha  Temática 1
+MPECUFMS – Manutenção Preventiva de Equipamentos Científicos UFMS 2018
+Recomendado e dentro do limite de recursos
+Até 
+402.880,38
+R$        
+0176/18
+Linha  Temática 2
+BIOTEUFMS – Readequação da infraestrutura do Biotério Central da Universidade Federal do Mato 
+Grosso do Sul
+Indeferido
+0176/18
+Linha  Temática 3
+PLASMUFMS – PLASMideos para aplicação na coleção de genes associados ao quinoma e o câncer na 
+UFMS
+Indeferido após seleção
+0177/18 IB – SECRETARIA DE AGRICULTURA E ABASTECIMENTO - INSTITUTO BIOLÓGICO
+0177/18
+Linha  Temática 3
+IB-IBSBF – Coleção de Fitobactérias IBSBF
+Indeferido
+0178/18 UFLA – UNIVERSIDADE FEDERAL DE LAVRAS
+Até 
+1.023.100,44
+R$    
+0178/18
+Linha  Temática 1
+MANUFLA – MANUTENÇÃO DE EQUIPAMENTOS DE ALTO CUSTO DOS CENTROS MULTIUSUARIOS DA 
+UFLA
+Recomendado e dentro do limite de recursos
+Até 
+626.699,79
+R$        
+0178/18
+Linha  Temática 2
+LAMCEA – Laboratório Multiusuário de Criação e Experimentação Animal da UFLA: manutenção 
+preventiva de equipamentos para avanço do ensino, pesquisa e extensão
+Recomendado e dentro do limite de recursos
+Até 
+210.592,77
+R$        
+0178/18
+Linha  Temática 3
+URMICRO – Estruturação da Coleção de Cultura de Microrganismos para Unidade de Recursos 
+Microbiológicos: Pesquisa, Preservação e Serviços
+Recomendado e dentro do limite de recursos
+Até 
+185.807,88
+R$        
+ Resultado Final
+CHAMADA PÚBLICA MCTIC/FINEP/CT-INFRA 03/2018
+Manutenção Preventiva de Equipamentos e Manutenção de Infraestrutura de Biotérios e 
+de Coleções Biológicas de Microrganismos
+ Resultado Final
+CHAMADA PÚBLICA MCTIC/FINEP/CT-INFRA 03/2018
+Manutenção Preventiva de Equipamentos e Manutenção de Infraestrutura de Biotérios e 
+de Coleções Biológicas de Microrganismos
+0179/18 JBRJ – INSTITUTO DE PESQUISA JARDIM BOTÂNICO DO RIO DE JANEIRO
+0179/18
+Linha  Temática 1
+RLM-DIPEQ – Manutenção da plataforma analítica e estrutural para estudos da diversidade florística do 
+Brasil
+Indeferido
+0180/18 UFSM – UNIVERSIDADE FEDERAL DE SANTA MARIA
+Até 
+1.445.830,32
+R$    
+0180/18
+Linha  Temática 1
+MANUTPREV – Manutenção de equipamentos destinados à pesquisa científica e tecnológica nas áreas 
+de Química, Bioquímica Toxicológica e Ciência do Solo
+Recomendado e dentro do limite de recursos
+Até 
+1.445.830,32
+R$     
+0180/18
+Linha  Temática 2
+RAIBECUFSM – HUMAN - Readequação e Ampliação da Infraestrutura do Biotério de Experimentação de 
+Coelhos da UFSM
+Indeferido
+0181/18 LNCC – LABORATÓRIO NACIONAL DE COMPUTAÇÃO CIENTÍFICA
+0181/18
+Linha  Temática 1
+MANUTSD – Apoio a manutenção do supercomputador Santos Dumont
+Indeferido
+0182/18 IPT – INSTITUTO DE PESQUISAS TECNOLÓGICAS DO ESTADO DE SÃO PAULO S. A
+0182/18
+Linha  Temática 1
+MANUTIPT18 – Manutenção Preventiva de equipamentos de Médio e Grande porte adquiridos com 
+recursos FNDCT-FINEP
+Indeferido
+0183/18 HCFMUSP – HOSPITAL DAS CLÍNICAS DA FACULDADE DE MEDICINA DA UNIVERSIDADE DE SÃO PAULO
+Até 
+1.358.461,96
+R$    
+0183/18
+Linha  Temática 1
+MANPREMIUM – Manutenção -Equipamentos estratégicos do Programa Rede de Equipamentos 
+Multiusuários (PREMIUM) do HCFMUSP e FMUSP
+Recomendado e dentro do limite de recursos
+Até 
+701.933,23
+R$        
+0183/18
+Linha  Temática 2
+MANUT-BIOT – Biotério do Sistema FMUSP e HC-FMUSP Manutenção da infraestrutura
+Recomendado e dentro do limite de recursos
+Até 
+656.528,73
+R$        
+0184/18 UEA – UNIVERSIDADE DO ESTADO DO AMAZONAS
+Até 
+436.462,50
+R$        
+0184/18
+Linha  Temática 1
+LAB-UEA – Manutenção de Laboratórios Multiusuários na UEA
+Recomendado e sujeito à disponibilidade de recursos
+0184/18
+Linha  Temática 3
+P-BIO/UEA – Manutenção das coleções biológicas da UEA
+Recomendado e dentro do limite de recursos
+Até 
+436.462,50
+R$        
+0185/18 UFABC – FUNDAÇÃO UNIVERSIDADE FEDERAL DO ABC
+Até 
+2.201.022,05
+R$    
+0185/18
+Linha  Temática 1
+MAPEMULTI – Manutenção Preventiva da Infraestrutura Multiusuária da UFABC
+Recomendado e dentro do limite de recursos
+Até 
+1.289.322,05
+R$     
+0185/18
+Linha  Temática 2
+BIOTRANS – Bioterios de criação e manutenção de animais transgênicos
+Recomendado e dentro do limite de recursos
+Até 
+911.700,00
+R$        
+0186/18 IBU – INSTITUTO BUTANTAN
+0186/18
+Linha  Temática 2
+IBU_NB2 – Estruturação física de área NB2 multiusuário no Biotério Central do Instituto Butantan
+Indeferido
+0187/18 IFES – INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO ESPÍRITO SANTO
+0187/18
+Linha  Temática 1
+MANUPREV – MANUTENÇÃO PREVENTIVA DE EQUIPAMENTOS MULTIUSUÁRIOS DE PESQUISA DO 
+PROPEMM
+Recomendado e sujeito à disponibilidade de recursos
+0188/18 UNICENTRO – UNIVERSIDADE ESTADUAL DO CENTRO OESTE
+Até 
+918.380,13
+R$        
+0188/18
+Linha  Temática 1
+MANUT2018 – Apoio à manutenção preventiva de equipamentos multiusuários de pesquisa de médio e 
+grande porte da UNICENTRO
+Recomendado e dentro do limite de recursos
+Até 
+918.380,13
+R$        
+ Resultado Final
+CHAMADA PÚBLICA MCTIC/FINEP/CT-INFRA 03/2018
+Manutenção Preventiva de Equipamentos e Manutenção de Infraestrutura de Biotérios e 
+de Coleções Biológicas de Microrganismos
+0189/18 CNPEM – CENTRO NACIONAL DE PESQUISAS EM ENERGIA E MATERIAIS
+Até 
+1.706.111,36
+R$    
+0189/18
+Linha  Temática 1
+MANSEGC – Manutenção preventiva de instalações multiusuários para sequenciamento genético e  
+caracterização avançada de materiais por microscopia eletrônica.
+Recomendado e dentro do limite de recursos
+Até 
+921.502,57
+R$        
+0189/18
+Linha  Temática 2
+MPEIB – Manutenção preventiva dos biotérios de zebrafish e camundongos do LNBio/CNPEM
+Recomendado e dentro do limite de recursos
+Até 
+784.608,79
+R$        
+0190/18 UPF – UNIVERSIDADE DE PASSO FUNDO
+0190/18
+Linha  Temática 2
+EQUIPABIOT – HUMAN AQUISIÇÃO DE EQUIPAMENTOS PARA O BIOTÉRIO DE CRIAÇÃO E 
+EXPERIMENTAÇÃO ANIMAL DO INSTITUTO DE CIÊNCIAS BIOLÓGICAS (UPF)
+Indeferido
+0191/18 INPE – MINISTÉRIO DA CIÊNCIA, TECNOLOGIA  E INOVAÇÃO - INSTITUTO NACIONAL DE PESQUISAS ESPACIAIS
+Até 
+967.265,58
+R$        
+0191/18
+Linha  Temática 1
+MANINPE – Manutenção de equipamentos de caracterização e apoio
+Recomendado e dentro do limite de recursos
+Até 
+967.265,58
+R$        
+0192/18 UFV – UNIVERSIDADE FEDERAL DE VIÇOSA
+Até 
+1.940.503,44
+R$    
+0192/18
+Linha  Temática 1
+MIMUFV – Manutenção da infraestrutura Multiusuária de médio e grande porte para pesquisa Na UFV
+Recomendado e dentro do limite de recursos
+Até 
+1.461.431,35
+R$     
+0192/18
+Linha  Temática 2
+BIOT_UFV – Modernização de biotérios da Universidade Federal de Viçosa
+Recomendado e dentro do limite de recursos
+Até 
+280.694,09
+R$        
+0192/18
+Linha  Temática 3
+AGROPECUFV – Manutenção e expansão de coleção biológica de microrganismos de interesse 
+tecnológico a agropecuária
+Recomendado e dentro do limite de recursos
+Até 
+198.378,00
+R$        
+0193/18 UFPE – UNIVERSIDADE FEDERAL DE PERNAMBUCO
+Até 
+1.148.896,08
+R$    
+0193/18
+Linha  Temática 1
+MAMULTUFPE – Manutenção preventiva de equipamentos multiusuários da UFPE
+Recomendado e dentro do limite de recursos
+Até 
+890.778,08
+R$        
+0193/18
+Linha  Temática 3
+COL-UFPE – Coleções microbianas da UFPE (Herbário URM e Micoteca URM): diversidade e 
+aplicabilidade de fungos do Brasil
+Recomendado e dentro do limite de recursos
+Até 
+258.118,00
+R$        
+0194/18 UEPA – UNIVERSIDADE DO ESTADO DO PARÁ
+Até 
+105.772,90
+R$        
+0194/18
+Linha  Temática 3
+IAZ-CZJA – INCREMENTO DO ACERVO DE ZOOPLANCTON DA COLEÇÃO ZOOLÓGICA DR. JOACHIM ADIS 
+DA UEPA PARA ATENDIMENTO A GRADUAÇÃO E PÓS-GRADUAÇÃO
+Recomendado e dentro do limite de recursos
+Até 
+105.772,90
+R$        
+0195/18 UFSCAR – FUNDAÇÃO UNIVERSIDADE FEDERAL DE SÃO CARLOS
+Até 
+533.758,49
+R$        
+0195/18
+Linha  Temática 1
+EQMULTL1 – Manutenção Preventiva de Equipamentos Multiusuários
+Recomendado e sujeito à disponibilidade de recursos
+0195/18
+Linha  Temática 2
+MBIOTL2 – Manutenção da Infraestrutura das Unidades de Experimentação do Biotério Central da 
+UFSCar
+Recomendado e dentro do limite de recursos
+Até 
+343.625,36
+R$        
+0195/18
+Linha  Temática 3
+MCMICROL3 – Manutenção da Infraestrutura de Cepas de Microalgas, Bactérias e Fungos de Coleções 
+de Culturas  da UFSCar
+Recomendado e dentro do limite de recursos
+Até 
+190.133,13
+R$        
+0196/18 UTFPR – UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ
+0196/18
+Linha  Temática 1
+MELM – Manutenção Preventiva de Equipamentos para Laboratório Multiusuário
+Indeferido
+0196/18
+Linha  Temática 2
+CEGENUTFPR – [CRISP] Criação do Centro de Engenharia Genética da Universidade Tecnológica Federal 
+do Paraná (CEGEN-UTFPR)
+Indeferido após seleção
+0196/18
+Linha  Temática 3
+PLASMCOL – Consolidação do Coleção Microbiológica de Interesse Biotecnológico da UTFPR
+Indeferido
+ Resultado Final
+CHAMADA PÚBLICA MCTIC/FINEP/CT-INFRA 03/2018
+Manutenção Preventiva de Equipamentos e Manutenção de Infraestrutura de Biotérios e 
+de Coleções Biológicas de Microrganismos
+0197/18 TECPAR – INSTITUTO DE TECNOLOGIA DO PARANÁ
+0197/18
+Linha  Temática 2
+BIO – Biotério: Reforma estrutural para consolidar o biotério do Tecpar em centro de experimentação 
+biológica
+Indeferido
+0198/18 UFBA – UNIVERSIDADE FEDERAL DA BAHIA
+Até 
+1.660.957,31
+R$    
+0198/18
+Linha  Temática 1
+EQUIPREV – Manutenção Preventiva de equipamentos financiados pelo FNDCT e de uso compartilhado
+Recomendado e dentro do limite de recursos
+Até 
+1.487.356,87
+R$     
+0198/18
+Linha  Temática 3
+BCALGAUFBA – Conservação da coleção de microalgas e cianobactérias do Instituto de Biologia para 
+pesquisas científicas básicas, bioprospecção e biotecnologia
+Recomendado e dentro do limite de recursos
+Até 
+173.600,44
+R$        
+0199/18 UFCG – UNIVERSIDADE FEDERAL DE CAMPINA GRANDE
+Até 
+330.000,00
+R$        
+0199/18
+Linha  Temática 1
+BIOCRIO – Manutenção dos Laboratórios de Bioquímica e de Criogenia
+Recomendado e dentro do limite de recursos
+Até 
+330.000,00
+R$        
+0200/18 URCA – UNIVERSIDADE REGIONAL DO CARIRI
+Até 
+738.198,15
+R$        
+0200/18
+Linha  Temática 1
+MPURCA – Manutenção preventiva multiusuária URCA
+Recomendado e dentro do limite de recursos
+Até 
+599.169,18
+R$        
+0200/18
+Linha  Temática 2
+INFRABIOT – Melhoria da infraestrutura do Biotério-URCA a luz da nova legislação CONCEA
+Recomendado e dentro do limite de recursos
+Até 
+139.028,97
+R$        
+0201/18 PUC-RIO – PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO DE JANEIRO
+Até 
+717.696,91
+R$        
+0201/18
+Linha  Temática 1
+CHARMAT – Manutenção de Equipamentos Multiusuários para Caracterização de Propriedades de 
+Materiais
+Recomendado e dentro do limite de recursos
+Até 
+717.696,91
+R$        
+0202/18 UFRJ – UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
+0202/18
+Linha  Temática 1
+MANUTSAUDE – Manutenção dos Equipamentos Multiusuários da Área de Saúde da UFRJ
+Indeferido
+0202/18
+Linha  Temática 2
+NBPRODCCS – Adequação e manutenção dos biotérios de produção da UFRJ
+Indeferido
+0203/18 UNIOESTE – UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ
+Até 
+250.000,00
+R$        
+0203/18
+Linha  Temática 2
+MANUBIO – REFORMA DO BIOTÉRIO CENTRAL DA UNIOESTE - CAMPUS DE CASCAVEL
+Recomendado e dentro do limite de recursos
+Até 
+250.000,00
+R$        
+0204/18 UFPB – UNIVERSIDADE FEDERAL DA PARAÍBA
+0204/18
+Linha  Temática 1
+MANTSEQCCA – Manutenção da Plataforma de Sequenciamento de Nova Geração do CCA
+Indeferido
+0204/18
+Linha  Temática 2
+UPAUFPB – Adequação e Manutenção do Biotério UPA-IPeFarm/UFPB
+Indeferido
+0205/18 IFGOIANO – INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA GOIANO
+Até 
+252.000,00
+R$        
+0205/18
+Linha  Temática 1
+MANUTIF – Manutenção preventiva de equipamentos multiusuários do IF Goiano
+Recomendado e sujeito à disponibilidade de recursos
+0205/18
+Linha  Temática 2
+AQBIFG – Aprimoramento da qualidade estrutural do Biotério Central do IF Goiano: implicações no 
+desenvolvimento científico da região Centro-Oeste do Brasil
+Recomendado e dentro do limite de recursos
+Até 
+252.000,00
+R$        
+0205/18
+Linha  Temática 3
+EQ-MICRO – Manutenção de coleção de culturas microbianas: métodos efetivos para armazenamento a 
+curto, médio e longo prazo.
+Indeferido
+ Resultado Final
+CHAMADA PÚBLICA MCTIC/FINEP/CT-INFRA 03/2018
+Manutenção Preventiva de Equipamentos e Manutenção de Infraestrutura de Biotérios e 
+de Coleções Biológicas de Microrganismos
+0206/18 UNIFEI – UNIVERSIDADE FEDERAL DE ITAJUBÁ
+Até 
+348.931,89
+R$        
+0206/18
+Linha  Temática 1
+MEDMOP – Manutenção de equipamentos do Centro de Desenvolvimento de Materiais e Otimização 
+de Processos (CDMOP)
+Recomendado e dentro do limite de recursos
+Até 
+348.931,89
+R$        
+0207/18 FUA – FUNDAÇÃO UNIVERSIDADE DO AMAZONAS
+Até 
+961.784,49
+R$        
+0207/18
+Linha  Temática 1
+MANUTUFAM – Manutenção preventiva de equipamentos em laboratórios multiusuarios estratégicos 
+da UFAM
+Recomendado e dentro do limite de recursos
+Até 
+961.784,49
+R$        
+0208/18 UFOB – UNIVERSIDADE FEDERAL DO OESTE DA BAHIA
+0208/18
+Linha  Temática 1
+FMPCRES – Manutenção preventiva dos equipamentos da UFOB
+Indeferido
+0209/18 UEMS – FUNDAÇÃO UNIVERSIDADE ESTADUAL DE MATO GROSSO DO SUL
+Até 
+615.723,87
+R$        
+0209/18
+Linha  Temática 2
+REBIO – Readequação das infraestruturas dos biotérios da Zootecnia para ensino e pesquisa científica
+Recomendado e dentro do limite de recursos
+Até 
+615.723,87
+R$        
+0210/18 UFPA – UNIVERSIDADE FEDERAL DO PARÁ
+0210/18
+Linha  Temática 1
+MANUFPA – Manutenção Preventiva de Equipamentos Multiusuários da UFPA
+Indeferido
+0210/18
+Linha  Temática 3
+M2CBUFPA – Manutenção e Ampliação de Duas Coleções Biológicas da Universidade Federal do Pará
+Indeferido
+0211/18 UCDB – MSMT - UNIVERSIDADE CATÓLICA DOM BOSCO
+0211/18
+Linha  Temática 1
+MEMGP – Manutenção de equipamentos de médio e grande porte
+Indeferido
+0212/18 CTI – CENTRO DE TECNOLOGIA DA INFORMAÇÃO RENATO ARCHER
+0212/18
+Linha  Temática 1
+MPECTI – Manutenção Preventiva de equipamentos de médio e grande porte do CTI Renato Archer
+Recomendado e sujeito à disponibilidade de recursos
+0213/18 UFPR – UNIVERSIDADE FEDERAL DO PARANÁ
+Até 
+1.654.682,95
+R$    
+0213/18
+Linha  Temática 1
+PMPEM-UFPR – Programa de Manutenção Preventiva de Equipamentos Multiusuários da UFPR
+Recomendado e dentro do limite de recursos
+Até 
+1.224.443,38
+R$     
+0213/18
+Linha  Temática 2
+MEGA CRISP – [CRISP] Manipulação e Edição do Genoma de Animais de Laboratório por Crispr
+Indeferido após seleção
+0213/18
+Linha  Temática 3
+PLASMCMRP – [PLASM] Coleções de Plasmídeos e de Células de Mamíferos, ampliação e consolidação 
+da Rede Paranaense de Coleções Microbiológicas /Taxonline-UFPR
+Recomendado
+Até 
+430.239,57
+R$        
+0214/18 UFJF – UNIVERSIDADE FEDERAL DE JUIZ DE FORA
+0214/18
+Linha  Temática 1
+MULTLAUFJF – Manutenção do parque laboratorial multi usuário da UFJF
+Indeferido
+0214/18
+Linha  Temática 2
+BIOTERIO-H – "HUMAN" - Biotério de Produção de Roedores da Universidade Federal de Juiz de Fora.
+Indeferido
+0214/18
+Linha  Temática 3
+PLASM-BIO – Coleção Biológica da Universidade Federal de Juiz de Fora - Adequação, convergência e 
+consolidação de uma fiel depositária de material biológico
+Indeferido
+ Resultado Final
+CHAMADA PÚBLICA MCTIC/FINEP/CT-INFRA 03/2018
+Manutenção Preventiva de Equipamentos e Manutenção de Infraestrutura de Biotérios e 
+de Coleções Biológicas de Microrganismos
+0215/18 UEL – UNIVERSIDADE ESTADUAL DE LONDRINA
+Até 
+1.701.280,22
+R$    
+0215/18
+Linha  Temática 1
+MANUTEQUIP – Manutenção preventiva de equipamentos
+Recomendado e dentro do limite de recursos
+Até 
+1.480.432,77
+R$     
+0215/18
+Linha  Temática 2
+PROBIOTUEL – Manutenção, reforma e adequação de infraestrutura existente de Biotérios da UEL
+Recomendado e dentro do limite de recursos
+Até 
+220.847,45
+R$        
+0215/18
+Linha  Temática 3
+COLEÇÕES – Expansão e manutenção de infraestrutura multiusuária de coleções microbiológicas e 
+plasmídeos
+Indeferido após seleção
+0216/18 FUCRI – FUNDAÇÃO EDUCACIONAL DE CRICIÚMA
+0216/18
+Linha  Temática 1
+PREVENT – Manutenção de Equipamentos de Pesquisa
+Indeferido
+0216/18
+Linha  Temática 2
+HUMANUNESC – [HUMAN] Implementação no Biotério de animais para Humanização de Modelos 
+Experimentais e manipulação de edição genômica.
+Indeferido
+0217/18 UFPEL – UNIVERSIDADE FEDERAL DE PELOTAS
+Até 
+1.237.798,97
+R$    
+0217/18
+Linha  Temática 1
+MAMULTI – Manutenção preventiva de equipamentos multiusuários de médio e grande porte da UFPel Recomendado e dentro do limite de recursos
+Até 
+953.835,47
+R$        
+0217/18
+Linha  Temática 2
+EMBIO – Manutenção e Modernização da Infraestrutura do Biotério Central da Universidade Federal de 
+Pelotas
+Recomendado e dentro do limite de recursos
+Até 
+283.963,50
+R$        
+0218/18 UDESC – FUNDAÇÃO UNIVERSIDADE DO ESTADO DE SANTA CATARINA
+0218/18
+Linha  Temática 1
+MANUTUDESC – Manutenção Preventiva de Equipamentos da UDESC nos Centros de Ensino CAV, CCT e 
+FAED
+Recomendado e sujeito à disponibilidade de recursos
+0219/18 FUFMT – FUNDAÇÃO UNIVERSIDADE FEDERAL DE MATO GROSSO
+Até 
+1.271.162,57
+R$    
+0219/18
+Linha  Temática 1
+PGIM- UFMT – Programa de Gestão de Infraestrutura Multiusuária (PGIM- UFMT)
+Recomendado e dentro do limite de recursos
+Até 
+1.019.562,90
+R$     
+0219/18
+Linha  Temática 3
+INFRACELL – Infraestrutura dos laboratórios para desenvolvimento e preservação das coleções 
+biológicas relacionadas à saúde humana
+Recomendado e dentro do limite de recursos
+Até 
+251.599,67
+R$        
+0220/18 UFMA – FUNDAÇÃO UNIVERSIDADE FEDERAL DO MARANHÃO
+Até 
+1.461.159,46
+R$    
+0220/18
+Linha  Temática 1
+MANUPREVEN – Apoio a Manutenção Preventiva dos Equipamentos das Centrais Multiusuários da 
+UFMA
+Recomendado e dentro do limite de recursos
+Até 
+1.279.419,41
+R$     
+0220/18
+Linha  Temática 2
+MANUBIOT – Apoio a Manutenção e Melhoria da Infraestrutura do Biotério Central da UFMA
+Recomendado e dentro do limite de recursos
+Até 
+181.740,05
+R$        
+0221/18 UFAL – UNIVERSIDADE FEDERAL DE ALAGOAS
+0221/18
+Linha  Temática 1
+MANUPESQ-2 – Manutenção preventiva de equipamentos multiusuários de médio e grande porte de 
+laboratórios de pesquisa da UFAL
+Recomendado e sujeito à disponibilidade de recursos
+0222/18 UFRPE – UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO
+0222/18
+Linha  Temática 1
+MANUN – Manutenção preventiva de equipamentos multiusuários
+Indeferido
+ Resultado Final
+CHAMADA PÚBLICA MCTIC/FINEP/CT-INFRA 03/2018
+Manutenção Preventiva de Equipamentos e Manutenção de Infraestrutura de Biotérios e 
+de Coleções Biológicas de Microrganismos
+0223/18 UNIFAL-MG – UNIVERSIDADE FEDERAL DE ALFENAS
+Até 
+873.857,52
+R$        
+0223/18
+Linha  Temática 1
+MANUTENÇAO – Manutenção de Equipamentos de Médio Porte da UNIFAL-MG
+Recomendado e dentro do limite de recursos
+Até 
+526.850,52
+R$        
+0223/18
+Linha  Temática 2
+BIOEXMULTI – BIOTÉRIO DE EXPERIMENTAÇÃO MULTIUSUÁRIO DA UNIFAL-MG - CAMPUS SEDE
+Recomendado e dentro do limite de recursos
+Até 
+347.007,00
+R$        
+-
+CEFET-MG - CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS
+-
+Linha  Temática 1
+CONSERTA18 - Manutenção
+Indeferido
+-
+UFCSPA - FUNDAÇÃO UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE
+-
+Linha  Temática 2
+MBIOUFCSPA - Manutenção da infraestrutura do biotério da universidade federal de ciências da saúde 
+de porto alegre (UFCSPA)
+Indeferido
+-
+COB - COMITÊ OLÍMPICO DO BRASIL
+-
+Linha  Temática 1
+LODBEsp - Novos Marcadores em Espectrometria de Massas
+Indeferido
+ 

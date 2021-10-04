@@ -1,0 +1,906 @@
+
+FAPERGS – O futuro se faz com pesquisa.  Av. Borges de Medeiros, 261 – 2º andar |Centro| Porto Alegre/RS |CEP 90020-021 
+                                                                                            Fone (51) 3221 4922 | www.fapergs.rs.gov.br 
+ 
+ 
+ 
+EDITAL  09/2013 
+ 
+COOPERAÇÃO INTERNACIONAL FAPERGS/INRIA/INS2i-CNRS 
+ 
+ 
+ 
+  
+A FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DO RIO GRANDE DO SUL – 
+FAPERGS  em parceria com o Institut National de Recherche em Informatique et em  
+Automatique – INRIA   e o CNRS – Centre National de la Recherche Scientifique, através do 
+INS2i – Institut des Sciences de l’Information et de leur Interactions, tornam público, o presente 
+edital e convidam pesquisadores doutores a apresentarem   propostas nos termos aqui 
+estabelecidos, 
+e 
+em 
+conformidade 
+com 
+o 
+REGULAMENTO 
+anexo 
+(CONDIÇÕES 
+ESPECÍFICAS), no âmbito do PROGRAMA DE COOPERAÇÃO INTERNACIONAL FAPERGS / 
+INRIA/ INS2i-CNRS. As inscrições estarão abertas até 17/09/2013 O procedimento será regido 
+pela Lei Federal 8.666/93. Informações através do site www.fapergs.rs.gov.br, ou na Av. Borges 
+de Medeiros, 261 - 2 º andar  em Porto Alegre/RS – Fone: 0xx(51) 3221.4922. 
+ 
+ 
+ 
+1. OBJETIVO 
+ 
+ 
+ 
+ O presente Edital tem por objetivo apoiar atividades de pesquisa científica, tecnológica e 
+de inovação, de equipes principais e de equipes orbitais, na área das ciências e tecnologias da 
+informação e comunicação (TIC), mediante a seleção de propostas para apoio financeiro a 
+projetos conjuntos, a serem executados por uma equipe de pesquisadores gaúchos (equipe 
+principal), com colaboração eventual de outras equipes brasileiras (equipes orbitais), e uma 
+equipe de pesquisadores franceses do INRIA ou do INS2i-CNRS.  
+ 
+As propostas devem estar relacionados ao objeto indicado no item 2 e em conformidade 
+com as condições estabelecidas e com as definições de projetos conjuntos, equipes principais e 
+equipes orbitais dispostas  no REGULAMENTO (CONDIÇÕES ESPECÍFICAS),  anexo a este 
+edital. 
+ 
+ 
+2. OBJETO  
+ 
+Seleção pública de propostas para apoio à execução de projetos conjuntos de Pesquisa, 
+Desenvolvimento e Inovação (P&D&I) na área das ciências e tecnologias da informação e 
+comunicação (TIC), no âmbito dos Acordos Bilaterais de Cooperação Científica e Tecnológica 
+Internacional firmados entre o INRIA e o CNRS com as Fundações de Amparo à Pesquisa 
+(FAPs). 
+ 
+As áreas de pesquisa em TIC de interesse deste Edital incluem, em particular: o 
+tratamento da informação; a comunicação e o armazenamento da informação; o tratamento de 
+sinais, dos dados e dos conhecimentos; a modelagem e a simulação; as tecnologias de  
+hardware e software; a concepção, a verificação e a otimização de componentes de software; a 
+concepção, o comando e o controle de sistemas complexos; e as interfaces homem-máquina. 
+ 
+ 
+  
+FAPERGS – O futuro se faz com pesquisa.  Av. Borges de Medeiros, 261 – 2º andar |Centro| Porto Alegre/RS |CEP 90020-021 
+                                                                                            Fone (51) 3221 4922 | www.fapergs.rs.gov.br 
+ 
+3. APRESENTAÇÃO E ENVIO DAS PROPOSTAS 
+ 
+ 
+3.1.1 As propostas deverão ser apresentadas simultaneamente pelo coordenador (proponente) 
+no Estado do Rio Grande do Sul à FAPERGS e pelo responsável da equipe francesa ao 
+INRIA/CNRS. 
+3.1.2 Os documentos e as informações exigidas deverão ser encaminhados  por SEDEX, pelo 
+proponente, nos prazos estipulados pelo CRONOGRAMA com a identificação deste edital, 
+conforme modelo a seguir: 
+Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul - FAPERGS  
+Av. Borges de Medeiros, 261 – 2 andar 
+Centro - Porto Alegre - RS 
+CEP 90020-021  
+EDITAL 009/2013 - COOPERAÇÃO INTERNACIONAL FAPERGS/INRIA/INS2i-CNRS  
+ 
+3.1.3 As propostas devem ser apresentadas em conformidade com o descrito no item 2. 
+CRITÉRIOS DE ELEGIBILIDADE do REGULAMENTO contendo rigorosamente todos os itens 
+previstos neste Edital. 
+3.1.4 Não serão aceitas, em nenhuma hipótese, solicitações protocoladas na sede da 
+FAPERGS, tampouco após o prazo final de recebimento estabelecido no subitem 1.4 do 
+CRONOGRAMA do REGULAMENTO. 
+3.1.5 Não serão avaliadas as propostas que forem entregues de forma incompleta, tanto com 
+relação ao preenchimento quanto no envio insuficiente de documentos e/ou declarações. 
+3.1.6 Expirado o prazo limite indicado no Edital, nenhuma proposta será recebida, assim como 
+não serão aceitos adendos, substituições ou esclarecimentos que não forem explícita ou 
+formalmente solicitados pela FAPERGS. 
+3.1.7 Será aceita uma única proposta por proponente. Na hipótese de envio de uma segunda 
+proposta pelo mesmo proponente, respeitando-se o prazo limite estipulado para submissão das 
+propostas, esta será considerada substituta da anterior, sendo levada em conta para análise 
+apenas a última proposta recebida. 
+3.1.8 Em se constatando propostas idênticas, ainda que de proponentes distintos, todas serão 
+desclassificadas. 
+ 
+3.2 DOCUMENTOS NECESSÁRIOS  
+ 
+ 
+Documentos a serem encaminhados na solicitação: 
+ 
+Os seguintes documentos são necessários para a submissão da proposta:  
+3.2.1 Formulário Cadastro (Anexo I); 
+3.2.2 Projeto de pesquisa a ser desenvolvido em conjunto assinado em UMA via impressa e 
+UMA cópia em CD-Rom (arquivos em formato PDF); 
+3.2.3 Detalhes sobre o Grupo Francês parceiro na execução do projeto; 
+3.2.4 Cópias do CPF e RG do representante legal da instituição executora local e do ato que o 
+designou para o cargo. (ver item 13.3); 
+3.2.5 Cópia do ato constitutivo/estatuto da instituição executora local (ver item 13.3); 
+3.2.6 Orçamento detalhado; 
+  
+FAPERGS – O futuro se faz com pesquisa.  Av. Borges de Medeiros, 261 – 2º andar |Centro| Porto Alegre/RS |CEP 90020-021 
+                                                                                            Fone (51) 3221 4922 | www.fapergs.rs.gov.br 
+ 
+3.2.7 Currículo Vitae do coordenador e participantes gaúchos (Modelo Lattes);  
+3.2.8 Currículo Vitae dos participantes do Grupo Francês (modelo livre, idioma francês ou inglês); 
+3.2.9 Cópia do CPF/RG do Coordenador (Proponente); 
+3.2.10 Cópia do título de doutor do coordenador (Proponente). 
+ 
+O proponente deve observar que o julgamento das propostas será realizado baseado na 
+documentação encaminhada. Sendo assim, quanto mais completa e justificada for a proposta, 
+maiores são as chances de não haver dúvidas sobre a proposição. 
+a. A ausência de qualquer um dos documentos previstos no item 3 implicará na inabilitação da 
+mesma, antes da análise do mérito. 
+b. Após a divulgação final dos resultados deste Edital, o solicitante terá o prazo definido no item 
+1.4 do REGULAMENTO para a assinatura do Termo de Outorga e Aceitação de Auxílio. Caso o 
+solicitante não se manifeste neste prazo, perderá o direito ao financiamento, e os documentos 
+poderão ser eliminados no prazo de 90 (noventa) dias, contados a partir da divulgação dos 
+resultados.  
+ 
+ 
+4. ADMISSÃO, ANÁLISE E JULGAMENTO 
+ 
+A seleção das propostas submetidas em atendimento a este Edital será realizada por intermédio 
+de análises e avaliações comparativas. Para tanto, são estabelecidas as seguintes etapas: 
+ 
+4.1 Etapa I – Análise pela FAPERGS 
+ 
+Esta etapa, a ser realizada pelo Protocolo da FAPERGS, consiste na análise e enquadramento 
+das propostas apresentadas quanto ao atendimento a DOCUMENTAÇÃO NECESSÁRIA e 
+CRITÉRIOS DE ELEGIBILIDADE, estabelecidos no item 3 deste edital e item 2 do 
+REGULAMENTO / CONDIÇÕES ESPECÍFICAS. Todas as propostas analisadas e selecionadas 
+nesta etapa serão avaliadas por Consultores ad hoc e por um Comitê Julgador. 
+ 
+4.2 Etapa II - Análise por Especialistas 
+ 
+Esta etapa consistirá na análise aprofundada da demanda, quanto ao mérito e relevância das 
+propostas, a ser realizada por especialistas que se manifestarão sobre os tópicos relacionados 
+no item 3 – CRITÉRIOS PARA JULGAMENTO do REGULAMENTO. 
+ 
+4.3 Etapa III – Análise, Julgamento e Classificação por Comitê Julgador 
+ 
+4.3.1 As propostas serão avaliadas e classificadas nesta etapa, considerando as análises das 
+etapas anteriores e os CRITÉRIOS PARA JULGAMENTO indicados no item 3 do 
+REGULAMENTO. 
+ 
+4.3.2 A pontuação final de cada projeto será aferida conforme estabelecido no item 3 – 
+CRITÉRIOS PARA JULGAMENTO, do REGULAMENTO. 
+ 
+4.3.3. Após a análise de mérito e relevância de cada proposta e da adequação de seu 
+orçamento, o Comitê Julgador, dentro dos limites orçamentários, poderá recomendar: 
+ 
+a) aprovação, com ou sem cortes orçamentários;  
+b) não aprovação. 
+  
+FAPERGS – O futuro se faz com pesquisa.  Av. Borges de Medeiros, 261 – 2º andar |Centro| Porto Alegre/RS |CEP 90020-021 
+                                                                                            Fone (51) 3221 4922 | www.fapergs.rs.gov.br 
+ 
+ 
+4.3.4 O Comitê Julgador deverá produzir, para cada proposta, uma avaliação global da proposta, 
+com Ênfase no mérito científico da mesma, que contenha elementos que fundamente o parecer 
+final.  
+ 
+4.3.5 Não é permitido integrar o Comitê Julgador o pesquisador que tenha apresentado 
+propostas a este Edital ou que participe da equipe do projeto. 
+ 
+É vedado a qualquer membro do Comitê Julgador avaliar propostas de projetos em que: 
+ 
+a)   haja interesse direto ou indireto seu; 
+b) estejam participando da equipe do projeto seu cônjuge, companheiro ou parente, 
+consanguíneo ou afim, em linha reta ou na colateral, até o terceiro grau; ou esteja litigando 
+judicial ou administrativamente com qualquer membro da equipe do projeto ou seus respectivos 
+cônjuges ou companheiros. 
+ 
+4.4 Etapa IV – Aprovação pelo CTA FAPERGS 
+ 
+Todas as propostas recomendadas pelo Comitê Julgador serão submetidas ao Conselho Técnico 
+Administrativo da FAPERGS, que emitirá a decisão final sobre sua aprovação, observados os 
+seus limites orçamentários para este Edital. 
+ 
+4.5 Etapa V – Conciliação de Resultados 
+ 
+Essa etapa consiste na análise das propostas recomendadas independentemente por todos os 
+órgãos financiadores envolvidos (FAPERGS, INRIA e INS2i-CNRS). Apenas as propostas 
+recomendadas simultaneamente pela FAPERGS e pelo instituto de afiliação do parceiro francês 
+(INRIA ou INS2i-CNRS) serão financiadas, respeitada a classificação das propostas produzida 
+na Etapa III e os recursos financeiros destinados a este Edital. 
+ 
+ 
+5. RESULTADO DO JULGAMENTO 
+ 
+5.1 A relação das propostas aprovadas será divulgada na página www.fapergs.rs.gov.br. 
+ 
+5.2 Todos os proponentes do presente Edital tomarão conhecimento do parecer sobre sua 
+proposta por intermédio de correspondência eletrônica, preservada a identificação dos 
+pareceristas. 
+ 
+ 
+6. DOS RECURSOS ADMINISTRATIVOS 
+ 
+6.1 Caso o proponente tenha justificativa para contestar o resultado do julgamento das propostas 
+poderá apresentar recurso, no prazo de até 10 (dez) dias úteis, a contar da data de divulgação 
+preliminar dos resultados no site da FAPERGS, enviando recurso pelo correio, obrigatoriamente, 
+em correspondência registrada com aviso de recebimento (AR).  
+ 
+6.2 O recurso ou pedido de reconsideração deverá estritamente contrapor o motivo do 
+indeferimento, não incluindo fatos novos, que não tenham sido objeto de análise de mérito e 
+relevância anterior, além de ser dirigido à Diretoria Científica da FAPERGS que, após exame, 
+encaminhará para deliberação final do Conselho Técnico Administrativo da FAPERGS, ouvido o 
+  
+FAPERGS – O futuro se faz com pesquisa.  Av. Borges de Medeiros, 261 – 2º andar |Centro| Porto Alegre/RS |CEP 90020-021 
+                                                                                            Fone (51) 3221 4922 | www.fapergs.rs.gov.br 
+ 
+instituto de afiliação da equipe francesa (INRIA ou INS2i-CNRS), bem como as FAP’s envolvidas 
+na proposta em questão (caso houver). 
+ 
+6.3 O resultado sobre a reconsideração será definitivo, não cabendo qualquer outro recurso. 
+ 
+ 
+7. DA ASSINATURA DO TERMO DE OUTORGA E ACEITAÇÃO DE AUXÍLO 
+ 
+7.1 As propostas aprovadas serão contratadas em nome do Coordenador/Proponente, mediante 
+assinatura do Termo de Outorga e Aceitação de Auxílio.  
+7.2 O Termo de Outorga e Aceitação de Auxílio deverá ser assinado pelo proponente e pelo 
+representante legal da instituição executora local, no prazo previsto no Cronograma, sob pena de 
+não disponibilização do recurso concedido. 
+7.3 A existência de alguma inadimplência do proponente com a Administração Pública Federal 
+ou Estadual, direta ou indireta, ou com a FAPERGS constituirá fator impeditivo para a 
+contratação do projeto. 
+ 
+ 
+8. CANCELAMENTO DO AUXÍLIO 
+ 
+8.1 A concessão do apoio financeiro poderá ser cancelada pelo Conselho Técnico Administrativo 
+da FAPERGS, por ocorrência, durante sua implementação, de fato cuja gravidade justifique o 
+cancelamento, sem prejuízo de outras providências cabíveis em decisão devidamente 
+fundamentada. 
+ 
+ 
+9. PUBLICAÇÕES 
+ 
+9.1 As publicações científicas e qualquer outro meio de divulgação de trabalho de pesquisa, 
+apoiados pelo presente Edital, deverão citar, obrigatoriamente, o apoio das entidades/órgãos 
+financiadores. 
+ 
+ 
+10. IMPUGNAÇÃO DO EDITAL 
+ 
+10.1 Decairá do direito de impugnar os termos deste Edital o proponente que não o fizer até o 
+segundo dia útil anterior ao prazo final estabelecido para recebimento das propostas. Ademais, 
+não terá efeito de recurso a impugnação feita por aquele que, em o tendo aceito sem objeção, 
+venha apontar, posteriormente ao julgamento, eventuais falhas ou imperfeições. 
+ 
+10.2 A impugnação deverá ser dirigida á Diretoria Científica da FAPERGS, por correspondência 
+eletrônica, para o endereço: asstec@fapergs.rs.gov.br. 
+ 
+ 
+11. REVOGAÇÃO OU ANULAÇÃO DO EDITAL 
+ 
+11.1 A qualquer tempo, o presente Edital poderá ser revogado ou anulado, no todo ou em parte, 
+seja por decisão unilateral do Conselho Técnico Administrativo  da FAPERGS, seja por motivo 
+de interesse público ou exigência legal, em decisão fundamentada, sem que isso implique 
+direitos a indenização ou reclamação de qualquer natureza. 
+ 
+ 
+  
+FAPERGS – O futuro se faz com pesquisa.  Av. Borges de Medeiros, 261 – 2º andar |Centro| Porto Alegre/RS |CEP 90020-021 
+                                                                                            Fone (51) 3221 4922 | www.fapergs.rs.gov.br 
+ 
+12. PERMISSÕES E AUTORIZAÇÕES ESPECIAIS 
+ 
+12.1 É de exclusiva responsabilidade de cada proponente adotar todas as providências que 
+envolvam permissões e autorizações especiais de caráter ético ou legal, necessárias para a 
+execução do projeto. 
+ 
+12.2 Coordenadores brasileiros de projetos de pesquisa, relacionados à biodiversidade, devem 
+observar a legislação em vigor (MP n.º 2.186, Decreto n.º 3.945/01, Decreto n.º 98.830/90, 
+Portaria MCT n.º 55/90 e Decreto n.º 4.946/03) para autorizações de acesso, coleta e remessa 
+de amostras e concessão de vistos de entrada no País aos estrangeiros participantes do projeto. 
+ 
+ 
+13. DAS DISPOSIÇÕES GERAIS 
+ 
+13.1 
+A participação nesta seleção implicará na aceitação das normas contidas neste Edital e 
+em outros meios a serem divulgados pela internet no site  www.fapergs.rs.gov.br; 
+13.2 
+A concessão do auxílio vincula-se às disposições deste edital, do Termo de Outorga e 
+Aceitação de Auxílio e de todos os regramentos, normas, manuais e resoluções da FAPERGS, 
+vigentes à época da publicação deste instrumento, e disponíveis em www.fapergs.rs.gov.br; 
+13.3 
+A(s) instituição(ões) executora(s) local(is) que estiver(em) com seu cadastro de 
+representante legal completo e atualizado junto à FAPERGS estarão dispensadas de apresentar 
+cópias do CPF/RG de seu representante legal, dos atos constitutivos devidamente registrados, 
+bem como do ato que designou o representante legal para o cargo. 
+13.4 
+A veracidade das informações prestadas, bem como da documentação apresentada, será 
+de inteira responsabilidade do proponente e da instituição executora local por meio de seu 
+representante legal, respondendo por elas, na forma da lei; 
+13.5 
+O marco inicial da contagem dos prazos que dependerem de remessa de documentos à 
+FAPERGS via correios, será a data de sua postagem. 
+13.6 
+Na contagem dos prazos relativos a este edital, excluir-se-á o dia do início e incluir-se-á o 
+do vencimento, e considerar-se-ão os dias consecutivos. Os prazos só se iniciam e vencem em 
+dias de expediente na FAPERGS; 
+13.7 
+É de inteira responsabilidade do proponente e da instituição coparticipe, acompanhar a 
+publicação de todos os atos e comunicados referentes a este processo seletivo divulgados no 
+site www.fapergs.rs.gov.br; 
+13.8 
+A prestação de contas financeira e o relatório técnico-científico deverão ser apresentados 
+de acordo com as estipulações constantes do Termo de Outorga e Aceitação de Auxílio; 
+13.9 
+O presente auxílio será implementado, após a assinatura do Termo de Outorga e 
+Aceitação de Auxílio pela instituição coparticipe, por meio de seu representante legal, pelo 
+proponente e pela FAPERGS, observado o prazo estabelecido neste Edital; 
+13.10 Qualquer trabalho publicado, individual ou em colaboração, deverá mencionar o apoio da 
+FAPERGS. A não observância desta exigência inabilitará o pesquisador ao recebimento de 
+outros auxílios ou bolsas pela FAPERGS; 
+13.11 O proponente contemplado com recursos no âmbito deste edital, se obriga, quando 
+solicitado, pelo Conselho Técnico-Administrativo, a efetuar a avaliação do mérito científico dos 
+projetos de pesquisa apresentados no âmbito de outros editais, sem ônus para a FAPERGS, 
+pelo período de dois anos a contar da assinatura do Termo de Outorga e Aceitação de Auxílio, 
+sob pena de não receber mais auxílios ou bolsas da Fundação; 
+13.12 A FAPERGS poderá adiar ou suspender os procedimentos do processo, dando 
+conhecimento aos interessados, se assim exigirem as circunstâncias; 
+13.13 Os casos omissos e as situações não previstas no presente edital serão decididos pelo 
+Conselho Técnico-Administrativo da FAPERGS. 
+ 
+  
+FAPERGS – O futuro se faz com pesquisa.  Av. Borges de Medeiros, 261 – 2º andar |Centro| Porto Alegre/RS |CEP 90020-021 
+                                                                                            Fone (51) 3221 4922 | www.fapergs.rs.gov.br 
+ 
+14. DOS ESCLARECIMENTOS E DAS INFORMAÇÕES ADICIONAIS ACERCA DO 
+CONTEÚDO DO EDITAL  
+ 
+Os esclarecimentos e informações adicionais acerca do conteúdo deste Edital poderão ser 
+obtidos por intermédio do endereço eletrônico e telefones indicados em item específico do Anexo 
+REGULAMENTO. 
+ 
+ 
+15. CLÁUSULA DE RESERVA 
+ 
+ O Conselho Técnico Administrativo da FAPERGS reserva-se o direito de resolver os casos 
+omissos e as situações não previstas no presente Edital. 
+ 
+Porto Alegre, 25 de junho de 2013. 
+ 
+ 
+ 
+Marco Antonio Baldo                                                                                      Jose Miguel Reichert 
+Diretor  Administrativo                                                                                           Diretor Científico 
+ 
+ 
+ 
+ 
+Nádya Pesce da Silveira 
+Diretora-Presidente 
+  
+FAPERGS – O futuro se faz com pesquisa.  Av. Borges de Medeiros, 261 – 2º andar |Centro| Porto Alegre/RS |CEP 90020-021 
+                                                                                            Fone (51) 3221 4922 | www.fapergs.rs.gov.br 
+ 
+EDITAL 09/2013  
+  COOPERAÇÃO INTERNACIONAL FAPERGS/INRIA/INS2i-CNRS 
+ 
+REGULAMENTO 
+CONDIÇÕES ESPECÍFICAS 
+ 
+O presente REGULAMENTO tem por finalidade definir as atividades a serem apoiadas 
+financeiramente e as condições para implementação do apoio, mediante a seleção, por edital, de 
+propostas para execução de projetos, em conformidade com o acordo de cooperação científica e 
+tecnológica firmado entre a FAPERGS o INRIA e o CNRS. 
+ 
+1. DAS DISPOSIÇÕES ESPECÍFICAS 
+ 
+OBJETO 
+ 
+Seleção pública de propostas para apoio à execução de projetos conjuntos de Pesquisa, 
+Desenvolvimento e Inovação (P&D&I) na área das ciências e tecnologias da informação e 
+comunicação (TIC), no âmbito dos Acordos Bilaterais de cooperação científica e tecnológica 
+internacional firmados entre o INRIA e o CNRS e as Fundações de Amparo à Pesquisa (FAPs). 
+ 
+As áreas de pesquisa em TIC de interesse deste Edital, incluem, em particular: o tratamento da 
+informação; a comunicação e o armazenamento da informação; o tratamento de sinais, dos 
+dados e dos conhecimentos; a modelagem e a simulação; as tecnologias de  hardware e 
+software; a concepção, a verificação e a otimização de componentes de software; a concepção, 
+o comando e o controle de sistemas complexos; e as interfaces homem-máquina. 
+ 
+1.1 Do objetivo 
+ 
+O presente Edital tem por objetivo apoiar atividades de pesquisa científica, tecnológica e de 
+inovação, de equipes principais e de equipes orbitais, na área das ciências e tecnologias da 
+informação e comunicação (TIC), mediante a seleção de propostas para apoio financeiro a 
+projetos conjuntos, a serem executados por uma equipe de pesquisadores gaúchos (equipe 
+principal), com colaboração eventual de outras equipes brasileiras (equipes orbitais), e uma 
+equipe de pesquisadores franceses do INRIA ou do INS2i-CNRS.  
+ 
+1.2 DAS DEFINIÇÕES 
+ 
+1.2.1 Para os fins deste edital, são adotadas as seguintes definições: 
+ 
+a) Estados copartícipes: estados que aderiram à chamada conjunta FAPs/INRIA/INS2i-
+CNRS. Os órgãos financiadores de cada estado, ou seja, as Fundações de Amparo à 
+Pesquisa de cada estado são denominadas FAPs; 
+b) Projeto conjunto: projeto com objeto comum de pesquisa bem delineado, de grande 
+impacto, relevante, com objetivos e metas precisamente definidos, em que a composição 
+da equipe franco-brasileira seja complementar na execução do mesmo; 
+c) Equipe Francesa: : pesquisadores do INRIA ou pesquisadores do INS2i-CNRS; 
+d) Equipe Gaúcha Principal: pesquisadores vinculados a instituições sediadas no Estado 
+do Rio Grande do Sul, cujo histórico de  colaboração com a equipe francesa demonstre a 
+complementariedade de ambas na execução do projeto conjunto. Essa equipe será a 
+equipe associada à equipe francesa, podendo a ela se agregar uma ou mais equipes 
+orbitais, do mesmo Estado ou de outras unidades da Federação cujas FAPs  tenham 
+aderido ao Acordo;  
+  
+FAPERGS – O futuro se faz com pesquisa.  Av. Borges de Medeiros, 261 – 2º andar |Centro| Porto Alegre/RS |CEP 90020-021 
+                                                                                            Fone (51) 3221 4922 | www.fapergs.rs.gov.br 
+ 
+e) Equipe Brasileira Orbital: pesquisadores de um Estado cuja FAP tenha aderido ao 
+Acordo e que seja capaz de comprovar potencial de colaboração com a equipe principal 
+gaúcha e a equipe francesa na execução do projeto conjunto;  
+f) Proposta de criação de equipe associada: projeto conjunto a ser submetido 
+simultaneamente  pelo coordenador da equipe principal gaúcha, a este Edital  e  pelo 
+Coordenador da equipe francesa, à Chamada lançada pelo INRIA ou à Chamada lançada 
+pelo INS2i-CNRS,  com demonstração clara da complementariedade das especialidades 
+dos pesquisadores gaúchos e franceses na execução do mesmo. Caso exista a 
+participação de equipes orbitais de estados copartícipes na proposta, o coordenador de 
+cada equipe orbital deve submeter a mesma proposta ao Edital lançado pela respectiva 
+FAP. 
+  
+1.3 Proponente 
+ 
+1.3.1 Poderão apresentar propostas pesquisadores doutores que tenham vínculo empregatício 
+(celetista ou estatutário) com instituições de ensino superior (IES), centros e institutos de 
+pesquisa e desenvolvimento públicos e privados, constituídos sob as leis brasileiras, e que 
+tenham sua sede e administração no Estado do Rio Grande do Sul, todos sem fins lucrativos, 
+doravante denominados “instituição executora local”. 
+ 
+1.3.1.1 Os pesquisadores, grupos de pesquisa e especialistas vinculados  ao INRIA ou ao INS2i-
+CNRS 
+devem 
+apresentar 
+proposta 
+correspondente 
+ao 
+INRIA 
+ou 
+ao 
+INS2i-CNRS, 
+respectivamente, nos prazos, meios e formas determinados pelos mesmos. 
+ 
+1.3.1.2 Os pesquisadores, grupos de pesquisa e especialistas vinculados a instituições sediadas 
+nos Estados copartícipes devem apresentar proposta correspondentes nas respectivas FAPs. 
+ 
+1.3.2 O proponente será, necessariamente, o pesquisador coordenador do projeto. 
+ 
+1.3.3 Ao apresentar a proposta, o proponente assume o compromisso de manter, durante a 
+execução do projeto, todas as condições de qualificação, habilitação e idoneidade necessárias 
+ao perfeito cumprimento do seu objeto, preservando atualizados os seus dados cadastrais junto 
+aos registros competentes. 
+ 
+1.3.4 Cada proposta incluirá necessariamente uma Equipe Gaúcha Principal, sendo opcional a 
+participação de uma ou várias Equipes Brasileiras Orbitais.  
+ 
+1.4 Cronograma 
+ 
+Atividades 
+Data 
+Data do lançamento do Edital 
+25/06/2013 
+Limite para postagem da proposta e documentos (*) 
+17/09/2013 
+Divulgação preliminar dos resultados na página 
+Internet da FAPERGS 
+Até 10/02/2014 
+Recursos Administrativos 
+10 (dez) dias úteis contados da divulgação 
+preliminar dos resultados 
+Divulgação Final dos Resultados 
+Até 28/02/2014 
+Assinatura do Termo de Outorga (*) 
+06/03/2014 
+(*) Será considerada a data da postagem do documento. 
+ 
+  
+FAPERGS – O futuro se faz com pesquisa.  Av. Borges de Medeiros, 261 – 2º andar |Centro| Porto Alegre/RS |CEP 90020-021 
+                                                                                            Fone (51) 3221 4922 | www.fapergs.rs.gov.br 
+ 
+1.4.1 As datas e os procedimentos de envio de propostas pelos parceiros franceses ao INRIA e 
+ao INS2i-CNRS, bem como aos estados que aderiram ao Acordo poderão ser consultados na 
+página do INRIA, na página do INS2i-CNRS e nas páginas da FAPs, respectivamente. 
+ 
+1.5 Recursos financeiros 
+ 
+1.5.1 O valor global máximo a ser despendido pela FAPERGS nas propostas aprovadas está 
+estimado em R$ 120.000,00 (cento e vinte mil reais), a serem liberados de acordo com a sua 
+disponibilidade orçamentária e financeira. 
+ 
+1.6 Itens financiáveis 
+ 
+1.6.1 Serão financiados, pela FAPERGS os seguintes itens: 
+ 
+a) Passagens aéreas e terrestres internacionais para participantes da Equipe Gaúcha para a 
+França;  
+b) Passagens aéreas nacionais para participantes de Equipe Gaúcha;  
+c) Diárias para participantes da Equipe Gaúcha na França: (conforme os valores constantes 
+na Tabela de Diárias da FAPERGS, disponível em www.fapergs.rs.gov.br); 
+d) Diárias para participantes de Equipe Gaúcha no Brasil: (conforme os valores constantes 
+na Tabela de Diárias da FAPERGS, disponível em www.fapergs.rs.gov.br);  
+ 
+ 
+1.7 Itens financiáveis pelo INRIA e pelo INS2i-CNRS: 
+ 
+1.7.1 O INRIA e o INS2i-CNRS, em parceria com a Embaixada Francesa no Brasil, financiarão 
+os seguintes itens, a título de contrapartida: 
+ 
+a) Passagens aéreas França-Brasil-França para integrantes da equipe francesa em visita à 
+Equipe Gaúcha Principal;  
+b) Diárias para integrantes da equipe francesa no Brasil em visita à Equipe Gaúcha 
+Principal; 
+c) Realização de oficinas de trabalhos com as equipes (eventos);  
+d) Passagens aéreas França-Brasil-França para integrantes da equipe francesa em visita às 
+Equipes Brasileiras Orbitais (uma passagem por ano para cada equipe orbital); 
+e) Diárias para integrantes da equipe francesa no Brasil em visita às Equipes Brasileiras 
+Orbitais (até 15 diárias por ano para cada equipe orbital); 
+ 
+1.8 Prazo de execução dos projetos 
+As propostas a serem apoiadas pelo presente Edital deverão ter o prazo máximo de execução de 
+36 (trinta e seis) meses. 
+ 
+1.9 Documentação complementar 
+ 
+1.9.1 O coordenador deverá obter e manter em seu poder: 
+a) Termo de Compromisso de todas as instituições participantes: executoras e colaboradoras, 
+nacionais e estrangeiras, quanto à disponibilidade de infraestrutura adequada e cobertura de 
+gastos não previstos neste Edital, necessários à execução do projeto. 
+b) Termo de Compromisso de cada participante nacional e estrangeiro envolvido na cooperação 
+internacional, atestando conhecimento das atividades que lhes são atribuídas no projeto. 
+ 
+  
+FAPERGS – O futuro se faz com pesquisa.  Av. Borges de Medeiros, 261 – 2º andar |Centro| Porto Alegre/RS |CEP 90020-021 
+                                                                                            Fone (51) 3221 4922 | www.fapergs.rs.gov.br 
+ 
+1.9.2 Esta documentação poderá ser solicitada pela FAPERGS a qualquer momento, em 
+especial na fase de avaliação e acompanhamento do projeto. 
+ 
+ 
+2. CRITÉRIOS DE ELEGIBILIDADE (REQUISITOS OBRIGATÓRIOS E CARACTERÍSTICAS 
+DA PROPOSTA) 
+ 
+Os critérios de elegibilidade indicados a seguir são obrigatórios. O atendimento aos mesmos é 
+considerado imprescindível para o exame, enquadramento, análise e julgamento da proposta. A 
+ausência ou insuficiência de informações sobre quaisquer deles resultará na desclassificação da 
+proposta. 
+ 
+Conforme previsto nos subitens 1.3.1.1 e 1.3.1.2, será eliminada a proposta cujo Coordenador 
+estrangeiro ou Coordenador em outro estado copartícipe não tenha submetido proposta 
+correspondente ao INRIA ou ao INS2i-CNRS e/ou FAP. 
+ 
+2.1 Quanto ao proponente e à equipe de apoio 
+ 
+2.1.1 O proponente deve atender aos itens abaixo: 
+ 
+a) Ser brasileiro ou estrangeiro com visto permanente, residente no Brasil; 
+b) Possuir o título de doutor e experiência em projetos de cooperação internacional e/ou alta 
+qualificação atestada pela sua produção científica e experiência de formação de recursos 
+humanos no tema do projeto; 
+c) ter vínculo (empregatício ou estatutário) com a instituição executora local do projeto, 
+constituída sob as leis brasileiras e que tenha sua sede e administração no Estado do Rio 
+Grande do Sul, e seja sem fins lucrativos; 
+d) ter produção científica e tecnológica relevante, nos últimos cinco anos, na área específica do 
+projeto de pesquisa; 
+e) ser, obrigatoriamente, o coordenador do projeto. 
+ 
+2.1.2 Deve a equipe gaúcha: 
+ 
+a) ser constituída por pesquisadores e especialistas brasileiros ou estrangeiros, com visto 
+permanente e residentes no RS; 
+b) somente deverão ser incluídos, na equipe do projeto, aqueles que tenham prestado anuência 
+formal escrita, da sua participação. 
+ 
+2.1.3 O proponente não poderá coordenar mais de uma proposta neste Edital. 
+ 
+2.2 Quanto à proposta 
+ 
+2.2.1 O projeto deve estar claramente caracterizado como pesquisa científica, tecnológica ou de 
+inovação, na área de TIC. 
+ 
+2.2.2 A proposta deverá ser redigida em língua portuguesa e inglesa e estar de acordo com o 
+item 2.2.4.  
+ 
+2.2.3 Ser necessariamente apresentada à FAPERGS pelo Coordenador local, às FAPs dos 
+outros estados copartícipes pelos coordenadores e ao INRIA ou ao INS2i-CNRS pelo(s) 
+Coordenador(es) estrangeiro(s), de acordo com as regras e prazos definidos por cada lado. 
+ 
+  
+FAPERGS – O futuro se faz com pesquisa.  Av. Borges de Medeiros, 261 – 2º andar |Centro| Porto Alegre/RS |CEP 90020-021 
+                                                                                            Fone (51) 3221 4922 | www.fapergs.rs.gov.br 
+ 
+2.2.4 As propostas deverão ser apresentadas na forma de projeto de pesquisa. Recomenda-se 
+que o mesmo contenha as seguintes informações, de modo a permitir sua adequada avaliação: 
+ 
+a) identificação da proposta; 
+b) identificação da afiliação da equipe francesa (se do INRIA ou do INS2i-CNRS); 
+c) identificação da equipe que submete o projeto (principal); 
+d) identificação da equipe orbital (quando houver); 
+e) resumo estendido em português para fins de publicação; 
+f) relevância do tema; 
+g) estado-da-arte; 
+h) justificativa para a cooperação internacional e para a cooperação nacional; 
+i) objetivos: geral e específicos; 
+j) metodologia; 
+k) plano de trabalho; 
+l) interação e qualificação das parcerias; 
+m) infraestrutura disponível para realização do projeto conjunto; 
+n) fontes de financiamento; 
+o) existência de financiamento de outras fontes e/ou contrapartida dos países envolvidos; 
+p) resultados esperados; 
+q) indicadores da avaliação e acompanhamento e produtos esperados; 
+r) Informações complementares sobre a equipe principal, equipe orbital, e/ou de equipes 
+orbitais, se existirem. 
+ 
+2.3 Quanto à instituição de execução local 
+ 
+A instituição de execução local do projeto deverá se enquadrar ao estabelecido pelo subitem 1.3 
+deste Regulamento. 
+ 
+3. CRITÉRIOS PARA JULGAMENTO 
+ 
+São os seguintes os critérios para enquadramento das propostas quanto ao mérito técnico-
+científico e sua adequação orçamentária: 
+ 
+Critérios de análise e julgamento 
+Nota 
+A Mérito da proposta: excelência científica, abrangência e relevância do tema 
+abordado, objetivos, metodologia, originalidade, potencial de inovação 
+científica e tecnológica, possibilidade de desenvolvimento de produtos e 
+processos, metas globais a serem alcançadas e abordagem multi e 
+interdisciplinar. 
+1 a 5 
+B Parcerias: interação e qualificação das mesmas, agregação institucional, 
+inclusive do setor privado, quando houver; importância estratégica, benefícios 
+e pertinência da cooperação internacional.  
+No caso das equipes brasileiras mistas, equilíbrio das parcerias nacionais no 
+desenvolvimento do projeto proposto. 
+1 a 5 
+C Qualificação dos coordenadores e das equipes: experiência em 
+coordenação de projetos de cooperação internacional no(s) tema(s) 
+proposto(s), competência, titularidade e co-produção científico-tecnológica; 
+capacidade de formação e capacitação de recursos humanos. 
+1 a 5 
+D Coerência e adequação entre a capacitação e a experiência da equipe do 
+projeto aos objetivos, atividades e metas propostos. 
+1 a 5 
+  
+FAPERGS – O futuro se faz com pesquisa.  Av. Borges de Medeiros, 261 – 2º andar |Centro| Porto Alegre/RS |CEP 90020-021 
+                                                                                            Fone (51) 3221 4922 | www.fapergs.rs.gov.br 
+ 
+Critérios de análise e julgamento 
+Nota 
+E Adequação do orçamento aos objetivos, atividades e metas propostos. 
+1 a 5 
+F Adequação da proposta às condições deste Edital. 
+1 a 5 
+G 
+Coerência 
+entre 
+objetivos, 
+metodologia, 
+resultados 
+esperados 
+e 
+cronograma de execução. 
+1 a 5 
+H Compatibilidade da infraestrutura e da equipe de apoio com a programação 
+do projeto. 
+1 a 5 
+I Resultados gerais esperados: publicações conjuntas, formação de recursos 
+humanos, impactos socioeconômicos e demais benefícios mútuos que 
+poderão ser gerados pela cooperação internacional.  
+1 a 5 
+ 
+3.1 Para estipulação das notas poderão ser utilizadas até duas casas decimais. 
+ 
+3.2 Aos critérios do julgamento apresentados acima serão atribuídas notas de 1 (um) a 5 (cinco). 
+ 
+3.3 A pontuação final de cada projeto será aferida pelo somatório das notas atribuídas. 
+ 
+3.4 O critério de desempate terá como parâmetro a maior nota no item A. 
+ 
+4. ACOMPANHAMENTO E AVALIAÇÃO 
+4.1 A FAPERGS e o INRIA/CNRS se reservam o direito de, a qualquer tempo, acompanhar o 
+desenvolvimento das atividades e, após a conclusão dos trabalhos, verificarem o cumprimento 
+das condições fixadas nos termos de outorga. 
+4.2 O Coordenador do projeto deverá encaminhar em conformidade com o Termo de Outorga e 
+demais normas da FAPERGS: 
+a) a prestação de contas financeira parcial e final, com apresentação de comprovantes de 
+despesas, em conformidade com as normas de Prestação de Contas disponíveis no endereço 
+eletrônico www.fapergs.rs.gov.br. 
+b) o relatório técnico cientifico parcial e final, com detalhamento de todas as atividades 
+desenvolvidas na fase de realização do projeto e o registro de todas as ocorrências que afetaram 
+o seu desenvolvimento. 
+ 
+5. DOS ESCLARECIMENTOS E DAS INFORMAÇÕES ADICIONAIS ACERCA DO CONTEÚDO 
+DO EDITAL  
+ 
+Os esclarecimentos e informações adicionais acerca do conteúdo deste Edital poderão ser 
+obtidos por intermédio do endereço e telefones indicados a seguir: 
+ 
+5.1 Sobre o conteúdo do Edital 
+ 
+Os esclarecimentos e informações adicionais acerca do conteúdo deste Edital podem ser obtidos 
+encaminhando mensagem para o endereço eletrônico: asstec@fapergs.rs.gov.br 
+  
+ FAPs  
+As seguintes fundações de amparo à pesquisa (FAPs) aderiram ao Acordo:  
+Facepe – Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco  
+Fapeg – Fundação de Amparo à Pesquisa do Estado de Goiás  
+Fapema – Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do 
+Maranhão  
+Fapemig – Fundação de Amparo à Pesquisa de Minas Gerais  
+Fapesb – Fundação de Amparo à Pesquisa do Estado da Bahia  
+Funcap - Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico  
+Fundação Araucária – Apoio ao Desenvolvimento Científico e Tecnológico do Paraná  
+Fundect – Fundação de Apoio ao Desenvolvimento do Ensino, Ciência e Tecnologia do Estado 
+de Mato Grosso do Sul  
+Faperj – Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro 
+Fapesp – Fundação de Amparo à Pesquisa do Estado de São Paulo 
+ PRIMEIRO ADITIVO AO  EDITAL 09/2013 COOPERAÇÃO INTERNACIONAL 
+FAPERGS/INRIA/INS2i-CNRS 
+ 
+A FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DO RIO GRANDE 
+DO SUL–FAPERGS, torna público o primeiro aditivo ao Edital 09/2013, que 
+passará a ter a seguinte redação: 
+ 
+1.4. CRONOGRAMA  
+ 
+ 
+Atividades 
+Data 
+Data do lançamento do Edital 
+25/06/2013 
+Limite para postagem da proposta e 
+documentos (*) 
+Suspenso – prazo 
+indeterminado ( * ) 
+Divulgação preliminar dos resultados na 
+página Internet da FAPERGS 
+Até 10/02/2014 
+Recursos Administrativos 
+10 (dez) dias úteis contados 
+da divulgação preliminar dos 
+resultados 
+Divulgação Final dos Resultados 
+Até 28/02/2014 
+Assinatura do Termo de Outorga (**) 
+06/03/2014 
+(*) Prazo suspenso em razão da greve dos Correios. Reiniciará a contagem 
+dos prazos no 1º dia útil após o fim da greve. 
+(**)Será considerada a data da postagem do documento. 
+ 
+Mantêm-se inalteradas as demais disposições do Edital não expressamente 
+modificadas por este Termo Aditivo. 
+ 
+Porto Alegre, 17 de setembro de 2013. 
+ 
+ 
+ 
+Nádya Pesce da Silveira 
+Diretora-presidente  
+ 
+ 
+ 
+José Miguel Reichert 
+Diretor Científico 
+ 
+ 
+ 
+Marco Antonio Baldo 
+Diretor Administrativo 
+ 
+ SEGUNDO  ADITIVO AO  EDITAL 09/2013 COOPERAÇÃO INTERNACIONAL 
+FAPERGS/INRIA/INS2i-CNRS 
+ 
+A FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DO RIO GRANDE DO SUL–FAPERGS, 
+torna público o segundo aditivo ao Edital 09/2013, que passará a ter a seguinte redação: 
+ 
+1.4. CRONOGRAMA  
+ 
+ 
+Atividades 
+Data 
+Data do lançamento do Edital 
+25/06/2013 
+Limite para postagem da proposta e documentos (*) 
+04/11/2013 
+Divulgação preliminar dos resultados na página Internet 
+da FAPERGS 
+Até 10/02/2014 
+Recursos Administrativos 
+10 (dez) dias úteis contados da 
+divulgação preliminar dos resultados 
+Divulgação Final dos Resultados 
+Até 28/02/2014 
+Assinatura do Termo de Outorga (*) 
+06/03/2014 
+ (*)Será considerada a data da postagem do documento. 
+ 
+Mantêm-se inalteradas as demais disposições do Edital não expressamente modificadas por este 
+Termo Aditivo. 
+ 
+Porto Alegre, 11 de outubro de 2013. 
+ 
+Marco Antonio Baldo 
+Diretor Administrativo 
+ 
+Nádya Pesce da Silveira 
+Diretora-presidente  
+ 
+ Nicolas Bruno Maillard
+Exascale Computing: 
+Scheduling and 
+UFRGS
+Aline Villavicencio
+AIM-WEST: Análise e 
+Integração de 
+UFRGS
+Porto Alegre, 10 de fevereiro de 2014
+RESULTADO PRELIMINAR   - Edital FAPERGS 09/2013  - INRIA
+PROPONENTE
+PROJETO
+IES
+ Nicolas Bruno Maillard
+Exascale Computing: 
+Scheduling and Energy
+UFRGS
+Aline Villavicencio
+AIM-WEST: Análise e 
+Integração de Expressões 
+MultiPalavras em Tradução 
+e Fala
+UFRGS
+Porto Alegre, 28 de fevereiro de 2014
+Diretora-presidente
+Marco Antonio Baldo
+Diretor Administrativo
+RESULTADO FINAL   - Edital FAPERGS 09/2013  - INRIA
+PROPONENTE
+PROJETO
+IES
+Nádya Pesce da Silveira
+ TERCEIRO  ADITIVO AO  EDITAL 09/2013 COOPERAÇÃO INTERNACIONAL 
+FAPERGS/INRIA/INS2i-CNRS 
+ 
+A FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DO RIO GRANDE 
+DO SUL–FAPERGS, torna público o terceiro aditivo ao Edital 09/2013, que 
+passará a ter a seguinte redação: 
+ 
+ 
+1.4. CRONOGRAMA  
+ 
+ 
+ 
+Atividades 
+Data 
+Assinatura do Termo de Outorga (*) 
+10/03/2014 
+ (*)Será considerada a data da postagem do documento. 
+ 
+ 
+Mantêm-se inalteradas as demais disposições do Edital não expressamente 
+modificadas por este Termo Aditivo. 
+ 
+Porto Alegre, 05 de março de 2014. 
+ 
+ 
+ 
+ 
+Nádya Pesce da Silveira 
+Diretora-presidente  
+ 
+ 
+ 
+ 
+ 
+Marco Antonio Baldo 
+Diretor Administrativo 
+ 

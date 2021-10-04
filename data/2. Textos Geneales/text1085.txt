@@ -1,0 +1,741 @@
+
+Av. Calle 26 # 57- 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.minciencias.gov.co 
+Código: M810PR05MO1 
+Versión: 00 
+Vigente desde 2020-02-04                                                                                                      Página 1 de 12  
+INVITACIÓN A PRESENTAR PROPUESTA PARA ACTIVIDADES DE CTEI 
+ 
+ 
+PARA: 
+ 
+Alianzas lideradas por Grupos de investigación, Desarrollo Tecnológico e Innovación 
+reconocidos o categorizados por parte de Minciencias en la convocatoria 833 de 2018, 
+avalados por una institución legalmente constituida en Colombia y empresas del sector 
+productivo de hidrocarburos en Colombia, con experiencia en Recobro Mejorado de 
+Hidrocarburos y/o temáticas afines (remítase al Dirigido A) 
+ 
+ASUNTO: 
+Invitación a presentar propuestas para ejecución de proyectos I+D en recobro mejorado de 
+hidrocarburos pesados y extrapesados mediante estimulación térmica a través del proceso 
+de pirólisis in situ combinado con nanotecnología en los campos colombianos  
+ 
+El Ministerio de Ciencia, Tecnología e Innovación – en adelante Minciencias, actuando como Fideicomitente del Fondo 
+Nacional para la Ciencia, la Tecnología y la Innovación, Fondo Francisco José de Caldas, y la Agencia Nacional de 
+Hidrocarburos – ANH, en el marco del Convenio 735 de 2018, se permiten solicitar la presentación de propuestas, 
+para la ejecución de un proyecto de I+D en la línea estratégica de aumento del factor de recobro de hidrocarburos. 
+ 
+Esta invitación contribuirá al cumplimiento del objetivo No. 2 del Plan Estratégico Institucional de MINCIENCIAS 2019-
+2022: “Fomentar la generación y uso del conocimiento científico y tecnológico para la consolidación de la sociedad 
+del conocimiento”, a través del programa estratégico Apoyo al desarrollo de programas y proyectos de CTeI, donde 
+se enmarca esta iniciativa.  
+Mediante la presente invitación se pretende fortalecer el conocimiento científico y tecnológico en la temática 
+del incremento del factor de recobro de hidrocarburos pesados y extrapesados para campos colombianos, a 
+través del desarrollo de un proyectos de I+D que promuevan tanto la incorporación de nuevo conocimiento 
+científico y tecnológico en dicha temática, como la transferencia de tecnología, especialmente en procesos 
+de estimulación térmica con procesos de pirolisis in situ en conjunto con nanotecnología, esperando contar 
+con soluciones tecnológicas enmarcadas  en TRL nivel 4. 
+ 
+Se opta por una invitación a presentar propuestas y no otro mecanismo debido a que es posible contabilizar e 
+identificar a los posibles proponentes. En las bases de datos de MINCIENCIAS se tienen identificados a la fecha, 
+alrededor de 10 grupos de Investigación, Desarrollo Tecnológico o Innovación reconocidos en la convocatoria 833 de 
+2018, que cuentan con experiencia y trayectoria en las temáticas de recobro mejorado de hidrocarburos, acordes con 
+la invitación.  
+ 
+1. JUSTIFICACIÓN TÉCNICA. 
+ 
+El Ministerio de Ciencia, Tecnología e Innovación - MINCIENCIAS, como rector del Sistema Nacional de Ciencia, 
+Tecnología e Innovación (SNCTeI), es el encargado de formular la política pública de Ciencia, Tecnología e Innovación 
+– CTeI del Estado Colombiano y de direccionar, articular y fomentar el desarrollo científico, el desarrollo tecnológico 
+y la innovación en el país. En su ejercicio de promoción y fomento de la CTeI busca por un lado consolidar 
+comunidades científicas en las distintas áreas del conocimiento y al mismo tiempo propiciar la transferencia del 
+conocimiento para aportar activamente al desarrollo económico y social del país. 
+ 
+La presente invitación está alineada con las funciones del Viceministerio de Conocimiento, Innovación y Productividad 
+del Ministerio de Ciencia, Tecnología e Innovación relacionadas con “liderar el diseño e implementación de los 
+instrumentos y mecanismos para la ejecución de planes, programas y actividades para la generación y uso del 
+conocimiento, desarrollo tecnológico, innovación y productividad, de manera articulada entre la Universidad, Empresa, 
+Estado y Sociedad”, y la de “Impartir lineamientos para impulsar el desarrollo de actividades orientadas a la generación 
+de conocimiento en las diferentes áreas del saber, así como para la Investigación + Desarrollo+ innovación (I+D+i), 
+que faciliten la identificación de oportunidades y la solución de problemas nacionales y regionales del sector productivo 
+y social”. 
+                                                                               
+Av. Calle 26 # 57- 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.minciencias.gov.co 
+Código: M810PR05MO1 
+Versión: 00 
+Vigente desde 2020-02-04                                                                                                      Página 2 de 12  
+ 
+Por su parte, la Agencia Nacional de Hidrocarburos en su condición de administrador integral de las reservas de 
+hidrocarburos de propiedad de la Nación, y en cumplimiento de lo establecido en el Decreto 4173 de 2011 en sus 
+artículos 3 y 4 al referirse a los objetivos y funciones de la ANH, los que señalan la necesidad de promover el 
+aprovechamiento óptimo y sostenible de los recursos hidrocarburíferos de la Nación y de apoyar al Ministerio de Minas 
+y Energía en la elaboración de la política sectorial de hidrocarburos, para lo cual, prevé entre otros instrumentos, la 
+función de estructurar estudios e investigaciones en las áreas de geología y geofísica entre otras, que permitan la 
+generación de nuevos conocimientos con miras a planear y optimizar el aprovechamiento del recurso hidrocarburífero, 
+para así generar interés exploratorio y de inversión en el país. 
+ 
+Uno de los principales retos que enfrenta la política petrolera en Colombia, es mejorar la eficiencia del factor de 
+recobro, permitiendo mediante esto, incrementar la producción teniendo en cuenta las situaciones actuales a nivel 
+mundial. Esta tarea es básica para proveer los recursos en el corto y mediano plazo que permitan soportar el marco 
+fiscal para el país. El Plan Nacional de Desarrollo 2018-2022 “Pacto por Colombia, pacto por la equidad” estable en 
+el apartado Seguridad energética para el desarrollo productivo, en su segundo objetivo, Consolidar la cadena 
+energética, el aumentar reservas y producción de los hidrocarburos, a través de la incentivación de la reactivación de 
+actividades de exploración y producción de yacimientos convencionales, incluyendo el uso de métodos de recobro 
+mejorado. Se buscará que el sector innove en el uso de técnicas para la exploración y producción del recurso, 
+especialmente las relacionadas con el mejoramiento del factor de recobro. 
+ 
+La presente invitación también se relaciona con los resultados de la Misión de Sabios 2019, donde se destaca a la 
+energía como vital para el desarrollo de la sociedad, por lo que asegurar un suministro sostenible es fundamental para 
+la evaluación de los sistemas socio-económicos. Por lo tanto, se debe procurar el progreso en el desarrollo, 
+apropiación y escalamientos de nuevas tecnologías en sus procesos de generación, procurando una diversificación 
+de la matriz energética del país, pero también consolidando los recursos convencionales. A través de la ciencia y la 
+tecnología se podrán mejorar los procesos involucrados en su generación, conversión y uso final, tanto de los recursos 
+energéticos renovables como de los renovables disponibles. 
+ 
+La actual demanda de combustibles fósiles y la reducción de la producción de hidrocarburos de yacimientos 
+convencionales, ha estimulado la explotación de los yacimientos con crudos pesados (CP) y extra pesados (CEP) que 
+anteriormente no resultaban rentables desde el punto de vista económico. En Colombia, los estudios geológicos de 
+las cuencas sedimentarias han demostrado que existe un potencial importante de este tipo de yacimientos, que 
+extenderían la suficiencia energética. Sin embargo, la exploración de nuevas técnicas y metodologías de producción 
+trae consigo desafíos asociados a análisis de riesgos y a la economía de los recursos. 
+ 
+A fin de promover la articulación entre actores y el fortalecimiento de capacidades del Sistema Nacional de Ciencia, 
+Tecnología e Innovación, MINCIENCIAS (antes Colciencias) subscribió con la Agencia Nacional de Hidrocarburos 
+ANH el convenio No. 735 de 2018, el cual tiene por objeto “Aunar esfuerzos técnicos, humanos y financieros para 
+apoyar la investigación, el desarrollo experimental y la innovación, con el propósito de incrementar el factor de recobro 
+de hidrocarburos, considerando las condiciones de nuestro territorio”. En tal sentido, con la presente invitación se 
+busca dar cumplimiento a dicho propósito. 
+ 
+En tal sentido, se plantea el aumento del recobro de hidrocarburos en yacimientos existentes, la cual puede ser 
+implementada en el corto plazo y donde se aplican diferentes tecnologías dependientes de las características de las 
+rocas y la calidad de los fluidos que conforman los yacimientos productores. Cabe mencionar que el petróleo 
+recuperado a la fecha en el país es del 16% y el factor de recobro con desarrollos actuales es del 21%. Con la meta 
+de incrementar el factor de recobro inicialmente a 26% y luego al 30% se añadirían de 2.500 a 5.000 millones de 
+barriles de reservas probadas del país, que hoy son de 1.782 millones de barriles, de ahí la relevancia de la temática 
+contemplada conforme a información oficial del año 2018. Como alternativas se han aplicado diferentes técnicas, 
+siendo la aplicación de nanotecnología una buena prospectiva aplicable tanto en yacimientos de CP y CEP, para el 
+mejoramiento de propiedades reológicas, movilidad, humectabilidad, entre otras (Ko and Huh, 2019; Yekeen et al., 
+2019). También, se han propuesto varios métodos pilotos para el recobro de hidrocarburos “In-situ” con positiva 
+prospectiva de éxito, las cuales involucran calentamiento volumétrico, selectivo, rápido y controlado (Burnham et al., 
+2010; Ryan et al., 2010; Symington et al., 2010). 
+ 
+                                                                               
+Av. Calle 26 # 57- 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.minciencias.gov.co 
+Código: M810PR05MO1 
+Versión: 00 
+Vigente desde 2020-02-04                                                                                                      Página 3 de 12  
+A nivel de investigaciones de tipo fundamental, la estimulación térmica mediante microondas ha sido documentada 
+con resultados prometedores relacionados al rendimiento (El harfi et al., 2000; Neto et al., 2014; Yang et al., 2017); 
+sin embargo, aún existen desafíos e incertidumbre, relacionados con la heterogeneidad en el contenido de agua de 
+formación en la región cercana al pozo y sus efectos sobre el control térmico (altos gradientes térmicos). Carrizales 
+et al. (Carrizales et al., 2010), exploraron mediante modelamiento y simulación en COMSOL, el mejoramiento de 
+recobro de CP a través del calentamiento electromagnético, con resultados positivos y aún pendientes de validación 
+experimental. Sin embargo, es importante tener en consideración que existen otros aspectos (control térmico, cinético-
+molecular, catálisis, cracking entre otros) que aún no son bien comprendidos. 
+ 
+En este sentido, es del interés de la ANH y MINCIENCIAS financiar un proyecto de investigación en la temática  de 
+estimulación térmica a través del proceso de pirólisis in situ, en combinación con el aprovechamiento de las 
+propiedades demostradas de las nanopartículas, con propiedades catalíticas y ferromagnéticas, a fin de disminuir la 
+severidad térmica, mejorar propiedades de yacimiento y controlar el proceso de calentamiento, de tal forma que con 
+un piloto a escala laboratorio, se logré hacer una aproximación factible que conduzca a implementar en campo una 
+aplicación de un modelo piloto que conduzca a aumentar los barriles de petróleo en superficie, con sustentabilidad 
+técnica, económica y ambiental. 
+ 
+Finalmente, esta invitación responde a las siguientes causales de CTeI del Decreto 591 de 1991 artículo 2, en los 
+siguientes numerales: 
+● Numeral 1. “Investigación científica y desarrollo tecnológico, desarrollo de nuevos productos y procesos, 
+creación y apoyo a centros científicos y tecnológicos y conformación de redes de investigación e información”, 
+toda vez que se financiarán proyectos de I+D presentados con alianza, y que tendrán como resultado 
+productos de generación de conocimiento y desarrollo tecnológico. 
+● Numeral 4. “Proyectos de innovación que incorporen tecnología, creación, generación, apropiación y 
+adaptación de la misma, así como la creación y el apoyo a incubadoras de empresas, a parques tecnológicos 
+y a empresas de base tecnológica”, toda vez que los proyectos desarrollados en su componente tecnológico 
+tendrán en cuenta actividades y resultados que involucran la incorporación, creación, generación, apropiación 
+y adaptación de tecnologías para el aumento del factor de recobro de hidrocarburos. 
+● Numeral 5. “Transferencia tecnológica que comprende la negociación, apropiación, desagregación, 
+asimilación, adaptación y aplicación de nuevas tecnologías nacionales o extranjeras”, toda vez, que la 
+realización de algunas actividades de los proyectos de I+D necesitarán determinar componentes de 
+desagregación y negociación tecnológica en cuanto a la adquisición y desarrollo de equipos y personal 
+calificado para este tipo de proyectos. Teniendo en cuenta lo anterior, los resultados obtenidos, deben ser 
+apropiados y asimilados tanto por los investigadores como los usuarios finales de los resultados del proceso 
+de I+D.  
+● Numeral 6. “Cooperación científica y tecnológica nacional e internacional”, toda vez que el “dirigido a” de la 
+invitación permite la consolidación de alianzas nacionales e internacionales para garantizar la 
+complementariedad de recursos y conocimientos que den respuesta a los objetivos planteados en el 
+proyecto. 
+ 
+2. OBJETIVOS GENERALES Y ESPECÍFICOS 
+ 
+ 
+2.1 Objetivo general 
+ 
+Fortalecer el conocimiento científico y tecnológico en la temática del incremento del factor de Recobro de 
+Hidrocarburos pesados y extrapesados para Campos Colombianos, a través del desarrollo de proyectos de I+D 
+enfocados a la implementación de alternativas tecnológicas de estimulación térmica con procesos de pirolisis in situ 
+en combinación con nanotecnología. 
+ 
+ 
+                                                                               
+Av. Calle 26 # 57- 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.minciencias.gov.co 
+Código: M810PR05MO1 
+Versión: 00 
+Vigente desde 2020-02-04                                                                                                      Página 4 de 12  
+2.2 Objetivos específicos 
+ 
+2.2.1 
+Fortalecer el conocimiento científico y tecnológico en el desarrollo de metodologías de recobro térmico 
+novedosas en crudos pesados y extrapesados, no oxidativos y no probadas en pilotos y/o campo. 
+2.2.2 
+ Contribuir a la consolidación de la cadena energética en Colombia a través de metodologías que 
+conduzcan al incremento de reservas y su consabida producción de barriles en superficie. 
+2.2.3 
+Incrementar la producción científica de alto impacto, así como la formación de recurso humano a nivel 
+de semilleros, pregrado, joven investigador, maestría y doctorado con énfasis en recobro mejorado. 
+2.2.4 
+Establecer la conformación de alianzas entre grupos de investigación, desarrollo tecnológico e 
+innovación reconocidos en la convocatoria 883 de 2018 de MINCIENCIAS y empresas del sector 
+productivo de hidrocarburos en Colombia, así como opcionalmente con otros grupos y/o centros de 
+investigación, para brindar respuesta a las necesidades científicas y tecnológicas de las áreas petroleras 
+en Colombia, contribuyendo con la competitividad y sostenibilidad del país. 
+2.2.5 
+Fortalecer el desarrollo de infraestructura investigativa útil para optimizar las técnicas del incremento de 
+factor de recobro para crudos pesados y extrapesados. 
+2.2.6 
+Promover la capacitación técnica de los profesionales del sector petrolero y la transferencia de 
+tecnología a los funcionarios de la ANH y demás empresas del sector público relacionadas en temas 
+específicos de recobro mejorado con énfasis en procesos térmicos no oxidativos e innovadores. 
+2.2.7 
+Realizar prototipos de laboratorio que incluyan las tecnologías desarrolladas en este proyecto, con 
+alianzas entre universidades, grupo y/o centros de investigación y permitiendo que en el mediano plazo 
+desarrollen pilotos de campo que promuevan la incubación de empresas, que desarrollen productos y 
+servicios satisfactorios aplicables a las tecnologías EOR (Recuperación mejorada de petróleo, sigla en 
+inglés). 
+2.2.8 
+Mejorar el conocimiento de recobro mejorado térmico de los crudos pesados y extrapesados con 
+técnicas innovadoras no aplicadas hasta el momento, con futura aplicación en el campo. 
+ 
+3. DESCRIPCIÓN Y ALCANCE DEL PROYECTO 
+  
+3.1 DIRIGIDO A 
+ 
+Alianzas lideradas por Grupos de investigación, Desarrollo Tecnológico e Innovación reconocidos o categorizados por 
+parte de Minciencias en la convocatoria 833 de 2018, avalados por una institución legalmente constituida en Colombia 
+y empresas del sector productivo de hidrocarburos en Colombia con experiencia en Recobro Mejorado de 
+Hidrocarburos y/o temáticas afines. 
+ 
+El Grupo de Investigación, Desarrollo Tecnológico o de Innovación de la entidad ejecutora debe contar con experiencia 
+comprobable mínima de un año (Anexo 5) en proyectos relacionados con tecnologías de recobro mejorado de 
+hidrocarburos y/o temáticas afines. 
+ 
+Una vez establecida la alianza se podrán vincular otro tipo de actor (en calidad de co-ejecutor(es)) como: 
+  
+• 
+Grupos de investigación, desarrollo tecnológico e innovación reconocidos o categorizados por parte de 
+Minciencias en la convocatoria 833 de 2018, avalados por una institución legalmente constituida en Colombia. 
+• 
+Centros e Institutos de Investigación y Desarrollo Tecnológico o de Innovación autónomo  
+• 
+Otras empresas del sector productivo de hidrocarburos 
+ 
+Notas: 
+1. Podrán participar Universidades y Centros de Investigación Internacionales, que cuenten con experiencia 
+comprobada en la temática. En dicho caso, estas entidades podrán relacionarse únicamente como Co-
+Ejecutoras. 
+2. En el caso que participen en la alianza (opcional) Centros de Investigación y Desarrollo Tecnológico o de 
+Innovación autónomo, con reconocimiento de Minciencias en la convocatoria 833 de 2018, estos no están 
+obligados a realizar aporte de contrapartida, de conformidad con la Resolución 1473 de 2016 que adopta la 
+Política de Actores del Sistema Nacional de Ciencia, Tecnología e Innovación - SNCTeI, según numeral 
+8.2.2. 
+                                                                               
+Av. Calle 26 # 57- 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.minciencias.gov.co 
+Código: M810PR05MO1 
+Versión: 00 
+Vigente desde 2020-02-04                                                                                                      Página 5 de 12  
+ 
+3.2 REQUISITOS 
+ 
+3.2.1 
+Cumplir con el DIRIGIDO A. 
+3.2.2 
+Inscribir el proyecto en el Sistema Integrado de Gestión de Proyectos – SIGP. 
+3.2.3 
+Diligenciar o actualizar la hoja de vida de cada uno de los investigadores y coinvestigadores, en el 
+aplicativo CvLAC. Para el caso de investigadores internacionales, se deberán incluir sus hojas de vida 
+dentro de la documentación a presentar con la propuesta, en el campo del aplicativo habilitado para esto.  
+3.2.4 
+Para el caso de coinvestigadores que pertenezcan a las empresas de la alianza, se solicita adjuntar en 
+la plataforma SIGP, las hojas de vida, donde se debe evidenciar la vinculación de este personal a la 
+empresa correspondiente. 
+3.2.5 
+Presentar la Carta unificada de aval y compromiso institucional debidamente diligenciada y firmada por 
+los Representantes legales de las entidades nacionales participantes o quien haga sus veces, siempre 
+y cuando se anexe el documento que los faculte (Anexo 2). La cual debe evidenciar lo registrado en el 
+formulario SIGP, que debe corresponder a una contrapartida en dinero o en especie mínima del 30% del 
+costo total del proyecto.  
+3.2.6 
+El investigador principal del proyecto debe estar adscrito al grupo de investigación, desarrollo tecnológico 
+o de innovación proponente, reconocido por MINCIENCIAS en la convocatoria 883 de 2018, y contar 
+con trayectoria demostrada en la temática (Diligenciar Formato del Anexo 4 debidamente firmado). 
+3.2.7 
+Presentar el aval del Comité de Ética/Bioética nacional donde especifique claramente que la propuesta 
+ha sido revisada y avalada en sus componentes éticos e instrumentos a emplear, cuando aplique, es 
+decir para aquellos proyectos que empleen recurso vivo, agentes o muestras biológicas, datos 
+personales, información proveniente de investigaciones previas realizadas con seres vivos o que no 
+tengan impacto sobre la vida. Adicionalmente, se debe anexar a este aval, el acto administrativo que 
+soporta la conformación del Comité de ética que lo expide. En caso de que la institución que presenta la 
+propuesta no cuente con un Comité de ética, podrá solicitar este aval ante otra entidad nacional que 
+cuente con este Comité.   
+3.2.8 
+Cada miembro del personal científico, deben diligenciar y firmar el “FORMATO DE EXPERIENCIA 
+ESPECÍFICA DEL PERSONAL”, que se encuentra en el Anexo 4.  
+3.2.9 
+Para comprobar la experiencia mínima de un año del proponente en proyectos relacionados con 
+tecnologías de recobro mejorado de hidrocarburos y/o temáticas afines, se debe diligenciar el Anexo 5. 
+3.2.10 Se aceptarán únicamente los proyectos que se presenten a través del formulario en línea del Sistema 
+Integrado de Gestión de Proyectos – SIGP con toda la información solicitada en la presente invitación 
+ 
+3.3 DURACIÓN Y FINANCIACIÓN 
+ 
+El término de duración del proyecto a financiar será de hasta VEINTICUATRO (24) meses 
+ 
+El monto solicitado en la propuesta no podrá exceder de TRES MIL CUATROCIENTOS SETENTA MILLONES 
+SEISCIENTOS VEINTICUATRO MIL TRESCIENTOS TREINTA PESOS ($3.470.624.330) M/CTE, de acuerdo con el 
+Certificado de Disponibilidad de Recursos - CDR Global No. 15635 de 2020. 
+ 
+MINCIENCIAS y la ANH a través del Fondo Francisco José de Caldas – FFJC financiarán como máximo el 70% del 
+valor total del proyecto. Las entidades proponentes deberán aportar en contrapartida recursos por mínimo el 30% del 
+valor total del proyecto, los cuales pueden ser en especie o dinero.   
+ 
+El desembolso de los recursos se realizará de la siguiente manera: 50 % contra entrega y aprobación del plan 
+operativo del proyecto1, 25 % contra entrega a satisfacción del primer informe de avance y 25 % contra entrega a 
+ 
+1  El plan debe incluir un plan de divulgación para actores del sector de hidrocarburos, el cual debe ser ejecutado por los miembros del grupo, 
+incluyendo los estudiantes de maestría y doctorado vinculados al proyecto. 
+ 
+                                                                               
+Av. Calle 26 # 57- 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.minciencias.gov.co 
+Código: M810PR05MO1 
+Versión: 00 
+Vigente desde 2020-02-04                                                                                                      Página 6 de 12  
+satisfacción del segundo informe de avance. 
+ 
+Nota: De no presentarse ninguna propuesta que pueda ser declarada financiable, la invitación se declarará desierta. 
+ 
+3.4 RESULTADOS ESPERADOS 
+ 
+● Estudio sobre la efectividad de un método de recobro térmico (Inducción magnética) en yacimiento de crudo 
+pesado. 
+● Desarrollo de un prototipo de herramienta a nivel de laboratorio para aplicar inducción magnética en un núcleo 
+saturado de hidrocarburos. 
+● Nivel de madurez tecnológica que permita su posible aplicación de piloto en campo. Mínimo TRL 4. 
+● Consolidación de laboratorio especializado para hacer evaluación de crudo pesado en dinámicas térmicas. 
+● Consolidación de la formación del grupo investigador en recobro mejorado y térmico para dar soporte a la industria 
+petrolera. 
+● Establecer esquemas de desarrollo empresarial y gerencial en las técnicas investigadas, apoyando la región. 
+ 
+Nota: En el Anexo 1 se detalla el alcance esperado de esta invitación y las especificaciones técnicas. 
+3.5 REQUERIMIENTOS TÉCNICOS, TECNOLÓGICOS, HUMANOS 
+La información de su propuesta deberá contener como mínimo la siguiente información, la cual se detalla en el Anexo 
+3.   
+ 
+3.5.1 
+Componente científico-técnico de la propuesta 
+ 
+● Título del proyecto. 
+● Lugar de ejecución. 
+● Duración. 
+● Investigador principal y coinvestigadores. 
+● Conformación del equipo de investigación. 
+● Nivel de TRL inicial 
+● Nivel de TRL esperado al final del proyecto. 
+● Resumen ejecutivo. 
+• Antecedentes y resultados previos del equipo de investigación.  Esta información debe ser diligenciada por 
+cada uno de los integrantes del equipo, en el formato disponible en el Anexo 4. Para el caso de la empresa, 
+debe diligenciarse el formato disponible en el Anexo 5. 
+● Palabras clave. 
+● Planteamiento del problema y de la pregunta de investigación. 
+● Estado del arte. 
+● Objetivos (general y específicos). 
+● Metodología (destacando los roles y/o las actividades realizadas por cada una de las instituciones que 
+componen la alianza). 
+● Resultados esperados de la investigación. 
+● Productos esperados en las categorías de generación y apropiación de nuevo conocimiento, así como los 
+productos de formación de personal científico (Anexo 6). 
+● Plan de difusión de los resultados. 
+● Carácter novedoso del proyecto. 
+● Estrategia de transferencia de los resultados a los sectores productivos e institucional (ANH). 
+● Aplicación potencial de los resultados. 
+● Impacto Ambiental. 
+● Cronograma. 
+● Bibliografía. 
+ 
+ 
+ 
+ 
+                                                                               
+Av. Calle 26 # 57- 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.minciencias.gov.co 
+Código: M810PR05MO1 
+Versión: 00 
+Vigente desde 2020-02-04                                                                                                      Página 7 de 12  
+ 
+3.5.2 
+Componente presupuestal 
+ 
+Los rubros financiables a través de la presente invitación son los siguientes: 
+ 
+● Adquisición de equipos: Aquellos necesarios para el desarrollo del programa/ proyecto, los cuales pueden 
+ser adquiridos a cualquier título. La financiación para compra de equipos nuevos deberá estar sustentada en 
+la estricta necesidad de estos para el desarrollo del proyecto. 
+● Materiales e insumos: Adquisición de materiales, insumos, bienes fungibles y demás elementos necesarios 
+para el desarrollo de algunas actividades previstas. Deben presentarse a manera de listado detallado 
+agrupado por categorías sobre las cuales debe hacerse una justificación de su necesidad y cantidad (Ej. 
+consumibles, reactivos, herramientas, elementos de protección, controles e instrumentación accesoria, 
+material biológico, audiovisual, de laboratorio y de campo, etc.). 
+● Bibliografía: Adquisición de libros, revistas, artículos, suscripciones o acceso a bases de datos 
+especializadas, que sean estrictamente necesarias para una ejecución exitosa del proyecto. 
+● Servicios técnicos: Contrataciones que se hacen para la prestación de servicios especializados y cuya 
+necesidad esté suficientemente justificada, por ejemplo: ensayos, pruebas, análisis de laboratorio y 
+caracterizaciones, etc. Estos no deben incluirse en los gastos de personal. 
+● Software: Adquisición de licencias de software especializado para las actividades de CTeI propias del 
+desarrollo del proyecto. Su necesidad y cantidad debe soportarse en justificaciones técnicas detalladas. No 
+se considerará financiable dentro de este rubro software de uso cotidiano, como por ejemplo procesadores 
+de texto, hojas electrónicas o sistemas operativos. 
+● Salidas de campo: Costos asociados al levantamiento de información en campo, desde fuentes primarias o 
+secundarias, para la consecución de los objetivos del proyecto; o requeridas para el desarrollo de pruebas 
+piloto. 
+● Movilidad de investigación: Se refiere a los gastos de transporte (pasajes nacionales e internacionales) y 
+viáticos relacionados con las actividades propuestas en el componente científico-técnico del proyecto 
+(capacitaciones, estancias cortas en instituciones académicas nacionales o extranjeras, presentación de 
+ponencias en eventos especializados, etc.) y que son estrictamente necesarios para la ejecución exitosa del 
+proyecto y la generación de productos y resultados. 
+● Eventos académicos: Gastos ocasionados por la organización y divulgación de eventos (paneles, 
+simposios, talleres, seminarios, congresos, ferias de CTeI, etc.) que permitan retroalimentar o presentar 
+productos y resultados del proyecto. 
+● Publicaciones: Costos de publicación de artículos científicos en revistas indexadas con un alto factor de 
+impacto. Costos asociados a la publicación de libros, manuales, videos, cartillas, posters, etc. que presenten 
+los resultados del Programa y sirvan como estrategia de divulgación o apropiación social de los resultados 
+de la investigación. 
+● Gastos de operación: Incluye los salarios del personal administrativo, materiales y suministros de oficina y 
+demás servicios generales necesarios. Se reconoce hasta el 7% del monto solicitado a MINCIENCIAS. 
+● Personal científico: El componente de Recursos humanos para actividades de CTeI: 
+o 
+Personal con formación científica y técnica, que cuenta con título profesional y/o de posgrado 
+(maestría, doctorado), y vinculación de postdoctorados que estarán a cargo de las actividades 
+investigativas propias de la ejecución del proyecto según el planteamiento científico-técnico. 
+o 
+Personal con formación en carreras técnicas y tecnológicas con capacidades para apoyar la 
+ejecución de actividades de CTeI. 
+● Asesoría Especializada: Actividades científicas y/o tecnológicas nacionales o internacionales de corta 
+duración, que son claves para el desarrollo del proyecto, llevadas a cabo por investigadores o profesionales 
+con amplia experiencia en la temática. Se debe explicar en forma clara el objetivo de la asesoría y las 
+diferentes tareas encomendadas con sus entregables. 
+● Adecuación de infraestructura: Gastos destinados a adecuar laboratorios, parcelas y plantas piloto, por un 
+valor que no supere el 15% del valor solicitado a MINCIENCIAS. (no se reconoce la adecuación de oficinas, 
+reordenamientos de “lay out” de la planta o distribución de planta, muebles de oficina, estantería entre otros). 
+● Gastos de Propiedad Intelectual. Costos tendientes a la obtención de nuevas creaciones (patentes, diseños 
+industriales y otros) en Colombia y/o en el exterior. De igual manera estarán incluidos los gastos relacionados 
+                                                                               
+Av. Calle 26 # 57- 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.minciencias.gov.co 
+Código: M810PR05MO1 
+Versión: 00 
+Vigente desde 2020-02-04                                                                                                      Página 8 de 12  
+con la protección de marcas y derechos de autor siempre y cuando estén directamente relacionadas con el 
+proyecto desarrollado 
+ 
+Deberán tenerse en cuenta los siguientes lineamientos: 
+a) El presupuesto para el pago de personal científico y de apoyo no podrá exceder el 40% del presupuesto total 
+solicitado a Minciencias. 
+b) No serán financiados con recursos de MINCIENCIAS, honorarios o bonificaciones especiales a personal de 
+nómina de tiempo completo de entidades públicas o privadas. No obstante, estas sí pueden ser financiadas 
+con recursos de contrapartida. 
+c) Personal que sea beneficiario del programa “Jóvenes Investigadores de MINCIENCIAS” podrá ser vinculado 
+a las actividades investigativas previstas para la ejecución del proyecto, pero en ningún caso podrá ser 
+financiado al mismo tiempo con los recursos provenientes de MINCIENCIAS asignados al proyecto. Aquellos 
+Jóvenes Investigadores que se vinculen a las actividades del proyecto, podrán recibir incrementos al monto 
+previsto para su beca-pasantía, pero únicamente con recursos de contrapartida de la entidad que lo presente. 
+d) Personal que sea beneficiario del programa de “Doctorados de MINCIENCIAS” podrá ser vinculado a las 
+actividades investigativas previstas para la ejecución del proyecto, pero en ningún caso podrá ser financiado 
+al mismo tiempo con los recursos provenientes de MINCIENCIAS asignados al proyecto. Los estudiantes de 
+doctorado que se vinculen a las actividades del proyecto podrán recibir incrementos al monto previsto para 
+su beca, pero únicamente con recursos de contrapartida de la entidad que lo presente. 
+e) A través del rubro de personal, no se financiarán los derechos académicos y de matrícula del personal. 
+f) 
+No serán financiables con recursos de MINCIENCIAS, rubros presupuestales como: Construcciones, 
+mantenimiento de equipos e infraestructura, imprevistos, seguros, adquisición de vehículos, mobiliario de 
+oficina y membresías a sociedades científicas. 
+g) Serán sometidas a evaluación únicamente tres (3) solicitudes de cambio de rubro durante el tiempo de 
+ejecución del proyecto. Se aclara que cada solicitud puede incluir varios cambios de rubro, y serán 
+autorizadas siempre y cuando no comprometan los resultados esperados. 
+h) Todo cambio de rubro inferior al 30% del total del rubro de destino, NO requerirá autorización o aprobación 
+de Minciencias Por lo anterior, dichos cambios quedan sujetos a la autonomía del investigador principal y 
+deben detallarse en los informes de avance y final financieros. Sin embargo, deberán ser informados a 
+Minciencias. Cuando los cambios de rubro superen el 30%, se deberá pedir autorización a Minciencias. 
+i) 
+Al finalizar el periodo de ejecución de los proyectos los equipos serán propiedad de la entidad ejecutora quien 
+no podrá ceder la titularidad o propiedades de los referidos equipos hasta que se cumpla el tiempo de vida 
+útil de los mismos. 
+ 
+ 
+4. PROCEDIMIENTO DE INSCRIPCIÓN DE LA PROPUESTA 
+ 
+4.1. 
+Ingresar a la página web de MinCiencias (www.minciencias.gov.co). 
+ 
+4.2. 
+Ingresar al menú ubicado en la parte superior de la página web – SCIENTI Y SIGP, donde se despliega 
+Sistemas de Información- Plataforma SIGP, allí encontrará disponibles los diferentes formularios en línea 
+para aplicar a las convocatorias/invitaciones de MinCiencias (https://minciencias.gov.co/scienti). 
+ 
+4.3. 
+Hacer clic en la opción Formulario en línea para registro de entidades ubicado en la parte derecha, 
+https://plataformasigp.minciencias.gov.co:7003/Entidades/ En caso de haberla registrado previamente, 
+continuar con el paso número 4.5.  
+ 
+4.4. 
+Realizar el pre-registro de las entidades participantes en el proyecto con la información solicitada. 
+MinCiencias en un periodo de 2 días hábiles remitirá a su correo electrónico de contacto las credenciales de 
+acceso para el ingreso al sistema de registro de entidades, solo si la entidad fue avalada, de lo contrario el 
+sistema enviará un correo informando que la entidad fue rechazada y la razón del rechazo. El pre-registro 
+debe realizarse con un plazo máximo de cuatro (4) días hábiles antes del cierre de la invitación. 
+ 
+                                                                               
+Av. Calle 26 # 57- 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.minciencias.gov.co 
+Código: M810PR05MO1 
+Versión: 00 
+Vigente desde 2020-02-04                                                                                                      Página 9 de 12  
+4.5. 
+Ingresar al módulo de entidades con sus credenciales y registrar la información de la entidad ejecutora y co-
+ejecutoras del proyecto. En caso de encontrarse registradas las entidades en este sistema, no se requiere 
+de un nuevo registro, sin embargo, podrá actualizar la información. 
+ 
+4.6. 
+Una vez finalizado el registro de la entidad, Ingresar al link de Formulario de Proyectos y/o programas: 
+http://formulariosigp.minciencias.gov.co:7001/Gestion/ 
+ 
+4.7. 
+Diligenciar la información solicitada por el formulario en línea para la presentación de los proyectos a la 
+invitación. Para recibir las credenciales de acceso por correo electrónico deberá registrar como mínimo el 
+título del proyecto, la entidad ejecutora, nombre de la invitación, y correo electrónico.  
+ 
+4.8. 
+Debe adjuntar la totalidad de los documentos que soportan los requisitos. Si para un requisito requiere anexar 
+más de un documento, guárdelos en una sola carpeta y adjúntela como archivo comprimido .ZIP o .RAR en 
+el campo correspondiente al requisito. Si requiere cambiar algún archivo de los que previamente adjuntó, 
+puede hacerlo examinando y adjuntando el documento deseado. Es importante resaltar que el tamaño de 
+cada archivo anexado de cada uno de los requisitos, cuenta con una capacidad máxima de 3MB; para el 
+requisito “Otros adjuntos” tiene una capacidad máxima de 10 MB.  
+ 
+4.9. 
+Para validar, por favor hacer clic en el botón Validar, ubicado en la parte inferior del menú. Si la información 
+registrada cumple con los criterios solicitados por la invitación, la validación será exitosa y se activará la 
+opción de Enviar formulario, en caso contrario se mostrará en pantalla la información que no cumple con los 
+criterios definidos en la invitación.  
+ 
+4.10. 
+Una vez se oprime el botón de enviar formulario, el sistema registrará el proyecto y generará su respectivo 
+código del proyecto. 
+ 
+4.11. 
+Una vez haya sido enviado el proyecto, si la invitación se encuentra abierta el sistema le permite modificar el 
+proyecto, oprimiendo el botón "Modificar Proyecto", para realizar los cambios que consideren. Al dar clic en 
+la opción "Modificar Proyecto" que está en el menú se muestra una pantalla de confirmación con el siguiente 
+mensaje "¿Está seguro de modificar el proyecto?, una vez confirme esta acción el proyecto ya no estará 
+radicado en MinCiencias. Para volver a radicarlo debe validar y enviar de nuevo el proyecto una vez lo 
+haya modificado." Cabe aclarar que si no lo vuelve a validar y enviar el proyecto a MinCiencias, este 
+proyecto no quedará radicado oficialmente en MinCiencias y no seguirá a la etapa de revisión de requisitos, 
+así cuente con la pantalla de evidencia de un envío anterior satisfactorio. 
+ 
+4.12. 
+Para realizar seguimiento a la propuesta, deberá ingresar al formulario con el usuario y contraseña enviados 
+mediante el correo electrónico al momento de registrar la propuesta en el sistema, y por el menú de requisitos 
+podrá consultar las observaciones realizadas a los requisitos del proyecto, con el fin de que sean subsanadas 
+por el proponente. 
+Notas: 
+● Se aceptarán únicamente las propuestas que se presenten a través del formulario en línea con toda la información 
+solicitada en la presente invitación. 
+● No se tendrá en cuenta para el proceso de evaluación y selección, la información enviada en medios distintos al 
+SIGP (correo postal, fax, correo electrónico otro), ni posterior a la fecha y hora límite establecida. Excepto cuando 
+sea solicitado directamente por MinCiencias. 
+● Si requieren anexar documentación adicional del proyecto como: tablas, fórmulas, gráficas, anexos, cartas, etc., 
+guárdelos en una sola carpeta y adjúntelas como archivo .ZIP o .RAR (archivo comprimido), en el requisito de 
+Otros adjuntos. Si requieren cambiar algún archivo de los que previamente adjuntó, puede hacerlo examinando 
+y adjuntando el documento deseado. 
+● Para remitir toda la documentación relacionada con cada uno de los requisitos, el tamaño máximo de envío es de 
+3 MB, en caso de requerir información adicional al proyecto, puede utilizar la opción llamada “Otros adjuntos” y 
+contará con un tamaño máximo de 10 Mb. 
+● En caso de que se presenten errores en el aplicativo SIGP durante el proceso de inscripción y envío del proyecto 
+o del cargue de la documentación soporte, y por esta razón después de efectuados varios intentos no pueda 
+                                                                               
+Av. Calle 26 # 57- 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.minciencias.gov.co 
+Código: M810PR05MO1 
+Versión: 00 
+Vigente desde 2020-02-04                                                                                                      Página 10 de 12  
+enviarse el proyecto de forma normal dentro del plazo establecido, por favor capturar las pantallas con el mensaje 
+de error junto con la fecha y hora en que se presentó el inconveniente que soporte el problema. Remitir antes de 
+la fecha de cierre establecida en el Cronograma de los presentes términos de referencia, todas las evidencias de 
+la falla presentada exclusivamente a través del formulario electrónico que se encuentra disponible en el enlace 
+http://www.MinCiencias.gov.co/ciudadano/canal-pqrds, explicando en el cuerpo de dicha comunicación los 
+inconvenientes ocurridos durante el envío. MINCIENCIAS por medio de la Oficina de Sistemas verificará el error 
+reportado. 
+● El envío de la propuesta no implica obligatoriedad, ni compromiso alguno de parte de MINCIENCIAS-ANH para 
+asignar recursos, ni genera derecho a recibir apoyo económico, ni ningún otro tipo de beneficios. La presentación 
+de la propuesta tampoco establece ninguna obligación para MINCIENCIAS-ANH de informar sobre las decisiones 
+adoptadas de este análisis. 
+ 
+En caso de presentar inquietudes éstas serán recibidas exclusivamente a través del correo 
+atencionalciudadano@minciencias.gov.co a partir de la presente invitación y hasta el día de cierre, que corresponde 
+al  14 de agosto de 2020 4:00 p.m. 
+ 
+5. CONSIDERACIONES DE LA PROPUESTA RECIBIDA 
+ 
+Toda propuesta presentada por fuera del plazo establecido se entenderá como extemporánea, y no será evaluada. 
+La entrega de una propuesta no implica obligatoriedad para MINCIENCIAS y la ANH de financiarlo. 
+ 
+6. INFORMACIÓN DECISIÓN 
+ 
+Si su propuesta ha sido aceptada, MINCIENCIAS le informará mediante comunicación electrónica las instrucciones y 
+condiciones para la suscripción y ejecución del contrato. A partir de la fecha de comunicación, se contarán quince (15) 
+días calendario como plazo máximo para que se sirva remitir a MINCIENCIAS la totalidad de la documentación 
+requerida para el contrato. Vencido el término, en caso de que no se remita la documentación, se entenderá que 
+desiste de su interés por contratar con MINCIENCIAS a través del Fondo Francisco José de Caldas. 
+ 
+Una vez remitida la minuta del contrato al beneficiario, contará con un plazo de cinco (5) días hábiles para devolverla 
+firmada a la Fiducia como vocera del Fondo Francisco José de Caldas, si no remite el contrato firmado, se entenderá 
+que desiste de su interés por contratar. 
+ 
+Para comenzar la ejecución del proyecto deberá presentar el plan operativo de trabajo y cronograma detallado de 
+actividades aprobado por MINCIENCIAS. 
+ 
+7. PROPIEDAD INTELECTUAL 
+ 
+La propiedad Intelectual se determinará según lo establecido en el artículo 1 de la Resolución No. 0361 del 19 de 
+marzo de 2020 “Por la cual se adopta la Cláusula de Propiedad Intelectual a incluir en las convocatorias públicas, 
+invitaciones, contratos y convenios que celebre el Ministerio de Ciencia, Tecnología e Innovación”, que determinó: 
+“CLÁUSULA DE PROPIEDAD INTELECTUAL: En el evento en que se llegaren a generar derechos de propiedad 
+intelectual sobre los resultados que se obtengan o se pudieran obtener en el marco del desarrollo de la presente 
+convocatoria / invitación, la titularidad sobre los mismos se regirá por lo establecido en el artículo 169 de la Ley 1955 
+de 2019, que determina: “En los casos de proyectos de investigación y desarrollo de ciencia, tecnología e innovación 
+y de tecnologías de la información y las comunicaciones, adelantados con recursos públicos, el Estado como titular 
+de los derechos de propiedad intelectual derivados de estos proyectos podrá ceder dichos derechos a través de la 
+entidad financiadora, y autorizará su transferencia, comercialización y explotación a quien adelante y ejecute el 
+proyecto, sin que ello le constituya daño patrimonial. Las condiciones de esta cesión serán fijadas en el respectivo 
+contrato o convenio. En todo caso, el Estado, a través de la entidad financiadora, se reserva el derecho de obtener 
+una licencia no exclusiva y gratuita de estos derechos de propiedad intelectual por motivos de interés público. Así 
+mismo, en caso de presentarse motivos de seguridad y defensa nacional, el titular de los derechos de propiedad 
+intelectual deberá ceder a título gratuito y sin limitación alguna al Estado, los derechos de propiedad intelectual que le 
+                                                                               
+Av. Calle 26 # 57- 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.minciencias.gov.co 
+Código: M810PR05MO1 
+Versión: 00 
+Vigente desde 2020-02-04                                                                                                      Página 11 de 12  
+correspondan. Los derechos de propiedad intelectual a ceder, así como sus condiciones de uso, serán fijados en el 
+respectivo contrato o convenio. 
+PARÁGRAFO: Cuando en el respectivo contrato o convenio se defina que el titular de derechos de propiedad 
+intelectual es quien adelante y ejecute el proyecto, y este realice la explotación de dichos derechos, obteniendo 
+ganancias económicas, deberá garantizar al Estado, a través de la entidad financiadora, un porcentaje de las 
+ganancias netas obtenidas en la explotación de la propiedad intelectual de la cual es titular, porcentaje que deberá 
+ser acordado por mutuo acuerdo con el Estado, a través de la entidad financiadora. El Estado a través de la entidad 
+financiadora, deberá invertir los dineros obtenidos, en programas y proyectos de Ciencia, Tecnología e Innovación y 
+de tecnologías de la información y las comunicaciones.” 
+No obstante lo anterior, la entidad ejecutora y co-ejecutoras de los proyectos definirán entre ellas la titularidad de los 
+derechos de propiedad intelectual que se generen en la ejecución de los proyectos beneficiados con recursos del 
+presupuesto nacional. 
+8. ACEPTACIÓN DE TÉRMINOS Y VERACIDAD 
+ 
+Con la presentación del proyecto, los interesados aceptan las características, requisitos y condiciones de la presente 
+invitación, así como lo dispuesto para el desarrollo de esta, para la entrega del recurso y el uso de datos personales. 
+Los interesados deberán declarar que no están incursos en ninguna causal de inhabilidad o incompatibilidad para 
+contratar y recibir los recursos otorgados como resultado de la presente invitación. 
+ 
+Una vez presentado el proyecto no será posible alegar desconocimiento de lo escrito en estos términos de referencia 
+ni de sus anexos. El momento para referirse a lo establecido en los términos de referencia de la invitación y sus anexos 
+es antes del cierre de esta invitación. 
+ 
+De igual forma deberán declarar que la información suministrada es veraz y corresponde a la realidad. En caso de 
+encontrarse alguna coherencia o inconsistencia en la información o documentación suministrada, MINCIENCIAS-ANH 
+podrán en cualquier momento rechazar la postulación o si es el caso, declarar la pérdida del recurso sin perjuicio de 
+las acciones legales correspondiente. 
+ 
+Nota: La verificación será realizada por MINCIENCIAS de forma permanente durante la invitación y proceso de 
+contratación. 
+ 
+9. AUTORIZACIÓN DE DATOS PERSONALES 
+ 
+Para todos los efectos legales, la presentación, inscripción o registro del proyecto, de forma inequívoca y 
+exclusivamente para los fines de la presente invitación implica obligatoriedad expresa del titular de información, para 
+el tratamiento de sus datos personales por parte del Ministerio de Ciencia, Tecnología e Innovación – MINCIENCIAS 
+y del Fondo Francisco José de Caldas - FFJC. 
+Lo anterior, en virtud de la Ley Estatutaria 1581 de 2010 mediante la cual se dictan las disposiciones generales para 
+la protección de datos personales y su Decreto Reglamentario 1377 de 2013, toda vez que el Ministerio de Ciencia, 
+Tecnología e Innovación MINCIENCIAS, se considera como responsable y/o encargado del tratamiento de datos 
+personales y por ende, requiere su autorización para continuar con el tratamiento de datos personales almacenados 
+en nuestra base de datos. 
+Quien presente, inscriba o registre el proyecto como persona natural o persona jurídica en cuyo nombre se presenta 
+la propuesta declara que ha recibido autorización expresa de todas la personas naturales y jurídicas vinculadas a esta 
+propuesta y a este proyecto, para suministrar las informaciones a que hace referencia la ley de manejo de datos, 
+comprometiéndose a responder ante MINCIENCIAS, por cualquier demanda, litigio presente o eventual, reclamación 
+judicial o extrajudicial, formulada por cualquiera de las personas naturales o jurídicas vinculadas a las propuestas y el 
+proyecto. 
+ 
+                                                                               
+Av. Calle 26 # 57- 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.minciencias.gov.co 
+Código: M810PR05MO1 
+Versión: 00 
+Vigente desde 2020-02-04                                                                                                      Página 12 de 12  
+10. ANEXOS 
+ 
+Los requerimientos técnicos y condiciones específicas que se requieren para participar de esta invitación se 
+encuentran en los siguientes anexos: 
+ANEXO 1. ESPECIFICACIONES TÉCNICAS 
+ANEXO 2. CARTA DE AVAL Y COMPROMISO INSTITUCIONAL  
+ANEXO 3. DESCRIPCIÓN CONTENIDO DE LA PROPUESTA 
+ANEXO 4. EXPERIENCIA ESPECÍFICA DEL PERSONAL 
+ANEXO 5. EXPERIENCIA EN PROYECTOS EOR 
+ANEXO 6. DESCRIPCIÓN DE LOS PRODUCTOS ESPERADOS 
+ 
+Nota1: Esta invitación ni el correo electrónico de invitación a presentar propuesta, genera obligatoriedad alguna para 
+MINCIENCIAS y la ANH de suscribir contrato, o de entregar información referente al proceso interno que se está 
+adelantando, toda vez que este es un procedimiento de contratación directa, que tiene su fundamento en la ley 1286 
+de 2009 y conforme al cual Minciencias en su desarrollo está obligado a garantizar el mérito, calidad e idoneidad. 
+ 
+Nota 2: MINCIENCIAS podrá solicitar en cualquier momento, información y documentación adicional, complementaria 
+o aclaraciones de los documentos entregados. 
+ 
+11. CRONOGRAMA 
+A continuación, se presenta el cronograma de la invitación: 
+ 
+ACTIVIDAD 
+FECHA LIMITE 
+Apertura de la invitación 
+30 de junio de 2020 
+Cierre de la invitación 
+14 de agosto de 2020 4:00 pm 
+Selección de la propuesta 
+09 de octubre de 2020 
+ 
+Cordialmente, 
+ 
+ 
+ 
+EDUARDO ROJAS PINEDA 
+Director de Inteligencia de Recursos de la Ciencia, Tecnología e Innovación 
+ 
+Visto bueno responsable técnico: 
+ 
+ 
+Yesid Ojeda Papagayo 
+Asesor Dirección de Generación de Conocimiento 
+Viceministerio de Conocimiento, Innovación y Productividad 
+ 
+Proyectó: Luis De la Rosa Ramos / Contratista / DIRGCI 

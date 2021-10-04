@@ -1,0 +1,2858 @@
+
+ 
+ 
+ 
+ 1 de 54 
+SELEÇÃO PÚBLICA MCTI/FINEP/FNDCT 
+Subvenção Econômica à Inovação – 09/2020 
+PROGRAMA DESAFIO FINEP 
+DESAFIO CIBERNÉTICO - STARTUPS E EMPRESAS DE BASE TECNOLÓGICA 
+ 
+1. 
+OBJETIVO 
+1.1. Esta Seleção Pública objetiva fortalecer o Sistema Nacional de Ciência, Tecnologia e 
+Inovação, por meio do apoio a empresas brasileiras nascentes de base tecnológica e startups, 
+com alto potencial de crescimento, introduzindo novas tecnologias e modelos de negócios no 
+mercado e contribuindo para a criação de empregos qualificados e geração de renda para o 
+País. 
+1.2. Espera-se estimular a competitividade entre as empresas de base tecnológica e startups, 
+gerando soluções inovadoras para o enfrentamento dos principais desafios tecnológicos 
+estratégicos para o país. Neste edital, em parceria com o Exército Brasileiro, a Finep visa 
+fomentar e encontrar soluções para o setor cibernético e fortalecer a soberania nacional.  
+1.3. Empregando um formato de competição tecnológica, objetiva-se apoiar cinco empresas, 
+cada uma com até R$ 200.000,00 em recursos de subvenção econômica, para o 
+desenvolvimento de soluções inovadoras para o desafio cibernético proposto.  
+1.4. Ao final da competição, a empresa com a solução mais bem avaliada receberá um 
+prêmio no valor de R$ 100.000,00 adicionais e se tornará uma potencial candidata a receber 
+um investimento seja no âmbito do Programa de Investimento em Startups Inovadoras – Finep 
+Startup, ou outra iniciativa desta empresa pública. 
+ 
+2. LINHA TEMÁTICA 
+2.1. Serão apoiados projetos de inovação em produtos na seguinte linha temática 
+(DESAFIO): 
+2.1.1. Desenvolvimento de um sistema de modelagem de alto nível para a atividade de 
+Análise de Resiliência Cibernética que incorpore a gestão de riscos. O referido sistema 
+deve integrar subsistemas e APIs (“Application Programming Interface”) complementares 
+incorporando uma metodologia de aferição de Índice de Resiliência Cibernética 
+(IRCiber), baseada em práticas modernas e aplicável a qualquer tipo de organização. 
+2.1.2. A descrição, características e especificidades do DESAFIO estão descritas no 
+ANEXO I deste Edital. 
+ 
+3. RECURSOS FINANCEIROS A SEREM CONCEDIDOS 
+3.1. No âmbito desta Seleção Pública serão comprometidos recursos não reembolsáveis do 
+Fundo Nacional de Desenvolvimento Científico e Tecnológico – FNDCT até o limite de R$ 
+1.000.000,00 (um milhão de reais). 
+ 
+  
+ 
+ 
+ 
+ 2 de 54 
+4. CRITÉRIOS DE ELEGIBILIDADE: 
+4.1. São elegíveis empresas, independentemente do tipo societário sob o qual estejam 
+constituídas (sociedades limitadas, sociedades anônimas, etc.) e atendam às seguintes 
+condições: 
+a) Possuir receita bruta no último exercício igual ou inferior a R$ 16.000.000,00 
+(dezesseis milhões de reais); 
+b) 
+Serão elegíveis empresas com até 5 anos de existência contados a partir da data 
+de lançamento do edital; 
+c) 
+Ter data de registro na Junta Comercial ou no Registro Civil das Pessoas Jurídicas 
+(RCPJ) de sua jurisdição até 31/12/2019; 
+d) Demonstrar ter efetuado qualquer atividade operacional, não-operacional, 
+patrimonial ou financeira até 31/12/2019; 
+e) Possuir, na data de divulgação do presente Edital, objeto social que contemple o 
+desenvolvimento, pesquisa ou atividade equivalente compatível com a área de 
+conhecimento do projeto proposto. A atividade deverá estar listada no Contrato ou 
+Estatuto Social da empresa de forma clara.  
+f) 
+Empregar na equipe do projeto, em atividades de pesquisa e desenvolvimento 
+tecnológico, profissionais pós-graduados, como especialistas, mestres, doutores ou 
+profissionais de titulação equivalente.  
+4.2. O projeto proposto não pode estar sendo apoiado com recursos públicos decorrentes de 
+outras ações de fomento. 
+4.3. A proponente deverá ser a principal responsável pelo desenvolvimento do produto (bem 
+ou serviço) inovador, conforme o objetivo do Edital. A proponente será responsável pelas 
+informações referentes à gestão do projeto e pela conta bancária exclusiva para 
+movimentação dos recursos. 
+4.4. Os projetos deverão ser apresentados por uma única empresa. Não será permitida a 
+apresentação de proposta com mais de uma empresa em associação, ainda que na qualidade 
+de executora. A proposta que não atenda a esse requisito será eliminada. 
+4.5. Não são passíveis de apoio no âmbito da seleção pública empresas sob controle ou com 
+maioria de capital estrangeiro que exerçam atividade econômica não especificada no Decreto 
+nº 2.233/1997 e suas alterações. 
+4.6. Também não é elegível para apoio nesta seleção pública, o Microempreendedor 
+Individual (MEI), tal qual disposto na Lei Complementar nº 128/2008.  
+ 
+5. CARACTERÍSTICAS DAS PROPOSTAS 
+5.1. Cada empresa poderá integrar apenas uma proposta. No caso de uma empresa figurar 
+em mais de uma proposta, será considerada apenas a última proposta enviada (data mais 
+recente).  
+5.2. As atividades do projeto deverão ser realizadas integralmente no território nacional.  
+  
+ 
+ 
+ 
+ 3 de 54 
+5.3. A proposta deverá apresentar com clareza o produto inovador a ser desenvolvido. Para 
+este fim, as atividades a serem custeadas com recursos solicitados à FINEP/FNDCT e de 
+Contrapartida deverão estar adequadamente identificadas. 
+5.4. A proposta deverá conter objetivamente suas referências metodológicas, indicadores e 
+mecanismos de certificação – quando for o caso – dos produtos inovadores a serem 
+desenvolvidos. 
+5.5. O valor total da proposta consiste no somatório do valor solicitado à FINEP/FNDCT com 
+o valor da contrapartida a ser aportado pela beneficiária. 
+5.6. A FINEP somente considerará a execução financeira de recursos do FNDCT como 
+gastos do projeto a partir da data de assinatura do Termo de Outorga. As despesas realizadas 
+a título de contrapartida serão aceitas a partir da divulgação oficial pela Finep das empresas 
+escolhidas na Seleção Pública até a data correspondente ao prazo final de utilização de 
+recursos.  
+5.7. Valor solicitado à FINEP/FNDCT 
+5.7.1. O valor solicitado à FINEP/FNDCT na proposta deverá ser de, no mínimo, 
+R$150.000,00 (cento e cinquenta mil reais) até, no máximo, R$ 200.000,00 (duzentos mil 
+reais) para o desenvolvimento do projeto. 
+5.7.2. As propostas que não observarem esses limites quanto ao valor solicitado à 
+FINEP/FNDCT serão eliminadas da Seleção Pública. 
+5.7.3. A contratação das propostas dependerá da disponibilidade de recursos da 
+FINEP/FNDCT, respeitando-se o valor limite aprovado para cada operação e a ordem de 
+classificação definida na Avaliação de Mérito (Item 7 – Seleção de Propostas deste edital). 
+5.7.4. A beneficiária da subvenção deverá indicar conta corrente exclusiva, em instituição 
+financeira pública federal, para recebimento dos recursos subvencionados. 
+5.7.5. As beneficiárias de subvenção econômica não poderão ser incorporadas por outra 
+sociedade ou grupo econômico com maioria de capital estrangeiro pelo período de até 2 (dois) 
+anos após o término do projeto apoiado, sob pena de serem obrigadas a restituir à FINEP os 
+valores recebidos, devidamente corrigidos conforme os parâmetros legais vigentes à época. 
+5.8. Despesas apoiáveis 
+5.8.1. O valor solicitado à FINEP/FNDCT poderá contemplar despesas de custeio e de 
+capital, desde que voltadas à atividade financiada, destacando que despesas de capital estão 
+limitadas a 20% do total solicitado. Estas despesas poderão apoiar atividades do projeto, tais 
+como: 
+a) Desenvolvimento ou aprimoramento de novos produtos ou processos; 
+b) Prototipagem; 
+c) Avaliação de desempenho e segurança, incluindo inspeção, ensaios, testes de 
+conformidade e certificação; 
+d) Patenteamento de soluções desenvolvidas no projeto; 
+e) Lotes pilotos para a verificação da pesquisa. 
+5.8.2. As despesas apoiáveis deverão ser enquadradas nos seguintes elementos de 
+  
+ 
+ 
+ 
+ 4 de 54 
+despesa:  
+a) Vencimentos e Vantagens fixas e Obrigações Patronais - Pessoal próprio com 
+vínculo trabalhista de acordo com as regras da Consolidação das Leis do Trabalho 
+– CLT, alocado em atividades de pesquisa, desenvolvimento e inovação (P,D&I);  
+b) Serviços de Terceiros - Pessoa Física ou Jurídica - para realização de serviços 
+específicos necessários à execução do projeto;  
+c) Material de consumo, incluindo matérias-primas; 
+d) Diárias - exclusivamente para a equipe executora, em atividades relacionadas 
+ao projeto; 
+e) Passagens e Despesas com Locomoção - exclusivamente para a equipe 
+executora, em atividades relacionadas ao projeto; 
+f) 
+Obras e Instalações diretamente relacionadas à pesquisa; 
+g) Equipamentos e Material Permanente diretamente relacionados à pesquisa. 
+5.9. 
+Itens não financiáveis 
+5.9.1. Não poderão ser destinados recursos de subvenção econômica para pagamento, a 
+qualquer título, de agente público da ativa por serviços prestados, inclusive consultoria, 
+assistência técnica ou assemelhados, exceto o pagamento pela prestação de serviços 
+técnicos profissionais especializados por tempo determinado, quando os contratados 
+estiverem submetidos a regime de trabalho que comporte o exercício de outra atividade e haja 
+declaração do chefe imediato e do dirigente máximo do órgão de origem da inexistência de 
+incompatibilidade de horários e de comprometimento das atividades atribuídas, desde que:  
+a) 
+esteja previsto em legislação específica; ou   
+b) 
+refira-se à realização de pesquisas e estudos de excelência, realizados por 
+professores universitários na situação prevista na alínea “b” do inciso XVI do caput 
+do art. 37 da Constituição Federal, desde que os projetos de pesquisas e os estudos 
+tenham sido devidamente aprovados pelo dirigente máximo do órgão ou da entidade 
+ao qual esteja vinculado o professor (Lei n. 13.808/2019 – LDO/2020, art. 18, inciso 
+VII e §1º, inciso VI). 
+5.9.2. Também não poderão ser destinados recursos de subvenção econômica para 
+pagamento de diárias e passagens a agente público da ativa, salvo em atividades de pesquisa 
+científica e tecnológica (Lei n. 13.808/2019 – LDO/2020, art. 18, inciso IX e §1º, inciso VIII, 
+alínea “c”). 
+5.9.3. Beneficiárias, cuja maioria do capital votante pertença à pessoa não residente no País, 
+somente poderão realizar despesas de capital se as atividades do projeto estiverem previstas 
+no Decreto nº 2233/1997, em observância ao disposto no art. 39 da Lei n. 4.131/1962. 
+5.10. Valor de contrapartida economicamente mensurável obrigatória  
+5.10.1. O apoio da Finep, por meio de recursos não-reembolsáveis de subvenção econômica, 
+implicará necessariamente o aporte de contrapartida economicamente mensurável obrigatória 
+no projeto por parte da empresa beneficiária. 
+5.10.2. Será vedada a utilização de recursos públicos oriundos de outras fontes não 
+  
+ 
+ 
+ 
+ 5 de 54 
+reembolsáveis como Contrapartida. 
+5.10.3. É prevista a liberação dos recursos em parcela única. Será exigida ao final da 
+execução do projeto a comprovação da contrapartida economicamente mensurável 
+obrigatória, que poderá ser realizada mediante prova dos gastos realizados, observada a data 
+prevista no item 5.6 do edital, ou, alternativamente, com o aporte de recursos financeiros.  
+5.10.4. A beneficiária da subvenção deverá aportar contrapartida economicamente 
+mensurável mínima obrigatória no valor de 5% do valor solicitado À FINEP, que deverá 
+ser indicada na proposta, em campo específico.  
+5.10.5. O Valor de Contrapartida da empresa poderá ser composto por despesas de custeio 
+e/ou investimentos de capital, conforme abaixo:  
+a) Despesas de custeio e de capital que sejam financiáveis com valor solicitado de 
+Subvenção Econômica; 
+b) Despesas e/ou atividades acessórias ao projeto, tais como: 
+i. 
+Prospecção e estudos de mercado para o produto (bens ou serviços) ou 
+processo a ser desenvolvido;  
+ii. 
+Seleção e capacitação de fornecedores de insumos;  
+iii. 
+Despesas de prospecção preliminar e estudos de mercado para o produto 
+(bem ou serviço) e/ou processo a ser desenvolvido; 
+iv. 
+Despesas administrativas para gestão financeira e contábil do projeto, 
+limitadas a 5% do Valor Solicitado como Subvenção Econômica aprovado; 
+v. 
+Aquisição de materiais de consumo com vistas à fabricação de equipamentos 
+e instalações de caráter permanente; 
+vi. 
+Pró-labore de sócio que efetivamente participa da execução do projeto, na 
+proporção de sua participação, desde que a remuneração seja compatível 
+com a praticada no mercado e existente antes da publicação desse edital.   
+5.11. Prazo de execução 
+5.11.1. O prazo de execução do projeto deverá ser de até 6 (seis) meses, sendo improrrogável 
+em decorrência da necessidade de processamento da competição prevista na terceira etapa 
+(Item 7.3). 
+ 
+6. APRESENTAÇÃO DA PROPOSTA E DA DOCUMENTAÇÃO 
+6.1. A proposta deverá ser enviada à FINEP por meio da Internet, até a data e horário limite 
+estabelecidos no item 11, por meio do Formulário de Apresentação de Propostas – FAP 
+específico para esta Seleção Pública, disponível no Portal da FINEP no endereço 
+www.finep.gov.br. 
+6.2. Após o prazo limite para apresentação das propostas, nenhuma outra será recebida, 
+assim como não serão aceitos adendos ou esclarecimentos que não forem formalmente 
+solicitados pela FINEP. 
+6.3. Caso o prazo estabelecido para entrega da documentação não seja cumprido, ou caso a 
+  
+ 
+ 
+ 
+ 6 de 54 
+proposta esteja incorreta ou incompleta, a proponente será desqualificada. 
+6.4. O preenchimento deverá ser realizado de acordo com orientações contidas no próprio 
+Formulário. 
+6.5. As proponentes deverão encaminhar pelo Formulário de Apresentação de Proposta – 
+FAP, os seguintes documentos: 
+a) 
+Contrato/Estatuto Social, atualizado e devidamente arquivado no registro 
+competente (Junta Comercial ou Registro Civil de Pessoas Jurídicas) e eventuais 
+alterações, caso não esteja consolidado; 
+b) 
+Ato de eleição/nomeação da atual administração; 
+c) 
+No caso de sociedades por ações, relação dos acionistas majoritários, com 
+sua qualificação completa, assinada digitalmente pelos representantes legais da 
+beneficiária ou digitalizada;  
+d) 
+Balanço Patrimonial (BP) 2019, digitalizado ou assinado digitalmente, pelo 
+contador e seu representante legal; 
+e) 
+Demonstrativo de Resultados do Exercício (DRE) referente ao ano 2019, 
+assinado digitalmente pelo contador e seu representante legal ou digitalizado; 
+f) 
+Instrumento de procuração, caso a representação legal se dê nessa forma nos 
+documentos solicitados nesse edital. 
+g) 
+Declaração ambiental e outros aspectos regulatórios (Anexo 3), assinada 
+pelos representantes legais das beneficiárias, juntamente com as licenças ou 
+outros documentos regulatórios pertinentes; 
+h) 
+Declaração de ações coletivas, assinada pelos representantes legais das 
+beneficiárias (Anexo 2) 
+6.6. Para fins de participação neste Edital, as empresas que, por questões de Legislação 
+Tributária, forem optantes pelo SIMPLES não estão isentas de apresentar a documentação 
+contábil exigida. 
+6.7. No caso de proponente pertencente a um grupo econômico, deverá ser enviada a 
+documentação financeira consolidada do grupo econômico, que deverá respeitar o critério de 
+elegibilidade quanto ao faturamento global previsto no item 4.1, a). 
+6.8. Se após a apresentação da documentação e antes da contratação, houver alteração no 
+estatuto/contrato social ou na designação da administração da beneficiária, esta deverá 
+imediatamente atualizar tais documentos junto à Finep. 
+6.9. Outros documentos e informações consideradas relevantes para análise do projeto, até o 
+limite total de 20 (vinte) páginas e 5 Mb (cinco Megabytes) em pdf (Portable Document 
+Format), poderão ser enviadas em campo específico do FAP. Os documentos solicitados 
+nesta Seleção não serão contabilizados neste limite. 
+ 
+7. DIRETRIZES GERAIS DA SELEÇÃO 
+7.1. 1ª Etapa -Habilitação 
+  
+ 
+ 
+ 
+ 7 de 54 
+7.1.1. Nesta etapa, de caráter eliminatório, as propostas serão pré-selecionadas com base 
+nos requisitos formais. 
+Requisitos Formais 
+1 
+Elegibilidade da Beneficiária (conforme item 4 do edital) 
+2 
+Atendimento aos valores limites solicitados à FINEP/FNDCT (item 5.7 do edital) 
+3 
+Indicação da contrapartida a ser aportada no Projeto (item 5.10 do edital) 
+4 
+Atendimento ao prazo máximo de execução (item 5.11 do edital) 
+5 
+Envio eletrônico do FAP pela internet até a data limite (conforme itens 6 e 11 do edital) 
+6 
+Envio dos documentos em forma eletrônica até a data limite (conforme itens 6 e 11 do 
+edital) 
+7.1.2. Somente as propostas que atenderem plenamente aos requisitos formais estarão 
+habilitadas para a 2ª Etapa e serão analisadas quanto ao mérito pelo Comitê de Avaliação.  
+7.2. 2ª Etapa - Análise de mérito 
+Critérios de Avaliação de Mérito 
+Avaliação Peso 
+1 
+Grau de inovação 
+0-5 
+4 
+2 
+Risco tecnológico 
+0-5 
+4 
+3  Qualificação da Beneficiária (Experiência, Capacidade Técnica da 
+Equipe Executora e Infraestrutura adequada) 
+0-5 
+4 
+4 
+Alcance da aplicação 
+0-5 
+3 
+5 
+Consistência da proposta (adequação das metas físicas, atividades, 
+indicadores físicos, orçamento e prazos) para a execução dos 
+objetivos do projeto 
+0-5 
+3 
+7.2.1. Entende-se por Inovação a introdução de novidade ou aperfeiçoamento no ambiente 
+produtivo e social que resulte em novos produtos, serviços ou processos ou que compreenda 
+a agregação de novas funcionalidades ou características a produto, serviço ou processo já 
+existente que possa resultar em melhorias e em efetivo ganho de qualidade ou desempenho, 
+nos termos da Lei nº 10.973, art. 2º, inciso IV. 
+7.2.2.  Serão eliminadas as propostas que não atenderem as seguintes condições: 
+a) Média ponderada igual ou superior a 3,0 (três), considerando-se a totalidade dos 
+critérios de avaliação; 
+b) Obtenção de nota igual ou superior a 2,0 (dois) no critério 1 e 2; 
+  
+ 
+ 
+ 
+ 8 de 54 
+c) Obtenção de nota igual ou superior a 1,0 (um) nos critérios 3, 4 e 5. 
+ 
+7.2.3.   As propostas não eliminadas serão classificadas em ordem decrescente de notas 
+e serão submetidas às análises técnica e orçamentária. 
+7.2.4.  Nesta etapa de classificação, serão considerados como critérios de desempate: 
+a) a melhor nota no critério 1;  
+b) persistindo o empate, a melhor nota no critério 3  
+c) persistindo o empate, melhor nota item 2; 
+d) persistindo o empate, a proposta submetida com maior antecedência. 
+7.2.5.  Serão eliminadas as propostas que não atendam às disposições gerais da Seleção 
+Pública e da legislação vigente ou que apresentem impeditivos à aprovação. 
+7.3. 3ª Etapa – Competição 
+7.3.1. Os projetos selecionados na 2ª etapa irão dispor de aproximadamente 6 meses, a 
+contar da divulgação do resultado final desta etapa, para desenvolver suas soluções e 
+participarem de competição presencial em evento único a ser realizado em Brasília, cuja 
+duração, local e data serão divulgados oportunamente para os responsáveis das propostas 
+vencedoras da segunda fase. Nesse evento, os participantes deverão realizar atividade de 
+Análise de Resiliência de uma rede virtual. 
+7.3.2.  Os projetos desenvolvidos pelas empresas participantes serão avaliados por um 
+comitê de especialistas da área de Defesa Cibernética. 
+7.3.3.  Até um mês antes da competição presencial, as empresas participantes deverão 
+encaminhar para a Finep, sendo comunicado como deverá ser feito, através de e-mail a ser 
+previamente informado, para análise prévia do comitê avaliador, os seguintes itens: 
+a) Arquitetura de Software do projeto desenvolvido que descreva, de maneira sucinta, 
+a solução adotada para se cumprir os Critérios Funcionais de Sistema descritos no 
+ANEXO I.  
+b) Todo o código fonte e demais documentos de projeto do(s) produto(s) de software 
+desenvolvido(s) e que faz(em) parte da solução proposta pela empresa. 
+7.3.4. Para a competição presencial, será preparado um cenário cibernético pela 
+organização do evento em que as concorrentes deverão realizar a aferição do índice de 
+resiliência cibernética de uma rede virtual simulada. 
+7.3.5.  Nesse ambiente controlado, será montada uma rede virtualizada similar à de uma 
+organização de grande porte, na qual as empresas deverão identificar os serviços, as 
+vulnerabilidades e os controles implementados ou não. Um comitê avaliador analisará os 
+relatórios de risco atribuindo notas aos requisitos propostos neste edital, como detalhado no 
+ANEXO I. 
+7.3.6.  Durante a competição presencial, cada concorrente deverá empregar o seu próprio 
+sistema desenvolvido de Análise de Resiliência para analisar a rede virtual, gerar um relatório 
+de risco e, concomitantemente, verificar se o software atende ou não a cada requisito proposto 
+pelo teste. 
+  
+ 
+ 
+ 
+ 9 de 54 
+7.3.7.  Ao final da competição o comitê avaliador atribuirá notas e divulgará a classificação 
+final. A melhor solução receberá o prêmio de R$ 100.000,00 (cem mil reais). 
+ 
+ 
+7.3.8.  Critérios de avaliação da 3ª Etapa (Competição):  
+7.3.8.1. A competição adotará como critérios a SOLUÇÃO DO SISTEMA e a QUALIDADE DE 
+SOFTWARE para a avaliação da competição: 
+a) CRITÉRIOS DE SOLUÇÃO DE SISTEMA: Requisitos Funcionais do Sistema, 
+Requisitos de integração e correlação de scanners de Inventário, Configuração e 
+Vulnerabilidades, Requisitos de Conformidade, Requisitos de Análise, Requisitos de 
+Indicadores e gráficos para informações gerenciais, tendo como base os subcritérios 
+citados no ANEXO I. 
+b) QUALIDADE DE SOFTWARE: As análises de qualidade de software serão 
+avaliadas em um período de 30 dias anteriores à data da competição, onde será 
+avaliada a solução do sistema, tendo como base os subcritérios citados no ANEXO I. 
+7.3.8.2. A nota classificatória final será obtida compondo-se as notas finais da Solução do 
+Sistema e da Qualidade de Software por meio de uma média ponderada conforme 
+apresentado na Tabela abaixo: 
+Critérios 
+Utilização 
+Cálculo 
+Solução do Sistema 
+Nota Classificatória 
+N1 (Seção 5.1) 
+Qualidade de Software 
+Nota Classificatória 
+N2 (Seção 5.2) 
+Nota Classificatória Final (NF) 
+Composição ponderada: 
+𝑁𝐹 = 2
+3 𝑁1 + 1
+3 𝑁2 
+7.3.8.3. A equipe vencedora será aquela que obtiver maior pontuação na Nota Classificatória 
+Final. 
+7.3.8.4. Em caso de empate, será adotada a sequência de critérios de desempate a seguir 
+listada, conforme a necessidade, na SEGUINTE ordem de prioridade: 
+a) Nota de Qualidade de Software N2 (Seção 5.2 do ANEXO I); 
+b) Menor quantidade de Vulnerabilidades Críticas; 
+c) Quantidades de Code Smells impeditivos; 
+d) Bugs impeditivos; 
+e) Nota final dos requisitos funcionais do sistema (Item 5.1.1 do ANEXO I); 
+f) Requisitos de integração e correção de scanners de Inventário, Configuração e 
+Vulnerabilidades (Item 5.1.2 do ANEXO I); 
+  
+ 
+ 
+ 
+ 10 de 54 
+g) Requisitos de Conformidade (Item 5.1.3 do ANEXO I); 
+h) Requisitos de Análise (Item 5.1.4 do ANEXO 1); 
+i) Requisitos de Indicadores e gráficos de informações gerenciais (Item 5.1.5 do 
+ANEXO 1). 
+ 
+8. RESULTADOS 
+8.1. Os resultados preliminares da 1ª e 2ª etapas serão divulgados no sítio da FINEP na 
+Internet e caberá às empresas interessadas a sua verificação para atendimento dos prazos 
+estabelecidos nesta Seleção Pública. 
+8.2. No resultado preliminar da 2ª etapa serão disponibilizadas, no sítio da Finep na Internet, 
+as notas, por ordem de classificação, de todos os avaliadores, sem identificação nominal, que 
+tenham participado da análise dos projetos.  
+8.3. A partir da divulgação do resultado preliminar da 2ª etapa, a fim de agilizar a possível 
+contratação, as empresas que forem selecionadas para participarem da 3ª etapa 
+(Competição) poderão encaminhar à FINEP a documentação indicada no item 10.8 deste 
+edital (Anexo 4). 
+8.4. O envio de referida documentação não garante a contratação da proposta, que deverá 
+ter a aprovação final e atender a todos os requisitos para contratação estabelecidos na 
+presente Seleção Pública. 
+8.5. Após o exame dos recursos da 2ª Etapa, o Resultado Final, com a ordem de 
+classificação definitiva, será divulgado no Portal da FINEP na Internet e no Diário Oficial da 
+União. 
+8.6. Participarão da competição presencial (3ª etapa) as empresas mais bem colocadas no 
+ranqueamento do Resultado Final da 2ª etapa, limitadas ao o montante de recursos 
+disponibilizados para a Seleção Pública, conforme item 3.1. do presente Edital. 
+ 
+9. INTERPOSIÇÃO DE RECURSOS 
+9.1. Após a divulgação dos resultados preliminares da 1ª e 2ª etapas, eventual recurso 
+poderá ser apresentado via Formulário de Apresentação de Recursos, a ser disponibilizado 
+na comunicação dos resultados. 
+9.2. O prazo para interposição do recurso será de até 10 (dez) dias corridos a contar da data 
+de divulgação do resultado preliminar de cada etapa no Portal da FINEP. 
+9.3. No recurso do resultado preliminar da 2ª etapa não poderão ser abordadas questões 
+referentes à 1ª etapa. 
+9.4. O recurso deverá obedecer aos requisitos dos artigos 58, inciso I, e 60, da Lei nº 
+9.784/1999. 
+9.5. No texto do pedido de recurso, não serão aceitas informações adicionais de qualquer 
+natureza que modifiquem a proposta original, nem o envio de documentos complementares 
+àqueles originalmente encaminhados. 
+  
+ 
+ 
+ 
+ 11 de 54 
+9.6. As propostas recomendadas no processo seletivo, após o exame de todos os recursos, 
+serão submetidas à apreciação da Diretoria Executiva da Finep para decisão final.  
+ 
+ 
+10.   CONTRATAÇÃO E REPASSE DE RECURSOS SUBVENCIONADOS 
+10.1. As propostas aprovadas nos termos do item 8 do edital deverão ser contratadas no prazo 
+de 30 (trinta) dias contados da divulgação do resultado final. A listagem de documentos 
+mínimos exigidos para a contratação encontra-se no Anexo 4 deste edital. As propostas não 
+contratadas nesse prazo poderão ser arquivadas a critério da FINEP. 
+10.2. Se houver atraso na contração causado pela FINEP, o prazo de contratação será 
+prorrogado pelo período correspondente ao atraso ocorrido. 
+10.3. A beneficiária cuja proposta for aprovada poderá ser objeto de visita técnica ou outro 
+procedimento de verificação como, por exemplo, envio de vídeo ininterrupto de todas as 
+instalações ou de registro fotográfico das instalações e demais elementos necessários ao 
+projeto, com o objetivo de conferir os dados informados na apresentação da proposta, 
+especialmente quanto à infraestrutura física e à equipe executora própria da empresa, bem 
+como outras informações relevantes prestadas no processo seletivo. 
+10.4. Se for verificado que as informações prestadas não correspondem à realidade ou haja a 
+constatação da existência de outro fator impeditivo para a contratação, a aprovação da 
+proposta poderá ser revogada. 
+10.5. Caso qualquer empresa já possua contrato anterior ativo firmado com a FINEP, a nova 
+contratação dependerá da avaliação das operações já contratadas, considerando o 
+cumprimento satisfatório das respectivas obrigações (adimplências técnica, de prestação de 
+contas financeira e junto ao departamento de cobrança da Finep). 
+10.6. Eventuais condicionantes para a contratação e/ou primeira liberação de recursos de 
+cada projeto serão definidas conforme Decisão da Diretoria Executiva da Finep, após a 
+adoção dos fluxos de contratação usuais da Finep. 
+10.7. A FINEP poderá acrescentar condições específicas para cada empresa além das 
+condições contratuais gerais constantes do Anexo 4 – Termo de Outorga de Subvenção 
+Econômica, diante de suas especificidades ou do projeto aprovado. 
+10.8. A aprovação final da proposta não garante a contratação, que não será realizada nas 
+hipóteses: 
+a) da beneficiária não apresentar regularidade jurídica diante das normas legais e 
+regulamentares para receber financiamento público, verificada, principalmente, por 
+meio dos seguintes documentos: 
+i. 
+Certidão de Débitos relativos aos Tributos Federais e à Dívida Ativa da União; 
+ii. 
+Certificado de Regularidade do FGTS; 
+iii. 
+Adimplência da financiada com a União por meio de consulta ao CADIN; 
+iv. 
+Adimplência da beneficiária com a Finep (técnica, de prestação de contas 
+financeira e junto ao departamento de cobrança); 
+  
+ 
+ 
+ 
+ 12 de 54 
+v. 
+Cadastro Nacional de Condenações Cíveis por Ato de Improbidade 
+Administrativa e Inelegibilidade (CNCIAI), inclusive do sócio majoritário; 
+vi. 
+Cadastro Nacional de Empresas Inidôneas e Suspensas (CEIS), inclusive do 
+sócio majoritário; 
+vii. 
+Cadastro Nacional de Empresas Punidas (CNEP); 
+viii. 
+Cadastro de empregadores que tenham submetido trabalhadores a condições 
+análogas à de escravo. 
+ix. 
+Recibo de entrega da Relação Anual de Informações Sociais – RAIS, para 
+beneficiárias não enquadradas nos Grupos 1 e 2 do e-Social; 
+x. 
+Certidão falimentar (pessoa jurídica com natureza empresarial) ou certidão 
+insolvência civil (pessoa jurídica com natureza simples) 
+xi. 
+Declaração ambiental e outros aspectos regulatórios (Anexo 3), assinada pelos 
+representantes legais das beneficiárias, juntamente com as licenças ou outros 
+documentos regulatórios pertinentes; 
+xii. 
+Declaração de ações coletivas, assinada pelos representantes legais das 
+beneficiárias (Anexo 2). 
+b) da beneficiária deixar de apresentar quaisquer dos documentos cuja apresentação seja 
+exigida neste Edital ou não comprovar a sua capacidade para a execução do projeto. 
+10.9. A Finep poderá solicitar documentos e informações adicionais para a contratação de 
+projetos. 
+10.10. A liberação de recursos depende da disponibilidade orçamentária e financeira da 
+FINEP/FNDCT, bem como do cumprimento das condições prévias fixadas no termo de 
+outorga. 
+ 
+11. CRONOGRAMA DA SELEÇÃO PÚBLICA 
+Fase 
+Data 
+Responsável 
+Lançamento da Seleção Pública no Portal da FINEP 
+na internet  
+25/11/2020 
+FINEP 
+Disponibilização do formulário eletrônico (Formulário de 
+Apresentação de Propostas - FAP) 
+A partir de 
+25/11/2020 
+FINEP 
+Término do prazo para envio eletrônico da proposta (até 
+às 17h00 - horário de Brasília) 
+25/01/2021 
+BENEFICIÁRIA 
+PROPONENTE 
+1ª etapa - Seleção das Propostas - Habilitação 
+ 
+ 
+Divulgação do resultado preliminar da Seleção Pública – 
+1ª etapa da Seleção Pública 
+A partir 
+01/03/2021 
+FINEP 
+  
+ 
+ 
+ 
+ 13 de 54 
+Fase 
+Data 
+Responsável 
+Término do prazo para interposição de recurso (até às 
+17h00 - horário de Brasília) 
+11/03/2021 
+BENEFICIÁRIA 
+PROPONENTE 
+Divulgação da 1ª etapa da Seleção Pública no Portal da 
+FINEP na internet 
+A partir 
+29/03/2021  
+FINEP 
+2ª etapa – Seleção das Propostas - Mérito 
+ 
+ 
+Divulgação do resultado preliminar da Seleção Pública – 
+2ª etapa da Seleção Pública 
+A partir 
+19/04/2021 
+FINEP 
+Término do prazo para interposição de recurso (até às 
+17h00 - horário de Brasília) 
+29/04/2021 
+BENEFICIÁRIA 
+PROPONENTE 
+Resultado final da 2ª etapa 
+ 
+ 
+Divulgação do resultado final da Seleção Pública no 
+Portal da FINEP na internet 
+ A partir 
+18/05/2021 
+FINEP 
+3ª etapa - Competição 
+Evento Presencial – Competição 
+A partir 
+Dez/21* 
+BENEFICIÁRIA 
+PROPONENTE 
+Resultado Final (divulgação do vencedor do DESAFIO) 
+A partir 
+Dez/21* 
+FINEP 
+* A competição presencial deverá ocorrer a partir do mês de dezembro de 2021. As datas 
+exatas serão comunicadas aos participantes e divulgadas com no mínimo dois meses de 
+antecedência.  
+11.1. A presente Seleção Pública tem validade de 18 (dezoito) meses. 
+ 
+12. BASE LEGAL 
+12.1. A presente seleção pública tem como base legal a seguinte legislação, em especial: Lei 
+nº 10.973/2004, regulamentada pelo Decreto nº 9.283/2018, Lei nº 11.540/2007, 
+regulamentada pelo Decreto nº 6.938/2009. 
+ 
+13. ACOMPANHAMENTO 
+13.1. O acompanhamento técnico e financeiro do projeto será realizado pela Finep ou por 
+equipe designada, por meio de visitas de acompanhamento, reuniões técnicas ou outros 
+mecanismos de avaliação, a critério da Finep. 
+ 
+  
+ 
+ 
+ 
+ 14 de 54 
+14. PROPRIEDADE INTELECTUAL 
+14.1. Se os resultados alcançados pelo projeto ensejarem proteção dos direitos relativos à 
+propriedade intelectual e caso faça parte da estratégia de mercado da beneficiária da 
+subvenção obter tal proteção, estes terão que ser levados a registro no Instituto Nacional de 
+Propriedade Industrial -  INPI ou em outro órgão competente para proteção da propriedade 
+intelectual no Brasil, devendo a Finep ser comunicada formalmente do fato, mesmo se o 
+registro ocorrer após o término da vigência do instrumento contrato. 
+14.2. Caso as atividades realizadas pelas beneficiárias apoiadas com recursos de subvenção, 
+sob a égide do referido edital ou nele previstas, originarem inovações tecnológicas, protegidas 
+por patentes, desenhos industriais, programas de computador ou topografias de circuito 
+integrado, ficará assegurado ao Exército Brasileiro, por intermédio de suas Instituições 
+Científicas, Tecnológicas e de Inovação, a opção de figurar como cotitular do ativo intangível, 
+na proporção de 50%. 
+ 
+15. INTEGRAÇÃO COM OUTROS INSTRUMENTOS OU PROGRAMAS DA FINEP 
+ 
+15.1 A empresa vencedora do Programa Desafio Cibernético poderá ser posteriormente 
+contemplada com apoio financeiro da Finep, na modalidade investimento, seja no âmbito do 
+Programa de Investimento em Startups Inovadoras – Finep Startup, ou outra iniciativa desta 
+empresa pública. 
+  
+15.2 A realização de novo apoio fica desde já condicionada ao cumprimento dos regulamentos 
+internos da Finep, sendo certo que a empresa vencedora do Desafio será objeto de avaliação 
+técnica, jurídica e da regularidade fiscal, para fins de atendimento aos requisitos 
+correspondentes. 
+ 
+ 
+16. DISPOSIÇÕES FINAIS 
+16.1. Serão desconsideradas as propostas que estejam em desacordo com quaisquer itens 
+desta Seleção Pública. 
+16.2. Ao preencher o Formulário de Apresentação de Proposta – FAP a empresa beneficiária 
+proponente se compromete com a veracidade das informações declaradas. 
+16.3. A Finep poderá solicitar à proponente ajustes ou esclarecimentos adicionais, caso 
+necessários, no prazo de 5 (cinco) dias. O não atendimento do referido prazo acarretará a 
+eliminação da proponente, independentemente da etapa em que esteja a seleção pública. 
+16.4. A Seleção Pública poderá ser revogada ou anulada a qualquer tempo, no todo ou em 
+parte, por motivo de interesse público ou exigência legal, sem que isso implique direito a 
+indenização ou reclamação de qualquer natureza. 
+16.5. Dúvidas a respeito do conteúdo da presente Seleção Pública deverão ser dirigidas 
+exclusivamente para o endereço eletrônico sac@finep.gov.br. A FINEP, a seu critério, poderá 
+divulgar as perguntas e as respostas. 
+  
+ 
+ 
+ 
+ 15 de 54 
+16.6. Os casos omissos serão dirimidos pela Diretoria Executiva da FINEP. 
+16.7. Eventuais irregularidades ou descumprimentos do edital ou da legislação vigente podem 
+ser denunciados à Ouvidoria, por meio do endereço http://www.finep.gov.br/ouvidoria. 
+16.8. Os anexos listados a seguir integram esta Seleção Pública: 
+a) Anexo 1 – DESAFIO  
+b) Anexo 2 – MODELO DE DECLARAÇÃO DE AÇÕES COLETIVAS 
+c) Anexo 3 – MODELO DE DECLARAÇÃO AMBIENTAL E OUTROS ASPECTOS 
+REGULATÓRIOS 
+d) Anexo 4 – MINUTA DE TERMO DE OUTORGA DE SUBVENÇÃO ECONÔMICA 
+- CLÁUSULAS PADRÃO 
+e) Anexo 5 – LISTAGEM DE DOCUMENTOS MÍNIMOS PARA SELEÇÃO E 
+CONTRATAÇÃO DE PROPOSTAS 
+ 
+ 
+ 
+Rio de Janeiro, 25 de novembro de 2020. 
+ 
+Waldemar Barroso 
+Presidente 
+Financiadora de Estudos e Projetos – FINEP 
+Empresa vinculada ao Ministério da Ciência, Tecnologia e Inovações– MCTI. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SELEÇÃO PÚBLICA MCTI/FINEP/FNDCT 
+Subvenção Econômica à Inovação – 09/2020 
+DESAFIO FINEP 
+DESAFIO CIBERNÉTICO - STARTUPS E EMPRESAS DE BASE TECNOLÓGICA 
+ 
+  
+ 
+ 
+ 
+ 16 de 54 
+ 
+Especificações de Alto Nível para o Sistema Integrado de Gerência de Resiliência 
+Cibernética 
+ 
+1. Resiliência Cibernética em Contexto 
+ 
+A Era da Comunicação e a 4a Revolução Industrial impõem mudanças significativas em 
+todos os ramos da sociedade. As facilidades dos meios de comunicações são enormes, o 
+mundo está cada vez mais conectado. A revolução digital está promovendo convergência de 
+diversos campos do conhecimento humano, gerando inovação em um ritmo cada vez mais 
+acelerado e promovendo ainda mais facilidades de interconectividade. Esse processo, cria 
+muitas oportunidades para as profissões ligadas as áreas de comunicações, computação e 
+eletrônica, dentre outras tantas, mas também estabelece enormes desafios para a segurança 
+nacional, sobretudo no campo da Cibernética. Em 2019, a IBM Security anunciou os 
+resultados de um estudo anual que analisa o impacto financeiro das violações de dados nas 
+organizações. Segundo o relatório, encomendado pela IBM Security e conduzido pelo Instituto 
+Ponemon, o custo das invasões de dados aumentaram 12% nos últimos 5 anos, passando 
+para US$ 3,92 milhões, em média (IBM, 2019). 
+Defesa Cibernética se tornará cada vez mais importante com as tendências 
+tecnológicas em curso, tendo em vista seus desdobramentos em todas as expressões do 
+Poder Nacional. Vulnerabilidades cibernéticas podem comprometer o sistema financeiro, o 
+comércio eletrônico, os serviços públicos, a indústria, as infraestruturas críticas e até mesmo 
+os sistemas militares. 
+Embora a importância desse assunto seja latente, estudos prospectivos realizados pela 
+Agência de Gestão e Inovação Tecnológica (AGITEC), uma Organização Militar do 
+Departamento de Ciência e Tecnologia do Exército Brasileiro, mostram uma baixa capacidade 
+de geração de conhecimento e invenções. Ao prospectar mais de 34 tecnologias do setor, 
+esses estudos concluem que o Brasil contribui com apenas cerca de 0,7% da produção 
+científica mundial (artigos científicos indexados) e da ordem de 0,4% das patentes de 
+invenção, sendo que  apenas 9% das patentes de invenção depositadas no INPI são de 
+residentes. O valor estratégico do tema, os estudos prospectivos supracitados, a natureza 
+dual do assunto (temas que ensejam aplicações civis e militares) e o grande mercado que se 
+vislumbra para boas soluções e produtos voltados para o setor motivaram a realização deste 
+edital. 
+Para efeito deste Edital, Defesa Cibernética é compreendida como o conjunto de ações 
+ofensivas, defensivas e exploratórias, realizadas no Espaço Cibernético, com a finalidade de 
+proteger os sistemas de informação de interesse, obter dados para a produção de 
+conhecimento de Inteligência e comprometer os sistemas de informação do oponente/invasor. 
+Nesse contexto, o conceito de resiliência cibernética mescla segurança cibernética, 
+continuidade da operação e resiliência a nível organizacional. O objetivo principal é detectar 
+ameaças e responder aos ataques rapidamente para minimizar e conter os danos, retomar as 
+operações e proteger a confidencialidade, a integridade e a disponibilidade dos dados contra 
+futuros ataques. 
+  
+ 
+ 
+ 
+ 17 de 54 
+A resiliência cibernética é construída com base na premissa de que ataques 
+cibernéticos provavelmente acontecerão. Este conceito é diferente daquele adotado para 
+prevenção de ataques, segundo o qual se busca impedir a ocorrência de ataques. Dessa 
+forma a resiliência se baseia em um planejamento de como responder e manter a organização 
+em funcionamento quando ataques cibernéticos obtiverem êxito. Dessa maneira, a resiliência 
+cibernética tornou-se um ativo essencial para organizações civis e militares que operam de 
+modo intensamente conectado. Assim, sistemas resilientes conferem maior agilidade e 
+eficiência na mitigação de efeitos danosos decorrentes de ataques cibernéticos, fazendo com 
+que as organizações continuem operando apesar desses eventos. 
+ 
+2. O Desafio 
+ 
+O presente desafio consiste na elaboração de um sistema de modelagem de alto nível 
+para a atividade de Análise de Resiliência Cibernética que incorpore a gestão de riscos. O 
+referido sistema deve integrar subsistemas e APIs complementares incorporando uma 
+metodologia de aferição de Índice de Resiliência Cibernética (IRCiber), baseada em práticas 
+modernas e aplicável a qualquer tipo de organização. 
+Será preparada uma infraestrutura pela organização do evento que consiste em um 
+ambiente simulado de rede de computadores, onde constarão ativos de tecnologia com 
+diferentes sistemas operacionais, aplicações e serviços. As empresas concorrentes deverão 
+implementar suas soluções nessa infraestrutura e realizar a aferição do índice de resiliência 
+cibernética, analisando as vulnerabilidades e a implementação de controles de segurança de 
+fabricantes e diretrizes de melhores práticas reconhecidas globalmente para proteger 
+sistemas e dados de tecnologia da informação (TI). 
+ 
+Esta atividade deverá ser realizada da forma mais automatizada possível. Quando isto não 
+for possível em virtude da natureza da informação, por exemplo entrevistas de conformidade, 
+o sistema deverá ser capaz de incorporar e processar esses dados para utilizá-los na 
+composição da análise. 
+ 
+ 
+3. O Sistema de Resiliência Cibernética 
+ 
+ 
+O Anexo “A” apresenta o modelo de como deverão ser organizados os módulos e APIs que 
+podem compor o sistema proposto. O objetivo do sistema é o de apoiar as atividades relativas 
+às funções de análise e produção dos índices de Risco (IRisc), Índice de Maturidade (IMat) e 
+Resiliência Cibernética (IRCiber). Abaixo encontra-se uma breve descrição das principais 
+funcionalidades do sistema: 
+a) Análise de Vulnerabilidades: para cada ativo, software e firmware (se for o caso) são 
+levantadas as vulnerabilidades confrontando com bases de dados de vulnerabilidades, tais 
+como NVD (National Vulnerabilities Database) e CVE (Common Vulnerabilities Exposures), 
+dentre outras, cumulativamente. 
+  
+ 
+ 
+ 
+ 18 de 54 
+b) Gestão de Riscos e Vulnerabilidades de TIC: interfaces gráficas de usuário destinadas a 
+gestão do produto de trabalho, conforme Top 20 do CIS (Center for Internet Security). Gera o 
+Índice de Risco de determinada organização. O nível de risco varia de 1 a 5: 1 – Muito Baixo, 
+2 – Baixo, 3 – Médio, 4 – Alto e 5 – Muito Alto. 
+c) Maturidade: gera o Índice de Maturidade, com base em entrevistas, variando de 1 a 5 com 
+escala definida por metodologias reconhecidas como modelos de maturidade (0 – inexistente, 
+1 – Inicial, 2 – Repetível, 3 – Definido, 4 – Gerenciado, 5 – Otimizado. Cada controle do CIS 
+(Top 20 ou Top 6) são divididos em controles específicos. Cada controle de menor nível é 
+avaliado sob 4 aspectos: Definição de Política, Implementação do Controle, Automação do 
+Controle e Relatório a Alta Administração.    
+d) Resiliência: suporte a metodologia de Análise de Resiliência Cibernética. Gera um 
+indicador, denominado Índice de Resiliência Cibernética (IRCiber), conforme descrito no item 
+2.1 do presente documento. 
+e) API para consulta: consulta os Indicadores de Risco (IRisc), Indicadores de Maturidade 
+(IMat) e Indicadores de Resiliência Cibernética (IRCiber), podendo ser utilizada para 
+integração com outros sistemas. Funcionamento via webservices, com controle de acesso 
+(autenticado). 
+f) Informações gerenciais: gera dashboards, ferramentas de exportação e apresentação dos 
+dados do sistema e as informações geradas. 
+ 
+3.1 Aspectos observáveis em relação ao Índice de Resiliência Cibernética (IRCiber) 
+ 
+O Índice de Resiliência Cibernética deve ser obtido a partir da implementação de métricas 
+e indicadores similares aos referenciados na metodologia do MITRE Cyber Resilience 
+Engineering Framework (CREF), além de ser adaptável em infraestruturas críticas, sob a ótica 
+da defesa cibernética. As métricas devem possuir a capacidade de serem utilizadas 
+seletivamente, conforme a plausibilidade e possibilidade de sua real execução. Métricas 
+atualmente em uso podem ser propostas para integrarem o conjunto de indicadores, tais como 
+métricas relacionadas à integridade, confidencialidade e integridade, bem como de 
+performance, por exemplo. 
+ 
+A Figura 1 (Cyber Resilience Engineering Framework) apresenta um exemplo de 
+framework, dividido em metas, objetivos e técnicas. Estrutura similar poderá ser proposta, 
+adaptável ao projeto. 
+  
+ 
+ 
+ 
+ 19 de 54 
+Figura 1: Cyber Resiliency Engineering Framework (Fonte: MITRE Technical Report 
+MTR140499 (2015)) 
+ 
+3.2 Fontes sobre Resiliência Cibernética conforme o MITRE: 
+ 
+a) MITRE MP120053 Cyber Resiliency Metrics, Version 1.0, Rev. 1, 2012: 
+https://register.mitre.org/sr/12_2226.pdf 
+Este documento contém um conjunto bem definido de 272 métricas técnicas (METRIC-TECH) 
+que poderão ser utilizadas seletivamente no modelo proposto, sempre com o intuito final de 
+geração do Índice de Resiliência Cibernética. A proposta a ser apresentada não necessita 
+estar limitada ao conjunto de métricas referenciadas, podendo ser extensíveis e adaptáveis à 
+evolução tecnológica. Podem ser considerados os Princípios de Design para Resiliência 
+Cibernética, nos níveis Estratégicos e Estruturais, conforme previsto no Technical Report 
+MTR170001, abaixo referenciado. 
+ 
+b) MITRE Technical Report MTR140499 R1 Cyber Resiliency Engineering Aid – The 
+Updated Cyber Resiliency Engineering Framework and Guidance on Applying Cyber 
+Resiliency Techniques (CREF), 201: 
+https://www.mitre.org/sites/default/files/publications/pr-15-1334-cyber-resiliency-
+engineering-aid-framework-update.pdf 
+ 
+c) MITRE Technical Report MTR170001 - Cyber Resiliency Design Principles, 2017. 
+https://www.mitre.org/sites/default/files/publications/PR%2017-
+0103%20Cyber%20Resiliency%20Design%20Principles%20MTR17001.pdf 
+  
+ 
+ 
+ 
+ 20 de 54 
+Documentação técnica disponível em: https://www.mitre.org/cyberworkshop  (9th Annual 
+Secure and Resilient Cyber Architectures Invitational & Training Event) 
+ 
+ 
+4. Critérios para a Avaliação das Soluções na 3ª Etapa (Competição Presencial) 
+ 
+a) As empresas selecionadas irão dispor de aproximadamente 6 meses para desenvolver 
+suas soluções que serão avaliadas por meio de competição presencial em evento único a ser 
+realizado em Brasília, cuja duração, local e data serão divulgados oportunamente para os 
+responsáveis das propostas vencedoras da primeira fase. Nesse evento, os finalistas deverão 
+realizar atividade de Análise de Resiliência, conforme consta do item 2 desta proposta. 
+b) Será preparado um cenário cibernético pela organização do evento em que as empresas 
+concorrentes deverão realizar a aferição do índice de resiliência cibernética. 
+c) Nesse ambiente controlado, será montada uma rede virtualizada similar à de uma 
+Organização de grande porte, na qual as empresas deverão identificar os serviços, as 
+vulnerabilidades e os controles implementados ou não. Como critério de classificação, serão 
+analisados os relatórios de risco atribuindo notas aos requisitos propostos neste edital, como 
+detalhado adiante. 
+d) Cada concorrente deverá realizar a aplicação de seu sistema para gerar um relatório de 
+risco e concomitante verificar se o software atende ou não cada requisito proposto pelo teste. 
+ 
+4.1. Solução do Sistema  
+ 
+A competição adotará os seguintes critérios para a avaliação da solução do sistema: 
+ 
+Nr 
+5.1.1 Requisitos Funcionais do Sistema 
+Nota 
+1 
+Criar projetos de risco com os seguintes atributos: 
+Inventário de Ativos do tipo Tecnologia, Controles, 
+Ambiente e Pessoas. 
+10 
+2 
+Permitir parametrização do projeto com base em: 
+a) Tempo de análise: 
+b) Porte da organização 
+c) Abrangência da análise em termos de ativos (mínima, 
+parcial, completa – isto é o escopo da análise) 
+10 
+  
+ 
+ 
+ 
+ 21 de 54 
+Obs.: estes parâmetros poderão servir de coeficientes 
+para modulação dos indicadores de Risco e de 
+Resiliência Cibernética 
+3 
+Criar uma interface de usuário do tipo WEB 
+10 
+4 
+Prover autenticação (controle de acesso) baseada em 2 
+Fatores (2FA) 
+5 
+5 
+Criar uma base única para armazenamento dos projetos 
+de Risco, compatível com pelo menos 4 (quatro) SGBDs 
+(MariaDB, Postgres, Sql Server e Oracle) 
+5 
+6 
+Gerar relatório de campos customizáveis para cada 
+projeto de Risco finalizado, em formato PDF e ODT, de 
+maneira automatizada. 
+10 
+7 
+Sistema de autenticação/autorização dual:  standalone e 
+também compatível com LDAP/Active Directory 
+5 
+8 
+Módulo de backup e recovery automatizado 
+5 
+NOTA TOTAL 1 
+60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 22 de 54 
+ 
+Nr 
+5.1.2 Requisitos de integração e correlação de 
+scanners de Inventário, Configuração e 
+Vulnerabilidades. 
+Nota 
+1 
+Integrar o resultado do scanner de Inventário (Ex. 
+Spiceworks*) ao projeto de Risco (atributo Inventário 
+de Ativos). 
+5 
+2 
+Integrar o resultado do scanner de Controle (Ex. 
+ModSIC**) ao projeto de Risco (atributo Tecnologia). 
+5 
+3 
+Integrar o resultado do scanner de Vulnerabilidade (Ex. 
+OpenVas***) ao projeto de Risco (atributo Tecnologia). 
+ 
+10 
+4 
+Correlacionar os resultados do scanner de Controles e 
+Vulnerabilidade a lista de ativos gerada pelo scanner 
+de Inventário. 
+ 
+10 
+NOTA TOTAL 2 
+30 
+(*) https://www.spiceworks.com/ 
+(**) https://github.com/modulogrc/modSIC 
+(***) https://www.openvas.org/ 
+ 
+ 
+ 
+Nr 
+5.1.3 Requisitos de Conformidade 
+Nota 
+1 
+Gerar entrevista de modo a avaliar a conformidade aos 
+Controles de Segurança do Top20 do CIS (*) 
+10 
+2 
+Propor e gerar o Índice de Risco (IRisc) e o Índice de 
+Maturidade (IMat) derivado dessas entrevistas. 
+10 
+3 
+Gerar entrevista de modo a avaliar a aderência a metas, 
+objetivos e técnicas para a resiliência cibernética. 
+5 
+  
+ 
+ 
+ 
+ 23 de 54 
+4 
+Propor e gerar o Índice de Resiliência Cibernética 
+derivado dessas entrevistas. 
+10 
+NOTA TOTAL 3 
+35 
+(*) https://www.cisecurity.org/controls/cis-controls-list/ 
+ 
+Nr 
+5.1.4 Requisitos de Análise. 
+Nota 
+1 
+Analisar um escopo de ativos de maneira autossuficiente 
+(standalone) 
+5 
+2 
+Gerar um identificador único para cada ativo de uma 
+análise. 
+10 
+3 
+Armazenar os diversos projetos de análise possibilitando 
+a exportação/importação para uma base comum única. 
+5 
+NOTA TOTAL 4 
+20 
+ 
+Nr 
+5.1.5 Requisitos de Indicadores e gráficos para 
+informações gerenciais 
+Nota 
+1 
+Gerar indicador de risco por ativo baseado nas 
+vulnerabilidades do ativo. 
+10 
+2 
+Classificar os ativos quanto ao risco baseado neste 
+indicador 
+10 
+3 
+Gerar gráficos de riscos do inventário do ativo em 
+análise.  
+(Muito Baixo, Baixo, Médio, Alto e Muito Alto) 
+5 
+4 
+Propor interfaces gráficas para apresentar os Índice de 
+Risco (IRisc) e de Maturidade (IMat), com capacidade 
+de “drill down” com vários níveis de detalhamento, por 
+projeto, por categoria de controle, até o nível de 
+controle. 
+10 
+  
+ 
+ 
+ 
+ 24 de 54 
+5 
+Propor interfaces gráficas para apresentar o Índice de 
+Resiliência Cibernética, com capacidade de “drill down” 
+com vários níveis de detalhamento (metas, objetivos e 
+técnicas) 
+10 
+6 
+Propor interfaces gráficas de apresentação de scores 
+(ranking), entre projetos, considerando os três índices: 
+Risco, Maturidade e Resiliência 
+10 
+7 
+Propor interfaces gráficas para modulação dos 
+parâmetros do projeto, de forma que possam influenciar 
+os indicadores de Risco, Maturidade e Resiliência 
+10 
+8 
+Propor interfaces gráficas e de exportação de relatórios 
+de informações para o nível estratégico, contendo 
+dashboards para consciência situacional 
+10 
+NOTA TOTAL 5 
+75 
+Referências: http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm 
+ 
+ 
+ 
+ 
+Nota Final da Solução do Sistema (N1):  
+ 
+A nota N1 que representa da Nota Final da Solução do Sistema é expressa pela fórmula: 
+𝑁1 = 1
+22 (∑ 𝑁𝑂𝑇𝐴𝑇𝑂𝑇𝐴𝐿j
+5
+𝑗=1
+) 
+ 
+ 
+4.2. Qualidade de Software 
+A competição também adotará critérios de qualidade de software. As análises de qualidade 
+de software serão avaliadas em um período de 30 dias anteriores à data da competição, onde 
+será avaliada a solução do sistema, sendo adotados os seguintes critérios: 
+4.2.1 Todos os produtos de software deverão ser desenvolvidos utilizando-se uma ou mais 
+das seguintes linguagens e tecnologias: C#, CSS, Go, Java, JavaScript, PHP, Python, Ruby, 
+Scala, TypeScript, Visual Basic, HTML, XML; 
+  
+ 
+ 
+ 
+ 25 de 54 
+4.2.2 A utilização de linguagens e tecnologias que não estejam contempladas na lista 
+constante do item anterior gerará a automática DESCLASSIFICAÇÃO da empresa 
+responsável pelo produto de software analisado; 
+4.2.3 Serão empregadas ferramentas de análise de código fonte que considerarão os 
+aspectos NEGATIVOS “quantidades de bugs”, “quantidades de code smells1” e “quantidades 
+de vulnerabilidades2 de segurança”, todos com base em suas criticidades. 
+4.2.4 Serão realizadas análises automatizadas que gerarão resultados registrados em 
+relatórios descritivos e que embasarão os cálculos para cada um dos aspectos com base nos 
+seguintes subcritérios: 
+ 
+ 
+Subcritério 1 (C1): Quantidades (Qi) de Bugs por Criticidade 
+ 
+Itens (i)   Criticidades 
+Limites (Li) de bugs 
+Pesos 
+(Pi) 
+1 
+Impeditivo 
+30 
+10 
+2 
+Crítico 
+50 
+8 
+3 
+Alto 
+100 
+6 
+4 
+Baixo 
+200 
+2 
+ 
+ A nota para o subcritério C1 será obtida por meio da fórmula 
+𝐶1 = (∑ (1 − 𝑄𝑖
+𝐿𝑖
+) × 𝑃𝑖
+4
+𝑖=1
+) × (∑ 𝑃𝑖
+4
+𝑖=1
+)
+−1
+× 10 
+ 
+sendo 𝑄𝑖 = 𝐿𝑖∀𝑄𝑖 > 𝐿𝑖 . 
+ 
+Subcritério 2 (C2): Quantidades (Qi) de Code Smells* por Criticidade 
+ 
+                                                           
+1 
+ Características que indicam possíveis problemas futuros (problemas na qualidade do projeto de código) 
+2 
+ As vulnerabilidades serão avaliadas de acordo com os critérios do OWASP Top 10 - 2017 -  
+https://owasp.org/www-project-top-ten/. 
+  
+ 
+ 
+ 
+ 26 de 54 
+Itens (i)   Criticidades 
+Limites (Li) de Code Smells 
+Pesos 
+(Pi) 
+1 
+Impeditivo 
+30 
+10 
+2 
+Crítico 
+50 
+7 
+3 
+Alto 
+100 
+5 
+4 
+Baixo 
+200 
+1 
+ 
+ A nota para o subcritério C2 será obtida por meio da fórmula 
+𝐶2 = (∑
+(1 −
+𝑄𝑖
+𝐿𝑖) × 𝑃𝑖
+4
+𝑖=1
+) × (∑
+𝑃𝑖
+4
+𝑖=1
+)−1 × 10 ) 
+ 
+sendo 𝑄𝑖 = 𝐿𝑖∀𝑄𝑖 > 𝐿𝑖 . 
+ 
+Subcritério 3 (C3) : Quantidades (Qi) de Vulnerabilidades de Segurança** por 
+Criticidade 
+ 
+Itens (i)   Criticidades 
+Limites (Li) de Vulnerabilidades  
+Pesos 
+(Pi) 
+1 
+Crítico 
+100 
+10 
+2 
+Alto 
+200 
+7 
+3 
+Médio 
+300 
+5 
+4 
+Baixo 
+500 
+1 
+ 
+ A nota para o subcritério C3 será obtida por meio da fórmula 
+𝐶3 = (∑ (1 − 𝑄𝑖
+𝐿𝑖
+) × 𝑃𝑖
+4
+𝑖=1
+) × (∑ 𝑃𝑖
+4
+𝑖=1
+)
+−1
+× 10 
+ 
+sendo 𝑄𝑖 = 𝐿𝑖∀𝑄𝑖 > 𝐿𝑖 . 
+ 
+  
+ 
+ 
+ 
+ 27 de 54 
+ 
+Nota Final da Qualidade de Software (N2):  
+ 
+A Nota Final da Qualidade de Software N2 será obtida pela média aritmética dos três 
+subcritérios apresentados previamente. Matematicamente essa média é dada por meio da 
+seguinte fórmula: 
+𝑁2 = ∑ 𝐶𝑗
+3
+3
+𝑗=1
+ 
+ 
+ 
+ 
+ 
+4.3 Nota Classificatória Final 
+A nota classificatória final será obtida compondo-se as notas finais da Solução do Sistema e 
+da Qualidade de Software por meio de uma média ponderada conforme apresentado na 
+Tabela abaixo: 
+ 
+Critérios 
+Utilização 
+Cálculo 
+Solução do Sistema 
+Nota Classificatória 
+N1 (Seção 5.1) 
+Qualidade de Software 
+Nota Classificatória 
+N2 (Seção 5.2) 
+ 
+Nota Classificatória Final (NF) 
+Composição ponderada: 
+𝑁𝐹 = 2
+3 𝑁1 + 1
+3 𝑁2 
+ 
+A equipe vencedora será aquela que obtiver maior pontuação na Nota Classificatória Final. 
+A NF será expressa com duas casas decimais.  
+ 
+4.4 Critérios de Desempate 
+ 
+Em caso de empates, será adotada a sequência de critérios de desempate a seguir listada, 
+conforme a necessidade, na ordem de prioridade em que os critérios de desempate aparecem 
+na referida lista: 
+a) nota de Qualidade de Software N2 (Seção 5.2) 
+  
+ 
+ 
+ 
+ 28 de 54 
+b) menor quantidade de Vulnerabilidades Críticas 
+c) quantidades de Code Smells impeditivos 
+d) Bugs impeditivos 
+e) Nota final dos requisitos funcionais do sistema (5.1.1) 
+f) Requisitos de integração e correção de scanners de Inventário, Configuração e 
+Vulnerabilidades (5.1.2) 
+g) Requisitos de Conformidade (5.1.3) 
+h) Requisitos de Análise (5.1.4) 
+i) Requisitos de Indicadores e gráficos de informações gerenciais (5.1.5) 
+ 
+5. Da Propriedade Intelectual 
+ 
+ 
+Caso as atividades realizadas pelas empresas apoiadas com recursos de subvenção sob 
+a égide do presente edital, ou nele previstas, originarem inovações tecnológicas, protegidas 
+por patentes, desenhos industriais, programas de computador ou topografias de circuito 
+integrado, assegura-se ao Exército Brasileiro, por intermédio de suas Instituições Científicas, 
+Tecnológicas e de Inovação, a opção de figurar como cotitular do ativo intangível, na 
+proporção de 50%. 
+ 
+Parágrafo Primeiro: A Agência de Gestão e Inovação Tecnológica (AGITEC), como 
+integrante do Núcleo de Inovação Tecnológica do Exército, realizará a análise de viabilidade 
+e conveniência de proteção da propriedade intelectual. Caso seja considerado viável, 
+conveniente e de interesse do Exército, a AGITEC promoverá a redação do pedido de patente 
+ou solicitação de registro, conforme o caso, e realizará a gestão dos mesmos junto ao órgão 
+competente. 
+ 
+Parágrafo Segundo: Caso não seja do interesse do Exército, a AGITEC se pronunciará 
+sobre a conveniência e viabilidade de proteção por parte da empresa, para que a mesma 
+exerça os direitos em seu próprio nome. Nesse caso os procedimentos de proteção serão de 
+responsabilidade e encargos da empresa. 
+Parágrafo Terceiro: No caso de as inovações tecnológicas oriundas das atividades 
+realizadas pelas empresas sob a égide do presente edital, ou nele previstas, serem protegidas 
+por segredo industrial, o Exército Brasileiro, por intermédio de suas ICT, poderá ter acesso 
+aos respectivos pacotes técnicos, podendo fazer uso da tecnologia internamente, na situação 
+de usuário final, se assim desejar, respondendo pela confidencialidade das informações a que 
+tiver acesso. 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 29 de 54 
+ 
+ 
+ 
+ 
+Anexo A – Modelo Conceitual 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 30 de 54 
+SELEÇÃO PÚBLICA MCTI/FINEP/FNDCT 
+Subvenção Econômica à Inovação – 09/2020 
+DESAFIO FINEP 
+DESAFIO CIBERNÉTICO - STARTUPS E EMPRESAS DE BASE TECNOLÓGICA 
+ANEXO 2 
+DECLARAÇÃO DE AÇÕES COLETIVAS 
+ 
+[NOME DA BENEFICIÁRIA], com sede em [ENDEREÇO], inscrita no CNPJ sob o nº 
+[NÚMERO], por seu representante legal abaixo qualificado, declara, à FINANCIADORA DE 
+ESTUDOS E PROJETOS – Finep, no âmbito do projeto referência nº xxxx/xx: 
+(   ) que não figura no polo passivo de ações coletivas, tais como, mas não se limitando à 
+ações civis públicas, ações populares, mandados de segurança coletivos e ações de 
+improbidade.  
+ou 
+(   ) que figura no polo passivo das ações coletivas listadas abaixo: 
+ 
+N° DO 
+PROCESSO 
+COMARCA/ 
+SEÇÃO 
+JUDICIÁRIA 
+PÓLO 
+ATIVO 
+OBJETO DA 
+AÇÃO 
+FASE DO 
+PROCESSO 
+PROBABILIDADE 
+DE PERDA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Obs: Caso a consulta ao andamento dos processos nos sites dos respectivos tribunais não 
+seja suficiente para colher todas as informações necessárias à análise, será solicitada a 
+certidão de objeto e pé pertinente.  
+[Local], ___de ___________ 20__.  
+ 
+_________________________________________________ 
+[NOME] 
+[CARGO e CPF] 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 31 de 54 
+SELEÇÃO PÚBLICA MCTI/FINEP/FNDCT 
+ 
+Subvenção Econômica à Inovação – 09/2020 
+DESAFIO FINEP 
+DESAFIO CIBERNÉTICO - STARTUPS E EMPRESAS DE BASE TECNOLÓGICA 
+ 
+ANEXO 3 
+DECLARAÇÃO AMBIENTAL E OUTROS ASPECTOS REGULATÓRIOS 
+ 
+[NOME DA BENEFICIÁRIA], com sede em [ENDEREÇO], inscrita no CNPJ sob o nº 
+[NÚMERO], 
+por 
+seu(s) 
+representante(s) 
+legal(is) 
+abaixo 
+qualificado, 
+declara, 
+à 
+FINANCIADORA DE ESTUDOS E PROJETOS – Finep: 
+ 
+1. Referência Finep nº:  
+2. As atividades desempenhadas no projeto necessitarão de licenciamento, 
+estudos ou relatórios ambientais específicos? 
+a. (  ) Não. 
+b. (  ) Não e a beneficiária possui declaração de desnecessidade emitida pelo 
+órgão ambiental. 
+c. (  ) Não, sendo aplicável(is) a(s) licença(s) já existente(s) para as atividades 
+rotineiramente desenvolvidas pela beneficiária. 
+d. (   ) Sim. 
+Quais? No caso de marcar 2, “c” ou “d” 
+Marque 
+X 
+Licenciamento Ambiental Prévia 
+ 
+Licenciamento Ambiental de Instalação 
+ 
+Licenciamento Ambiental de Operação 
+ 
+Relatório Ambiental Preliminar (RAP) 
+ 
+Estudo de Impacto Ambiental (EIA) e Relatório de Impacto 
+Ambiental (RIMA) 
+ 
+Estudo de Impacto de Vizinhança (EIV) 
+ 
+Autorização ou Outorga de Direito de Uso de Recursos Hídricos  
+  
+ 
+ 
+ 
+ 32 de 54 
+Plano de Manejo Florestal 
+ 
+Compensação Ambiental 
+ 
+Certificado de Qualidade de Biosegurança emitido pela CTNbio  
+Autorização do Conselho de Gestão do Patrimônio Genético 
+(CGEN) 
+ 
+Outras 
+ 
+ 
+2.1. 
+Descreva as atividades que necessitam de licenciamento ambiental ou 
+outro documento regulatório, identificando o local de execução da 
+atividade (endereço completo), o momento de apresentação do documento 
+(mês de execução do projeto) e o tipo de documento (licenciamento, 
+estudo, certificado etc): 
+ 
+Atividade 1: 
+ 
+Atividade 2: 
+ 
+Atividade 3: 
+Replicar quantas vezes forem necessárias. 
+ 
+3. O projeto já possui todas as autorizações, estudos e licenças ambientais 
+exigidas pela legislação para a sua execução integral? 
+(  ) Não há exigência de autorizações, estudos e licenças ambientais para a 
+execução do projeto. 
+(  ) Possui as autorizações, estudos e licenças ambientais para pelo menos as 
+etapas iniciais do projeto. 
+(  ) Não possui as autorizações, estudos e licenças ambientais necessárias para a 
+execução do projeto. 
+(  ) Sim. 
+ 
+4. As atividades desempenhadas no projeto necessitarão de autorização e/ou 
+registro setorial(is) específico(s) em órgão da administração pública federal, 
+estadual, municipal e/ou distrital, seja ela direta ou indireta? 
+(  ) Não. 
+  
+ 
+ 
+ 
+ 33 de 54 
+(  ) Não e a beneficiária possui dispensa formal por parte do órgão competente. 
+(  ) Não, sendo aplicável(is) a(s) autorização(ões) e/ou registro(s) já existente(s) 
+para as atividades rotineiramente desenvolvidas pela beneficiária. 
+(  ) Sim. 
+ 
+ 
+Sob pena de incidência das sanções legais, de natureza civil e penal, a [nome da 
+beneficiária] declara que todas as informações prestadas à FINEP são verdadeiras. 
+ 
+[Local e data] 
+ 
+ 
+Representante legal 
+CPF 
+ 
+ 
+Anexar os documentos referentes ao licenciamento ambiental e demais aspectos regulatórios, 
+eventualmente apontados na presente declaração. 
+ 
+ 
+  
+ 
+ 
+ 
+ 34 de 54 
+ 
+SELEÇÃO PÚBLICA MCTI/FINEP/FNDCT 
+Subvenção Econômica à Inovação – 09/2020 
+DESAFIO FINEP 
+DESAFIO CIBERNÉTICO - STARTUPS E EMPRESAS DE BASE TECNOLÓGICA 
+ 
+ 
+ 
+ANEXO 4 
+(NECESSÁRIO APENAS NA ETAPA DE CONTRATAÇÃO) 
+ 
+ 
+ 
+TERMO DE OUTORGA DE SUBVENÇÃO ECONÔMICA 
+(Lei no. 10.973/2004 e Decreto nº 9.283/2018) 
+ 
+FINANCIADORA DE ESTUDOS E 
+PROJETOS - Finep INSTRUMENTO 
+CONTRATUAL CÓDIGO N.º 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FINANCIADORA DE ESTUDOS E PROJETOS - Finep, empresa pública federal, 
+vinculada ao Ministério da Ciência, Tecnologia, Inovações e Comunicações, com sede em 
+Brasília, Distrito Federal e serviços nesta cidade, na Avenida República do Chile, n.º 330, 
+inscrita no CNPJ sob o n.º 33.749.086/0001-09, doravante denominada Finep, na qualidade 
+de SECRETARIA-EXECUTIVA DO FUNDO NACIONAL DE DESENVOLVIMENTO 
+CIENTÍFICO E TECNOLÓGICO – FNDCT; 
+ 
+[NOME DA BENEFICIÁRIA DA SUBVENÇÃO], com sede em [ESTADO E 
+MUNICÍPIO DA BENEFICIÁRIA DA SUBVENÇÃO], [ENDEREÇO DA BENEFICIÁRIA DA 
+  
+ 
+ 
+ 
+ 35 de 54 
+SUBVENÇÃO], CEP [CEP DA BENEFICIÁRIA DA SUBVENÇÃO] inscrita no CNPJ sob o n.º 
+[CNPJ DA BENEFICIÁRIA DA SUBVENÇÃO], doravante denominada BENEFICIÁRIA DA 
+SUBVENÇÃO; 
+ 
+por seus representantes legais, têm justo e contratado o seguinte: 
+ 
+CLÁUSULA PRIMEIRA 
+OBJETO 
+ 
+1. Concessão de subvenção econômica pela Finep à BENEFICIÁRIA DA 
+SUBVENÇÃO, para a execução do PROJETO “TÍTULO DO PROJETO”, doravante 
+denominado PROJETO, conforme PLANO DE TRABALHO aprovado pela Finep e anexo a 
+este Termo de Outorga. 
+1.1. O PLANO DE TRABALHO conterá a descrição do projeto de pesquisa, 
+desenvolvimento tecnológico e inovação a ser executado pela empresa, dos 
+resultados a serem atingidos e das metas a serem alcançadas. 
+1.2. O PLANO DE TRABALHO somente poderá ser modificado segundo os critérios 
+e as formas definidos pela Finep. 
+ 
+CLÁUSULA SEGUNDA 
+AUTORIZAÇÕES 
+ 
+Decisão da Diretoria Executiva da Finep n° ______, de __/__/____, relativa ao 
+PROJETO de referência Finep n° ___________. 
+ 
+CLÁUSULA TERCEIRA 
+RECURSOS 
+ 
+1. VALOR Finep: até o valor de R$_____________ (______________), a ser 
+desembolsado em parcela única, disponível para saque após a assinatura do presente Termo 
+de Outorga de Subvenção Econômica e conforme disponibilidade orçamentária.  
+2. FONTE: recursos do Fundo Nacional de Desenvolvimento Científico e 
+Tecnológico - FNDCT/SUBVENÇÃO ECONÔMICA. 
+3. DISCRIMINAÇÃO ORÇAMENTÁRIA: os recursos financeiros correrão à conta 
+da discriminação orçamentária constante da NOTA DE EMPENHO que integra o presente 
+Termo de Outorga de Subvenção Econômica. 
+4. LIBERAÇÃO: a Finep efetuará a transferência de recursos financeiros conforme 
+Cronograma de Desembolso contido no PLANO DE TRABALHO, respeitadas as 
+  
+ 
+ 
+ 
+ 36 de 54 
+disponibilidades orçamentárias e financeiras, bem como as condições determinadas pela 
+Diretoria Executiva da Finep. 
+5. CONTRAPARTIDA: A BENEFICIÁRIA DA SUBVENÇÃO se obriga a participar 
+dos custos de elaboração e execução do PROJETO com recursos próprios, no valor mínimo 
+de R$[valor total da contrapartida] ([valor total da contrapartida por extenso]), financeiros ou 
+não financeiros, desde que economicamente mensuráveis, bem como a aportar os recursos 
+necessários à cobertura de eventuais insuficiências ou acréscimos na sua execução. 
+ 
+ 
+CLÁUSULA QUARTA 
+CONDIÇÕES DE DESEMBOLSO DOS RECURSOS 
+ 
+1. Para o desembolso da parcela única de recursos, a BENEFICIÁRIA DA 
+SUBVENÇÃO deverá: 
+a) 
+Indicar a conta corrente exclusiva, em instituição financeira pública federal, 
+para movimentação dos recursos subvencionados; 
+b) 
+Apresentar a Certidão Conjunta de Débitos Relativos aos Tributos Federais e 
+à Dívida Ativa da União; 
+c) 
+Apresentar o Certificado de Regularidade do FGTS (CRF), expedido pela 
+Caixa Econômica Federal; 
+d) 
+Apresentar licenciamento ambiental e/ou documento regulatório válido e 
+adequado para o desenvolvimento das atividades do PROJETO, conforme seu 
+cronograma de execução; [excluir quando o projeto for dispensado de 
+licenciamento ambiental e/ou autorização regulatória] 
+e) 
+Eventuais Condicionantes adicionais previstas na Análise Jurídica ou 
+Operacional e aprovadas em Decisão de Diretoria. [excluir quando não houver] 
+1.1. A BENEFICIÁRIA DA SUBVENÇÃO deverá estar adimplente com a União, 
+seus órgãos e entidades das Administrações Direta e Indireta. 
+1.2. A Finep efetuará as consultas pertinentes para avaliar a regularidade do 
+Cadastro Nacional de Condenações Cíveis por Atos de Improbidade Administrativa 
+e Inelegibilidade (CNCIAI) do Conselho Nacional de Justiça, ao Cadastro Nacional 
+de Empresas Inidôneas e Suspensas (CEIS), ao Cadastro Nacional de Empresas 
+Punidas (CNEP) e ao Cadastro de empregadores que tenham submetido 
+trabalhadores a condições análogas à de escravo. 
+ 
+CLÁUSULA QUINTA 
+PRAZOS 
+  
+ 
+ 
+ 
+ 37 de 54 
+1. O prazo de utilização dos recursos do PROJETO é de 6 (seis) meses, contados 
+da data de assinatura deste instrumento, findo o qual as parcelas não utilizadas serão 
+automaticamente canceladas. 
+1.1. O prazo de utilização dos recursos poderá ser prorrogado, a critério e nos 
+termos das normas internas da Finep, mediante solicitação prévia da 
+BENEFICIÁRIA DA SUBVENÇÃO, respeitado o prazo de vigência do Termo de 
+Outorga de Subvenção Econômica. 
+2. O prazo para apresentação de prestação de contas final é de até 60 (sessenta) 
+dias contados da data do término da vigência, conforme disposto no art. 57 do Decreto nº 
+9.283/2018. 
+2.1. O prazo para apresentação de prestação de contas final poderá ser 
+prorrogado, por igual período, a pedido da BENEFICIÁRIA DA SUBVENÇÃO, 
+desde que o requerimento seja feito anteriormente ao vencimento do prazo inicial. 
+3. Os parâmetros a serem utilizados para a aferição do cumprimento das metas 
+seguirão as normas e procedimentos internos da Finep. 
+ 
+CLÁUSULA SEXTA 
+OBRIGAÇÕES 
+ 
+1. OBRIGAÇÕES da Finep: A Finep se obriga a: 
+a) Transferir os recursos financeiros e realizar a classificação funcional-
+programática e econômica das despesas relativas a exercícios futuros, por meio 
+de apostilamento de empenhos ou notas de movimentação de crédito; 
+b) Formalizar em documento próprio, contendo o registro dos respectivos 
+empenhos ou notas de movimentação de crédito, os recursos financeiros 
+alocados em exercícios futuros, os quais correrão à conta dos orçamentos 
+respectivos; 
+c) Prorrogar, de ofício, os prazos deste Termo de Outorga de Subvenção 
+Econômica, quando houver atraso no desembolso dos recursos por culpa da 
+Finep, limitada a prorrogação ao exato período de tempo correspondente ao do 
+atraso verificado; 
+d) Analisar e emitir parecer sobre os aspectos técnicos e financeiros das 
+demonstrações 
+financeiras 
+apresentadas 
+pela 
+BENEFICIÁRIA 
+DA 
+SUBVENÇÃO; 
+e) Decidir sobre a regularidade ou não da aplicação dos recursos transferidos por 
+este Termo de Outorga de Subvenção Econômica; 
+f) Manter atualizada a sua Política de Segurança da Informação e Comunicações, 
+constante na página da Finep na internet (http://www.finep.gov.br/a-finep-
+externo/politicas), para consulta da BENEFICIÁRIA DA SUBVENÇÃO. 
+ 
+  
+ 
+ 
+ 
+ 38 de 54 
+2. OBRIGAÇÕES DA BENEFICIÁRIA DA SUBVENÇÃO: A BENEFICIÁRIA DA 
+SUBVENÇÃO se obriga a: 
+a) Executar o PROJETO objeto deste Termo de Outorga de Subvenção 
+Econômica, estritamente em conformidade com o que foi aprovado pela Finep; 
+b) Informar à Finep quaisquer alterações que a BENEFICIÁRIA DA SUBVENÇÃO 
+pretenda realizar no PROJETO, especialmente no que concerne aos itens 
+apoiados pela Finep, bem como eventuais alterações necessárias em relação 
+ao planejamento inicial para a consecução do objetivo do PROJETO; 
+c) Manter os recursos recebidos à título de subvenção econômica em conta 
+bancária exclusiva de instituição financeira pública federal até sua utilização ou 
+sua devolução, atualizados monetariamente, conforme exigido para a quitação 
+de débitos para com a Fazenda Nacional, com base na variação da Taxa 
+Referencial do Sistema Especial de Liquidação e de Custódia - Selic, acumulada 
+mensalmente, até o último dia do mês anterior ao da devolução dos recursos, 
+acrescidos de um por cento no mês de efetivação da devolução dos recursos à 
+conta única do Tesouro Nacional. 
+d) Utilizar os recursos desembolsados pela Finep, bem como os rendimentos das 
+aplicações financeiras, exclusivamente na execução do PROJETO, admitida sua 
+destinação para despesas de capital e correntes, desde que destinadas à 
+atividade financiada e observados os limites previstos no edital de seleção 
+pública; 
+e) Registrar as despesas realizadas com os recursos da subvenção na plataforma 
+eletrônica específica, se existente, ou de forma física de acordo com as normas 
+e procedimentos internos da Finep, observada a diretiva de que, neste caso, os 
+pagamentos deverão ser realizados em conta bancária específica por meio de 
+transferência eletrônica que permita a identificação do beneficiário final; 
+f) Apresentar formulário de resultado parcial do projeto anualmente ou quando 
+solicitado pela Finep, de acordo com as suas normas e procedimentos internos, 
+considerando os objetivos, o cronograma, o orçamento, as metas e os 
+indicadores previstos no Plano de Trabalho; 
+g) Apresentar relatório com prestação de contas final, nos termos do Decreto nº 
+9.283/2018 e dos procedimentos e normas internas da Finep; 
+h) Manter a documentação gerada até a aprovação da prestação de contas final, 
+devidamente organizada em arquivo exclusivo disponível para a Finep, pelo 
+prazo de cinco anos, contados da data da aprovação da prestação de contas 
+final, que deverá incluir os registros financeiros e contábeis e demonstrativos 
+financeiros referentes aos recursos transferidos por este instrumento, entre 
+outros, de acordo com as normas estipuladas na legislação em vigor e no 
+presente Termo de Outorga de Subvenção Econômica, adequados para o 
+acompanhamento e avaliação físico-financeira do PROJETO; 
+i) Comunicar à Finep, previamente à sua realização, as mudanças no quadro 
+societário, na distribuição do capital social e no controle societário, ou qualquer 
+outra alteração em seu ato constitutivo ou por meio de acordo de acionista, 
+  
+ 
+ 
+ 
+ 39 de 54 
+hipóteses em que, a critério da Finep, o Termo de Outorga de Subvenção 
+Econômica poderá ser rescindido, aplicando-se o disposto nas Cláusulas 
+Décima Primeira e Décima Segunda; 
+j) Restituir à Finep, no prazo improrrogável de 30 (trinta) dias, contados a partir da 
+conclusão, rescisão ou extinção deste Termo de Outorga de Subvenção 
+Econômica, o eventual saldo financeiro remanescente, inclusive o valor 
+atualizado dos rendimentos de aplicação financeira; 
+k) Restituir à Finep, no prazo improrrogável de 30 (trinta) dias, contados da data 
+de notificação expedida pela Finep, o valor transferido, atualizado 
+monetariamente, acrescido de juros legais, na forma da legislação aplicável aos 
+débitos para com a Fazenda Nacional, a partir da data do seu recebimento, 
+quando: 
+(i) não for executado o objeto pactuado; 
+(ii) não forem apresentadas, nos prazos exigidos, os demonstrativos 
+financeiros, os formulário de resultado parcial e/ou relatório com 
+prestação de contas final; 
+(iii) os recursos forem utilizados em finalidade diversa da estabelecida 
+neste  Termo de Outorga de Subvenção Econômica. 
+l) Mencionar, sempre que fizer a divulgação do PROJETO objeto deste  Termo de 
+Outorga de Subvenção Econômica, o apoio financeiro da Finep e do Ministério 
+da Ciência, Tecnologia, Inovações - MCTI, com recursos do FNDCT, inclusive 
+no local de sua execução, e nos bens financiados inconsumíveis, onde deverá 
+ser afixada placa conforme o modelo, dimensão e inscrição, constantes da 
+página da Finep na internet (http://www.finep.gov.br), especialmente no caso de: 
+(i) seminários e eventos científicos e tecnológicos; 
+(ii) publicações técnicas e científicas em revistas especializadas; 
+(iii) relatórios técnicos e resumos publicados ou divulgados em qualquer 
+meio, inclusive magnético ou eletrônico. 
+m) Inserir banner virtual da Finep em sua página de Internet, se houver, o qual 
+deverá possuir link que direcione ao Portal da Finep; 
+n) Responder a qualquer solicitação de informação que a Finep lhe fizer, por carta, 
+no prazo de até 30 (trinta) dias contados dessa solicitação, sobre o andamento 
+dos trabalhos ou o resultado do PROJETO, independentemente da fiscalização 
+a ser exercida pela Finep; 
+o) Assegurar à Finep os mais amplos poderes de fiscalização referentes à 
+execução do presente Termo de Outorga de Subvenção Econômica, tanto em 
+relação à aplicação dos recursos da subvenção econômica, quanto em relação 
+à aplicação dos recursos de contrapartida, bem como acessos necessários à 
+realização de estudos sobre sua situação jurídica, técnica, econômica e 
+financeira, inclusive, a critério da Finep, de serviços de auditoria; 
+p) Assegurar à Finep a realização de visitas, para acompanhamento técnico ou 
+fiscalização financeira, bem como o uso de técnicas estatísticas, tais como 
+  
+ 
+ 
+ 
+ 40 de 54 
+amostragem e agrupamento em faixas ou subconjuntos de características 
+similares para a utilização de critérios de análise diferenciados em cada um, 
+respeitada, no que se refere a projetos sigilosos, a Lei nº 12.527/2011; 
+q)  Assegurar aos órgãos de controle o acesso à aplicação dos recursos de 
+subvenção econômica e de sua contrapartida no âmbito do seu poder de 
+fiscalização; 
+r) Participar dos custos de elaboração do PROJETO com as quantias adicionais 
+que se fizerem necessárias a sua conclusão; 
+s) Manter a sua sede e administração no País; 
+t) Não ceder ou transferir os direitos e obrigações decorrentes deste Termo de 
+Outorga de Subvenção Econômica; 
+u) Não cumular os recursos de subvenção econômica com recursos federais 
+provenientes, direta ou indiretamente, de transações de compensação (offset), 
+relacionadas ao projeto ora apoiado; 
+v)  Comunicar à Finep sobre depósito ou registro de pedido de proteção de 
+propriedade intelectual iniciados junto ao Instituto Nacional de Propriedade 
+Industrial - INPI decorrente da execução do PROJETO, bem como preencher 
+relatórios e formulários de mensuração de impactos solicitados pela Finep; 
+w) Cumprir o disposto na legislação referente à Política Nacional de Meio Ambiente 
+e manter em situação regular suas obrigações junto aos órgãos do meio 
+ambiente; 
+x) Adotar medidas e ações destinadas a evitar ou corrigir danos ao meio ambiente, 
+segurança e medicina do trabalho que possam vir a ser causados pelo 
+PROJETO, bem como seguir, no que couber, a Política de Responsabilidade 
+Socioambiental da Finep constante da página da Finep na internet 
+(http://www.finep.gov.br); 
+y) Comunicar à Finep, por escrito, antes da data da diplomação e posse, o nome 
+e o CPF/MF da pessoa que, exercendo função remunerada ou estando entre 
+seus administradores, será diplomada e empossada como Deputado(a), 
+Senador(a) ou Vereador(a). A comunicação deverá vir acompanhada de 
+comprovação das providências a serem tomadas pela BENEFICIÁRIA DA 
+SUBVENÇÃO para a retirada do administrador impedido de contratar com a 
+Administração Pública, nos termos do artigo 54, incisos I e II, do artigo 27, § 1º 
+e do artigo 29, IX, da Constituição Federal; 
+z) Abster-se da prática de atos que atentem contra o patrimônio público nacional 
+ou estrangeiro, bem como contra princípios da Administração Pública ou contra 
+os compromissos internacionais assumidos pelo Brasil, especialmente os 
+dispostos no artigo 5º da Lei nº 12.846/2013 (Lei Anticorrupção), não oferecendo, 
+dando ou se comprometendo a dar a quem quer que seja, ou aceitando ou se 
+comprometendo a aceitar de quem quer que seja, tanto por conta própria quanto 
+através de outrem, qualquer pagamento, doação, compensação, vantagens 
+financeiras ou não financeiras ou benefícios de qualquer espécie, seja de forma 
+direta ou indireta quanto ao objeto deste  Termo de Outorga de Subvenção 
+  
+ 
+ 
+ 
+ 41 de 54 
+Econômica, ou de outra forma que não relacionada a este, devendo garantir, 
+ainda, que seus prepostos e colaboradores ajam da mesma forma; 
+aa) Manter a integridade nas relações público-privadas, agindo de boa-fé e de 
+acordo com os princípios da moralidade administrativa e da impessoalidade, 
+além de pautar sua conduta por preceitos éticos; 
+bb) Considerar em suas práticas de gestão a adoção de medidas de integridade, 
+assim consideradas aquelas voltadas à prevenção, detecção e remediação da 
+ocorrência de fraudes e atos de corrupção; 
+cc) Respeitar, cumprir e fazer cumprir, no que couber, o Código de Ética, Conduta 
+e Integridade da Finep, que se encontra disponível na página da Finep na 
+internet (http://www.finep.gov.br), assim como atentar para demais orientações 
+de integridade disponibilizadas pela Finep; 
+dd) Não adotar, não incentivar e repudiar condutas que gerem inconformidades 
+com a legislação aplicável às empresas públicas, em especial à Lei nº 
+12.527/2011, à Lei nº 12.813/2013, à Lei nº 12.846/2013 e à Lei nº 13.303/2016. 
+ee) Apresentar, nos casos em que houver depósito da contrapartida: i. 
+trimestralmente, extrato de movimentação da conta corrente exclusiva da 
+contrapartida; ii. semestralmente, relatório de gastos de contrapartida; 
+ff) Movimentar a conta exclusiva de contrapartida apenas para realização de gastos 
+do Projeto. 
+gg) Exigir que os participantes do Projeto assinem documento do qual constem 
+informações sobre como fazer denúncias, sobre o canal existente no sítio 
+eletrônico da Finep e sobre a importância da integridade na aplicação dos 
+recursos; 
+hh) Caso o projeto envolva pesquisa com seres humanos, deverão ser observadas 
+as exigências da Comissão Nacional de Ética em Pesquisa (CONEP), inclusive 
+a prévia aprovação por um Comitê de Ética em Pesquisa com Seres Humanos 
+(CEP) a ela ligado. A eventual suspensão da pesquisa pela referida Comissão, 
+deverá, em até 5 (cinco) dias, contados da notificação, ser comunicada à Finep; 
+ii) Caso o projeto envolva pesquisa com animais, deverão ser observadas as 
+exigências da Conselho Nacional de Controle de Experimentação Animal 
+(CONCEA), inclusive a prévia aprovação por um Comissão de Ética no Uso de 
+Animais (CEUA) a ela ligado. A eventual suspensão da pesquisa pela referida 
+Comissão, deverá, em até 5 (cinco) dias, contados da notificação, ser 
+comunicada à Finep; 
+jj) Observar e cumprir as normas expedidas pela Agência Nacional de Vigilância 
+Sanitária (ANVISA), aplicáveis ao desenvolvimento do projeto subvencionado, 
+bem como manter-se em situação de regularidade junto a essa agência 
+reguladora; 
+kk) Nos casos em que o projeto envolver ensaios clínicos com lotes piloto a serem 
+doados, assumir todas as obrigações e responsabilidades decorrentes desses 
+  
+ 
+ 
+ 
+ 42 de 54 
+ensaios, exonerando a Finep/FNDCT de quaisquer responsabilidades 
+decorrentes de tais lotes pilotos; 
+ll) Doar lotes piloto, até os limites previstos no edital, a instituições de atenção à 
+saúde públicas ou filantrópicas, desde que tenham sido observados todos os 
+protocolos, normas e procedimentos aplicáveis, principalmente os estabelecidos 
+pela entidade de regulação competente; 
+mm) Caso a declaração de ações coletivas aponte a existência de ações dessa 
+natureza em face da BENEFICIÁRIA DA SUBVENÇÃO, essa deverá 
+encaminhar anualmente e sempre que a Finep solicitar, relatório detalhando a 
+situação dos processos, sem prejuízo de outras informações que a Finep julgar 
+necessárias; 
+nn) A BENEFICIÁRIA DA SUBVENÇÃO não poderá ser incorporada por outra 
+sociedade ou grupo econômico com maioria de capital estrangeiro pelo período 
+de até 2 (dois) anos após o término do projeto apoiado, devendo notificar a Finep 
+do fato. A ocorrência de incorporação, neste caso, obrigará a Beneficiária e sua 
+sucessora a restituir à FINEP os valores recebidos, devidamente corrigidos 
+conforme os parâmetros legais vigentes à época.  
+ 
+CLÁUSULA SÉTIMA 
+AQUISIÇÃO DE BENS E SERVIÇOS 
+ 
+1. A aquisição de bens e serviços, no mercado nacional ou no mercado externo 
+(importação), vinculados ao PROJETO, deverá ser feita pela BENEFICIÁRIA DA 
+SUBVENÇÃO com estrita observância da legislação vigente, respeitados os princípios 
+da legalidade, moralidade e economicidade, buscando a proposta mais vantajosa para a 
+BENEFICIÁRIA DA SUBVENÇÃO. 
+1.1. Deverá ser realizada cotação de preços, exceto nos casos de fornecedor 
+exclusivo. 
+1.2. No caso da proposta mais vantajosa não ser a de menor valor, caberá à 
+BENEFICIÁRIA DA SUBVENÇÃO justificar a escolha do fornecedor. 
+2. As despesas de capital com recursos de subvenção econômica estão limitadas 
+a 20% (vinte por cento). 
+3. Caso a BENEFICIÁRIA DA SUBVENÇÃO tenha maioria do capital votante 
+pertencente à pessoa não residente no País, somente poderá realizar despesas de capital se 
+as atividades do projeto estiverem previstas no Decreto nº 2233/1997, em observância ao 
+disposto no art. 39 da Lei n. 4.131/1962. 
+ 
+CLÁUSULA OITAVA 
+PRESTAÇÃO DE CONTAS 
+ 
+  
+ 
+ 
+ 
+ 43 de 54 
+1. As prestações de contas Deste Termo de Outorga de Subvenção Econômica 
+serão realizadas por meio do monitoramento e avaliação do Projeto e da análise da Prestação 
+de Contas Final, na forma disciplinada pela Finep. 
+2. Durante a execução deste Termo de Outorga de Subvenção Econômica, a Finep 
+realizará o monitoramento e a avaliação do PROJETO, devendo observar os objetivos, o 
+cronograma, o orçamento, as metas e os indicadores previstos no Plano de Trabalho.  
+2.1. A BENEFICIÁRIA DA SUBVENÇÃO deverá apresentar Formulário de 
+Resultado Parcial anualmente, nas hipóteses determinadas neste instrumento, ou 
+a qualquer momento, quando solicitada, durante toda a vigência do Termo de 
+Outorga de Subvenção Econômica. 
+2.2. A Finep poderá, durante o monitoramento e a avaliação dos projetos, realizar 
+visita para acompanhamento técnico ou fiscalização financeira. A visita não 
+dispensará a BENEFICIÁRIA DA SUBVENÇÃO de manter atualizadas as 
+informações relativas à execução do PROJETO na plataforma eletrônica de 
+monitoramento, caso existente, ou em outro meio disponibilizado. 
+2.3. A Finep acompanhará periodicamente a execução do Plano de Trabalho, de 
+modo avaliar os resultados atingidos com a execução do objeto e de maneira a 
+verificar o cumprimento do PROJETO e a relação entre os objetivos, as metas e o 
+cronograma propostos e os resultados alcançados, com base nos indicadores 
+estabelecidos e aprovados no Plano de Trabalho, e em normativos internos. 
+2.3.1. A Finep poderá propor ajustes ao PROJETO e revisão do cronograma, das 
+metas e dos indicadores de desempenho, além de formular outras recomendações 
+aos partícipes, a quem caberá justificar, por escrito, eventual não atendimento. 
+3. A BENEFICIÁRIA DA SUBVENÇÃO deverá apresentar Relatório de Prestação 
+Contas Final, comprovando a boa e regular aplicação dos recursos transferidos neste 
+instrumento, no prazo máximo de 60 (sessenta) dias contados do término da vigência do 
+Termo de Outorga de Subvenção Econômica. 
+3.1. O prazo para apresentação do Relatório de Prestação de Contas Final poderá 
+ser prorrogado por igual período, a pedido, desde que o requerimento seja feito 
+antes do vencimento. 
+3.2. Se, durante a análise da prestação de contas final, a Finep verificar 
+irregularidade ou omissão passível de ser sanada, determinará prazo compatível 
+com o objeto para que a BENEFICIÁRIA DA SUBVENÇÃO apresente as razões 
+ou a documentação necessária. Transcorrido este prazo sem que a irregularidade 
+ou a omissão seja, sanada, a Finep adotará as providências para eventual 
+devolução dos recursos, nos termos da legislação vigente. 
+3.3. A análise da prestação de contas final deverá ser concluída pela Finep no 
+prazo de até um ano, prorrogável por igual período, ficando o prazo suspenso 
+quando a complementação de dados se fizer necessária pela BENEFICIÁRIA DA 
+SUBVENÇÃO.  
+3.4. O Relatório de Prestação de Contas Final será simplificado e privilegiará os 
+resultados obtidos, devendo ser apresentado de acordo os padrões fornecidos pela 
+Finep, conforme normativos internos, compreendendo, pelo menos: 
+  
+ 
+ 
+ 
+ 44 de 54 
+a) Relatório de Execução do Objeto, que deverá conter: (i) a descrição das 
+atividades desenvolvidas para o cumprimento do objeto; (ii) a demonstração e o 
+comparativo específico das metas com os resultados alcançados; e (iii) o 
+comparativo das metas cumpridas e das metas previstas devidamente justificadas 
+em caso de discrepância, referentes ao período a que se refere a prestação de 
+contas; 
+b) Declaração de que utilizou os recursos exclusivamente para a execução do 
+projeto, acompanhada de comprovante da devolução dos recursos não utilizados, 
+se for o caso; 
+c) Relação de bens adquiridos, desenvolvidos ou produzidos, quando houver; 
+d) Avaliação de resultados; 
+e) Demonstrativo consolidado das transposições, dos remanejamentos ou das 
+transferências de recursos efetuados, quando houver; e 
+f) Relatório Simplificado de Execução Financeira. 
+3.4.1. Quando o Relatório de Execução do PROJETO, referido na alínea ‘a’ do item 
+3.4 desta Cláusula, não for aprovado ou quando houver indício de ato irregular, a 
+Finep exigirá a apresentação de Relatório de Execução Financeira, conforme 
+modelo padrão fornecido. 
+3.4.2. Caso o PROJETO seja alvo de apuração formal pelos órgãos de controle ou 
+pelos órgãos de investigação e persecução criminal ou que contiverem indício de 
+irregularidade, a BENEFICIÁRIA DA SUBVENÇÃO deverá apresentar os 
+documentos suplementares exigidos pela Finep; 
+4. Os procedimentos de avaliação, monitoramento e prestação de contas final serão 
+detalhados em norma interna específica da Finep, a qual os partícipes reconhecem a 
+obrigatoriedade de observância.  
+5. Na hipótese de a BENEFICIÁRIA DA SUBVENÇÃO ser instituição pertencente 
+à Administração Pública, não caberá à Finep, por ocasião da prestação de contas, analisar 
+ou fiscalizar a regularidade de licitações e contratações feitas com os recursos federais 
+transferidos, nos termos do artigo 58, § 5º, do Decreto nº 9.283/2018. 
+6. A BENEFICIÁRIA DA SUBVENÇÃO deverá manter toda a documentação 
+gerada até a aprovação da prestação de contas final, devidamente organizada e arquivada, 
+separada por Projeto, pelo prazo de cinco anos, contados da data da aprovação do Relatório 
+de Prestação de Contas Final. 
+7. A quitação do Termo de Outorga de Subvenção Econômica somente se dará 
+quando da aprovação formal, por parte da Finep, do Relatório de Prestação de Contas Final. 
+8. Para fins de divulgação externa, a BENEFICIÁRIA DA SUBVENÇÃO se obriga 
+a apresentar, juntamente com o Relatório de Prestação de Contas Final, um resumo, de até 
+200 palavras, contendo informações relativas aos resultados alcançados pelo PROJETO, no 
+qual deverão ser destacadas até 6 (seis) palavras-chave que melhor caracterizem o conteúdo 
+desses resultados. 
+ 
+  
+ 
+ 
+ 
+ 45 de 54 
+CLÁUSULA NONA 
+PROPRIEDADE INTELECTUAL 
+ 
+1. Quando os resultados alcançados pelo PROJETO ensejarem proteção dos 
+direitos relativos à propriedade intelectual e caso faça parte da estratégia de mercado da 
+BENEFICIÁRIA DA SUBVENÇÃO obter tal proteção, deverão ser levados a registro no 
+Instituto Nacional de Propriedade Industrial - INPI ou em outro órgão competente para a 
+proteção da propriedade intelectual no Brasil, devendo a Finep ser comunicada formalmente 
+do fato, mesmo se o registro ocorrer após o término da vigência do instrumento contrato. 
+2. Caso as atividades realizadas pelas empresas apoiadas com recursos de 
+subvenção sob a égide do presente edital, ou nele previstas, originarem inovações 
+tecnológicas, protegidas por patentes, desenhos industriais, programas de computador ou 
+topografias de circuito integrado, assegura-se ao Exército Brasileiro, por intermédio de suas 
+Instituições Científicas, Tecnológicas e de Inovação, a opção de figurar como cotitular do ativo 
+intangível, na proporção de 50%. 
+ 2.1. A Agência de Gestão e Inovação Tecnológica (AGITEC), como integrante do 
+Núcleo de Inovação Tecnológica do Exército, realizará a análise de viabilidade e 
+conveniência de proteção da propriedade intelectual. Caso seja considerado viável, 
+conveniente e de interesse do Exército, a AGITEC promoverá a redação do pedido 
+de patente ou solicitação de registro, conforme o caso, e realizará a gestão dos 
+mesmos junto ao órgão competente. 
+ 2.2. Caso não seja do interesse do Exército, a AGITEC se pronunciará sobre a 
+conveniência e viabilidade de proteção por parte da empresa, para que a mesma 
+exerça os direitos em seu próprio nome. Nesse caso os procedimentos de proteção 
+serão de responsabilidade e encargos da empresa. 
+2.3. No caso de as inovações tecnológicas oriundas das atividades realizadas pelas 
+empresas sob a égide do presente edital, ou nele previstas, serem protegidas por 
+segredo industrial, o Exército Brasileiro, por intermédio de suas ICT, poderá ter 
+acesso aos respectivos pacotes técnicos, podendo fazer uso da tecnologia 
+internamente, na situação de usuário final, se assim desejar, respondendo pela 
+confidencialidade das informações a que tiver acesso. 
+ 
+CLÁUSULA DÉCIMA 
+CONDIÇÕES GERAIS 
+ 
+1. É vedado o aditamento deste Termo de Outorga de Subvenção Econômica com 
+o intuito de alterar seu objeto, entendida como tal a modificação, ainda que parcial, da 
+finalidade definida no PROJETO. 
+2. Excepcionalmente, a Finep poderá admitir, a pedido justificado da 
+BENEFICIÁRIA DA SUBVENÇÃO, a reformulação do PLANO DE TRABALHO, quando se 
+tratar apenas de alteração da programação de execução do  Termo de Outorga de Subvenção 
+Econômica. 
+  
+ 
+ 
+ 
+ 46 de 54 
+3. A Finep poderá delegar formalmente o acompanhamento da execução do  
+Termo de Outorga de Subvenção Econômica. 
+4. A BENEFICIÁRIA DA SUBVENÇÃO reconhece a autoridade normativa da 
+Finep para exercer o controle e a fiscalização sobre a execução do PROJETO, reorientar 
+ações e acatar, ou não, justificativas com relação às eventuais disfunções havidas na sua 
+execução. 
+5. Não poderão ser destinados recursos de subvenção econômica para pagamento, 
+a qualquer título, a agente público da ativa por serviços prestados, inclusive consultoria, 
+assistência técnica ou assemelhados, exceto o pagamento pela prestação de serviços 
+técnicos profissionais especializados por tempo determinado, quando os contratados 
+estiverem submetidos a regime de trabalho que comporte o exercício de outra atividade e haja 
+declaração do chefe imediato e do dirigente máximo do órgão de origem da inexistência de 
+incompatibilidade de horários e de comprometimento das atividades atribuídas, desde que: a) 
+esteja previsto em legislação específica; ou  b) refira-se à realização de pesquisas e estudos 
+de excelência, realizados por professores universitários na situação prevista na alínea “b” do 
+inciso XVI do caput do art. 37 da Constituição, desde que os projetos de pesquisas e os 
+estudos tenham sido devidamente aprovados pelo dirigente máximo do órgão ou da entidade 
+ao qual esteja vinculado o professor (Lei n. 13.808/2019 – LDO/2020, art. 18, inciso VII e §1º, 
+inciso VI). 
+5.1. Também não poderão ser destinados recursos de subvenção econômica para 
+pagamento de diárias e passagens a agente público da ativa, salvo em atividades 
+de pesquisa científica e tecnológica (Lei n. 13.808/2019 – LDO/2020, art. 18, inciso 
+IX e §1º, inciso VIII, alínea “c”). 
+6. As despesas realizadas com recursos de subvenção econômica somente serão 
+reconhecidas a partir da assinatura do presente Termo de Outorga de Subvenção Econômica 
+até o prazo final de utilização de recursos, estabelecido na Cláusula Quinta. 
+6.1. As despesas realizadas a título de contrapartida serão aceitas a partir da data 
+de submissão da proposta pela BENEFICIÁRIA DA SUBVENÇÃO na Seleção 
+Pública, até o prazo final de utilização de recursos, estabelecido na Cláusula 
+Quinta.. 
+ 
+CLÁUSULA DÉCIMA PRIMEIRA 
+SUSPENSÃO DOS DESEMBOLSOS DOS RECURSOS 
+ 
+1. Sem prejuízo da denúncia ou rescisão do presente Termo de Outorga de 
+Subvenção Econômica, a Finep poderá suspender os desembolsos dos recursos nas 
+seguintes hipóteses: 
+a) Aplicação dos recursos do financiamento em fins diversos do pactuado ou em 
+desacordo com o PLANO DE TRABALHO; 
+b) Inexatidão nas informações prestadas à Finep pela BENEFICIÁRIA DA 
+SUBVENÇÃO, objetivando a obtenção desta subvenção econômica ou durante a 
+execução deste BENEFICIÁRIA DA SUBVENÇÃO; 
+  
+ 
+ 
+ 
+ 47 de 54 
+c) Paralisação do PROJETO; 
+d) Outras circunstâncias que, a juízo da Finep, tornem inseguro ou impossível o 
+cumprimento, pela BENEFICIÁRIA DA SUBVENÇÃO, das obrigações assumidas 
+no presente  Termo de Outorga de Subvenção Econômica ou a realização dos 
+objetivos para os quais foi concedida a subvenção econômica; 
+e) Inadimplemento, por parte da BENEFICIÁRIA DA SUBVENÇÃO, de qualquer 
+obrigação assumida neste  Termo de Outorga de Subvenção Econômica; 
+f) Na hipótese de recuperação judicial ou extrajudicial, ou falência decretada em 
+relação à BENEFICIÁRIA DA SUBVENÇÃO. 
+1.1. A Finep poderá nas hipóteses descritas nesta Cláusula, alternativamente ou 
+em conjunto com a suspensão dos desembolsos dos recursos, fixar condicionantes 
+de ordem técnica-operacional, jurídica ou financeira, que deverão ser cumpridas 
+dentro de prazo a ser estabelecido, sob pena de aplicação do disposto nas 
+Cláusulas Décima Segunda e Décima Quarta. 
+1.2. A Finep considerará o conceito de risco tecnológico, constante no Decreto nº 
+9.283/2018, no monitoramento e avaliação do PROJETO. 
+ 
+ 
+CLÁUSULA DÉCIMA SEGUNDA 
+TOMADA DE CONTAS ESPECIAL 
+ 
+1. Será instaurada Tomada de Contas Especial pela Finep ou, na sua omissão, por 
+determinação do Controle Interno ou do Tribunal de Contas da União, para identificação dos 
+responsáveis e quantificação do dano, quando ocorrer o seguinte: 
+a) Não apresentação de relatório técnico e de demonstrações financeiras no prazo 
+de até 30 (trinta) dias da notificação que lhe for encaminhada pela Finep; 
+b) Não aprovação de relatório técnico e de demonstrações financeiras, em 
+decorrência de: 
+i. não execução do objeto pactuado; 
+ii. atingimento parcial dos objetivos avençados; 
+iii.  desvio de finalidade; 
+iv. impugnação de despesas; 
+v. não aporte dos recursos de contrapartida; 
+vi. não aplicação de rendimentos de aplicações financeiras no objeto pactuado. 
+c) Ocorrência de qualquer outro fato do qual resulte prejuízo ao erário; 
+d) Não devolução de eventuais saldos financeiros remanescentes após 30 (trinta) 
+dias da conclusão, denúncia, rescisão ou extinção do  Termo de Outorga de 
+Subvenção Econômica. 
+  
+ 
+ 
+ 
+ 48 de 54 
+2. A não-execução do PROJETO pactuado ou sua execução parcial decorrente de 
+risco tecnológico, conceituado no Decreto nº 9.283/2018, devidamente justificado pela 
+BENEFICIÁRIA DA SUBVENÇÃO e aprovado pela Finep não ensejará a instauração de 
+Tomada de Contas Especial. 
+ 
+CLÁUSULA DÉCIMA TERCEIRA 
+PUBLICAÇÃO 
+ 
+A eficácia deste Termo de Outorga de Subvenção Econômica e de seus eventuais 
+aditivos fica condicionada à publicação do respectivo extrato no Diário Oficial da União, que 
+será providenciada pela Finep em até 30 (trinta) dias contados da assinatura deste  Termo de 
+Outorga de Subvenção Econômica. 
+ 
+CLÁUSULA DÉCIMA QUARTA 
+RESCISÃO 
+ 
+Este Termo de Outorga de Subvenção Econômica poderá ser rescindido a qualquer 
+tempo, em caso de infringência de quaisquer de seus dispositivos, imputando-se às partes a 
+responsabilidade pelas obrigações decorrentes do prazo em que tenham vigido e creditando-
+-lhes, igualmente, os benefícios adquiridos no mesmo período. 
+ 
+CLÁUSULA DÉCIMA QUINTA 
+DISPOSIÇÕES APLICÁVEIS 
+ 
+Aplica-se ao presente instrumento a Lei nº 10.973, de 02 de dezembro de 2004, o 
+Decreto 9.283, de 07 de fevereiro de 2018, a Lei nº 11.540, de 12 de novembro de 2007 e 
+demais atos normativos pertinentes. 
+ 
+CLÁUSULA DÉCIMA SEXTA 
+DAS DECLARAÇÕES 
+ 
+ Sob pena de incidência das sanções contratuais e legais, de natureza civil e penal, 
+a BENEFICIÁRIA DA SUBVENÇÃO declara que: 
+a) 
+O imóvel onde será implantado o PROJETO não possui reserva legal 
+e/ou área de preservação permanente, ou, se possui, que sobre determinado 
+imóvel inexistem embargos vigentes de uso econômico de áreas desmatadas 
+ilegalmente, nos termos do art. 1º, II, da Resolução do Conselho Monetário 
+Nacional nº 3.545, de 29 de fevereiro de 2008; 
+  
+ 
+ 
+ 
+ 49 de 54 
+b) 
+Não está descumprindo embargo de atividade nos termos do art. 11 
+do Decreto nº 6.321, de 21 de dezembro de 2007, c/c os art. 16, §1º e §2º, art. 17 
+e art. 54, caput e parágrafo único do Decreto nº 6.514, de 22 de julho de 2008, bem 
+como não ter sido notificada de qualquer sanção restritiva de direito, nos termos 
+dos incisos I, II, IV e V do art. 20 do Decreto nº 6.514, de 22 de julho de 2008; 
+c) 
+Observa e cumpre as disposições previstas na legislação ambiental, 
+mantendo-se em situação regular junto aos órgãos e entidades integrantes do 
+Sistema Nacional do Meio Ambiente, e os documentos relacionados ao 
+licenciamento ambiental e aspectos regulatórios, apresentados previamente à 
+Finep, permanecem válidos; 
+d) 
+Não está descumprindo embargo de atividade nos termos do art. 1º, 
+II, da Resolução do Conselho Monetário Nacional nº 3545, de 29 de fevereiro de 
+2008; 
+e) 
+Indenizará e ressarcirá a Finep, independentemente de culpa, caso 
+esta seja obrigada a pagar qualquer valor tendo por causa dano ambiental 
+decorrente direta ou indiretamente do PROJETO; 
+f) 
+Inexistem Deputado(a), Senador(a) e Vereador(a) diplomados(as) ou 
+empossados(as), exercendo função remunerada ou entre seus administradores, 
+não se configurando as vedações previstas pela Constituição Federal, no artigo 54, 
+incisos I e II, no artigo 27, § 1º, e no artigo 29, inciso IX; 
+g) 
+Denunciará à Ouvidora da Finep eventuais irregularidades ou 
+descumprimentos das condições contratuais e da legislação vigente, conforme 
+canal disponível na página da Finep na internet (http://www.finep.gov.br); 
+h) Inexiste sentença condenatória transitada em julgado em razão da prática de 
+atos pela BENEFICIÁRIA DA SUBVENÇÃO, ou por seus dirigentes, de trabalho 
+infantil, trabalho escravo, crime contra o meio ambiente, assédio moral ou sexual 
+ou racismo; 
+i) 
+Não é beneficiária, direta ou indireta, de recursos federais 
+provenientes de transações de compensação (offset), com relação ao projeto ora 
+subvencionado; 
+j) 
+Todas as informações prestadas à Finep, inclusive no preenchimento 
+de formulários e cadastros na internet, são verdadeiras. 
+ 
+CLÁUSULA DÉCIMA SÉTIMA 
+NÃO EXERCÍCIO DE DIREITOS 
+ 
+O atraso ou abstenção, pela Finep, do exercício de quaisquer direitos ou 
+faculdades que lhe assistam em decorrência da lei ou do presente Termo de Outorga de 
+Subvenção Econômica, ou a eventual concordância com atrasos no cumprimento das 
+obrigações assumidas pela BENEFICIÁRIA DA SUBVENÇÃO, não implicarão qualquer 
+novação, não podendo ser interpretados como renúncia a tais direitos ou faculdades, que 
+poderão ser exercidos, a qualquer tempo, a critério exclusivo da Finep. 
+  
+ 
+ 
+ 
+ 50 de 54 
+ 
+CLÁUSULA DÉCIMA OITAVA 
+VIGÊNCIA 
+ 
+1. O prazo de vigência deste Termo de Outorga de Subvenção Econômica é de 6 (seis) meses 
+contados da sua data de assinatura, sendo improrrogável em decorrência da necessidade de 
+processamento da competição prevista na terceira etapa da seleção pública. 
+. 
+ 
+CLÁUSULA DÉCIMA NONA 
+FORO DO TERMO DE OUTORGA DE SUBVENÇÃO ECONÔMICA 
+ 
+1. As partes elegem o foro da Cidade do Rio de Janeiro para solução de qualquer 
+controvérsia oriunda do presente Termo de Outorga de Subvenção Econômica, ressalvado à 
+Finep o direito de optar pelo foro de sua sede. 
+ 
+1. Este termo de outorga foi preenchido com base na minuta padrão anexa ao edital 
+a que está vinculado. 
+ 
+2. E, por estarem justas e contratadas, assinam o presente instrumento em __ (___) 
+vias de igual teor e forma para um só efeito, juntamente com as testemunhas abaixo. 
+ 
+Rio de Janeiro, 
+ 
+[No caso de assinatura digital, utilizar a redação abaixo] 
+ 
+ 
+ 
+CLÁUSULA DÉCIMA NONA 
+FORO DO TERMO DE OUTORGA DE SUBVENÇÃO ECONÔMICA 
+ 
+1. As partes elegem o foro da Cidade do Rio de Janeiro para solução de qualquer 
+controvérsia oriunda do presente Termo de Outorga de Subvenção Econômica, ressalvado à 
+Finep o direito de optar pelo foro de sua sede. 
+1.1. O presente termo de outorga reputa-se celebrado na cidade do Rio de Janeiro, 
+e sua formalização ocorrerá na data em que os representantes legais da Finep o assinarem 
+  
+ 
+ 
+ 
+ 51 de 54 
+ou na data em que o último representante legal da Finep o assiná-lo, em caso de disparidade 
+de data. 
+ 
+Este termo de outorga foi preenchido com base na minuta padrão anexa ao edital 
+a que está vinculado. 
+ 
+E, por estarem assim justos e acordados, os partícipes firmam o presente 
+instrumento, juntamente com as testemunhas, por meio de assinatura eletrônica com 
+certificado digital, nos termos da Medida Provisória n. 2.200-2/2001. 
+ 
+Pela FINANCIADORA DE ESTUDOS E PROJETOS - Finep: 
+ 
+Presidente 
+Nome: 
+CPF: 
+ 
+ 
+ 
+Diretor 
+Nome: 
+CPF: 
+ 
+ 
+ 
+Pela BENEFICIÁRIA DA SUBVENÇÃO: 
+ 
+ 
+ 
+Nome: 
+CPF: 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 52 de 54 
+Nome: 
+CPF: 
+ 
+TESTEMUNHAS: 
+ 
+ 
+ 
+Nome: 
+CPF: 
+ 
+ 
+ 
+Nome: 
+CPF: 
+ 
+ 
+ 
+Anexos: 
+Empenho 
+Plano de Trabalho 
+ 
+  
+ 
+ 
+ 
+ 53 de 54 
+ 
+SELEÇÃO PÚBLICA MCTI/FINEP/FNDCT 
+Subvenção Econômica à Inovação – xx/2020 
+DESAFIO CIBERNÉTICO - STARTUPS E EMPRESAS DE BASE TECNOLÓGICA 
+ 
+ 
+ANEXO 5 
+ 
+LISTAGEM DE DOCUMENTOS MÍNIMOS 
+PARA SELEÇÃO E CONTRATAÇÃO DE PROPOSTAS 
+ 
+ 
+I- 
+Seleção da proposta: 
+ 
+Para as etapas de seleção da proposta, são exigidos os seguintes documentos, 
+conforme item 6.5 do edital: 
+1. Contrato/Estatuto Social, atualizado e devidamente arquivado no registro competente 
+(Junta Comercial ou Registro Civil de Pessoas Jurídicas) e eventuais alterações, caso 
+não esteja consolidado; 
+2. Ato de eleição/nomeação da atual administração; 
+3. Relação dos acionistas majoritários, com sua qualificação completa, assinada 
+digitalmente pelos representantes legais da beneficiária ou digitalizada, no caso de 
+sociedades por ações; 
+4. Balanço Patrimonial (BP) 2019, assinado digitalmente pelo contador e seu 
+representante legal ou digitalizado; 
+5. Demonstrativo de Resultados do Exercício (DRE) referente ao ano 2019, assinado 
+digitalmente pelo contador e seu representante legal ou digitalizado; 
+6. Instrumento de procuração, caso a representação legal se dê nessa forma nos 
+documentos solicitados nesse edital. 
+ 
+II- 
+Contratação  
+ 
+Para a contratação do projeto, serão realizadas consultas aos seguintes bancos de 
+dados/cadastros e exigidos como documentos mínimos, conforme item 10.8 do edital: 
+ 
+1. Certidão de Débitos relativos aos Tributos Federais e à Dívida Ativa da União; 
+  
+ 
+ 
+ 
+ 54 de 54 
+2. Certificado de Regularidade do FGTS; 
+3. Adimplência da financiada com a União por meio de consulta ao CADIN; 
+4. Adimplência da beneficiária com a Finep (técnica, de prestação de contas financeira e 
+junto ao departamento de cobrança); 
+5. Cadastro Nacional de Condenações Cíveis por Ato de Improbidade Administrativa e 
+Inelegibilidade (CNCIAI), inclusive do sócio majoritário; 
+6. Cadastro Nacional de Empresas Inidôneas e Suspensas (CEIS), inclusive do sócio 
+majoritário; 
+7. Cadastro Nacional de Empresas Punidas (CNEP); 
+8. Cadastro de empregadores que tenham submetido trabalhadores a condições 
+análogas à de escravo. 
+9. Recibo de entrega da Relação Anual de Informações Sociais – RAIS, para beneficiárias 
+não enquadradas nos Grupos 1 e 2 do e-Social; 
+10. Certidão falimentar (pessoa jurídica com natureza empresarial) ou certidão insolvência 
+civil (pessoa jurídica com natureza simples) 
+11. Declaração ambiental e outros aspectos regulatórios (Anexo 3), assinada pelos 
+representantes legais das beneficiárias, juntamente com as licenças ou outros 
+documentos regulatórios pertinentes; 
+12. Declaração de ações coletivas, assinada pelos representantes legais das beneficiárias 
+(Anexo 2) 
+ 
+ 
+ 
+Local e data_________________________,   __/__/___ 
+ 
+  
+SELEÇÃO PÚBLICA MCTI/FINEP/FNDCT 
+Subvenção Econômica à Inovação – 09/2020 
+PROGRAMA DESAFIO FINEP 
+DESAFIO CIBERNÉTICO - STARTUPS E EMPRESAS DE BASE TECNOLÓGICA 
+ 
+1 de 1 
+ 
+ 
+INFORMAÇÃO IMPORTANTE: 
+ 
+Considerando o ITEM 16.4. do Edital que estipula que a Seleção Pública poderá ser revogada ou anulada a qualquer tempo, no todo ou 
+em parte, por motivo de interesse público ou exigência legal, sem que isso implique direito a indenização ou reclamação de qualquer 
+natureza, COMUNICAMOS O CANCELAMENTO DA “SELEÇÃO PÚBLICA MCTI/FINEP/FNDCT - Subvenção Econômica à Inovação – 
+09/2020 - PROGRAMA DESAFIO FINEP - DESAFIO CIBERNÉTICO - STARTUPS E EMPRESAS DE BASE TECNOLÓGICA” EM FUNÇÃO 
+DA BAIXA DEMANDA REGISTRADA EM RESPOSTA AO EDITAL PUBLICADO, O QUE IMPEDIRIA A REALIZAÇÃO DA COMPETIÇÃO 
+PREVISTA NATERCEIRA E DECISIVA ETAPA DA CHAMADA PÚBLICA. 
+ 
+  
+ 
+ 
+    www.finep.gov.br 
+ 
+Rio de Janeiro 
+Praia do Flamengo, 200,  
+1º, 2º, 3º, 4º, 7º, 8º, 9º, 13º e 
+24º andares – CEP 22210-901 
+Rio de Janeiro – RJ 
+São Paulo 
+JK Financial Center  
+Av. Presidente Juscelino 
+Kubitschek, 510 - 9º Andar  
+Itaim Bibi  
+04543-000 – São Paulo – SP  
+t. (11) 3847 0300 
+Fortaleza  
+Rua Costa Barros, 915 
+8º andar, Sala 801  
+Centro 
+60160-280 – Fortaleza – CE 
+t. (85) 99198-1626 
+SAC :: (21) 2555 0555 :: sac@finep.gov.br || Ouvidoria :: (21) 2557 2414 :: ouvidoria@finep.gov.br 
+Brasília 
+Ed. Santos Dumont  
+SHIS, QI 1 - Conjunto B  
+Bloco D - 1º Subsolo 
+Lago Sul   
+71605-190 – Brasília – DF 
+t. (61) 3035 7150 
+Florianópolis  
+Parque Tec Alfa – Ed. Celta  
+Rod. José Carlos Dauh, 600  
+(SC - 401 - Km 01) - João Paulo   
+88030-000 – Florianópolis – SC 
+t. (21) 99560 3119 
+Belém 
+Avenida Perimetral da Ciência 
+Km 01 – Guamá  
+Unidade 305 
+Espaço Empreendedor do PCT  
+66075-750 – Belém – PA  
+t. (91) 98415 6704 
+ 
+SELEÇÃO PÚBLICA MCTI/FINEP/FNDCT 
+Subvenção Econômica à Inovação – 09/2020 
+PROGRAMA DESAFIO FINEP 
+DESAFIO CIBERNÉTICO - STARTUPS E EMPRESAS DE BASE TECNOLÓGICA 
+ 
+ 
+Rerratificação: 
+Ficam alterados os seguintes itens do Edital: 
+4.1.c) 
+DE:  
+c) "Ter data de registro na Junta Comercial ou no Registro Civil das Pessoas 
+Jurídicas (RCPJ) de sua jurisdição até 31/12/2019;" 
+PARA:  
+c) "Ter data de registro na Junta Comercial ou no Registro Civil das Pessoas 
+Jurídicas (RCPJ) de sua jurisdição até 25/05/2020;" 
+ 
+4.1.d) 
+DE:  
+d) "Demonstrar ter efetuado qualquer atividade operacional, não-operacional, 
+patrimonial ou financeira até 31/12/2019;" 
+PARA:  
+d) "Demonstrar ter efetuado qualquer atividade operacional, não-operacional, 
+patrimonial ou financeira até 31/12/2020;" 
+ e 
+ 
+  
+ 
+ 
+    www.finep.gov.br 
+ 
+Rio de Janeiro 
+Praia do Flamengo, 200,  
+1º, 2º, 3º, 4º, 7º, 8º, 9º, 13º e 
+24º andares – CEP 22210-901 
+Rio de Janeiro – RJ 
+São Paulo 
+JK Financial Center  
+Av. Presidente Juscelino 
+Kubitschek, 510 - 9º Andar  
+Itaim Bibi  
+04543-000 – São Paulo – SP  
+t. (11) 3847 0300 
+Fortaleza  
+Rua Costa Barros, 915 
+8º andar, Sala 801  
+Centro 
+60160-280 – Fortaleza – CE 
+t. (85) 99198-1626 
+SAC :: (21) 2555 0555 :: sac@finep.gov.br || Ouvidoria :: (21) 2557 2414 :: ouvidoria@finep.gov.br 
+Brasília 
+Ed. Santos Dumont  
+SHIS, QI 1 - Conjunto B  
+Bloco D - 1º Subsolo 
+Lago Sul   
+71605-190 – Brasília – DF 
+t. (61) 3035 7150 
+Florianópolis  
+Parque Tec Alfa – Ed. Celta  
+Rod. José Carlos Dauh, 600  
+(SC - 401 - Km 01) - João Paulo   
+88030-000 – Florianópolis – SC 
+t. (21) 99560 3119 
+Belém 
+Avenida Perimetral da Ciência 
+Km 01 – Guamá  
+Unidade 305 
+Espaço Empreendedor do PCT  
+66075-750 – Belém – PA  
+t. (91) 98415 6704 
+4.1.f) 
+DE: 
+f) "Empregar na equipe do projeto, em atividades de pesquisa e desenvolvimento 
+tecnológico, profissionais pós-graduados, como especialistas, mestres, doutores 
+ou profissionais de titulação equivalente." 
+PARA:  
+f) "Empregar na equipe do projeto, em atividades de pesquisa e desenvolvimento 
+tecnológico, 
+preferencialmente, 
+profissionais 
+pós-graduados, 
+como 
+especialistas, mestres, doutores ou profissionais de titulação equivalente." 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+    www.finep.gov.br 
+ 
+Rio de Janeiro 
+Ventura Corporate Towers 
+Av. República do Chile, 330  
+Torre Oeste – 10º-12º e  
+15º-17º andares – Centro   
+20031-170 – Rio de Janeiro – RJ 
+t. (21) 2555 0330 
+São Paulo 
+JK Financial Center  
+Av. Presidente Juscelino 
+Kubitschek, 510 - 9º Andar  
+Itaim Bibi  
+04543-000 – São Paulo – SP  
+t. (11) 3847 0300 
+Fortaleza  
+Rua Costa Barros, 915 
+8º andar, Sala 801  
+Centro 
+60160-280 – Fortaleza – CE 
+t. (85) 99198-1626 
+SAC :: (21) 2555 0555 :: sac@finep.gov.br || Ouvidoria :: (21) 2557 2414 :: ouvidoria@finep.gov.br 
+Brasília 
+Ed. Santos Dumont  
+SHIS, QI 1 - Conjunto B  
+Bloco D - 1º Subsolo 
+Lago Sul   
+71605-190 – Brasília – DF 
+t. (61) 3035 7150 
+Florianópolis  
+Parque Tec Alfa – Ed. Celta  
+Rod. José Carlos Dauh, 600  
+(SC - 401 - Km 01) - João Paulo   
+88030-000 – Florianópolis – SC 
+t. (21) 99560 3119 
+Belém 
+Avenida Perimetral da Ciência 
+Km 01 – Guamá  
+Unidade 305 
+Espaço Empreendedor do PCT  
+66075-750 – Belém – PA  
+t. (91) 98415 6704 
+SELEÇÃO PÚBLICA MCTI/FINEP/FNDCT 
+Subvenção Econômica à Inovação – 09/2020 
+PROGRAMA DESAFIO FINEP 
+DESAFIO CIBERNÉTICO - STARTUPS E EMPRESAS DE BASE TECNOLÓGICA 
+ 
+1ª RERRATIFICAÇÃO   
+Item 11: CRONOGRAMA DA SELEÇÃO PÚBLICA 
+ 
+Fase 
+Data 
+Responsável 
+Lançamento da Seleção Pública no Portal da FINEP 
+na internet  
+25/11/2020 
+FINEP 
+Disponibilização do formulário eletrônico (Formulário de 
+Apresentação de Propostas - FAP) 
+A partir de 
+25/11/2020 
+FINEP 
+Término do prazo para envio eletrônico da proposta (até 
+às 17h00 - horário de Brasília) 
+12/03/2021 
+BENEFICIÁRIA 
+PROPONENTE 
+1ª etapa - Seleção das Propostas - Habilitação 
+ 
+ 
+Divulgação do resultado preliminar da Seleção Pública – 
+1ª etapa da Seleção Pública 
+A partir de 
+13/04/2021 
+FINEP 
+Término do prazo para interposição de recurso (até às 
+17h00 - horário de Brasília) 
+23/04/2021 
+BENEFICIÁRIA 
+PROPONENTE 
+Divulgação da 1ª etapa da Seleção Pública no Portal da 
+FINEP na internet 
+A partir de 
+07/05/2021  
+FINEP 
+2ª etapa – Seleção das Propostas - Mérito 
+ 
+ 
+Divulgação do resultado preliminar da Seleção Pública – 
+2ª etapa da Seleção Pública 
+A partir de 
+15/05/2021 
+FINEP 
+Término do prazo para interposição de recurso (até às 
+17h00 - horário de Brasília) 
+25/05/2021 
+BENEFICIÁRIA 
+PROPONENTE 
+Resultado final da 2ª etapa 
+ 
+ 
+Divulgação do resultado final da Seleção Pública no 
+Portal da FINEP na internet 
+ A partir de 
+08/06/2021 
+FINEP 
+  
+ 
+ 
+    www.finep.gov.br 
+ 
+Rio de Janeiro 
+Ventura Corporate Towers 
+Av. República do Chile, 330  
+Torre Oeste – 10º-12º e  
+15º-17º andares – Centro   
+20031-170 – Rio de Janeiro – RJ 
+t. (21) 2555 0330 
+São Paulo 
+JK Financial Center  
+Av. Presidente Juscelino 
+Kubitschek, 510 - 9º Andar  
+Itaim Bibi  
+04543-000 – São Paulo – SP  
+t. (11) 3847 0300 
+Fortaleza  
+Rua Costa Barros, 915 
+8º andar, Sala 801  
+Centro 
+60160-280 – Fortaleza – CE 
+t. (85) 99198-1626 
+SAC :: (21) 2555 0555 :: sac@finep.gov.br || Ouvidoria :: (21) 2557 2414 :: ouvidoria@finep.gov.br 
+Brasília 
+Ed. Santos Dumont  
+SHIS, QI 1 - Conjunto B  
+Bloco D - 1º Subsolo 
+Lago Sul   
+71605-190 – Brasília – DF 
+t. (61) 3035 7150 
+Florianópolis  
+Parque Tec Alfa – Ed. Celta  
+Rod. José Carlos Dauh, 600  
+(SC - 401 - Km 01) - João Paulo   
+88030-000 – Florianópolis – SC 
+t. (21) 99560 3119 
+Belém 
+Avenida Perimetral da Ciência 
+Km 01 – Guamá  
+Unidade 305 
+Espaço Empreendedor do PCT  
+66075-750 – Belém – PA  
+t. (91) 98415 6704 
+Fase 
+Data 
+Responsável 
+3ª etapa - Competição 
+Evento Presencial – Competição 
+A partir de 
+Dez/21* 
+BENEFICIÁRIA 
+PROPONENTE 
+Resultado Final (divulgação do vencedor do DESAFIO) 
+A partir de 
+Dez/21* 
+FINEP 
+A competição presencial deverá ocorrer a partir do mês de dezembro de 2021. As 
+datas exatas serão comunicadas aos participantes e divulgadas com no mínimo dois 
+meses de antecedência.  
+6.1. 
+A presente Seleção Pública tem validade de 18 (dezoito) meses. 
+ 

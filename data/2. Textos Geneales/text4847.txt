@@ -1,0 +1,1939 @@
+
+= 
+r 
+», 
+4 
+> 
+4 
+q 
+( 
+) 
+3 
+ye 
+GOVERNO do 
+| 
+EstTapo po CEARA 
+Secreturly da Ciencia, Tecnologia 
+puyear 
+GOVERNO DO ESTADO DO CEARA 
+te 
+SECRETARIA DA CIENCIA E TECNOLOGIA E EDUCAGAO SUPERIOR 
+Fundacao Cearense de Apoio ao Desenvolvimento Cientifico e Tecnoldgico 
+Procuradoria Juridica 
+  
+  
+COOPERACAO INTERNACIONAL FUNCAPIFAPSI/INRIA/IINS2i-CNRS 
+EDITAL 03/2016 
+A Fundacgdo Cearense de Apoio ao Desenvolvimento Cientifico e Tecnolégico — FUNCAP, vinculada a 
+Secretaria da Ciéncia, Tecnologia e Educagdo Superior - SECITECE, as Fundagées de Amparo a 
+Pesquisa dos estados que aderiram a presente chamada, doravante denominadas FAPs coparticipes, 
+o INRIA — Institut National de Recherche en Informatique et Automatique e o CNRS — Centre National 
+de la Recherche Scientifique, através do INS2i — Institut des Sciences de l'information et de leur 
+Interactions, tornam publico o presente Edital e convidam os interessados a apresentarem propostas 
+nos termos aqui estabelecidos, 
+e em conformidade com 
+o anexo REGULAMENTO/CONDICOES 
+ESPECIFICAS, parte integrante do mesmo. 
+1. OBJETIVO 
+O presente Edital tem por objetivo apoiar atividades de pesquisa cientifica, tecnologica e de inovagao, 
+de equipes principais e de equipes orbitais, na area das ciéncias e tecnologias da informagao e 
+comunicacao (TIC), mediante a selecdo de propostas para apoio financeiro a projetos conjuntos, a 
+serem executados por uma equipe de pesquisadores brasileiros (equipe principal), com colaboragao 
+eventual de outras equipes brasileiras (equipes orbitais), e uma equipe de pesquisadores franceses 
+do INRIA ou do INS2i-CNRS. Os projetos devem estar relacionados ao objeto abaixo indicado, em 
+conformidade com as condicées estabelecidas e com as definigdes de projetos conjuntos, equipes 
+principais e equipes orbitais dispostas 
+no REGULAMENTO/ CONDICOES ESPECIFICAS, anexo a 
+este Edital. 
+  
+OBJETO 
+Selecdo 
+publica 
+de 
+propostas 
+para 
+apoio 
+A 
+execucéo 
+de 
+projetos 
+conjuntos 
+de 
+Pesquisa, 
+Desenvolvimento 
+e 
+Inovacdo 
+(P&D&l) 
+na 
+area 
+das 
+ciéncias 
+e 
+tecnologias 
+da 
+informagao 
+e 
+comunicagao 
+(TIC), 
+no 
+Ambito 
+dos Acordos 
+Bilaterais 
+de cooperagao 
+cientifica 
+e tecnolégica 
+internacional firmados entre o INRIA e o CNRS com as FAPs coparticipes. 
+  
+As areas de pesquisa em TIC de interesse deste Edital, incluem, em particular, 
+o tratamento da 
+  
+‘ 
+Fundagdo Cearense de Apoio ao Desenvolvimento Cientifico e Tecnolégico 
+1 
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862 
+CP 
+Tel: (85)3275-9115/3275-2901/3101-2170 
+Pagina Eletrénica: www.funcap.ce.gov.br
+   
+  
+  
+EsTADO po CEARA 
+Secretaria da Ciencia, Tecnologia 
+¢ Educacao Superior 
+perear 
+GOVERNO DO ESTADO DO CEARA 
+SECRETARIA DA CIENCIA E TECNOLOGIA E EDUCAGAO SUPERIOR 
+Fundagiio Cearense de Apoio ao Desenvolvimento Cientifico e Tecnolégico 
+Procuradoria Juridica 
+  
+  
+informagéo; a comunicagaéo e o armazenamento da informacao; o tratamento de sinais, dos dados e 
+dos conhecimentos; 
+a modelagem 
+e 
+a simulag&o; 
+as tecnologias de 
+hardware 
+e software; 
+a 
+concepc¢ao, a verificagdo e a otimizagaéo de componentes de software; a concepcao, 0 comando e o 
+  
+controle de sistemas complexos; e as interfaces homem-maquina. 
+  
+2. APRESENTAGAO E ENVIO DAS PROPOSTAS 
+2.1 As propostas devem 
+ser apresentadas sob 
+a forma de 
+projeto 
+e encaminhadas 
+a Funcap 
+exclusivamente 
+via 
+Internet, 
+por 
+intermédio 
+de 
+Formuldrio 
+Eletrénico 
+disponivel 
+na 
+pagina 
+www.funcap.ce.gov.br, 
+a 
+partir 
+da 
+data 
+do 
+Langamento 
+do 
+Edital, 
+indicada 
+no 
+subitem 
+1.4 
+CRONOGRAMA do REGULAMENTO. 
+2.2 As propostas devem ser apresentadas em conformidade com o descrito no item 2. CRITERIOS 
+DE ELEGIBILIDADE do REGULAMENTO contendo rigorosamente todos os itens previstos neste 
+Edital. 
+2.3 Nao serao aceitas propostas submetidas por qualquer outro meio, tampouco apds 0 prazo final de 
+recebimento estabelecido no subitem 1.4 do CRONOGRAMA do REGULAMENTO. 
+2.4 Sera aceita uma Unica proposta por proponente. Na hipétese de envio de uma segunda proposta 
+pelo mesmo proponente, respeitando-se o prazo limite estipulado para submissao das propostas, esta 
+sera considerada substituta da anterior, sendo considerada para analise apenas a ultima proposta 
+recebida. 
+2.5 Em 
+se constatando propostas 
+idénticas, 
+ainda que 
+de proponentes 
+distintos, todas serao 
+desclassificadas. 
+3. ADMISSAO, ANALISE E JULGAMENTO 
+A selec&o das propostas submetidas em atendimento a este Edital sera realizada por intermédio de 
+analises e avaliagdes comparativas. Para tanto, sao estabelecidas as seguintes etapas: 
+3.1 Etapa 
+I - Andalise pela Area Técnica 
+oO 
+Fundacao Cearense de Apoio ao Desenvolvimento Cientifico e Tecnolégico 
+2 
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862 
+Tel: (85)3275-9115/3275-2901/3101-2170 
+Pagina Eletrénica: www.funcap.ce.gov.br
+ po 
+4 
+> 
+4 
+7 
+ge 
+ST 
+GOVERNO Do 
+| 
+Esrapo po CEARA 
+Secretaria da Ciencia, Tecnologia 
+PuNrear 
+GOVERNO DO ESTADO DO CEARA 
+«Bare Sp 
+SECRETARIA DA CIENCIA E TECNOLOGIA E EDUCACAO SUPERIOR 
+Fundacao Cearense de Apoio ao Desenvolvimento Cientifico e Tecnolégico 
+Procuradoria Juridica 
+  
+  
+Esta etapa, 
+a 
+ser 
+realizada 
+pela 4rea técnica da Funcap, 
+consiste 
+na analise 
+das propostas 
+apresentadas quanto ao atendimento dos CRITERIOS DE ELEGIBILIDADE, estabelecidos no item 2 
+do REGULAMENTO/CONDICOES ESPECIFICAS, 
+e efetuada 
+a andlise quanto 
+4 adequagao da 
+proposta ao presente 
+Edital. Todas 
+as propostas analisadas 
+e selecionadas nesta etapa serao 
+avaliadas por Consultores ad hoc e por um Comité Julgador. 
+3.2 Etapa Il - Analise por Especialistas 
+Esta etapa consistira na andlise aprofundada da demanda, quanto 
+ao mérito 
+e relevancia das 
+propostas, a ser realizada por especialistas que se manifestarao sobre os topicos relacionados no 
+item 3 — CRITERIOS PARA JULGAMENTO do REGULAMENTO. 
+3.3 Etapa lil - Analise, Julgamento e Classificagao por Comité Julgador 
+3.3.1 As propostas serado avaliadas e classificadas nesta etapa, considerando as analises das etapas 
+anteriores e os CRITERIOS PARA JULGAMENTO indicados no item 3 do REGULAMENTO. 
+3.3.2 A pontuacdo final de cada projeto sera aferida conforme estabelecido no item 3 — CRITERIOS 
+PARA JULGAMENTO, do REGULAMENTO. 
+3.3.3 Apds a analise de mérito e relevancia de cada proposta e da adequagao de seu orcamento, o 
+Comité Julgador, dentro dos limites orgamentarios, podera recomendar: 
+a) 
+aprovacgdo, com ou sem cortes orgamentarios; ou 
+b) 
+nao aprovacgao. 
+3.3.4 O Comité Julgador devera produzir, para cada proposta, uma avaliagao global da proposta, com 
+énfase no mérito cientifico da mesma, que contenha elementos que fundamente o parecer final. 
+3.3.5 Nao € permitido integrar o Comité Julgador 0 pesquisador que tenha apresentado propostas a 
+este Edital ou que participe da equipe do projeto. 
+3.3.6 E vedado a qualquer membro do Comité Julgador avaliar propostas de projetos em que: 
+a) 
+haja interesse direto ou indireto seu; 
+4G 
+Fundacdo Cearense de Apoio ao Desenvolvimento Cientifico e Tecnoldégico 
+3 
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862 
+Tel: (85)3275-9115/3275-2901/3101-2170 
+Pagina Eletr6nica: www.funcap.ce.gov.br
+ sae 
+q 
+» 
+4 
+} 
+Se 
+a 
+GOVERNO Do 
+| 
+Estapo po CEARA 
+Seeretoria da Ciencia, Tecnologia 
+pure ar 
+GOVERNO DO ESTADO DO CEARA 
+itt 
+SECRETARIA DA CIENCIA E TECNOLOGIA E EDUCAGAO SUPERIOR 
+Fundacdo Cearense de Apoio ao Desenvolvimento Cientifico e Tecnolégico 
+Procuradoria Juridica 
+  
+  
+b) 
+esteja participando da equipe do projeto seu c6njuge, companheiro ou parente, consanguineo 
+ou afim, em linha reta ou na colateral, até o terceiro grau; ou 
+c) 
+esteja litigando judicial ou administrativamente com qualquer membro da equipe do projeto ou 
+seus respectivos cénjuges ou companheiros. 
+3.4 Etapa IV - Aprovacao pelo Conselho Executivo da Funcap 
+Todas as propostas recomendadas pelo Comité Julgador seraéo submetidas ao Conselho Executivo da 
+Funcap, que emitira a decisAo final sobre sua aprovagado, observados os seus limites orgamentarios 
+para este Edital. 
+3.5 Etapa V - Conciliagao de Resultados 
+Essa etapa consiste na andlise das propostas recomendadas independentemente por todos os 
+6rgdos financiadores envolvidos (FAPs coparticipes, INRIA e INS2i-CNRS). Apenas as propostas 
+recomendadas simultaneamente pelas FAPs coparticipes envolvidas e pelo instituto de afiliagao do 
+parceiro francés (INRIA ou INS2i-CNRS) serdo financiadas, respeitada a classificagao das propostas 
+produzida na Etapa Ill e os recursos financeiros destinados a este Edital. 
+4. RESULTADO DO JULGAMENTO 
+4.1 A relacdo das propostas aprovadas sera divulgada na pagina www.funcap.ce.gov.br. 
+4.2 Todos os proponentes do presente Edital tomarao conhecimento do parecer sobre sua proposta 
+por intermédio de correspondéncia eletr6nica, preservada a identificagao dos pareceristas. 
+5. DOS RECURSOS ADMINISTRATIVOS 
+5.1 Caso 0 proponente tenha justificativa para contestar o resultado do julgamento das propostas, 
+podera apresentar recurso, no prazo de até 10 (dez) dias Uteis, a contar da data de recepcao do 
+parecer negativo, em uma das duas seguintes formas: 
+a) 
+enviar o recurso pelo correio comum, obrigatoriamente em correspondéncia registrada com 
+aviso de recebimento (AR); ou 
+b) 
+fazer protocolar o recurso na sede da Funcap. 
+Fundacgao Cearense de Apoio ao Desenvolvimento Cientifico e Tecnoldgico 
+4 
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862 
+Tel: (85)3275-9115/3275-2901/3101-2170 
+Pagina Eletr6nica: www.funcap.ce.gov.br
+   
+a 
+GOVERNO Do 
+| 
+EstTapo po CEARA 
+Secretaria da Ciénciu, Tecnologia 
+Fuuecar 
+GOVERNO DO ESTADO DO CEARA 
+‘so 
+SECRETARIA DA CIENCIA E TECNOLOGIA E EDUCAGAO SUPERIOR 
+Fundagao Cearense de Apoio ao Desenvolvimento Cientifico e Tecnolégico 
+Procuradoria Juridica 
+  
+5.2 O recurso ou pedido de reconsideracdo devera estritamente contrapor 0 motivo do indeferimento, 
+nao incluindo fatos novos, que ndo tenham sido objeto de andlise de mérito e relevancia anterior, 
+além de ser dirigido A Diretoria Cientifica da Funcap que, apds exame, encaminhara para deliberagao 
+final do Conselho Executivo da Funcap, ouvido o instituto de afiliagao da equipe francesa (INRIA ou 
+INS2i-CNRS), bem como as FAPs coparticipes envolvidas na proposta em questao. 
+5.3 Na contagem do prazo excluir-se-a 0 dia do inicio e incluir-se-4 0 do vencimento, e considerar-se- 
+4o os dias consecutivos. O prazo sé se inicia e vence em dias de expediente na Funcap. 
+5.4 O resultado sobre a reconsideracao sera definitivo, nado cabendo qualquer outro recurso. 
+6. DA CONTRATAGAO DAS PROPOSTAS APROVADAS 
+6.1 As propostas aprovadas serao contratadas na modalidade de Auxilio Individual, em nome do 
+Coordenador/Proponente, mediante assinatura de Termo de Concessdao 
+e Aceitagao de Auxilio 
+a 
+Projeto de Pesquisa. 
+6.2 A existéncia de alguma inadimpléncia do proponente com a Administragao Publica Federal ou 
+Estadual, 
+direta ou indireta, ou com 
+a Funcap, constituira fator impeditivo para a contratagao do 
+projeto. 
+7. CANCELAMENTO DA CONCESSAO 
+7.1 A concessao do apoio financeiro podera ser cancelada pelo Conselho Executivo da Funcap, por 
+ocorréncia, durante sua implementacdo, 
+de fato cuja gravidade justifique 
+0 cancelamento, sem 
+prejuizo de outras providéncias cabiveis em decisao devidamente fundamentada. 
+8. PUBLICAGOES 
+8.1 As publicagées cientificas e qualquer outro meio de divulgagao de trabalho de pesquisa, apoiados 
+pelo presente Edital, deverao citar, obrigatoriamente, 0 apoio das entidades/6rgaos financiadores. 
+GF 
+Fundacdo Cearense de Apoio ao Desenvolvimento Cientifico e Tecnolégico 
+5 
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862 
+Tei: (85)3275-9115/3275-2901/3101-2170 
+Pagina Eletrénica: www.funcap.ce.gov.br 
+9. IMPUGNAGAO DO EDITAL
+ sae 
+~~ 
+i 
+a 
+GOVERNO Do 
+EstTADO no CEARA 
+Secretaria da Ciencia, Tecnologia 
+FUN CAP 
+GOVERNO DO ESTADO DO CEARA 
+ta 
+SECRETARIA DA CIENCIA E TECNOLOGIA E EDUCAGAO SUPERIOR 
+Fundagao Cearense de Apoio ao Desenvolvimento Cientifico e Tecnolégico 
+Procuradoria Juridica 
+  
+  
+9.1 Decaira do direito de impugnar os termos deste Edital o proponente que nao o 
+fizer até o segundo 
+dia util anterior ao prazo final estabelecido para recebimento das propostas. Ademais, nao tera efeito 
+de recurso 
+a impugnacdo feita por aquele que, em 
+o tendo aceito sem objegao, venha apontar, 
+posteriormente ao julgamento, eventuais falhas ou imperfeicées. 
+9.2 A impugnacao devera ser dirigida a Diretoria Cientifica da Funcap, por correspondéncia eletrénica, 
+para o endereco: direc@funcap.ce.gov.br. 
+10. REVOGACAO OU ANULAGAO DO EDITAL 
+10.1 A qualquer tempo, o presente Edital podera ser revogado ou anulado, no todo ou em parte, seja 
+por decisdo unilateral do Conselho Executivo da Funcap, seja por motivo de interesse publico ou 
+exigéncia 
+legal, 
+em 
+decis&o fundamentada, 
+sem 
+que 
+isso 
+implique 
+direitos 
+a indenizagao 
+ou 
+reclamacao de qualquer natureza. 
+11. PERMISSOES E AUTORIZAGOES ESPECIAIS 
+11.1 E de exclusiva responsabilidade de cada proponente adotar todas as providéncias que envolvam 
+permissGes 
+e autorizagées especiais de carater ético ou 
+legal, necessariaS para a execucdo do 
+projeto. 
+11.2 Coordenadores brasileiros 
+de projetos 
+de pesquisa, relacionados 
+a biodiversidade, devem 
+observar a legislacdo em vigor (MP n.° 2.186, Decreto n.° 3.945/01, Decreto n.° 98.830/90, Portaria 
+MCT n.° 55/90 e Decreto n.° 4.946/03) para autorizagdes de acesso, coleta e remessa de amostras e 
+concessao de vistos de entrada no Pais aos estrangeiros participantes do projeto. 
+12. DAS DISPOSICOES GERAIS 
+12.1 Durante a fase de execucdo do projeto, toda e qualquer comunicagao com a Funcap devera ser 
+feita 
+por 
+meio 
+de 
+ correspondéncia 
+eletrénica 
+a 
+_Diretoria 
+Cientifica 
+da 
+Funcap 
+(direc@funcap.ce.gov.br). 
+12.2 Qualquer alteracdo 
+relativa a execugdo do projeto devera ser solicitada a Funcap 
+por seu 
+coordenador, acompanhada da devida justificativa, devendo a mesma ser autorizada antes de sua 
+efetivagao. 
+Fundacdo Cearense de Apoio ao Desenvolvimento Cientifico e Tecnolégico 
+6 
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862 
+Tel: (85)3275-9115/3275-2901/3101-2170 
+Pagina Eletr6nica: www.funcap.ce.gov.br
+ Se 
+M 
+s 
+4 
+p 
+GOVERNO po 
+| 
+' 
+Estapo po CEARA 
+Seeretaria da Citncia, Tecnutogia 
+fuueat 
+GOVERNO DO ESTADO DO CEARA 
+“tat 
+SECRETARIA DA CIENCIA E TECNOLOGIA E EDUCACAO SUPERIOR 
+Fundacdo Cearense de Apoio ao Desenvolvimento Cientifico e Tecnolégico 
+Procuradoria Juridica 
+  
+  
+12.3 Ao final da vigéncia, 
+0 proponente devera apresentar a prestagao de contas financeira e 
+o 
+relatorio técnico, em conformidade com 
+o estabelecido no Termo de Concessao 
+e Aceitagao de 
+Auxilio 4 Projeto de Pesquisa e demais normas da Funcap. 
+12.4 O projeto sera avaliado em todas as suas fases, nos termos definidos no Termo de Concessao e 
+Aceitagao de Auxilio a Projeto de Pesquisa. 
+12.5 A Funcap reserva-se 0 direito de, durante a execucgdo do projeto, promover visitas técnicas ou 
+solicitar informagées adicionais, visando aperfeigoar o sistema de Avaliagao e Acompanhamento. 
+12.6 As informacdes geradas com a implementagao das propostas selecionadas e disponibilizadas na 
+base de dados da Funcap serao de dominio publico. 
+12.7 Nos casos em que os resultados do projeto ou 
+o relatério em 
+si tenham valor comercial ou 
+possam levar ao desenvolvimento de um produto ou método envolvendo o estabelecimento de uma 
+patente, a troca de informagées e a reserva dos direitos, em cada caso, dar-se-ao de acordo com 0 
+estabelecido 
+na 
+Lei de Inovagdo 
+n.° 10.973, 
+de 02 de dezembro 
+de 2004, reguiamentada pelo 
+Decreto n.° 5.563, de 11 de outubro de 2005, as demais disposigées legais vigentes, bem com o que 
+est estabelecido no Acordo de Cooperacao firmado entre a Funcap e o instituto de afiliagao do 
+parceiro francés do projeto (INRIA ou CNRS), que deve constituir um documento anexo ao Termo de 
+Concessao e Aceitacdo de Auxilio a Projeto de Pesquisa 
+12.8 O presente Edital regula-se pelos preceitos de direito publico e, em especial, pelas disposigées 
+da Lei n.° 8.666, de 21 de junho de 1993 e, no que couber, pelas normas internas da Funcap. 
+13. DOS ESCLARECIMENTOS E DAS INFORMAGOES ADICIONAIS ACERCA DO CONTEUDO 
+DO EDITAL E PREENCHIMENTO DO FORMULARIO DE PROPOSTA ONLINE 
+Os 
+esclarecimentos 
+e 
+informacdes 
+adicionais 
+acerca 
+do 
+conteddo 
+deste 
+Edital 
+e 
+sobre 
+o 
+preenchimento do Formulario de Proposta online poderao ser obtidos por intermédio do enderego 
+Ss 
+eletr6nico e telefones indicados em item especifico do Anexo REGULAMENTO. 
+14, CLAUSULA DE RESERVA 
+Fundacdo Cearense de Apoio ao Desenvolvimento Cientifico e Tecnoldgico 
+7 
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862 
+Tel: (85)3275-9115/3275-2901/3101-2170 
+Pagina Eletrénica: www.funcap.ce.gov.br
+ ps 
+- 
+Es Se 
+GOVERNO po 
+EsTADO po CEARA 
+Secretaria da Citncia, Tecnologia 
+caesar 
+GOVERNO DO ESTADO DO CEARA 
+_ 
+“ie 
+SECRETARIA DA CIENCIA E TECNOLOGIA E EDUCACAO SUPERIOR 
+Fundacao Cearense de Apoio ao Desenvolvimento Cientifico e Tecnolégico 
+Procuradoria Juridica 
+  
+  
+O Conselho Executivo da Funcap reserva-se 0 direito de resolver os casos omissos e as situagdes 
+nao previstas no presente Edital. 
+Fortaleza, 26 de julho de 2016. 
+Tarcisio Haroldo Cavalcante Pequeno 
+Presidente da Funcap 
+  
+Fundacdo Cearense de Apoio ao Desenvolvimento Cientifico e Tecnoldgico 
+8 
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862 
+Tel: (85)3275-9115/3275-2901/3101-2170 
+Pagina Eletrénica: www.funcap.ce.gov.br
+   
+po 
+7! 
+4 
+‘ 
+& * 
+GOVERNO po 
+_ 
+EstADO po CEARA 
+Secretaria da Cidncia, Tecnologia 
+evior 
+renpear 
+GOVERNO DO ESTADO DO CEARA 
+ta ie 
+SECRETARIA DA CIENCIA E TECNOLOGIA E EDUCAGAO SUPERIOR 
+Fundagao Cearense de Apoio ao Desenvolvimento Cientifico e Tecnolégico 
+Procuradoria Juridica 
+  
+  
+COOPERAGAO INTERNACIONAL FUNCAPIFAPsSI/INRIAIINS2i-CNRS 
+EDITAL 03/2016 
+REGULAMENTO 
+CONDICOES ESPECIFICAS 
+O 
+presente 
+REGULAMENTO 
+tem 
+por 
+finalidade 
+definir 
+as 
+atividades 
+a 
+serem 
+apoiadas 
+financeiramente e as condigdes para implementagdo do apoio, mediante a selegao, por edital, de 
+propostas para execucdo de projetos, em conformidade com 
+o acordo de cooperacgao cientifica e 
+tecnolégica firmado entre a Funcap e o INRIA, e entre a Funcap e o CNRS. 
+1. DAS DISPOSIGOES ESPECIFICAS 
+  
+OBJETO 
+x 
+Selecdo 
+publica 
+de 
+propostas 
+para 
+apoio 
+a execugao 
+de 
+projetos 
+conjuntos 
+de 
+Pesquisa, 
+Desenvolvimento 
+e 
+Inovacéo 
+(P&D&l) 
+na 
+area 
+das 
+ciéncias 
+e 
+tecnologias 
+da 
+informagao 
+e 
+comunicacao 
+(TIC), 
+no ambito 
+dos Acordos 
+Bilaterais 
+de cooperagao 
+cientifica 
+e tecnologica 
+internacional firmados entre o INRIA e o CNRS com as FAPs coparticipes. 
+As areas de pesquisa em TIC de interesse deste Edital, incluem, em particular, 
+o tratamento da 
+informagao; a comunicagdo e o armazenamento da informagao; o tratamento de sinais, dos dados e 
+dos conhecimentos; 
+a modelagem 
+e 
+a simulagao; 
+as tecnologias 
+de hardware 
+e software, 
+a 
+concepcao, a verificagdo e a otimizagao de componentes de software; a concepcdo, 0 comando e o 
+  
+controle de sistemas complexos; e as interfaces homem-maquina. 
+  
+1.1 Do objetivo 
+Este 
+Edital 
+tem 
+por 
+objetivo 
+apoiar, 
+de 
+forma complementar, 
+0 
+desenvolvimento 
+de projetos 
+conjuntos de pesquisas cientificas, tecnolégicas e de inovagao, de grande impacto, por meio do 
+financiamento a atividades de cooperacdo entre pesquisadores vinculados a 
+instituigdes sediadas no 
+Estado 
+do 
+Ceara 
+e 
+pesquisadores 
+dos 
+estados 
+que 
+aderiram 
+a 
+presente 
+chamada, 
+com 
+pesquisadores do INRIA ou do INS2i-CNRS no ambito dos acordos de cooperagao firmados entre o 
+INRIA e a Funcap, e entre o CNRS e a Funcap, respectivamente. O apoio permitira o fortalecimento e 
+evolucao institucional das cooperagées ja iniciadas pela formagao de equipes associadas 
+e 
+a 
+Fundagdo Cearense de Apoio ao Desenvolvimento Cientifico e Tecnoldégico 
+9 
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862 
+Tel: (85)3275-9115/3275-2901/3101-2170 
+Pagina Eletrénica: www.funcap.ce.gov.br
+   
+  
+EsTADO po CEARA 
+Secretaria da Citncia, Tecnologia 
+¢ Educacda Superior 
+peeear 
+GOVERNO DO ESTADO DO CEARA 
+SECRETARIA DA CIENCIA E TECNOLOGIA E EDUCAGAO SUPERIOR 
+Fundacao Cearense de Apoio ao Desenvolvimento Cientifico e Tecnolégico 
+Procuradoria Juridica 
+a 
+indugdo de novas cooperagées franco-brasileiras pela formagao de equipes orbitais, através da 
+execucdo de um projeto comum de grande impacto nos temas objeto deste Edital. 
+1.2 DAS DEFINICOES 
+1.2.1 Para os fins deste edital, sdo adotadas as seguintes definicées: 
+a) 
+Estados coparticipes: estados que aderiram a chamada conjunta FAPs/INRIA/INS2i-CNRS. 
+Os 6rgaos financiadores de cada estado, ou seja, as Fundagdes de Amparo a Pesquisa de 
+cada estado sao denominadas FAPs coparticipes; 
+b) 
+Projeto conjunto: 
+projeto com 
+objeto comum 
+de pesquisa bem delineado, de grande 
+impacto, relevante, com objetivos e metas precisamente definidos, em que a composicao da 
+equipe franco-brasileira seja complementar na execugao do mesmo; 
+c) 
+Equipe Francesa: 
+: pesquisadores do INRIA ou pesquisadores do INS2i-CNRS; 
+d) 
+Equipe Brasileira 
+Principal: pesquisadores vinculados 
+a instituigdes sediadas em 
+um 
+Estado da federacdo, cujo histérico de colaboragaéo com 
+a equipe francesa demonstre 
+a 
+complementariedade de ambas na execugao do projeto conjunto. Essa equipe sera a equipe 
+associada a equipe francesa, podendo a ela se agregar uma ou mais equipes orbitais, do 
+mesmo Estado ou de outras unidades da Federagdo cujas FAPs sejam coparticipes a esta 
+Chamada; 
+e) 
+Equipe Brasileira Orbital: pesquisadores de um estado cuja FAP seja coparticipe e que seja 
+capaz de comprovar potencial de colaboragdo com a equipe principal brasileira e a equipe 
+francesa na execucao do projeto conjunto; 
+f) 
+Proposta 
+de 
+criagio 
+de 
+equipe 
+associada: 
+projeto 
+conjunto 
+a 
+ser 
+submetido 
+simultaneamente pelo coordenador da equipe principal brasileira, 
+a esta Chamada e pelo 
+Coordenador da equipe francesa, A Chamada lancada pelo INRIA ou a Chamada langada 
+pelo INS2i-CNRS, com demonstracdo clara da complementariedade das especialidades dos 
+pesquisadores brasileiros e franceses na execugdo do mesmo. Caso exista a participagao de 
+equipes orbitais de estados coparticipes na proposta, o coordenador de cada equipe orbital 
+deve submeter a mesma proposta A Chamada langada pela respectiva FAP coparticipe. 
+1.3 Proponente 
+1.3.1 Poderdo apresentar propostas pesquisadores que tenham vinculo empregaticio/funcional com 
+instituigdes de ensino superior (IES), centros e institutos de pesquisa e desenvolvimento publicos e 
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862 
+Tel: (85)3275-9115/3275-2901/3101-2170 
+Pagina Eletrénica: www.funcap.ce.gov.br 
+Fundacdo Cearense de Apoio ao Desenvolvimento Cientifico e Tecnolégico 
+10 
+OG
+   
+  
+Estapo vo CEARA 
+Secretarlu da Cidncia, Tecnologia 
+¢ Educacdo Superior 
+Pun 
+ecArP 
+GOVERNO DO ESTADO DO CEARA 
+SECRETARIA DA CIENCIA E TECNOLOGIA E EDUCAGAO SUPERIOR 
+Fundacgado Cearense de Apoio ao Desenvolvimento Cientifico e Tecnoldégico 
+Procuradoria Juridica 
+  
+privados, constituidos sob as leis brasileiras, e que tenham sua sede e administragao no estado do 
+Ceara, todos sem fins lucrativos, doravante denominados ‘instituig&o executora local”. 
+1.3.1.1 Os pesquisadores, grupos de pesquisa e especialistas vinculados ao INRIA ou ao INS2i- 
+CNRS devem apresentar proposta correspondente ao INRIA ou ao INS2i-CNRS, respectivamente, 
+nos prazos, meios e formas determinados pelos mesmos. 
+1.3.1.2 Os pesquisadores, grupos de pesquisa e especialistas vinculados a instituigd6es sediadas nos 
+estados coparticipes devem apresentar proposta correspondentes nas FAPs coparticipes de seus 
+respectivos estados. 
+1.3.2 O proponente sera, necessariamente, o pesquisador coordenador do projeto. 
+1.3.3 Ao apresentar a proposta, o proponente assume o compromisso de manter, durante a execugao 
+do projeto, todas as condigédes de qualificagao, habilitagao 
+e idoneidade necessarias ao perfeito 
+cumprimento do seu objeto, preservando atualizados os seus dados cadastrais junto aos registros 
+competentes. 
+1.3.4 Cada proposta incluira necessariamente uma Equipe Brasileira Principal, sendo opcional 
+a 
+participagao de uma ou varias Equipes Brasileiras Orbitais. 
+1.4 Cronograma 
+   
+  
+   
+  
+  
+2 
+29 de julho de 2016 
+oe 
+Lancamento do Edital na pagina eletr6nica da Funcap 
+  
+Postagem 
+do 
+Formuldrio 
+Eletrénico 
+para submissao 
+de 
+08 de agosto de 2016 
+proposta na pagina da Funcap 
+Data limite para submissao das propostas 
+30 de setembro de 2016 até as 17h00 
+  
+  
+Divulgacdo dos resultados na pagina eletr6nicada Funcap 
+ja partir de janeiro de 2017 
+  
+  
+  
+  Inicio da contratagdo dos projetos aprovados 
+a partir de fevereiro de 2017 
+  
+1.4.1 As datas e os procedimentos de submissao de propostas pelos parceiros franceses ao INRIA e 
+ao INS2i-CNRS, bem como aos estados que aderiram a presente chamada poderao ser consultados 
+na pagina do INRIA, na pagina do INS2i-CNRS e nas paginas da FAPs coparticipes, respectivamente. 
+Fundagdo Cearense de Apoio ao Desenvolvimento Cientifico e Tecnolégico 
+il 
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862 
+Tel: (85)3275-9115/3275-2901/3101-2170 
+Pagina Eletrénica: www.funcap.ce.gov.br
+   
+A 
+4 
+~ 
+GOVERNO po 
+EsTApo po CEARA 
+Secretaria da Cidneia, Tecnulogia 
+¢ Educacdo Superior 
+  
+fureat 
+GOVERNO DO ESTADO DO CEARA 
+SECRETARIA DA CIENCIA E TECNOLOGIA E EDUCACAO SUPERIOR 
+Fundacao Cearense de Apoio ao Desenvolvimento Cientifico e Tecnoldgico 
+Procuradoria Juridica 
+  
+1.5 Recursos financeiros 
+1.5.1 O valor global maximo a ser despendido pela Funcap nas propostas aprovadas esta estimado 
+em R$ 240.000,00 (duzentos e quarenta mil reais), a serem liberados em até duas parcelas, de 
+acordo com a sua disponibilidade orgamentaria e financeira. 
+1.5.2 O financiamento da Funcap para cada projeto tera o valor maximo de: 
+a) 
+até R$ 100.000,00 (cem mil reais) por projeto, no caso de Equipe Principal, sem agregagao 
+de equipe orbital; 
+b) 
+até R$ 120.000,00 (cento e vinte mil reais) por projeto, no caso de Equipe Principal com 
+agregagao de equipe orbital; 
+c) 
+até R$ 40.000,00 (quarenta mil reais) por projeto, no caso de Equipe Orbital. 
+1.6 Itens financiaveis 
+1.6.1 Serdo financiados, pela Funcap os seguintes itens: 
+a) 
+Passagens aéreas e 
+terrestres internacionais para participantes da Equipe Brasileira 
+para a Franga: na classe econdémica, no valor maximo de R$ 6.500,00 (seis mil e quinhentos 
+reais) cada, incluindo os deslocamentos internos na Franga, se houverem; 
+b) 
+Passagens 
+aéreas 
+nacionais 
+para 
+participantes 
+de 
+Equipe 
+Brasileira: 
+na 
+classe 
+econémica para visitas entre as equipes principais e orbitais, se for 0 caso; 
+c) 
+Diarias para participantes da Equipe Brasileira na Franga: até 80 didrias internacionais, 
+tendo cada missao duragaéo maxima de 20 dias; 
+d) 
+Diarias para participantes de Equipe Brasileira no Brasil: até 80 didrias nacionais para 
+visitas entre as equipes principais e orbitais, se for 0 caso, 
+e) 
+Seguro satide no valor de até R$ 250,00 (duzentos e cinquenta reais), obrigatério para os 
+brasileiros em missAo no exterior, podendo porém ser pago por outras fontes; 
+f) 
+Bolsas para Estagios de p6s-graduandos na Equipe Francesa: até 02 estagios de 03 
+meses cada, compreendendo 03 mensalidades de R$ 2.000,00 
+e R$ 2.500,00 (pagas no 
+Brasil), para alunos de mestrado e doutorado, respectivamente, passagens e ida e volta em 
+Fundag&o Cearense de Apoio ao Desenvolvimento Cientifico e Tecnolégico 
+12 
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862 
+Tel: (85)3275-9115/3275-2901/3101-2170 
+Pagina Eletronica: www.funcap.ce.gov.br
+     
+Y 
+GOVERNO po 
+Estapo po CEARA 
+Secretaria da Ciencia, Tecnutogia 
+uperior 
+puseat 
+GOVERNO DO ESTADO DO CEARA 
+“isi 
+SECRETARIA DA CIENCIA E TECNOLOGIA E EDUCAGAO SUPERIOR 
+Fundacao Cearense de Apoio ao Desenvolvimento Cientifico e Tecnoldégico 
+Procuradoria Juridica 
+Se 
+  
+  
+classe econémica, de até no maximo R$ 6.500,00 (seis mil 
+e quinhentos reais) 
+e seguro 
+satide no valor de até R$ 1.000,00 (mil reais); 
+g) 
+Realizag&o 
+de 
+oficinas 
+de 
+trabalhos com 
+as equipes 
+(eventos): 
+a serem 
+usados 
+exclusivamente com as despesas permitidas na Instrugéo Normativa 03/2010 da Funcap, que 
+rege o apoio a realizagao de eventos cientificos. 
+1.7 Itens financidveis pelo INRIA e pelo INS2i-CNRS: 
+1.7.1 O INRIA e 0 INS2i-CNRS, em parceria com a Embaixada Francesa no Brasil, financiaraéo os 
+seguintes itens, a titulo de contrapartida: 
+a) 
+Passagens aéreas Franga-Brasil-Franga para integrantes da equipe francesa em visita a 
+Equipe Brasileira Principal; 
+b) 
+Didrias para integrantes da equipe francesa 
+no 
+Brasil em 
+visita 
+a Equipe 
+Brasileira 
+Principal; 
+c) 
+Realizacdo de oficinas de trabalhos com as equipes (eventos); 
+d) 
+Passagens aéreas Franca-Brasil-Franga para integrantes da equipe francesa em visita as 
+Equipes Brasileiras Orbitais (uma passagem por ano para cada equipe orbital); 
+e) 
+Didrias para integrantes da equipe francesa no Brasil em visita as Equipes Brasileiras 
+Orbitais (até 15 didrias por ano para cada equipe orbital); 
+f) 
+Complementacdo da bolsa para estagio de pés-graduandos brasileiros na Franga. 
+1.8 Prazo de execucao dos projetos 
+As propostas a serem apoiadas pelo presente Edital deverao ter 0 prazo maximo de execugao de 36 
+(trinta e seis) meses. 
+1.9 Documentagado complementar 
+1.9.1 O coordenador devera obter e manter em seu poder: 
+a) 
+Termo de Compromisso de todas as instituigdes participantes: executoras e colaboradoras, 
+nacionais e estrangeiras, quanto a disponibilidade de infraestrutura adequada e cobertura de 
+ee 
+Fundacdo Cearense de Apoio ao Desenvolvimento Cientifico e Tecnolégico 
+13 
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862 
+Tel: (85)3275-9115/3275-2901/3101-2170 
+Pagina Eletrénica: www.funcap.ce.gov.br 
+gastos nado previstos neste Edital, necessarios a execugao do projeto;
+ Sek 
+~~ 
+cy 
+J 
+~ 
+_ GOVERNO Do 
+Estapo po CEARA 
+Secreturia da Citncia, Tecnologia 
+¢ Educagaa Superior 
+  
+fewear 
+GOVERNO DO ESTADO DO CEARA 
+SECRETARIA DA CIENCIA E TECNOLOGIA E EDUCAGAO SUPERIOR 
+Fundagao Cearense de Apoio ao Desenvolvimento Cientifico e Tecnolégico 
+Procuradoria Juridica 
+b) 
+Termo de Compromisso de cada participante nacional e estrangeiro envolvido na cooperagao 
+internacional, atestando conhecimento das atividades que lhes sAo atribuidas no projeto. 
+1.9.2 Esta documentacdo podera ser solicitada pela Funcap a qualquer momento, em especial na 
+fase de avaliacao e acompanhamento do projeto. 
+2. CRITERIOS DE ELEGIBILIDADE (REQUISITOS OBRIGATORIOS 
+E CARACTERISTICAS DA 
+PROPOSTA) 
+Os 
+critérios 
+de elegibilidade indicados abaixo sao obrigatérios. 
+O atendimento aos mesmos 
+e 
+considerado imprescindivel para 
+0 exame, enquadramento, 
+andalise 
+e julgamento da proposta. A 
+auséncia ou insuficiéncia de informagées sobre quaisquer deles resultara na desclassificagao da 
+proposta. 
+Conforme 
+previsto 
+nos subitens 1.3.1.1 
+e 
+1.3.1.2, sera eliminada 
+a proposta cujo Coordenador 
+estrangeiro 
+ou 
+Coordenador 
+em 
+outro 
+estado 
+coparticipe 
+nao 
+tenha 
+submetido 
+proposta 
+correspondente ao INRIA ou ao INS2i-CNRS e/ou FAP coparticipe. 
+2.1 Quanto ao proponente e a equipe de apoio 
+2.1.1 O proponente deve atender aos itens a seguir: 
+a) 
+Ser brasileiro ou estrangeiro com visto permanente, residente no Brasil; 
+b) 
+Possuir 0 titulo de doutor e experiéncia em projetos de cooperagao internacional e/ou alta 
+qualificagéo atestada pela sua producao cientifica e experiéncia de formagao de recursos 
+humanos no tema do projeto; 
+c) 
+ter vinculo empregaticio/funcional com a instituigdo de execugao do projeto, constituida sob 
+as leis brasileiras e que tenha sua sede e administragao no estado do Ceara, e seja sem fins 
+lucrativos; 
+d) 
+ter produgao cientifica e tecnolégica relevante, nos Ultimos cinco anos, na area especifica do 
+projeto de pesquisa; 
+e) 
+ser, obrigatoriamente, o coordenador do projeto. 
+2.1.2 Deve a equipe brasileira: 
+G 
+Fundag&o Cearense de Apoio ao Desenvolvimento Cientifico e Tecnolégico 
+14 
+AV, Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862 
+Tel: (85)3275-9115/3275-2901/3101-2170 
+Pagina Eletrénica: www.funcap.ce.gov.br
+   
+_ GOVERNO do 
+FsTapo po CEARA 
+Seerstaria da Citncia, Tecnologia 
+PUN EAP 
+GOVERNO DO ESTADO DO CEARA 
+(Ete 
+pr 
+SECRETARIA DA CIENCIA E TECNOLOGIA E EDUCAGAO SUPERIOR 
+Fundacao Cearense de Apoio ao Desenvolvimento Cientifico e Tecnolégico 
+Procuradoria Juridica 
+  
+b) 
+ser constitufida 
+por pesquisadores 
+e especialistas 
+brasileiros 
+ou 
+estrangeiros, com 
+visto 
+permanente e residentes no Brasil; 
+somente deverdo ser incluidos na equipe do projeto, aqueles que tenham prestado anuéncia 
+formal escrita. 
+2.1.3 O proponente nao podera coordenar mais de uma proposta neste Edital. 
+2.2 Quanto a proposta 
+2.2.1 O projeto deve estar claramente caracterizado como pesquisa cientifica, tecnologica ou de 
+inovagao. 
+2.2.2 A proposta devera 
+ser redigida em 
+lingua inglesa 
+e 
+estar de acordo com o 
+roteiro 
+do 
+“Detalhamento do Projeto”. 
+2.2.3 Ser necessariamente apresentada 4 Funcap pelo Coordenador local, as FAPs coparticipes 
+pelos coordenadores 
+em 
+outros 
+estados 
+coparticipes 
+e 
+ao 
+INRIA 
+ou 
+ao 
+INS2i-CNRS._ 
+pelo(s) 
+Coordenador(es) estrangeiro(s), de acordo com as regras e prazos definidos por cada lado. 
+2.2.4 As propostas deverdo ser apresentadas na forma de projeto de pesquisa. Recomenda-se que 0 
+mesmo contenha as seguintes informagées, de modo a permitir sua adequada avaliacgao: 
+a) 
+b) 
+c) 
+d) 
+e) 
+f) 
+g) 
+h) 
+i) 
+i) 
+k) 
+I) 
+identificacao da proposta; 
+identificagdo da afiliagao da equipe francesa (se do INRIA ou do INS2i-CNRS); 
+identificagdo do tipo da equipe que submete o projeto (se orbital ou principal); 
+resumo estendido em portugués para fins de publicagao; 
+relevancia do tema; 
+estado-da-arte; 
+justificativa para a cooperacao internacional e para a cooperagao nacional, 
+objetivos: geral e especificos; 
+metodologia; 
+plano de trabalho; 
+interagdo e qualificagéo das parcerias; 
+infraestrutura disponivel para realizagao do projeto conjunto; 
+JF 
+Fundacao Cearense de Apoio ao Desenvolvimento Cientifico e Tecnolégico 
+15 
+Av. Oliveira Paiva, 941, Fortaleza/CE 
+- Fax - 3275-7862 
+Tel: (85)3275-9115/3275-2901/3101-2170 
+Pagina Eletr6nica: www.funcap.ce.gov.br
+   
+  
+; 
+Estapo no CEARA 
+Secretaria da Citncia, Tecnologia 
+fewear 
+GOVERNO DO ESTADO DO CEARA 
+‘abc 
+SECRETARIA DA CIENCIA E TECNOLOGIA E EDUCAGAO SUPERIOR 
+Fundagao Cearense de Apoio ao Desenvolvimento Cientifico e Tecnolégico 
+Procuradoria Juridica 
+  
+m) fontes de financiamento; 
+n) 
+existéncia de financiamento de outras fontes e/ou contrapartida dos paises envolvidos; 
+0) 
+resultados esperados; 
+p) 
+indicadores da avaliagdo e acompanhamento e produtos esperados; 
+q) 
+Informagdes complementares sobre 
+a equipe principal, 
+se 
+a proposta for submetida por 
+equipe orbital, e/ou de equipes orbitais, se existirem. 
+2.3 Quanto 4 instituigaéo de execucao 
+A instituicao de execugdo do projeto devera se enquadrar ao estabelecido pelo subitem 1.3 deste 
+Regulamento. 
+3. CRITERIOS PARA JULGAMENTO 
+S4o os seguintes os critérios para enquadramento das propostas quanto ao mérito técnico-cientifico e 
+sua adequagao orcamentaria: 
+   
+  
+    
+itério 
+e anélise e julgamento 
+- 
+“A 
+Mérito da proposta: exceléncia cientifica, abrangéncia 
+e relevancia do tema 
+abordado, 
+objetivos, 
+metodologia, originalidade, 
+potencial 
+de inovacao cientifica 
+e 
+tecnolégica, 
+possibilidade 
+de 
+desenvolvimento 
+de 
+produtos 
+e 
+processos, 
+metas 
+  
+1a5 
+| globais a serem alcangadas e abordagem multi e interdisciplinar. 
+B Parcerias: interacdo e qualificagaéo das mesmas, agrega¢ao institucional, inclusive 
+  
+do setor privado, quando houver; importancia estratégica, beneficios e pertinéncia da 
+cooperacao internacional. 
+da5 
+No 
+caso 
+das 
+equipes 
+brasileiras 
+mistas, 
+equilibrio 
+das 
+parcerias 
+nacionais 
+no 
+desenvolvimento do projeto proposto. 
+C Qualificagaéo dos coordenadores e das equipes: experiéncia em coordenagao de 
+projetos 
+de 
+cooperagdo 
+internacional 
+no(s) 
+tema(s) 
+proposto(s), 
+competéncia, 
+titularidade 
+e 
+co-produc&o 
+cientifico-tecnolégica; 
+capacidade 
+de 
+formagao 
+e 
+  
+1a5 
+capacitagao de recursos humanos. 
+D Coeréncia e adequag¢ao entre a capacitagdo e a experiéncia da equipe do projeto 
+  
+1a5 
+aos objetivos, atividades e metas propostos. 
+E Adequacao do orcamento aos objetivos, atividades e metas propostos. 
+1a5 
+  
+    
+  
+F Adequacdo da proposta as condigées deste Edital. 
+1a5 
+aa 
+    
+Fundacdo Cearense de Apoio ao Desenvolvimento Cientifico e Tecnolégico 
+AV. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862 
+Tel: (85)3275-9115/3275-2901/3101-2170 
+Pagina Eletrénica: www.funcap,ce.gov.br
+ at 
+: 
+TT 
+a 
+8 
+# 
+, 
+ye 
+. 
+; 
+GOVERNO po 
+ESTADO) bo rC EARA 
+es Teor ologia 
+reaeear 
+GOVERNO DO ESTADO DO CEARA 
+ae 
+SECRETARIA DA CIENCIA E TECNOLOGIA E EDUCAGAO SUPERIOR 
+Fundacio Cearense de Apoio ao Desenvolvimento Cientifico e Tecnoldgico 
+Procuradoria Juridica 
+  
+   
+   
+  
+  
+  
+d andlise e julgamento 
+G Coeréncia entre S objetivos, metodologia, resultados esperados 
+e cronograma de 
+tas 
+a 
+execugao. 
+H Compatibilidade da infraestrutura e da equipe de apoio com 
+a programacao do 
+tas 
+a 
+projeto. 
+| 
+Resultados 
+gerais 
+esperados: 
+publicagdes 
+conjuntas, 
+formagao 
+de 
+recursos 
+humanos, impactos socioeconémicos e demais beneficios mituos que poderao ser 
+1a5 
+| gerados pela cooperacao internacional. 
+  
+    
+3.1 Para estipulagdo das notas poderdo ser utilizadas até duas casas decimais. 
+3.2 Aos critérios do julgamento apresentados acima serao atribuidas notas de 1 (um) a 5 
+(cinco). 
+3.3 A pontuacao final de cada projeto sera aferida pelo somatorio das notas atribuidas. 
+3.4 O critério de desempate tera como parametro a maior nota no item A. 
+4. AVALIACAO FINALIPRESTAGAO DE CONTAS 
+O Coordenador do projeto devera encaminhar, no prazo de até 60 (sessenta) dias apés o término da 
+vigéncia do projeto, em conformidade com o Termo de Concess4o e Aceitagao de Auxilio 4 Projeto de 
+Pesquisa e demais normas da Funcap: 
+a) 
+a prestagao de contas financeira, com apresentagaéo de comprovantes de despesas, em 
+conformidade 
+com 
+as 
+normas 
+do 
+Manual 
+de 
+Utilizag&éo 
+de 
+Recursos 
+Financeoiros 
+e 
+Prestagdo de Contas da Funcap disponiveis no enderego eletrénico www.funcap.ce.gov.br. 
+b) 
+0 relatério técnico cientifico final, com detalhamento de todas as atividades desenvolvidas na 
+fase de realizacdo do projeto 
+e 
+o registro de todas as ocorréncias que afetaram 
+o seu 
+desenvolvimento. 
+5. DOS ESCLARECIMENTOS E DAS INFORMACOES ADICIONAIS ACERCA DO CONTEUDO DO 
+EDITAL E PREENCHIMENTO DO FORMULARIO DE PROPOSTA ONLINE 
+Os 
+esclarecimentos 
+e 
+informacdes 
+adicionais 
+acerca 
+do 
+conteudo 
+deste 
+Edital 
+e 
+sobre 
+o 
+preenchimento do Formulario de Proposta online poderao ser obtidos por intermédio do enderego e 
+telefones indicados abaixo: 
+LZ? 
+Fundagdo Cearense de Apoio ao Desenvolvimento Cientifico e Tecnolégico 
+17 
+Av. Oliveira Paiva, 941, Fortaleza/CE 
+- Fax - 3275-7862 
+Tel: (85)3275-9115/3275-2901/3101-2170 
+Pagina Eletrénica: www.funcap.ce.gov.br
+   
+GOVERNO po 
+EsTADO po CEARA 
+Secretaria da Créncia, Tecnologia 
+¢ Edlucagto Superior 
+PuReAR 
+GOVERNO DO ESTADO DO CEARA 
+SECRETARIA DA CIENCIA E TECNOLOGIA E EDUCAGAO SUPERIOR 
+Fundacao Cearense de Apoio ao Desenvolvimento Cientifico e Tecnolégico 
+Procuradoria Juridica 
+  
+5.1 Sobre o conteudo do Edital 
+Os esclarecimentos e informagées adicionais acerca do contetido deste Edital podem ser obtidos 
+encaminhando mensagem para 0 endere¢o eletrénico: direc@funcap.ce.gov.br. 
+5.2 Sobre o preenchimento do Formulario de Proposta online 
+O atendimento aos proponentes com dificuldades no preenchimento do Formulario das Propostas 
+Eletrénicas sera feito pelo endereco direc@funcap.ce.gov.br, ou pelos telefones (85) 3275-9115 e 
+(85) 3275-2901, de segunda a sexta-feira, no horario de 8h00 as 12h00 de 13h00 as 17h00. 
+Fundagdo Cearense de Apoio ao Desenvolvimento Cientifico e Tecnolagico 
+18 
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862 
+Tel: (85)3275-9115/3275-2901/3101-2170 
+Pagina Eletré6nica: www.funcap.ce.gov.br
+ GOVERNO DO ESTADO DO CEARÁ
+SECRETARIA DA CIÊNCIA E TECNOLOGIA
+Fundação Cearense de Apoio ao Desenvolvimento Científico e 
+Tecnológico – FUNCAP
+EDITAL FUNCAP/FINEP – PAPPE INTEGRAÇÃO - Nº 02/2016
+PROGRAMA DE APOIO À PESQUISA EM EMPRESAS
+4ª Chamada Pública
+ADENDO Nº 02/2016
+O  Presidente  da  Fundação  Cearense  de  Apoio  ao  Desenvolvimento  Científico  e
+Tecnológico – FUNCAP, Prof. Tarcisio Haroldo Cavalcante Pequeno, no uso de suas
+atribuições estatutárias e regimentais, altera  as datas de divulgação do resultado final
+e entrega de documentação da empresa na Funcap, constantes no item 7 do Edital,
+que passam a vigorar da seguinte forma: 
+- Resultado final: 23/09/2016.
+- Entrega de documentação da empresa na Funcap: 26 e 27/09/2016.
+Permanecem inalteradas todas as demais disposições constantes do Edital.
+Fortaleza, 16 de setembro de 2016.
+Tarcisio Haroldo Cavalcante Pequeno
+Presidente da Funcap
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico 
+Av. Oliveira Paiva, 941, Fortaleza/CE -  Tel: (85) 3275.9080 - Fax – 3275-7862
+Site: www.funcap.ce.gov.br – E-mail: inovacao
+ 
+ @funcap.ce.gov.br
+ GOVERNO DO ESTADO DO CEARÁ
+SECRETARIA DA CIÊNCIA E TECNOLOGIA
+Fundação Cearense de Apoio ao Desenvolvimento Científico e 
+Tecnológico – FUNCAP
+EDITAL FUNCAP/FINEP – PAPPE INTEGRAÇÃO - Nº 02/2016
+PROGRAMA DE APOIO À PESQUISA EM EMPRESAS
+4ª Chamada Pública
+ADENDO Nº 01/2016
+O  Presidente  da  Fundação  Cearense  de  Apoio  ao  Desenvolvimento  Científico  e
+Tecnológico – FUNCAP, Prof. Tarcisio Haroldo Cavalcante Pequeno, no uso de suas
+atribuições  estatutárias e regimentais, altera as datas de divulgação  do resultado
+preliminar da análise das propostas e pedidos de reconsideração da análise de mérito
+constantes no item 7 do Edital, que passam a vigorar da seguinte forma: 
+- Divulgação do resultado preliminar da análise das propostas: 05/09/2016.
+- Pedidos de reconsideração da análise de mérito: 08 e 09/09/2016.
+Permanecem inalteradas todas as demais disposições constantes do Edital.
+Fortaleza, 02 de setembro de 2016.
+Tarcisio Haroldo Cavalcante Pequeno
+Presidente da Funcap
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico 
+Av. Oliveira Paiva, 941, Fortaleza/CE -  Tel: (85) 3275.9080 - Fax – 3275-7862
+Site: www.funcap.ce.gov.br – E-mail: inovacao
+ 
+ @funcap.ce.gov.br
+                                                                                                                                                                              
+EDITAL FUNCAP/FINEP – PAPPE INTEGRAÇÃO ­ Nº 02/2016
+PROGRAMA DE APOIO À PESQUISA EM EMPRESAS
+4ª Chamada Pública
+SELEÇÃO   PÚBLICA   DE   PROPOSTAS   PARA   APOIO   À   PESQUISA,   DESENVOLVIMENTO   E
+INOVAÇÃO   EM   MICROEMPRESAS   E   EMPRESAS   DE   PEQUENO   PORTE   NA   MODALIDADE
+SUBVENÇÃO ECONÔMICA (PAPPE INTEGRAÇÃO)
+A Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico – FUNCAP, vinculada à
+Secretaria da Ciência, Tecnologia e Educação Superior do Estado do Ceará – SECITECE, torna público
+o lançamento do presente Edital e convida microempresas e empresas de pequeno porte sediadas no
+Estado do Ceará a participarem dessa Chamada Pública de acordo com as condições previstas neste
+Edital.
+1.  O PROGRAMA
+1.1.
+A subvenção econômica, instituída pela Lei de Inovação, visa ao desenvolvimento de produtos
+ou   processos   inovadores.   Essa   modalidade   de   apoio   financeiro   faz   parte   de   um   conjunto   de
+mecanismos das políticas de governo criado para promover a competitividade das empresas nacionais
+com sede no Estado do Ceará, compartilhar custos, diminuindo o risco tecnológico da inovação,
+estimular pesquisadores a se associarem às empresas de base tecnológica e ampliar as atividades de
+inovação no universo empresarial brasileiro, em particular no Estado do Ceará. Seu objetivo maior é
+estimular a ampliação e o adensamento das atividades de inovação no universo empresarial brasileiro.
+1.2.
+O   Programa   de   Apoio   à   Pesquisa   em   Empresas   na   Modalidade   Subvenção   Econômica   a
+Microempresas e Empresas de Pequeno Porte, nas Regiões Norte, Nordeste e Centro­Oeste – PAPPE
+Integração – visa ao apoio financeiro, na forma de subvenção econômica, ao custeio de atividades de
+pesquisa,   desenvolvimento   e/ou   inovação   (P,D&I)   realizados   por   microempresas   e   empresas   de
+pequeno porte (MEEPPs), de acordo com a Lei nº 10.973, de 2 de dezembro de 2004 (Lei da Inovação),
+regulamentada pelo Decreto nº 5.563, de 11 de outubro de 2005.
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE ­ Fax – 3275­7862/ Tel: (85) 3275.9080
+site: www.funcap.ce.gov.br/E­mail: inovacao@funcap.ce.gov.br     
+                                                                                                                                                                             1
+ 2. OBJETIVOS
+Apoiar atividades de pesquisa e desenvolvimento de processos e/ou produtos inovadores, mediante a
+seleção de propostas empresariais para concessão de apoio financeiro na modalidade de Subvenção
+Econômica à inovação, visando ao aumento da competitividade das microempresas e empresas de
+pequeno   porte   do   Ceará,   especialmente   em   temas   e   setores   prioritários   para   o   Estado.   Como
+estratégia, busca este Edital estimular fortemente a associação de instituições de pesquisa e empresas
+para o desenvolvimento de projetos inovadores, bem como a inovação industrial e/ou de serviços.
+3.  DEFINIÇÕES
+3.1.  Subvenção   Econômica   ­   recursos   financeiros   destinados   ao   desenvolvimento   de   produtos   e
+processos inovadores, nos termos da Lei no 10.973, de 02/12/2004, regulamentada pelo Decreto no
+5.563, de 11/10/2005.
+3.2.  Inovação – Para a caracterização da “Inovação” este Programa adota a definição constante do
+Artigo 17 da Lei nº 11.196 de 21 de novembro de 2005, a saber: “Considera­se inovação tecnológica a
+concepção   de   novo   produto   ou   processo   de   fabricação,   bem   como   a   agregação   de   novas
+funcionalidades ou características ao produto ou processo que implique melhorias incrementais e
+efetivo ganho de qualidade ou produtividade, resultando maior competitividade no mercado.” Não
+estão   incluídas,   para   fins  desta   chamada,   as   inovações  organizacionais  e   demais   inovações   não
+tecnológicas.
+3.3.  Microempresa   –   pessoa   jurídica   que   tenha   auferido,   no   ano­calendário   anterior   à   data   da
+proposta de financiamento, uma receita operacional bruta inferior ou igual a R$ 360.000,00 (trezentos
+e sessenta mil reais).
+3.4.  Empresa de Pequeno Porte – pessoa jurídica que tenha auferido, no ano­calendário anterior à
+data   da   proposta   de   financiamento,   uma   receita   operacional   bruta   superior   a   R$   360.000,00
+(trezentos e sessenta mil reais) e inferior ou igual a R$ 3.600.000,00 (três milhões e seiscentos mil
+reais).
+4. ELEGIBILIDADE
+4.1.  Empresários   individuais,   sociedades   empresariais   e   sociedades   simples,   enquadrados   nas
+categorias de microempresas ou empresas de pequeno porte, no Estado do Ceará, que realizem, ou se
+proponham a realizar atividades de pesquisa, desenvolvimento e inovação (P,D&I), que apresentem
+data de constituição (data de registro na Junta Comercial do Estado, para a sociedade empresarial
+e/ou empresário individual, ou Registro Civil de Pessoa Jurídica, para sociedade simples) pelo menos
+12 (doze) meses antes da data da publicação deste Edital.
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE ­ Fax – 3275­7862/ Tel: (85) 3275.9080
+site: www.funcap.ce.gov.br/E­mail: inovacao@funcap.ce.gov.br     
+                                                                                                                                                                             2
+ 4.2. Capacidade para mobilizar recursos complementares aos solicitados à FUNCAP para o apoio ao
+projeto e para a comercialização do produto ou processo que foi objeto da inovação.
+4.3.  Empresa proponente  esteja em dia com suas obrigações tributárias municipais, estaduais e
+federais, que não seja parte em processo judicial em fase de execução de sentença/acórdão em seu
+desfavor e não possua pendências com a Funcap e/ou com a Finep.
+4.3.1. Coordenador técnico, representante legal e sócios da empresa proponente sem pendências com
+a Funcap e/ou com a Finep.
+5.  TEMAS PRIORITÁRIOS
+a) Água e Reuso de Água.
+b) Tecnologia Assistiva.
+c) Tecnologia da Informação e da Comunicação.
+d) Tecnologia de Materiais/Metal Mecânico/Nanotecnologia.
+e) Indústria Agroalimentar.
+f)
+Biotecnologia/Saúde/Fármacos.
+g) Indústria da Construção Civil e Pesada.
+h) Energia.
+6.  PROPONENTE
+O proponente será a pessoa jurídica que cumprirá os requisitos deste edital. 
+7.  CRONOGRAMA
+Eventos
+Datas
+Lançamento do edital e do formulário na página da Funcap
+30/05/16
+Reunião aberta na Funcap a interessados para esclarecimentos sobre o PAPPE (9:00h)
+16/06/16
+Prazo final para envio das propostas no formulário eletrônico (até 17h)
+30/06/16
+Prazo final para entrega das propostas impressas na Funcap (até 17h) *
+01/07/16
+Resultado da análise documental **
+08/07/16
+Pedidos de reconsideração da análise documental
+12 e 13/07/16
+Divulgação do resultado preliminar da análise das propostas ***
+02/09/16
+Pedidos de reconsideração da análise de mérito
+05 e 06/09/16
+Resultado final
+16/09/16
+Entrega de documentação da empresa na Funcap (até 17h)
+19 e 20/09/16
+Contratação (até 60 dias do resultado final) 
+Até 16/11/16
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE ­ Fax – 3275­7862/ Tel: (85) 3275.9080
+site: www.funcap.ce.gov.br/E­mail: inovacao@funcap.ce.gov.br     
+                                                                                                                                                                             3
+ (*)  Será considerada a data de postagem pela Empresa de Correios e Telégrafos ou a data do protocolo
+de entrada na Funcap.
+(**)   O   resultado   da   análise   documental   será   divulgado   no   site   da   Funcap.   As   empresas   cuja
+documentação estiver incompleta receberão comunicação pelo e­mail cadastrado no formulário. 
+(***) O resultado preliminar será divulgado no site da Funcap. As empresas cujas propostas não forem
+classificadas receberão comunicação pelo e­mail cadastrado no formulário.
+8.  RECURSOS FINANCEIROS
+8.1.  Para   o   presente   edital   serão   aplicados   recursos   financeiros   no   valor   de,   pelo   menos,  
+R$ 2.800.000,00 (dois milhões e oitocentos mil reais) (recursos Finep/Funcap), para aplicação  em
+até 18 meses.
+8.2. As empresas poderão apresentar propostas com valores totais entre R$ 200.000,00 (duzentos mil
+reais) e R$ 300.000,00 (trezentos mil reais), incluindo a contrapartida financeira das empresas, de
+pelo menos 10% do valor total da proposta.
+9. ITENS FINANCIÁVEIS
+9.1. Com recursos oriundos da Finep/Funcap, serão permitidas despesas nas seguintes rubricas: 
+9.1.1. Salários e encargos patronais da equipe de P,D&I, desde que especificadas as horas dedicadas
+ao projeto de inovação. A remuneração de sócios não é aplicável.
+9.1.2. Material de consumo, nacional ou importado.
+9.1.3. Diárias.
+9.1.4. Passagens e despesas com locomoção.
+9.1.5. Serviços de terceiros de pessoa física.
+9.1.6. Serviços de terceiros de pessoa jurídica.
+9.1.7. Despesas acessórias com importação.
+9.1.8. Reforma de instalações, desde que associada ao desenvolvimento do projeto.
+10. ITENS NÃO FINANCIÁVEIS
+10.1. O programa é específico para apoiar o desenvolvimento de produtos inovadores. Portanto, não
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE ­ Fax – 3275­7862/ Tel: (85) 3275.9080
+site: www.funcap.ce.gov.br/E­mail: inovacao@funcap.ce.gov.br     
+                                                                                                                                                                             4
+ serão financiados projetos baseados em trabalhos de assistência técnica, construção de plantas piloto,
+revisões de literatura.
+10.2. Aquisição de equipamentos e material permanente.
+10.3. Pró­labore.
+10.4.  Água, segurança, serviços gerais, luz, telefone (celular e fixo), internet, pagamento de juros e
+multas, tarifas bancárias e indenizações.
+10.5. Apoio para atividades de rotina ou administrativas.
+10.6. Despesas com a contratação ou complementação salarial de pessoal administrativo.
+10.7. Construção.
+10.8. Bolsas.
+11. CONTRAPARTIDA
+11.1. As empresas participarão com um valor de contrapartida mínimo correspondente a 10% (dez por
+cento) do valor total da proposta, de acordo com o cronograma físico–financeiro, sendo esta a condição
+imprescindível para a liberação de recursos públicos advindos da Funcap.
+11.2.  Como   despesas   de   contrapartida   da   empresa,   serão   aceitos   todos   os   itens   diretamente
+relacionados com a execução de atividades de pesquisa e desenvolvimento tecnológico desde que
+claramente descritos e mensurados na proposta, como por exemplo:
+11.2.1. Aquisição de equipamentos e material permanente para utilização no projeto.
+11.2.2. Aquisição de material de consumo, desde que empregados no desenvolvimento do projeto.
+11.2.3. Pagamentos a consultores técnicos especializados que participem do projeto.
+11.2.4.  Pró­labore (remuneração aos sócios), salários e encargos de  membros da equipe própria de
+P,D&I da empresa, desde que previstos na proposta, juntamente com informação da carga horária
+dedicada ao projeto.
+12. REQUISITOS E CARACTERÍSTICAS OBRIGATÓRIAS DAS PROPOSTAS
+Os requisitos e características obrigatórias indicadas a seguir serão válidos para o presente Edital e o
+atendimento dos mesmos é considerado imprescindível para o exame da proposta. A ausência ou
+insuficiência de informações sobre quaisquer deles resultará em não enquadramento da proposta.
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE ­ Fax – 3275­7862/ Tel: (85) 3275.9080
+site: www.funcap.ce.gov.br/E­mail: inovacao@funcap.ce.gov.br     
+                                                                                                                                                                             5
+ 12.1. Equipe técnica
+12.1.1.  Os  pesquisadores  envolvidos,  assim  como  o   coordenador  técnico  do  projeto,  deverão  ter
+currículo cadastrado e atualizado na Plataforma Lattes do CNPq (Plataforma Lattes – www.cnpq.br) até
+a data limite para apresentação das propostas. 
+12.1.2. Somente deverão ser incluídos como membros da equipe técnica do projeto os pesquisadores
+que tenham individualmente prestado anuência formal escrita. 
+12.2. A proposta deve atender aos seguintes requisitos e condições:
+12.2.1. Apresentar desenvolvimento tecnológico e de inovação, em consonância com o objetivo deste
+Edital.
+12.2.2.  Especificar as atividades de pesquisa e desenvolvimento de inovação tecnológica a serem
+desenvolvidas na empresa.
+12.2.3.  Descrever a metodologia de execução, acompanhamento e avaliação do desenvolvimento do
+projeto.
+12.2.4. Apresentar o cronograma físico­financeiro de execução do projeto.
+Observação: Não se enquadram na definição de projeto de desenvolvimento tecnológico e de inovação:
+a. projetos destinados a custear assistência técnica para a empresa.
+b. projetos que visem principalmente à capacitação de pessoal.
+c.   projetos   que   visem   à   modernização   tecnológica   pela   incorporação   ao   processo   produtivo   de
+equipamentos/processos disponíveis no mercado.
+d.  construção de plantas­piloto.
+e. conjuntos de subprojetos, mesmo de áreas afins, sem articulação demonstrada ou sem coerência
+com o desenvolvimento de um produto ou processo definido.
+f.  trabalhos de revisão de literatura e/ou de levantamento do estado da arte ou da técnica.
+12.3. O orçamento deve conter o detalhamento dos seguintes itens:
+12.3.1. Recursos solicitados à Funcap.
+12.3.2.  Contrapartida, conforme os itens autorizados e obedecendo ao percentual mínimo exigido
+neste Edital.
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE ­ Fax – 3275­7862/ Tel: (85) 3275.9080
+site: www.funcap.ce.gov.br/E­mail: inovacao@funcap.ce.gov.br     
+                                                                                                                                                                             6
+ 12.3.3. Recursos de outras fontes (quando houver).
+12.3.4. Cronograma de desembolso dos recursos, em duas parcelas, observando o cronograma físico
+do projeto e as condições estabelecidas no plano de trabalho (Anexo I).
+13. PRAZO DE EXECUÇÃO DAS PROPOSTAS
+Os projetos aprovados terão duração máxima de 18 meses.
+14. ENCAMINHAMENTO DAS PROPOSTAS
+14.1.  Para   submeter   uma   proposta,   o   Formulário   de   Apresentação   de   Propostas,   disponível   no
+endereço eletrônico da Funcap (www.funcap.ce.gov.br), deverá ser preenchido em nome da empresa,
+de seu representante legal e do coordenador técnico. 
+14.2.  Adicionalmente,   será   obrigatório   o   protocolo   junto   à  Funcap  de   uma   cópia   impressa   do
+Formulário de Apresentação de Propostas, assinado pelo representante legal da empresa.
+14.3.  A proposta  deverá ser impressa em papel A4 e apresentada sem nenhum  tipo de rasura,
+encadernação ou grampeamento. À cópia impressa, poderão ser anexados documentos e informações,
+a critério da empresa, consideradas relevantes para a análise do pleito.
+14.4. As propostas deverão ser enviadas à Funcap até às 17 horas da data limite de submissão das
+propostas, descrita no item 7 deste edital.
+14.5. A submissão da proposta só se completará com o envio da documentação impressa, relacionada
+no Anexo II.
+14.6. O representante legal, a empresa e o coordenador técnico, só poderão estar vinculados a uma
+única proposta.
+15. ADMISSÃO, ANÁLISE E JULGAMENTO
+A seleção  das  propostas  submetidas  à Funcap  em atendimento  a  este Edital será realizada por
+intermédio de análises e avaliações comparativas. Para tanto, serão estabelecidas as seguintes etapas:
+15.1. Análise Documental
+15.2. Avaliação de Mérito
+15.2.1.  A   Funcap   constituirá   Câmaras   Específicas   por   áreas   de   conhecimento,   nos   moldes   da
+Instrução Normativa 02/2012, para julgar os méritos das propostas, valendo­se de pareceres técnicos
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE ­ Fax – 3275­7862/ Tel: (85) 3275.9080
+site: www.funcap.ce.gov.br/E­mail: inovacao@funcap.ce.gov.br     
+                                                                                                                                                                             7
+ emitidos por consultores ad hoc.
+15.2.2.  As propostas serão avaliadas por análise comparativa segundo os critérios pertinentes ao
+Mérito da Inovação, aos Aspectos Mercadológicos da Inovação e à Capacidade de Execução do Projeto.
+Os   critérios   avaliados   poderão   receber   notas   de   0(zero)   a   05(cinco)   pontos   e   terão   os   pesos
+correspondentes definidos a seguir:
+ITEM
+CRITÉRIOS DE AVALIAÇÃO DE MÉRITO
+Peso
+Critérios pertinentes ao Mérito da Inovação
+1
+Conformidade ao objetivo do Edital
+10%
+Critérios pertinentes aos Aspectos Mercadológicos da Inovação
+2
+Grau   de   inovação   para   o   mercado   local,   regional,   nacional   e
+internacional, além do risco tecnológico 
+Impactos   econômicos   e   comerciais   da   inovação:   potencial   aumento   da
+produtividade e da competitividade dos produtos e serviços decorrentes da
+inovação.
+Potenciais impactos sociais e econômicos a serem gerados pelo projeto em
+âmbito local e regional; adensamento de cadeias produtivas; absorção de
+recursos humanos qualificados.
+20%
+3
+Estágio de desenvolvimento do produto, processo ou serviço e do
+correspondente plano de negócios
+Descrição clara do diferencial do produto, processo ou serviço proposto.
+Visão da empresa de como a inovação proposta se insere no mercado, em
+particular no mercado futuro. Mapeamento de concorrentes e clientes. 
+20%
+Critérios pertinentes à Capacidade de Execução do Projeto
+4
+Adequação da metodologia
+Clareza e adequação da metodologia proposta aos objetivos do projeto.
+20%
+5
+Capacidade técnica da equipe executora
+Qualificação da equipe técnica do projeto. Parcerias com instituições de
+pesquisa ou tecnologia, sendo privilegiadas as parcerias com instituições
+sediadas no Estado do Ceará.
+10%
+6
+Adequação da infraestrutura
+Adequação   das   instalações   para   P,D&I   que   serão   utilizadas   no
+desenvolvimento do projeto.
+10%
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE ­ Fax – 3275­7862/ Tel: (85) 3275.9080
+site: www.funcap.ce.gov.br/E­mail: inovacao@funcap.ce.gov.br     
+                                                                                                                                                                             8
+ 7
+Adequação   do   orçamento   e   do   cronograma   físico­financeiro   do
+projeto
+Consistência e adequação aos objetivos do projeto.
+10%
+15.2.3. Os critérios para desempate obedecerão à seguinte ordem:
+15.2.3.1. O 1º critério: maior pontuação no item 2 “Grau de inovação para o mercado local, regional,
+nacional e internacional, além do risco tecnológico”.
+15.2.3.2. O 2º critério: maior pontuação no item 3 “Estágio de desenvolvimento do produto, processo
+ou serviço e do correspondente plano de negócios”.
+15.2.3.3. O 3º critério: Maior valor de contrapartida.
+15.2.3.4. Serão desclassificadas as propostas que não atenderem às seguintes condições:
+­Obtenção de nota igual ou superior a 1,0 (um) em cada um dos critérios de avaliação.
+­Obtenção de nota igual ou superior a 3,0 (três) nos itens 2 e 3 dos critérios de avaliação.
+­Obtenção   de   média   ponderada   igual   ou   superior   a   3,0   (três),   considerando­se   a   totalidade   dos
+critérios.
+15.3. Avaliação Final
+Com base na avaliação de mérito das propostas, um Comitê de Avaliação e, subsequentemente, o
+Conselho Deliberativo da Funcap realizarão a classificação final das propostas de acordo com as
+prioridades das políticas públicas do sistema de Ciência, Tecnologia & Inovação do Governo do Estado
+do Ceará. 
+16. RESULTADO FINAL DO JULGAMENTO
+16.1.  A Relação Final das propostas aprovadas em cada chamada será divulgada pela  Funcap, no
+endereço eletrônico www.funcap.ce.gov.br.
+16.2.  Todas as empresas com propostas submetidas ao presente Edital tomarão conhecimento do
+parecer final, preservada a identificação dos pareceristas.
+16.3. As empresas serão contratadas em ordem crescente de classificação, na medida dos recursos
+disponíveis para execução dos projetos.
+16.4. As decisões proferidas pelo Conselho Deliberativo da Funcap são terminativas.
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE ­ Fax – 3275­7862/ Tel: (85) 3275.9080
+site: www.funcap.ce.gov.br/E­mail: inovacao@funcap.ce.gov.br     
+                                                                                                                                                                             9
+ 17. RECURSOS
+17.1.  Eventual   recurso   a   Resultado   de   Análise   Documental   e   a   Resultado   Final   deverá   ser
+apresentado  por  escrito,   dirigido   à  Funcap,  e  entregue,   conforme  o   cronograma,  diretamente   no
+endereço   abaixo   indicado   ou   pelo   e­mail  inovacao@funcap.ce.gov.br,   devendo   constar,   no   campo
+assunto, os termos “RECURSO – EDITAL PAPPE INTEGRAÇÃO”. 
+17.2. Os recursos interpostos fora do prazo não serão admitidos.
+18. CONTRATAÇÃO E LIBERAÇÃO
+18.1. A empresa cuja proposta for aprovada firmará contrato com a Funcap.
+18.2. No momento da contratação, deverão ser apresentados pela empresa os documentos constantes
+do Anexo III, no prazo estipulado pela Funcap.
+18.3.  A contratação de cada projeto observará a decisão do Conselho Deliberativo da  Funcap. Os
+recursos para a execução dos projetos aprovados, inclusive a contrapartida das empresas, serão
+depositados, conforme cronograma físico­financeiro da proposta, em conta corrente específica para o
+projeto, gerenciada pela própria empresa. A Funcap, observando o cronograma físico­financeiro e
+condições   estabelecidas   no   plano   de   trabalho,   fará   o   desembolso   dos   recursos   somente   após   a
+publicação de instrumento contratual específico.
+18.4.  A aprovação, pelo Conselho Deliberativo da Funcap, de relatório de visita técnica à empresa
+poderá ser exigida como condição para contratação.
+19.  BIOSSEGURANÇA
+Conforme   legislação   em   vigor,   Lei   no.   11.105/2005,   propostas   que   envolvam   experimentos   com
+organismos geneticamente modificados devem informar o número de registro e data da publicação do
+Certificado de Qualidade em Biossegurança ­ CQB. 
+20. SISTEMÁTICA DE AVALIAÇÃO E ACOMPANHAMENTO DOS PROJETOS APROVADOS
+20.1.  O projeto deverá ser acompanhado até o final de sua vigência, por meio de relatórios técnicos
+parciais e de prestação de contas financeiras. Finalizado o projeto, o coordenador técnico deverá
+encaminhar à Funcap, até 60 (sessenta) dias após o prazo de encerramento do projeto, a prestação de
+contas final (técnica e financeira).
+20.2.  A Funcap reserva­se o direito de solicitar às empresas que apresentem o resultado de seus
+projetos, a qualquer tempo, como forma de  acompanhar a execução do mesmo.
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE ­ Fax – 3275­7862/ Tel: (85) 3275.9080
+site: www.funcap.ce.gov.br/E­mail: inovacao@funcap.ce.gov.br     
+                                                                                                                                                                             10
+ 21.  REVOGAÇÃO OU ANULAÇÃO DESTE EDITAL
+A qualquer tempo, o presente Edital poderá ser revogado ou anulado, no todo ou em parte, seja por
+decisão unilateral da Funcap, seja por motivo de interesse público ou exigência legal, sem que isso
+implique direitos à indenização ou reclamação de qualquer natureza.
+22.  DAS DISPOSIÇÕES GERAIS
+22.1.  O   não   atendimento   a   quaisquer   das   exigências   especificadas   neste   Edital   implicará   a
+desclassificação automática da proposta.
+22.2.  Toda   menção,   publicação   e   divulgação   resultante   das   atividades   apoiadas   com   recursos
+advindos deste edital deverão citar, obrigatoriamente, o apoio da Funcap e da Finep.
+22.3.   O Conselho Deliberativo da Funcap reserva­se o direito de resolver os casos omissos e as
+situações não previstas no presente edital.
+Fortaleza, 30 de Maio de 2016.
+Luiz Drude de Lacerda
+Presidente, em exercício, da Funcap
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE ­ Fax – 3275­7862/ Tel: (85) 3275.9080
+site: www.funcap.ce.gov.br/E­mail: inovacao@funcap.ce.gov.br     
+                                                                                                                                                                             11
+ ANEXO I
+MODELO DE PLANO DE TRABALHO
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE ­ Fax – 3275­7862/ Tel: (85) 3275.9080
+site: www.funcap.ce.gov.br/E­mail: inovacao@funcap.ce.gov.br     
+                                                                                                                                                                             12
+1 – DADOS CADASTRAIS (CONCEDENTE)
+Nome do Responsável:
+RG:
+Cargo:
+Matrícula:
+2 – DADOS CADASTRAIS (EMPRESA EXECUTORA)
+Nome:.
+CNPJ:
+Endereço:
+CEP:
+UF:
+E-mail:
+Representante legal:
+RG:
+3 - DESCRIÇÃO DO PROJETO
+Título do Projeto:
+Objetivo:
+Duração:
+Início
+Término:
+Coordenador:
+Telefone:
+E-mail:
+4 – PLANO DE ATIVIDADES
+Nº
+ATIVIDADE
+1
+2
+3
+PLANO DE TRABALHO
+EDITAL Nº 02/2016 - PAPPE INTEGRAÇÃO – 4ª CHAMADA
+Convenente: FUNDAÇÃO CEARENSE DE APOIO AO DESENVOLVIMENTO CIENTÍFICO E 
+TECNOLÓGICO - FUNCAP
+CNPJ: 00.078.007/0001-
+26
+Endereço: Avenida Oliveira Paiva, 941, Cidade 
+dos Funcionários
+Cidade: Fortaleza
+CEP: 60.160-230
+UF: CE
+CPF: 
+Endereço Eletrônico: www.funcap.ce.gov.br                        
+Telefone: (85) 3101.2169   Fax: (85) 3275.7862
+Cidade: 
+Telefone: 
+CPF: 
+MÊS
+INÍCIO
+MÊS
+FIM
+ Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE ­ Fax – 3275­7862/ Tel: (85) 3275.9080
+site: www.funcap.ce.gov.br/E­mail: inovacao@funcap.ce.gov.br     
+                                                                                                                                                                             13
+5 – ORÇAMENTO DETALHADO
+Item
+Especificação
+DESPESAS DE CUSTEIO
+1
+Pessoal e Encargos
+2
+Diárias
+2.1
+2.2
+3
+3.1
+3.2
+4
+Passagens
+4.1
+4.2
+5
+Serviços de Terceiros Pessoa Física
+5.1
+5.2
+6
+Serviços de Terceiros Pessoa Jurídica
+6.1
+6.2
+DESPESAS DE CAPITAL 
+7
+Material Permanente
+Descrição
+Qtde.
+TOTAL FINANCIADO
+-
+6 – CRONOGRAMA DE DESEMBOLSO
+APORTE
+VALOR TOTAL
+FUNCAP
+EMPRESA
+OBSERVAÇÕES:
+Valor da Concedente 
+(Funcap) – R$
+Valor da Contrapartida 
+  (Empresa) – R$
+Valor Total 
+(Concedente e 
+Contrapartida) – R$
+Material de Consumo (Nacional ou 
+Importado)
+1ª Parcela (50%)
+Mês (1)
+2ª Parcela (50%)
+Mês (9)
+A rubrica de PESSOAL e ENCARGOS contempla somente os encargos oficiais. Os rendimentos da aplicação serão utilizados com a 
+prévia anuência da FUNCAP nas rubricas de aporte da FUNCAP. Os pagamentos são considerados regime de caixa, ou seja, data de 
+efetiva saída do recurso da conta específica do contrato, não considerando provisões de 13º salário e férias. As tarifas bancárias são 
+por conta do contratado, não podendo, para isso, serem utilizados recursos oriundos do projeto.
+ Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE ­ Fax – 3275­7862/ Tel: (85) 3275.9080
+site: www.funcap.ce.gov.br/E­mail: inovacao@funcap.ce.gov.br     
+                                                                                                                                                                             14
+7 – DECLARAÇÃO
+__________________________________________________________________________________________________
+8 – APROVAÇÃO PELA CONCEDENTE
+Fortaleza, ____ de _________de 2016.
+Na qualidade de representante legal do(a) Proponente, declaro, para fins de prova junto à Fundação Cearense de Apoio ao 
+Desenvolvimento Científico e Tecnológico - FUNCAP, para os efeitos e sob as penas da Lei, que inexiste qualquer débito em 
+mora ou situação de inadimplência perante o Tesouro Estadual ou qualquer outro Órgão ou entidade da Administração 
+Pública Estadual, que impeça a transferência de recursos oriundos de dotações consignadas no Orçamento Geral do Estado 
+do Ceará, destinados à consecução do objeto caracterizado no presente Plano de Trabalho.
+      Fortaleza, ___ de __________ de 2016.
+_______________________________________________________
+   Representante legal da Empresa (nome e assinatura)
+APROVADO, após análise da capacidade técnica e comprovação da regularidade cadastral, da regularidade fiscal e dos 
+aspectos jurídicos.
+__________________________________________
+Presidente da FUNCAP 
+ ANEXO II
+DOCUMENTAÇÃO OBRIGATÓRIA PARA SUBMISSÃO DA PROPOSTA
+Para a submissão da proposta da empresa, é imprescindível a apresentação dos documentos listados 
+abaixo. A Funcap, ao seu critério, poderá solicitar quaisquer outros documentos que entender neces­
+sários.
+1. Uma via do Formulário de Apresentação de Propostas, gerado automaticamente a partir do preen­
+chimento e submissão da proposta pela Plataforma Montenegro, preenchido com os dados do repre­
+sentante legal e do coordenador técnico e assinado pelo primeiro.
+2. Texto impresso da proposta submetida, em papel A4 e sem nenhum tipo de rasura, encadernação
+ou grampeamento.
+3. Registro comercial, no caso de empresa individual (cópia autenticada).
+4. Ato constitutivo, estatuto ou contrato social em vigor, devidamente registrado, em se tratando de
+sociedades comerciais (cópia autenticada).
+5. Ato de designação dos atuais dirigentes (ata da assembleia que elegeu a Diretoria e o Conselho de
+Administração), se for o caso. 
+6. Cartas de anuência (formal, escrita e assinada individualmente) dos membros da equipe técnica do
+projeto.
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE ­ Fax – 3275­7862/ Tel: (85) 3275.9080
+site: www.funcap.ce.gov.br/E­mail: inovacao@funcap.ce.gov.br     
+                                                                                                                                                                             15
+ ANEXO III
+DOCUMENTAÇÃO OBRIGATÓRIA PARA CONTRATAÇÃO DA EMPRESA
+Para que haja a contratação da empresa classificada, é imprescindível a apresentação dos documentos
+listados abaixo. 
+1. Certidão Conjunta de Débitos Relativos a Tributos Federais e à Dívida Ativa da União (cópia sim­
+ples);
+2. Certificado de Regularidade do FGTS (cópia simples).
+3. Certidão Negativa da Receita/Dívida Ativa do Estado (cópia simples).
+4. Certidão Negativa da Receita/Dívida Ativa do Município (cópia simples).
+5. Certidão Negativa de Débitos Trabalhistas (cópia simples).
+6. Licença Ambiental, se for o caso, ou Declaração de Desnecessidade de Licenciamento Ambiental (có­
+pias autenticadas), ambas a serem emitidas pelo órgão competente.
+7. Documento de identificação com foto do(s) representante(s) legal(is) da empresa (cópia autenticada).
+8. Declaração, assinada pelo representante legal e por um contador (original ou cópia autenticada), in­
+dicando que a empresa possui um faturamento anual inferior a R$ 3.600.000,00 (três milhões e seis­
+centos mil reais).
+9. Declaração sobre o contencioso (modelo 1), assinado pelo(s) representante(s) legal(is).
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE ­ Fax – 3275­7862/ Tel: (85) 3275.9080
+site: www.funcap.ce.gov.br/E­mail: inovacao@funcap.ce.gov.br     
+                                                                                                                                                                             16
+ DECLARAÇÃO DE CONTENCIOSO
+[EMPRESA], com sede em _________, inscrita no CNPJ sob o nº ________, por seu representante
+legal   abaixo   qualificado,   declara   junto   à  Fundação   Cearense   de   apoio   ao   Desenvolvimento
+Científico e Tecnológico ­ FUNCAP, que não é parte em processo judicial que esteja em fase de
+execução de sentença/acórdão em seu desfavor.
+[Local], _____ de ____________ de 2016.
+NOME
+CARGO
+CPF
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE ­ Fax – 3275­7862/ Tel: (85) 3275.9080
+site: www.funcap.ce.gov.br/E­mail: inovacao@funcap.ce.gov.br     
+                                                                                                                                                                             17

@@ -1,0 +1,2817 @@
+
+Av. Calle 26 # 57- 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.minciencias.gov.co 
+Código: M810PR05MO1 
+Versión: 00 
+Vigente desde 2020-02-04                                                                                                      Página 1 de 7  
+Bogotá, D.C., 25 de marzo de 2020 
+ 
+PARA.  
+ 
+Instituciones de Educación Superior e Instituciones Prestadoras de Servicios de Salud que cuenten 
+con grupos en categoría A1, A o B; centros e institutos de investigación y desarrollo tecnológico 
+reconocidos por Minciencias y que cuenten con experiencia demostrable en las líneas temáticas de 
+la presente invitación.  
+ 
+ASUNTO: 
+INVITACIÓN A PRESENTAR PROYECTOS QUE CONTRIBUYAN A LA SOLUCIÓN DE 
+PROBLEMÁTICAS ACTUALES DE SALUD RELACIONADAS CON LA PANDEMIA DE COVID-19 
+ 
+En el marco de las acciones que se adelantan para contribuir a mitigar los efectos de la pandemia de COVID-19, el 
+Ministerio de Ciencia, Tecnología e Innovación (en adelante Minciencias) se permite invitarlos a presentar propuestas 
+de proyectos orientados a la obtención de resultados y al desarrollo de tecnologías que contribuyan a la solución de 
+problemáticas actuales en el área de la salud. Esta es una invitación de prioridad nacional, dirigida a Instituciones de 
+Educación Superior (IES) e instituciones prestadoras de servicios de salud que cuenten con grupos de investigación 
+categorizados como A1, A o B, centros de investigación o desarrollo tecnológico e institutos de investigación 
+reconocidos por Minciencias, en posible alianza con otros actores de CTeI y/o empresas de todos los tamaños con 
+personería jurídica, y que con su experiencia científica y tecnológica permitan ayudar a contrarrestar la propagación 
+del virus SARS-Cov-2, causante del COVID-19, como también promover el bienestar de la población y de los equipos 
+del área de la salud que están en la primera línea de trabajo contrarrestando la pandemia. 
+Recibida la propuesta (primera fase), Minciencias realizará una evaluación para preseleccionar las propuestas con 
+potenciales aplicaciones que puedan contribuir a mitigar la problemática nacional y mundial causada por SARS-Cov-
+2. El Ministerio de Salud y Protección Social (Minsalud) participará en el proceso de evaluación de las propuestas y 
+su aprobación está sujeta a que las iniciativas estén articuladas con las estrategias que en Minsalud tengan 
+implementadas a fin de evitar duplicidad de acciones. Una vez concluido el proceso de preselección, Minciencias 
+notificará a través de correo electrónico a la entidad proponente de la propuesta preseleccionada y le solicitará 
+disponibilidad para responder inquietudes sobre el proyecto ante un segundo comité de expertos en el área de 
+aplicación de la misma (segunda fase). Este comité, seleccionará los proyectos elegibles para financiación y ejecución 
+(fase final), y se informará el resultado del proceso de selección a los proponentes. Se ha adoptado esta medida con 
+el objetivo de reducir el tiempo de selección y evaluación de propuestas, y permitir que los proyectos seleccionados 
+inicien su ejecución a la mayor brevedad posible. Es importante que en la carta unificada de aval y compromiso 
+institucional (anexo 1) se declare cualquier tipo de conflicto de intereses que puedan estar relacionados con la 
+evaluación de su propuesta o que comprometa la óptima ejecución del proyecto. 
+Por ser una invitación, la presentación de la propuesta no implica obligatoriedad, ni compromiso alguno por parte de 
+Minciencias para asignar recursos, ni tampoco implica un derecho a recibir apoyo económico ni ningún otro tipo de 
+beneficios. Asimismo, tampoco establece ninguna obligación para Minciencias de informar sobre las decisiones 
+adoptadas producto de la evaluación, toda vez que éste es un procedimiento de contratación directa y conforme al 
+cual Minciencias en su desarrollo está obligado a garantizar el mérito, calidad e idoneidad, de acuerdo con el marco 
+normativo que lo regula. Este proceso no es asimilable a una convocatoria pública, ni a los procesos de pluralidad de 
+oferentes que consagra la Ley 80 de 1993, es decir, licitación, selección abreviada, concurso de méritos, mínima 
+cuantía, entre otros. La información referente a los proyectos no seleccionados se mantendrá de manera confidencial 
+para proteger a los investigadores participantes.  
+De otra parte, para Minciencias todos los proyectos que puedan contribuir al desarrollo en CTeI en Colombia tienen 
+un espacio en su visión y misión, por lo que se invita a las instituciones a trabajar de la mano de Minciencias para 
+promover el mayor número de colaboraciones internacionales haciendo uso de la diplomacia y cooperación científica, 
+que permitan y/o faciliten acelerar la obtención de resultados.  
+La propuesta debe presentarse en un documento conciso que contenga los elementos esenciales para ser evaluada 
+a la luz de la necesidad actual, los antecedentes de la investigación o el desarrollo que se propone, el diferencial de 
+la propuesta frente a otras soluciones existentes y los beneficios de los resultados de cara a los posibles usuarios. La 
+propuesta no debe exceder los límites de palabras establecidos en cada aparte del formato destinado para su 
+formulación, con el fin de lograr una evaluación más ágil y concreta de la misma. 
+JUSTIFICACIÓN TÉCNICA 
+  
+Av. Calle 26 # 57- 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.minciencias.gov.co 
+Código: M810PR05MO1 
+Versión: 00 
+Vigente desde 2020-02-04                                                                                                      Página 2 de 7  
+Con la Resolución 385 del 12 de marzo de 2020 expedido por el Ministerio de Salud y Protección Social, teniendo en 
+cuenta que “el COVID 19 tiene un comportamiento similar a los coronavirus del Síndrome Respiratorio de Oriente 
+Medio (MERS) y el Síndrome Respiratorio Agudo Grave (SARS)...” que, “a la fecha, no existe un medicamento, 
+tratamiento o vacuna para hacer frente al virus…”, y que “... la OMS declaró el 11 de marzo de los corrientes que el 
+brote de COVID-19 es una pandemia…”, dicho Ministerio declaró la emergencia sanitaria por causa de COVID-19 y 
+estableció las medidas para hacer frente al virus. Así mismo, la Presidencia de la República, a través del Decreto 417 
+del 17 de marzo de 2020 declaró Estado de Emergencia Económica, Social y Ecológica en todo el territorio Nacional. 
+De acuerdo con el Instituto Nacional de Salud de Colombia, a la fecha (24/03/2020, 5:00 pm) se registran 177 países 
+con casos confirmados y el número total de casos positivos registrados en Colombia asciende a 378, con tres víctimas 
+fatales confirmadas. Durante la última semana se registró un incremento de casos equivalente a 10 veces el número 
+de casos confirmados a 18 de marzo de 2020, lo que muestra una tendencia hacia el aumento de la problemática, si 
+no se adoptan medidas de mitigación de la enfermedad que sean efectivas. 
+Además, el Ministerio de Salud y Protección Social declaró la emergencia nacional mediante Resolución 285 de 2020, 
+relacionada con la nueva pandemia por SARS-Cov-2, la incertidumbre del comportamiento de la pandemia de COVID-
+19, el aumento de enfermedades respiratorias, el potencial de aparición de nuevas pandemias en el futuro, y la 
+necesidad de proteger a nuestra población y a la economía. 
+En este contexto, el Gobierno Nacional, representado por el Ministerio de Ciencia, Tecnología e Innovación y el 
+Ministerio de Salud y Protección Social, han establecido como prioridad nacional la financiación de proyectos de 
+ciencia, tecnología e innovación (CTeI) dirigidos a desarrollar, entre otros, técnicas de diagnóstico rápido, dispositivos 
+y/o herramientas que permitan cuidar al personal médico y a los pacientes, y alternativas preventivas y terapéuticas 
+que ayuden a contrarrestar la actual pandemia. Los proyectos que se enfoquen bajo este marco amplio de 
+posibilidades y que sean seleccionados en respuesta a la presente invitación, podrán recibir el apoyo financiero por 
+parte de Minciencias.  
+El abordaje de la problemática planteada requiere de la participación de grupos de investigación de IES y centros de 
+investigación y desarrollo tecnológico, con amplia trayectoria en las líneas de investigación propuestas en la presente 
+invitación. Por otro lado, con el fin de promover la obtención de resultados de alto impacto, la transferencia de 
+tecnología y conocimiento sobre COVID-19, y la participación de diferentes regiones del país en la ejecución de los 
+proyectos, se invitará a los posibles interesados a conformar alianzas para la colaboración multidisciplinaria, 
+interinstitucional e intersectorial, a nivel regional, nacional e internacional, de manera que se garanticen las 
+condiciones adecuadas para el logro de los resultados esperados. 
+Esta invitación se enmarca en las causales de CTeI establecidas en los numerales 1 “Investigación científica y 
+desarrollo tecnológico, desarrollo de nuevos productos y procesos, creación y apoyo a centros científicos y 
+tecnológicos y conformación de redes de investigación e información” y 4 “Proyectos de innovación que incorporen 
+tecnología, creación, generación, apropiación y adaptación de la misma, así como la creación y el apoyo a incubadoras 
+de empresas, a parques tecnológicos y a empresas de base tecnológica” del artículo 2 del decreto 591 de 1991, toda 
+vez que busca el desarrollo de soluciones tecnológicas que permitan la identificación temprana de casos sospechosos, 
+el diagnóstico, tratamiento, seguimiento de contactos, y monitoreo de COVID-19, mediante el apoyo a proyectos de 
+CTeI destinados a desarrollar pruebas de concepto y a construir y validar la eficacia y seguridad de prototipos de 
+nuevas tecnologías o productos a escala comercial y precomercial. Por otro lado, la iniciativa apunta al logro de los 
+objetivos establecidos en el Plan Estratégico Institucional de Minciencias, en particular del objetivo “Impulsar el 
+desarrollo tecnológico y la innovación para la transformación social y productiva”. Además, se ajusta a los lineamientos 
+establecidos en el Plan Nacional de Desarrollo 2018-2022 “Pacto por Colombia, pacto por la equidad”, particularmente 
+al “Pacto por la Ciencia, la Tecnología y la Innovación”, y “Pacto por la Equidad: Salud para Todos con Calidad y 
+Eficiencia, sostenible para todos”. 
+ 
+OBJETIVOS GENERALES Y ESPECÍFICOS 
+   
+1.1. OBJETIVO GENERAL 
+ 
+  
+Av. Calle 26 # 57- 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.minciencias.gov.co 
+Código: M810PR05MO1 
+Versión: 00 
+Vigente desde 2020-02-04                                                                                                      Página 3 de 7  
+Fomentar el desarrollo de soluciones para afrontar problemáticas ocasionadas por la pandemia de COVID-19 y otras 
+infecciones respiratorias agudas (IRA) de gran impacto en salud pública, mediante la selección y financiación de 
+proyectos que promuevan la obtención de resultados científicos y tecnológicos en torno al diagnóstico, tratamiento, 
+mitigación y monitoreo de las enfermedades correspondientes. 
+ 
+1.2. OBJETIVOS ESPECÍFICOS 
+ 
+1.2.1.  Apoyar proyectos que conduzcan a la construcción y validación pre-comercial y comercial de 
+prototipos de tecnologías basadas en la incorporación de conocimiento científico y tecnológico, para enfrentar 
+la pandemia del COVID-19. 
+ 
+1.2.2. 
+Fomentar la obtención de resultados en CTeI para generar estrategias e instrumentos que 
+contribuyan a contrarrestar los efectos de la propagación del virus SARS-Cov-2 y otros agentes causantes 
+de IRA con potencial de alto impacto en la salud pública.  
+ 
+1.2.3. 
+Promover y fortalecer las capacidades científicas y tecnológicas en el país, a través de la articulación 
+y conformación de alianzas entre los actores del SNCTeI y actores internacionales, que favorezcan la 
+transdisciplinariedad y contribuyan a la solución de los principales retos en materia de salud asociados a la 
+pandemia de COVID-19 y de otros agentes causantes de IRA.  
+ 
+1.2.4. 
+Promover la transferencia de los resultados obtenidos a los entes gubernamentales colombianos, 
+con el fin de que sean considerados en la construcción de políticas sanitarias de las regiones dirigidas a 
+afrontar brotes de infecciones respiratorias. 
+ 
+LÍNEAS TEMÁTICAS 
+ 
+Los proyectos deberán aportar soluciones en una o varias de las siguientes líneas temáticas (ver Anexo 2): 
+1. Salud pública relacionada con la intervención frente a riesgos epidemiológicos asociados a COVID-
+19: Esta línea se relaciona con la gestión del conocimiento para la promoción, prevención y control de riesgos 
+epidemiológicos, dirigida a la comprensión de especificidades de abordaje de poblaciones bajo un enfoque 
+diferencial de poblaciones vulnerables y la percepción del riesgo, conductas, actitudes, prácticas y estrategias 
+de cambio comportamental para el fortalecimiento del autocuidado frente a riesgos epidemiológicos.  
+2. Sistemas de diagnóstico rápido para la infección por SARS-Cov-2: Esta línea está relacionada con la 
+detección temprana del virus SARS-Cov-2 a través de la demostración de la factibilidad técnica de conceptos 
+innovadores o con la validación precomercial o comercial de prototipos de tecnologías elaboradas con este 
+propósito.  
+3. Estrategias de prevención de la infección por SARS-Cov-2 y tratamiento de COVID-19: Esta línea se 
+relaciona con la mitigación de síntomas y con el mejoramiento de las condiciones para el cuidado de 
+pacientes. Dentro de esta línea se contemplan tecnologías que faciliten la atención a pacientes e incluye el 
+mejoramiento de dispositivos médicos ya existentes o la validación de segundos usos de productos 
+disponibles comercialmente, que pudieran ser usados en el marco de las estrategias de manejo de la 
+enfermedad COVID-19. Esta línea está dirigida a las modalidades 2 y 3 de la presente invitación (Anexo 2). 
+ 
+4. Equipos y dispositivos médicos para el manejo de pacientes con COVID-19 y otras infecciones 
+respiratorias agudas, garantizando la seguridad de los profesionales de la salud: Esta línea está 
+dirigida a tecnologías específicas que faciliten la protección de los profesionales de la salud que brindan 
+atención y cuidado a pacientes con COVID-19. Las tecnologías presentadas a través de esta línea deben 
+contar con antecedentes de investigación que sustenten su factibilidad técnica, y el apoyo a los proyectos 
+presentados estará dirigido a la validación precomercial y comercial de las tecnologías que cumplan con esta 
+condición. 
+  
+Av. Calle 26 # 57- 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.minciencias.gov.co 
+Código: M810PR05MO1 
+Versión: 00 
+Vigente desde 2020-02-04                                                                                                      Página 4 de 7  
+ 
+5. Sistemas de monitoreo de datos en tiempo real en relación con la enfermedad producida por SARS-
+Cov-2 y otros agentes causales de IRA, que habiliten la posibilidad de modelar escenarios 
+epidemiológicos: Esta línea está dirigida a tecnologías específicas relacionadas con obtención, uso, acceso 
+e interpretación de datos con el propósito de facilitar la toma de decisiones relacionadas con la pandemia de 
+COVID-19. Las tecnologías presentadas a esta línea deben contar con antecedentes de investigación que 
+sustenten su factibilidad técnica, y el apoyo a los proyectos presentados estará dirigido a la validación 
+precomercial y comercial de las tecnologías que cumplan con esta condición. 
+Nota: Las propuestas presentadas a las diferentes líneas deberán enmarcarse en una de las modalidades de la 
+presente invitación. 
+DESCRIPCIÓN DEL PROYECTO 
+Mediante esta invitación se busca apoyar el desarrollo de proyectos orientados a iniciativas en salud pública y al 
+desarrollo de tecnologías en los diferentes niveles de madurez tecnológica, de acuerdo con las siguientes 
+modalidades (ver Anexo 2): 
+Modalidad 1: 
+Iniciativas en salud pública relacionadas con inteligencia epidemiológica que permitan planear y actuar de manera 
+efectiva ante situaciones de contingencia epidemiológica.  
+ 
+Modalidad 2: 
+Validación Pre-comercial: Evaluación de prototipos de tecnologías en ambientes relevantes (TRL: 4 a 6). Proyectos 
+enfocados en la validación pre-comercial de nuevas tecnologías 
+Modalidad 3: 
+Validación Comercial: Escalamiento de tecnologías para su validación en condiciones reales de operación (TRL: 7 a 
+8. Proyectos que realicen la validación comercial de nuevas tecnologías. 
+PLAZO O DURACIÓN: La entrega de soluciones de los proyectos financiados, en cualquiera de estas modalidades, 
+deber ser durante el 2020. El proponente deberá presentar el tiempo máximo en el que se compromete a entregar la 
+solución durante 2020, así como los avances parciales. 
+FINANCIACIÓN: Minciencias cuenta con una disponibilidad presupuestal para la financiación de proyectos de la 
+presente invitación, por un valor de $26.000.000.000 (VEINTISÉIS MIL MILLONES DE PESOS M/CTE) provenientes 
+del Fondo de Investigación en Salud y recursos de Minciencias. El proponente determinará el presupuesto necesario 
+según el alcance y objetivos de la propuesta. La propuesta presentada deberá ajustarse a un monto mínimo financiable 
+de $500.000.000 (QUINIENTOS MILLONES DE PESOS M/CTE) y un monto máximo financiable de $2.000.000.000 
+(DOS MIL MILLONES DE PESOS M/CTE), incluyendo el rubro de Gestión de Instrumentos en CTeI, el cual deberá 
+ser del 5% del valor financiable. En la propuesta, si la entidad principal que presenta el proyecto establece alianzas 
+con otras entidades, estas últimas, a excepción de entidades internacionales, también podrán recibir fondos si en el 
+proyecto se justifica la necesidad del uso de dicho presupuesto para asegurar la obtención de resultados y el logro de 
+los objetivos. La entidad participante de la invitación en calidad de ejecutora firmará el contrato respectivo y distribuirá 
+los recursos de acuerdo con el detalle de la propuesta. Los recursos otorgados del apoyo económico serán entregados 
+a la entidad ejecutora, quien será la responsable de la ejecución y distribución de los recursos de acuerdo con el 
+alcance de la propuesta presentada y las alianzas que haya establecido. El aporte de contrapartida no es obligatorio; 
+sin embargo, aquellos proponentes que decidan aportar contrapartida pueden realizar contribuciones en efectivo o en 
+especie. En caso de que el oferente aporte una contrapartida, ya sea en dinero o especie, no constituye puntaje 
+adicional en el proceso de selección y evaluación. 
+ 
+  
+Av. Calle 26 # 57- 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.minciencias.gov.co 
+Código: M810PR05MO1 
+Versión: 00 
+Vigente desde 2020-02-04                                                                                                      Página 5 de 7  
+PROCESO DE POSTULACIÓN DE PROPUESTAS (REQUERIMIENTOS TÉCNICOS, TECNOLÓGICOS, 
+HUMANOS). 
+Se realizará en dos fases: Fase 1) Las entidades interesadas en participar en la presente invitación, deberán enviar 
+la propuesta del proyecto, que debe incluir una URL de acceso a un video de máximo 5 min, la cual será evaluada por 
+Minciencias para una preselección. Fase 2) En caso de ser preseleccionada la propuesta, Minciencias informará de 
+manera directa a la entidad proponente por correo electrónico y solicitará  disponibilidad a los proponentes para 
+responder las posibles inquietudes del comité de evaluación con pares expertos, al que se le presentará el video 
+incluido en la propuesta a través de la URL para determinar la potencial financiación del proyecto. Además, solicitará 
+disponibilidad a los proponentes para responder las posibles inquietudes del panel en caso de ser necesario para 
+determinar finalmente su potencial de financiación. Finalmente, se le informará a la entidad proponente por correo 
+electrónico si su proyecto ha sido adjudicado. Solo se aceptará una propuesta por investigador principal. 
+En cualquier momento, el Ministerio de Ciencia, Tecnología e Innovación podrá solicitar que se adicione o 
+complemente la información allegada por los proponentes, con el fin de contar con información clara y precisa para la 
+evaluación de cada una de las propuestas. 
+ 
+PROPUESTA DE PROYECTO 
+Las propuestas deberán contener la siguiente información: 
+1. Carta de aval unificada y compromiso institucional, firmada por los representantes legales o su delegado o 
+apoderado, de las entidades participantes (firma digital o firma electrónica). (Anexo 1). 
+2. Carta de motivación (máx. 1 página) donde se incluya el valor agregado de la investigación para enfrentar la 
+pandemia de COVID-19, otras IRA de gran impacto en salud pública, u otros potenciales patógenos que 
+puedan desencadenar futuras pandemias. Indique por qué este proyecto debe ser considerado idóneo para 
+ser financiado y cómo lograrán los objetivos (por ejemplo, descripción de colaboraciones, infraestructura 
+base, materia prima, entre otros).  
+3. Cvlac del investigador principal y de sus colaboradores nacionales, o biosketch resumido en caso de no 
+disponer de Cvlac (investigadores internacionales, por ejemplo).  
+4. Formato electrónico de presentación de propuesta de proyecto completamente diligenciado en el Sistema 
+Integrado de Gestión de Proyectos de Minciencias - SIGP, con la siguiente información: 
+a) Identificación de la propuesta y entidades participantes. 
+b) Descripción técnica de la propuesta. 
+c) Metodología y Plan de trabajo. 
+d) Presupuesto. 
+La propuesta deberá inscribirse en el Sistema Integrado de Gestión de Proyectos de Minciencias - SIGP a través del 
+formulario electrónico disponible en el portal de Minciencias (www.minciencias.gov.co), a más tardar el próximo 27-
+03-2020 antes de las 23:59 escrita en idioma español y con cifras en pesos colombianos. En caso de inquietudes y 
+preguntas sobre la presente invitación, favor diligenciar el formulario electrónico que se encuentra disponible en el 
+enlace https://minciencias.gov.co/contact, con el asunto “INVITACIÓN N° 1015 SALUD - COVID-19” o a través del 
+correo electrónico: atencionalciudadano@minciencias.gov.co y por nuestro canal telefónico las 24 horas a las 
+siguientes líneas: línea nacional gratuita 018000914446 y línea local Bogotá (57)1 6358480 a las extensiones 
+7402/7404/7407/7408.  
+ 
+PRESENTACIÓN DE LA PROPUESTA 
+Una vez revisadas las propuestas y en caso de ser preseleccionada su iniciativa, Minciencias presentará el video de 
+max 5 min incluido en su propuesta a través de la URL para determinar la potencial financiación del proyecto ante un 
+comité de evaluación con pares expertos. Los proponentes deberán tener disponibilidad dentro de las siguientes 24 
+horas posteriores a la notificación por parte de Minciencias para responder a inquietudes del comité de evaluadores. 
+ 
+COMPONENTE PRESUPUESTAL 
+El presupuesto deberá presentarse discriminado por rubros de acuerdo con lo descrito en el Anexo 2. Serán 
+  
+Av. Calle 26 # 57- 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.minciencias.gov.co 
+Código: M810PR05MO1 
+Versión: 00 
+Vigente desde 2020-02-04                                                                                                      Página 6 de 7  
+financiados con recursos de Minciencias, únicamente los siguientes rubros: 
+1.    Equipos. 
+2.    Materiales e insumos. 
+3.    Bibliografía especializada. 
+4.    Servicios técnicos. 
+5.    Adecuación de infraestructura (máximo 10% del monto solicitado). 
+6.    Software especializado. 
+7.    Salidas de campo. 
+8.    Viajes. 
+9.    Eventos. 
+10. Costos de registro y certificación. 
+11. Publicaciones. 
+12. Personal científico.  
+13. Personal de apoyo. 
+14. Gastos de propiedad intelectual 
+15. Servicios de asistencia y acompañamiento técnico/ asesoría científica y tecnológica. 
+16. Gestión de instrumentos en CTeI (seguimiento y evaluación, 5%) 
+17. Administración (máximo 7% del monto solicitado). 
+ 
+ 
+RUBROS NO FINANCIABLES 
+  
+1.    El personal que sea beneficiario actual de los Programas de "Formación de doctorados" de Minciencias 
+podrá ser vinculado a las actividades investigativas previstas para la ejecución del proyecto, pero en ningún 
+caso, podrá ser beneficiado al mismo tiempo con los recursos provenientes de Minciencias, asignados al 
+rubro de personal en esta convocatoria. Igual tratamiento aplica para los doctores que participen en el 
+proyecto y que sean presentados por las empresas para el beneficio tributario de vinculación de capital 
+humano de alto nivel, caso en el cual la remuneración de dicho personal no podrá ser considerada como 
+contrapartida del proyecto 
+2.    A través del rubro de personal no se financiarán los derechos académicos y de matrícula del personal. 
+3.    Construcciones, mantenimiento de equipos e infraestructura, imprevistos, seguros, adquisición de 
+vehículos, mobiliario de oficina y membresías a sociedades científicas. 
+4.    Honorarios o bonificaciones especiales a personal de nómina de tiempo completo, de entidades públicas 
+o privadas. No obstante, estos sí podrán ser financiados con recursos de contrapartida. 
+5.       Costos fijos de operación institucional. 
+6.    Salarios y prestaciones. El personal de planta no podrá ser financiado con cargo a recursos Minciencias 
+del proyecto, a excepción del personal de planta de los Centros autónomos o Institutos públicos de 
+Investigación y Desarrollo Tecnológico reconocidos por Minciencias. 
+7.    Impuestos y aranceles tales como gravamen a los movimientos financieros generados por las 
+transacciones de los recursos de cofinanciación entregados. 
+8.    Impuesto al valor agregado (IVA) generado por la adquisición de bienes y servicios cofinanciados. 
+9.    Pago de pasivos, pago de dividendos y aumento del capital social de las empresas. 
+10. Estudios que no estén asociados al desarrollo del proyecto. 
+11. Adquisición de materia prima, maquinaria y equipo no determinantes para el proyecto. 
+12. Gastos de legalización del contrato. 
+13. Los demás que no estén especificados como rubros financiables en el presente documento. 
+ Nota: 
+1.  Las entidades participantes en los proyectos financiados podrán acceder a los siguientes beneficios tributarios 
+en CTeI: 
+Para Instituciones de educación y centros de investigación y desarrollo tecnológico reconocidos por Minciencias: 
+1. Exención del IVA por importación de equipos y elementos: Todos los equipos y elementos que importen estas 
+  
+Av. Calle 26 # 57- 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+www.minciencias.gov.co 
+Código: M810PR05MO1 
+Versión: 00 
+Vigente desde 2020-02-04                                                                                                      Página 7 de 7  
+instituciones, en el marco de los proyectos apoyados en esta iniciativa podrán solicitar la exención de IVA la 
+cual incluye el valor del equipo, los seguros y fletes. (Art. 428-1 E.T.) 
+Para Empresas: 
+1. Deducción y descuento por inversión en CTeI: La inversión asociada a esta invitación realizada por las 
+empresas en los rubros aprobados por el CNBT, podrá deducirse en un 100% (Art. 158-1 del Estatuto 
+Tributario, en adelante E.T., y descontar directamente del impuesto a pagar el 25% de la inversión (Art. 256 
+del E.T.) hasta un tope del 25% del impuesto a pagar (Art. 258 del E.T.) 
+2. Vinculaciòn de personal con título de doctorado: Las empresas podrán deducir el 100% y descontar el 25% 
+de la remuneración pagada por cada persona con título de Doctorado adicional vinculado a la empresa con 
+respecto al personal con título de Doctorado existente en la empresa al 25 de mayo de 2019. 
+Para el personal científico involucrado en proyectos de CTeI: 
+1. Ingresos no constitutivos de renta y/o Ganancia Ocasional: La remuneración que reciban las personas 
+naturales por su participación como personal científico, podrá solicitarse como un ingreso no constitutivo de 
+renta y/o ganancia ocasional. 
+Para el acceso a estos beneficios tributarios, por favor consultar los criterios, condiciones y directrices definidas por 
+el Consejo Nacional de Beneficios Tributarios en Ciencia, Tecnología e Innovación. Mayor información en el siguiente 
+link: https://minciencias.gov.co/viceministerios/conocimiento/direccion_transferencia/beneficios-tributarios. 
+CONDICIONES INHABILITANTES 
+ 
+Las Entidades no deberán incurrir en ninguna de las causales de inhabilidad y/o incompatibilidad establecidas en el 
+Estatuto General de Contratación Pública y demás normas legales pertinentes. El investigador principal solo podrá 
+presentar una única propuesta a esta invitación. 
+ 
+Nota:  
+ 
+Con la firma del documento de carta de aval unificada, los proponentes declaran que no están incurriendo en ninguna 
+de las inhabilidades descritas en este numeral. 
+ 
+ 
+Esta invitación ni el correo electrónico de invitación a presentar propuesta, genera obligatoriedad alguna para 
+Minciencias de suscribir contrato, o de entregar información referente al proceso interno que se está adelantando, 
+toda vez que éste es un procedimiento de contratación directa, que tiene su fundamento en la Ley 1286 de 2009 y 
+conforme al cual Minciencias en su desarrollo está obligado a garantizar el mérito, calidad e idoneidad de acuerdo con 
+el marco normativo que lo regula. Este proceso no es asimilable a una convocatoria pública, ni a los procesos de 
+pluralidad de oferentes que consagra la ley 80 de 1993, es decir, licitación, selección abreviada, concurso de méritos, 
+mínima cuantía entre otros. 
+ 
+Cordialmente,  
+ 
+ 
+ 
+Eduardo Rojas Pineda 
+Director de Inteligencia de Recursos de la Ciencia, la Tecnología y la Innovación 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F02 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 1 de 7  
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+_______________________________________________________________________________________________ 
+ 
+ 
+EL MINISTERIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN – MINCIENCIAS – 
+ 
+ 
+INVITACIÓN A PRESENTAR PROPUESTAS DE PROYECTOS ORIENTADOS AL DESARROLLO DE TECNOLOGÍAS 
+QUE CONTRIBUYAN A LA SOLUCION DE PROBLEMATICAS ACTUALES DE SALUD RELACIONADAS CON LA 
+PANDEMIA DE COVID-19 
+ 
+ANEXO 2  
+ DEFINICIÓN DE MODALIDADES Y DE LAS LÍNEAS TEMÁTICAS PARA LA INVITACIÓN  
+ 
+MODALIDADES PARA LA APLICACIÓN DE PROYECTOS A LA INVITACIÓN 
+Las propuestas presentadas la invitación deberán enmarcarse en una de las siguientes modalidades:  
+Modalidad 1: 
+Iniciativas en salud pública relacionadas con inteligencia epidemiológica que permitan planear y actuar de manera efectiva 
+ante situaciones de contingencia epidemiológica. 
+ 
+Modalidad 2: 
+Validación Pre-comercial: Evaluación de prototipos de tecnologías en ambientes relevantes (TRL: 4 a 6). Proyectos 
+enfocados en la validación pre-comercial de nuevas tecnologías. 
+Modalidad 3: 
+Validación Comercial: Escalamiento de tecnologías para su validación en condiciones reales de operación (TRL: 7 a 8). 
+Proyectos que realicen la validación comercial de nuevas tecnologías. 
+DEFINICIÓN DE LAS LÍNEAS TEMÁTICAS. 
+ 
+Así mismo, las propuestas presentadas deberán enmarcarse en una de las siguientes líneas: 
+Salud pública relacionada con la intervención frente a riesgos epidemiológicos: Esta línea se relaciona con la gestión 
+del conocimiento para el control y la prevención de riesgos epidemiológicos, dirigida a la comprensión de especificidades de 
+abordaje de poblaciones bajo un enfoque diferencial de poblaciones vulnerables y la percepción del riesgo; conductas; 
+actitudes; prácticas y estrategias de cambio comportamental para el fortalecimiento del autocuidado frente a riesgos 
+epidemiológicos. Esta línea es exclusiva de la modalidad 1. 
+Sistemas de diagnóstico rápido para la infección por SARS-Cov-2: Esta línea está relacionada con la detección 
+temprana del virus SARS-Cov-2 a través de la demostración de la factibilidad técnica de conceptos innovadores o con la 
+validación precomercial o comercial de prototipos de tecnologías elaboradas con este propósito. Esta línea apoya los 
+diferentes niveles de alistamiento tecnológico incluyendo la investigación habilitante que pudiese generar una tecnología a 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F02 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 2 de 7  
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+_______________________________________________________________________________________________ 
+largo plazo.   
+Estrategias de prevención de la infección por SARS-Cov-2 y tratamiento de COVID-19: Esta línea se relaciona con la 
+mitigación de síntomas y con el mejoramiento de las condiciones para el cuidado de pacientes. Dentro de esta línea se 
+contemplan tecnologías que faciliten la atención a pacientes e incluye el mejoramiento de dispositivos médicos ya existentes 
+o la validación de segundos usos de productos disponibles comercialmente, que pudieran ser usados en el marco de las 
+estrategias de manejo de la enfermedad COVID-19. Esta línea está dirigida a las modalidades 2 y 3 de la presente 
+invitación. 
+Equipos y dispositivos médicos para el manejo de pacientes con COVID-19 y otras infecciones respiratorias 
+agudas, garantizando la seguridad de los profesionales de la salud: Esta línea está dirigida a tecnologías específicas 
+que faciliten la protección de profesionales de la salud que brindan atención y cuidado a pacientes con coronavirus. Las 
+tecnologías presentadas a esta línea deben contar con antecedentes de investigación que sustenten su factibilidad y el 
+apoyo a los proyectos presentados estará dirigido a la validación precomercial y comercial de las tecnologías que los 
+sustentan. 
+Sistemas de monitoreo de datos en tiempo real en relación con la enfermedad producida por SARS-Cov-2 y otros 
+agentes causales de IRA, que habiliten la posibilidad de modelar escenarios epidemiológicos: Esta línea está dirigida 
+a tecnologías específicas relacionadas con obtención, uso, acceso e interpretación de datos con el propósito de facilitar la 
+toma de decisiones relacionadas con la pandemia de COVID-19. Las tecnologías presentadas a esta línea deben contar con 
+antecedentes de investigación que sustenten su factibilidad técnica, y el apoyo a los proyectos presentados estará dirigido a 
+la validación precomercial y comercial de las tecnologías que cumplan con esta condición. 
+Nota: Las propuestas presentadas a las diferentes líneas deberán enmarcarse en una de las modalidades de la presente 
+invitación. 
+RELACIÓN DE LAS LÍNEAS TEMÁTICAS CON LAS MODALIDADES DE LA INVITACIÓN 
+A continuación, se define a qué modalidad puede presentarse una propuesta dependiendo de la línea con la que se 
+relacione: 
+LÍNEA TEMÁTICAS 
+Modalidad 1 
+Modalidad 2 
+Modalidad 3 
+Salud pública relacionada con la intervención frente a riesgos 
+epidemiológicos asociados a COVID-19 
+X 
+ 
+ 
+Sistemas de diagnóstico rápido para la infección por SARS-Cov-2 
+ 
+X 
+X 
+Estrategias de prevención de la infección por SARS-Cov-2 y 
+tratamiento de COVID-19 
+ 
+X 
+X 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F02 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 3 de 7  
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+_______________________________________________________________________________________________ 
+Equipos y dispositivos médicos para el manejo de pacientes con 
+COVID-19 y otras infecciones respiratorias agudas, garantizando 
+la seguridad de los profesionales de la salud 
+  
+X  
+X  
+Sistemas de monitoreo de datos en tiempo real en relación con la 
+enfermedad producida por SARS-Cov-2 y otros agentes causales 
+de IRA, que habiliten la posibilidad de modelar escenarios 
+epidemiológicos 
+ X 
+X  
+X  
+ 
+GUÍA PARA LA APLICACIÓN DE PROYECTOS 
+ 
+La siguiente información corresponde a una guía para la aplicación de proyectos a la invitación. Las aplicaciones y 
+tecnologías aquí definidas no cuentan con un carácter obligatorio dentro de la invitación. 
+  
+LÍNEAS/RETOS: DESARROLLAR, 
+ADOPTAR O ADAPTAR. SOLUCIONES 
+RÁPIDAS A PROBLEMAS URGENTES. 
+APLICACIONES 
+TECNOLOGÍAS 
+Salud pública relacionada con la 
+intervención frente a riesgos 
+epidemiológicos asociados a COVID-19 
+Desarrollo de estrategias de intervención en salud 
+pública a nivel nacional y/o regional. 
+ 
+Desarrollo de modelos de atención innovadores. 
+ 
+Investigaciones dirigidas a establecer la correlación 
+entre factores de riesgo, respuesta terapéutica, 
+complicaciones, secuelas, carga de enfermedad y 
+discapacidad a partir del análisis de resultados de 
+ensayos clínicos. 
+ 
+Análisis de determinantes sociales, socioculturales y 
+dinámicas 
+poblacionales 
+que 
+permitan 
+la 
+comprensión y diseño de alternativas para la 
+prevención o intervención de poblaciones altamente 
+vulnerables a nivel nacional y/o regional. 
+ 
+Caracterización de conductas, actitudes y prácticas 
+y diseño de estrategias de cambio comportamental 
+para el fortalecimiento del autocuidado. 
+ 
+Diseño de modelos comunicativos que permitan 
+optimizar el uso de redes sociales y plataformas 
+informáticas para la prevención de contagio, 
+diagnóstico temprano o reconocimiento de cadenas 
+No Aplica 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F02 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 4 de 7  
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+_______________________________________________________________________________________________ 
+de transmisión. 
+ 
+Análisis comparado sobre morbi-mortalidad en la 
+implementación de estrategias e intervenciones de 
+salud pública.  
+ 
+Análisis del impacto de instrumentos de política 
+pública relacionados con la intervención para la 
+mitigación de riesgos epidemiológicos.  
+ 
+Análisis de determinantes sociales y diseño de 
+estrategias de abordaje diferencial de poblaciones 
+según condición étnica y factor de vulnerabilidad. 
+ 
+Reconocimiento de dificultades y alternativas de 
+intervención para modificación de percepción del 
+riesgo y adopción de patrones de autocuidado en 
+poblaciones altamente vulnerables. 
+ 
+Investigación de impacto y deficiencias en 
+estrategias comunicacionales implementadas. 
+ 
+Análisis comparado de impacto y/o costo efectividad 
+de modelos de atención ambulatoria u hospitalaria 
+implementados. 
+ 
+Estudios epidemiológicos, clínicos e investigaciones 
+comportamentales. 
+Sistemas de diagnóstico rápido para la 
+infección por SARS-Cov-2 
+Desarrollo de herramientas de diagnóstico rápido 
+para la detección de SARS-Cov-2 con base en 
+diferentes plataformas tecnológicas. 
+ 
+Adquisición y procesamiento de imágenes que 
+permitan desarrollar sistemas de IA para el 
+reconocimiento, detección o clasificación de 
+diferentes etapas de evolución de COVID-19. 
+ 
+Desarrollo de modelos predictivos con base en 
+información geográfica, ambiental, económica y 
+social; en estadísticas, antecedentes, literatura 
+científica, entre otras, que facilite y agilice la toma 
+de decisiones en atención a la emergencia causada 
+por COVID-19. 
+ 
+Sondas 
+genéticas 
+/ 
+Marcadores de ADN  
+Secuenciación de ADN o 
+ARN 
+Amplificación de ADN o 
+ARN 
+HTS 
+(High-Throughput 
+Sequencing 
+Technologies) 
+Señalización biológica 
+Receptores celulares 
+Nanotecnología 
+Genómica 
+/ 
+farmacogenómica 
+Tecnologías 
+de 
+ADN 
+recombinante 
+Síntesis de ADN o ARN 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F02 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 5 de 7  
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+_______________________________________________________________________________________________ 
+Desarrollo de equipos o dispositivos médicos de 
+rápida implementación para la identificación de 
+síntomas producidos por infecciones respiratorias 
+agudas o para el control y tratamiento de síntomas. 
+ 
+Desarrollo de modelos de aprendizaje para el 
+análisis 
+y 
+procesamiento 
+de 
+información 
+farmacológica, biológica, literatura científica, entre 
+otros, que faciliten la toma de decisiones en 
+desarrollo de nuevos medicamentos, medicación 
+combinada o tratamiento de COVID-19. 
+Regulación génica 
+Transcriptómica 
+Síntesis de péptidos 
+Ingeniería de proteínas 
+Proteómica 
+Cultivo y manipulación 
+de células, tejidos y 
+embriones 
+Ingeniería de tejidos 
+Fusión celular 
+Vacunas 
+/ 
+Inmunoestimulantes 
+Ensamblaje 
+de 
+componentes biológicos 
+(bioladrillos) 
+Nuevos 
+circuitos 
+genéticos 
+Ingeniería 
+de 
+rutas 
+metabólicas 
+Ingeniería celular 
+Procesos que involucren 
+el uso de biorreactores 
+Terapia génica 
+Vectores virales 
+ 
+Procesamiento 
+de 
+imágenes 
+Machine Learning 
+Deep Learning 
+Reconocimiento 
+de 
+patrones 
+Razonamiento 
+basado 
+en casos y sistemas 
+expertos 
+Otras 
+técnicas 
+reconocidas 
+en 
+Inteligencia Artificial 
+Diseño 
+biomédico 
+/electrónico 
+Estrategias de prevención de la infección 
+por SARS-Cov-2 y tratamiento de 
+COVID-19 
+Desarrollo y producción de dispositivos médicos de 
+rápida implementación. 
+ 
+Asistentes personales o robots para suministro de 
+alimentos, medicamentos y control de la 
+Reconocimiento de voz 
+Asistentes personales 
+virtuales 
+Robótica, Cobots 
+Smart Robots 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F02 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 6 de 7  
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+_______________________________________________________________________________________________ 
+temperatura de pacientes. 
+ 
+Desarrollo de equipos o dispositivos que habiliten la 
+hospitalización domiciliaria, aislamiento efectivo, y 
+vigilancia de pacientes y potenciales contagiados. 
+ 
+Mejoramiento 
+significativo 
+de 
+instrumentación 
+(equipos, dispositivos, interfaces) que faciliten la 
+atención y manejo intrahospitalario y domiciliario de 
+pacientes.  
+ 
+Reposicionamiento (drug repurposing) y desarrollo 
+de nuevos medicamentos, productos biológicos o 
+fitoterapéuticos con potencial para el tratamiento de 
+pacientes con SARS-Cov-2, y otros agentes 
+causantes de IRA con potencial pandémico. 
+ 
+Procesamiento de 
+imágenes, texto, 
+Lenguaje natural, 
+emociones 
+Realidad aumentada 
+Realidad virtual 
+Realidad Mixta 
+Monitoreo móvil en salud 
+Nanotecnología 
+Diseño biomédico 
+/electrónico 
+Impresión 3D 
+Sistemas de 
+Georeferenciación 
+Biometría 
+ 
+Sondas 
+genéticas 
+/ 
+Marcadores de ADN  
+Secuenciación de ADN o 
+ARN 
+Amplificación de ADN o 
+ARN 
+HTS 
+(High-Throughput 
+Sequencing 
+Technologies) 
+Señalización biológica 
+Receptores celulares 
+Nanotecnología 
+Genómica 
+/ 
+farmacogenómica 
+Tecnologías 
+de 
+ADN 
+recombinante 
+Síntesis de ADN o ARN 
+Regulación génica 
+Transcriptómica 
+Síntesis de péptidos 
+Ingeniería de proteínas 
+Síntesis Orgánica 
+Diseño de fármacos 
+Screening 
+de 
+compuestos 
+Proteómica 
+Cultivo y manipulación 
+de células, Tejidos y 
+embriones 
+Ingeniería de tejidos 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Código: M801PR01F02 
+Versión: 00 
+Vigente desde 2020-01-09 
+Página 7 de 7  
+Av. Calle 26 # 57- 41 / 83 Torre 8 Piso 2 – PBX: (57+1) 6258480, Ext 2081 – Línea gratuita nacional 018000914446 – Bogotá D.C. Colombia 
+_______________________________________________________________________________________________ 
+ 
+Fusión celular 
+Vacunas 
+/ 
+Inmunoestimulantes 
+Ensamblaje 
+de 
+componentes biológicos 
+(bioladrillos) 
+Nuevos 
+circuitos 
+genéticos 
+Ingeniería 
+de 
+rutas 
+metabólicas 
+Ingeniería celular 
+Procesos que involucren 
+el uso de biorreactores 
+Terapia génica 
+Vectores virales y no 
+virales 
+Equipos y dispositivos médicos para el 
+manejo de pacientes con COVID-19 y 
+otras infecciones respiratorias agudas, 
+garantizando la seguridad de los 
+profesionales de la salud 
+Desarrollo 
+de 
+sistemas 
+de 
+diagnóstico, 
+autodiagnóstico y atención remota que disminuyan 
+la movilización de los potenciales infectados con 
+SARS-Cov-2, para integrarlo al sistema de salud. 
+ 
+Desarrollo de equipos o dispositivos médicos para la 
+identificación 
+de 
+síntomas 
+producidos 
+por 
+infecciones respiratorias agudas o para el control y 
+tratamiento de síntomas. 
+ 
+Desarrollo o mejora significativa de tecnologías, 
+equipos o dispositivos para la protección y 
+seguridad del personal de la salud.  
+Diseño biomédico 
+/electrónico 
+Realidad aumentada 
+Realidad virtual 
+Realidad Mixta 
+Vestibles 
+Redes de sensores 
+Asistentes personales 
+virtuales 
+Biometría 
+Sistemas de monitoreo de datos en 
+tiempo 
+real 
+en 
+relación 
+con 
+la 
+enfermedad producida por SARS-Cov-2 
+y otros agentes causales de IRA, que 
+habiliten la posibilidad de modelar 
+escenarios epidemiológicos. 
+Desarrollo de dispositivos biométricos de uso 
+hospitalario que permitan tener estadísticas en 
+tiempo real de la evolución de síntomas en 
+pacientes diagnosticados con COVID-19.  
+ 
+Captura, almacenamiento y acceso a datos en 
+tiempo real como soporte a la toma de decisiones 
+sobre COVID-19 y otras IRA. 
+ 
+Análisis e interpretación de la epidemiología de la 
+enfermedad y generación de modelos de 
+intervención. 
+Internet de las cosas 
+Vestibles 
+Redes de sensores 
+Asistentes personales 
+virtuales 
+Machine learning 
+Big data 
+  
+ 
+PREGUNTAS PRESENTADAS POR LOS CIUDADANOS Y 
+RESPUESTAS FRENTE A LA INVITACIÓN 
+ 
+Solicito las bases y conocer si podemos aplicar al fondo de financiamiento que 
+su gobierno está prestando a iniciativas que puedan combatir, gestionar y 
+prevenir la propagación de esta pandemia que está azotando a nuestros 
+países.  
+Nos permitimos recomendarle que revise la información contenidas sobre  la  
+invitación  en  la  página  de Minciencias,         que         encuentra         
+ingresando         a         través         del         
+enlacehttps://minciencias.gov.co/convocatorias/invitacion-para-
+presentacion-propuestas/invitacion-presentar-proyectos-que-contribuyan.  Es 
+importante que analice los requisitos y las condiciones para participar en el 
+proceso. 
+En atención al llamado por parte de la distinguida organización, deseo 
+responsablemente, ofrecer una solución holística a través del apoyo 
+sistemático (portafolios de diferentes tecnologías) de las empresas que 
+representamos en 4 continentes.  Para ello solicito un espacio donde podamos 
+expresar brevemente nuestra propuesta. Por favor indicar persona de 
+contacto para poder suministrarles la respectiva información. 
+De manera atenta le informamos que la Invitación a presentar proyectos que 
+contribuyan a la solución de problemáticas actuales de salud relacionadas 
+ con la pandemia de COVID-19 tiene como objetivo Fomentar el desarrollo de 
+soluciones para afrontar problemáticas ocasionadas por la pandemia de 
+COVID-19 y otras infecciones respiratorias agudas (IRA) de gran impacto en 
+salud pública, mediante la selección y financiación de proyectos que 
+promuevan la obtención de resultados científicos y tecnológicos en torno al 
+diagnóstico, tratamiento, mitigación y monitoreo de las enfermedades 
+correspondientes. Si usted desea aplicar los términos ya se encuentran 
+disponibles en la página de la entidad recuerde ingresar a través del siguiente 
+enlace:  
+https://minciencias.gov.co/convocatorias/invitacion-para-presentacion-
+propuestas/invitacion-presentar-proyectos-que-contribuyan  
+Recuerde que para acceder al formulario para presentar sus propuestas, lo 
+puede 
+hacer 
+ingresando 
+a 
+https://plataformasigp.minciencias.gov.co:7003/FormularioProyectos/faces/pro
+yecto/crear.xhtml 
+¿Qué debo hacer para subir el vídeo, solicitado en la invitación, a la 
+plataforma? 
+Nos permitimos informarle que tal como lo indica la siguiente imagen, la 
+solicitud está dirigida al cargue de una URL la cual nos debe permitir la 
+visualización de dicho video, con forme a lo anterior no se hace 
+necesario cargar el video en la plataforma.  
+ 
+Estimados, en el marco de la "Invitación a presentar proyectos que 
+contribuyan a la solución de problemáticas actuales de salud relacionadas 
+con la pandemia de COVID-19", para la línea de Salud pública relacionada 
+ con la intervención frente a riesgos epidemiológicos asociados a COVID-19, 
+¿es viable una iniciativa para monitorear variables sociodemográficas y rutinas 
+diarias relacionadas con el desarrollo sociocognitivo de niños y niñas entre 0 y 
+6 años de edad? 
+En atención a su inquietud le informamos que en el Anexo 2, Modalidades y 
+Líneas  Temáticas, se hace una descripción del enfoque de cada una de las 
+líneas a las que apunta  la invitación. En particular, respecto a la línea de Salud 
+Pública, el enfoque va dirigido a "la gestión del conocimiento para el control y 
+la prevención de riesgos epidemiológicos, dirigida a la comprensión de 
+especificidades de abordaje de poblaciones bajo un enfoque diferencial de 
+poblaciones vulnerables y la percepción del riesgo; conductas; actitudes; 
+prácticas y estrategias de cambio comportamental para el fortalecimiento del 
+autocuidado frente a riesgos epidemiológicos. Esta línea es exclusiva de la 
+modalidad 1" De acuerdo con lo anterior, lo invitamos a que revise si el 
+contenido de su propuesta se ajusta a este enfoque y, de considerarlo así, 
+someter la propuesta al proceso de evaluación para que sean los expertos 
+temáticos quienes ponderen su pertinencia y viabilidad para su financiación. 
+En sección de "CONDICIONES INHABILITANTES" especifica que "El investigador 
+principal solo podrá presentar una única propuesta a esta invitación.", pero la 
+cuestión que me surge es si: ¿El investigador principal puede ser colaborador 
+en otros proyectos que se estén presentando? Esta duda surge debido a que 
+el investigador principal no estaría presentando una nueva propuesta, solo 
+estaría actuando como investigador colaborador en otros proyectos, entonces 
+sería válida dicha participación. 
+De acuerdo con su requerimiento, le informamos que el investigador principal 
+de una propuesta puede participar en otro proyecto u proyectos como co-
+investigador, dado que esto no es una causal in habilitante para la propuesta. 
+De acuerdo con la convocatoria publicada en la página, quisiera recibir 
+información adicional sobre los alcances de la misma y los recursos disponibles 
+para resolver la problemática.  Actualmente pertenezco a un semillero de 
+investigación y trabajo en el campo de la ingeniería biomédica, lo que me 
+permite conocer un poco más de esta problemática. 
+De manera atenta le informamos que la Invitación a presentar proyectos que 
+contribuyan a la solución de problemáticas actuales de salud relacionadas 
+con la pandemia de COVID-19 tiene como objetivo Fomentar el desarrollo de 
+soluciones para afrontar problemáticas ocasionadas por la pandemia de 
+COVID-19 y otras infecciones respiratorias agudas (IRA) de gran impacto en 
+salud pública, mediante la selección y financiación de proyectos que 
+promuevan la obtención de resultados científicos y tecnológicos en torno al 
+diagnóstico, tratamiento, mitigación y monitoreo de las enfermedades 
+correspondientes. Si usted desea aplicar los términos ya se encuentran 
+disponibles en la página de la entidad recuerde ingresar a través del siguiente 
+enlace:  
+https://minciencias.gov.co/convocatorias/invitacion-para-presentacion-
+propuestas/invitacion-presentar-proyectos-que-contribuyan  
+Cabe aclarar que en el documento podrá verificar las líneas temáticas que se 
+establecieron para la invitación y los productos que se esperan como 
+ resultado de las mismas, adicional el punto de financiación donde se 
+menciona los rubros financiables y los no financiables.  
+Recuerde que, para acceder al formulario para presentar sus propuestas, lo 
+puede 
+hacer 
+ingresando 
+a 
+https://plataformasigp.minciencias.gov.co:7003/FormularioProyectos/faces/pro
+yecto/crear.xhtml  
+Sugerimos ingresar y verificar. 
+¿Siendo persona natural con establecimiento de comercio dirigido a procesos 
+tecnológicos podemos presentar la propuesta? ¿O debo ser persona jurídica?  
+De acuerdo con su requerimiento, le informamos nuevamente que si usted no 
+cumple con el "DIRIGIDO A" de la invitación mencionado en la respuesta 
+anterior su propuesta no se tendrá en cuenta como elegible, por tanto, si 
+desea presentarse deberá ajustarla conforme a los documentos publicados en 
+el portal de Minciencias. 
+¿Cómo pueden participar las personas independientes en la convocatoria de 
+proyectos parasolución de problemas relacionados con el COVID-19? 
+Observaciones: 
+Traté 
+de 
+entrar 
+a 
+través 
+de 
+la 
+páginahttps://www.minciencias.gov.co/convocatorias/invitacion-para-
+presentacion-propuestas/invitacion-presentar-proyectos-que-contribuyan pero 
+parece que solo sirve para instituciones de EducaciónSuperior e Instituciones 
+Prestadoras de Servicios de Salud. ¿Cómo debe hacerse la propuesta si no 
+estoy afiliado directamente a alguna de estas instituciones? 
+Por lo anterior, no se determinó la presentación de propuestas de proyectos de 
+investigación por medio de personas naturales, por lo tanto, si usted desea 
+participar en el proceso de la invitación, sugerimos contactarse y presentar su 
+propuesta con alguna Instituciones de Educación Superior e Instituciones 
+Prestadoras de Servicios de Salud que cuenten con grupos en categoría A1, A 
+o B o con algún centros e institutos de investigación y desarrollo tecnológico 
+reconocidos por Minciencias y que cuenten con experiencia demostrable en 
+las líneas temáticas de la presente invitación.  
+Por 
+medio 
+del 
+siguiente 
+enlace 
+(https://sba.minciencias.gov.co/Buscador_Grupos/busqueda?q=salud&pagen
+um=1&start=0&type=load) podrá consultar los grupos de investigación 
+reconocidos y categorizados por Minciencias y por el siguiente link 
+(https://minciencias.gov.co/portafolio/reconocimiento_de_actores) determina 
+el listado de los actores del SNCTeI reconocidos por el ministerio, y entre ellos 
+podrá visualizar los centros e institutos de investigación y desarrollo 
+tecnológico. 
+Por medio de la presente se solicita que los términos de referencia de esta 
+convocatoria mincienciaton sean modificados y expandidos a todos los 
+grupos de trabajo voluntarios que de forma desinteresados han invertido 
+tiempo y recursos en desarrollos y que no se encuentran en el ecosistema de 
+ciencia y tecnología del país. Tengan presente que muchos de los 
+profesionales con experiencia médica o técnica no son investigadores son 
+empleados de empresas especialmente internacionales (caso de equipos 
+médicos) que están ofreciendo su guía y conocimiento. Por la premura de la 
+convocatoria no da para negociaciones con grupos locales. 
+ De manera atenta le informamos que puede presentarse en alianza a la 
+Invitación, recuerde que esta es una invitación de prioridad nacional, dirigida 
+a Instituciones de Educación Superior (IES) e instituciones prestadoras de 
+servicios de salud que cuenten con grupos de investigación categorizados 
+como A1, A o B, centros de investigación o desarrollo tecnológico e institutos 
+de investigación reconocidos por Minciencias, en posible alianza con otros 
+actores de CTeI y/o empresas de todos los tamaños con personería jurídica, y 
+que con su experiencia científica y tecnológica permitan ayudar a 
+contrarrestar la propagación del virus SARS-Cov-2, causante del COVID-19, 
+como también promover el bienestar de la población y de los equipos del 
+área de la salud que están en la primera línea de trabajo contrarrestando la 
+pandemia. 
+Estamos interesados en participar en la convocatoria sobre propuestas de 
+investigaciones relacionadas con la pandemia de COVID-19. Sin embargo, 
+agradecemos que nos puedan aclarar si el número de propuestas se restringe 
+a los investigadores líderes que desean participar o, adicionalmente, hay un 
+número limitado de aplicaciones por instituciones. 
+Atendiendo su requerimiento, de manera atenta nos permitimos informar que 
+el investigador principal solo podrá presentar una única propuesta a esta 
+invitación.  
+Tenga presente que la invitación se encuentra dirigida a Instituciones de 
+Educación Superior (IES) e instituciones prestadoras de servicios de salud que 
+cuenten con grupos de investigación categorizados como A1, A o B, centros 
+de investigación o desarrollo tecnológico e institutos de investigación 
+reconocidos por Minciencias, en posible alianza con otros actores de CTeI y/o 
+empresas de todos los tamaños con personería jurídica, y que con su 
+experiencia científica y tecnológica permitan ayudar a contrarrestar la 
+propagación del virus SARS-Cov-2, causante del COVID-19, como también 
+promover el bienestar de la población y de los equipos del área de la salud 
+que están en la primera línea de trabajo contrarrestando la pandemia sin 
+limitar el número de propuestas por institución. 
+ 
+Solicitamos atentamente información relacionada con la convocatoria covid-
+19 respecto a las firmas del anexo 1, si pueden ser firmas digitales y debido a 
+que participa la gobernación xxxx debe ir la firma del gobernador o se puede 
+con las firmas de secretarios (CteI y/o salud) agradecemos su atención  
+De manera atenta le informamos que para la carta de aval se permiten firmas 
+digitales o electrónicas, es importante tener en cuenta que dicha carta tiene 
+que venir firmada por los representantes legales o su delegado o apoderado.  
+Si el secretario es delegado y tiene un poder firmado que se lo permita hacer, 
+lo puede firmar el, para lo cual se debe adjuntar el poder al aplicativo. 
+Si mi grupo de investigación es C. Deberé entonces unirme a otro grupo para 
+poder participar. 
+Esta invitación de prioridad nacional, está dirigida a Instituciones de Educación 
+Superior (IES) e instituciones prestadoras de servicios de salud que cuenten con 
+grupos de investigación categorizados como A1, A o B, centros de 
+ investigación o desarrollo tecnológico e institutos de investigación reconocidos 
+por Minciencias, en posible alianza con otros actores de CTeI y/o empresas de 
+todos los tamaños con personería jurídica, y que con su experiencia científica y 
+tecnológica permitan ayudar a contrarrestar la propagación del virus SARS-
+Cov-2, causante del COVID-19, como también promover el bienestar de la 
+población y de los equipos del área de la salud que están en la primera línea 
+de trabajo contrarrestando la pandemia.  
+Las alianzas entre entidades son bienvenidas, y estas últimas, a excepción de 
+entidades internacionales, también podrán recibir fondos si en el proyecto se 
+justifica la necesidad del uso de dicho presupuesto para asegurar la obtención 
+de resultados y el logro de los objetivos y las alianzas que haya establecido.  
+Invitamos a las instituciones a trabajar de la mano de Minciencias para 
+promover el mayor número de colaboraciones haciendo uso de la diplomacia 
+y cooperación científica, que permitan y/o faciliten acelerar la obtención de 
+resultados. 
+Qué posibilidad se tiene de extender el plazo de la revisión y aval ético, lo 
+anterior teniendo en cuenta los tiempos de actuación del Comité de Ética 
+Institucional y sobre todo los tiempos para obtener las correcciones de los 
+investigadores a los comentarios emitidos desde el Comité.  
+De acuerdo con su requerimiento le informamos que el aval por parte del 
+comité de ética no es un requisito para la presentación de la propuesta, sin 
+embargo, le recalcamos que el Ministerio de Ciencia, Tecnología e Innovación 
+podrá solicitar que se adicione o complemente la información allegada por los 
+proponentes, con el fin de contar con información clara y precisa para la 
+evaluación de cada una de las propuestas o de ser beneficiaria de la 
+convocatoria, para su etapa de contratación. Es importante mencionar que 
+dada la contingencia en el país, también se ha flexibilizado la entrega de 
+documentos con firmas digitales de avales. 
+Adicionalmente, este proceso de presentación de proyectos aunque 
+novedoso en nuestro país, es implementado por muchas organizaciones en el 
+mundo, y dada sus características es una herramienta ideal para convocar a 
+los investigadores a hacer frente desde la CTeI a la pandemia de COVID-19 en 
+este momento. 
+Quisiéramos que nos aclararan algo, dentro de la presentación de la 
+convocatoria el rol de ejecutor del proyecto lo debe asumir la 
+Universidad o podría asumirlo la Gobernación de XXXXX. 
+De manera atenta le informamos que la Invitación a presentar 
+proyectos que contribuyan a la solución de problemáticas actuales de 
+salud relacionadas con la pandemia de COVID-19 tiene como objetivo 
+Fomentar el desarrollo de soluciones para afrontar problemáticas 
+ocasionadas por la pandemia de COVID-19 y otras infecciones 
+respiratorias agudas (IRA) de gran impacto en salud pública, mediante 
+la selección y financiación de proyectos que promuevan la obtención 
+de resultados científicos y tecnológicos en torno al diagnóstico, 
+tratamiento, 
+mitigación 
+y 
+monitoreo 
+de 
+las 
+enfermedades 
+ correspondientes. Si usted desea aplicar los términos ya se encuentran 
+disponibles en la página de la entidad recuerde ingresar a través del 
+siguiente enlace:  
+https://funcionario.colciencias.gov.co/sslvpn/PT/https://minciencias.gov.
+co/convocatorias/invitacion-para-presentacion-propuestas/invitacion-
+presentar-proyectos-que-contribuyan  
+En este caso ustedes deben ajustarse el "Dirigido A" mencionado 
+anteriormente con el fin de aplicar a la convocatoria, de lo contrario la 
+propuesta no es elegible para la invitación, es decir, que quien tenga el 
+grupo categorizado obtendrá el rol de ejecutor de la propuesta. 
+ 
+Nos surge una inquietud respecto a la invitación. Dado que 
+posiblemente 
+participen 
+en 
+la 
+convocatoria 
+diferentes 
+grupos 
+pertenecientes a la misma institución, ¿el monto de financiación 
+solicitado corresponde a cada propuesta de forma independiente o en 
+conjunto a todas las propuestas que presente la institución? Así mismo, 
+¿el 
+video 
+debe 
+corresponder 
+a 
+cada 
+propuesta 
+de 
+forma 
+independiente o a todas las que postule la institución? 
+De acuerdo con su requerimiento, le informamos que la financiación 
+sera por propuesta, por tanto la institución puede presentar los 
+proyectos que crean pertinentes siempre y cuando cumplan con los 
+requisitos de la convocatoria.  
+Por otra parte, el vídeo también es por propuesta, por lo que el link o url 
+deberá estar relacionado en el formulario SIGP con el fin de visualizarlo 
+para su respectiva evaluación. 
+La convocatoria esta dirigida a: Instituciones de Educación Superior e 
+Instituciones Prestadoras de Servicios de Salud que cuenten con grupos 
+en categoría A1, A o B; centros e institutos de investigación y desarrollo 
+tecnológico reconocidos por Minciencias ......  
+Actualmente el XXXX es reconocido como Centro de investigación, sin 
+embargo, no tenemos clasificación de grupo. Me gustaría aclarar si 
+podemos participar en esta convocatoria. 
+De acuerdo a su requerimiento, le informamos que las Instituciones de 
+Educación Superior e Instituciones Prestadoras de Servicios de Salud son 
+las que requieren para participar grupos en categoría A1, A o B, por otro 
+lado, los centros e institutos de investigación y desarrollo tecnológico 
+reconocidos por Minciencias no requieren presentar grupos, pues 
+pueden participar como centro reconocido. 
+¿cuántas propuestas de investigación puede presentar el grupo? 
+ En atención a su requerimiento, informamos que una misma entidad 
+con sus respectivos grupos de investigación, puede presentar más de 
+una propuesta a la invitación siempre y cuando, cada propuesta 
+contemple un investigador principal diferente. Debido a la condición 
+inhabilitante definida en los términos de referencia de la invitación "...El 
+investigador principal solo podrá presentar una única propuesta a esta 
+invitación". 
+Existe algún formato editable en el que describan los campos con su 
+respectivo número de palabras, en el que se pueda trabajar previo a la 
+inclusión de la propuesta en el Sistema Integrado de Gestión de 
+Proyectos de Minciencias, en caso de que exista agradecería me lo 
+enviaran, por favor, en caso contrario que me indicaran los campos y el 
+número de palabras por campo. 
+Conforme a lo establecido en los términos de referencia de la invitación, 
+“La propuesta deberá inscribirse en el Sistema Integrado de Gestión de 
+Proyectos de Minciencias - SIGP a través del formulario electrónico 
+disponible en el portal de Minciencias (www.minciencias.gov.co), a más 
+tardar el próximo 27- 03-2020 antes de las 23:59”.  
+Por lo tanto, la invitación no contempla formato en físico para la 
+estructuración de los proyectos, debido a que todas las propuestas 
+deben ser registrada de forma electrónica en el aplicativo SIGP de 
+proyectos y/o programas que posee el Ministerio.  
+Por 
+medio 
+del 
+siguiente 
+enlace 
+(https://plataformasigp.minciencias.gov.co:7003/FormularioProyectos/fa
+ces/proyecto/crear.xhtml) podrá ingresar el formulario electrónico SGIP 
+para la inscripción y el registro de la propuesta de investigación.  
+Adicionalmente informamos que cada campo relacionado con la 
+descripción técnica del proyecto define una cantidad máxima de 
+caracteres, lo cual es relacionado a la exención que se requiere de 
+cada campo. 
+La invitación está dirigida a: "IES o IPS que cuenten con grupos en 
+categoría A1, A o B". Teniendo en cuenta que en la anterior información 
+no se detalla los grupos y en nuestro caso nos postularemos como una 
+IES ¿Puede postularse una propuesta de un grupo C que pertenezca a 
+nuestra Universidad? 
+En atención a su requerimiento, le informamos que la INVITACIÓN N° 
+1015 SALUD - COVID-19 va dirigida a "Instituciones de Educación Superior 
+e Instituciones Prestadoras de Servicios de Salud que cuenten con 
+grupos en categoría A1, A o B; centros e institutos de investigación y 
+desarrollo tecnológico reconocidos por Minciencias y que cuenten con 
+ experiencia demostrable en las líneas temáticas de la presente 
+invitación", por lo tanto, la IES con el grupo categoría C podría participar 
+en la invitación como co-ejecutor de la propuesta siempre y cuando se 
+establezca la participación de la entidad ejecutoria la cual sería la IES o 
+Instituciones prestadoras del servicio de salud que cuenten con grupos 
+categorías A1, A o B o con centros e institutos de investigación y 
+desarrollo tecnológico reconocidos por Minciencias y que cuenten con 
+experiencia demostrable en las líneas temáticas de la presente 
+invitación.  
+ 
+La IES con el grupo categoría C no estaría cumpliendo con el dirigido a, 
+el cual es requisito para la participación, por lo tanto, debe participar 
+en alianza con otra entidad que cumpla el requisito establecido. 
+¿Es posible participar en dos líneas temáticas, así sean dos desarrollos 
+distintos?,  
+En atención a su requerimiento, informamos que las propuestas 
+registradas en el formulario SIGP de proyectos y/o programas dentro de 
+la Invitación del COVID-19, solo pueden seleccionar una línea temática 
+por propuesta, por lo tanto, la entidad si contempla los dos desarrollos 
+uno con cada línea temática específica, puede determinar la 
+posibilidad de presentar una propuesta por cada desarrollo, siempre y 
+cuando, cada proyecto contemple investigador principal diferente, de 
+lo contrario se incurriría en la condición inhabilitante ""...El investigador 
+principal solo podrá presentar una única propuesta a esta invitación" 
+La carta de aval que será firmada por los representantes legales de las 
+entidades. 
+ 
+Los proyectos que se presenten a la invitación deben declarar si su 
+proyecto requiere el aval expedido por un Comité de Ética o de 
+Bioética –debidamente constituido. En caso que el investigador 
+principal considere que el proyecto de investigación, desarrollo 
+tecnológico o innovación  no  requiere  aval  de  un  Comité  de  Ética  
+o  de  Bioética,  se  debe  declarar  lo siguiente: Informo a MINCIENCIAS 
+que el proyecto, presentado a la invitación, no requiere del  aval  de  un  
+Comité  de  Ética  o  Bioética  dado  que:  i)  No  se  utilizará  ningún  
+recurso  vivo, agentes  o  muestras  biológicas,  ii)  Datos  personales,  
+entrevistas  o  encuestas,  iii)  No representa ningún riesgo sobre la vida, 
+el ambiente o los derechos humanos. En caso que el investigador 
+principal considere que el proyecto de investigación, desarrollo 
+tecnológico  o  innovación  requiere  aval  de  un  Comité  de  Ética  o  
+de  Bioética  –debidamente constituido-,  se  sugiere  declarar  lo  
+ siguiente:  Informo  a  MINCIENCIAS  que  el  proyecto, presentado  a  la  
+invitación  será  revisado  por  un  Comité  de  Ética/Bioética  
+debidamente constituido,  y  se  radicará  ante  MINCIENCIAS  el  aval  
+correspondiente  del  Comité  de Ética/Bioética y acto administrativo de 
+constitución del mismo, como documento habilitante para etapa de 
+contratación. 
+Teniendo en cuenta que no es requisito los aportes de contrapartida por 
+parte de las instituciones participantes debemos incluir el reporte de 
+contrapartida del SIGP en la carta de aval así este sea en ceros ($0). 
+Se aconseja especificar en la carta aval el aporte de contrapartida. 
+¿En el aparte de Documentos del formulario electrónico se establece 
+como 
+requisito 
+el 
+Perfil 
+bibliográfico 
+de 
+investigadores 
+y 
+coinvestigadores, 
+allí 
+deben 
+ser 
+cargados 
+los 
+CvLAC´s 
+de 
+investigadores principales y coinvestigadores o o biosketch resumido en 
+caso de investigadores internacionales? ¿Si es así deben ir en algún 
+formato PDF o HTML? deben cargarse como un archivo comprimido? 
+Deben cargarse como un archivo comprimido? Respuesta: En el 
+momento de diligenciar los datos en el aplicativo, éste puede asociar el 
+CvLac de cada investigador automáticamente, en caso de que no lo 
+relacione, se puede adjuntar en "otros adjuntos" los documentos. 
+Precisar y definir los siguientes rubros presupuestales financiables.  
+5. ADECUACIÓN DE INFRAESTRUCTURA (MÁXIMO 10% DEL MONTO 
+SOLICITADO). (que significa)?  
+6. SERVICIOS DE ASISTENCIA Y ACOMPAÑAMIENTO TÉCNICO/ ASESORÍA 
+CIENTÍFICA Y TECNOLÓGICA. (que significa)? 
+Servicios de asistencia y acompañamiento técnicos/asesoría científica y 
+tecnológica: Contrataciones con personas externas al proyecto para la 
+prestación 
+de 
+servicios 
+especializados, 
+cuya 
+necesidad 
+esté 
+suficientemente justificada en el marco del logro de los objetivos 
+propuestos, por ejemplo: ensayos, pruebas, análisis de laboratorio, 
+caracterizaciones y demás actividades inherentes al proyecto, cuyas 
+actividades no correspondan a la de personal científico, de apoyo y 
+administrativo.  
+Adecuación de infraestructura: Hace referencia a si necesitan hacer 
+una mejora relacionada con el proyecto. 
+Se generó el pre-registro de la entidad XXXX en la plataforma de 
+Minciencias con el fin de participar en la invitación a presentar 
+proyectos que contribuyan a la solución de problemáticas actuales de 
+ salud relacionadas con la pandemia de covid-19 de 2020, que cierra 
+este viernes 27 de marzo.  
+De acuerdo con su requerimiento, le informamos que al realizar la 
+verificación de la entidad registrada en el formulario SIGP, el nit 
+registrado no coincide con la razón social, por lo cual se procede a 
+rechazar la entidad.  
+Sugerimos realizar el ajuste pertinente en el formulario con el fin de 
+brindar aval lo más pronto posible para la postulación a la 
+convocatoria. 
+Los proyectos a evaluar son netamente de carácter investigativo y de 
+innovación en tecnología?, o los recursos se pueden utilizar para adquirir 
+tecnología con el fin de dotar las áreas en las que se presta el servicio 
+de salud a comunidad afectada? 
+Conforme a lo establecido en el área técnica, las tecnologías que 
+parten del carácter investigativo, de innovación y de desarrollo 
+presentadas en la invitación, deben desarrollarse en el país, y deben 
+alinearse con alguna de las 3 modalidades definidas a continuación:  
+Modalidad1: 
+Iniciativas 
+en 
+salud 
+pública 
+relacionadas 
+con 
+inteligencia 
+epidemiológica que permitan planear y actuar de manera efectiva 
+ante situaciones de contingencia epidemiológica.  
+Modalidad2:  
+Validación Pre-comercial: Evaluación de prototipos de tecnologías en 
+ambientes relevantes (TRL: 4 a 6). Proyectos enfocados en la validación 
+pre-comercial de nuevas tecnologías.  
+Modalidad3:  
+Validación Comercial: Escalamiento de tecnologías para su validación 
+en condiciones reales de operación (TRL: 7 a 8). Proyectos que realicen 
+la validación comercial de nuevas tecnologías.  
+Y las mismas deben contemplar una línea temática especifica. 
+Se pueden presentar proyectos para la adecuación de infraestructuras 
+de forma permanente o transitoria con el objeto de atender pacientes 
+diagnosticados?. 
+Conforme a lo establecido en los términos de referencia de la invitación, 
+se busca apoyar el desarrollo de proyectos orientados a iniciativas en 
+salud pública y al desarrollo de tecnologías en los diferentes niveles de 
+madurez tecnológica; de acuerdo con las modalidades descritas 
+ anteriormente, el proyecto debe estar relacionado con una validación 
+pre comercial o comercial de nuevas tecnologías ó iniciativas en salud 
+publica relacionadas con inteligencia epidemiológica. 
+Precisar que debemos cargar en el aparte de Documentos: Perfil 
+bibliográfico de investigadores y coinvestigadores: 
+Nos permitimos aclarar que en el perfil bibliográfico de investigadores y 
+coinvestigadores se debe incluir un documento donde se relacione su 
+producción (científica, académica, tecnológica) asociada con la línea 
+temática seleccionada. 
+¿El investigador principal de esta convocatoria puede ser investigador 
+principal en otras convocatorias? 
+En atención a su requerimiento, le indicamos que la única inhabilidad 
+determinada para el Investigador principal dentro de la “invitación a 
+presentar proyectos que contribuyan a la solución de problemáticas 
+actuales de salud relacionadas con la pandemia de COVID-19”, es que 
+"...El investigador principal solo podrá presentar una única propuesta a 
+esta invitación”. 
+¿Cualquier grupo de investigación perteneciente las instituciones (sin 
+importar su categoría) podrá presentarse a la convocatoria? O es 
+necesario que el grupo esté categorizado en A1 A o B. 
+Para las entidades proponentes de la propuesta, estrictamente los 
+grupos de investigación deben tener la categoría A1, A o B, los cuales 
+deben ser avalados por IES o Institutos prestadoras de Salud. 
+Aún no hemos abierto el formulario de inscripción de la convocatoria 
+dado que no tenemos definido el título (que piden como obligatorio en 
+el primer paso), por ende, no puedo aun ver lo que nos van a pedir que 
+diligenciemos. 
+Atendiendo su requerimiento, de manera atenta nos permitimos 
+informar que los campos que se deben diligenciar en el formulario de 
+proyectos y/o programas son:  
+1. Información General:  
+Prog Nacional de CTeI Principal *  
+Línea Temática*  
+Tipo Financiación*  
+Lugar Ejecución*  
+Duración en meses*  
+ Ejecución en*  
+Permisos (si la propuesta lo requiere)  
+Zonas de estudio  
+Rol de Entidades  
+2. Descripciones del proyecto  
+Modalidad  
+Objetivo General  
+Objetivos Específicos  
+Presentación y justificación de la propuesta en función de su aporte al 
+problema planteado en la invitación  
+Antecedentes técnicos  
+Resultados de CTeI obtenidos por las entidades participantes  
+Metodología y plan de trabajo  
+Impactos potenciales  
+Bibliografía  
+Video de la presentación de la propuesta (relacionar Url)  
+3. Grupos  
+4. Personal  
+Tipo de personal  
+Generalidades Personas  
+5. Presupuesto  
+Rubros  
+Global por entidad  
+Global total  
+6. Documentos  
+* Carta unificada de aval y compromiso institucional  
+* Carta de motivación  
+Perfil biográfico de investigadores y coinvestigadores  
+Otros Adjuntos 
+ Estoy ingresando a la plataforma del Ministerio, pero no logro identificar 
+mi grupo de investigación para aplicar a la convocatoria COVID19. 
+Atendiendo su requerimiento, de manera atenta nos permitimos 
+informar que el registro de la propuesta se debe realizar el formulario de 
+proyectos y/o programas, el cual se encuentra disponible en  
+https://plataformasigp.minciencias.gov.co:7003/FormularioProyectos/?f
+aces-redirect=true  
+Para ello, debe crear la solicitud, de clic en crear y diligencie los 
+campos que le solicita el formulario. Al correo registrado llegara el 
+usuario y contraseña para que pueda acceder al formulario.  
+Una vez usted ingresa al formulario, visualizará la opción de grupos, aquí 
+debe relacionar el grupo, para ello realice la consulta con el código del 
+grupo.  
+En caso de tener inconvenientes con dicho registro, solicitamos su 
+colaboración indicando un número de celular donde le podamos 
+contactar, con el fin de explicar el proceso. 
+Quisiera conocer si las entidades de salud aliadas, deben contar con 
+alguna experiencias en CTEL 
+Atendiendo su requerimiento, de manera atenta nos permitimos 
+informar que las entidades de salud aliadas, deben tener experiencia en 
+las áreas temáticas de la convocatoria o pueden participar si 
+contribuyen al logro de los objetivos del proyecto y la obtención de los 
+resultados. 
+ 
+En el SIGP solo hay tres roles en el personal.  
+Estos roles corresponden al registro del personal científico que 
+participará en la ejecución de los proyectos. 
+Recuerde que se define como personal científico:  
+“Este rubro incluye los honorarios pagados al personal científico. Este 
+personal realiza actividades directas de Ciencia, Tecnología e 
+Innovación en el proyecto encaminadas al alcance de los objetivos.” 
+En el presupuesto, se da la opción de agregar personal científico y 
+personal de apoyo, entonces teniendo en cuenta que solo podemos 
+agregar tres roles, ¿todos estos roles no se considerarían solo personal 
+científico? 
+No, el personal de apoyo Incluye los honorarios del personal de apoyo. 
+Este personal realiza actividades indirectas de ciencia, tecnología e 
+ Innovación. En este ítem presupuestal se pueden incluir los asesores 
+internacionales. 
+¿En qué momento podemos considerar personal de apoyo? Bajo qué 
+rol?  
+El personal de apoyo no se considera personal científico. En este 
+apartado se registran personas que participan en los proyectos en 
+labores más operativas como temas administrativos o labores de 
+campo. 
+¿El personal que agreguemos en personal científico, que no este con 
+contrato tiempo completo o que no sea personal de planta de alguna 
+de las entidades puede recibir financiación? ¿O en este caso sería 
+personal de apoyo con rol de coinvestigador y con financiación de la 
+convocatoria? 
+Efectivamente el personal que no sea de planta se puede financiar con 
+recursos de la invitación. 
+Cabe resaltar que el personal de apoyo se registra en el presupuesto 
+como tal. Los roles aplican para el personal científico 
+Dados los términos de la convocatoria la Universidad sería la única 
+ejecutora?. 
+En la propuesta, si la entidad principal que presenta el proyecto 
+establece alianzas con otras entidades, estas últimas, a excepción de 
+entidades internacionales, también podrán recibir fondos si en el 
+proyecto se justifica la necesidad del uso de dicho presupuesto para 
+asegurar la obtención de resultados y el logro de los objetivos. La 
+entidad participante de la invitación en calidad de ejecutora firmará el 
+contrato respectivo y distribuirá los recursos de acuerdo con el detalle 
+de la propuesta. Los recursos otorgados del apoyo económico serán 
+entregados a la entidad ejecutora, quien será la responsable de la 
+ejecución y distribución de los recursos de acuerdo con el alcance de la 
+propuesta presentada y las alianzas que haya establecido. El aporte de 
+contrapartida no es obligatorio; sin embargo, aquellos proponentes que 
+decidan aportar contrapartida pueden realizar contribuciones en 
+efectivo o en especie. En caso de que el oferente aporte una 
+contrapartida, ya sea en dinero o especie, no constituye puntaje 
+adicional en el proceso de selección y evaluación 
+Soy un investigador independiente y con posible solución atacar al 
+COVID 19. Favor permitirme inscribirme en su búsqueda de soluciones 
+paran enviárselas 
+ De acuerdo con su requerimiento le informamos que la invitación a 
+presentar proyectos que contribuyan a la solución de problemáticas 
+actuales de salud relacionadas con la pandemia de covid-19 es dirigida 
+a “instituciones de Educación Superior e Instituciones Prestadoras de 
+Servicios de Salud que cuenten con grupos en categoría A1, A o B; 
+centros 
+e 
+institutos 
+de 
+investigación 
+y 
+desarrollo 
+tecnológico 
+reconocidos 
+por 
+Minciencias 
+y 
+que 
+cuenten 
+con 
+experiencia 
+demostrable en las líneas temáticas de la presente invitación.”  
+Cabe aclarar que es posible realizar una alianza con otros actores de 
+CTeI y/o empresas de todos los tamaños con personería jurídica. 
+Adicionalmente, la entidad que cumpla que con dirigido a, tendrá el rol 
+de ejecutor y la entidad aliada tendrá el rol de co-ejecutor. 
+¿Es posible que el grupo de investigación contrate y le pague a la 
+empresa CO-EJECUTORA algunos servicios con dinero financiado por 
+MINCIENCIAS?  
+Si la entidad principal que presenta el proyecto establece alianzas con 
+otras 
+entidades, 
+estas 
+últimas, 
+a 
+excepción 
+de 
+entidades 
+internacionales, también podrán recibir fondos si en el proyecto se 
+justifica la necesidad del uso de dicho presupuesto para asegurar la 
+obtención de resultados y el logro de los objetivos. La entidad 
+participante de la invitación en calidad de ejecutora firmará el contrato 
+respectivo y distribuirá los recursos de acuerdo con el detalle de la 
+propuesta. Los recursos otorgados del apoyo económico serán 
+entregados a la entidad ejecutora, quien será la responsable de la 
+ejecución y distribución de los recursos de acuerdo con el alcance de la 
+propuesta presentada y las alianzas que haya establecido. 
+Quisiéramos saber si se pueden financiar con recursos de la 
+convocatoria COVID-19, proyectos que impliquen el desarrollo de una 
+tecnología en función de la recolección de datos, en la línea temática 
+de salud pública. 
+Con respecto a su solicitud debe dirigirse a la  sección  de  líneas  
+temáticas  y  consultar  el anexo relacionado con estas, donde se 
+detallan los abordajes y estrategias a  y consideraren la presente 
+invitación y ver si se ajusta y cumple con lo establecido en cada una de 
+ellas. 
+ Agradezco me aclaren si para el presupuesto podemos hacer compra 
+de pruebas rápidas, de acuerdo con lo establecido la circular 19 de 
+2020.  
+En atención a su inquietud acerca de incluir la compra de pruebas 
+rápidas dentro del presupuesto del proyecto, se informa que es posible 
+adquirir dichas pruebas a través del rubro de materiales y reactivos. Sin 
+embargo, se recuerda que estas deben estar justificadas dentro de la 
+metodología y el alcance del proyecto. Adicionalmente, se precisa que 
+el recurso desembolsado es exclusivo para el desarrollo de la 
+investigación objeto de financiación. 
+¿Qué función cumple el interlocutor?  
+Es la persona que estará al tanto de los por menores técnicos y 
+administrativos del proyecto. 
+¿El interlocutor puede ser el mismo investigador principal?  
+En la mayoría de los casos si o una persona designada por la 
+universidad, gestores de proyectos, coordinadores. 
+El interlocutor tiene que ser alguna persona de planta de la universidad, 
+o solo se necesita su vinculación con la misma.  
+Es lo ideal lo más importante es que tenga la idoneidad y pertenezca 
+oficialmente a la entidad ejecutora. 
+¿Qué es lo que se debe describir en cada apartado del formulario? 
+Con respecto a su solicitud se informa  que  cada  ítem  tiene  su  
+descripción.  Se debe parar sobre cada  título  y  aparece  una  ventana  
+pequeña  que  describe  a  detalle  a  que  hace referencia cada 
+apartado. 
+¿Existe 
+algún 
+problema 
+por 
+el 
+número 
+de 
+proyectos 
+donde 
+participemos? la convocatoria no menciona nada al respecto. 
+Atendiendo su requerimiento, de manera atenta nos permitimos 
+informar que el investigador principal solo podrá presentar una única 
+propuesta a esta invitación. Tenga presente que la invitación se 
+encuentra dirigida a Instituciones de Educación Superior (IES) e 
+instituciones prestadoras de servicios de salud que cuenten con grupos 
+de investigación categorizados como A1, A o B, centros de 
+investigación o desarrollo tecnológico e institutos de investigación 
+reconocidos por Minciencias, en posible alianza con otros actores de 
+ CTeI y/o empresas de todos los tamaños con personería jurídica, y que 
+con su experiencia científica y tecnológica permitan ayudar a 
+contrarrestar la propagación del virus SARS-Cov2, causante del COVID-
+19, como también promover el bienestar de la población y de los 
+equipos del área de la salud que están en la primera línea de trabajo 
+contrarrestando la pandemia sin limitar el número de propuestas por 
+institución. 
+Es posible pagar honorarios a profesores de medio tiempo en la 
+convocatoria 
+COVID-19 
+tenemos 
+investigadores 
+principales 
+o 
+investigadores dentro del equipo de trabajo con contrato de medio 
+tiempo 
+De manera atenta le informamos que si es posible pagar honorarios a 
+profesores de medio tiempo siempre y cuando NO sean personal de 
+planta. 
+Es necesario que todos estén inscritos en grupos de investigación y/o 
+estar afiliados a alguna institución? O pueden participar como personas 
+naturales 
+Se debe cumplir con el dirigida a de la presente invitación. Instituciones 
+de Educación Superior e Instituciones Prestadoras de Servicios de Salud 
+que cuenten con grupos en categoría A1, A o B; centros e institutos de 
+investigación y desarrollo tecnológico reconocidos por Minciencias y 
+que cuenten con experiencia demostrable en las líneas temáticas de la 
+presente invitación.  
+¿Los proponentes pueden recibir honorarios (ser contratados) para 
+ejecutar labores dentro del marco del proyecto? 
+Sí, siempre y cuando NO sean personal de planta. 
+Para el caso de la columna “Recursos”, ¿a qué se hace referencia?, hay 
+que poner el valor en pesos $ de cada actividad, o solo hay que 
+describir los rubros que se requieren en la actividad?, ¿o qué debe 
+relacionarse allí? 
+En el tema de los recursos, hace alusión a todo elemento que se 
+requiere para desarrollar la actividad establecida, adicionalmente, en 
+la sección de recursos es algo descriptivo, dado que la información 
+monetaria del proyecto se registra en el ítem presupuestario. 
+¿En las descripciones en el apartado Resultados en CteI donde se 
+solicita mencionar tres productos, se refieren a temas ya realizados y 
+ obtenidos por la institución? o que se van a desarrollar específicamente 
+en la propuesta. 
+De acuerdo con su requerimiento le informamos que usted deberá 
+relacionar tres productos de generación de nuevo conocimiento o 
+desarrollo tecnológico asociadas a la propuesta presentada y 
+realizadas por parte de las entidades que presentan la propuesta. 
+Adicionalmente, le sugerimos registrar estos productos en una tabla, 
+donde en una columna coloque el título del producto y en otra 
+columna el link de consulta del producto. 
+¿Me podrían por favor informar si para establecer el presupuesto 
+asociado a personal de apoyo de la convocatoria (Invitación) hay 
+alguna tabla que defina los salarios a pagar de acuerdo al perfil 
+profesional? 
+Atendiendo su requerimiento, le informamos que para el personal que 
+se vincula exclusivamente al proyecto, debe tener en cuenta la 
+resolución 0046 del 9 de junio de 2014 para el personal que se vincula 
+exclusivamente al proyecto, usando los datos de la resolución 0046 del 9 
+de 
+junio 
+de 
+2014. 
+https://legadoweb.minciencias.gov.co/normatividad/resoluci-n-00426-
+de-2014  
+Respecto a los rubros No financiables, nos indican que: el Impuesto al 
+valor agregado (IVA) generado por la adquisición de bienes y servicios 
+cofinanciados no es financiables, Esto quiere decir que todos los 
+equipos, materiales y servicios que se paguen con recursos de 
+minciencias, el IVA lo asume la entidad ejecutora? 
+De acuerdo con su requerimiento le informamos que tal como se 
+estipula en la invitación a presentar proyectos que contribuyan a la 
+solución de problemáticas actuales de salud relacionadas con la 
+pandemia de covid-19. Dentro de los recursos no financiables se 
+encuentra el “Impuesto al valor agregado (IVA) generado por la 
+adquisición de bienes y servicios cofinanciados.” Por lo tanto, este rubro 
+no será asumido por Minciencias. 
+Cabe aclarar que dicho rubro deberá ser aportado por la entidad 
+ejecutora o alianza en caso de que participe. 
+Comedidamente solicitamos nos indiquen respecto a la viabilidad de 
+llevar a cabo una modificación en este punto y en todo el apartado de 
+ propiedad intelectual del modelo de la carta, sin que esto implique 
+inconvenientes en la evaluación de la propuesta 
+Con respecto a su solicitud se cita lo descrito en el párrafo final del 
+numeral 6: PROPIEDADINTELECTUAL: vii) sin perjuicio de lo anterior las 
+partes podrán efectuar modificaciones alpresente documento de 
+acuerdo con las condiciones de desarrollo del proyecto. 
+¿Es posible vincular personal para el cual todavía no se tiene nombre y 
+cédula? 
+Es posible vincular personal sin que aún tengan los datos de la persona; 
+pero tenga presente que el investigador principal si debe estar definido 
+y deberán registrar los datos de esta persona. 
+¿Es posible vincular personal que ya se encuentre financiado por 
+Colciencias? 
+El personal que sea beneficiario actual de los Programas de "Formación 
+de doctorados" de Minciencias podrá ser vinculado a las actividades 
+investigativas previstas para la ejecución del proyecto, pero en ningún 
+caso, podrá ser beneficiado al mismo tiempo con los recursos 
+provenientes de Minciencias, asignados al rubro de personal en esta 
+convocatoria. Igual tratamiento aplica para los doctores que participen 
+en el proyecto y que sean presentados por las empresas para el 
+beneficio tributario de vinculación de capital humano de alto nivel, 
+caso en el cual la remuneración de dicho personal no podrá ser 
+considerada como contrapartida del proyecto.  
+A través del rubro de personal no se financiarán los derechos 
+académicos y de matrícula del personal. 
+En alianzas, ¿se puede presentar 2 Investigadores Principales? por 
+ejemplo 
+uno 
+por 
+cada 
+entidad 
+(la 
+plataforma 
+lo 
+permite)  
+ 
+En este caso, solamente un investigador principal. La otra persona 
+podrá tener el rol de coinvestigador.  
+ 
+Minciencias puede ayudar a tener acceso a las muestras de pacientes 
+con COVID-19 o tenemos que negociar el acceso a esas muestras?  
+ 
+Ustedes tendrían que negociar con las entidades encargadas (centros 
+de 
+diagnóstico) 
+el 
+tema 
+del 
+acceso 
+a 
+las 
+muestras.  
+ 
+¿Se puede acceder a la Historia Clínica de los pacientes esté disponible 
+para los investigadores de esta convocatoria para sea más efectivas las 
+ investigaciones? ¿Se tiene un contacto para dicha gestión? Al menos 
+lograr que esto se haga en Antioquia. En caso de no ser posible, por 
+favor 
+tomar 
+esta 
+inquietud 
+como 
+recomendación.  
+ 
+No si tiene esos contactos, por lo cual, ustedes deberán acudir 
+directamente 
+a 
+las 
+entidades 
+encargadas 
+del 
+tema.  
+ 
+¿Si vamos a trabajar en metodologías tecnológicas, podemos acceder 
+a datos de diagnóstico? 
+ 
+Ese tipo de acceso se debe consultar directamente con las entidades 
+encargadas 
+de 
+ese 
+proceso.  
+ 
+¿Qué es lo que debe contener el video?, dado que en la invitación no 
+se relaciona a detalle 
+ 
+En este campo se debe indicar la URL de acceso a un video de máximo 
+5 minutos presentando su propuesta ante un comité de evaluación. El 
+video debe dar respuesta a las siguientes preguntas: ¿Cuál es la 
+pregunta y/o problema de investigación que se espera resolver 
+mediante la propuesta? Describa puntualmente cuál será el abordaje 
+metodológico 
+que 
+empleará 
+para 
+resolver 
+su 
+pregunta 
+de 
+investigación. Se deberá incluir la modalidad y la línea temática a la 
+que están aplicando, el tipo de investigación, la conformación del 
+equipo de investigación, la duración y el lugar donde se desarrollará la 
+investigación. ¿Cúal es el producto final que se espera obtener con su 
+investigación? ¿Cuál es el impacto que tendría el producto final de su 
+investigación sobre la crisis actual generada por el virus SARS-Cov-2? 
+Nota: Los videos que superen los 5 minutos de duración, no serán 
+considerados, por lo tanto, debe ser claro y preciso en sus respuestas. 
+ 
+Me podrían confirmar cuál es el tipo de contratación que adquieren las 
+entidades que ganen con sus propuestas de investigación. ¿En la 
+convocatoria se refieren a contratación? 
+De manera atenta informamos que es un contrato legalmente 
+construido (Contrato de recuperación Contingente) con la entidad 
+ejecutora quien es la encargada de administrar los recursos según lo 
+establecido en la invitación, 
+Les agradezco, por favor, aclarar dentro de la metodología y plan de 
+trabajo el ítem “supuestos”. ¿A qué se refiere? 
+De acuerdo a su requerimiento, le informamos que los supuestos se 
+relacionan con las condiciones que se requieren para que se desarrolle 
+la actividad, por ejemplo, si se define una actividad de prototipo, los 
+ supuestos son las condiciones que se requieren para que se de dicha 
+actividad. 
+1) Quien debe subir la propuesta a la plataforma la entidad participante 
+o el investigador principal. 2) El interlocutor lo debe asignar la 
+universidad o es una de los investigadores del proyecto 3) El video que 
+información debe contener. 
+De acuerdo a su requerimiento, le informamos que debe cargar la 
+propuesta el grupo en representación de la entidad de educación o de 
+salud, por otro lado, administrativamente definirán dicho interlocutor y 
+es con el correo definido en el momento de crear el proyecto al cual 
+Minciencias se comunicará con dicho interlocutor según lo definido en 
+los términos de la invitación, por último, el video debe determinar el 
+potencial de financiación del proyecto ante un comité de evaluación 
+con pares expertos. 
+En el listado de grupos de investigación de la XXX solo aparece uno que 
+no corresponde al que debemos ingresar 
+De acuerdo a su requerimiento, le informamos que esto se presenta 
+porque el grupo de investigación no se ha incluido dentro del formulario 
+de entidades que le brinda el aval del grupo, por lo tanto, el 
+procedimiento a seguir es acceder a dicho formulario y en el menú ir a 
+la opción “Centros o grupos” y vincularlo en esta sección, después de 
+realizar este proceso se visualizara en el formulario de proyectos.  
+En este caso sugerimos verificar con la persona encargada del 
+formulario de entidades de su Universidad con el fin de que pueda 
+actualizar la información del grupo y de esta forma usted registrarlo en 
+su propuesta. 
+Les agradezco me informen sobre el registro del proyecto, ya que 
+usando el usuario y la clave informada por 
+ADMINISTRADOR 
+FORMULARIOS formularios_sigp@minciencias.gov.co no me permite 
+acceder. 
+De acuerdo con su requerimiento, le informamos que usted no podrá 
+acceder 
+al 
+formulario 
+con 
+las 
+credenciales 
+enviadas 
+por 
+ADMINISTRADOR FORMULARIOS, dado que el día de ayer a las 11:32 am 
+la persona que contaba con el acceso realizó un cambio de 
+contraseña, por tanto, no coincidirá los datos enviados por nosotros con 
+la contraseña que la persona haya registrado.  
+ En caso de no recordar la contraseña solicitarla por medio de 
+atencionalciudadano@minciencias.gov.co con el código del proyecto, 
+cabe aclarar que se le enviara únicamente al correo que está 
+registrado para la propuesta. 
+¿Cómo guardo una copia de la aplicación y la regreso más tarde? 
+De acuerdo con su requerimiento le informamos que, si usted hace 
+referencia al Formulario SIGP para registro de proyectos, es necesario 
+que en el final cada ítem diligenciado de clic en guardar y de esta 
+forma podrá salir del aplicativo sin perder información. 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+AMPLIACIÓN PLAZO PRESENTACIÓN PROPUESTAS 
+ 
+Agradecemos el interés frente a la Invitación a presentar proyectos que contribuyan a la 
+solución de problemáticas actuales de salud relacionadas con la pandemia de COVID-19. 
+Consideramos que esta iniciativa permitirá generar aportes significativos desde la CTeI para 
+afrontar la problemática en salud pública en el país a causa de la pandemia por COVID -
+19. 
+Con el fin de facilitar la finalización del registro de las propuestas, se informa a la comunidad  
+interesada en la participación en la, “Invitación a presentar proyectos que contribuyan a la 
+solución de problemáticas actuales de salud relacionadas con la pandemia de COVID-19”, 
+que se ampliará el plazo de registro de los proyectos hasta el día 28 de marzo de 2020 a 
+las 8:00 A.M.. 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+AMPLIACIÓN PLAZO DE ENTREGA DE RESULTADOS DE LA “INVITACIÓN A 
+PRESENTAR PROYECTOS QUE CONTRIBUYAN A LA SOLUCIÓN DE PROBLEMÁTICAS 
+ACTUALES DE SALUD RELACIONADAS CON LA PANDEMIA DE COVID-19” 
+ 
+ 
+ 
+Se informa a los interesados que debido a que se prorrogó el plazo de cierre de la Invitación de 
+las 00:00 h a las 8:00 h del 28 de abril, se recibieron más propuestas de las esperadas. Con el 
+fin de garantizar que el proceso de evaluación cumpla con todos los lineamientos de rigurosidad, 
+objetividad y calidad establecidos en el Ministerio de Ciencia, Tecnología e Innovación para la 
+Mincienciaton, se prorrogará el plazo de entrega de resultados para el día 6 de abril de 2020. 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+PBX: (57+1) 6258480. Ext. 2081 
+ 
+Línea gratuita nacional: 018000914446 
+Código postal: 111321 
+ 
+Av. Calle 26 Nº 57-83. Torre 8. Piso 2 al 6 
+ 
+Bogotá D.C. Colombia 
+Código: A204PR01MO2 – Versión: 01 – Fecha: 2020-02-07 
+ 
+Página 1 de 3 
+ 
+Bogotá D.C., 06 de abril de 2020 
+ 
+Señores 
+Entidades Proponentes 
+Invitación 1015-2020 
+ 
+Asunto: Resultados “INVITACIÓN A PRESENTAR PROYECTOS QUE CONTRIBUYAN A LA SOLUCIÓN DE 
+PROBLEMÁTICAS ACTUALES DE SALUD RELACIONADAS CON LA PANDEMIA DE COVID-19”. 1015-2020. 
+ 
+El Ministerio de Ciencia, Tecnología e Innovación, como ente rector del Sistema Nacional de Ciencia, 
+Tecnología e Innovación (SNCTeI), informa los resultados del proceso de evaluación de la invitación del asunto: 
+ 
+Línea 
+Modalidad Código de la 
+propuesta  
+Habilitada 
+/ cumple 
+requisitos  
+Seleccionado 
+a segunda 
+fase 
+Puntaje Elegible 
+Financiable 
+   Línea 1:Salud pública relacionada con la intervención 
+frente a riesgos epidemiológicos asociados a COVID19 
+1 
+77001 
+SI 
+SI 
+88.5 
+SI 
+SI 
+1 
+77567 
+SI 
+SI 
+88.5 
+SI 
+SI 
+1 
+77317 
+SI 
+SI 
+87.6 
+SI 
+SI 
+1 
+77138 
+SI 
+SI 
+87.00 
+SI 
+SI 
+1 
+77569 
+SI 
+SI 
+86.8 
+SI 
+SI 
+1 
+77155 
+SI 
+SI 
+85.5 
+SI 
+NO 
+1 
+77127 
+SI 
+SI 
+84.00 
+SI 
+NO 
+1 
+76985 
+SI 
+SI 
+83.25 
+SI 
+NO 
+1 
+76727 
+SI 
+SI 
+82.8 
+SI 
+NO 
+1 
+76829 
+SI 
+SI 
+82.33 
+SI 
+NO 
+1 
+76795 
+SI 
+SI 
+81.5 
+SI 
+NO 
+1 
+77414 
+SI 
+SI 
+80.0 
+SI 
+NO 
+1 
+77380 
+SI 
+SI 
+76.25 
+SI 
+NO 
+1 
+76593 
+SI 
+SI 
+75.33 
+SI 
+NO 
+     Línea 2: Sistemas de 
+diagnóstico rápido para la 
+infección por SARS-Cov-2 
+2 
+77294 
+SI 
+SI 
+91.00 
+SI 
+SI 
+2 
+76697 
+SI 
+SI 
+91.00 
+SI 
+SI 
+2 
+77415 
+SI 
+SI 
+85.51 
+SI 
+SI 
+2 
+76900 
+SI 
+SI 
+84.84 
+SI 
+SI 
+2 
+77416 
+SI 
+SI 
+78.67 
+SI 
+SI 
+2 
+77266 
+SI 
+SI 
+77.67 
+SI 
+NO 
+2 
+77117 
+SI 
+SI 
+77.00 
+SI 
+NO 
+2 
+77241 
+SI 
+SI 
+76.8 
+SI 
+NO 
+  
+ 
+ 
+PBX: (57+1) 6258480. Ext. 2081 
+ 
+Línea gratuita nacional: 018000914446 
+Código postal: 111321 
+ 
+Av. Calle 26 Nº 57-83. Torre 8. Piso 2 al 6 
+ 
+Bogotá D.C. Colombia 
+Código: A204PR01MO2 – Versión: 01 – Fecha: 2020-02-07 
+ 
+Página 2 de 3 
+Línea 3: Estrategias de prevención de la infección por 
+SARS-Cov-2 y tratamiento de COVID-19 
+2 
+76765 
+SI 
+SI 
+92.5 
+SI 
+SI 
+2 
+76610 
+SI 
+SI 
+90.67 
+SI 
+SI 
+3 
+76633 
+SI 
+SI 
+89.80 
+SI 
+SI 
+2 
+77389 
+SI 
+SI 
+87.75 
+SI 
+SI 
+2 
+76968 
+SI 
+SI 
+87.25 
+SI 
+SI 
+2 
+77327 
+SI 
+SI 
+86.64 
+SI 
+NO 
+2 
+76959 
+SI 
+SI 
+86.5 
+SI 
+NO 
+2 
+77682 
+SI 
+SI 
+85.6 
+SI 
+NO 
+2 
+77706 
+SI 
+SI 
+85.5 
+SI 
+NO 
+2 
+77440 
+SI 
+SI 
+81.33 
+SI 
+NO 
+3 
+77041 
+SI 
+SI 
+80.65 
+SI 
+NO 
+2 
+76670 
+SI 
+SI 
+80.51 
+SI 
+NO 
+2 
+76522 
+SI 
+SI 
+79.00 
+SI 
+NO 
+3 
+76762 
+SI 
+SI 
+75.19 
+SI 
+NO 
+Línea 4: Equipos y dispositivos médicos 
+para el manejo de pacientes con COVID-19 
+y otras infecciones 
+respiratorias agudas, garantizando la 
+seguridad de los profesionales de la salud 
+2 
+76627 
+SI 
+SI 
+90.83 
+SI 
+SI 
+3 
+77197 
+SI 
+SI 
+88.00 
+SI 
+SI 
+2 
+77658 
+SI 
+SI 
+87.17 
+SI 
+SI 
+3 
+76682 
+SI 
+SI 
+83.17 
+SI 
+SI 
+2 
+77021 
+SI 
+SI 
+80.33 
+SI 
+SI 
+2 
+76912 
+SI 
+SI 
+80.25 
+SI 
+NO 
+3 
+77624 
+SI 
+SI 
+78.83 
+SI 
+NO 
+2 
+76603 
+SI 
+SI 
+78.00 
+SI 
+NO 
+2 
+77881 
+SI 
+SI 
+77.20 
+SI 
+NO 
+2 
+77523 
+SI 
+SI 
+75.50 
+SI 
+NO 
+Línea 5: Sistemas de 
+monitoreo de datos en tiempo 
+real en relación con la 
+enfermedad producida por 
+SARSCov-2 y otros agentes 
+causales de IRA, que habiliten 
+la posibilidad de modelar 
+escenarios epidemiológicos 
+1 
+77486 
+SI 
+SI 
+95.00 
+SI 
+SI 
+1 
+76535 
+SI 
+SI 
+87.33 
+SI 
+SI 
+1 
+76695 
+SI 
+SI 
+86.50 
+SI 
+SI 
+1 
+77490 
+SI 
+SI 
+81.00 
+SI 
+SI 
+1 
+77464 
+SI 
+SI 
+79.67 
+SI 
+SI 
+1 
+76915 
+SI 
+SI 
+79.25 
+SI 
+NO 
+1 
+77258 
+SI 
+SI 
+78.83 
+SI 
+NO 
+1 
+77408 
+SI 
+SI 
+77.00 
+SI 
+NO 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+PBX: (57+1) 6258480. Ext. 2081 
+ 
+Línea gratuita nacional: 018000914446 
+Código postal: 111321 
+ 
+Av. Calle 26 Nº 57-83. Torre 8. Piso 2 al 6 
+ 
+Bogotá D.C. Colombia 
+Código: A204PR01MO2 – Versión: 01 – Fecha: 2020-02-07 
+ 
+Página 3 de 3 
+ 
+La distribución de los recursos obedeció a la financiación de los mejores proyectos dentro de cada línea 
+temática, en estricto orden descendente de puntaje. 
+ 
+Minciencias agradece a todos lo que atendieron este llamado y mostraron interés en esta invitación. 
+Consideramos que esta iniciativa permitirá generar aportes significativos desde la CTeI para afrontar la 
+problemática en salud pública en el país a causa de la pandemia por COVID -19. Adicionalmente, se informa a 
+los beneficiarios de los proyectos financiables que para continuar con el proceso de contratación es importante 
+tener en cuenta los siguientes aspectos: 
+  
+1. Para las propuestas que requieren aval del Comité de Ética o de Bioética, se debe adjuntar el respectivo 
+aval emitido por el comité debidamente constituido. Además, se debe anexar acto administrativo de 
+constitución del mismo como documento habilitante para la etapa de contratación. El plazo máximo de 
+entrega será hasta el día 16 de abril de 2020. 
+ 
+2. Los proyectos financiables pasarán por una revisión detallada del presupuesto con el fin de verificar y 
+garantizar que los rubros están dentro de los límites exigidos por la Invitación. 
+ 
+3. Se aclara que, dadas las condiciones actuales de confinamiento y el cierre temporal de fronteras 
+relacionadas con la crisis de la pandemia de COVID-19, Minciencias informa que no financiará los 
+rubros de viajes y participación u organización de eventos académicos presenciales, por lo que la 
+financiación de los proyectos quedará sujeta a la aprobación del presupuesto ajustado. Sin embargo, 
+es importante resaltar que se tendrán en cuenta la participación y organización de eventos virtuales.  
+ 
+4. Minciencias solicitará a los proponentes diseñar y enviar un plan de trabajo, con fechas detalladas de 
+entregables que se incluirán en el contrato. Esto con el fin de garantizar el efectivo seguimiento de los 
+proyectos durante el tiempo de ejecución.  
+ 
+En caso de inquietudes y preguntas sobre la presente invitación, favor diligenciar el formulario electrónico que 
+se encuentra disponible en el enlace https://minciencias.gov.co/contact, con el asunto “INVITACIÓN N° 1015 
+SALUD - COVID-19” o a través del correo electrónico: atencionalciudadano@minciencias.gov.co. 
+ 
+Cordialmente, 
+ 
+ 
+ 
+ 
+Eduardo Rojas Pineda 
+Director de Inteligencia de Recursos de la CTeI. 
+Ministerio de Ciencia, Tecnología e Innovación 
+ 
+Revisó: Paola Laverde 
+Elaboró: Mónica Castiblanco 
+  
+ 
+ 
+PBX: (57+1) 6258480. Ext. 2081 
+ 
+Línea gratuita nacional: 018000914446 
+Código postal: 111321 
+ 
+Av. Calle 26 Nº 57-83. Torre 8. Piso 2 al 6 
+ 
+Bogotá D.C. Colombia 
+Código: A204PR01MO2 – Versión: 01 – Fecha: 2020-02-07 
+ 
+Página 1 de 4 
+ 
+Bogotá D.C., 07 de abril de 2020 
+ 
+Señores 
+Entidades Proponentes 
+Invitación 1015-2020 
+ 
+ 
+Asunto: Proyectos financiables “INVITACIÓN A PRESENTAR PROYECTOS QUE CONTRIBUYAN A LA 
+SOLUCIÓN DE PROBLEMÁTICAS ACTUALES DE SALUD RELACIONADAS CON LA PANDEMIA DE COVID-
+19”. 1015-2020. 
+ 
+El Ministerio de Ciencia, Tecnología e Innovación agradece nuevamente el esfuerzo de las diferentes entidades 
+que propusieron iniciativas que contribuirán a mitigar o contrarrestar las problemáticas derivadas de la 
+propagación del virus SARS-Cov-2, causante del COVID-19. Adicionalmente, da a conocer a la comunidad el 
+listado de los proyectos financiables: 
+ 
+Línea 
+Código 
+Nombre 
+Entidades ejecutoras 
+Financiado 
+   Línea 1:Salud pública relacionada con la intervención frente a riesgos 
+epidemiológicos asociados a COVID19 
+77001 
+Análisis de la coordinación de un 
+cambio sistémico significativo en el 
+sistema de salud colombiano como 
+respuesta al COVID-19 
+Universidad de los 
+Andes 
+$ 571.315.529 
+77567 
+Modelos sistémicos de inteligencia 
+epidemiológica para estimar las 
+dinámicas de infección del COVID-19 
+apoyando la toma de decisiones para 
+su control y prevención en Bogotá, 
+Medellín, Cali, Cartagena y 
+Barranquilla 
+Universidad de los 
+Andes 
+$ 941.343.210 
+77317 
+Seroprevalencia de SARS-CoV-2 
+durante la epidemia en Colombia: 
+estudio país 
+Instituto Nacional de 
+Salud  
+$ 1.999.208.066 
+77138 
+Identificación de variantes en el 
+genoma viral de SARS-CoV-2 por 
+medio de secuenciación masiva en 
+paralelo y su correlación con 
+desenlaces clínicos de COVID-19: 
+Vigilancia epidemiológica del 
+comportamiento genómico y clínico en 
+los epicentros de la pandemia en 
+Colombia. 
+Colegio Mayor Nuestra 
+Señora del Rosario 
+$ 1.894.711.745 
+77569 
+Sistema de gestión logística local en 
+escenarios de riesgo de pandemia 
+COVID-19 - SIGELO 
+Universidad del Valle 
+$ 1.134.397.950 
+  
+ 
+ 
+PBX: (57+1) 6258480. Ext. 2081 
+ 
+Línea gratuita nacional: 018000914446 
+Código postal: 111321 
+ 
+Av. Calle 26 Nº 57-83. Torre 8. Piso 2 al 6 
+ 
+Bogotá D.C. Colombia 
+Código: A204PR01MO2 – Versión: 01 – Fecha: 2020-02-07 
+ 
+Página 2 de 4 
+Línea 2: Sistemas de diagnóstico rápido para la infección por SARS-Cov-2 
+77294 
+DeepSARS: Sistema de aprendizaje 
+profundo automático para la 
+identificación temprana y seguimiento 
+de pacientes con riesgo de síndrome 
+de distrés respiratorio agudo 
+Universidad Industrial de 
+Santander 
+$ 938.592.475 
+76697 
+Viabilidad y validación de la aplicación 
+de modelos de inteligencia artificial 
+para la detección de neumonía en los 
+servicios de radiología de hospitales 
+de 3 y 4 nivel de Medellín. 
+Universidad EAFIT 
+$ 1.104.026.451 
+77415 
+Desarrollo y evaluación de un 
+bionanosensor portable, ultrasensitivo 
+y de respuesta rápida para el 
+diagnóstico y seguimiento del SARS-
+CoV 
+Pontificia Universidad 
+Javeriana - PUJ - Sede 
+Cali 
+$ 1.999.736.550 
+76900 
+Contribución al protocolo de 
+diagnóstico del Coronavirus COVID-19 
+y del Virus de influenza A H1N1 por 
+RT-PCR en tiempo real de un paso 
+autorizado por la Organización 
+mundial de la salud con la inclusión de 
+genes marcadores requeridos para la 
+infección viral y su validación por 
+secuenciación genómica de nueva 
+generación con la tecnología de 
+concentraciones de nucleótidos. 
+Universidad Industrial de 
+Santander 
+$ 555.960.965 
+77416 
+Integración de estrategias clínicas y 
+moleculares para el diagnóstico 
+diferencial de SARS-CoV-2 y otros 
+patógenos asociados Infección 
+Respiratoria Aguda: De lo 
+convencional a la metagenómica 
+Universidad El Bosque 
+$ 1.047.551.370 
+Línea 3: Estrategias de prevención de la 
+infección por SARS-Cov-2 y tratamiento de 
+COVID-19 
+76765 
+Nanobiosensores para la detección 
+rápida de SARS-CoV-2 
+Universidad de 
+Antioquia 
+$ 719.962.820 
+76610 
+Construcción y validación de un 
+equipo de ventilación mecánica para 
+terapia intensiva basado en 
+mecanismos modulares que garantice 
+el abastecimiento mediante una línea 
+de producción a bajo costo y de alto 
+nivel de confiabilidad para el 
+tratamiento de COVID-19 
+Universidad de Caldas 
+$ 554.402.310 
+76633 
+Eficacia y seguridad del extracto P2Et 
+en el tratamiento coadyuvante en 
+pacientes con COVID-19 
+Pontificia Universidad 
+Javeriana 
+$ 1.652.483.372 
+  
+ 
+ 
+PBX: (57+1) 6258480. Ext. 2081 
+ 
+Línea gratuita nacional: 018000914446 
+Código postal: 111321 
+ 
+Av. Calle 26 Nº 57-83. Torre 8. Piso 2 al 6 
+ 
+Bogotá D.C. Colombia 
+Código: A204PR01MO2 – Versión: 01 – Fecha: 2020-02-07 
+ 
+Página 3 de 4 
+77389 
+EFECTIVIDAD DEL USO DE 
+ELEMENTOS DE PROTECCIÓN 
+PERSONAL MÁS 
+HIDROXICLOROQUINA PARA LA 
+PREVENCIÓN DE LA TRANSMISIÓN 
+DE SARS-COV-2 A TRABAJADORES 
+DE LA SALUD 
+Pontificia Universidad 
+Javeriana 
+$ 1.725.218.049 
+76968 
+Efectividad y seguridad del tratamiento 
+farmacológico para el SARS Covid 19 
+, Colombia. Estudio controlado, 
+aleatorizado y pragmático. 
+Universidad Nacional de 
+Colombia 
+$ 1.280.871.456 
+Línea 4: Equipos y dispositivos médicos para el manejo de pacientes con 
+COVID-19 y otras infecciones 
+respiratorias agudas, garantizando la seguridad de los profesionales de la 
+salud 
+76627 
+Validación pre-comercial de dispositivo 
+de protección facial con características 
+de fácil remoción, desinfección y 
+reutilización para profesionales en 
+salud contra COVID-19 y otros 
+microorganismos causantes de 
+infecciones respiratorias agudas (IRA). 
+Fundación Abood Shaio 
+en Restructuración 
+$ 688.106.213 
+77197 
+Diseño, manufactura y validación de 
+una cámara/camilla despresurizada 
+para el aislamiento de pacientes 
+infectados con el 
+virus COVID-19 y la protección del 
+personal de salud. 
+Universidad Nacional de 
+Colombia - Sede 
+Medellín 
+$ 625.312.013 
+77658 
+Sistema de monitoreo remoto de 
+pacientes con COVID-19 
+Pontificia Universidad 
+Javeriana 
+$ 622.126.890 
+76682 
+Desarrollo a escala piloto de una 
+membrana de filtración basada en 
+nanofibras para el manejo de 
+pacientes con infecciones 
+respiratorias agudas-COVID 19. 
+Universidad EAFIT 
+$ 813.703.723 
+77021 
+Unidad de aislamiento epidemiológico 
+portatil 
+Universidad de La Salle  
+$ 1.049.569.636 
+Línea 5: Sistemas de monitoreo de 
+datos en tiempo real en relación con 
+la enfermedad producida por 
+SARSCov-2 y otros agentes causales 
+de IRA, que habiliten la posibilidad de 
+modelar escenarios epidemiológicos 
+77486 
+Desarrollo y evaluación de modelos 
+matemáticos y epidemiológicos que 
+apoyen la toma de decisiones en 
+atención a la emergencia por SARS-
+Cov-2 y otros agentes causales de 
+IRA en Colombia utilizando Data 
+Analytics y Machine Learning 
+Pontificia Universidad 
+Javeriana 
+$ 1.048.928.903 
+76535 
+SISTEMA DE INTELIGENCIA 
+EPIDEMIOLÓGICA PARA EL APOYO 
+EN LA TOMA DE DECISIONES EN 
+EL CONTROL DEL COVID-19 EN 
+LATINOAMÉRICA 
+Universidad de Caldas  
+$ 730.275.000 
+  
+ 
+ 
+PBX: (57+1) 6258480. Ext. 2081 
+ 
+Línea gratuita nacional: 018000914446 
+Código postal: 111321 
+ 
+Av. Calle 26 Nº 57-83. Torre 8. Piso 2 al 6 
+ 
+Bogotá D.C. Colombia 
+Código: A204PR01MO2 – Versión: 01 – Fecha: 2020-02-07 
+ 
+Página 4 de 4 
+76695 
+Plataforma web para la recolección de 
+datos, visualización, análisis, 
+predicción y evaluación de estrategias 
+de control de la enfermedad producida 
+por SARS-CoV-2 mediante 
+herramientas de modelación 
+matemática, simulación e inteligencia 
+artificial 
+Universidad EAFIT 
+$ 607.564.505 
+77490 
+Sistema Telemático de Prediagnóstico 
+Personal de Síntomas reconocidos de 
+COVID-19 (STOP COVID) 
+Corporación para 
+Investigaciones 
+Biológicas  
+$ 533.893.245 
+77464 
+Modelización de intervenciones de 
+Salud Pública del brote de CoVid-19 
+en Colombia: efectividad e impacto 
+epidemiológico y socio-económico de 
+la toma de decisiones y medidas de 
+mitigación 
+Universidad de La Salle  
+$ 711.217.197 
+ 
+ 
+Como se manifestó en la carta de la Invitación, se aclara que no se establece ninguna obligación para 
+Minciencias de informar sobre las decisiones adoptadas producto de la evaluación, toda vez que éste es un 
+procedimiento de contratación producto de una invitación y conforme al cual Minciencias en su desarrollo está 
+obligado a garantizar el mérito, calidad e idoneidad, de acuerdo con el marco normativo que lo regula. 
+Adicionalmente, la información referente a los proyectos no seleccionados se mantendrá de manera 
+confidencial. 
+ 
+En caso de inquietudes y preguntas sobre la presente invitación, favor diligenciar el formulario electrónico que 
+se encuentra disponible en el enlace https://minciencias.gov.co/contact, con el asunto “INVITACIÓN N° 1015 
+SALUD - COVID-19” o a través del correo electrónico: atencionalciudadano@minciencias.gov.co. 
+ 
+Cordialmente, 
+ 
+ 
+ 
+ 
+ 
+Eduardo Rojas Pineda 
+Director de Inteligencia de Recursos de la CTeI. 
+ 
+Revisó: Paola Laverde 
+Elaboró: Mónica Castiblanco 

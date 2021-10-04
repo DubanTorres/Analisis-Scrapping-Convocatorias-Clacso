@@ -1,0 +1,1676 @@
+
+ 
+Fondo “Fundación INCIDE – COECYTJAL” 
+ 
+Convocatoria “Retos de la industria del sector salud” 
+ 
+El Gobierno del Estado de Jalisco, por Conducto del Consejo Estatal de Ciencia y Tecnología de 
+Jalisco (COECYTJAL) y en colaboración con la Secretaría de Innovación, Ciencia y Tecnología 
+(SICyT), en el marco de lo dispuesto por los artículos 1, 3, 7 fracción I, II, 33 fracción I y 42 numeral 
+1 fracción IX de la Ley de Ciencia, Desarrollo Tecnológico e Innovación del Estado de Jalisco y 
+conforme al Convenio de Colaboración entre el Consejo Estatal de Ciencia y Tecnología de Jalisco 
+y Fundación Incide, A.C. de fecha 18 de diciembre de 2019, emite la Convocatoria “Retos de la 
+industria del sector salud”, de acuerdo con el Plan Estatal de Gobernanza y Desarrollo de Jalisco 
+2018-2024, en el eje de Desarrollo Económico y la temática de Ciencia y Tecnología. 
+ 
+OBJETIVO GENERAL  
+ 
+Fortalecer y desarrollar el ecosistema de innovación de Jalisco, a través de la resolución de retos 
+propuestos por el sector privado impulsando actividades de investigación, desarrollo tecnológico e 
+innovación (IDTI), fomentado soluciones mexicanas que les permitan ser más competitivos. 
+ 
+CONVOCA 
+ 
+Personas morales con fines de lucro, catalogadas como micro, pequeñas y medianas empresas, 
+pertenecientes al sector de Tecnologías de la Información y Comunicaciones y Medios Creativos 
+Digitales1 que se encuentre establecidas formalmente en el estado de Jalisco, para resolver retos 
+de la industria del sector Salud que a continuación se describe: 
+ 
+RETO TECNOLÓGICO 
+ 
+Desarrollo de una aplicación móvil interactiva que permita al usuario monitorear y 
+autoevaluar, de manera constante, periódica y entretenida, su salud visual. Esta 
+aplicación móvil tiene como principal objetivo el promover el desarrollo de una cultura de 
+prevención en salud visual en la población mexicana, dar a los usuarios acceso a una 
+herramienta que genere información que podría resultar de utilidad para identificar signos 
+tempranos de ciertos padecimientos, entre los que se encuentran: errores refractivos, 
+catarata, retinopatía diabética, ojo seco y degeneración macular relacionada a la edad. 
+Así como estrechar la comunicación con los médicos especialistas.  
+ 
+ 
+ 
+ 
+                                                 
+1 Sector de TI y Medios Creativos Digitales está conformado por las siguientes clases de actividades económicas del Sistema de 
+Clasificación Industrial de América del Norte, México 2018, (SCIAN 2018): 511210, 518210, 541510, 512190, 512111, 512113. 
+  
+ 
+La aplicación móvil deberá: 
+ 
+A) A través de actividades lúdicas, pantallas e instrucciones precisas, permitir que el 
+usuario auto-desarrolle las siguientes pruebas: 
+ 
+ Agudeza visual. 
+ Sensibilidad al contraste. 
+ Discriminación de colores. 
+ Índice de Enfermedad de la Superficie Ocular (IESO). También conocido como 
+OSDI, por sus siglas en inglés. 
+ Rejilla de Amsler. 
+ 
+B) Generar, mediante algoritmos, un valor individual derivado del desarrollo de cada una 
+de las pruebas y comparar dicho valor con estándares de visión aceptados. 
+ 
+C) Generar, mediante algoritmos, un valor global derivado del análisis de los valores 
+individuales generados a partir del desarrollo de cada una de las pruebas, así como de 
+su correlación y mostrarlo al usuario acompañándolo de una recomendación.  
+ 
+D) Generar un registro con los valores individuales y globales del usuario, y cumplir con 
+políticas de privacidad de manejo de datos. 
+ 
+E) Permitir el monitoreo de la salud visual del usuario mediante la comparación del valor 
+global obtenido con valores relativos adquiridos a lo largo del tiempo.  
+ 
+F) Permitir que el usuario comparta el valor global obtenido y lo compare con el resultado 
+adquirido por otros usuarios de la misma edad y género. 
+ 
+G) Permitir que el usuario comparta el valor global obtenido con su doctor especialista.  
+ 
+H) Evaluar el uso de la aplicación móvil con un focus group, mediante el desarrollo de 
+pruebas con usuarios y los resultados emitidos por optometristas y oftalmólogos. 
+ 
+I) Evaluar que la aplicación móvil registra recurrencia de uso entre los usuarios gracias 
+a las estrategias lúdicas, notificaciones recordatorias, entre otras.  
+ 
+Las propuestas deberán sujetarse a lo establecido en las Reglas de Operación del Programa 
+Apoyo a la Ciencia, Tecnología e Innovación 2019 (ROP) y a los Términos de Referencia para 
+la Operación de los “Retos de la industria del sector salud”, así como a las siguientes bases: 
+ 
+ 
+ 
+  
+ 
+1. Tipo de apoyo, Modalidades y Características: 
+ 
+1.1. Tipos de Apoyo 
+ 
+El apoyo será otorgado como estímulo económico complementario al proyecto que busque brindar 
+una mejor solución al reto tecnológico planteado.  
+ 
+1.2. Modalidades y Características: 
+ 
+ 
+Modalidad A) Desarrollo de aplicación móvil 
+ 
+o 
+El monto de apoyo por parte del COECYTJAL será de hasta $1,000,000.00 (Un millón de 
+pesos 00/100 M.N.) (50% del total del proyecto) sujeto a la determinación y aprobación del 
+Consejo Directivo del COECYTJAL  
+o 
+El monto de apoyo restante (50%) será aportado por Fundación INCIDE y podrá ser mayor 
+al monto de apoyo por parte del COECYTJAL, en caso de que la propuesta lo justifique. 
+ 
+Las aportaciones serán de manera líquida. 
+ 
+2. Presentación de las propuestas: 
+ 
+2.1. Sólo podrán ser enviadas las propuestas por Sujetos de Apoyo que se apeguen a lo 
+establecido en la Convocatoria y en los Términos de Referencia.  
+2.2. Se deberá enviar la propuesta dentro de los plazos señalados en el punto 4 de la presente 
+Convocatoria de manera electrónica en el Sistema de Solicitudes que se encuentra 
+disponible en la página electrónica del COECYTJAL: www.coecytjal.org.mx 
+ 
+3. Interpretación:  
+ 
+3.1. La interpretación de la presente Convocatoria, los Términos de Referencia y las Reglas de 
+Operación del Programa Apoyo a la Ciencia, Tecnología e Innovación 2019 (ROP), para el 
+Ejercicio Fiscal 2019, que forman parte de la misma, así como la solución de los casos no 
+previstos en ésta, serán resueltos por el COECYTJAL. En primer término, por medio del 
+Comité de Evaluación Estatal que se instale para esta materia, el cual presentará un proyecto 
+que será sometido al Consejo Directivo del COECYTJAL quien tendrá la última determinación. 
+ 
+4. Vigencia de la Convocatoria y Validación de documentación Jurídica: 
+ 
+4.1. La Convocatoria, así como sus Términos de Referencia, estarán abiertos a partir del 19 de 
+diciembre de 2019, fecha de su publicación en la página electrónica del COECYTJAL, hasta 
+el 28 de febrero de 2020, de conformidad a las fechas de cierre que se indican en el punto 
+4.3 de esta Convocatoria.  
+ 
+  
+ 
+4.2. Para la validación de la documentación jurídica, los Sujetos de Apoyo tendrán como fecha 
+límite para haber enviado y obtenido una validación aprobatoria a más tardar: 
+ 
+a)  Cierre validación jurídica: 14 de febrero de 2020 
+ 
+4.3. Los Sujetos de Apoyo tendrán como fecha límite para enviar su propuesta completa (una 
+vez validada la documentación jurídica), junto con los anexos y especificaciones establecidas 
+en la Convocatoria y Términos de Referencia, el día como sigue: 
+ 
+Apertura de Convocatoria 
+19 de diciembre de 2019 
+Cierre de Convocatoria 
+28 de febrero de 2020 
+ 
+4.4. Toda documentación a la que se refiere la Convocatoria y Términos de Referencia deberán 
+enviarse a través del Sistema de Solicitudes del COECYTJAL.  
+ 
+5. Para mayor información: 
+ 
+5.1. Para cualquier información, favor de recurrir a la dirección electrónica del COECYTJAL: 
+www.coecytjal.org.mx y revisar las Reglas de Operación del Programa Apoyo a la Ciencia, 
+Tecnología e Innovación 2019 (ROP) y a los Términos de Referencia para la Operación 
+de los “Retos de la industria del sector salud”, publicados en la página de COECYTJAL 
+www.coecytjal.org.mx.  
+5.2. De igual manera, remítase a los manuales del usuario del sistema de solicitudes de 
+COECYTJAL: www.coecytjal.org.mx. 
+5.3. La asistencia técnica podrá realizarse de lunes a viernes de 9:00 a 17:00 horas, previa cita, 
+en las instalaciones del COECYTJAL con el Lic. Manuel de la Torre Dávalos, a los teléfonos: 
+(33)3678-2000 
+ext. 
+52303 
+y 
+52251 
+o 
+al 
+correo 
+electrónico: 
+manuel.delatorre@coecytjal.org.mx, y por parte de la Fundación Incide, con  la Mtra. Laura 
+Almanza Ríos al teléfono (55) 5659-5788 o al correo electrónico lalmanza@incide.mx 
+  
+IMPORTANTE:  
+ 
+La presente Convocatoria constituye un concurso abierto por recursos públicos que se sujeta a la 
+disponibilidad presupuestal, a la atención de prioridades del Plan Estatal de Gobernanza y 
+Desarrollo de Jalisco 2018-2024 y a procedimientos derivados de la Ley de Ciencia, Desarrollo 
+Tecnológico e Innovación del Estado de Jalisco; se emite en la Ciudad de Guadalajara, Jalisco, en 
+el mes de diciembre de 2019 al día de su publicación. 
+  
+                 Página 1 de 16 
+Términos de Referencia “Retos de la industria del sector salud” 
+ 
+Términos de Referencia  
+ 
+Convocatoria “Retos de la industria del sector salud” 
+ 
+Este documento complementa y forma parte de la información descrita en la Convocatoria “Retos de la 
+industria del sector salud”, publicada el 19 de diciembre de 2019, por el Gobierno del Estado de Jalisco por 
+conducto del Consejo Estatal de Ciencia y Tecnología de Jalisco (COECYTJAL) en colaboración con la Secretaría 
+de Innovación, Ciencia y Tecnología del Ejecutivo Estatal (SICYT). La convocatoria está abierta a partir de la 
+fecha de emisión y hasta el 28 de febrero de 2020, de conformidad a la fecha de cierre que se indica en la 
+Convocatoria y los presentes Términos de Referencia. 
+ 
+SUJETO DE APOYO 
+ 
+Personas morales con fines de lucro, catalogadas como micro, pequeñas y medianas empresas, pertenecientes 
+al sector de Tecnologías de la Información y Comunicaciones y Medios Creativos Digitales1 que se encuentren 
+establecidas formalmente en el estado de Jalisco, para resolver retos de la industria del sector Salud que a 
+continuación se describe: 
+ 
+RETO TECNOLÓGICO 
+ 
+Implementar un servicio de TI, a través del desarrollo de una aplicación móvil interactiva que permita 
+al usuario monitorear y autoevaluar, de manera constante, periódica y entretenida, su salud visual. 
+Esta aplicación móvil tiene como principal objetivo el promover el desarrollo de una cultura de 
+prevención en salud visual en la población mexicana, dar a los usuarios acceso a una herramienta 
+que genere información que podría resultar de utilidad para identificar signos tempranos de ciertos 
+padecimientos, entre los que se encuentran: errores refractivos, catarata, retinopatía diabética, ojo 
+seco y degeneración macular relacionada a la edad. Así como estrechar la comunicación con los 
+médicos especialistas.  
+ 
+A) A través de actividades lúdicas, pantallas e instrucciones precisas, permitir que el usuario auto-
+desarrolle las siguientes pruebas: 
+ 
+ 
+Agudeza visual. 
+ 
+Sensibilidad al contraste. 
+ 
+Discriminación de colores. 
+ 
+Índice de Enfermedad de la Superficie Ocular (IESO). También conocido como OSDI, por sus siglas 
+en inglés. 
+ 
+Rejilla de Amsler. 
+ 
+B) Generar, mediante algoritmos, un valor individual derivado del desarrollo de cada una de las 
+pruebas y comparar dicho valor con estándares de visión aceptados. 
+ 
+C) Generar, mediante algoritmos, un valor global derivado del análisis de los valores individuales 
+generados a partir del desarrollo de cada una de las pruebas, así como de su correlación y 
+mostrarlo al usuario acompañándolo de una recomendación.  
+ 
+D) Generar un registro con los valores individuales y globales del usuario, y cumplir con políticas de 
+privacidad de manejo de datos. 
+                                                 
+1 Sector de TI y Medios Creativos Digitales está conformado por las siguientes clases de actividades económicas del Sistema de 
+Clasificación Industrial de América del Norte, México 2018, (SCIAN 2018): 511210, 518210, 541510, 512190, 512111, 512113. 
+  
+                 Página 2 de 16 
+Términos de Referencia “Retos de la industria del sector salud” 
+ 
+ 
+E) Permitir el monitoreo de la salud visual del usuario mediante la comparación del valor global 
+obtenido con valores relativos adquiridos a lo largo del tiempo.  
+ 
+F) Permitir que el usuario comparta el valor global obtenido y lo compare con el resultado adquirido 
+por otros usuarios de la misma edad y género. 
+ 
+G) Permitir que el usuario comparta el valor global obtenido con su doctor especialista.  
+ 
+H) Evaluar el uso de la aplicación móvil con un focus group, mediante el desarrollo de pruebas con 
+usuarios y los resultados emitidos por optometristas y oftalmólogos. 
+ 
+I) 
+Evaluar que la aplicación móvil registra recurrencia de uso entre los usuarios gracias a las 
+estrategias lúdicas, notificaciones recordatorias, entre otras.  
+ 
+Los mencionados, se sujetarán para la obtención de recursos a la disponibilidad presupuestal y a las 
+disposiciones contenidas en los Términos de Referencia, así como en las Reglas de Operación que para el efecto 
+emita el Consejo Directivo del COECYTJAL y demás disposiciones técnico-administrativas contenidas en la 
+Convocatoria. 
+ 
+1. 
+Estructura y características del proyecto 
+ 
+1.1. 
+Sólo podrán ser enviados proyectos por Sujetos de Apoyo que hayan obtenido su validación de la 
+Documentación Jurídica por parte de COECYTJAL a través del Sistema de Solicitudes 
+http://solicitudes.coecytjal.org.mx. (ver manuales de usuario del sistema). Para poder obtener la 
+validación antes mencionada deberá de realizar lo siguiente: 
+1.1.1. El Sujeto de Apoyo deberá integrar y enviar a validación por medio del Sistema de 
+Solicitudes la Documentación Jurídica para su revisión, misma que se detalla en el punto 
+2.1 de los presente Términos de Referencia, una vez enviada la documentación jurídica el 
+sistema NO le permitirá realizar ningún cambio. 
+1.1.2. Después de enviar su Documentación Jurídica, el área jurídica le emitirá una notificación 
+vía correo electrónico para que el REPRESENTANTE LEGAL2  presente la documentación 
+en original en el lugar, fecha y hora señalada y con esto se emitirá un dictamen de validación. 
+1.1.3. Una vez obtenida la validación de la Documentación Jurídica, se podrá crear su solicitud 
+de apoyo e integrar al sistema del COECYTJAL la información técnica que señala el sistema 
+y documentación soporte requerida (ver manuales de usuario del sistema). 
+1.2. 
+Se considerará como un proyecto toda aquella solicitud debidamente formulada, completa tanto en 
+requisición del formato como en anexos integrados y que haya sido recibida y cuente con número de 
+recepción a través del Sistema de solicitudes del COECYTJAL, habiendo sido enviada dentro de la 
+vigencia de la Convocatoria, sin que ello signifique que se encuentra aprobada. 
+1.3. 
+Los proyectos deberán presentar la información completa solicitada en sus diferentes módulos: 
+General, Cronograma, Equipo de Trabajo, Entregables, Indicadores, Cotizaciones, Desglose 
+Financiero y Anexos (señalados en el punto 2.2 de estos Términos de Referencia), incorporada 
+vía electrónica en la plataforma del Sistema de Solicitudes del COECYTJAL. 
+1.4. 
+Los proyectos deberán especificar un Responsable Legal (Representante Legal del Sujeto de Apoyo), 
+un Responsable Técnico y un Responsable Administrativo. El Representante Legal (que cuente con 
+poder general para actos de administración, suscribir convenios y títulos de créditos), deberá designar 
+un Responsable Técnico que será el encargado de la ejecución del proyecto, del cumplimiento de 
+                                                 
+2 En caso de no acudir el REPRESENTANTE LEGAL, este deberá emitir una carta poder simple ante dos testigos, en la que autorice a determinada persona 
+presentar dicha documentación jurídica 
+  
+                 Página 3 de 16 
+Términos de Referencia “Retos de la industria del sector salud” 
+ 
+los objetivos y metas planteadas, de la generación de los entregables, así como de la elaboración de 
+los informes de resultados, de avance y logros alcanzados, además deberá designar a un 
+Responsable Administrativo, quien deberá comprobar la correcta aplicación y comprobación de los 
+recursos otorgados, mediante la elaboración de los informes financieros y administrativos. El 
+responsable Técnico y Administrativo no deberán ser la misma persona (ver manuales de usuario del 
+sistema de solicitudes del COECYTJAL).  
+1.5. 
+Para la documentación de soporte, que se detalla en el punto 2.2 de los presentes Términos de 
+Referencia, es indispensable incorporar a la solicitud electrónica todos los anexos mencionados sin 
+excepción. En caso de no aplicabilidad de alguno de ellos, se debe presentar una carta aclaratoria de 
+libre redacción con las referencias correspondientes.  
+1.6. 
+Información técnica y de soporte requerida dentro de la plataforma. Se deberán llenar todos 
+los campos solicitados por la plataforma del sistema de solicitudes del COECYTJAL sin 
+excepción.  
+1.7. 
+Se tomará en cuenta la trayectoria y experiencia del Sujeto de Apoyo en áreas relacionadas con el 
+tema del proyecto mostrando congruencia entre la naturaleza del proyecto, viabilidad y capacidad 
+técnica de ejecución del proponente. 
+ 
+2. 
+Anexos 
+ 
+2.1. 
+Documentación Jurídica (archivos formato PDF) del Sujeto de Apoyo que deberá estar enviada 
+y validada de acuerdo con los tiempos establecidos en el punto 4 de la Convocatoria. 
+ 
+2.1.1. Personas morales privadas:  
+ 
+a) Acta Constitutiva y sus modificaciones, de ser el caso, con inscripción al Registro Público de la 
+Propiedad o Comercio. 
+b) Poder General del Representante Legal o Apoderado para actos de administración y suscripción 
+para títulos de crédito. 
+c) Identificación oficial del Representante Legal vigente (Nacionales: IFE – INE, Pasaporte o Cartilla 
+Militar. Extranjeros: Formato migratorio vigente expedido por el Instituto Nacional de Migración) 
+d) Cédula del Registro Federal de Contribuyentes (RFC). 
+e) Comprobante de domicilio vigente a nombre del solicitante (Persona Moral Privada) que no 
+exceda 3 meses de antigüedad a partir de la fecha de expedición. (CFE, Estado de cuenta 
+Bancario, SIAPA, Teléfono). 
+f) 
+Cédula de Licencia Municipal vigente de giro a nombre del solicitante (Persona Moral Privada). 
+g) Fotografías de las oficinas (panorámica de la fachada, interior de las oficinas, exterior donde se 
+aprecie el número exterior de la oficina) 
+h) En su caso, comprobante de la legal propiedad y/o posesión del inmueble en el que se realizará 
+el proyecto, mediante documento jurídico fehaciente, con las formalidades que exija el marco 
+legal aplicable en la materia (título de la propiedad, contrato de arrendamiento, contrato de 
+comodato, contrato de usufructo, contrato de donación, adjudicación por herencia). 
+ 
+2.2. 
+Documentación Soporte obligatoria del proyecto, dentro de la sección de “Anexos” del sistema 
+de solicitudes de COECYTJAL: 
+ 
+Anexo A 
+Carta de postulación por parte del interesado (ver formato Anexo A). 
+Anexo B 
+Carta Compromiso por parte del Sujeto de Apoyo firmada por el Representante Legal, 
+expresando en términos claros que se somete y acepta las reglas de operación y bases de 
+la presente Convocatoria; así como a entregar en tiempo y forma la comprobación fiscal del 
+  
+                 Página 4 de 16 
+Términos de Referencia “Retos de la industria del sector salud” 
+ 
+pago de los servicios correspondientes que se contrate en los términos que determine la 
+presente Convocatoria (ver formato Anexo B). 
+Anexo C 
+● 
+Opinión del cumplimiento de las obligaciones fiscales ante el SAT no mayor a 2 meses.  
+● 
+Constancia de situación fiscal con una fecha de emisión no mayor a 1 mes. 
+● 
+Acuse de recibo de la Declaración anual del ejercicio inmediato anterior.  
+Anexo D 
+Currículo del proponente y de todo el personal que forma parte del equipo de trabajo. a 
+(Formato libre, en hoja membretada y firma autógrafa del representante legal). 
+Anexo E 
+Desarrollo del proyecto, cronograma de actividades por hito (ver Anexo E) 
+Anexo F 
+Descripción de desarrollos previos de aplicaciones en el área de salud o similar. 
+Anexo G 
+Video no mayor a 2 minutos, donde uno o más representantes del equipo presenten de 
+manera resumida la propuesta (Demostración de la aplicación), en formato .ZIP. 
+Anexo H 
+Evidencia de alguna certificación Nacionales o Internacionales vigente con las que cuente 
+(Ejemplo: NMX-I-20001-NYCE-2010, NMX-I-27001-NYCE-2010, ISO/IEC 27001, ISO/IEC 
+12207, ISO/IEC 15504, ISO/IEC 29110, NMX-I_059/02-NYCE-2011 (MoProSoft) con nivel 
+2 como mínimo, Capability Maturity Model Integration (CMMI) con nivel 2 como mínimo 
+vigente, Team Software Process (TSP) Performance and Capability Evaluation (PACE), se 
+deberá enviar el comprobante correspondiente emitido por la institución certificadora 
+(Presentar en caso de contar con certificación). 
+Anexo I 
+Identificaciones oficiales del Responsable Técnico y Responsable Administrativo 
+(Nacionales: IFE – INE, Pasaporte o Cartilla Militar, Extranjeros: Formato migratorio vigente 
+expedido por el Instituto Nacional de Migración, ver formato Anexo G). 
+Otros Anexos 
+Otros que sean necesarios para el fundamento del proyecto y la ejecución del proyecto. 
+ 
+En caso de no contar con los documentos antes mencionados por parte del Sujeto de Apoyo, será descalificado 
+para participar en la Convocatoria “Retos de la industria del sector salud”. 
+ 
+3. 
+Modalidades, Conceptos y Entregables 
+ 
+Todos los proyectos postulantes deberán de cumplir con las características mencionadas en el punto 1.2 de la 
+Convocatoria, además de los siguientes elementos de acuerdo con la modalidad seleccionada: 
+ 
+El desarrollo del proyecto no deberá exceder 12 meses, dentro de los cuales el proyecto se 
+dividirá en tres etapas, mismas que coincidirán con la ministración del recurso que les será 
+entregado. 
+ 
+3.1. 
+Modalidad A) Desarrollo de aplicación móvil 
+ 
+ 
+Monto de apoyo por parte del COECYTJAL será de hasta $1,000,000.00 (Un millón de 
+pesos 00/100 M.N.) (50% del total del proyecto) sujeto a la determinación y aprobación 
+del Consejo Directivo del COECYTJAL. 
+ 
+El monto de apoyo restante (50%) será aportado por parte de Fundación Incide, A.C. 
+y podrá ser mayor al monto de apoyo por parte del COECYTJAL, en caso de que la 
+propuesta lo justifique. 
+ 
+ 
+  
+                 Página 5 de 16 
+Términos de Referencia “Retos de la industria del sector salud” 
+ 
+Concepto 
+Entregables Generales 
+Desarrollo de aplicación móvil 
+ 
+Aplicación para teléfonos inteligentes y tabletas 
+compatibles con sistemas operativos iOS (9.x, 10.x, 
+o superiores) y Android (6.0, 7.0, o superiores) en las 
+tiendas de App Store de Apple y Play store de 
+Google. 
+ 
+ 
+Archivo ejecutable apk, ipa y código fuente. 
+ 
+ 
+Manual de usuario y diccionario de datos. 
+ 
+ 
+Reporte final (técnico y financiero) que deberá incluir 
+la siguiente información: 
+ 
+ Reporte de focus group con los resultados de uso 
+satisfactorio de la App. 
+ 
+El 21 y 22 de enero de 2020 se realizará un taller impartido por Fundación Incide y COECYTJAL 
+donde se explique a detalle el reto tecnológico, se notificará vía correo electrónico a los que se 
+hayan validado jurídicamente donde se les compartirá el lugar y hora de la sesión, durante la 
+sesión se firmará carta de confidencialidad. 
+ 
+4. 
+Partidas Financiables y NO Financiables en las líneas de apoyo 
+ 
+Los recursos solicitados al COECyTJAL, únicamente se podrán aplicar en las actividades y gastos comprendidos 
+entre las fechas señaladas en el convenio para la ejecución de los recursos del proyecto y para la presentación 
+de los resultados deberán estar relacionados con los aspectos técnicos establecidos en el convenio y con relación 
+al alcance de los objetivos que se hayan considerado en su anexo técnico. 
+Para consultar los gastos específicos financiables y no financiables que comprende cada una de las partidas, 
+consultar el Anexo 1 de este documento. 
+ 
+El gasto se dirige a los rubros de Gasto Corriente y/o de Inversión, por lo que las partidas en las que se puede 
+erogar el recurso son las siguientes: 
+ 
+4.1. 
+Partidas Financiables 
+ 
+4.1.1. Gasto Corriente (Erogación que no tiene como contrapartida la creación de un activo, sino que 
+constituye un acto de consumo): 
+ 
+ 
+Sueldos y Salarios del Equipo de Trabajo (será hasta el 70% del monto total del proyecto) 
+ 
+Apoyo a estudiantes y/o practicantes (será hasta el 10% del monto total del proyecto) 
+ 
+Servicios Externos (será hasta el 15% del monto total del proyecto) 
+ 
+Vinculación IES y/o CI (será hasta el 15% del monto total del proyecto). 
+ 
+Focus Group. 
+ 
+Servicios de auditoría contable.  
+ 
+  
+                 Página 6 de 16 
+Términos de Referencia “Retos de la industria del sector salud” 
+ 
+4.1.2. Gasto de Inversión (Se refiere a la compra de bienes de consumo duradero): 
+ 
+Equipo Tecnológico y software. 
+ 
+Todas las compras mayores a $100,000.00 (Cien mil pesos 00/100 M.N.), de las partidas financiables tales 
+como vinculación, servicios externos, equipamiento tecnológico, se utilizará el método de comparación de 
+ofertas, para lo cual, el responsable administrativo en coordinación con el responsable técnico del proyecto, 
+procederán de la siguiente manera: 
+ 
+i. 
+Se deben obtener al menos tres cotizaciones por cada concepto de apoyo solicitado. 
+ii. 
+Las cotizaciones referidas en el inciso anterior deben tener referencias iguales, similares o 
+comparables entre sí en cuanto a las características de los bienes o servicios a adquirir 
+iii. 
+Las cotizaciones deberán tener al menos las siguientes características:  
+a) Deberá ser una cotización formal, en papel membretado y datos generales de la empresa que 
+cotiza (número de teléfono, correo electrónico, página web, contacto).  
+b) Deberá estar dirigida al sujeto de apoyo.  
+c) Deberá describir el producto o servicio que está cotizando (características técnicas, costo por 
+unidad, total unidades).  
+d) Deberá de especificar si la cantidad cotizada incluye o no el Impuesto al Valor Agregado (IVA).  
+e) Las cotizaciones deberán estar firmadas por parte de la empresa proveedora. En caso de que 
+por políticas internas de la empresa proveedora no se presenten cotizaciones firmadas o sean 
+generadas por portales electrónicos (y por lo tanto no puedan ser dirigidas al sujeto de apoyo), 
+se deberá entregar una carta firmada por el representante legal del sujeto de apoyo donde 
+manifieste la autenticidad y vigencia de las mismas, así como manifestar el medio por el cual se 
+cotizó.  
+ 
+Seleccionarán un proveedor, en la inteligencia de que deberán fundamentar su selección de acuerdo al proveedor 
+que cumpla con las especificaciones técnicas requeridas y ofrezca las mejores condiciones en calidad, entrega y 
+costo. 
+ 
+4.2. 
+Partidas No Financiables: 
+Se consideran partidas no financiables los siguientes conceptos: 
+ 
+Obra civil.  
+ 
+Gastos de publicidad, mercadotecnia y comercialización.  
+ 
+Gastos sobre estudios y permisos relacionados con las regulaciones ambientales y seguridad 
+industrial.  
+ 
+Deudas y provisiones para posibles pérdidas.  
+ 
+Intereses.  
+ 
+Adquisición de propiedades inmuebles.  
+ 
+Compra y venta de divisas.  
+ 
+Multas, recargos y actualizaciones.  
+ 
+Gastos financieros, incluidas las transferencias bancarias.  
+ 
+Protección y Mantenimiento de los derechos de propiedad intelectual. 
+ 
+Cambios de boletos de avión 
+ 
+Comisiones de agencias de viajes 
+  
+                 Página 7 de 16 
+Términos de Referencia “Retos de la industria del sector salud” 
+ 
+ 
+Seguros médicos y visas 
+ 
+Otros gastos que el COECyTJAL determine como improcedentes. 
+ 
+5. 
+Indicadores. 
+ 
+5.1. 
+Empleo actual de la empresa. 
+Se deberá de contabilizar los empleos actuales de la empresa al momento de presentar la solicitud. 
+ 
+5.2. 
+Empleo potencial. 
+Son aquellos que se generarán durante la ejecución del proyecto y se deberán de comprobar de la 
+siguiente manera: 
+ 
+1.- Alta de los empleos. 
+a) Altas y liquidaciones ante el IMSS:  
+i. Listado con el nombre de las personas, número de alta en el IMSS, fecha de alta en el IMSS. 
+ii. Copias de las altas del IMSS de los trabajadores.  
+iii. Liquidaciones mensuales durante la ejecución del proyecto.  
+b) En el caso de contrato con empresas de outsourcing deberá presentarse:  
+i. Contrato entre la empresa beneficiaria y la empresa proveedora del servicio.  
+ii. Acta Constitutiva de la empresa proveedora donde se especifique que sus actividades 
+preponderantes sean contratar personal a nombre de terceros.  
+iii. Copias de las altas del IMSS de los trabajadores.  
+C) Recibos de honorarios: 
+ 
+Primer y último recibo de pago/honorarios. 
+ 
+Contrato correspondiente con el empleado. 
+ 
+2.- Duración. 
+La duración del contrato del empleo potencial será de un año o por lo menos el período de la duración 
+del proyecto.  
+ 
+ 
+6. 
+Recepción de proyectos, selección y evaluación 
+ 
+6.1. 
+La fecha de publicación de la convocatoria es del 19 de diciembre de 2019 y se estará contemplando 
+un periodo de recepción de proyectos que concluirá el 28 de febrero de 2020. Se debe considerar 
+enviar el proyecto con la información técnica que se refiere el punto 1 y documentación soporte a que 
+se refiere el punto 2.2. del presente documento. 
+6.2. 
+Los proyectos deberán ser presentadas dentro de la vigencia de la Convocatoria de la cual forman 
+parte los presentes Términos de Referencia, de manera electrónica, a través del sistema de 
+Solicitudes 
+que 
+se 
+encuentra 
+en 
+la 
+página 
+electrónica 
+del 
+COECYTJAL 
+http://solicitudes.COECYTJAL.org.mx/, así como los documentos soporte de forma digital en la misma 
+plataforma electrónica.  
+6.3. 
+El encargado del fondo coordinará la validación del proyecto y el proceso de evaluación de solo 
+aquellos proyectos que cubran los requisitos establecidos en la Convocatoria y Términos de 
+Referencia. Dichos proyectos recibirán el siguiente tratamiento:  
+  
+                 Página 8 de 16 
+Términos de Referencia “Retos de la industria del sector salud” 
+ 
+a) Todo proyecto será sometido en primer término a un análisis de normatividad y pertinencia por 
+el COECYTJAL, con el objeto de verificar su congruencia con la demanda específica y cumplan 
+todos los requisitos establecidos, caso contrario serán descartados.  
+b) Los proyectos con opinión de pertinencia favorable serán turnados al Comité de Evaluación 
+Estatal3 para un análisis de calidad técnica con el fin de emitir una recomendación de aprobación 
+y/o factibilidad; esta recomendación se turnará al Consejo Directivo del COECYTJAL quién 
+dictaminará su aprobación.  
+6.4. 
+Se otorgarán puntos extras en la evaluación de calidad técnica a los siguientes casos: 
+ Generen empleos potenciales, empleos potenciales especializados o empleos mejorados. 
+ Presenten certificaciones nacionales o internacionales mencionadas en el Anexo H. 
+6.5. 
+El Comité de Evaluación Estatal será designado por el COECYTJAL. 
+6.6. 
+Las decisiones del Comité de Evaluación Estatal serán definitivas e inapelables. 
+6.7. 
+El dictamen final emitido por el Consejo Directivo del COECYTJAL es inapelable y no será sujeto de 
+impugnación alguna por los Sujetos de Apoyo. En el caso en el que se detecte información falsa en 
+el proyecto, este será inmediatamente cancelada y dada de baja del sistema.  
+ 
+Se considerará el monto total de la propuesta como factor a evaluar. 
+ 
+7. 
+Formalización de convenios, asignación de recursos y publicación 
+ 
+7.1. 
+Al Sujeto de Apoyo que le haya sido aprobada su proyecto, será notificado de manera oficial sobre la 
+resolución emitida por el Consejo Directivo del COECYTJAL. Para que se proceda a formalizar el 
+apoyo mediante la firma del convenio de apoyo de COECYTJAL.  
+7.2. 
+El COECYTJAL formalizará el proyecto mediante un convenio de otorgamiento de apoyo con el 
+proponente quien deberá de acudir a las oficinas del COECYTJAL para que se proceda a suscribir el 
+instrumento correspondiente entre el COECYTJAL y el Representante Legal.  
+7.3. 
+El COECYTJAL realizará el otorgamiento de recursos mediante transferencia electrónica a una cuenta 
+de banco del beneficiario siempre y cuando el Sujeto de Apoyo presente la siguiente documentación:  
+a) 
+Comprobante fiscal digital por internet (CFDI). 
+b) 
+Entrega de Oficio de Notificación de cuenta Bancaria. 
+c) 
+Instrumento de garantía. 
+d) 
+Demás documentación solicitada por el personal de COECYTJAL. 
+ 
+8. 
+Entrega de informes y Seguimiento 
+ 
+8.1. 
+El seguimiento de los proyectos estará a cargo del área de seguimiento del COECYTJAL, siendo 
+responsable el Sujeto de Apoyo de presentar informes parciales y finales (técnico y financiero) 
+de manera escrita y en versión digital, así como también las evidencias digitales de los (gastos 
+financieros, indicadores y evidencias técnicas) de acuerdo a las fechas establecidas en el Anexo 
+E. 
+8.2. 
+Los informes parciales se deberán entregar al área de Seguimiento del COECYTJAL durante los 
+primeros 5 días naturales posteriores a la fecha de entrega de cada etapa. 
+8.3. 
+Se llevará a cabo una evaluación técnica y financiera por parte del COECYTJAL y Fundación 
+Incide, de los informes parciales de las 2 etapas, en caso de obtener un dictamen positivo, se 
+procederá a ministrar la etapa consecuente, de lo contrario se podrá suspender o cancelar la 
+ministración de las etapas. 
+                                                 
+3 De acuerdo a lo establecido en el punto 16 de las Reglas de Operación del programa apoyo a la ciencia, tecnología e innovación 2019 (ROP). 
+  
+                 Página 9 de 16 
+Términos de Referencia “Retos de la industria del sector salud” 
+ 
+8.4. 
+El informe final se deberá entregar al área de Seguimiento del COECYTJAL durante los primeros 
+15 (quince) días naturales posteriores a la fecha de cierre del proyecto, o en su caso, la fecha 
+en que termine la prorroga otorgada.  
+8.5. 
+Se llevará a cabo una evaluación técnica y financiera por parte del COECYTJAL y Fundación 
+Incide, del informe final, en caso de obtener un dictamen positivo, se procederá a finiquitarse, de lo 
+contrario se podrá solicitar reintegro proporcional o total del recurso. 
+8.6. 
+Con el propósito de asegurar el cumplimiento de los objetivos de los proyectos apoyados por el 
+COECYTJAL, se ha establecido como requisito obligatorio que el Sujeto de Apoyo permita verificar el 
+avance técnico y los resultados del proyecto, así como la correcta aplicación de los recursos 
+asignados, cuando el COECYTJAL o los Órganos Superiores de Control los soliciten.  
+8.7. 
+En caso en que el beneficiario requiera una prórroga en el periodo de ejecución del recurso, 
+conclusión del proyecto, y por ende, entrega de informes finales; deberá presentar al COECYTJAL, 
+un oficio mediante el cual, solicita autorización para ejecutar el recurso, conclusión del proyecto, y/o 
+entrega de informes finales, justificando técnicamente la causa y motivos de la solicitud, y 
+especificando el porcentaje de avance técnico y porcentaje de avance financiero obtenido al momento 
+de la solicitud, así mismo, deberá especificar si requiere la prórroga para prolongar el periodo de 
+ejecución del recurso, la conclusión del proyecto y/o entrega de informes finales. La solicitud deberá 
+entregarse en original con firma autógrafa del Representante legal, o en su ausencia, con las firmas 
+autógrafas del responsable técnico y administrativo del proyecto, en las oficinas del COECYTJAL, al 
+menos 20 días hábiles previos a la fecha de entrega de informes finales del proyecto. 
+8.8. 
+El Beneficiario está obligado a dar respuesta a las recomendaciones o solicitudes de información en 
+los plazos establecidos. En caso de incumplimiento por el Beneficiario, será motivo suficiente para 
+cancelar el apoyo o los recursos aprobados al Beneficiario, por lo que en este caso el Beneficiario 
+deberá reintegrar al COECYTJAL los recursos que efectivamente hubiere recibido de este o del 
+FOCYTJAL con motivo del proyecto.  
+8.9. 
+El Beneficiario deberá resguardar y tener disponible el expediente de toda la documentación 
+financiera y técnica entregada al COECyTJAL para su revisión en visitas de inspección y seguimiento 
+por parte de los Órganos superiores de control, hasta por 5 años posteriores a la fecha de conclusión 
+del proyecto. Estas podrán efectuarse en cualquier momento durante la vigencia del convenio y aún 
+después de que este termine, en las instalaciones del Sujeto de Apoyo o en el o los lugares en donde 
+se ejecute el proyecto.  
+8.10. El área de seguimiento podrá requerir el reintegro proporcional del recurso derivado del 
+incumplimiento por parte del Beneficiario con respecto a los entregables, indicadores y/o 
+comprobación del gasto correspondiente según se determine.  
+8.11. El COECYTJAL en colaboración con la SICYT realizará al año posterior de terminado el proyecto una 
+encuesta de impacto. 
+ 
+9. 
+Confidencialidad y Manejo de Información 
+ 
+9.1. 
+La información que se reciba con motivo de la presente convocatoria, está sujeta a lo dispuesto por 
+la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus 
+Municipios, por lo que, aquella documentación que deba ser considerada como confidencial o 
+reservada, deberá ser señalada expresamente, con el objeto de que dicha información sea atendida 
+con los criterios y las prácticas que aseguren su correcto manejo y confidencialidad. 
+9.2. 
+La recepción de los proyectos estará a cargo del COECYTJAL y deberán presentarse de manera 
+digital en el sistema de solicitudes del COECYTJAL. 
+ 
+ 
+ 
+ 
+ 
+  
+                 Página 10 de 16 
+Términos de Referencia “Retos de la industria del sector salud” 
+ 
+10. Reconocimiento y difusión de los resultados  
+ 
+10.1. La resolución de los proyectos evaluados por el Consejo Directivo es de carácter inapelable y la 
+publicación del proyecto ganador estará disponible en la página oficial del COECYTJAL: 
+www.COECYTJAL.org.mx.  
+10.2. La información recibida, así como la difusión o divulgación de los resultados, será manejada de 
+conformidad con lo ordenado por la Ley de Transparencia y Acceso a la Información Pública del 
+Estado de Jalisco y sus Municipios, así como con lo dispuesto por la normatividad interna del 
+COECYTJAL en materia de acceso a la información pública y de protección de datos personales.  
+10.3. Se deberá otorgar el reconocimiento a la SICYT, COECYTJAL y Fundación Incide, A.C. respecto del 
+apoyo económico otorgado al Proyecto, en cualquier Publicación, Divulgación, o Presentación en 
+eventos Públicos, Académicos o Empresariales sobre los resultados del proyecto. 
+10.4. La solicitud de los identificadores (logotipos de Gobierno del Estado) vigentes, deberá hacerlo el 
+responsable técnico del proyecto a través de su cuenta de correo registrada en el sistema de 
+solicitudes del COECYTJAL y dirigido al email: samuel.blanco@jalisco.gob.mx. 
+ 
+11. Consideraciones Adicionales 
+ 
+11.1. La propiedad intelectual generada será propiedad de la empresa que lanza el reto y/o fundación 
+incide. 
+11.2. La presentación de los proyectos del postulante ante el COECyTJAL de esta Convocatoria, implica la 
+aceptación expresa a las Reglas de Operación del programa apoyo a la ciencia, tecnología e 
+innovación 2019 (ROP), los Términos de Referencia, así como a la normatividad expedida por el 
+COECyTJAL aplicable al caso 
+11.3. No podrán solicitar apoyo quienes tengan conflicto de intereses, ni tampoco los funcionarios del 
+COECYTJAL que se encuentren en los supuestos que para el efecto establece la Ley de 
+Responsabilidades de los Servidores Públicos del Estado de Jalisco. 
+11.4. Solo se apoyará a una propuesta en la presente convocatoria, misma que será la que obtenga 
+una mejor evaluación de calidad técnica, y deberá cumplir cabalmente con todos los requerimientos 
+marcados en los términos de referencia y Reglas de Operación del programa apoyo a la ciencia, 
+tecnología e innovación 2019. 
+11.5. El proyecto apoyado estará sujeto a la aprobación de Consejo Directivo de COECYTJAL, la 
+disponibilidad presupuestal del programa y la distribución que se realice del mismo. 
+11.6. El proyecto apoyado en esta convocatoria, no deberán contar con duplicidad de recursos obtenidos 
+de otras convocatorias o programas de apoyo del Gobierno del Estado de Jalisco y/o del Gobierno 
+Federal. 
+11.7. Los proyectos deberán de iniciar su ejecución en el ejercicio fiscal 2020 en un tiempo que NO 
+exceda los 12 (doce) meses a partir de la fecha de inicio, así como los gastos comprobables 
+deberán ajustarse a este periodo. 
+11.8. No se evaluarán proyectos cuyos sujetos de apoyo o alguno de los Representantes Legales, 
+Responsables Técnicos y Administrativos hayan presentado situaciones irregulares o algún tipo de 
+falta en proyectos apoyados con anterioridad, a los acuerdos y disposiciones señaladas en los 
+convenios de asignación de recursos revisar, de algún instrumento de fomento o apoyo del 
+COECyTJAL o tenga conflictos planteados en contra de éste, ante instancias administrativas y/o 
+judiciales. 
+11.9. El Sujeto de Apoyo que resulte beneficiado deberá consultar las Reglas de Operación del programa 
+apoyo a la ciencia, tecnología e innovación 2019 que son de observancia obligatoria para los 
+proponentes, sujetos de apoyo y participantes en los proyectos a que se refiere el propio FOCyTJAL.  
+11.10. Tanto el Representante Legal, Responsable Técnico y Administrativo del proyecto apoyado, deberán 
+asegurar el cumplimiento de este, de acuerdo con lo establecido en la Convocatoria, Términos de 
+  
+                 Página 11 de 16 
+Términos de Referencia “Retos de la industria del sector salud” 
+ 
+Referencia del programa y Reglas de Operación del programa apoyo a la ciencia, tecnología e 
+innovación 2019 (ROP). 
+11.11. La bolsa de la Convocatoria está sujeta a suficiencia presupuestal y podrá ser de hasta $2,000,000.00 
+(Dos millones de pesos 00/100 M.N.) de los cuales hasta $1,000,000.00 (Un millón de pesos 
+00/100 M.N.) aportados por el COECYTJAL y hasta $1,000,000.00 (Un millón de pesos 00/100 M.N.) 
+aportados por la Fundación Incide, A.C. 
+11.12. El monto concurrente (aportación Fundación Incide) será una aportación líquida respetando 
+los porcentajes mencionados en la Convocatoria. Tanto la aportación del COECYTJAL como el 
+monto concurrente deberán ser gastos demostrados con comprobantes fiscales, con las 
+características que se establecen en las Reglas de Operación del programa apoyo a la ciencia, 
+tecnología e innovación 2019. 
+11.13. Los apoyos económicos están sujetos a la disponibilidad de recursos con que opere la 
+convocatoria “Retos de la industria del sector salud”, así como la bolsa establecida en el marco del 
+Convenio de Colaboración entre el COECYTJAL y Fundación Incide, A.C. La presentación de los 
+proyectos no constituye la aprobación de las mismas. 
+11.14. Los Términos de Referencia que forman parte de la Convocatoria “Retos de la industria del sector 
+salud”, estarán vigentes a partir del 19 de diciembre de 2019, fecha de publicación en la página 
+electrónica del COECYTJAL hasta la conclusión de la vigencia de los proyectos. 
+11.15. Los postulantes deberán en todo momento, desde la apertura de la Convocatoria, en el proceso de 
+selección, como a partir de haber sido seleccionados, conducirse con respeto con el personal del 
+COECYTJAL. 
+11.16. En caso de falta de cumplimiento al convenio, la Convocatoria y/o detectarse información falsa, actos 
+de omisión, o afectación intencional a derechos de propiedad intelectual (Propiedad Industrial o 
+Derechos de Autor u otros) de terceros, por parte de las micro, pequeñas y medianas empresas 
+legalmente constituidas y establecidas en el Estado de Jalisco que participen en esta Convocatoria, 
+el Consejo Directivo del COECYTJAL tendrá la facultad de sancionarlos mediante: 
+o 
+Solicitar el reintegro al 100% del recurso aprobado por COECYTJAL y/o; 
+o 
+La revocación del acuerdo mediante el cual se hubiera otorgado cualquier apoyo y/o; 
+o 
+Negar la participación en futuras Convocatorias y/o cualquier apoyo que otorgue el 
+COECYTJAL y la SICYT. 
+11.17. Las cuestiones no previstas en la Convocatoria y en los presentes Términos de Referencia, serán 
+resueltas por el Consejo Directivo del COECYTJAL. 
+11.18. Este Programa es público, ajeno a cualquier partido político. Queda prohibido el uso para fines 
+distintos a los establecidos en el Programa. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+                 Página 12 de 16 
+Términos de Referencia “Retos de la industria del sector salud” 
+ 
+Anexo 1 
+ 
+Descripción de partidas financiables  
+ 
+Los recursos solicitados al COECyTJAL, únicamente se podrán aplicar en las actividades y gastos comprendidos 
+entre las fechas señaladas en el convenio y/o en su Anexo Técnico para la ejecución del proyecto y para la 
+presentación de los resultados deberán estar relacionados con los aspectos técnicos establecidos en el convenio 
+y en su Anexo Técnico y con relación al alcance de los objetivos que se hayan considerado.  
+ 
+1. Ejercicio y Comprobación de Gasto Corriente 
+ 
+Comprende los recursos asignados a las partidas para la adquisición de servicios, insumos y consumibles que 
+no se pueden cuantificar como parte de los activos de la persona moral beneficiada y que son necesarios para la 
+operación del proyecto. 
+ 
+1.1. Sueldos y Salarios del Equipo de Trabajo 
+ 
+El monto máximo para el concepto de sueldos y salarios será de hasta el 70% del monto total del proyecto. 
+ 
+Sólo podrán cubrirse los sueldos de Investigadores y Desarrolladores del equipo de trabajo que tengan el 
+propósito exclusivo de realizar actividades de investigación, desarrollo tecnológico e innovación dentro del 
+proyecto a tiempo completo, conforme a lo señalado en la propuesta. El pago es exclusivo a las personas que 
+correspondan al equipo de trabajo que estén registrados y participen en el proyecto y que cuenten con previa 
+aprobación del Comité de Evaluación de calidad técnica. 
+ 
+Se deberá integrar al expediente una carta de compromiso (donde se describa la participación y el monto 
+obtenido) por empleado de la empresa que forme parte del Equipo de Trabajo. Dicha carta deberá ser firmada 
+por el empleado, y deberá ser impresa en hoja membretada por la empresa que representa. Deberá acompañarse 
+con copia fotostática de una identificación oficial, así como debe tener su currículo donde refleje su formación 
+y experiencia profesional. 
+ 
+Se establece como monto máximo mensual para el pago al equipo de trabajo hasta $20,000.00 (Veinte mil 
+pesos 00/100 M.N.) 
+ 
+Los comprobantes de los sueldos de investigadores son alguno de los siguientes documentos: 
+ A) Altas y liquidaciones ante el IMSS:  
+ 
+Listado con el nombre de las personas, número de alta en el IMSS, fecha de alta en el IMSS.  
+ 
+Liquidaciones mensuales durante la ejecución del proyecto.  
+ 
+B) En el caso de contrato con empresas de outsourcing deberá presentarse:  
+ 
+Contrato entre la empresa beneficiaria y la empresa proveedora del servicio.  
+ 
+Acta Constitutiva de la empresa proveedora donde se especifique que sus actividades 
+preponderantes sean contratar personal a nombre de terceros.  
+ 
+Copias de las altas del IMSS de los trabajadores.  
+ 
+C) Recibos de honorarios: 
+ 
+Facturas emitidas del prestador de servicios. 
+ 
+Contrato correspondiente con el empleado. 
+ 
+  
+                 Página 13 de 16 
+Términos de Referencia “Retos de la industria del sector salud” 
+ 
+Comprobación: 
+ 
+ 
+Identificación oficial del grupo de trabajo (IFE, INE o Pasaporte vigente. 
+ 
+Contrato del empleo. 
+ 
+CV del equipo de trabajo. 
+ 
+Reporte de las actividades realizadas y sus conclusiones. 
+ 
+1.2. Apoyo a Estudiantes  
+ 
+El monto máximo para la partida de Apoyo a estudiantes será de hasta el 10% del monto total del proyecto. 
+ 
+El apoyo a estudiantes sólo se reconocerá aquellos que se encuentren registrados dentro del Equipo de 
+Trabajo en la solicitud de apoyo y sólo se otorgará por los montos y periodos de tiempo originalmente estipulados 
+en el proyecto basado en el periodo académico de la institución participante. Así mismo, es posible previa 
+autorización realizar cambios de estudiantes a lo largo del proyecto, siempre y cuando se realice durante la 
+vigencia del mismo.  
+ 
+Para cualquiera que sea el caso de apoyo a estudiantes se deberá integrar al expediente una carta de apoyo 
+por alumno, donde se describa la participación del alumno y el monto obtenido. Dicha carta deberá ser firmada 
+por el alumno, y deberá ser impresa en hoja membretada por la institución que representa. Deberá acompañarse 
+con copia fotostática de la credencial de estudiante vigente y el KARDEX institucional con sello de dicha 
+institución que corrobore su vigencia durante su participación. Así como debe tener su currículo donde refleje su 
+formación y experiencia profesional. 
+ 
+Además, se deberá integrar al expediente una carta compromiso donde se describirán las actividades a realizar, 
+el pago que recibirá por dichas actividades y donde expresen que la información que manejan de la empresa 
+donde están participando no será utilizada para otros fines. Dicha carta deberá ser firmada por el alumno. 
+ 
+Los niveles y montos de los apoyos a estudiantes asociados al proyecto podrán ser de manera mensual hasta: 
+Nivel I Licenciatura:  
+ 
+$5,000 mil pesos 00/100 M.N. y hasta el tiempo de vigencia del proyecto 
+Nivel II Especialidad/maestría:  $10,000 mil pesos 00/100 M.N. y hasta el tiempo de vigencia del proyecto 
+ 
+En términos de lo dispuesto por el Título IV, “De las personas físicas, Artículo 109, fracción XX de la Ley del 
+Impuesto sobre la Renta (LISR), los ingresos que obtengan las personas físicas (incluyendo los becarios) 
+derivados de un concurso científico están exentos del pago de impuestos. 
+ 
+Comprobación: 
+ 
+ 
+Carta compromiso. 
+ 
+Identificación oficial del equipo de trabajo (IFE, INE, o Pasaporte vigente. 
+ 
+Credencial de Estudiante. 
+ 
+CV del Estudiante. 
+ 
+Reporte de las actividades realizadas y sus conclusiones. 
+ 
+1.3. Servicios Externos  
+ 
+El monto máximo para la partida de Servicios Externos y Comerciales Especializados será de hasta el 15% 
+del monto total del proyecto. 
+ 
+Se considera el pago de servicios especializado que no puedan ser desarrollados por el Sujeto de Apoyo y que 
+son necesarios e indispensables para la ejecución del proyecto. 
+  
+                 Página 14 de 16 
+Términos de Referencia “Retos de la industria del sector salud” 
+ 
+ 
+El servicio se refiere a una actividad puntual y concreta directamente vinculada al desarrollo del proyecto 
+presentado en la propuesta y se deberá comprobar con documentación que cumpla con los requisitos legales y 
+fiscales exigibles para este tipo de comprobaciones: convenio, contrato por objetivo determinado o similar 
+aplicable, factura, recibo de honorarios.  
+ 
+Los contratos por objeto determinado deberán formalizarse entre el Sujeto de Apoyo y el prestador de 
+servicios, en el entendido de que el servicio se refiere a una actividad puntual y concreta del proyecto y no 
+forma parte del protocolo o metodología, integrando un expediente que contenga los siguiente: 
+ 
+ 
+Contrato original, debidamente requisitado, donde se indique las actividades a desempeñar y 
+entregables, así como la vigencia y monto total a erogarse. 
+ 
+Facturas o recibos de honorarios profesionales impresos con los requisitos establecidos por la SHCP. 
+ 
+Las facturas y recibos que por este concepto entreguen las personas contratadas serán a favor del Sujeto 
+de Apoyo. 
+ 
+En caso de contrato por prestación de servicios profesionales es obligación del Sujeto de Apoyo y del 
+administrador del proyecto retener y enterar a la SHCP el importe correspondiente al impuesto sobre la 
+renta y el IVA. 
+ 
+El personal designado, contratado o comisionado por el Sujeto de Apoyo para la realización del proyecto; 
+así como el responsable técnico estarán bajo la dependencia directa de la Institución, por lo que en ningún 
+momento o condición se considerará al COECYTJAL como patrón sustituto, ni a la institución como 
+intermediaria, por lo que el COECYTJAL no tendrá relación alguna de carácter laboral  de ninguna otra 
+naturaleza con personal, quedando liberado en todo momento de cualquier responsabilidad que pudiera 
+presentarse en materia de trabajo y seguridad social u otros. 
+ 
+Los servicios deberán ser contratados por objeto determinado y tiempo limitado a periodos 
+establecidos. 
+ 
+Incluye: 
+ 
+Servicios especializados nacionales.  
+ 
+Servicios especializados internacionales. 
+ 
+No Incluye: 
+ 
+Servicios contables y/o administrativos. 
+ 
+Comprobación: 
+ 
+ 
+Contrato por concepto de los servicios externos, donde se indique las actividades a desempeñar, así 
+como la vigencia y monto total a erogarse. 
+ 
+Informe de resultados. 
+ 
+1.4. Vinculación con IES o CI 
+ 
+El monto máximo para el concepto de Gastos de vinculación deberá ser hasta un máximo del 15% del monto 
+total del proyecto. 
+ 
+Los gastos de Vinculación son aquellos recursos económicos destinados a Instituciones de Educación Superior 
+y/o Centros de Investigación (Públicos o Privados) establecidos dentro del Estado de Jalisco, que hayan sido 
+señaladas en el Sistema de Solicitudes del COECyTJAL, por su colaboración en el proyecto, conforme a lo 
+señalado en la propuesta, tendiente a la generación de un producto o prestación de un servicio.  
+  
+                 Página 15 de 16 
+Términos de Referencia “Retos de la industria del sector salud” 
+ 
+ 
+Los contratos por objeto determinado deberán formalizarse entre el sujeto de apoyo y la Institución de 
+Educación Superior y/o Centro de Investigación en el entendido de que el servicio se refiere a una actividad 
+puntual y concreta del proyecto, integrando un expediente que contenga los siguiente: 
+  
+ 
+Contrato original, debidamente requisitado, donde se indique las actividades a desempeñar y 
+entregables, así como la vigencia. 
+ 
+Incluir en el contrato monto total a erogarse y calendario de pagos. 
+ 
+Facturas con los requisitos establecidos por la SHCP. 
+ 
+Los servicios deberán ser contratados por objeto determinado y tiempo limitado a periodos 
+establecidos. 
+ 
+Comprobación: 
+ 
+ 
+Informe de Actividades de la IES/CI vinculada que incluya impactos y beneficios, logros de objetivos y 
+entregables, grupo de trabajo, presupuesto. 
+ 
+1.5. Realización de Focus Group 
+ 
+En este rubro se consideran aquellos gastos relacionados con la realización del focus group.  
+ 
+Comprobación: 
+ 
+ 
+Listado de asistentes al focus group, (el número de personas y el perfil se establecerá en la 3ra etapa). 
+ 
+Informe de actividades y sesiones. 
+ 
+Resultados de las pruebas realizadas. 
+ 
+Memoria fotográfica. 
+ 
+1.6. Servicios de auditoría contable 
+ 
+Pago al despacho auditor acreditado por la Secretaría de la Función Pública (SFP) o que se encuentre en el 
+Listado de la Contraloría del Estado de Jalisco encargado de realizar el Dictamen Financiero, hasta un monto 
+máximo de $25,000.00 (Veinticinco mil pesos 00/100 M.N.). 
+ 
+Comprobación: 
+ 
+ 
+Reporte de la auditoría contable correspondiente al proyecto. 
+ 
+2. Ejercicio y Comprobación de Gasto de Inversión 
+ 
+ 
+2.1. Equipamiento tecnológico y software 
+ 
+Compra de equipamiento tecnológico como computadoras, software, periféricos y en general activos relacionados 
+con tecnologías de la información y comunicación requeridas para el desarrollo del proyecto, siempre y cuando 
+se tenga la justificación explícita de su requerimiento para los propósitos específicos del proyecto.  
+ 
+Comprobación 
+  
+                 Página 16 de 16 
+Términos de Referencia “Retos de la industria del sector salud” 
+ 
+ 
+ 
+Listado de relación del equipamiento tecnológico adquirido con su número de serie. 
+ 
+Memoria fotográfica. 
+ 
+ 
+3. Gastos NO FINANCIABLES 
+ 
+o 
+Gastos administrativos y personal administrativo. 
+o 
+Gastos de publicidad. 
+o 
+Gastos o renta de bienes muebles o inmuebles. 
+o 
+Gastos de envió o importación, instalación o mantenimiento de equipo tecnológico o de laboratorio. 
+o 
+Obra civil.  
+o 
+Gastos de publicidad, mercadotecnia y comercialización.  
+o 
+Deudas y provisiones para posibles pérdidas.  
+o 
+Intereses.  
+o 
+Compra y venta de divisas.  
+o 
+Multas, recargos y actualizaciones.  
+o 
+Gastos financieros, incluidas las transferencias bancarias.  
+o 
+Protección y Mantenimiento de los derechos de propiedad intelectual. 
+o 
+Otros gastos que el COECyTJAL determine como improcedentes. 
+ SECCIÓN
+II
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+SECRETARÍA GENERAL
+DE GOBIERNO
+PODER EJECUTIVO
+DIRECCIÓN DE PUBLICACIONES
+GUADALAJARA, JALISCO
+GOBERNADOR CONSTITUCIONAL
+DEL ESTADO DE JALISCO
+ENRIQUE ALFARO RAMÍREZ
+SECRETARIO GENERAL DE GOBIERNO
+JUAN ENRIQUE IBARRA PEDROZA
+DIRECTOR DE PUBLICACIONES
+Y DEL PERIÓDICO OFICIAL
+DIEGO ALEXANDERSON LÓPEZ 
+Registrado desde el
+3 de septiembre de 1921.
+Trisemanal:
+martes, jueves y sábados.
+Franqueo pagado.
+Publicación periódica.
+Permiso número: 0080921.
+Características: 117252816.
+Autorizado por SEPOMEX.
+periodicooficial.jalisco.gob.mx
+24
+BIS
+EDICIÓN
+ESPECIAL
+DOMINGO 31 DE MARZO DE 2019
+TOMO CCCXCIV
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+GOBERNADOR CONSTITUCIONAL
+DEL ESTADO DE JALISCO
+ENRIQUE ALFARO RAMÍREZ
+SECRETARIO GENERAL DE GOBIERNO
+JUAN ENRIQUE IBARRA PEDROZA
+DIRECTOR DE PUBLICACIONES
+Y DEL PERIÓDICO OFICIAL
+DIEGO ALEXANDERSON LÓPEZ
+Registrado desde el
+3 de septiembre de 1921.
+Trisemanal:
+martes, jueves y sábados.
+Franqueo pagado.
+Publicación periódica.
+Permiso número: 0080921.
+Características: 117252816.
+Autorizado por SEPOMEX.
+periodicooficial.jalisco.gob.mx
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+3
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+GOBERNADOR CONSTITUCIONAL
+DEL ESTADO DE JALISCO
+ENRIQUE ALFARO RAMÍREZ
+SECRETARIO GENERAL DE GOBIERNO
+JUAN ENRIQUE IBARRA PEDROZA
+DIRECTOR DE PUBLICACIONES
+Y DEL PERIÓDICO OFICIAL
+DIEGO ALEXANDERSON LÓPEZ
+Registrado desde el
+3 de septiembre de 1921.
+Trisemanal:
+martes, jueves y sábados.
+Franqueo pagado.
+Publicación periódica.
+Permiso número: 0080921.
+Características: 117252816.
+Autorizado por SEPOMEX.
+periodicooficial.jalisco.gob.mx
+R E G L A S
+Al margen un sello que dice: Estados Unidos Mexicanos. Gobierno del Estado de Jalisco. Poder 
+Ejecutivo. Secretaría de Innovación, Ciencia y Tecnología.
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+4
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+5
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+6
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+7
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+8
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+9
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+10
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+11
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+12
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+13
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+14
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+15
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+16
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+17
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+18
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+19
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+20
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+21
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+22
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+23
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+24
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+25
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+26
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+27
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+28
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+29
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+30
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+31
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+32
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+33
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+34
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+35
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+36
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+37
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+38
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+39
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+40
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+41
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+42
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+43
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+44
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+45
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+46
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+47
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+48
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+49
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+50
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+51
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+52
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+53
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+54
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+55
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+56
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+57
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+58
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+59
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+60
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+61
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+62
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+63
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+64
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+65
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+66
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+67
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+68
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+69
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+70
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+71
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+72
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+73
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+74
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+75
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+76
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+77
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+78
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+79
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+80
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+81
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+82
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+83
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+84
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+85
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+ EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+86
+DOMINGO 31 DE MARZO DE 2019 / Número 24 bis. Edición Especial
+  EL ESTADO DE JALISCO
+P E R I Ó D I C O  O F I C I A L
+periodicooficial.jalisco.gob.mx
+S
+U
+M
+A
+R
+I
+O
+DOMINGO 31 DE MARZO DE 2019
+NÚMERO 24 BIS. EDICIÓN ESPECIAL
+TOMO CCCXCIV
+REGLAS de Operación del Programa Apoyo a la 
+Ciencia, Tecnología e Innovación 2019.  Pág. 3

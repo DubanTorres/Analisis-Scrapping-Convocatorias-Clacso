@@ -1,0 +1,499 @@
+
+EDITAL FACEPE 03/2021 
+ESTUDOS E PESQUISAS PARA POLÍTICAS PÚBLICAS ESTADUAIS 
+FERRAMENTAS DE TECNOLOGIA DA INFORMAÇÃO E 
+COMUNICAÇÃO PARA GESTÃO E REGULAÇÃO DOS 
+RECURSOS HÍDRICOS 
+FACEPE/APAC 
+ 
+ 
+ 
+Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco (FACEPE) 
+Rua Benfica, 150, Madalena, 50720-001, Recife/PE – (81) 3181-4600 
+A Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco (FACEPE), vinculada à Secretaria de 
+Ciência, Tecnologia e Inovação de Pernambuco (SECTI), torna público o lançamento do presente Edital e 
+convida os pesquisadores capacitados, vinculados a Instituições de Ensino Superior (IES) públicas ou privadas 
+sem fins lucrativos, e Institutos e Centros de Pesquisa e Desenvolvimento públicos ou privados, sem fins 
+lucrativos, no Estado do Pernambuco, a apresentarem propostas de projetos de pesquisa para solicitação de 
+apoio financeiro no âmbito do Programa de Estudos e Pesquisas para Políticas Públicas Estaduais, de acordo 
+com as normas e procedimentos estabelecidos neste edital. 
+1 
+JUSTIFICATIVA 
+A racionalidade do uso de recursos públicos está intrinsecamente relacionada à participação da 
+Engenharia na gestão pública, seja na identificação de soluções otimizadas, no desenvolvimento de 
+ferramentas computacionais que auxiliem os processos de gestão de recursos hídricos e seus usos 
+múltiplos essenciais para o abastecimento humano, geração de energia, agricultura e pecuária. 
+Pernambuco, cuja predominância do território é de clima semiárido, possui um dos maiores desafios do 
+Brasil quando se aborda o tema Gestão e Regulação dos Recursos Hídricos. O Sertão possui os menores 
+índices de precipitações e precisa conviver com anos quase sem chuva. O Agreste tem o pior balanço 
+hídrico do país ao observar a população e as precipitações médias. Já a Zona da Mata e o Litoral são 
+regiões afetadas por chuvas intensas e pela recorrência de inundações urbanas. 
+No âmbito estadual, a Agência Pernambucana de Águas e Clima (APAC) é o órgão responsável pela 
+implantação dos instrumentos de gestão da Política Estadual de Recursos Hídricos e atua em áreas como 
+monitoramento, fiscalização, outorga e cobrança pelo uso da água, previsões climáticas e do tempo, 
+apoio aos organismos de bacia hidrográficas e usuários de açudes, alocações de água e desenvolvimento 
+de sistemas de informações geográficas. Desde sua criação, em 2010, a APAC assumiu novos desafios 
+como órgão fiscalizador da Política Nacional de Segurança de Barragens e mais recente também 
+responsável pela Operação Estadual das águas do Projeto de Integração do Rio São Francisco com as 
+bacias hidrográficas do Nordeste Setentrional (PISF). 
+Assim sendo, o Governo Estadual, através da SECTI e da Secretaria de Infraestrura e Recursos Hídricos 
+(SEINFRA), vem atuando na consolidação de políticas públicas destinadas à eficiência da Gestão dos 
+Recursos Hídricos em Pernambuco. Neste sentido, a FACEPE está lançando este edital de pesquisa, 
+desenvolvimento e inovação, com áreas temáticas específicas, buscando principalmente aplicações que 
+facilitem processos e tomada de decisões das atividades de Gestão dos Recursos Hídricos. 
+ EDITAL FACEPE 03/2021 
+FERRAMENTAS DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO PARA GESTÃO E REGULAÇÃO DOS RECURSOS HÍDRICOS 
+FACEPE/APAC 
+ 
+ 
+2/11 
+Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco (FACEPE) 
+Rua Benfica, 150, Madalena, 50720-001, Recife/PE – (81) 3181-4600 
+2 
+OBJETO 
+Apoiar atividades de pesquisa, desenvolvimento e inovação, mediante financiamento de projetos que 
+visem o desenvolvimento de ferramentas de Tecnologia da Informação e Comunicação (TIC) para 
+Gestão e Regulação dos Recursos Hídricos em Pernambuco e relacionadas às áreas de recursos 
+hídricos, meteorologia, mudanças climáticas e segurança de barragens. 
+3 
+CRONOGRAMA 
+Atividades 
+Data 
+Lançamento do Edital (página eletrônica da FACEPE e DOE-PE) 
+26 de março de 2021 
+Limite para submissão eletrônica das propostas (Sistema AgilFAP) 
+Até 17h de 10 de maio de 2021 
+Divulgação do resultado (página eletrônica da FACEPE e DOE-PE) 
+A partir de 06 de agosto de 2021 
+Contratação dos projetos (assinatura dos Termos de Outorga) 
+Setembro de 2021 
+4 
+CRITÉRIOS DE ELEGIBILIDADE 
+Os critérios de elegibilidade indicados abaixo são obrigatórios. O atendimento aos mesmos é considerado 
+imprescindível para o exame da proposta, seu enquadramento, análise e julgamento. A ausência ou 
+insuficiência de informações sobre quaisquer deles resultará na desclassificação da proposta. 
+4.1 
+Proponente, equipe técnica e instituição executora: 
+4.1.1 
+O proponente deverá: 
+a) Ser pesquisador doutor, ou equivalente, de notória especialização, reconhecida pelo Comitê de 
+Julgamento, com vínculo empregatício (estatutário ou celetista) com a Instituição Executora 
+situada no estado de Pernambuco; 
+b) Ter seu curriculum vitae cadastrado e atualizado na Plataforma Lattes; 
+c) Ser obrigatoriamente o coordenador do projeto; 
+d) Ter produção científica ou tecnológica relevante, nos últimos 5 (cinco) anos, no tema do projeto 
+de pesquisa científica, tecnológica ou de inovação. 
+4.1.2 
+A equipe técnica do projeto deverá: 
+a) Ser constituída por pesquisadores, alunos e técnicos, todos caracterizados como pesquisadores e 
+que tenham obrigatoriamente seus currículos cadastrados na Plataforma Lattes (exceto 
+pesquisadores estrangeiros). Outros profissionais poderão integrar a equipe na qualidade de 
+colaboradores (não sendo avaliados para pontuação da proposta). 
+b) Apresentar (cada membro da equipe) anuência formal escrita, a qual deve ser mantida sob a 
+guarda do Coordenador do projeto, além de estar devidamente descrita no texto da proposta. 
+ EDITAL FACEPE 03/2021 
+FERRAMENTAS DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO PARA GESTÃO E REGULAÇÃO DOS RECURSOS HÍDRICOS 
+FACEPE/APAC 
+ 
+ 
+3/11 
+Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco (FACEPE) 
+Rua Benfica, 150, Madalena, 50720-001, Recife/PE – (81) 3181-4600 
+4.1.3 
+A instituição de vínculo do proponente, doravante denominada “Instituição Executora”, deverá se 
+enquadrar em um dos seguintes perfis: 
+a) Instituições de ensino superior, públicas ou privadas sem fins lucrativos; 
+b) Institutos e Centros de Pesquisa e Desenvolvimento, públicos ou privados sem fins lucrativos. 
+4.2 
+Proposta: 
+4.2.1 
+A proposta deve estar claramente caracterizada como pesquisa científica, tecnológica ou de inovação; 
+com o prazo máximo de execução de 18 (dezoito) meses. 
+4.2.2 
+Recomenda-se que o projeto possua as seguintes informações, de forma a permitir sua adequada 
+análise por parte do Comitê de Julgamento: 
+a) Identificação da proposta; 
+b) Indicação do tema de pesquisa à qual o projeto se vincula, dentre os definidos no subitem 4.2.3 
+deste Edital; 
+c) Qualificação do principal problema a ser abordado; 
+d) Objetivos e metas a serem alcançados; 
+e) Metodologia a ser empregada; 
+f) 
+Principais contribuições científicas ou tecnológicas da proposta; 
+g) Resultados esperados e sua contribuição específica para a formulação, avaliação ou orientação de 
+políticas; 
+h) Ações extensionistas de comunicação dos resultados da pesquisa para a sociedade; 
+i) 
+Deve-se detalhar o orçamento, com a devida justificativa para cada item solicitado, e totalização 
+individualizada das seguintes rubricas: (i) bolsas; e (ii) outras despesas de itens de custeio 
+(material de consumo, serviços de terceiros – PF e PJ, licenças de software etc.); 
+j) 
+Cronograma de atividades; 
+k) Identificação dos demais participantes do projeto; 
+l) 
+Indicação de colaborações ou parcerias já estabelecidas para o desenvolvimento do projeto com 
+entidades da Administração Pública Estadual e outros centros de pesquisa na área; 
+m) Disponibilidade efetiva de infraestrutura e de apoio técnico para o desenvolvimento do projeto; 
+n) Estimativa dos recursos financeiros de outras fontes que serão aportados pelos eventuais Agentes 
+Públicos e Privados parceiros. 
+4.2.3 
+A proposta deve ser enquadrada pelo proponente em um dos seguintes temas: 
+1) Ferramentas de planejamento, controle operacional e gestão das estruturas do Projeto de 
+Integração do Rio São Francisco com as Bacias Hidrográficas do Nordeste Setentrional (PISF). 
+2) Desenvolvimento de ferramentas computacionais relacionadas à gestão de banco de dados de 
+recursos hídricos, Segurança de Barragens, Sistemas de Informações Geográficas, disseminação 
+ EDITAL FACEPE 03/2021 
+FERRAMENTAS DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO PARA GESTÃO E REGULAÇÃO DOS RECURSOS HÍDRICOS 
+FACEPE/APAC 
+ 
+ 
+4/11 
+Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco (FACEPE) 
+Rua Benfica, 150, Madalena, 50720-001, Recife/PE – (81) 3181-4600 
+de informações climáticas, previsão de tempo, sistemas de alerta e/ou Gestão de Riscos de 
+Desastres (GDR). 
+3) Desenvolvimento de aplicativos de celular (mobile) e softwares para gestão de recursos hídricos, 
+Segurança de Barragens, disseminação de informações climáticas, previsão de tempo, sistemas 
+de alerta e/ou Gestão de Riscos de Desastres (GDR). 
+4) Estudos de modernização e operacionalização da fiscalização do uso dos recursos hídricos no 
+Estado de Pernambuco. 
+5) Estudos para a inovação e desenvolvimento de produtos aplicados à agrometeorologia, 
+ferramentas de monitoramento ambiental e/ou mudanças climáticas. 
+5 
+RECURSOS FINANCEIROS 
+5.1.1 
+As propostas aprovadas serão financiadas no valor global estimado de R$ 1.000.000,00 (um milhão 
+de reais), destacados do orçamento da APAC. 
+5.1.2 
+Os recursos financeiros destinados a este Edital são provenientes da ação 4116 “Desenvolvimento de 
+Ações Integradas de Gestão dos Recursos Hídricos e Clima" e da subação 0000 “Outras Medidas”, 
+Fonte 0126 – FEHIDRO, e deverão ser desembolsados em 2021 e 2022 de acordo com a 
+disponibilidade orçamentária e financeira da APAC. 
+5.1.3 
+As propostas deverão abordar uma das áreas temáticas descritos no subitem 4.2.3 deste edital e 
+poderão solicitar recursos financeiros destinados a despesas de custeio e bolsas no valor máximo de 
+R$ 200.000,00 (duzentos mil reais) por proposta. 
+6 
+ITENS FINANCIÁVEIS 
+6.1 
+Os recursos do presente edital serão destinados ao financiamento de itens de custeio e bolsas, 
+compreendendo: 
+6.1.1 Custeio: 
+a) Material de consumo, componentes e/ou peças de reposição de equipamentos, software, 
+instalação, recuperação e manutenção de equipamentos; 
+b) Serviços de terceiros – pagamento integral ou parcial de contratos de manutenção, e serviços de 
+terceiros, pessoa física ou jurídica, de caráter eventual. Qualquer pagamento a pessoa física deve 
+ser realizado de acordo com a legislação em vigor, de forma a não estabelecer vínculo 
+empregatício. Assim, a mão-de-obra empregada na execução do projeto não terá vínculo de 
+qualquer natureza com a FACEPE e desta não poderá demandar quaisquer pagamentos, 
+permanecendo na exclusiva responsabilidade do Coordenador/Instituição Executora. Para 
+contratação ou aquisição de bens e serviços deverá ser observada a legislação vigente, bem como 
+as normas da FACEPE. 
+ EDITAL FACEPE 03/2021 
+FERRAMENTAS DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO PARA GESTÃO E REGULAÇÃO DOS RECURSOS HÍDRICOS 
+FACEPE/APAC 
+ 
+ 
+5/11 
+Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco (FACEPE) 
+Rua Benfica, 150, Madalena, 50720-001, Recife/PE – (81) 3181-4600 
+O valor total solicitado para os itens de custeio descritos em “a” e “b” deverão ser incluídos no campo 
+“Outras despesas de custeio” do formulário de propostas online. 
+6.1.2 Bolsas: 
+a) Poderão ser solicitadas bolsas da FACEPE, para doutores, na modalidade de Bolsa de Cooperação 
+Técnica (BCT), nos níveis BCT-01 a BCT-04, disponíveis em https://agil.facepe.br/tabelas.php. 
+b) A finalidade de cada bolsa solicitada deve ser devidamente justificada no texto da proposta. 
+c) Serão concedidas na forma de quota ao coordenador do projeto, ao qual caberá fazer as indicações 
+dos bolsistas no sistema AgilFAP após a assinatura do Termo de Outorga. 
+d) A implementação das bolsas deverá ser realizada dentro dos requisitos, prazos e critérios 
+estipulados para a modalidade, que estão indicadas em www.facepe.br. 
+e) A vigência máxima de cada bolsa será de 12 (doze) meses, sendo permitidas substituições de 
+bolsistas para quotas remanescentes (mínimo de 03 meses) mediante apresentação justificativa 
+das pelo coordenador do projeto e autorização da Diretoria Científica da FACEPE. 
+f) 
+As bolsas não poderão ser usadas para pagamento de prestação de serviços, nem para a execução 
+de atividades administrativas, pois estaria em desacordo com sua finalidade. 
+6.2 
+Não serão permitidas despesas com: 
+a) Material bibliográfico, equipamentos e material permanente, incluindo despesas acessórias; 
+b) Passagens e diárias; 
+c) Pagamento de salários ou complementação salarial de pessoal técnico e administrativo ou 
+quaisquer outras vantagens para pessoal de instituições públicas (federal, estadual e municipal); 
+d) Despesas de rotina como contas de aluguel, energia elétrica, água, telefone, correios, reprografia 
+e similares, entendidas como despesas de contrapartida obrigatória da Instituição Executora; 
+e) Pagamento, a qualquer título, a servidor da administração pública, ou empregado de empresa 
+pública ou de sociedade de economia mista, por serviços de consultoria ou assistência técnica; 
+f) 
+Pagamento de taxas de administração ou gestão, a qualquer título. 
+6.3 
+As demais despesas deverão ser de responsabilidade do proponente/Instituição Executora, a título de 
+contrapartida. 
+7 
+APRESENTAÇÃO E ENVIO DAS PROPOSTAS 
+7.1 
+O envio deve ser realizado exclusivamente através do Sistema AgilFAP (http://agil.facepe.br/). Para 
+tanto, o coordenador deverá estar cadastrado no AgilFAP e selecionar as opções abaixo: 
+a) Bolsas e Auxílios (no menu ao lado esquerdo) 
+b) APQ – Auxílio a Projetos de Pesquisa (na lista de opções) 
+c) Natureza da solicitação: Edital 03/2021 
+d) Nome do edital: PPE: Ferramentas de TIC para Gestão e Regulação dos Recursos 
+Hídricos 
+ EDITAL FACEPE 03/2021 
+FERRAMENTAS DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO PARA GESTÃO E REGULAÇÃO DOS RECURSOS HÍDRICOS 
+FACEPE/APAC 
+ 
+ 
+6/11 
+Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco (FACEPE) 
+Rua Benfica, 150, Madalena, 50720-001, Recife/PE – (81) 3181-4600 
+7.2 
+Não será requerido o envio físico de qualquer Documentação Complementar (impressa) à FACEPE. As 
+submissões serão realizadas exclusivamente online, não sendo aceitas propostas submetidas por 
+qualquer outro meio. 
+7.3 
+A proposta deve ser apresentada em conformidade com o descrito no item 4 (Critérios de Elegibilidade). 
+O arquivo do projeto deve anexado ao formulário de propostas online no formato “.pdf”. Recomenda-
+se evitar o uso excessivo de figuras, gráficos etc., pois arquivos que excedam o limite de 2 Mb não 
+serão recebidos pelo guichê eletrônico da FACEPE. 
+7.4 
+Será aceita uma única proposta por proponente. Na hipótese de envio de uma segunda proposta pelo 
+mesmo proponente, respeitando-se o prazo limite estipulado no item 3 (Cronograma), será levada para 
+análise apenas a última proposta recebida. 
+7.5 
+Caso sejam constatadas propostas idênticas apresentadas por proponentes distintos, todas serão 
+desclassificadas. 
+8 
+DOCUMENTAÇÃO COMPLEMENTAR 
+8.1 
+A documentação requerida para a avaliação deverá ser obrigatoriamente anexada (formato “.pdf”) ao 
+formulário de propostas online e deverá conter os seguintes itens: 
+a) Projeto de pesquisa. 
+b) Cartas de anuência dos demais integrantes da equipe referente à sua participação no projeto. 
+c) Carta de anuência da Instituição Executora, assinada pelo responsável da unidade à qual se vincula 
+o pesquisador, ou pelo representante máximo da instituição. 
+d) Cartas de anuência das demais instituições participantes do projeto, assinadas pelos respectivos 
+representantes legais. 
+e) Protocolo de submissão do projeto ao comitê de ética em pesquisa e de outras 
+autorizações/permissões de caráter ético/legal, quando for o caso, conforme descrito no item 16.5 
+(Permissões e Autorizações Especiais). Na ausência da necessidade de autorizações/permissões, 
+deverá ser inserida declaração do proponente informando não ser necessário para a pesquisa. 
+8.2 
+A ausência de qualquer item acima na documentação anexada ao formulário eletrônico irá desclassificar 
+automaticamente a proposta, não havendo recurso cabível. 
+9 
+ADMISSÃO, ANÁLISE E JULGAMENTO DAS PROPOSTAS 
+9.1 
+A seleção das propostas submetidas à FACEPE, em atendimento a este Edital, será realizada por 
+intermédio de análise comparativa. Para tanto, são estabelecidas as seguintes etapas: 
+a) ETAPA I: Enquadramento (Área Técnica da FACEPE) 
+Verificação do atendimento aos Critérios de Elegibilidade e às recomendações para Itens 
+Financiáveis, além da adequação da proposta ao presente Edital. 
+ EDITAL FACEPE 03/2021 
+FERRAMENTAS DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO PARA GESTÃO E REGULAÇÃO DOS RECURSOS HÍDRICOS 
+FACEPE/APAC 
+ 
+ 
+7/11 
+Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco (FACEPE) 
+Rua Benfica, 150, Madalena, 50720-001, Recife/PE – (81) 3181-4600 
+b) ETAPA II: Análise por consultores ad hoc 
+Análise aprofundada da demanda qualificada, realizada por especialistas que se manifestarão 
+individualmente sobre os tópicos relacionados no item 10 (Critérios de Julgamento). 
+c) ETAPA III: Análise pelo Comitê de Julgamento 
+Análise comparativa do mérito e relevância das propostas, realizada por um comitê formado por 
+membros da comunidade científica ao qual caberá avaliar e pontuar os tópicos relacionados no 
+item 10 (Critérios de Julgamento). 
+a. Após a análise de cada proposta e da adequação de seu orçamento, o Comitê de 
+Julgamento poderá recomendar: 
+i. A aprovação da proposta, com ou sem ajuste no orçamento; ou 
+ii. A não aprovação da proposta. 
+b. Caso o Comitê recomende corte superior a 25% do total solicitado, o projeto será 
+automaticamente excluído da concorrência. Este dispositivo não se aplica a bolsas, para 
+as quais o Comitê poderá recomendar, sem limite, o corte dos valores solicitados. O 
+parecer do Comitê sobre as propostas, dentro dos critérios estabelecidos, será registrado 
+em planilha eletrônica, contendo a relação das propostas julgadas, recomendadas e não 
+recomendadas, com as respectivas pontuações finais, em ordem decrescente, assim como 
+outras informações e recomendações julgadas pertinentes. 
+c. Não é permitido integrar o Comitê de Julgamento o(a) pesquisador(a) que tenha 
+apresentado proposta a este Edital ou que participe da equipe do projeto. 
+d. É vedado a qualquer membro do Comitê de Julgamento julgar propostas em que: 
+i. Haja interesse direto ou indireto seu; 
+ii. Esteja participando da equipe do projeto seu cônjuge, companheiro ou parente, 
+consanguíneo ou afim, em linha reta ou na colateral, até o terceiro grau; ou 
+iii. Esteja litigando judicial ou administrativamente com qualquer membro da equipe 
+do projeto ou seus respectivos cônjuges ou companheiros. 
+d) ETAPA IV: Homologação pelo Comitê Gestor 
+Será composto paritariamente por representantes da FACEPE e da APAC, sendo responsável pela 
+análise da ata de julgamento com a relação dos projetos julgados, e contemplará: 
+a. Ratificação do parecer das propostas não recomendadas pelo Comitê de Julgamento; 
+b. Aprovação, com ou sem ajuste na quota de bolsas, ou não aprovação, devidamente 
+justificada, da lista final das propostas recomendadas pelo Comitê de Julgamento. 
+Concluídos os trabalhos de julgamento, será elaborada uma ata da reunião do respectivo Comitê 
+Gestor, contendo a relação dos projetos aprovados e dos não aprovados. 
+ EDITAL FACEPE 03/2021 
+FERRAMENTAS DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO PARA GESTÃO E REGULAÇÃO DOS RECURSOS HÍDRICOS 
+FACEPE/APAC 
+ 
+ 
+8/11 
+Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco (FACEPE) 
+Rua Benfica, 150, Madalena, 50720-001, Recife/PE – (81) 3181-4600 
+10 CRITÉRIOS DE JULGAMENTO 
+10.1 São os seguintes os critérios para classificação das propostas quanto ao mérito técnico-científico, e 
+adequação orçamentária: 
+Itens de julgamento 
+Peso 
+A 
+Mérito, originalidade e relevância do projeto de pesquisa para a abordagem do tema 
+2,0 
+B 
+Avaliação do coordenador e da equipe do projeto, quanto à experiência na temática, 
+qualidade e regularidade de sua produção científica ou tecnológica na área específica do 
+projeto proposto, publicada em veículos qualificados 
+2,0 
+C 
+Parcerias estabelecidas com entidades públicas ou privadas para o desenvolvimento do 
+projeto, facilitadoras de sua exequibilidade e/ou da aplicação de seus resultados em políticas 
+públicas 
+2,0 
+D 
+Aplicabilidade do conhecimento à problemática do tema 
+2,0 
+E 
+Qualidade da descrição dos resultados esperados do projeto e de sua contribuição específica 
+para políticas públicas 
+1,0 
+F 
+Adequação do orçamento aos objetivos, atividades e metas propostas 
+1,0 
+10.2 Para estipulação das notas (entre 0 e 10) serão usadas até 2 (duas) casas decimais. A pontuação final 
+de cada projeto será aferida pela média ponderada das notas atribuídas para cada item. 
+11 RESULTADO DO JULGAMENTO 
+11.1 A relação das propostas aprovadas, com o número de bolsas concedidas em cada quota, para apoio 
+com recursos financeiros do presente Edital será divulgada na página da FACEPE (www.facepe.br) e 
+publicada no Diário Oficial do Estado. 
+11.2 Todos os proponentes do presente Edital tomarão conhecimento do parecer sobre sua proposta por 
+intermédio de correspondência eletrônica. 
+11.3 O resultado publicado poderá vir a ser modificado em função de deliberação ulterior sobre os recursos 
+administrativos eventualmente interpostos após a publicação. 
+12 RECURSOS ADMINISTRATIVOS 
+12.1 Caso o proponente tenha justificativa para contestar o resultado do julgamento das propostas, poderá 
+apresentar recurso à FACEPE, no prazo de 10 (dez) dias corridos, a contar da data em que lhe for dado 
+conhecimento do parecer relativo à sua proposta. 
+12.2 O formulário específico para apresentação de recurso administrativo estará disponível no perfil do 
+usuário (proponente) em acompanhamento de processos no sistema AgilFAP. 
+12.3 Após o exame pelo Comitê designado para a análise, os recursos interpostos serão encaminhados para 
+deliberação da Diretoria Científica da FACEPE. 
+ EDITAL FACEPE 03/2021 
+FERRAMENTAS DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO PARA GESTÃO E REGULAÇÃO DOS RECURSOS HÍDRICOS 
+FACEPE/APAC 
+ 
+ 
+9/11 
+Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco (FACEPE) 
+Rua Benfica, 150, Madalena, 50720-001, Recife/PE – (81) 3181-4600 
+13 CONTRATAÇÃO DAS PROPOSTAS APROVADAS 
+13.1 As propostas aprovadas até o limite de recursos financeiros estipulados neste Edital serão contratadas 
+na modalidade de Auxílio Individual, em nome do coordenador, mediante assinatura de Termo de 
+Outorga de Auxílio a Projeto de Pesquisa (APQ) onde estarão especificadas as rubricas aprovadas, 
+a serem implementadas de acordo com os requisitos, condições e valores especificados no Edital. 
+13.2 A existência de alguma inadimplência do proponente com a FACEPE, não regularizada no prazo máximo 
+de 15 (quinze) dias corridos após a divulgação dos resultados, constituirá fator impeditivo para a 
+contratação do projeto. 
+13.3 Serão cancelados os projetos não contratados após 30 (trinta) dias da divulgação do resultado deste 
+Edital no DOE, podendo ser contratados os projetos em fila de espera. 
+14 CANCELAMENTO DA CONCESSÃO 
+14.1 A concessão do apoio financeiro poderá ser cancelada pela Diretoria da FACEPE, por ocorrência, durante 
+sua implementação, de fato cuja gravidade justifique o cancelamento, sem prejuízo de outras 
+providências cabíveis em decisão devidamente fundamentada. 
+15 ACOMPANHAMENTO DOS PROJETOS 
+15.1 A execução dos projetos aprovados será acompanhada por meio de relatórios técnicos e, 
+eventualmente, da participação dos Coordenadores em seminários de acompanhamento e avaliação, 
+organizados pela FACEPE e pela APAC. 
+15.2 O Coordenador do projeto deverá encaminhar em formulário online específico, no prazo de até 
+60 (sessenta) dias após o término da vigência do projeto: 
+a) O relatório técnico final contendo o detalhamento de todas as atividades desenvolvidas durante a 
+execução do projeto e a descrição de seus resultados e produtos, bem como recomendações 
+específicas para sua aplicação nas políticas públicas estaduais no respectivo tema. 
+b) A prestação de contas financeira, com apresentação de comprovantes de despesas, em 
+conformidade com as normas da FACEPE, disponíveis em http://agil.facepe.br/documentos.php. 
+15.3 Durante a fase de execução do projeto, toda e qualquer comunicação com a FACEPE deverá ser feita 
+por meio de correspondência eletrônica à Diretoria Científica. 
+15.4 Qualquer alteração relativa à execução do projeto deverá ser solicitada à FACEPE por seu coordenador, 
+acompanhada da devida justificativa, devendo a mesma ser autorizada antes de sua efetivação. 
+15.5 A FACEPE reserva-se o direito de, durante a execução do projeto, promover visitas técnicas ou solicitar 
+informações adicionais visando aperfeiçoar o sistema de Avaliação e Acompanhamento. 
+ EDITAL FACEPE 03/2021 
+FERRAMENTAS DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO PARA GESTÃO E REGULAÇÃO DOS RECURSOS HÍDRICOS 
+FACEPE/APAC 
+ 
+ 
+10/11 
+Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco (FACEPE) 
+Rua Benfica, 150, Madalena, 50720-001, Recife/PE – (81) 3181-4600 
+15.6 As informações geradas com a implementação das propostas selecionadas e disponibilizadas na base 
+de dados da FACEPE serão de domínio público. 
+15.7 O presente Edital regula-se pelos preceitos de direito público e, em especial, pelas disposições da 
+Lei nº 8.666, de 21 de junho de 1993, e, no que couber, pelas normas internas da FACEPE. 
+16 DISPOSIÇÕES GERAIS 
+16.1 Publicações 
+16.1.1 As publicações e qualquer outro meio de divulgação de trabalho, apoiados pelo presente Edital, 
+deverão citar, obrigatoriamente, o apoio da FACEPE e da APAC. 
+16.2 Propriedade Intelectual 
+16.2.1 Caso os resultados do projeto ou o relatório em si venham a ter valor comercial ou possam levar ao 
+desenvolvimento de um produto ou método envolvendo o estabelecimento de uma patente, a troca 
+de informações e a reserva dos direitos, em cada caso, dar-se-ão de acordo com o estabelecido na 
+Lei de Inovação, nº 10.973, de 02/12/2004, regulamentada pelo Decreto nº 5.563, de 11/10/2005. 
+16.3 Impugnação do Edital 
+16.3.1 Decairá do direito de impugnar os termos deste Edital o proponente que não o fizer até o segundo 
+dia útil anterior ao prazo final estabelecido para recebimento das propostas. Ademais, não terá efeito 
+de recurso a impugnação feita por aquele que, em o tendo aceito sem objeção, venha apontar, 
+posteriormente ao julgamento, eventuais falhas ou imperfeições. 
+16.3.2 A impugnação deverá ser dirigida à Diretoria Científica da FACEPE, por correspondência eletrônica, 
+para o endereço: diretoria@facepe.br. 
+16.4 Revogação ou Anulação do Edital 
+16.4.1 A qualquer tempo, o presente Edital poderá ser revogado ou anulado, no todo ou em parte, seja por 
+decisão unilateral da FACEPE, seja por motivo de interesse público ou exigência legal, em decisão 
+fundamentada, sem que isso implique direitos à indenização ou reclamação de qualquer natureza. 
+16.5 Permissões e Autorizações Especiais 
+16.5.1 É de exclusiva responsabilidade de cada proponente adotar todas as providências que envolvam 
+permissões e autorizações especiais de caráter ético ou legal, necessárias para a execução do projeto. 
+16.5.2 As propostas que envolvam pesquisa clínica, epidemiológica ou experimental com seres humanos e/ou 
+animais, devem conter uma seção sobre seus aspectos éticos, devendo ser anexado comprovante de 
+submissão ou parecer do comitê de ética em pesquisa credenciado pela Comissão Nacional de Ética 
+em Pesquisa (CONEP), conforme os termos da Portaria nº 466/12, do Conselho Nacional de Saúde. 
+ EDITAL FACEPE 03/2021 
+FERRAMENTAS DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO PARA GESTÃO E REGULAÇÃO DOS RECURSOS HÍDRICOS 
+FACEPE/APAC 
+ 
+ 
+11/11 
+Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco (FACEPE) 
+Rua Benfica, 150, Madalena, 50720-001, Recife/PE – (81) 3181-4600 
+16.5.3 As propostas que necessitem de licença, coleta, manipulação e captura de animais devem apresentar 
+as licenças e os cadastros obtidos junto aos órgãos públicos pertinentes. 
+16.5.4 Conforme legislação em vigor, as propostas que envolvam experimentos com organismos 
+geneticamente modificados devem informar o número de registro e data da publicação do Certificado 
+de Qualidade em Biossegurança. 
+16.5.5 Demais autorizações/permissões de caráter ético ou legal, que se façam necessárias, deverão ser 
+providenciadas pelo coordenador do projeto e anexadas à documentação complementar. 
+17 ESCLARECIMENTOS E INFORMAÇÕES ADICIONAIS 
+17.1 Sobre o conteúdo do Edital 
+Esclarecimentos e informações adicionais acerca do conteúdo deste Edital podem ser obtidos 
+encaminhando mensagem para o endereço: diretoria@facepe.br. 
+17.2 Sobre o preenchimento do formulário de propostas online 
+O atendimento a proponentes com dificuldades no preenchimento do Formulário de Propostas online 
+será feito pelo endereço agil@facepe.br ou pelo telefone (81) 3181-4616, de segunda a sexta-feira, no 
+horário das 8h00 às 12h00 e das 13h00 às 17h00. 
+18 CLÁUSULA DE RESERVA 
+A Diretoria Científica da FACEPE reserva-se o direito de resolver os casos omissos e as situações não previstas 
+no presente Edital. 
+ 
+Recife, 26 de março de 2021. 
+ 
+ 
+José Fernando Thomé Jucá  
+Diretor Presidente 
+Paulo Roberto Freire Cunha 
+Diretor Científico 
+ 

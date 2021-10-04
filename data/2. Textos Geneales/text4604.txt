@@ -1,0 +1,807 @@
+#
+PROC.
+COORDENADOR
+TÍTULO
+INSTITUIÇÃO
+ VALOR 
+1
+APQ-03558-17
+ROBERTO MENDES FINZI NETO
+Análise, Projeto e Caracterização Experimental de um Atenuador de Vibrações e Ruído Modular Multimodal 
+Self-powered via emprego de Materiais Piezelétricos e Circuitos Eletrônicos Flexíveis.
+Universidade Federal de Uberlândia
+171.727,50
+2
+APQ-03577-17
+DANIELLE MENDONÇA OKAMOTO
+Desenvolvimento e avaliação experimental de um SARP com IoT
+Centro Federal de Educação Tecnológica de MG
+16.653,00
+3
+APQ-03593-17
+MANUEL ARTURO RENDON MALDONADO
+Montagem de um Banco de Ensaios para Propulsão Aeronáutica Híbrido-Elétrica
+Universidade Federal de Juiz de Fora
+496.156,50
+4
+APQ-03635-17
+SÉRGIO VALE AGUIAR CAMPOS
+PASARP: Projeto e Avaliação de Sistemas de Aeronaves Remotamente Pilotadas
+Universidade Federal de Minas Gerais
+104.433,00
+5
+APQ-03642-17
+ALEXANDRE MARTINS BARROS
+Nanocompósitos multifuncionais do tipo aerogel para isolamento termo/acústico
+Serviço Nacional de Aprendizagem Industrial
+182.088,48
+971.058,48
+ RESULTADO DE JULGAMENTO - PROPOSTAS  RECOMENDADAS PARA CONTRATAÇÃO
+ATENÇÃO : 
+1 - A instituição que tiver proposta aprovada deverá atualizar seu credenciamento na FAPEMIG até 10 dias corridos da publicação dos resultados, sob pena de desclassificação da proposta.  A situação cadastral da 
+instituição poderá ser verificada no endereço : http://www.fapemig.br/instituicoes-cadastradas
+2 - Informamos que eventuais situações de inadimplência do coordenador com a FAPEMIG deverão ser sanadas em até 15 dias após a publicação do resultado, sob pena de desclassificação da proposta. A verificação de 
+inadimplência e sua regularização é de inteira responsabilidade do pesquisador. O coordenador deverá verificar a sua situação através do sistema Everest http://everest.fapemig.br/index.php
+CHAMADA 06/2017 - Pesquisas na área do setor aeronáutico PARCERIA FAPEMIG – EMBRAER S.A.
+Belo Horizonte, 30 de agosto de 2017.
+  
+ 
+ 
+ 
+CHAMADA FAPEMIG 09/2018 
+ 
+PESQUISA, DESENVOLVIMENTO E INOVAÇÃO PARA 
+RECUPERAÇÃO DAS ÁREAS IMPACTADAS PELO ROMPIMENTO 
+DA BARRAGEM DE FUNDÃO – MARIANA – MG 
+ 
+ 
+COMITÊ GESTOR: 
+ 
+ 
+1) Paulo Sérgio Lacerda Beirão 
+2) José Antonio Bof Buffon 
+3) Andrea Aguiar Azevedo 
+ 
+ 
+ 
+ 
+ 
+Belo Horizonte, 10 de dezembro de 2018 
+ CHAMADA FAPEMIG 06/2017 
+Pesquisas na área do setor aeronáutico 
+PARCERIA FAPEMIG – EMBRAER S.A. 
+A Fundação de Amparo à Pesquisa do Estado de Minas Gerais – FAPEMIG, considerando 
+as Leis de Inovação, Federal n. 13.243/16 e Mineira n. 17.348/08, que “dispõem sobre incentivos à 
+inovação e à pesquisa científica e tecnológica”, atendendo à orientação programática da Secretaria 
+de Estado de Desenvolvimento Econômico, Ciência, Tecnologia e Ensino Superior – SEDECTES, 
+observadas as diretrizes políticas emanadas do Conselho Estadual de Ciência e Tecnologia – 
+CONECIT e de seu Conselho Curador, em parceria com a EMBRAER S.A., estabelecida pelo Termo 
+de Cooperação Técnica e Financeira n.10.255/14, torna público a presente Chamada e convida as 
+Instituições de Ciência, Tecnologia e Inovação (ICTs), estabelecidas no Estado de Minas Gerais e 
+cadastradas junto à FAPEMIG, a apresentarem propostas para obtenção de apoio financeiro, para 
+o desenvolvimento de projetos de pesquisa, em conformidade com o que estabelece a presente 
+Chamada. 
+1. 
+OBJETIVO 
+             Apoiar projetos de pesquisa e inovação científica e tecnológica nas Instituições de Ciência, 
+Tecnologia e Inovação para o desenvolvimento de tecnologias alinhadas aos interesses da 
+EMBRAER, do setor aeronáutico e da sociedade como um todo e que estejam relacionados 
+às linhas temáticas estabelecidas nesta Chamada. 
+2. 
+LINHAS TEMÁTICAS  
+              A presente Chamada destina-se a apoiar propostas que se enquadrem nas linhas 
+temáticas abaixo: 
+a) Avaliação experimental de arquiteturas de propulsão híbrido-elétrica (paralela, série, 
+turboelétrica) com possibilidade de variação do grau de hibridização e capacidade de 
+regeneração de energia elétrica. 
+b) Desenvolvimento e avaliação de um sistema de controle propulsivo integrado voltado 
+para sistemas de propulsão híbrida (máquina térmica e motor elétrico) em aeronaves. 
+c) Estudo, especificação e avaliação experimental de uso de células fotovoltaicas para 
+geração de energia em aeronaves. 
+d) Estudo, especificação e avaliação experimental de um sistema de aeronave 
+remotamente pilotada (SARP).  
+e) Estudo, especificação e avaliação experimental de Estruturas Multifuncionais visando 
+pelo menos um dos seguintes itens: a) atenuação térmica e/ou acústica e/ou vibração; 
+b) mudança de forma (morphing); c) Materiais estruturais com mudança de fase para fins 
+de controle térmico.  
+2.1 
+Para todos os temas acima, a avaliação experimental pode ser feita em modelos reduzidos 
+desde que demonstrada a viabilidade de escalonamento dos resultados para aeronaves 
+de porte equivalente aos produzidos pela Embraer na Aviação Comercial, Aviação 
+Executiva e/ou Defesa & Segurança.  
+ 3. 
+NÚMERO DE PROPOSTAS E PRAZOS 
+3.1 
+O número de propostas a se contratar está condicionado ao limite dos recursos disponíveis 
+nesta Chamada. 
+3.2 
+O prazo de execução de cada projeto contratado é de até 24 (vinte e quatro) meses, 
+contados a partir da data de publicação do extrato do Termo de Outorga Eletrônico – TO@, 
+publicado no Diário Oficial do Estado de Minas Gerais. 
+4. 
+PROPOSTAS ELEGÍVEIS 
+              São consideradas elegíveis as propostas de ICTs localizadas no Estado de Minas Gerais 
+e cadastradas junto à FAPEMIG, que atendam aos requisitos abaixo. 
+4.1 
+Por parte da Proponente 
+              A Instituição de vínculo do autor da proposta, ora denominada Proponente, deve: 
+4.1.1 
+Propiciar condições adequadas de espaço, infraestrutura, pessoal de apoio técnico e 
+administrativo, bem como tempo para a equipe dedicar-se ao projeto proposto. 
+4.1.2 
+Observar as diretrizes específicas constantes do Manual da FAPEMIG, desde a submissão 
+da proposta até a prestação final de contas. 
+4.2 
+Por parte da Proposta 
+              A proposta a ser submetida deve: 
+4.2.1      Ser elaborada e submetida por meio eletrônico disponível no Sistema EVEREST.  
+4.2.2 
+Não serão aceitas propostas submetidas de qualquer outra forma.  
+4.2.3 
+Prever a elaboração de um PITCH (material de divulgação em vídeo voltado ao público 
+leigo), conforme as diretrizes contidas na página da FAPEMIG.  
+4.2.4 
+Propostas que envolvam mais de uma instituição devem:  
+4.2.4.1 Definir a instituição proponente, a qual firmará o TO@ com a FAPEMIG, tornando-se 
+responsável pelas instituições parceiras e por toda a proposta durante o prazo de sua 
+execução, nos termos do subitem 3.2, desde o recebimento dos recursos financeiros até a 
+prestação de contas.  
+4.2.4.2 Explicitar claramente as atividades que serão comuns a todas as instituições.  
+4.2.4.3 Definir as atribuições e contrapartidas de cada instituição.  
+4.2.4.4 Considerar a propriedade intelectual como um instrumento para promover o 
+desenvolvimento da ciência.  
+4.2.4.5  Indicar o responsável pela execução da proposta e apresentar um termo de compromisso, 
+assinado pela direção superior, confirmando sua participação e a aceitação de seu papel 
+na parceria.  
+4.2.5    A proposta deverá ser original. A não observância desta diretriz inabilitará a proposta.  
+4.3 
+Por parte do Coordenador 
+              Para ser coordenador o autor da proposta deve atender às seguintes condições: 
+4.3.1 
+Ter vínculo com a Proponente. 
+4.3.2 
+Ter título de doutor e currículo atualizado na Plataforma Lattes do CNPq. 
+4.3.3 
+Observar diretrizes específicas constantes do Manual da FAPEMIG, desde a submissão 
+da proposta até a prestação final de contas. 
+ 4.3.4 
+Estar cadastrado no sistema EVEREST da FAPEMIG. 
+4.3.5 
+Apresentar e ser responsável por apenas uma proposta. 
+5. 
+RECURSOS FINANCEIROS 
+5.1 
+Os recursos alocados para financiamento desta Chamada serão da ordem de                            
+R$ 1.000.000,00 (Um milhão de reais).  
+5.2 
+As despesas decorrentes desta Chamada correrão à conta das dotações orçamentárias da   
+FAPEMIG a seguir relacionadas ou pelas que as sucederem:  
+              2071.19.573.050.4101.0001.445042.0.10.3  
+              2071.19.573.050.4101.0001.445042.0.70.1 
+5.3 
+O valor dos recursos solicitados à FAPEMIG em cada Proposta deverá ser de no máximo, 
+o valor apresentado no item 5.1 acima, considerando despesas operacionais. 
+5.4      Caso a demanda de projetos supere o valor limite desta Chamada, serão utilizados os 
+critérios de priorização estabelecidos no subitem 8.2 – Análise de Mérito, para definir 
+quais projetos serão contratados. 
+5.5 
+A Proponente, se Instituição Pública, deverá preferencialmente, indicar uma Gestora para 
+gerenciamento dos recursos aprovados, a qual deverá estar cadastrada junto à FAPEMIG. 
+5.5.1      A instituição gestora indicada deverá possuir um instrumento jurídico assinado com a    
+              Proponente, que formalize esta atividade. 
+5.6 
+Constitui fator impeditivo à formalização do Instrumento e liberação do apoio financeiro à 
+existência de inadimplência ou pendências de natureza financeira ou técnica do 
+Coordenador, bem como de qualquer outro membro da equipe do projeto e ainda da 
+Gestora. 
+5.7 
+As eventuais inadimplências deverão ser sanadas até 15 (quinze) dias após a divulgação 
+dos resultados. Após este prazo o processo será cancelado.  
+6. 
+ITENS FINANCIÁVEIS 
+6.1 
+Serão financiados, desde que compatíveis com o objetivo desta Chamada, com o Manual 
+da FAPEMIG e devidamente justificados, os seguintes itens de despesas: 
+6.1.1 
+Equipamentos e material permanente. 
+6.1.2      Material de consumo (incluindo aquisição de livros). 
+6.1.3 
+Serviços de terceiros (o apoio a consultoria é limitado a 20% do total solicitado). 
+6.1.4      Software. 
+6.1.5 
+Passagens e diárias, conforme valores da FAPEMIG. 
+6.1.6 
+Bolsas nas modalidades de Iniciação Científica e Tecnológica – BIC, de Apoio Técnico à 
+Pesquisa – BAT, de Desenvolvimento Tecnológico e Incentivo à Inovação – BDTII, e Bolsa 
+de Mestrado - BMS. 
+6.1.7      Manutenção de equipamentos. 
+6.1.8 
+Despesas acessórias de importação. 
+6.1.9 
+Despesas operacionais. 
+ 
+ 7. 
+PROPOSTAS 
+ 
+A proposta deverá ser apresentada via projeto, o qual será submetido em formato 
+eletrônico, respeitando-se o prazo definido no item 15. Calendário, desta Chamada 
+7.1 
+Formulário Eletrônico do EVEREST (http://everest.fapemig.br), devidamente preenchido. 
+7.1.1 
+Formulário eletrônico com a proposta de financiamento contendo: título; objetivo; contexto 
+das linhas temáticas; justificativa; contextualização da proposta de pesquisa baseada na 
+literatura e nos bancos de patentes; metodologia de trabalho; cronograma das atividades 
+a serem desenvolvidas, indicando as fases ou etapas do projeto e o detalhamento das 
+atividades de cada membro da equipe; instalações e equipamentos existentes ou a serem 
+utilizados para a execução das atividades previstas; valor e identificação dos itens que 
+integrarão a contrapartida proposta, quando for o caso. 
+7.1.2   Detalhamento, listado no Formulário Eletrônico, de todos os recursos necessários e 
+financiáveis para a execução da proposta, inclusive despesas operacionais e 
+mensalidades de bolsas. Qualquer item não incluído, mesmo que necessário à execução 
+da proposta, será considerado pela FAPEMIG como contrapartida da Proponente. Não 
+serão considerados os itens e/ou justificativas dos recursos necessários apresentados 
+exclusivamente no corpo da proposta. 
+7.2 
+Os documentos citados nos subitens 7.2.1 a 7.2.5 abaixo, deverão ser encaminhados na 
+forma de arquivo eletrônico a serem anexados ao Formulário Eletrônico no próprio sistema. 
+7.2.1 
+Arquivo eletrônico contendo informações adicionais à proposta, conforme Anexo I; 
+7.2.2 
+Arquivo eletrônico contendo o (s) Plano (s) de Trabalho (s) proposto (s) para o (s) bolsista 
+(s), quando houver; 
+7.2.3 
+Arquivo eletrônico contendo a indicação do Coordenador, assinado e carimbado pelo 
+representante legal da Proponente (Anexo II); 
+7.2.4 
+Arquivo eletrônico contendo Termo de Compromisso assinado pela Direção Superior das 
+entidades parceiras, confirmando a sua participação e aceitação do seu papel na parceria, 
+se houver; 
+7.2.5 
+Arquivo eletrônico contendo currículo do Coordenador na Plataforma Lattes do CNPq; 
+7.3 
+No momento da submissão das propostas, a Proponente deverá estar cadastrada e a 
+Gestora credenciada na FAPEMIG. A relação das instituições cadastradas e credenciadas 
+encontra-se no endereço http://www.fapemig.br/instituicoes-cadastradas. 
+8. 
+JULGAMENTO E SELEÇÃO 
+              Esta fase compreende três etapas: 
+8.1 
+Enquadramento: as propostas submetidas serão analisadas pelo corpo técnico da 
+FAPEMIG e da EMBRAER para verificar se atendem aos termos desta Chamada. Esta 
+etapa é eliminatória. 
+8.2 
+Análise de Mérito: cada proposta enquadrada será analisada quanto ao mérito técnico, 
+científico, relevância, estruturação e adequação metodológica, orçamento e qualificação 
+da equipe, e será classificada em ordem de prioridade. As propostas que obtiverem pelo 
+menos 70% (setenta por cento) da pontuação máxima, por item, serão classificadas. 
+8.2.1 
+As propostas que tiverem mais de 30% de corte no orçamento serão desclassificadas, 
+pelo corpo técnico da FAPEMIG. Para este cálculo não será considerada a parte do 
+orçamento referente a Bolsas. 
+ 8.3 
+Homologação: as propostas recomendadas e classificadas na etapa anterior serão 
+homologadas pela Diretoria Executiva da FAPEMIG, e serão financiadas levando em 
+conta as prioridades estabelecidas pela pontuação e os limites orçamentários. 
+8.4 
+Os critérios específicos e a pontuação de julgamento das propostas submetidas estão 
+apresentadas na tabela abaixo: 
+Critérios 
+(Pontos 
+Máximos) 
+Descrição 
+Mérito (25) 
+Proposta de projeto condizente com os temas da Chamada e relacionado a 
+pelo menos um desafio relevante para o futuro desenvolvimento de 
+aeronaves, contribuindo para o avanço tecnológico da indústria aeronáutica 
+nacional. (10) 
+Abordagem inovadora e ainda não explorada pela comunidade científica 
+internacional levando-se em consideração os riscos associados ao projeto. 
+(15) 
+Relevância 
+(20) 
+Resultados esperados compatíveis com os interesses do negócio 
+corporativo, podendo criar diferencial competitivo para a empresa do ponto 
+de vista de desenvolvimento, operação e/ou descarte do produto nos 
+próximos 15 anos. (10) 
+Benefícios potenciais na geração de conhecimentos técnicos ainda não 
+dominados pela empresa e que são compatíveis e relevantes para as 
+atividades normalmente de responsabilidade direta de um fabricante de 
+aviões (por exemplo, integração sistema propulsivo-airframe). (10) 
+Estrutura e 
+Adequação 
+(25) 
+Completude do projeto. Clareza na descrição da proposta de projeto: 
+definição dos objetivos, metodologia e resultados esperados para o projeto. 
+(10) 
+Fundamentação teórica correta e consistente com a proposta de pesquisa, 
+apresentando referências bibliográficas de origem relevante que suportem o 
+desenvolvimento das atividades propostas. (8) 
+Proposta descreve infraestrutura condizente com as atividades de pesquisa 
+a serem realizadas. (2) 
+Planejamento das atividades apresenta encadeamento razoavelmente 
+detalhado e coerente para atendimento dos objetivos propostos. Definição 
+de entregas intermediárias. (3) 
+Apresentação de prazos adequados aos desafios e atividades descritas pela 
+proposta de pesquisa. (2) 
+Orçamento 
+(10) 
+Orçamento detalhado por atividade de projeto, acompanhado de cronograma 
+financeiro compatível com a evolução dos trabalhos. (5) 
+Orçamento com valores condizentes aos gastos esperados para cada tipo de 
+atividade descrita. (3) 
+Contrapartidas financeiras e econômicas (2) 
+Qualificação 
+da Equipe 
+(20) 
+Coordenador e demais pesquisadores da equipe possuem titulação e 
+experiência profissional compatíveis e adequadas ao escopo, magnitude, 
+complexidade e natureza do projeto de pesquisa. (10) 
+Coordenador e demais pesquisadores possuem experiência comprovada em 
+pesquisas e atividades de colaboração com a indústria. (5) 
+Coordenador e demais pesquisadores possuem conhecimentos prévios em 
+métodos, ferramentas e/ou sistemas usados no projeto e desenvolvimento 
+de aeronaves. (5) 
+ 9. 
+ACOMPANHAMENTO E AVALIAÇÃO 
+9.1 
+A FAPEMIG e a EMBRAER reservam-se o direito de, a qualquer tempo, acompanhar o 
+desenvolvimento das atividades e, analisar o relatório técnico e científico e a prestação de 
+contas e, após a conclusão dos trabalhos, verificar o cumprimento das condições fixadas 
+no TO@. 
+9.2 
+A FAPEMIG adotará instrumentos de acompanhamento e avaliação final dos projetos com 
+base nos critérios descritos a seguir: 
+9.2.1 
+Aderência dos resultados obtidos na execução do projeto com o objetivo do mesmo. 
+9.2.2 
+Cumprimento dos objetivos propostos e apresentação dos produtos oriundos do projeto, 
+com a devida menção do apoio da FAPEMIG e da EMBRAER. 
+9.2.3 
+Cumprimento do cronograma. 
+9.2.4 
+Aplicabilidade dos resultados obtidos. 
+9.2.5 
+Impactos sociais, ambientais, econômicos, científicos e tecnológicos, diretos e indiretos, 
+provenientes da execução do projeto. 
+9.2.4 
+Impacto do projeto na produção técnico-científica do coordenador e da equipe. 
+9.2.5 
+Relevância e abrangência dos periódicos e/ou livros onde forem realizadas as publicações. 
+9.2.6 
+Contribuição para a difusão e transferência do conhecimento e da tecnologia gerada. 
+9.2.7 
+Contribuição para o aprimoramento da infraestrutura e para formação de recursos 
+humanos. 
+10. 
+DIREITOS DE PROPRIEDADE INTELECTUAL E DE EQUIPAMENTOS 
+10.1 
+Os direitos relativos à propriedade intelectual, resultantes dos projetos desenvolvidos no 
+âmbito desta Chamada, terão como cotitulares a EMBRAER, a FAPEMIG e a Proponente. 
+Desde já fica estabelecido que caberá à EMBRAER 50% (cinquenta por cento) desses 
+direitos de propriedade intelectual, sendo que os outros 50% (cinquenta por cento) serão 
+divididos entre a FAPEMIG e a instituição proponente em proporção a ser acordada. 
+10.2 
+É facultado à EMBRAER o uso próprio total ou parcial dos resultados dos projetos que não 
+forem passíveis de proteção intelectual, para consecução de suas atividades fim, sem que 
+haja qualquer remuneração da EMBRAER para a FAPEMIG e/ou para a Proponente. 
+Entende-se por uso próprio a utilização dos resultados não passíveis de proteção 
+intelectual pela EMBRAER e ainda por suas afiliadas, coligadas ou “joint-ventures”, dentro 
+e fora do Brasil. 
+10.3 
+É facultado à FAPEMIG e a Proponente o uso próprio total ou parcial dos resultados que 
+não forem passíveis de proteção intelectual, para consecução de suas atividades fim, sem 
+que haja qualquer forma de remuneração da FAPEMIG e da Proponente para a 
+EMBRAER. Fica desde já estabelecido que a FAPEMIG e a Proponente não poderão 
+utilizar os resultados com concorrentes da EMBRAER a não ser que haja prévia e expressa 
+autorização da mesma. 
+10.4 
+Os projetos selecionados por meio desta Chamada, que gerarem algum resultado que seja 
+considerado passível de proteção intelectual, farão jus ao pagamento de remuneração 
+(Prêmio) que será devido pela EMBRAER à Proponente na proporção de 1/10 (um décimo) 
+do valor aportado pela FAPEMIG e pela EMBRAER no financiamento deste projeto. Fica 
+desde já acordado que o pagamento do Prêmio será um valor único para cada projeto, 
+ independentemente de quantos forem os resultados passíveis de proteção intelectual do 
+projeto. 
+10.5 
+No caso de haver pagamento de Prêmio, a EMBRAER, incluindo suas coligadas e afiliadas 
+ou “joint-ventures”, será a exclusiva detentora do direito de uso industrial e comercial dos 
+resultados passíveis de proteção intelectual, nos seus respectivos campos de atuação. 
+Neste caso caberá apenas à EMBRAER o direito de licenciar a terceiros os resultados 
+passíveis de proteção intelectual, dando ciência à FAPEMIG e à Proponente, sendo os 
+royalties auferidos divididos pelos cotitulares na proporção da cotitularidade, de acordo 
+com o item 10.1 desta Chamada, subtraídos os possíveis tributos incidentes sobre esses 
+pagamentos. 
+10.6 
+Os equipamentos adquiridos com os recursos provenientes do financiamento desta 
+Chamada são de propriedade da FAPEMIG. 
+10.7 
+A FAPEMIG poderá doar ou ceder, à executora do projeto, de ora em diante simplesmente 
+Executora, os equipamentos adquiridos em decorrência desta Chamada, mediante a figura 
+jurídica da “doação sob encargo”, ou outro instrumento equivalente. 
+10.8 
+A FAPEMIG poderá dar outra destinação aos equipamentos adquiridos com os recursos 
+provenientes deste financiamento, diferentemente dos previstos nesta Chamada, no caso 
+da(s) parte(s) contratada(s) deixar(em) de cumprir o estabelecido no TO@. 
+11. 
+DIVULGAÇÃO DOS RESULTADOS 
+11.1 
+O resultado final da seleção das propostas será publicado no Diário Oficial do Estado de 
+Minas Gerais, em forma de extrato e, na íntegra, na página da FAPEMIG no endereço 
+www.fapemig.br. 
+11.2 
+Eventuais recursos poderão ser interpostos junto ao Presidente da FAPEMIG, no prazo de 
+5 (cinco) dias úteis após a publicação dos resultados, nos seguintes casos: 
+• 
+Quando o solicitante entender que houve erro formal de julgamento da proposta;  
+• 
+Quando o solicitante julgar que houve falha de procedimento operacional ou   
+administrativo. 
+11.2.1  A apresentação das razões do recurso deverá ser efetuada obrigatoriamente mediante 
+oficio, encaminhado via correio ou protocolado na sede da FAPEMIG.  
+11.2.2  Não serão aceitos recursos submetidos fora das normas e dos prazos estabelecidos. No    
+caso do mesmo ser enviado pelo correio será considerada a data de postagem. 
+12. 
+CONTRATAÇÃO E LIBERAÇÃO DOS RECURSOS 
+12.1 
+A contratação dos projetos aprovados por esta Chamada obedecerá à ordem de 
+classificação e dar-se-á de acordo com a disponibilidade financeira, por meio da assinatura 
+de TO@, que será firmado entre a FAPEMIG, a Executora, a Gestora, se houver, e o 
+Coordenador, todos indicados na proposta, nos termos desta Chamada. 
+12.1.1 
+A Gestora, quando houver, será responsável pelo gerenciamento dos recursos. 
+12.2 
+A liberação dos recursos far-se-á na forma estabelecida no correspondente TO@, devendo 
+o repasse financeiro se iniciar após a assinatura do citado TO pelos representantes das 
+partes interessadas, à publicação do seu extrato no Diário Oficial do Estado de Minas 
+Gerais e a liberação dos recursos pelo Tesouro do Estado. 
+ 12.3 
+Serão definidas no TO@ a vigência, as condições de realização, direitos e obrigações de 
+cada um dos partícipes. 
+13. 
+ORIENTAÇÕES GERAIS 
+13.1 
+Esta Chamada submete-se aos dispositivos legais e regulamentares vigentes e ao Manual 
+da FAPEMIG. 
+13.2 
+O Manual da FAPEMIG, incluindo os formulários e as Tabelas de diárias e de mensalidades 
+de bolsas, encontra-se disponível na página da FAPEMIG, no endereço www.fapemig.br. 
+13.3 
+Todos os valores deverão ser expressos em real. 
+13.4 
+Não é permitida a contratação de pessoa física por um período superior a 89 (oitenta e 
+nove) dias, sendo vedada a prorrogação. É vedado, também, o pagamento, a qualquer 
+título, para servidor da administração pública ou empregado de empresa pública ou de 
+sociedade de economia mista, por serviços de consultoria ou assistência técnica. 
+13.5 
+Todos os itens necessários ao desenvolvimento do projeto deverão estar previstos, não 
+sendo permitida alteração após sua submissão à FAPEMIG. 
+13.6 
+Será realizado um Workshop para o esclarecimento de dúvidas específicas sobre os temas 
+propostos, no prazo máximo de quatro semanas (28 dias corridos) contadas a partir da 
+data de lançamento desta Chamada, com a participação de representantes da FAPEMIG 
+e da EMBRAER, nas instalações da FAPEMIG. 
+13.7 
+O PITCH (vídeo de curta duração) previsto no item 4.2.3 deverá ser enviado junto com o 
+Formulário Síntese de Resultados (FSR) e será utilizado pela FAPEMIG como material de 
+divulgação. Maiores detalhes sobre a elaboração do PITCH encontram-se disponibilizados 
+no link: http://www.fapemig.br/pt-br/duvidas-frequentes. Anexo ao Formulário de Síntese 
+de Resultados deverá ser enviado documento autorizando a divulgação do PITCH. 
+13.8 
+Toda correspondência emitida por qualquer das partes envolvidas, relativas às propostas 
+ou aos projetos e seus respectivos processos, deverá, obrigatoriamente, mencionar o seu 
+código de identificação. 
+13.9 
+Decairá do direito de impugnar os termos desta Chamada aquele que, tendo-o aceito sem 
+objeção e submetido uma proposta, venha a apontar, posteriormente, eventuais falhas ou 
+imperfeições, hipótese em que sua comunicação não terá efeito. 
+13.10 
+Os profissionais prestadores de serviços técnicos especializados, consultores científicos, 
+consultores ad hoc, bolsistas, membros de Comissão Especial de Julgamento e quaisquer 
+outros profissionais e/ou entidades envolvidas nas ações e atividades decorrentes desta 
+Chamada, deverão obrigar-se, por escrito, à manutenção de sigilo sobre os conteúdos de 
+todas as propostas recebidas. 
+13.11 
+O TO@ definirá as bases em que a FAPEMIG e a EMBRAER acompanharão e 
+supervisionarão tecnicamente a evolução da execução das atividades objeto do projeto e 
+desta Chamada. 
+13.12 
+As cláusulas de sigilo não serão objeto de renúncia, por qualquer das partes signatárias do 
+TO@, enquanto vigentes os objetivos e finalidades desta Chamada e suas cláusulas 
+correspondentes, resguardando-se, irrestritamente, eventuais direitos de propriedade 
+intelectual das partes ou interessados. 
+13.13 
+As partes contratadas obrigam-se a prestar contas do valor financiado nas épocas e 
+condições previamente definidas no TO@. 
+ 13.14 
+Não poderão participar como componentes da equipe executora do projeto a ser proposto, 
+empregados da Embraer S.A., suas afiliadas e coligadas. 
+13.15 
+Os casos omissos serão resolvidos pela Diretoria Executiva da FAPEMIG. 
+14. 
+INFORMAÇÕES COMPLEMENTARES 
+14.1 
+Não será concedida suplementação de recursos para fazer frente a despesas adicionais, 
+ficando entendido que qualquer acréscimo de gastos será de responsabilidade da 
+Executora. 
+14.2 
+A ausência de quaisquer documentos e informações necessárias para o julgamento do 
+mérito da proposta, bem como o preenchimento incorreto do Formulário Eletrônico e seus 
+anexos, implicará na inabilitação da proposta. 
+14.3 
+Em todo material de divulgação, como releases, sites, banners, vídeos, cartilhas e qualquer 
+outro material impresso relacionado com o objeto do projeto financiado por esta Chamada, 
+deverá ser explicitada a logomarca ou o nome da FAPEMIG e da EMBRAER, que entrará 
+sempre sob a chancela de “apoio’. 
+14.4 
+Em entrevistas, palestras e outras atividades interativas deverá ser explicitado o apoio 
+recebido da FAPEMIG e da EMBRAER.  
+14.5 
+Outras informações poderão ser obtidas junto à Central de Informações da FAPEMIG, por 
+meio do correio eletrônico ci@fapemig.br, ou na página: http://www.fapemig.br/pt-
+br/duvidas-frequentes.  
+15.         CALENDÁRIO 
+              As propostas serão recebidas, eletronicamente, pela FAPEMIG, até as dezessete horas do 
+dia 23 de junho de 2017 e, desde que iniciadas dentro desse prazo, poderão ser finalizadas 
+até as 23:59 horas do mesmo dia.  
+15.1 
+A FAPEMIG não se responsabiliza por qualquer problema na submissão das propostas 
+motivada por eventuais falhas de conexões com a internet, falta de energia elétrica, 
+congestionamento das linhas de comunicação, bem como outros fatores de ordem técnica 
+que impossibilitem a conexão ou a transferência de dados. Essas eventualidades não 
+serão aceitas como argumento para a submissão de propostas após o prazo. Recomenda-
+se que as propostas sejam encaminhadas com prudente antecedência.  
+  
+  Os seguintes prazos máximos deverão ser observados: 
+ 
+Data limite 
+Etapa 
+26/04/17 
+Lançamento da Chamada.  
+17/05/17 
+Workshop para esclarecimentos nas instalações da FAPEMIG. 
+23/06/17 
+Prazo limite para candidatura pelas ICTs (submissão de propostas). 
+18/08/17 
+Divulgação do Resultado. 
+25/08/17 
+Prazo limite para apresentação de recurso. 
+30/09/17 
+Prazo final para contratação dos Projetos (Termo de Outorga) 
+ 
+ 16. 
+DISPOSIÇÕES FINAIS 
+16.1 
+O resultado dos recursos, previstos no subitem 11.2, serão comunicados por escrito aos 
+recorrentes. 
+16.2 
+Recursos interpostos segundo o estabelecido no item 11.2 impedirão o andamento normal 
+das ações e procedimentos previstos no item 12.  
+16.3 
+A presente Chamada poderá ser revogada ou anulada a qualquer tempo, no todo ou em 
+parte, seja por decisão unilateral da FAPEMIG, seja por motivo de interesse público ou 
+exigência legal, sem que isso implique direito à indenização ou reclamação de qualquer 
+natureza. 
+ 
+Belo Horizonte,26 de abril de 2017. 
+ 
+Prof. Paulo Sergio Lacerda Beirão 
+ 
+Diretor de Ciência, Tecnologia e de Inovação 
+ 
+ 
+Prof. Evaldo Ferreira Vilela, PhD 
+Presidente da FAPEMIG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CHAMADA FAPEMIG 06/2017 
+ANEXO I 
+1 CRONOGRAMA FÍSICO 
+ 
+Item 
+Metas e Atividades 
+Indicador Físico de 
+Execução 
+Duração prevista 
+Início 
+Fim 
+Mês/Ano Mês/Ano 
+[1] 
+[Texto descrevendo a meta física 1] 
+  
+mm/aaaa mm/aaaa 
+[1.1] 
+  
+[Texto descrevendo a 
+atividade 1.1] 
+[Texto descrevendo o 
+indicador físico 1.1] 
+mm/aaaa mm/aaaa 
+[1.n] 
+  
+[Texto descrevendo a 
+atividade 1.n] 
+[Texto descrevendo o 
+indicador físico 1.n] 
+mm/aaaa mm/aaaa 
+[N] 
+[Texto descrevendo a meta física N] 
+  
+mm/aaaa mm/aaaa 
+[N.1] 
+  
+[Texto descrevendo a 
+atividade N.1] 
+[Texto descrevendo o 
+indicador físico N.1] 
+mm/aaaa mm/aaaa 
+[N.n] 
+  
+[Texto descrevendo a 
+atividade N.n] 
+[Texto descrevendo o 
+indicador físico N.n] 
+mm/aaaa mm/aaaa 
+ 
+ 
+ 
+ 
+ 
+  
+2 CRONOGRAMA DE DESEMBOLSO (Valores em R$) 
+ 
+METAS FINANCEIRAS 
+PERÍODO 
+TOTAL 
+Ano I 
+Ano II 
+Código 
+Grupos/Elementos de 
+Despesas 
+1º 
+Sem. 
+2º 
+Sem. 
+1º 
+Sem. 
+2º 
+Sem. 
+DESPESAS FINANCIÁVEIS 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+4.1 Diárias 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+4.2 Material de Consumo 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+4.3 Serviços de Terceiros 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+4.3.1 Passagens 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+4.3.2 Impressão e Encadernação 
+(serviços gráficos) 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+4.3.3 Serviços de Consultoria 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+4.3.4 Software 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+4.3.5 Locação de Serviços Técnicos e 
+Especializados 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+4.3.6 Material Literário 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+4.4 Despesas Acessórias de 
+Importação 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+4.5 Despesas Operacionais 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+4.6 Pagamento para Publicação de 
+Artigos Científicos 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+4.7 Mensalidades (Bolsas) 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+4.8 Despesas Diversas 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+4.9 Material Permanente 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+4.10 Manutenção de Equipamentos 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+TOTAL GERAL 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+ 
+ 
+ 
+ 
+ CHAMADA FAPEMIG 06/2017 
+ANEXO II 
+INDICAÇÃO DE COORDENADOR 
+Indicamos para coordenar o projeto objeto da Proposta XXXXXX (incluir o título), submetida 
+no âmbito da Chamada 06/2017 da FAPEMIG, XXXXXX (incluir o nome do funcionário da 
+Proponente, que obrigatoriamente deverá ser o mesmo a submeter a proposta no EVEREST), que 
+terá como atribuições responsabilizar-se pela execução do projeto, desde a submissão da proposta 
+até a prestação de contas e apresentação do Formulário Síntese de Resultados – FSR. 
+O mesmo será, ainda, responsável pela interlocução junto à FAPEMIG em relação a 
+questões que porventura possam surgir durante a execução do projeto. 
+ 
+..............................................................., ......... de .......................... de 2017. 
+Representante Legal da Proponente 
+(Assinatura e Carimbo) 

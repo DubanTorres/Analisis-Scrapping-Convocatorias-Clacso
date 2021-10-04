@@ -1,0 +1,462 @@
+Edital MCT/CNPq/CT-INFO nº 07/2007 
+A Secretaria de Política de Informática do Ministério da Ciência e Tecnologia – SEPIN/MCT, em 
+cumprimento às recomendações do Comitê da Área de Tecnologia da Informação - CATI, observando 
+a Lei no 8.248 de 23 de outubro de 1991, alterada pelas Leis no 10.176 de 11 de janeiro de 2001 e n° 
+11.077 de 30 de dezembro de 2004, regulamentada pelo Decreto no 5.906 de 26 de setembro de 2006, 
+por intermédio do Conselho Nacional de Desenvolvimento Científico e Tecnológico – CNPq, torna 
+público o Programa de Apoio à Pesquisa, Desenvolvimento e Inovação em Tecnologia da 
+Informação – PD&I-TI/2007 e convoca os interessados a apresentarem propostas de projetos de 
+Pesquisadores, Grupos ou Núcleo de Excelência atuantes em pesquisa, desenvolvimento tecnológico e 
+inovação em Tecnologia da Informação, na forma e condições ora estabelecidas, a serem apoiados com 
+recursos do Fundo Setorial de Informática – CTINFO.  
+O Conselho Nacional de Desenvolvimento Científico e Tecnológico – CNPq torna público o presente 
+Edital e convoca os interessados a apresentarem propostas, nos termos aqui estabelecidos: 
+ 
+1 - INFORMAÇÕES GERAIS 
+A Computação revolucionou a pesquisa científica, sendo hoje reconhecida como o “terceiro pilar” a 
+sustentar tal pesquisa, junto com os pilares da teoria e da experimentação. Desta forma, ela permeia os 
+avanços em todas as áreas do conhecimento. Novas formas de interação entre as ciências, em vários 
+níveis e escalas, são mediadas pela Tecnologia da Informação, que é a simbiose da Ciência da 
+Computação com diferentes domínios do conhecimento. Muitas das grandes descobertas científicas 
+recentes são resultados do trabalho de equipes multidisciplinares que envolvem cientistas da 
+Computação. Finalmente, ela é um componente indispensável para a implementação e o fortalecimento 
+dos objetivos econômicos, tecnológicos e sociais de um país. 
+Grandes Desafios envolvem questões associadas a “problemas centrais” que não podem ser resolvidas 
+por pesquisas que objetivam resultados de curto prazo. São necessários múltiplos enfoques para atacar 
+grandes desafios, e estes deverão ser pesquisados dentro de um horizonte de longo prazo. A 
+identificação de grandes desafios de pesquisa contribui para a formulação de projetos que têm o 
+potencial de produzir avanços significativos no campo científico, com aplicações sociais e tecnológicas de 
+grande valor.  
+Os tópicos dos Grandes Desafios emergem de um consenso da comunidade científica, para servir como 
+um cenário de longo prazo para os pesquisadores. Os Grandes Desafios são dirigidos a avanços 
+significativos na ciência, ao invés de conquistas incrementais baseados em resultados existentes. Os 
+Grandes Desafios são passíveis de avaliação clara e objetiva que permita definir o seu sucesso. Muitos 
+dos problemas que os constituem são multidisciplinares em sua natureza e nas possibilidades de 
+solução. 
+1.1. Objetivo 
+Este Edital tem como objetivo o financiamento de projetos de pesquisa relacionados com os 5 desafios 
+propostos no documendo "Grandes Desafios da Computação no Brasil: 2006-2016”, que são: 
+ a) Gestão da Informação em grandes volumes de dados multimídia distribuídos; 
+b) Modelagem computacional de sistemas complexos artificiais, naturais e sócio-culturais e da interação 
+homem -natureza; 
+c) Impactos para a área da computação da transição do silício para novas tecnologias; 
+d) Acesso participativo e universal do cidadão brasileiro ao conhecimento; 
+e) Desenvolvimento tecnológico de qualidade: sistemas disponíveis, corretos, seguros, escaláveis, 
+persistentes e ubíquos. 
+1.2. Publico Alvo 
+Pesquisadores, Grupos ou Núcleos de Excelência já consolidados que atuem na área de Tecnologia da 
+Informação e desenvolvam pesquisas relacionadas aos Grandes Desafios propostos pela SBC. 
+1.3. Cronograma 
+Eventos 
+Datas 
+Lançamento do Edital no Diário Oficial da União (D.O.U.) 
+18 de setembro de 2007 
+Início da submissão de propostas 
+21 de setembro de 2007 
+Data limite para apresentação das propostas(formulário eletrônico) 
+Até 4 de novembro de 2007 
+Julgamento 
+28 a 30 de novembro de 2007 
+Divulgação dos resultados no DOU 
+Em 4 de dezembro de 2007 
+Contratação dos projetos selecionados 
+A partir de 10 de dezembro de 2007 
+1.4. Recuros Financeiros 
+O total de recursos disponíveis para esta Edital, a serem alocados aos projetos selecionados está 
+estimado em R$ 9.000.000,00 (nove milhões de reais), eqüitativamente distribuídos no ano de 2007 e 
+2008, provenientes do Fundo Setorial de Informática – CTInfo. 
+Os recursos de investimento em equipamentos, programas de computador, bibliografia, bolsas solicitadas 
+e todos os materiais de consumo deverão ser claramente justificados, identificados e vinculados às 
+atividades e tarefas propostas. 
+Os recursos financeiros não poderão ser aplicados no pagamento de salários ou complementação 
+salarial de qualquer natureza. Para a contratação e/ou aquisição de bens e serviços, deverão ser 
+obedecidas à legislação e as normas vigentes. 
+1.4.1. – IDENTIFICAÇÃO DA CATEGORIA DOS PROJETOS – Faixa de Enquadramento 
+Os projetos, em função de seus objetivos, tamanho da equipe, duração, faixa de recursos demandados 
+serão de quatro categorias: 
+Faixas 
+Categoria dos 
+Projetos 
+Nº de projetos financiados 
+(expectativa) 
+Recursos disponíveis para os 
+primeiros 2 anos 
+A 
+Grandes 
+maior que R$ 500 mil 
+R$ 4.000.000,00 
+B 
+Médios 
+maior que R$ 250 mil 
+menor ou igual a R$ 500 mil 
+R$ 2.000.000,00 
+C 
+Pequenos 
+menor ou igual a R$ 250 mil 
+R$ 1.000.000,00 
+ D 
+Individuais 
+menor ou igual a R$ 50 mil 
+R$ 2.000.000,00 
+Caso o valor equivalente aos projetos selecionados não atinja o total pré-definido para cada faixa, a 
+diferença será incorporada a faixa subseqüente acompanhando a classificação da proposta estabelecida 
+pelo Comitê Especial, visando atender a um número maior de projetos recomendados por seu mérito e 
+relevância. 
+Os proponentes poderão concorrer a somente uma das faixas de projeto, de forma individual ou em 
+associação com centros ou institutos de pesquisa e empresas. O enquadramento do projeto é de 
+responsabilidade do proponente, sendo avaliado segundo sua faixa de enquadramento. 
+1.5. Contra Partida 
+As instituições integrantes do projeto deverão oferecer, a título de contra partida, condições físicas, 
+estruturais e de apoio a execução do projeto. 
+1.6. Itens Financiáveis 
+O apoio aos projetos será realizado por meio de investimento, não reembolsável, nas modalidades de 
+custeio, capital e bolsas de fomento tecnológico. 
+1.6.1. Serão financiados, exclusivamente, os itens especificados no Formulário de Propostas on-line, não 
+cabendo aplicação dos recursos em pagamento de salários e/ou complementação salarial de qualquer 
+natureza. No caso de pessoas vinculadas nos mais diversos graus ao projeto, algumas modalidades de 
+bolsa poderão ser utilizadas, desde que atendidas as normas vigentes no CNPq. 
+1.6.2. Os projetos das faixas A, B e C só poderão destinar até 50% do orçamento para as bolsas de 
+longa duração. 
+a) CUSTEIO: 
+• 
+Diárias e serviços prestados por pessoal técnico e de apoio, 
+ligados diretamente aos resultados pretendidos no projeto e que, por sua natureza, só possam 
+ser executados por pessoas físicas;  
+• 
+Passagens;  
+• 
+Aquisição de software  
+Nota: Desde que pertinentes ao projeto proposto. 
+b) CAPITAL: 
+·         Equipamentos de processamento de dados; 
+·         Aparelhos elétricos  e eletrônicos; 
+·         Aparelhos e instrumentos técnicos e científicos; 
+·         Material bibliográfico; 
+Nota: Desde que pertinentes ao projeto proposto. 
+c) BOLSAS: 
+ ·         Bolsas de Longa Duração (até 24 meses): 
+·         Desenvolvimento Tecnológico Industrial (DTI) – Para os projetos da faixa A, B e C. 
+·         Iniciação Tecnológica Industrial (ITI) – apenas uma bolsa para a faixa D. 
+As bolsas de longa duração são regidas pela RN 019/2006 e sua respectiva tabela de valores pela RN 
+022/2006. 
+A implementação das bolsas deverá ser realizada dentro dos prazos e critérios estipulados para cada 
+uma 
+dessas 
+modalidades, 
+que 
+estão 
+indicadas 
+no 
+endereço 
+http://www.cnpq.br/normas/rn_06_019.htm. A duração das bolsas não poderá ultrapassar o prazo de 
+execução do projeto. As bolsas não poderão ser utilizadas para pagamento de prestação de serviços, 
+uma vez que tal utilização estaria em desacordo com a finalidade das bolsas do CNPq;  
+Todos os itens financiados  devem estar diretamente relacionados ao objeto e às atividades do projeto. 
+1.7. Itens Não Financiáveis 
+Os recursos recebidos não poderão ser utilizados para pagamentos de: 
+·         Taxas de inscrição; 
+·         Mobiliário; 
+·         Manutenção de qualque r natureza; 
+·         Obras e reformas. 
+1.7.1. Não são permitidas despesas com  contratação ou complementação salarial de pessoal técnico e 
+administrativo e as de rotina como as contas de luz, água, telefone, correio, reprografia e similares e 
+obras civis (ressalvadas as obras com instalações e adaptações necessárias ao adequado 
+funcionamento de equipamentos), entendidas como despesas de contrapartida obrigatória da  instituição 
+de execução de projetos e das colaboradoras; 
+1.7.2. É vedado o pagamento, a qualquer título, a servidor da administração pública, ou empregado de 
+empresa pública ou de sociedade de economia mista, por serviços de consultoria ou assistência técnica, 
+conforme determina a Lei de Diretrizes Orçamentárias da União e Decreto Federal nº 5.151 de 
+22/04/2004. 
+1.7.3. Para contratação de serviços ou  aquisição de bens   deverá ser observada a legislação vigente, 
+bem 
+como 
+as 
+normas 
+do 
+CNPq, 
+disponíveis 
+no 
+endereço 
+www.cnpq.br/prestacaocontas/legislacao.htm . 
+1.8. Prazo de Execução dos Projetos 
+Os projetos a serem apoiados pelo presente Edital deverão ter seu prazo de execução estabelecido em 
+25 (vinte e cinco) meses. 
+1.9. Coordenação Responsável pelo Edital 
+A coordenação responsável pelo acompanhamento do presente Edital é a Coordenação de Apoio a 
+Pesquisa, Desenvolvimento e Aplicações – COAPD. 
+ 2. Características Obrigatórias 
+As características obrigatórias indicadas a seguir são válidas para o presente Edital. O atendimento às 
+mesmas é considerado imprescindível para o exame da proposta. A ausência ou insuficiência de 
+informações sobre quaisquer delas resultará na desclassificação da proposta: 
+2.1. Quanto ao Proponente/Coordenador/Equipe Téncica 
+Podem -se candidatar ao presente edital pesquisadores, grupos de pesquisadores pertencentes aos 
+quadros de centros e institutos de P&D (nos termos do Decreto nº 3.800, Art. 13, incisos I e II) ou Núcleos 
+de Excelência já consolidados que atuem na área de Tecnologia da Informação e desenvolvam 
+pes quisas relacionadas aos Grandes Desafios propostos pela SBC. 
+Cada projeto deverá indicar um coordenador com comprovada competência na área de TI que responda, 
+não apenas pela submissão da documentação, mas também pela assinatura do instrumento legal, 
+recebimento, gerenciamento e prestação de contas dos recursos alocados ao projeto. 
+O proponente que se apresentar como coordenador de projeto não poderá participar da equipe de 
+pesquisadores de outro projeto apresentado para este edital. 
+É 
+obrigatório 
+o 
+cadastramento 
+do 
+currículo 
+do 
+proponente 
+na 
+Plataforma 
+Lattes 
+(http://lattes.cnpq.br/index.htm). 
+2.2. Quanto ao Projeto 
+Os projetos poderão ser apresentados com prazo de duração de dois anos. A apropriação orçamentária e 
+financeira dos projetos será feita de acordo com o plano de atividades e a disponibilidade de recursos. 
+As propostas deverão apresentar uma descrição clara e objetiva dos pontos abaixo mencionados, de 
+forma a permitir sua adequada análise: 
+·         Coerência com os Objetivos do Edital; 
+·         Identificação e Caracterização do Objetivo do Projeto; 
+·         Metodologia e Estratégia de Ação; 
+·         Objetivos e Metas; 
+·         Cronograma Físico-Financeiro; 
+·         Relevância e Impacto dos Resultados; e 
+·         Referências Bibliográficas. 
+Além do preenchimento do formulário de proposta on-line, o proponente deverá anexar o detalhamento 
+do projeto, que deve ser gerado fora do Formulário de Propostas On-line e anexado a este, podendo ser 
+utilizado um dos formatos a seguir: doc, rtf, pdf, ou post script. O arquivo está limitado a 500kb 
+(quinhentos kilobytes). Recomenda-se evitar o uso de figuras, gráficos, etc., que comprometam a 
+capacidade do arquivo, pois propostas que excedam o limite de 500kb n ão serão recebidas pelo guichê 
+eletrônico do CNPq. 
+ As instituições integrantes do projeto deverão oferecer, a título de contrapartida, condições físicas, 
+estruturais e de apoio à execução do projeto. 
+3. Apresentação e Envio de Propostas 
+3.1. As propostas devem ser apresentadas sob a forma de projeto e encaminhadas ao CNPq 
+exclusivamente via Internet, por intermédio do Formulário de Propostas On-line , disponível no endereço 
+http://efomento.cnpq.br/efomento/ , a partir .de 10 de setembro de 2007, data explicitada no 
+cronograma apresentado no sub item 1.3.. 
+3.2. As propostas devem ser transmitidas ao CNPq até às 18h (dezoito horas) do dia 4 de novembro de 
+2007, horário de Brasília. No entanto, o sistema eletrônico (servidor de rede) receberá propostas com 
+tolerância de mais 24 (vinte e quatro) horas, encerrando-se, impreterivelmente, em 5 de novembro de 
+2007 às 18h (dezoito horas), horário de Brasília. O proponente receberá, imediatamente após o envio, 
+um recibo eletrônico de protocolo da sua proposta, o qual servirá como comprovante da transmissão. 
+3.3. Não serão aceitas propostas submetidas por qualquer outro meio. Após o prazo final para 
+recebimento das propostas, nenhuma outra será recebida. (no art. 41, caput, da Lei nº 8.666 , de 21 de 
+junho de 1993) Assim, recomenda-se o envio das propostas com antecedência, uma vez que o CNPq 
+não se responsabiliza por propostas não recebidas em decorrência de eventuais problemas técnicos ou 
+possível congestionamento natural do sistema eletrônico. 
+3.4. Caso a proposta seja remetida fora do prazo de submissão, ela não será aceita pelo sistema 
+eletrônico. Por este motivo e, no cumprimento do disposto no caput do art. 41, da Lei nº 8.666, de 21 de 
+junho de 1993, não haverá possibilidade de a proposta ser acolhida, examinada e julgada. 
+3.5. Será aceita uma única proposta por proponente/coordenador. Na hipótese de envio de uma 
+segunda proposta pelo mesmo coordenador, respeitando-se o prazo estipulado no sub item 1.3, esta 
+será considerada substituta da anterior, sendo levada em conta para análise apenas a última proposta 
+recebida. 
+4. Admissão, Análise e Julgamento 
+A seleção das propostas submetidas ao CNPq, em atendimento a este Edital, será realizada por 
+intermédio de análises e avaliações comparativas. Para tanto, são estabelecidas as seguintes etapas: 
+ETAPA I: análise preliminar pela área técnica do CNPq, quanto ao enquadramento das propostas às 
+condições e exigências do presente Edital; 
+ETAPA II:            avaliação do mérito das propostas por consultoria ad hoc; 
+ETAPA III: julgamento do mérito das propostas por Comitê de Assessoramento/Temático, levando-se em 
+consideração os pareceres de consultores ad hoc; 
+ETAPA IV:            aprovação pela Diretoria Executiva (DEX) do CNPq;  
+4.1. - ETAPA I: Análise pela Área Técnica do CNPq - Enquadramento 
+Esta etapa, a ser realizada pela área técnica do CNPq, consiste no enquadramento e na pré-análise das 
+propostas 
+apresentadas 
+e 
+requisitos 
+do 
+proponente. 
+Será 
+verificado 
+o 
+atendimento 
+às 
+CARACTERÍSTICAS OBRIGATÓRIAS estabelecidas no item 2, e efetuada a análise quanto à 
+adequação da proposta ao presente Edital. 
+ 4.2. ETAPA II: Análise pelos consultores Ad Hoc 
+Esta etapa consistirá na análise sobre o mérito e relevância das propostas apresentadas, a ser realizada 
+por especialistas que se manifestarão sobre os seguintes tópicos: 
+·         Coerência com o objetivo do edital; 
+·         Coerência entre objetivos, metodologia, resultados esperados e cronograma de execução; 
+·         Compatibilidade da infra-estrutura e da equipe executora com a programação do projeto; 
+·         Competência, experiência e adequação da equipe; 
+·         Compatibilidade do orçamento aos objetivos; e 
+·         Viabilidade técnica e econômica da proposta em relação ao orçamento proposto. 
+OBSERVAÇÃO: O coordenador que apresentar proposta para a chamada PD&I-TI não poderá ser 
+indicado como consultor ad hoc ou participar do Comitê Técnico. 
+4.3. - ETAPA III: Julgamento do mérito das propostas por Comitê de Assessoramento/Temático, 
+levando-se em consideração os pareceres de consultores ad hoc. 
+4.3.1 – As propostas enquadradas na etapa anterior serão avaliadas e classificadas nesta etapa, quanto 
+ao mérito técnico-científico e sua adequação orçamentária, por Comitê designado pelo Presidente do 
+CNPq,  formado por pesquisadores e especialistas de acordo com a necessidade qualitativa e 
+quantitativa da demanda  a ser analisada, que levará em consideração os pareceres de consultores ad 
+hoc. 
+4.3.2. - A análise e o julgamento nessa etapa serão feitos pelo Comitê Técnico que poderá ser 
+assessorado por consultores nacionais e internacionais convidados, levando em consideração o mérito e 
+a relevância de todas as informações prestadas na apresentação da proposta.  
+As propostas serão avaliadas de acordo com os critérios abaixo relacionados, sendo que para cada um 
+deles o Comitê Técnico atribuirá notas de 0 (zero) a 7 (sete): 
+• 
+Relevância estratégica e grau de inovação da proposta, 
+considerando as oportunidades e problemas identificados;  
+• 
+Coerência da proposta quanto aos objetivos, metas, 
+metodologia, atividades, orçamento e resultados esperados;  
+• 
+Adequação qualitativa e quantitativa das pessoas da equipe 
+do projeto;  
+• 
+Viabilidade técnica, organização e gerenciamento do 
+projeto;  
+• 
+Estratégias de apropriação e de aplicação dos resultados a 
+serem obtidos pelas entidades envolvidas;  
+• 
+Aplicabilidade e impacto sócio-econômico dos resultados.  
+4.3.3. - Será utilizado formulário padrão para análise e emissão do parecer do Comitê. O Comitê poderá 
+recomendar adequações no orçamento e cronograma propostos. 
+ 4.3.4. - O Comitê deverá apresentar as justificativas de recomendação ou não para todas as propostas e, 
+aquelas recomendadas serão submetidas à  aprovação pela Diretoria Executiva do CNPq. Os pareceres 
+serão assinados por todos os membros do Comitê. 
+4.3.5. - Após a conclusão dos trabalhos de julgamento, o Comitê elaborará uma Ata de Reunião, 
+contendo a relação dos projetos julgados, recomendados e não recomendados, com as respectivas 
+notas, em ordem decrescente, assim como outras informações e recomendações julgadas pertinentes. 
+4.3.6. - Caso algum   membro do Comitê faça parte da equipe de qualquer  proposta, o mesmo deverá 
+ausentar-se da sala de reunião durante a análise do projeto. 
+4.3.7. - É vedado a qualquer membro do Comitê julgar projetos em que: 
+• 
+Haja interesse seu direto;  
+• 
+Esteja participando da equipe do projeto seu cônjuge, 
+companheiro ou parente, consangüíneo ou afim, em linha reta, ou na colateral até o terceiro 
+grau;  
+• 
+Esteja litigando judicial ou administrativamente com 
+qualquer membro da equipe do projeto ou seus respectivos cônjuges ou companheiros.  
+4.4. - ETAPA IV: Aprovação pela Diretoria Executiva (DEX) do CNPq 
+Todas as propostas recomendadas  pelo Comitê serão submetidas à apreciação da Diretoria Executiva 
+do CNPq, que emitirá a decisão final sobre sua aprovação, observados os limites orçamentários deste 
+Edital. 
+5. Resultado do Julgamento 
+5.1. - A relação das propostas aprovadas  será divulgada pelo CNPq, disponível  no endereço  
+www.cnpq.br, bem como por intermédio de publicação no Diário Oficial da União - DOU.  
+5.2. - Todos os proponentes do presente Edital tomarão conhecimento do parecer sobre sua proposta 
+por intermédio de correspondência eletrônica, preservada a identificação dos pareceristas. 
+6. Dos Recursos Administrativos 
+6.1. - Caso o proponente tenha justificativa para contestar o resultado deste Edital, o CNPq aceitará 
+recurso no prazo de 5 (cinco) dias úteis, a contar da publicação do resultado do julgamento no Diário 
+Oficial da União. O recurso deverá ser  dirigido à Diretoria Executiva do CNPq, a qual proferirá sua 
+decisão no prazo de 10 (dez) dias úteis. O processamento do recurso dar-se-á de acordo com a 
+Instrução de Serviço 012/2004.  
+6.2. - A norma específica, Instrução de Serviço 012/2004, que estabelece os procedimentos 
+necessários para interposição de recursos está disponível na página do CNPq, no endereço eletrônico 
+www.cnpq.br/normas/is_04_012.htm, fazendo parte do presente Edital em todos os seus termos. 
+7. Da Contratação dos Projetos Aprovados 
+ 7.1. -  Os projetos aprovados serão contratados como auxílio individual em nome do Coordenador, 
+mediante assinatura de Termo de Concessão e Aceitação de Apoio Financeiro a Projeto de Pesquisa 
+Científica 
+e/ou 
+Tecnológica, 
+disponível 
+no 
+endereço: 
+www.cnpq.br/bolsas_auxilios/termoconcessao/index.htm . 
+7.2. - A firmatura do Termo de Concessão ficará subordinada à existência prévia de Protocolo de 
+Cooperação Técnica, celebrado entre a instituição de execução do projeto e o CNPq, conforme previsão 
+contida 
+na 
+alínea 
+“a” 
+do 
+item 
+5 
+do 
+Anexo 
+I 
+da 
+Resolução 
+Normativa 
+nº 
+024/200 
+(www.cnpq.br/normas/rn_06_024.htm). 
+7.3. - A existência de alguma inadimplência do proponente com a Administração Pública Federal Direta 
+ou Indireta, não regularizada no prazo máximo de 30 (trinta) dias após a divulgação dos resultados, 
+constituirá fator impeditivo para a contratação do projeto. 
+7.4. - Para os Proponentes e Coordenadores que tenham projetos aprovados anteriormente no CNPq, já 
+encerrados, será necessária a prestação de contas dos recursos utilizados, bem como, a liquidação de 
+quaisquer outras pendências técnicas, financeiras ou operacionais. 
+7.5. - A existência de alguma inadimplência da entidade proponente para com a administração Pública 
+Federal Direta ou Indireta, não regularizada no prazo máximo de 30 (trinta) dias após a divulgação do 
+resultado, constituirá fator impeditivo para a contratação do projeto. 
+8. Cancelamento da Concessão 
+A concessão do apoio financeiro será cancelada pela Diretoria Executiva do CNPq, por ocorrência, 
+durante sua implementação, de fato cuja gravidade justifique o cancelamento, sem prejuízo de outras 
+providências cabíveis. 
+9. Publicações 
+9.1. - As publicações científicas e qualquer outro meio de divulgação de trabalho de pesquisa, apoiado 
+pelo presente Edital, deverão citar, obrigatoriamente, o apoio pelo CNPq/MCT e pelo Fundo Setorial de 
+Informática ( CT-Info). 
+9.2. - As ações publicitárias atinentes a projetos e obras financiadas com recursos da União, deverão 
+observar rigorosamente as disposições contidas no § 1º do art. 37 da Constituição Federal, bem assim 
+aquelas consignadas nas Instruções da Secretaria de Comunicação de Governo e Gestão Estratégica da 
+Presidência da República - atualmente a IN/SECOM-PR nº 31, de 10 de setembro de 2003. 
+10. Avaliação final/Prestação de Contas 
+10.1. - Ao final da vigência, o proponente deve apresentar, em conformidade com o Termo de 
+Concessão e demais normas do CNPq: 
+·         Prestação de contas final, circunstanciado, apresentando os resultados, conclusões e produtos 
+obtidos; 
+ • 
+O relatório técnico final.  
+10.2. - O projeto deve ser acompanhado até o final de sua vigência, por meio de : 
+• 
+Análise dos relatórios técnicos parciais;  
+• 
+Visitas in loco com a participação de técnicos do CNPq e/ou 
+consultores;  
+• 
+Apresentação de relatórios de acompanhamento das bolsas 
+elaborados de acordo com as normas vigentes no CNPq.  
+• 
+Apresentação, pelo coordenador, de publicações de artigos 
+em revistas ou Anais de Congressos nacionais ou estrangeiros, ou ainda, artigos submetidos a 
+revista e que se encontram no prelo;  
+• 
+Seminários de avaliação (quando pertinente).  
+10.3. - O Coordenador terá o prazo de 3 (três) meses para enviar cópia da publicação ao CNPq ou carta 
+de aceite do manuscrito assinada pelo Editor Chefe do periódico. 
+Caberá ao CNPq verificar se as publicações apresentadas são condizentes com a proposta descrita no 
+projeto apresentado pelo proponente. 
+10.4. - O CNPq reserva -se o direito de, durante a execução do projeto, promover visitas técnicas ou 
+solicitar informações adicionais visando aperfeiçoar o sistema de Avaliação e Acompanhamento. 
+11. Impugnação do Edital 
+11.1. - Decairá do direito de impugnar os te rmos deste Edital, o proponente que não o fizer até o 
+segundo dia útil anterior ao prazo final estabelecido para recebimento das propostas. Não terá efeito de 
+recurso a impugnação feita por aquele que o tendo aceitado sem objeção, venha apontar, posteriormente 
+ao julgamento, eventuais falhas ou imperfeições. 
+11.2. - A impugnação deverá ser dirigida à Diretoria Executiva do CNPq. 
+11.3. – As regras deste Edital cujas decisões sejam afetadas ao Comitê Gestor do Fundo Setorial CT-
+Info – CATI, serão encaminhadas  ao mesmo para julgamento. 
+12. Revogação ou Anulação do Edital 
+A qualquer tempo, o presente Edital poderá ser revogado ou anulado, no todo ou em parte, seja por 
+decisão unilateral da Diretoria Executiva do CNPq, seja por motivo de interesse público ou exigência 
+legal, sem que isso implique direitos à indenização ou reclamação de qualquer natureza. 
+13. Disposições Finais 
+Esclarecimentos e informações adicionais poderão ser obtidos mediante acesso aos telefones 0800-
+619697 (Centro de Atendimento – CNPq) ou por e-mail pditi2007@cnpq.br. 
+É de inteira responsabilidade do proponente a comprovação de atendimento aos prazos e demais 
+condições estabelecidas no presente Termo. 
+ Trabalhos publicados, divulgação de produtos, processos e/ou qualquer outro resultado obtido em 
+decorrência das atividades apoiadas pelo Programa deverão, necessariamente, fazer referência ao apoio 
+recebido (Fundo Setorial de Informática – CT-Info, conforme Lei 8.248/91, modificada pela Lei 
+10.176/01). 
+14. Dos Esclarecimentos e das informações adicionais 
+Esclarecimentos e informações adicionais acerca do conteúdo deste Edital poderão ser sanados por 
+intermédio do serviço "Fale Conosco", disponível no endereço www.cnpq.br. 
+15. Cláusula de Reserva 
+A Diretoria Executiva do CNPq reserva-se o direito de resolver os casos omissos e as situações não 
+previstas no presente Edital. 
+Brasília – DF, 18 de setembro  de 2007. 
+ 

@@ -1,0 +1,2074 @@
+
+ 
+ 
+Tel +32 (0)2 221 81 81 • Fax +32 (0)2 221 81 74   Postal address: IMI JU • TO56 • 1049 Brussels • Belgium 
+infodesk@imi.europa.eu • www.imi.europa.eu 
+ Visiting address: Ave de la Toison d’Or 56-60 • 1060 Brussels • Belgium  
+ 
+   
+ 
+ 
+IMI2  
+21st Call for proposals 
+Version 1.1, dated 05/03/2020, addressing a clerical error on page 12 of this document and 
+further confirming that applicants should submit a proposal and that the page limit for 
+proposals is 70 pages  
+Annex II to the Decision of the IMI2 JU Governing Board No.  IMI2-GB-DEC-2020-08 adopted 
+on 28/02/2020 
+Document reference: Ares(2020)1304391 
+  
+ 
+Call Text – IMI2 21st Call for proposals  
+Page | 2  
+Contents 
+CONTENTS ........................................................................................................................................................ 2 
+INTRODUCTION ................................................................................................................................................ 3 
+DEVELOPMENT OF THERAPEUTICS AND DIAGNOSTICS COMBATTING CORONAVIRUS 
+INFECTIONS ...................................................................................................................................................... 5 
+CONDITIONS FOR THIS CALL FOR PROPOSAL ........................................................................................ 12 
+LIST OF ACRONYMS ..................................................................................................................................... 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Call Text – IMI2 21st Call for proposals  
+Page | 3  
+Introduction 
+The Innovative Medicines Initiative is a jointly funded partnership between the European Union, represented by the 
+European Commission, and the European Federation of Pharmaceutical Industries and Associations (EFPIA). 
+The Innovative Medicines Initiative 2 Joint Undertaking (IMI2 JU) has been created1 following the principles below: 
+Research related to the future of medicine should be undertaken in areas where societal, public health and 
+biomedical industry competitiveness goals are aligned and require the pooling of resources and greater 
+collaboration between the public and private sectors, with the involvement of small and medium-sized enterprises 
+(SMEs). 
+The scope of the initiative should be expanded to all areas of life science research and innovation. 
+The areas should be of public health interest, as identified by the World Health Organisation (WHO) report on 
+priority medicines for Europe and the World2. 
+The IMI2 JU objectives are usually implemented through Research and Innovation Actions (RIAs), and 
+Coordination and Support Actions (CSAs) where public and private partners collaborate, joining their expertise, 
+knowledge and resources.  
+The initiative should therefore seek to involve a broader range of partners, including mid-sized companies3, from 
+different sectors e.g. biomedical imaging, medical information technology, diagnostic and/or animal health 
+industries. Involving the wider community in this way should help to advance the development of new approaches 
+and technologies for the prevention, diagnosis and treatment of diseases with high impact on public health. 
+The IMI2 Strategic Research Agenda (SRA)4 is the main reference for the implementation of research priorities for 
+IMI2 JU. The scientific priorities for 2020 for IMI2 JU have been prepared based on the SRA. 
+Applicant consortia are invited to submit a proposal which should address at least one of the objectives of the topic. 
+The size and composition of each consortium should be adapted so as to respond to the scientific goals and the 
+expected key deliverables. 
+Applicant consortia, during all stages of the evaluation process, must consider the nature and dimension of the IMI2 
+JU programme as a public-private collaboration. 
+While preparing their proposals, applicant consortia should ensure that the needs of patients are adequately 
+addressed and, where appropriate, patient involvement is encouraged. Applicants should ensure that gender 
+dimensions are also considered. Synergies and complementarities with other national and international projects 
+and initiatives should be explored in order to avoid duplication of efforts and to create collaboration at a global level 
+to maximise European added value in health research. Where appropriate, the involvement of regulators is also 
+strongly encouraged.  
+                                                      
+1 Council Regulation (EU) No 557/2014 of 6 May 2014 establishing the Innovative Medicines Initiative 2 Joint Undertaking (IMI2 JU), OJ L 169, 
+7.6.2014, p. 54–76. 
+2 http://www.who.int/medicines/areas/priority_medicines/en/ 
+3 Under IMI2 JU, mid-sized companies having an annual turnover of E 
+UR 500 million or less not being affiliated entities of companies with an annual turnover of more than 500 million; the definition of ‘affiliated 
+entities’ within the meaning of Article 2(1)(2) of Regulation (EU) No 1290/2013 applies mutatis mutandis. Where established in an EU Member 
+State or an associated country, are eligible for funding. 
+4 http://www.imi.europa.eu/sites/default/files/uploads/documents/About-IMI/research-agenda/IMI2_SRA_March2014.pdf 
+  
+ 
+Call Text – IMI2 21st Call for proposals  
+Page | 4  
+Applicant consortia shall ensure that where relevant their proposals are in compliance with the General Data 
+Protection Regulation (EU) 2016/6795 and Clinical Trial Regulation (EU) 536/20146 (and/or Directive 2001/20/EC7) 
+and any relevant legislation8. 
+Before submitting a proposal, applicant consortia should familiarise themselves with all Call documents such as the 
+IMI2 JU Manual for submission, evaluation and grant award9, and the IMI2 evaluation criteria. Applicants should 
+refer to the specific templates and evaluation procedures associated with the topic type Research and Innovation 
+Actions (RIA).  
+ 
+ 
+                                                      
+5 Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to 
+the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection 
+Regulation), OJ L 119, 4.5.2016, p. 1–88. 
+6 Regulation (EU) No 536/2014 of the European Parliament and of the Council of 16 April 2014 on clinical trials on medicinal products for human 
+use, and repealing Directive 2001/20/EC, OJ L 158, 27.5.2014, p. 1-76.  
+7 Directive 2001/20/EC of the European Parliament and of the Council of 4 April 2001 on the approximation of the laws, regulations and 
+administrative provisions of the Member States relating to the implementation of good clinical practice in the conduct of clinical trials on 
+medicinal products for human use (the "Clinical Trials Directive), OJ L 121, 1.5.2001, p. 34.  
+8 Directive 95/46/EC on the protection of individuals with regard to the processing of personal data and the free movement of such data and 
+implementing national laws, OJ L 281, 23.11.1995, p. 31–50.  
+9 https://www.imi.europa.eu/sites/default/files/uploads/documents/apply-for-funding/call-
+documents/imi2/IMI2_ManualForSubmission_v1.7_November2018.pdf  
+  
+ 
+Call Text – IMI2 21st Call for proposals  
+Page | 5  
+Development of therapeutics and diagnostics combatting 
+coronavirus infections 
+Topic details 
+Topic code 
+IMI2-2020-21-01 
+Action type 
+Research and Innovation Action (RIA) 
+Submission and evaluation process 
+Single stage 
+IMI2 Strategic Research Agenda - Axis of Research 
+Adoption of innovative clinical trial paradigms 
+IMI2 Strategic Research Agenda - Health Priority 
+Other 
+Specific challenges to be addressed by public-private collaborative research 
+Coronaviruses (CoV) are a large family of enveloped positive-stranded RNA viruses that typically result in 
+respiratory and enteric infections. CoV are zoonotic in origin, but they can evolve into a strain that can infect human 
+beings leading to fatal illness. Typically, CoV infections were considered relatively benign to humans before the 
+severe acute respiratory syndrome (SARS-CoV) outbreak in 2002/2003 in China, and the Middle East respiratory 
+syndrome coronavirus (MERS-CoV) outbreak in 2012 in the Middle Eastern countries. 
+On 31 December 2019, the local authorities of Wuhan, Hubei province, China, reported a cluster of pneumonia 
+cases of unknown origin. On 9 January 2020, the China Centre for Disease Control reported a novel coronavirus - 
+now referred as SARS-CoV-2 to be the causative agent. 
+As of 24 February 2020, 79 360 cases of novel coronavirus infection COVID-19 (in accordance with the applied 
+case definitions in the affected countries) have been reported, including 2 618 deaths. The disease has already 
+spread to 31 countries outside China, with new cases continuing to emerge daily [1]. The COVID-19 outbreak has 
+been declared by WHO as a Public Health Emergency of International Concern according to the International 
+Health Regulation [2]. 
+Bearing in mind that the SARS-CoV epidemic in 2003 resulted in over 8 000 cases reported (and a 10% fatality 
+ratio), it is crucial to rapidly gain a better understanding of the newly-identified virus and the virus family that it 
+represents, especially in relation to potential clinical and public health measures that can be put to immediate use 
+to improve patients’ health and/or contain the spread of COVID-19. 
+Considering the public health and humanitarian implications, there is a need for all stakeholders across the public 
+and private sectors to collaborate in global efforts to care for those affected, contain the outbreak, and develop the 
+much-needed resources to prepare for the future. A collaboration of private companies, academia, international 
+organisations, public bodies etc. has the potential to accelerate the development of therapeutics and diagnostics to 
+tackle the current and future outbreaks. The actions resulting from this Call will contribute to the pan-European 
+efforts responding to this Public Health Emergency and address one of the eight immediate research actions 
+agreed at the WHO global research and innovation forum held on 11-12 February 2020 [3].  
+Scope 
+Proposals submitted under this topic are expected to advance our knowledge of SARS-CoV-2 specifically and the 
+wider coronavirus family in general with the aim of contributing to an efficient patient management and/or public 
+health preparedness and response to current and future outbreaks of coronavirus infection.  
+Considering that this is a newly-identified virus, the scope of this topic remains broad and must address at least 
+one of the following objectives: 
+  
+ 
+Call Text – IMI2 21st Call for proposals  
+Page | 6  
+ 
+Development of antivirals as well as other types of therapeutics to address a rapid response to the 
+current COVID-19 outbreak 
+Relevant “clinical ready”-assets include approved therapies or compounds in development, which could be 
+repurposed for use in treating patients with the coronavirus. For example, this could include (but is not limited 
+to), angiotensin-converting-enzyme (ACE) inhibitors, protease inhibitors or immunotherapies (for example 
+antibodies/antibody-like molecules) that could be relevant in the context of CoV. If repurposing is proposed, this 
+should be supported by a preliminary rationale of the compound’s potential efficacy against COVID-19. Where 
+relevant, evidence of regulatory and ethics approvals for the investigational products included in the study(ies) 
+must be presented. 
+ 
+Development of therapeutics to address the current and/or future coronavirus outbreaks Identification of 
+new potential assets and approaches that could be utilised including preventive strategies and combination 
+approaches, and that could also address potential resistance. This may also include the optimisation of 
+promising treatments used in rapid response (e.g. reformulation). 
+ 
+Development of diagnostics, ensuring rapid evaluation of candidates based on existing technologies.  
+Diagnostic tests will be essential for clinical trials of new or repurposed drugs, to help stratify patients and 
+assess treatment efficiency (surrogate endpoint such as viral clearance).  
+ 
+ 
+Development of fast and reliable tools that go beyond the state of the art for detection of COVID-19 
+carriers and symptomatic individuals suspected of COVID-19 infection 
+These are essential and of utmost importance to manage the outbreak, isolate patients at risk and treat people 
+accordingly. It is crucial to differentiate and identify respiratory pathogens with similar clinical symptoms (e.g. 
+flu, respiratory syncytial virus, other viruses or bacteria) and/or detect emerging pathogens such as SARS-
+CoV-2. This can be achieved through point-of-care (POC) testing or centralised testing. 
+Preventive vaccines are specifically excluded from the scope of the Call. 
+For increased impact, proposals should build on promising avenues from previous or ongoing research, taking into 
+account the recommendations from the WHO and ensuring complementarity and ideally synergy with the work 
+carried out under the auspices of Coalition for Epidemic Preparedness Innovations (CEPI), Wellcome, Biomedical 
+Advanced Research and Development Authority (BARDA), the Bill and Melinda Gates Foundation, Global 
+Research Collaboration for Infectious Disease Preparedness (GloPID-R) and H2020 Call SC1-PHE-
+CORONAVIRUS-2020.  
+The European Medicines Agency (EMA) has activated its plan for emerging health threats, which includes the 
+possibility for fast-tracked Scientific Advice [4]. Proposals covering investigation of a therapeutic should engage 
+with the EMA to ensure adequacy from a regulatory point of view. 
+Collaboration agreement(s) 
+To ensure the interactions between actions funded under this Call, the selected consortia are expected to 
+cooperate with each other and share their learnings for the purpose of achieving the objectives of their respective 
+actions, in order to maximise the impact. Therefore, all grants awarded under this Call will be complementary 
+grants. The respective options under Article 2, Article 31.6 and Article 41.4 of the IMI2 JU Model Grant 
+Agreement10 will apply. Accordingly, the relevant consortia will conclude collaboration agreement(s) to ensure the 
+exchange of relevant information, exploration of synergies, and collaboration where appropriate. 
+ 
+                                                      
+10 See: https://www.imi.europa.eu/sites/default/files/uploads/documents/reference-documents/h2020-mga-imi_en_v5.pdf  
+  
+ 
+Call Text – IMI2 21st Call for proposals  
+Page | 7  
+Expected key deliverables 
+Each proposal must include at least one of the following key deliverables: 
+ 
+antivirals as well as other types of therapeutics to be used in the current outbreak, including preventive and 
+symptomatic treatments; 
+ 
+novel therapeutics including combination treatments to ensure appropriate treatment for current and/or future 
+outbreaks and/or to prevent resistance; 
+ 
+diagnostics. 
+In the context of achieving the above deliverables, i.e. development of therapeutics and diagnostics, it is 
+recognised that studies related to the understanding of the mechanism of action will generate new knowledge on 
+the virology, immunology and pathogenesis of the coronavirus, and that new analytical technologies and reagents 
+may be developed. 
+When relevant, deliverables should include: 
+ 
+Hit identification of suitable assets (e.g. existing libraries, approved drugs and assets that have passed phase 1 
+for repurposing; protease and (non)-nucleoside inhibitors) against SARS-CoV-2 and/or pan-coronavirus; 
+implementation of high-throughput screening assays in collaboration with Europe-based centres of excellence. 
+ 
+Lead optimisation: initiating target-based discovery programmes based for instance on literature for the 
+identification of promising approaches. Proof of Concept: pre-clinical animal studies and clinical studies 
+including at least first in human (FIH) and phase 2A and/or 2B studies for both repurposed and new molecular 
+entities.  
+For the clinical studies applicants should consider the Therapeutic Trial Synopsis in the WHO’s Global 
+Research and Innovation Blueprint on the novel Coronavirus COVID-19 [3].  
+ 
+Diagnostics and associated enablers (e.g. production of antibodies and viral proteins); characterisation of nCoV 
+strains and evolution; sustainability plans for data repositories, sample repositories etc.; documentation 
+supporting regulatory submission. 
+Expected impact 
+Proposals must be timely, with rapid activation, to enable early and valuable outcomes to be established. 
+On the basis of the proposed activities, applicants should describe how the outputs of the project will contribute to 
+the following impacts and include wherever possible targets and metrics to measure them: 
+ 
+fast-track development and availability of therapeutics and/or diagnostics to be used in the clinical 
+management of patients infected by COVID-19 and/or future outbreaks of coronaviruses, and to ensure that a 
+variety of drugs are available for patients, including tackling resistance, and combination therapy; 
+ 
+contribution to public health preparedness and response in the context of the ongoing epidemic of COVID-19 
+and/or future outbreaks of pan-coronaviruses; 
+ 
+significant impact on global health, both at the individual and the public health level by leading to results that 
+have a direct impact on people at risk of exposure to coronavirus or on patients suffering from coronavirus 
+disease. 
+To ensure maximum impact for patients, applicants should demonstrate their operational capacity as well as their 
+readiness and access to asset(s) to progress through clinical development and reach patients as rapidly as 
+possible. 
+Although actions to be funded should be centred around SARS-CoV-2 and CoV, applicants should explain how the 
+knowledge and new concepts arising from the action can be applied in more general terms to the preparedness 
+strategy that could be applied to new outbreaks as a rapid response. 
+  
+ 
+Call Text – IMI2 21st Call for proposals  
+Page | 8  
+In addition, considering the unknown evolution of this COVID-19 outbreak, applicants should develop strategies on 
+how to develop their proposals and continuity plans, allocate their funds and implement sustainability measures in 
+the different scenarios that could occur: 1) rapid regression of the epidemic with no patients left for clinical trials, 2) 
+pandemic, 3) seasonal reoccurrence as typically seen with influenza.  
+Applicants must maximise the IMI2 JU public-private partnership value by harnessing support from different 
+stakeholders, including the mobilisation of resources through the inclusion of contributing partners11, providing 
+contributions (in kind and/or financial), to reflect the public-private character of IMI2 JU actions. 
+To maximise the potential for public health impact, applicants should outline in their proposals a strategy for 
+engagement with patients, healthcare professional associations, healthcare providers, and public health bodies 
+where relevant 
+Beneficiaries in grants awarded under this topic must make available their research data, at the latest within 30 
+days after it has been generated, through open access or, if agreed by the IMI2 JU or the European Commission, 
+by giving access rights to those third parties that need the research data to address the public health emergency. 
+Therefore, the relevant option (1c) of Article 29.3 of the Grant Agreement shall apply. 
+Potential synergies with existing consortia 
+Synergies and complementarities are expected with relevant national, European and non-European initiatives 
+(including suitable biological and medical sciences research infrastructures12) in order to incorporate past 
+achievements, available data and lessons learnt where possible, thus avoiding unnecessary overlap, and 
+duplication of efforts and funding. In particular, applicants are expected to collaborate with any relevant project or 
+initiative targeting the current COVID-19 outbreak supported by, including but not restricting to, the European 
+Commission (H2020 call SC1-PHE-CORONAVIRUS-2020), CEPI, Wellcome, BARDA, The Bill and Melinda Gates 
+Foundation, GloPID-R, and others. 
+Applicants should also consider building on achievements of relevant IMI projects such as the COMBACTE 
+projects, ZAPI, and the European Lead Factory (ELF/ESCULAB). 
+Where relevant applicants might consider the advantages of the use of the European supercomputing centres 
+(PRACE network) to accelerate the process of diagnosis and therapeutics research, using the exiting high-end 
+computing, data and simulation resources. 
+Indicative duration of the action 
+Proposals should include a proposed duration for the action in relation to the activities and expected impact. 
+Successful applicants may request a starting date prior the entry into force of the GA, but no earlier than the date of 
+grant proposal submission. 
+ 
+                                                      
+11 Contributing partners: EFPIA companies or organisations associated to EFPIA, and Associated Partners to IMI2 JU contributing resources to 
+the action may report it as their in-kind or financial contribution to the IMI2 JU. If the contributing entity is not yet an affiliate or a constituent 
+entity of an IMI2 Member other than the Union (i.e. EFPIA), or an Associated Partner at the time of the proposal submission, and the proposal is 
+selected for funding, such a legal entity is invited to become an affiliate or a constituent entity of an IMI2 Member, other than the Union, or an 
+Associated Partner in accordance with the IMI2 JU Statutes prior to the signature of the relevant Grant Agreement. 
+12 http://www.corbel-project.eu/about-corbel/research-infrastructures.html 
+  
+ 
+Call Text – IMI2 21st Call for proposals  
+Page | 9  
+Indicative budget 
+Applicant consortia will be competing for the maximum total financial contribution from IMI2 JU up to  
+EUR 45 000 000. 
+Within this budgetary envelope, each proposal must include a sound justification of the requested IMI2 JU financial 
+contribution. This should take into account the proposed in-kind contributions from contributing partners that will 
+complement the IMI2 JU financial contribution, i.e. EFPIA constituents or affiliated entities and/or, when relevant, 
+IMI2 JU Associated Partners. 
+All proposals submitted under this Call and evaluated above the threshold will be ranked in one single list. 
+Proposals will be invited in order of ranking to prepare a Grant Agreement within the limits of the available overall 
+budget. 
+Applicant consortium 
+Applicant consortia are expected to address at least one of the objectives of the topic and demonstrate the 
+necessary expertise and access to facilities to meet the relevant key deliverables and ensure the expected impact. 
+The size and composition of each consortium should be adapted so as to respond to the objectives and the key 
+deliverables of the Call while ensuring its manageability. 
+In accordance with the Horizon 2020 Rules for Participation, in order to be eligible, a proposal must be made by a 
+consortium of at least three independent legal entities, each established in a different Member State or associated 
+country. 
+While preparing their proposals, applicant consortia should ensure that needs of patients are adequately addressed 
+and, where appropriate, patient involvement is encouraged. 
+Single stage proposal 
+While preparing their proposal, applicants are requested to pay due attention to all the following points. 
+Data management 
+In their proposal, applicants should give due visibility to data management including use of the data standards. A 
+full 'data management plan' (DMP) as a distinct deliverable must be delivered within the first 6 months of the action. 
+The DMP needs to be kept up to date with the needs of the action and as such be updated as necessary during its 
+lifetime.13 
+Applicants should be aware that data must be deposited in a relevant established international data platform, such 
+as the one by WHO and/or European Molecular Biology Laboratory (EMBL). 
+Dissemination, exploitation and communication 
+In their proposal, applicants must provide a draft plan for the exploitation and dissemination of results. A full plan as 
+a distinct deliverable must be delivered within the first 6 months of the project.14 The proposed communication 
+                                                      
+13 Guidance on data management is available at https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-
+issues/open-access-data-management/data-management_en.htm  
+14 As an additional dissemination obligation under Article 29.1 of the IMI2 JU Grant Agreement will apply 
+  
+ 
+Call Text – IMI2 21st Call for proposals  
+Page | 10  
+measures for promoting the action and its findings during the period of the grant should also be described and 
+could include a possible public event to showcase the results of the action. 
+Applicants should be aware that beneficiaries in grants awarded in this Call for proposals are expected to apply the 
+principles established in the Statement on Data Sharing in Public Health Emergency. 
+Sustainability 
+In their proposal, applicants must describe a sustainability plan beyond the end of the Grant Agreement 
+This plan may be updated during the action lifetime and could include: 
+ 
+identification of results that may need sustainability solutions; 
+ 
+identification of potential end-users for these results; 
+ 
+a proposed sustainability roadmap. 
+The proposed plan should also ensure that the new concepts for rapid response developed in the projects can be 
+applied to new outbreak situations. 
+Sufficient resources should be set aside for activities related to the sustainability of the project results. This may 
+involve engaging with suitable biological and medical sciences research infrastructures (RIs).15 
+Patient and healthcare provider engagement 
+Applicants are encouraged to include a strategy to engage with patients, learned societies and healthcare 
+providers as relevant to ensure the project results impact on healthcare practices. 
+Regulatory strategy 
+Applicants are expected to have a strategy for the translation of the relevant outputs into regulatory practice to 
+promote the uptake of the results, e.g. qualification advice, qualification opinion when relevant. A plan for 
+interactions with regulatory agencies/health technology assessment bodies /payers, with relevant milestones and 
+sufficient resources, should therefore be proposed. 
+ 
+ 
+ 
+                                                      
+15 http://www.corbel-project.eu/about-corbel/research-infrastructures.html  
+  
+ 
+Call Text – IMI2 21st Call for proposals  
+Page | 11  
+References 
+[1] ECDC. Novel Coronavirus (COVID-19) Situation - Worldwide. 2020.  
+https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases 
+[2] World Health Organisation. Statement on the second meeting of the International Health Regulations 
+(2005) Emergency Committee regarding the outbreak of novel coronavirus (COVID-19). 2020. 
+https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-of-the-international-
+health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov) 
+[3] World Health Organisation. 2019 Novel Coronavirus: Global Research and Innovation Blueprint. 2020. 
+https://www.who.int/blueprint/priority-diseases/key-action/novel-coronavirus/en/  
+[4] EMA to support development of vaccines and treatments for novel coronavirus 
+https://www.ema.europa.eu/en/news/ema-support-development-vaccines-treatments-novel-coronavirus 
+  
+ 
+Call Text – IMI2 21st Call for proposals  
+Page | 12  
+Conditions for this Call for proposal 
+All proposals must conform to the conditions set out in the H2020 Rules for Participation 
+(https://ec.europa.eu/research/participants/portal/doc/call/h2020/common/1595113-h2020-rules-
+participation_oj_en.pdf) and the Commission Delegated Regulation with regard to IMI2 JU http://eur-
+lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0622&from=EN. 
+The following conditions shall apply to this IMI2 JU Call for Proposals: 
+Applicants intending to submit a proposal in response to the IMI2 Call 21 should read this topics text, the     IMI2 JU 
+Manual for submission, evaluation and grant award and other relevant documents (e.g. IMI2 JU Model Grant 
+Agreement). 
+ 
+Call Identifier 
+H2020-JTI-IMI2-2020-21-single-stage 
+ 
+Type of actions 
+Research and Innovation Action (RIA) 
+ 
+Publication Date 
+3 March 2020 
+ 
+Submission start date 
+3 March 2020 
+ 
+Submission deadline  
+31 March 2020 
+ 
+ 
+Indicative Budget 
+From EFPIA companies and IMI2 JU Associated  
+Partners                                                                      to be defined based upon selected proposals 
+  
+From the IMI2 JU                                                        EUR 45 000 000 
+ 
+Call Topic 
+IMI2-2020-21-1 
+Development of therapeutics 
+and diagnostics combatting 
+coronaviruses infections 
+The indicative contribution 
+from EFPIA companies is to 
+be defined based upon 
+selected proposals. 
+The financial contribution 
+from IMI2 JU is a maximum 
+of EUR 45 000 000 
+Research and Innovation Action (RIA) 
+Single stage submission and 
+evaluation process. 
+Proposals submitted will be evaluated 
+and ranked in one single list. Several 
+proposals might be invited to conclude 
+a Grant Agreement, depending on the 
+budget availability and their ranking. 
+ 
+ 
+ 
+  
+ 
+Call Text – IMI2 21st Call for proposals  
+Page | 13  
+The following general conditions shall apply to the IMI2 JU Calls for Proposals. They are based on the General 
+Annexes to the Horizon 2020 Work Programme 2018-202016. 
+ 
+LIST OF COUNTRIES AND APPLICABLE RULES FOR FUNDING 
+By way of derogation17 from Article 10(1) of Regulation (EU) No 1290/2013, only the following participants shall be 
+eligible for funding from the Innovative Medicines Initiative 2 Joint Undertaking: 
+(a) legal entities established in a Member State or an associated country, or created under Union law; and 
+(b) which fall within one of the following categories:  
+(i) micro, small and medium-sized enterprises and other companies with an annual turnover of EUR 500 
+million or less, the latter not being affiliated entities of companies with an annual turnover of more than 500 
+million; the definition of ‘affiliated entities’ within the meaning of Article 2(1)(2) of Regulation (EU) No 
+1290/2013 shall apply mutatis mutandis, 
+(ii) secondary and higher education establishments,  
+(iii) non-profit organisations, including those carrying out research or technological development as one of 
+their main objectives or those that are patient organisations;  
+(c) the Joint Research Centre;  
+(d) international European interest organisations. 
+Participating legal entities listed in (b) above established in a third country may receive funding from the IMI2 JU 
+provided their participation is deemed essential for carrying out the action by the IMI2 JU or when such funding is 
+provided for under a bilateral scientific and technological agreement or any other arrangement between the Union 
+and the country in which the legal entity is established18. 
+ 
+STANDARD ADMISSIBILITY CONDITIONS, PAGES LIMITS AND SUPPORTING DOCUMENTS 
+Part B of the General Annexes to the Horizon 2020 Work Programme 2018-2020 shall apply mutatis mutandis for 
+the actions covered by this Call for proposals. 
+In addition, page limits will apply to proposals as follows: 
+ 
+for a single-stage call the limit for RIA/IA full proposals is 70 pages. 
+STANDARD ELIGIBILITY CONDITIONS 
+Part C of the General Annexes to the Horizon 2020 Work Programme 2018-2020 shall apply mutatis mutandis for 
+the actions covered by this Call for proposals. 
+ 
+                                                      
+16  http://ec.europa.eu/research/participants/data/ref/h2020/other/wp/2018-2020/annexes/h2020-wp1820-annex-ga_en.pdf 
+17 Pursuant to the Commission Delegated Regulation (EU) No 622/2014 of 14 February 2014 establishing a derogation from Regulation (EU) No 
+1290/2013 of the European Parliament and of the Council laying down the rules for participation and dissemination in ‘Horizon 2020 — the 
+Framework Programme for Research and Innovation (2014-2020)’ with regard to the Innovative Medicines Initiative 2 Joint Undertaking 
+18 In accordance with Article 10(2) of the Regulation (EU) No 1290/2013 and Article 1 of Commission Delegated Regulation (EU) No 622/2014 
+  
+ 
+Call Text – IMI2 21st Call for proposals  
+Page | 14  
+TYPES OF ACTION: SPECIFIC PROVISIONS AND FUNDING RATES 
+Part D of the General Annexes to the Horizon 2020 Work Programme 2018-2020 shall apply mutatis mutandis for 
+the actions covered by this Call for proposals. 
+TECHNOLOGY READINESS LEVELS (TRL) 
+Part G of the General Annexes to Horizon 2020 Work Programme 2018-2020 shall apply mutatis mutandis for the 
+actions covered by this Call for proposals. 
+EVALUATION RULES 
+Part H of the General Annexes to the Horizon 2020 Work Programme 2018-2020 shall apply mutatis mutandis for 
+the actions covered by this Call for proposals with the following additions:  
+Award criteria and scores: 
+Experts will evaluate the proposals on the basis of criteria of ‘Excellence’, ‘Impact’ and ‘Quality and efficiency of the 
+implementation’ according to the submission stage and type of action, as follows:  
+  
+ 
+Call Text – IMI2 21st Call for proposals  
+Page | 15  
+Type of 
+action 
+Excellence 
+The following aspects 
+will be taken into 
+account, to the extent 
+that the proposed work 
+corresponds to the topic 
+description in the Call 
+for proposals and 
+referred to in the IMI2 JU 
+annual work plan: 
+ 
+Impact 
+The following aspects will be 
+taken into account: 
+Quality and efficiency of the 
+implementation 
+The following aspects will 
+be taken into account: 
+RIA  
+Single 
+stage 
+evaluation 
+ 
+ 
+Level to which all the 
+objectives of the Call 
+topic text are 
+addressed; 
+ 
+ 
+Soundness of the 
+concept and credibility 
+of the proposed 
+methodology; 
+ 
+ 
+Extent that the 
+proposed work is 
+beyond the state of 
+the art and 
+demonstrates 
+innovation potential; 
+ 
+ 
+Appropriate 
+consideration of 
+interdisciplinary 
+approaches and use 
+of stakeholder 
+knowledge. 
+ 
+Demonstration of how the 
+outputs of the project will 
+contribute to each of the 
+expected impacts 
+mentioned in the relevant 
+Call topic text; 
+ 
+ 
+Demonstration of how the 
+project plans to leverage 
+the public-private 
+partnership model to 
+achieve greater impact on 
+innovation within R&D, 
+regulatory, clinical and 
+healthcare practices, as 
+relevant; 
+ 
+ 
+Impacts on 
+competitiveness and 
+growth of companies 
+including SMEs; 
+ 
+ 
+Quality and effectiveness 
+of the proposed measures 
+to:  
+ 
+Disseminate, exploit 
+and sustain the project 
+results;  
+ 
+Manage research 
+data; 
+ 
+Communicate the 
+project activities to 
+relevant target 
+audiences. 
+ 
+Quality and effectiveness 
+of the work plan, including 
+extent to which the 
+resources assigned to 
+work packages are in line 
+with their objectives and 
+deliverables; 
+ 
+ 
+Appropriateness of the 
+management structures 
+and procedures, including 
+management of risk and 
+innovation; 
+ 
+ 
+Appropriateness of the 
+allocation of tasks, 
+ensuring that all 
+participants have a valid 
+role and adequate 
+resources in the project to 
+fulfil that role; 
+ 
+ 
+Complementarity of the 
+participants and extent to 
+which the consortium as 
+whole brings together the 
+necessary expertise;  
+ 
+ 
+Clearly defined 
+contribution and effective 
+integration of the industrial 
+partners to the project. 
+ 
+These evaluation criteria include scores and thresholds. Evaluation scores will be awarded for the criteria, and not 
+for the different aspects listed in the above table. For all evaluated proposals, each criterion will be scored out of 5. 
+Half marks may be given.  
+For the evaluation of proposals under a single-stage submission procedure: 
+ 
+the threshold for individual criteria will be 4; 
+ 
+the overall threshold, applying to the sum of the three individual scores, will be 12. 
+  
+ 
+Call Text – IMI2 21st Call for proposals  
+Page | 16  
+Following each evaluation stage, applicants will receive an ESR (Evaluation Summary Report) regarding the 
+respective evaluated proposal. 
+The full evaluation procedure is described in the IMI2 JU Manual for submission, evaluation and grant award in line 
+with the Horizon 2020 Rules for Participation.19 
+Under the single-stage evaluation process, evaluated proposals will be ranked in one single list. The best-ranked 
+proposals, in the framework of the available budget, will be invited to prepare a Grant Agreement. 
+Under the IMI2 JU Call 21, IMI2 JU will not organise hearings.  
+The IMI2 JU evaluation procedure is confidential. The members of the applicant consortia shall avoid taking any 
+actions that could jeopardise confidentiality.  
+INDICATIVE TIMETABLE FOR EVALUATION AND GRANT AGREEMENT 
+ 
+ 
+Information on the 
+outcome of the 
+evaluation 
+(single stage, or first 
+stage of a two-stages) 
+Information on the 
+outcome of the 
+evaluation 
+(second stage of a two 
+stages) 
+Indicative date for the 
+signing of grant agreement 
+Single-
+stage  
+Maximum 5 months from 
+the submission deadline at 
+the single stage. 
+N/A 
+Maximum 8 months from the 
+submission deadline. 
+ 
+BUDGET FLEXIBILITY 
+Part I of the General Annexes to the Horizon 2020 Work Programme 2018-2020 shall apply mutatis mutandis for 
+the actions covered by this Call for proposals. 
+ACTIONS INVOLVING FINANCIAL SUPPORT TO THIRD PARTIES 
+Part K of the General Annexes to the Horizon 2020 Work Programme 2018-2020 shall apply mutatis mutandis for 
+the actions selected under topics covered by this Call for proposals. 
+CONDITIONS RELATED TO OPEN ACCESS TO RESEARCH DATA 
+Part L of the General Annexes to the Horizon 2020 Work Programme 2018-2020 shall apply mutatis mutandis for 
+the actions covered by this Call for proposals. 
+However, should a project ‘opt-out’ of these provisions, a Data Management Plan must still be prepared. A 
+template for the Data Management Plan is available on the IMI2 JU website. 
+IMI2 JU Call 21 - Public Health Emergency- Availability of research data 
+Beneficiaries in grants awarded under IMI2 JU Call 21 must make available their research data, at the latest within 
+30 days after it has been generated, through open access or, if agreed by the IMI2 JU or the European 
+Commission, by giving access rights to those third parties that need the research data to address the Public Health 
+                                                      
+19 https://www.imi.europa.eu/sites/default/files/uploads/documents/apply-for-funding/call-
+documents/imi2/IMI2_ManualForSubmission_v1.7_November2018.pdf 
+  
+ 
+Call Text – IMI2 21st Call for proposals  
+Page | 17  
+Emergency. Therefore, the relevant option of Article 29.3 (option 1c) of the IMI2 JU Model Grant Agreement20 will 
+apply. It is expected that quality-controlled data are shared in accordance with the FAIR principles. The use of 
+harmonised protocols in collaboration with other actors is recommended for this purpose. 
+SUBMISSION TOOL 
+Proposals in response to a topic of the IMI2 JU Call for proposals must be submitted online, before the call 
+deadline, by the coordinator via the Submission Service section of the relevant topic page available under Funding 
+& tender opportunities - Single Electronic Data Interchange Area (SEDIA). 
+No other means of submission will be accepted. 
+OTHERS 
+For proposals including clinical trials/studies/investigations, a specific template to help applicants to provide 
+essential information on clinical studies in a standardised format is available under:  
+https://ec.europa.eu/research/participants/data/ref/h2020/other/legal/templ/h2020_tmpl-clinical-studies_2018-
+2020_en.pdf.  
+In a single stage evaluation procedure involving clinical studies, the use of this template is mandatory in order to 
+provide experts with the necessary information to evaluate the proposals. The template may be submitted as a 
+separate document. 
+Ethical issues should be duly addressed in each submitted proposal to ensure that the proposed activities comply 
+with ethical principles and relevant national, Union and international legislation. Any proposal that contravenes 
+ethical principles or which does not fulfil the conditions set out in the H2020 Rules for Participation, or in the IMI2 
+JU Call for proposals shall not be selected. 21 
+In order to ensure excellence in data and knowledge management consortia will be requested to disseminate 
+scientific publications on the basis of open access22 (see ‘Guidelines on Open Access to Scientific Publications and 
+Research Data in Horizon 2020’). 
+To ensure actions are implemented properly, at the time of the signature of the grant agreement, each selected 
+consortia must have agreed upon a consortium agreement, i.e. the internal arrangements regarding their operation 
+and co-ordination. 
+Single-stage proposals must contain a draft plan for the exploitation and dissemination of the results. 
+Applicants intending to submit a proposal in response to the IMI2 JU Calls should also read the topic text, the IMI2 
+JU Manual for submission, evaluation and grant award, and other relevant documents23 (e.g. IMI2 JU model Grant 
+Agreement). 
+ 
+ 
+                                                      
+20 https://ec.europa.eu/research/participants/data/ref/h2020/other/mga/jtis/h2020-mga-imi_en.pdf  
+21 Article 19 of Horizon 2020 Framework Programme and Articles 13 and 14 of the Horizon 2020 Rules for Participation. 
+22 Article 43.2 of Regulation (EU) No 1290/2013 of the European Parliament and of the Council laying down the rules for participation and 
+dissemination in "Horizon 2020 - the Framework Programme for Research and Innovation (2014-2020)" and repealing Regulation (EC) No 
+1906/2006 
+23 http://www.imi.europa.eu/apply-funding/call-documents/imi2-call-documents 
+  
+ 
+Call Text – IMI2 21st Call for proposals  
+Page | 18  
+List of Acronyms 
+Acronym 
+Meaning 
+CoV 
+Coronaviruses 
+COVID-19 
+Corona Virus Disease 2019 
+CSA 
+Research and Innovation Action 
+DMP 
+Data Management Plan 
+ECDC 
+European Centre for Disease Prevention and Control 
+EFPIA 
+European Federation of Pharmaceutical Industries and Associations 
+EMA 
+European Medicines Agency 
+EMBL 
+European Molecular Biology Laboratory 
+IMI2 JU 
+Innovative Medicines Initiative 2 Joint Undertaking 
+MERS-CoV 
+Middle East respiratory syndrome coronavirus 
+REA 
+Research and Innovation Action 
+SARS-CoV 
+Severe acute respiratory syndrome –associated coronavirus disease 
+SARS-CoV-2 
+Severe acute respiratory syndrome coronavirus 2 
+SMEs 
+Small and medium-sized enterprises 
+SRA 
+Strategic Researvh Agenda 
+WHO 
+World Health Organisation 
+WP 
+Work Package 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+IMI2 JU Call 21 – Development of therapeutics and diagnostics 
+combatting coronavirus infections  
+Questions and answers  
+The Call text provides the overall principles, expectations and requirements to be followed by applicants in the 
+preparation of their proposals and by the panel of experts in the evaluation of the submitted proposals. This 
+Q&A document aims to explain some aspects in more detail, but is by no means intended to be exhaustive, 
+nor should it differ from anything stated in the Call text.  
+Version 
+Date 
+Comments 
+1 
+Tuesday, 3rd of March 2020 
+Questions numbered 1 to 15 
+2 
+Monday, 9th of March 2020 
+Additional questions numbered 
+16 to 21 
+3 
+Monday, 16th of March, 2020 
+Additional questions numbered 
+22 to 27 
+4 
+Monday, 23rd of March, 2020 
+Additional questions numbered 
+28 to 34 
+Additional 
+clarifications 
+and 
+information for Q&As (19, 25, 
+and 26) already included in 
+previous 
+version 
+of 
+this 
+document, are presented in 
+green and underlined. 
+5 
+Friday, 27th of March, 2020 
+Additional questions marked 35 
+to 45 
+6 
+Tuesday, 31st of March, 2020 
+Clarifications on Question 45 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  
+  
+  
+2  
+  
+ 
+ 
+Table of Contents 
+Questions and answers.......................................................................................................................................... 1 
+Part A: Questions and answers drafted by IMI2 JU .......................................................................................... 5 
+1. 
+What is the current Call for proposals about? ................................................................................................ 5 
+2. 
+What is the total budget of the IMI2 JU Call 21? ............................................................................................ 5 
+3. 
+All proposals submitted under this Call and evaluated above the threshold will be ranked in one single list. 
+Proposals will be invited in order of ranking to prepare a Grant Agreement within the limits of the available 
+overall budget. What are the reference documents for this Call for proposals? ............................................ 5 
+4. 
+What is the single-stage process? ................................................................................................................. 6 
+5. 
+What are the admissibility criteria for the proposals? .................................................................................... 6 
+6. 
+What are the eligibility criteria for the proposals? .......................................................................................... 6 
+7. 
+Do I need a contributing partner, i.e. providing an in-kind contribution, in my consortium? Can beneficiaries 
+eligible to receive funding instead reduce the funding requested and contribute to the total project cost 
+themselves? ................................................................................................................................................... 6 
+8. 
+What type of contribution could contributing partners bring to the project? ................................................... 7 
+9. 
+What is an IMI2 JU Associated Partner and what organisations can become Associated Partners? Can the 
+process of becoming an IMI2 JU Associated Partner be concluded AFTER submission of a proposal, e.g. 
+only once evaluated positively? ..................................................................................................................... 8 
+10. Is my organisation eligible to receive funding? .............................................................................................. 8 
+11. Is cooperation with other organisations or on-going projects envisaged? ..................................................... 9 
+12. Are there any special provisions regarding the Intellectual Property (IP) regime under the IMI2 JU Call 21?
+........................................................................................................................................................................ 9 
+13. Are there any conditions on data management and dissemination within the IMI2 JU Call 21? ................. 10 
+14. Which rules apply to the UK legal entities joining a proposal under the IMI2 JU Call 21? .......................... 10 
+Part B: Questions received by applicants and answered by IMI2 JU ........................................................... 11 
+15. Is the development of a COVID 19 test and POC system eligible for an IMI grant application? ................. 11 
+16. Is there a submission template for Call 21? ................................................................................................. 11 
+17. Are US universities eligible for Call 21? ....................................................................................................... 11 
+18. Is a consortium made of research institutions, SMEs and medical centres belonging to three different EU 
+member states eligible? ............................................................................................................................... 12 
+19. Who is expected to drive the process of assembling a consortium and an application for the single-stage 
+call? Will the reference person be a Coordinator, academic or SME, let’s say in the “public” side, or a 
+project Leader in the EFPIA/private domain? An entity willing to participate as a beneficiary, to whom has 
+to address its contribution offer? One in the public domain possibly acting as a coordinator, or and EFPIA 
+partner? ........................................................................................................................................................ 12 
+20. Is there a fixed duration for Call 21 projects? .............................................................................................. 12 
+   
+  
+  
+  
+3  
+  
+21. Is there a functional mailbox for the applicants to contact companies interested in joining an applicant 
+consortium? .................................................................................................................................................. 12 
+22. How many proposals will be funded? .......................................................................................................... 13 
+23. How many companies can be part of a consortium? ................................................................................... 13 
+24. We are preparing a consortium for the coronavirus IMI call, and are wondering about the budget, could 
+you give us any range of budget we should aim at? .................................................................................... 13 
+25. Should I contact EFPIA during the drafting phase of the proposal? ............................................................ 13 
+26. What is the required TRL (Technology Readiness Level) to enter the proposal? Is there a start TRL level 
+and/or a level that needs to be reached during the project? ........................................................................ 14 
+27. Are private companies financed at 100% of the total cost of the project? ................................................... 14 
+28. Is it up to the consortium to decide how to split the grant between partners or are there any limitations? . 14 
+29. Are non-EU in-kind-contributions allowed in Call 21? If yes, is there a maximum per project? Will it affect 
+negatively the evaluation score if the project includes a high number of non-EU in-kind-contributions? .... 15 
+30. Do you have a suggestion on how to join to other forming consortia? ........................................................ 15 
+31. Is it possible to participate to more than one consortia? .............................................................................. 15 
+32. Are clinical trials a pre-requisite for Call 21? ................................................................................................ 15 
+33. My proposal covers the development of a potential therapeutic against the novel coronavirus disease 
+(COVID-19). Do I need to contact the European Medicines Agency (EMA)? ............................................. 16 
+34. Can management companies be involved in IMI projects? ......................................................................... 16 
+35. If Call 21 requires open access and data sharing within 30 days, how do we ensure IP protection as we 
+likely will not be able to file patents so quickly? ........................................................................................... 17 
+36. Can an institution participate in more than one consortia? .......................................................................... 19 
+37. As I understand after reading all the information, we need to submit only the application through the 
+Funding and Tenders portal with no additional documents. Do we need to provide at this stage (with the 
+proposal) a collaboration agreement?.......................................................................................................... 19 
+38. I am a bit unsure which template to use for this application as it is single stage and involves a clinical trial 
+in our case. Could you please advise? ........................................................................................................ 19 
+39. I am working on a proposal for IMI-2 call 21, but in order to make my project more complete I would like to 
+perform some regulatory preclinical test. Could you please be so kind to let me know if this contribution 
+could be performed by sub-contractors, and if yes what is the maximum admissible cost for a 
+subcontractor? .............................................................................................................................................. 20 
+40. I have read that the minimum requirement is three partners from 3 different European countries. How are 
+the requirements in regards to numbers of partners from the same country, is there a limit? .................... 20 
+41. Data sharing versus intellectual property (IP) rights protection Within publicized documentation it is stated 
+that beneficiaries in grants awarded under this topic must make available their research data, at the latest 
+within 30 days after it has been generated. What kind of data the beneficiary is obligate to publicize and is 
+it up to beneficiary decision which data cannot be shared due to IP rights protection?  How, with the 
+abovementioned obligation, we can keep our know-how within the company? .......................................... 20 
+   
+  
+  
+  
+4  
+  
+42. The applicants are advised to have a contributing partner, i.e. an EFPIA company or affiliated entity, or an 
+IMI2 JU Associate Partner contributing in-kind as part of consortium. What (estimated percentage of 
+planned budget) in-kind contribution should applicants indicate in the project? .......................................... 22 
+43. I was wondering about the number of winning consortia (and their average expected budgets) in order to 
+put together a consortium.  It's not clear from the call whether there will be one or several winning 
+proposals and whether the 45m euros will be granted to one or several consortia. This is will be critical in 
+deciding whether to partner with a few or many partners. ........................................................................... 22 
+44. Can commercial service providers in diagnostics also participate? ............................................................. 23 
+45. In the eForms the row of Partner 1 (Coordinator) is different from the other rows:  - in the column "I" the 
+Reimbursement rate is "0" and it is not fillable - the overheads are not calculated and so this cost remains 
+"0" - the total of the costs that I enter (Personnel and Other direct costs) automatically appears in the 
+columns reserved for EFPIA and associated partners................................................................................. 23 
+ 
+ 
+ 
+ 
+   
+  
+  
+  
+5  
+  
+Part A: Questions and answers drafted by IMI2 JU 
+1. 
+What is the current Call for proposals about?  
+Considering the public health and humanitarian implications of the COVID-19 outbreak, there is a need for all 
+stakeholders across the public and private sectors to collaborate in global efforts to care for those affected, 
+contain the outbreak, and develop the much-needed resources to prepare for the future. This Call presents an 
+opportunity offered by the Innovative Medicines Initiative 2 Joint Undertaking (IMI2 JU) to support 
+collaborations of private companies, academia, international organisations, public bodies etc. to accelerate the 
+development of therapeutics and diagnostics to tackle the current and future outbreaks.  
+In order to avoid duplication with other initiatives and due to several recent announcements regarding novel 
+coronavirus vaccine development, IMI2 JU has decided to exclude vaccine development from the scope of this 
+Call.  
+2. 
+What is the total budget of the IMI2 JU Call 21?  
+Applicant consortia will be competing for the maximum total financial contribution from IMI2 JU of EUR 
+45 000 000.  
+Within this budgetary envelope, each proposal must include a sound justification of the requested IMI2 JU 
+financial contribution. This should take into account the proposed in-kind contributions from contributing 
+partners that will complement the IMI2 JU financial contribution, i.e. EFPIA1 constituents or affiliated entities 
+and/or, when relevant, IMI2 Associated Partners (see question 9 on the IM2 JU Associated Partners).  
+3. 
+All proposals submitted under this Call and evaluated above the 
+threshold will be ranked in one single list. Proposals will be invited in 
+order of ranking to prepare a Grant Agreement within the limits of the 
+available overall budget. What are the reference documents for this Call 
+for proposals?  
+Applicants are encouraged to study in detail the Call text as well as the following documents:  
+ 
+H2020 Rules for Participation2  
+ 
+Parts A, B and C of the General Annexes to the H2020 Work Programme 2018-20203 
+ 
+IMI2 JU Commission Delegated Regulation4  
+ 
+IMI2 JU Manual for submission, evaluation, and grant award5  
+ 
+IMI2 JU Research and Innovation Actions Evaluation criteria5  
+ 
+IMI2 JU Research and Innovation Actions (RIA/IA) Proposal template6  
+For further questions, applicants may contact IMI2 JU at applicants@imi.europa.eu  
+                                                      
+1 EFPIA is the European Federation of Pharmaceutical Industries and Associations www.efpia.eu   
+2 http://ec.europa.eu/research/participants/data/ref/h2020/legal_basis/rules_participation/h2020-rules-participation_en.pdf   
+3 https://ec.europa.eu/research/participants/data/ref/h2020/other/wp/2018-2020/annexes/h2020-wp1820-annex-ga_en.pdf  
+4 http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:JOL_2014_174_R_0003  
+5 https://www.imi.europa.eu/sites/default/files/uploads/documents/reference-documents/IMI2_EvaluationForm_RIA-IA_v1.5_EN.pdf   
+6 https://www.imi.europa.eu/sites/default/files/uploads/documents/apply-for-funding/call-documents/imi2/IMI2_ProposalTemplate_RIA- 
+IA_SingleStage_Stage2of2_v1.5_Word.docx   
+   
+  
+  
+  
+6  
+  
+4. 
+What is the single-stage process?  
+The single-stage submission scheme requires that applicants submit a proposal (max. 70 pages – see IMI2 
+RIA/IA Proposal Template) for the one and only evaluation stage. Proposals will be submitted by consortia 
+composed of applicants requesting IMI2 JU funding and of contributing partners.   
+The proposals will be evaluated by independent experts, and the results of this evaluation will be 
+communicated to the consortia. Successful consortia will be invited to prepare a Grant Agreement following the 
+required modalities.  
+Applicants should be aware that under the single-stage submission procedure the threshold for the individual 
+criteria (excellence, impact and quality and efficiency of the implementation) is 4 and the overall threshold is 
+12. It is important that applicant consortia read the evaluation criteria carefully.  
+For this Call, IMI2 JU will not organise hearings with applicants.  
+5. 
+What are the admissibility criteria for the proposals?  
+To be considered admissible, a proposal must comply with the admissibility criteria set out in part B of the 
+General Annexes of the H2020 Work Programme 2018-20207.  
+Incomplete proposals may be considered inadmissible. In case of an 'obvious clerical error' (e.g. omission to 
+submit evidence or information on a non-substantial element of the proposal), IMI2 JU may first ask applicants 
+to provide the missing information or supporting documents.  
+6. 
+What are the eligibility criteria for the proposals?  
+To be considered eligible, a proposal must comply with the eligibility criteria set out in part C of the General 
+Annexes of the H2020 Work Programme 2018-2020.  
+In all cases: a minimum of three independent legal entities established in different Member States or countries 
+associated8 to H2020.  
+7. 
+Do I need a contributing partner, i.e. providing an in-kind 
+contribution, in my consortium? Can beneficiaries eligible to receive 
+funding instead reduce the funding requested and contribute to the total 
+project cost themselves?  
+It is not an eligibility criterion to have a contributing partner, i.e. an EFPIA company or affiliated entity, or an 
+IMI2 JU Associate Partner contributing in-kind as part of your consortium.   
+However, a key element of the expected impact of this Call for proposals is that applicants must maximise the 
+value of the IMI2 JU public-private partnership by harnessing support from different stakeholders. This includes 
+the mobilisation of resources through the inclusion of contributing partners (e.g. an EFPIA company or 
+affiliated entity, or an IMI2 JU Associated Partner), providing contributions (in kind and/or financial), to reflect 
+the public-private character of IMI2 JU actions.  
+In that respect, it is important to understand that under one of the evaluation criteria (published at: 
+http://www.imi.europa.eu/content/overview-imis-calls-how-participate), the expected impact of your 
+proposal will be assessed based on what is listed under the section “Expected impact” in the Call text.  
+                                                      
+7 See footnote 2  
+8 https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/3cpart/h2020-hi-list-ac_en.pdf   
+   
+  
+  
+  
+7  
+  
+This means that your proposal will only score highly under the evaluation criterion ‘Impact’ if the experts 
+consider that it meets those expectations. Please also note that the threshold for the evaluation criterion 
+‘Impact’ is 4 in a single-stage Call process. It is therefore highly unlikely if not impossible, that your proposal 
+will score above threshold if no contributing partner under the IMI2 JU scheme of public-private consortia is 
+included.  
+The intention is not to reduce the funding available to public partners by revisiting the applicable funding rate 
+as established for this Call (100% of the total eligible costs), but to mobilise investments by other stakeholders, 
+e.g. private investments, as part of a public-private partnership (PPP).  
+8. 
+What type of contribution could contributing partners bring to the 
+project?  
+Contributing partners are usually industry companies that are constituent entities of EFPIA or their affiliated 
+entities and/or IMI2 JU Associated Partners which contribute with either in kind or financial contributions. The 
+in-kind contribution consists of costs incurred for project implementation which are not reimbursed by IMI2 JU. 
+This will typically be human resources (which may be determined in "full-time equivalents" (FTEs)), 
+consumables, work outsourced to contract research organisations (CROs) or other service providers, etc. 
+Some in-kind resources can originate from non-EU or associated countries (i.e. in practice: work can be carried 
+out in these countries).  
+The in-kind contribution that contributing partners could bring may include the following (this list is not 
+exhaustive):  
+Scientific knowledge; drug discovery and development expertise; assay development activities; preclinical 
+activities (in vitro/in vivo, toxicology); chemistry, manufacturing and controls (CMC) activities; identification of 
+new molecular entities (incl. medicinal chemistry); sample collection; development of diagnostics; clinical trials 
+(biostatistics, data-management, clinical supplies, regulatory support).  
+In that respect, a number of companies have already expressed their interest to join an applicant consortium 
+(this list is not exhaustive):  
+ 
+Abbvie  
+ 
+Astellas  
+ 
+Bayer  
+ 
+Boehringer Ingelheim  
+ 
+E-Pharma  
+ 
+Enyo Pharma  
+ 
+IDbyDNA  
+ 
+Janssen  
+ 
+Merck  
+ 
+Novartis  
+ 
+Pfizer  
+ 
+Special Product's Line S.p.A.  
+ 
+Takeda  
+  
+Potential applicants are invited to interact with the above mentioned company(ies), using the general mailbox 
+set up by EFPIA: covid19@efpia.eu.  
+Any other companies interested in contributing with in-kind should also contact EFPIA, using the same 
+mailbox.  
+Note that no confidential or sensitive information should be included in the messages sent to this email 
+address.  
+   
+  
+  
+  
+8  
+  
+As from the launch of the IMI2 JU Call 21, potential applicants are also encouraged to upload their contact 
+details on the SEDIA portal.  
+9. 
+What is an IMI2 JU Associated Partner and what organisations can 
+become Associated Partners? Can the process of becoming an IMI2 JU 
+Associated Partner be concluded AFTER submission of a proposal, e.g. 
+only once evaluated positively?  
+Under the IMI2 JU programme, organisations other than EFPIA companies can become IMI2 JU Associated  
+Partners. Like EFPIA partners in IMI2 JU projects, Associated Partners do not receive any funding from IMI2 
+JU, but contribute to the projects, mainly through in-kind contributions (such as their experts’ time, access to 
+resources / equipment). In addition, normally the resources they put into a project are matched by IMI2 JU, 
+making this a good way of leveraging precious resources.  
+Examples of organisations that could become IMI2 JU Associated Partners include philanthropic organisations 
+and charities that run their own health research programmes, as well as organisations working in sectors 
+related to healthcare such as ICT, imaging, diagnostics, animal health, etc.  
+So far, among others, the Bill and Melinda Gates Foundation and Wellcome have become Associated 
+Partners9.  
+Organisations wishing to become IMI2 JU Associated Partners must apply to the IMI2 JU Governing Board 
+with a letter of endorsement setting out their acceptance of the IMI2 JU Statutes as well as the details of their 
+proposed contribution to IMI2 JU (e.g. in-kind/cash contributions, activities, duration, etc.).   
+With reference to the IMI2 JU Call 21, proposals are expected to exploit support from different stakeholders, 
+including the mobilisation of funds through the inclusion of contributing partners under the IMI scheme of 
+public-private consortia (e.g. an EFPIA company or affiliated entity, or an IMI2 JU Associated Partner).  
+In that respect, a contributing partner in a proposal selected for funding under the present Call which is not an 
+affiliate or a constituent entity of EFPIA, or an IMI2 JU Associated Partner at the time of the proposal 
+submission, is invited to become an affiliate or a constituent entity of EFPIA, or an IMI2 JU Associated Partner 
+in accordance with the IMI2 JU Statutes prior to the signature of the relevant Grant Agreement.  
+In practical terms, contributing partners may decide to apply for such affiliations when and if the proposal 
+where they are participating is selected for funding.  
+Where a contributing partner becomes an affiliate or a constituent entity of EFPIA or an IMI2 JU Associated 
+Partners, it will have to report annually its contribution to the project in accordance to the IMI2 JU Statutes10.  
+10. 
+Is my organisation eligible to receive funding?  
+Universities and other public research institutions, small- and medium-sized enterprises (SMEs), other 
+companies having an annual turnover up to EUR 500 million 11, hospitals, healthcare organisations, regulatory 
+                                                      
+9 https://www.imi.europa.eu/get-involved/associated-partners  
+10 Please consult the IMI2 JU guidelines for reporting in kind and financial contributions by Members other than the Union and Associated  
+Partners: https://www.imi.europa.eu/sites/default/files/uploads/documents/apply-for-funding/call- 
+documents/imi2/IMI2_JU_Guidelines_for_reporting_in_kind_and_financial_contributions_by_%20Members_other_%20than_the_%20Uni 
+on_%20and_%20Associated_Partners_0.pdf   
+11 Independent legal entities having an annual turnover of EUR 500 million or less, not being affiliated entities of companies with an 
+annual turnover of more than 500 million; the definition of ‘affiliated entities’ within the meaning of Article 2(1)(2) of Regulation (EU) No 
+1290/2013 shall apply mutatis mutandis.  
+   
+  
+  
+  
+9  
+  
+agencies, public health authorities, no-profit patients organisations, and others no profit organisations are 
+eligible to receive IMI2 JU financial contribution, in accordance with the applicable rules.   
+Specifically, legal entities established in a Member State or country associated to H2020 are eligible to receive 
+IMI2 JU financial contribution.  
+Under exceptional circumstances, legal entities from countries other than those set out above (i.e. third 
+countries), such as the People’s Republic of China might also be eligible for IMI2 JU funding should their 
+participation be evaluated as essential for the realisation of the project’s objectives.   
+Proposals should justify the need for IMI2 JU funding for organisations in third countries.   
+11. 
+Is cooperation with other organisations or on-going projects 
+envisaged?  
+Considering the public health and humanitarian implications, synergies and complementarities with ongoing 
+efforts in the COVID-19 field are expected to maximise impact.  
+Therefore synergies and complementarities are expected with relevant national, European and non-European 
+initiatives (including suitable biological and medical sciences research infrastructures5) in order to incorporate 
+past achievements, available data and lessons learnt where possible, thus avoiding unnecessary overlap, and 
+duplication of efforts and funding. In particular, applicants are expected to collaborate with any relevant project 
+or initiative targeting the current COVID-19 outbreak supported by the European Commission, CEPI, 
+Wellcome, BARDA, The Bill and Melinda Gates Foundation and others.  
+Where relevant, applicants might consider the advantages of the use of the European supercomputing centres 
+(PRACE network) to accelerate the process of diagnosis and therapeutics research, using the exiting high-end 
+computing, data and simulation resources.  
+Proposals covering investigations of therapeutic should consider engaging with the European Medicines 
+Agency (EMA) which has activated its plan for emerging health threats. The latter includes the possibility for 
+fast-tracked Scientific Advice [3].   
+The consortia selected through this Call are expected to cooperate with each other and share their learnings 
+for the purpose of achieving the objectives of their respective actions, and to maximise their impact. Therefore, 
+all grants awarded under this Call will be complementary grants. Consequently, the respective options under 
+Article 2, Article 31.6 and Article 41.4 of the IMI2 JU Model Grant Agreement12 will apply.  
+Accordingly, the relevant consortia will conclude collaboration agreement(s) to ensure the exchange of 
+relevant information, exploration of synergies, and collaboration where appropriate.   
+12. 
+Are there any special provisions regarding the Intellectual Property 
+(IP) regime under the IMI2 JU Call 21?  
+Where relevant under this Call, applicant consortia are expected to bring into the project assets which are 
+owned by one of the beneficiaries participating in the proposal, for use in the treatment of patients diagnosed 
+with COVID-19. These assets could include approved therapies or compounds in development or for 
+repurposing. Clinical results that are generated from the assets tested will be owned by the generating 
+beneficiary(ies). However, these results may be improvements (or directly related) to the assets.   
+The consortium should recognise the requirements of Article 26.2 of the IMI2 JU Model Grant Agreement with 
+respect to jointly generated results. All beneficiaries should be aware that when negotiating the consortium 
+agreement each beneficiary may propose all possible safeguarding provisions with respect to the rights to 
+results generated from their assets. For instance in the consortium agreement, the relevant beneficiaries may 
+                                                      
+12 See:    https://www.imi.europa.eu/sites/default/files/uploads/documents/reference-documents/h2020-mga-imi_en_v5.pdf  
+   
+  
+  
+  
+10  
+  
+agree that, when requested by a beneficiary (e.g. an EFPIA partner) that is the owner of a pre-existing asset 
+(i.e. background of the project), the ownership of results (including clinical results) generated by any other 
+beneficiary, relating to the pre-existing background – when and only where not jointly owned according to 
+Article 26.2 of the IMI2 JU Model Grant Agreement – will be transferred under the terms of the consortium 
+agreement to the owner of the pre-existing asset. Such contractual arrangements may state that, e.g. such a 
+transfer would be at no cost, if so requested by the owner of the pre-existing asset.  
+13. 
+Are there any conditions on data management and dissemination 
+within the IMI2 JU Call 21?  
+In the context of a Public Health Emergency, grant beneficiaries will be subject to additional requirements with 
+respect to the timely sharing of data. Beneficiaries in grants awarded under this Call for proposals must make 
+available their research data, at the latest within 30 days after it has been generated, through open access or, 
+if agreed by IMI2 JU or the European Commission, by giving access rights to those third parties that need the 
+research data to address the public health emergency. Therefore, the relevant option of Article 29.3of the IMI2 
+JU model Grant Agreement will be applied.  
+Applicants should be aware that data must be deposited in a relevant established international data platform, 
+such as those of the WHO, or the European Molecular Biology Laboratory (EMBL).   
+In addition, applicants should be aware that beneficiaries in grants awarded in this Call are expected to apply 
+the principles established in the Statement on Data Sharing in Public Health Emergency  
+14. 
+Which rules apply to the UK legal entities joining a proposal under 
+the IMI2 JU Call 21?  
+The Withdrawal Agreement as agreed between the European Union and the United Kingdom entered into 
+force on 1 February 2020. In overall terms, on the basis of the Withdrawal Agreement, UK-based legal entities 
+will continue to be fully eligible to participate and receive funding in the current 2014-2020 EU programmes, 
+including Horizon 2020 and IMI2 JU, as if the UK were a Member State until the closure of these programmes, 
+unless security considerations apply. This means that UK beneficiaries can continue – without interruption – to 
+receive grants awarded under the current and previous multiannual financial frameworks (MFFs) until their end 
+dates, even if these are after 2020. Accordingly, UK-based legal entities will be fully eligible to apply, 
+participate and receive JU funding under the IMI2 JU Call 21.  
+ 
+ 
+ 
+   
+  
+  
+  
+11  
+  
+Part B: Questions received by applicants and answered by IMI2 
+JU 
+15. 
+Is the development of a COVID 19 test and POC system eligible for 
+an IMI grant application? 
+Please refer to the Scope section (page 6) of the Call text, where diagnostics is specified: 
+ 
+Development of diagnostics, ensuring rapid evaluation of candidates based on existing technologies. 
+Diagnostic tests will be essential for clinical trials of new or repurposed drugs, to help stratify patients and 
+assess treatment efficiency (surrogate endpoint such as viral clearance). 
+ 
+Development of fast and reliable tools that go beyond the state of the art for detection of COVID-19 
+carriers and symptomatic individuals suspected of COVID-19 infection. These are essential and of utmost 
+importance to manage the outbreak, isolate patients at risk, and treat people accordingly. It is crucial to 
+differentiate and identify respiratory pathogens with similar clinical symptoms (e.g. flu, respiratory syncytial 
+virus, other viruses or bacteria) and/or detect emerging pathogens such as SARS-CoV-2. This can be achieved 
+through point-of-care (POC) testing or centralised testing. 
+16. 
+Is there a submission template for Call 21? 
+This is the template for Call 21, which can be downloaded from the Call documents section on IMI’s website. 
+17. 
+Are US universities eligible for Call 21? 
+As the US is a ‘Third Country’, a university from the US is eligible to participate in IMI projects. This 
+participation however is separate from its eligibility for funding from IMI (see below). If participation is planned, 
+the US participant should satisfy itself that it will be able to sign and abide by the provisions of the IMI2 Grant 
+Agreement (link below) and the project consortium agreement (which will be prepared by the applicant 
+consortium themselves). 
+US University eligibility for funding: 
+The conditions of Call 21 specify that participants established in a third country are eligible to take part in IMI 
+actions but are not automatically eligible for funding. They may exceptionally receive funding from the IMI2 JU 
+provided that their participation is deemed ‘essential’ by the IMI2 JU to carry out the action.  
+This essentiality should be of such a character that the given IMI2 JU project would be unable to achieve its 
+objectives without the inclusion of that entity, e.g. a similar expertise is not available within the EU or H2020 
+associated countries. 
+Thus, to be eligible for funding, such entities from third countries must demonstrate that their contribution is 
+essential to the project. Such essentiality can be defined as provision of the following: 
+ 
+outstanding competence/expertise;  
+ 
+access to research infrastructure; 
+ 
+access to particular geographical environments;  
+ 
+access to data. 
+The relevance/essentiality of the above is usually established with the other applicants when an applicant 
+consortium is being formed and confirmed by the independent experts evaluating the submitted proposal.  
+To conclude, in order for a third country legal entity to be funded in the IMI2 JU context, it has to fulfil the 
+conditions for funding applying to organisations from EU and H2020 associated countries, as defined in Article 
+1 of Regulation 622/2014. 
+   
+  
+  
+  
+12  
+  
+18. 
+Is a consortium made of research institutions, SMEs and medical 
+centres belonging to three different EU member states eligible? 
+Regulation (EU) 1290/2013 (‘The H2020 Rules of Participation’ or ‘ROP’) state that the following minimum 
+conditions shall apply: 
+a. 
+At least three legal entities shall participate in an action; 
+b. 
+three legal entities shall each be established in a different Member State or associated country; and 
+c. 
+the three legal entities referred to in point (b) shall be independent of each other within the meaning of 
+Article 8.  
+A 'legal entity' is any natural person, or any legal person created and recognised as such under national law, 
+Union law or international law, which has legal personality and which may, acting in its own name, exercise 
+rights and be subject to obligations (ROP, Article 2: ‘Definitions’)  
+Article 8 of the ROP lays out the conditions under which legal entities can be considered to under the 
+direct/indirect control of another legal entity (this may be of relevance).  
+We would therefore suggest that the prospective participants satisfy the eligibility criteria.  
+19. 
+Who is expected to drive the process of assembling a consortium 
+and an application for the single-stage call? 
+Will the reference person be a Coordinator, academic or SME, let’s say in 
+the “public” side, or a project Leader in the EFPIA/private domain? An 
+entity willing to participate as a beneficiary, to whom has to address its 
+contribution offer? One in the public domain possibly acting as a 
+coordinator, or and EFPIA partner? 
+IMI does not mandate how applicant consortia organise themselves. The task of assembling a consortium (and 
+then preparing an application) is solely in the hands of the applicants themselves. You may find further 
+information under #6, #7 and #11 of this Questions and Answers document, as well on the IMI page on ‘Finding 
+Partners’ useful: 
+https://www.imi.europa.eu/sites/default/files/uploads/documents/apply-for-funding/open-
+calls/Call21_QandA_FINAL.pdfhttps://www.imi.europa.eu/apply-funding/general-overview/finding-partners  
+20. 
+Is there a fixed duration for Call 21 projects? 
+The call text includes no fixed duration for the project, this is left to applicants whereby the duration should 
+accurately reflect the approach set out in the applicant proposal. We would refer you to the topic text (link 
+below), specifically to ‘Indicative duration of the action’ (page 8).  
+https://www.imi.europa.eu/sites/default/files/uploads/documents/apply-for-funding/open-
+calls/IMI2Call%2021_Coronavirus_CallText.pdf 
+21. 
+Is there a functional mailbox for the applicants to contact 
+companies interested in joining an applicant consortium? 
+EFPIA has set up this functional mailbox covid19@efpia.eu in order to facilitate the communication between 
+applicants and the companies interested in joining an applicant consortium. 
+   
+  
+  
+  
+13  
+  
+22. 
+How many proposals will be funded? 
+There is no set number. This will depend upon the funding utilised by the top ranked proposal(s) and outlined in 
+the budget(s). 
+23. 
+How many companies can be part of a consortium? 
+IMI2 JU sets no guidelines for the maximum size of a consortium. However, IMI2 JU requires that a Consortium 
+contains a minimum of three independent legal entities established in different Member States or Associated 
+Countries. 
+24. 
+We are preparing a consortium for the coronavirus IMI call, and are 
+wondering about the budget, could you give us any range of budget we 
+should aim at? 
+"According to the Innovative Medicines Initiative 2 Joint Undertaking (IMI 2 JU)-Call 21 text, the applicant 
+consortia are expected to address at least one of the objectives of the topic. These consortia will be competing 
+for the maximum total financial contribution from IMI2 JU up to EUR 45 000 000.  
+Within this budgetary envelope, each proposal must include a sound justification of the requested IMI2 JU 
+financial contribution. This should take into account the proposed in-kind contributions from contributing 
+partners that will complement the IMI2 JU financial contribution, i.e. EFPIA constituents or affiliated entities 
+and/or, when relevant, IMI2 JU Associated Partners.  
+The indicative budget must be drafted as close as possible to the real estimated costs, taking into account the 
+tasks foreseen and cost efficiency considerations. Please bear in mind that according to the IMI2 JU “Manual 
+for submission, evaluation and grant award”, proposals with an inflated budget are likely to receive a lower 
+score. 
+Award of the grants will be made on the basis of this ranking, subject to the availability of budget. 
+You will find more information under the links below. 
+IMI 2 JU-Call 21: 
+https://www.imi.europa.eu/sites/default/files/IMI2%20Call%2021%20Coronavirus%20-
+%20Call%20text_final.pdf  
+IMI 2 JU-Manual for submission, evaluation and grant award: 
+https://www.imi.europa.eu/sites/default/files/uploads/documents/apply-for-funding/call-
+documents/imi2/IMI2_ManualForSubmission_v1.7_November2018.pdf  
+25. 
+Should I contact EFPIA during the drafting phase of the proposal? 
+Being a single-stage call, the submission scheme requires that a proposal (max. 70 pages) is submitted by a 
+consortium composed of applicants requesting IMI2 JU funding, and contributing partners, e.g. EFPIA 
+companies and/or an IMI2 JU Associated Partner. Therefore, you need to reach out and integrate the 
+contributing partners in your consortium before the submission of your proposal.  
+Please refer to #7 for further information on the involvement of a contributing partner, i.e. an EFPIA company or 
+affiliated entity, or an IMI2 JU Associate Partner contributing in-kind as part of your consortium. 
+ 
+   
+  
+  
+  
+14  
+  
+26. 
+What is the required TRL (Technology Readiness Level) to enter the 
+proposal? Is there a start TRL level and/or a level that needs to be 
+reached during the project? 
+It is up to the applicants to show how they will address at least one of the objectives of the call topic and 
+achieve at least one of the key deliverables listed and therefore demonstrate their capacity as well as the 
+readiness to progress as rapidly as possible to ensure maximum impact. 
+27. 
+Are private companies financed at 100% of the total cost of the 
+project?  
+The IMI2 JU rules and conditions of Call 21 specify that only certain types of legal entities are eligible for IMI JU 
+funding. 
+Concerning private companies based in EU and H2020 associated countries, those defined in Article 1 of 
+Regulation 622/2014 will be eligible to receive funding:  
+(i) 
+micro, small and medium-sized enterprises and other companies with an annual turnover of EUR 500 
+million or less, the latter not being affiliated entities of companies with an annual turnover of more than 500 
+million; the definition of ‘affiliated entities’ within the meaning of Article 2(1)(2) of Regulation (EU) No 1290/2013 
+shall apply mutatis mutandis;  
+(ii) 
+non-profit organisations, including those carrying out research or technological development as one of 
+their main objectives or those that are patient organizations. 
+If eligible for receiving IMI2 JU funding, the direct costs incurred during execution of project tasks will be 
+reimbursed at 100% rate, increased by 25% indirect costs. 
+ 
+28. 
+Is it up to the consortium to decide how to split the grant between 
+partners or are there any limitations? 
+According to the Innovative Medicines Initiative 2 Joint Undertaking (IMI 2 JU) Call 21 text, the applicant 
+consortia are expected to address at least one of the objectives of the topic. These consortia will be competing 
+for the maximum total financial contribution from IMI2 JU up to EUR 45 000 000.  
+Within this budgetary envelope, each proposal must include a sound justification of the requested IMI2 JU 
+financial contribution.  
+This should take into account the proposed in-kind contributions from contributing partners (i.e. EFPIA 
+constituents or affiliated entities and/or, when relevant, IMI2 JU Associated Partners) that will complement the 
+IMI2 JU financial contribution. 
+The proposal estimated budget should be drafted in line with the proposal objectives and activities, and cost 
+efficiency considerations. It should present the estimated costs and requested JU contribution for applicant 
+requesting JU funding, plus the estimated costs for contributing partners not receiving JU funding. The proposal 
+estimated budget has to be broken-down for each member of the consortium, both receiving and not receiving 
+JU funding. This budget will be reviewed, as part of your proposal, by the panel of experts during the 
+evaluation. 
+Please note that the IMI2 JU funding will eventually only reimburse eligible costs incurred in the implementation 
+of the funded project.  
+Thus, the consortium is responsible to decide about the allocation of the grant within its members. 
+Nevertheless, the IMI2 JU will only accept and reimburse eligible costs actually incurred during the project 
+which pertain to project tasks and activities necessary to achieve the project objectives.  
+ 
+   
+  
+  
+  
+15  
+  
+29. 
+Are non-EU in-kind-contributions allowed in Call 21? If yes, is there 
+a maximum per project? Will it affect negatively the evaluation score if 
+the project includes a high number of non-EU in-kind-contributions? 
+Under the IMI2 JU legal framework, in accordance with article 3 of the IMI2 JU Regulation EU 557/2014, the 
+IMI2 JU funding is matching in-kind (i.e. costs incurred by contributing partner for project implementation) and 
+financial contributions which are normally provided by EFPIA constituent or affiliated entities and/or IMI2 JU 
+Associated Partners. 
+In relation to in-kind contribution consisting of costs incurred in third countries, i.e. other than EU Member 
+states or H2020 Associated countries, these must meet specific conditions established under Article 4 of the 
+IMI2 JU Regulation, EU 557/2014: 
+- they must be justified and relevant to the IMI2 JU objectives and 
+- they shall not exceed 30% of the total eligible costs incurred by all contributing partners at the level of the IMI2 
+JU programme. 
+Please note that costs for in-kind contribution shall be deemed to be incurred in third countries (i.e. non-EU in-
+kind-contribution) if the underlying activities are carried out in third countries irrespective of the place where the 
+contributing partner is established.  
+More information regarding the contributing partners’ contributions and reporting obligations can be found in the 
+following document: 
+IMI2 JU guidelines for reporting in kind and financial contributions by Members other than the Union and 
+Associated Partners 
+In-kind contributions must be relevant for achieving proposal objectives under the IMI2 JU Call 21. They will be 
+assessed, as any other proposed activity, against the evaluation criteria of excellence, expected impact and 
+quality and efficiency of implementation. Thus, in principle, relevant and justified in-kind contributions should 
+not be negatively evaluated for being provided by third countries. At the same time, there is no maximum 
+amount of non EU in-kind contribution established for this Call21. 
+ 
+30. 
+Do you have a suggestion on how to join to other forming 
+consortia? 
+With regards to forming consortia, you may find the following resources useful: 
+https://www.imi.europa.eu/apply-funding/general-overview/finding-partners 
+ 
+31. 
+Is it possible to participate to more than one consortia? 
+There is no legal rule preventing a partner from participating in two (or more) proposals from competing 
+consortia, provided that the entity meets all requirements to participate in an IMI2 JU call for proposals. 
+However, a call for proposals being a competitive process, please be aware that multiple participations might 
+raise concerns within the competing consortia, mainly on matters of confidentiality and exchange of information 
+useful to build the consortium.  
+32. 
+Are clinical trials a pre-requisite for Call 21? 
+Clinical Trials are not considered a prerequisite for this call. 
+   
+  
+  
+  
+16  
+  
+33. 
+My proposal covers the development of a potential therapeutic 
+against the novel coronavirus disease (COVID-19). Do I need to contact 
+the European Medicines Agency (EMA)?  
+As per the call topic text, proposals covering investigation of a therapeutic should engage with the EMA to 
+ensure adequacy from a regulatory point of view. 
+The EMA has recently announced that they provide full fee waivers for scientific advice applications from 
+developers of potential therapeutics (to treat the disease) against the novel coronavirus disease (COVID-19). 
+Developers of potential therapeutics against COVID-19 should contact EMA as soon as possible with 
+information about their proposed development, by emailing 2019-ncov@ema.europa.eu. In a first round of 
+discussions, EMA can provide preliminary informal comments and feedback on the development. This will then 
+allow EMA to identify the products which are mature enough to benefit from fast-track scientific advice, to 
+guarantee best use of this tool. In the context of the COVID-19 pandemic, with this fast-track scientific advice, 
+EMA can give developers prompt guidance and direction on the best methods and study designs to generate 
+robust information on how well a medicine works and how safe it is. More information can be found on the EMA 
+webpage. 
+Therefore in your proposal, you should provide information on any interaction that may have already occurred, 
+or propose a plan for such interaction. 
+ 
+34. 
+Can management companies be involved in IMI projects?  
+According to Article 41.2 (b)(i) ‘Internal roles and responsibilities’ of the IMI2 JU Model grant agreement (MGA), 
+the coordinator: 
+ 
+monitors that the action is implemented properly. The requirements of proper implementation are defined in 
+Article 7 of the IMI2 JU Annotated GA and consist of obligation to carry out the action, especially the 
+research work, as described in Annex I to GA, and to comply with all the other provisions of the GA and all 
+the applicable provisions of EU, international and national law; 
+ 
+acts as the intermediary for all communications between the beneficiaries and the JU;  
+ 
+requests and review any documents or information required by the JU and verify their completeness and 
+correctness before passing them on to the JU;  
+ 
+submits the deliverables and reports to the JU; 
+ 
+ensures that all payments are made to the other beneficiaries without unjustified delay; 
+ 
+informs the JU of the amounts paid to each beneficiary. 
+ 
+The coordinator may not delegate or subcontract the above-mentioned tasks to any other beneficiary or third 
+party. Exceptionally, coordinators that are secondary or higher education establishments or public bodies may 
+delegate the administration of the payments to another legal entity. 
+In other words, the responsibility for carrying-out the tasks described above is exclusively in hands of the 
+coordinator. Nevertheless, if there is a management company participating in such consortium, it will be able to 
+assist and support the coordinator with the administrative and other tasks. This separation of duties should be 
+   
+  
+  
+  
+17  
+  
+clearly described in the Annex I to GA, and in particular in the dedicated management work package. 
+Please also note that under IMI2 JU there is the possibility to identify, besides the coordinator, a project leader. 
+This is explained in the IMI2 JU Annotated grant agreement, particularly in the introduction (IV.D -Partnering 
+with EFPIA beneficiaries/other large industrial beneficiaries not receiving JU funding: project scientific 
+governance and leadership) and in annotations of article 41.3 par. 2. ‘The coordinator’s roles and 
+responsibilities’. 
+As a conclusion, a member of consortium (e.g. a management company) can collaborate on execution of 
+exclusive coordinator’s management tasks, in a way as described in the Annex I. But only the coordinator shall 
+be responsible and accountable for those tasks. 
+You can refer to the IMI 2 JU IMI2 JU Annotated grant agreement: 
+https://www.imi.europa.eu/sites/default/files/uploads/documents/IMI2%20Annotated%20Model%20Grant%20A
+greement%20AGA_v2.2_updated.pdf  
+ 
+35. 
+If Call 21 requires open access and data sharing within 30 days, how 
+do we ensure IP protection as we likely will not be able to file patents so 
+quickly? 
+We envision the project generating significant amount of ‘digital research data’. 
+We further understand that beneficiaries may seek to utilise this research data outside the project, in support of 
+patent applications or other IPR related/commercial activities. 
+For clarity, IMI2 JU Annotated grant agreement (hereafter IMI2 JU AGA) define digital research data as follows: 
+information in digital form (in particular facts or numbers), collected to be examined and used as a basis for 
+reasoning, discussion or calculation. This includes statistics, results of experiments, measurements, 
+observations resulting from fieldwork, survey results, interview recordings and images. Only data that are 
+generated by beneficiaries in the course of the action are concerned.  
+Conditions related to data sharing in Part L of General annexes to the H2020 Work programme are applicable 
+mutatis mutandis to IMI2 JU actions. According to the text, open access to digital research data (or data 
+sharing) means making possible for end-users via a repository and free-of-charge to access, mine, exploit, 
+reproduce and disseminate the data concerned. 
+In general terms, the participants in IMI2 JU actions engage in data sharing as defined in Article 29.3.1a AGA. 
+The text applies to two types of digital research data: 
+ 
+the data needed to validate the results presented in scientific publications and associated metadata (i.e. 
+data describing the deposited research data) and  
+ 
+other data and associated metadata, as specified by the beneficiaries in their data management plan 
+(DMP).  
+Data management plan is a deliverable of the project which is drafted by the consortium and submitted for 
+acceptance by IMI2 JU. 
+In addition to obligations Article 29.3.1a, the grant agreements signed following the IMI2 - Call 21 will also 
+contain specific obligations on data sharing arising from Article 29.3.1c AGA for health actions targeting public 
+   
+  
+  
+  
+18  
+  
+health emergencies. The text requires data sharing of any type of quality controlled digital research data and 
+associated metadata at the latest within 30 days after it has been generated. 
+As an exceptional measure, the beneficiaries might replace the open access obligation of Article 29.3.1c AGA 
+by specific access rights to third parties that need the research data to address the public health emergency. 
+Such limitation would be granted by IMI2 JU or the Commission, upon request from the grant beneficiary. 
+Public health emergencies are those declared under the international rules, EU rules such as Decision 
+1082/2013 or under the applicable national framework.  
+It should be noted that the data sharing obligation of Article 29.3 AGA does not apply to specific categories of 
+data, subject to distinct legal rules. These are, inter alia, personal data, subject to Article 39 AGA, data covered 
+by confidentiality obligation and subject to Article 36 AGA or by obligation to protect results, subject to Article 
+27 AGA.  
+Besides, the data generated during the project and falling under the definition of ‘results’ as defined by Article 
+26 AGA is comprehensively subject to IMI2 IPR rules. For results which can be expected to be commercially or 
+industrially exploitable, the conditions of Article 27 AGA to examine and possibly seek an appropriate form of 
+protection, such as patent, trademark, copyrights, trade-secret or confidentiality agreements, will be relevant. 
+Understandably, the specific requirements of granting access rights to results for other consortium partners, 
+IMI2 JU and third parties as laid out in Article 26, 31 AGA would then be applicable. 
+As a conclusion, the data sharing obligation under IMI2 - Call 21 will apply according to conditions set in 
+Articles 29.3.1a and 29.3.1c AGA and is relevant to data falling under the AGA definition of digital research 
+data. Such data will be described in the Data management plan (DMP), provided preferably with the proposal 
+or at the latest before the grant signature. DMP will indicate details on what data the project will generate, how 
+it will be curated, exploited, made accessible for verification and re-use. DMP will be subject to IMI2 JU scrutiny 
+and also to further modifications according to the project execution path. The data sharing does not change the 
+obligation to protect specific data, such as personal, confidential data or those necessary to protect results. As 
+an exception, beneficiary might request replacing the general data sharing obligation by specific rights granted 
+to third parties that need the research data in order to address the public health emergency. Such request must 
+be agreed upon by IMI2 JU or the Commission and include rights to access, mine, exploit and reproduce the 
+data free of charge. 
+ 
+ 
+   
+  
+  
+  
+19  
+  
+36. 
+Can an institution participate in more than one consortia? 
+There is no legal rule preventing a partner from participating in two (or more) proposals from competing 
+consortia, provided that the entity meets all requirements to participate in an IMI2 JU call for proposals. 
+However, being a call for proposals a competitive process, please be aware that multiple participations might 
+raise concerns within the competing consortia, mainly on matters of confidentiality and exchange of information 
+useful to build the consortium. 
+37. 
+As I understand after reading all the information, we need to submit 
+only the application through the Funding and Tenders portal with no 
+additional documents. Do we need to provide at this stage (with the 
+proposal) a collaboration agreement? 
+The requirement for a submission in response to this single stage IMI2 Call 21 is the electronic submission of 
+the proposal in the Funding & and Tenders portal. The proposals are submitted by the coordinator. 
+A collaboration agreement is only required in case your proposal will be successful. In such a case, your 
+consortium will have to agree a collaboration agreement with the other consortia selected under this call 21 
+since all grant agreements signed under this call will be complementary grants. The collaboration agreement 
+must ensure all consortia to cooperate with each other and share their learnings for the purpose of achieving 
+the objectives of their respective actions, in order to maximise the impact. 
+38. 
+I am a bit unsure which template to use for this application as it is 
+single stage and involves a clinical trial in our case. Could you please 
+advise? 
+The template used for submission in a single stage call for proposals is the same as the template for the 
+second stage in a two stage procedure. 
+For this reason, you will find it on the webpage dedicated to essential IMI2 Call documents (link below), under 
+the heading: 
+‘Research and Innovation Actions - second stage proposal in a two-stage procedure and single-stage 
+procedure.’ 
+https://www.imi.europa.eu/apply-funding/call-documents/imi2-call-documents 
+ 
+The template for essential information for proposals including clinical trials / studies / investigations can be 
+found under the link below: 
+https://ec.europa.eu/research/participants/data/ref/h2020/other/legal/templ/h2020_tmpl-clinical-studies_2018-
+2020_en.pdf 
+This guide provides detailed explanations on the required information, the word version of the template is then 
+available in the submission environment. 
+In addition, you will find detailed information on submission of proposals in the IMI2 JU Manual for submission, 
+evaluation and grant award:  
+https://www.imi.europa.eu/sites/default/files/uploads/documents/apply-for-funding/call-
+documents/imi2/IMI2_ManualForSubmission_v1.7_November2018.pdf 
+   
+  
+  
+  
+20  
+  
+39. 
+I am working on a proposal for IMI-2 call 21, but in order to make my 
+project more complete I would like to perform some regulatory preclinical 
+test. Could you please be so kind to let me know if this contribution could 
+be performed by sub-contractors, and if yes what is the maximum 
+admissible cost for a subcontractor? 
+According to Article 13 of IMI2 JU Annotated grant agreement (AGA), subcontracts concern the implementation 
+of action specific tasks, which are described in the Description of action (DoA). The subcontracted tasks may 
+only cover a limited part of the action; there is no financial limit.  
+Any task necessary for the action can be subcontracted, if the required expertise is not available within the 
+consortium. Additionally, the beneficiaries receiving IMI2 funding must ensure meeting all conditions 
+established in Article 13 IMI2 JU MGA, such as the competitive selection of subcontractor, ensuring best value 
+for money and respecting rules on conflict of interest.  
+Consequently, if the pre-clinical study is part of the project, described in DoA and no other participant and 
+carry-out the task, it can be performed by a subcontractor. 
+Please note that, subcontracted activities, as any other of the proposed activities will be subject to the 
+evaluation of the panel of expert according to the applicable evaluation criteria. 
+For further information, you may also consult the relevant annotations in the IMI2 JU Annotated Grant 
+Agreement.   
+40. 
+I have read that the minimum requirement is three partners from 3 
+different EU member states or H2020 Associated countries. How are the 
+requirements in regards to numbers of partners from the same country, is 
+there a limit? 
+The minimum eligibility condition for participation in a Research & innovation action (RIA) under this call is 
+indeed at least three legal entities. Each of the three entities must be established in a different EU member 
+state or H2020 associated country. All three entities must be independent of each other. 
+On the other hand, there are no maximum limits on number of participants based in the same country as far as 
+the minimum eligibility condition is fulfilled. In fact these parameters should match up to the capacities and 
+excellence brought to the consortium and also to the operational capacity to carry-out tasks foreseen in the 
+proposals. 
+41. 
+Data sharing versus intellectual property (IP) rights protection 
+Within publicized documentation it is stated that beneficiaries in grants 
+awarded under this topic must make available their research data, at the 
+latest within 30 days after it has been generated. What kind of data the 
+beneficiary is obligate to publicize and is it up to beneficiary decision 
+which data cannot be shared due to IP rights protection?  
+How, with the abovementioned obligation, we can keep our know-how 
+within the company? 
+Concerning your question on the interplay between the data-sharing obligation and intellectual property rights 
+(IPR) protection, we envision the project generating significant amount of ‘digital research data’. 
+ 
+We further understand that beneficiaries may seek to utilise this research data outside the project, in support of 
+protecting their technical know-how, such as patent applications, business secret or protection of other IP 
+   
+  
+  
+  
+21  
+  
+rights. 
+ 
+For clarity, IMI2 JU Annotated grant agreement (hereafter IMI2 JU AGA) define digital research data as follows: 
+information in digital form (in particular facts or numbers), collected to be examined and used as a basis for 
+reasoning, discussion or calculation. This includes statistics, results of experiments, measurements, 
+observations resulting from fieldwork, survey results, interview recordings and images. Only data that are 
+generated by beneficiaries in the course of the action are concerned.  
+ 
+Conditions related to data sharing in Part L of General annexes to the H2020 Work programme are applicable 
+mutatis mutandis to IMI2 JU actions. According to the text, open access to digital research data (or data 
+sharing) means making possible for end-users via a repository and free-of-charge to access, mine, exploit, 
+reproduce and disseminate the data concerned. 
+ 
+In general terms, the participants in IMI2 JU actions engage in data sharing as defined in Article 29.3.1a of IMI2 
+JU Model grant agreement (MGA). The text applies to two types of digital research data: 
+- the data needed to validate the results presented in scientific publications and associated metadata (i.e. data 
+describing the deposited research data) and  
+- other data and associated metadata, as specified by the beneficiaries in their data management plan (DMP).  
+Data management plan is a deliverable of the project which is drafted by the consortium and submitted for 
+acceptance by IMI2 JU. 
+ 
+In addition to obligations Article 29.3.1a, the grant agreements signed following the IMI2 - Call 21 will also 
+contain specific obligations on data sharing arising from Article 29.3.1c MGA for health actions targeting public 
+health emergencies. The text requires data sharing of any type of quality controlled digital research data and 
+associated metadata at the latest within 30 days after it has been generated. 
+ 
+As an exceptional measure, the beneficiaries might replace the open access obligation of Article 29.3.1c MGA 
+by specific access rights to third parties that need the research data to address the public health emergency. 
+Such limitation would be granted by IMI2 JU or the Commission. 
+ 
+Nevertheless, it should be noted that the data-sharing obligation of Article 29.3a and c MGA does not apply to 
+specific categories of data, subject to distinct legal rules. These are, inter alia, personal data, subject to Article 
+39 MGA, data covered by confidentiality obligation and subject to Article 36 MGA or by obligation to protect 
+results (e.g. IP generated in the action) , subject to Article 27 MGA.  
+ 
+Besides, the data generated during the project and falling under the definition of ‘results’ as defined by Article 
+26 MGA is comprehensively subject to IMI2 IPR rules. For results which can be expected to be commercially or 
+industrially exploitable, the conditions of Article 27 AGA to examine and possibly seek an appropriate form of 
+protection, such as patent, trademark, copyrights, trade-secret or confidentiality agreements, will be relevant. 
+Understandably, the specific requirements of granting access rights to results for other consortium partners, 
+IMI2 JU and third parties as laid out in Article 26, 31 AGA would then become applicable. 
+ 
+As a conclusion, the data-sharing obligation under IMI2 - Call 21 will apply according to conditions set in 
+Articles 29.3.1a and 29.3.1c MGA and is relevant to data falling under the AGA definition of digital research 
+data. Such data will be described in the Data management plan (DMP), provided preferably with the proposal 
+or at the latest before the grant signature. DMP will indicate details on what data the project will generate, how 
+it will be curated, exploited, made accessible for verification and re-use. DMP will be subject to IMI2 JU scrutiny 
+and also to further modifications according to the project execution path. The data sharing does not change the 
+obligation to protect specific data, such as personal, confidential data or those necessary to protect results, by 
+seeking for example IPR registration. As an exception, beneficiary might request replacing the general data-
+sharing obligation by specific rights granted to third parties that need the research data in order to address the 
+public health emergency. Such request must be agreed upon by IMI2 JU or the Commission and include rights 
+to access, mine, exploit and reproduce the data free of charge. 
+   
+  
+  
+  
+22  
+  
+42. The applicants are expected to have a contributing partner, i.e. an 
+EFPIA company or affiliated entity, or an IMI2 JU Associate Partner 
+contributing in-kind as part of consortium. What percentage of the 
+proposal estimated budget should be provided by contributing 
+partners, in form of in-kind or financial contribution?  
+As you might know, the public-private partnership (PPP) principle attributes a significant role that EFPIA, other 
+large industrial beneficiaries and IMI2 JU Associated Partners (AP) play in the implementation of the IMI2 JU 
+actions.  
+The in-kind and financial contributions provided by EFPIA/AP beneficiaries are being matched, at IMI2 JU 
+programme level, with the IMI2 JU funding provided to beneficiaries receiving funding.  
+In relation to your question, for IMI2 JU Call 21 there is no strict proportion in a consortium between the budget 
+for participants receiving IMI2 JU funding and participants providing in-kind contribution. Nevertheless, the 
+contributions from EFPIA/AP should be in line and proportioned to the scientific objectives and related activities 
+described in the proposal. Additionally, the public-private partnership nature of the IMI2 JU should be taken into 
+consideration when building the consortium and the proposal budget. 
+43. 
+I was wondering about the number of winning consortia (and their 
+average expected budgets) in order to put together a consortium.  
+It's not clear from the call whether there will be one or several winning 
+proposals and whether the 45m euros will be granted to one or several 
+consortia. This is will be critical in deciding whether to partner with a few 
+or many partners.  
+As for your question on how many projects will be funded and what is the average expected budget, this 
+depends on the content, quality and requested IMI2 contribution of the submitted proposals.  
+As you might know, the scope of the Innovative Medicines Initiative 2 Joint Undertaking (IMI 2 JU)-Call 21 is to 
+advance knowledge of SARS-CoV-2 and is articulated around four objectives: 
+ 
+Development of antivirals as well as other types of therapeutics, 
+ 
+Development of therapeutics to address the current and/or future coronavirus outbreaks, 
+ 
+Development of diagnostics, 
+ 
+Development of fast and reliable tools that go beyond the state of the art for detection of COVID-19  
+According to the IMI2 Call 21 text, the applicant consortia are expected to address at least one of the objectives 
+of the topic. Hence, when deciding on the composition of the consortium, it is critical that the participation of 
+each partner, and the tasks attributed to it, must be efficient and necessary for the project objectives. In 
+particular, the requested funding must correspond to the content of the tasks foreseen in the proposal and 
+should also correspond to the extent of topic scope covered and number of objectives addressed. 
+The applicant consortia in this call will be competing for the maximum total financial contribution from IMI2 JU 
+up to EUR 45 000 000. Within this budgetary envelope, each proposal must be drafted as close as possible to 
+the real estimated costs and include a sound justification of the requested IMI2 JU financial contribution. In fact, 
+IMI2 JU Manual for submission indicates that proposals with an inflated budget are likely to receive a lower 
+score.  
+Award of the grants will be made on the basis of this ranking, subject to the availability of budget. 
+As a conclusion, the proposal budget should be based on the real estimated costs of the tasks described. The 
+global envelope of EUR 45 000 000 will be awarded following the ranking order based on proposal(s) 
+   
+  
+  
+  
+23  
+  
+requested funding, as evaluated by the panel. The number of proposals eventually funded will depend from the 
+amount of JU funding requested by the highest ranked proposal(s). 
+44. 
+Can commercial service providers in diagnostics also participate? 
+Concerning the eligibility to participate in the submission of a proposal, we refer to Article 7 of Regulation (EU) 
+1290/2013 (the H2020 Rules for participation). The text states that, any legal entity, regardless of its place of 
+establishment, may participate in an action provided that the conditions laid down in this Regulation have been 
+met, together with any conditions laid down in the relevant work plan. 
+However, the participation of each consortium partner, and the tasks attributed to it, must be necessary for the 
+project objectives. In fact, the scope of the Innovative Medicines Initiative 2 Joint Undertaking (IMI 2 JU)-Call 21 
+is to advance knowledge of SARS-CoV-2, knowing that the proposals must address at least of the following 
+objectives: 
+ 
+Development of antivirals as well as other types of therapeutics, 
+ 
+Development of therapeutics to address the current and/or future coronavirus outbreaks, 
+ 
+Development of diagnostics, 
+ 
+Development of fast and reliable tools that go beyond the state of the art for detection of COVID-19.  
+In addition, and concerning commercial companies, Article 1 of Regulation 622/2014 establishing IMI2 Rules 
+for participation, declares that following entities will be eligible for IMI2 funding: 
+ 
+legal entities established in a Member State or an associated country, or created under Union law; and 
+ 
+micro, small and medium-sized enterprises and other companies with an annual turnover of EUR 500 
+million or less, the latter not being affiliated entities of companies with an annual turnover of more than 500 
+million. 
+If eligible for funding, the reimbursement rates are 100% of the direct eligible costs incurred (i.e. no business 
+rate) during the project implementation, increased by 25% overheads. 
+As a conclusion, if the commercial services providers can provide tasks aligned with the research objectives of 
+the proposal and necessary for this Research & innovation action, then they would be welcome to participate. If 
+fulfilling the conditions of eligibility for funding, their costs could be reimbursed at the rates indicated above. 
+45. 
+In the eForms the row of Partner 1 (Coordinator) is different from the 
+other rows:  
+- in the column "I" the Reimbursement rate is "0" and it is not fillable 
+- the overheads are not calculated and so this cost remains "0" 
+- the total of the costs that I enter (Personnel and Other direct costs) 
+automatically appears in the columns reserved for EFPIA and associated 
+partners. 
+In the proposal e-forms, under ‘Administrative data of participating organisations’ for your entity, you probably 
+selected “Member of EFPIA” or “IMI2 Associated partners”. 
+If so, the tool considers your organisations as a contributing partner and therefore its budget fall under in kind 
+contribution with no indirect costs. 
+We advise to verify the Administrative data of your organisation and modify as necessary. 
+It is not possible to undo the selection in those fields, it is only possible to modify them.  
+  
+   
+  
+  
+  
+24  
+  
+Therefore, in the interest of time also considering that the submission deadline is on March 31, their advice is 
+either: 
+a) to select one of the first three options that will configure the same type of budget table as the one 
+needed for UNIFI. All first three options are for beneficiaries receiving funding, thus you can include 
+UNIFI budget as relevant. These options are selected in red below.  Any correction of the applicant 
+status will be dealt during the Grant Agreement Preparation in case the proposal is successful, OR 
+b) to start the submission again, i.e. preparing a new application, 
+ 
+Please note that option a) is the less time consuming solution. 
+ 
+ 
+  
+ 
+  
+ 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+DIRETRIZES DA FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DE GOIÁS (FAPEG) 
+PARA ASSOCIAÇÃO À CHAMADA EMERGENCIAL - “DESENVOLVIMENTO DE TERAPÊUTICA 
+E DIAGNÓSTICO PARA COMBATER INFECÇÕES POR CORONAVÍRUS” 
+ 
+Sumário 
+Data de lançamento da chamada: 19 de março de 2020 
+Prazo para recebimento de propostas: 31 de março de 2020 
+Data de anúncio dos resultados: 15 de abril de 2020 
+Elegibilidade: Pesquisadores doutores vinculados a instituições do Estado de Goiás associados a consórcios e/ou projetos 
+coordenados por pesquisadores de instituições acadêmicas da União Europeia ou países associados do H2020. 
+ 
+ 
+A Fundação de Amparo à Pesquisa do Estado de Goiás (FAPEG) torna pública a orientação que 
+define os critérios para associação de pesquisadores à Chamada Confap – “Desenvolvimento de 
+terapêutica e diagnóstico para combater infecções por coronavírus”, lançada pela Innovative 
+Medicines Initiative (IMI), junto com a Comissão Europeia e a European Federation of Pharmaceutical 
+Industries and Associations (EFPIA). 
+ 
+Objetivos da Chamada 
+ 
+O objetivo principal da presente chamada é identificar novos agentes terapêuticos e sistemas de 
+diagnóstico precoces, eficazes e confiáveis visando desenvolvimento de novas estratégias e 
+tecnologias para o combate ao coronavírus. 
+Espera-se que as propostas apresentadas aumentem o conhecimento geral especificamente sobre 
+o SARS-CoV-2 e a família coronavírus em geral de modo a contribuir para a gestão eficiente dos 
+pacientes e / ou preparo dos sistemas públicos de saúde visando melhorar a sua capacidade de 
+resposta resposta a surtos atuais e futuros de coronavírus. Considerando que este é um vírus recém-
+identificado, o escopo deste tópico permanece amplo e deve abordar pelo menos um dos seguintes 
+itens: 
+ 
+ü Desenvolvimento de antivirais, bem como outros tipos de agentes terapêuticos, para resposta 
+rápida ao atual surto de COVID-19; 
+ü Desenvolvimento de terapêuticas para resolver os surtos atuais e / ou futuros de coronavírus; 
+ü Desenvolvimento de diagnósticos, garantindo avaliação rápida de casos suspeitos com base 
+nas tecnologias existentes; 
+ü Desenvolvimento de ferramentas rápidas e confiáveis que vão além do estado da arte na 
+detecção de portadores de COVID-19 e indivíduos sintomáticos suspeitos de infecção por 
+COVID-1 
+ 
+As vacinas são excluídas do escopo da presente Chamada. 
+ 
+Prazo de submissão e Análise 
+ 
+A chamada, lançada de forma emergencial, tem prazo para submissão de propostas até 31 de março 
+2020, as quais serão avaliadas pelo lado Europeu e Brasileiro até 15 de abril 2020. 
+ 
+ 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+Pesquisadores Elegíveis 
+ 
+Os projetos de pesquisa devem ser apresentados por um coordenador Europeu (seguindo as 
+diretrizes da chamada), envolvendo entidades em pelo-menos 3 países da União Europeia ou Países 
+Associados ao Horizon 2020 (H2020). 
+Os pesquisadores participantes de Goiás devem ter doutorado e estarem vinculados a uma 
+Instituição de Ensino e Pesquisa do Estado de Goiás. 
+ 
+Financiamento 
+ 
+A presente chamada estará aberta à participação de instituições/ pesquisadores brasileiros, com co-
+financiamento pelo lado Europeu que disponibilizará recursos da ordem de até EUR 45.000.000,00 
+(quarenta e cinco milhões de euros) não havendo exigência de valor mínimo e ou máximo por 
+projeto a ser submetido. 
+Pelo lado brasileiro a Fapeg, vinculada ao Conselho Nacional das Fundações de Amparo à Pesquisa, 
+financiará itens de custeio incluindo passagens, diárias, material de consumo para desenvolvimento 
+do projeto e serviços de terceiros até o limite de até R$ 250.000,00 (duzentos e cinquenta mil reais) 
+por proposta. 
+O proponente deverá observar as Normas de Aplicação de Recursos Financeiros e Prestação de 
+Contas da FAPEG, Resolução Normativa 04/2014 ou outro regulamento da Fundação sobre o tema, 
+que vier a substituí-la. 
+As propostas submetidas no âmbito da presente chamada deverão incluir sólida justificativa para 
+contribuição financeira solicitada ao IMI. Isso deverá levar em conta as contribuições propostas pelos 
+parceiros contribuintes que complementarão financeiramente a proposta, como é o caso da Fapeg. 
+ 
+Chamada Internacional 
+No de propostas 
+apoiadas 
+Valor por 
+proposta (R$) 
+DEVELOPMENT OF THERAPEUTICS AND 
+DIAGNOSTICS COMBATTING CORONAVIRUS 
+INFECTIONS 
+02 
+até 250.000,00 
+ 
+ 
+Informações complementares sobre a chamada poderão ser acessadas nos links indicados 
+abaixo: 
+ 
+Link da chamada: (clique aqui) 
+ 
+Webinar sobre a chamada: (clique aqui) 
+ 
+Para busca de parceiros: (clique aqui) 
+ 
+Perguntas e respostas sobre a chamada: (clique aqui) 
+ 
+ 
+Contato para esclarecimentos e/ou mais informações: elisa.confap@gmail.com  

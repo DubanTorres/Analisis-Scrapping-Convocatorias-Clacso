@@ -1,0 +1,1732 @@
+Edital MCT/CNPq Nº 066/2010 
+Programa de Cooperação Brasil—União Europeia na Área de Tecnologias da 
+Informação e Comunicação - TIC 
+I - EDITAL 
+O Ministério da Ciência e Tecnologia - MCT e o Conselho Nacional de Desenvolvimento Científico e 
+Tecnológico - CNPq tornam público o presente Edital e convidam os interessados a apresentarem propostas 
+nos termos aqui estabelecidos, e em conformidade com o anexo REGULAMENTO, parte integrante deste 
+Edital.  
+I.1 - OBJETIVO 
+O presente Edital tem por objetivo selecionar propostas para apoio financeiro a projetos que visem contribuir 
+significativamente para o desenvolvimento científico e tecnológico do País, no segmento de Tecnologias da 
+Informação e Comunicação, para a criação de uma expressiva infraestrutura de pesquisa e desenvolvimento, 
+laboratorial e de recursos humanos que permita o uso eficaz de tecnologias de ponta, com eficiência e 
+competitividade internacional em todos os setores de nossa sociedade. As propostas devem observar as 
+condições específicas estabelecidas na parte II – REGULAMENTO, anexo a este Edital, que determina os 
+requisitos relativos ao proponente, cronograma, recursos financeiros a serem aplicados nas propostas 
+aprovadas, origem dos recursos, itens financiáveis, prazo de execução dos projetos, critérios de elegibilidade, 
+critérios e parâmetros objetivos de julgamento e demais informações necessárias.  
+I.2 - APRESENTAÇÃO E ENVIO DAS PROPOSTAS 
+I.2.1 -  As propostas devem ser acompanhadas de arquivo contendo o projeto e devem ser encaminhadas ao 
+CNPq exclusivamente via Internet, por intermédio do Formulário de Propostas Online, disponível na 
+Plataforma Carlos Chagas (http://carloschagas.cnpq.br/), a partir da data indicada no subitem II.1.2 - 
+CRONOGRAMA do REGULAMENTO. 
+I.2.2 - As propostas devem ser transmitidas ao CNPq até às 18 (dezoito) horas, horário de Brasília, da data 
+limite de submissão das propostas, descrita no subitem II.1.2 - CRONOGRAMA - do REGULAMENTO. No 
+entanto, o sistema eletrônico (servidor de rede) receberá propostas com tolerância de mais 24 (vinte e quatro 
+horas), encerrando-se, impreterivelmente, às 18h (dezoito horas) do dia posterior à data limite de submissão 
+das propostas, horário de Brasília. O proponente receberá, após o envio, um recibo eletrônico de protocolo da 
+sua proposta, o qual servirá como comprovante da transmissão. 
+I.2.3 -As propostas devem ser apresentadas em conformidade com o descrito no subitem II.2 - CRITÉRIOS 
+DE ELEGIBILIDADE – do REGULAMENTO, contendo rigorosamente todos os itens previstos neste Edital. O 
+arquivo contendo o projeto de pesquisa deve ser gerado fora do Formulário de Propostas Online e anexado a 
+ este, nos formatos “doc”, “pdf” “rtf” ou “post script”, limitando-se a 1Mb (um megabyte). Caso seja necessário 
+utilizar figuras, gráficos, etc, para esclarecer a argumentação da proposta, estes não devem comprometer a 
+capacidade do arquivo, pois as propostas que excederem o limite de 1Mbnão serão recebidas pelo guichê 
+eletrônico do CNPq. 
+I.2.4 - Não serão aceitas propostas submetidas por qualquer outro meio, tampouco após o prazo final de 
+recebimento estabelecido no subitem I.2.2 acima. Assim, recomenda-se o envio das propostas com 
+antecedência, uma vez que o CNPq não se responsabilizará por propostas não recebidas em decorrência de 
+eventuais problemas técnicos e congestionamentos. 
+I.2.5 - Caso a proposta seja remetida fora do prazo de submissão, ela não será aceita pelo sistema eletrônico. 
+Por este motivo e, no cumprimento do disposto no caput do art. 41, da Lei nº 8.666, de 21 de junho de 1993, 
+não haverá possibilidade da proposta ser acolhida, examinada e julgada. 
+I.2.6 - Será aceita uma única proposta por proponente. Na hipótese de envio de uma segunda proposta pelo 
+mesmo proponente, respeitando-se o prazo limite estipulado para submissão das propostas, esta será 
+considerada substituta da anterior, sendo levada em conta para análise apenas a última proposta recebida. 
+I.2.7 - Em se constatando propostas idênticas, todas serão desclassificadas. 
+I.3. - ADMISSÃO, ANÁLISE E JULGAMENTO 
+A seleção das propostas submetidas ao CNPq, em atendimento a este Edital, será realizada por intermédio 
+de análises e avaliações comparativas. Para tanto, são estabelecidas as seguintes etapas: 
+I.3.1 -  Etapa I – Análise pela Área Técnica do CNPq  
+I.3.1.1. Esta etapa, a ser realizada pela área técnica do CNPq, consiste na análise das propostas 
+apresentadas quanto ao atendimento às disposições estabelecidas nos itens do REGULAMENTO, relativos 
+ao subitem II.1.4 - ITENS FINANCIÁVEIS e subitens II.2.1 - QUANTO AO PROPONENTE E EQUIPE DE 
+APOIO  e II.2.3- QUANTO À INSTITUIÇÃO DE EXECUÇÃO,  dos CRITÉRIOS DE ELEGIBILIDADE. 
+I.3.2 - Etapa II – Análise, julgamento e classificação pelo Comitê Julgador Brasil 
+– União Europeia 
+I.3.2.1. As propostas serão avaliadas e classificadas considerando a análise da etapa anterior e os 
+CRITÉRIOS DE ELEGIBILIDADE, indicados no subitem II.2.2 - QUANTO À PROPOSTA, e dos CRITÉRIOS 
+DE JULGAMENTO, indicados no subitem II.3, do REGULAMENTO, que serão pontuados pelo  Comitê 
+Julgador Brasil-União Europeia, constituído por especialistas da comunidade de C&T do Brasil e da União 
+Europeia. 
+I.3.2.2. A pontuação final de cada projeto será aferida conforme estabelecido no item II.3 - CRITÉRIOS PARA 
+JULGAMENTO do REGULAMENTO.  
+ I.3.2.3. Após a análise de mérito e relevância de cada proposta e da adequação de seu orçamento, o Comitê, 
+dentro dos limites orçamentários estipulados pela Diretoria Executiva do CNPq, poderão recomendar: 
+a) aprovação, com ou sem cortes orçamentários; ou 
+b) não aprovação.  
+I.3.2.4. O parecer do Comitê sobre as propostas, dentro dos critérios estabelecidos, será registrado em 
+Planilha Eletrônica, contendo a relação das propostas julgadas, recomendadas e não recomendadas, com as 
+respectivas pontuações finais, em ordem decrescente, assim como outras informações e recomendações 
+julgadas pertinentes. Para propostas recomendadas, será definido o valor a ser financiado pelo CNPq. Para 
+propostas não recomendadas, será emitido parecer consubstanciado contendo as justificativas para a não 
+recomendação. A Planilha Eletrônica será assinada pelos membros do Comitê.  
+I.3.2.5. Não é permitido integrar o Comitê Julgador Brasil—União Europeia o pesquisador que tenha 
+apresentado propostas a este Edital, ou que participe da equipe de projeto. 
+I.3.2.6. É vedado a qualquer membro do Comitê julgar propostas de projetos em que: 
+a) esteja participando da equipe do projeto seu cônjuge, companheiro ou parente, consanguíneo ou afim, em 
+linha reta ou na colateral, até o terceiro grau; ou 
+b) esteja litigando judicial ou administrativamente com qualquer membro da equipe do projeto ou seus 
+respectivos cônjuges ou companheiros. 
+I.3.3 - Etapa III – Análise pela Diretoria Executiva (DEX) do CNPq 
+Todas as propostas analisadas pelo Comitê serão submetidas à apreciação da Diretoria Executiva do CNPq, 
+que emitirá a decisão final sobre sua aprovação, observados os limites orçamentários deste Edital. 
+I.4 - RESULTADO DO JULGAMENTO  
+I.4.1 - A relação das propostas aprovadas com recursos financeiros do presente Edital será divulgada na 
+página eletrônica do CNPq, disponível na Internet no endereço www.cnpq.br e publicada no Diário Oficial 
+da União.  
+I.4.2 - Todos os proponentes do presente Edital terão acesso ao parecer final sobre sua proposta, preservada 
+a identificação dos pareceristas. 
+I.5 - RECURSOS ADMINISTRATIVOS 
+I.5.1 - Caso o proponente tenha justificativa para contestar o resultado do julgamento das propostas, poderá 
+apresentar recurso em formulário eletrônico específico, disponível na Plataforma Carlos Chagas 
+(http://carloschagas.cnpq.br/), no prazo de 10 (dez) dias corridos, a contar da data da publicação do 
+resultado no Diário Oficial da União e na página do CNPq, desde que esteja disponibilizada ao proponente o 
+parecer do Comitê Julgador Brasil – União Europeia na Plataforma Carlos Chagas.  
+ 1.5.2 - O recurso deverá ser dirigido à Comissão Permanente de Análise de Recursos - COPAR que, após 
+exame, encaminhará o resultado para deliberação final da Diretoria Executiva do CNPq. 
+I.5.3 - Na contagem do prazo excluir-se-á o dia do início e incluir-se-á o do vencimento, e considerar-se-ão os 
+dias consecutivos. O prazo só se inicia e vence em dias de expediente no CNPq.  
+I.5.4 - A norma específica, Resolução Normativa nº 006/2009, que estabelece os procedimentos necessários 
+para interposição de recursos está disponível na página do CNPq, no endereço eletrônico 
+http://www.cnpq.br/normas/rn_09_006.htm. 
+I.6 – CONTRATAÇÃO DAS PROPOSTAS APROVADAS 
+I.6.1 - As propostas aprovadas poderão ser contratadas na modalidade de Auxílio Individual, em nome do 
+Coordenador/Proponente, mediante assinatura de Termo de Concessão e Aceitação de Apoio Financeiro a 
+Projeto de Pesquisa Científica e/ou Tecnológica ou na forma de Auxílio Institucional à pesquisa, por meio 
+de Convênio. 
+I.6.1.2 - No caso de contratação Auxílio Individual, a firmatura do Termo de Concessão ficará subordinada à 
+existência prévia de Protocolo de Cooperação Técnica, celebrado entre a instituição de execução do projeto e 
+o CNPq, conforme previsão contida na alínea “a” do item 5 do Anexo I da Resolução Normativa nº 024/2006 
+(http://www.cnpq.br/normas/rn_06_024.htm), e que, nos termos da Cláusula Segunda, item 3 -  Das 
+Competências da Instituição, do referido Protocolo, não haja veto da instituição. 
+I.6.1.3 - No caso de contratação na forma de Auxílio Institucional, comporão o Convênio para repasse de 
+recursos de custeio e capital o CNPq como concedente, a Fundação como convenente, a instituição de 
+execução do projeto (instituição sede) como interveniente e o coordenador da proposta como executor. Para 
+a consecução do convênio na modalidade Auxílio Institucional, a fundação convenente deve ter estatuto 
+jurídico de entidade sem fins lucrativos, estabelecido em seu instrumento de criação, e cumprir todos os 
+requisitos estabelecidos no Decreto no. 6.170, de 25 de julho de 2007, e legislação correlata. 
+I.6.1.3.1. Para bolsas, a contratação sempre deverá ocorrer na modalidade Auxílio Individual, em nome do 
+Coordenador/Proponente, mediante assinatura de Termo de Concessão e Aceitação de Apoio Financeiro a 
+Projeto de Pesquisa Científica e/ou Tecnológica. 
+I.6.2. - A existência de alguma inadimplência do proponente com a Administração Pública Federal direta ou 
+indireta constituirá fator impeditivo para a contratação do projeto. 
+I.7  – CANCELAMENTO DA CONCESSÃO 
+I.7.1. A concessão do apoio financeiro poderá ser cancelada pela Diretoria Executiva do CNPq, por 
+ocorrência, durante sua implementação, de fato cuja gravidade justifique o cancelamento, sem prejuízo de 
+outras providências cabíveis em decisão devidamente fundamentada. 
+I.8 – PUBLICAÇÕES 
+ I.8.1 - As publicações científicas e qualquer outro meio de divulgação de trabalho de pesquisa, apoiados pelo 
+presente Edital, deverão citar, obrigatoriamente, o apoio das entidades/órgãos financiadores. 
+I.8.2 - As ações publicitárias atinentes a projetos e obras financiadas com recursos da União, deverão 
+observar rigorosamente as disposições contidas no § 1º do art. 37 da Constituição Federal, bem assim 
+aquelas consignadas na Instrução da Secretaria de Comunicação de Governo e Gestão Estratégica da 
+Presidência da República - atualmente a IN/SECOM-PR nº 02, de 16 de dezembro de 2009. 
+I.9 – IMPUGNAÇÃO DO EDITAL  
+I.9.1 - Decairá do direito de impugnar os termos deste Edital o proponente que não o fizer até o segundo dia 
+útil anterior ao prazo final estabelecido para recebimento das propostas. Ademais, não terá efeito de recurso a 
+impugnação feita por aquele que, em o tendo aceitado sem objeção, venha apontar, posteriormente ao 
+julgamento, eventuais falhas ou imperfeições. 
+I.9.2 - A impugnação deverá ser dirigida à Diretoria Executiva do CNPq, por correspondência eletrônica, para 
+o endereço: cocmi@cnpq.br. 
+I.10 – REVOGAÇÃO OU ANULAÇÃO DO EDITAL  
+I.10.1. A qualquer tempo, o presente Edital poderá ser revogado ou anulado, no todo ou em parte, seja por 
+decisão unilateral da Diretoria Executiva do CNPq, seja por motivo de interesse público ou  exigência legal, 
+em decisão fundamentada, sem que isso implique direito a indenização ou reclamação de qualquer natureza. 
+I.11  – PERMISSÕES  E AUTORIZAÇÕES ESPECIAIS  
+I.11.1 - É de exclusiva responsabilidade de cada proponente adotar todas as providências que envolvam 
+permissões e autorizações especiais de caráter ético ou legal, necessárias para a execução do projeto.  
+I.11.2. Coordenadores brasileiros de projetos de pesquisa, relacionados à biodiversidade, devem observar a 
+legislação em vigor (MP nº  2.186-16/2001, Decreto nº 3.945/01, alterado pelo Decreto nº 4.946/2003, Decreto 
+nº 98.830/90, Portaria MCT nº 55/90) para autorizações de acesso, coleta e remessa de amostras e 
+concessão de vistos de entrada no País aos estrangeiros participantes do projeto. 
+I.12 – DAS DISPOSIÇÕES GERAIS  
+I.12.1 - Durante a fase de execução do projeto, toda e qualquer comunicação com o CNPq deverá ser feita 
+por meio de correspondência eletrônica dirigida à Coordenação de Cooperação Multilateral – COCMI, da 
+Assessoria de Cooperação Internacional – ASCIN, via endereço: cocmi@cnpq.br. 
+I.12.2 - Qualquer alteração relativa à execução do projeto deverá ser solicitada ao CNPq por seu 
+coordenador, acompanhada da devida justificativa, devendo a mesma ser autorizada antes de sua efetivação. 
+ I.12.3. Ao final da vigência, o proponente deverá apresentar a prestação de contas financeira e os relatórios 
+técnicos, em conformidade com o que estiver estabelecido no Termo de Concessão e demais normas do 
+CNPq. 
+I.12.4. Durante a execução, o projeto será acompanhado e avaliado, em todas as suas fases, de acordo com 
+o estabelecido no Termo de Concessão. 
+I.12.5 - O CNPq reserva-se o direito de, durante a execução do projeto, promover visitas técnicas ou solicitar 
+informações adicionais com vistas a aperfeiçoar o sistema de Avaliação e Acompanhamento. 
+I.12.6 - As informações geradas com a implementação das propostas selecionadas e disponibilizadas na base 
+de dados do CNPq serão de domínio público. 
+I.12.7 - Caso os resultados do projeto ou o relatório em si venham a  ter valor comercial ou possam levar ao 
+desenvolvimento de um produto ou método envolvendo o estabelecimento de uma patente, a troca de 
+informações e a reserva dos direitos, em cada caso, dar-se-ão de acordo com o estabelecido na Lei de 
+Inovação, nº 10.973, de 2 de dezembro de 2004, regulamentada pelo Decreto nº 5.563, de 11 de outubro de 
+2005 e pela RN-013/2008 (http://www.cnpq.br/normas/rn_08_013.htm). 
+I.12.8 - O presente Edital regula-se pelos preceitos de direito público e, em especial, pelas disposições da Lei 
+nº 8.666, de 21 de junho de 1993, e, no que couber, pelas normas internas do CNPq. 
+I.13 - DOS ESCLARECIMENTOS E DAS INFORMAÇÕES ADICIONAIS ACERCA 
+DO CONTEÚDO DO EDITAL E PREENCHIMENTO DO FORMULÁRIO DE 
+PROPOSTA ONLINE 
+Os esclarecimentos e informações adicionais acerca do conteúdo deste Edital e sobre o preenchimento do 
+Formulário de Proposta Online poderão ser obtidos por intermédio do endereço eletrônico e telefones 
+indicados em item específico do REGULAMENTO. 
+I.14 - CLÁUSULA DE RESERVA 
+A Diretoria Executiva do CNPq reserva-se o direito de resolver os casos omissos e as situações não previstas 
+no presente Edital. 
+Brasília, 28 de setembro de 2010 
+_____________________________________________________ 
+Edital MCT/CNPq Nº 066/2010 
+Programa de Cooperação Brasil—União Europeia na Área de Tecnologias da Informação e 
+Comunicação - TIC 
+II - REGULAMENTO 
+ O presente REGULAMENTO tem por finalidade definir as atividades a serem apoiadas financeiramente e as 
+condições para implementação do apoio, mediante a seleção, por edital, de propostas para execução de 
+projetos. 
+II.1 - DAS DISPOSIÇÕES ESPECÍFICAS  
+II.1.1 - DO OBJETO 
+Apoiar projetos de pesquisa científica e tecnológicaque contribuam significativamente para o desenvolvimento 
+científico e tecnológico do País, por meio do fortalecimento da capacidade científica e tecnológica e da 
+capacitação de recursos humanos no âmbito da cooperação Brasil—União Europeia, com foco em uma ou 
+mais das linhas temáticas abaixo, detalhadas no Anexo IV: 
+Linha temática 1: Microeletrônica/Microssistemas; 
+Linha temática 2: Controle e monitoramento em rede; 
+Linha temática 3: Internet do futuro – instalações experimentais; 
+Linha temática 4: Internet do futuro – segurança; 
+Linha temática 5: Infraestruturas eletrônicas. 
+II.1.2 - CRONOGRAMA 
+Atividades 
+Data 
+Lançamento do Edital no Diário Oficial da União e na página do 
+CNPq 
+28/09/2010 
+Data limite para submissão das propostas 
+18/01/2011 
+Divulgação dos resultados no Diário Oficial da União e na página 
+do CNPq na internet 
+A partir de maio/2011 
+Início da contratação das propostas aprovadas 
+A partir de junho/2011 
+II.1.3 - RECURSOS FINANCEIROS 
+II.1.3.1. As propostas aprovadas serão financiadas com recursos no valor global estimado de R$ 
+11.500.000,00 (onze milhões e quinhentos mil reais), oriundos do FNDCT/Fundo Setorial CT-INFO, a serem 
+liberados em 3 (três) parcelas, de acordo com a disponibilidade orçamentária e financeira do CNPq. 
+II.1.3.2. O valor máximo de financiamento é de até R$ 3.450.000,00 (três milhões, quatrocentos e cinquenta 
+mil reais) para cada projeto. 
+II.1.3.3. Preferencialmente será selecionada uma proposta para cada uma das linhas temáticas. Caso não 
+haja proposta com mérito em uma ou mais dessas linhas, os recursos poderão ser alocados em  propostas 
+das demais linhas temáticas. 
+II.1.3.4. A contratação dos projetos selecionados ficará condicionada ao efetivo repasse de recursos do 
+Orçamento da União por parte do Ministério da Ciência e Tecnologia/MCT ao CNPq. 
+ II.1.3.5. As informações sobre os fundos setoriais (documentos básicos, diretrizes estratégicas, legislação 
+básica etc.) estão disponíveis no sítio do MCT, em: 
+http://www.mct.gov.br/index.php/content/view/725.html.  
+II.1.3.6 – Parcela mínima de 30% dos recursos será, necessariamente, destinada a projetos coordenados por 
+pesquisadores vinculados a instituições sediadas nas regiões Norte, Nordeste ou Centro-Oeste, incluindo as 
+respectivas áreas de abrangência das Agências de Desenvolvimento Regional (Lei nº 11.540/2007). Caso o 
+montante de propostas que alcance prioridade para contratação, considerando a análise do mérito técnico-
+científico, não atenda ao previsto neste item, os recursos restantes serão destinados a projetos desenvolvidos 
+nas demais regiões geográficas. 
+II.1.4 - ITENS FINANCIÁVEIS 
+II.1.4.1. Os recursos do presente edital serão destinados ao financiamento de itens de custeio, capital e bolsa, 
+compreendendo: 
+II.1.4.1.1 Custeio: 
+a) passagens aéreas (nacionais e internacionais) e diárias e de acordo com as Tabelas de Valores de Diárias 
+para Auxílios Individuais e Bolsas de Curta Duração; 
+b) seguro saúde, quando se tratar de viagem internacional; 
+c) material bibliográfico; 
+d) material de consumo, componentes e/ou peças de reposição de equipamentos, software, instalação, 
+recuperação e manutenção de equipamentos; 
+e) serviços de terceiros - pagamento integral ou parcial de contratos de manutenção e serviços de terceiros, 
+pessoa física ou jurídica, de caráter eventual. Qualquer pagamento a pessoa física deve ser realizado de 
+acordo com a legislação em vigor, de forma a não estabelecer vínculo empregatício.Assim, a mão-de-obra 
+empregada na execução do projeto não terá vínculo de qualquer natureza com o CNPq e deste não poderá 
+demandar quaisquer pagamentos, permanecendo na exclusiva responsabilidade do Coordenador/Instituição 
+de execução do projeto; 
+f) contratação de pessoal para a execução do projeto, somente nos convênios na modalidade auxílio 
+institucional, obedecendo à legislação em vigor, particularmente a Lei nº 8.958, de 20 de dezembro de 1994, 
+e o artigo 166 da Medida Provisória nº 431 de 14 de maio de 2008. O pessoal envolvido na execução do 
+convênio guardará seu vínculo e subordinação com a instituição a cujo quadro pertencer, não tendo e nem 
+vindo a assumir vínculo de qualquer natureza com o CNPq e deste não podendo demandar quaisquer 
+pagamentos ou remuneração, sendo estes de inteira responsabilidade do convenente e/ou Instituição 
+Executora, que os tiverem contratado ou empregado na execução dos trabalhos; 
+g) despesas acessórias,especialmente as de importação e as de instalações necessárias ao adequado 
+funcionamento dos equipamentos (ver subitem II.1.4.4.).  
+ O valor total solicitado para os itens de custeio descritos nas alíneas “b” a “g” deverão ser incluídos no campo 
+“custeio” do Formulário de Propostas Online. Os valores de passagens e diárias deverão ser incluídos em 
+campos do mesmo nome do referido formulário, seguindo as instruções lá contidas. 
+II.1.4.1.2  Capital 
+a) equipamentos e material permanente. 
+Os itens de capital serão alocados na instituição de execução do projeto sob a responsabilidade, manutenção 
+e guarda do Coordenador/Instituição de execução do projeto.  
+II.1.4.1.3.  Bolsas 
+II.1.4.1.3.1  Serão concedidas bolsas nas seguintes modalidades: 
+a) DTI – Desenvolvimento Tecnológico Industrial;  
+b)SET - Fixação e Capacitação de Recursos Humanos – Fundos Setoriais; 
+c) EV – Especialista Visitante;  
+d) SPE – Treinamento no Exterior; e 
+e) ITI – Iniciação Tecnológica e Industrial. 
+Os recursos referentes às bolsas serão incluídos, automaticamente, pelo Formulário de Propostas online, no 
+orçamento do projeto. 
+II.1.4.1.3.2 A implementação das bolsas deverá ser realizada dentro dos prazos e critérios estipulados para 
+cada uma dessas modalidades, que estão indicadas no endereço http://www.cnpq.br/bolsas/index.htm. A 
+duração das bolsas não poderá ultrapassar o prazo de execução do projeto. 
+II.1.4.1.3.3 As bolsas não poderão ser utilizadas para pagamento de prestação de serviços, uma vez que tal 
+utilização estaria em desacordo com a finalidade das bolsas do CNPq. 
+II.1.4.1.3.4 Caberá ao coordenador fazer as indicações dos bolsistas tão logo seja assinado o Termo de 
+Concessão e Aceitação de Apoio Financeiro a Projeto de Pesquisa Científica e/ou Tecnológica.  
+II.1.4.2  - São vedadas despesas com: 
+a) obras civis (ressalvadas as obras com instalações e adaptações necessárias ao adequado funcionamento 
+de equipamentos, as quais deverão ser justificadas no orçamento detalhado da proposta - subitem II.2.2), 
+entendidas como de contrapartida obrigatória da instituição de execução do projeto; 
+b) pagamento de salários ou complementação salarial de pessoal técnico e administrativo ou quaisquer outras 
+vantagens para pessoal de instituições públicas (federal, estadual e municipal);  
+c) crachás, pastas e similares, certificados, ornamentação, coquetel, jantares, shows ou manifestações 
+artísticas de qualquer natureza; 
+d) despesas de rotina como contas de luz, água, telefone, correios, reprografia e similares, entendidas como 
+despesas de contrapartida obrigatória da instituição de execução do projeto; 
+ e) pagamento, a qualquer título, a servidor da administração pública, ou empregado de empresa pública ou de 
+sociedade de economia mista, por serviços de consultoria ou assistência técnica, conforme determina a Lei 
+de Diretrizes Orçamentárias da União; 
+f) pagamento de taxas de administração, de gerência, a qualquer título; 
+g) aquisição de veículos automotores, locação e despesas com combustíveis de qualquer natureza. 
+II.1.4.2.1. As demais despesas deverão ser de responsabilidade do proponente/instituição de execução do 
+projeto, a título de contrapartida.  
+II.1.4.3. Para contratação ou aquisição de bens e serviços deverá ser observada a legislação vigente, bem 
+como as normas do CNPq, disponíveis no endereço: 
+http://www.cnpq.br/prestacaocontas/index.htm. 
+II.1.4.4. Quando aplicável, a proposta deve incluir as despesas acessórias decorrentes da importação de 
+equipamentos, material permanente e material de consumo. O CNPq não responde pela suplementação de 
+recursos para fazer frente a despesas decorrentes de quaisquer fatores externos ao seu controle, como 
+flutuação cambial. 
+II.1.5 - PRAZO DE EXECUÇÃO DOS PROJETOS 
+As propostas a serem apoiadas pelo presente Edital deverão ter seu prazo máximo de execução estabelecido 
+em 30 (trinta) meses. Excepcionalmente, mediante apresentação de justificativa, o prazo de execução dos 
+projetos poderá ser prorrogado. 
+II.2 - CRITÉRIOS DE ELEGIBILIDADE  
+Os critérios de elegibilidade indicados abaixo são obrigatórios. O atendimento aos mesmos é considerado 
+imprescindível para o exame da proposta, seu enquadramento, análise e julgamento. A ausência ou 
+insuficiência de informações sobre quaisquer deles poderá resultar na desclassificação da proposta. 
+II.2.1 - QUANTO AO PROPONENTE E EQUIPE DE APOIO:  
+II.2.1.1. O proponente, responsável pela apresentação da proposta, deve atender, obrigatoriamente, aos itens 
+abaixo: 
+a) Ser brasileiro ou estrangeiro residente no Brasil, com visto permanente; 
+b) Possuir o título de doutor e ter seu currículo cadastrado na Plataforma Lattes (http://lattes.cnpq.br/), 
+atualizado no prazo de até 7 (sete) dias após a data limite para submissão da proposta, conforme RN-
+004/2008 (http://www.cnpq.br/normas/rn_08_004.htm). 
+c) Ser obrigatoriamente o coordenador do projeto; 
+ d) Ter vínculo formal com a instituição de execução do projeto. Esta informação deve estar explicitamente 
+declarada em seu currículo cadastrado na Plataforma Lattes, no campo “Atuação Profissional”. 
+d1) Vínculo formal é entendido como toda e qualquer forma de vinculação existente entre o 
+proponente, pessoa física, e a instituição de execução do projeto. Na inexistência de vínculo 
+empregatício ou funcional, o vínculo estará caracterizado por meio de documento oficial que 
+comprove haver concordância entre o proponente e a instituição de execução do projeto para o 
+desenvolvimento da atividade de pesquisa e/ou ensino, documento esse expedido por autoridade 
+competente da instituição. Esse documento deve ficar em poder do proponente, não sendo 
+necessária a remessa ao CNPq; 
+d2) O pesquisador aposentado poderá apresentar proposta ao edital desde que possua o título de 
+doutor e tenha seu currículo cadastrado na Plataforma Lattes (http://lattes.cnpq.br/), atualizado no 
+prazo de até 7 (sete) dias após a data limite para submissão da proposta, conforme RN-004/2008 
+(http://www.cnpq.br/normas/rn_08_004.htm),  comprove manter atividades acadêmico-científicas 
+e apresente declaração da instituição de pesquisa ou de pesquisa e ensino concordando com  a 
+execução do projeto. 
+d2.1) O pesquisador aposentado deverá anexar a declaração de anuência da instituição 
+de pesquisa ao Formulário de Propostas online, por ocasião da submissão da proposta. 
+II.2.1.2. Ao apresentar a proposta, o proponente assume o compromisso de manter, durante a execução do 
+projeto, todas as condições de qualificação, habilitação e idoneidade necessárias ao perfeito cumprimento do 
+seu objeto, preservando atualizados os seus dados cadastrais juntos aos registros competentes. 
+II.2.1.3.  A equipe técnica poderá ser constituída por pesquisadores, alunos e técnicos. Outros profissionais 
+poderão integrar a equipe na qualidade de colaboradores. 
+II.2.1.3.1.  É obrigatório que os membros da equipe técnica brasileira tenham seus currículos cadastrados e 
+atualizados na Plataforma Lattes (http://lattes.cnpq.br/). 
+II.2.1.3.2.  Pesquisadores estrangeiros deverão apresentar Curriculum Vitae em inglês, a ser  anexado ao 
+Formulário de Propostas online, no campo Membros da Equipe. Caso prefira, poderá ser utilizado o modelo 
+de Currículo de Pesquisador Estrangeiro disponível em: 
+ftp://ftp.cnpq.br/pub/doc/coopinternacional/cv_eng.doc 
+II.2.1.3.3.  Somente deverão ser incluídos na equipe do projeto aqueles que tenham prestado anuência 
+formal escrita, a qual deve ser mantida sob a guarda do Coordenador do projeto. 
+II.2.2 - QUANTO À PROPOSTA 
+ II.2.2.1. O projeto deve estar claramente caracterizado como pesquisa científica, tecnológica ou  inovação, e a 
+proposta de trabalho deve convergir com os objetivos do Edital e ter clara identificação com pelo menos uma 
+das linhas temáticas citadas no item II.1.1. do REGULAMENTO.  
+II.2.2.2. A proposta deve ser uma ação coordenada com um consórcio europeu e apresentada conforme 
+conteúdo constante do Detalhamento do Projeto (Anexo I).  
+II.2.2.3. A proposta deve ser redigida em língua portuguesa e ser anexada no campo  Formulário de 
+Propostas Online da Plataforma Carlos Chagas (http://carloschagas.cnpq.br/). 
+II.2.2.4. O Detalhamento Orçamentário (Anexo II) da parte brasileira deve ser anexado ao Formulário de 
+Propostas Online da Plataforma Carlos Chagas (http://carloschagas.cnpq.br/).  
+II.2.2.5. O proponente deverá anexar ao Formulário de Propostas online, por ocasião da submissão da 
+proposta,  o Acordo da Coordenação Brasil-União Europeia (Anexo III) firmado com o parceiro europeu, 
+estabelecendo as regras para o desenvolvimento das atividades de pesquisa, principalmente em relação à 
+propriedade intelectual, quando for o caso, respeitando as normas vigentes no Brasil e na União Europeia. 
+II.2.2.6. É recomendável que na formação do consórcio haja o envolvimento  de grupos de pesquisa de  mais 
+de uma instituição brasileira, bem como a participação de empresas. 
+II.2.2.7. Será eliminada a proposta cujo coordenador estrangeiro não tenha submetido proposta 
+correspondente à União Europeia, e que faça referência explícita à ação coordenada com a proposta 
+brasileira, no âmbito da chamada FP-7-ICT-2011-EU-Brazil Coordinated Call, disponível no endereço 
+eletrônico: 
+http://cordis.europa.eu/fp7/dc/index.cfm?fuseaction=UserSite. 
+CooperationDetailsCallPage&call_id=377  
+II.2.3 - QUANTO À INSTITUIÇÃO DE EXECUÇÃO 
+II.2.3.1. A instituição de execução do projeto será aquela onde será desenvolvido o projeto de pesquisa e com 
+o qual o proponente deve apresentar vínculo e será doravante denominada “Instituição de Execução do 
+Projeto”, podendo ser: 
+a)  instituição de ensino superior, pública ou privada sem fins lucrativos; 
+b) instituto e centro de pesquisa e desenvolvimento, público ou privado sem fins lucrativos. 
+II.2.3.2. A instituição de execução do projeto deverá ser constituída sob as leis brasileiras e ter sua sede e 
+administração no País. 
+II.3 - CRITÉRIOS PARA JULGAMENTO 
+II.3.1 - A proposta será baseada na análise dos critérios relacionados a seguir: 
+ 
+  
+Critérios de análise e julgamento 
+Peso 
+Nota  
+A 
+1. QUALIDADE CIENTÍFICA E TECNOLÓGICA 
+Excelência científica e tecnológica (relevante para as linhas temáticas 
+relacionadas à chamada), incluindo: 
+(i) consistência conceitual e qualidade dos objetivos; 
+(ii) evolução em relação ao estado da arte; 
+(iii) qualidade e efetividade da metodologia científica e tecnológica e do 
+plano de trabalho correlacionado. 
+1 
+0-5 
+B 
+2. IMPLEMENTAÇÃO 
+Qualidade e eficiência na implementação e gestão do projeto, 
+incluindo: 
+(i) Estrutura adequada de gestão e procedimentos; 
+(ii) Qualidade e relevância da experiência individual dos participantes; 
+(iii) Qualidade do consórcio como um todo (incluindo a complementaridade 
+e equilíbrio); 
+(iv) Alocação adequada e justificativa dos recursos a serem comprometidos 
+(quadro de pessoal, equipamentos, etc.). 
+1 
+0-5 
+C 
+3. IMPACTO 
+Potencial impacto em termos de desenvolvimento, disseminação e uso 
+dos resultados do projeto, incluindo: 
+(i) contribuição em nível brasileiro/europeu e/ou internacional aos impactos 
+esperados, listados no programa de trabalho;   
+(ii) medidas adequadas para disseminação e/ou exploração dos resultados 
+e gestão da propriedade intelectual.    
+1 
+0-5 
+II.3.2 - A pontuação final de cada projeto será aferida pela soma das notas atribuídas para cada critério, que 
+terá nota de 0 a 5 (zero a cinco), com atribuição de meio-ponto, caso necessário. 
+II.3.3 - A nota de corte para cada critério individual será 3. A nota de corte geral, aplicada  à pontuação final, 
+será 10 (dez). 
+II.3.4 - No caso de empate entre propostas, será considerada vencedora aquela que obtiver maior nota no 
+critério 1 (um) -  QUALIDADE CIENTÍFICA E TECNOLÓGICA. Persistindo o empate, será então priorizada a 
+nota do critério 3 (três) -  IMPACTO.  
+II.4 - AVALIAÇÃO FINAL/PRESTAÇÃO DE CONTAS 
+II.4.1 - O Coordenador do projeto deverá encaminhar em Formulário Online específico, no prazo de até 60 
+(sessenta) dias após o término da vigência do projeto, em conformidade com o Termo de Concessão e 
+demais normas do CNPq, os seguintes documentos: 
+a) a prestação de contas financeira, com apresentação de comprovantes de despesas, em conformidade com 
+as 
+normas 
+de 
+Prestação 
+de 
+Contas 
+disponíveis 
+no 
+endereço 
+eletrônico 
+http://www.cnpq.br/prestacaocontas/index.htm; e  
+b)  o relatório técnico final, com detalhamento de todas as atividades desenvolvidas durante a execução do 
+projeto e o registro de todas as ocorrências que afetaram o seu desenvolvimento. 
+II.4.2 - Quando solicitado pelo CNPq, o Coordenador deverá preencher formulário de avaliação e 
+acompanhamento do projeto de pesquisa aprovado. 
+ II.5 - ESCLARECIMENTOS E INFORMAÇÕES ADICIONAIS ACERCA DO 
+CONTEÚDO 
+DO EDITAL E PREENCHIMENTO DO FORMULÁRIO DE PROPOSTA ONLINE   
+II.5.1 - Esclarecimentos e informações adicionais acerca do conteúdo deste Edital podem ser obtidos 
+encaminhando mensagem para o endereço: cocmi@cnpq.br 
+II.5.2 - O atendimento a proponentes com dificuldades no preenchimento do Formulário de Propostas Online 
+será feito pelo endereço suporte@cnpq.br  ou pelos telefones (61) 2108-9004 ou 2108-9354, de segunda a 
+sexta-feira, no horário de 8h30 às 18h30. 
+GLOSSÁRIO 
+Classificação das Instituições Participantes 
+1. Instituição executora: Instituição nacional de ensino superior ou instituto e centro de pesquisa e 
+desenvolvimento, público ou privado, sem fins lucrativos, líder do projeto, à qual está vinculado o coordenador 
+brasileiro que envia a proposta e é responsável pela execução do mesmo, sendo o principal beneficiário dos 
+recursos financeiros. 
+2. Instituição co-financiadora (nacional ou estrangeira): Instituição (nacional ou estrangeira) que 
+participará do financiamento do projeto, alocando recursos financeiros ou de infraestrutura de pesquisa, 
+podendo ou não executar partes do projeto. 
+3. Instituição co-executora (nacional ou estrangeira): Instituição (nacional ou estrangeira) de ensino 
+superior ou institutos e centros de pesquisa e desenvolvimento, públicos ou privados, envolvida na execução 
+do projeto, mas que não se caracteriza como co-financiadora. 
+4. Instituição colaboradora (nacional ou estrangeira): Instituição (nacional ou estrangeira), envolvida na 
+execução do projeto, mas que não se caracteriza como co-financiadora nem como co-executora, e que pode 
+corresponder a um dos seguintes tipos: 
+- instituição técnica de apoio ao desenvolvimento da atividade empresarial de pequeno porte, 
+associação de classe, confederação, cooperativa ou instituição voltadas para o desenvolvimento, 
+difusão e assistência técnica; 
+- empresa que desenvolva projetos inovadores ou portadores de tecnologia agregada, seja ela 
+pública ou privada, microempresa ou empresa de pequeno porte; 
+- unidade técnica ou entidades de direito público de governos estaduais e municipais; 
+- OSCIP (Organização da Sociedade Civil de Interesse Público); 
+- organização não governamental de pesquisa; ou 
+ - consórcio de entidades sem fins lucrativos. 
+_______________________ 
+Anexos: 
+Anexo I - Roteiro de descrição da proposta 
+Anexo II - Detalhamento orçamentário 
+Anexo III - Acordo da Coordenação Brasil-União Europeia 
+Anexo IV - Linhas Temáticas 
+ 
+  
+1
+(Anexo I) 
+ 
+ 
+ Assessoria de Cooperação Internacional – ASCIN/CNPq 
+Coordenação de Cooperação Multilateral - COCMI 
+ 
+Edital MCT/CNPq No. 066/2010  
+Programa de Cooperação Brasil-União Europeia  
+em Tecnologias da Informação e Comunicação - TIC 
+ 
+ 
+ 
+Roteiro de descrição da proposta 
+ 
+ 
+ 
+A presente proposta deve ser elaborada em conjunto com a contraparte europeia, por se 
+tratar de projeto coordenado. Deve ter o mesmo conteúdo de informação e ser apresentada 
+em duas versões. A versão em inglês deve ser submetida pelo coordenador europeu, via 
+Sistema EPSS, à UE. A versão em português deve ser submetida pelo coordenador 
+brasileiro, via Plataforma Carlos Chagas, ao CNPq/Brasil. 
+ 
+ 
+Título da proposta:        
+ 
+ 
+Sigla da proposta:       
+ 
+ 
+Linha(s) Temática(s) da pesquisa:  
+Se for o caso, indique por ordem de importância no projeto as linhas temáticas envolvidas na 
+proposta (de 1 a 5): 
+ 
+       Microeletrônica/Microssistemas 
+       Controle e monitoramento em rede  
+       Internet do Futuro - instalações experimentais  
+       Internet do Futuro - segurança  
+       Infraestruturas eletrônicas 
+ 
+ 
+Dados do coordenador europeu: 
+ 
+Nome:        
+ 
+E-mail:        
+ 
+Fax:        
+ 
+Dados do coordenador brasileiro: 
+ 
+Nome:        
+ 
+  
+2
+E-mail:        
+ 
+Fax:        
+ 
+ 
+ 
+ 
+Lista de instituições participantes europeias (inserir linhas adicionais se necessárias) 
+ 
+Número do participante* 
+Instituição 
+Sigla  
+País 
+1 (coordenador)       
+      
+      
+      
+2      
+      
+      
+      
+3      
+      
+      
+      
+4      
+      
+      
+      
+(*) use a mesma numeração da Parte A, seção 2 da proposta para o FP7) 
+ 
+ 
+ 
+Lista de instituições participantes brasileiras (inserir linhas adicionais se necessárias) 
+ 
+Número do participante* 
+Instituição 
+Sigla  
+Cidade 
+1 (coordenador)       
+      
+      
+      
+2      
+      
+      
+      
+3      
+      
+      
+      
+4      
+      
+      
+      
+(*) use a mesma ordem do Formulário on line  
+ 
+  
+3
+ 
+ 
+Resumo da proposta  
+      
+  
+4
+ 
+Sumário da proposta 
+ 
+ 
+ 
+ 
+Proposta 
+ 
+SEÇÃO 1. Qualidade técnica e científica  
+(tamanho máximo da seção: 20 páginas, sem contar gráficos, diagramas e tabelas (de 1.3a até 1.3e) 
+ 
+ 
+1.1. Concepção e objetivos do projeto 
+Explicar o conceito do seu projeto. Identificar as ideias principais que levaram à proposição do projeto; os 
+objetivos detalhados de C&T apresentados de forma mensurável e verificável (incluindo menção aos 
+marcos referenciais indicados na subseção 1.3 abaixo), e como eles se relacionam às linhas temáticas 
+especificadas no edital, que devem ser explicitamente identificadas.  
+      
+ 
+ 
+1.2. Evolução em relação ao estado da arte 
+Descrever o estado da arte da  área concernente  e a contribuição esperada do projeto proposto. Se for o 
+caso, mencionar resultados de patentes  
+ 
+      
+ 
+ 
+ 
+1.3. Metodologia Científica e Tecnológica e plano de trabalho relacionado a 
+essa metodologia.  
+Apresentar um plano de trabalho, considerando o conjunto de atividades a serem 
+executadas (work packages), o qual deve seguir a sequência lógica das fases de 
+implementação do projeto e incluir elementos de gestão do consórcio e de avaliação de 
+progresso, bem como dos resultados do projeto. A abordagem global para a gestão está  
+descrita na Seção 2.  
+ 
+Favor seguir os seguintes passos: 
+ 
+(i) 
+Descrever a estratégia geral do plano de trabalho (tamanho máximo: 1 página) 
+      
+ 
+ 
+(ii) 
+Apresentar a duração dos Work Packages e seus componentes, num diagrama de 
+Gantt1 ou similar, pelo período de duração máxima de 30 meses, o qual traduza o 
+cronograma de execução das atividades previstas (work packages) durante a 
+vigência do projeto.  
+      
+ 
+                                                 
+1 Para orientação sobre a confecção do diagrama de Gantt, recomendamos a consulta do seguinte sítio na web:  
+http://pet.ecv.ufsc.br/site/downloads/apoio_did%E1tico/ECV5318%20-
+%20Planejamento_cap05.pdf 
+É possível utilizar planilhas eletrônicas para a confecção do diagrama (do Microsoft Office Excel ou 
+BrOffice Calc, por exemplo) ou softwares específicos como o GanttProject (freeware e multiplataforma), 
+disponível para download em: http://www.ganttproject.biz/ 
+  
+5
+ 
+(iii) 
+Apresentar  uma descrição detalhada do trabalho organizado por Work Packages, 
+Adicionalmente, os quadros (1.3a, 1.3b. 1.3c, 1.3d, 1.3e).devem ser preenchidos 
+para relacionar as ações programadas. 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lista dos Work packages 
+Use a tabela 1.3a abaixo (inserir linhas adicionais se necessárias) 
+Número 
+Nome 
+Tipo2 
+Líder -no 3 Líder - sigla 
+Pessoa-
+mês4 
+Mês início5 
+Mês fim5 
+ 
+WP 1 
+      
+ 
+            
+      
+      
+      
+      
+WP 2 
+      
+ 
+            
+      
+      
+      
+      
+WP 3 
+      
+ 
+            
+      
+      
+      
+      
+ 
+ 
+ 
+Lista de Produtos a serem entregues (deliverables)   
+Use a tabela 1.3b abaixo (inserir linhas adicionais se necessárias) 
+Número6 
+Nome 
+WP no 
+Natureza 7 
+Nível de disseminação8 
+Data de entrega  
+(mês do projeto)9 
+      
+      
+ 
+            
+      
+      
+      
+      
+ 
+            
+      
+      
+      
+      
+ 
+            
+      
+      
+ 
+ 
+ 
+                                                 
+2 Indicar um dos seguintes tipos de atividade, usando a respectiva sigla: 
+- 
+Desenvolvimento em Ciência e Tecnologia (RTD); 
+- 
+Demonstração (DEM); 
+- 
+Gestão do consórcio (MTD).  
+3 Número do participante extraído da lista de participantes apresentada no início da proposta. 
+4 Quantidade de pessoa/mês alocada para cada atividade. 
+5 Medidos a partir da data de início do projeto (mês 1). 
+6 Anotar o número do produto em ordem de datas de entrega, no formato D<número de atividade>.<número do 
+produto>. Por exemplo, o produto D4.2 é o segundo produto da atividade 4. 
+7 Indicar uma das seguintes naturezas de produto, usando a respectiva sigla: 
+   Relatório (R); Protótipo (P); Demonstrador (D); Outro (O). 
+8 Indicar uma das seguintes siglas para o nível de disseminação: 
+- 
+Público (PU);  
+- 
+Restrito a outros participantes  do programa, incluindo a Comissão Europeia e o CNPq (PP); 
+- 
+Restrito a um grupo especificado pelo consórcio, incluindo a Comissão Europeia e o CNPq (RE); 
+- 
+Confidencial, somente para membros do consórcio incluindo a Comissão Europeia e o CNPq (CO). 
+9 Medido em meses a partir da data de início do projeto (mês 1 = M1). 
+  
+6
+Marcos referenciais sobre os estágios do projeto (milestones)  
+Use a tabela 1.3c abaixo. (inserir linhas adicionais se necessárias) 
+ 
+Marcos são pontos referenciais que registram entrega de um resultado de tarefa ou início de um novo evento 
+onde decisões referentes aos próximos estágios do projeto são tomadas, como quando da escolha de novos 
+elementos de trabalho ou após a obtenção de um resultado mais expressivo, implicando ou não em ajustes ou 
+na eventual mudança do projeto. 
+ 
+Número10 
+Nome 
+Atividades envolvidas 
+Data esperada11 
+Formas de 
+verificação12 
+      
+      
+ 
+      
+      
+      
+      
+      
+ 
+      
+      
+      
+      
+      
+ 
+      
+      
+      
+ 
+ 
+Descrição de cada work package 
+Use a tabela 1.3d abaixo.  (inserir linhas/quadros adicionais se necessários) 
+ 
+Número 
+      
+ 
+Data de início: 
+      
+Nome da Atividade 
+      
+ 
+Tipo de Atividade13 
+      
+ 
+Participante – no 
+      
+ 
+      
+      
+      
+      
+      
+Participante – sigla 
+      
+ 
+      
+      
+      
+      
+      
+Pessoa-mês por 
+participante 
+      
+      
+      
+      
+      
+      
+ 
+Objetivos 
+ 
+      
+ 
+Descrição do trabalho (dividido em tarefas) e papel dos participantes 
+ 
+      
+ 
+Produtos (deliverables) (descrição breve) e mês de entrega 
+ 
+      
+ 
+ 
+                                                 
+10 Anotar o número do produto em ordem de data de entrega, no formato <número de atividade>.<número do 
+marco>. Por exemplo, o marco 4.2 é o segundo marco da atividade 4. 
+11 Mês contado a partir da data de início do projeto (mês 1) = M1. 
+12 Mostrar como isso confirmará que o marco foi atingido, e fazer referência e indicadores se apropriado. Por 
+exemplo: um protótipo de laboratório terminado e funcionando corretamente; software liberado e validado por um 
+grupo de usuários; pesquisa de campo completa e qualidade dos dados validada. 
+13 Indicar um dos seguintes tipos de atividade, usando a respectiva sigla (uma única por work package): 
+- 
+Desenvolvimento em Ciência e Tecnologia (RTD); 
+- 
+Demonstração (DEM); 
+- 
+Gestão do consórcio (MTD).  
+ 
+  
+7
+ 
+ 
+ 
+Resumo da Força de Trabalho (equipe) envolvida no projeto  
+Use a tabela 1.3e abaixo. (inserir linhas adicionais se necessárias) 
+ 
+A síntese da Força de Trabalho envolvida no projeto é útil para os avaliadores. Indique na tabela o número de 
+pessoa-mês relativo a toda a duração do trabalho planejado, por cada work package e por cada participante. 
+Usar negrito no número de pessoa-mês para identificar o líder do work package. 
+ 
+Participante 
+no 
+Participante - sigla 
+WP 1 
+WP 2 
+WP 3 
+....... 
+Total pessoa-mês 
+1 
+      
+ 
+      
+      
+      
+      
+      
+2 
+      
+ 
+      
+      
+      
+      
+      
+3 
+      
+ 
+      
+      
+      
+      
+      
+etc 
+      
+ 
+      
+      
+      
+      
+      
+Total 
+      
+ 
+      
+      
+      
+      
+      
+ 
+ 
+ 
+  
+8
+ 
+(iv) Apresentar um esquema gráfico dos componentes, a fim de mostrar suas inter-
+relações (diagrama PERT14 ou similar); 
+      
+ 
+ 
+ 
+ 
+(v) Descrever quaisquer riscos significativos e planos de contingência relacionados. 
+      
+ 
+                                                 
+14 Para orientação sobre a confecção do diagrama PERT, recomendamos a consulta ao seguinte sítio na web:  
+http://pet.ecv.ufsc.br/site/downloads/apoio_did%E1tico/ECV5318%20-
+%20Planejamento_cap06.pdf 
+Recomenda-se a utilização de softwares de planejamento como o Microsoft Office Project , Pert Chart 
+Expert (shareware, baseado em Windows) ou o já citado GanttProject, que também permite a transformação 
+do diagrama de Gantt num diagrama PERT. 
+  
+9
+ 
+SEÇÃO 2. Implementação 
+ 
+2.1.  Estrutura administrativa e procedimentos 
+Descrever a estrutura organizacional e mecanismo de tomada de decisão do projeto. Mostrar como eles se 
+ajustam à complexidade e dimensão do projeto. 
+(tamanho máximo: 5 páginas) 
+      
+ 
+ 
+2.2. Entidade/Participantes individuais 
+Apresentar, para cada entidade/instituição  participante no projeto proposto, uma breve descrição de sua 
+natureza jurídica, as principais tarefas que lhe foram atribuídas, e a experiência prévia relevante para o 
+cumprimento dessas tarefas.  
+Apresentar também um breve perfil dos indivíduos que estarão a cargo desse trabalho. 
+ (tamanho máximo: 1 página por entidade participante; se há dois ou mais departamentos dentro de uma 
+mesma organização com papéis distintos na proposta, pode ser usada 1 página para cada um deles.) 
+      
+ 
+ 
+2.3. Consórcio como um todo 
+Descrever como as entidades participantes constituem coletivamente um consórcio capaz de alcançar os 
+objetivos do projeto, e como elas se conformam e se comprometem com as tarefas que lhes são atribuídas. 
+Mostrar a complementaridade entre participantes e como a composição do consórcio reflete uma distribuição 
+equilibrada em relação aos objetivos do projeto. Se apropriado, descrever o grau de envolvimento 
+industrial/comercial para garantir a exploração econômica dos resultados. [Note que os itens i) 
+subcontratação  e ii) outros países da proposta europeia não se aplicam à contraparte brasileira]. 
+      
+ 
+2.4. Recursos a serem comprometidos.  
+ 
+Brasil 
+Descrever como os recursos serão mobilizados em sua totalidade, incluindo  recursos de outras fontes (aporte 
+estadual, privado e etc), se for o caso. Mostrar como os recursos serão integrados de forma coerente, 
+relacionando todos os custos solicitados na proposta (custeio, bolsas e capital) e coerentemente com o item 
+1.3. desta proposta e dando ênfase aos custos mais expressivos  (em equipamentos, por exemplo). 
+O financiamento máximo de cada projeto  do MCT/CNPq é de até R$ 3.450.000,00 reais. 
+ (tamanho máximo: 2 páginas).  
+ 
+      
+ 
+ 
+União Europeia 
+Descrever como os recursos presentes no orçamento submetido à Comissão Europeia serão mobilizados em 
+sua totalidade. Mostrar a integração coerente dos recursos e a adequação do plano financeiro geral do 
+projeto.  Adicionalmente aos custos indicados na Parte A da proposta enviada à Comissão Europeia e na 
+seção 1.3., enfatize os itens com custo mais elevado como, por exemplo, equipamentos. Assegure que as 
+informações prestadas sejam consistentes com a parte B da proposta enviada à Comissão Europeia.  
+Na parte europeia, o financiamento máximo de cada projeto não poderá exceder 1.5 milhão de euros.  
+(tamanho máximo: 2 páginas)   
+ 
+      
+  
+10
+ 
+ 
+SEÇÃO 3. Impacto  
+      (tamanho máximo da seção: 10 páginas) 
+ 
+3.1. Impactos esperados listados no plano de trabalho 
+Descrever como seu projeto contribui para os impactos esperados listados no plano de trabalho em relação 
+à(s) linha(s) temática(s) em questão. Mencionar os passos necessários para alcançar esses impactos e o 
+motivo pelo qual o projeto demanda uma cooperação Brasil-União Europeia e não somente em nível local ou 
+regional. Indicar se outras atividades nacionais ou internacionais são levadas em consideração. Mencionar 
+requisitos e fatores externos que podem determinar se os impactos serão atingidos. 
+      
+ 
+ 
+ 
+3.2. Disseminação e/ou exploração de resultados do projeto, e gestão da 
+propriedade intelectual 
+Descrever as medidas propostas para disseminação e/ou exploração de resultados do projeto, e como elas 
+podem ampliar  os impactos do projeto. Para tanto, levar em consideração diversas mídias e os grupos-alvo 
+apropriados (por exemplo: tomadores de decisão, grupos de interesse, meios de comunicação e o público em 
+geral). Descrever também os planos para gestão do conhecimento  adquirido no decorrer do projeto 
+(propriedade intelectual). 
+      
+  
+11
+ 
+ 
+SEÇÃO 4. Questões éticas 
+Descrever quaisquer questões éticas que possam surgir no projeto, incluindo benefícios e riscos dos 
+experimentos e seus efeitos no objeto da pesquisa. Todos os países envolvidos deverão ser identificados. 
+Estar ciente do arcabouço legal que se aplica e das possíveis condições específicas relevantes em cada país 
+em relação aos seguintes tópicos: 
+ 
+- 
+Permissão do uso da informação (Informed consent): quando descrever os 
+assuntos relacionados à permissão de uso da informação, indicar o nível 
+apropriado de sensibilidade ética, questões de seguros, descobertas acidentais e 
+consequências do abandono do estudo; 
+ 
+- 
+testes clínicos: é exigida a aprovação das autoridades nacionais competentes; 
+ 
+- 
+questões de proteção de dados: evitar a obtenção desnecessária de dados 
+pessoais. Identificar as fontes de dados: descrever se eles serão coletados como parte 
+da pesquisa ou se já tinham sido previamente coletados. Obter o consentimento para 
+uso de quaisquer dados. Descrever como a Identificação pessoal dos dados é 
+assegurada/protegida. Questões de proteção de dados exigem autorização das 
+autoridades competentes; 
+ 
+- 
+uso de animais: abordar os 3Rs (replacement – substituição; reduction - redução e, 
+refinement - refinamento) quando o uso de animais for necessário. Especificar o número 
+de animais e sua destinação após os experimentos. O uso de animais requer pedido de 
+licença/autorização das autoridades competentes; 
+ 
+- 
+células-tronco embrionárias humanas (hESC): propostas de pesquisa que 
+envolvam células tronco devem considerar os seguintes pontos: 
+o a necessidade do uso de hESC a fim de alcançar os objetivos científicos 
+estabelecidos na proposta; 
+o a observação da legislação, regulamentos e princípios éticos e/ou códigos de 
+conduta válidos no país em relação ao uso do hESC, incluindo consentimento 
+para o seu uso;  
+o a fonte das células-tronco embrionárias; 
+o as medidas para proteger dados pessoais, incluindo dados genéticos e 
+privacidade; 
+o as recompensas financeiras advindas da pesquisa, se houver. 
+ 
+ 
+Identificar os países onde as pesquisas serão realizadas e quais comitês ou entidades reguladoras devem ser 
+acionados/ contatados no transcurso do projeto.Incluir as questões éticas na  tabela abaixo, Se algum item for 
+identificado com “SIM”, identifique as páginas da proposta nas quais essa questão ética é descrita. Se 
+nenhum dos itens se aplica à sua proposta, marque “SIM” na última linha.15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+15 Se aplicável, consultar a legislação específica. Para ética de pesquisa em saúde, consulte o sítio do CONEP:  
+http://conselho.saude.gov.br/legislacao/index.htm 
+Para biossegurança, o sítio do CIB:  
+http://www.cib.org.br/tema.php?chave=10 
+  
+12
+ 
+ 
+“SIM” 
+Página 
+Permissão do uso da Informação  
+ 
+- A proposta envolve crianças? 
+ 
+ 
+- A proposta envolve pacientes ou pessoas incapazes de consentir com 
+a pesquisa? 
+ 
+ 
+- A pesquisa envolve voluntários adultos saudáveis? 
+ 
+ 
+- A proposta envolve material genético humano? 
+ 
+ 
+- A proposta envolve amostras biológicas humanas? 
+ 
+ 
+Pesquisa em embriões/fetos humanos 
+ 
+- A proposta envolve fetos humanos? 
+ 
+ 
+- A proposta envolve células/tecidos fetais humanos? 
+ 
+ 
+- A pesquisa envolve células-tronco de embriões humanos? 
+ 
+ 
+Privacidade 
+ 
+ 
+- A proposta envolve o processamento de informação genética ou 
+dados pessoais (saúde, estilo de vida, etnia, opinião política, religiosa 
+ou convicção religiosa) 
+ 
+ 
+- A proposta envolve o rastreamento para fins de localização ou 
+observação de pessoas? 
+ 
+ 
+Pesquisa em animais 
+ 
+- A proposta envolve pesquisa em animais? 
+ 
+ 
+- Trata-se de animais de laboratório transgênicos?  
+ 
+ 
+- Trata-se de animais de fazenda transgênicos? 
+ 
+ 
+- Trata-se de animais de fazenda clonados? 
+ 
+ 
+- Trata-se de animais primatas não-humanos? 
+ 
+ 
+Pesquisa envolvendo países em desenvolvimento 
+ 
+- uso de recursos locais (genéticos, animais, plantas etc.) 
+ 
+ 
+- impacto na comunidade local 
+ 
+ 
+Uso dual 
+ 
+- Pesquisa com aplicação militar direta 
+ 
+ 
+- Pesquisa com potencial de abuso terrorista 
+ 
+ 
+Implantes de TICs 
+ 
+- A pesquisa envolve testes clínicos de implantes de TIC? 
+ 
+ 
+CONFIRMO QUE NENHUM DOS TÓPICOS ACIMA SE APLICA À 
+MINHA PROPOSTA 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Anexo II) 
+ 
+ASSESSORIA DE COOPERAÇÃO INTERNACIONAL - ASCIN/CNPq 
+COORDENAÇÃO DE COOPERAÇÃO MULTILATERAL - COCMI 
+ 
+Edital MCT/CNPq No. 066/2010 
+Programa de Cooperação Brasil-União Europeia  
+em Tecnologias da Informação e Comunicação - TIC 
+ 
+ 
+Detalhamento orçamentário 
+1. Gastos com diárias e passagens 
+ 
+1.1. Viagens Nacionais (Inserir quantas linhas forem necessárias).  
+Viagens Nacionais 
+ 
+Nome do pesquisador 
+ 
+Sigla da 
+Instituição 
+ 
+Cidade 
+ 
+Período 
+Início/Término 
+ 
+Nº de 
+Diárias 
+ 
+Valor em R$ 
+(conf.TABELA 
+CNPq) 
+ 
+Trecho aéreo 
+ 
+Valor em R$ Vr. Total em 
+R$ 
+Diárias+Pas
+sagens 
+1.      
+2.      
+ 
+      
+      
+                  
+      
+      
+      
+      
+Total em R$       
+ 
+      
+      
+ 
+ 
+ 1.2. Viagens Internacionais (Inserir quantas linhas forem necessárias).  
+Viagens Internacionais (incluir valor de seguro de R$ 150,00) 
+ 
+Nome do pesquisador 
+ 
+Sigla da 
+Instituição 
+Cidade/ 
+País 
+ 
+Período 
+Início/Término 
+ 
+Nº de 
+Diárias 
+ 
+Valor em R$ 
+(conf.TABELA 
+CNPq) 
+ 
+Trecho aéreo 
+ 
+Valor em R$ Vr. Total em 
+R$ Diárias+ 
+Passagens+
+seguro 
+1.      
+2.      
+ 
+      
+      
+                  
+      
+      
+      
+      
+Total em R$       
+ 
+      
+      
+ 
+2. Gastos adicionais com custeio. 
+ 
+2.1. Itens de custeio (Inserir quantas linhas forem necessárias).  
+ 
+Item de custeio 
+Justificativa da aquisição 
+Valor  em R$ 
+1.      
+2.      
+      
+      
+Total em R$       
+ 
+ 
+ 
+ 
+ 
+ 
+ 3. Gastos com bolsas. 
+ 
+3.1. Bolsas (Inserir quantas linhas forem necessárias).  
+Bolsas (cf. valores exibidos no formulário de propostas online) 
+ 
+Nome do bolsista 
+Instituição 
+onde o 
+bolsista 
+desenvolverá 
+o projeto 
+Modalidade 
+da bolsa 
+ 
+Período 
+Início/Término 
+Atividade a ser 
+desenvolvida pelo bolsista 
+ 
+Justificativa  da necessidade 
+da bolsa  
+Valor em R$ 
+1.       
+2.       
+ 
+ 
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+Total em R$       
+ 
+4. Gastos com itens de capital. 
+ 
+4.1. Capital (Inserir quantas linhas forem necessárias).  
+Item de capital 
+Instituição   
+Justificativa da aquisição 
+Valor  em R$ 
+1.       
+2.       
+ 
+      
+      
+      
+      
+      
+      
+Total em R$  
+      
+ INFORMAÇÕES COMPLEMENTARES 
+ 
+      
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(Anexo III) 
+ 
+Acordo da Coordenação Brasil-União Europeia 
+ 
+(Anexar como arquivo PDF, ao Formulário de Propostas online da  
+Plataforma Carlos Chagas) 
+ 
+ 
+Um acordo deve ser assinado pelos respectivos coordenadores, mostrando como os consórcios europeu e 
+brasileiro vão conduzir e regular suas atividades de cooperação; como vão tratar as questões de direito de 
+propriedade intelectual de maneira equilibrada, respeitando as regras de participação estabelecidas pela UE e 
+pelo MCT/CNPq e em consonância com o estabelecido no Acordo de Cooperação UE/Brasil em C&T. 
+ 
+ 
+ 
+      
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Anexo IV) 
+ 
+ 
+EDITAL MCT/CNPq 066/2010 
+ICT 2011 – Chamada coordenada UE/ Brasil 
+ 
+ 
+Linhas Temáticas 
+ 
+ 
+Linha temática 1: Microeletrônica/ Microssistemas 
+ 
+ 
+Resultados pretendidos 
+ 
+• 
+Metodologia, blocos e ferramentas específicas de projeto que complementem e 
+ampliem as especificações, o desempenho e as funcionalidades dos softwares 
+comercialmente disponíveis nas áreas de: projeto de sistemas de multitecnologias 
+integradas, projeto de ultrabaixa potência, projeto de RF, projeto de sistemas de 
+energia eficiente, metodologia e ferramentas para sistemas de empacotamento e 
+integração 3D; 
+ 
+• 
+Integração de microssistemas heterogêneos e tecnologias de empacotamento. 
+Tecnologia de sensores, soluções integradas abrangendo todos os aspectos 
+conducentes à absorção tecnológica, de redes de sensores e RFIDs à 
+padronização, incluindo a coleta de energia. 
+ 
+O esforço de P&D&I deve enfocar o desenvolvimento de tecnologia e a construção de 
+infraestruturas de tecnologia, e não exclusivamente o desenvolvimento de aplicações. 
+ 
+São especialmente encorajadas as áreas de aplicação a serem usadas como prova de 
+conceito e veículos de demonstração, tais como: monitoramento, rastreamento e 
+rastreabilidade em áreas que incluem o meio ambiente, a qualidade dos alimentos, a 
+agricultura, a logística e os transportes públicos. Além disso, são encorajadas as 
+tecnologias de apoio para exploração de energia solar, tais como conversores e 
+armazenadores de energia; sistemas propulsores elétricos em veículos, soluções de 
+telemedicina e ferramentas para o diagnóstico precoce de doenças endêmicas e 
+epidêmicas. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Linha temática 2: Controle e Monitoramento em rede  
+ 
+ 
+Resultados pretendidos 
+ 
+Engenharia de Monitoramento e Sistemas de Controle em Rede, enfatizando os 
+desafios de engenharia associados à rede cooperativa de elementos embarcados 
+e de controle, incluindo a integração de camadas físicas de dispositivos em rede 
+(por exemplo, redes de sensores sem fio para monitoramento e controle de 
+sistemas complexos de larga escala, com vistas a melhorar a eficiência do sistema 
+em termos de energia e matérias-primas). 
+  
+ 
+Os desafios a serem abordados incluem, mas não estão limitados a: 
+escalabilidade, autoconfiguração, disponibilidade, autorrecuperação, ciência de 
+contexto, incluindo ciência de localização, reconfigurabilidade, adaptabilidade, 
+trabalho em rede em ambientes hostis, combinação de limitações de tempo real, 
+quase real e não real, assim como a otimização, levando em consideração alertas 
+de preço e o desenvolvimento associado de programação, bem como de 
+ferramentas e plataformas de gestão e operação. 
+  
+ 
+Impacto Esperado (para as linhas temáticas 1 e 2)  
+ 
+• Estreita integração entre materiais, fornecedores de equipamentos e 
+componentes, fornecedores de soluções, integradores de sistemas, plantas 
+de produção e processamento e institutos de P&D, em ambos os lados do 
+Atlântico. Forte envolvimento dos participantes da indústria interagindo 
+estreitamente com organizações de pesquisa e usuários; 
+ 
+• Aumento do conhecimento e competência na fronteira dos componentes 
+inteligentes e da integração de sistemas inteligentes/engenharia de 
+sistemas complexos, com vistas a uma maior eficiência e eficácia de 
+componentes inteligentes e engenharia de sistemas inteligentes/processos, 
+instalações e sistemas que contribuam para a competitividade da indústria 
+envolvida, atratividade crescente para investimentos e inserção de 
+organizações de pesquisa em posições de liderança; 
+ 
+• Contribuição para a proteção ambiental e eficiência energética por meio de 
+soluções inteligentes para gerência e distribuição de energia, controle 
+inteligente de dispositivos elétricos, logística inteligente ou gestão eficiente 
+de energia em prédios/instalações, gerência de fontes de energia e 
+inteligência embarcada integrada. 
+  
+ 
+  
+Linha temática 3: Internet do Futuro - instalações experimentais  
+ 
+ 
+Resultados pretendidos 
+ 
+Uma infraestrutura de comunicação experimental partilhada, em larga escala, que 
+permita o acesso a tecnologias móveis e/ou sem fio, interligadas ou federadas 
+com as infraestruturas FIRE/Internet do Futuro existentes. Essas instalações 
+experimentais flexíveis de rede podem ser baseadas na integração de uma rede 
+óptica de transporte em larga escala com uma variedade de tecnologias de 
+acesso, incluindo comunicação sem fio. Os testes de interconexão e 
+interoperabilidade podem incluir, como experiência piloto, o desenvolvimento e 
+testes de aplicações e serviços avançados concretos e serviços de utilidade 
+pública, em áreas-alvo tais como: educação, telemedicina, monitoramento 
+ambiental e climático e aplicações de apoio à biodiversidade.  
+ 
+As tecnologias emergentes enfatizadas e as áreas de pesquisa a serem 
+consideradas e investigadas devem ser as mais adequadas para este tipo de 
+desenvolvimento envolvendo, por exemplo, a virtualização de rede, redes 
+tolerantes 
+a 
+atrasos, 
+comunicações 
+oportunistas 
+e 
+esquemas 
+de 
+roteamento/nomeação/endereçamento centrados em pessoas e em conteúdos. 
+ 
+Os desenvolvimentos devem ser baseados em padrões abertos com API aberta, 
+como comunicações Openflow ou InterCloud, e deve considerar esforços 
+existentes (por exemplo, Onelab, Federica, Panlab, ORBIT-OMF). 
+ 
+ 
+Impacto esperado  
+ 
+Criação de uma instalação experimental de grande escala para pesquisa em 
+Internet do Futuro no Brasil, envolvendo a comunidade de pesquisa em rede 
+brasileira e a indústria associada e instalações similares associadas na Europa, a 
+fim de reduzir as barreiras de entrada e promover a competição no 
+desenvolvimento e validação experimental de propostas para novas arquiteturas 
+de rede, serviços e aplicações de utilidade pública.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Linha temática 4: Internet do Futuro - Segurança  
+ 
+ 
+Segurança e confiança são condições importantes para garantir a ampla utilização 
+das TIC e para fazer face à exclusão digital. Há duas iniciativas complementares e 
+oportunas ocorrendo na Europa e no Brasil: a Assembleia da Internet do Futuro e 
+a oferta de acesso em banda larga à informação digital, que visam maximizar a 
+absorção de serviços de valor confiáveis para os cidadãos da sociedade da 
+informação.  
+ 
+ 
+Resultados pretendidos 
+ 
+A fim de proporcionar um ambiente que possa garantir a inclusão digital para 
+todas os cidadãos, independentemente de seu ambiente educacional, cultural e 
+econômico, os seguintes desafios devem ser abordados de forma integrada: 
+ 
+• O desenvolvimento de infraestruturas de comunicação confiáveis que 
+permitam o acesso consistente de usuários independentemente de custo, 
+localização, tipo de serviço e dispositivo de acesso. São importantes 
+elementos para esse desafio as questões associadas ao controle e à 
+gerência de dados pessoais, o acesso independente de dispositivo, o 
+gerenciamento do perfil de usuários, a qualidade de experiência (QoE – 
+Quality of Experience) independentemente do dispositivo de acesso, a 
+qualidade de serviço (QoS – Quality of Service) e a acessibilidade; 
+ 
+• O desenvolvimento de ambientes de serviços capazes de fornecer acesso 
+seguro e consistente independentemente do dispositivo de acesso, rede de 
+acesso e rede do provedor de serviço. São elementos-chave desse desafio 
+as questões associadas ao gerenciamento de dados dos cidadãos e o 
+tratamento 
+de 
+seu 
+acesso, 
+armazenamento, 
+proteção 
+e 
+devida 
+contabilização; 
+ 
+• Personalização, acessibilidade e usabilidade independentemente do nível 
+educacional e da formação técnica são fatores-chave para a emancipação 
+do cidadão comum. É necessário encarar questões de confiança e 
+segurança para uma aceitação bem-sucedida e absorção dos ambientes de 
+inclusão digital. O cidadão comum será beneficiado com tais ambientes, 
+porém, a fim de usá-los, eles devem ter confiança em tais sistemas; para 
+tanto, os referidos ambientes não devem apresentar dificuldades técnicas 
+indevidas, e devem satisfazer as necessidades e circunstâncias dos 
+usuários. 
+ 
+ 
+ O acondicionamento desses tópicos-chave de pesquisa com a necessária 
+confiança e segurança é um dos mais importantes desafios desse novo ambiente 
+de comunicações. O nível de engajamento dentro desse ambiente será altamente 
+dependente do nível de segurança fornecido. 
+  
+ 
+Impacto esperado  
+ 
+Criação de um ambiente de inclusão digital com soluções relevantes em nível 
+global que sejam dignas de confiança do cidadão e que incorporem exigências 
+tecnológicas, sociais e legais. 
+  
+ 
+  
+ 
+Linha temática 5: Infraestruturas eletrônicas 
+ 
+ 
+A colaboração entre UE e Brasil em infraestruturas eletrônicas baseia-se em 
+projetos já existentes. O objetivo desta chamada é contribuir para abordar desafios 
+globais, combinando os esforços de investigação em TIC em áreas onde a UE e o 
+Brasil possuem capacidades ou recursos singulares.  
+ 
+ 
+Resultados Esperados 
+ 
+Criar uma infraestrutura eletrônica de dados e de acesso aberto permitindo a 
+colaboração em instrumentação e taxonomia virtual e remota, com ênfase em 
+ciências da vida, biodiversidade e climatologia. Essa cooperação deverá permitir a 
+integração entre iniciativas de ciência eletrônica brasileiras e europeias. Mais 
+especificamente, a P&D deverá abordar os seguintes subtemas: 
+ 
+a) operação remota e virtualização de instalações e instrumentos de pesquisa. 
+Isso deve requerer a integração de infraestruturas eletrônicas existentes 
+brasileiras e europeias, a criação de procedimentos, interfaces fáceis de usar e 
+portais para permitir que os cientistas tenham acesso a infraestrutura eletrônica 
+consolidada e a aplicações de ambientes de pesquisa virtual (por exemplo, a 
+bancos de dados compartilhados (data pools), a publicação eletrônica de 
+dados de domínio específico ou de dados interdisciplinares, a ferramentas de 
+curadoria 
+de 
+dados, 
+a 
+ferramentas 
+de 
+colaboração 
+em 
+rede, 
+ao 
+compartilhamento de mídia de alta qualidade, ao video streaming etc.); 
+ 
+b) acesso livre e plataformas de dados abertos e estruturas organizacionais 
+para apoiar comunidades científicas geograficamente dispersas cooperando na 
+área de informática em favor das ciências da vida, taxonomia, biodiversidade e 
+climatologia, tirando partido da posição geográfica privilegiada do Brasil e de 
+suas condições ambientais e climáticas. Isso deve possibilitar a criação de 
+Repositórios Científicos Federados, como também de plataformas de 
+taxonomia 
+de 
+códigos-fonte 
+abertos, 
+de 
+capacitadores 
+de 
+pesquisa 
+colaborativa e de ambientes educacionais.  
+ 
+As propostas devem incluir atividades específicas para a identificação de uma 
+maior colaboração futura entre Brasil-UE, utilizando infraestruturas eletrônicas nos 
+dois subtópicos acima.  
+ 
+As propostas também devem abordar a utilização de infraestruturas eletrônicas 
+existentes e relacionadas a avanços em Tecnologias de Informação e 
+Comunicação para apoiar suas metas, tais como: redes, software de simulação, 
+ferramentas de visualização apoiadas por ambientes de computação distribuída de 
+ alto desempenho, tecnologias para representação do conhecimento, ambientes 
+colaborativos, gerenciamento e armazenamento de dados para reutilização, a 
+reprodutibilidade dos experimentos e garantia de qualidade dos resultados. 
+ 
+A duração do trabalho proposto não deve exceder 30 meses. As propostas devem 
+alocar recursos para abordar os subtópicos (a) e (b). Nenhum dos subtópicos deve 
+receber menos de 1/3 dos recursos totais.  
+ 
+ 
+Impacto esperado  
+ 
+Promover a consolidação de uma infraestrutura eletrônica atualizada, que explore 
+recursos de computação, comunicação e dados em ambos os lados, permitindo 
+que a UE e o Brasil enfrentem grandes desafios da ciência e da sociedade. A 
+união das diferentes comunidades científicas por meio de infraestruturas 
+eletrônicas avançadas facilitará o desenvolvimento de projetos do tipo Ciência 
+Livre (Open Science), incluindo a questão do acesso e da gestão em vários 
+campos científicos.  
+ 
+ 
+ 
+  
+ 
+ 
+ 

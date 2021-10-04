@@ -1,0 +1,693 @@
+CHAMADA FAPEMIG 08/2016 
+COOPERAÇÃO MULTILATERAL FAPs / INRIA / CNRS  
+APOIO A PROJETOS DE PESQUISA CIENTÍFICA E TECNOLÓGICA 
+A Fundação de Amparo à Pesquisa do Estado de Minas Gerais - FAPEMIG, 
+atendendo à orientação programática da Secretaria de Estado de Ciência, 
+Tecnologia e Ensino Superior - SECTES, observadas as diretrizes de políticas 
+emanadas do Conselho Estadual de Ciência e Tecnologia - CONECIT, e de seu 
+Conselho Curador, e nos termos dos acordos de Cooperação Científica firmados 
+com o Institut National de Recherche en Informatique et en Automatique - INRIA e 
+com o Le Centre National de la Recherche Scientifique - CNRS,  por meio do Institut 
+des Sciences de l’Information et de leur Interactions - INS2i, torna público a presente 
+Chamada e convida as Instituições Cientificas, Tecnológicas e de Inovação - ICTs 
+sediadas no Estado de Minas Gerais e cadastradas junto à FAPEMIG, a 
+apresentarem propostas para obtenção de apoio financeiro, em conformidade com o 
+que estabelece a presente Chamada 
+1 
+OBJETIVOS 
+1.1  
+GERAL 
+Financiar propostas científicas, tecnológicas e de inovação nas áreas das 
+Ciências e Tecnologia de Informação e Comunicação (TIC), elaboradas em 
+conjunto por pesquisadores vinculados a ICTs sediadas no Estado de Minas 
+Gerais, pesquisadores franceses do INRIA e/ou do INS2i-CNRS, com a 
+possibilidade de colaboração de pesquisadores de outros estados da 
+federação. 
+1.2 
+OBJETIVOS ESPECÍFICOS 
+1.2.1 Apoiar, de forma complementar, o desenvolvimento de projetos conjuntos de 
+pesquisas científicas tecnológicas e de inovação de grande impacto a serem 
+desenvolvidos por pesquisadores brasileiros e franceses;  
+1.2.2 fortalecer a evolução institucional das cooperações já firmadas pela formação 
+de equipes associadas; 
+1.2.3 induzir novas cooperações franco-brasileiras pela formação de equipes 
+orbitais, através da execução de um projeto comum de grande impacto nos 
+temas objeto desta Chamada.  
+2       LINHAS DE PESQUISA  
+2.1 
+Tratamento da informação.  
+2.2 
+Comunicação e armazenamento da informação.  
+2.3 
+Tratamento de sinais, dos dados e dos conhecimentos. 
+ 
+ 2.4 
+Modelagem e simulação.  
+2.5 
+Tecnologias de hardware e software.  
+2.6 
+Concepção, verificação e otimização de componentes de software. 
+2.7 
+Concepção, comando e controle de sistemas complexos.  
+2.8 
+Interface homem-máquina.  
+3 
+     NÚMERO DE PROPOSTAS E PRAZOS 
+3.1 
+O número de propostas a se contratar está condicionado ao limite dos 
+recursos disponíveis nessa Chamada. 
+3.2 
+O prazo de execução de cada projeto contratado é de até vinte e quatro 
+meses, contados a partir da data de publicação do extrato do Termo de 
+Outorga Eletrônico (TO@) no Diário Oficial do Estado de Minas Gerais. 
+3.2.1 Não serão aceitos pedidos de adiantamento para a implementação do projeto 
+e/ou das bolsas aprovadas.  
+4 
+PROPOSTAS ELEGÍVEIS 
+           São consideradas elegíveis as propostas de ICTs, sediadas no Estado de 
+Minas Gerais e cadastradas junto à FAPEMIG, que atendam aos requisitos 
+abaixo. 
+4.1.     Por parte da Proponente 
+A instituição de vínculo do autor da proposta, ora denominada Proponente 
+deve:  
+4.1.1 submeter proposta como equipe principal ou equipe orbital, conforme 
+definição constante no Anexo I;  
+4.1.2 se comprometer a propiciar condições adequadas de espaço, infraestrutura, 
+pessoal de apoio técnico e administrativo para o desenvolvimento da 
+proposta; 
+4.1.3 facilitar a mobilidade dos pesquisadores, integrantes da equipe do projeto; 
+4.1.4 permitir à equipe francesa, integrante do projeto, o uso das instalações 
+laboratoriais e acesso a todos os serviços disponíveis na instituição e 
+relevantes para a execução do projeto, limitando o acesso às informações 
+consideradas sensíveis e confidenciais. 
+4.2 
+Por parte da Proposta 
+A proposta a ser submetida deve:  
+4.2.1 estar claramente caracterizada como pesquisa científica, tecnológica ou de 
+inovação em Ciências, Matemática e Tecnologias de Informação e 
+Comunicação; 
+4.2.2 estar claramente definida como equipe principal ou orbital conforme definição 
+constante no Anexo I;  
+ 4.2.3 ser elaborada em conjunto por equipe de pesquisadores mineiros (equipe 
+principal), pesquisadores franceses do INRIA ou do INS2i-CNRS com a 
+colaboração eventual de outras equipes brasileiras (equipe orbital); ou  
+4.2.4 ser elaborada em conjunto por equipe de pesquisadores vinculados a 
+instituições brasileiras não localizadas em Minas Gerais (equipe principal), 
+pesquisadores franceses do INRIA ou do INS2i-CNRS e com a colaboração 
+de equipe mineira (equipe orbital);  
+4.2.4.1 serão considerados membros da equipe da proposta somente os 
+pesquisadores que tenham prestado anuência até cinco dias uteis após o 
+encerramento da Chamada; 
+4.2.4.2 a anuência descrita no item 4.2.4.1 será solicitada ao pesquisador via e-mail, 
+tão logo seja concluída a submissão da proposta. Para que ela seja 
+efetivada é preciso que o membro da equipe aceite, via sistema a sua 
+inclusão na equipe; 
+4.2.5 prever a mobilidade de pesquisadores; 
+4.2.6 prever a publicação conjunta de trabalhos técnicos científicos; 
+4.2.7 prever a elaboração de um PITCH (material de divulgação em vídeo voltado 
+ao público leigo), conforme as diretrizes contidas na página da FAPEMIG; 
+4.2.8 ter o correspondente apoio financeiro solicitado pela equipe brasileira com os 
+solicitados ao INRIA e/ou CNRS pela respectiva equipe francesa e/ou de 
+outras FAPs; 
+4.2.9 os pesquisadores, grupos de pesquisa e especialistas vinculados ao INRIA ou 
+ao INS2i-CNRS devem apresentar proposta correspondente ao INRIA ou ao 
+INS2i-CNRS, respectivamente, nos prazos, meios e formas determinados 
+pelos mesmos;  
+4.2.10 os pesquisadores, grupos de pesquisa e especialistas vinculados a 
+instituições sediadas nos estados coparticipes devem apresentar proposta 
+correspondentes nas FAPs de seus respectivos Estados.  
+4.3 
+Por parte do Coordenador 
+Para ser Coordenador, o autor da proposta deve atender às seguintes 
+condições:   
+4.3.1 ter vínculo com a Proponente; 
+4.3.2 ter currículo atualizado na Plataforma Lattes do CNPq; 
+4.3.3 ter título de doutor; 
+4.3.4 ter qualificação, experiência e desempenho destacado, compatível e 
+comprovado com o tema da proposta apresentada; 
+4.3.5 demonstrar qualidade e regularidade em sua produção científica e/ou 
+tecnológica nos últimos três anos; 
+4.3.6 estar cadastrado no sistema EVEREST da FAPEMIG; 
+4.3.7 observar diretrizes específicas constantes do Manual da FAPEMIG, desde a 
+submissão da proposta até a prestação de contas; 
+ 4.3.8 Apresentar e ser responsável por uma única proposta. 
+5 
+   RECURSOS FINANCEIROS 
+5.1 
+Os recursos alocados, para financiamento desta Chamada, serão da ordem 
+de R$ 240.000,00 (duzentos e quarenta mil reais), valor definido na 
+Programação Orçamentária e Financeira da FAPEMIG. 
+5.2 
+O valor dos recursos solicitados à FAPEMIG em cada proposta deverá ser de, 
+no máximo:  
+5.2.1 R$ 100.000,00 (cem mil reais) para propostas cuja equipe principal seja 
+formada por pesquisadores de ICTs mineiras, sem agregação de equipe            
+orbital;  
+5.2.2 R$ 120.000,00 (cento e vinte mil reais) para propostas, cuja equipe principal 
+seja formada por pesquisadores de ICTs mineiras e com a agregação de 
+equipe orbital;  
+5.2.3  R$ 40.000,00 (quarenta mil reais) para propostas de ICTs de outros Estados e 
+com equipe orbital formada por pesquisadores de ICTs mineiras. 
+5.3 
+Em cada projeto aprovado os recursos serão aportados pela FAPEMIG e pelo 
+INRIA, bem como do INS2i-CNRS e/ou outras FAPs. 
+5.4 
+As despesas decorrentes do item 5.2 correrão às contas das dotações 
+orçamentárias da FAPEMIG a seguir relacionadas ou pelas que as 
+sucederem: 
+ 
+2071.19.573.50.4105.0001.445042.1.101 
+5.5 
+A Proponente, se Instituição Pública, deverá, obrigatoriamente, indicar uma 
+Gestora credenciada junto à FAPEMIG para gerenciamento dos recursos a 
+serem liberados para a proposta aprovada. A inexistência deste dado 
+impedirá o encaminhamento da proposta por meio eletrônico. 
+5.5.1 A Instituição Gestora indicada deverá ser conveniada com a Proponente.  
+5.6 
+Constitui fator impeditivo à liberação do apoio financeiro a existência de 
+inadimplência ou pendências de natureza financeira ou técnica do 
+Coordenador, bem como de qualquer outro membro da equipe do projeto e 
+ainda da Gestora. 
+6 
+   ITENS FINANCIÁVEIS 
+6.1 
+Serão financiados, desde que compatíveis com o objetivo desta Chamada, 
+com o Manual da FAPEMIG e devidamente justificados, os seguintes itens de 
+despesa: 
+6.1.1 equipamentos e material permanente, quando estritamente necessários para 
+a execução do projeto; 
+6.1.2 material de consumo (incluindo aquisição de livros); 
+ 6.1.3 serviços de terceiros (consultoria limitada a 20% do total solicitado); 
+6.1.4 passagens e diárias, conforme valores da FAPEMIG; 
+6.1.5 despesas acessórias de importação; 
+6.1.6 software; 
+6.1.7 despesas operacionais. 
+6.2 
+Nesta Chamada, desde que devidamente justificado e pertinente com o 
+objetivo da proposta, será permitido, excepcionalmente, o financiamento dos 
+itens listados a seguir:  
+6.2.1 passagens internacionais para participantes da equipe brasileira para a 
+França: até quatro passagens aéreas na classe econômica por ano; 
+6.2.1.1 deslocamentos internos na França, caso existam; 
+6.2.1.2 a soma dos custos previstos nos itens 6.2.1 e 6.2.1.1 deverão ser limitados a 
+R$ 4.000,00 (quatro mil reais) por viagem; 
+6.2.2 passagens nacionais para participantes de equipe brasileira: até quatro 
+passagens por ano para visitas entre as equipes principais e orbitais se for o 
+caso;  
+6.2.3 diárias para participantes da equipe mineira na França: até oitenta diárias 
+internacionais, observada as diretrizes constantes no Manual, tendo cada 
+missão duração máxima de vinte dias; 
+6.2.4 diárias para participantes de equipe mineira no Brasil: até 80 diárias 
+nacionais, observada as diretrizes constantes no Manual, para visitas entre as 
+equipes principais e orbitais se for o caso;  
+6.2.5 seguro saúde obrigatório para os brasileiros em missão no exterior, no valor 
+máximo de R$ 300,00 (trezentos reais);  
+6.2.6 bolsas para estágios acadêmicos de mestrandos e doutorandos, integrantes 
+da equipe mineira, na proponente francesa, limitados a dois estágios, por 
+projeto. 
+A duração de cada estágio será de no mínimo um mês e no máximo de três 
+meses cada. 
+Serão financiadas até três mensalidades, conforme tabela FAPEMIG, 
+passagens de ida e volta em classe econômica, passagens terrestres para os 
+deslocamentos internos na França, se houver. 
+6.2.7 Realização de oficinas de trabalhos com as equipes (eventos), sendo 
+financiadas 
+exclusivamente 
+as 
+despesas 
+permitidas 
+na 
+Modalidade 
+Organização de Eventos, descrita no Manual da FAPEMIG. 
+7 
+   PROPOSTAS 
+7.1 
+As propostas deverão ser apresentadas simultaneamente pelo coordenador 
+no Estado de Minas Gerais à FAPEMIG e pelo responsável da equipe 
+francesa ao INRIA e/ou INS2i-CNRS e no caso de outros Estados à sua 
+respectiva FAP. 
+ 7.2 
+A proposta e toda a documentação submetidas à FAPEMIG devem ser 
+redigidas em inglês. 
+7.3 
+As propostas devem ser submetidas à FAPEMIG, obrigatoriamente, em 
+versão eletrônica. 
+7.4 
+A proposta deverá ser preenchida no aplicativo Everest, clicando em     
+http:everest.fapemig.br/ e deverá conter as seguintes informações: 
+7.4.1 Formulário Eletrônico do Everest, devidamente preenchido; 
+7.4.2 detalhamento, listado no formulário eletrônico, de todos os recursos 
+necessários e financiáveis para a execução do projeto, inclusive despesas 
+operacionais, mensalidades de bolsas, entre outros. Não serão considerados 
+itens e/ou justificativas, presentes no corpo do projeto de pesquisa. A não 
+observação do procedimento descrito neste item implicará no não 
+financiamento dos itens; 
+7.4.3 arquivo eletrônico com a proposta de financiamento demonstrando a 
+relevância da proposta contendo: título; identificação da afiliação da equipe 
+francesa (se INRIA ou do INS2i-CNRS); identificação da modalidade (principal 
+ou orbital); objetivo; justificativa para a cooperação internacional e nacional, 
+se for o caso; estado da arte; metodologia de trabalho; interação e 
+qualificação 
+das 
+parcerias; 
+cronograma 
+das 
+atividades 
+a 
+serem 
+desenvolvidas, indicando as fases ou etapas do projeto e o detalhamento das 
+atividades de cada membro da equipe, devendo, se for o caso, incluir as 
+missões de trabalho e de estudo, com justificativa, duração e cronograma de 
+cada 
+missão 
+bem 
+como 
+definir 
+os 
+indicadores 
+de 
+desempenho 
+correspondentes; existência de financiamento de outras fontes e/ou 
+contrapartida dos países envolvidos, com detalhamento do valor e 
+identificação dos itens que integrarão a contrapartida proposta, quando for o 
+caso; relevância da proposta e descrição de todos os possíveis impactos e 
+produtos a serem produzidos ao final do projeto, indicadores da avaliação e 
+acompanhamento e, ainda, possíveis benefícios à sociedade; descrição de 
+todos os possíveis impactos e produtos a serem gerados ao final do projeto; 
+forma de difusão dos resultados do projeto (processos – tecnologias – 
+metodologias – métodos novos ou aperfeiçoados); 
+7.4.4 arquivo eletrônico contendo documento definindo a forma de cooperação 
+estabelecida entre as instituições/entidades mineiras e as francesas e 
+empresas partícipes do projeto, se houver; 
+7.4.5 arquivo eletrônico contendo Plano(s) de Trabalho(s) proposto(s) para o(s) 
+estágios acadêmicos e para os bolsistas quando couber; 
+7.4.6 arquivo eletrônico contendo a indicação dos demais apoios disponíveis e das 
+cooperações firmadas, quando for o caso, bem como descrição da 
+composição (identificação dos itens) da contrapartida e o valor; 
+7.4.7 arquivo eletrônico contendo documento emitido pela instituição proponente se 
+comprometendo a propiciar condições adequadas de espaço, infraestrutura, 
+pessoal de apoio técnico e administrativo para o desenvolvimento da 
+proposta; 
+7.4.8 arquivo eletrônico contendo Termo de Compromisso assinado pela Direção 
+Superior de todas as entidades participantes, executoras e colaboradoras, 
+ nacionais e estrangeiras, confirmando a sua participação e aceitação do seu 
+papel na parceria e disponibilidade de infraestrutura adequada necessários à 
+execução do projeto;  
+7.4.9 arquivo eletrônico contendo Termo de Compromisso assinado por todos os 
+participantes 
+nacionais 
+e 
+estrangeiros 
+envolvidos 
+na 
+cooperação 
+internacional, atestando conhecimento das atividades que lhes são atribuídas 
+no projeto;  
+7.4.10 arquivo contendo documento assinado pelos integrantes da  equipe do projeto 
+se comprometendo a manter todas as informações recebidas da equipe 
+francesa e conhecimentos e resultados adquiridos durante a execução do 
+projeto financiado por esta chamada estritamente confidenciais e a não 
+divulgá-los ou comunicá-los a   terceiros, sejam eles quais forem; 
+7.4.11 arquivo eletrônico contendo todas as permissões e autorizações especiais de 
+caráter ético ou legal, necessárias para a execução do projeto. 
+7.5 
+Os documentos citados nos subitens de 7.4.3 a 7.4.11 deverão ser 
+encaminhados em arquivo a ser anexado ao formulário eletrônico no próprio 
+sistema. 
+7.6 
+No momento de submissão das propostas, as instituições proponentes e 
+gestoras deverão estar cadastradas na FAPEMIG. A relação das 
+instituições/gestoras credenciadas encontra-se na página da FAPEMIG 
+www.fapemig.br/cadastro.  
+7.6.1 Todas as instituições que tiverem propostas aprovadas deverão atualizar seu 
+credenciamento na FAPEMIG até dez dias corridos da publicação dos 
+resultados, sob pena de desclassificação das propostas. 
+8 
+SELEÇÃO E JULGAMENTO 
+8.1 
+ Cada um dos órgãos financiadores, FAPEMIG e INRIA e INS2i-CNRS 
+efetuará a seleção das propostas segundo seus sistemas e métodos de 
+análise. 
+8.1.1 Somente as propostas aprovadas em conjunto pelas agências parceiras serão 
+financiadas. 
+8.1.2 A FAPEMIG, o INRIA, o INS2i-CNRS e outras FAPs, se houver, apreciarão 
+todas as propostas de projetos recomendadas pelas respectivas Comissões 
+Especiais de Julgamento e definirão a seleção final dos projetos para o apoio 
+bilateral, nos termos do Acordo firmado.  
+8.2 
+Na FAPEMIG as propostas serão analisadas em três etapas. 
+8.2.1 Enquadramento: as propostas submetidas serão analisadas pelo corpo 
+técnico da FAPEMIG para verificar se atendem aos termos da desta 
+Chamada. Esta etapa é eliminatória. 
+8.2.2 Mérito: cada proposta enquadrada será analisada quanto ao mérito técnico, 
+científico, relevância, estruturação e adequação metodológica, orçamento e 
+qualificação da equipe e classificadas em ordem de prioridade. As propostas 
+ que obtiverem pelo menos 70% (setenta por cento) da pontuação máxima, 
+por item, serão classificadas. 
+8.2.3 Homologação: as propostas recomendadas e classificadas na etapa anterior 
+serão homologadas pela direção da FAPEMIG, INRIA, INS2i-CNRS e/ou 
+outra FAP participante. 
+8.3 
+ São critérios específicos para o julgamento das propostas: 
+8.3.1 enquadramento aos requisitos formais da Chamada; 
+8.3.2 justificativa fundamentada para o apoio solicitado; 
+8.3.3 infraestrutura oferecida pela instituição que irá sediar o projeto de pesquisa; 
+8.3.4 impacto da proposta na formação de pós-graduandos e o envolvimento de 
+pós-doutores; 
+8.3.5 plano(s) de trabalho(s) do(s) estágio(s) acadêmico(s), doutorado(s)-sanduíche 
+e estágio(s) de pós-doutoramento quando for o caso;  
+8.3.6 pertinência da parceria cientifica proposta e qualidade da justificativa; 
+8.3.7 previsão de publicação conjunta de trabalhos originários do desenvolvimento 
+do projeto; 
+8.3.8 originalidade e/ou relevância da pesquisa tendo em vista os interesses 
+sociais, econômicos, tecnológicos e ambientais para Minas Gerais;  
+8.3.9 competência e experiência prévia do Coordenador na área do projeto de 
+pesquisa proposto;  
+8.3.10 contrapartidas financeiras e econômicas, quando for o caso. 
+8.4 
+ Não poderão atuar como membro da Comissão Especial de Julgamento e/ou 
+do Comitê Gestor, pesquisador que:  
+8.4.1 for coordenador, consultor ou membro da equipe executora de qualquer 
+proposta submetida;  
+8.4.2 tiver interesse direto ou indireto na execução de qualquer proposta submetida;  
+8.4.3 tiver cônjuge, companheiro ou parente, consanguíneo ou afim, em linha reta 
+ou na colateral, até o terceiro grau, participando da equipe de qualquer 
+proposta submetida; 
+8.4.4 tiver litigando judicial ou administrativamente com qualquer membro da equipe 
+do projeto ou seus respectivos cônjuges ou companheiros.  
+8.5 
+As partes contratadas se obrigam a informar à FAPEMIG, o INRIA, o INS2i-
+CNRS e outra FAP quando solicitadas, sobre o impacto técnico e social 
+resultante da aplicação dos resultados do financiamento, previamente 
+definidos no TO@. 
+9 
+ACOMPANHAMENTO E AVALIAÇÃO 
+9.1 
+A FAPEMIG, o INRIA, o INS2i-CNRS e outra FAP se reservam o direito de a    
+qualquer tempo, acompanhar o desenvolvimento das atividades e, após a 
+ conclusão dos trabalhos, verificarem o cumprimento das condições fixadas 
+nos TO@s. 
+9.2 
+ A FAPEMIG, o INRIA, o INS2i-CNRS e outra FAP, se houver, adotarão 
+instrumentos de acompanhamento e avaliação final dos projetos com base 
+nos critérios descritos a seguir: 
+9.2.1 cumprimento dos objetivos propostos e apresentação dos produtos descritos 
+na apresentação da proposta; 
+9.2.2 impactos diretos e indiretos gerados pela proposta, inclusive na contribuição 
+para formação de recursos humanos; 
+9.2.3 impacto do projeto na produção técnico-científica do coordenador e da 
+equipe; 
+9.2.4 qualidade dos periódicos e/ou livros onde foram realizadas as publicações; 
+9.2.5 contribuição para difusão de tecnologia/informação; 
+9.2.6 intercâmbio entre pesquisadores, propiciado pelo desenvolvimento da 
+pesquisa. 
+9.3 
+ Em qualquer ação promocional ou publicação de trabalhos relacionados com 
+o objeto do projeto financiado por esta Chamada, deverá ser feita 
+necessariamente menção expressa à FAPEMIG, ao INRIA, ao INS2i-CNRS e 
+outra FAP, caso houver. 
+9.3.1 A divulgação integral ou de parte dos Resultados, deverá ser submetida ao 
+coordenador do projeto. 
+9.3.2 As publicações ou conferências relativas às pesquisas conduzidas no âmbito 
+do projeto financiado por esta chamada devem respeitar as condições de 
+confidencialidade e observar que os resultados e interesses de cada uma das 
+instituições sejam preservados. 
+10 
+DIREITOS DE PROPRIEDADE INTELECTUAL E DE EQUIPAMENTOS 
+10.1  As invenções, os direitos relativos à propriedade industrial (patentes, 
+desenhos 
+industriais) 
+e 
+direito 
+autoral, 
+inclusive 
+de 
+programa 
+de 
+computadores e cultivares, resultantes de atividades realizadas em 
+decorrência do financiamento da proposta, serão objeto de proteção, em 
+conformidade com a legislação de propriedade intelectual vigente e terão 
+como cotitulares a outorgada executora e a outorgante, respeitados os 
+direitos autorais do autor/inventor. 
+10.2  A alocação dos benefícios pecuniários advindos de resultados econômicos 
+(royalties) auferidos em eventual exploração comercial da tecnologia, 
+inclusive na hipótese de transferência do direito de exploração para terceiros, 
+será definida nos contratos de transferência de tecnologia, quando for o caso.  
+10.3  Os equipamentos adquiridos com os recursos provenientes do financiamento 
+desta Chamada são de propriedade da FAPEMIG. 
+ 10.4  A FAPEMIG poderá doar ou ceder, à Outorgada, os equipamentos adquiridos 
+em decorrência desta Chamada, mediante a figura jurídica da “doação sob 
+encargo” ou outro instrumento. 
+10.5  A FAPEMIG poderá dar outra destinação aos equipamentos adquiridos com 
+os recursos provenientes deste financiamento, diferentemente dos previstos 
+nesta Chamada, no caso de a(s) parte(s) contratada(s) deixar(em) de cumprir 
+o estabelecido no TO@. 
+11 
+DIVULGAÇÃO DOS RESULTADOS 
+11.1  O resultado final da seleção das propostas será publicado no Diário Oficial do 
+Estado de Minas Gerais, em forma de extrato e, na íntegra, na página da 
+FAPEMIG, no endereço www.fapemig.br. 
+11.2 Eventuais recursos poderão ser interpostos junto à Diretoria de Ciência, 
+Tecnologia e Inovação da FAPEMIG, no prazo de cinco dias úteis, contados a 
+partir da publicação dos resultados nos seguintes casos: 
+ 
+quando o solicitante entender que houve falha de julgamento quanto ao 
+mérito da proposta;  
+ 
+quando o solicitante julgar que houve falha de procedimento operacional 
+ou administrativo. 
+11.2.1 A apresentação das razões de recurso e das contrarrazões deverá ser 
+efetuada obrigatoriamente mediante oficio, encaminhado via correio ou 
+protocolado na sede da FAPEMIG.  
+11.2.2 Não serão aceitos os recursos submetidos fora das normas e dos prazos 
+estabelecidos. No caso do mesmo ser enviado pelo correio será considerada 
+a data de postagem. 
+12 
+ CONTRATAÇÃO E LIBERAÇÃO DOS RECURSOS 
+12.1 A contratação dos apoios propiciados por esta Chamada obedecerá à ordem 
+de classificação e dar-se-á de acordo com a disponibilidade financeira, por 
+meio da assinatura de TO@, que será firmado entre a FAPEMIG, a 
+Executora, a Gestora e o Coordenador, todos indicados na proposta, nos 
+termos desta Chamada. 
+12.2 A liberação dos recursos far-se-á na forma estabelecida nos correspondentes 
+TO@s, devendo o repasse financeiro se iniciar após a assinatura do citado 
+TO pelos representantes das partes interessadas, à publicação do seu extrato 
+no Diário Oficial do Estado de Minas Gerais e à liberação dos recursos pelo 
+Tesouro do Estado.  
+12.2.1 A Gestora, quando houver, será responsável pelo gerenciamento do recurso. 
+12.3 Serão definidos nos TO@s, as formas, condições de participação, direitos e 
+obrigações de cada um dos partícipes. 
+ 13. 
+ORIENTAÇÕES GERAIS 
+13.1 Esta Chamada submete-se, no que couber, aos dispositivos legais e 
+regulamentares vigentes e ao Manual da FAPEMIG. 
+13.2 O Manual da FAPEMIG, incluindo os formulários e as tabelas de diárias e de 
+mensalidades de bolsas, encontra-se disponível na página da FAPEMIG no 
+endereço www.fapemig.br. 
+13.3 Todos os valores deverão ser expressos em real. 
+13.4 Não é permitida a contratação de pessoa física por um período superior a 
+oitenta e nove dias, sendo vedada a prorrogação. É vedado, também, o 
+pagamento a qualquer título, para servidor da administração pública ou 
+empregado de empresa pública ou de sociedade de economia mista, por 
+serviços de consultoria ou assistência técnica. 
+13.5 Todos os itens necessários ao desenvolvimento do projeto deverão estar   
+previstos, não sendo permitida alteração após a sua submissão à FAPEMIG. 
+13.6 O PITCH (vídeo de curta duração – aproximadamente 3 min) previsto no item 
+4.2.9 deverá ser enviado junto com o Formulário Síntese de Resultados e 
+será utilizado pela FAPEMIG como material de divulgação. Para maiores 
+detalhes sobre a elaboração do PITCH consultar a página da FAPEMIG. 
+13.6.1 Anexo ao Formulário de Síntese de Resultados (FSR) deverá ser enviado 
+documento autorizando a divulgação do PITCH. 
+13.7 Toda correspondência emitida, por qualquer das partes envolvidas, relativas 
+às propostas ou aos projetos e seus respectivos processos, deverá, 
+obrigatoriamente, mencionar o seu código de identificação. 
+13.8 Decairá do direito de impugnar os termos desta Chamada aquele que, tendo-
+o aceito sem objeção, venha a apontar, posteriormente, eventuais falhas ou 
+imperfeições, hipótese em que sua comunicação não terá efeito de recurso. 
+13.9 Os profissionais prestadores de serviços técnicos especializados, consultores 
+científicos, consultores ad hoc, bolsistas, membros de Comissão Especial de 
+Julgamento e quaisquer outros profissionais e/ou entidades envolvidas nas 
+ações e atividades decorrentes desta Chamada, deverão obrigar-se, por 
+escrito, à manutenção de sigilo sobre os conteúdos de todas as propostas 
+recebidas. 
+13.10 O TO@ definirá as bases em que a FAPEMIG, o INRIA, o INS2i-CNRS e 
+outra FAP acompanhará e supervisionará tecnicamente a evolução da 
+execução das atividades objeto do projeto. 
+13.11 As cláusulas de sigilo não serão objeto de renúncia, por qualquer das partes 
+signatárias dos TO@, enquanto vigentes os objetivos e finalidades desta 
+Chamada 
+e 
+suas 
+cláusulas 
+correspondentes, 
+resguardando-se, 
+irrestritamente, eventuais direitos de propriedade intelectual das partes ou 
+interessados. 
+ 13.12 As partes contratadas obrigam-se a prestar contas do valor financiado nas 
+épocas e condições definidas no TO@. 
+13.13 Os casos omissos serão resolvidos pela Direção Executiva da FAPEMIG. 
+14. 
+INFORMAÇÕES COMPLEMENTARES 
+14.1 Não será concedida suplementação de recursos para fazer frente a despesas 
+adicionais, ficando entendido que qualquer acréscimo de gastos será de 
+responsabilidade da Executora. 
+14.2 A ausência de quaisquer documentos e informações exigidas pela FAPEMIG, 
+bem como o preenchimento incorreto do Formulário Eletrônico e seus anexos, 
+implicará na desqualificação da proposta. 
+14.3 Em todo material de divulgação, como releases, sites, banners, vídeos, 
+cartilhas e qualquer outro material impresso relacionado com o objeto do 
+projeto financiado por essa Chamada, deverá ser explicitada a logomarca ou 
+o nome da FAPEMIG, que entrará sempre sob a chancela de “apoio”.  
+14.4 Em entrevistas, palestras e outras atividades interativas deverá ser explicitado 
+o apoio recebido da FAPEMIG.  
+14.5 Outras informações poderão ser obtidas junto à Central de Informações da 
+FAPEMIG, através do correio eletrônico ci@fapemig.br. 
+14.6 O cronograma desta Chamada e a identificação dos itens financiáveis pelo 
+INRIA e pelo INS2i-CNRS encontram-se descritos no anexo II. 
+15. 
+CALENDÁRIO 
+15.1 As propostas serão recebidas, eletronicamente, pela FAPEMIG, até as 
+dezessete horas do dia 30 de setembro de 2016, podendo ser finalizadas até 
+as 23:59 horas do mesmo dia. 
+15.2 A FAPEMIG não se responsabiliza por qualquer problema na submissão das 
+propostas motivada por eventuais falhas de conexões com a internet, falta de 
+energia elétrica, congestionamento das linhas de comunicação, bem como 
+outros fatores de ordem técnica que impossibilitem a conexão ou a 
+transferência de dados. Essas eventualidades não serão aceitas como 
+argumento para a submissão de propostas após o prazo. Recomenda-se que 
+as propostas sejam encaminhadas com prudente antecedência.  
+16.   DISPOSIÇÕES GERAIS 
+16.1 Os resultados dos recursos, previstos no subitem 11.2, serão comunicados 
+por escrito aos recorrentes. 
+16.2 A existência de eventuais recursos impedirá o andamento normal de todas as 
+demais ações e procedimentos previstos para esta Chamada. 
+ 16.3 A presente Chamada poderá ser revogada ou anulada a qualquer tempo, no 
+todo ou em parte, seja por decisão unilateral da FAPEMIG, seja por motivo de 
+interesse público ou exigência legal, sem que isso implique direito à 
+indenização ou reclamação de qualquer natureza. 
+ 
+Belo Horizonte, 25 de agosto de 2016 
+ 
+Prof. Paulo Sérgio Lacerda Beirão, PhD 
+Diretor de Ciência, Tecnologia e Inovação da FAPEMIG 
+ 
+Prof. Evaldo Ferreira Vilela, PhD 
+Presidente da FAPEMIG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ANEXO I 
+ 
+ Para os fins desta chamada, são adotadas as definições a seguir.  
+ 
+1. 
+Estados copartícipes: Estados que aderiram à chamada conjunta 
+FAPs/INRIA/INS2i-CNRS. Os órgãos financiadores de cada Estado, ou seja, 
+as Fundações de Amparo à Pesquisa de cada Estado são denominadas 
+FAPs copartícipes.  
+ 
+2. 
+Projeto conjunto: projeto com objeto comum de pesquisa bem delineado, de 
+grande impacto, relevante, com objetivos e metas precisamente definidos, em 
+que a composição da equipe franco-brasileira seja complementar na 
+execução do mesmo.  
+ 
+3. 
+Equipe Francesa: pesquisadores do INRIA ou pesquisadores do INS2i-
+CNRS.  
+ 
+4. 
+Equipe Brasileira Principal: pesquisadores vinculados a instituições 
+sediadas em um Estado da federação, cujo histórico de colaboração com a 
+equipe francesa demonstre a complementaridade de ambas na execução do 
+projeto conjunto. Essa equipe será a equipe associada à equipe francesa, 
+podendo a ela se agregar uma ou mais equipes orbitais, do mesmo Estado ou 
+de outras unidades da Federação cujas FAPs sejam copartícipes a esta 
+chamada.  
+ 
+5. 
+Equipe Brasileira Orbital: pesquisadores de um Estado cuja FAP seja 
+coparticipe e que seja capaz de comprovar potencial de colaboração com a 
+equipe principal brasileira e a equipe francesa na execução do projeto 
+conjunto.  
+ 
+6. 
+Proposta de criação de equipe associada: projeto conjunto a ser submetido 
+simultaneamente pelo coordenador da equipe principal brasileira, a esta 
+chamada e pelo Coordenador da equipe francesa, à Chamada lançada pelo 
+INRIA ou à Chamada lançada pelo INS2i-CNRS, com demonstração clara da 
+complementaridade das especialidades dos pesquisadores brasileiros e 
+franceses na execução do mesmo. Caso exista a participação de equipes 
+orbitais de estados copartícipes na proposta, o coordenador de cada equipe 
+orbital deve submeter a mesma proposta à Chamada/Edital lançado pela 
+respectiva FAP copartícipe.  
+ ANEXO II 
+ 
+CRONOGRAMA  
+EVENTOS  
+DATAS  
+Lançamento da Chamada  
+25 de agosto de 2016 
+Data limite para submissão das 
+propostas  
+30 de setembro de 2016  
+Divulgação dos resultados  
+Janeiro de 2017  
+Início da contratação dos projetos  
+A partir de fevereiro de 2017 
+Início da execução dos projetos  
+A partir de fevereiro de 2017 
+ 
+ 
+B) ITENS FINANCIÁVEIS PELO INRIA E CNRS  
+O INRIA e o INS2i-CNRS, em parceria com a Embaixada Francesa no Brasil, 
+financiarão, a título de contrapartida, os seguintes itens:  
+1. 
+passagens aéreas França-Brasil-França para integrantes da equipe francesa 
+em visita à Equipe Brasileira Principal;  
+2. 
+diárias para integrantes da equipe francesa no Brasil em visita à Equipe 
+Brasileira Principal; 
+3. 
+realização de oficinas de trabalho com as equipes (eventos);  
+4. 
+passagens aéreas França-Brasil-França para integrantes da equipe francesa 
+em visita às Equipes Brasileiras Orbitais (uma passagem por ano para cada 
+equipe orbital); 
+5. 
+diárias para integrantes da equipe francesa no Brasil em visita às Equipes 
+Brasileiras Orbitais (até quinze diárias por ano para cada equipe orbital);  
+6. 
+complementação da bolsa para estágio de pós-graduandos brasileiros 
+(mestrandos e doutorandos) na França.  
+ 

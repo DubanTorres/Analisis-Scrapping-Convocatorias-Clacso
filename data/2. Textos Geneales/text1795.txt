@@ -1,0 +1,7207 @@
+
+ 
+1 
+ 
+ 
+DESAFÍO ANII: “TEST SEROLÓGICOS COVID-19” 
+ 
+1. Antecedentes 
+El objetivo de los Desafíos de ANII es lograr la solución de problemas y/o demandas planteadas por el 
+sector productivo o la sociedad en general, a través del desarrollo de Proyectos Innovadores. 
+Los Desafíos de ANII se conciben para promover la integración y fortalecimiento del Sistema Nacional de 
+Ciencia y Tecnología a través de una interacción sinérgica. Se busca aportar a la construcción de una cultura 
+de innovación, fomentar la colaboración entre actores de diferentes ámbitos y sectores, y compartir 
+conocimientos para así afrontar Desafíos de una manera innovadora. 
+En este caso en particular ANII busca colaborar en el diagnóstico de la enfermedad COVID 19 así como en la 
+detección de inmunidad relacionada a dicha enfermedad y presenta el desafío que se describe a 
+continuación. 
+2. Objetivo 
+El presente desafío es planteado por el MSP y ANII, y consiste en el desarrollo y producción de Test 
+Serológicos relacionados al COVID-19. Estos test deberán estar validados y disponibles para ser aplicados 
+por el Ministerio de Salud Pública del Uruguay. 
+ 
+Los test serológicos estarán destinados a cumplir con los siguientes objetivos:  
+- 
+Complementar el diagnóstico molecular de la enfermedad 
+- 
+Detectar la respuesta inmune humoral de pacientes que cursaron la infección 
+- 
+Determinar el título de anticuerpos específicos anti-SARS-CoV-2 en muestras de pacientes 
+recuperados de la infección viral, e integrar este dato en los criterios de inclusión de donantes para 
+la construcción de un Banco de Plasma COVID-19 con eventual valor terapéutico. 
+Se valorará que los test desarrollados sean sometidos a registro ante la autoridad sanitaria nacional 
+competente. 
+3. Beneficiarios 
+Podrán presentarse proyectos conjuntos entre al menos una empresa y una institución de investigación y 
+desarrollo. La pertinencia de la asociación radica en que la participación de la academia en el proyecto 
+implique realizar actividades de desarrollo tecnológico e innovación.  
+Las empresas deberán estar regidas por el derecho privado, podrán ser de cualquier tamaño y deberán 
+estar radicadas en el país. Se excluyen aquellas que posean de forma permanente fondos de presupuestos 
+nacionales, fondos públicos o impuestos directos, así como aquellas instaladas en zonas francas, puerto 
+libre, aeropuerto libre, puerto franco, depósitos aduaneros, tránsito, zonas económicas especiales1, zonas 
+temáticas de servicios o similares. 
+ 
+4. Condiciones de financiamiento 
+  
+ 
+2 
+ 
+Se financiará hasta el 80 % del costo reconocido del proyecto con un monto máximo de UYU 8.000.000 
+(ocho millones de pesos uruguayos). 
+Los test  deberán estar disponibles para su uso antes del 15 de julio de 2020.  
+Los proponentes deberán identificar en la postulación la cantidad de test que serán producidos y puestos a 
+disposición del MSP en la fecha establecida. 
+No se contemplarán soluciones que no contengan la fase de producción de los test. 
+Los rubros financiables se detallan a continuación: 
+a) Honorarios por servicios de capacitación y entrenamiento de personal de las partes. 
+b) Honorarios de personal técnico para la ejecución del proyecto1. 
+c) Sueldos del personal propio de la empresa que propone la solución. 
+d) Gastos asociados a la contratación de consultorías. 
+e) Compra de materiales e insumos. 
+f) Compra de equipamiento esencial para el desarrollo de la innovación.  
+g) Gastos en equipos de prueba, ensayos y laboratorios. 
+h) Gastos en instalaciones y/o medidas de protección laboral y ambiental.  
+i) Compra de material bibliográfico. 
+j) Gastos de compra y/o arriendo de software. 
+k) Gastos de servicios técnicos y de mantención asociados al proyecto. 
+l) Gastos de protección de propiedad intelectual. 
+m) Costos de licencias y adecuación edilicia específica para la instalación de equipos. 
+n) Gastos imprevistos de hasta un 5 % del costo financiable del proyecto 
+Con recursos provenientes del Desafío no se podrán financiar actividades que no estén directamente 
+relacionadas con el proyecto, quedando explícitamente excluidas, entre otras, las siguientes: 
+a) Inversión en activos fijos. 
+b) Inversiones (por ejemplo equipos e instalaciones) que se destinen a la actividad y/o operación 
+habitual de la empresa. 
+c) Personal administrativo de las proponentes. 
+d) Inversiones financieras, tales como depósitos a plazo, fondos mutuos, compra de acciones. 
+e) Pago de deudas de cualquier tipo de la empresa. 
+f) Gastos operacionales recurrentes de la empresa. 
+5. Etapas del Desafío 
+i) Postulación de los proyectos en la Web institucional de ANII. Esta etapa incluye completar el formulario y 
+la presentación de la documentación exigida por ANII.  
+ii) Los proyectos serán evaluados por un Comité Técnico que evaluará el grado de ajuste de la solución al 
+desafío planteado, el mérito innovador y la viabilidad técnica de la misma. 
+iii) Firma del contrato con las instituciones a las cuales se adjudique la solución. Será necesario a su vez un 
+convenio de vinculación entre las instituciones dónde se establecerán aspectos tales como 
+responsabilidades, aportes de las partes, propiedad intelectual, uso de los datos, confidencialidad, etc. 
+                                                           
+1 Rigen los topes de remuneraciones financiables. 
+  
+ 
+3 
+ 
+iv) Ejecución y seguimiento del proyecto. Los desembolsos serán realizados en función del cumplimiento de 
+hitos planteados en la formulación del proyecto. Se retendrá el 10% del monto total hasta la aprobación del 
+informe final. 
+v) Auditoría y cierre del proyecto. 
+  
+ 
+1 
+ 
+ 
+AGENCIA NACIONAL DE INVESTIGACIÓN E INNOVACIÓN 
+PAUTAS PARA LA EVALUACIÓN DE PROYECTOS DE SOLUCIÓN A DESAFÍOS 
+ 
+Desafío “Test serológicos COVID 19” 
+ 
+ 
+I. INTRODUCCIÓN 
+Con el objetivo de facilitar y orientar el trabajo de evaluación de los proyectos 
+presentados al llamado Desafío “Test serológicos COVID 19” se ha elaborado la presente 
+guía básica, referencial, que constituye una pauta para apoyar el análisis y la evaluación de 
+los proyectos que postulan a este llamado. 
+La guía está estructurada en base a preguntas claves que tienen como objetivo facilitar al 
+evaluador la emisión de un juicio respecto a los aspectos o ámbitos de los proyectos que a 
+la ANII le interesa evaluar para tomar una decisión acerca de apoyar o no al proyecto.  
+Es importante indicar que aun cuando estas preguntas constituyen la base de la 
+evaluación, esto no excluye que la calificación de cada aspecto incorpore o se apoye en 
+otros elementos que el evaluador considere relevantes. Asimismo, resulta claro que no en 
+todos los casos será posible dar respuesta a la totalidad de las preguntas orientadoras. 
+En relación a los proyectos que se presentan a los desafíos, a la ANII le interesa que el 
+evaluador emita una opinión respecto de los siguientes aspectos o ámbitos del proyecto: 
+ 
+1. Grado de ajuste de la solución al desafío planteado 
+Es necesario que el proyecto se ajuste a los requerimientos planteados por la empresa 
+en el desafío además de que  la solución sea tecnológicamente factible. 
+ 
+2. Mérito Innovador 
+Es fundamental saber si el proyecto cumple con el requisito de constituir una 
+innovación ya sea en producto (bien o servicio), en proceso, en organización o en 
+comercialización, y que, en caso de implementarse exitosamente, contribuirá a generar 
+un mayor valor agregado en la empresa proponente. 
+3. Viabilidad técnica  
+ Se deben identificar los procesos de investigación y desarrollo (i+d) que sean 
+necesarios realizar, y las dificultades técnicas que se prevén para ello. Es importante 
+también la coherencia de los objetivos con el problema planteado, su claridad, así 
+como los tiempos y costos de ejecución. 
+ 
+ 
+ 
+  
+ 
+2 
+ 
+4. Perspectivas económicas 
+Se requiere identificar las principales partidas de beneficios y costos que se esperaría 
+tener en caso que el desarrollo del proyecto resulte exitoso, y de ser posible, establecer 
+una relación de tendencia entre los beneficios y los costos.  
+5. Viabilidad legal y ambiental 
+Es necesario identificar las disposiciones laborales, tributarias, previsionales y 
+medioambientales vigentes en el país que atañen al proyecto, y establecer las medidas 
+que se tomarán en caso que este se implemente.  
+6. Capacidad del equipo de trabajo 
+La empresa, institución o persona que presente el proyecto debe demostrar que 
+dispone de las capacidades para gestionar y supervisar las actividades establecidas en 
+el proyecto. 
+7. Plan de Trabajo 
+El proyecto debe establecer un Plan de Trabajo conducente al logro de los objetivos 
+propuestos, indicando la metodología a utilizar, las actividades a ejecutar, los tiempos 
+asociados a las actividades y los resultados esperados de las mismas 
+     8. Viabilidad económica-financiera 
+El proyecto debe establecer un presupuesto total y por rubro, razonable y balanceado 
+ 
+ 
+  
+ 
+3 
+ 
+II. PAUTA DE EVALUACION 
+1. Grado de ajuste de la solución 
+ 
+Nulo 
+Medio 
+Alto 
+Grado de ajuste de la 
+solución al Desafío y 
+factibilidad técnica 
+ 
+ 
+ 
+*En caso que en este punto la calificación sea nula, no debe continuar la evaluación del proyecto. 
+ 
+2. Mérito Innovador 15% 
+Preguntas 
+La implementación del proyecto que se presenta permitirá: 
+a) ¿Desarrollar un nuevo producto,  proceso, forma de organización o comercialización? 
+b) ¿Mejorar sustancialmente un producto, servicio o proceso existente?  
+c) ¿La innovación que se propone realizar a través del proyecto contribuirá a desarrollar o 
+fortalecer una ventaja competitiva para la empresa que presenta el desafío, ya sea 
+porque aumenta su productividad, aumenta su valor agregado, disminuye los costos, 
+mejora la calidad de su producto o servicio u otro elemento que le permita distinguirse 
+entre sus competidores? 
+d) ¿La solución existe en  mercado local, nacional, internacional? 
+e) ¿El desarrollo del proyecto permitirá agregar valor que solo podrá captar la empresa 
+que lo ejecuta o impactará también en otras empresas? 
+Comentarios 
+ 
+ 
+ 
+Calificación 
+ 
+ 
+Insuficiente 
+Aceptable 
+Bueno 
+Mérito Innovador  
+ 
+ 
+ 
+ 
+ 
+3. Viabilidad técnica  30% 
+Preguntas 
+a) Alcance 
+¿El problema a resolver planteado en el proyecto está adecuadamente establecido y 
+delimitado? 
+b) Objetivos 
+¿El objetivo general y los objetivos específicos del proyecto están correctamente 
+definidos?  
+c) Resultados 
+¿Los resultados esperados están bien establecidos y los hitos considerados permiten 
+evaluar su avance a lo largo del proyecto? 
+  
+ 
+4 
+ 
+d) Tecnología 
+La tecnología que se propone para desarrollar el proyecto, ¿es una alternativa adecuada 
+y factible? 
+e) Riesgos 
+¿La empresa identifica los riesgos del proyecto y establece una adecuada programación 
+para mitigarlos?  
+¿Existen riesgos que pueden afectar al proyecto que no se han tomado en cuenta? 
+Comentarios 
+ 
+ 
+Calificación        
+ 
+ 
+Insuficiente 
+Aceptable 
+Bueno 
+Viabilidad técnica  
+ 
+ 
+ 
+ 
+4. Perspectivas económicas 10% 
+Preguntas 
+La propuesta en evaluación: 
+a) ¿Identifica las principales partidas de  costos que se esperaría tener en caso que el 
+desarrollo del proyecto resulte exitoso? 
+b) ¿Se observa una posible relación de tendencia positiva entre los beneficios y los costos 
+en el tiempo?  
+Comentarios 
+ 
+Calificación 
+ 
+ 
+Insuficiente 
+Aceptable 
+Bueno 
+Perspectivas 
+económicas 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5. Viabilidad legal y ambiental 5% 
+  
+ 
+5 
+ 
+Preguntas 
+El proyecto en evaluación:  
+a) ¿Identifica las disposiciones y normas laborales, tributarias, previsionales y 
+medioambientales que le podrían afectar? 
+b) ¿Identifica las medidas que se tomarían en caso de que se implemente el proyecto? 
+Comentarios 
+ 
+ 
+ 
+Calificación 
+ 
+ 
+Insuficiente 
+Aceptable 
+Bueno 
+Viabilidad legal y 
+ambiental 
+ 
+ 
+ 
+ 
+ 
+ 
+6. Capacidad del equipo de trabajo 15% 
+Preguntas 
+El proyecto que se presenta: 
+a) ¿Dispone de una dotación de recursos humanos adecuada en cantidad y calidad para 
+realizar las actividades técnicas requeridas para llevar a cabo el proyecto? 
+b) ¿Dispone de las capacidades gerenciales y de liderazgo para conducir y gestionar el 
+proyecto? 
+Comentarios 
+ 
+ 
+ 
+Calificación 
+ 
+ 
+Insuficiente 
+Aceptable 
+Bueno 
+Capacidad del equipo 
+de trabajo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7. Plan de Trabajo 15% 
+Preguntas 
+  
+ 
+6 
+ 
+El Plan de Trabajo propuesto: 
+a) Contempla el desarrollo de las actividades necesarias para el logro de los objetivos, con 
+una secuencia lógica adecuada y con tiempos de demora previstos razonables?  
+b) La metodología utilizada, es apropiada para el desarrollo del proyecto? 
+ 
+Comentarios 
+ 
+ 
+ 
+Calificación 
+ 
+ 
+Insuficiente 
+Aceptable 
+Bueno 
+Plan de Trabajo  
+ 
+ 
+ 
+ 
+ 
+ 
+8. Viabilidad económica financiera 10% 
+Preguntas 
+ 
+a) ¿El presupuesto propuesto está correctamente dimensionado de acuerdo a los objetivos 
+y las actividades a desarrollar en el proyecto?  
+b) ¿Los valores establecidos en los rubros presentados se ajustan a los valores de 
+mercado? 
+c)  ¿Existe sobre o sub valoración en algún rubro importante del presupuesto? 
+ 
+Comentarios 
+ 
+Calificación 
+ 
+ 
+Insuficiente 
+Aceptable 
+Bueno 
+Viabilidad Económica 
+financiera 
+ 
+ 
+ 
+ 
+ 
+9. Juicio global 
+  
+ 
+7 
+ 
+Comentarios 
+ 
+ 
+ 
+ 
+ 
+Calificación 
+ 
+ 
+Aspectos o ámbitos 
+Insuficiente 
+Aceptable 
+Bueno 
+Juicio global 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Res. Nº 3921/020  
+ 
+Montevideo, 19 de mayo de 2020. 
+ 
+ 
+VISTO: 1) Que el Área de Operaciones ha elevado el informe de los evaluadores del 
+Desafío ANII: Test serológicos COVID-19, correspondiente a la solución presentada 
+por: Universidad de la República, Institut Pasteur de Montevideo, ATGEN S.R.L 
+ 
+RESULTANDO: Que el proyecto cumple con el objetivo de la ventanilla en la cual fue 
+presentado: “Desafío ANII: Test serológicos COVID-19”. 
+ 
+CONSIDERANDO: 1) Que a través del presente proyecto se busca desarrollar, 
+producir y suministrar al Ministerio de Salud Pública en el corto plazo test serológicos 
+para COVID-19 producido localmente. 2) Que el proyecto tiene el informe favorable de 
+los evaluadores del Desafío ANII: Test serológicos COVID-19. 
+ 
+ATENTO: A lo expuesto, 
+ 
+EL DIRECTORIO DE LA  
+AGENCIA NACIONAL DE INVESTIGACIÓN E INNOVACIÓN 
+ 
+RESUELVE: 1) Aprobar el proyecto presentado por Universidad de la República, 
+Institut Pasteur de Montevideo y ATGEN S.R.L, identificado con el código 
+FSI_S_2020_1_162229, con un subsidio del 68%, lo que significa un aporte de la ANII 
+de hasta UYU 8.000.000 (ocho millones pesos uruguayos). 2) La coordinación de la 
+difusión de los resultados estará a cargo de la Unidad de Comunicación de ANII. 3) 
+Comuníquese a los interesados, al Gabinete Ministerial de Transformación Productiva 
+y Competitividad y al CONICyT.  
+ 
+  
+                                                                                                                                                                 
+ 
+ 
+INFORME DE CIERRE POSTULACIÓN DE SOLUCIONES 
+DESAFÍO ANII: “TEST SEROLOGICOS COVID 19” 
+ 
+ 
+a. Antecedentes 
+ 
+El objetivo de los Desafíos ANII es lograr la solución de problemas y/o demandas planteadas por el sector 
+productivo o la sociedad en general, a través del desarrollo de Proyectos Innovadores. 
+Los Desafíos ANII se conciben para promover la integración y fortalecimiento del Sistema Nacional de Ciencia 
+y Tecnología a través de una interacción sinérgica. Se busca aportar a la construcción de una cultura de 
+innovación, fomentar la colaboración entre actores de diferentes ámbitos y sectores y compartir 
+conocimientos para así afrontar Desafíos de una manera innovadora. 
+Con este Desafío se busca colaborar en el diagnóstico y epidemiología de la enfermedad COVID 19 y presenta 
+el desafío que se describe a continuación 
+El desafío “Test serológicos COVID 19”, planteado por ANII y el Ministerio de Salud Pública, consiste en el 
+desarrollo y producción de test serológicos relacionados al COVID-19. Estos test deberán estar validados y 
+disponibles para ser aplicados por el Ministerio de Salud Pública del Uruguay. 
+Los test deberán estar disponibles y en uso antes de 15 de julio 2020. 
+Se valorará que los test desarrollados sean sometidos a registro ante la autoridad sanitaria nacional 
+competente. 
+Se financiará hasta el 80 %  del costo reconocido del proyecto con un monto  máximo de UYU 8.000.000 
+(ocho millones de pesos uruguayos). 
+ 
+b. Resultados de la convocatoria 
+ 
+El llamado para la presentación de soluciones permaneció abierto desde el 6 de mayo hasta el 15 de mayo de 
+2020. 
+Al momento de cierre se presentó un proyecto: 
+ 
+Código 
+Título 
+ 
+Instituciones proponentes 
+Aporte ANII 
+(UYU) 
+Otro 
+aportes 
+(UYU) 
+Costo total 
+proyecto 
+(UYU) 
+FSI_S_2020_1_162229 
+Desarrollo y producción 
+de test serológicos COVID 
+19 
+Universidad de la República, 
+Institut Pasteur de 
+Montevideo y empresa ATGen 
+8.000.000 
+3.844.360 11.844.360 
+ 
+ 
+ 
+  
+Página 1 de 3 
+ 
+AGENCIA NACIONAL DE INVESTIGACIÓN E INNOVACIÓN 
+BASES GENERALES DE LOS INSTRUMENTOS PARA LA INNOVACIÓN 
+ 
+INTRODUCCIÓN 
+La Agencia Nacional de Investigación e Innovación (ANII), es una entidad gubernamental que promueve y 
+estimula la investigación y la aplicación de nuevos conocimientos a la realidad productiva y social del país. 
+Para ello, la ANII pone a disposición de los agentes económicos del país (personas, empresa e 
+instituciones) diversos programas a través de los cuales les puede transferir recursos financieros para 
+apoyar la implementación de sus actividades y proyectos en 4 áreas, que son: formación, investigación, 
+innovación y emprendimiento.  
+En el área de innovación la ANII dispone de un conjunto de líneas de apoyo destinadas a las empresas que 
+tienen la finalidad que éstas incorporen las actividades de innovación como un elemento cotidiano y 
+permanente de su gestión, que desarrollen, implementen y pongan en valor sus innovaciones, y que 
+puedan acceder a sus mercados de destino.  
+Este documento recoge los requisitos generales para acceder a los beneficios de los instrumentos para el 
+apoyo la innovación empresarial. 
+1. BENEFICIARIOS 
+Podrán acceder a los beneficios de estos instrumentos las empresas de derecho privado de todos los 
+tamaños, que estén radicadas en el país, con la exclusión de aquellas que poseen de forma permanente 
+fondos de presupuestos nacionales, fondos públicos y/o impuestos directos así como aquellas instaladas 
+en las zonas francas, puerto libre, aeropuerto libre, puerto franco, depósitos aduaneros o similares.. 
+Dentro de los beneficiarios de estos instrumentos se incluye a las cooperativas productoras de bienes y 
+servicios cuya producción tiene como destino el mercado. 
+Las empresas podrán presentarse individualmente, asociadas a otras empresas y/o asociadas a institutos 
+de investigación públicos o privados y/o a centros tecnológicos; los casos de asociaciones serán 
+establecidos a través de la firma de convenios entre las partes1. 
+Para acceder a los beneficios de esta línea, las empresas deberán: 
+a) Postular formalmente a este instrumento a través de los procedimientos y formularios que la ANII 
+disponga. 
+b) Demostrar que están al día con sus obligaciones tributarias. 
+c) Presentar toda la documentación que la ANII establezca y requiera. 
+d) Estar dispuestas a financiar la contrapartida  de la empresa  y aceptar las condiciones financieras 
+de los aportes de la ANII. No se aceptarán aportes  en especie. 
+e) Estar dispuestas a firmar los contratos requeridos y en los tiempos establecidos por la ANII. 
+                                                           
+1 ANII pondrá a disposición de las beneficiarias modelos de convenios de vinculación que podrán ser utilizados y firmados previo 
+a la firma del contrato con ANII. 
+  
+Página 2 de 3 
+ 
+f) Estar dispuestas a entregar toda la información requerida por la ANII para sus actividades de 
+seguimiento y cierre de los proyectos, así como para las actividades de evaluación de resultados e 
+impacto y auditorias que se realicen por parte de ella o quién ésta determine. 
+g) Presentar una persona que cumpla la función de responsable del proyecto. 
+ 
+No se aceptarán solicitudes de empresas que al momento de la postulación se encuentren en situación de 
+incumplimiento con la ANII en cualquiera de sus programas (por ejemplo: adeudamiento de informes de 
+avances técnicos, rendiciones finales, informes de cierres, encuestas). Esto también aplica a los 
+Responsables por parte de la empresa.  
+ 
+2. ACTIVIDADES NO FINANCIABLES 
+Con recursos provenientes de la ANII no se podrán financiar actividades que no estén directamente 
+relacionadas con el proyecto, quedando explícitamente excluidas, entre otras, las siguientes: 
+a) Inversión en activos fijos. 
+b) Inversiones (por ejemplo equipos e instalaciones) que se destinen a la actividad y/o operación 
+habitual de la empresa. 
+c) Personal administrativo de las proponentes. 
+d) Inversiones financieras, tales como depósitos a plazo, fondos mutuos, compra de acciones. 
+e) Pago de deudas de cualquier tipo de la empresa. 
+f) Gastos operacionales recurrentes de la empresa.  
+ 
+3. MECANISMOS DE ACCESO 
+La presentación de los proyectos será a través del mecanismo de ventanilla abierta, es decir, los proyectos 
+podrán ser presentados en la fecha que las empresas lo deseen, y el proceso de evaluación iniciará una 
+vez finalizada su postulación.  
+ 
+4. PROCESOS DE POSTULACIÓN, EVALUACIÓN Y SEGUIMIENTO 
+Las actividades por las que deberán transitar los proyectos que postulen y reciban apoyo a través de este 
+instrumento, se enmarcarán en los siguientes procesos secuenciales: 
+a) PREPARACIÓN Y POSTULACIÓN  
+Corresponde a todas las actividades que ocurren desde que la empresa consulta los requisitos y 
+condiciones para postular a este instrumento, hasta que completa el formulario de postulación 
+formal.  
+b) EVALUACIÓN  
+Corresponde a las actividades que se realizan en la ANII con posterioridad a la postulación formal 
+del proyecto. Corresponde al proceso de análisis, evaluación del proyecto, y finaliza con la 
+comunicación a la empresa acerca de los resultados de la postulación de su proyecto. 
+ 
+  
+Página 3 de 3 
+ 
+c) FORMALIZACIÓN 
+Corresponde a las actividades que se realizan después que se le comunica a la empresa la 
+aprobación de su proyecto, y finaliza con la formalización entre las partes, empresa y ANII, a 
+través de la firma de un Contrato de Financiamiento en el que se establecen las condiciones 
+técnicas, administrativas y financieras para la ejecución del proyecto. 
+ 
+d) EJECUCIÓN Y MONITOREO 
+Corresponde a las actividades que se realizan después de la formalización entre las empresas y la 
+ANII, en que las empresas ejecutan las actividades comprometidas en el proyecto aprobado, y la 
+ANII realiza el seguimiento técnico y financiero del proyecto. 
+Durante la ejecución del proyecto, la empresa deberá justificar los gastos realizados con cargo al 
+mismo para poder recibir de la ANII el reembolso de gastos o adelanto correspondiente. 
+e) CIERRE DEL PROYECTO 
+Corresponde a las actividades de evaluación del cumplimiento de los compromisos técnicos y 
+financieros del proyecto, y a las actividades de cierre del mismo, por parte de la ANII y de las 
+empresas beneficiadas.  
+Una vez terminada la ejecución de un proyecto, el beneficiario deberá entregar a ANII un Informe 
+de Cierre, en el que se presentarán los resultados obtenidos. El Informe de Cierre será evaluado, y 
+en caso de ser aprobado se procederá a reintegrar el porcentaje de financiamiento retenido hasta 
+contar con su aprobación.  
+ 
+  
+ 
+Página 1 de 16 
+CLASIFICACIÓN DE CLASES DE ACTIVIDAD 
+Según Clasificación Internacional Industrial Uniforme (C.I.I.U.) Revisión 3 a 2 y 4 Dígitos 
+C.I.I.U. 
+2 Dígitos 
+C.I.I.U. 
+4 Dígitos 
+DESCRIPCIÓN 
+A- AGRICULTURA, GANADERIA, CAZA Y SILVICULTURA 
+01 
+ 
+AGRICULTURA, GANADERIA, CAZA Y ACTIVIDADES CONEXAS 
+ 
+0111 
+Cultivo de cereales y otros cultivos n.c.p (ej. algodón, semillas oleaginosas, remolacha 
+azucarera, caña azucarera, papas, tabaco, pastos forrajeros, etc.). 
+ 
+0112 
+Cultivo de hortalizas y legumbres, recolección de hongos y trufas, pimientos, hortalizas 
+como perejil, estragón y otras, productos de vivero, como por ej., plantas para transplante 
+y ornamentación. 
+ 
+0113 
+Cultivo de árboles frutales, pequeñas frutas, uvas y plantas cuyas hojas o frutas se utilizan 
+para preparar bebidas y especias. Incluye la elaboración de vino cuando se realiza en el 
+mismo lugar en que se cultiva la uva. 
+ 
+0121 
+Cría de ganado vacuno, ovino, caballar, cabras. 
+ 
+0122 
+Cría de pollos. 
+ 
+0123 
+Cría de cerdos. 
+ 
+0129 
+Cría de otros animales n.c.p. 
+ 
+0130 
+Cultivo de productos agrícolas en combinación con la cría de animales (explotación mixta). 
+ 
+0140 
+Servicios agrícolas y ganaderos excepto los servicios veterinarios. (Plantación, cuidado de 
+cultivos, protección contra enfermedades e insectos, recolección de cosechas, desmotado 
+de algodón. Preparación de los productos para su comercialización. Diseños paisajistas 
+para plantíos. Conservación de prados. Manejo del sistema de riego. Albergue, cuidado y 
+reproducción de animales, inseminación artificial, esquila de ovejas, etc..). 
+ 
+0150 
+Caza ordinaria y mediante trampas y repoblación de animales de caza y servicios conexos. 
+Producción de pieles finas, cueros de reptiles y plumas de aves. Reproducción de 
+animales de caza. 
+02 
+ 
+SILVICULTURA, EXTRACCION DE MADERA Y SERVICIOS CONEXOS 
+ 
+0200 
+Silvicultura, extracción de madera y servicios conexos. (Lucha contra incendios, servicios 
+de corte, transporte de troncos, inventario de existencias maderables, etc.). 
+B- PESCA 
+05 
+ 
+PESCA, EXPLOTACION DE CRIADEROS DE PECES; SERVICIOS RELACIONADOS 
+CON LA PESCA 
+ 
+0500 
+Pesca, explotación de criaderos de peces; servicios relacionados con la pesca. 
+C- EXPLOTACION DE MINAS Y CANTERAS 
+10 
+ 
+EXTRACCION DE CARBON, LIGNITO Y TURBA 
+ 
+1000 
+Extracción de carbón, lignito y turba (fabricación de briquetas). 
+11 
+ 
+EXTRACCION DE PETROLEO CRUDO Y GAS NATURAL; SERVICIOS 
+RELACIONADOS CON LA EXTRACCION 
+ 
+1110 
+Extracción de petróleo crudo y gas natural. Producción de hidrocarburos. (Incluye la 
+perforación y terminación de pozos, cuando no son realizados por terceros) 
+ 
+1120 
+Servicios relacionados con la extracción de petróleo y gas. (Perforación inicial, erección de 
+torres, cementación, taponamiento y abandono de pozos a cambio de una retribución o por 
+contrata). 
+  
+ 
+Página 2 de 16 
+C.I.I.U. 
+2 Dígitos 
+C.I.I.U. 
+4 Dígitos 
+DESCRIPCIÓN 
+12 
+ 
+EXTRACCION DE MINERALES DE URANIO Y TORIO 
+ 
+1200 
+Extracción de minerales de uranio y torio. 
+13 
+ 
+EXTRACCION DE MINERALES METALIFEROS 
+ 
+1310 
+Extracción de minerales de hierro. 
+ 
+1320 
+Extracción de minerales metalíferos no ferrosos. 
+14 
+ 
+EXPLOTACION DE OTRAS MINAS Y CANTERAS 
+ 
+1411 
+Extracción de balasto, arena, arcilla y canto rodado. 
+ 
+1412 
+Extracción de piedra caliza (caleras). 
+ 
+1413 
+Canteras de mármol y granito. 
+ 
+1419 
+Extracción de yeso. 
+ 
+1421 
+Extracción de mineral para la fabricación de abonos y productos químicos. Recolección de 
+guano. 
+ 
+1422 
+Extracción de sal. (Sal refinada corresponde a la rama 2429). 
+ 
+1423 
+Extracción de gemas naturales. 
+ 
+1429 
+Minas y canteras de asbesto, mica, cuarzo, abrasivos naturales distintos de la arena, 
+grafito, talco, asfaltos y betunes, turba y demás minerales no metálicos n.c.p.. La 
+molienda, trituración, pulverización etc. de estos minerales, se incluyen en este grupo 
+cuando se realizan simultáneamente con la extracción. 
+D- INDUSTRIAS MANUFACTURERAS 
+15 
+ 
+ELABORACION DE PRODUCTOS ALIMENTICIOS Y BEBIDAS 
+ 
+1511 
+Matanza de ganado (vacuno, ovino, caballar y porcino) y de otros animales. Preparación y 
+conservación de carnes. Extracción y refinación de manteca de cerdo y otras grasas 
+comestibles. 
+ 
+1512 
+Elaboración y conservación de pescado y productos de pescado. 
+ 
+1513 
+Elaboración y conservación de frutas, legumbres y hortalizas. 
+ 
+1514 
+Elaboración de aceites y grasas de origen vegetal y animal. 
+ 
+1520 
+Elaboración de productos lácteos. 
+ 
+1531 
+Molinos harineros. (Molinos arroceros se incluyen en la clase 1534). Molienda de cereales, 
+elaboración de alimentos mediante el tostado, insuflación, etc.. 
+ 
+1532 
+Elaboración de almidones de arroz, maíz, patata, yuca y productos derivados del almidón. 
+Molienda de maíz húmedo. Elaboración de aceite de maíz, gluten y glucosa. 
+ 
+1533 
+Elaboración de alimentos preparados para animales (los subproductos que sirven de 
+alimento para animales sin tratamiento posterior, se clasifican en las industrias que los 
+originan). 
+ 
+1534 
+Molinos arroceros. 
+ 
+1541 
+Elaboración de productos de panadería. 
+ 
+1542 
+Elaboración de azúcar de caña y de remolacha. Elaboración de sacarosa. 
+ 
+1543 
+Elaboración de cacao, chocolate y productos de chocolate, caramelos, pastillas, confites, 
+goma de mascar. Frutas y cáscaras abrillantadas. 
+ 
+1544 
+Fiderías y fabricación de pastas frescas. 
+  
+ 
+Página 3 de 16 
+C.I.I.U. 
+2 Dígitos 
+C.I.I.U. 
+4 Dígitos 
+DESCRIPCIÓN 
+ 
+1549 
+Elaboración de otros productos alimenticios n.c.p. (sopas y jugos concentrados, alimentos 
+a base de nueces, café, miel, te, especies, condimentos, vinagres, levadura y productos a 
+base de huevo). Extractos de carne, pescado y legumbres. Yerba mate. 
+ 
+1551 
+Destilación, rectificación y mezcla de bebidas espirituosas. Alcohol etílico. 
+ 
+1552 
+Elaboración de vinos. (La elaboración en el mismo lugar donde se cultivan las uvas se 
+incluye en la clase 0113). 
+ 
+1553 
+Cervecerías y fabricación de maltas. 
+ 
+1554 
+Fabricación de bebidas sin alcohol y aguas de mesa minerales o no. 
+16 
+ 
+ELABORACION DE PRODUCTOS DE TABACO 
+ 
+1600 
+Industria del tabaco. 
+17 
+ 
+FABRICACION DE PRODUCTOS TEXTILES 
+ 
+1711 
+Hilandería, tejeduría y acabado de lana, algodón, sintético y fibras duras. Se incluye el 
+teñido cuando éste se realiza en la misma unidad de producción del hilado o tejido. Incluye 
+tejidos de fibra de vidrio. (Lavaderos y fabricación de tops se incluyen en la clase 1713). 
+ 
+1712 
+Acabado de productos textiles (blanqueo, teñido, etc., cuando no se produce en la misma 
+unidad en que se hace el tejido o el hilado). 
+ 
+1713 
+Lavaderos y fabricación de tops. 
+ 
+1720 
+Fabricación de otros productos textiles con tejidos no producidos en la misma unidad. 
+(Cuando los artículos se fabrican en la misma unidad que produce los tejidos, la actividad 
+se considera auxiliar de la tejeduría). Incluye fabricación de toallas, frazadas, toldos, 
+cortinas, redes, alfombras, artículos de pasamanería, tejidos recubiertos de plástico, 
+guatas, camisas para mecheros, cuerdas, cordeles, hilos de fibras textiles recubiertos o no 
+con caucho o plástico, etc.. 
+ 
+1730 
+Fabricación de tejidos de punto como buzos, chalecos, camisetas, medias y similares. Se 
+incluyen prendas de vestir cuando los tejidos se producen en la misma unidad. 
+18 
+ 
+FABRICACION DE PRENDAS DE VESTIR Y TEÑIDO DE PIELES 
+ 
+1810 
+Fabricación de prendas de vestir, con materiales no fabricados en la misma unidad, 
+excepto prendas de piel. Incluye la fabricación de prendas de tela, otros materiales textiles 
+y de cuero. Ropa interior y exterior, y accesorios como guantes, cinturones, sombreros, 
+redecillas para el pelo, excepto calzado. 
+ 
+1820 
+Fabricación de pieles finas y de artículos de pieles finas (excepto calzado). Incluye 
+fabricación de prendas de vestir de piel y teñido de pieles finas. Incluye fabricación de 
+artículos con pieles artificiales. 
+19 
+ 
+CURTIEMBRES Y TALLERES DE ACABADO; FABRICACI0N DE PRODUCTOS DE 
+CUERO EXCEPTO PRENDAS DE VESTIR; FABRICACI0N DE CALZADO DE CUERO 
+ 
+1911 
+Curtiembres y talleres de acabado. 
+ 
+1912 
+Fabricación de maletas, bolsos de mano y otros artículos de cuero. También se incluye la 
+fabricación de maletas, bolsos de mano y artículos similares confeccionados con otros 
+materiales (imitación cuero) tales como plástico, fibras vulcanizadas, etc. (Fabricación de 
+cinturones se incluye en la clase 1820). 
+ 
+1920 
+Fabricación de calzado de cualquier material y para todo uso. 
+20 
+ 
+PRODUCCION DE MADERA Y PRODUCTOS DE MADERA EXCEPTO MUEBLES; 
+FABRICACION DE PRODUCTOS DE CAÑA, MIMBRE, CORCHO Y MATERIALES 
+TRENZABLES 
+  
+ 
+Página 4 de 16 
+C.I.I.U. 
+2 Dígitos 
+C.I.I.U. 
+4 Dígitos 
+DESCRIPCIÓN 
+ 
+2010 
+Aserraderos, acabado de madera, fabricación de parquet. 
+ 
+2021 
+Fabricación de productos de madera, excepto muebles. Carpintería de obra blanca. 
+Incluye también la fabricación de hojas y tablas de madera, hojas de madera enchapada, 
+otros productos de madera laminada. Fabricación de recipientes de madera, jaulas. 
+ 
+2029 
+Fabricación de artículos de corcho, paja y materiales trenzables (caña, mimbre, etc., 
+excepto muebles que no sean empotrados). Incluye herramientas, hormas, adornos, 
+percheros, carretes, armarios de cocina y otros muebles empotrados, planchas de corcho, 
+cestos de mimbre, etc.. 
+21 
+ 
+FABRICACION DE PAPEL Y DE PRODUCTOS DE PAPEL 
+ 
+2101 
+Fabricación de pulpa de madera, papel y cartón. 
+ 
+2102 
+Fabricación de papel y cartón ondulado y de envases de papel y cartón. 
+ 
+2109 
+Fabricación de artículos de papel y cartón (papel carbónico, papel para fotocopia sobres, 
+postales, carpetas, papel higiénico, toallas, servilletas, tampones, toallas higiénicas, y 
+otros artículos como bandejas, platos y vasos, etc.) 
+22 
+ 
+ACTIVIDADES DE ENCUADERNACION, IMPRESION, EDICION Y REPRODUCCION DE 
+GRABACIONES 
+ 
+2211 
+Actividades de encuadernación, impresión, edición, grabación y reproducción sobre papel, 
+excepto diarios y revistas. Incluye libros, tarjetas postales, folletos, etc.. 
+ 
+2212 
+Impresión y edición de diarios y revistas. 
+ 
+2230 
+Edición y reproducción de grabaciones en discos gramofónicos, cintas magnetofónicas, 
+videocintas y cintas de computadores a partir de grabaciones originales. Reproducción de 
+discos flexibles y duros de computadores, duplicación de filmes y otros medios de 
+reproducción sonora. 
+23 
+ 
+ 
+FABRICACION DE PRODUCTOS DIVERSOS DERIVADOS DEL PETROLEO Y DEL 
+CARBON 
+ 
+2310 
+Fabricación de materiales para pavimentación y techado a base de asfalto. Fabricación de 
+briquetas de combustible y combustible aglomerado de carbón o lignito comprados y 
+aceites y grasas lubricantes, compuestos y mezclas preparadas con materiales 
+comprados. 
+ 
+2320 
+Producción de combustibles, aceites grasas lubricantes, productos bituminosos y otros 
+productos derivados del petróleo como etano, butano y propano. 
+ 
+2330 
+Producción de combustible nuclear. 
+24 
+ 
+FABRICACION DE SUSTANCIAS Y DE PRODUCTOS QUIMICOS 
+ 
+2411 
+Fabricación de sustancias químicas básicas (excepto abonos y compuestos de nitrógeno): 
+gases industriales y elementales, ácidos inórganicos excepto ácido nítrico, sustancias 
+químicas inorgánicas como hidrocarburos, benceno y otros productos de la destilación del 
+alquitrán de hulla y de aceite mineral, alcoholes (excepto alcohol etílico), colorantes de 
+origen vegetal, animal y sintéticos, curtientes sintéticos, etc.. 
+ 
+2412 
+Fabricación de abonos. Se incluye la fabricación de úrea y abonos nitrogenados, 
+fosfatados y potásicos. 
+ 
+2413 
+Fabricación de plásticos en formas primarias, caucho sintético, resinas sintéticas y fibras 
+artificiales. 
+ 
+2421 
+Fabricación de plaguicidas y otros productos químicos de uso agropecuario. (Insecticidas, 
+raticidas, fungicidas, reguladores del crecimiento de las plantas, herbicidas, 
+desinfectantes, etc.). 
+  
+ 
+Página 5 de 16 
+C.I.I.U. 
+2 Dígitos 
+C.I.I.U. 
+4 Dígitos 
+DESCRIPCIÓN 
+ 
+2422 
+Fabricación de pintura, barnices, lacas, masillas, disolventes, removedores de pintura, 
+tintas para imprenta, óleos, pasteles, crayolas, pinturas para artistas. 
+ 
+2423 
+Fabricación de productos farmacéuticos y medicamentos para uso médico y veterinario. 
+(Apósitos, vendajes, cementos dentales, productos botánicos). 
+ 
+2424 
+Fabricación de jabones, artículos de limpieza, artículos de tocador y preparados para pulir 
+y limpiar (bruñidores, pomada para calzado, polvos abrasivos, ceras, glicerina, etc.). 
+ 
+2429 
+Fabricación de explosivos, artículos pirotécnicos, fósforos, adhesivos, aceites esenciales, 
+polvos y pastas para soldadura, aditivos para aceites lubricantes, tinta para escribir, 
+municiones, papel radiográfico, fotográfico y heliográfico. Material para grabaciones 
+sonoras y de otro tipo. Fabricación de otros productos químicos n.c.p., como preparados 
+anticongelantes, carbón activado, pasta para calzado, etc. Refinación de sal comestible. 
+ 
+2430 
+Hilandería y tejeduría de fibras artificiales compradas. Fabricación de fibras discontinuas, 
+estopas de filamentos artificiales excepto vidrio. 
+25 
+ 
+FABRICACION DE PRODUCTOS DE CAUCHO Y PLASTICO 
+ 
+2511 
+Fabricación de cámaras y neumáticos. Recauchutaje. (La reparación de pinchaduras se 
+incluye en la clase 5020). 
+ 
+2519 
+Fabricación de productos de caucho natural o sintético en formas básicas (planchas, 
+varillas, tubos, mangueras, regatones, productos para revestimientos de pisos, etc.). 
+Fabricación de materiales para la reparación de cámaras. 
+ 
+2520 
+Fabricación de productos de plástico. Se incluyen los productos de tejido de plástico, 
+excepto prendas de vestir. Incluye la fabricación de cortinas de enrollar y ventanas de 
+plástico y su colocación por los fabricantes. También recubrimientos para pisos en rollos y 
+en losetas .Se excluye la fabricación de instrumentos científicos, colchones de plástico, 
+juegos, juguetes, que se declaran en las clases correspondientes a estas producciones. 
+26 
+ 
+FABRICACION DE OTROS PRODUCTOS MINERALES NO METALICOS 
+ 
+2610 
+Fabricación de vidrio y productos de vidrio, excepto el material médico e instrumentos 
+ópticos y fotográficos de este material. Fabricación de fibra de vidrio y productos de fibra 
+de vidrio. 
+ 
+2691 
+Fabricación de objetos de barro, loza, cerámica para uso no estructural. 
+ 
+2692 
+Fabricación de productos de arcilla y cerámica refractaria o no refractaria para la 
+construcción y otros productos refractarios sin contenido de arcilla. 
+ 
+2694 
+Fabricación de cemento, cal y yeso. 
+ 
+2695 
+Fabricación de artículos de cemento, hormigón y yeso. 
+ 
+2699 
+Corte, tallado y acabado de la piedra. Fabricación de otros productos minerales no 
+metálicos n.c.p. (marmolerías). Se incluye la fabricación de hilados y tela de asbesto, 
+materiales aislantes de origen mineral, productos de lana de vidrio para  aislamiento 
+térmico, productos de asfalto y similares, muelas de molinos, piedras de afilar, polvos 
+abrasivos, artículos de mica y de grafito que no sean artículos eléctricos, etc.. 
+27 
+ 
+INDUSTRIAS METALICAS BASICAS 
+ 
+2700 
+Industrias básicas de hierro, acero y metales no ferrosos. 
+28 
+ 
+FABRICACION DE PRODUCTOS METALICOS, MAQUINARIAS Y EQUIPOS 
+ 
+2811 
+Fabricación de productos metálicos estructurales (herrería de obra) principalmente de 
+hierro, acero o aluminio. La colocación de estructuras metálicas por sus fabricantes se 
+incluye en esta clase (en caso contrario van en la clase 4521). 
+ 
+2812 
+Fabricación de recipientes de metal: tanques,  depósitos y otros recipientes utilizados para 
+  
+ 
+Página 6 de 16 
+C.I.I.U. 
+2 Dígitos 
+C.I.I.U. 
+4 Dígitos 
+DESCRIPCIÓN 
+almacenamiento, radiadores y generadores de vapor (incluye fabricación de calderas de 
+agua caliente para calefacción central). 
+ 
+2890 
+Fabricación de otros productos de metal. Incluye tratamientos especiales como impresión, 
+bruñido, pulido, prensado, laminado; cuchillería, herramientas de mano; productos de 
+alambre; artículos sanitarios como lavabos y utensilios de cocina; cajas fuertes; cascos 
+protectores para la cabeza; recipientes para el envase y transporte de productos, etc.. 
+29 
+ 
+CONSTRUCCION DE MAQUINARIA EXCEPTUANDO LA MAQUINARIA ELECTRICA 
+ 
+2910 
+Fabricación de maquinaria de uso general: motores, turbinas, (excepto motores de 
+aeronaves, vehículos automotores y bicicletas). Fabricación de bombas, compresores, 
+grifos de metal, cojinetes, engranajes, hornos y quemadores, generadores, equipos de 
+manipulación y elevación; balanzas de uso doméstico y comercial, balanzas de plataforma, 
+equipos de refrigeración de uso comercial como vitrinas, máquinas expendedoras, 
+componentes de refrigeradores, equipos de refrigeración y acondicionamiento de aire. 
+Muebles para equipos de refrigeración. Aparatos de filtración para líquidos y gases, 
+máquinas de limpieza a vapor, extinguidores de incendio, maquinaria para empaquetar y 
+sellar, plantas destiladoras y rectificadoras, ventiladores de uso industrial, etc.. (Instalación 
+y reparación de ascensores va en la clase 4531; los equipos de construcción para 
+manipulación de materiales se incluyen en la clase 2920; las piezas para ensamblar 
+vehículos automotores u otro tipo de transporte va en las divisiones 34 ó 35 según 
+corresponda; las instalaciones para elevar la temperatura en la elaboración de alimentos 
+se incluyen en la clase 2920; los esterilizadores para uso médico o de laboratorio se 
+incluye en la clase 3300). 
+ 
+2920 
+Fabricación de maquinaria de uso especial (para el agro, la minería, la construcción y la 
+industria manufacturera). Fabricación de armas, municiones y explosivos; fabricación de 
+moldes; equipo de soldadura autógena. Fabricación de máquinas de coser. Agujas para 
+coser y tejer. 
+ 
+2930 
+Fabricación de electrodomésticos tales como refrigeradores, lavarropas, cocinas, 
+calefones, etc.. (La fabricación de aparatos de radio, TV, y telefonía se incluye en la clase 
+3200). 
+30 
+ 
+FABRICACION DE MAQUINARIA DE OFICINA, CONTABILIDAD E INFORMATICA 
+ 
+3000 
+Fabricación de maquinaria de oficina, contabilidad e informática. 
+31 
+ 
+FABRICACION DE MAQUINARIA Y APARATOS ELECTRICOS N.C.P. 
+ 
+3100 
+Fabricación de motores, generadores, transformadores eléctricos, cargadores de baterías, 
+aparatos de distribución y control de energía eléctrica; hilos y cables aislados; 
+acumuladores y pilas; lámparas eléctricas de todo tipo, equipos de iluminación incluso no 
+eléctrico y otros tipos de equipos eléctricos como piezas aislantes de vidrio, productos de 
+grafito, aparatos para galvanoplastia, electrólisis y electroforesis, etc.. Incluye la fabricación 
+de equipo de iluminación para motocicletas, bicicletas y vehículos automotores. 
+Fabricación de limpiaparabrisas, aparatos de señalización visual y control de tráfico. 
+32 
+ 
+FABRICACION 
+DE 
+EQUIPO 
+Y 
+APARATOS 
+DE 
+RADIO, 
+TELEVISION 
+Y 
+COMUNICACIÓN 
+ 
+3200 
+Fabricación de tubos, válvulas electrónicas, diodos y otros componentes electrónicos, 
+trasmisores de radio, televisión y aparatos para telefonía y telegrafía con hilos; receptores 
+de radio y televisión, aparatos de grabación y reproducción de sonido, video y productos 
+conexos. 
+33 
+ 
+FABRICACION DE INSTRUMENTOS MEDICOS, OPTICOS Y DE PRECISION. 
+FABRICACION DE RELOJES 
+ 
+3300 
+Fabricación de aparatos e instrumentos médicos, aparatos para medir, verificar, ensayar, 
+navegar y otros fines. (Balanzas de precisión, microscopios, tornos para dentistas, 
+  
+ 
+Página 7 de 16 
+C.I.I.U. 
+2 Dígitos 
+C.I.I.U. 
+4 Dígitos 
+DESCRIPCIÓN 
+electrocardiógrafos, instrumentos de dibujo, contadores de consumo de electricidad, agua 
+y gas, aparatos de radar y control remoto, termostatos, etc.). Fabricación de equipos de 
+control para procesos industriales. Fabricación de instrumentos de óptica y equipos 
+fotográficos. Fabricación de relojes, pulseras de metal precioso, rubíes y otras piezas para 
+relojes. Incluye muebles y accesorios de uso médico y fabricación de aparatos protésicos y 
+ortopédicos. (La 
+fabricación de apósitos, vendajes y cementos para odontología, se incluyen en la clase 
+2423). 
+34 
+ 
+FABRICACION 
+DE 
+VEHICULOS 
+AUTOMOTORES, 
+REMOLQUES 
+Y 
+SEMIRREMOLQUES 
+ 
+3400 
+Fabricación de vehículos automotores, carrocerías, cúpulas, repuestos y sus motores y 
+contenedores. (La fabricación de equipo eléctrico para automotores y remolques de uso 
+agropecuario, se incluyen en las clases 3100 y 2920, respectivamente). 
+35 
+ 
+FABRICACION DE OTROS TIPOS DE EQUIPO DE TRANSPORTE 
+ 
+3510 
+Construcción y reparación de buques y otras embarcaciones. Se incluyen embarcaciones 
+cuyo uso no es la navegación, como dragas, plataformas de perforación, diques flotantes. 
+Mantenimiento, reparación y desguazamiento de embarcaciones. (La fabricación de piezas 
+y partes de embarcaciones se clasifican en la clase correspondiente al material empleado, 
+por ejemplo: velas en la clase 1720, anclas en la clase 2890, etc.). 
+ 
+3520 
+Fabricación de locomotoras y material rodante para ferrocarriles y tranvías. 
+ 
+3530 
+Fabricación de aeronaves y naves espaciales. 
+ 
+3590 
+Fabricación de motocicletas, bicicletas, sillones de ruedas y otro tipo de transporte n.c.p., 
+(carretillas, montacargas y otros vehículos de propulsión manual ó animal). 
+36 
+ 
+FABRICACION DE MUEBLES; INDUSTRIAS MANUFACTURERAS N.C.P. 
+ 
+3610 
+Fabricación de muebles de todo tipo y de colchones de cualquier material. (Muebles de 
+cerámica, hormigón y piedra, se incluyen en las clases 2691, 2695 y 2699 
+respectivamente. Muebles para uso médico va en la clase 3300). 
+ 
+3691 
+Fabricación de joyas con piedras preciosas o semipreciosas y metales preciosos y 
+artículos conexos de orfebrería como vajilla, cubiertos, monedas y otros.( La fabricación de 
+artículos de metal común enchapados con metales preciosos se incluyen en la División 28. 
+Las joyas de fantasía y las cajas de relojes, se incluyen en las clases 3699 y 3300 
+respectivamente). 
+ 
+3699 
+Fabricación de instrumentos de música, artículos de deportes, juegos, juguetes, linóleo 
+etc. fabricación de velas, lápices, flores artificiales, paraguas, joyas de fantasía, 
+encendedores, lápices, minas para lápices, pipas, peines, pelucas, escobas, cepillos, 
+plumeros, pinceles, rodillos para pintura, máquinas de juegos mecánicos y accionadas por 
+monedas, etc. 
+37 
+ 
+RECICLAJE 
+ 
+3700 
+Reciclaje de desperdicios y desechos metálicos y no metálicos. (La elaboración de nuevos 
+materiales y productos, utilizando desperdicios o desechos como materia prima, como por 
+ejemplo fabricación de hilados a partir de hilachas, la fabricación de pasta de madera a 
+partir del papel o el recauchutaje de cubiertas, no se considera reciclaje sino que va en las 
+clases 1711, 2101, y 2511 respectivamente). 
+E- SUMINISTRO DE ELECTRICIDAD, GAS Y AGUA 
+40 
+ 
+SUMINISTRO DE ELECTRICIDAD, GAS, VAPOR Y AGUA CALIENTE 
+ 
+4010 
+Generación, captación y distribución de energía eléctrica. 
+  
+ 
+Página 8 de 16 
+C.I.I.U. 
+2 Dígitos 
+C.I.I.U. 
+4 Dígitos 
+DESCRIPCIÓN 
+ 
+4020 
+Producción y distribución de gas. 
+ 
+4030 
+Suministro de vapor y agua caliente. 
+41 
+ 
+CAPTACION, DEPURACION Y DISTRIBUCION DE AGUA 
+ 
+4100 
+Captación, depuración y distribución de agua. 
+F- CONSTRUCCION 
+45 
+ 
+CONSTRUCCION 
+ 
+4510 
+Preparación del terreno. Demolición. 
+ 
+4521 
+Obras de ingeniería. Incluye instalación de estructuras de metal, e hormigón armado, de 
+madera, de plástico. Construcción y reparación de vías férreas, muelles, diques, 
+escolleras, túneles, aeropuertos, hangares. Colocación de redes de servicios eléctricos, 
+telefónicos, de alcantarillado, saneamiento, de agua potable y de fluidos en general. 
+Construcción y reparación de plantas de tratamiento de agua potable, de aguas servidas, 
+canchas de deportes, piletas de natación, infraestructuras de plazas, parques y jardines 
+públicos. Construcción y reparación de estadios deportivos, represas, tajamares, atajos, 
+regadíos, muros de contención, tanques para fluidos y pozos profundos. (La construcción 
+de pistas para aviones se incluye en la clase 4522). 
+ 
+4522 
+Obras de vialidad. Incluye construcción y reparación de autopistas, rutas, carreteras, 
+caminos, calles, veredas, alcantarillas, pavimentos en general, puentes, pistas de 
+aeropuertos y pistas para ómnibus. 
+ 
+4523 
+Obras de arquitectura. Construcción y reparación de edificios. Construcción y reparación 
+de edificios funerarios. 
+ 
+4531 
+Instalación y reparación de antenas, sistemas de alarmas, sistemas de extensión de 
+incendios, sistemas de calefacción y aire acondicionado, ascensores. Instalaciones y 
+reparaciones eléctricas en general. 
+ 
+4532 
+Instalaciones y reparaciones sanitarias. Plomería. 
+ 
+4540 
+Terminación de edificios. Terminación de frentes, colocación de andamios, pintura, 
+impermeabilización de azoteas, colocación de pisos en general, etc. Se incluyen las 
+reparaciones relacionadas con estas actividades. 
+ 
+4550 
+Alquiler de equipo de construcción y demolición dotado de operarios. (La maquinaria y 
+equipo sin operarios, se incluye en la clase 7122). 
+G- COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACION DE VEHICULOS 
+AUTOMOTORES, MOTOCICLETAS, EFECTOS PERSONALES Y ENSERES DOMESTICOS 
+50 
+ 
+COMERCIO, MANTENIMIENTO Y REPARACION DE VEHICULOS AUTOMOTORES Y 
+MOTOCICLETAS. COMERCIO AL POR MENOR DE COMBUSTIBLES PARA 
+AUTOMOTORES 
+ 
+5010 
+Comercio de vehículos automotores de pasajeros y especiales como ambulancias, 
+omnibuses, casas rodantes, etc.. 
+ 
+5020 
+Mantenimiento y reparación de vehículos automotores. Talleres mecánicos. Talleres de 
+chapa y pintura. Gomerías y lavaderos de autos (cuando no son parte de una estación de 
+servicio. 
+ 
+5030 
+Comercio de partes, piezas y accesorios de vehículos automotores. Incluye la venta al por 
+mayor y al por menor. 
+ 
+5040 
+Comercio, mantenimiento y reparación de motocicletas y de sus partes, piezas y 
+accesorios. Incluye la venta al por mayor y por menor. 
+  
+ 
+Página 9 de 16 
+C.I.I.U. 
+2 Dígitos 
+C.I.I.U. 
+4 Dígitos 
+DESCRIPCIÓN 
+ 
+5050 
+Comercio al por menor de combustibles para automotores. Estaciones de servicio. Incluye 
+comercio de lubricantes, repuestos de vehículos, gomería y lavado de autos cuando son 
+parte de la estación de servicio. (Cuando estas actividades se realizan en forma separada, 
+se clasifican en las clases 5020 ó 5030 según corresponda). 
+51 
+ 
+ 
+COMERCIO AL POR MAYOR Y A COMISION (EXCEPTO EL COMERCIO DE 
+VEHICULOS AUTOMOTORES Y MOTOCICLETAS) 
+ 
+5110 
+Comercio al por mayor a cambio de una retribución o por contrato en nombre o por cuenta 
+de terceros (comisionistas, consignatarios, subastadores, corredores). 
+ 
+5121 
+Comercio al por mayor de materias primas agropecuarias y de animales vivos. Incluye 
+también la venta de flores, plantas, pieles, cueros, etc.. 
+ 
+5122 
+Comercio al por mayor de alimentos bebidas y tabacos. 
+ 
+5131 
+Comercio al por mayor de productos textiles, prendas de vestir y calzado. 
+ 
+5139 
+Comercio al por mayor de otros enseres domésticos (bazar, productos farmacéuticos, 
+perfumería, artículos fotográficos y ópticos, juegos, juguetes, artículos de cuero y 
+accesorios de viaje, relojes, artículos de joyería, artículos deportivos incluso bicicletas). 
+Muebles para el hogar y la oficina. Aparatos de radio y televisión. Instrumentos quirúrgicos 
+y ortopédicos. Utiles de escritorio. 
+ 
+5141 
+Comercio al por mayor de combustibles sólidos, líquidos, gaseosos y de productos 
+conexos. 
+ 
+5142 
+Comercio al por mayor de metales y minerales metalíferos. 
+ 
+5143 
+Comercio al por mayor de materiales de construcción, artículos de ferretería y materiales 
+de sanitaria y calefacción. 
+ 
+5149 
+Comercio al por mayor de sustancias químicas básicas, materiales plásticos en forma 
+primaria, fibras textiles y materiales para reciclamiento. Comercio al por mayor de otros 
+productos intermedios, desperdicios y desechos. 
+ 
+5150 
+Comercio al por mayor de maquinaria, equipo y materiales (para la industria, el comercio y 
+el agro). 
+ 
+5190 
+Comercio al por mayor de otros productos (no incluidos en las clases anteriores). 
+52 
+ 
+COMERCIO 
+AL 
+POR 
+MENOR 
+EXCEPTO 
+EL 
+COMERCIO 
+DE 
+VEHICULOS 
+AUTOMOTORES Y MOTOCICLETAS; REPARACION DE EFECTOS PERSONALES Y 
+ENSERES DOMESTICOS 
+ 
+5210 
+Comercio al por menor en establecimientos donde se combina la venta de alimentos con la 
+de otros productos tales como: ropa, electrodomésticos, artículos de bazar, muebles, 
+juguetes, artículos deportivos, etc. Incluye supermercados, cooperativas de consumo, 
+grandes almacenes, etc. 
+ 
+5220 
+Comercio al por menor de alimentos, bebidas y tabaco en almacenes especializados 
+(almacenes de comestibles, fiambrerías, carnicerías, venta de aves y huevos, pescaderías, 
+verdulerías, venta de productos lácteos, panaderías, confiterías, etc.). 
+ 
+5231 
+Comercio al por menor de productos farmacéuticos, medicinales, y ortopédicos, 
+cosméticos y artículos de tocador. 
+ 
+5232 
+Comercio al por menor de productos textiles, prendas de vestir, calzado, y artículos de 
+cuero y piel. 
+ 
+5233 
+Comercio al por menor de aparatos, artículos y equipos de uso doméstico (radio, 
+televisión, vajilla, cortinas, muebles, equipos de música, discos, artefactos de iluminación, 
+etc..) 
+  
+ 
+Página 10 de 16 
+C.I.I.U. 
+2 Dígitos 
+C.I.I.U. 
+4 Dígitos 
+DESCRIPCIÓN 
+ 
+5234 
+Comercio al por menor de artículos de ferretería, pintura, vidrios, y productos de vidrio, 
+materiales de construcción. 
+ 
+5239 
+Comercio al por menor de otros productos en almacenes especializados (libros, artículos 
+de papelería, artículos de limpieza, juguetes, relojes, plantas, garrafas de gas, reventa de 
+programas de computación, etc.). 
+ 
+5240 
+Comercio al por menor de productos usados. Casas de empeño. 
+ 
+5251 
+Comercio al por menor en empresas de ventas por correo, televisión, tarjetas de crédito, 
+etc.. 
+ 
+5252 
+Comercio al por menor en puestos callejeros y mercados. 
+ 
+5259 
+Otro comercio al por menor, no realizado en almacenes, puestos de venta ni mercados 
+(vendedores a domicilio, máquinas expendedoras.) 
+ 
+5260 
+Reparación de efectos personales y enseres domésticos, no relacionada con las 
+actividades de fabricación y venta al por mayor o al por menor. (Reparaciones de calzado, 
+valijas, televisores, joyas, instrumentos de música, cámaras fotográficas y otras). 
+H- HOTELES Y RESTORANES 
+55 
+ 
+HOTELES Y RESTORANES 
+ 
+5511 
+Hoteles, pensiones, hosterías. 
+ 
+5512 
+Casa de huéspedes, hotel de alta rotatividad. 
+ 
+5513 
+Camping y otros tipos de alojamientos temporales n.c.p.. 
+ 
+5520 
+Restoranes, bares y cantinas. También se incluyen los servicios de coche comedor, si son 
+proporcionados por unidades independientes de las empresas ferroviarias. (La venta 
+mediante máquinas expendedoras, se incluye en la clase 5259). 
+I- TRANSPORTE ALMACENAMIENTO Y COMUNICACIONES 
+60 
+ 
+TRANSPORTE POR VIA TERRESTRE Y POR TUBERIA 
+ 
+6010 
+Transporte por vía férrea de pasajeros y carga. 
+ 
+6021 
+Transporte 
+regular 
+de 
+pasajeros. 
+Transporte 
+colectivo 
+de 
+pasajeros 
+urbano, 
+interdepartamental e internacional. 
+ 
+6022 
+Transporte no regular de pasajeros (taxímetros, remises, autobuses de excursión, 
+escolares, alquiler de autos con conductor, etc.). 
+ 
+6023 
+Transporte de carga por carretera. 
+ 
+6030 
+Transporte por tuberías. (El transporte de gas natural, gas manufacturado, agua y vapor 
+desde la estación distribuidora hasta el usuario final, se incluyen en las clases 4020 o 4030 
+según sea el elemento a transportar). 
+61 
+ 
+TRANSPORTE POR VIA ACUATICA 
+ 
+6110 
+Transporte marítimo y de cabotaje de pasajeros y de carga. 
+ 
+6120 
+Transporte por vías de navegación interiores de pasajeros y de carga. 
+62 
+ 
+TRANSPORTE POR VIA AEREA 
+ 
+6210 
+Transporte regular por vía aérea de pasajeros y de carga. 
+ 
+6220 
+Transporte no regular por vía aérea de pasajeros y de carga. 
+63 
+ 
+ACTIVIDADES 
+DE 
+TRANSPORTE, 
+COMPLEMENTARIAS 
+Y 
+AUXILIARES, 
+ACTIVIDADES DE AGENCIAS DE VIAJES 
+  
+ 
+Página 11 de 16 
+C.I.I.U. 
+2 Dígitos 
+C.I.I.U. 
+4 Dígitos 
+DESCRIPCIÓN 
+ 
+6301 
+Manipulación de la carga y descarga de mercancías y equipaje, independiente del medio 
+de transporte utilizado. (Estiba). 
+ 
+6302 
+Almacenamiento y depósito (silos, almacenes para mercancías, cámaras frigoríficas, 
+almacenamiento en zonas francas, etc..) 
+ 
+6303 
+Otras actividades de transporte. Funcionamiento de estaciones, de puertos, muelles, 
+aeropuertos, organización y coordinación del transporte en nombre del expedidor, trámites 
+aduaneros, contratación de carga, información sobre tarifas, control de tráfico, 
+estacionamiento, etc.. 
+ 
+6304 
+Actividades de agencias de viaje y asistencia al turista como información y servicios de 
+guías. 
+ 
+6309 
+Actividades de otras agencias de transporte (recepción y aceptación de la carga, embalaje 
+en cajas y cajones de la mercadería con fines de transporte, contratación de fletes, 
+trámites de aduana, etc.) 
+64 
+ 
+CORREO Y TELECOMUNICACIONES 
+ 
+6410 
+Correo (oficial y de empresas privadas). Se incluye la venta de sellos. 
+ 
+6420 
+Telecomunicaciones. Incluye las comunicaciones telefónicas, telegráficas, por telex y por 
+fax, y las transmisiones de televisión por cable o por satélite. 
+J- INTERMEDIACION FINANCIERA 
+65 
+ 
+ESTABLECIMIENTOS FINANCIEROS, EXCEPTO LA FINANCIACION DE PLANES DE 
+SEGUROS Y DE PENSIONES 
+ 
+6511 
+Banca central. Incluye entre otras actividades, la supervisión de las operaciones bancarias, 
+mantenimiento de las reservas nacionales de divisas, emisión y administración de la 
+moneda, recepción de depósitos para operaciones de compensación entre instituciones 
+financieras. 
+ 
+6519 
+Otros tipos de intermediación monetaria. Bancos comerciales y casas bancarias. Incluye 
+las instituciones de crédito para la compra de otros). 
+ 
+6591 
+Arrendamiento financiero. Este arrendamiento cubre toda la vida útil de un bien. El 
+arrendatario adquiere todos los derechos de usufructo y asume todos los riesgos 
+inherentes a la propiedad del bien que puede ser o no objeto de traspaso. (El 
+arrendamiento de maquinaria y equipo sin operarios y de efectos personales y enseres se 
+incluyen en la División 71). 
+ 
+6592 
+Otros tipos de crédito. Incluye a las instituciones que no practican la intermediación 
+monetaria, pero su principal función es conceder préstamos fuera del sistema bancario. Se 
+incluye también el otorgamiento de crédito para la adquisición de vivienda por instituciones 
+que no reciben depósitos. (Ej.: círculos de ahorro para vivienda). 
+ 
+6599 
+Otros tipos de intermediación financiera, cuyo objeto es distribuir fondos por medios 
+distintos del otorgamiento de préstamos. Se incluyen las inversiones en valores mobiliarios 
+(por ej., acciones, títulos, valores mobiliarios de sociedades, etc.); las transacciones por 
+cuenta propia de corredores de bolsa; las inversiones en bienes inmuebles por cuenta de 
+otros intermediarios financieros; la suscripción de créditos recíprocos y las opciones. 
+También se incluyen las actividades de las sociedades de cartera. (Se excluye el 
+arrendamiento financiero y las transacciones bursátiles por cuenta de terceros que 
+corresponden a las clases 6591 y 6710 respectivamente. El arrendamiento a largo plazo y 
+el alquiler a corto plazo de bienes inmuebles, se incluye en la División 70). 
+66 
+ 
+SEGUROS Y PENSIONES, EXCEPTO LOS PLANES DE SEGURIDAD SOCIAL DE 
+AFILIACION OBLIGATORIA 
+ 
+6601 
+Planes de seguros de vida. 
+  
+ 
+Página 12 de 16 
+C.I.I.U. 
+2 Dígitos 
+C.I.I.U. 
+4 Dígitos 
+DESCRIPCIÓN 
+ 
+6602 
+Planes de pensiones y jubilaciones. Se incluyen los planes de pago de pensiones y 
+jubilaciones y la captación e inversión de fondos a esos efectos. (Los planes de seguridad 
+social de afiliación obligatoria se incluyen en la clase 7530). 
+ 
+6603 
+Planes de seguros generales. Comprende todos los planes de seguros distintos de los 
+seguros de vida. Comprende seguros contra incendio, médicos, marítimos, de 
+automóviles, de accidentes del trabajo, de responsabilidad civil y otros seguros contra 
+pérdidas pecunarias. 
+67 
+ 
+ACTIVIDADES AUXILIARES DE LA INTERMEDIACION FINANCIERA 
+ 
+6710 
+Actividades auxiliares de la intermediación financiera, excepto los planes de seguros y de 
+pensiones. Administración y supervisión de mercados financieros por corporaciones 
+independiente de las administraciones públicas, servicios de corredores de bolsa, de 
+valores, servicios de asesores financieros e hipotecarios, casas de cambio, etc.. 
+ 
+ 
+6720 
+Actividades auxiliares de planes de seguros y de pensiones. (Corredores de seguros, 
+tasadores, liquidadores de siniestros, etc.). 
+K- ACTIVIDADES INMOBILIARIAS EMPRESARIALES Y DE ALQUILER 
+70 
+ 
+ACTIVIDADES INMOBILIARIAS 
+ 
+7000 
+Actividades inmobiliarias realizadas con bienes propios o de terceros. Administración de 
+propiedades. Ventas, alquileres y tasaciones. Explotación de apartamentos con servicio de 
+hotel y de zonas residenciales para viviendas móviles. 
+71 
+ 
+ALQUILER DE MAQUINARIA Y EQUIPO, EFECTOS PERSONALES Y ENSERES 
+DOMESTICOS 
+ 
+7110 
+Alquiler de equipo de transporte en general, sin conductor. Incluye alquiler de autos, 
+motocicletas, contenedores, remolques, casas rodantes, embarcaciones comerciales, 
+avionetas y cualquier otro medio de transporte sin tripulación. (El alquiler de equipo de 
+transporte con conductor, se clasifica en las clases 6022 o 6023 según corresponda. El 
+alquiler de bicicletas y embarcaciones de recreo se incluye en la clase 7130). 
+ 
+7120 
+Alquiler de maquinaria y equipo, sin operarios. 
+ 
+7130 
+Alquiler de efectos personales y enseres domésticos. Incluye clubes de video, alquiler de 
+libros, bicicletas, caballos, embarcaciones de recreo, prendas de vestir y artículos en 
+general. (El alquiler de autos sin conductor se clasifica en la clase 7110). 
+72 
+ 
+INFORMATICA Y ACTIVIDADES CONEXAS 
+ 
+7210 
+Consultores en equipos de informática (supone el análisis de las necesidades y los 
+problemas de los usuarios y la presentación a estos de la solución más apropiada). (Las 
+actividades similares en unidades de producción y venta de computadores, se incluyen en 
+la clase 3000). 
+ 
+7220 
+Consultores en programas de informática y suministro de programas de informática. 
+Incluye el análisis, el diseño y la programación de sistemas listos para ser utilizados. (La 
+reproducción de programas se incluye en la clase 2230. La reventa de programas de 
+informática se incluye en la clase 5239. Cuando la actividad de consultores en equipos se 
+haga conjuntamente con la de consultores en programas de informática, se incluyen en la 
+clase 7210). 
+ 
+7230 
+Procesamiento de datos (digitación, lectura óptica, tabulación, informes). 
+ 
+7240 
+Actividades relacionadas con bases de datos: armado de las bases, almacenamiento y 
+suministro de datos con arreglo a un cierto orden. (El suministro computarizado de 
+documentación realizado por bibliotecas o archivos, se incluye en la clase 9230). 
+  
+ 
+Página 13 de 16 
+C.I.I.U. 
+2 Dígitos 
+C.I.I.U. 
+4 Dígitos 
+DESCRIPCIÓN 
+ 
+7250 
+Mantenimiento y reparación de máquinas de oficina, contabilidad e informática. 
+ 
+7290 
+Otras actividades de informática n.c.p.. 
+73 
+ 
+INVESTIGACION Y DESARROLLO 
+ 
+7300 
+Investigación y desarrollo en el campo de las ciencias naturales, sociales y las 
+humanidades (biología, física, economía, sociología, etc.). Institutos de investigación 
+científica. ( Estudios de mercado, se incluyen en la clase 7413). 
+74 
+ 
+SERVICIOS PRESTADOS A LAS EMPRESAS, EXCEPTUANDO EL ALQUILER Y 
+ARRENDAMIENTO DE MAQUINARIA Y EQUIPO 
+ 
+7411 
+Servicios jurídicos y notariales. (Las actividades de los tribunales de justicia se incluyen en 
+la clase 7520). 
+ 
+7412 
+Servicios de contabilidad, auditoría y teneduría de libros. ( Las actividades de 
+asesoramiento de empresas o el diseño de sistemas o programas de contabilidad, cuando 
+son realizados en unidades que no prestan servicios de contabilidad, se incluyen en la 
+clase 7414). 
+ 
+7413 
+Investigación de mercados y realización de encuestas. 
+ 
+7414 
+Asesoramiento, orientación y asistencia operativa a las empresas. Incluye asesoramiento 
+n.c.p. como las actividades de relaciones públicas, organización y funcionamiento 
+administrativo, actividades de conciliación entre la gerencia y el personal, etc.. 
+ 
+7421 
+Servicios técnicos de arquitectura, ingeniería, agrimensura, etc.. Incluye diseño de 
+edificios, dibujos de planos, actividades relacionadas con la ingeniería civil, electrónica, 
+química e industrial, actividades de cartografía, agrimensura y dirección de obras. 
+(Decoración de interiores se incluye en la clase 7499). 
+ 
+7422 
+Ensayos y análisis técnicos de materiales y productos como minerales, alimentos, etc.. ( 
+Los ensayos médicos y odontológicos, se incluyen en la clase 8519). 
+ 
+7430 
+Publicidad. Incluye las actividades de las agencias consistentes en la creación y 
+colocación de anuncios para los clientes en revistas, periódicos, televisión, carteles, 
+publicidad aérea, distribución de material y muestras de publicidad, etc.. (Excluye la 
+impresión de material publicitario, el estudio de mercado, las actividades de relaciones 
+públicas, la publicidad por correo que se clasifican en las clases 2211, 7413, 7414, y 7499 
+respectivamente). 
+ 
+7491 
+Obtención y dotación de personal. Comprende la búsqueda, selección, recomendación y 
+colocación de personal para empleos en distintos sectores. (Se excluyen las agencias de 
+colocaciones que corresponden a la clase 7499 y la contratación de actores que se incluye 
+en la clase 9249). 
+ 
+7492 
+Investigación y seguridad de personas y de bienes. Incluye actividades de vigilancia, 
+transporte de objetos de valor, medios de protección como perros guardianes, coches 
+blindados, actividades de guardaespaldas, guardianes, serenos, actividades de detectives, 
+identificación dactiloscópica y caligráfica, adiestramiento de perros guardianes, etc.. (La 
+instalación de sistemas de alarma se incluye en clase 4531). 
+ 
+7493 
+Actividades de limpieza de edificios comerciales y residenciales. Incluye actividades de 
+fumigación, desinfección y exterminio, y la limpieza de frentes con arena u otros medios. ( 
+La limpieza de edificios recién construidos se incluye en la clase 4540. La limpieza de 
+cortinas en la clase 9301 y las actividades de los hogares que emplean personal 
+doméstico se incluyen en la clase 9500) 
+ 
+7494 
+Casa de fotografía, laboratorios fotográficos. Incluye el procesamiento, revelado, impresión 
+y ampliación de fotografías. 
+ 
+7495 
+Actividades de envase y empaque. Incluye el envase de productos farmacéuticos y 
+  
+ 
+Página 14 de 16 
+C.I.I.U. 
+2 Dígitos 
+C.I.I.U. 
+4 Dígitos 
+DESCRIPCIÓN 
+cosméticos, el rotulado, el estampado, etc.. (Las actividades de empaque para transporte 
+se incluyen en la clase 6309). 
+ 
+7499 
+Otras actividades empresariales n.c.p. Incluye actividades tales como: cobranza de 
+cuentas, mecanografía, traducción, diseño de telas, joyas, muebles, decoración de 
+interiores, actividades de exhibición, de subasta, publicidad por correo, agencias de 
+contratación de actores para diversos espectáculos, etc.. 
+L- ADMINISTRACION PUBLICA Y DEFENSA; PLANES DE SEGURIDAD SOCIAL DE AFILIACION 
+OBLIGATORIA 
+75 
+ 
+ADMINISTRACION PUBLICA Y DEFENSA 
+ 
+7510 
+Administración del estado y aplicación de la política económica y social de la comunidad. 
+Actividades administrativas de los gobiernos centrales, municipales o locales relacionadas 
+con las fuerzas armadas, la policía, las dependencias legislativas, judiciales, de regulación 
+de las actividades de los organismos que prestan servicios sociales (salud, cultura, 
+educación, etc..), registros, asuntos exteriores, impuestos, estadísticas y políticas 
+generales. (Las actividades postales se incluyen en la clase 6411, y las de 
+telecomunicaciones en la 6420. Las actividades relacionadas con la Seguridad Social de 
+afiliación obligatoria se incluye en la clase 7530, la enseñanza en la división 80, las 
+actividades relacionadas con la salud en el grupo 851. La eliminación de desperdicios y 
+saneamiento en la clase 9000. Bibliotecas e instituciones culturales, deportivas y de 
+esparcimiento en la división 92). 
+ 
+7520 
+Actividades de relaciones exteriores, defensa y mantenimiento del orden público. (La 
+actividad educativa en escuelas militares se incluye en la división 80; la actividad en 
+hospitales militares se incluye en la clase 8511; la representación y asistencia letrada en 
+casos civiles, penales y de otro tipo, se incluye en la clase 7411). 
+ 
+7530 
+Actividades de organismos de seguridad social, de afiliación obligatoria, tales como B.P.S., 
+C.J.P.U., Caja Bancaria, Caja Notarial, Caja Policial, Caja Militar, Seguros de Salud, 
+Seguro de desempleo, etc.. (La prestación directa de Servicios Sociales, se incluye en el 
+grupo 853). 
+M- ENSEÑANZA 
+80 
+ 
+ENSEÑANZA 
+ 
+8010 
+Enseñanza preescolar, primaria y enseñanza especial para niños discapacitados. 
+ 
+8020 
+Enseñanza secundaria, técnica y comercial. 
+ 
+8030 
+Enseñanza Superior (Universidad, Institutos de formación docente, Instituto Superior de 
+Educación Física, etc.) 
+ 
+8090 
+Otros tipos de enseñanza n.c.p. (incluye alfabetización de adultos en el nivel primario, 
+academias de choferes, profesores particulares, enseñanza de idiomas). Se incluyen los 
+programas de alfabetización por radio, televisión y correspondencia. 
+N- SERVICIOS SOCIALES Y DE SALUD 
+85 
+ 
+ACTIVIDADES RELACIONADAS CON LA SALUD HUMANA 
+ 
+8511 
+Hospitales, sanatorios y clínicas médicas. Servicios de laboratorios clínicos y radiológicos. 
+(Las actividades médicas u odontológicas en consultorios particulares, se incluyen en las 
+clases 8512 y 8513 respectivamente. Los servicios médicos a militares en campaña, se 
+incluyen en la clase 7520). 
+ 
+8512 
+Servicios médicos en general en consultorios privados, a domicilio o en clínicas de 
+pacientes externos. (Cuando estos servicios se prestan en hospitales, se incluyen en la 
+clase 8511). 
+  
+ 
+Página 15 de 16 
+C.I.I.U. 
+2 Dígitos 
+C.I.I.U. 
+4 Dígitos 
+DESCRIPCIÓN 
+ 
+8513 
+Servicios odontológicos en consultorios privados, a domicilio o en clínicas de pacientes 
+externos.( Cuando estos servicios se prestan en hospitales, se incluyen en la clase 8511). 
+ 
+8519 
+Otras actividades relacionadas con la salud humana (psicoterapeutas, podólogos, 
+masajistas, etc.). Servicio de ambulancias. Centros de cuidado de enfermos en hogares y 
+hospitales. (La fabricación de equipo médico, protésico u ortopédico se incluye en la clase 
+3311. Los ensayos bromatológicos se incluyen en la clase 7420). 
+ 
+8520 
+Actividades veterinarias.( Las actividades de guarda de animales, se incluyen en la clase 
+0140). 
+ 
+8530 
+Instituciones de asistencia social, orfanatos, centros de rehabilitación sin tratamiento 
+médico a personas adictas a estupefacientes o al alcohol, casas de salud, asilos, casas 
+cuna, actividades de caridad, guarderías (infantiles o de ancianos), etc.. 
+O- OTRAS ACTIVIDADES DE SERVICIOS COMUNITARIOS, SOCIALES Y PERSONALES 
+90 
+ 
+ELIMINACION DE DESPERDICIOS Y AGUAS RESIDUALES, SANEAMIENTO Y 
+ACTIVIDADES SIMILARES 
+ 
+9000 
+Eliminación de desperdicios y aguas residuales, saneamiento y actividades similares 
+(recolección de basura, limpieza calles, playas, barométricas, etc.). 
+91 
+ 
+ASOCIACIONES COMERCIALES, PROFESIONALES, LABORALES Y OTRAS 
+ 
+9110 
+Cámaras 
+empresariales 
+y 
+asociaciones 
+profesionales. 
+Incluyen 
+actividades 
+de 
+organizaciones cuyos miembros se interesan en el desarrollo de una determinada 
+actividad empresarial, comercial o disciplina científica concreta. (Las negociaciones 
+laborales a cambio de una retribución, se incluye en la clase 7414. La publicación de 
+periódicos o la enseñanza impartida por estas organizaciones se incluyen en las clases 
+2212 y 8010 respectivamente). 
+ 
+9120 
+Sindicatos y organizaciones laborales. Se incluyen las actividades de sindicatos de 
+trabajadores públicos y privados, interesados principalmente en dar a conocer y tomar 
+medidas a través de su organización. (La publicación de periódicos y la enseñanza 
+impartida por estas instituciones se incluyen en la clase 2212 y 8010 respectivamente). 
+ 
+9191 
+Servicios religiosos. ( Las actividades de edición, enseñanza, salud, servicios sociales, 
+etc., impartidas por estas organizaciones, se incluyen en las clases correspondientes a 
+estas actividades). 
+ 
+9199 
+Organizaciones políticas, literarias, y de apoyo a servicios comunitarios y educativos, 
+cuyas actividades consisten en difusión de información, recaudación de fondos, relaciones 
+públicas asociaciones con fines culturales, recreativas, artesanales, artísticas, etc. (ej.: 
+comisiones de fomento escolares). 
+92 
+ 
+SERVICIOS DE DIVERSION, DE ESPARCIMIENTO Y CULTURALES 
+ 
+9211 
+Producción de películas, filmes y cintas de video para su exhibición en salas de cine y por 
+T.V.. Distribución de filmes y video cintas a otras empresas, pero no al público en general. 
+(La reproducción de filmes y video cintas corresponde a la clase 2230. El comercio al por 
+menor de video cintas, corresponde a los grupos 523 o 525. El alquiler de video cintas se 
+incluye en la clase 7130; el revelado, en la clase 7494). La producción de filmes y video 
+cintas en estudios de televisión se incluye en la clase 9213 y las actividades que realizan 
+por cuenta propia actores, directores y especialistas técnicos se incluye en la clase 9219. 
+ 
+9212 
+Exhibición de filmes y video cintas en cines y otros locales. (El alquiler de salas 
+cinematográficas, se incluye en la división 70. Las transmisiones de televisión por cable y 
+por satélite se incluyen en la clase 6420. La producción de filmes y video cintas en 
+estudios cinematográficos se incluye en la clase 9211). 
+ 
+9213 
+Actividades de radio y televisión. Incluye anuncios comerciales, y la producción en vivo, en 
+  
+ 
+Página 16 de 16 
+C.I.I.U. 
+2 Dígitos 
+C.I.I.U. 
+4 Dígitos 
+DESCRIPCIÓN 
+cinta u otro material de grabación para su difusión simultánea o posterior. 
+ 
+9214 
+Actividades teatrales y musicales y otras actividades artísticas efectuadas por artistas 
+independientes; periodistas, conferenciantes, escultores, músicos, autores y artistas en 
+general. Se incluyen actividades conexas tales como diseño y manejo de la escenografía, 
+del equipo de sonido, iluminación, y las agencias de venta de billetes. (El alquiler de salas 
+de teatro se incluye en la división 70. Las actividades de agencias y de contratación de 
+artistas ,se incluyen en las clases 7499 y 9249, respectivamente.) 
+ 
+9219 
+Otras actividades de entretenimiento y esparcimiento n.c.p.. Incluye salas de baile, 
+discotecas, parques de diversiones, circos, espectáculos de títeres y de rodeo. (Otras 
+actividades de esparcimiento se incluyen en la clase 9249). 
+ 
+9220 
+Actividades de agencias de noticias. 
+ 
+9230 
+Bibliotecas, museos, preservación de edificios históricos, parques nacionales, jardines 
+botánicos y zoológicos. Incluye actividades de documentación, información, salas de 
+lectura, préstamo de libros, filmes, cintas, mapas, etc.. (Las actividades relativas a base de 
+datos, se incluyen en la clase 7240).  
+ 
+9241 
+Actividades deportivas. Incluye clubes, gimnasios, canchas, así como las actividades por 
+cuenta propia de deportistas y jueces. Promoción y producción de espectáculos 
+deportivos. Explotación de las instalaciones donde se realizan estas actividades.( El 
+alquiler de equipo de deporte, se incluye en la clase 7130. Las actividades en parques y 
+playas, se incluyen en la clase 9249). 
+ 
+9249 
+Otras actividades de esparcimiento. Incluye actividades recreativas en parques y playas 
+(alquiler de carpas, sillas, etc.), actividades de juegos de azar, grabación de sonido en 
+discos gramofónicos y en cintas magnetofónicas y espectáculos de carácter recreativo 
+n.c.p.. (El adiestramiento de perros guardianes se incluye en la clase 7492 Espectáculos 
+circenses y salas de baile en la clase 9219. Actividades de agencias de contratación para 
+espectáculos se clasifican en la clase 7499). 
+93 
+ 
+OTRAS ACTIVIDADES DE SERVICIOS 
+ 
+9301 
+Lavado y limpieza de prendas de tela y de piel, incluso la limpieza en seco. Tintorerías. 
+Incluye también la limpieza de alfombras, tapices y cortinas. 
+ 
+9302 
+Peluquería y otros tratamientos de belleza. ( La fabricación de pelucas se incluye en la 
+clase 3699). 
+ 
+9303 
+Pompas fúnebres y actividades conexas. Alquiler de locales de velación. Alquiler y venta 
+de construcciones fúnebres. 
+ 
+9309 
+Otras actividades de servicio n.c.p. (baños turcos, masajes, astrología, agencias 
+matrimoniales, etc.). 
+P- HOGARES PRIVADOS CON SERVICIO DOMESTICO 
+95 
+ 
+HOGARES PRIVADOS CON SERVICIO DOMESTICO 
+ 
+9500 
+Hogares privados con servicio doméstico. Incluye sirvientes, limpiadores, jardineros, 
+niñeras, cocineros choferes, porteros, etc.. (Personas que prestan servicios a los hogares, 
+independientes, se clasifica según su actividad principal). 
+Q- ORGANIZACIONES Y ORGANOS EXTRATERRITORIALES 
+99 
+ 
+ORGANIZACIONES Y ORGANOS EXTRATERRITORIALES 
+ 
+9900 
+Organizaciones y órganos extraterritoriales (O.N.U., O.E.A., F.M.I., etc.. 
+00 
+ 
+Actividades no bien especificadas 
+Fuente: INE: “Clasificación Internacional Industrial Uniforme (CIIU) Revisión 3 adaptada a Uruguay. Manual Guía para 
+la Codificación de Actividades Económicas” 
+  
+Mayo 2020 
+ 
+1 
+ 
+INSTRUCTIVO PARA LA PRESENTACIÓN Y RENDICIÓN DE GASTOS 
+ 
+BENEFICIARIOS 
+ 
+GLOSARIO  Y DEFINICIONES 
+ 
+ANII: Agencia Nacional de Investigación e Innovación 
+ 
+BCU: Banco Central del Uruguay 
+ 
+BROU: Banco de la República 
+ 
+DGI: Dirección General Impositiva 
+ 
+Documento formal de respaldo: Para Uruguay deben cumplir los requisitos fiscales 
+establecidos por la DGI (Datos de la empresa vendedora, numeración del documento, fecha, 
+pie de imprenta, etc). Para el exterior deben cumplir como mínimo formalidades del tipo: logo 
+de la empresa, descripción, desglose de precio, detalle de impuestos si corresponde, 
+identificación del comprobante, etc) 
+ 
+I + D: Investigación y Desarrollo 
+ 
+IVA: Impuesto al Valor Agregado 
+ 
+RUT: Registro Único Tributario 
+ 
+1. OBJETIVO 
+ 
+El propósito de este documento es reflejar el procedimiento a seguir para la presentación y 
+rendición de gastos por parte de beneficiarios de proyectos de ANII. 
+2. ALCANCE 
+Los procedimientos detallados en el presente Instructivo son válidos para todo tipo de 
+Proyecto, independientemente del tipo de financiación, moneda y Beneficiario que actúe al 
+interior de cada uno.  
+Sin perjuicio de lo anterior, la ANII se reserva el derecho de exigir condiciones particulares y 
+más específicas en cada nueva convocatoria, las que tendrán carácter obligatorio para todos 
+los que se presenten en ella, sin que ello genere ningún tipo de conflicto con lo que se exige en 
+el presente instructivo.  
+ 
+Toda situación que a criterio del Beneficiario no se encuentre comprendida en los apartados 
+anteriores, se deberá consultar a la ANII por el procedimiento a seguir. 
+  
+Mayo 2020 
+ 
+2 
+ 
+3. PRESUPUESTACIÓN y PRESENTACIÓN DE GASTOS 
+La presupuestación de los diferentes proyectos se realizará contemplando los requisitos y 
+formalidades incluidos en las Bases Particulares de cada Convocatoria y  se regirán por las 
+normas contenidas en el presente instructivo y  sus correspondientes actualizaciones, las que 
+serán publicadas a través del sitio web de la ANII (www.anii.org.uy).  
+3.1. CARACTERÍSTICAS GENERALES  
+La moneda de presentación y la inclusión de impuestos como parte integrante del costo en la 
+presupuestación dependerán del tipo de convocatoria: 
+1. Para Beneficiarios de Proyectos de Innovación: En ningún caso se podrá incluir IVA 
+ni ningún otro impuesto como parte integrante del costo total del proyecto. 
+La ANII podrá establecer excepciones a este punto en las convocatorias. 
+Cuando los beneficiarios involucrados sean jóvenes empresas, en creación o 
+creadas para el proyecto, se acepta la inclusión de impuestos como parte 
+integrante del costo total. 
+2. Para Beneficiarios de Proyectos de I + D: Se podrán reconocer los impuestos y las 
+cargas sociales como parte integrante del costo total presupuestado. 
+3.2. PROCEDIMIENTO DE PAGO A LOS PROYECTOS  
+La ejecución financiera de los proyectos se realiza teniendo en cuenta tanto el presupuesto 
+como el plan de trabajo aprobados por la ANII,  los que forman parte del contrato celebrado 
+entre las partes.  
+ 
+Los proyectos se financian mediante un sistema de pagos, los que pueden ser en carácter de 
+Reembolso o de Adelanto, de acuerdo al tipo de convocatoria y Beneficiario de que se trate:  
+ 
+i. 
+Beneficiarios de Proyectos de Innovación: Reembolso 
+La ANII podrá entregar un porcentaje del monto de subsidio aprobado como 
+desembolso inicial luego de la firma del contrato.  
+Los reembolsos serán entregados siempre que se cumplan los requisitos 
+consignados en el contrato y contra la presentación de la rendición de gastos 
+efectuados en la ejecución del Proyecto en un período anterior determinado, 
+según las fechas previstas en el cronograma para la culminación de los avances en 
+cada hito1. 
+Los reembolsos consistirán en la “suma resultante de la aplicación del porcentaje 
+de subsidio sobre el monto total de la rendición de gastos presentada, 
+                                                           
+1 Hito: se define hito como el momento de la ejecución de un proyecto en el cuál se logran avances 
+verificables relevantes.  
+ 
+  
+Mayo 2020 
+ 
+3 
+ 
+descontado la suma otorgada como desembolso inicial”. No corresponde 
+reembolso cuando el monto a reembolsar es menor al desembolso inicial. 
+La ANII establece la excepción a este punto, cuando los beneficiarios involucrados 
+son jóvenes empresas, en creación o creadas para el proyecto, autorizando que el 
+sistema de pagos sea en carácter de Adelanto.  
+La moneda a utilizar es la indicada en cada convocatoria. Para los gastos 
+realizados en una moneda diferente a la establecida, se deberá utilizar el/los tipos 
+de cambio y procedimientos que se detallan en el numeral 5.2. 
+ 
+ 
+ii. 
+Beneficiarios de Proyectos de I + D: Adelanto 
+ 
+La ANII realizará un desembolso inicial luego de la firma del contrato, bajo la 
+modalidad de adelanto, que consiste en un porcentaje del monto del subsidio 
+aprobado. 
+La moneda en que se opera es pesos uruguayos. En caso de gastos realizados en 
+otra moneda, para su conversión se deberá utilizar el procedimiento que se 
+detalla en el numeral 5.2. 
+  
+En todos los casos, la ANII efectuará los pagos que corresponda siempre que se cumpla con las 
+actividades previstas de acuerdo al plan de trabajo en las fechas establecidas en el cronograma 
+y con los siguientes requerimientos:  
+ 
+a. que los gastos en los que haya incurrido para el cumplimiento de las actividades 
+previstas de acuerdo al plan de trabajo sean pertinentes y conformes al Proyecto 
+presentado;  
+b. que los gastos que se acrediten en cada oportunidad sean aquellos gastos 
+efectuados en el período en el cual se llevaron a cabo las actividades 
+correspondientes al plan de trabajo de acuerdo al Proyecto;  
+c. que el Beneficiario ponga a disposición de la ANII o de quien ésta designe los 
+comprobantes que acrediten los gastos efectuados en cumplimiento de las 
+actividades  del plan de trabajo que corresponda de acuerdo al Cronograma;  
+d. que del seguimiento que realizará la ANII del Proyecto, surja que el avance de las 
+actividades concuerdan con lo estipulado;  
+e. que el Beneficiario otorgue a la ANII el informe de avance previsto en el 
+Cronograma.  
+ 
+En cada contrato se determinarán los porcentajes a entregar a los Beneficiarios al inicio y 
+contra cada cumplimiento de cada tramo. 
+Para que se configure la liberación de la partida a otorgar, el beneficiario deberá demostrar a 
+la ANII mediante una rendición de gastos en línea o mediante archivo electrónico (Declaración 
+Jurada de Gastos) lo siguiente:  
+a. en los casos en los que opera el adelanto, una ejecución superior al 75% del pago 
+anterior recibido para que se le habilite el siguiente pago. 
+  
+Mayo 2020 
+ 
+4 
+ 
+b. En los casos en los que opera reembolso, una ejecución superior al 100% del 
+porcentaje de subsidio otorgado al momento de la firma del contrato como 
+desembolso inicial (en los casos que corresponda).   
+Las rendiciones de gastos se requieren en el marco de la relación contractual establecida por 
+ANII con el beneficiario de uno de sus programas de financiamiento. La intervención de un 
+profesional universitario en ejercicio de su profesión no es un requisito para la preparación del 
+presente informe. En consecuencia, ANII no controlará si ha intervenido un profesional 
+universitario ni el cumplimiento por parte de éste de las  obligaciones que la Ley 17.738 (y 
+demás normas concordantes y modificativas) le impone, siendo de exclusiva responsabilidad 
+de los beneficiarios o de los profesionales que eventualmente intervengan cumplir con lo 
+previsto en la normativa referida. 
+Para los casos que corresponda y la rendición de gastos sea acompañada de firma de 
+profesional universitario  deberá estar acompañadas del timbre correspondiente (ya sea 
+físico o digital). 
+La ANII realizará todo pago o transferencia a la orden del Beneficiario, independientemente de 
+la modalidad de pago que se trate, de preferencia, a través de una cuenta BROU dispuesta 
+para tales fines por el beneficiario. 
+Para todos aquellos beneficiarios que no cuenten con una cuenta bancaria con el BROU, los 
+costos de las transacciones correrán por parte del beneficiario.  
+El pago final será, en todos los casos, un monto equivalente hasta el 10% del costo total de 
+cada proyecto y será retenido por la ANII hasta la aprobación del informe final del proyecto 
+por parte del Comité respectivo.  
+3.3. ENTREGA DE FONDOS AL PROYECTO. 
+La liberación de los fondos por parte de la Gerencia de Administración y Finanzas durante la 
+ejecución del proyecto, desde la segunda hasta la penúltima partida, se hará considerando 
+como monto máximo para cada período, el establecido en el cronograma del proyecto 
+aprobado, que forma parte del contrato firmado entre las partes. 
+Un proyecto está habilitado a recibir la partida que corresponda cuando:  
+a. esté al día con las rendiciones de gastos efectuados;  
+b. la solicitud esté comprendida entre los montos originalmente planteados en el 
+proyecto para el período; y  
+c. haya cumplido con la entrega de los informes de avance correspondientes. 
+IMPORTANTE: Retención del 10% sobre el monto total del proyecto 
+La liberación del último pago, cualquiera sea su modalidad, corresponde al 10% retenido del 
+total del financiamiento otorgado y queda supeditada a la aprobación del Informe Final del 
+proyecto por parte de la ANII y a haber completado las rendiciones de gastos.  
+  
+Mayo 2020 
+ 
+5 
+ 
+Este porcentaje final, debe estar rendido en su totalidad al momento de la entrega de la última 
+rendición de gastos. NO se pueden agregar gastos una vez cerrado el proyecto y presentada la 
+última rendición. Si se culmina el proyecto con un total gastado y rendido menor al 
+presupuestado, se configura un ahorro. 
+4. RENDICIÓN DE GASTOS 
+ 
+La rendición de gastos se realiza sobre una “base caja”, en ella se deben incluir únicamente 
+comprobantes que sean respaldo del pago sobre gastos realizados. 
+ 
+No se reconocerán gastos:  
+ 
+a. pagados en fechas anteriores a rendiciones ya enviadas y aprobadas.   
+b. realizados una vez cerrado el proyecto y presentada la última rendición. 
+El beneficiario, en la figura del responsable administrativo del proyecto, deberá conservar 
+todos los documentos formales de respaldo originales para ser auditados in situ por la ANII o 
+por quien esta designe o contrate para tales fines. Los comprobantes deberán ser conservados 
+por un período de cinco años. 
+A efectos de justificar los fondos que se utilizaron en la ejecución de un proyecto se 
+completará una planilla (electrónica o en línea) identificando todos los gastos realizados en el 
+periodo. La ANII proporcionará un modelo de la planilla en donde se realizarán las rendiciones 
+de gastos. 
+ 
+4.1. INSTRUCCIONES PARA LLENADO DE LA RENDICIÓN DE GASTOS 
+ 
+En la web de ANII se encuentra disponible el modelo de Planilla que debe ser completado y 
+que a continuación se muestra:  
+ 
+  
+Mayo 2020 
+ 
+6 
+ 
+ 
+ 
+ 
+  
+Mayo 2020 
+ 
+7 
+ 
+Las acciones a ejecutar para completar la planilla de rendición de gastos son las siguientes: 
+1. Se ordenará la documentación en orden cronológico por fecha de pago (fecha del 
+recibo o de la boleta contado), seguidamente se numerará la documentación que se 
+está rindiendo a fin de facilitar la presentación y comunicación. Esta numeración debe 
+ser trasladada a la planilla.  
+2. En la columna de código de rubro se debe listar el código del rubro que se está 
+justificando, de acuerdo al cronograma económico aprobado en el proyecto. 
+3. En la siguiente columna debe completarse el nombre y dirección del proveedor a quien 
+se le adquirió el bien o el nombre de la persona a quien se le está abonando un 
+servicio. 
+4. En la columna de descripción de bienes y servicios se solicita una descripción lo más 
+amplia posible: caso de sueldos, mes de cargo; caso de compra de materiales o 
+equipos, su nombre específico. 
+5. En las columnas referentes a pagos, debe especificarse lo requerido en cada una de las 
+columnas. La columna de tipo de cambio será utilizada para convertir el gasto 
+realizado a la moneda de presentación de que se trate, utilizando el tipo de cambio 
+que corresponda para cada caso. 
+6. La/s columna/s de control es/son para uso interno de la ANII. 
+En esta planilla se detallarán todos los pagos realizados por el beneficiario con cargo al costo 
+total del proyecto. Sobre ellos, la administración de la ANII pagará el porcentaje de subsidio 
+correspondiente.  
+El beneficiario deberá enviar por e-mail al ejecutivo asignado la planilla en formato Excel 
+(Versión de Trabajo), a no ser que corresponda  completarla on- line. 
+La versión definitiva debe ir acompañada por la rendición en formato PDF,  con timbre 
+profesional (cuando corresponda), firmada por el Responsable de Ejecución Financiera y por el 
+Responsable Científico/Técnico.  
+Para los casos en que corresponda realizar la rendición de gastos online, el ejecutivo a cargo 
+del proyecto le indicará cómo hacerlo.  
+NOTA: si bien la rendición de gastos se realiza de manera electrónica, reviste el carácter de 
+DECLARACIÓN JURADA DE GASTOS. 
+4.2. DOCUMENTACIÓN REQUERIDA PARA LA RENDICIÓN DE GASTOS. 
+Toda operación realizada en el Proyecto deberá estar documentada a Nombre del 
+Beneficiario, seguido de la frase “Proyecto ANII N°_____________ (identificación del Proyecto 
+según Contrato), incluyendo el RUT del Beneficiario. Esta modalidad deberá ser utilizada por 
+todos los Beneficiarios de Proyectos de Innovación y para Beneficiarios de I+D. 
+ 
+  
+Mayo 2020 
+ 
+8 
+ 
+En cada rubro se solicitará la siguiente documentación: 
+ 
+INS 
+Materiales e insumos para el proyecto: Factura y recibo de pago o boleta contado. 
+ 
+EQL 
+Equipamiento liviano, equipos de pruebas, ensayos o de laboratorio: Factura y recibo o boleta 
+de contado. 
+ 
+BIB 
+Material bibliográfico: Factura y recibo de pago o boleta de contado. 
+ 
+SOF 
+Software: Factura y recibo de pago o boleta de contado. 
+ 
+En el caso de adquisición de software vía internet también se deberá anexar la confirmación de 
+la venta por parte de la empresa proveedora. 
+ 
+TEC 
+Retribución a investigadores y personal técnico contratado por el proyecto:  
+- 
+Relación de dependencia: recibo de sueldo firmado, con aclaración de firma y fecha 
+del pago. 
+- 
+Fuera de la Relación de dependencia: Factura crédito y recibo o boleta contado por los 
+honorarios. 
+Remuneración a socios y directores de empresas:  
+ 
+Empresa unipersonal 
+ 
+-  Factura al proyecto  (Consumidor Final) o 
+-  Factura B.P.S. y pago de aportes jubilatorios en la categoría correspondiente en función del 
+sueldo destinado al proyecto + Nominada (planilla de trabajo). 
+ 
+Empresa S.A. 
+ 
+- 
+Factura por sus honorarios a la S.A. o 
+- 
+Recibo de sueldo firmado, aclarado y con fecha de pago o 
+- 
+Certificación contable (en caso de que los accionistas y director realicen retiros de la 
+empresa por medio de dividendos)*. 
+ 
+Empresa S.R.L. 
+ 
+- 
+Factura del socio (profesional) por sus honorarios a la empresa o 
+- 
+Recibo de sueldo firmado, aclarado y con fecha de pago o 
+- 
+Certificación contable (en caso de que los socios realicen retiros de la empresa por medio 
+de dividendos)*. 
+ 
+ 
+  
+Mayo 2020 
+ 
+9 
+ 
+Empresa Sociedad de Hecho 
+ 
+- 
+Factura del socio (profesional) por sus honorarios a la sociedad de hecho. 
+- 
+Recibo de sueldo firmado, aclarado y con fecha de pago o 
+- 
+Certificación contable (en caso de que los socios realicen retiros de la empresa por medio 
+de dividendos)*. 
+ 
+*Solicitar modelo de nota a ANII.  
+ 
+CON 
+Consultores locales o del exterior: Factura de honorarios y recibo correspondiente. Para el 
+caso de consultores internacionales que realicen sus tareas dentro del territorio nacional, 
+deberá presentarse además del documento formal de respaldo, el comprobante de retención 
+de IRNR (Impuesto a la Renta de No Residentes). 
+ 
+CAP 
+Cursos cortos y talleres (capacitación): Factura y recibo o boleta de contado de la institución 
+que brindó la capacitación.  
+Si las instancias de capacitación son brindadas por expertos internacionales, se podrá aceptar 
+una Carta Acuerdo en la cual se reflejen las tareas a realizar y el monto a abonar. Será firmada 
+por el Responsable del Proyecto y el experto que brinde la capacitación. A efectos del pago, se 
+deberá adjuntar una constancia de que la capacitación efectivamente fue brindada. A su vez, si 
+el pago se efectuara al contado, se deberá firmar la misma Carta Acuerdo por parte del 
+experto involucrado dejando constancia de fecha y monto recibido como constancia del pago. 
+ 
+ 
+PRF 
+Profesores Visitantes: Nota de rendición firmada, disponible en la web de ANII (“Apoyo a 
+profesores visitantes”). 
+ 
+SER 
+Servicios técnicos y de mantenimiento asociados al proyecto: Factura y recibo de pago o boleta 
+de contado. 
+ 
+PPI 
+Costos de protección de Propiedad Intelectual y uso de Licencias: Factura y recibo de pago o 
+boleta contado  
+ 
+ADE 
+Adecuación edilicia específica para instalación de equipos: Factura y recibo de la empresa 
+constructora. Considerando la convocatoria y aprobación específica. 
+ 
+ 
+Otros aspectos a tener en cuenta: 
+ 
+• 
+Compra por internet con tarjeta de crédito: Se solicitará el resumen de la tarjeta de 
+crédito y su correspondiente recibo de pago.  
+ 
+• 
+En casos de pagos mediante transferencia bancaria, conservar comprobante de 
+transferencia. 
+  
+Mayo 2020 
+ 
+10 
+ 
+ 
+• 
+No se aceptarán pagos en efectivo en caso de compras realizadas en el exterior de las 
+cuales no pueda obtenerse un documento formal de respaldo. 
+ 
+• 
+Para otros tipos de pagos vía electrónica (Ej.: Paypal), deberá presentarse toda la 
+documentación pertinente que permita vincular al proveedor con el comprador. 
+Si el pago de una factura se cancela con varios recibos, éstos se anexarán para corroborar la 
+totalidad del pago. 
+Los responsables de la ejecución financiera del proyecto deben guardar los originales de todos 
+los comprobantes de pago. La ANII, o quien ésta designe, realizará la auditoría de los gastos 
+solicitando la documentación de referencia. 
+  
+Mayo 2020 
+ 
+11 
+ 
+5.  CONSIDERACIONES PARTICULARES 
+5.1 GASTOS DE MOVILIDAD 
+5.1.1  PASAJES  (PAS) 
+SE INCLUYE  EN ESTE  RUBRO PASAJE DE IDA Y VUELTA DESDE EL LUGAR DE RESIDENCIA AL LUGAR DONDE  
+SE REALIZARÁ LA ACTIVIDAD (EN EL EXTERIOR DEL PAÍS). 
+Los pasajes reconocidos serán los de clase económica. Deben contar con el 
+correspondiente comprobante de respaldo: 
+• 
+factura de agencia de viaje o 
+• 
+factura electrónica de la empresa de transporte 
+No se admiten dentro de este rubro: 
+• 
+gastos de traslados (taxi desde/hacia el aeropuerto). 
+• 
+gastos  realizados en vehículos particulares (combustibles, peajes, etc). 
+5.1.2 GASTOS PARA VIAJES (VIA) 
+Se reconocen en base a las noches pernoctadas en el país. En cada llamado se establecerán los 
+montos máximos a considerar. 
+Serán rendidos  a través  de la Nota  disponible en la web de ANII (“Rendición de gastos para 
+viajes”). 
+Para efectuar la revisión de la rendición de gastos para viajes  se exigirá, si corresponde, la 
+presentación de los boarding pass,  sellos de pasaporte o constancia de Migración. 
+• 
+ALOJAMIENTO 
+Se aceptarán como comprobantes válidos aquellos que respalden   la contratación del servicio  
+y el  pago correspondiente (transferencia, giro, tarjeta de crédito). 
+No se aceptarán como forma de pago las realizadas en efectivo en caso de 
+compras/contrataciones  realizadas en el exterior de las cuales no pueda obtenerse un 
+documento formal de respaldo. 
+  
+Mayo 2020 
+ 
+12 
+ 
+• 
+TRASLADOS 
+Se considera Traslado aquellos  de movilidad menor que se generan producto de la actividad a 
+realizar (ej. taxi, remise, ómnibus locales) 
+La contratación de transporte privado (ej. Alquiler de auto) se admite únicamente si eso 
+implica un beneficio económico. ANII reconocerá en todos los casos el costo de transporte más 
+económico. 
+5.1.3 APORTES DE LA CONTRAPARTE 
+• 
+Se reconocerán como aportes de la contraparte (el beneficiario) aquellos que cumplan 
+la doble condición de: 
+1) Ser servicios prestados habitualmente a otras Instituciones 
+2) Puedan ser facturados al Proyecto por parte del Beneficiario  
+• 
+No se aceptarán como contrapartida horas del personal (docente, administrativo, de 
+apoyo)  en la institución postulante. 
+• 
+No se admitirán gastos de los cuales no existan documentos formales de respaldo. 
+5.2 CONVERSIÓN DE MONEDA – PROCEDIMIENTO 
+Todos los gastos realizados en el marco de un proyecto en una moneda diferente a la moneda 
+de presentación estipulada en la convocatoria, deberán ser convertidos a ésta al momento de 
+la confección de la Planilla de Rendición de Gastos.  
+Para la conversión, se admitirá la utilización del tipo de cambio efectivamente transado en la 
+operación de cambio, siempre que el beneficiario pueda cumplir con los siguientes requisitos: 
+1. Deberá contar con los comprobantes de la compra venta para cada transacción 
+efectuada, condición necesaria para justificar el tipo de cambio al que se está 
+convirtiendo el gasto rendido, y; 
+2. Deberá individualizar cada operación: se deberá adjuntar el comprobante de 
+compra venta de moneda de donde se desprende el tipo de cambio rendido con 
+el PRINCIPAL de la operación que origina el gasto, esto es, el importe de la 
+transacción debe coincidir en todos los casos con el importe del gasto que se está 
+rindiendo. 
+  
+Mayo 2020 
+ 
+13 
+ 
+En suma: se admitirá utilizar el Tipo de Cambio efectivamente transado en cada operación, 
+siempre y cuando cada comprobante de gastos que se está rindiendo tenga adjunto el 
+comprobante correspondiente a la operación de cambio de moneda realizada y por el importe 
+exacto.  
+En caso de no contar con la documentación necesaria que respalde la rendición de los gastos al 
+tipo de cambio efectivamente transado, se deberá convertir a la moneda de presentación 
+utilizando, en todos los casos:  
+1. el tipo de cambio interbancario billete comprador publicado por el BCU del día hábil 
+anterior a la fecha del comprobante de pago rendido, y; 
+2. en los casos en que se haya contratado en una moneda extranjera distinta a dólares 
+americanos y se necesite convertir a pesos uruguayos, se deberá convertir a: 
+a. Dólares americanos utilizando el arbitraje BCU del día anterior a la fecha del 
+comprobante de pago del gasto efectuado, y luego,   
+b. Convertir a Pesos Uruguayos utilizando el tipo de cambio detallado en 1. 
+5.3 CASOS PARTICULARES 
+a) Rubros Financiables y no Financiables: en cada convocatoria se detallarán los 
+rubros pasibles de ser financiados en el marco de cada proyecto y en los casos en 
+que se considere necesario, se enunciarán de manera explícita, aquellos que no 
+podrán ser financiados por el proyecto.  
+b) Contratación de Expertos Individuales: se requerirá que el consultor a contratar 
+cumpla con la definición de experto individual: profesional o técnico especializado 
+en alguna ciencia, arte u oficio y que se presente el Curriculum Vitae del consultor.  
+En los casos en que la contratación del consultor o del personal técnico a 
+desempeñarse en el proyecto sea posterior a la aprobación por parte de la ANII, se 
+requerirá aprobación previa de la Agencia para su contratación. 
+c) Adecuación Edilicia: en los casos en que sea admitida la realización de este tipo de 
+gastos, el monto total de las obras no podrá superar en ninguno de los casos el 
+25% del costo global del proyecto, salvo consideración expresa en las Bases de la 
+Convocatoria de que se trate. 
+d) Gastos previos: Los proyectos presentados a las convocatorias de Innovación de 
+Alto Impacto y a la de Amplia Cobertura Mayores podrán rendir aquellos gastos 
+incurridos por la empresa en el período comprendido entre el ingreso formal del 
+proyecto otorgado por parte de la ANII y la firma del contrato. La ANII podrá 
+plantear excepciones a esta regla, las que serán incluidas expresamente en cada 
+convocatoria. 
+  
+Mayo 2020 
+ 
+14 
+ 
+La ANII aceptará la mencionada inclusión sólo en aquellos casos en los que las 
+empresas hayan comunicado formalmente el inicio de la ejecución del proyecto 
+con anterioridad a la firma del contrato. 
+En el caso de que hubiera gastos previos, éstos se justificarán con anticipación a la 
+firma del contrato y el monto resultante de dicha justificación de gastos será el 
+importe que se establecerá en el contrato correspondiente. 
+e) Ajustes del presupuesto: El presupuesto del proyecto no tendrá ajustes a la suba 
+de ningún tipo.  
+Se admitirán transferencias de fondos entre rubros únicamente en casos 
+excepcionales, los que deberán estar debidamente justificados y contar con 
+autorización explícita por parte de la ANII para cada caso concreto.  
+En ningún caso se aumentará el monto global de subsidio establecido en el 
+contrato. 
+f) Imprevistos: Para poder realizar una transferencia a cualquier rubro desde el 
+rubro de imprevistos el saldo del primero debe estar en cero. 
+g) Adquisiciones no realizadas de acuerdo a las pautas: La ANII se reserva el derecho 
+de no reembolsar adquisiciones que hubieran sido realizadas apartándose de las 
+normas y procedimientos dispuestos en los Instructivos y de las normas 
+contenidas en el contrato firmado entre el Beneficiario y la ANII. 
+ 
+ 
+  
+Agosto 2018 
+ 
+1 
+ 
+ 
+INSTRUCTIVO PARA SELECCIÓN Y CONTRATACIÓN DE SERVICIOS DE CONSULTORÍA 
+OBJETIVO  
+ 
+Todo procedimiento de selección y contratación de servicios de consultoría se regirá por las 
+normas contenidas en el presente manual de procedimientos, con sus correspondientes 
+actualizaciones, las que serán publicadas a través del sitio web de la ANII (www.anii.org.uy).  
+ 
+Este documento tiene como objetivo puntualizar los tipos de métodos de selección y 
+contratación de servicios de consultoría, tanto para la contratación de consultores individuales 
+como de firmas consultoras, dejando de lado todo otro tipo de método o instrucciones de 
+alcance general y específico.  
+ 
+Los procedimientos contenidos en este documento aplican a todos los contratos de servicios 
+de consultoría financiados total o parcialmente con los fondos de terceros que la ANII 
+administre.  
+Si bien los procedimientos específicos que han de seguirse para la selección y contratación de 
+servicios de consultoría dependen de las circunstancias de cada caso, las principales 
+consideraciones a tener en cuenta en el proceso de selección son las siguientes:  
+a. necesidad de contar con servicios de alta calidad;  
+b. necesidad de economía y eficiencia;  
+c. necesidad de dar a los consultores calificados la oportunidad de competir para prestar 
+servicios;  
+d. necesidad de que el proceso de selección sea transparente.  
+ 
+Los consultores pueden asociarse entre sí, ya sea formando una asociación en participación o 
+consorcio o mediante un acuerdo de subconsultoría con el fin de complementar sus 
+respectivas áreas de especialización, fortalecer la capacidad técnica de sus propuestas y poner 
+a disposición un grupo más amplio de expertos, proveer mejores enfoques y metodologías y, 
+en algunos casos, ofrecer mejores precios. En caso de contratarse a una asociación, ésta 
+deberá nombrar a una de las firmas como representante de la asociación y todos los miembros 
+firmarán el contrato siendo responsables solidarios en la totalidad del trabajo. No se debe 
+exigir a los consultores que formen asociaciones pero se puede alentar la asociación con firmas 
+nacionales calificadas. Se permitirá la formación de asociaciones en participación o de 
+subconsultorías entre las firmas que intervienen únicamente con la aprobación previa por 
+parte de la ANII.  
+ 
+Las condiciones para participar en los procedimientos de selección y contratación de servicios 
+de consultoría deben ser únicamente aquellas que sean esenciales para asegurar que los 
+consultores tengan capacidad para llevar a cabo los servicios del contrato de que se trate.  
+ 
+Todos los procedimientos están sujetos a una revisión ex – ante (revisión previa) por parte de 
+la ANII, quien participará en cada etapa del proceso, controlando el cumplimiento de los 
+procedimientos que se detallan en el presente documento. La ANII se asegurará la 
+  
+Agosto 2018 
+ 
+2 
+ 
+transparencia de los procedimientos de selección y contratación involucrándose de manera 
+activa desde la etapa de la formulación de los servicios a contratarse.  
+ 
+La responsabilidad por la supervisión del desempeño de los consultores y de asegurarse que 
+éstos lleven a cabo los servicios que se les han encargado de conformidad con el contrato 
+recaerá sobre el/los individuos o instituciones designadas para tales efectos en los convenios 
+celebrados por la ANII.  
+ 
+No se financiarán gastos por concepto de servicios de consultoría si los consultores han sido 
+seleccionados o los servicios no han sido contratados de conformidad con los procedimientos 
+establecidos en el presente documento, sin perjuicio de las condiciones particulares exigidas 
+contractualmente a la ANII en el ejercicio de su competencia como entidad administradora de 
+fondos de terceros.  
+ ALCANCE  
+ 
+Los procedimientos contenidos en este documento aplican a todos los contratos de servicios 
+de consultoría financiados total o parcialmente con los fondos de terceros que la ANII 
+administre.  
+Sin perjuicio de lo anterior, la ANII se reserva el derecho de exigir condiciones particulares y 
+más específicas en cada nueva convocatoria, las que tendrán carácter obligatorio para todos 
+los que se presenten en ella, sin que ello genere ningún tipo de conflicto con lo que se exige en 
+el presente instructivo.  
+ 
+Toda situación que a criterio del beneficiario no se encuentre comprendida en los apartados 
+anteriores, deberá consultar a la ANII por el procedimiento a seguir.  
+ 
+Toda consulta deberá formularse por escrito, de lo contrario no tendrá carácter vinculante y 
+no se considerará válida al momento de justificar un procedimiento. 
+SELECCIÓN Y CONTRATACIÓN DE CONSULTORES INDIVIDUALES  
+ 
+ ASPECTOS GENERALES DEL PROCEDIMIENTO DE SELECCIÓN  
+ 
+Se entiende por Consultor individual a toda persona física ajena al equipo de trabajo de la 
+institución que requiere de sus servicios, contratado para realizar una tarea específica, con un 
+entregable final que debe estar definido en los Términos de Referencia (TDR).  
+ 
+Se deben realizar publicaciones y no se necesita que los consultores presenten propuestas. La 
+selección de consultores individuales se realiza en base a las calificaciones para llevar a cabo su 
+trabajo.  
+ 
+Se pueden seleccionar sobre la base de la comparación de las calificaciones de por lo menos 
+tres candidatos que expresen interés en el trabajo. La experiencia y las calificaciones de la 
+persona son los principales requisitos a tener en cuenta.  
+ 
+  
+Agosto 2018 
+ 
+3 
+ 
+Las personas consideradas en la comparación de calificaciones deben cumplir con las mínimas 
+calificaciones requeridas y el/los que se seleccione/n debe/n resultar los mejores calificados y 
+con plena capacidad de realizar el trabajo.  
+La capacidad de los consultores se juzgará sobre la base de sus antecedentes académicos, su 
+experiencia y, si corresponde, su conocimiento de las condiciones locales como el idioma, la 
+cultura, sistemas administrativos, entre otras.  
+ 
+En los casos en que funcionarios permanentes o asociados de una firma de consultores 
+cuenten con disponibilidad para trabajar como consultores individuales, se deben establecer 
+claramente disposiciones sobre conflictos de intereses para con la empresa y el resultado de 
+su trabajo como consultor individual.  
+ 
+Si debido al alto número de consultores individuales la coordinación, la administración o la 
+responsabilidad colectiva se hicieran complejas, es preferible la contratación de una firma de 
+consultores.  
+ 
+En los casos en que el trabajo de un consultor dependa del trabajo de otro consultor, se 
+preferirá la contratación de una Firma Consultora, que se responsabilice por la totalidad de los 
+trabajos.  
+ 
+MÉTODOS DE SELECCIÓN CONSULTORES INDIVIDUALES 
+ 
+I. Comparación de Calificaciones  
+ 
+Los servicios de consultoría especializada llevados a cabo por consultores individuales deberán 
+ser contratados mediante la selección basada en la comparación de calificaciones de al menos 
+3 candidatos (terna) que expresen interés en el trabajo o hayan sido directamente 
+contactados, debiendo cumplir con las condiciones mínimas solicitadas en los Términos de 
+Referencia.  
+ 
+Las personas consideradas en la comparación de calificaciones deben cumplir con las 
+calificaciones mínimas pertinentes y los que se seleccionen para ser contratados deben ser los 
+mejor calificados y capaces de realizar el trabajo. La capacidad de los consultores se juzgará 
+sobre la base de sus antecedentes académicos, su experiencia y, si corresponde, el 
+conocimiento de las condiciones locales.  
+ 
+Los contratos se realizarán de acuerdo con los Términos de Referencia que explicitarán en 
+detalle los productos esperados, montos, plazos y demás condiciones contractuales.  
+ 
+Check list de requisitos mínimos para la selección de consultores individuales mediante la 
+comparación de calificaciones:  
+ 
+1. Ordenamiento del gasto1;  
+2. Términos de Referencia – TDR, incluyendo cómo mínimo:  
+ 
+                                                           
+1 El gasto debe estar previamente autorizado por el ordenador del gasto, a través de resolución, convenios firmados, u otros 
+medios previamente acordados. 
+  
+Agosto 2018 
+ 
+4 
+ 
+2.1. Antecedentes;  
+2.2. Objeto de la Consultoría;  
+2.3. Productos entregables y cronograma de actividades;  
+2.4. Perfil detallado de la persona;  
+2.5. Forma de pago y plazos;  
+2.6. Sistema de Evaluación: criterios de evaluación y metodología de puntuación.  
+2.7. Condiciones particulares de la contratación según el caso.  
+2.8. ANEXOS  
+ 
+3. Publicidad:  
+ 
+3.1. Publicación del aviso correspondiente.  
+3.2. Invitaciones cursadas a los consultores vía e-mail o fax y confirmación de interés de 
+participar firmada por el consultor.  
+ 
+4. Cierre de convocatoria. Recepción de CV actualizado de los consultores con la confirmación 
+por parte del consultor de su disponibilidad para la consultoría.  
+5. Nombramiento de un Comité de Evaluación de al menos tres miembros quién llevará 
+adelante el proceso de evaluación y selección de los candidatos de acuerdo con la metodología 
+y criterios propuestos.  
+6. Acta o informe del Comité de Selección con la evaluación y sus recomendaciones.  
+7. Resolución o Acta de Adjudicación.  
+8. Notificación a todos los consultores que participaron del procedimiento de la decisión 
+adoptada.  
+9. Firma del Contrato de Consultoría con el consultor elegido.  
+10. Control de ejecución y cumplimiento de cláusulas contractuales.  
+ 
+ 
+II. Selección Directa  
+ 
+La contratación se realiza directamente sin comparación o proceso competitivo.  
+Los consultores pueden ser seleccionados directamente (Selección con Base en una sola 
+Fuente (SSF) o Contratación Directa) siempre que se justifique en casos excepcionales, bajo las 
+siguientes circunstancias:  
+ 
+  
+Agosto 2018 
+ 
+5 
+ 
+a) servicios que son una continuación de un trabajo previo que el consultor ha desempeñado y 
+para el cual el consultor fue seleccionado competitivamente;  
+b) cuando la persona es el único calificado para la tarea.  
+ 
+En estos casos, se deberá notificar a la ANII previo a la realización de la contratación y 
+presentar documentación y justificación que demuestre y acredite la excepción citada para 
+contratar en forma directa.  
+ 
+La ANII podrá no autorizar la contratación en forma directa si entiende que la justificación o 
+documentación presentada no es suficiente para probar la excepción o entiende más 
+conveniente la realización de un proceso competitivo.  
+ 
+SELECCIÓN Y CONTRATACIÓN DE FIRMAS CONSULTORAS  
+ 
+ASPECTOS GENERALES DEL PROCEDIMIENTO DE SELECCIÓN  
+ 
+La expresión consultores incluye una amplia gama de entidades públicas y privadas, entre 
+ellas, firmas consultoras, firmas auditoras, empresas de ingeniería, administradoras de 
+construcción de obras, empresas de administración, agencias de contrataciones, agencias de 
+inspección, agencias especializadas y otras organizaciones multilaterales, bancos de 
+inversiones, bancos comerciales, universidades, instituciones de investigación, organismos 
+gubernamentales, organizaciones no gubernamentales (ONG) y consultores individuales. Con 
+el fin de complementar la capacidad de la ANII, los consultores brindan una gran variedad de 
+servicios. 
+En ningún caso se establecerán disposiciones o estipulaciones que restrinjan o impidan la 
+participación de consultores originarios de otros países y se instrumentarán mecanismos 
+transparentes de selección. Para ello se realizarán publicaciones en la web de ANII, 
+invitaciones, grillas de evaluación objetiva e informada a los posibles candidatos interesados 
+con anticipación, contenidas en las bases de la contratación (Términos de Referencia).  
+Los Términos de Referencia deben permitir y asegurar una amplia participación del mercado, y 
+prestará debida atención a los aspectos de economía, eficiencia y razonabilidad de precios. 
+Los servicios de consultoría a los que se hace referencia son de carácter intelectual y de 
+asesoramiento. No se aplican a otros tipos de servicios en que predominan los aspectos físicos 
+de la actividad. 
+Las condiciones para participar en los procedimientos de selección y contratación de servicios 
+de consultoría  deben ser únicamente aquellas que sean esenciales para asegurar que los 
+consultores tengan capacidad para llevar a cabo los servicios del contrato de que se trate. 
+Firma consultora es toda asociación legalmente constituida, integrada principalmente por 
+personal profesional, que ofrece servicios de consultoría, asesoría, dictámenes de expertos y 
+servicios profesionales de diversa índole. 
+Es particularmente importante para la selección y contratación de una firma consultora, la 
+etapa de la formulación de los Términos de Referencia (TDR)y demás documentos que se 
+  
+Agosto 2018 
+ 
+6 
+ 
+utilizarán durante el proceso, donde se deben establecer claramente el alcance de los trabajos, 
+el perfil de los posibles candidatos y el método de selección utilizado.  
+Los procedimientos específicos a seguirse para la selección y contratación de servicios de 
+consultoría dependen de las circunstancias de cada caso, sin embargo, se deben tener en 
+cuenta las siguientes consideraciones para la elección del método de selección a utilizarse:  
+a. El monto estimado de la consultoría a contratarse, los recursos presupuestarios 
+asignados deben guardar relación con la realidad 
+b. La complejidad de los trabajos y productos esperados; 
+c. Las necesidades específicas de la Contratante, el alcance de los trabajos. 
+El alcance de los servicios descritos en los TDR debe ajustarse al presupuesto de que se 
+dispone. Se deben definir claramente los objetivos, las metas y la extensión de los trabajos 
+encomendados y suministrarse información básica (incluso lista de estudios y datos básicos 
+pertinentes que ya existan) con objeto de facilitar a los consultores la preparación de sus 
+propuestas. Deben definirse claramente las responsabilidades y obligaciones de las partes. 
+Si uno de los objetivos es la capacitación o la transferencia de conocimientos, es preciso 
+describirlo específicamente y dar detalles sobre el número de colaboradores de ANII que 
+recibirán capacitación y otros datos similares, a fin de permitir a los consultores estimar los 
+recursos que se necesitarán. 
+En los TDR se deben enumerar los servicios y los estudios necesarios para llevar a cabo el 
+trabajo y los resultados previstos. Sin embargo, no deben ser demasiado detallados ni 
+inflexibles, a fin de que los consultores que compitan puedan proponer su propia metodología. 
+Dependiendo del monto de la consultoría y de la complejidad de los trabajos, se deberá 
+publicar un llamado abierto para que todo consultor interesado se presente dentro de los 
+plazos establecidos, indicando una fecha límite de cierre de la convocatoria, un resumen de las 
+bases de la contratación e instrucciones para los consultores.  
+Para la confección de la lista corta, se deben considerar en primer lugar a aquellas firmas que 
+expresen interés respondiendo al aviso publicado y que tengan las calificaciones adecuadas. Es 
+recomendable que la lista corta como mínimo se componga de 6 firmas. 
+Se aceptarán listas cortas que incluyan un menor número de firmas, en condiciones especiales, 
+por ejemplo, cuando sólo existan pocas firmas calificadas que hayan expresado interés para un 
+trabajo específico o cuando el tamaño del contrato no justifique una mayor competencia. 
+En todos los casos se podrá rechazar alguna o la totalidad de las propuestas recibidas dentro 
+del procedimiento si se considera que son improcedentes y ninguna responde a los 
+requerimientos, ya sea por que presentan deficiencias importantes en lo que respecta al 
+cumplimiento de los TDR o porque su costo es considerablemente superior a la estimación 
+inicial. Previo al rechazo, se debe invitar a mejorar las propuestas a todos los consultores que 
+estén comprendidos dentro de la situación planteada.  
+Quedan comprendidas además dentro de este capítulo la selección y contratación de 
+entidades públicas o privadas que ofrezcan servicios de consultoría, como ser: empresas de 
+ingeniería, administradoras de construcciones de obras, empresas de administración, agentes 
+de contrataciones, auditores, organismos de las Naciones Unidas y otras organizaciones 
+  
+Agosto 2018 
+ 
+7 
+ 
+multilaterales, bancos de inversiones, universidades, instituciones de investigación, 
+organismos gubernamentales y organizaciones no gubernamentales (ONG).  
+ 
+Serán consideradas además toda asociación de consultores en participación o consorcio, o 
+aquellas asociaciones mediante acuerdo de subconsultoría no enmarcadas dentro de un 
+llamado a consultor individual, siempre que éstas sean aceptadas por la contratante.  
+ 
+Reviste particular importancia para la selección y contratación de una firma consultora, la 
+etapa de la formulación de los Términos de Referencia y demás documentos que se utilizarán 
+durante el proceso, donde se deben establecer claramente el alcance de los trabajos, el perfil 
+de los posibles candidatos y el método de selección utilizado.  
+ 
+Resulta necesaria una preparación cuidadosa de la estimación de costos para que los recursos 
+presupuestarios asignados guarden relación con la realidad. En base a esta estimación de 
+costos, a la complejidad y alcance de los trabajos, resultará la elección del método de selección 
+que mejor se adecúe a las necesidades de la contratante.  
+ 
+PROCEDIMIENTO DE SELECCIÓN  
+ 
+En los casos en que el procedimiento llevado a cabo sea competitivo, el proceso de selección 
+contará con las siguientes etapas2:  
+ 
+1. Ordenamiento del gasto3;  
+2. Preparación de los “Términos de Referencia – TDR”, incluyendo cómo mínimo:  
+2.1. Antecedentes;  
+2.2. Objeto de la Consultoría;  
+2.3. Alcance, productos esperados y cronograma de actividades;  
+2.4. Forma de pago y plazos;  
+2.5. Método de selección  
+2.6. Sistema de Evaluación: criterios de evaluación y metodología de puntuación.  
+2.7. Condiciones particulares de la contratación según el caso.  
+2.8. ANEXOS  
+ 
+3. Publicidad4:  
+3.1. Publicación del/ de los aviso/s correspondiente/s.  
+3.2. Preparación y aprobación de lista corta de consultores y aprobación.  
+ 
+4. Preparación y emisión del pedido de propuesta, el que incluirá Carta de Invitación e 
+instrucciones resumidas del procedimiento. Puede incluirse además en esta etapa los TDR y 
+como anexo el borrador del contrato propuesto.  
+5. Recepción de Propuestas y apertura pública de las propuestas presentadas5.  
+                                                           
+2 Con las modificaciones requeridas según el método de selección de los consultores utilizado en cada caso específico. Muchas 
+etapas pueden ser suprimidas, especialmente cuándo se utiliza una selección con base en una sola fuente. 
+3  El gasto debe estar previamente autorizado por el ordenador del gasto, a través de resolución, convenios firmados, u otros 
+medios previamente acordados.  
+4 Según el método seleccionado, se puede optar por una o realizar ambas.  
+5  La apertura de ofertas dependerá del método utilizado.  
+  
+Agosto 2018 
+ 
+8 
+ 
+ 
+6. Nombramiento de un Comité de Evaluación de al menos tres miembros quién llevará 
+adelante el proceso de evaluación y selección de la Firma Consultora según la metodología y 
+criterios propuestos.  
+7. Evaluación de las Propuestas Técnicas (consideraciones de calidad).  
+8. Apertura y Evaluación de Propuestas Financieras6. 
+ 
+9. Evaluación Final Global de las Propuestas7. Acta o informe del Comité de Selección con la 
+evaluación y sus recomendaciones.  
+ 
+10. Resolución o Acta de Adjudicación.  
+ 
+11. Notificación a todos los consultores que participaron del procedimiento de la decisión 
+adoptada.  
+ 
+12. Negociación y Firma del Contrato de Consultoría con la firma seleccionada.  
+ 
+13. Control de ejecución y cumplimiento de cláusulas contractuales.  
+ 
+El alcance de los servicios descritos en los Términos de Referencia (TDR) debe ajustarse al 
+presupuesto de que se dispone. Se deben definir claramente los objetivos, las metas y la 
+extensión de los trabajos encomendados y suministrarse información básica (incluso lista de 
+estudios y datos básicos pertinentes que ya existan) con objeto de facilitar a los consultores la 
+preparación de sus propuestas. Deben definirse claramente las responsabilidades y 
+obligaciones de las partes.  
+ 
+Si uno de los objetivos es la capacitación o la transferencia de conocimientos, es preciso 
+describirlo específicamente y dar detalles sobre el número de funcionarios que recibirán 
+capacitación otros datos similares, a fin de permitir a los consultores estimar los recursos que 
+se necesitarán.  
+ 
+En los TDR se deben enumerar los servicios y los estudios necesarios para llevar a cabo el 
+trabajo y los resultados previstos. Sin embargo, no deben ser demasiado detallados ni 
+inflexibles, a fin de que los consultores que compitan puedan proponer su propia metodología.  
+ 
+Dependiendo del monto de la consultoría y de la complejidad de los trabajos, se deberá 
+publicar un llamado abierto para que todo consultor interesado se presente dentro de los 
+plazos establecidos, indicando una fecha límite de cierre de la convocatoria, un resumen de las 
+bases de la contratación e instrucciones para los consultores. Se podrá publicar un “Aviso 
+General de Contrataciones” a fin de obtener expresiones de interés. Su publicación deberá ser 
+realizada en un periódico de circulación nacional, en los portales web de las partes que 
+intervienen como contratante y si se entiende pertinente, en un portal nacional de libre 
+acceso8.  
+                                                           
+6 El orden de la apertura y evaluación de las propuestas dependerá del método utilizado.  
+7  En algunos casos corresponderá únicamente esta evaluación.  
+8 Ejemplo: Portal de Compras Estatales www.comprasestatales.com.uy. Se podrá además tramitar la publicación en medios 
+internacionales de amplia circulación tales como UN Development Business online (UNDB online).  
+  
+Agosto 2018 
+ 
+9 
+ 
+ 
+Para la confección de la lista corta, se deben considerar en primer lugar a aquellas firmas que 
+expresen interés respondiendo al aviso publicado y que tengan las calificaciones adecuadas. 
+Las listas cortas deben incluir seis firmas con una amplia representación geográfica y podrán 
+estar compuestas enteramente por consultores nacionales si se dispone de un número 
+suficiente de firmas calificadas para constituir una lista corta, a costos competitivos y si es 
+evidente que no se justifica una competencia que incluya a consultores extranjeros o éstos no 
+expresen interés. La lista corta no debe incluir a consultores individuales. Se aceptarán listas 
+cortas que incluyan un menor número de firmas, en condiciones especiales, por ejemplo, 
+cuando sólo existan pocas firmas calificadas que hayan expresado interés para un trabajo 
+específico o cuando el tamaño del contrato no justifique una mayor competencia.  
+ 
+En todos los casos se podrá rechazar alguna o la totalidad de las propuestas recibidas dentro 
+del procedimiento si se considera que son improcedentes y ninguna responde a los 
+requerimientos, ya sea por que presentan deficiencias importantes en los que respecta al 
+cumplimiento de los TDR o porque su costo es considerablemente superior a la estimación 
+inicial. Previo al rechazo, se debe invitar a mejorar las propuestas a todos los consultores que 
+estén comprendidos dentro de la situación planteada.  
+MÉTODOS DE SELECCIÓN FIRMAS CONSULTORAS 
+ 
+I. Selección basada en costo y calidad  
+ 
+Es un proceso competitivo entre las Firmas incluidas en la lista corta en el que, para 
+seleccionar la empresa a la que se adjudicará el contrato, se tienen en cuenta la calidad de la 
+propuesta y el costo de los servicios.  
+La ponderación que se asigne a la calidad y al costo se determinará en cada caso de acuerdo a 
+la naturaleza del trabajo a realizarse. El peso relativo del costo como un factor de selección no 
+debe ser superior en ningún caso al factor calidad de la propuesta. Se tomará como referencia, 
+pero no única, una ponderación de 70% para la calidad y 30% para el costo. La ponderación 
+que se asigne a la calidad y al costo se determinará en cada caso de acuerdo a la naturaleza del 
+trabajo a realizarse. El peso relativo del costo como un factor de selección no debe ser superior 
+en ningún caso al factor calidad de la propuesta.  
+Evaluación de las propuestas: consideración de la calidad y el costo 
+La evaluación de las propuestas se debe llevar a cabo en dos etapas: primero la calidad y a 
+continuación el costo (en este orden). 
+Primero se analiza el cumplimiento de los requisitos formales de las propuestas técnicas 
+recibidas. Cumplido este paso, se debe evaluar cada propuesta técnica teniendo en cuenta 
+varios criterios: 
+a. La Experiencia del consultor en relación a los trabajos solicitados; 
+b. La calidad de la metodología propuesta; 
+                                                                                                                                                                          
+ 
+  
+Agosto 2018 
+ 
+10 
+ 
+c. Las calificaciones de los profesionales del personal clave propuesto; 
+d. La transferencia de conocimientos (si así se establece en los TDR). 
+Cada criterio y sub-criterio considerado deberá ser ponderado conforme a una escala de 
+calificación previamente establecida y arrojará un puntaje dentro de una escala del 1 al 100. 
+Una vez finalizada la evaluación de la calidad, se notificarán los puntajes a todas las Firmas 
+consultoras que hayan presentado propuestas, incluyendo aquellos cuyas propuestas no 
+obtengan la calificación mínima necesaria o que no se ajustaron a los TDR.  
+Simultáneamente se notificarán aquellos consultores que hayan obtenido el puntaje mínimo  
+requerido, indicando lugar y fecha para la apertura de las propuestas financieras. Las 
+propuestas financieras deben ser abiertas en público en presencia de los representantes de la 
+Firmas consultoras que decidan asistir, labrándose el acta correspondiente. 
+Con el fin de comparar las propuestas, deben convertirse los costos a una moneda de 
+comparación, la que se detalla en los TDR, al tipo de cambio vendedor de la fecha de apertura 
+publicada por un banco oficial (ej.: BROU). Se tomará para la comparación el costo total por los 
+servicios solicitados, impuestos incluidos, de acuerdo a lo solicitado en los TDR. 
+A los efectos de la comparación, se podrá asignar un puntaje financiero de 100 a la propuesta 
+de costo más baja y otorgar a las demás propuestas puntajes financieros inversamente 
+proporcionales a sus respectivos precios, la metodología debe estar detallada en los TDR. 
+Evaluación combinada de calidad y costo: el puntaje total se debe obtener sumando los 
+puntajes ponderados relativos a la calidad y el costo, resultando seleccionada la firma 
+consultora que obtenga el mayor puntaje global. 
+Este método de selección deberá ser utilizado cuando el monto estimado de la contratación 
+supere la suma de $ 2.750.000.  
+ 
+II. Selección basada en el menor costo  
+ 
+Este procedimiento es solamente apropiado para seleccionar consultores que realizarán 
+servicios de tipo estándar o rutinario, para los que existen prácticas y normas bien 
+establecidas, ej. Auditorias, diseño técnico de obras poco complejas y otros similares. 
+Se define una calificación mínima para la “calidad”, generalmente 70 puntos o más dentro de 
+una escala del 1 al 100 y todas las propuestas que excedan el mínimo compiten sólo con 
+respecto al “costo”.  
+Se invita a los consultores a presentar propuestas en dos sobres separados. Primero se abren 
+los sobres con las propuestas técnicas y se evalúan. Aquellas que no obtienen el puntaje 
+mínimo se rechazan y se evalúan los sobres con las propuestas financieras de los consultores 
+restantes, seleccionándose la firma que ofrece el precio más bajo. 
+Método apropiado solamente para seleccionar consultores que realizarán  servicios de tipo 
+estándar o rutinario para los que existen prácticas y normas bien establecidas. Se aplica para 
+montos menores a $ 2.750.000.  
+ 
+  
+Agosto 2018 
+ 
+11 
+ 
+Se define una calificación mínima para la “calidad”, generalmente 70 puntos o más dentro de 
+una escala del 1 al 100 y todas las propuestas que excedan el mínimo compiten sólo con 
+respecto al “costo”.  
+ 
+Se invita a los consultores a presentar propuestas en dos sobres separados. Primero se abren 
+los sobres con las propuestas técnicas y se evalúan. Aquellas que obtienen el puntaje mínimo 
+se rechazan y se evalúan los sobres con las propuestas financieras de los consultores restantes, 
+seleccionándose la firma que ofrece el precio más bajo.  
+ 
+ 
+III. Selección con presupuesto fijo  
+ 
+Este método es apropiado cuando el trabajo se puede definir con precisión y el presupuesto es 
+fijo. Se aplica para montos inferiores a $ 2.750.000. En este caso se selecciona la mejor 
+propuesta técnica recibida siempre y cuando no supere el monto establecido en los TDR.  
+ 
+ 
+IV. Selección basada en calificación de los consultores  
+Este método se utiliza para servicios menores, para los cuales, tomando en cuenta la 
+naturaleza y complejidad del trabajo, no se justifica ni la preparación ni la evaluación de 
+propuestas competitivas.  
+El método es más simple que el basado en calidad y costo, cuenta con menos etapas 
+fundamentalmente por la metodología de evaluación.  
+Se prepararán los TDR, se optará por realizar las publicaciones correspondientes o se 
+confeccionará una lista corta y se solicitarán expresiones de interés y se seleccionará la firma 
+que tenga las calificaciones y referencias más apropiadas.  
+Se solicitará que se presente una propuesta técnica conjuntamente con una financiera. Para 
+este método la calificación mínima deberá ser de 70 puntos.  
+Únicamente se envía las bases de contratación a la firma seleccionada en base a su experiencia 
+en la materia específica y la competencia de los consultores asignados al trabajo específico. 
+Este método se utiliza para servicios menores, para los cuales, tomando en cuenta la 
+naturaleza y complejidad del trabajo, no se justifica ni la preparación ni la evaluación de 
+propuestas competitivas.  
+ 
+Procede su aplicación cuando los montos estimados de contratación son inferiores a $ 
+2.750.000. El método es más simple que el basado en calidad y costo, cuenta con menos 
+etapas fundamentalmente por la metodología de evaluación.  
+ 
+Se prepararán los TDR, se optará por realizar las publicaciones correspondientes o se 
+confeccionará una lista corta y se solicitarán expresiones de interés y se seleccionará la firma 
+que tenga las calificaciones y referencias más apropiadas.  
+ 
+Se solicitará que se presente una propuesta técnica conjuntamente con una financiera. Para 
+este método la calificación mínima deberá ser de 70 puntos.  
+ 
+  
+Agosto 2018 
+ 
+12 
+ 
+Únicamente se envía las bases de contratación a la firma seleccionada en base a su experiencia 
+en la materia específica y la competencia de los consultores asignados al trabajo específico.  
+ 
+V. Selección directa o con base en una sola fuente  
+ 
+Sólo se deberá utilizar en casos excepcionales. La selección directa puede resultar apropiada 
+sólo si se presenta una clara ventaja sobre el proceso competitivo:  
+ 
+a. En el caso de servicios que constituyen una continuación natural de servicios realizados 
+anteriormente por la firma9;  
+b. Si se trata de operaciones de emergencia en respuesta a desastres y de servicios de 
+consultoría necesarios por el plazo de tiempo inmediato después de la emergencia;  
+c. Para servicios muy pequeños10; o  
+d. Cuando solamente una firma está calificada o tiene experiencia de valor excepcional para 
+los servicios.  
+ 
+En estos casos, se deberá notificar a la ANII previo a la realización de la contratación y 
+presentar documentación y justificación que demuestre y acredite la excepción citada para 
+contratar en forma directa.  
+ 
+La ANII podrá no autorizar la contratación en forma directa si entiende que la justificación o 
+documentación presentada no es suficiente para probar la excepción o entiende más 
+conveniente la realización de un proceso competitivo.  
+CASOS ESPECIALES DE SELECCIÓN Y CONTRATACIÓN CONSULTORES  
+ 
+I. Selección de organismos de las Naciones Unidas como consultores  
+ 
+Se puede contratar como consultores a organismos de las Naciones Unidas si éstos están 
+capacitados para proporcionar asistencia técnica y asesoramiento en su campo de 
+especialización. Sin embargo no deben recibir trato preferencial alguno en un proceso 
+competitivo de selección, con la salvedad de lograr beneficiarse de los privilegios e 
+inmunidades concedidos en virtud de convenios internacionales vigentes a los organismos de 
+las Naciones Unidas y su personal.  
+ 
+Toda ventaja, tales como exenciones tributarias y otras facilidades de pago, se deben evaluar 
+en la comparación de costos. Podrán contratarse mediante selección directa siempre que se 
+cumpla alguna de las excepciones que plantea el procedimiento.  
+ 
+ 
+                                                           
+9
+  Siempre que el contrato anterior haya sido adjudicado como resultado de un proceso competitivo.  
+10  El valor se determinará en cada caso, tomando en consideración el tipo y complejidad de los servicios.  
+ 
+  
+Agosto 2018 
+ 
+13 
+ 
+II. Selección de organizaciones no gubernamentales (ONG)  
+ 
+Se trata de organizaciones sin fines de lucro que pueden reunir ciertas condiciones únicas para 
+asistir en la preparación, administración y ejecución de proyectos, debido fundamentalmente 
+a su participación y conocimiento de la problemática local.  
+ 
+Se permite la inclusión de las ONG en procedimientos competitivos si éstas demuestran interés 
+y se las considerará siempre que cumplan con las calificaciones exigidas.  
+ 
+Para servicios con énfasis en la participación y en un conocimiento apreciable de la situación 
+local, se podrá elaborar un procedimiento competitivo especialmente dirigido a este tipo de 
+organizaciones.  
+ 
+Los criterios de evaluación deben guardar relación con las condiciones únicas de las ONG, 
+como su trabajo voluntario, su carencia de fines de lucro, su conocimiento de la realidad local, 
+la magnitud de sus operaciones y su reputación. Podrán contratarse mediante selección 
+directa siempre que se cumpla alguna de las excepciones que plantea el procedimiento.  
+ 
+ 
+ 
+III. Selección de auditores  
+ 
+Generalmente los auditores llevan a cabo sus servicios en conformidad con los TDR y normas 
+profesionales perfectamente definidas. Su selección se debe realizar conforme al método de 
+selección basado en la calidad y costo de las propuestas, pudiéndose introducir algunas 
+salvedades respecto a su implementación.  
+ 
+El costo debe ser un factor de selección importante (entre 40 y 50%), por entenderse que el 
+cumplimiento de las características técnicas será contemplado por las firmas de auditores que 
+integren la lista corta. Se podrá aceptar además algunas modificaciones respecto de la 
+evaluación de las propuestas, siempre que éstas se encuentren claramente señaladas en los 
+TDR y no se aparten demasiado del procedimiento original.  
+ 
+Se podrá utilizar el método de selección basado en el menor costo y para servicios muy 
+pequeños, se puede utilizar un procedimiento basado en la calificación de los consultores.  
+ 
+  
+Página 1 de 1 
+ 
+HONORARIOS MÁXIMOS RESCONOCIBLES POR ANII PARA PERSONAL CONTRATADO 
+PARA PROYECTOS DE EMPRESAS 
+ 
+EQUIPO NACIONAL DEL PROYECTO 
+NIVEL  
+REMUNERACIÓN MENSUAL MÁXIMA (UYU) * 
+Gerente o Jefe técnico del proyecto 
+113.758 
+Experto técnico/ Programador senior 
+92.685 
+Asistente técnico/ Programador junior 
+65.732 
+Ayudante/ Tester 
+42.144 
+Personal de Laboratorio 
+32.016 
+  
+Costo hora máxima ** 
+Consultor Nacional 
+1.513 
+ 
+*Corresponde a una carga horaria mínima de 40 horas por semana. 
+** El costo mensual máximo no podrá superar los UYU 113.758. 
+ 
+EQUIPO INTERNACIONAL DEL PROYECTO 
+NIVEL  
+VALOR (USD) 
+VALOR MENSUAL MÁXIMO 
+(UYU) 
+Experto 1* 
+50/horas 
+113.758 
+Experto 2** 
+24/horas 
+92.685 
+Consultor Internacional 
+400/días 
+181.500 
+ 
+*Profesional con Nivel de Posgrado y al menos 5 años de experiencia en su rama de actividad. 
+**Profesional o idóneo con al menos 5 años de experiencia en su rama de actividad. 
+  
+Página 1 de 12 
+ 
+GUÍA PARA LA PRESUPUESTACIÓN DE VIÁTICOS 
+A continuación se indican los viáticos máximos diarios que se pueden presupuestar en 
+las solicitudes de financiamiento de: 
+A) Viáticos en el extranjero 
+PAÍS 
+CIUDAD 
+ESCALA 
+BÁSICA 
+(EB)1 
+(USD) 
+VIÁTICO POR DÍA (USD) 
+Hasta 6    
+días2  
+De 7 a 
+15 
+días3 
+De 16 a 
+29 
+días4  
+De 30 a 
+60 
+días5 
+  
+  
+  
+  
+  
+  
+  
+Afganistán 
+Kabul 
+181 
+126,70 
+108,60 
+90,50 
+45,25 
+  
+Kabul (Kabul Serena) 
+263 
+184,10 
+157,80 
+131,50 
+65,75 
+  
+Otras ciudades 
+98 
+68,60 
+58,80 
+49,00 
+24,50 
+  
+ 
+ 
+ 
+ 
+ 
+  
+Albania 
+Tirana 
+174 
+121,80 
+104,40 
+87,00 
+43,50 
+  
+Tirana (Rogner) 
+205 
+143,50 
+123,00 
+102,50 
+51,25 
+  
+Tirana (Sheraton)  
+315 
+220,50 
+189,00 
+157,50 
+78,75 
+  
+Durres (Adriatic) 
+127 
+88,90 
+76,20 
+63,50 
+31,75 
+  
+Saranda (Butrinti) 
+138 
+96,60 
+82,80 
+69,00 
+34,50 
+  
+Shkodra  
+118 
+82,60 
+70,80 
+59,00 
+29,50 
+  
+Vlore 
+99 
+69,30 
+59,40 
+49,50 
+24,75 
+  
+Otras ciudades 
+78 
+54,60 
+46,80 
+39,00 
+19,50 
+  
+ 
+ 
+ 
+ 
+ 
+  
+Alemania 
+Berlín 
+300 
+210,00 
+180,00 
+150,00 
+75,00 
+  
+Bonn 
+233 
+163,10 
+139,80 
+116,50 
+58,25 
+  
+Hamburgo 
+302 
+211,40 
+181,20 
+151,00 
+75,50 
+  
+Leipzig  
+211 
+147,70 
+126,60 
+105,50 
+52,75 
+  
+Otras ciudades 
+254 
+177,80 
+152,40 
+127,00 
+63,50 
+  
+ 
+ 
+ 
+ 
+ 
+  
+Angola 
+Luanda 
+400 
+280,00 
+240,00 
+200,00 
+100,00 
+  
+Luanda (Alvalade, Baia, 
+Trópico) 
+580 
+406,00 
+348,00 
+290,00 
+145,00 
+  
+Luanda (Continental, 
+Presidente, Skyna, Suite 
+Maianga, Praia Mar) 
+483 
+338,10 
+289,80 
+241,50 
+120,75 
+  
+Benguela 
+224 
+156,80 
+134,40 
+112,00 
+56,00 
+  
+Cabinda 
+251 
+175,70 
+150,60 
+125,50 
+62,75 
+  
+Dundu 
+314 
+219,80 
+188,40 
+157,00 
+78,50 
+  
+Huambo 
+216 
+151,20 
+129,60 
+108,00 
+54,00 
+  
+Kuito 
+195 
+136,50 
+117,00 
+97,50 
+48,75 
+  
+Lobito 
+272 
+190,40 
+163,20 
+136,00 
+68,00 
+  
+Lubango  
+233 
+163,10 
+139,80 
+116,50 
+58,25 
+  
+Luena  
+178 
+124,60 
+106,80 
+89,00 
+44,50 
+  
+Malange 
+241 
+168,70 
+144,60 
+120,50 
+60,25 
+  
+Menongue 
+324 
+226,80 
+194,40 
+162,00 
+81,00 
+  
+Ndalatando 
+293 
+205,10 
+175,80 
+146,50 
+73,25 
+  
+Ondjiva  
+213 
+149,10 
+127,80 
+106,50 
+53,25 
+  
+Saurimo 
+217 
+151,90 
+130,20 
+108,50 
+54,25 
+  
+Página 2 de 12 
+ 
+  
+Sumbe  
+237 
+165,90 
+142,20 
+118,50 
+59,25 
+  
+Uige 
+223 
+156,10 
+133,80 
+111,50 
+55,75 
+  
+Otras ciudades 
+159 
+111,30 
+95,40 
+79,50 
+39,75 
+  
+ 
+ 
+ 
+ 
+ 
+  
+Anguila 
+Todas las áreas (15 Dic. - 14 
+Abr.) 
+426 
+298,20 
+255,60 
+213,00 
+106,50 
+  
+Todas las áreas (15 Abr. - 14 
+Dic.)  
+319 
+223,30 
+191,40 
+159,50 
+79,75 
+  
+ 
+ 
+ 
+ 
+ 
+  
+Antigua 
+Todas las áreas (1 Abr. - 30 
+Nov.) 
+337 
+235,90 
+202,20 
+168,50 
+84,25 
+  
+Todas las áreas (1Dic. - 31 
+Marz.) 
+352 
+246,40 
+211,20 
+176,00 
+88,00 
+  
+ 
+ 
+ 
+ 
+ 
+  
+Arabia 
+Saudita 
+ 
+ 
+ 
+ 
+ 
+  
+Riyadh 
+448 
+313,60 
+268,80 
+224,00 
+112,00 
+  
+Al-Khobar 
+437 
+305,90 
+262,20 
+218,50 
+109,25 
+  
+Jeddah 
+389 
+272,30 
+233,40 
+194,50 
+97,25 
+  
+Jeddah (Hilton e 
+Intercontinental) 
+540 
+378,00 
+324,00 
+270,00 
+135,00 
+  
+Otras ciudades 
+376 
+263,20 
+225,60 
+188,00 
+94,00 
+  
+ 
+ 
+ 
+ 
+ 
+  
+Argelia 
+Algiers 
+276 
+193,20 
+165,60 
+138,00 
+69,00 
+  
+Algiers(El-Djazair, El-
+Aurassi,Mercure) 
+382 
+267,40 
+229,20 
+191,00 
+95,50 
+  
+Algiers(Sheraton, Sofitel) 
+481 
+336,70 
+288,60 
+240,50 
+120,25 
+  
+Annaba (Golden Tulip Sabri)  
+249 
+174,30 
+149,40 
+124,50 
+62,25 
+  
+Annaba (Hotel Seybouse) 
+175 
+122,50 
+105,00 
+87,50 
+43,75 
+  
+Constantine (Novotel)  
+285 
+199,50 
+171,00 
+142,50 
+71,25 
+  
+Oran 
+240 
+168,00 
+144,00 
+120,00 
+60,00 
+  
+Oran (Hotel Royal)  
+323 
+226,10 
+193,80 
+161,50 
+80,75 
+  
+Oran (Le Meridien) 
+403 
+282,10 
+241,80 
+201,50 
+100,75 
+  
+Oran (Sheraton) 
+374 
+261,80 
+224,40 
+187,00 
+93,50 
+  
+Otras ciudades 
+143 
+100,10 
+85,80 
+71,50 
+35,75 
+  
+ 
+ 
+ 
+ 
+ 
+  
+Argentina 
+Buenos Aires 
+384 
+268,80 
+230,40 
+192,00 
+96,00 
+  
+Comodoro Rivadavia, Rosario, 
+Salta, Trelew 
+214 
+149,80 
+128,40 
+107,00 
+53,50 
+  
+Cordoba y Mar del Plata 
+276 
+193,20 
+165,60 
+138,00 
+69,00 
+  
+Mendoza y Neuquen 
+205 
+143,50 
+123,00 
+102,50 
+51,25 
+  
+San Carlos, Bariloche y Ushuaia 
+399 
+279,30 
+239,40 
+199,50 
+99,75 
+  
+Otras ciudades 
+148 
+103,60 
+88,80 
+74,00 
+37,00 
+  
+ 
+ 
+ 
+ 
+ 
+  
+Armenia 
+Yerevan 
+203 
+142,10 
+121,80 
+101,50 
+50,75 
+  
+Otras ciudades 
+141 
+98,70 
+84,60 
+70,50 
+35,25 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+Página 3 de 12 
+ 
+Aruba 
+  
+Todas las áreas (15 Abr. - 15 
+Dic.) 
+295 
+206,50 
+177,00 
+147,50 
+73,75 
+  
+Todas las áreas (16 Dic. - 14 
+Abr.) 
+378 
+264,60 
+226,80 
+189,00 
+94,50 
+  
+ 
+ 
+ 
+ 
+ 
+  
+Australia 
+ 
+ 
+ 
+ 
+ 
+  
+  
+Canberra, Melbourne y Sydney 
+312 
+218,40 
+187,20 
+156,00 
+78,00 
+  
+Otras ciudades 
+252 
+176,40 
+151,20 
+126,00 
+63,00 
+  
+ 
+ 
+ 
+ 
+ 
+  
+Austria 
+Otras ciudades 
+283 
+198,10 
+169,80 
+141,50 
+70,75 
+  
+ 
+ 
+ 
+ 
+ 
+  
+Azerbaijan 
+Baku 
+240 
+168,00 
+144,00 
+120,00 
+60,00 
+  
+Baku (Hyatt Regency, Marriot) 
+369 
+258,30 
+221,40 
+184,50 
+92,25 
+  
+Otras ciudades 
+169 
+118,30 
+101,40 
+84,50 
+42,25 
+  
+  
+ 
+  
+  
+  
+  
+Bahamas 
+Todas las ciudades 
+ 
+  
+  
+  
+  
+  
+20/12-20/04 
+393 
+275,10 
+235,80 
+196,50 
+98,25 
+  
+21/04-19/12 
+395 
+276,50 
+237,00 
+197,50 
+98,75 
+  
+  
+ 
+  
+  
+  
+  
+Bangladesh 
+Dhaka 
+117 
+81,90 
+70,20 
+58,50 
+29,25 
+  
+Dhaka (Amari Dhaka, Hotel 
+Lake Shore, Six Seasons Hotel) 
+308 
+215,60 
+184,80 
+154,00 
+77,00 
+  
+Dhaka (Longbeach Suites, 
+Royal Park Hotel, Ascott 
+Residence Hotel) 
+184 
+128,80 
+110,40 
+92,00 
+46,00 
+  
+Dhaka (Radisson Water 
+Garden) 
+465 
+325,50 
+279,00 
+232,50 
+116,25 
+  
+Dhaka (Sonargaon, Ruposhi) 
+254 
+177,80 
+152,40 
+127,00 
+63,50 
+  
+Chittagong 
+92 
+64,40 
+55,20 
+46,00 
+23,00 
+  
+Chittagong (Agrabad y 
+Península) 
+138 
+96,60 
+82,80 
+69,00 
+34,50 
+  
+Cox's Bazaar 
+73 
+51,10 
+43,80 
+36,50 
+18,25 
+  
+Otras ciudades 
+58 
+40,60 
+34,80 
+29,00 
+14,50 
+  
+  
+ 
+  
+ 
+ 
+  
+Barbados 
+Todas las ciudades 
+ 
+  
+ 
+ 
+  
+  
+16/12-15/04 
+350 
+245,00 
+210,00 
+175,00 
+87,50 
+  
+16/04-15/12 
+365 
+255,50 
+219,00 
+182,50 
+91,25 
+  
+  
+ 
+  
+  
+  
+  
+Bélgica 
+Todas las ciudades 
+324 
+226,80 
+194,40 
+162,00 
+81,00 
+  
+  
+ 
+  
+ 
+ 
+  
+Bolivia 
+La Paz 
+196 
+137,20 
+117,60 
+98,00 
+49,00 
+  
+Cochabamba 
+129 
+90,30 
+77,40 
+64,50 
+32,25 
+  
+Santa Cruz 
+204 
+142,80 
+122,40 
+102,00 
+51,00 
+  
+Otras ciudades 
+117 
+81,90 
+70,20 
+58,50 
+29,25 
+  
+ 
+ 
+ 
+ 
+ 
+  
+Brasil 
+Brasilia 
+189 
+132,30 
+113,40 
+94,50 
+47,25 
+  
+Belem 
+154 
+107,80 
+92,40 
+77,00 
+38,50 
+  
+Belo Horizonte 
+148 
+103,60 
+88,80 
+74,00 
+37,00 
+  
+Página 4 de 12 
+ 
+  
+Campinas 
+180 
+126,00 
+108,00 
+90,00 
+45,00 
+  
+Cuiaba 
+147 
+102,90 
+88,20 
+73,50 
+36,75 
+  
+Curitiba 
+122 
+85,40 
+73,20 
+61,00 
+30,50 
+  
+Fortaleza 
+135 
+94,50 
+81,00 
+67,50 
+33,75 
+  
+Foz do Iguacu 
+137 
+95,90 
+82,20 
+68,50 
+34,25 
+  
+Manaus 
+142 
+99,40 
+85,20 
+71,00 
+35,50 
+  
+Palmas 
+138 
+96,60 
+82,80 
+69,00 
+34,50 
+  
+Porto Alegre 
+142 
+99,40 
+85,20 
+71,00 
+35,50 
+  
+Recife 
+161 
+112,70 
+96,60 
+80,50 
+40,25 
+  
+Rio De Janeiro 
+211 
+147,70 
+126,60 
+105,50 
+52,75 
+  
+Salvador 
+129 
+90,30 
+77,40 
+64,50 
+32,25 
+  
+San Luis 
+142 
+99,40 
+85,20 
+71,00 
+35,50 
+  
+Sao Paulo 
+208 
+145,60 
+124,80 
+104,00 
+52,00 
+  
+Victoria 
+132 
+92,40 
+79,20 
+66,00 
+33,00 
+  
+Otras ciudades 
+104 
+72,80 
+62,40 
+52,00 
+26,00 
+  
+  
+ 
+  
+  
+  
+  
+Canadá 
+Otawa 
+331 
+231,70 
+198,60 
+165,50 
+82,75 
+  
+Calgary 
+315 
+220,50 
+189,00 
+157,50 
+78,75 
+  
+Halifax 
+280 
+196,00 
+168,00 
+140,00 
+70,00 
+  
+Montreal 
+293 
+205,10 
+175,80 
+146,50 
+73,25 
+  
+Toronto 
+325 
+227,50 
+195,00 
+162,50 
+81,25 
+  
+Vancouver 
+343 
+240,10 
+205,80 
+171,50 
+85,75 
+  
+Otras ciudades 
+244 
+170,80 
+146,40 
+122,00 
+61,00 
+  
+  
+ 
+  
+  
+  
+  
+Chile 
+Santiago 
+269 
+188,30 
+161,40 
+134,50 
+67,25 
+  
+Otras ciudades 
+150 
+105,00 
+90,00 
+75,00 
+37,50 
+  
+  
+ 
+  
+  
+  
+  
+China 
+Beijing 
+278 
+194,60 
+166,80 
+139,00 
+69,50 
+  
+Changchun 
+229 
+160,30 
+137,40 
+114,50 
+57,25 
+  
+Changsha 
+202 
+141,40 
+121,20 
+101,00 
+50,50 
+  
+Chengdu 
+328 
+229,60 
+196,80 
+164,00 
+82,00 
+  
+Dalian 
+256 
+179,20 
+153,60 
+128,00 
+64,00 
+  
+Fuzhou 
+259 
+181,30 
+155,40 
+129,50 
+64,75 
+  
+Guangzhou 
+257 
+179,90 
+154,20 
+128,50 
+64,25 
+  
+Guilin 
+246 
+172,20 
+147,60 
+123,00 
+61,50 
+  
+Guiyang 
+211 
+147,70 
+126,60 
+105,50 
+52,75 
+  
+Haikou 
+388 
+271,60 
+232,80 
+194,00 
+97,00 
+  
+Hangzhou 
+360 
+252,00 
+216,00 
+180,00 
+90,00 
+  
+Jinan 
+248 
+173,60 
+148,80 
+124,00 
+62,00 
+  
+Kunming 
+291 
+203,70 
+174,60 
+145,50 
+72,75 
+  
+Lhasa 
+266 
+186,20 
+159,60 
+133,00 
+66,50 
+  
+Nanjing 
+229 
+160,30 
+137,40 
+114,50 
+57,25 
+  
+Nanning 
+221 
+154,70 
+132,60 
+110,50 
+55,25 
+  
+Quingdao 
+269 
+188,30 
+161,40 
+134,50 
+67,25 
+  
+Sanya 
+253 
+177,10 
+151,80 
+126,50 
+63,25 
+  
+Shanghai 
+372 
+260,40 
+223,20 
+186,00 
+93,00 
+  
+Shenyang 
+249 
+174,30 
+149,40 
+124,50 
+62,25 
+  
+Shenzhen 
+339 
+237,30 
+203,40 
+169,50 
+84,75 
+  
+Suzhou 
+284 
+198,80 
+170,40 
+142,00 
+71,00 
+  
+Taiyuan 
+247 
+172,90 
+148,20 
+123,50 
+61,75 
+  
+Página 5 de 12 
+ 
+  
+Tianjin 
+294 
+205,80 
+176,40 
+147,00 
+73,50 
+  
+Urumuqi 
+218 
+152,60 
+130,80 
+109,00 
+54,50 
+  
+Wu Han 
+228 
+159,60 
+136,80 
+114,00 
+57,00 
+  
+Xi'An 
+230 
+161,00 
+138,00 
+115,00 
+57,50 
+  
+Xiamen 
+316 
+221,20 
+189,60 
+158,00 
+79,00 
+  
+Yanji 
+226 
+158,20 
+135,60 
+113,00 
+56,50 
+  
+Zhengzhou 
+268 
+187,60 
+160,80 
+134,00 
+67,00 
+  
+Otras ciudades 
+184 
+128,80 
+110,40 
+92,00 
+46,00 
+  
+  
+ 
+  
+  
+  
+  
+China, Macau 
+Macau (SAR) 
+243 
+170,10 
+145,80 
+121,50 
+60,75 
+  
+  
+ 
+  
+  
+  
+  
+China, Hong 
+Kong 
+Hong Kong (SAR) 
+393 
+275,10 
+235,80 
+196,50 
+98,25 
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+Chipre 
+Nicosia 
+162 
+113,40 
+97,20 
+81,00 
+40,50 
+  
+Nicosia(Hilton y Holiday) 
+268 
+187,60 
+160,80 
+134,00 
+67,00 
+  
+Otras ciudades 
+197 
+137,90 
+118,20 
+98,50 
+49,25 
+  
+ 
+ 
+  
+  
+  
+  
+Colombia 
+Bogota 
+150 
+105,00 
+90,00 
+75,00 
+37,50 
+  
+Barranquilla 
+95 
+66,50 
+57,00 
+47,50 
+23,75 
+  
+Bucaramanga 
+122 
+85,40 
+73,20 
+61,00 
+30,50 
+  
+Buenaventura 
+108 
+75,60 
+64,80 
+54,00 
+27,00 
+  
+Cali 
+123 
+86,10 
+73,80 
+61,50 
+30,75 
+  
+Cartagena 
+155 
+108,50 
+93,00 
+77,50 
+38,75 
+  
+Cucuta 
+97 
+67,90 
+58,20 
+48,50 
+24,25 
+  
+Medellin 
+127 
+88,90 
+76,20 
+63,50 
+31,75 
+  
+Monteria 
+117 
+81,90 
+70,20 
+58,50 
+29,25 
+  
+Neiva 
+92 
+64,40 
+55,20 
+46,00 
+23,00 
+  
+Paipa 
+150 
+105,00 
+90,00 
+75,00 
+37,50 
+  
+Riohacha 
+89 
+62,30 
+53,40 
+44,50 
+22,25 
+  
+San Andres 
+139 
+97,30 
+83,40 
+69,50 
+34,75 
+  
+Santa Marta 
+139 
+97,30 
+83,40 
+69,50 
+34,75 
+  
+Villa de Leyva 
+103 
+72,10 
+61,80 
+51,50 
+25,75 
+  
+Villavicencio 
+100 
+70,00 
+60,00 
+50,00 
+25,00 
+  
+Otras ciudades 
+81 
+56,70 
+48,60 
+40,50 
+20,25 
+  
+ 
+ 
+  
+  
+  
+  
+Costa Rica 
+San Jose 
+199 
+139,30 
+119,40 
+99,50 
+49,75 
+  
+Guanacaste 
+224 
+156,80 
+134,40 
+112,00 
+56,00 
+  
+Heredia 
+183 
+128,10 
+109,80 
+91,50 
+45,75 
+  
+Limon 
+201 
+140,70 
+120,60 
+100,50 
+50,25 
+  
+Puntarenas 
+269 
+188,30 
+161,40 
+134,50 
+67,25 
+  
+Otras ciudades 
+117 
+81,90 
+70,20 
+58,50 
+29,25 
+  
+ 
+ 
+  
+  
+  
+  
+Cuba 
+Havana 
+218 
+152,60 
+130,80 
+109,00 
+54,50 
+  
+Cayería Norte 
+178 
+124,60 
+106,80 
+89,00 
+44,50 
+  
+Cienfuegos 
+135 
+94,50 
+81,00 
+67,50 
+33,75 
+  
+Santiago De Cuba 
+157 
+109,90 
+94,20 
+78,50 
+39,25 
+  
+Varadero 
+186 
+130,20 
+111,60 
+93,00 
+46,50 
+  
+Otras ciudades 
+96 
+67,20 
+57,60 
+48,00 
+24,00 
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+Página 6 de 12 
+ 
+Dinamarca 
+Todas las ciudades 
+330 
+231,00 
+198,00 
+165,00 
+82,50 
+  
+ 
+ 
+ 
+ 
+ 
+  
+Dominicana  
+Santo Domingo 
+272 
+190,40 
+163,20 
+136,00 
+68,00 
+Rep. 
+Barahona 
+95 
+66,50 
+57,00 
+47,50 
+23,75 
+  
+Bavaro 
+242 
+169,40 
+145,20 
+121,00 
+60,50 
+  
+Bayanhibe 
+181 
+126,70 
+108,60 
+90,50 
+45,25 
+  
+Boca Chica 
+119 
+83,30 
+71,40 
+59,50 
+29,75 
+  
+Constanza 
+144 
+100,80 
+86,40 
+72,00 
+36,00 
+  
+Jarabacoa 
+177 
+123,90 
+106,20 
+88,50 
+44,25 
+  
+Juan Dolio 
+142 
+99,40 
+85,20 
+71,00 
+35,50 
+  
+Mao 
+94 
+65,80 
+56,40 
+47,00 
+23,50 
+  
+Samana 
+178 
+124,60 
+106,80 
+89,00 
+44,50 
+  
+Santiago 
+214 
+149,80 
+128,40 
+107,00 
+53,50 
+  
+Puerto Plata 
+139 
+97,30 
+83,40 
+69,50 
+34,75 
+  
+Otras ciudades 
+79 
+55,30 
+47,40 
+39,50 
+19,75 
+  
+ 
+ 
+ 
+ 
+ 
+  
+E.E.U.U. 
+Washington D.C. 
+363 
+254,10 
+217,80 
+181,50 
+90,75 
+  
+Boston 
+360 
+252,00 
+216,00 
+180,00 
+90,00 
+  
+Chicago 
+369 
+258,30 
+221,40 
+184,50 
+92,25 
+  
+Honolulu 
+336 
+235,20 
+201,60 
+168,00 
+84,00 
+  
+Los Angeles 
+334 
+233,80 
+200,40 
+167,00 
+83,50 
+  
+Miami 
+303 
+212,10 
+181,80 
+151,50 
+75,75 
+  
+Nueva York (Primeros 30 dias) 
+378 
+264,60 
+226,80 
+189,00 
+94,50 
+  
+  
+Nueva York (Siguientes 30 
+Dias) 
+321 
+224,70 
+192,60 
+160,50 
+80,25 
+  
+  
+Nueva York Hoteles Especiales 
+(Ene-Ag) Primeros 30 dias 
+451 
+315,70 
+270,60 
+225,50 
+112,75 
+  
+  
+  
+Nueva York Hoteles Especiales 
+(Ene-Ag) Siguientes 30 dias 
+383 
+268,10 
+229,80 
+191,50 
+95,75 
+  
+  
+  
+Nueva York Hoteles Especiales 
+(Set-Dic) Primeros 30 dias 
+530 
+371,00 
+318,00 
+265,00 
+132,50 
+  
+  
+  
+Nueva York Hoteles Especiales 
+(Set-Dec) Siguientes 30 dias 
+451 
+315,70 
+270,60 
+225,50 
+112,75 
+  
+  
+  
+Philadelphia 
+322 
+225,40 
+193,20 
+161,00 
+80,50 
+  
+San Francisco 
+374 
+261,80 
+224,40 
+187,00 
+93,50 
+  
+Otras ciudades 
+278 
+194,60 
+166,80 
+139,00 
+69,50 
+  
+ 
+ 
+ 
+ 
+ 
+  
+Ecuador 
+Quito 
+219 
+153,30 
+131,40 
+109,50 
+54,75 
+  
+Cuenca 
+213 
+149,10 
+127,80 
+106,50 
+53,25 
+  
+Galapagos 
+255 
+178,50 
+153,00 
+127,50 
+63,75 
+  
+Guayaquil 
+261 
+182,70 
+156,60 
+130,50 
+65,25 
+  
+Manta 
+324 
+226,80 
+194,40 
+162,00 
+81,00 
+  
+Otras ciudades 
+161 
+112,70 
+96,60 
+80,50 
+40,25 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Cairo 
+282 
+197,40 
+169,20 
+141,00 
+70,50 
+  
+Página 7 de 12 
+ 
+Egipto 
+  
+Alexandria (Nonresident) 
+218 
+152,60 
+130,80 
+109,00 
+54,50 
+  
+Alexandria, Ismailia, Luxor 
+242 
+169,40 
+145,20 
+121,00 
+60,50 
+  
+  
+Sahl Hasheesh (Baron Palace) 
+204 
+142,80 
+122,40 
+102,00 
+51,00 
+  
+  
+Sharm El Sheikh 
+207 
+144,90 
+124,20 
+103,50 
+51,75 
+  
+Todas las ciudades  
+150 
+105,00 
+90,00 
+75,00 
+37,50 
+  
+  
+ 
+  
+  
+  
+  
+El Salvador 
+San Salvador 
+225 
+157,50 
+135,00 
+112,50 
+56,25 
+  
+Otras ciudades 
+101 
+70,70 
+60,60 
+50,50 
+25,25 
+  
+  
+ 
+  
+  
+  
+  
+Emiratos 
+Árabes 
+Abu Dhabi 
+370 
+259,00 
+222,00 
+185,00 
+92,50 
+Dubai 
+370 
+259,00 
+222,00 
+185,00 
+92,50 
+  
+Otras ciudades 
+169 
+118,30 
+101,40 
+84,50 
+42,25 
+  
+  
+ 
+  
+  
+  
+  
+Eslovenia  
+Liubliana 
+243 
+170,10 
+145,80 
+121,50 
+60,75 
+  
+Bled 
+258 
+180,60 
+154,80 
+129,00 
+64,50 
+  
+Portoroz 
+248 
+173,60 
+148,80 
+124,00 
+62,00 
+  
+Otras ciudades 
+221 
+154,70 
+132,60 
+110,50 
+55,25 
+  
+  
+ 
+  
+  
+  
+  
+España 
+Barcelona 
+239 
+167,30 
+143,40 
+119,50 
+59,75 
+  
+Madrid 
+251 
+175,70 
+150,60 
+125,50 
+62,75 
+  
+San Sebastian 
+220 
+154,00 
+132,00 
+110,00 
+55,00 
+  
+Valencia 
+200 
+140,00 
+120,00 
+100,00 
+50,00 
+  
+Otras ciudades 
+182 
+127,40 
+109,20 
+91,00 
+45,50 
+  
+  
+ 
+  
+  
+  
+  
+Finlandia 
+Helsinki 
+288 
+201,60 
+172,80 
+144,00 
+72,00 
+  
+Otras ciudades 
+236 
+165,20 
+141,60 
+118,00 
+59,00 
+  
+  
+ 
+  
+  
+  
+  
+Francia 
+Paris 
+318 
+222,60 
+190,80 
+159,00 
+79,50 
+  
+Otras ciudades 
+276 
+193,20 
+165,60 
+138,00 
+69,00 
+  
+ 
+ 
+ 
+ 
+ 
+  
+Guatemala 
+Guatemala City 
+183 
+128,10 
+109,80 
+91,50 
+45,75 
+  
+Guatemala City (Real 
+intercontinental) 
+255 
+178,50 
+153,00 
+127,50 
+63,75 
+  
+  
+Guatemala City (Westin Camino 
+Real) 
+285 
+199,50 
+171,00 
+142,50 
+71,25 
+  
+  
+Antigua 
+199 
+139,30 
+119,40 
+99,50 
+49,75 
+  
+Antigua (Finca Filadelfia) 
+231 
+161,70 
+138,60 
+115,50 
+57,75 
+  
+Antigua (La Reunión) 
+326 
+228,20 
+195,60 
+163,00 
+81,50 
+  
+Chichicastenango 
+163 
+114,10 
+97,80 
+81,50 
+40,75 
+  
+Panajachel 
+180 
+126,00 
+108,00 
+90,00 
+45,00 
+  
+Panajachel(Hotel Atitlan) 
+207 
+144,90 
+124,20 
+103,50 
+51,75 
+  
+Otras ciudades 
+122 
+85,40 
+73,20 
+61,00 
+30,50 
+  
+ 
+ 
+ 
+ 
+ 
+  
+Guyana  
+Georgetown 
+235 
+164,50 
+141,00 
+117,50 
+58,75 
+  
+Georgetown (Pegasus Hotel) 
+378 
+264,60 
+226,80 
+189,00 
+94,50 
+  
+  
+Cuyuni Mazaruni 
+119 
+83,30 
+71,40 
+59,50 
+29,75 
+  
+Página 8 de 12 
+ 
+  
+Essequibo 
+145 
+101,50 
+87,00 
+72,50 
+36,25 
+  
+Linden 
+161 
+112,70 
+96,60 
+80,50 
+40,25 
+  
+Mabaruma/Moruca 
+170 
+119,00 
+102,00 
+85,00 
+42,50 
+  
+New Amsterdam 
+156 
+109,20 
+93,60 
+78,00 
+39,00 
+  
+Potaro/Siparuni 
+122 
+85,40 
+73,20 
+61,00 
+30,50 
+  
+Otras ciudades 
+116 
+81,20 
+69,60 
+58,00 
+29,00 
+  
+ 
+ 
+ 
+ 
+ 
+  
+Haití 
+Puerto Principe 
+238 
+166,60 
+142,80 
+119,00 
+59,50 
+  
+Puerto Principe (Karibe) 
+292 
+204,40 
+175,20 
+146,00 
+73,00 
+  
+Puerto Príncipe (Oasis) 
+275 
+192,50 
+165,00 
+137,50 
+68,75 
+  
+Cap Haitien y Jacmel 
+164 
+114,80 
+98,40 
+82,00 
+41,00 
+  
+San Marcos 
+223 
+156,10 
+133,80 
+111,50 
+55,75 
+  
+Otras ciudades 
+118 
+82,60 
+70,80 
+59,00 
+29,50 
+  
+ 
+ 
+ 
+ 
+ 
+  
+Honduras 
+Tegucigalpa 
+178 
+124,60 
+106,80 
+89,00 
+44,50 
+  
+La Ceiba 
+176 
+123,20 
+105,60 
+88,00 
+44,00 
+  
+Roatan 
+171 
+119,70 
+102,60 
+85,50 
+42,75 
+  
+San Pedro Sula 
+189 
+132,30 
+113,40 
+94,50 
+47,25 
+  
+Otras ciudades 
+102 
+71,40 
+61,20 
+51,00 
+25,50 
+  
+ 
+ 
+ 
+ 
+ 
+  
+India 
+Nueva Delhi (Abril - Agosto) 
+154 
+107,80 
+92,40 
+77,00 
+38,50 
+  
+  
+Nueva Delhi (Setiembre - 
+Marzo) 
+180 
+126,00 
+108,00 
+90,00 
+45,00 
+  
+  
+Nueva Delhi Hoteles Especiales 
+(Abril - Agosto) 
+238 
+166,60 
+142,80 
+142,80 
+142,80 
+  
+  
+  
+Nueva Delhi Hoteles Especiales 
+(Setiembre - Marzo) 
+268 
+187,60 
+160,80 
+160,80 
+160,80 
+  
+  
+  
+Agra 
+141 
+98,70 
+84,60 
+70,50 
+35,25 
+  
+Bangalore 
+141 
+98,70 
+84,60 
+70,50 
+35,25 
+  
+Bangalore (Hoteles Especiales) 
+219 
+153,30 
+131,40 
+109,50 
+54,75 
+  
+  
+Calcutta 
+210 
+147,00 
+126,00 
+105,00 
+52,50 
+  
+Chennai (Madras) 
+197 
+137,90 
+118,20 
+98,50 
+49,25 
+  
+Hyderabad 
+149 
+104,30 
+89,40 
+74,50 
+37,25 
+  
+Hyderabad ( Park Hyatt, Taj 
+Krishna, Marriot Convention 
+Center) 
+238 
+166,60 
+142,80 
+142,80 
+142,80 
+  
+  
+  
+Jaipur 
+176 
+123,20 
+105,60 
+88,00 
+44,00 
+  
+Mumbai (Bombay) 
+183 
+128,10 
+109,80 
+91,50 
+45,75 
+  
+Mumbai (Hoteles Especiales) 
+255 
+178,50 
+153,00 
+127,50 
+63,75 
+  
+  
+Pune 
+141 
+98,70 
+84,60 
+70,50 
+35,25 
+  
+Srinagar 
+309 
+216,30 
+185,40 
+154,50 
+77,25 
+  
+Otras ciudades 
+144 
+100,80 
+86,40 
+72,00 
+36,00 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+403 
+282,10 
+241,80 
+201,50 
+100,75 
+  
+Página 9 de 12 
+ 
+ 
+ 
+Israel 
+ 
+ 
+Tel Aviv 
+  
+Eilat 
+339 
+237,30 
+203,40 
+169,50 
+84,75 
+  
+Haifa 
+338 
+236,60 
+202,80 
+169,00 
+84,50 
+  
+Herzliya 
+340 
+238,00 
+204,00 
+170,00 
+85,00 
+  
+Jerusalem 
+311 
+217,70 
+186,60 
+155,50 
+77,75 
+  
+Tiberias 
+360 
+252,00 
+216,00 
+180,00 
+90,00 
+  
+Otras Ciudades 
+251 
+175,70 
+150,60 
+125,50 
+62,75 
+  
+ 
+ 
+ 
+ 
+ 
+  
+Italia 
+Roma 
+281 
+196,70 
+168,60 
+140,50 
+70,25 
+  
+Florencia 
+237 
+165,90 
+142,20 
+118,50 
+59,25 
+  
+Milan 
+309 
+216,30 
+185,40 
+154,50 
+77,25 
+  
+Napoles 
+292 
+204,40 
+175,20 
+146,00 
+73,00 
+  
+Palermo 
+306 
+214,20 
+183,60 
+153,00 
+76,50 
+  
+Trieste 
+241 
+168,70 
+144,60 
+120,50 
+60,25 
+  
+Turin 
+258 
+180,60 
+154,80 
+129,00 
+64,50 
+  
+Venecia 
+369 
+258,30 
+221,40 
+184,50 
+92,25 
+  
+Otras ciudades 
+167 
+116,90 
+100,20 
+83,50 
+41,75 
+  
+ 
+ 
+ 
+ 
+ 
+  
+Jamaica 
+Kingston 
+313 
+219,10 
+187,80 
+156,50 
+78,25 
+  
+Otras ciudades  
+ 
+ 
+ 
+ 
+  
+  
+(15 Dic. -15 Abr.) 
+310 
+217,00 
+186,00 
+155,00 
+77,50 
+  
+(16 Abr. -14 Dic.) 
+231 
+161,70 
+138,60 
+115,50 
+57,75 
+  
+ 
+ 
+ 
+ 
+ 
+  
+Japón 
+Tokyo 
+244 
+170,80 
+146,40 
+122,00 
+61,00 
+  
+Fukuoka 
+184 
+128,80 
+110,40 
+92,00 
+46,00 
+  
+Kobe 
+199 
+139,30 
+119,40 
+99,50 
+49,75 
+  
+Kyoto 
+204 
+142,80 
+122,40 
+102,00 
+51,00 
+  
+Nagoya 
+195 
+136,50 
+117,00 
+97,50 
+48,75 
+  
+Osaka 
+198 
+138,60 
+118,80 
+99,00 
+49,50 
+  
+Yokohama 
+231 
+161,70 
+138,60 
+115,50 
+57,75 
+  
+Otras ciudades 
+162 
+113,40 
+97,20 
+81,00 
+40,50 
+  
+ 
+ 
+ 
+ 
+ 
+  
+México 
+Mexico DF 
+339 
+237,30 
+203,40 
+169,50 
+84,75 
+  
+Acapulco, Guerrero 
+390 
+273,00 
+234,00 
+195,00 
+97,50 
+  
+Aguascalientes 
+242 
+169,40 
+145,20 
+121,00 
+60,50 
+  
+Cancun, Quintana Roo 
+377 
+263,90 
+226,20 
+188,50 
+94,25 
+  
+Cuernavaca, Morelos 
+231 
+161,70 
+138,60 
+115,50 
+57,75 
+  
+Guadalajara, Jalisco 
+233 
+163,10 
+139,80 
+116,50 
+58,25 
+  
+Mérida, Yucatán 
+287 
+200,90 
+172,20 
+143,50 
+71,75 
+  
+Monterrey, Nuevo Leon 
+295 
+206,50 
+177,00 
+147,50 
+73,75 
+  
+Puebla, Puebla 
+259 
+181,30 
+155,40 
+129,50 
+64,75 
+  
+Puerto Vallarta, Jalisco 
+302 
+211,40 
+181,20 
+151,00 
+75,50 
+  
+San Cristobal de las Casas 
+212 
+148,40 
+127,20 
+106,00 
+53,00 
+  
+  
+San Luis Potosí 
+248 
+173,60 
+148,80 
+124,00 
+62,00 
+  
+Tijuana, Baja California Norte 
+277 
+193,90 
+166,20 
+138,50 
+69,25 
+  
+  
+Toluca, Edo. de México 
+226 
+158,20 
+135,60 
+113,00 
+56,50 
+  
+Torreón, Coahuila 
+232 
+162,40 
+139,20 
+116,00 
+58,00 
+  
+Página 10 de 12 
+ 
+  
+Tuxtla Gutierrez, Chiapas 
+243 
+170,10 
+145,80 
+121,50 
+60,75 
+  
+Zacatecas, Zacatecas 
+276 
+193,20 
+165,60 
+138,00 
+69,00 
+  
+Otras ciudades 
+195 
+136,50 
+117,00 
+97,50 
+48,75 
+  
+ 
+ 
+ 
+ 
+ 
+  
+Nicaragua 
+Managua 
+212 
+148,40 
+127,20 
+106,00 
+53,00 
+  
+Corn Island 
+121 
+84,70 
+72,60 
+60,50 
+30,25 
+  
+Blue Fields y otras ciudades 
+115 
+80,50 
+69,00 
+57,50 
+28,75 
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+Noruega 
+Todas las áreas 
+269 
+188,30 
+161,40 
+134,50 
+67,25 
+  
+ 
+ 
+ 
+ 
+ 
+  
+Nueva 
+Zelandia 
+Auckland, Christchurch, 
+Wellington 
+323 
+226,10 
+193,80 
+161,50 
+80,75 
+ 
+ 
+ 
+ 
+  
+  
+Otras ciudades 
+236 
+165,20 
+141,60 
+118,00 
+59,00 
+  
+ 
+ 
+ 
+ 
+ 
+  
+Países Bajos 
+Todas las áreas 
+300 
+210,00 
+180,00 
+150,00 
+75,00 
+  
+ 
+ 
+ 
+ 
+ 
+  
+Panamá 
+Panama City 
+234 
+163,80 
+140,40 
+117,00 
+58,50 
+  
+Anton 
+258 
+180,60 
+154,80 
+129,00 
+64,50 
+  
+Boquete 
+220 
+154,00 
+132,00 
+110,00 
+55,00 
+  
+Colon 
+173 
+121,10 
+103,80 
+86,50 
+43,25 
+  
+Comarca Kuna Yala/San Blas 
+218 
+152,60 
+130,80 
+109,00 
+54,50 
+  
+  
+Contadora Island 
+208 
+145,60 
+124,80 
+104,00 
+52,00 
+  
+Davíd 
+164 
+114,80 
+98,40 
+82,00 
+41,00 
+  
+El Valle de Anton 
+291 
+203,70 
+174,60 
+145,50 
+72,75 
+  
+Isla Colon 
+185 
+129,50 
+111,00 
+92,50 
+46,25 
+  
+Volcán 
+170 
+119,00 
+102,00 
+85,00 
+42,50 
+  
+Otras ciudades 
+150 
+105,00 
+90,00 
+75,00 
+37,50 
+  
+ 
+ 
+  
+  
+  
+  
+Paraguay 
+Asunción 
+253 
+177,10 
+151,80 
+126,50 
+63,25 
+  
+Ciudad del Este (Casino 
+Aracay) 
+191 
+133,70 
+114,60 
+95,50 
+47,75 
+  
+  
+Otras ciudades 
+124 
+86,80 
+74,40 
+62,00 
+31,00 
+  
+ 
+ 
+  
+  
+  
+  
+Perú 
+Lima 
+227 
+158,90 
+136,20 
+113,50 
+56,75 
+  
+Arequipa 
+178 
+124,60 
+106,80 
+89,00 
+44,50 
+  
+Cuzco 
+183 
+128,10 
+109,80 
+91,50 
+45,75 
+  
+Trujillo 
+173 
+121,10 
+103,80 
+86,50 
+43,25 
+  
+Otras ciudades 
+122 
+85,40 
+73,20 
+61,00 
+30,50 
+  
+ 
+ 
+  
+  
+  
+  
+Portugal 
+Lisboa 
+292 
+204,40 
+175,20 
+146,00 
+73,00 
+  
+Otras ciudades 
+143 
+100,10 
+85,80 
+71,50 
+35,75 
+  
+ 
+ 
+  
+  
+  
+  
+Reino Unido 
+Londres 
+437 
+305,90 
+262,20 
+218,50 
+109,25 
+  
+Otras ciudades 
+342 
+239,40 
+205,20 
+171,00 
+85,50 
+  
+ 
+ 
+  
+  
+  
+  
+Rusia 
+Moscu 
+464 
+324,80 
+278,40 
+232,00 
+116,00 
+  
+Bashkortostan 
+191 
+133,70 
+114,60 
+95,50 
+47,75 
+  
+Irkutsk 
+249 
+174,30 
+149,40 
+124,50 
+62,25 
+  
+Página 11 de 12 
+ 
+  
+Kamchatka 
+187 
+130,90 
+112,20 
+93,50 
+46,75 
+  
+Kazan 
+249 
+174,30 
+149,40 
+124,50 
+62,25 
+  
+Kemorovo, Perm y Saratov 
+185 
+129,50 
+111,00 
+92,50 
+46,25 
+  
+  
+Krasnodar 
+220 
+154,00 
+132,00 
+110,00 
+55,00 
+  
+Murmansk 
+212 
+148,40 
+127,20 
+106,00 
+53,00 
+  
+Nizhny Novgorod 
+192 
+134,40 
+115,20 
+96,00 
+48,00 
+  
+Norilsk 
+219 
+153,30 
+131,40 
+109,50 
+54,75 
+  
+Novosibirsk 
+178 
+124,60 
+106,80 
+89,00 
+44,50 
+  
+Rostov 
+147 
+102,90 
+88,20 
+73,50 
+36,75 
+  
+Rostov (Aurora Park) 
+287 
+200,90 
+172,20 
+143,50 
+71,75 
+  
+Sakha 
+236 
+165,20 
+141,60 
+118,00 
+59,00 
+  
+Sochi (1 Jun. - 15 Oct.) 
+308 
+215,60 
+184,80 
+154,00 
+77,00 
+  
+Sochi (16 Oct. - 31 May) 
+236 
+165,20 
+141,60 
+118,00 
+59,00 
+  
+St. Petersburg 
+307 
+214,90 
+184,20 
+153,50 
+76,75 
+  
+Syktyvkar 
+264 
+184,80 
+158,40 
+132,00 
+66,00 
+  
+Vladivostok 
+208 
+145,60 
+124,80 
+104,00 
+52,00 
+  
+Voronezh 
+177 
+123,90 
+106,20 
+88,50 
+44,25 
+  
+Otras ciudades 
+140 
+98,00 
+84,00 
+70,00 
+35,00 
+  
+ 
+ 
+  
+  
+  
+  
+Suecia 
+Estocolmo 
+409 
+286,30 
+245,40 
+204,50 
+102,25 
+  
+Otras ciudades 
+293 
+205,10 
+175,80 
+146,50 
+73,25 
+  
+ 
+ 
+  
+  
+  
+  
+Suiza 
+Todas las áreas 
+411 
+287,70 
+246,60 
+205,50 
+102,75 
+  
+ 
+ 
+  
+  
+  
+  
+Trinidad y  
+Trinidad-Todas las áreas 
+341 
+238,70 
+204,60 
+170,50 
+85,25 
+Tobago 
+Tobago (15 Abr.-15 Dic.) 
+295 
+206,50 
+177,00 
+147,50 
+73,75 
+  
+Tobago (16 Dic.-14 Abr.) 
+359 
+251,30 
+215,40 
+179,50 
+89,75 
+  
+ 
+ 
+  
+  
+  
+  
+  
+ 
+ 
+  
+  
+  
+  
+Venezuela 
+Caracas 
+419 
+293,30 
+251,40 
+209,50 
+104,75 
+  
+Barcelona 
+198 
+138,60 
+118,80 
+99,00 
+49,50 
+  
+Barinas 
+183 
+128,10 
+109,80 
+91,50 
+45,75 
+  
+Barquisimieto y Maturin 
+256 
+179,20 
+153,60 
+128,00 
+64,00 
+  
+Cumana 
+252 
+176,40 
+151,20 
+126,00 
+63,00 
+  
+Isla de Margarita 
+255 
+178,50 
+153,00 
+127,50 
+63,75 
+  
+La Guaira 
+290 
+203,00 
+174,00 
+145,00 
+72,50 
+  
+Maracaibo 
+238 
+166,60 
+142,80 
+119,00 
+59,50 
+  
+Maracay y Valencia 
+271 
+189,70 
+162,60 
+135,50 
+67,75 
+  
+Merida 
+198 
+138,60 
+118,80 
+99,00 
+49,50 
+  
+Puerto La Cruz, San Cristobal 
+247 
+172,90 
+148,20 
+123,50 
+61,75 
+  
+  
+Puerto Ordaz 
+299 
+209,30 
+179,40 
+149,50 
+74,75 
+  
+Punto Fijo 
+173 
+121,10 
+103,80 
+86,50 
+43,25 
+  
+Otras ciudades 
+133 
+93,10 
+79,80 
+66,50 
+33,25 
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+Página 12 de 12 
+ 
+1. La escala básica es el viático diario en U$S que contempla el Ministerio de 
+Relaciones Exteriores (Uruguay) según Decreto 401/991 del Poder Ejecutivo 
+(actualización: 1° de abril de 2006). 
+2. Corresponde a 70 % de la escala básica. 
+3. Corresponde a 60 % de la escala básica. 
+4. Corresponde a 50 % de la escala básica. 
+5. Corresponde a 25% de la escala básica. 
+ 
+B) Viáticos en el Uruguay 
+CIUDAD 
+VIÁTICO POR DÍA (UYU) 
+Hasta 30 días 
+Más de 31 días 
+Extranjeros en Uruguay 
+4.300 
+3.200 
+Salidas de campo 
+ 
+3.200 
+ 
+2.400 
+ 
+ 
+  
+Febrero 2020 
+ 
+1 
+ 
+ 
+ 
+INSTRUCTIVO PARA ADQUISICIONES Y CONTRATACIONES 
+ 
+BENEFICIARIOS DE PROYECTOS DE INNOVACIÓN 
+OBJETIVO 
+El propósito de este documento es recoger los principios y métodos que rigen la adquisición de 
+los bienes y servicios conexos. 
+Asegurar que los productos adquiridos o servicios contratados cumplan con los requisitos 
+especificados y contribuyan al logro de los objetivos definidos.  
+Para cada caso, se seleccionará el método más apropiado para la contratación específica.  
+Los diferentes métodos de contratación que se detallan en este documento, se aplicarán 
+dependiendo del volumen y complejidad de la adquisición/contratación que se desee realizar. 
+Teniendo en cuenta lo anterior, siempre que aplique, se velará por cumplir los siguientes 
+principios:  
+• 
+Atender a criterios de economía y eficiencia 
+ 
+• 
+Transparencia: asegurar la transparencia en el proceso de contratación sin 
+perjuicio de las obligaciones de reserva y confidencialidad que puedan resultar 
+aplicables y que no entren en conflicto con la normativa vigente.  
+ 
+• 
+Competencia: asegurar la participación de un número suficiente de oferentes 
+calificados, de modo que los prestatarios obtengan las mejores condiciones del 
+mercado. 
+• 
+Igualdad: asegurar a todos los participantes el mismo tratamiento de modo 
+que exista una competencia efectiva, evitando todo tipo de preferencias o 
+discriminaciones que favorezcan o perjudiquen a unos en detrimento o 
+beneficio de otros. 
+• 
+Publicidad: asegurar que el acceso a la información relativa a una convocatoria 
+está abierta a todo contratista. 
+• 
+Debido Proceso: la legislación local debe prever procedimientos para la 
+discusión de controversias y permita la defensa o impugnación de los 
+oferentes. 
+• 
+Flexibilidad 
+• 
+Razonabilidad 
+  
+Febrero 2020 
+ 
+2 
+ 
+ 
+ 
+ALCANCE  
+Toda adquisición de bienes o contratación de servicios, se regirá por las normas contenidas en 
+el presente instructivo, con sus correspondientes actualizaciones, las que serán publicadas a 
+través del sitio web de la ANII (www.anii.org.uy).    
+Para todos los casos que no se encuentren contemplados en este documento, se aplicara el 
+Manual de Adquisiciones y Contrataciones general de ANII 
+ 
+Los procedimientos detallados en el presente documento son de aplicación para todo tipo de 
+Proyecto comprendido dentro de esta modalidad, independientemente el tipo de financiación, 
+moneda y Beneficiario que actúe al interior de cada uno.   
+Sin perjuicio de lo anterior, la ANII se reserva el derecho de exigir condiciones particulares y 
+más específicas en cada nueva convocatoria, las que tendrán carácter obligatorio para todos 
+los que se presenten en ella, sin que ello genere ningún tipo de conflicto con lo que se exige en 
+el presente instructivo.   
+Toda situación que a criterio del Beneficiario no se encuentre comprendida en los apartados 
+anteriores, se deberá consultar a la ANII por el procedimiento a seguir.    
+Toda consulta deberá formularse por escrito, de lo contrario no tendrá carácter vinculante y 
+no se considerará válida al momento de justificar un procedimiento. 
+ 
+ADQUISICIONES Y CONTRATACIONES 
+CARACTERÍSTICAS GENERALES  
+Toda adquisición de bienes o contratación de servicios en el marco de proyectos Innovación, 
+independientemente del tipo de Beneficiario de que se trate, deberán tramitarse por el 
+procedimiento de la Comparación de Precios especificado en el presente instructivo, salvo en 
+los casos en que:   
+i) el monto de la adquisición sea inferior a UYU188.000 en cuyo caso se aplicará el 
+procedimiento de la Contratación Directa;   
+ii) se proceda a la selección y contratación de servicios de consultoría, en cuyo caso se deberá 
+seguir el procedimiento detallado en el “Instructivo para la Selección y Contratación de 
+Servicios de Consultoría”.  
+iii) no sea posible, a criterio del Beneficiario, llevar a cabo el procedimiento estipulado, en cuyo 
+caso, deberá formular por escrito una consulta previa a la ANII, quién decidirá el 
+procedimiento a seguir.    
+ 
+En todos los casos, la adquisición de equipos o contratación de servicios estará inscripta en el 
+marco del Contrato firmado entre el Beneficiario y la ANII, no pudiendo realizar otras salvo 
+autorización expresa de la ANII cuando entienda que existe justificación razonable.   
+PROCEDIMIENTOS E INSTRUCTIVO  
+El Beneficiario deberá establecer procedimientos que permitan una amplia participación del 
+mercado, y prestará debida atención a los aspectos de economía, eficiencia y razonabilidad de 
+precios.   
+ 
+En todos los casos, los bienes a ser adquiridos y los servicios a ser contratados, deben ser de 
+calidad satisfactoria y ajustarse a los requisitos técnicos del Proyecto, haber sido entregados 
+en tiempo oportuno y haber sido adquiridos o contratados a precios de mercado.  
+  
+Febrero 2020 
+ 
+3 
+ 
+ 
+ 
+Sin perjuicio de las características particulares de cada tipo de procedimiento, la ANII podrá en 
+todo momento, por sí o a través de quien ella designe, auditar los procedimientos de 
+adquisición de bienes o contratación de servicios realizados por los Beneficiarios.  
+Las cotizaciones que se reciban en el marco de todos los procedimientos descriptos en los 
+siguientes numerales, serán solicitadas por el Beneficiario. Estas deberán ser conservadas a los 
+efectos de ser  presentadas ante auditorías posteriores.  
+ 
+Los miembros del Equipo Técnico, Gerentes y Directores, no podrán ser directa o 
+Indirectamente (a través de otras firmas de las cuales pertenecen) proveedores de bienes y 
+servicios, ni de consultorías para las actividades del proyecto.  
+No se admitirán adquisiciones a proveedores del mismo grupo económico al que pudiera 
+pertenecer el Beneficiario.  
+Todos los comprobantes relacionados deben contener la información del Cliente que se 
+disponga en la convocatoria de que se trate.  
+Se debe respetar la forma de presentación que se detalla en el “Instructivo de Procedimientos 
+para la Presentación y Rendición de Gastos”, según el caso que corresponda.   
+  
+RESUMEN DE PROCEDIMIENTOS  
+ 
+METODO A UTILIZARSE 
+RANGO DE PRECIO 
+COMPRA DIRECTA 
+Menor a UYU188.000 
+COMPARACIÓN DE PRECIOS 
+Mayor o igual a UYU188.000 
+ 
+A. COMPRA DIRECTA  
+La compra directa se lleva a cabo sin competencia (una sola fuente), directamente al 
+proveedor seleccionado. 
+ 
+Toda adquisición de bienes o contratación de servicios que no supere los UYU 188.000, se 
+considerarán gastos operativos, adquisiciones de equipo menores o contrataciones de 
+servicios menores y seguirá el procedimiento de la Contratación Directa.    
+ 
+El término “Gastos operativos” se refiere a aquellos gastos recurrentes y costos en que se 
+incurren para llevar a cabo las actividades del proyecto, incluyendo (a modo de ejemplo) 
+suministros, gastos de administración, operación y mantenimiento de vehículos, 
+comunicaciones, costo de seguros, costos razonables del personal especializado, 
+reacondicionamientos y gastos de viajes y viáticos que no se hubieran realizado sin el 
+proyecto.  
+ 
+Los términos adquisiciones o contrataciones “menores” se refieren a la adquisición de bienes 
+o contrataciones de servicios autorizados a realizarse en el proyecto, de bajo importe.  
+ 
+Excepciones: Este tipo de procedimiento de adquisición se admitirá para montos superiores al 
+tope establecido únicamente en los siguientes casos:  
+i. adquisiciones de bienes para los cuales no existe en el mercado varios proveedores o existe 
+un único proveedor;  
+  
+Febrero 2020 
+ 
+4 
+ 
+ 
+ 
+ii. ampliar un contrato existente para la ejecución de obras o el suministro de bienes, 
+adjudicado de conformidad con procedimientos aceptables, a efectos de incluir bienes u obras 
+adicionales de carácter similar;  
+iii. estandarización de equipos o de repuestos, con fines de compatibilidad con el equipo 
+existente, mediante la contratación directa al proveedor original;  
+iv. cumplir con protocolos que establezcan la necesidad de contratar directamente con un 
+proveedor determinado;  
+v. equipos patentados o de marca registrada que únicamente pueden obtenerse contratando 
+directamente con un proveedor;  
+vi. cuando el contratista responsable del diseño de un proceso exige la compra de elementos 
+críticos directamente a un proveedor determinado, como condición de mantener su garantía 
+de cumplimiento;  
+En estos casos, se deberá notificar a la ANII previo a la realización de la compra y presentar 
+documentación y justificación que demuestre y acredite la excepción citada para contratar en 
+forma directa.   
+ 
+La ANII podrá no autorizar la compra en forma directa si entiende que la justificación o 
+documentación presentada no es suficiente para probar la excepción o entiende más 
+conveniente la realización de otro tipo de procedimiento que pueda ser llevado a cabo sin 
+ningún tipo de impedimento.  
+ 
+B. COMPARACIÓN DE PRECIOS  
+La comparación de precios es un método de contratación que se basa en la obtención de 
+cotizaciones de precios de diversos proveedores, con un mínimo de tres ofertas comparables, 
+con el objeto de obtener precios competitivos. Es un método apropiado para adquirir bienes 
+en existencia, fáciles de obtener, o productos a granel con especificaciones estándar y 
+pequeño valor o trabajos sencillos de obra civil y pequeño valor. La solicitud de cotización de 
+precios debe incluir una descripción y la cantidad de los bienes o las especificaciones de la 
+obra, así como el plazo (o fecha de terminación) y lugar de entrega requerido. Las cotizaciones 
+pueden presentarse por medios físicos o virtuales. Se deben analizar al menos tres 
+“cotizaciones comparables” y adjudicar al menor precio. Los  términos  de  la  oferta aceptada 
+deben incorporarse en una orden de compra o en un contrato simplificado. 
+Toda adquisición de bienes o contratación de servicios por importes mayores a UYU 188.000, 
+seguirá el procedimiento de la “Comparación de Precios”, debiéndose analizar al menos tres 
+cotizaciones comparables y adjudicar al menor precio.   
+ 
+Se entiende por “cotizaciones comparables” aquellas que, en igualdad de 
+condiciones comerciales, son técnicamente equivalentes.  
+A efectos de lograr cotizaciones comparables, para toda compra o contratación se debe 
+realizar una correcta e inequívoca descripción de los bienes a adquirir o servicios a contratar, 
+debiéndose ajustar el oferente a tales pautas.   
+Los procedimientos utilizados para realizar las adquisiciones deberán permitir la participación 
+de oferentes de otros países, salvo especificación expresa en contrario.  
+No se debe restringir el número de proveedores a ser consultados, se deberá invitar a cotizar a 
+suficientes proveedores a los efectos de asegurarse como mínimo la recepción de tres 
+  
+Febrero 2020 
+ 
+5 
+ 
+ 
+ 
+cotizaciones comparables. No se aceptará justificación alguna para proceder a la 
+compra directa cuando se constate que no se procede de esta manera.   
+El formulario para solicitar cotizaciones a utilizarse dentro de esta modalidad debe contener, 
+como mínimo, los siguientes puntos (modelo en Anexo II disponible en la web de ANII):  
+ 
+i. Descripción del bien, especificaciones técnicas requeridas; 
+ii. Forma y fecha de entrega; 
+iii. Términos de la transacción; 
+iv. Periodo de validez de la oferta; 
+v. Moneda de la cotización / Moneda de comparación; 
+vi. Fecha y forma de entrega del bien; 
+vii. Forma de Pago;  
+ 
+Otros puntos importantes a considerar al momento de solicitar cotizaciones: 
+ 
+viii. Garantías;  
+ix. Seguros;  
+x. Instalación;  
+xi. Mantenimiento;  
+xii. Capacitación;  
+xiii. Los precios deben estar correctamente desglosados (costo del equipo, costo del flete, 
+costo del seguro, costo del traslado a la institución, etc.).  
+ 
+Sin perjuicio de las pautas antedichas, el Beneficiario deberá tener en cuenta que:   
+ 
+i) la descripción de él/los bienes o servicios a adquirir/contratar, debe/n estar relacionada/s 
+con el fin para el cual se los utilizará;   
+ii) en el caso de que el bien se utilice junto a un equipo o sistema existente, se debe exponer 
+como complemento en la descripción a ser enviada a los potenciales proveedores, 
+describiéndose correcta y específicamente la complementariedad necesaria entre los equipos 
+sin incluir marcas o modelos.   
+En las solicitudes de presupuesto se deben explicitar las formas en que los Beneficiarios 
+recibirán las cotizaciones (Carta o Correo Electrónico), estipulándose asimismo un plazo 
+mínimo de mantenimiento de la oferta, que será determinado en cada caso por el Beneficiario.   
+ 
+En todos los casos, se  deberá comunicar a los oferentes que el comprador va a comparar al 
+menos tres ofertas válidas.  
+SELECCIÓN Y CONTRATACIÓN DE SERVICIOS DE CONSULTORÍA  
+El procedimiento previsto para la selección y contratación de servicios de consultoría se 
+encuentra detallado en el “Instructivo para la Selección y Contratación de Servicios de 
+Consultoría”.  
+En los casos en que la definición de los consultores a ser contratados esté prevista en el 
+proyecto aprobado por la ANII, se permitirá la contratación de él/los consultores propuestos 
+en forma directa. Para el resto de los casos, se deberán seguir los procedimientos previstos en 
+el “Instructivo para la Selección y Contratación de Servicios de Consultoría”.  
+ 
+  
+POLÍTICA DE PRIVACIDAD Y TÉRMINOS DE USO DE LA AGENCIA NACIONAL DE  INVESTIGACIÓN E 
+INNOVACIÓN  
+1. INTRODUCCIÓN  
+La Agencia Nacional de Investigación e Innovación (ANII), persona pública no estatal, tiene dentro de 
+sus principales objetivos (Ley 18.084): A) Preparar, organizar y administrar instrumentos y 
+programas para la promoción y el fomento del desarrollo científico-tecnológico y la  innovación, de 
+acuerdo con los lineamientos político-estratégicos y las prioridades del Poder Ejecutivo; B) Promover 
+la articulación y coordinación de las acciones de los actores públicos y privados involucrados, en 
+sentido amplio, en la creación y utilización de conocimientos, de modo de potenciar las sinergias 
+entre  ellos y aprovechar al máximo los recursos disponibles; C) Contribuir, de forma coordinada con 
+otros organismos del Sistema Nacional de Ciencia, Tecnología e Innovación, al desarrollo de 
+mecanismos efectivos de evaluación y seguimiento de programas y demás instrumentos de 
+promoción en la materia. Este sistema de evaluación se constituirá en un insumo central para el 
+diseño de incentivos a los agentes públicos y privados que participen. 
+En el marco de sus cometidos ofrece los siguientes servicios (en adelante Servicios), sin perjuicio de 
+otros que puedan surgir en el futuro: 
+● Recursos financieros para proyectos de investigación, becas de posgrados nacionales e 
+internacionales y programas de incentivo a la cultura innovadora y del emprendedurismo, 
+tanto en el sector privado como público.  
+● Sistema Nacional de Investigadores (S.N.I), un programa que promueve, mediante 
+evaluación periódica, la categorización y el incentivo económico de los investigadores, la 
+producción de conocimiento, transversal a todas las áreas, y el fortalecimiento y la 
+expansión de la comunidad científica nacional. La postulación para el ingreso al S.N.I. implica 
+el consentimiento del postulante para que su currículum vitae pueda ser publicado. 
+● CVUY una plataforma de CV´s reconocida a nivel nacional y regional que contribuye al 
+mantenimiento y actualización permanente de información validada, acerca de las 
+capacidades del capital humano del Uruguay. 
+● PRISMA un portal en el que se puede acceder de manera dinámica y ágil a los indicadores 
+nacionales más relevantes sobre Ciencia, Tecnología e Innovación. 
+● Portal Timbó que permite el acceso gratuito a todo tipo de publicaciones científicas de todo 
+el mundo para todos los uruguayos.  
+● TRAMA red de encuentro entre emprendedores, investigadores, empresarios, inversores y 
+talentos de Uruguay para despegar. 
+● Timbó FOCO un portal que da acceso gratuito a bibliografía y literatura científica-tecnológica 
+mundial 
+● Timbó BIBLO es una plataforma que ofrece acceso a libros universitarios de grado y a otros 
+recursos digitales a estudiantes y docentes uruguayos 
+● REDI es el repositorio de acceso abierto de la ANII. Reúne artículos, tesis de posgrado, 
+presentaciones en eventos académicos, libros y cualquier otra obra generada en el marco de 
+proyectos financiados total o parcialmente por ANII. 
+● Registro de Equipamiento Científico es un catálogo de equipos científicos disponibles en 
+Uruguay. 
+  
+La utilización de los Servicios supone haber leído esta Política de Privacidad y Términos de Uso, y 
+consentir que ANII integre la información personal a sus bases de datos y realice su tratamiento de 
+acuerdo con los fines definidos.  
+Tratándose de menores de dieciocho años de edad, debe contar con la autorización de sus padres 
+tutores o curadores, quienes prestan su consentimiento en representación del menor, reservándose 
+la ANII el derecho de solicitar su ratificación por escrito, de considerarlo pertinente. 
+2. TRATAMIENTO DE DATOS  
+Los datos personales recabados y accedidos por ANII serán tratados con la finalidad de realizar  los 
+procesos necesarios para dar cumplimiento a los objetivos y cometidos de la Agencia y de los  
+Servicios y sistemas específicos, de conformidad con la Ley Nº 18.331, de 11 de agosto de 2008, de 
+Protección de Datos Personales y Acción de Habeas Data y Decreto Nº 414/2009, de 31 de agosto de 
+2009. 
+Los datos personales recabados en el marco del acceso y la utilización de los Servicios serán objeto 
+de tratamiento e incorporados a una base de datos titularidad de ANII, con domicilio en Av. Italia 
+6201, Edificio Los Nogales, Montevideo, inscripta ante la Unidad Reguladora y de Control de Datos 
+Personales del Uruguay. Los mismos serán alojados en servidores contratados por ANII y situados en 
+territorio nacional, así como en servidores situados en países considerados con estándares 
+adecuados para la protección de datos conforme con la normativa vigente.   
+ANII en su calidad de responsable de tratamiento, podrá acceder a los datos proporcionados y 
+actividades realizadas en el uso de los Servicios. 
+3. FINALIDAD 
+Los datos personales recabados en el marco del uso de los Servicios serán tratados con la finalidad 
+de administración, gestión, monitoreo y mejora de los Servicios, en cumplimiento de los cometidos 
+legales y reglamentarios asignados a la Agencia. 
+4. SEGURIDAD, CONFIDENCIALIDAD Y COMUNICACIÓN  
+ANII se obliga a guardar reserva sobre los datos proporcionados y accedidos, salvo consentimiento 
+del titular, solicitud de una autoridad competente o cuando se encuentre legalmente obligado a 
+divulgarla. Sus funcionarios están obligados a guardar la debida reserva de  la información a la cual 
+acceden, conforme a los procedimientos vigentes de la Institución, y al artículo 11 de la Ley N° 
+18.331. 
+ANII tomará todas las medidas de seguridad necesarias para evitar la adulteración, pérdida, consulta 
+o tratamiento no autorizado de la información que trata en su calidad de administrador responsable 
+de tratamiento. 
+Los datos proporcionados serán compartidos con terceros encargados de tratamiento, quienes 
+deberán mantener iguales o superiores estándares de seguridad y protección de datos personales 
+que los tenidos por ANII. 
+5. CONSERVACIÓN DE LOS DATOS  
+  
+Los datos personales serán tratados por ANII para cumplir con la finalidad antes referida, luego  
+serán eliminados o se guardarán bloqueados para ser accedidos únicamente en los casos previstos  
+por las normas aplicables, durante el tiempo necesario para atender prescripciones legales.  
+6. OBLIGACIONES SOBRE LA VERACIDAD DE LA INFORMACIÓN  
+Toda la información que los titulares de los datos proporcionen a ANII deberá ser veraz, exacta  y 
+comprobable.   
+A tales efectos, el titular de los datos garantiza la autenticidad de todos los datos proporcionados y 
+se compromete a su actualización, responsabilizándose de todos los daños que se deriven de 
+cualquier inexactitud, sea que la sufra el propio titular de los datos, ANII o cualquier  tercero, 
+incluyendo cualquier entidad pública estatal o no estatal.  
+Los titulares de los datos se obligan a comunicar inmediatamente para su corrección cualquier  
+discrepancia o error evidenciado en la información registrada en las bases de datos de la Agencia y  
+disponible a terceros dentro de las disposiciones de la presente Política y/o de los términos y  
+condiciones específicas aplicables a la base de datos.  
+7. OTRAS OBLIGACIONES DE LOS TITULARES DE DATOS QUE UTILICEN SERVICIOS DE ANII  
+Los titulares de los datos se obligan a no utilizar los Servicios puestos a disposición por ANII con fines 
+o efectos ilícitos, prohibidos en las Bases o normas jurídicas, lesivos de los derechos e intereses de la 
+ANII, de otros usuarios o de terceros, o que de cualquier forma puedan dañar, inutilizar, sobrecargar, 
+deteriorar o impedir su normal uso.   
+En igual sentido, los titulares de los datos se obligan a no utilizar los Servicios  puestos a disposición 
+por ANII con el fin de divulgar información que estimule la  discriminación o la violencia o que viole 
+los derechos de terceros, incluyendo el derecho  de propiedad intelectual.  
+8. CONTRASEÑA Y SEGURIDAD  
+En el caso que el uso de Servicios requiera el uso de contraseñas, será  exclusiva responsabilidad del 
+usuario titular de los datos la seguridad y confidencialidad de su  contraseña.  
+La ANII no será responsable de ningún cambio y/o errores introducidos en los sistemas de ANII  
+derivados del accionar del propio usuario, así como de terceros no autorizados. 
+ 
+9. AUSENCIA DE RETRIBUCIÓN  
+Los titulares de los datos personales no tendrán derecho a recibir retribución u honorario de especie 
+alguna como consecuencia del uso de los datos que la ANII u otra institución autorizada haga en 
+cualquier momento en el ámbito  de sus competencias, de acuerdo a los términos previstos en esta 
+política y/o en los términos y  condiciones específicos que puedan aplicar, según corresponda.   
+10. PROPIEDAD INTELECTUAL  
+Todas las marcas, nombres comerciales o signos distintivos de cualquier clase que  eventualmente 
+aparezcan en el sitio web y/o en los sistemas de ANII son de su propiedad o de  terceros, sin que 
+  
+pueda entenderse que el uso o acceso al sitio y/o sistemas proporciona al usuario  derecho alguno 
+sobre las citadas marcas, nombres comerciales o signos distintivos de cualquier  clase.  
+11. COOKIES  
+ANII utiliza cookies. Usted puede configurar su navegador para ser avisado de la recepción de  las 
+cookies o impedir su instalación.  
+12. EJERCICIO DE LOS DERECHOS  
+ANII garantiza el ejercicio de los derechos de acceso, rectificación, actualización, inclusión o 
+supresión de los datos personales, debiendo el titular comunicarse con ANII a través del formulario 
+de "Contacto" disponible en la web, mediante correo electrónico a datos@anii.org.uy o 
+personalmente a Av. Italia 6201, edificio Los Nogales.  
+ 
+ 
+13. FACULTADES DE ANII  
+La ANII se reserva el derecho de exhibir y divulgar los datos de los titulares que utilicen los  Servicios, 
+según lo dispuesto en esta política y/o en los términos y  condiciones específicas aplicables a los 
+Servicios.  
+En caso de que se detecten incumplimientos a las obligaciones que le caben a los titulares de  los 
+datos, ANII se reserva el derecho de cancelar el acceso al usuario titular de los datos a los Servicios 
+y/o sistemas de ANII. El mal uso de los Servicios de la Agencia podrá implicar la pérdida de becas,  
+subsidios u otros tipos de financiamiento otorgados por ANII o por otras instituciones, sin perjuicio  
+de otras medidas o responsabilidades que puedan corresponder por aplicación de disposiciones  
+legales o administrativas.  
+14. ACTUALIZACIONES DE LA POLÍTICA   
+La política de la ANII estará disponible en su página web. ANII se reserva el derecho de realizar 
+cualquier cambio y/o corrección a esta Política sin que ello requiera aviso o condición alguna. Es 
+responsabilidad de los usuarios remitirse con cierta frecuencia a estos documentos para verificar las 
+actualizaciones subsecuentes. En caso de discrepancia entre esta Política y los términos y 
+condiciones específicos aplicable a los Servicios de la Agencia, se entenderán correctas y válidas las 
+específicas, a todos los efectos  pertinentes.  
+15. ENLACES  
+La presente Política es de aplicación exclusiva para las bases de datos, sitios, portales, servicios o 
+contenidos de la Agencia Nacional de Investigación e Innovación y no se extiende a los  enlaces hacia 
+otros sitios, portales, servicios o contenidos de distinta titularidad. 
+ 
+16. LEY APLICABLE Y JURISDICCIÓN COMPETENTE  
+  
+Esta Política se encuentra regida en todas sus cláusulas y sin excepción por las leyes de la  República 
+Oriental del Uruguay.  
+Cualquier controversia derivada de este documento, así como de los términos y condiciones  
+específicas aplicables a las bases de datos de la Agencia, relativa a su existencia, validez,  
+interpretación, alcance o cumplimiento será sometida a los Tribunales ordinarios de la ciudad de  
+Montevideo, Uruguay. 
+ 
+6 

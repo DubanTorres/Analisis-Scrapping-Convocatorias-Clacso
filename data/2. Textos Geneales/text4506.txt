@@ -1,0 +1,4471 @@
+
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+Edital Programa de Pesquisa Aplicada em Políticas Pública   
+FAPEMAT Nº. 001 /2020 
+Segurança Pública – Corpo de Bombeiro Militar  
+ 
+O GOVERNO DO ESTADO DE MATO GROSSO, por intermédio da FUNDAÇÃO DE AMPARO À 
+PESQUISA DO ESTADO DE MATO GROSSO – FAPEMAT em parceria com a Secretária Estadual 
+de Segurança Pública - Corpo de Bombeiros Militar do Estado de Mato Grosso, e considerando a 
+necessidade de se produzir conhecimentos aprofundados em áreas estratégicas para o 
+desenvolvimento do estado; considerando o Programa de Pesquisa Aplicada em Políticas Pública;  
+considerando a necessidade de implantação da Agenda Estratégica de Ciência, Tecnologia e 
+Inovação do Estado de Mato Grosso. 
+ 
+RESOLVE: 
+Tornar público o lançamento do presente Edital do Programa de Pesquisa Aplicada em 
+Políticas Pública e convida os interessados a apresentarem propostas na área de Segurança 
+Pública, nos termos aqui estabelecidos. 
+ 
+1. OBJETIVO  
+ 
+Acolher e apoiar projeto de pesquisa que tenha por objetivo o “Desenvolvimento de um 
+sistema para gestão de equipamentos operacionais de atividades finalísticas da corporação 
+em veículos, pronto atendimento, sala de materiais inservíveis e almoxarifado do 1o Batalhão 
+de Bombeiro Militar -1o BBM- Cuiabá”.  
+ 
+2. PRODUTO MÍNIMO ESPERADO 
+ 
+Ao final do projeto o produto mínimo esperado dever ter as seguintes características: 
+a) Ser um protótipo operacional; 
+b) Utilizar linguagem de programação Java e sistema gerenciador de bando de 
+dados Oracle; 
+c) Baseado no conceito de Internet das Coisas (IOT); 
+d) Robusto e de fácil manuseio; 
+e) Baixo custo de implantação e manutenção; 
+f) 
+Que permita sua ampliação e instalação em outras unidades dos bombeiros; 
+g) Possuir características funcionais adequadas as especificidades da atuação do 
+Corpo de Bombeiro Militar; 
+h) Possuir interface de comunicação com o sistema de patrimônio do Estado de 
+Mato Grosso e demais sistemas da coorporação. 
+i) 
+Gerar relatórios com estatísticas e informações que auxiliem no planejamento, 
+controle e gestão dos equipamentos; 
+j) 
+Apresentar manuais de instalação e operacionalização do sistema, que 
+contenham todas as especificações técnicas, componentes e materiais utilizados, 
+softwares incorporados, e descrição dos custos de desenvolvimento e 
+implantação do sistema 
+ 
+Observação: Os materiais empregados nas atividades finalísticas da corporação são, por exemplo, 
+desencarceradores, motosserras, enxadas, mangueiras, pés de cabra, geradores, entre outros. 
+ 
+3- PROPONENTES E PROPOSTAS ELEGÍVEIS 
+ 
+3.1 Grupos de pesquisa devidamente cadastrados no Diretório de Grupos de Pesquisa da 
+Plataforma Lattes do CNPq, há pelo menos 01 ano, a partir da data de publicação do edital, 
+certificado por uma instituição de ciência, tecnologia e inovação (ICT) pública ou privada sem fins 
+lucrativos sediada no Estado de Mato Grosso, poderão propor, coordenar e executar os projetos 
+de pesquisa; 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+ 
+3.2 A proposta será encaminhada pelo líder ou membro do grupo de pesquisa, que deverá ter 
+vínculo empregatício (estatutário ou celetista) com a instituição de ciência, tecnologia e inovação 
+(ICT) pública ou privada sem fins lucrativos sediada em Mato Grosso (instituição executora); 
+ 
+3.3  O proponente será obrigatoriamente o coordenador da proposta e deverá: 
+a) possuir título de doutor;  
+b) ter currículo atualizado na Plataforma Lattes e no SIGFAPEMAT;  
+d) ser responsável pela gestão financeira e técnica da pesquisa;  
+e) se for pesquisador aposentado deverá comprovar que mantém atividade acadêmico-
+científicas e apresentar declaração da instituição executora concordando com a execução 
+do projeto. 
+3.4 Cada pesquisador poderá participar como proponente de apenas uma proposta neste edital.  
+  
+3.5 No mínimo 02 (dois) dos membros da equipe do projeto devem ser do Corpo de Bombeiros 
+Militar de Mato Grosso *, que tenham no mínimo graduação completa. 
+ 
+3.6 Pesquisadores com 01 (um) ou mais projetos (pesquisa, popularização ou inovação) em 
+andamento com esta fundação não poderão submeter propostas. A FAPEMAT considera o 
+projeto encerrado, apenas quanto o relatório técnico final e a prestação de contas final 
+encontram-se aprovados por esta fundação.  
+ 
+3.7 Pesquisadores inadimplentes com a FAPEMAT não poderão submeter propostas. 
+ 
+* Contato do Corpo de Bombeiros Militar de Mato Grosso para este edital:  
+pesquisacbmmt@gmail.br 
+ 
+ 
+4. PRAZO DE EXECUÇÃO DOS PROJETOS 
+As propostas a serem apoiadas pelo presente edital deverão ter seu prazo máximo de execução 
+estabelecido em 10 (dez) meses, contados a partir da data de assinatura do termo de concessão de 
+auxílio. Em casos excepcionais e com a devida justificativa, o projeto poderá ser prorrogado por no 
+máximo 04 (quatro) meses. 
+ 
+5. RECURSOS FINANCEIROS 
+5.1 As propostas aprovadas serão financiadas com recursos de capital e custeio, no valor global 
+estimado de até R$ 200.000,00 (duzentos mil reais) oriundos da FAPEMAT, Programa de 
+Desenvolvimento Cientifico e Tecnológico, Ação 2205, Fonte 192, a serem pagos em parcela única. 
+5.2 A solicitação de recursos à FAPEMAT acima do máximo estimado acarretará na eliminação da 
+proposta. 
+ 
+6. ITENS FINANCIÁVEIS E NÃO FINANCIÁVEIS 
+6.1. Itens financiáveis  
+CAPITAL: 
+6.1.1. Material Permanente 
+ 
+Aquisição de livros (material bibliográfico); 
+ 
+Máquinas e equipamentos. 
+Obs: As despesas de capital não podem exceder 25% do valor solicitado 
+ 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+CUSTEIO: 
+6.1.2. Material de Consumo  
+6.1.3. Diárias, conforme valores da FAPEMAT:  
+ 
+Dentro do estado: R$ 180,00 (cento e oitenta reais);  
+ 
+Fora do estado:     R$ 240,00 (duzentos e quarenta reais). 
+6.1.4. Passagens aéreas;  
+6.1.5. Serviços de terceiros – pessoa física;  
+6.1.6. Serviços de terceiros – pessoa jurídica. 
+ 
+Obs: Diárias e passagens não podem ser utilizadas para o custeio de despesas referentes a 
+apresentação e ou participação em eventos (congressos, seminários, workshop, etc), 
+excetuando-se apresentação dos resultados para a  FAPEMAT e a SESP. 
+ 
+ 
+ BOLSAS 
+6.1.7 Poderão ser solicitadas bolsas na seguinte modalidade: Bolsa de Transferência de 
+Tecnologia - BTT. 
+6.1.8 A implementação das bolsas aprovadas deverá ser realizada dentro dos prazos e 
+critérios estipulados neste edital e em observância às regras e normas da FAPEMAT para 
+cada uma das modalidades, indicadas no endereço www.fapemat.mt.gov.br. 
+6.1.9 O valor solicitado para bolsas não poderá ultrapassar o limite de 80% do valor da 
+proposta, sob pena de desclassificação. 
+ 
+MODALIDADE 
+VALOR MENSAL (R$) 
+BTT 5 
+3.500,00 
+BTT 6 
+2.000,00 
+BTT 7 
+1.000,00 
+ 
+  
+6.2. Itens não Financiáveis 
+ 
+6.2.1 obras civis (construção ou reforma); 
+ 
+6.2.2 Pagamento de salários ou complementação salarial de pessoal técnico e administrativo 
+ou quaisquer outras vantagens para pessoal de instituições públicas (federal, estadual e 
+municipal); e despesas de rotina como contas de luz, água, telefone, correios, reprografia e 
+similares, entendidas como despesas de contrapartida obrigatória da instituição de execução 
+do projeto; 
+ 
+6.2.3 Pagamento, a qualquer título, a servidor da administração pública, ou empregado de 
+empresa pública ou de sociedade de economia mista, por serviços de consultoria ou 
+assistência técnica, conforme determina a LDO da União e Decreto Federal nº 5.151 de 
+22/04/2004; 
+ 
+6.2.4 Pagamento de taxas de administração ou gestão, a qualquer título, de acordo com a 
+Instrução Normativa 01/2015 de 23/02/2015; 
+ 
+6.2.5 Pagamento de consultoria e pró-labore; 
+ 
+6.2.6 Aquisição de veículos e acessórios; 
+ 
+6.2.7 Terceirização das atividades básicas de pesquisa, como, por exemplo, delineamento 
+experimental, análise de dados, revisão e tradução de textos, elaboração de relatórios, ou o 
+pagamento de membros da equipe por tais atividades; 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+ 
+Em caso de dúvidas, consultar o manual de normas e procedimentos disponível no endereço 
+http://www.fapemat.mt.gov.br.  
+ 
+ 
+6.3. Itens a serem Importados 
+6.3.1. Nos itens a serem importados deverão ser previstos os custos de importação em 
+serviços de terceiros, pessoa jurídica (até 18% do valor do item a ser importado). 
+6.3.2. Deverá ser anexado ao projeto de pesquisa cópia da carta enviada ao importador, 
+solicitando a possível importação do item necessário, bem como carta resposta do 
+importador, confirmando a possibilidade da importação. 
+ 
+ 
+  7. DATAS E PERÍODOS DE VIGÊNCIA DO EDITAL 
+ 
+Elemento de chamada 
+Período de Vigência 
+Lançamento do Edital  
+10/02/2020 
+ Data limite para submissão de Propostas on 
+line   
+20/03/2020 
+Divulgação do resultado preliminar 
+14/04/2020 
+Divulgação do resultado final 
+24/04/2020 
+Início 
+da 
+contratação 
+das 
+propostas 
+aprovadas 
+01/05/2020 
+Data limite da contratação das propostas 
+aprovadas 
+31/07/2020 
+ 
+8. ENCAMINHAMENTO DAS PROPOSTAS 
+8.1 As propostas devem ser encaminhadas via internet, utilizando-se do formulário de propostas 
+online na plataforma SIGFAPEMAT na página eletrônica (http://sigfap.fapemat.mt.gov.br),  até a 
+data limite de submissão , ver item 7 – cronograma. 
+     
+8.2 Todos os membros da equipe executora do projeto precisam fazer seu cadastro no sistema e 
+aceitar o convite de participação, para que a proposta possa ser enviada pelo coordenador. 
+ 
+8.3 O coordenador da proposta deverá anexar os seguintes documentos para submissão: RG, CPF 
+e comprovante de residência em nome do coordenador dos últimos 90 dias;  
+ 
+8.4 As propostas devem ser transmitidas a FAPEMAT até as 23:59 horas (vinte e três horas e 
+cinquenta e nove minutos), horário de Mato Grosso, da data limite de submissão item 7 – cronograma; 
+8.5 O atendimento pelo endereço eletrônico ti@fapemat.mt.gov.br encerra-se, impreterivelmente, às 
+17h00 e esse fato não será aceito como justificativa para envio posterior à data limite. 
+ 
+8.6 O proponente receberá, ao enviar a proposta, um recibo eletrônico com número de protocolo da 
+sua proposta, o qual servirá como comprovante da transmissão. 
+ 
+8.7 As propostas devem ser apresentadas em conformidade com todos os itens previstos nesta 
+chamada. 
+ 
+8.8 Não serão aceitas propostas submetidas por qualquer outro meio, tampouco após o prazo final 
+de recebimento estabelecido no item 07 - cronograma; 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+ 
+8.9 Constatado o envio de propostas idênticas, por proponentes diferentes, ambas as propostas 
+serão sumariamente desclassificadas; 
+ 
+8.10 Para dúvidas ou dificuldades no preenchimento dos itens do formulário de propostas online 
+durante o período de submissão das propostas, o atendimento será realizado, de segunda a sexta-
+feira, 
+no 
+horário 
+de 
+funcionamento 
+da 
+FAPEMAT 
+pelo 
+endereço 
+eletrônico 
+cpesquisa@fapemat.mt.gov.br; 
+ 
+ 
+9 – ANÁLISE E JULGAMENTO 
+As propostas serão analisadas, obedecendo às seguintes etapas: 
+ 
+Etapa I – Análise pela área técnica da FAPEMAT – enquadramento ou desclassificação. 
+A etapa consiste na pré-análise das propostas apresentadas. Será analisada a 
+documentação apresentada, proponentes e propostas elegíveis, valor solicitado e a verificação do 
+enquadramento a todos os requisitos estabelecidos por este edital, a ser efetuada pela FAPEMAT. As 
+propostas que não atenderem às exigências deste edital serão desconsideradas para análise e 
+julgamento de mérito e relevância. 
+Observação: 
+a 
+falta 
+de 
+atendimento 
+de 
+qualquer 
+item 
+do 
+edital 
+desclassificará, 
+automaticamente, a proposta. 
+ 
+Etapa II - análise por consultor “Ad Hoc” 
+A etapa consistirá na análise aprofundada da demanda qualificada, principalmente, em 
+relação a adequação ao objeto de pesquisa previsto,  excelência da proposta, equipe executora e 
+adequação orçamentária. Esta análise será realizada por consultor “Ad Hoc” que se manifestará, 
+individualmente, sobre os seguintes tópicos: 
+ 
+CRITÉRIOS DE ANÁLISE E JULGAMENTO DE MÉRITO E 
+RELEVÂNCIA 
+PESO 
+NOTA* 
+(1 a 10) 
+MÉDIA 
+A 
+ Adequação da proposta ao objeto de pesquisa previsto 
+04 
+ 
+ 
+B 
+Excelência da proposta do ponto de vista da qualidade e 
+originalidade do projeto, da efetividade da metodologia 
+proposta e cronograma de execução. 
+03 
+ 
+ 
+C 
+Qualificação e experiência do Coordenador  e da equipe 
+executora 
+02 
+ 
+ 
+D 
+Adequação orçamentária 
+01 
+ 
+ 
+NC: Nota Consultor(somatório das médias dividido por 10) 
+ 
+Nota* 
+MUITO BOM (MB) = plenamente consistente –  10 pontos  
+BOM (B) = adequadamente consistente –  8 a 9 pontos  
+REGULAR (R) = razoavelmente consistente – 5  a 7 pontos  
+FRACO (F) = pouco consistente –  3 a 4 pontos  
+DEFICIENTE (D) = inconsistente –   1 a 2 pontos 
+ 
+O consultor “Ad Hoc” apreciará o orçamento solicitado, tendo em vista os objetivos, a 
+metodologia e os resultados previstos, podendo indicar sua aprovação integral, não aprovação ou 
+aprovação com cortes. Neste caso deverá ser indicado o valor a ser financiado.  
+ 
+ 
+ 
+ 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+ETAPA III – Analise pelo Comitê de Avaliação  
+ 
+Esta etapa os projetos serão apreciados conjuntamente, por representantes da FAPEMAT e da 
+SESP, que se manifestarão sobre os seguintes tópicos: 
+CRITÉRIOS DE ANÁLISE E JULGAMENTO DE MÉRITO E 
+RELEVÂNCIA 
+PESO 
+NOTA* 
+(1 a 10) 
+MÉDIA 
+A 
+ Adequação da proposta ao objeto de pesquisa previsto 
+04 
+ 
+ 
+B 
+Excelência da proposta do ponto de vista da qualidade e 
+originalidade do projeto, da efetividade da metodologia 
+proposta e cronograma de execução. 
+03 
+ 
+ 
+C 
+Qualificação e experiência do Coordenador  e da equipe 
+executora 
+02 
+ 
+ 
+D 
+Adequação orçamentária 
+01 
+ 
+ 
+ NCA: Nota Comitê de Avaliação (somatório das médias dividido por 10) 
+ 
+ 
+O Comitê de avaliação apreciará o orçamento solicitado, tendo em vista os objetivos, a 
+metodologia e os resultados previstos, podendo indicar sua aprovação integral, não aprovação ou 
+aprovação com cortes. Neste caso deverá ser indicado o valor a ser financiado. 
+Este comitê também será responsável pela verificação dos itens solicitados na proposta, caso 
+seja detectado algum item não financiável, conforme estabelecido no item 6 (itens financiáveis e não 
+financiáveis), o mesmo será retirado do orçamento a ser aprovado. 
+Não é permitido integrar o comitê de avaliação o pesquisador que tenha apresentado 
+propostas a esta Chamada ou que participe da equipe executora de projeto. 
+ 
+9.1. Ranqueamento das propostas pelo Comitê Gestor do Edital  
+ 
+Esta etapa, realizada por um comitê Gestor (a ser composto por técnicos da FAPEMAT e 
+representantes da SESP), e consistirá no ranqueamento das propostas observando-se Nota Final 
+(NF) de cada proposta e o valor disponível no edital. A Nota Final (NF) será calculada observando a 
+Nota do Consultor (NC) e a Nota do Comitê de Avaliação (NCA) da seguinte maneira: 
+ 
+ 
+2
+NCA
+NC
+NF
+
+
+ 
+ 
+Os cortes no orçamento de cada projeto não poderão ultrapassar 30% (trinta por cento) do 
+valor solicitado. Caso o consultor Ad Hoc ou o comitê de avaliação recomende um corte superior a 
+este percentual, o projeto será automaticamente excluído da concorrência. Propostas com Nota Final 
+abaixo de 7,0 serão excluídas da concorrência.  Caso haja divergência entre o consultor “Ad-Hoc” e o 
+comitê de avaliação em relação ao valor recomendado para aprovação, o valor a ser aprovado será o 
+recomendado pelo comitê de avaliação. 
+Após a análise cada proposta e da adequação de seu orçamento, o comitê gestor poderá 
+recomendar: 
+a) A aprovação, com ou sem cortes orçamentários; ou 
+b) A não aprovação da proposta. 
+ 
+O ranqueamento do comitê será registrado em planilha eletrônica contendo a relação das 
+propostas avaliadas, recomendadas e não recomendadas, com as respectivas pontuações finais, em 
+ordem decrescente, assim como outras informações e recomendações julgadas pertinentes. Para 
+propostas recomendadas será explicitado o valor adequado para financiamento. Os formulários 
+deverão ser assinados pela maioria de membros do comitê. Em caso de empate da média final das 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+propostas, serão utilizadas como critério de desempate as notas dos critérios de análise e de 
+julgamento, na seguinte ordem: Item A, Item B, Item C, Item D. 
+ 
+Não é permitido integrar o Comitê Gestor pesquisador que tenha apresentado propostas a este 
+edital, ou que participe da equipe do projeto. É vedado a qualquer membro do comitê julgar propostas 
+de projetos em que: 
+ 
+a) Esteja participando da equipe do projeto seu cônjuge, companheiro ou parente, 
+consanguíneo ou afim, em linha reta ou na colateral, até o terceiro grau; ou 
+b) Esteja litigando judicial ou administrativamente com qualquer membro da equipe do projeto 
+ou seus respectivos cônjuges ou companheiros. 
+ 
+ 
+10. RESULTADOS DOS JULGAMENTOS 
+Depois de vencidas todas as etapas de análise a lista de projetos aprovados será divulgada 
+no site da FAPEMAT no endereço eletrônico www.fapemat.mt.gov.br. 
+Após a divulgação dos resultados será encaminhado ao coordenador via e-mail: 
+ Comunicação da Diretoria Técnica Científica formalizando contemplação; 
+ Declaração para abertura de conta corrente; 
+ Solicitação de informações da Instituição e Gestor máximo da mesma, se não constar no 
+banco de dados da FAPEMAT.  
+ 
+A contratação ocorrerá após a assinatura do termo de concessão e aceitação de auxilio e de 
+acordo com disponibilidade orçamentária financeira da FAPEMAT. 
+ 
+ 
+11. RECURSOS ADMINISTRATIVOS 
+ 
+11.1. Caso o proponente tenha justificativa para contestar o resultado do julgamento das propostas, 
+poderá apresentar recurso, em formulário específico (ANEXO I), no prazo de 05 (cinco) dias úteis, a 
+contar da data da publicação do resultado no site da FAPEMAT.  
+ 
+11.2. O recurso deverá ser dirigido à Diretoria Técnico Científica da FAPEMAT via e-mail no 
+endereço: dtc@fapemat.mt.gov.br, que, após exame, encaminhará para deliberação final da 
+Presidência da FAPEMAT. 
+ 
+11.3 Na contagem do prazo excluir-se-á o dia do início e incluir-se-á o do vencimento, e considerar-
+se-ão os dias consecutivos. O prazo só se inicia e vence em dias de expediente na FAPEMAT. 
+ 
+12.   DOCUMENTOS A SEREM ENVIADOS PARA CONTRATAÇÃO DA PROPOSTA  
+12.1. A proposta aprovada deve ser assinada pelo coordenador e dirigente máximo da instituição 
+executora e enviada digitalmente à FAPEMAT em conformidade com o item 7 (até 31/07/2020). 
+12.2 Certidões do coordenador da proposta (envio digital): 
+a)  Certidão referente às pendências tributárias e não tributárias controladas pela SEFAZ/MT, 
+para fins de recebimento da administração pública.  
+b)  Certidão Negativa de Dívida Ativa da Procuradoria Geral do Estado (PGE). 
+c) Certidão Negativa de Débitos do Tribunal de Contas do Estado (TCE-MT). 
+d) Certidão Negativa de Débitos Relativos aos Tributos Federais e à Dívida Ativa da União, 
+junto à Receita Federal do Brasil.  
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+e)  certidão negativa de débito trabalhista.   
+13. PERMISSÕES E AUTORIZAÇÕES ESPECIAIS  
+ 
+13.1. É de exclusiva responsabilidade de cada proponente adotar todas as providências que 
+envolvam permissões e autorizações especiais de caráter ético ou legal, necessárias para a 
+execução do projeto. 
+ 
+13.2. Os projetos que receberem parecer negativo das comissões de ética, ou não apresentarem as 
+devidas permissões e autorizações exigidas pelos marcos regulatórios necessários para a execução 
+do projeto não serão contratados pela FAPEMAT. 
+ 
+13.3. Para os casos de projetos de pesquisa, relacionados à biodiversidade, deverá ser observada a 
+legislação em vigor (MP nº 2.186/01, Decreto nº 3.945/01, Decreto nº 98.830/90, Portaria MCT nº 
+55/90 e Decreto nº 4.946/03); no que diz respeito à obtenção de autorizações de acesso, coleta e 
+remessa de amostras, observar a legislação dos órgãos competentes e para os estrangeiros 
+participantes do projeto observar a concessão de vistos de entrada no País. 
+13.4. Tratando-se de projetos de pesquisa que envolva experimentação com seres humanos, nos 
+termos da Portaria 196/96, do Conselho Nacional de Saúde, também deverá ser encaminhado à 
+FAPEMAT o parecer de uma das comissões de ética existentes no estado, anexo aos demais 
+documentos exigidos. No caso de projetos que envolvam organismos geneticamente modificados, 
+coleta de dados, materiais, espécimes biológicos e minerais, peças integrantes da cultura nativa e 
+cultura popular, presente e passada, relacionados ou não a questões de biossegurança, fica 
+estabelecido que seja responsabilidade do coordenador adotar todos os procedimentos previstos em 
+lei. 
+ 
+14.  PRESTAÇÃO DE CONTAS E DISPOSIÇÕES COMPLEMENTARES 
+ 
+Dentro do prazo fixado no termo de concessão e aceitação do auxílio, o coordenador do 
+projeto deverá apresentar à FAPEMAT seus relatórios de atividades de pesquisa parcial e final e sua 
+prestação de contas, de acordo com o  normas  de Prestação de Contas da FAPEMAT, estando 
+sujeito às penalidades previstas no Termo supra mencionado, se deixar de cumprir qualquer uma das 
+exigências legais. 
+ 
+15. DO CANCELAMENTO DA CONCESSÃO  
+A existência de alguma inadimplência do coordenador do projeto com a FAPEMAT, não 
+regularizada dentro do prazo máximo de 30 dias após a divulgação dos resultados, constituirá fator 
+impeditivo para a concessão do apoio financeiro. Da mesma forma, a concessão será cancelada se 
+for verificado no processo de monitoramento e durante a execução do projeto que sua implementação 
+é insatisfatória, sem prejuízo de outras providências cabíveis a critério da Diretoria Científica da 
+FAPEMAT, ouvido o Conselho Diretor. 
+ 
+16. DA IMPUGNAÇÃO DO EDITAL  
+Decairá do direito de impugnar os termos deste Edital aquele que, tendo-o aceito sem 
+objeção, venha apontar, posteriormente ao julgamento, eventuais falhas ou imperfeições, hipótese 
+em que tal comunicação não terá efeito de recurso. 
+ 
+17. DA REVOGAÇÃO OU ANULAÇÃO DO EDITAL 
+A qualquer tempo, o presente Edital poderá ser revogado ou anulado, no todo ou em parte, 
+seja por decisão unilateral da FAPEMAT, seja por motivo de interesse público ou exigência legal, sem 
+que isso implique no direito à indenização ou reclamação de qualquer tipo. 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+ 
+18.  PROPRIEDADE INTELECTUAL 
+ 
+A titularidade da propriedade intelectual dos produtos desenvolvidos pertencerá à 
+FAPEMAT e a Secretária Estadual de Segurança Pública - Corpo de Bombeiros Militar de Mato 
+Grosso. 
+                      As publicações e quaisquer outros meios de divulgação dos resultados obtidos pelo  
+projeto deverá ter a anuência da FAPEMAT e da SESP- CBM , obrigatoriamente, citar o apoio da 
+FAPEMAT. 
+ 
+19. PRORROGAÇÃO DO PRAZO DE EXECUÇÃO DO PROJETO E MUDANÇA DE RUBRICA 
+A prorrogação de prazo só será permitida, mediante justificativas plausíveis a serem feitas 
+pelo Coordenador do projeto, considerando: 
+a) prazo mínimo para solicitação de prorrogação 60 (sessenta) dias antes do término da 
+execução do projeto; 
+b) Entrega de um relatório que demonstre o andamento do projeto. 
+c) Prazo máximo para a prorrogação será de 04 (quatro) meses. 
+ 
+20 – DISPOSIÇÕES GERAIS  
+20.1. O presente edital regula-se pelos preceitos do direito público e, em especial, pelas disposições 
+da Lei nº 8.666, de 21/06/93, e, no que couber, pelas normas internas da FAPEMAT. 
+20.2. O Conselho Diretor da FAPEMAT reserva-se o direito de resolver os casos omissos e as 
+situações não previstas no presente Edital. 
+ 
+ 
+21. INFORMAÇÕES ADICIONAIS E CONTATOS 
+ 
+a) 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+Coordenadoria de Pesquisa - Diretoria Técnico-Científica – FAPEMAT 
+Rua três, s/nº (Prédio IOMAT) 3º piso, Centro Político Administrativo,  
+Cuiabá, MT,  CEP-78050-970                                   
+E-mail: cpesquisa@fapemat.mt.gov.br 
+ 
+b) Corpo de Bombeiro Militar do Estado Mato Grosso – CBM-MT 
+1o Batalhão de  Bombeiro Militar -1o BBM- Cuiabá 
+Av. Agrícola Paes de Barros nº 123 – Verdão, CEP - 78.030 210 
+E-mail: pesquisacbmmt@gmail.com 
+ 
+ 
+ 
+ 
+Cuiabá, 10/02/2020 
+ 
+                                                                        Dr. Adriano Silva 
+                                                                     Presidente FAPEMAT 
+ 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+ANEXO I 
+ 
+FORMULÁRIO DE SOLICITAÇÃO DE RECURSO 
+ 
+ 
+1. Titulo do projeto: 
+2. Justificativa do recurso : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+___/___/2020 
+ 
+ 
+_______________________ 
+Assinatura do Proponente 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+Edital  Programa de Pesquisa Aplicada em Políticas Pública   
+FAPEMAT Nº. 002/2020 
+Segurança Pública – Policia Judiciaria Civil 
+ 
+O GOVERNO DO ESTADO DE MATO GROSSO, por intermédio da FUNDAÇÃO DE AMPARO À 
+PESQUISA DO ESTADO DE MATO GROSSO – FAPEMAT em parceria com a Secretária Estadual 
+de Segurança Pública – Polícia Judiciária Civil (PJC) do Estado de Mato Grosso, e considerando a 
+necessidade de se produzir conhecimentos aprofundados em áreas estratégicas para o 
+desenvolvimento do estado; considerando o Programa de Pesquisa Aplicada em Políticas Pública;  
+considerando a necessidade de implantação da Agenda Estratégica de Ciência, Tecnologia e 
+Inovação do Estado de Mato Grosso. 
+ 
+RESOLVE: 
+Tornar público o lançamento do presente Edital do Programa de Pesquisa Aplicada em 
+Políticas Pública e convida os interessados a apresentarem propostas na área de Segurança 
+Pública, nos termos aqui estabelecidos. 
+ 
+1. OBJETIVO  
+ 
+Acolher e apoiar projeto de pesquisa que tenha por objetivo o “Desenvolvimento de um 
+sistema de captura, visualização e armazenamento de objetos em 3D utilizando smartphone ”.  
+ 
+2. PRODUTO MÍNIMO ESPERADO 
+ 
+Ao final do projeto o produto mínimo esperado dever ter as seguintes características: 
+a) Ser um aplicativo de celular operacional; 
+b) Desenvolvido utilizando Flutter; 
+c) Deve caracterizar-se como Application Programming Interface (API) a ser 
+integrada a outros sistemas da PJC; 
+d) Deve permiti a integração com banco de dados PostgreSQL; 
+e) Compatível com IOS e Android; 
+f) 
+Caracterização completa do objeto (tipo, tamanho, peso, volume, forma, cor, 
+procedência, etc). 
+g) Possuir um sistema de classificação e busca de objetos (Catalogo Virtual); 
+h) Utilização de Inteligência Artificial (I.A) para análise e comparação das imagens 
+geradas; 
+i) 
+Utilização de Realidade Aumentada para visualização das imagens  
+j) 
+Robusto e de fácil manuseio; 
+k) Baixo custo de implantação e manutenção; 
+l) 
+Que permita sua ampliação e instalação para todo o estado; 
+m) Possuir características funcionais adequadas as especificidades da atuação da 
+PJC; 
+n) Apresentar manuais de desenvolvimento e operacionalização do sistema, bem 
+relatório com todas as especificações técnicas e custos do projeto  
+ 
+3- PROPONENTES E PROPOSTAS ELEGÍVEIS 
+ 
+3.1 Grupos de pesquisa devidamente cadastrados no Diretório de Grupos de Pesquisa da 
+Plataforma Lattes do CNPq, há pelo menos 01 ano, a partir da data de publicação do edital, 
+certificado por uma instituição de ciência, tecnologia e inovação (ICT) pública ou privada sem fins 
+lucrativos sediada no Estado de Mato Grosso, poderão propor, coordenar e executar os projetos 
+de pesquisa; 
+ 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+3.2 A proposta será encaminhada pelo líder ou membro do grupo de pesquisa, que deverá ter 
+vínculo empregatício (estatutário ou celetista) com a instituição de ciência, tecnologia e inovação 
+(ICT) pública ou privada sem fins lucrativos sediada em Mato Grosso (instituição executora); 
+ 
+3.3  O proponente será obrigatoriamente o coordenador da proposta e deverá: 
+a) possuir título de doutor;  
+b) ter currículo atualizado na Plataforma Lattes e no SIGFAPEMAT;  
+d) ser responsável pela gestão financeira e técnica da pesquisa;  
+e) se for pesquisador aposentado deverá comprovar que mantém atividade acadêmico-
+científicas e apresentar declaração da instituição executora concordando com a execução 
+do projeto. 
+3.4 Cada pesquisador poderá participar como proponente de apenas uma proposta neste edital.  
+  
+3.5 No mínimo 02 (dois) dos membros da equipe do projeto devem ser da Polícia Judiciária Civil 
+(PJC) do Mato Grosso, que tenham no mínimo graduação completa. 
+ 
+3.6 Pesquisadores com 01 (um) ou mais projetos (pesquisa, popularização ou inovação) em 
+andamento com esta fundação não poderão submeter propostas. A FAPEMAT considera o 
+projeto encerrado, apenas quanto o relatório técnico final e a prestação de contas final 
+encontram-se aprovados por esta fundação.  
+ 
+3.7 Pesquisadores inadimplente com a FAPEMAT não poderão submeter propostas. 
+ 
+* Contato do Polícia Judiciária Civil  de Mato Grosso para este edital: 
+pesquisapjcmt@gmail.com 
+ 
+ 
+ 
+4. PRAZO DE EXECUÇÃO DOS PROJETOS 
+As propostas a serem apoiadas pelo presente edital deverão ter seu prazo máximo de execução 
+estabelecido em 10 (dez) meses, contados a partir da data de assinatura do termo de concessão de 
+auxílio. Em casos excepcionais e com a devida justificativa, o projeto poderá ser prorrogado por no 
+máximo 04 (quatro) meses. 
+ 
+5. RECURSOS FINANCEIROS 
+5.1 As propostas aprovadas serão financiadas com recursos de capital e custeio, no valor global 
+estimado de até R$ 250.000,00 (duzentos e cinquenta mil reais) oriundos da FAPEMAT, Programa 
+de Desenvolvimento Cientifico e Tecnológico, Ação 2205, Fonte 192, a serem pagos em parcela 
+única. 
+5.2 A solicitação de recursos à FAPEMAT acima do máximo para cada faixa acarretará na eliminação 
+da proposta. 
+ 
+6. ITENS FINANCIÁVEIS E NÃO FINANCIÁVEIS 
+6.1. Itens financiáveis  
+CAPITAL: 
+6.1.1. Material Permanente 
+ 
+Aquisição de livros (material bibliográfico); 
+ 
+Máquinas e equipamentos. 
+Obs: As despesas de capital não podem exceder 25% do valor solicitado 
+ 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+CUSTEIO: 
+6.1.2. Material de Consumo  
+6.1.3. Diárias, conforme valores da FAPEMAT:  
+ 
+Dentro do estado: R$ 180,00 (cento e oitenta reais);  
+ 
+Fora do estado:     R$ 240,00 (duzentos e quarenta reais). 
+6.1.4. Passagens aéreas;  
+6.1.5. Serviços de terceiros – pessoa física;  
+6.1.6. Serviços de terceiros – pessoa jurídica. 
+ 
+Obs: Diárias e passagens não podem ser utilizadas para o custeio de despesas referentes a 
+apresentação e ou participação em  eventos (congressos, seminários, workshop, etc), 
+excetuando-se apresentação dos resultados para a  FAPEMAT e a SESP. 
+ 
+ 
+ BOLSAS 
+6.1.7 Poderão ser solicitadas bolsas na seguinte modalidade: Bolsa de Transferência de 
+Tecnologia - BTT. 
+6.1.8 A implementação das bolsas aprovadas deverá ser realizada dentro dos prazos e 
+critérios estipulados neste edital e em observância às regras e normas da FAPEMAT para 
+cada uma das modalidades, indicadas no endereço www.fapemat.mt.gov.br. 
+6.1.9 O valor solicitado para bolsas não poderá ultrapassar o limite de 80% do valor da 
+proposta, sob pena de desclassificação. 
+ 
+MODALIDADE 
+VALOR MENSAL (R$) 
+BTT 5 
+3.500,00 
+BTT 6 
+2.000,00 
+BTT 7 
+1.000,00 
+ 
+  
+6.2. Itens não Financiáveis 
+ 
+6.2.1 obras civis (construção ou reforma); 
+ 
+6.2.2 pagamento de salários ou complementação salarial de pessoal técnico e administrativo 
+ou quaisquer outras vantagens para pessoal de instituições públicas (federal, estadual e 
+municipal); e despesas de rotina como contas de luz, água, telefone, correios, reprografia e 
+similares, entendidas como despesas de contrapartida obrigatória da instituição de execução 
+do projeto; 
+ 
+6.2.3 pagamento, a qualquer título, a servidor da administração pública, ou empregado de 
+empresa pública ou de sociedade de economia mista, por serviços de consultoria ou 
+assistência técnica, conforme determina a LDO da União e Decreto Federal nº 5.151 de 
+22/04/2004; 
+ 
+6.2.4 Pagamento de taxas de administração ou gestão, a qualquer título, de acordo com a 
+Instrução Normativa 01/2015 de 23/02/2015; 
+ 
+6.2.5 pagamento de consultoria e pró-labore; 
+ 
+6.2.6 aquisição de veículos e acessórios; 
+ 
+6.2.7 terceirização das atividades básicas de pesquisa, como, por exemplo, delineamento 
+experimental, análise de dados, revisão e tradução de textos, elaboração de relatórios, ou o 
+pagamento de membros da equipe por tais atividades; 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+ 
+Em caso de dúvidas, consultar o manual de normas e procedimentos disponível no endereço 
+http://www.fapemat.mt.gov.br.  
+6.3. Itens a serem Importados 
+6.3.1. Nos itens a serem importados deverão ser previstos os custos de importação em 
+serviços de terceiros, pessoa jurídica (até 18% do valor do item a ser importado). 
+6.3.2. Deverá ser anexada ao projeto de pesquisa cópia da carta enviada ao importador, 
+solicitando a possível importação do item necessário, bem como carta resposta do 
+importador, confirmando a possibilidade da importação. 
+ 
+ 
+  7. DATAS E PERÍODOS DE VIGÊNCIA DO EDITAL 
+ 
+Elemento de chamada 
+Período de Vigência 
+Lançamento do Edital  
+10/02/2020 
+ Data limite para submissão de Propostas on 
+line   
+20/03/2020 
+Divulgação do resultado preliminar 
+14/04/2020 
+Divulgação do resultado final 
+24/04/2020 
+Início 
+da 
+contratação 
+das 
+propostas 
+aprovadas 
+01/05/2020 
+Data limite da contratação das propostas 
+aprovadas 
+31/07/2020 
+ 
+8. ENCAMINHAMENTO DAS PROPOSTAS 
+8.1 As propostas devem ser encaminhadas via internet, utilizando-se do formulário de propostas 
+online na plataforma SIGFAPEMAT na página eletrônica (http://sigfap.fapemat.mt.gov.br),  até a 
+data limite de submissão , ver item 7 – cronograma. 
+ 
+     
+8.2 Todos os membros da equipe executora do projeto precisam fazer seu cadastro no sistema e 
+aceitar o convite de participação, para que a proposta possa ser enviada pelo coordenador. 
+ 
+8.3 O coordenador da proposta deverá anexar os seguintes documentos para submissão: RG, CPF 
+e comprovante de residência em nome do coordenador dos últimos 90 dias;  
+ 
+8.4 As propostas devem ser transmitidas a FAPEMAT até as 23:59 horas (vinte e três horas e 
+cinquenta e nove minutos), horário de Mato Grosso, da data limite de submissão item 7 – cronograma; 
+8.5 O atendimento pelo endereço eletrônico ti@fapemat.mt.gov.br encerra-se, impreterivelmente, às 
+17h00 e esse fato não será aceito como justificativa para envio posterior à data limite. 
+ 
+8.6 O proponente receberá, ao enviar a proposta, um recibo eletrônico com número de protocolo da 
+sua proposta, o qual servirá como comprovante da transmissão. 
+ 
+8.7 As propostas devem ser apresentadas em conformidade com todos os itens previstos nesta 
+chamada. 
+ 
+8.8 Não serão aceitas propostas submetidas por qualquer outro meio, tampouco após o prazo final 
+de recebimento estabelecido no item 07 - cronograma; 
+ 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+8.9 Constatado o envio de propostas idênticas, por proponentes diferentes, ambas as propostas 
+serão sumariamente desclassificadas; 
+ 
+8.10 Para dúvidas ou dificuldades no preenchimento dos itens do formulário de propostas online 
+durante o período de submissão das propostas, o atendimento será realizado, de segunda a sexta-
+feira, no horário de funcionamento da FAPEMAT pelo endereço eletrônico ti@fapemat.mt.gov.br; 
+ 
+8.11 Esclarecimentos e informações adicionais acerca do conteúdo desta chamada podem ser 
+obtidos encaminhando mensagem para o endereço: cpesquisa@fapemat.mt.gov.br.  
+ 
+9 – ANÁLISE E JULGAMENTO 
+As propostas serão analisadas, obedecendo às seguintes etapas: 
+ 
+Etapa I – Análise pela área técnica da FAPEMAT – enquadramento ou desclassificação. 
+A etapa consiste na pré-análise das propostas apresentadas. Será analisada a 
+documentação apresentada, proponentes e propostas elegíveis, valor solicitado e a verificação do 
+enquadramento a todos os requisitos estabelecidos por este edital, a ser efetuada pela FAPEMAT. As 
+propostas que não atenderem às exigências deste edital serão desconsideradas para análise e 
+julgamento de mérito e relevância. 
+Observação: 
+a 
+falta 
+de 
+atendimento 
+de 
+qualquer 
+item 
+do 
+edital 
+desclassificará, 
+automaticamente, a proposta. 
+ 
+Etapa II - análise por consultor “Ad Hoc” 
+A etapa consistirá na análise aprofundada da demanda qualificada, principalmente, em 
+relação a adequação ao objeto de pesquisa previsto, excelência da proposta,  equipe executora e 
+adequação orçamentária. Esta análise será realizada por consultor “Ad Hoc” que se manifestará, 
+individualmente, sobre os seguintes tópicos: 
+ 
+CRITÉRIOS DE ANÁLISE E JULGAMENTO DE MÉRITO E 
+RELEVÂNCIA 
+PESO 
+NOTA* 
+(1 a 10) 
+MÉDIA 
+A 
+ Adequação da proposta ao objeto de pesquisa previsto 
+04 
+ 
+ 
+B 
+Excelência da proposta do ponto de vista da qualidade e 
+originalidade do projeto, da efetividade da metodologia 
+proposta e cronograma de execução. 
+03 
+ 
+ 
+C 
+Qualificação e experiência do Coordenador  e da equipe 
+executora 
+02 
+ 
+ 
+D 
+Adequação orçamentária 
+01 
+ 
+ 
+NC: Nota Consultor(somatório das médias dividido por 10) 
+ 
+Nota* 
+MUITO BOM (MB) = plenamente consistente –  10 pontos  
+BOM (B) = adequadamente consistente –  8 a 9 pontos  
+REGULAR (R) = razoavelmente consistente – 5  a 7 pontos  
+FRACO (F) = pouco consistente –  3 a 4 pontos  
+DEFICIENTE (D) = inconsistente –   1 a 2 pontos 
+ 
+ 
+O consultor “Ad hoc” apreciará o orçamento solicitado, tendo em vista os objetivos, a 
+metodologia e os resultados previstos, podendo indicar sua aprovação integral, não aprovação ou 
+aprovação com cortes. Neste caso deverá ser indicado o valor a ser financiado.  
+ 
+ 
+ETAPA III – Analise pelo  Comitê de Avaliação  
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+ 
+Esta etapa os projetos serão apreciados conjuntamente, por representantes da FAPEMAT e da 
+SESP, que se manifestarão sobre os seguintes tópicos: 
+CRITÉRIOS DE ANÁLISE E JULGAMENTO DE MÉRITO E 
+RELEVÂNCIA 
+PESO 
+NOTA* 
+(1 a 10) 
+MÉDIA 
+A 
+ Adequação da proposta ao objeto de pesquisa previsto 
+04 
+ 
+ 
+B 
+Excelência da proposta do ponto de vista da qualidade e 
+originalidade do projeto, da efetividade da metodologia 
+proposta e cronograma de execução. 
+03 
+ 
+ 
+C 
+Qualificação e experiência do Coordenador  e da equipe 
+executora 
+02 
+ 
+ 
+D 
+Adequação orçamentária 
+01 
+ 
+ 
+ NCA: Nota Comitê de Avaliação (somatório das medias dividido por 10) 
+ 
+ 
+O Comitê de avaliação apreciará o orçamento solicitado, tendo em vista os objetivos, a 
+metodologia e os resultados previstos, podendo indicar sua aprovação integral, não aprovação ou 
+aprovação com cortes. Neste caso deverá ser indicado o valor a ser financiado. 
+Este comitê também será responsável pela verificação dos itens solicitados na proposta, caso 
+seja detectado algum item não financiável, conforme estabelecido no item 6 – itens financiáveis e não 
+financiáveis, o mesmo será retirado do orçamento a ser aprovado. 
+Não é permitido integrar o comitê de avaliação o pesquisador que tenha apresentado 
+propostas a esta Chamada ou que participe da equipe executora de projeto. 
+ 
+9.1. Ranqueamento das propostas pelo Comitê Gestor do Edital  
+ 
+Esta etapa, realizada por um comitê Gestor (a ser composto por técnicos da FAPEMAT e 
+representantes da SESP), e consistirá no ranqueamento das propostas observando-se Nota Final 
+(NF) de cada proposta e o valor disponível no edital. A Nota Final (NF) será calculada observando a 
+Nota do Consultor (NC) e a Nota do Comitê de Avaliação (NCA) da seguinte maneira: 
+ 
+ 
+2
+NCA
+NC
+NF
+
+
+ 
+ 
+Os cortes no orçamento de cada projeto não poderão ultrapassar 30% (trinta por cento) do 
+valor solicitado. Caso o consultor “Ad Hoc” ou o comitê de avaliação recomende um corte superior a 
+este percentual, o projeto será automaticamente excluído da concorrência. Propostas com Nota Final 
+abaixo de 7,0 serão excluídas da concorrência.  Caso haja divergência entre o consultor “Ad Hoc” e o 
+comitê de avaliação em relação ao valor recomendado para aprovação, o valor a ser aprovado será o 
+recomendado pelo ao comitê de avaliação.. 
+Após a análise cada proposta e da adequação de seu orçamento, o Comitê Gestor poderá 
+recomendar: 
+a) a aprovação, com ou sem cortes orçamentários; ou 
+b) a não aprovação da proposta. 
+ 
+O ranqueamento do comitê será registrado em planilha eletrônica contendo a relação das 
+propostas avaliadas, recomendadas e não recomendadas, com as respectivas pontuações finais, em 
+ordem decrescente, assim como outras informações e recomendações julgadas pertinentes. Para 
+propostas recomendadas será explicitado o valor adequado para financiamento. Os formulários 
+deverão ser assinados pela maioria de membros do comitê. Em caso de empate da média final das 
+propostas, serão utilizadas como critério de desempate as notas dos critérios de análise e de 
+julgamento, na seguinte ordem: Item A, Item B, Item C, Item D. 
+ 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+Não é permitido integrar o Comitê Gestor pesquisador que tenha apresentado propostas a este 
+edital, ou que participe da equipe do projeto. É vedado a qualquer membro do comitê julgar propostas 
+de projetos em que: 
+ 
+a) Esteja participando da equipe do projeto seu cônjuge, companheiro ou parente, 
+consanguíneo ou afim, em linha reta ou na colateral, até o terceiro grau; ou 
+b) Esteja litigando judicial ou administrativamente com qualquer membro da equipe do projeto 
+ou seus respectivos cônjuges ou companheiros. 
+ 
+ 
+10. RESULTADOS DOS JULGAMENTOS 
+Depois de vencidas todas as etapas de análise a lista de projetos aprovados será divulgada 
+no site da FAPEMAT no endereço eletrônico www.fapemat.mt.gov.br. 
+Após a divulgação dos resultados será encaminhado ao coordenador via e-mail: 
+ Comunicação da Diretoria Técnica Científica formalizando contemplação; 
+ Declaração para abertura de conta corrente; 
+ Solicitação de informações da Instituição e Gestor máximo da mesma, se não constar no 
+banco de dados da FAPEMAT.  
+ 
+A contratação ocorrerá após a assinatura do termo de concessão e aceitação de auxilio e de 
+acordo com disponibilidade orçamentária financeira da FAPEMAT. 
+ 
+ 
+11. RECURSOS ADMINISTRATIVOS 
+ 
+11.1. Caso o proponente tenha justificativa para contestar o resultado do julgamento das propostas, 
+poderá apresentar recurso, em formulário específico (ANEXO I), no prazo de 05 (cinco) dias úteis, a 
+contar da data da publicação do resultado no site da FAPEMAT.  
+ 
+11.2. O recurso deverá ser dirigido à Diretoria Técnico Científica da FAPEMAT via e-mail no 
+endereço: dtc@fapemat.mt.gov.br, que, após exame, encaminhará para deliberação final da 
+Presidência da FAPEMAT. 
+ 
+11.3 Na contagem do prazo excluir-se-á o dia do início e incluir-se-á o do vencimento, e considerar-
+se-ão os dias consecutivos. O prazo só se inicia e vence em dias de expediente na FAPEMAT. 
+ 
+12.   DOCUMENTOS A SEREM ENVIADOS PARA CONTRATAÇÃO DA PROPOSTA  
+12.1. A proposta aprovada deve ser assinada pelo coordenador e dirigente máximo da instituição 
+executora e ser enviada à FAPEMAT em conformidade com o item 7 (até 31/07/2020). 
+12.2 Certidões do coordenador da proposta (envio digital): 
+a)  Certidão referente às pendências tributárias e não tributárias controladas pela SEFAZ/MT, 
+para fins de recebimento da administração pública.  
+b)  Certidão Negativa de Dívida Ativa da Procuradoria Geral do Estado (PGE). 
+c) Certidão Negativa de Débitos do Tribunal de Contas do Estado (TCE-MT). 
+d) Certidão Negativa de Débitos Relativos aos Tributos Federais e à Dívida Ativa da União, 
+junto à Receita Federal do Brasil.  
+e)  certidão negativa de débito trabalhista.   
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+13. PERMISSÕES E AUTORIZAÇÕES ESPECIAIS  
+ 
+13.1. É de exclusiva responsabilidade de cada proponente adotar todas as providências que 
+envolvam permissões e autorizações especiais de caráter ético ou legal, necessárias para a 
+execução do projeto. 
+ 
+13.2. Os projetos que receberem parecer negativo das comissões de ética, ou não apresentarem as 
+devidas permissões e autorizações exigidas pelos marcos regulatórios necessários para a execução 
+do projeto não serão contratados pela FAPEMAT. 
+ 
+13.3. Para os casos de projetos de pesquisa, relacionados à biodiversidade, deverá ser observada a 
+legislação em vigor (MP nº 2.186/01, Decreto nº 3.945/01, Decreto nº 98.830/90, Portaria MCT nº 
+55/90 e Decreto nº 4.946/03); no que diz respeito à obtenção de autorizações de acesso, coleta e 
+remessa de amostras, observar a legislação dos órgãos competentes e para os estrangeiros 
+participantes do projeto observar a concessão de vistos de entrada no País. 
+13.4. Tratando-se de projetos de pesquisa que envolva experimentação com seres humanos, nos 
+termos da Portaria 196/96, do Conselho Nacional de Saúde, também deverá ser encaminhado à 
+FAPEMAT o parecer de uma das comissões de ética existentes no estado, anexo aos demais 
+documentos exigidos. No caso de projetos que envolvam organismos geneticamente modificados, 
+coleta de dados, materiais, espécimes biológicos e minerais, peças integrantes da cultura nativa e 
+cultura popular, presente e passada, relacionados ou não a questões de biossegurança, fica 
+estabelecido que seja responsabilidade do coordenador adotar todos os procedimentos previstos em 
+lei. 
+ 
+14.  PRESTAÇÃO DE CONTAS E DISPOSIÇÕES COMPLEMENTARES 
+ 
+Dentro do prazo fixado no termo de concessão e aceitação do auxílio, o coordenador do 
+projeto deverá apresentar à FAPEMAT seus relatórios de atividades de pesquisa parcial e final e sua 
+prestação de contas, de acordo com o  normas  de Prestação de Contas da FAPEMAT, estando 
+sujeito às penalidades previstas no Termo supra mencionado, se deixar de cumprir qualquer uma das 
+exigências legais. 
+ 
+15. DO CANCELAMENTO DA CONCESSÃO  
+A existência de alguma inadimplência do coordenador do projeto com a FAPEMAT, não 
+regularizada dentro do prazo máximo de 30 dias após a divulgação dos resultados, constituirá fator 
+impeditivo para a concessão do apoio financeiro. Da mesma forma, a concessão será cancelada se 
+for verificado no processo de monitoramento e durante a execução do projeto que sua implementação 
+é insatisfatória, sem prejuízo de outras providências cabíveis a critério da Diretoria Científica da 
+FAPEMAT, ouvido o Conselho Diretor. 
+ 
+16. DA IMPUGNAÇÃO DO EDITAL  
+Decairá do direito de impugnar os termos deste Edital aquele que, tendo-o aceito sem 
+objeção, venha apontar, posteriormente ao julgamento, eventuais falhas ou imperfeições, hipótese 
+em que tal comunicação não terá efeito de recurso. 
+ 
+17. DA REVOGAÇÃO OU ANULAÇÃO DO EDITAL 
+A qualquer tempo, o presente Edital poderá ser revogado ou anulado, no todo ou em parte, 
+seja por decisão unilateral da FAPEMAT, seja por motivo de interesse público ou exigência legal, sem 
+que isso implique no direito à indenização ou reclamação de qualquer tipo. 
+ 
+18.  PROPRIEDADE INTELECTUAL e PUBLICAÇÃO DOS RESULTADOS 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+           A titularidade da propriedade intelectual dos produtos desenvolvidos pertencerá à FAPEMAT e 
+a Secretária Estadual de Segurança Pública – Polícia Judiciária Civil de Mato Grosso. 
+        As publicações e quaisquer outros meios de divulgação dos resultados obtidos pelo projeto 
+deverá ter a anuência da FAPEMAT e da SESP- PJC , e obrigatoriamente citar o apoio da FAPEMAT.  
+ 
+19. PRORROGAÇÃO DO PRAZO DE EXECUÇÃO DO PROJETO E MUDANÇA DE RUBRICA 
+A prorrogação de prazo só será permitida, mediante justificativas plausíveis a serem feitas 
+pelo Coordenador do projeto, considerando: 
+a) Prazo mínimo para solicitação de prorrogação 60 (sessenta) dias antes do término da 
+execução do projeto; 
+b) Entrega de um relatório que demonstre o andamento do projeto. 
+c) Prazo máximo para prorrogação será de 04 (quatro) meses. 
+ 
+20 – DISPOSIÇÕES GERAIS  
+20.1. O presente edital regula-se pelos preceitos do direito público e, em especial, pelas disposições 
+da Lei nº 8.666, de 21/06/93, e, no que couber, pelas normas internas da FAPEMAT. 
+20.2. O Conselho Diretor da FAPEMAT reserva-se o direito de resolver os casos omissos e as 
+situações não previstas no presente Edital. 
+ 
+21. INFORMAÇÕES ADICIONAIS E CONTATOS 
+ 
+a) 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+Coordenadoria de Pesquisa - Diretoria Técnico-Científica – FAPEMAT 
+Rua três, s/nº (Prédio IOMAT) 3º piso, Centro Político Administrativo,  
+Cuiabá, MT,  CEP-78050-970                                   
+E-mail: cpesquisa@fapemat.mt.gov.br 
+ 
+b) Polícia Judiciária Civil - PJC 
+E-mail: pesquisapjcmt@gmail.com 
+ 
+ 
+Cuiabá, 10/02/2020 
+ 
+                                                                        Dr. Adriano Silva 
+                                                                     Presidente FAPEMAT 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+ 
+ 
+ANEXO I 
+ 
+FORMULÁRIO DE SOLICITAÇÃO DE RECURSO 
+ 
+ 
+1. Titulo do projeto: 
+2. Justificativa do recurso : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+___/___/2020 
+ 
+ 
+_______________________ 
+Assinatura do Proponente 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+Edital  Programa de Pesquisa Aplicada em Políticas Pública   
+FAPEMAT Nº. 003/2020 
+Segurança Pública – STI 
+ 
+O GOVERNO DO ESTADO DE MATO GROSSO, por intermédio da FUNDAÇÃO DE AMPARO À 
+PESQUISA DO ESTADO DE MATO GROSSO – FAPEMAT em parceria com a Secretária Estadual 
+de Segurança Pública – Superintendência de Tecnologia da Informação (STI) do Estado de Mato 
+Grosso, e considerando a necessidade de se produzir conhecimentos aprofundados em áreas 
+estratégicas para o desenvolvimento do estado; considerando o Programa de Pesquisa Aplicada em 
+Políticas Pública;  considerando a necessidade de implantação da Agenda Estratégica de Ciência, 
+Tecnologia e Inovação do Estado de Mato Grosso. 
+ 
+RESOLVE: 
+Tornar público o lançamento do presente Edital do Programa de Pesquisa Aplicada em 
+Políticas Pública e convida os interessados a apresentarem propostas na área de Segurança 
+Pública, nos termos aqui estabelecidos. 
+ 
+1. OBJETIVO  
+ 
+Acolher e apoiar projeto de pesquisa que tenha por objetivo a “Desenvolvimento de 
+solução de automação personalizada para integração contínua de softwares da secretaria de 
+segurança pública ”.  
+ 
+ 
+2. PRODUTO MÍNIMO ESPERADO 
+ 
+Ao final do projeto o produto mínimo esperado dever ter as seguintes características: 
+a) Ser um ambiente operacional validado com um protótipo funcional; 
+b) Utilização de conceitos de DevOps; 
+c) 
+ Promover ambiente/modelo automatizado de testes, build e deploy; 
+d) Sincronizar com nosso sistema de controle de versões (gitlab); 
+e) Ser prático e padronizado; 
+f) 
+Baixo custo de implantação e manutenção; 
+g) Permita replicação em outras aplicações; 
+h) Permitir a integração com os demais sistemas da SESP; 
+i) 
+Permitir a extração de  dados, análise e estatística; 
+j) 
+Possuir características funcionais adequadas às especificidades da atuação a 
+SESP 
+ 
+3- PROPONENTES E PROPOSTAS ELEGÍVEIS 
+ 
+3.1 Grupos de pesquisa devidamente cadastrados no Diretório de Grupos de Pesquisa da 
+Plataforma Lattes do CNPq, há pelo menos 01 ano, a partir da data de publicação do edital, 
+certificado por uma instituição de ciência, tecnologia e inovação (ICT) pública ou privada sem fins 
+lucrativos sediada no Estado de Mato Grosso, poderão propor, coordenar e executar os projetos 
+de pesquisa; 
+ 
+3.2 A proposta será encaminhada pelo líder ou membro do grupo de pesquisa, que deverá ter 
+vínculo empregatício (estatutário ou celetista) com a instituição de ciência, tecnologia e inovação 
+(ICT) pública ou privada sem fins lucrativos sediada em Mato Grosso (instituição executora); 
+ 
+ 
+ 
+3.3  O proponente será obrigatoriamente o coordenador da proposta e deverá: 
+a) possuir título de doutor;  
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+b) ter currículo atualizado na Plataforma Lattes e no SIGFAPEMAT;  
+d) ser responsável pela gestão financeira e técnica da pesquisa;  
+e) se for pesquisador aposentado deverá comprovar que mantém atividade acadêmico-
+científicas e apresentar declaração da instituição executora concordando com a execução 
+do projeto. 
+3.4 Cada pesquisador poderá participar como proponente de apenas uma proposta neste edital.  
+  
+3.5 No mínimo 02 (dois) dos membros da equipe do projeto devem ser da Secretaria de 
+Segurança Pública (STI) do Mato Grosso, que tenham no mínimo graduação completa. 
+ 
+3.6 Pesquisadores com 01 (um) ou mais projetos (pesquisa, popularização ou inovação) em 
+andamento com esta fundação não poderão submeter propostas. A FAPEMAT considera o 
+projeto encerrado, apenas quanto o relatório técnico final e a prestação de contas final 
+encontram-se aprovados por esta fundação.  
+ 
+3.7 Pesquisadores inadimplente com a FAPEMAT não poderão submeter propostas. 
+ 
+* Contato da Superintendência de Tecnologia da Informação (STI) Secretaria de Segurança 
+Pública de Mato Grosso para este edital: 
+pesquisastimt@gmail.com 
+ 
+ 
+4. PRAZO DE EXECUÇÃO DOS PROJETOS 
+As propostas a serem apoiadas pelo presente edital deverão ter seu prazo máximo de execução 
+estabelecido em 12 (doze) meses, contados a partir da data de assinatura do termo de concessão de 
+auxílio. Em casos excepcionais e com a devida justificativa, o projeto poderá ser prorrogado por no 
+máximo 04 (quatro) meses. 
+ 
+5. RECURSOS FINANCEIROS 
+5.1As propostas aprovadas serão financiadas com recursos de capital e custeio, no valor global 
+estimado de até R$ 200.000,00 (duzentos mil reais) oriundos da FAPEMAT, Programa de 
+Desenvolvimento Cientifico e Tecnológico, Ação 2205, Fonte 192, a serem pagos em parcela única. 
+5.2 A solicitação de recursos à FAPEMAT acima do máximo para cada faixa acarretará na eliminação 
+da proposta. 
+ 
+6. ITENS FINANCIÁVEIS E NÃO FINANCIÁVEIS 
+6.1. Itens financiáveis  
+CAPITAL: 
+6.1.1. Material Permanente 
+ 
+Aquisição de livros (material bibliográfico); 
+ 
+Máquinas e equipamentos. 
+Obs.: As despesas de capital não podem exceder 25% do valor solicitado 
+ 
+CUSTEIO: 
+6.1.2. Material de Consumo  
+6.1.3. Diárias, conforme valores da FAPEMAT:  
+ 
+Dentro do estado: R$ 180,00 (cento e oitenta reais);  
+ 
+Fora do estado:     R$ 240,00 (duzentos e quarenta reais). 
+6.1.4. Passagens aéreas;  
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+6.1.5. Serviços de terceiros – pessoa física;  
+6.1.6. Serviços de terceiros – pessoa jurídica. 
+ 
+Obs: Diárias e passagens não podem ser utilizadas para o custeio de despesas referentes a 
+apresentação e ou participação em eventos (congressos, seminários, workshop, etc), 
+excetuando-se apresentação dos resultados para a  FAPEMAT e a SESP. 
+ 
+ 
+ BOLSAS 
+6.1.7 Poderão ser solicitadas bolsas na seguinte modalidade: Bolsa de Transferência de 
+Tecnologia - BTT. 
+6.1.8 A implementação das bolsas aprovadas deverá ser realizada dentro dos prazos e 
+critérios estipulados neste edital e em observância às regras e normas da FAPEMAT para 
+cada uma das modalidades, indicadas no endereço www.fapemat.mt.gov.br. 
+6.1.9 O valor solicitado para bolsas não poderá ultrapassar o limite de 80% do valor da 
+proposta, sob pena de desclassificação. 
+ 
+MODALIDADE 
+VALOR MENSAL (R$) 
+BTT 5 
+3.500,00 
+BTT 6 
+2.000,00 
+BTT 7 
+1.000,00 
+ 
+  
+6.2. Itens não financiáveis 
+ 
+6.2.1 obras civis (construção ou reforma); 
+ 
+6.2.2 pagamento de salários ou complementação salarial de pessoal técnico e administrativo 
+ou quaisquer outras vantagens para pessoal de instituições públicas (federal, estadual e 
+municipal); e despesas de rotina como contas de luz, água, telefone, correios, reprografia e 
+similares, entendidas como despesas de contrapartida obrigatória da instituição de execução 
+do projeto; 
+ 
+6.2.3 pagamento, a qualquer título, a servidor da administração pública, ou empregado de 
+empresa pública ou de sociedade de economia mista, por serviços de consultoria ou 
+assistência técnica, conforme determina a LDO da União e Decreto Federal nº 5.151 de 
+22/04/2004; 
+ 
+6.2.4 Pagamento de taxas de administração ou gestão, a qualquer título, de acordo com a 
+Instrução Normativa 01/2015 de 23/02/2015; 
+ 
+6.2.5 pagamento de consultoria e pró-labore; 
+ 
+6.2.6 aquisição de veículos e acessórios; 
+ 
+6.2.7 terceirização das atividades básicas de pesquisa, como, por exemplo, delineamento 
+experimental, análise de dados, revisão e tradução de textos, elaboração de relatórios, ou o 
+pagamento de membros da equipe por tais atividades; 
+ 
+Em caso de dúvidas, consultar o manual de normas e procedimentos disponível no endereço 
+http://www.fapemat.mt.gov.br.  
+ 
+ 
+ 
+6.3. Itens a serem importados 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+6.3.1. Nos itens a serem importados deverão ser previstos os custos de importação em 
+serviços de terceiros, pessoa jurídica (até 18% do valor do item a ser importado). 
+6.3.2. Deverá ser anexar ao projeto de pesquisa cópia da carta enviada ao importador, 
+solicitando a possível importação do item necessário, bem como carta resposta do 
+importador, confirmando a possibilidade da importação. 
+ 
+ 
+  7. DATAS E PERÍODOS DE VIGÊNCIA DO EDITAL 
+ 
+Elemento de chamada 
+Período de Vigência 
+Lançamento do Edital  
+10/02/2020 
+ Data limite para submissão de Propostas on line   
+20/03/2020 
+Divulgação do resultado preliminar 
+14/04/2020 
+Divulgação do resultado final 
+24/04/2020 
+Início da contratação das propostas aprovadas 
+01/05/2020 
+Data limite da contratação das propostas 
+aprovadas 
+31/07/2020 
+ 
+8. ENCAMINHAMENTO DAS PROPOSTAS 
+8.1 As propostas devem ser encaminhadas via internet, utilizando-se do formulário de propostas 
+online na plataforma SIGFAPEMAT na página eletrônica (http://sigfap.fapemat.mt.gov.br),  até a 
+data limite de submissão , ver item 7 – cronograma. 
+     
+8.2 Todos os membros da equipe executora do projeto precisam fazer seu cadastro no sistema e 
+aceitar o convite de participação, para que a proposta possa ser enviada pelo coordenador. 
+ 
+8.3 O coordenador da proposta deverá anexar os seguintes documentos para submissão: RG, CPF 
+e comprovante de residência em nome do coordenador dos últimos 90 dias;  
+ 
+8.4 As propostas devem ser transmitidas a FAPEMAT até as 23:59 horas (vinte e três horas e 
+cinquenta e nove minutos), horário de Mato Grosso, da data limite de submissão item 7 – cronograma; 
+8.5 O atendimento pelo endereço eletrônico ti@fapemat.mt.gov.br encerra-se, impreterivelmente, às 
+17h00 e esse fato não será aceito como justificativa para envio posterior à data limite. 
+ 
+8.6 O proponente receberá, ao enviar a proposta, um recibo eletrônico com número de protocolo da 
+sua proposta, o qual servirá como comprovante da transmissão. 
+ 
+8.7 As propostas devem ser apresentadas em conformidade com todos os itens previstos nesta 
+chamada. 
+ 
+8.8 Não serão aceitas propostas submetidas por qualquer outro meio, tampouco após o prazo final 
+de recebimento estabelecido no item 07 - cronograma; 
+ 
+8.9 Constatado o envio de propostas idênticas, por proponentes diferentes, ambas as propostas 
+serão sumariamente desclassificadas; 
+ 
+8.10 Para dúvidas ou dificuldades no preenchimento dos itens do formulário de propostas online 
+durante o período de submissão das propostas, o atendimento será realizado, de segunda a sexta-
+feira, no horário de funcionamento da FAPEMAT pelo endereço eletrônico ti@fapemat.mt.gov.br; 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+ 
+8.11 Esclarecimentos e informações adicionais acerca do conteúdo desta chamada podem ser 
+obtidos encaminhando mensagem para o endereço: cpesquisa@fapemat.mt.gov.br.  
+ 
+9 – ANÁLISE E JULGAMENTO 
+As propostas serão analisadas, obedecendo às seguintes etapas: 
+ 
+Etapa I – Análise pela área técnica da FAPEMAT – enquadramento ou desclassificação. 
+A etapa consiste na pré-análise das propostas apresentadas. Será analisada a 
+documentação apresentada, proponentes e propostas elegíveis, valor solicitado e a verificação do 
+enquadramento a todos os requisitos estabelecidos por este edital, a ser efetuada pela FAPEMAT. As 
+propostas que não atenderem às exigências deste edital serão desconsideradas para análise e 
+julgamento de mérito e relevância. 
+Observação: 
+a 
+falta 
+de 
+atendimento 
+de 
+qualquer 
+item 
+do 
+edital 
+desclassificará, 
+automaticamente, a proposta. 
+ 
+Etapa II - análise por consultor “Ad Hoc” 
+A etapa consistirá na análise aprofundada da demanda qualificada, principalmente, em 
+relação a adequação ao objeto de pesquisa previsto, excelência da proposta, equipe executora e 
+adequação orçamentária. Esta análise será realizada por consultor “Ad Hoc” que se manifestará, 
+individualmente, sobre os seguintes tópicos: 
+ 
+CRITÉRIOS DE ANÁLISE E JULGAMENTO DE MÉRITO E 
+RELEVÂNCIA 
+PESO 
+NOTA* 
+(1 a 10) 
+MÉDIA 
+A 
+ Adequação da proposta ao objeto de pesquisa previsto 
+04 
+ 
+ 
+B 
+Excelência da proposta do ponto de vista da qualidade e 
+originalidade do projeto, da efetividade da metodologia 
+proposta e cronograma de execução. 
+03 
+ 
+ 
+C 
+Qualificação e experiência do Coordenador  e da equipe 
+executora 
+02 
+ 
+ 
+D 
+Adequação orçamentária 
+01 
+ 
+ 
+NC: Nota Consultor(somatório das médias dividido por 10) 
+ 
+Nota* 
+MUITO BOM (MB) = plenamente consistente –  10 pontos  
+BOM (B) = adequadamente consistente –  8 a 9 pontos  
+REGULAR (R) = razoavelmente consistente – 5  a 7 pontos  
+FRACO (F) = pouco consistente –  3 a 4 pontos  
+DEFICIENTE (D) = inconsistente –   1 a 2 pontos 
+ 
+ 
+O consultor “Ad Hoc” apreciará o orçamento solicitado, tendo em vista os objetivos, a 
+metodologia e os resultados previstos, podendo indicar sua aprovação integral, não aprovação ou 
+aprovação com cortes. Neste caso deverá ser indicado o valor a ser financiado.  
+ 
+ 
+ 
+ETAPA III – Analise pelo Comitê de Avaliação  
+ 
+Esta etapa os projetos serão apreciados conjuntamente, por representantes da FAPEMAT e da 
+SESP, que se manifestarão sobre os seguintes tópicos: 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+CRITÉRIOS DE ANÁLISE E JULGAMENTO DE MÉRITO E 
+RELEVÂNCIA 
+PESO 
+NOTA* 
+(1 a 10) 
+MÉDIA 
+A 
+ Adequação da proposta ao objeto de pesquisa previsto 
+04 
+ 
+ 
+B 
+Excelência da proposta do ponto de vista da qualidade e 
+originalidade do projeto, da efetividade da metodologia 
+proposta e cronograma de execução. 
+03 
+ 
+ 
+C 
+Qualificação e experiência do Coordenador  e da equipe 
+executora 
+02 
+ 
+ 
+D 
+Adequação orçamentária 
+01 
+ 
+ 
+ NCA: Nota Comitê de Avaliação (somatório das medias dividido por 10) 
+ 
+ 
+O Comitê de avaliação apreciará o orçamento solicitado, tendo em vista os objetivos, a 
+metodologia e os resultados previstos, podendo indicar sua aprovação integral, não aprovação ou 
+aprovação com cortes. Neste caso deverá ser indicado o valor a ser financiado. 
+Este comitê também será responsável pela verificação dos itens solicitados na proposta, caso 
+seja detectado algum item não financiável, conforme estabelecido no item 6 – itens financiáveis e não 
+financiáveis, o mesmo será retirado do orçamento a ser aprovado. 
+Não é permitido integrar o comitê de avaliação o pesquisador que tenha apresentado 
+propostas a esta Chamada ou que participe da equipe executora de projeto. 
+ 
+9.1. Ranqueamento das propostas pelo Comitê Gestor do Edital  
+ 
+Esta etapa, realizada por um comitê Gestor (a ser composto por técnicos da FAPEMAT e 
+representantes da SESP), e consistirá no ranqueamento das propostas observando-se Nota Final 
+(NF) de cada proposta e o valor disponível no edital. A Nota Final (NF) será calculada observando a 
+Nota do Consultor (NC) e a Nota do Comitê de Avaliação (NCA) da seguinte maneira: 
+ 
+ 
+2
+NCA
+NC
+NF
+
+
+ 
+ 
+Os cortes no orçamento de cada projeto não poderão ultrapassar 30% (trinta por cento) do 
+valor solicitado. Caso o consultor Ad Hoc ou o comitê de avaliação recomende um corte superior a 
+este percentual, o projeto será automaticamente excluído da concorrência. Propostas com Nota Final 
+abaixo de 7,0 serão excluídas da concorrência.  Caso haja divergência entre o consultor Ad Hoc e o 
+comitê de avaliação em relação ao valor recomendado para aprovação, o valor a ser aprovado será o 
+recomendado pelo comitê de avaliação. 
+Após a análise cada proposta e da adequação de seu orçamento, o comitê gestor poderá 
+recomendar: 
+a) a aprovação, com ou sem cortes orçamentários; ou 
+b) a não aprovação da proposta. 
+ 
+O ranqueamento do comitê será registrado em planilha eletrônica contendo a relação das 
+propostas avaliadas, recomendadas e não recomendadas, com as respectivas pontuações finais, em 
+ordem decrescente, assim como outras informações e recomendações julgadas pertinentes. Para 
+propostas recomendadas será explicitado o valor adequado para financiamento. Os formulários 
+deverão ser assinados pela maioria de membros do comitê. Em caso de empate da média final das 
+propostas, serão utilizadas como critério de desempate as notas dos critérios de análise e de 
+julgamento, na seguinte ordem: Item A, Item B, Item C, Item D. 
+ 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+Não é permitido integrar o Comitê Gestor pesquisador que tenha apresentado propostas a este 
+edital, ou que participe da equipe do projeto. É vedado a qualquer membro do comitê julgar propostas 
+de projetos em que: 
+ 
+a) Esteja participando da equipe do projeto seu cônjuge, companheiro ou parente, 
+consanguíneo ou afim, em linha reta ou na colateral, até o terceiro grau; ou 
+b) Esteja litigando judicial ou administrativamente com qualquer membro da equipe do projeto 
+ou seus respectivos cônjuges ou companheiros. 
+ 
+ 
+10. RESULTADOS DOS JULGAMENTOS 
+Depois de vencidas todas as etapas de análise a lista de projetos aprovados será divulgada 
+no site da FAPEMAT no endereço eletrônico www.fapemat.mt.gov.br. 
+Após a divulgação dos resultados será encaminhado ao coordenador via e-mail: 
+ Comunicação da Diretoria Técnica Científica formalizando contemplação; 
+ Declaração para abertura de conta corrente; 
+ Solicitação de informações da Instituição e Gestor máximo da mesma, se não constar no 
+banco de dados da FAPEMAT.  
+ 
+A contratação ocorrerá após a assinatura do termo de concessão e aceitação de auxilio e de 
+acordo com disponibilidade orçamentária financeira da FAPEMAT. 
+ 
+ 
+11. RECURSOS ADMINISTRATIVOS 
+ 
+11.1. Caso o proponente tenha justificativa para contestar o resultado do julgamento das propostas, 
+poderá apresentar recurso, em formulário específico (ANEXO II), no prazo de 05 (cinco) dias úteis, a 
+contar da data da publicação do resultado no site da FAPEMAT.  
+ 
+11.2. O recurso deverá ser dirigido à Diretoria Técnico Científica da FAPEMAT via email no endereço: 
+dtc@fapemat.mt.gov.br,  que, após exame, encaminhará para deliberação final da Presidência da 
+FAPEMAT. 
+ 
+11.3 Na contagem do prazo excluir-se-á o dia do início e incluir-se-á o do vencimento, e considerar-
+se-ão os dias consecutivos. O prazo só se inicia e vence em dias de expediente na FAPEMAT. 
+ 
+12.   DOCUMENTOS A SEREM ENVIADOS PARA CONTRATAÇÃO DA PROPOSTA  
+12.1. A proposta aprovada deve ser assinada pelo coordenador e dirigente máximo da instituição 
+executora e ser enviado à FAPEMAT em conformidade com o item 7 (até 31/07/2020). 
+12.2 Certidões do coordenador da proposta (envio digital): 
+a)  Certidão referente às pendências tributárias e não tributárias controladas pela SEFAZ/MT, 
+para fins de recebimento da administração pública.  
+b)  Certidão Negativa de Dívida Ativa da Procuradoria Geral do Estado (PGE). 
+ 
+c) Certidão Negativa de Débitos do Tribunal de Contas do Estado (TCE-MT). 
+d) Certidão Negativa de Débitos Relativos aos Tributos Federais e à Dívida Ativa da União, 
+junto à Receita Federal do Brasil.  
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+e)  certidão negativa de débito trabalhista.   
+13. PERMISSÕES E AUTORIZAÇÕES ESPECIAIS  
+ 
+13.1. É de exclusiva responsabilidade de cada proponente adotar todas as providências que 
+envolvam permissões e autorizações especiais de caráter ético ou legal, necessárias para a 
+execução do projeto. 
+ 
+13.2. Os projetos que receberem parecer negativo das comissões de ética, ou não apresentarem as 
+devidas permissões e autorizações exigidas pelos marcos regulatórios necessários para a execução 
+do projeto não serão contratados pela FAPEMAT. 
+ 
+13.3. Para os casos de projetos de pesquisa, relacionados à biodiversidade, deverá ser observada a 
+legislação em vigor (MP nº 2.186/01, Decreto nº 3.945/01, Decreto nº 98.830/90, Portaria MCT nº 
+55/90 e Decreto nº 4.946/03); no que diz respeito à obtenção de autorizações de acesso, coleta e 
+remessa de amostras, observar a legislação dos órgãos competentes e para os estrangeiros 
+participantes do projeto observar a concessão de vistos de entrada no País. 
+13.4. Tratando-se de projetos de pesquisa que envolva experimentação com seres humanos, nos 
+termos da Portaria 196/96, do Conselho Nacional de Saúde, também deverá ser encaminhado à 
+FAPEMAT o parecer de uma das comissões de ética existentes no estado, anexo aos demais 
+documentos exigidos. No caso de projetos que envolvam organismos geneticamente modificados, 
+coleta de dados, materiais, espécimes biológicos e minerais, peças integrantes da cultura nativa e 
+cultura popular, presente e passada, relacionados ou não a questões de biossegurança, fica 
+estabelecido que seja responsabilidade do coordenador adotar todos os procedimentos previstos em 
+lei. 
+ 
+14.  PRESTAÇÃO DE CONTAS E DISPOSIÇÕES COMPLEMENTARES 
+ 
+Dentro do prazo fixado no termo de concessão e aceitação do auxílio, o coordenador do 
+projeto deverá apresentar à FAPEMAT seus relatórios de atividades de pesquisa parcial e final e sua 
+prestação de contas, de acordo com o  normas  de Prestação de Contas da FAPEMAT, estando 
+sujeito às penalidades previstas no Termo supra mencionado, se deixar de cumprir qualquer uma das 
+exigências legais. 
+ 
+15. DO CANCELAMENTO DA CONCESSÃO  
+A existência de alguma inadimplência do coordenador do projeto com a FAPEMAT, não 
+regularizada dentro do prazo máximo de 30 dias após a divulgação dos resultados, constituirá fator 
+impeditivo para a concessão do apoio financeiro. Da mesma forma, a concessão será cancelada se 
+for verificado no processo de monitoramento e durante a execução do projeto que sua implementação 
+é insatisfatória, sem prejuízo de outras providências cabíveis a critério da Diretoria Científica da 
+FAPEMAT, ouvido o Conselho Diretor. 
+ 
+16. DA IMPUGNAÇÃO DO EDITAL  
+Decairá do direito de impugnar os termos deste Edital aquele que, tendo-o aceito sem 
+objeção, venha apontar, posteriormente ao julgamento, eventuais falhas ou imperfeições, hipótese 
+em que tal comunicação não terá efeito de recurso. 
+ 
+ 
+17. DA REVOGAÇÃO OU ANULAÇÃO DO EDITAL 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+A qualquer tempo, o presente Edital poderá ser revogado ou anulado, no todo ou em parte, 
+seja por decisão unilateral da FAPEMAT, seja por motivo de interesse público ou exigência legal, sem 
+que isso implique no direito à indenização ou reclamação de qualquer tipo. 
+ 
+18.  PROPRIEDADE INTELECTUAL e PUBLICAÇÃO DOS RESULTADOS 
+           A titularidade da propriedade intelectual dos produtos desenvolvidos pertencerá à FAPEMAT e 
+a Secretária Estadual de Segurança Pública – Superintendência de Tecnologia da Informação (STI). 
+        As publicações e quaisquer outros meios de divulgação dos resultados obtidos pelo projeto 
+deverá ter a anuência da FAPEMAT e da SESP- STI, e obrigatoriamente citar o apoio da FAPEMAT.  
+ 
+19. PRORROGAÇÃO DO PRAZO DE EXECUÇÃO DO PROJETO E MUDANÇA DE RUBRICA 
+A prorrogação de prazo só será permitida, mediante justificativas plausíveis a serem feitas 
+pelo Coordenador do projeto, considerando: 
+a) Prazo mínimo para solicitação de prorrogação 60 (sessenta) dias antes do término da 
+execução do projeto; 
+b) Entrega de um relatório que demonstre o andamento do projeto. 
+c) Prazo máximo para a prorrogação será de 04  (quatro) meses. 
+ 
+20 – DISPOSIÇÕES GERAIS  
+20.1. O presente edital regula-se pelos preceitos do direito público e, em especial, pelas disposições 
+da Lei nº 8.666, de 21/06/93, e, no que couber, pelas normas internas da FAPEMAT. 
+20.2. O Conselho Diretor da FAPEMAT reserva-se o direito de resolver os casos omissos e as 
+situações não previstas no presente Edital. 
+ 
+ 
+21. INFORMAÇÕES ADICIONAIS E CONTATOS 
+ 
+a) 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+Coordenadoria de Pesquisa - Diretoria Técnico-Científica – FAPEMAT 
+Rua três, s/nº (Prédio IOMAT) 3º piso, Centro Político Administrativo,  
+Cuiabá, MT,  CEP-78050-970                                   
+E-mail: cpesquisa@fapemat.mt.gov.br 
+ 
+b) Superintendência de Tecnologia da Informação (STI) Secretaria de Segurança Pública de 
+Mato Grosso:  pesquisastimt@gmail.com 
+ 
+ 
+ 
+ 
+ 
+Cuiabá, 10/02/2020 
+ 
+                                                                        Dr. Adriano Silva 
+                                                                     Presidente FAPEMAT 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+ 
+ 
+ANEXO I 
+ 
+FORMULÁRIO DE SOLICITAÇÃO DE RECURSO 
+ 
+ 
+1. Titulo do projeto: 
+2. Justificativa do recurso : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+___/___/2020 
+ 
+ 
+_______________________ 
+Assinatura do Proponente 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+Edital  Programa de Pesquisa Aplicada em Políticas Pública   
+FAPEMAT Nº. 004/2020 
+Segurança Pública –  STI 
+ 
+O GOVERNO DO ESTADO DE MATO GROSSO, por intermédio da FUNDAÇÃO DE AMPARO À 
+PESQUISA DO ESTADO DE MATO GROSSO – FAPEMAT em parceria com a Secretária Estadual 
+de Segurança Pública – Superintendência de Tecnologia da Informação (STI) do Estado de Mato 
+Grosso, e considerando a necessidade de se produzir conhecimentos aprofundados em áreas 
+estratégicas para o desenvolvimento do estado; considerando o Programa de Pesquisa Aplicada em 
+Políticas Pública;  considerando a necessidade de implantação da Agenda Estratégica de Ciência, 
+Tecnologia e Inovação do Estado de Mato Grosso. 
+ 
+RESOLVE: 
+Tornar público o lançamento do presente Edital do Programa de Pesquisa Aplicada em 
+Políticas Pública e convida os interessados a apresentarem propostas na área de Segurança 
+Pública, nos termos aqui estabelecidos. 
+ 
+1. OBJETIVO  
+ 
+Acolher e apoiar projeto de pesquisa que tenha por objetivo o “Desenvolvimento de um 
+ambiente de microserviços para a Secretaria de Segurança Pública ”.   
+ 
+ 
+2. PRODUTO MÍNIMO ESPERADO 
+ 
+Ao final do projeto o produto mínimo esperado dever ter as seguintes características: 
+ 
+a) Ser um ambiente operacional validado com um protótipo funcional; 
+b) Direcionado e otimizado para trabalhar com serviços escritos em java e bancos 
+de dados Oracle e MongoDB; 
+c) Permitir a integração com os demais sistemas da SESP; 
+d) Abstrair geração de logs de auditoria e acesso, possuindo rastreabilidade 
+possibilitando extração de dados e análise estatística; 
+e) Abstrair o sistema de autenticação; 
+f) 
+Possuir características funcionais adequadas às especificações da atuação da 
+SESP; 
+g) Baixo custo de implantação e manutenção; 
+ 
+ 
+ 
+ 
+ 
+3- PROPONENTES E PROPOSTAS ELEGÍVEIS 
+ 
+3.1 Grupos de pesquisa devidamente cadastrados no Diretório de Grupos de Pesquisa da 
+Plataforma Lattes do CNPq, há pelo menos 01 ano, a partir da data de publicação do edital, 
+certificado por uma instituição de ciência, tecnologia e inovação (ICT) pública ou privada sem fins 
+lucrativos sediada no Estado de Mato Grosso, poderão propor, coordenar e executar os projetos 
+de pesquisa; 
+ 
+3.2 A proposta será encaminhada pelo líder ou membro do grupo de pesquisa, que deverá ter 
+vínculo empregatício (estatutário ou celetista) com a instituição de ciência, tecnologia e inovação 
+(ICT) pública ou privada sem fins lucrativos sediada em Mato Grosso (instituição executora); 
+ 
+3.3  O proponente será obrigatoriamente o coordenador da proposta e deverá: 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+a) possuir título de doutor;  
+b) ter currículo atualizado na Plataforma Lattes e no SIGFAPEMAT;  
+d) ser responsável pela gestão financeira e técnica da pesquisa;  
+e) se for pesquisador aposentado deverá comprovar que mantém atividade acadêmico-
+científicas e apresentar declaração da instituição executora concordando com a execução 
+do projeto. 
+3.4 Cada pesquisador poderá participar como proponente de apenas uma proposta neste edital.  
+  
+3.5 No mínimo 02 (dois) dos membros da equipe do projeto devem ser da Superintendência de 
+Tecnologia da Informação (STI) da SESP de Mato Grosso, que tenham no mínimo graduação 
+completa. 
+ 
+3.6 Pesquisadores com 01 (um) ou mais projetos (pesquisa, popularização ou inovação)  em 
+andamento com esta fundação não poderão submeter propostas. A FAPEMAT considera  o 
+projeto encerrado, apenas quanto o relatório técnico final e a prestação de contas final 
+encontram-se aprovados por esta fundação.  
+ 
+3.7 Pesquisadores inadimplente com a FAPEMAT não poderão submeter propostas. 
+ 
+* Contato da Superintendência de Tecnologia da Informação (STI) da SESP de Mato Grosso 
+para este edital: 
+pesquisastimt@gmail.com 
+ 
+ 
+4. PRAZO DE EXECUÇÃO DOS PROJETOS 
+As propostas a serem apoiadas pelo presente edital deverão ter seu prazo máximo de execução 
+estabelecido em 12 (meses) meses, contados a partir da data de assinatura do termo de concessão 
+de auxílio. Em casos excepcionais e com a devida justificativa, o projeto poderá ser prorrogado por no 
+máximo 04 (quatro) meses. 
+ 
+5. RECURSOS FINANCEIROS 
+5.1 As propostas aprovadas serão financiadas com recursos de capital e custeio, no valor global 
+estimado de até R$ 200.000,00 (duzentos mil reais) oriundos da FAPEMAT, Programa de 
+Desenvolvimento Cientifico e Tecnológico, Ação 2205, Fonte 192, a serem pagos em parcela única. 
+5.2 A solicitação de recursos à FAPEMAT acima do máximo para cada faixa acarretará na eliminação 
+da proposta. 
+ 
+6. ITENS FINANCIÁVEIS E NÃO FINANCIÁVEIS 
+6.1. Itens financiáveis  
+CAPITAL: 
+6.1.1. Material Permanente 
+ 
+Aquisição de livros (material bibliográfico); 
+ 
+Máquinas e equipamentos. 
+Obs: As despesas de capital não podem exceder 25% do valor solicitado 
+ 
+CUSTEIO: 
+6.1.2. Material de Consumo  
+6.1.3. Diárias, conforme valores da FAPEMAT:  
+ 
+Dentro do estado: R$ 180,00 (cento e oitenta reais);  
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+ 
+Fora do estado:     R$ 240,00 (duzentos e quarenta reais). 
+6.1.4. Passagens aéreas;  
+6.1.5. Serviços de terceiros – pessoa física;  
+6.1.6. Serviços de terceiros – pessoa jurídica. 
+ 
+Obs: Diárias e passagens não podem ser utilizadas para o custeio de despesas referentes a 
+apresentação e ou participação em  eventos (congressos, seminários, workshop, etc), 
+excetuando-se apresentação dos resultados para a  FAPEMAT e a SESP. 
+ 
+ 
+ 
+ BOLSAS 
+6.1.7 Poderão ser solicitadas bolsas na seguinte modalidade: Bolsa de Transferência de 
+Tecnologia - BTT. 
+6.1.8 A implementação das bolsas aprovadas deverá ser realizada dentro dos prazos e 
+critérios estipulados neste edital e em observância às regras e normas da FAPEMAT para 
+cada uma das modalidades, indicadas no endereço www.fapemat.mt.gov.br. 
+6.1.9 O valor solicitado para bolsas não poderá ultrapassar o limite de 80% do valor da 
+proposta, sob pena de desclassificação. 
+ 
+MODALIDADE 
+VALOR MENSAL (R$) 
+BTT 5 
+3.500,00 
+BTT 6 
+2.000,00 
+BTT 7 
+1.000,00 
+ 
+  
+6.2. Itens não Financiáveis 
+ 
+6.2.1 Obras civis (construção ou reforma); 
+ 
+6.2.2 Pagamento de salários ou complementação salarial de pessoal técnico e administrativo 
+ou quaisquer outras vantagens para pessoal de instituições públicas (federal, estadual e 
+municipal); e despesas de rotina como contas de luz, água, telefone, correios, reprografia e 
+similares, entendidas como despesas de contrapartida obrigatória da instituição de execução 
+do projeto; 
+ 
+6.2.3 Pagamento, a qualquer título, a servidor da administração pública, ou empregado de 
+empresa pública ou de sociedade de economia mista, por serviços de consultoria ou 
+assistência técnica, conforme determina a LDO da União e Decreto Federal nº 5.151 de 
+22/04/2004; 
+ 
+6.2.4 Pagamento de taxas de administração ou gestão, a qualquer título, de acordo com a 
+Instrução Normativa 01/2015 de 23/02/2015; 
+ 
+6.2.5 Pagamento de consultoria e pró-labore; 
+ 
+6.2.6 Aquisição de veículos e acessórios; 
+ 
+6.2.7 Terceirização das atividades básicas de pesquisa, como, por exemplo, delineamento 
+experimental, análise de dados, revisão e tradução de textos, elaboração de relatórios, ou o 
+pagamento de membros da equipe por tais atividades; 
+ 
+Em caso de dúvidas, consultar o manual de normas e procedimentos disponível no endereço 
+http://www.fapemat.mt.gov.br.  
+ 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+6.3. Itens a serem Importados 
+6.3.1. Nos itens a serem importados deverão ser previstos os custos de importação em 
+serviços de terceiros, pessoa jurídica (até 18% do valor do item a ser importado). 
+6.3.2. Deverá ser anexar ao projeto de pesquisa cópia da carta enviada ao importador, 
+solicitando a possível importação do item necessário, bem como carta resposta do 
+importador, confirmando a possibilidade da importação. 
+ 
+ 
+  7. DATAS E PERÍODOS DE VIGÊNCIA DO EDITAL 
+ 
+Elemento de chamada 
+Período de Vigência 
+Lançamento do Edital  
+10/02/2020 
+ Data limite para submissão de Propostas on 
+line   
+20/03/2020 
+Divulgação do resultado preliminar 
+14/04/2020 
+Divulgação do resultado final 
+24/04/2020 
+Início 
+da 
+contratação 
+das 
+propostas 
+aprovadas 
+01/05/2020 
+Data limite da contratação das propostas 
+aprovadas 
+31/07/2020 
+ 
+8. ENCAMINHAMENTO DAS PROPOSTAS 
+8.1 As propostas devem ser encaminhadas via internet, utilizando-se do formulário de propostas 
+online na plataforma SIGFAPEMAT na página eletrônica (http://sigfap.fapemat.mt.gov.br),  até a 
+data limite de submissão , ver item 7 – cronograma. 
+ 
+8.2 Todos os membros da equipe executora do projeto precisam fazer seu cadastro no sistema e 
+aceitar o convite de participação, para que a proposta possa ser enviada pelo coordenador. 
+ 
+8.3 O coordenador da proposta deverá anexar os seguintes documentos para submissão: RG, CPF 
+e comprovante de residência em nome do coordenador dos últimos 90 dias;  
+ 
+8.4 As propostas devem ser transmitidas a FAPEMAT até as 23:59 horas (vinte e três horas e 
+cinquenta e nove minutos), horário de Mato Grosso, da data limite de submissão item 7 – cronograma; 
+8.5 O atendimento pelo endereço eletrônico ti@fapemat.mt.gov.br encerra-se, impreterivelmente, às 
+17h00 e esse fato não será aceito como justificativa para envio posterior à data limite. 
+ 
+8.6 O proponente receberá, ao enviar a proposta, um recibo eletrônico com número de protocolo da 
+sua proposta, o qual servirá como comprovante da transmissão. 
+ 
+8.7 As propostas devem ser apresentadas em conformidade com todos os itens previstos nesta 
+chamada. 
+ 
+8.8 Não serão aceitas propostas submetidas por qualquer outro meio, tampouco após o prazo final 
+de recebimento estabelecido no item 07 - cronograma; 
+ 
+8.9 Constatado o envio de propostas idênticas, por proponentes diferentes, ambas as propostas 
+serão sumariamente desclassificadas; 
+ 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+8.10 Para dúvidas ou dificuldades no preenchimento dos itens do formulário de propostas online 
+durante o período de submissão das propostas, o atendimento será realizado, de segunda a sexta-
+feira, no horário de funcionamento da FAPEMAT pelo endereço eletrônico ti@fapemat.mt.gov.br; 
+ 
+8.11 Esclarecimentos e informações adicionais acerca do conteúdo desta chamada podem ser 
+obtidos encaminhando mensagem para o endereço: cpesquisa@fapemat.mt.gov.br.  
+ 
+9 – ANÁLISE E JULGAMENTO 
+As propostas serão analisadas, obedecendo às seguintes etapas: 
+ 
+Etapa I – Análise pela área técnica da FAPEMAT – enquadramento ou desclassificação. 
+A etapa consiste na pré-análise das propostas apresentadas. Será analisada a 
+documentação apresentada, proponentes e propostas elegíveis, valor solicitado e a verificação do 
+enquadramento a todos os requisitos estabelecidos por este edital, a ser efetuada pela FAPEMAT. As 
+propostas que não atenderem às exigências deste edital serão desconsideradas para análise e 
+julgamento de mérito e relevância. 
+Observação: 
+a 
+falta 
+de 
+atendimento 
+de 
+qualquer 
+item 
+do 
+edital 
+desclassificará, 
+automaticamente, a proposta. 
+ 
+Etapa II - análise por consultor “Ad Hoc” 
+A etapa consistirá na análise aprofundada da demanda qualificada, principalmente, em 
+relação a  adequação ao objeto de pesquisa previsto, excelência da proposta, equipe executora e 
+adequação orçamentária. Esta análise será realizada por consultor “Ad Hoc” que se manifestará, 
+individualmente, sobre os seguintes tópicos: 
+ 
+CRITÉRIOS DE ANÁLISE E JULGAMENTO DE MÉRITO E 
+RELEVÂNCIA 
+PESO 
+NOTA* 
+(1 a 10) 
+MÉDIA 
+A 
+ Adequação da proposta ao objeto de pesquisa previsto 
+04 
+ 
+ 
+B 
+Excelência da proposta do ponto de vista da qualidade e 
+originalidade do projeto, da efetividade da metodologia 
+proposta e cronograma de execução. 
+03 
+ 
+ 
+C 
+Qualificação e experiência do Coordenador  e da equipe 
+executora 
+02 
+ 
+ 
+D 
+Adequação orçamentária 
+01 
+ 
+ 
+NC: Nota Consultor(somatório das medias dividido por 10) 
+ 
+Nota* 
+MUITO BOM (MB) = plenamente consistente –  10 pontos  
+BOM (B) = adequadamente consistente –  8 a 9 pontos  
+REGULAR (R) = razoavelmente consistente – 5  a 7 pontos  
+FRACO (F) = pouco consistente –  3 a 4 pontos  
+DEFICIENTE (D) = inconsistente –   1 a 2 pontos 
+ 
+ 
+O consultor “Ad Hoc” apreciará o orçamento solicitado, tendo em vista os objetivos, a 
+metodologia e os resultados previstos, podendo indicar sua aprovação integral, não aprovação ou 
+aprovação com cortes. Neste caso deverá ser indicado o valor a ser financiado.  
+ 
+ 
+ETAPA III – Analise pelo  Comitê de Avaliação  
+ 
+Esta etapa os projetos serão apreciados conjuntamente, por representantes da FAPEMAT e da 
+SESP, que se manifestarão sobre os seguintes tópicos: 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+CRITÉRIOS DE ANÁLISE E JULGAMENTO DE MÉRITO E 
+RELEVÂNCIA 
+PESO 
+NOTA* 
+(1 a 10) 
+MÉDIA 
+A 
+ Adequação da proposta ao objeto de pesquisa previsto 
+04 
+ 
+ 
+B 
+Excelência da proposta do ponto de vista da qualidade e 
+originalidade do projeto, da efetividade da metodologia 
+proposta e cronograma de execução. 
+03 
+ 
+ 
+C 
+Qualificação e experiência do Coordenador  e da equipe 
+executora 
+02 
+ 
+ 
+D 
+Adequação orçamentária 
+01 
+ 
+ 
+ NCA: Nota Comitê de Avaliação (somatório das medias dividido por 10) 
+ 
+ 
+O Comitê de avaliação apreciará o orçamento solicitado, tendo em vista os objetivos, a 
+metodologia e os resultados previstos, podendo indicar sua aprovação integral, não aprovação ou 
+aprovação com cortes. Neste caso deverá ser indicado o valor a ser financiado. 
+Este comitê também será responsável pela verificação dos itens solicitados na proposta, caso 
+seja detectado algum item não financiável, conforme estabelecido no item 6 – itens financiáveis e não 
+financiáveis, o mesmo será retirado do orçamento a ser aprovado. 
+Não é permitido integrar o comitê de avaliação o pesquisador que tenha apresentado 
+propostas a esta Chamada ou que participe da equipe executora de projeto. 
+ 
+9.1. Ranqueamento das propostas pelo Comitê Gestor do Edital  
+ 
+Esta etapa, realizada por um comitê Gestor (a ser composto por técnicos da FAPEMAT e 
+representantes da SESP), e consistirá no ranqueamento das propostas observando-se Nota Final 
+(NF) de cada proposta e o valor disponível no edital. A Nota Final (NF) será calculada observando a 
+Nota do Consultor (NC) e a Nota do Comitê de Avaliação (NCA) da seguinte maneira: 
+ 
+ 
+2
+NCA
+NC
+NF
+
+
+ 
+ 
+Os cortes no orçamento de cada projeto não poderão ultrapassar 30% (trinta por cento) do 
+valor solicitado. Caso o consultor Ad Hoc ou o comitê de avaliação recomende um corte superior a 
+este percentual, o projeto será automaticamente excluído da concorrência. Propostas com Nota Final 
+abaixo de 7,0 serão excluídas da concorrência.  Caso haja divergência entre o consultor “Ad-Hoc” e o 
+comitê de avaliação em relação ao valor recomendado para aprovação, o valor a ser aprovado será o 
+recomendado pelo comitê de avaliação. 
+Após a análise cada proposta e da adequação de seu orçamento, o comitê gestor poderá 
+recomendar: 
+a) a aprovação, com ou sem cortes orçamentários; ou 
+b) a não aprovação da proposta. 
+ 
+O ranqueamento do comitê será registrado em planilha eletrônica contendo a relação das 
+propostas avaliadas, recomendadas e não recomendadas, com as respectivas pontuações finais, em 
+ordem decrescente, assim como outras informações e recomendações julgadas pertinentes. Para 
+propostas recomendadas será explicitado o valor adequado para financiamento. Os formulários 
+deverão ser assinados pela maioria de membros do comitê. Em caso de empate da média final das 
+propostas, serão utilizadas como critério de desempate as notas dos critérios de análise e de 
+julgamento, na seguinte ordem: Item A, Item B, Item C, Item D. 
+ 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+Não é permitido integrar o Comitê Gestor pesquisador que tenha apresentado propostas a este 
+edital, ou que participe da equipe do projeto. É vedado a qualquer membro do comitê julgar propostas 
+de projetos em que: 
+ 
+a) Esteja participando da equipe do projeto seu cônjuge, companheiro ou parente, 
+consanguíneo ou afim, em linha reta ou na colateral, até o terceiro grau; ou 
+b) Esteja litigando judicial ou administrativamente com qualquer membro da equipe do projeto 
+ou seus respectivos cônjuges ou companheiros. 
+ 
+ 
+10. RESULTADOS DOS JULGAMENTOS 
+Depois de vencidas todas as etapas de análise a lista de projetos aprovados será divulgada 
+no site da FAPEMAT no endereço eletrônico www.fapemat.mt.gov.br. 
+Após a divulgação dos resultados será encaminhado ao coordenador via e-mail: 
+ Comunicação da Diretoria Técnica Científica formalizando contemplação; 
+ Declaração para abertura de conta corrente; 
+ Solicitação de informações da Instituição e Gestor máximo da mesma, se não constar no 
+banco de dados da FAPEMAT.  
+ 
+A contratação ocorrerá após a assinatura do termo de concessão e aceitação de auxilio e de 
+acordo com disponibilidade orçamentária financeira da FAPEMAT. 
+ 
+ 
+11. RECURSOS ADMINISTRATIVOS 
+ 
+11.1. Caso o proponente tenha justificativa para contestar o resultado do julgamento das propostas, 
+poderá apresentar recurso, em formulário específico (ANEXO I), no prazo de 05 (cinco) dias úteis, a 
+contar da data da publicação do resultado no site da FAPEMAT.  
+ 
+11.2. O recurso deverá ser dirigido à Diretoria Técnico Científica da FAPEMAT via email no endereço: 
+dtc@fapemat.mt.gov.br, que, após exame, encaminhará para deliberação final da Presidência da 
+FAPEMAT. 
+ 
+11.3 Na contagem do prazo excluir-se-á o dia do início e incluir-se-á o do vencimento, e considerar-
+se-ão os dias consecutivos. O prazo só se inicia e vence em dias de expediente na FAPEMAT. 
+ 
+ 
+12.   DOCUMENTOS A SEREM ENVIADOS PARA CONTRATAÇÃO DA PROPOSTA  
+12.1. A proposta aprovada deve ser assinada pelo coordenador e dirigente máximo da instituição 
+executora e  enviada à FAPEMAT em conformidade com o item 7 (até 31/07/2020).. 
+12.2 Certidões do coordenador da proposta (envio digital): 
+a)  Certidão referente às pendências tributárias e não tributárias controladas pela SEFAZ/MT, 
+para fins de recebimento da administração pública.  
+b)  Certidão Negativa de Dívida Ativa da Procuradoria Geral do Estado (PGE). 
+c) Certidão Negativa de Débitos do Tribunal de Contas do Estado (TCE-MT). 
+d) Certidão Negativa de Débitos Relativos aos Tributos Federais e à Dívida Ativa da União, 
+junto à Receita Federal do Brasil.  
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+e)  Certidão negativa de débito trabalhista.   
+13. PERMISSÕES E AUTORIZAÇÕES ESPECIAIS  
+ 
+13.1. É de exclusiva responsabilidade de cada proponente adotar todas as providências que 
+envolvam permissões e autorizações especiais de caráter ético ou legal, necessárias para a 
+execução do projeto. 
+ 
+13.2. Os projetos que receberem parecer negativo das comissões de ética, ou não apresentarem as 
+devidas permissões e autorizações exigidas pelos marcos regulatórios necessários para a execução 
+do projeto não serão contratados pela FAPEMAT. 
+ 
+13.3. Para os casos de projetos de pesquisa, relacionados à biodiversidade, deverá ser observada a 
+legislação em vigor (MP nº 2.186/01, Decreto nº 3.945/01, Decreto nº 98.830/90, Portaria MCT nº 
+55/90 e Decreto nº 4.946/03); no que diz respeito à obtenção de autorizações de acesso, coleta e 
+remessa de amostras, observar a legislação dos órgãos competentes e para os estrangeiros 
+participantes do projeto observar a concessão de vistos de entrada no País. 
+13.4. Tratando-se de projetos de pesquisa que envolva experimentação com seres humanos, nos 
+termos da Portaria 196/96, do Conselho Nacional de Saúde, também deverá ser encaminhado à 
+FAPEMAT o parecer de uma das comissões de ética existentes no estado, anexo aos demais 
+documentos exigidos. No caso de projetos que envolvam organismos geneticamente modificados, 
+coleta de dados, materiais, espécimes biológicos e minerais, peças integrantes da cultura nativa e 
+cultura popular, presente e passada, relacionados ou não a questões de biossegurança, fica 
+estabelecido que seja responsabilidade do coordenador adotar todos os procedimentos previstos em 
+lei. 
+ 
+14.  PRESTAÇÃO DE CONTAS E DISPOSIÇÕES COMPLEMENTARES 
+ 
+Dentro do prazo fixado no termo de concessão e aceitação do auxílio, o coordenador do 
+projeto deverá apresentar à FAPEMAT seus relatórios de atividades de pesquisa parcial e final e sua 
+prestação de contas, de acordo com o  normas  de Prestação de Contas da FAPEMAT, estando 
+sujeito às penalidades previstas no Termo supra mencionado, se deixar de cumprir qualquer uma das 
+exigências legais. 
+ 
+ 
+15. DO CANCELAMENTO DA CONCESSÃO  
+A existência de alguma inadimplência do coordenador do projeto com a FAPEMAT, não 
+regularizada dentro do prazo máximo de 30 dias após a divulgação dos resultados, constituirá fator 
+impeditivo para a concessão do apoio financeiro. Da mesma forma, a concessão será cancelada se 
+for verificado no processo de monitoramento e durante a execução do projeto que sua implementação 
+é insatisfatória, sem prejuízo de outras providências cabíveis a critério da Diretoria Científica da 
+FAPEMAT, ouvido o Conselho Diretor. 
+ 
+16. DA IMPUGNAÇÃO DO EDITAL  
+Decairá do direito de impugnar os termos deste Edital aquele que, tendo-o aceito sem 
+objeção, venha apontar, posteriormente ao julgamento, eventuais falhas ou imperfeições, hipótese 
+em que tal comunicação não terá efeito de recurso. 
+ 
+17. DA REVOGAÇÃO OU ANULAÇÃO DO EDITAL 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+A qualquer tempo, o presente Edital poderá ser revogado ou anulado, no todo ou em parte, 
+seja por decisão unilateral da FAPEMAT, seja por motivo de interesse público ou exigência legal, sem 
+que isso implique no direito à indenização ou reclamação de qualquer tipo. 
+ 
+18.  PROPRIEDADE INTELECTUAL e PUBLICAÇÃO DOS RESULTADOS 
+           A titularidade da propriedade intelectual dos produtos desenvolvidos pertencerá à FAPEMAT e 
+a Secretária Estadual de Segurança Pública – Superintendência de Tecnologia da Informação. 
+        As publicações e quaisquer outros meios de divulgação dos resultados obtidos pelo projeto 
+deverá ter a anuência da FAPEMAT e da SESP- STI, e obrigatoriamente citar o apoio da FAPEMAT.  
+ 
+19. PRORROGAÇÃO DO PRAZO DE EXECUÇÃO DO PROJETO E MUDANÇA DE RUBRICA 
+A prorrogação de prazo só será permitida, mediante justificativas plausíveis a serem feitas 
+pelo Coordenador do projeto, considerando: 
+a) Prazo mínimo para solicitação de prorrogação 60 (sessenta) dias antes do término da 
+execução do projeto; 
+b) Entrega de um relatório que demonstre o andamento do projeto. 
+c) Prazo máximo para prorrogação será de 04 (quatro) meses 
+ 
+20 – DISPOSIÇÕES GERAIS  
+20.1. O presente edital regula-se pelos preceitos do direito público e, em especial, pelas disposições 
+da Lei nº 8.666, de 21/06/93, e, no que couber, pelas normas internas da FAPEMAT. 
+20.2. O Conselho Diretor da FAPEMAT reserva-se o direito de resolver os casos omissos e as 
+situações não previstas no presente Edital. 
+ 
+ 
+21. INFORMAÇÕES ADICIONAIS E CONTATOS 
+ 
+a) 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+Coordenadoria de Pesquisa - Diretoria Técnico-Científica – FAPEMAT 
+Rua três, s/nº (Prédio IOMAT) 3º piso, Centro Político Administrativo,  
+Cuiabá, MT,  CEP-78050-970                                   
+E-mail: cpesquisa@fapemat.mt.gov.br 
+ 
+ 
+b) Superintendência de Tecnologia da Informação (STI) da SESP de Mato Grosso:   
+pesquisastimt@gmail.com 
+ 
+ 
+Cuiabá, 10/02/2020 
+ 
+                                                                        Dr. Adriano Silva 
+                                                                     Presidente FAPEMAT 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+ 
+ANEXO I 
+ 
+FORMULÁRIO DE SOLICITAÇÃO DE RECURSO 
+ 
+ 
+1. Titulo do projeto: 
+2. Justificativa do recurso : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+___/___/2020 
+ 
+ 
+_______________________ 
+Assinatura do Proponente 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+Edital  Programa de Pesquisa Aplicada em Políticas Pública   
+FAPEMAT Nº. 005/2020 
+Segurança Pública – POLITEC 
+ 
+O GOVERNO DO ESTADO DE MATO GROSSO, por intermédio da FUNDAÇÃO DE AMPARO À 
+PESQUISA DO ESTADO DE MATO GROSSO – FAPEMAT em parceria com a Secretária Estadual 
+de Segurança Pública – POLITEC do Estado de Mato Grosso, e considerando a necessidade de se 
+produzir conhecimentos aprofundados em áreas estratégicas para o desenvolvimento do estado; 
+considerando o Programa de Pesquisa Aplicada em Políticas Pública;  considerando a necessidade 
+de implantação da Agenda Estratégica de Ciência, Tecnologia e Inovação do Estado de Mato Grosso. 
+ 
+RESOLVE: 
+Tornar público o lançamento do presente Edital do Programa de Pesquisa Aplicada em 
+Políticas Pública e convida os interessados a apresentarem propostas na área de Segurança 
+Pública, nos termos aqui estabelecidos. 
+ 
+1. OBJETIVO  
+ 
+Acolher e apoiar projeto de pesquisa que tenha por objetivo o “Desenvolvimento de um 
+sistema web para o gerenciamento de requisições e laudos para unidades periciais da 
+POLITEC” 
+ 
+ 
+ 
+2. PRODUTO MÍNIMO ESPERADO 
+ 
+Ao final do projeto o produto mínimo esperado dever ter as seguintes características: 
+ 
+ 
+a) Ser um protótipo operacional; 
+b) O sistema deve ser desenvolvido em Java com banco de dados Oracle; 
+c) Baixo custo de implantação e manutenção; 
+d) Possuir características funcionais adequadas as especificidades da atuação da 
+POLITEC; 
+e) Prover uma maneira facilitada de gerenciar os usuários dos sistemas, tendo 
+controle de autenticação e controle de permissões; 
+f) 
+Possibilitar a inserção de requisições com atribuições para responsáveis, como 
+gerências e peritos específicos; 
+g) Ter a funcionalidade de solicitar exames entre setores da unidade, não 
+necessitando o cadastro de uma nova requisição;  
+h) Permitir a finalização de um laudo, inserindo as informações sobre os exames, 
+envio de arquivo digital e inserindo a assinatura digital; 
+i) 
+Inserir os laudos finalizados na plataforma POLITEC Online; 
+j) 
+Emitir relatórios gerenciais; 
+ 
+ 
+ 
+ 
+3. PROPONENTES E PROPOSTAS ELEGÍVEIS 
+ 
+3.1 Grupos de pesquisa devidamente cadastrados no Diretório de Grupos de Pesquisa da 
+Plataforma Lattes do CNPq, há pelo menos 01 ano, a partir da data de publicação do edital, 
+certificado por uma instituição de ciência, tecnologia e inovação (ICT) pública ou privada sem fins 
+lucrativos sediada no Estado de Mato Grosso, poderão propor, coordenar e executar os projetos 
+de pesquisa; 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+ 
+3.2 A proposta será encaminhada pelo líder ou membro do grupo de pesquisa, que deverá ter 
+vínculo empregatício (estatutário ou celetista) com a instituição de ciência, tecnologia e inovação 
+(ICT) pública ou privada sem fins lucrativos sediada em Mato Grosso (instituição executora); 
+ 
+3.3  O  proponente será obrigatoriamente o coordenador da proposta e deverá: 
+a) possuir título de doutor;  
+b) ter currículo atualizado na Plataforma Lattes e no SIGFAPEMAT;  
+d) ser responsável pela gestão financeira e técnica da pesquisa;  
+e) se for pesquisador aposentado deverá comprovar que mantém atividade acadêmico-
+científicas e apresentar declaração da instituição executora concordando com a execução 
+do projeto. 
+3.4 Cada pesquisador poderá participar como proponente de apenas uma proposta neste edital.  
+  
+3.5 No mínimo 02 (dois) dos membros da equipe do projeto devem ser da Perícia Oficial e 
+Identificação Técnica – POLITEC do Estado de Mato Grosso, que tenham no mínimo 
+graduação completa. 
+ 
+3.6 Pesquisadores com 01 (um) ou mais projetos (pesquisa, popularização ou inovação)  em 
+andamento com esta fundação não poderão submeter propostas. A FAPEMAT considera  o 
+projeto encerrado, apenas quanto o relatório técnico final e a prestação de contas final 
+encontram-se aprovados por esta fundação.  
+ 
+3.7 Pesquisadores inadimplente com a FAPEMAT não poderão submeter propostas. 
+ 
+* Contato da POLITEC de Mato Grosso para este edital: 
+pesquisapolitecmt@gmail.com 
+ 
+ 
+4. PRAZO DE EXECUÇÃO DOS PROJETOS 
+As propostas a serem apoiadas pelo presente edital deverão ter seu prazo máximo de execução 
+estabelecido em 12 (meses) meses, contados a partir da data de assinatura do termo de concessão 
+de auxílio. Em casos excepcionais e com a devida justificativa, o projeto poderá ser prorrogado por no 
+máximo 04 (quatro) meses. 
+ 
+5. RECURSOS FINANCEIROS 
+5.1 As propostas aprovadas serão financiadas com recursos de capital e custeio, no valor global 
+estimado de até R$ 250.000,00 (duzentos  e cinquenta mil reais) oriundos da FAPEMAT, Programa 
+de Desenvolvimento Cientifico e Tecnológico, Ação 2205, Fonte 193, a serem pagos em parcela 
+única. 
+5.2 A solicitação de recursos à FAPEMAT acima do máximo para cada faixa acarretará na eliminação 
+da proposta. 
+ 
+6. ITENS FINANCIÁVEIS E NÃO FINANCIÁVEIS 
+6.1. Itens financiáveis  
+CAPITAL: 
+6.1.1. Material Permanente 
+ 
+Aquisição de livros (material bibliográfico); 
+ 
+Máquinas e equipamentos. 
+Obs: As despesas de capital não podem exceder 25% do valor solicitado 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+ 
+CUSTEIO: 
+6.1.2. Material de Consumo  
+6.1.3. Diárias, conforme valores da FAPEMAT:  
+ 
+Dentro do estado: R$ 180,00 (cento e oitenta reais);  
+ 
+Fora do estado:     R$ 240,00 (duzentos e quarenta reais). 
+6.1.4. Passagens aéreas;  
+6.1.5. Serviços de terceiros – pessoa física;  
+6.1.6. Serviços de terceiros – pessoa jurídica. 
+ 
+Obs: Diárias e passagens  não podem ser utilizadas para o custeio de despesas referentes a 
+apresentação e ou participação em  eventos (congressos, seminários, workshop, etc), 
+excetuando-se apresentação dos resultados para a  FAPEMAT e a SESP. 
+ 
+ 
+ BOLSAS 
+6.1.7 Poderão ser solicitadas bolsas na seguinte modalidade: Bolsa de Transferência de 
+Tecnologia - BTT. 
+6.1.8 A implementação das bolsas aprovadas deverá ser realizada dentro dos prazos e 
+critérios estipulados neste edital e em observância às regras e normas da FAPEMAT para 
+cada uma das modalidades, indicadas no endereço www.fapemat.mt.gov.br. 
+6.1.9 O valor solicitado para bolsas não poderá ultrapassar o limite de 80% do valor da 
+proposta, sob pena de desclassificação. 
+ 
+MODALIDADE 
+VALOR MENSAL (R$) 
+BTT 5 
+3.500,00 
+BTT 6 
+2.000,00 
+BTT 7 
+1.000,00 
+ 
+  
+6.2. Itens não Financiáveis 
+ 
+6.2.1 obras civis (construção ou reforma); 
+ 
+6.2.2 Pagamento de salários ou complementação salarial de pessoal técnico e administrativo 
+ou quaisquer outras vantagens para pessoal de instituições públicas (federal, estadual e 
+municipal); e despesas de rotina como contas de luz, água, telefone, correios, reprografia e 
+similares, entendidas como despesas de contrapartida obrigatória da instituição de execução 
+do projeto; 
+ 
+6.2.3 Pagamento, a qualquer título, a servidor da administração pública, ou empregado de 
+empresa pública ou de sociedade de economia mista, por serviços de consultoria ou 
+assistência técnica, conforme determina a LDO da União e Decreto Federal nº 5.151 de 
+22/04/2004; 
+ 
+6.2.4 Pagamento de taxas de administração ou gestão, a qualquer título, de acordo com a 
+Instrução Normativa 01/2015 de 23/02/2015; 
+ 
+6.2.5 Pagamento de consultoria e pró-labore; 
+ 
+6.2.6 Aquisição de veículos e acessórios; 
+ 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+6.2.7 Terceirização das atividades básicas de pesquisa, como, por exemplo, delineamento 
+experimental, análise de dados, revisão e tradução de textos, elaboração de relatórios, ou o 
+pagamento de membros da equipe por tais atividades; 
+ 
+Em caso de dúvidas, consultar o manual de normas e procedimentos disponível no endereço 
+http://www.fapemat.mt.gov.br.  
+ 
+ 
+6.3. Itens a serem Importados 
+6.3.1. Nos itens a serem importados deverão ser previstos os custos de importação em 
+serviços de terceiros, pessoa jurídica (até 18% do valor do item a ser importado). 
+6.3.2. Deverá ser anexar ao projeto de pesquisa cópia da carta enviada ao importador, 
+solicitando a possível importação do item necessário, bem como carta resposta do 
+importador, confirmando a possibilidade da importação. 
+ 
+ 
+  7. DATAS E PERÍODOS DE VIGÊNCIA DO EDITAL 
+ 
+Elemento de chamada 
+Período de Vigência 
+Lançamento do Edital  
+10/02/2020 
+ Data limite para submissão de Propostas on 
+line   
+20/03/2020 
+Divulgação do resultado preliminar 
+14/04/2020 
+Divulgação do resultado final 
+24/04/2020 
+Início 
+da 
+contratação 
+das 
+propostas 
+aprovadas 
+01/05/2020 
+Data limite da contratação das propostas 
+aprovadas 
+31/07/2020 
+ 
+8. ENCAMINHAMENTO DAS PROPOSTAS 
+8.1 As propostas devem ser encaminhadas via internet, utilizando-se do formulário de propostas 
+online na plataforma SIGFAPEMAT na página eletrônica (http://sigfap.fapemat.mt.gov.br),  até a 
+data limite de submissão , ver item 7 – cronograma. 
+     
+8.2 Todos os membros da equipe executora do projeto precisam fazer seu cadastro no sistema e 
+aceitar o convite de participação, para que a proposta possa ser enviada pelo coordenador. 
+ 
+8.3 O coordenador da proposta deverá anexar os seguintes documentos para submissão: RG, CPF 
+e comprovante de residência em nome do coordenador dos últimos 90 dias;  
+ 
+8.4 As propostas devem ser transmitidas a FAPEMAT até as 23:59 horas (vinte e três horas e 
+cinquenta e nove minutos), horário de Mato Grosso, da data limite de submissão item 7 – cronograma; 
+8.5 O atendimento pelo endereço eletrônico ti@fapemat.mt.gov.br encerra-se, impreterivelmente, às 
+17h00 e esse fato não será aceito como justificativa para envio posterior à data limite. 
+ 
+8.6 O proponente receberá, ao enviar a proposta, um recibo eletrônico com número de protocolo da 
+sua proposta, o qual servirá como comprovante da transmissão. 
+ 
+8.7 As propostas devem ser apresentadas em conformidade com todos os itens previstos nesta 
+chamada. 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+ 
+8.8 Não serão aceitas propostas submetidas por qualquer outro meio, tampouco após o prazo final 
+de recebimento estabelecido no item 07 - cronograma; 
+ 
+8.9 Constatado o envio de propostas idênticas, por proponentes diferentes, ambas as propostas 
+serão sumariamente desclassificadas; 
+ 
+8.10 Para dúvidas ou dificuldades no preenchimento dos itens do formulário de propostas online 
+durante o período de submissão das propostas, o atendimento será realizado, de segunda a sexta-
+feira, no horário de funcionamento da FAPEMAT pelo endereço eletrônico ti@fapemat.mt.gov.br; 
+ 
+8.11 Esclarecimentos e informações adicionais acerca do conteúdo desta chamada podem ser 
+obtidos encaminhando mensagem para o endereço: cpesquisa@fapemat.mt.gov.br.  
+ 
+9 – ANÁLISE E JULGAMENTO 
+As propostas serão analisadas, obedecendo às seguintes etapas: 
+ 
+Etapa I – Análise pela área técnica da FAPEMAT – enquadramento ou desclassificação. 
+A etapa consiste na pré-análise das propostas apresentadas. Será analisada a 
+documentação apresentada, proponentes e propostas elegíveis, valor solicitado e a verificação do 
+enquadramento a todos os requisitos estabelecidos por este edital, a ser efetuada pela FAPEMAT. As 
+propostas que não atenderem às exigências deste edital serão desconsideradas para análise e 
+julgamento de mérito e relevância. 
+Observação: 
+a 
+falta 
+de 
+atendimento 
+de 
+qualquer 
+item 
+do 
+edital 
+desclassificará, 
+automaticamente, a proposta. 
+ 
+Etapa II - análise por consultor “Ad Hoc” 
+A etapa consistirá na análise aprofundada da demanda qualificada, principalmente, em 
+relação a adequação ao objeto de pesquisa previsto, excelência da proposta, equipe executora e 
+adequação orçamentária. Esta análise será realizada por consultor “Ad Hoc” que se manifestará, 
+individualmente, sobre os seguintes tópicos: 
+ 
+CRITÉRIOS DE ANÁLISE E JULGAMENTO DE MÉRITO E 
+RELEVÂNCIA 
+PESO 
+NOTA* 
+(1 a 10) 
+MÉDIA 
+A 
+ Adequação da proposta ao objeto de pesquisa previsto 
+04 
+ 
+ 
+B 
+Excelência da proposta do ponto de vista da qualidade e 
+originalidade do projeto, da efetividade da metodologia 
+proposta e cronograma de execução. 
+03 
+ 
+ 
+C 
+Qualificação e experiência do Coordenador  e da equipe 
+executora 
+02 
+ 
+ 
+D 
+Adequação orçamentária 
+01 
+ 
+ 
+NC: Nota Consultor(somatório das medias dividido por 10) 
+ 
+Nota* 
+MUITO BOM (MB) = plenamente consistente –  10 pontos  
+BOM (B) = adequadamente consistente –  8 a 9 pontos  
+REGULAR (R) = razoavelmente consistente – 5  a 7 pontos  
+FRACO (F) = pouco consistente –  3 a 4 pontos  
+DEFICIENTE (D) = inconsistente –   1 a 2 pontos 
+ 
+ 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+O consultor “Ad Hoc” apreciará o orçamento solicitado, tendo em vista os objetivos, a 
+metodologia e os resultados previstos, podendo indicar sua aprovação integral, não aprovação ou 
+aprovação com cortes. Neste caso deverá ser indicado o valor a ser financiado.  
+ 
+ 
+ 
+ETAPA III – Analise pelo Comitê de Avaliação  
+ 
+Esta etapa os projetos serão apreciados conjuntamente, por representantes da FAPEMAT e da 
+SESP, que se manifestarão sobre os seguintes tópicos: 
+CRITÉRIOS DE ANÁLISE E JULGAMENTO DE MÉRITO E 
+RELEVÂNCIA 
+PESO 
+NOTA* 
+(1 a 10) 
+MÉDIA 
+A 
+ Adequação da proposta ao objeto de pesquisa previsto 
+04 
+ 
+ 
+B 
+Excelência da proposta do ponto de vista da qualidade e 
+originalidade do projeto, da efetividade da metodologia 
+proposta e cronograma de execução. 
+03 
+ 
+ 
+C 
+Qualificação e experiência do Coordenador  e da equipe 
+executora 
+02 
+ 
+ 
+D 
+Adequação orçamentária 
+01 
+ 
+ 
+ NCA: Nota Comitê de Avaliação (somatório das medias dividido por 10) 
+ 
+ 
+O Comitê de avaliação apreciará o orçamento solicitado, tendo em vista os objetivos, a 
+metodologia e os resultados previstos, podendo indicar sua aprovação integral, não aprovação ou 
+aprovação com cortes. Neste caso deverá ser indicado o valor a ser financiado. 
+Este comitê também será responsável pela verificação dos itens solicitados na proposta, caso 
+seja detectado algum item não financiável, conforme estabelecido no item 6 – itens financiáveis e não 
+financiáveis, o mesmo será retirado do orçamento a ser aprovado. 
+Não é permitido integrar o comitê de avaliação o pesquisador que tenha apresentado 
+propostas a esta Chamada ou que participe da equipe executora de projeto. 
+ 
+9.1. Ranqueamento das propostas pelo Comitê Gestor do Edital  
+ 
+Esta etapa, realizada por um comitê Gestor (a ser composto por técnicos da FAPEMAT e 
+representantes da SESP), e consistirá no ranqueamento das propostas observando-se Nota Final 
+(NF) de cada proposta e o valor disponível no edital. A Nota Final (NF) será calculada observando a 
+Nota do Consultor (NC) e a Nota do Comitê de Avaliação (NCA) da seguinte maneira: 
+ 
+ 
+2
+NCA
+NC
+NF
+
+
+ 
+ 
+Os cortes no orçamento de cada projeto não poderão ultrapassar 30% (trinta por cento) do 
+valor solicitado. Caso o consultor Ad Hoc ou o comitê de avaliação recomende um corte superior a 
+este percentual, o projeto será automaticamente excluído da concorrência. Propostas com Nota Final 
+abaixo de 7,0 serão excluídas da concorrência.  Caso haja divergência entre o consultor Ad-Hoc e o 
+comitê de avaliação em relação ao valor recomendado para aprovação, o valor a ser aprovado será o 
+recomendado pelo comitê de avaliação. 
+Após a análise cada proposta e da adequação de seu orçamento, o comitê gestor poderá 
+recomendar: 
+a) a aprovação, com ou sem cortes orçamentários; ou 
+b) a não aprovação da proposta. 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+ 
+O ranqueamento do comitê será registrado em planilha eletrônica contendo a relação das 
+propostas avaliadas, recomendadas e não recomendadas, com as respectivas pontuações finais, em 
+ordem decrescente, assim como outras informações e recomendações julgadas pertinentes. Para 
+propostas recomendadas será explicitado o valor adequado para financiamento. Os formulários 
+deverão ser assinados pela maioria de membros do comitê. Em caso de empate da média final das 
+propostas, serão utilizadas como critério de desempate as notas dos critérios de análise e de 
+julgamento, na seguinte ordem: Item A, Item B, Item C, Item D. 
+ 
+Não é permitido integrar o Comitê Gestor pesquisador que tenha apresentado propostas a este 
+edital, ou que participe da equipe do projeto. É vedado a qualquer membro do comitê julgar propostas 
+de projetos em que: 
+ 
+a) Esteja participando da equipe do projeto seu cônjuge, companheiro ou parente, 
+consanguíneo ou afim, em linha reta ou na colateral, até o terceiro grau; ou 
+b) Esteja litigando judicial ou administrativamente com qualquer membro da equipe do projeto 
+ou seus respectivos cônjuges ou companheiros. 
+ 
+ 
+10. RESULTADOS DOS JULGAMENTOS 
+Depois de vencidas todas as etapas de análise a lista de projetos aprovados será divulgada 
+no site da FAPEMAT no endereço eletrônico www.fapemat.mt.gov.br. 
+Após a divulgação dos resultados será encaminhado ao coordenador via e-mail: 
+ Comunicação da Diretoria Técnica Científica formalizando contemplação; 
+ Declaração para abertura de conta corrente; 
+ Solicitação de informações da Instituição e Gestor máximo da mesma, se não constar no 
+banco de dados da FAPEMAT.  
+ 
+A contratação ocorrerá após a assinatura do termo de concessão e aceitação de auxilio e de 
+acordo com disponibilidade orçamentária financeira da FAPEMAT. 
+ 
+ 
+11. RECURSOS ADMINISTRATIVOS 
+ 
+11.1. Caso o proponente tenha justificativa para contestar o resultado do julgamento das propostas, 
+poderá apresentar recurso, em formulário específico (ANEXO I), no prazo de 05 (cinco) dias úteis, a 
+contar da data da publicação do resultado no site da FAPEMAT.  
+ 
+11.2. O recurso deverá ser dirigido à Diretoria Técnico Científica da FAPEMAT via email no endereço: 
+dtc@fapemat.mt.gov.br, que, após exame, encaminhará para deliberação final da Presidência da 
+FAPEMAT. 
+ 
+11.3 Na contagem do prazo excluir-se-á o dia do início e incluir-se-á o do vencimento, e considerar-
+se-ão os dias consecutivos. O prazo só se inicia e vence em dias de expediente na FAPEMAT. 
+ 
+12.   DOCUMENTOS A SEREM ENVIADOS PARA CONTRATAÇÃO DA PROPOSTA  
+12.1. A proposta aprovada deve ser assinada pelo coordenador e dirigente máximo da instituição 
+executora e enviado à FAPEMAT em conformidade com o item 7 (até 31/07/2020). 
+12.2 Certidões do coordenador da proposta (envio digital): 
+a)  Certidão referente às pendências tributárias e não tributárias controladas pela SEFAZ/MT, 
+para fins de recebimento da administração pública.  
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+b)  Certidão Negativa de Dívida Ativa da Procuradoria Geral do Estado (PGE). 
+c) Certidão Negativa de Débitos do Tribunal de Contas do Estado (TCE-MT). 
+d) Certidão Negativa de Débitos Relativos aos Tributos Federais e à Dívida Ativa da União, 
+junto à Receita Federal do Brasil.  
+e)  certidão negativa de débito trabalhista.   
+13. PERMISSÕES E AUTORIZAÇÕES ESPECIAIS  
+ 
+13.1. É de exclusiva responsabilidade de cada proponente adotar todas as providências que 
+envolvam permissões e autorizações especiais de caráter ético ou legal, necessárias para a 
+execução do projeto. 
+ 
+13.2. Os projetos que receberem parecer negativo das comissões de ética, ou não apresentarem as 
+devidas permissões e autorizações exigidas pelos marcos regulatórios necessários para a execução 
+do projeto não serão contratados pela FAPEMAT. 
+ 
+13.3. Para os casos de projetos de pesquisa, relacionados à biodiversidade, deverá ser observada a 
+legislação em vigor (MP nº 2.186/01, Decreto nº 3.945/01, Decreto nº 98.830/90, Portaria MCT nº 
+55/90 e Decreto nº 4.946/03); no que diz respeito à obtenção de autorizações de acesso, coleta e 
+remessa de amostras, observar a legislação dos órgãos competentes e para os estrangeiros 
+participantes do projeto observar a concessão de vistos de entrada no País. 
+13.4. Tratando-se de projetos de pesquisa que envolva experimentação com seres humanos, nos 
+termos da Portaria 196/96, do Conselho Nacional de Saúde, também deverá ser encaminhado à 
+FAPEMAT o parecer de uma das comissões de ética existentes no estado, anexo aos demais 
+documentos exigidos. No caso de projetos que envolvam organismos geneticamente modificados, 
+coleta de dados, materiais, espécimes biológicos e minerais, peças integrantes da cultura nativa e 
+cultura popular, presente e passada, relacionados ou não a questões de biossegurança, fica 
+estabelecido que seja responsabilidade do coordenador adotar todos os procedimentos previstos em 
+lei. 
+ 
+14.  PRESTAÇÃO DE CONTAS E DISPOSIÇÕES COMPLEMENTARES 
+ 
+Dentro do prazo fixado no termo de concessão e aceitação do auxílio, o coordenador do 
+projeto deverá apresentar à FAPEMAT seus relatórios de atividades de pesquisa parcial e final e sua 
+prestação de contas, de acordo com o  normas  de Prestação de Contas da FAPEMAT, estando 
+sujeito às penalidades previstas no Termo supra mencionado, se deixar de cumprir qualquer uma das 
+exigências legais. 
+ 
+15. DO CANCELAMENTO DA CONCESSÃO  
+A existência de alguma inadimplência do coordenador do projeto com a FAPEMAT, não 
+regularizada dentro do prazo máximo de 30 dias após a divulgação dos resultados, constituirá fator 
+impeditivo para a concessão do apoio financeiro. Da mesma forma, a concessão será cancelada se 
+for verificado no processo de monitoramento e durante a execução do projeto que sua implementação 
+é insatisfatória, sem prejuízo de outras providências cabíveis a critério da Diretoria Científica da 
+FAPEMAT, ouvido o Conselho Diretor. 
+ 
+16. DA IMPUGNAÇÃO DO EDITAL  
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+Decairá do direito de impugnar os termos deste Edital aquele que, tendo-o aceito sem 
+objeção, venha apontar, posteriormente ao julgamento, eventuais falhas ou imperfeições, hipótese 
+em que tal comunicação não terá efeito de recurso. 
+ 
+17. DA REVOGAÇÃO OU ANULAÇÃO DO EDITAL 
+A qualquer tempo, o presente Edital poderá ser revogado ou anulado, no todo ou em parte, 
+seja por decisão unilateral da FAPEMAT, seja por motivo de interesse público ou exigência legal, sem 
+que isso implique no direito à indenização ou reclamação de qualquer tipo. 
+18.  PROPRIEDADE INTELECTUAL e PUBLICAÇÃO DOS RESULTADOS 
+           A titularidade da propriedade intelectual dos produtos desenvolvidos pertencerá à FAPEMAT e 
+a Secretária Estadual de Segurança Pública –. 
+        As publicações e quaisquer outros meios de divulgação dos resultados obtidos pelo projeto 
+deverá ter a anuência da FAPEMAT e da SESP - POLITEC, e obrigatoriamente citar o apoio da 
+FAPEMAT.  
+ 
+19. PRORROGAÇÃO DO PRAZO DE EXECUÇÃO DO PROJETO E MUDANÇA DE RUBRICA 
+A prorrogação de prazo só será permitida, mediante justificativas plausíveis a serem feitas 
+pelo Coordenador do projeto, considerando: 
+a) Prazo mínimo para solicitação de prorrogação 60 (sessenta) dias antes do término da 
+execução do projeto; 
+b) Entrega de um relatório que demonstre o andamento do projeto. 
+c) Prazo máximo para a prorrogação será de 04 (quatro) meses) 
+ 
+20 – DISPOSIÇÕES GERAIS  
+20.1. O presente edital regula-se pelos preceitos do direito público e, em especial, pelas disposições 
+da Lei nº 8.666, de 21/06/93, e, no que couber, pelas normas internas da FAPEMAT. 
+20.2. O Conselho Diretor da FAPEMAT reserva-se o direito de resolver os casos omissos e as 
+situações não previstas no presente Edital. 
+ 
+21. INFORMAÇÕES ADICIONAIS E CONTATOS 
+ 
+a) 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+Coordenadoria de Pesquisa - Diretoria Técnico-Científica – FAPEMAT 
+Rua três, s/nº (Prédio IOMAT) 3º piso, Centro Político Administrativo,  
+Cuiabá, MT,  CEP-78050-970                                   
+E-mail: cpesquisa@fapemat.mt.gov.br 
+ 
+ 
+b)       Pericia Oficial e Identificação Técnica - POLITEC 
+Coordenadoria de Informações Institucionais – POLITEC 
+Avenida Gonçalo Antunes de Barros, Nº 3245, Carumbé 
+Cuiabá, MT, CEP 78.058-743 
+           E-mail: pesquisapolitecmt@gmail.com 
+ 
+Cuiabá, 10/02/2020 
+ 
+                                                                        Dr. Adriano Silva 
+                                                                     Presidente FAPEMAT 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+ 
+ 
+ 
+ 
+ANEXO I 
+ 
+FORMULÁRIO DE SOLICITAÇÃO DE RECURSO 
+ 
+ 
+1. Titulo do projeto: 
+2. Justificativa do recurso : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+___/___/2020 
+ 
+ 
+_______________________ 
+Assinatura do Proponente 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+Edital  Programa de Pesquisa Aplicada em Políticas Pública   
+FAPEMAT Nº. 006/2020 
+Segurança Pública – Policia Militar 
+ 
+O GOVERNO DO ESTADO DE MATO GROSSO, por intermédio da FUNDAÇÃO DE AMPARO À 
+PESQUISA DO ESTADO DE MATO GROSSO – FAPEMAT em parceria com a Secretária Estadual 
+de Segurança Pública – Polícia Militar (PM) do Estado de Mato Grosso, e considerando a 
+necessidade de se produzir conhecimentos aprofundados em áreas estratégicas para o 
+desenvolvimento do estado; considerando o Programa de Pesquisa Aplicada em Políticas Pública;  
+considerando a necessidade de implantação da Agenda Estratégica de Ciência, Tecnologia e 
+Inovação do Estado de Mato Grosso. 
+ 
+RESOLVE: 
+Tornar público o lançamento do presente Edital do Programa de Pesquisa Aplicada em 
+Políticas Pública e convida os interessados a apresentarem propostas na área de Segurança 
+Pública, nos termos aqui estabelecidos. 
+ 
+1. OBJETIVO  
+ 
+Acolher e apoiar projeto de pesquisa que tenha por objetivo “Desenvolver uma ferramenta 
+tecnológica que a partir da consulta à base de dados da Segurança Pública, oriundos da 
+região central de Cuiabá, realize uma análise estatística preditiva para subsidiar a gestão da 
+Polícia Militar na atividade ostensiva e preventiva”.  
+ 
+2. PRODUTO MÍNIMO ESPERADO 
+ 
+Ao final do projeto o produto mínimo esperado dever as seguintes características: 
+ 
+ 
+a) Ser um protótipo operacional; 
+b) Utilize linguagem de código aberto; 
+c) Seja uma ferramenta que execute análise de padrões de comportamento de 
+pessoas; 
+d) Faça uso de dados de Segurança Pública e outras bases possíveis; 
+e) Seja uma ferramenta para uso em predição; 
+f) 
+Seja uma ferramenta escalável e adaptativa; 
+g) Faça uma relação de tempo x espaço x crime x padrão comportamental;  
+h) Gerar mapa e gráfico para visualização por camadas de dados criminais, 
+populacionais, comportamentais por período e área/região; 
+i) 
+Siga as normativas de segurança de dados e informações vigentes; 
+j) 
+Deve permitir a integração com os demais sistemas de informação existentes na 
+SESP 
+k) Possuir características funcionais adequadas às especificidades da atuação e 
+segurança de informação da SESP 
+ 
+ 
+3- PROPONENTES E PROPOSTAS ELEGÍVEIS 
+ 
+3.1 Grupos de pesquisa devidamente cadastrados no Diretório de Grupos de Pesquisa da 
+Plataforma Lattes do CNPq, há pelo menos 01 ano, a partir da data de publicação do edital, 
+certificado por uma instituição de ciência, tecnologia e inovação (ICT) pública ou privada sem fins 
+lucrativos sediada no Estado de Mato Grosso, poderão propor, coordenar e executar os projetos 
+de pesquisa; 
+ 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+3.2 A proposta será encaminhada pelo líder ou membro do grupo de pesquisa, que deverá ter 
+vínculo empregatício (estatutário ou celetista) com a instituição de ciência, tecnologia e inovação 
+(ICT) pública ou privada sem fins lucrativos sediada em Mato Grosso (instituição executora); 
+ 
+3.3  O proponente será obrigatoriamente o coordenador da proposta e deverá: 
+a) possuir título de doutor;  
+b) ter currículo atualizado na Plataforma Lattes e no SIGFAPEMAT;  
+d) ser responsável pela gestão financeira e técnica da pesquisa;  
+e) se for pesquisador aposentado deverá comprovar que mantém atividade acadêmico-
+científicas e apresentar declaração da instituição executora concordando com a execução 
+do projeto. 
+3.4 Cada pesquisador poderá participar como proponente de apenas uma proposta neste edital.  
+  
+3.5 No mínimo 02 (dois) dos membros da equipe do projeto devem ser da Polícia Militar do Estado 
+de Mato Grosso (PMMT), que tenham no mínimo graduação completa. 
+ 
+3.6 Pesquisadores com 01 (um) ou mais projetos (pesquisa, popularização ou inovação) em 
+andamento com esta fundação não poderão submeter propostas. A FAPEMAT considera o 
+projeto encerrado, apenas quanto o relatório técnico final e a prestação de contas final 
+encontram-se aprovados por esta fundação.  
+ 
+3.7 Pesquisadores inadimplente com a FAPEMAT não poderão submeter propostas. 
+ 
+* Contato da Polícia Militar de Mato Grosso para este edital: 
+pmmtpesquisa@gmail.com  
+ 
+ 
+ 
+4. PRAZO DE EXECUÇÃO DOS PROJETOS 
+As propostas a serem apoiadas pelo presente edital deverão ter seu prazo máximo de execução 
+estabelecido em 12 (doze) meses, contados a partir da data de assinatura do termo de concessão de 
+auxílio. Em casos excepcionais e com a devida justificativa, o projeto poderá ser prorrogado por no 
+máximo 04 (quatro) meses. 
+ 
+5. RECURSOS FINANCEIROS 
+5.1 As propostas aprovadas serão financiadas com recursos de capital e custeio, no valor global 
+estimado de até R$ 250.000,00 (duzentos e cinquenta mil reais) oriundos da FAPEMAT, Programa 
+de Desenvolvimento Cientifico e Tecnológico, Ação 2205, Fonte 192, a serem pagos em parcela 
+única. 
+5.2 A solicitação de recursos à FAPEMAT acima do máximo para cada faixa acarretará na eliminação 
+da proposta. 
+ 
+6. ITENS FINANCIÁVEIS E NÃO FINANCIÁVEIS 
+6.1. Itens financiáveis  
+CAPITAL: 
+6.1.1. Material Permanente 
+ 
+Aquisição de livros (material bibliográfico); 
+ 
+Máquinas e equipamentos. 
+Obs: As despesas de capital não podem exceder 25% do valor solicitado 
+ 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+CUSTEIO: 
+6.1.2. Material de Consumo  
+6.1.3. Diárias, conforme valores da FAPEMAT:  
+ 
+Dentro do estado: R$ 180,00 (cento e oitenta reais);  
+ 
+Fora do estado:     R$ 240,00 (duzentos e quarenta reais). 
+6.1.4. Passagens aéreas;  
+6.1.5. Serviços de terceiros – pessoa física;  
+6.1.6. Serviços de terceiros – pessoa jurídica. 
+ 
+Obs: Diárias e passagens não podem ser utilizadas para o custeio de despesas referentes a 
+apresentação e ou participação em  eventos (congressos, seminários, workshop, etc), 
+excetuando-se apresentação dos resultados para a  FAPEMAT e a SESP. 
+ 
+ 
+ BOLSAS 
+6.1.7 Poderão ser solicitadas bolsas na seguinte modalidade: Bolsa de Transferência de 
+Tecnologia - BTT. 
+6.1.8 A implementação das bolsas aprovadas deverá ser realizada dentro dos prazos e 
+critérios estipulados neste edital e em observância às regras e normas da FAPEMAT para 
+cada uma das modalidades, indicadas no endereço www.fapemat.mt.gov.br. 
+6.1.9 O valor solicitado para bolsas não poderá ultrapassar o limite de 80% do valor da 
+proposta, sob pena de desclassificação. 
+ 
+MODALIDADE 
+VALOR MENSAL (R$) 
+BTT 5 
+3.500,00 
+BTT 6 
+2.000,00 
+BTT 7 
+1.000,00 
+ 
+  
+6.2. Itens não Financiáveis 
+ 
+6.2.1 obras civis (construção ou reforma); 
+ 
+6.2.2 pagamento de salários ou complementação salarial de pessoal técnico e administrativo 
+ou quaisquer outras vantagens para pessoal de instituições públicas (federal, estadual e 
+municipal); e despesas de rotina como contas de luz, água, telefone, correios, reprografia e 
+similares, entendidas como despesas de contrapartida obrigatória da instituição de execução 
+do projeto; 
+ 
+6.2.3 pagamento, a qualquer título, a servidor da administração pública, ou empregado de 
+empresa pública ou de sociedade de economia mista, por serviços de consultoria ou 
+assistência técnica, conforme determina a LDO da União e Decreto Federal nº 5.151 de 
+22/04/2004; 
+ 
+6.2.4 Pagamento de taxas de administração ou gestão, a qualquer título, de acordo com a 
+Instrução Normativa 01/2015 de 23/02/2015; 
+ 
+6.2.5 pagamento de consultoria e pró-labore; 
+ 
+6.2.6 aquisição de veículos e acessórios; 
+ 
+6.2.7 terceirização das atividades básicas de pesquisa, como, por exemplo, delineamento 
+experimental, análise de dados, revisão e tradução de textos, elaboração de relatórios, ou o 
+pagamento de membros da equipe por tais atividades; 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+ 
+Em caso de dúvidas, consultar o manual de normas e procedimentos disponível no endereço 
+http://www.fapemat.mt.gov.br.  
+6.3. Itens a serem Importados 
+6.3.1. Nos itens a serem importados deverão ser previstos os custos de importação em 
+serviços de terceiros, pessoa jurídica (até 18% do valor do item a ser importado). 
+6.3.2. Deverá ser anexada ao projeto de pesquisa cópia da carta enviada ao importador, 
+solicitando a possível importação do item necessário, bem como carta resposta do 
+importador, confirmando a possibilidade da importação. 
+ 
+ 
+  7. DATAS E PERÍODOS DE VIGÊNCIA DO EDITAL 
+ 
+Elemento de chamada 
+Período de Vigência 
+Lançamento do Edital  
+10/02/2020 
+ Data limite para submissão de Propostas on 
+line   
+20/03/2020 
+Divulgação do resultado preliminar 
+14/04/2020 
+Divulgação do resultado final 
+24/04/2020 
+Início 
+da 
+contratação 
+das 
+propostas 
+aprovadas 
+01/05/2020 
+Data limite da contratação das propostas 
+aprovadas 
+31/07/2020 
+ 
+8. ENCAMINHAMENTO DAS PROPOSTAS 
+8.1 As propostas devem ser encaminhadas via internet, utilizando-se do formulário de propostas 
+online na plataforma SIGFAPEMAT na página eletrônica (http://sigfap.fapemat.mt.gov.br),  até a 
+data limite de submissão , ver item 7 – cronograma. 
+ 
+8.2 Todos os membros da equipe executora do projeto precisam fazer seu cadastro no sistema e 
+aceitar o convite de participação, para que a proposta possa ser enviada pelo coordenador. 
+ 
+8.3 O coordenador da proposta deverá anexar os seguintes documentos para submissão: RG, CPF 
+e comprovante de residência em nome do coordenador dos últimos 90 dias;  
+ 
+8.4 As propostas devem ser transmitidas a FAPEMAT até as 23:59 horas (vinte e três horas e 
+cinquenta e nove minutos), horário de Mato Grosso, da data limite de submissão item 7 – cronograma; 
+8.5 O atendimento pelo endereço eletrônico ti@fapemat.mt.gov.br encerra-se, impreterivelmente, às 
+17h00 e esse fato não será aceito como justificativa para envio posterior à data limite. 
+ 
+8.6 O proponente receberá, ao enviar a proposta, um recibo eletrônico com número de protocolo da 
+sua proposta, o qual servirá como comprovante da transmissão. 
+ 
+8.7 As propostas devem ser apresentadas em conformidade com todos os itens previstos nesta 
+chamada. 
+ 
+8.8 Não serão aceitas propostas submetidas por qualquer outro meio, tampouco após o prazo final 
+de recebimento estabelecido no item 07 - cronograma; 
+ 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+8.9 Constatado o envio de propostas idênticas, por proponentes diferentes, ambas as propostas 
+serão sumariamente desclassificadas; 
+ 
+8.10 Para dúvidas ou dificuldades no preenchimento dos itens do formulário de propostas online 
+durante o período de submissão das propostas, o atendimento será realizado, de segunda a sexta-
+feira, no horário de funcionamento da FAPEMAT pelo endereço eletrônico ti@fapemat.mt.gov.br; 
+ 
+8.11 Esclarecimentos e informações adicionais acerca do conteúdo desta chamada podem ser 
+obtidos encaminhando mensagem para o endereço: cpesquisa@fapemat.mt.gov.br.  
+ 
+9 – ANÁLISE E JULGAMENTO 
+As propostas serão analisadas, obedecendo às seguintes etapas: 
+ 
+Etapa I – Análise pela área técnica da FAPEMAT – enquadramento ou desclassificação. 
+A etapa consiste na pré-análise das propostas apresentadas. Será analisada a 
+documentação apresentada, proponentes e propostas elegíveis, valor solicitado e a verificação do 
+enquadramento a todos os requisitos estabelecidos por este edital, a ser efetuada pela FAPEMAT. As 
+propostas que não atenderem às exigências deste edital serão desconsideradas para análise e 
+julgamento de mérito e relevância. 
+Observação: 
+a 
+falta 
+de 
+atendimento 
+de 
+qualquer 
+item 
+do 
+edital 
+desclassificará, 
+automaticamente, a proposta. 
+ 
+Etapa II - análise por consultor “Ad Hoc” 
+A etapa consistirá na análise aprofundada da demanda qualificada, principalmente, em 
+relação a adequação ao objeto de pesquisa previsto, excelência da proposta,  equipe executora e 
+adequação orçamentária. Esta análise será realizada por consultor “Ad Hoc” que se manifestará, 
+individualmente, sobre os seguintes tópicos: 
+ 
+CRITÉRIOS DE ANÁLISE E JULGAMENTO DE MÉRITO E 
+RELEVÂNCIA 
+PESO 
+NOTA* 
+(1 a 10) 
+MÉDIA 
+A 
+ Adequação da proposta ao objeto de pesquisa previsto 
+04 
+ 
+ 
+B 
+Excelência da proposta do ponto de vista da qualidade e 
+originalidade do projeto, da efetividade da metodologia 
+proposta e cronograma de execução. 
+03 
+ 
+ 
+C 
+Qualificação e experiência do Coordenador  e da equipe 
+executora 
+02 
+ 
+ 
+D 
+Adequação orçamentária 
+01 
+ 
+ 
+NC: Nota Consultor(somatório das médias dividido por 10) 
+ 
+Nota* 
+MUITO BOM (MB) = plenamente consistente –  10 pontos  
+BOM (B) = adequadamente consistente –  8 a 9 pontos  
+REGULAR (R) = razoavelmente consistente – 5  a 7 pontos  
+FRACO (F) = pouco consistente –  3 a 4 pontos  
+DEFICIENTE (D) = inconsistente –   1 a 2 pontos 
+ 
+ 
+O consultor “Ad hoc” apreciará o orçamento solicitado, tendo em vista os objetivos, a 
+metodologia e os resultados previstos, podendo indicar sua aprovação integral, não aprovação ou 
+aprovação com cortes. Neste caso deverá ser indicado o valor a ser financiado.  
+ 
+ 
+ETAPA III – Analise pelo  Comitê de Avaliação  
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+ 
+Esta etapa os projetos serão apreciados conjuntamente, por representantes da FAPEMAT e da 
+SESP, que se manifestarão sobre os seguintes tópicos: 
+CRITÉRIOS DE ANÁLISE E JULGAMENTO DE MÉRITO E 
+RELEVÂNCIA 
+PESO 
+NOTA* 
+(1 a 10) 
+MÉDIA 
+A 
+ Adequação da proposta ao objeto de pesquisa previsto 
+04 
+ 
+ 
+B 
+Excelência da proposta do ponto de vista da qualidade e 
+originalidade do projeto, da efetividade da metodologia 
+proposta e cronograma de execução. 
+03 
+ 
+ 
+C 
+Qualificação e experiência do Coordenador  e da equipe 
+executora 
+02 
+ 
+ 
+D 
+Adequação orçamentária 
+01 
+ 
+ 
+ NCA: Nota Comitê de Avaliação (somatório das medias dividido por 10) 
+ 
+ 
+O Comitê de avaliação apreciará o orçamento solicitado, tendo em vista os objetivos, a 
+metodologia e os resultados previstos, podendo indicar sua aprovação integral, não aprovação ou 
+aprovação com cortes. Neste caso deverá ser indicado o valor a ser financiado. 
+Este comitê também será responsável pela verificação dos itens solicitados na proposta, caso 
+seja detectado algum item não financiável, conforme estabelecido no item 6 – itens financiáveis e não 
+financiáveis, o mesmo será retirado do orçamento a ser aprovado. 
+Não é permitido integrar o comitê de avaliação o pesquisador que tenha apresentado 
+propostas a esta Chamada ou que participe da equipe executora de projeto. 
+ 
+9.1. Ranqueamento das propostas pelo Comitê Gestor do Edital  
+ 
+Esta etapa, realizada por um comitê Gestor (a ser composto por técnicos da FAPEMAT e 
+representantes da SESP), e consistirá no ranqueamento das propostas observando-se Nota Final 
+(NF) de cada proposta e o valor disponível no edital. A Nota Final (NF) será calculada observando a 
+Nota do Consultor (NC) e a Nota do Comitê de Avaliação (NCA) da seguinte maneira: 
+ 
+ 
+2
+NCA
+NC
+NF
+
+
+ 
+ 
+Os cortes no orçamento de cada projeto não poderão ultrapassar 30% (trinta por cento) do 
+valor solicitado. Caso o consultor “Ad Hoc” ou o comitê de avaliação recomende um corte superior a 
+este percentual, o projeto será automaticamente excluído da concorrência. Propostas com Nota Final 
+abaixo de 7,0 serão excluídas da concorrência.  Caso haja divergência entre o consultor “Ad Hoc” e o 
+comitê de avaliação em relação ao valor recomendado para aprovação, o valor a ser aprovado será o 
+recomendado pelo ao comitê de avaliação.. 
+Após a análise cada proposta e da adequação de seu orçamento, o Comitê Gestor poderá 
+recomendar: 
+a) a aprovação, com ou sem cortes orçamentários; ou 
+b) a não aprovação da proposta. 
+ 
+O ranqueamento do comitê será registrado em planilha eletrônica contendo a relação das 
+propostas avaliadas, recomendadas e não recomendadas, com as respectivas pontuações finais, em 
+ordem decrescente, assim como outras informações e recomendações julgadas pertinentes. Para 
+propostas recomendadas será explicitado o valor adequado para financiamento. Os formulários 
+deverão ser assinados pela maioria de membros do comitê. Em caso de empate da média final das 
+propostas, serão utilizadas como critério de desempate as notas dos critérios de análise e de 
+julgamento, na seguinte ordem: Item A, Item B, Item C, Item D. 
+ 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+Não é permitido integrar o Comitê Gestor pesquisador que tenha apresentado propostas a este 
+edital, ou que participe da equipe do projeto. É vedado a qualquer membro do comitê julgar propostas 
+de projetos em que: 
+ 
+a) Esteja participando da equipe do projeto seu cônjuge, companheiro ou parente, 
+consanguíneo ou afim, em linha reta ou na colateral, até o terceiro grau; ou 
+b) Esteja litigando judicial ou administrativamente com qualquer membro da equipe do projeto 
+ou seus respectivos cônjuges ou companheiros. 
+ 
+ 
+10. RESULTADOS DOS JULGAMENTOS 
+Depois de vencidas todas as etapas de análise a lista de projetos aprovados será divulgada 
+no site da FAPEMAT no endereço eletrônico www.fapemat.mt.gov.br. 
+Após a divulgação dos resultados será encaminhado ao coordenador via e-mail: 
+ Comunicação da Diretoria Técnica Científica formalizando contemplação; 
+ Declaração para abertura de conta corrente; 
+ Solicitação de informações da Instituição e Gestor máximo da mesma, se não constar no 
+banco de dados da FAPEMAT.  
+ 
+A contratação ocorrerá após a assinatura do termo de concessão e aceitação de auxilio e de 
+acordo com disponibilidade orçamentária financeira da FAPEMAT. 
+ 
+ 
+11. RECURSOS ADMINISTRATIVOS 
+ 
+11.1. Caso o proponente tenha justificativa para contestar o resultado do julgamento das propostas, 
+poderá apresentar recurso, em formulário específico (ANEXO II), no prazo de 05 (cinco) dias úteis, a 
+contar da data da publicação do resultado no site da FAPEMAT.  
+ 
+11.2. O recurso deverá ser dirigido à Diretoria Técnico Científica da FAPEMAT via e-mail no 
+endereço: dtc@fapemat.mt.gov.br, que, após exame, encaminhará para deliberação final da 
+Presidência da FAPEMAT. 
+ 
+11.3 Na contagem do prazo excluir-se-á o dia do início e incluir-se-á o do vencimento, e considerar-
+se-ão os dias consecutivos. O prazo só se inicia e vence em dias de expediente na FAPEMAT. 
+ 
+12.   DOCUMENTOS A SEREM ENVIADOS PARA CONTRATAÇÃO DA PROPOSTA  
+12.1. A proposta aprovada deve ser assinada pelo coordenador e dirigente máximo da instituição 
+executora e enviado à FAPEMAT, em conformidade com o item 7 (até 31/07/2020). 
+12.2 Certidões do coordenador da proposta (envio digital): 
+a)  Certidão referente às pendências tributárias e não tributárias controladas pela SEFAZ/MT, 
+para fins de recebimento da administração pública.  
+b)  Certidão Negativa de Dívida Ativa da Procuradoria Geral do Estado (PGE). 
+c) Certidão Negativa de Débitos do Tribunal de Contas do Estado (TCE-MT). 
+d) Certidão Negativa de Débitos Relativos aos Tributos Federais e à Dívida Ativa da União, 
+junto à Receita Federal do Brasil.  
+e)  certidão negativa de débito trabalhista.   
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+13. PERMISSÕES E AUTORIZAÇÕES ESPECIAIS  
+ 
+13.1. É de exclusiva responsabilidade de cada proponente adotar todas as providências que 
+envolvam permissões e autorizações especiais de caráter ético ou legal, necessárias para a 
+execução do projeto. 
+ 
+13.2. Os projetos que receberem parecer negativo das comissões de ética, ou não apresentarem as 
+devidas permissões e autorizações exigidas pelos marcos regulatórios necessários para a execução 
+do projeto não serão contratados pela FAPEMAT. 
+ 
+13.3. Para os casos de projetos de pesquisa, relacionados à biodiversidade, deverá ser observada a 
+legislação em vigor (MP nº 2.186/01, Decreto nº 3.945/01, Decreto nº 98.830/90, Portaria MCT nº 
+55/90 e Decreto nº 4.946/03); no que diz respeito à obtenção de autorizações de acesso, coleta e 
+remessa de amostras, observar a legislação dos órgãos competentes e para os estrangeiros 
+participantes do projeto observar a concessão de vistos de entrada no País. 
+13.4. Tratando-se de projetos de pesquisa que envolva experimentação com seres humanos, nos 
+termos da Portaria 196/96, do Conselho Nacional de Saúde, também deverá ser encaminhado à 
+FAPEMAT o parecer de uma das comissões de ética existentes no estado, anexo aos demais 
+documentos exigidos. No caso de projetos que envolvam organismos geneticamente modificados, 
+coleta de dados, materiais, espécimes biológicos e minerais, peças integrantes da cultura nativa e 
+cultura popular, presente e passada, relacionados ou não a questões de biossegurança, fica 
+estabelecido que seja responsabilidade do coordenador adotar todos os procedimentos previstos em 
+lei. 
+ 
+14.  PRESTAÇÃO DE CONTAS E DISPOSIÇÕES COMPLEMENTARES 
+ 
+Dentro do prazo fixado no termo de concessão e aceitação do auxílio, o coordenador do 
+projeto deverá apresentar à FAPEMAT seus relatórios de atividades de pesquisa parcial e final e sua 
+prestação de contas, de acordo com o  normas  de Prestação de Contas da FAPEMAT, estando 
+sujeito às penalidades previstas no Termo supra mencionado, se deixar de cumprir qualquer uma das 
+exigências legais. 
+ 
+15. DO CANCELAMENTO DA CONCESSÃO  
+A existência de alguma inadimplência do coordenador do projeto com a FAPEMAT, não 
+regularizada dentro do prazo máximo de 30 dias após a divulgação dos resultados, constituirá fator 
+impeditivo para a concessão do apoio financeiro. Da mesma forma, a concessão será cancelada se 
+for verificado no processo de monitoramento e durante a execução do projeto que sua implementação 
+é insatisfatória, sem prejuízo de outras providências cabíveis a critério da Diretoria Científica da 
+FAPEMAT, ouvido o Conselho Diretor. 
+ 
+16. DA IMPUGNAÇÃO DO EDITAL  
+Decairá do direito de impugnar os termos deste Edital aquele que, tendo-o aceito sem 
+objeção, venha apontar, posteriormente ao julgamento, eventuais falhas ou imperfeições, hipótese 
+em que tal comunicação não terá efeito de recurso. 
+ 
+17. DA REVOGAÇÃO OU ANULAÇÃO DO EDITAL 
+A qualquer tempo, o presente Edital poderá ser revogado ou anulado, no todo ou em parte, 
+seja por decisão unilateral da FAPEMAT, seja por motivo de interesse público ou exigência legal, sem 
+que isso implique no direito à indenização ou reclamação de qualquer tipo. 
+ 
+18.  PROPRIEDADE INTELECTUAL e PUBLICAÇÃO DOS RESULTADOS 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+           A titularidade da propriedade intelectual dos produtos desenvolvidos pertencerá à FAPEMAT e 
+a Secretária Estadual de Segurança Pública – Polícia Judiciária Civil de Mato Grosso. 
+        As publicações e quaisquer outros meios de divulgação dos resultados obtidos pelo projeto 
+deverá ter a anuência da FAPEMAT e da SESP- PJC , e obrigatoriamente citar o apoio da FAPEMAT.  
+ 
+19. PRORROGAÇÃO DO PRAZO DE EXECUÇÃO DO PROJETO E MUDANÇA DE RUBRICA 
+A prorrogação de prazo só será permitida, mediante justificativas plausíveis a serem feitas 
+pelo Coordenador do projeto, considerando: 
+a) Prazo mínimo para solicitação de prorrogação 60 (sessenta) dias antes do término da 
+execução do projeto; 
+b) Entrega de um relatório que demonstre o andamento do projeto. 
+c) Prazo máximo para prorrogação será de 04  (quatro) meses. 
+ 
+20 – DISPOSIÇÕES GERAIS  
+20.1. O presente edital regula-se pelos preceitos do direito público e, em especial, pelas disposições 
+da Lei nº 8.666, de 21/06/93, e, no que couber, pelas normas internas da FAPEMAT. 
+20.2. O Conselho Diretor da FAPEMAT reserva-se o direito de resolver os casos omissos e as 
+situações não previstas no presente Edital. 
+ 
+21. INFORMAÇÕES ADICIONAIS E CONTATOS 
+ 
+a) 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+Coordenadoria de Pesquisa - Diretoria Técnico-Científica – FAPEMAT 
+Rua três, s/nº (Prédio IOMAT) 3º piso, Centro Político Administrativo,  
+Cuiabá, MT,  CEP-78050-970                                   
+E-mail: cpesquisa@fapemat.mt.gov.br 
+ 
+b) Polícia Militar - PM 
+E-mail: pmmtpesquisa@gmail.com 
+ 
+ 
+Cuiabá, 10/02/2020 
+ 
+                                                                        Dr. Adriano Silva 
+                                                                     Presidente FAPEMAT 
+  
+ 
+GOVERNO DO ESTADO DE MATO GROSSO 
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso – FAPEMAT 
+                                                                                       
+CENTRO POLÍTICO ADMINISTRATIVO • RUA 03, S/N. 3º PISO 
+CEP: 78.050.590• CUIABÁ – MT • TEL: 55 65 3613.3500/3613.3502 • WWW.FAPEMAT.MT.GOV.BR 
+ 
+ 
+ANEXO I 
+ 
+FORMULÁRIO DE SOLICITAÇÃO DE RECURSO 
+ 
+ 
+1. Titulo do projeto: 
+2. Justificativa do recurso : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+___/___/2020 
+ 
+ 
+_______________________ 
+Assinatura do Proponente 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FAPEMAT - Fundação de Amparo à 
+Pesquisa do Estado de Mato Grosso 
+Centro Político Administrativo • Rua 03, s/n. 3º piso 
+CEP: 78.050.590• Cuiabá – MT • Tel: 55 65 3613.3500 / 3613.3502 • www.fapemat.mt.gov.br 
+ 
+ 
+ 
+Edital nº 01/2019 
+Chamada Pública do Programa Nacional de Apoio à Geração de Empreendimentos 
+Inovadores - Programa Centelha - MT 
+ 
+A Fundação de Amparo à Pesquisa e Inovação do Estado de Mato Grosso - FAPEMAT vinculada à Secretaria de  
+Estado de Ciência, Tecnologia e Inovação - SECITEC, no âmbito do Convênio nº 03.19.0028/00, torna público o 
+lançamento deste edital e convidam os interessados a apresentarem propostas de inovação para obtenção de apoio 
+financeiro na forma de subvenção econômica, nos termos a seguir estabelecidos. 
+ 
+ 
+1. OBJETIVO 
+ 
+Estimular o empreendedorismo inovador por meio de capacitações para o desenvolvimento de produtos (bens e/ou 
+serviços) ou de processos inovadores e, apoiar por meio da concessão de recursos de subvenção econômica 
+(recursos não reembolsáveis) a geração de empresas de base tecnológicas a partir da transformação de ideias 
+inovadoras em empreendimentos que incorporem novas tecnologias aos setores econômicos estratégicos do estado 
+de Mato Grosso. 
+ 
+2. TEMÁTICAS E SETORES PRIORITÁRIOS 
+ 
+2.1 Serão apoiados projetos inovadores nas seguintes temáticas:Automação; Big Data; Biotecnologia e Genética; 
+Blockchain; Design; Eletroeletrônica; Geoengenharia; Inteligência artificial e machinelearning; Internet das coisas 
+(IoT); Manufatura avançada e robótica; Mecânica e mecatrônica; Nanotecnologia; Química e Novos materiais; 
+Realidade aumentada; Realidade virtual; Segurança, privacidade e dados; Tecnologia Social; Tecnologia da 
+Informação e comunicação (TIC), Telecom. 
+ 
+ 
+2.2 Serão apoiados projetos inovadores que tenham suas soluções aplicadas aos setores: Administração Pública; 
+Agronegócio; Automotivo; Bens de Capital; Borracha e Plástico; Cerâmica; Comércio e Varejo; Construção Civil; 
+Construção Naval; Economia Criativa; Economia do Turismo, Gastronomia, Eventos e Lazer; Educação; Elétrico e 
+Eletrônico; Energia; Fabricação de Alimentos e Bebidas; Farmoquímico e Farmacêutico; Financeiro; Jurídico; Madeira 
+e Móveis; Marketing e Mídias; Meio Ambiente e Bioeconomia; Mercado Imobiliário; Metal-Mecânico e Metalurgia; 
+Mineração; Papel e Celulose; Pesca e aquicultura; Petróleo e Gás; Químico; Saúde e Bem Estar; Segurança e Defesa; 
+Social; Tecnologia da Informação e Telecomunicações; Têxtil, Confecção e Calçados; e Transporte, Logística, 
+Mobilidade. 
+ 
+3. RECURSOS FINANCEIROS A SEREM CONCEDIDOS 
+ 
+3.1 Serãodestinados à concessão de subvenção econômica à inovação, em apoio às propostas aprovadas, recursos 
+no valor global de R$ 1.620.000,00 (hummilhão seiscentos e vinte mil de reais), sendo R$ 1.080.000,00 (hummilhão e 
+oitenta mil de reais), oriundos do Fundo Nacional de Desenvolvimento Científico e Tecnológico – FNDCT/FINEP e R$ 
+540.000,00 (quinhentos e quarenta mil reais) provenientes da Contrapartida Estadual da FAPEMAT. 
+ FAPEMAT - Fundação de Amparo à 
+Pesquisa do Estado de Mato Grosso 
+Centro Político Administrativo • Rua 03, s/n. 3º piso 
+CEP: 78.050.590• Cuiabá – MT • Tel: 55 65 3613.3500 / 3613.3502 • www.fapemat.mt.gov.br 
+ 
+ 
+3.2 Os recursos disponibilizados serão destinados à subvenção econômica de até 27(vinte e sete) projetos de 
+inovação, no valor unitário de até R$ 40.000,00 (quarenta mil reais) com recursos FNDCT/FINEP eaté R$ 20.000,00 
+(vinte mil reais) oriundos da FAPEMAT. 
+ 
+4. REQUISITOS PARA PARTICIPAÇÃO NO PROGRAMA CENTELHA 
+ 
+4.1 As propostas ao PROGRAMA CENTELHA poderão ser submetidas por pessoas físicas, vinculadas ou não a 
+empresas com até 12 (doze) meses de existência anteriores à data de publicação do edital e faturamento bruto 
+anual de até R$ 4.800.000, 00 (quatro milhões e oitocentos mil reais), sediadas no Estado de Mato Grosso por 
+ocasião da divulgação desta Chamada Pública. Os requisitos para participação no Programa, cuja comprovação será 
+indispensável para a posterior contratação, são os seguintes: 
+4.1.1 Do proponente sem empresa constituída: 
+a) Pessoa física (coordenador do projeto) que, se aprovada, deverá constituir uma empresa com sede  no 
+estado de (nome do estado)para contratação e recebimento dos recursos financeiros não reembolsáveis, na 
+forma de subvenção econômica; 
+a.1) A empresa a ser constituída deverá ter objeto social que contemple atividade operacional relacionada 
+com proposta contemplada no âmbito desta chamada; 
+b) Ter vínculo direto com a empresa beneficiária a ser criada (proprietário ou sócio-proprietário), comprovado 
+por meio de contrato social; 
+c) Estar adimplente junto à FAPEMAT; 
+d) Ser residente no estado de Mato Grosso; 
+e) Estar em situação regular no país, se estrangeiro; 
+f) Ter 18 anos completos a partir da data de publicação do edital; 
+4.1.2 Proponentes com empresa constituída: 
+a) Pessoa jurídica com faturamento bruto anual de até R$ 4.800.000, 00 (quatro milhões e oitocentos  mil 
+reais), sediadano Estado de Mato Grosso, com data de constituição em até 12 (doze) meses anteriores à  
+data de publicação do edital; 
+b) A empresa deverá ter objeto social que contemple atividade operacional relacionada com a proposta 
+inovadora contemplada no âmbito desta chamada; 
+c) Estar adimplente junto à FAPEMAT; 
+d) Ser residente no estado de Mato Grosso; 
+e) Estar em situação regular no país, se estrangeiro; 
+f) Ter 18 anos completos a partir da data de publicação do edital; 
+4.1.3 Cada proponente ou componente de equipe dos projetos poderá integrar apenas 1 (uma) proposta, a partir da 
+segunda fase. Caso haja apresentação de mais de uma proposta na fase II, todas serão desclassificadas. 
+ 
+5. CARACTERÍSTICAS E SUBMISSÃO DAS PROPOSTAS 
+ 
+5.1 Os proponentes deverão apresentar suas ideias de produtos (bens e/ou serviços) ou processos inovadores, com 
+potencial para se transformar em empreendimentos que incorporem novas tecnologias aos setores econômicos 
+listados na presente Chamada Pública. 
+ FAPEMAT - Fundação de Amparo à 
+Pesquisa do Estado de Mato Grosso 
+Centro Político Administrativo • Rua 03, s/n. 3º piso 
+CEP: 78.050.590• Cuiabá – MT • Tel: 55 65 3613.3500 / 3613.3502 • www.fapemat.mt.gov.br 
+ 
+ 
+5.2 A submissão, avaliação e seleção das propostas serão realizadas em 3 (três) fases distintas e eliminatórias: 
+a. Fase 1: Ideias Inovadoras – Nesta fase as principais dimensões a serem apresentadas pelos proponentes são: 
+(a) problema que soluciona e a explicação da oportunidade, (b) características básicas da solução proposta, 
+(c) diferencial inovador frente ao que já existe no mercado e (d) identificação e perfil da equipe envolvida. É 
+quando os proponentes farão a inserção de informações básicas sobre a principal ideia da proposta; 
+b. Fase 2: Projeto de Empreendimento – Nesta fase as principais dimensões a serem apresentadas pelos 
+proponentes são: (a) equipe, (b) produto, (c) tecnologia, (d) mercado, (e) capital e (f) gestão. É quando os 
+proponentes farão os detalhamentos das propostas submetidas na fase anterior, agora com foco na 
+viabilidade e no desenvolvimento do empreendimento; 
+c. Fase 3: Projeto de Fomento – Nesta fase, os proponentes devem detalhar o cronograma físico financeiro da 
+proposta e aplicação dos recursos de subvenção a serem recebidos. 
+ 
+5.3 Durante as três fases de seleção, os proponentes receberão capacitações gratuitas online ou presenciais a serem 
+ministradas pela Fundação Certi, com o intuito de alinhar alguns conceitos importantes, para que possam aprimorar 
+suas ideias e projetos. 
+5.3.1 A participação dos proponentes nas capacitações oferecidas pela Fundação CERTI não gera qualquer 
+expectativa, vínculo, ou obrigação de qualquer natureza perante a Fundação ou a Fundação de Amparo à Pesquisa 
+responsável pelo lançamento deste Edital, quanto à aprovação no certame ou recebimento dos recursos de 
+subvenção econômica. 
+5.4 Nas 3 (três) fases de seleção, as propostas deverão ser submetidas por meio do Sistema Centelha 
+(http://mt.programacentelha.com.br), conforme formulário específico para cada uma das fases, respeitando os 
+prazos estabelecidos no item 11. Cronograma. 
+5.5 Nas 3 fases de seleção, as propostas deverão ser submetidas até às 18 horas (dezoito horas) da data limite de 
+submissão prevista no item 11. Cronograma, exclusivamente de forma eletrônica, por meio do Sistema Centelha. 
+5.6 Nenhuma proposta será recebida após o prazo final para envio das mesmas, previsto no item 11. Cronograma. 
+5.7 A FAPEMAT não se responsabilizará por propostas não recebidas em decorrência de eventuais problemas 
+técnicos e congestionamento do sistema, recomendando o envio dos projetos com antecedência. 
+5.8 O conteúdo e integridade da documentação enviada serão de responsabilidade direta e exclusiva do 
+proponente/coordenador técnico da proposta. 
+ 
+6. PRAZOS E VALORES DO PROJETO 
+ 
+6.1. Os projetos terão prazo de execução de até 12 (doze) meses, contados a partir da data de assinatura do TERMO 
+DE OUTORGA de Subvenção Econômica. 
+6.2. As propostas devem ser inscritas respeitando o limite máximo de R$ 40.000,00 (quarenta mil reais) com 
+recursos FNDCT/FINEP e atéR$ 20.000,00 (vinte mil reais) com recursos da FAPEMAT, a ser liberado em até 3(três) 
+parcelas, de acordo com a disponibilidade orçamentária e financeira da FAPEMAT. 
+6.3 O proponente deverá, obrigatoriamente, aportar recursos a título de contrapartida financeira, no limite mínimo 
+5% (cinco por cento) do valor de subvenção econômica contratado. 
+ FAPEMAT - Fundação de Amparo à 
+Pesquisa do Estado de Mato Grosso 
+Centro Político Administrativo • Rua 03, s/n. 3º piso 
+CEP: 78.050.590• Cuiabá – MT • Tel: 55 65 3613.3500 / 3613.3502 • www.fapemat.mt.gov.br 
+ 
+ 
+7. ITENS FINANCIÁVEIS 
+ 
+7.1. Os itens financiáveis com recursos da subvenção econômica serão destinados à cobertura de despesas de 
+custeio e capital vinculadas diretamente com a execução do projeto, conforme itens a seguir: 
+ 
+7.2.1. CUSTEIO: 
+a) Hospedagem e Alimentação, somente para o Coordenador e membros da equipe executora do projeto, para 
+cobrir despesas com hospedagem, alimentação e locomoção, decorrentes de afastamento da sede em 
+caráter eventual e somente para participar de possíveis eventos de capacitação do Programa, e de acordo 
+com as normas estipuladas pela FAPEMAT; 
+b) Passagens aéreas e/ou terrestres nacionais, exclusivas para o Coordenador ou membros da equipe 
+executora do projeto, para cobrir despesas diretamente ligadas ao desenvolvimento da inovação; 
+c) Material de consumo, componentes e/ou peças de reposição de equipamentos; 
+d) Serviços de Terceiros Pessoa Física e/ou Jurídica de caráter eventual, locação, instalação, recuperação e 
+manutenção de equipamentos e despesas com registro de propriedade intelectual. Também poderão ser 
+incluídos serviços especializados de consultoria ou assessoria técnica. Os pagamentos a pessoas físicas 
+deverão ser realizados de acordo com a legislação em vigor, de forma a não caracterizar vínculo 
+empregatício. 
+ 
+7.2.2. CAPITAL: 
+ 
+a) Materiais permanentes e equipamentos pertinentes ao desenvolvimento do projeto, nacional ou 
+internacional, com as despesas com instalações necessárias ao adequado funcionamento de equipamentos. 
+ 
+7.2.2.1 Livro pode ser considerado bem de capital se for imobilizado ao patrimônio (equipamento e material 
+permanente). 
+ 
+7.3 Serão financiáveis apenas as despesas realizadas após a contratação do projeto e o recebimento em conta dos 
+recursos da subvenção. Não será realizado o reembolso de quaisquer despesas efetuadas em período anterior à 
+contratação e recebimento da subvenção. 
+ 
+8. ITENS NÃO FINANCIÁVEIS 
+ 
+8.1 Os seguintes itens são considerados não financiáveis com recursos da subvenção econômica: 
+a) Aquisição de veículos, máquinas, materiais permanentes, equipamentos de comunicação e telefonia, 
+mobiliários de escritório, eletrônicos, eletrodomésticos e outros bens de capital. 
+b) Despesas com construção civil, para planejamento e execução de obras e instalações. 
+c) Gastos com publicidade e organização de eventos técnico-científicos ou de outra natureza. 
+d) Gastos com recepções, eventos de homenagens ou festividades, inclusive despesas com refeições, lanches, 
+coffee break e vale-refeição. 
+e) Despesas com combustível e pedágio. 
+f) Tarifas relativas a serviços postais e de telecomunicação, tarifas bancárias e de serviços (água, luz, telefone, 
+etc.). 
+ Centro Político Administrativo • Rua 03, s/n. 3º piso 
+CEP: 78.050.590• Cuiabá – MT • Tel: 55 65 3613.3500 / 3613.3502 • www.fapemat.mt.gov.br 
+FAPEMAT - Fundação de Amparo à 
+Pesquisa do Estado de Mato Grosso 
+ 
+ 
+g) Serviços de apoio administrativo em geral. 
+h) Pagamentos de qualquer natureza a servidor da administração pública, empregado de empresa pública ou 
+de sociedade de economia mista. 
+i) 
+Salários ou qualquer outro tipo de remuneração, inclusive pagamentos a estagiários. 
+j) Multas e encargos sociais de qualquer natureza. 
+k) Aquisição de equipamentos 
+ 
+8.2 Todos os itens não financiáveis, além de outros não mencionados acima, mas necessários para a execução da 
+proposta, poderão ser considerados como contrapartida econômica voluntária da instituição executora, além da 
+contrapartida financeira mínima exigida conforme o item 6. 
+ 
+9. AVALIAÇÃO E SELEÇÃO DAS PROPOSTAS 
+ 
+9.1 Cada uma das propostas será avaliada por 2 (dois) especialistas, com comprovada capacidade técnica e de 
+mercado, denominados Avaliadores ad hoc a serem selecionados pela FAPEMAT. 
+9.2 Os avaliadores serão capacitados para o alinhamento de critérios e realizarão as avaliações no Sistema Centelha, 
+atribuindo conceitos em cada um dos critérios analisados e registrando um parecer escrito sobre o projeto avaliado, 
+que inclua conclusões quanto às características inovadoras dos produtos e/ou processos a serem desenvolvidos. 
+Caberá ao responsável por este Edital manter o registro da qualificação técnica e experiência profissional dos 
+avaliadores utilizados. 
+9.3 Os avaliadores assinarão um termo de sigilo e confidencialidade, comprometendo-se a não utilizar as 
+informações e declarando, também, não submeter proposta à Chamada Pública, não participar no capital ou na 
+administração de nenhuma empresa ou instituição parceira de empresa proponente nesta Chamada Pública, e 
+tampouco possuir vínculo empregatício com as mesmas. 
+9.4 Os avaliadores não poderão ter vínculo profissional ou de parentesco com as pessoas físicas ou jurídicas 
+proponentes. 
+9.5 As pessoas físicas ou jurídicas proponentes não poderão ter em seus quadros de pessoal funcionários, sócios ou 
+dirigentes com vínculo profissional ou de parentesco com a Fundação de Amparo à Pesquisa de Mato Grosso - 
+FAPEMAT. 
+ 
+10. CRITÉRIOS DE AVALIAÇÃO 
+ 
+10. Fase 1: Ideia Inovadora: 
+a) Na fase de seleção das ideias inovadoras, serão considerados os seguintes critérios em relação aos projetos 
+de desenvolvimento de produtos (bens e/ou serviços) ou processos inovadores: 
+ 
+Critério 
+Aspecto Considerado 
+Pontuação 
+Problema ou oportunidade de 
+Mercado (M) 
+Relevância, tamanho, abrangência e 
+tendências de mercado 
+0 a 6 
+Potencial Inovador (I) 
+O produto proposto e as tecnologias 
+envolvidas 
+0 a 6 
+ Centro Político Administrativo • Rua 03, s/n. 3º piso 
+CEP: 78.050.590• Cuiabá – MT • Tel: 55 65 3613.3500 / 3613.3502 • www.fapemat.mt.gov.br 
+FAPEMAT - Fundação de Amparo à 
+Pesquisa do Estado de Mato Grosso 
+ 
+ 
+Equipe Empreendedora (E) 
+Capacidade técnica e gerencial da equipe 
+0 a 6 
+ 
+b) A pontuação na Fase 1 será obtida pelo produto da nota do problema ou oportunidade de mercado pelo 
+potencial inovador, somado à nota da equipe empreendedora, conforme a fórmula: NOTA FASE 1 = (M x I) + 
+E; 
+c) Em caso de empate, será considerada a maior pontuação obtida nos critérios de Potencial Inovador (I), 
+Equipe Empreendedora (E), Problema ou Oportunidade de Mercado (M), data mais antiga de submissão, 
+nesta ordem, como critérios de desempate; 
+d) Nesta Fase poderão ser selecionadas até 200 ideias em ordem decrescente de nota, e passarão para a 
+próxima Fase as que obtiverem as maiores notas, limitadas a uma por proponente; 
+e) Caso ummesmo proponente tenha mais de uma ideia com nota suficiente para ser aprovada, será 
+selecionada para a Fase 2 aquela que obtiver a maior pontuação; 
+f) Esta Fase é passível de interposição de recursos administrativos conforme orientações estabelecidas no item 
+13. Recursos Administrativos. 
+ 
+10.1 Fase 2: Projeto de Empreendimento: 
+a) Na fase Projeto de Empreendimento, serão considerados os seguintes critérios em relação aos projetos de 
+desenvolvimento de produtos (bens e/ou serviços) ou processos inovadores: 
+ 
+Critério 
+Aspecto Considerado 
+Pontuação 
+ 
+Potencial de Inovação (P) 
+Fornecimento de valor do produto, grau de 
+inovação e nível de domínio das tecnologias 
+envolvidas 
+ 
+4 a 10 
+Potencial de Mercado (M) 
+Tamanho, abrangência e tendências 
+4 a 10 
+ 
+Fator de Risco (R) 
+Investimentos necessários, capacidade 
+técnica e gerencial da equipe, modelo de 
+negócio. 
+ 
+0,4 a 1,0 
+ 
+b) A pontuação da Fase 2 será obtida pela multiplicação dos três critérios, em que os dois primeiros fornecem o 
+potencial do negócio e o fator de risco é um redutor que leva em conta a probabilidade do negócio, mesmo 
+tendo potencial, não resultar em sucesso. Por isso, é um fator redutor, em que a pontuação 1,0 significa 
+máxima possibilidade de sucesso. O cálculo descrito segue a fórmula: NOTA FASE 2 = P x M x R; 
+c) Em caso de empate, será considerada a pontuação obtida nos critérios Risco (R), Potencial de Inovação (P) e 
+no Potencial de Mercado (M), data mais antiga de submissão, nesta ordem, como critérios de desempate; 
+d) A Fase 2 é classificatória e passarão para a próxima fase até 100 projetos, selecionados em ordem 
+decrescente de nota; 
+e) Esta etapa é passível de interposição de recursos administrativos, conforme orientações estabelecidas no 
+item 13. Recursos Administrativos. 
+ 
+10.2 Fase 3: Projeto de Fomento: 
+ Centro Político Administrativo • Rua 03, s/n. 3º piso 
+CEP: 78.050.590• Cuiabá – MT • Tel: 55 65 3613.3500 / 3613.3502 • www.fapemat.mt.gov.br 
+FAPEMAT - Fundação de Amparo à 
+Pesquisa do Estado de Mato Grosso 
+ 
+ 
+a) Na fase Projeto de Fomento serão considerados os seguintes critérios em relação aos projetos de 
+desenvolvimento de produtos (bens e/ou serviços) ou processos inovadores: 
+ 
+Critério 
+Aspecto Considerado 
+Pontuação 
+Planejamento do Produto (PP) 
+Plano de desenvolvimento do Produto e 
+Tecnologia 
+4 a 10 
+Planejamento do Negócio (PN) 
+Plano de implementação da empresa 
+4 a 10 
+Equipe (E) 
+Competência técnica e gerencial 
+4 a 10 
+Orçamento (O) 
+Plano de aplicação dos recursos e 
+cronograma 
+4 a 10 
+ 
+b) A pontuação na Fase 3 será obtida pela média dos critérios: NOTA FASE 3 = (PP + PN + E + O) / 4; 
+ 
+10.3 Nota final do Projeto 
+a) A nota final do projeto será calculada pela média da nota da Fase 2 e da Fase 3, conforme a fórmula: NOTAL 
+FINAL DO PROJETO = (NOTA FASE 2 + NOTA FASE 3) /2; 
+b) Em caso de empate, será considerada a pontuação obtida na Fase 2 e a data mais antiga de submissão, nesta 
+ordem, como critérios de desempate; 
+c) Serão aprovados até 50 (cinquenta) projetos, em ordem decrescente de Nota Final; 
+d) Esta etapa é passível de interposição de recursos administrativos, conforme orientações estabelecidas no 
+item 13. Recursos Administrativos. 
+ 
+11. CRONOGRAMA 
+ 
+ 
+ 
+ 
+Atividades 
+Datas 
+Início 
+Término 
+Lançamento da Chamada 
+Pública 
+09/10/2019 
+ 
+Fase 1. Submissão das ideias 
+inovadoras 
+ 
+ 
+10/10/2019 
+ 
+17/01/2020 às 18h* 
+(Horário de Brasília) 
+Seleção e avaliação das 
+ideias inovadoras – Fase 1 
+20/01/2020 
+21/02/2020 
+Divulgação do Resultado 
+Preliminar das Ideias 
+Inovadoras Selecionadas – 
+Fase 1 
+ 
+09/03/2020 
+ Centro Político Administrativo • Rua 03, s/n. 3º piso 
+CEP: 78.050.590• Cuiabá – MT • Tel: 55 65 3613.3500 / 3613.3502 • www.fapemat.mt.gov.br 
+FAPEMAT - Fundação de Amparo à 
+Pesquisa do Estado de Mato Grosso 
+ 
+ 
+Prazo para Interposição de 
+Recursos Administrativos na 
+Fase 1 
+ 
+10/03/2020 
+ 
+23/03/2020 
+Divulgação das Ideias 
+Inovadoras Aprovadas na Fase 
+1 
+ 
+24/03/2020 
+Fase 2. Submissão dos 
+Projetos de Empreendimento 
+25/03/2020 
+22/05/2020 às 18h* 
+(Horário de Brasília) 
+Seleção e avaliação dos 
+projetos de empreendimento 
+– Fase 2 
+ 
+25/05/2020 
+ 
+19/06/2020 
+Divulgação do resultado 
+Preliminar dos Projetos de 
+Empreendimento Selecionados 
+– Fase 2 
+ 
+22/06/2020 
+Prazo para Interposição de 
+Recursos Administrativos na 
+Fase 2 
+ 
+23/06/2020 
+ 
+06/07/2020 
+Divulgação dos Projetos de 
+Empreendimento Aprovados 
+na Fase 2 
+ 
+08/07/2020 
+Fase 3. Submissão dos 
+Projetos de Fomento 
+09/07/2020 
+30/07/2020 às 18h* 
+(Horário de Brasília) 
+Seleção e avaliação dos 
+projetos de fomento – Fase 3 
+ 
+03/08/2020 
+ 
+21/08/2020 
+Divulgação do Resultado 
+Preliminar dos Projetos de 
+Fomento Selecionados – Fase 
+3 
+ 
+24/08/2020 
+Prazo para Interposição de 
+Recursos Administrativos na 
+Fase 3 
+ 
+25/08/2020 
+ 
+08/09/2020 
+Divulgação do resultado Final 
+e Publicação no DOE 
+10/09/2020 
+Prazo para constituição 
+da empresa e inserção de 
+documentos para a 
+contratação da Plataforma da 
+FAP 
+ 
+ 
+11/09/2020 
+ 
+ 
+10/11/2020 
+Contratação dos projetos de 
+fomento 
+a partir de 10/09/2020 
+ 
+Chamada de Suplentes 
+11/11/2020 (ou antes, à medida que os aprovados 
+formalizam desistência) 
+Prazo para Suplentes para 
+constituição da empresa e 
+inserção de documentos para 
+a contratação da Plataforma 
+da FAP 
+ 
+11/11/2020 (ou antes, à medida 
+que os aprovados formalizam 
+desistência) 
+ 
+ 
+11/01/2021 
+ Centro Político Administrativo • Rua 03, s/n. 3º piso 
+CEP: 78.050.590• Cuiabá – MT • Tel: 55 65 3613.3500 / 3613.3502 • www.fapemat.mt.gov.br 
+FAPEMAT - Fundação de Amparo à 
+Pesquisa do Estado de Mato Grosso 
+ 
+ 
+Contratação dos projetos de 
+fomento (suplentes) 
+A partir de 11/11/2020 (ou antes, à medida que os 
+aprovados formalizam desistência) 
+ACOMPANHAMENTO DOS 
+projetos contratados 
+12 meses após a contratação 
+Avaliação técnica final 
+13 meses após a contratação 
+ 
+ 
+12. DIVULGAÇÃO DOS RESULTADOS 
+ 
+12.1 Os resultados, PRELIMINARES e FINAIS, das propostas selecionadas em cada uma das fases serão divulgados, 
+em ordem alfabética de projeto, no Portal da FAPEMATno site (www.fapemat.mt.gov.br) no Portal Centelha 
+(www.programacentelha.com.br), nos prazos previstos no item 11. Cronograma, desta Chamada Pública. 
+12.2 A FAPEMAT encaminhará o resultado final da seleção dos projetos aprovados na Fase 3 para publicação no 
+Diário Oficial do Estado de Mato Grosso. 
+12.3 É de responsabilidade do proponente manter seus dados cadastrais atualizados no Sistema Centelha e no 
+sistema SIGFAPMAT, uma vez que toda a comunicação formal será feita pelas informações fornecidas nos sistemas. 
+12.4 É de responsabilidade dos proponentes garantirem as condições técnicas para recebimento, acesso e leitura 
+dos e-mails enviados pelo Programa Centelha-MT por meio dos endereços contato@programacentelha.com.br e 
+centelha@fapemat.mt.gov.br 
+ 
+13. RECURSOS ADMINISTRATIVOS 
+ 
+13.1 Os proponentes poderão solicitar à FAPEMATpor e-mail o parecer com as justificativas apresentadas pelos 
+avaliadores, em até 10 (dez) dias corridos após a divulgação dos resultados preliminares de cada uma das Fases de 
+seleção. 
+13.2 Caso o proponente tenha justificativas para contestar o resultado do julgamento das propostas em qualquer 
+uma das Fases, poderá apresentar recurso administrativo em até 10 (dez) dias corridos, contados do dia 
+subsequente à data de divulgação do resultado. 
+13.3 Os recursos deverão ser preenchido em formulário específico, (Anexo I) e enviado por email para 
+dtc@fapemat.mt.gov.br, dirigidos à diretoria técnico científica e deverão obedecer às disposições e prazos 
+estabelecidos em norma específica da FAPEMAT sobre recursos administrativos. 
+13.4 A diretoria técnico científica da FAPEMAT analisará os recursos interpostos e encaminhará seu parecer ao 
+Conselho Diretor da FAPEMAT, que deliberará quanto ao deferimento ou indeferimento do resultado. 
+13.5 Após análise dos recursos administrativos, os resultados divulgados conforme previsto no cronograma. A 
+Divulgação dos Resultados poderá sofrer retificação. 
+ Centro Político Administrativo • Rua 03, s/n. 3º piso 
+CEP: 78.050.590• Cuiabá – MT • Tel: 55 65 3613.3500 / 3613.3502 • www.fapemat.mt.gov.br 
+FAPEMAT - Fundação de Amparo à 
+Pesquisa do Estado de Mato Grosso 
+ 
+ 
+14. PROCEDIMENTO PARA CONTRATAÇÃO DAS APROVADAS 
+ 
+14.1 Após a publicação do resultado final, para contratação dos projetos aprovados, a empresa beneficiária deverá 
+apresentar a seguinte documentação, nos prazos estabelecidos: 
+a) Submissão da proposta aprovada no sistema de acompanhamento de projeto da FAPEMAT, intitulado 
+SIGFAPEMAT; 
+b) Inscrição no CNPJ da Receita Federal do Brasil, com caracterização do porte (ME ou EPP), indicação do nome 
+e do endereço atualizado da empresa; 
+c) Cópia do Contrato Social registrado na Junta Comercial do (nome do estado). 
+d) Certidão Conjunta Negativa de Débitos, relativa aos Tributos Federais e à Dívida Ativa da União junto à 
+Receita Federal; 
+e) Certidão Negativa de Débito junto à Fazenda Estadual; 
+f) Certidão Negativa de Débito junto à Fazenda Municipal; 
+g) Certidão Negativa junto à Justiça trabalhista; 
+h) Certificado de Regularidade do FGTS na Caixa Econômica Federal; 
+i) 
+Cópias do CPF e do RG do responsável da empresa; 
+j) Comprovante de residência do responsável da empresa; 
+k) Declaração ou extrato de conta corrente com nome personalizado e fornecido pelo Banco do Brail, com as 
+seguintes informações: conta aberta específica para o projeto de fomento, nome e CNPJ da empresa, 
+número da conta corrente, código/prefixo da agencia bancária; 
+l) 
+Comprovação do aporte de contrapartida financeira exigida no item 6; 
+m) Declaração do responsável legal, afirmando que a empresa não possui proprietário ou sócio proprietário que 
+possua outra(s) empresa(s) de qualquer natureza; 
+ 
+14.2 O prazo limite para entrega da documentação prevista será de até 60 dias, contados da data da publicação do 
+resultado final. 
+14.3 O não atendimento ao prazo de entrega da documentação resultará na perda do direito à contratação e na 
+consequente convocação de proposta(s) suplente(s) oriundos do cadastro de reserva, obedecida a ordem de 
+classificação da seleção e respeitado o limite de recursos financeiros do Chamada Pública. 
+14.4 A ausência de qualquer documento exigido ou a inadimplência da empresa beneficiária com a administração 
+pública federal, estadual ou municipal, direta ou indireta, constituirão fator impeditivo para a contratação do 
+projeto. Assim, a empresa deverá estar atualizada e regularizada, com as Certidões Negativas de Débito e prestações 
+de contas de quaisquer órgãos da administração pública. 
+14.5 A concessão dos recursos financeiros da subvenção econômica será efetivada por meio da celebração do Termo 
+de Outorga de Concessão da Subvenção Econômica entre as partes (Anexo I). 
+14.6 Do coordenador técnico e profissionais da equipe executora: 
+a) O coordenador do projeto deve ter competência e experiência técnica relacionada ao tema da proposta e 
+vínculo com a beneficiária proponente (participação como sócio ou empregado com vínculo trabalhista, de 
+acordo com as regras da CLT). 
+ Centro Político Administrativo • Rua 03, s/n. 3º piso 
+CEP: 78.050.590• Cuiabá – MT • Tel: 55 65 3613.3500 / 3613.3502 • www.fapemat.mt.gov.br 
+FAPEMAT - Fundação de Amparo à 
+Pesquisa do Estado de Mato Grosso 
+ 
+ 
+b) Os demais profissionais que detêm a maioria das competências críticas para o sucesso do projeto deverão 
+ter vínculo (participação como sócios ou empregados com vínculo trabalhista de acordo com as regras da 
+CLT) com a(s) beneficiária(s); 
+ 
+15. CONCEITOS 
+ 
+Inovação:Para fins deste edital, é adotado o conceito de inovação da Lei Nacional de Inovação (Lei Nº 13.243/2016), que a 
+define como a introdução de novidade ou aperfeiçoamento no ambiente produtivo e social que resulte em novos produtos, 
+serviços ou processos ou que compreenda a agregação de novas funcionalidades ou características a produto, serviço ou 
+processo já existente que possa resultar em melhorias e em efetivo ganho de qualidade ou desempenho. 
+Empresa brasileira: organização econômica instituída para a produção ou a circulação de bens ou de serviços, com 
+finalidade lucrativa, constituída sob as leis brasileiras e com sede de sua administração no Brasil. Nos termos dos 
+Acórdãos 1342/2009 e 227/2011 do Plenário do TCU, são elegíveis a receber recursos de subvenção econômica as 
+sociedades simples com finalidade lucrativa. 
+Despesas de custeio: pagamento de pessoal próprio alocado em atividades de P,D&I e respectivas obrigações 
+patronais; contratação de pessoas físicas ou jurídicas para o desenvolvimento parcial do projeto, inclusive as redes 
+do Sistema Brasileiro de Tecnologia – SIBRATEC; material de consumo; locação de bens móveis ou imóveis, desde 
+que sejam efetivamente aplicados no projeto; e gastos para introdução pioneira do produto (bem ou serviço) e/ou 
+processo no mercado. 
+Despesas de capital: despesas realizadas com obras e instalações ou equipamento e material permanente , 
+vinculadas ao projeto constante da relação de itens do projeto. 
+Gastos para introdução pioneira: são aceitos gastos como pagamento de serviços de terceiros para fabricação de 
+lote pioneiro; aluguel de máquinas para fabricação do protótipo; aquisição de matéria prima para produção de lote 
+pioneiro; contratação de consultoria de marketing para lançamento do produto; despesas para elaboração da 
+documentação preestabelecida pelo Instituto Nacional de Propriedade Intelectual (INPI), em conformidade com a Lei 
+nº 9.279/96, artigo 19, para pedido de patente (relatório descritivo, reivindicações, desenhos ou resumos) e outros 
+pertinentes. 
+ 
+16. DISPOSIÇÕES GERAIS E FINAIS 
+ 
+16.1 Serão desconsideradas as propostas que estejam em desacordo com qualquer item deste Edital; 
+16.2 Ao preencher o Formulário Eletrônico a beneficiária proponente se compromete com a veracidade das 
+informações declaradas. 
+16.3 Decairá do direito de impugnar os termos deste edital aquele que, tendo-o aceito sem objeção, venha a 
+apontar, posteriormente ao prazo final para submissão das propostas, eventuais falhas  ou imperfeições, hipótese 
+em que sua comunicação não terá efeito de recurso. 
+16.4 O presente edital poderá ser revogado ou anulado, no todo ou em parte, por motivo de interesse público ou 
+exigência legal, sem que isso implique direito à indenização ou reclamação de qualquer natureza. 
+16.5 É de responsabilidade do proponente a obtenção de todas as autorizações e licenças necessárias para a 
+execução do projeto. 
+ Centro Político Administrativo • Rua 03, s/n. 3º piso 
+CEP: 78.050.590• Cuiabá – MT • Tel: 55 65 3613.3500 / 3613.3502 • www.fapemat.mt.gov.br 
+FAPEMAT - Fundação de Amparo à 
+Pesquisa do Estado de Mato Grosso 
+ 
+ 
+16.6 O cancelamento do benefício será efetivado pelaFAPEMAT, por ocorrência, durante sua implementação, de fato 
+cuja gravidade o justifique, sem prejuízo de outras providências cabíveis. 
+16.7 O proponente responsabilizar-se-á por todas as informações contidas no projeto apresentado, assumindo 
+solidariamente a responsabilidade pela sua autoria, sob pena de sanções posteriores especificadas no Termo de 
+Outorga de Subvenção Econômica, permitindo que a FAPEMATem qualquer momento, possa confirmar a veracidade 
+das informações prestadas. 
+16.8 As instituições promotoras e fomentadoras ficam isentas de qualquer responsabilidade pela divulgação não 
+autorizada ou obtenção, por terceiros, de informações sobre os projetos divulgados, sendo que os proponentes 
+abdicam a toda e qualquer reclamação ou reivindicação posterior relativa ao Programa Centelha-MT. 
+16.9 Este Edital é o documento oficial daFAPEMAT, para todos os fins e efeitos de direito. Caso sejam verificadas 
+divergências entre as informações constantes em regulamentos específicos ou nos materiais de divulgação, 
+prevalecerá o estipulado no Edital. 
+16.10 Os casos omissos serão dirimidos pela FAPEMAT 
+16.11 Esclarecimentos e informações adicionais acerca do conteúdo deste Edital podem ser obtidos encaminhando- 
+se mensagem para os seguintes endereços centelha@fapemat.mt.gov.br. 
+ 
+ 
+Cuiabá, 20/04/2020. 
+ 
+ 
+ 
+ 
+Adriano Aparecido Silva 
+Presidente da FAPEMAT 
+ Centro Político Administrativo • Rua 03, s/n. 3º piso 
+CEP: 78.050.590• Cuiabá – MT • Tel: 55 65 3613.3500 / 3613.3502 • www.fapemat.mt.gov.br 
+FAPEMAT - Fundação de Amparo à 
+Pesquisa do Estado de Mato Grosso 
+ 
+ 
+ 
+ 
+Anexo I 
+ 
+FORMULÁRIO DE SOLICITAÇÃO DE RECURSO 
+ 
+Edital 001-2019  - Centelha 2019 
+ 
+1. Nome do Coordenador: 
+ 
+2. Nome do projeto: 
+ 
+ 
+3. Justificativa para o recurso administrativo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+,  
+de  
+de 2020. 
+ 
+ 
+ 
+ 
+ 
+Assinatura do Coordenador do Projeto 

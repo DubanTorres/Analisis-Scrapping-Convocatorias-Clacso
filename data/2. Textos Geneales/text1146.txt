@@ -1,0 +1,897 @@
+
+INVITACIÓN A PRESENTAR PROPUESTA 
+ 
+DOCUMENTO PARA INVITAR A PRESENTAR UNA PROPUESTA PARA LA REALIZACIÓN 
+DE UN PROYECTO QUE PERMITA MODELAR Y SISTEMATIZAR LOS PROCESOS DE 
+APPS.CO Y CONTENIDOS DIGITALES, A TRAVÉS DE UN PROYECTO “FARO” DE DATA 
+LAB QUE PERMITA LA IMPLANTACIÓN DE UN LABORATORIO DE INVESTIGACIÓN Y 
+DESARROLLO PARA EL ANÁLISIS Y MEJORA DE LOS SERVICIOS, APROVECHANDO 
+LAS NUEVAS TECNOLOGÍAS BIG DATA Y LAS DISCIPLINAS DE ANALÍTICA AVANZADA 
+O DATA SCIENCE. 
+  
+Contexto  
+La iniciativa “Apps.co” ha tenido gran acogida en el apoyo al emprendimiento de base 
+tecnológica en Colombia, desarrollando una metodología propia, caracterizada por su 
+constante renovación a partir del desarrollo de interacciones en sus diferentes fases 
+(Bootcamps, Descubrimiento de Negocios y Crecimiento y Consolidación). 
+El gran éxito de la iniciativa se ve reflejado en los resultados que ha obtenido hasta el 
+momento, donde se evidencia, por la acogida de los diferentes sectores, que el impacto ha sido 
+positivo.  Sin embargo, en el desarrollo y ejecución de la iniciativa se evidenciaron ciertas 
+problemáticas en el ecosistema por medio de la cual se ejecuta gran parte del proyecto 
+Apps.co, que no han sido cubiertas, y radican esencialmente en la necesidad de actualizar y 
+articular la interacción entre los usuarios, la oferta de contenidos (aquellos relacionados con 
+cursos y capacitaciones en habilidades técnicas como programación en diferentes lenguajes) y 
+los sistemas de gestión de administración que evalúen el correcto desempeño de estos. 
+Por lo anterior y en el marco del objetivo 6 del convenio 498/346 de 2010 que establece: 
+“Apoyar la formulación e implementación de proyectos de ciencia, tecnología, innovación, 
+aplicaciones y contenidos digitales en el sector TIC, así como el desarrollo y la adopción de TIC 
+para las MIPYME ubicadas en sectores económicos estratégicos para la economía 
+colombiana”, se pretende dar solución a las problemáticas identificadas,  a través del 
+mejoramiento (ampliación de capacidad y servicios, tanto para la gestión de la iniciativa como 
+para la comunidad objetivo de Apps.co) de la plataforma tecnológica actual de la iniciativa, para 
+lo cual se incluirán  nuevos contenidos de cursos  en  línea  gratuitos  sobre  Metodologías  de 
+Emprendimiento, Negocios, Mercadeo digital y diseño,  entre otros,  para impactar cada vez a 
+más personas a nivel nacional y al mismo tiempo generar actividades orientadas a fortalecer el 
+proceso de formación y selección de equipos de Descubrimiento de negocios. 
+El fortalecimiento de las herramientas tecnológicas como parte del procesos de transformación 
+y generación de conocimiento que se pretende realizar, incluye el desarrollo de los siguientes 
+componentes: (i) herramientas gerenciales de mando, (ii) sistemas de soporte a la decisión, (iii) 
+sistemas de informes ejecutivos automatizados, que aseguren que las decisiones tomadas 
+sean el resultado de una gestión de procesos, indicadores y variables desarrollados a la 
+medida, y que las soluciones que se extraigan respondan a los objetivos propuestos. Todo esto 
+se realizará basándose en un modelo colaborativo, en el cual los usuarios son dueños y 
+autores de sus ideas, de los contenidos y de las soluciones que se generen. 
+La alta dinámica presente en el ámbito de las Aplicaciones TIC genera un contexto de gestión 
+complejo, en el cual se conjugan las fuerzas de mercados globales, los cambios tecnológicos, 
+normativos y sociales, las tendencias culturales y de consumo, que afectan el emprendimiento, 
+ el desarrollo y sostenibilidad para las potenciales y existentes empresas de base tecnológica 
+que se desempeñan en ese sector de negocios tecnológicos, generando la necesidad de 
+consolidación de un ecosistema de apoyo a las empresas de base tecnológica en todos los 
+estadios de constitución en el país. 
+ 
+El Ministerio de Tecnologías de la Información y las Comunicaciones, adelanta para este 
+propósito la iniciativa Apps.co, “… dirigida a promover la creación de nuevas empresas TIC, 
+centrándose en aplicaciones móviles, web, software y contenidos digitales. El objetivo de la 
+iniciativa es el de transformar los emprendedores e ideas, en empresas y negocios 
+sostenibles”. Esta iniciativa está constituida por tres fases: Fase Bootcamps, Fase 
+Descubrimiento de Negocios, Fase Crecimiento y Consolidación. 
+ 
+En este marco, el problema identificado es el de la necesidad de consolidar la metodología 
+desarrollada por la iniciativa Apps.co, la cual tiene características evolutivas y de adaptabilidad, 
+que se dan por las iteraciones de los procesos de Descubrimiento de Negocio y de Crecimiento 
+y Consolidación, constituyéndose estos en la aplicación de una metodología que permita 
+optimizar sus resultados en términos de gestión e impacto, todo esto sobre la estructura de un 
+ECOSISTEMA de gestión basado en una plataforma tecnológica, diseñada para la 
+administración y optimización de información, procesos y conocimiento de las iniciativas de 
+Apps.co y Contenidos Digitales. 
+ 
+En este contexto, la necesidad presente es la de consolidar un ecosistema de gestión de 
+emprendimientos digitales, implementado sobre un Modelo de Madurez de Capacidades 
+(CMM), que aplique una metodología evolutiva y adaptable, para la promoción y potenciación 
+de negocios en aplicaciones móviles, plataformas web, software y contenidos digitales, en 
+empresas de base tecnológica nacionales, en un contexto de colaboración y apoyo de los 
+actores del SNCTI. 
+ 
+En la implementación de esta estrategia se ha considerado el desarrollo de herramientas de 
+apoyo a la decisión basadas en analítica avanzada y Data Science, para lo cual, se plantea 
+este proyecto, cuyo alcance tiene el modelamiento de los procesos y la investigación de éstos a 
+través de estas disciplinas.  
+El análisis realizado sobre los indicadores lógicos de los procesos que sustentan la iniciativa 
+facilitará la toma decisiones a nivel táctico, operativo y estratégico en relación a los diferentes 
+programas de formación y acompañamiento de Apps.co. 
+ 
+Entre otros beneficios, estas herramientas van a permitir conocer en todo momento el estado 
+del avance de los programas que se desarrollen para fortalecer la oferta definida, en conexión 
+con la demanda, de manera que permita interacciones de valor entre los miembros y a su vez 
+permita medir y proporcionar información de valor para la evaluación mediante indicadores.  
+ 
+De acuerdo a lo anterior, es necesario Modelar y sistematizar los procesos de Apps.co y 
+Contenidos Digitales y la capacidad de análisis avanzado que permita la toma de decisión para 
+la transformación y mejora del modelo actual, a través de un proyecto “faro” de Data Lab que 
+permita la implantación de un laboratorio de investigación y desarrollo para el análisis y mejora 
+de los servicios de gobierno de Apps.co y Contenidos Digitales, aprovechando las nuevas 
+tecnologías Big Data y las disciplinas de analítica avanzada o Data Science, consolidando de 
+esta forma, la metodología innovadora de los programas mediante una estrategia basada en la 
+utilización de los datos. 
+ 
+ 
+  
+ 
+Objeto del proyecto  
+ 
+Modelar y sistematizar los procesos de Apps.co y Contenidos Digitales, a través de un proyecto 
+“faro” de Data Lab que permita la implantación de un laboratorio de investigación y desarrollo 
+para el análisis y mejora de los servicios, aprovechando las nuevas tecnologías Big Data y las 
+disciplinas de analítica avanzada o Data Science.  
+ 
+Objetivos Específicos 
+ 
+Modelamiento y sistematización de los procesos de gestión de Apps.co y Contenidos 
+Digitales.  
+ 
+Diseño y desarrollo de sistema de gestión del Ecosistema y de las herramientas 
+verticales que implementan los procesos modelados.  
+ 
+Diseñar y desarrollar contenidos digitales adaptados a la estrategia de Apps.co, que 
+permitan la transferencia de conocimiento y la generación de capacidades TIC a los 
+actores del emprendimiento en Colombia.  
+ 
+Operación del Data Lab, con el siguiente alcance: - Incorporación de datos al Data Lake 
+y operación de discovery. - Elaboración del primer informe de resultados. - Elaboración 
+del plan de investigación para iteraciones futuras según metodología IAP-EML 
+Plazo de ejecución del proyecto 
+ 
+El proyecto tendrá una duración de 10 meses después de la suscripción del acta de inicio. 
+ 
+Dirigido a  
+ 
+Personas jurídicas con o sin ánimo de lucro, consorcios, uniones temporales, domiciliadas en 
+Colombia tales como; empresas, gremios, centros de investigación, centros de desarrollo 
+tecnológico, incubadoras de empresas de base tecnológica, instituciones de educación superior 
+(IES), institutos de formación tecnológica y otras organizaciones que en su objeto demuestren 
+modelamiento de procesos, sistemas de gestión de conocimiento, datalab, data analytics, 
+ecosistemas de innovación y todo lo relacionado con el objeto de la invitación. 
+ 
+Actividades generales que se espera se ejecuten durante el desarrollo del proyecto 
+ 
+FASE 1: MODELAMIENTO DE LOS PROCESOS 
+  
+Se deberán modelar los procesos de Apps.co y de Contenidos Digitales bajo el contexto de la 
+estrategia nacional Plan Vive Digital 2014 – 2018. 
+ 
+Estos procesos deberán considerar al menos los siguientes subprocesos:  
+- 
+Proceso Apps.co  
+o Bootcamps o transferencia de conocimiento para generar capacidades en el 
+ámbito de emprendimiento TIC   
+o Descubrimiento de Negocios   
+o Crecimiento y Consolidación   
+ 
+- 
+Proceso Contenidos Digitales  
+ o ViveLab   
+o CREA Digital   
+o Internacionalización   
+ 
+Se deberá realizar una completa diagramación y descripción funcional de los procesos 
+Apps.Co, haciendo una completa identificación de sus componentes y variables actuales. 
+Como resultado esperado, debe quedar claramente reflejado:  
+ 
+- 
+Identificación de los actores claves del proceso.   
+- 
+Diagramación de los procesos.   
+- 
+Definición de un modelo de transferencia de conocimiento para la generación de 
+capacidades de emprendimiento TIC.   
+- 
+Definición de los contenidos temáticos necesarios para las rutas de transferencia de 
+conocimiento a emprendedores.   
+ 
+Entregables 
+   
+- 
+Documento con el Marco Conceptual del Proceso que incluya: 
+o Descripción y diagramación de procesos de Apps.co y Contenidos Digitales 
+o Descripción del modelo de transferencia de conocimiento y de los contenidos 
+temáticos de la ruta de transferencia de conocimiento a emprendedores de 
+Apps.co y Contenidos Digitales. 
+o Identificación preliminar de indicadores (data) para tener en cuenta en su 
+utilización en el Data Lab.   
+ 
+ 
+FASE 2: DISEÑO Y DESARROLLO DEL SISTEMA DE GESTIÓN DEL ECOSISTEMA Y 
+HERRAMIENTAS VERTICALES  
+ 
+Actividad 2.1. Diseño y desarrollo del sistema de gestión del ecosistema y herramientas 
+verticales 
+  
+El sistema de gestión del ecosistema de emprendimiento digital de Apps.co deberá contar con 
+herramientas o funcionalidades trasversales (genéricas) y herramientas verticales (procesos 
+anteriormente mencionados). Se considerarán de partida las funcionalidades o herramientas 
+trasversales propias de un CMS.  
+ 
+El diseño y desarrollo del sistema de gestión del ecosistema y el diseño y desarrollo de las 
+herramientas verticales, será validado por el MINTIC. De igual forma el alojamiento del sistema 
+y sus herramientas (Hosting) será coordinado por MINTIC. 
+ 
+Las actividades a ejecutar para el diseño y desarrollo del sistema de gestión del ecosistema, y 
+de las herramientas verticales deberán al menos tener las siguientes tareas: 
+ 
+Actividad 2.2. Análisis y diseño del sistema de gestión y herramientas: 
+ 
+- 
+Definición de requisitos y objetivos. Determinando las necesidades esenciales del 
+sistema y herramientas.   
+ - 
+Análisis de requisitos y su viabilidad. Verificando que los requisitos especificados sean 
+los correctos, impidiendo la introducción de defectos en el diseño del sistema y 
+herramientas.   
+- 
+Diseño del sistema y herramientas. Estableciendo la estructura inicial del sistema y 
+herramientas. Definiendo las especificaciones de la arquitectura. 
+- 
+Diseño de interface gráfico. Realizar los diseños e imágenes requeridas para los 
+diferentes módulos y componentes del sistema, optimizando la estructura del contenido 
+para mejorar la experiencia del usuario final.  
+Actividad 2.3. Implementación del sistema y herramientas:  
+ 
+- 
+Definición de metodología de desarrollo, lenguajes de programación, tecnologías y 
+entorno de desarrollo integrado (IDE) a utilizar.   
+- 
+Diseño, despliegue, mantenimiento y aseguramiento de la seguridad del entorno de 
+desarrollo y del sistema de gestión de calidad.   
+- 
+Desarrollo de herramientas de gestión de la plataforma, consistiendo en el cuadro de 
+mando y herramientas de gestión e información de los procesos para los diferentes 
+perfiles de usuarios definidos.   
+- 
+Desarrollo de herramientas de usuario interno y externo.   
+- 
+Desarrollo de herramientas para la generación de capacidades TIC.   
+- 
+Desarrollo de Aplicaciones Móviles y/o acceso responsive.   
+ 
+ 
+Actividad 2.4. Pruebas y Validación. Mediante la ejecución de test y subsanación de 
+fallos en versiones alpha y beta antes de la puesta en operación: 
+ 
+- 
+Test unitarios, test de integración y test de Sistema. 
+- 
+Test funcional y aceptación.   
+- 
+Subsanación de fallos de seguridad detectados en el proceso.  
+ 
+Entregables 
+ 
+Los entregables de esta actividad son: 
+ 
+- 
+Diseño del sistema de gestión del ecosistema y herramientas verticales verificado y 
+aprobado por MINTIC.   
+- 
+Plan de acción validado verificado y aprobado por MINTIC.   
+- 
+Implementación del entorno de desarrollo verificado y aprobado por MINTIC.   
+- 
+Plataforma tecnológica del Sistema con la estrategia de gestión del ecosistema y 
+herramientas verticales verificada y aprobada por MINTIC.  
+- 
+Documento descriptivo de la arquitectura del sistema desarrollado verificado y aprobado 
+por MINTIC.   
+- 
+Informe de testeo del sistema y herramientas según los test definidos verificados y 
+aprobados por el MINTIC.   
+- 
+Informe de subsanación y registro de fallos detectados verificado y aprobado por 
+MINTIC.  
+- 
+Informe de verificación y validación de la plataforma del Sistema verificado y aprobado 
+por MINTIC.   
+  
+ 
+ 
+Aporte del proponente mediante contrapartida: 
+ 
+- Transferencia de conocimiento en Desarrollo Seguro. 
+- Entrenamiento en hacking Ético a los actores del proyecto que determine el comité. 
+ 
+FASE 3: CONTENIDOS TEMÁTICOS DIGITALES   
+ 
+Se deberán definir y desarrollar un mínimo dieciocho (18) contenidos temáticos digitales acorde 
+al modelo conceptual, de los diferentes programas que alimentarán la plataforma y cuya 
+función se enfocará en la generación de capacidades por parte de los usuarios para ser 
+utilizados en sus procesos de emprendimiento.  
+ 
+Las rutas de transferencia de conocimiento para la creación de capacidades TIC se 
+desarrollarán en el marco del modelo de emprendimiento digital diseñado en la Fase 1 del 
+proyecto. Estas rutas considerarán contenidos de formación, de actualización (documentación), 
+entrenamiento (práctica o laboratorio) y actividades con contenidos mixtos (videos, formularios 
+de consulta tecnológica, moocs, o similares).  
+ 
+Los contenidos integrados e interacción de usuarios en la plataforma deben ser medible con 
+indicadores y debe ser analizado en el Data Lab para la evaluación, proyección y mejora de las 
+rutas.   
+Las rutas de transferencia tecnológica y los contenidos digitales deberán estar repartidos en las 
+siguientes etapas del programa:  
+ 
+ 
+EXPLORACIÓN Y DESCUBRIMIENTO DE NEGOCIOS 
+ 
+Primera etapa del Programa Apps.co del MINTIC que trata de detectar y promocionar equipos 
+de emprendedores para soluciones digitales. Con el fin de realizar un acompañamiento inicial 
+para que adquieran los conceptos necesarios y dispongan de técnicas y herramientas para 
+identificar una idea de negocio innovadora basada en las TICs, se propone el siguiente 
+desarrollo malla curricular:   
+ 
+A. DESCUBRIMIENTO DE OPORTUNIDADES: Se trata del primer acercamiento de una 
+persona al emprendimiento. Para ello, se requiere de un contenido didáctico que 
+permita encender la inquietud y motive a la persona a convertirse en un emprendedor.   
+ 
+B. FORTALEZAS DEL EMPRENDEDOR: Contenido didáctico dirigido a la detección de 
+oportunidades de emprendimiento en el entorno y aprovechamiento de las fortalezas del 
+emprendedor.  
+ 
+C. EMPRENDER: Una vez identificadas oportunidades de negocio, y preparado el 
+participante para emprender, es necesario implementar contenidos para la generación 
+del modelo de negocio o plan de empresa basada en un producto o servicio digital.  
+  
+CONSOLIDACIÓN Y EXPANSIÓN 
+  
+ Desarrollo de contenidos digitales y rutas de transferencia de conocimiento para consolidar el 
+negocio digital emprendido por el participante y llevarlo a una nueva fase de expansión.  
+ 
+Los contenidos deberán estar dirigidos a emprendimientos consolidados, al fomento de la 
+internacionalización y la gestión y definición de la estrategia tecnológica y de innovación de la 
+organización.  
+ 
+Entregables  
+ 
+. 
+Documento descriptivo de las rutas de transferencia de conocimiento.   
+. 
+Aportación de los contenidos digitales a la plataforma. 
+. 
+ 
+Aporte del proponente mediante contrapartida: 
+ 
+- Transferencia de metodología de transmisión del conocimiento y rutas de formación 
+según directrices internacionales. 
+ 
+ 
+FASE 4: IMPLANTACIÓN DEL DATA LAB 
+ 
+El objetivo de esta fase es la implantación y puesta en marcha las bases de un Data Lab para 
+el MinTIC aprovechando las nuevas tecnologías Big Data y las disciplinas de analítica 
+avanzada o Data Science en el que se utilizarán fuentes de datos internas y externas para 
+generar una visualización que vaya más allá de la mera presentación de KPIs.   
+ 
+La propuesta de Data Lab para MINTIC deberá al menos tener la capacidad de:   
+ 
+. 
+Analizar los datos disponibles por MINTIC y las fuentes externas ya identificadas y 
+definir los indicadores y la analítica que se va a obtener como resultado en la 
+visualización.   
+. 
+Despliegue de la arquitectura y la ingesta de los datos en una plataforma para llevar a 
+cabo el proyecto.   
+. 
+Llevar a cabo una fase de Discovery que permita identificar variables, atributos 
+derivados, detectar patrones, etc.   
+. 
+Disponer de una visualización interactiva que muestre los resultados definidos a 
+diferentes niveles.   
+. 
+Presentar un plan de continuidad para enriquecer y evolucionar el DataLab, ampliando 
+su aplicación a más casos dentro del MINTIC.   
+ 
+Se precisa por tanto la realización de las actividades: 
+ 
+Actividad 4.1 Identificación de Datos 
+ 
+Identificación de fuentes de datos que puedan ser utilizadas para el análisis.  
+ 
+Entregables 
+ 
+- 
+Listado de fuentes de datos considerado.  
+ 
+Actividad 4.2. Preparación del Entorno 
+  
+- 
+Despliegue de la plataforma.   
+ 
+Despliegue de la plataforma sobre una infraestructura gestionada por el MINTIC. En este 
+despliegue se deberán configurar los componentes necesarios para llevar a cabo el alcance 
+definido.  
+   
+- 
+Ingesta de datos:   
+ 
+Ingesta de las fuentes de datos (hasta 5 fuentes) identificadas y pruebas en el Data Lake.   
+ 
+Nota: Para la ejecución de esta actividad se deberá tener en cuenta los siguientes 
+requerimientos: 
+ 
+o Volumetría de datos < 1Tb Tipología de Datos: Estructurados y No 
+Estructurados Nodos:  
+ 
+Master 1: 2CPU, 4GB  
+ 
+Servicio/Master 2/Worker 1: 8CPU, 16GB  
+ 
+Worker 2: 4CPU, 8-16GB  
+ 
+Worker 3: 4CPU, 8-16GB  
+ 
+Metastore: 2CPU, 4GB  
+ 
+Edge: 4CPU, 16GB  
+o Sistema Operativo Windows 7 Pro ó similares. 
+ 
+Entregables 
+ 
+- 
+Arquitectura Big Data.   
+- 
+Plataforma instalada con datos cargados.   
+ 
+Actividad 4.3. Discovery 
+ 
+- 
+Análisis de la Calidad de Datos 
+ 
+Realizar un análisis de toda la información aportada que permita conocer y evaluar la calidad 
+de los datos incluidos: registros repetidos, información unificada, datos defectuosos o ausentes, 
+errores de entrada, entre otros. 
+ 
+- 
+Análisis Exploratorio 
+ 
+Exploración de atributos y variables disponibles en las fuentes de datos cargadas en el Data 
+Lake. Deberán generarse las variables derivadas que sean necesarias y puedan servir para 
+enriquecer el análisis.   
+Adicional a este análisis, se precisa la realización de un descubrimiento de patrones y reglas en 
+función de los atributos y variables directos y derivados que permitan inferir nuevos KPIs. 
+ 
+Entregables 
+ 
+- 
+Data Set Enriquecido. 
+ 
+  
+ 
+ 
+Actividad 4.4. Presentación de Resultados 
+ 
+A partir de la ejecución y resultados de la actividad 4.3 se deberán realizar las siguientes 
+actividades:  
+ 
+- 
+Elaboración de un informe con las principales conclusiones obtenidas y presentación de 
+los resultados en un cuadro de mando con visualización interactiva totalmente 
+accionable. 
+ 
+- 
+Elaboración de un Plan de Continuidad que recoja:  
+ 
+o El plan de investigación según la metodología planteada en el proyecto para 
+futuras iteraciones.   
+o Las acciones identificadas a llevar a cabo para mejorar y enriquecer la analítica 
+realizada, así como una serie de recomendaciones y mejoras sobre los 
+resultados obtenidos.   
+ 
+Entregables  
+ 
+- 
+Informe de resultados de los análisis de calidad de la información y del análisis 
+exploratorio.   
+- 
+Plan de investigación y desarrollo futuros y de evolución de la plataforma.   
+ 
+Nota: En caso de ser elegidos, es importante tener en cuenta que todos los entregables están 
+sujetos a aprobación por parte del comité coordinador que se formará en el momento de la 
+contratación.  
+ 
+Presupuesto Disponible 
+ 
+El presupuesto para la ejecución del proyecto es de 1.242.605.622 COP.   
+ 
+Nota: De los recursos asignados al proyecto, se deberá hacer la apropiación y giro 
+correspondiente de gravamen al movimiento financiero, impuestos, costo de legalización y los 
+demás a los que haya lugar por parte del ejecutor. 
+ 
+Nota: No se tendrá en cuenta contrapartidas relacionadas con infraestructura física, bienes o 
+servicios. La palabra monetizado solo se usará para saber el valor en pesos de la 
+contrapartida, en ningún caso significa que el proponente deberá consignar dicho valor en 
+algún tipo de cuenta bancaria exclusiva. 
+ 
+Requisitos mínimos para la entrega de documentos 
+Las propuestas junto con sus anexos deberán ser presentados en idioma ESPAÑOL y deberán 
+ser 
+remitidas 
+ÚNICAMENTE 
+al 
+correo 
+electrónico: 
+mfilomena@colciencias.gov.co, 
+mroa@mintic.gov.co, a más tardar el 23 de junio de 2017 a las 17:00 GTM-5, Bogotá time, 
+utilizando el Asunto: “Invitación a presentar propuesta Apps.co”. La propuesta debe incluir los 
+siguientes documentos:  
+ 
+ Para consultas u observaciones sobre el proceso, se atenderán de manera exclusiva por los 
+canales referenciados.  
+ 
+Requisitos mínimos jurídicos:  
+ 
+1. El objeto social: Este debe estar relacionado con las actividades a desarrollar del proyecto 
+producto de la presente invitación.  
+ 
+Nota: En caso de presentarse uniones temporales o consorcios por lo menos uno (1) de los 
+Miembros del Proponente Plural debe cumplir con el requisito anterior. 
+ 
+2. Existencia y Representación Legal: Las personas jurídicas, que pretendan participar, a 
+cualquier título, deben demostrar su existencia, representación, capacidad legal y objeto, 
+mediante el certificado de existencia y representación legal expedidos por la Cámara de 
+Comercio de la ciudad donde se encuentre su domicilio, que deberá haber sido emitido con una 
+antelación menor o igual a un (1) mes a la fecha de presentación de la Propuesta.  
+ 
+Consorcios o Uniones Temporales: Los Proponentes Plurales deben presentar un documento 
+suscrito por todos y cada uno de sus miembros en virtud del cual hayan constituido el 
+respectivo Consorcio o Unión Temporal con el objeto de presentar la Propuesta en forma 
+conjunta en la presente selección y ejecutar el Contrato, en la cual se especifique como mínimo 
+lo siguiente:  
+ 
+o La duración de las sociedades que se presenten como Proponente Individual o como 
+Miembro de un Proponente Plural deberá ser igual o superior a la vigencia del 
+Contrato en el que participe y un (1) año más.   
+ 
+o Identificación de cada uno de los Miembros del Proponente Plural, indicando, cuando 
+menos, el nombre o razón social, domicilio y representante legal de cada uno de los 
+Miembros del Consorcio o de la Unión Temporal, según el caso. 
+ 
+o El documento en el que se exprese la voluntad de presentar la Propuesta en 
+Consorcio o Unión Temporal deberá ir acompañado de los documentos que 
+demuestren la existencia y representación legal de cada uno de sus Miembros. 
+ 
+Nota: Al momento de la contratación y en el caso de ser elegido el proponente se debe 
+encontrar al día en el pago de parafiscales y dicha certificación debe venir suscrita por el 
+Revisor Fiscal de la sociedad, si el interesado de acuerdo con la Ley lo requiere, o en caso 
+contrario la certificación debe venir suscrita por el Representante Legal de la sociedad 
+interesada. 
+ 
+Requisitos mínimos financieros:  
+ 
+El interesado debe presentar de manera comparativa el Balance General y Estado de 
+Resultados, con la respectiva fotocopia de la Declaración de Renta de los dos (2) últimos años. 
+Cada uno de los balances y estados de resultados deben estar debidamente certificados y 
+firmados por el representante legal, por el contador público que los hubiere preparado y por el 
+Revisor Fiscal, si fuere el caso. Para el caso de las alianzas, uniones temporales o consorcios, 
+los documentos descritos en este numeral se deben presentar por cada entidad integrante. De 
+igual manera se requiere el dictamen de contador público independiente o revisor fiscal sobre 
+los estados financieros de acuerdo con las normas de auditoría. En ambos casos, se deberá 
+ adjuntar la fotocopia de la tarjeta profesional del contador y del revisor fiscal y la certificación de 
+la junta central de contadores con vigencia menor a tres (3) meses que estén suscribiendo los 
+estados financieros. 
+ 
+ÍNDICES 
+ 
+El interesado debe demostrar un índice de liquidez mayor o igual a uno (1.0), un capital de 
+trabajo igual o mayor al veinte por ciento (20%) del presupuesto de la presente convocatoria y 
+un índice de endeudamiento inferior o igual al setenta por ciento (70%). El índice de liquidez se 
+obtiene al dividir el activo corriente por el pasivo corriente. El capital de trabajo se obtiene 
+restando del total del activo corriente, el total del pasivo corriente. El índice de endeudamiento 
+se obtiene al dividir el pasivo total por el activo total, de acuerdo con las siguientes fórmulas: 
+ 
+a) Índice de liquidez Se determina la liquidez, medida como activo corriente sobre pasivo 
+corriente reflejado en el balance general con corte al último periodo fiscal, así: IL = 
+Activo Corriente / Pasivo Corriente Para el caso de consorcios o uniones temporales, la 
+liquidez se determina así: IL= (AC1+AC2+AC3....) / (PC1+PC2+PC3.....) Dónde: AC: es 
+igual a activo corriente de cada participante PC: es igual a pasivo corriente de cada 
+participante Una vez aplicada la formula anterior, la cifra resultante deberá ser igual o 
+superior a 1.0 veces. 
+ 
+b) Nivel de Endeudamiento Se obtiene el porcentaje de endeudamiento, resultante de 
+dividir el pasivo total (deudas) por el activo total (patrimonio bruto) que se reflejen en el 
+balance general con corte al último periodo fiscal y el resultado se multiplica por 100. 
+(Total Deudas o Pasivo Total / Activo Total o Patrimonio Bruto) x 100 Para el caso de 
+consorcios o uniones temporales, el endeudamiento se determina así: NE = 
+((PT1+PT2+PT3....) / (AT1+AT2+AT3.....)) x 100 Dónde: PT: es igual a pasivo total de 
+cada participante AT: es igual a activo total de cada participante. Una vez aplicada la 
+fórmula anterior, el porcentaje resultante deberá ser igual o inferior al setenta por ciento 
+(70%). 
+c) Capital de Trabajo: Se determina restando al activo corriente el pasivo corriente y el 
+valor obtenido deberá ser igual o superior al veinte por ciento (20%) del valor de la 
+presente convocatoria. Para el caso de consorcios o uniones temporales, el capital de 
+trabajo se determina así: KT= (AC1+AC2+AC3….) - (PC1+PC2+PC3….) Dónde: AC: es 
+igual a activo corriente de cada participante PC: es igual a pasivo corriente de cada 
+participante.  
+ 
+Nota: Los interesados deben cumplir con los tres factores descritos con anterioridad. El 
+incumplimiento de uno o más de ellos, será causal de RECHAZO DE LA PROPUESTA.  
+ 
+ 
+Requisitos mínimos técnicos:  
+ 
+ 
+Propuesta donde se detallen las actividades a desarrollar por cada una de las cuatro 
+fases esperadas descritas en el proyecto. Dicho documento deberá estar ajustado lo 
+más cercano posible a los entregables propuestos dentro de este proyecto. La 
+propuesta deberá contener la metodología a desarrollar, cronograma, personal, 
+indicadores, presupuesto, actores, responsabilidades. 
+ 
+ 
+Diligenciar el Anexo 1- Carta de Presentación y Aval  
+ 
+  
+Relación y descripción de la contrapartida como aporte mínimo aproximado del 20% 
+del total del presupuesto, esta deberá estar distribuida por fases como se especifica 
+en las actividades generales a desarrollar del proyecto y deberá estar monetizada.  
+ 
+ 
+La propuesta deberá presentarse en formato PDF y deberá incluir una Tabla de 
+Contenido de toda la propuesta, relacionando la información suministrada y los 
+anexos debidamente diligenciados. 
+ 
+ 
+Los documentos requeridos deberán ser debidamente suscritos por los 
+representantes legales. 
+ 
+ 
+Los anteriores documentos (propuesta y anexos) deberán adjuntarse en carpeta 
+comprimida para ser enviados a los correos relacionados anteriormente. 
+ 
+ 
+En caso de que el tamaño de los archivos exceda la capacidad permitida de un 
+correo electrónico, ubicar la información en un repositorio virtual y enviar a los 
+correos electrónicos respectivos el link, así como las indicaciones necesarias para 
+acceder a la información en dicho repositorio. De no tener acceso a éste, 
+COLCIENCIAS – MINTIC no estarán en la obligación de hacer la evaluación de la 
+respectiva propuesta. 
+  
+ 
+Descripción de cada una de las actividades del proyecto. podrá utilizar recursos 
+gráficos como ejemplo para la representación de los diseños finales y de los 
+entregables.  
+ 
+ 
+Descripción de los tiempos estimados definidos en horas de trabajo acordes al 
+cronograma determinado para la puesta en producción de este proyecto. 
+ 
+ 
+Adicionalmente el proponente debe acreditar experiencia general, especifica, 
+contrapartida y contar con el siguiente equipo de trabajo:
+  
+ 
+REQUISITO 
+MINIMO  
+CONDICIONES 
+LO ANTERIOR DEBERÁ ACREDITARSE 
+MEDIANTE CERTIFICACIÓN QUE CUENTE CON 
+LAS SIGUIENTES CARACTERÍSTICAS 
+OBSERVACIONES 
+EXPERIENCIA GENERAL  
+CTeI 
+1 
+Coordinación y/o participación en 
+proyectos de Ciencia, Tecnología e 
+Innovación.  
+Copia de contratos, Actas de liquidación, Carta 
+de cliente final ó de partner firmada por el 
+representante legal ó quien haga sus veces 
+según el tipo de proyecto que contenga: -  
+Cumplimiento a satisfacción del proyecto - Tipo 
+de proyecto - Lugar de ejecución – Periodo de 
+ejecución 
+ 
+EXPERIENCIA ESPECÍFICA  
+MODELAMIENTO DE 
+PROCESOS 
+ECOSISTEMAS 
+EMPRENDIMIENTO E 
+INNOVACIÓN 
+1 
+ 
+Carta de cliente final ó de partner firmada por el 
+representante legal ó quien haga sus veces 
+según el tipo de proyecto que contenga: -  
+Cumplimiento a satisfacción del proyecto - Tipo 
+de proyecto - Lugar de ejecución – Periodo de 
+ejecución 
+ 
+Data Labs 
+5 
+Proyectos desarrollados y terminados 
+de manera propia o con partners en 
+temas de Programas de Estrategia de 
+BigData (Estrategias de 
+aprovisionamiento de datos, data lake, 
+arquitectura y plataforma, Big Data 
+Labs, Automatización y migración de 
+procesos de Big Data, Operativización 
+de soluciones, Diseño y despliegue de 
+arquitectura de Big Data), Data 
+Science y Advanced Analytics (Data 
+Discovery, Enriquecimiento de Datos, 
+Analítica Predictiva), Visualización de 
+Analítica Avanzada (Storytelling). 
+Carta de cliente final ó de partner firmada por el 
+representante legal ó quien haga sus veces 
+según el tipo de proyecto que contenga: -  
+Cumplimiento a satisfacción del proyecto - Tipo 
+de proyecto - Lugar de ejecución – Periodo de 
+ejecución 
+Se dará 5 puntos adicionales por cada proyecto 
+desarrollado y terminado. 
+Ciberseguridad en las 
+redes (1xcarta) 
+5 
+Proyectos desarrollados y terminados 
+de manera propia o con partners en 
+asesoría, formación y/o desarrollo de 
+herramientas de Seguridad de 
+Información y/o Ciberseguridad y 
+Ciberdefensa en entidades de órdenes 
+público y/o privado. 
+Carta de cliente final ó de partner firmada por el 
+representante legal ó quien haga sus veces 
+según el tipo de proyecto que contenga: -  
+Cumplimiento a satisfacción del proyecto - Tipo 
+de proyecto - Lugar de ejecución – Periodo de 
+ejecución 
+Se dará 5 puntos adicionales por cada proyecto 
+desarrollado y terminado. 
+ CONTRAPARTIDA 
+ 
+ 
+Contrapartida 
+Mínimo 20% 
+del 
+presupuesto 
+ 
+100% - Transferencia de conocimiento 
+y/o Aportación de expertos durante el 
+proceso de ejecución del proyecto:  
+ 
+El proponente deberá describir la 
+metodología y Know How a transferir. 
+Dichos aportes asociados deberán estar 
+monetizados. En la descripción del 
+proyecto se especifica donde se espera 
+que se desarrolle dicha transferencia de 
+conocimiento.  
+  
+ 
+ 
+  
+Se considera un valor 
+agregado aquellas 
+actividades adicionales a 
+las ya establecidas, que 
+contribuyan a la 
+potencialización  del 
+proyecto y los resultados 
+esperados. Además se 
+considera valor agregado 
+las actividades adicionales 
+que optimicen el proceso de 
+transferencia de tecnología.  
+ 
+PERFIL DEL EQUIPO DE TRABAJO 
+Experto en Procesos y 
+Sistemas de Gestión.  
+1 
+Experiencia de al menos de cinco años 
+en el modelamiento de procesos y 
+sistemas de gestión y en procesos de 
+auditoría y certificación de Sistemas: 
+Principalmente, gestión de calidad y 
+gestión de la I+D+i. 
+Carta de adhesión a este proyecto - Curriculum 
+Vitae Actualizado con toda la documentación 
+requerida (Certificaciones, diplomas, actas, 
+experiencia.)  
+ 
+Experto en Gestión de 
+Ecosistemas de 
+Innovación y 
+Emprendimiento. 
+1 
+Experiencia de al menos cinco años en 
+el diseño y gestión de políticas y 
+Planes Estratégicos, Programas de 
+Innovación y Emprendimiento, a nivel 
+local, nacional e internacional. 
+Investigación en modelos de 
+comportamiento de redes y gestión del 
+conocimiento.  
+Carta de adhesión a este proyecto - Curriculum 
+Vitae Actualizado con toda la documentación 
+requerida (Certificaciones, diplomas, actas, 
+experiencia.)  
+ 
+Experto en Seguridad 
+de la Información 
+1 
+Experto en ciberseguridad, seguridad 
+informática y análisis de 
+vulnerabilidades ante amenazas en 
+sistemas y plataformas online con más 
+de 7 años de experiencia. 
+Carta de adhesión a este proyecto - Curriculum 
+Vitae Actualizado con toda la documentación 
+requerida (Certificaciones, diplomas, actas, 
+experiencia.)  
+ 
+Data Scientist 
+1 
+Experto en Big Data / Data Science 
+con formación en alguna de las 
+siguientes carreras: Matemáticas, 
+Física, Estadística, Ingeniería 
+Industrial, Ingeniería de Sistemas, 
+Economía.  
+Carta de adhesión a este proyecto - Curriculum 
+Vitae Actualizado con toda la documentación 
+requerida (Certificaciones, diplomas, actas, 
+experiencia.)  
+ 
+Big Data Architect 
+1 
+Experto en Big Data / Big Data 
+Architecture con formación en alguna 
+de las siguientes carreras: 
+Matemáticas, Física, Estadística, 
+Ingeniería Industrial, Ingeniería de 
+Sistemas, Economía. 
+Carta de adhesión a este proyecto - Curriculum 
+Vitae Actualizado con toda la documentación 
+requerida (Certificaciones, diplomas, actas, 
+experiencia.)  
+ 
+ Business Consultant 
+1 
+Experto en Big Data / Business 
+Consultancy con formación en alguna 
+de las siguientes carreras: 
+Matemáticas, Física, Estadística, 
+Ingeniería Industrial, Ingeniería de 
+Sistemas, Economía. 
+Carta de adhesión a este proyecto - Curriculum 
+Vitae Actualizado con toda la documentación 
+requerida (Certificaciones, diplomas, actas, 
+experiencia.)  
+ 
+Data Engineer 
+1 
+Experto en Big Data / Data Engineer 
+con formación en alguna de las 
+siguientes carreras: Matemáticas, 
+Física, Estadística, Ingeniería 
+Industrial, Ingeniería de Sistemas, 
+Economía. 
+Carta de adhesión a este proyecto - Curriculum 
+Vitae Actualizado con toda la documentación 
+requerida (Certificaciones, diplomas, actas, 
+experiencia.)  
+ 
+Data Visualization 
+Specialist 
+1 
+Experto en Big Data / Data 
+Visualization Specialist con formación 
+en alguna de las siguientes carreras: 
+Matemáticas, Física, Estadística, 
+Ingeniería Industrial, Ingeniería de 
+Sistemas, Economía. 
+Carta de adhesión a este proyecto - Curriculum 
+Vitae Actualizado con toda la documentación 
+requerida (Certificaciones, diplomas, actas, 
+experiencia.)  
+ 
+ 
+ 
+NOTA: Ni la presente invitación ni el correo electrónico de invitación a presentar propuesta, genera obligatoriedad alguna para Colciencias o el MinTIC 
+para contratar, o de entregar información referente al proceso interno que se está adelantando, toda vez que éste es un procedimiento de contratación 
+directa, que tiene su fundamento en la ley 1286 de 2009 y conforme al cual Colciencias en su desarrollo está obligado a garantizar el mérito, calidad e 
+idoneidad. Este proceso no es asimilable a una convocatoria pública, ni a los procesos de pluralidad de oferentes que consagra la ley 80 de 1993, es 
+decir, licitación, selección abreviada, concurso de méritos, mínima cuantía entre otros. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

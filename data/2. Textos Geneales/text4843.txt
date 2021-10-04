@@ -1,0 +1,1293 @@
+Governo do Estado do Ceará  
+Secretaria de Ciência e Tecnologia e Educação Superior
+Fundação de Apoio ao Desenvolvimento Científico e Tecnológico
+FUNCAP/INRIA/INS2i-CNRS
+COOPERAÇÃO INTERNACIONAL FUNCAP/FAPs/INRIA/INS2i-CNRS
+CHAMADA 03/2017
+A Fundação Cearense de Apoio ao Desenvolvimento Cientifico e Tecnológico – FUNCAP, vinculada a
+Secretaria da Ciência, Tecnologia e Educação Superior – SECITECE, as Fundações de Amparo a
+Pesquisa dos estados que aderiram a presente chamada, doravante denominadas FAPs copartícipes,
+o INRIA – Institut National de Recherche en Informatique et Automatique  e o CNRS – Centre National
+de la Recherche Scientifique, através do INS2i –  Institut des Sciences de l’Information et de leur
+Interactions, tornam público o presente Edital e convidam os interessados a apresentarem propostas
+nos termos aqui estabelecidos, e em conformidade com o anexo REGULAMENTO/CONDIÇÕES
+ESPECÍFICAS, parte integrante do mesmo.
+1. OBJETIVO
+O presente Edital tem por objetivo apoiar atividades de pesquisa científica, tecnológica e de inovação,
+de equipes principais e de equipes orbitais, na área das ciências e tecnologias da informação e
+comunicação (TIC), mediante a seleção de propostas para apoio financeiro a projetos conjuntos, a
+serem executados por uma equipe de pesquisadores brasileiros (equipe principal), com colaboração
+eventual de outras equipes brasileiras (equipes orbitais), e uma equipe de pesquisadores franceses
+do INRIA ou do INS2i-CNRS. Os projetos devem estar relacionados ao objeto abaixo indicado e em
+conformidade com as condições estabelecidas e com as definições de projetos conjuntos, equipes
+principais e equipes orbitais dispostas no  REGULAMENTO/ CONDIÇÕES ESPECÍFICAS, anexo a
+este Edital.
+OBJETO
+Seleção  pública  de  propostas  para  apoio  a  execução  de  projetos  conjuntos  de  Pesquisa,
+Desenvolvimento  e  Inovação  (P&D&I)  na  área  das  ciências  e  tecnologias  da  informação  e
+comunicação  (TIC),  no  âmbito  dos  Acordos  Bilaterais  de  cooperação  científica  e  tecnológica
+internacional firmados entre o INRIA e o CNRS com as FAPs copartícipes.
+As áreas de pesquisa em TIC de interesse deste Edital, incluem, em particular, o tratamento da
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85)3275-9115/3275-2901/3101-2170
+Página Eletrônica: www.funcap.ce.gov.br
+1
+ Governo do Estado do Ceará  
+Secretaria de Ciência e Tecnologia e Educação Superior
+Fundação de Apoio ao Desenvolvimento Científico e Tecnológico
+FUNCAP/INRIA/INS2i-CNRS
+informação; a comunicação e o armazenamento da informação; o tratamento de sinais, dos dados e
+dos conhecimentos;  a modelagem  e  a  simulação;  as tecnologias de  hardware e  software;  a
+concepção, a verificação e a otimização de componentes de software; a concepção, o comando e o
+controle de sistemas complexos; e as interfaces homem-máquina.
+2. APRESENTAÇÃO E ENVIO DAS PROPOSTAS
+2.1 As propostas devem ser apresentadas sob a forma de projeto e encaminhadas a Funcap exclusi-
+vamente via Internet, por intermédio de Formulário Eletrônico disponível na página www.funcap.ce.-
+gov.br, a partir da data do Lançamento do Edital, indicada no subitem 1.4 CRONOGRAMA do REGU-
+LAMENTO.
+2.2 As propostas devem ser apresentadas em conformidade com o descrito no item 2. CRITÉRIOS
+DE ELEGIBILIDADE do REGULAMENTO contendo rigorosamente todos os itens previstos neste Edi-
+tal.
+2.3 Não serão aceitas propostas submetidas por qualquer outro meio, tampouco após o prazo final de
+recebimento estabelecido no subitem 1.4 do CRONOGRAMA do REGULAMENTO.
+2.4 Será aceita uma única proposta por proponente. Na hipótese de envio de uma segunda proposta
+pelo mesmo proponente, respeitando-se o prazo limite estipulado para submissão das propostas, esta
+será considerada substituta da anterior, sendo levada em conta para análise apenas a última proposta
+recebida.
+2.5 Em se constatando propostas idênticas, ainda que de proponentes distintos, todas serão desclas-
+sificadas.
+3. ADMISSÃO, ANÁLISE E JULGAMENTO
+A seleção das propostas submetidas em atendimento a este Edital será realizada por intermédio de
+análises e avaliações comparativas. Para tanto, são estabelecidas as seguintes etapas:
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85)3275-9115/3275-2901/3101-2170
+Página Eletrônica: www.funcap.ce.gov.br
+2
+ Governo do Estado do Ceará  
+Secretaria de Ciência e Tecnologia e Educação Superior
+Fundação de Apoio ao Desenvolvimento Científico e Tecnológico
+FUNCAP/INRIA/INS2i-CNRS
+3.1 Etapa I – Análise pela Área Técnica
+Esta  etapa,  a  ser  realizada  pela  área  técnica  da  Funcap, consiste  na  análise  das  propostas
+apresentadas quanto ao atendimento aos CRITÉRIOS DE ELEGIBILIDADE, estabelecidos no item 2
+do REGULAMENTO/CONDIÇÕES ESPECÍFICAS, e efetuada a análise quanto a adequação da
+proposta  ao  presente  Edital.  Todas as propostas analisadas e  selecionadas nesta  etapa  serão
+avaliadas por Consultores ad hoc e por um Comitê Julgador.
+3.2 Etapa II - Análise por Especialistas
+Esta  etapa  consistirá  na  análise  aprofundada  da demanda,  quanto  ao  mérito  e  relevância  das
+propostas, a ser realizada por especialistas que se manifestarão sobre os tópicos relacionados no
+item 3 – CRITÉRIOS PARA JULGAMENTO do REGULAMENTO.
+3.3 Etapa III – Análise, Julgamento e Classificação por Comitê Julgador
+3.3.1 As propostas serão avaliadas e classificadas nesta etapa, considerando as análises das etapas
+anteriores e os CRITÉRIOS PARA JULGAMENTO indicados no item 3 do REGULAMENTO.
+3.3.2 A pontuação final de cada projeto será aferida conforme estabelecido no item 3 – CRITÉRIOS
+PARA JULGAMENTO, do REGULAMENTO.
+3.3.3 Após a análise de mérito e relevância de cada proposta e da adequação de seu orçamento, o
+Comitê Julgador, dentro dos limites orçamentários, poderá recomendar:
+a)
+aprovação, com ou sem cortes orçamentários; ou
+b)
+não aprovação.
+3.3.4 O Comitê Julgador deverá produzir, para cada proposta, uma avaliação global da proposta, com
+ênfase no mérito científico da mesma, que contenha elementos que fundamente o parecer final.
+3.3.5 Não é permitido integrar o Comitê Julgador o pesquisador que tenha apresentado propostas a
+este Edital ou que participe da equipe do projeto.
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85)3275-9115/3275-2901/3101-2170
+Página Eletrônica: www.funcap.ce.gov.br
+3
+ Governo do Estado do Ceará  
+Secretaria de Ciência e Tecnologia e Educação Superior
+Fundação de Apoio ao Desenvolvimento Científico e Tecnológico
+FUNCAP/INRIA/INS2i-CNRS
+3.3.6 É vedado a qualquer membro do Comitê Julgador avaliar propostas de projetos em que:
+a)
+haja interesse direto ou indireto seu;
+b)
+esteja participando da equipe do projeto seu cônjuge, companheiro ou parente, consanguíneo
+ou afim, em linha reta ou na colateral, até o terceiro grau; ou
+c)
+esteja litigando judicial ou administrativamente com qualquer membro da equipe do projeto ou
+seus respectivos cônjuges ou companheiros.
+3.4 Etapa IV – Aprovação pelo Conselho Executivo da Funcap
+Todas as propostas recomendadas pelo Comitê Julgador serão submetidas ao Conselho Executivo da
+Funcap que emitirá a decisão final sobre sua aprovação, observados os seus limites orçamentários
+para este Edital.
+3.5 Etapa V – Conciliação de Resultados
+Essa  etapa consiste  na análise das propostas recomendadas independentemente  por todos os
+órgãos financiadores envolvidos (FAPs copartícipes, INRIA e INS2i-CNRS). Apenas as propostas
+recomendadas simultaneamente pelas FAPs copartícipes envolvidas e pelo instituto de afiliação do
+parceiro francês (INRIA ou INS2i-CNRS) serão financiadas, respeitada a classificação das propostas
+produzida na Etapa III e os recursos financeiros destinados a este Edital.
+4. RESULTADO DO JULGAMENTO
+4.1 A relação das propostas aprovadas será divulgada na página  www.funcap.ce.gov.br.
+4.2 Todos os proponentes do presente Edital tomarão conhecimento do parecer sobre sua proposta
+por intermédio de correspondência eletrônica, preservada a identificação dos pareceristas.
+5. DOS RECURSOS ADMINISTRATIVOS
+5.1 Caso o proponente tenha justificativa para contestar o resultado do julgamento das propostas,
+poderá apresentar recurso em formulário específico, no prazo de até 10 (dez) dias úteis, a contar da
+data de recepção do parecer negativo, em uma das duas seguintes formas:
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85)3275-9115/3275-2901/3101-2170
+Página Eletrônica: www.funcap.ce.gov.br
+4
+ Governo do Estado do Ceará  
+Secretaria de Ciência e Tecnologia e Educação Superior
+Fundação de Apoio ao Desenvolvimento Científico e Tecnológico
+FUNCAP/INRIA/INS2i-CNRS
+1.
+enviar o recurso pelo correio comum, obrigatoriamente em correspondência registrada com
+aviso de recebimento (AR); ou
+2.
+fazer protocolar o recurso na sede da Funcap.
+5.2 O recurso ou pedido de reconsideração deverá estritamente contrapor o motivo do indeferimento,
+não incluindo fatos novos, que não tenham sido objeto de análise de mérito e relevância anterior,
+além de ser dirigido a Diretoria Científica da Funcap que, após exame, encaminhará para deliberação
+final do Conselho Executivo da Funcap, ouvido o instituto de afiliação da equipe francesa (INRIA ou
+INS2i-CNRS), bem como as FAPs copartícipes envolvidas na proposta em questão.
+5.3 Na contagem do prazo excluir-se-á o dia do início e incluir-se-á o do vencimento, e considerar-se-
+ão os dias consecutivos. O prazo só se inicia e vence em dias de expediente na  Funcap.
+5.4 O resultado sobre a reconsideração será definitivo, não cabendo qualquer outro recurso.
+6. DA CONTRATAÇÃO DAS PROPOSTAS APROVADAS
+6.1 As propostas aprovadas serão contratadas na modalidade de Auxílio Individual, em nome do
+Coordenador/Proponente, mediante assinatura de Termo de Concessão e Aceitação de Auxílio a
+Projeto de Pesquisa.
+6.2 A existência de alguma inadimplência do proponente com a Administração Pública Federal ou
+Estadual, direta ou indireta, ou com a  Funcap,  constituirá fator impeditivo para a contratação do
+projeto.
+7. CANCELAMENTO DA CONCESSÃO
+7.1 A concessão do apoio financeiro poderá ser cancelada pelo Conselho Executivo da Funcap, por
+ocorrência,  durante  sua  implementação,  de fato  cuja  gravidade  justifique  o  cancelamento,  sem
+prejuízo de outras providências cabíveis em decisão devidamente fundamentada.
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85)3275-9115/3275-2901/3101-2170
+Página Eletrônica: www.funcap.ce.gov.br
+5
+ Governo do Estado do Ceará  
+Secretaria de Ciência e Tecnologia e Educação Superior
+Fundação de Apoio ao Desenvolvimento Científico e Tecnológico
+FUNCAP/INRIA/INS2i-CNRS
+8. PUBLICAÇÕES
+8.1 As publicações científicas e qualquer outro meio de divulgação de trabalho de pesquisa, apoiados
+pelo presente Edital, deverão citar, obrigatoriamente, o apoio das entidades/órgãos financiadores.
+9. IMPUGNAÇÃO DO EDITAL
+9.1 Decairá do direito de impugnar os termos deste Edital o proponente que não o fizer até o segundo
+dia útil anterior ao prazo final estabelecido para recebimento das propostas. Ademais, não terá efeito
+de recurso a impugnação feita por aquele que, em o tendo aceito sem objeção, venha apontar,
+posteriormente ao julgamento, eventuais falhas ou imperfeições.
+9.2 A impugnação deverá ser dirigida a Diretoria Científica da Funcap, por correspondência eletrônica,
+para o endereço: direc@funcap.ce.gov.br.
+10. REVOGAÇÃO OU ANULAÇÃO DO EDITAL
+10.1 A qualquer tempo, o presente Edital poderá ser revogado ou anulado, no todo ou em parte, seja
+por decisão unilateral do Conselho Executivo da Funcap, seja por motivo de interesse público ou
+exigência  legal,  em  decisão  fundamentada,  sem  que  isso  implique  direitos  a  indenização  ou
+reclamação de qualquer natureza.
+11. PERMISSÕES E AUTORIZAÇÕES ESPECIAIS
+11.1 É de exclusiva responsabilidade de cada proponente adotar todas as providências que envolvam
+permissões e autorizações especiais de caráter ético ou legal, necessárias para a execução do
+projeto.
+11.2 Coordenadores brasileiros de  projetos  de  pesquisa,  relacionados a  biodiversidade,  devem
+observar a legislação em vigor (MP n.º 2.186, Decreto n.º 3.945/01, Decreto n.º 98.830/90, Portaria
+MCT n.º 55/90 e Decreto n.º 4.946/03) para autorizações de acesso, coleta e remessa de amostras e
+concessão de vistos de entrada no País aos estrangeiros participantes do projeto.
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85)3275-9115/3275-2901/3101-2170
+Página Eletrônica: www.funcap.ce.gov.br
+6
+ Governo do Estado do Ceará  
+Secretaria de Ciência e Tecnologia e Educação Superior
+Fundação de Apoio ao Desenvolvimento Científico e Tecnológico
+FUNCAP/INRIA/INS2i-CNRS
+12. DAS DISPOSIÇÕES GERAIS
+12.1 Durante a fase de execução do projeto, toda e qualquer comunicação com a Funcap deverá ser
+feita  por  meio  de  correspondência  eletrônica  a  Diretoria  Científica  da  Funcap
+(direc@funcap.ce.gov.br).
+12.2 Qualquer alteração relativa a execução do projeto deverá ser solicitada a Funcap por seu
+coordenador, acompanhada da devida justificativa, devendo a mesma ser autorizada antes de sua
+efetivação.
+12.3 Ao final da vigência, o proponente deverá apresentar a prestação de contas financeira e o
+relatório técnico, em conformidade com o estabelecido no Termo de Concessão e demais normas da
+Funcap.
+12.4 O projeto será avaliado em todas as suas fases, nos termos definidos no Termo de Concessão.
+12.5 A Funcap reserva-se o direito de, durante a execução do projeto, promover visitas técnicas ou
+solicitar informações adicionais, visando aperfeiçoar o sistema de Avaliação e Acompanhamento.
+12.6 As informações geradas com a implementação das propostas selecionadas e disponibilizadas na
+base de dados da Funcap serão de domínio público.
+12.7 Nos casos em que os resultados do projeto ou o relatório em si tenham valor comercial ou
+possam levar ao desenvolvimento de um produto ou método envolvendo o estabelecimento de uma
+patente, a troca de informações e a reserva dos direitos, em cada caso, dar-se-ão de acordo com o
+estabelecido na Lei de Inovação n.º 10.973, de 02 de dezembro de 2004, regulamentada pelo
+Decreto n.º 5.563, de 11 de outubro de 2005, as demais disposições legais vigentes, bem com o que
+está estabelecido no Acordo de Cooperação firmado entre a Funcap e o instituto de afiliação do
+parceiro francês do projeto (INRIA ou CNRS), que deve constituir um documento anexo ao Termo de
+Concessão e Aceitação de Auxílio a Projeto de Pesquisa.
+12.8 O presente Edital regula-se pelos preceitos de direito público e, em especial, pelas disposições
+da Lei n.º 8.666, de 21 de junho de 1993 e, no que couber, pelas normas internas da Funcap.
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85)3275-9115/3275-2901/3101-2170
+Página Eletrônica: www.funcap.ce.gov.br
+7
+ Governo do Estado do Ceará  
+Secretaria de Ciência e Tecnologia e Educação Superior
+Fundação de Apoio ao Desenvolvimento Científico e Tecnológico
+FUNCAP/INRIA/INS2i-CNRS
+13. DOS ESCLARECIMENTOS E DAS INFORMAÇÕES ADICIONAIS ACERCA DO CONTEÚDO
+DO EDITAL E PREENCHIMENTO DO FORMULÁRIO DE PROPOSTA ON LINE
+Os  esclarecimentos  e  informações  adicionais  acerca  do  conteúdo  deste  Edital  e  sobre  o
+preenchimento do Formulário de Proposta online poderão ser obtidos por intermédio do endereço
+eletrônico e telefones indicados em item específico do Anexo REGULAMENTO.
+14. CLÁUSULA DE RESERVA
+O Conselho Executivo da Funcap reserva-se o direito de resolver os casos omissos e as situações
+não previstas no presente Edital.
+Fortaleza, 24 de agosto de 2017.
+Tarcisio Haroldo Cavalcante Pequeno
+Presidente da Funcap
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85)3275-9115/3275-2901/3101-2170
+Página Eletrônica: www.funcap.ce.gov.br
+8
+ Governo do Estado do Ceará  
+Secretaria de Ciência e Tecnologia e Educação Superior
+Fundação de Apoio ao Desenvolvimento Científico e Tecnológico
+FUNCAP/INRIA/INS2i-CNRS
+COOPERAÇÃO INTERNACIONAL FUNCAP/FAPs/INRIA/INS2i-CNRS
+CHAMADA 03/2017
+REGULAMENTO
+CONDIÇÕES ESPECÍFICAS
+O  presente  REGULAMENTO  tem  por  finalidade  definir  as  atividades  a  serem  apoiadas
+financeiramente e as condições para implementação do apoio, mediante a seleção, por edital, de
+propostas para execução de projetos, em conformidade com o acordo de cooperação científica e
+tecnológica firmado entre a Funcap e o INRIA, e entre a Funcap e o CNRS.
+1. DAS DISPOSIÇÕES ESPECÍFICAS
+OBJETO
+Seleção  pública  de  propostas  para  apoio  a  execução  de  projetos  conjuntos  de  Pesquisa,
+Desenvolvimento  e  Inovação  (P&D&I)  na  área  das  ciências  e  tecnologias  da  informação  e
+comunicação  (TIC),  no  âmbito  dos  Acordos  Bilaterais  de  cooperação  científica  e  tecnológica
+internacional firmados entre o INRIA e o CNRS com as FAPs copartícipes.
+As áreas de pesquisa em TIC de interesse deste Edital, incluem, em particular, o tratamento da
+informação; a comunicação e o armazenamento da informação; o tratamento de sinais, dos dados e
+dos conhecimentos;  a modelagem  e  a  simulação;  as tecnologias de  hardware e  software;  a
+concepção, a verificação e a otimização de componentes de software; a concepção, o comando e o
+controle de sistemas complexos; e as interfaces homem-máquina.
+1.1 Do objetivo
+Este  Edital  tem  por  objetivo  apoiar,  de  forma  complementar,  o  desenvolvimento  de  projetos
+conjuntos de pesquisas científicas, tecnológicas e de inovação, de grande impacto, por meio do
+financiamento a atividades de cooperação entre pesquisadores vinculado a instituições sediadas no
+Estado  do  Ceará  e  pesquisadores  dos  estados  que  aderiram  a  presente  chamada,  com
+pesquisadores do INRIA ou do INS2i-CNRS  no âmbito dos acordos de cooperação firmados entre o
+INRIA e a Funcap, e entre o CNRS e a Funcap, respectivamente. O apoio permitirá o fortalecimento e
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85)3275-9115/3275-2901/3101-2170
+Página Eletrônica: www.funcap.ce.gov.br
+9
+ Governo do Estado do Ceará  
+Secretaria de Ciência e Tecnologia e Educação Superior
+Fundação de Apoio ao Desenvolvimento Científico e Tecnológico
+FUNCAP/INRIA/INS2i-CNRS
+evolução institucional das cooperações já iniciadas pela formação de  equipes associadas e a
+indução de novas cooperações franco-brasileiras pela formação de  equipes orbitais,  através da
+execução de um projeto comum de grande impacto nos temas objeto deste Edital.
+1.2 DAS DEFINIÇÕES
+1.2.1 Para os fins deste edital, são adotadas as seguintes definições:
+a)
+Estados copartícipes: estados que aderiram a chamada conjunta FAPs/INRIA/INS2i-CNRS.
+Os órgãos financiadores de cada estado, ou seja, as Fundações de Amparo a Pesquisa de
+cada estado são denominadas FAPs copartícipes;
+b)
+Projeto conjunto:  projeto com objeto comum de pesquisa bem delineado,  de grande
+impacto, relevante, com objetivos e metas precisamente definidos, em que a composição da
+equipe franco-brasileira seja complementar na execução do mesmo;
+c)
+Equipe Francesa: : pesquisadores do INRIA ou pesquisadores do INS2i-CNRS;
+d)
+Equipe  Brasileira  Principal: pesquisadores  vinculados  a  instituições  sediadas  em  um
+Estado da federação, cujo histórico de  colaboração com a equipe francesa demonstre a
+complementariedade de ambas na execução do projeto conjunto. Essa equipe será a equipe
+associada a equipe francesa, podendo a ela se agregar uma ou mais equipes orbitais, do
+mesmo Estado ou de outras unidades da Federação cujas FAPs  sejam copartícipes a esta
+Chamada; 
+e)
+Equipe  Brasileira  Orbital: pesquisadores de um Estado cuja FAP seja copartícipe  e que
+seja capaz de comprovar potencial de colaboração com a equipe principal brasileira e a
+equipe francesa na execução do projeto conjunto; 
+f)
+Proposta  de  criação  de  equipe  associada:  projeto  conjunto a  ser  submetido
+simultaneamente  pelo coordenador da equipe principal brasileira, a esta Chamada  e  pelo
+Coordenador da equipe francesa, a Chamada lançada pelo INRIA ou a Chamada lançada
+pelo INS2i-CNRS,  com demonstração clara da complementariedade das especialidades dos
+pesquisadores brasileiros e franceses na execução do mesmo. Caso exista a participação de
+equipes orbitais de estados copartícipes na proposta, o coordenador de cada equipe orbital
+deve submeter a mesma proposta a Chamada lançada pela respectiva FAP copartícipe.
+ 
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85)3275-9115/3275-2901/3101-2170
+Página Eletrônica: www.funcap.ce.gov.br
+10
+ Governo do Estado do Ceará  
+Secretaria de Ciência e Tecnologia e Educação Superior
+Fundação de Apoio ao Desenvolvimento Científico e Tecnológico
+FUNCAP/INRIA/INS2i-CNRS
+1.3 Proponente
+1.3.1 Poderão apresentar propostas pesquisadores que tenham vínculo empregatício/funcional com
+instituições de ensino superior (IES), centros e institutos de pesquisa e desenvolvimento públicos e
+privados, constituídos sob as leis brasileiras, e que tenham sua sede e administração no Estado do
+Ceará, todos sem fins lucrativos, doravante denominados “instituição executora local”.
+1.3.1.1  Os pesquisadores, grupos de pesquisa e especialistas vinculados  ao INRIA ou ao INS2i-
+CNRS devem apresentar proposta correspondente ao INRIA ou ao INS2i-CNRS, respectivamente,
+nos prazos, meios e formas determinados pelos mesmos.
+1.3.1.2 Os pesquisadores, grupos de pesquisa e especialistas vinculados a instituições sediadas nos
+Estados  copartícipes devem apresentar proposta correspondentes nas FAPs copartícipes de seus
+respectivos estados.
+1.3.2 O proponente será, necessariamente, o pesquisador coordenador do projeto.
+1.3.3 Ao apresentar a proposta, o proponente assume o compromisso de manter, durante a execução
+do projeto, todas as condições de qualificação, habilitação e idoneidade necessárias ao perfeito
+cumprimento do seu objeto, preservando atualizados os seus dados cadastrais junto aos registros
+competentes.
+1.3.4 Cada proposta incluirá necessariamente uma Equipe Brasileira Principal, sendo opcional a
+participação de uma ou várias Equipes Brasileiras Orbitais. 
+1.4 Cronograma
+EVENTOS
+DATAS
+Lançamento do Edital na página eletrônica da Funcap
+24 de agosto de 2017
+Postagem do Formulário Eletrônico para submissão de
+proposta na página da Funcap
+04 de setembro de 2017
+Data limite para submissão das propostas
+13 de outubro de 2017
+Divulgação  dos  resultados  na  página  eletrônica  da
+Funcap
+A partir de fevereiro de 2018
+Início da execução dos projetos aprovados
+A partir de março de 2018
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85)3275-9115/3275-2901/3101-2170
+Página Eletrônica: www.funcap.ce.gov.br
+11
+ Governo do Estado do Ceará  
+Secretaria de Ciência e Tecnologia e Educação Superior
+Fundação de Apoio ao Desenvolvimento Científico e Tecnológico
+FUNCAP/INRIA/INS2i-CNRS
+1.4.1 As datas e os procedimentos de submissão de propostas pelos parceiros franceses ao INRIA e
+ao INS2i-CNRS, bem como aos estados que aderiram a presente chamada poderão ser consultados
+na página do INRIA, na página do INS2i-CNRS e nas páginas da FAPs copartícipes, respectivamente.
+1.5 Recursos financeiros
+1.5.1 O valor global máximo a ser despendido pela Funcap nas propostas aprovadas está estimado
+em R$  240.000,00 (duzentos e quarenta mil reais), a serem liberados em até duas parcelas, de
+acordo com a sua disponibilidade orçamentária e financeira.
+1.5.2  O financiamento da Funcap para cada projeto terá o valor máximo de:
+a)
+b) até R$ 120.000,00 (cento e vinte mil reais)   por projeto, no caso de Equipe Principal
+com agregação de equipe orbital;
+b)
+até  R$  100.000,00  (cem  mil  reais)  por  projeto,  no  caso  de  Equipe  Principal,  sem
+agregação de equipe orbital;
+c)
+até R$ 40.000,00 (quarenta mil reais) por projeto, no caso de Equipe Orbital.
+1.6 Itens financiáveis
+1.6.1 Serão financiados, pela Funcap os seguintes itens:
+a)
+Passagens aéreas e terrestres internacionais para participantes da Equipe Brasileira
+para a França: até  04 passagens na classe econômica por ano, no valor máximo de R$
+6.500,00 (seis mil e quinhentos reais) cada, incluindo os deslocamentos internos na França,
+se houverem;
+b)
+Passagens aéreas nacionais para participantes de Equipe Brasileira: até 04 passagens
+na classe econômica por ano para visitas entre as equipes principais e orbitais, se for o caso;
+c)
+Diárias para participantes da Equipe Brasileira na França: até 80 diárias internacionais,
+tendo cada missão duração máxima de 20 dias;
+d)
+Diárias para participantes de Equipe Brasileira no Brasil: até 80 diárias nacionais para
+visitas entre as equipes principais e orbitais se for o caso;
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85)3275-9115/3275-2901/3101-2170
+Página Eletrônica: www.funcap.ce.gov.br
+12
+ Governo do Estado do Ceará  
+Secretaria de Ciência e Tecnologia e Educação Superior
+Fundação de Apoio ao Desenvolvimento Científico e Tecnológico
+FUNCAP/INRIA/INS2i-CNRS
+e)
+Seguro saúde no valor de até R$ 250,00 (duzentos e cinquenta reais) obrigatório para os
+brasileiros em missão no exterior;
+f)
+Bolsas para Estágios de pós-graduandos na Equipe Francesa: até 02 estágios de 03
+meses cada, compreendendo 03 mensalidades de R$ 2.000,00  e R$ 2.500,00 (pagas no
+Brasil), para alunos de mestrado e doutorado, respectivamente, passagens e ida e volta em
+classe econômica, de até no máximo R$ 6.500,00 (seis mi e quinhentos reais) e seguro
+saúde no valor de até R$ 1.000,00 (mil reais);
+g)
+Realização  de  oficinas  de  trabalhos  com  as  equipes  (eventos):  a  serem  usados
+exclusivamente com as despesas permitidas na Instrução Normativa 06/2015 da Funcap que
+rege o apoio a realização de eventos científicos;
+1.7 Itens financiáveis pelo INRIA e pelo INS2i-CNRS:
+1.7.1 O INRIA e o INS2i-CNRS, em parceria com a Embaixada Francesa no Brasil, financiarão os
+seguintes itens, a título de contrapartida:
+a)
+Passagens aéreas França-Brasil-França para integrantes da equipe francesa em visita a
+Equipe Brasileira Principal; 
+b)
+Diárias para integrantes da equipe francesa no Brasil em visita a Equipe Brasileira Principal;
+c)
+Realização de oficinas de trabalhos com as equipes (eventos); 
+d)
+Passagens aéreas França-Brasil-França para integrantes da equipe francesa em visita as
+Equipes Brasileiras Orbitais (uma passagem por ano para cada equipe orbital);
+e)
+Diárias para integrantes da equipe francesa no Brasil em visita as Equipes Brasileiras Orbitais
+(até 15 diárias por ano para cada equipe orbital);
+f)
+Complementação da bolsa para estágio de pós-graduandos brasileiros na França.
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85)3275-9115/3275-2901/3101-2170
+Página Eletrônica: www.funcap.ce.gov.br
+13
+ Governo do Estado do Ceará  
+Secretaria de Ciência e Tecnologia e Educação Superior
+Fundação de Apoio ao Desenvolvimento Científico e Tecnológico
+FUNCAP/INRIA/INS2i-CNRS
+1.8 Prazo de execução dos projetos
+As propostas a serem apoiadas pelo presente Edital deverão ter o prazo máximo de execução de 36
+(trinta e seis) meses.
+1.9 Documentação complementar
+1.9.1 O coordenador deverá obter e manter em seu poder:
+a)  Termo  de  Compromisso  de  todas  as  instituições  participantes:  executoras  e  colaboradoras,
+nacionais e estrangeiras, quanto a disponibilidade de infraestrutura adequada e cobertura de gastos
+não previstos neste Edital, necessários a execução do projeto.
+b) Termo de Compromisso de cada participante nacional e estrangeiro envolvido na cooperação
+internacional, atestando conhecimento das atividades que lhes são atribuídas no projeto.
+1.9.2 Esta documentação poderá ser solicitada pela Funcap a qualquer momento, em especial na
+fase de avaliação e acompanhamento do projeto.
+2. CRITÉRIOS DE ELEGIBILIDADE (REQUISITOS OBRIGATÓRIOS E CARACTERÍSTICAS DA
+PROPOSTA)
+Os  critérios  de  elegibilidade  indicados  abaixo  são  obrigatórios.  O  atendimento  aos  mesmos  é
+considerado imprescindível para o exame, enquadramento, análise e julgamento da proposta. A
+ausência ou insuficiência de informações sobre quaisquer deles resultará na desclassificação da
+proposta.
+Conforme previsto nos subitens  1.3.1.1 e  1.3.1.2, será eliminada a proposta cujo Coordenador
+estrangeiro  ou  Coordenador  em  outro  estado  copartícipe  não  tenha  submetido  proposta
+correspondente ao INRIA ou ao INS2i-CNRS e/ou FAP copartícipe.
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85)3275-9115/3275-2901/3101-2170
+Página Eletrônica: www.funcap.ce.gov.br
+14
+ Governo do Estado do Ceará  
+Secretaria de Ciência e Tecnologia e Educação Superior
+Fundação de Apoio ao Desenvolvimento Científico e Tecnológico
+FUNCAP/INRIA/INS2i-CNRS
+2.1 Quanto ao proponente e à equipe de apoio
+2.1.1 O proponente deve atender aos itens abaixo:
+a) Ser brasileiro ou estrangeiro com visto permanente, residente no Brasil;
+b) Possuir  o  título  de  doutor  e  experiência  em projetos  de  cooperação  internacional e/ou  alta
+qualificação atestada pela sua produção científica e experiência de formação de recursos humanos
+no tema do projeto;
+c) ter vínculo empregatício/funcional com a instituição de execução do projeto, constituída sob as leis
+brasileiras e que tenha sua sede e administração no Estado do BLÁ, e seja sem fins lucrativos;
+d) ter produção científica e tecnológica relevante, nos últimos cinco anos, na área específica do
+projeto de pesquisa;
+e) ser, obrigatoriamente, o coordenador do projeto.
+2.1.2 Deve a equipe brasileira:
+a)  ser  constituída  por  pesquisadores  e  especialistas  brasileiros  ou  estrangeiros,  com  visto
+permanente e residentes no Brasil;
+b) somente deverão ser incluídos, na equipe do projeto, aqueles que tenham prestado anuência
+formal escrita.
+2.1.3 O proponente não poderá coordenar mais de uma proposta neste Edital.
+2.2 Quanto à proposta
+2.2.1 O projeto deve estar claramente caracterizado como pesquisa científica, tecnológica ou de
+inovação.
+2.2.2  A proposta  deverá  ser  redigida  em  língua  inglesa  e  estar  de  acordo  com  o  roteiro  do
+“Detalhamento do Projeto”. 
+2.2.3  Ser necessariamente apresentada a Funcap pelo Coordenador local, as FAPs copartícipes
+pelos  coordenadores  em  outros  estados  copartícipes  e  ao  INRIA ou  ao  INS2i-CNRS  pelo(s)
+Coordenador(es) estrangeiro(s), de acordo com as regras e prazos definidos por cada lado;
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85)3275-9115/3275-2901/3101-2170
+Página Eletrônica: www.funcap.ce.gov.br
+15
+ Governo do Estado do Ceará  
+Secretaria de Ciência e Tecnologia e Educação Superior
+Fundação de Apoio ao Desenvolvimento Científico e Tecnológico
+FUNCAP/INRIA/INS2i-CNRS
+2.2.4 As propostas deverão ser apresentadas na forma de projeto de pesquisa. Recomenda-se que o
+mesmo contenha as seguintes informações, de modo a permitir sua adequada avaliação:
+a)
+identificação da proposta;
+b)
+identificação da afiliação da equipe francesa (se do INRIA ou do INS2i-CNRS);
+c)
+identificação do tipo da equipe que submete o projeto (se orbital ou principal);
+d)
+resumo estendido em português para fins de publicação;
+e)
+relevância do tema;
+f)
+estado-da-arte;
+g)
+justificativa para a cooperação internacional e para a cooperação nacional;
+h)
+objetivos: geral e específicos;
+i)
+metodologia;
+j)
+plano de trabalho;
+k)
+interação e qualificação das parcerias;
+l)
+infraestrutura disponível para realização do projeto conjunto;
+m) fontes de financiamento;
+n)
+existência de financiamento de outras fontes e/ou contrapartida dos países envolvidos;
+o)
+resultados esperados;
+p)
+indicadores da avaliação e acompanhamento e produtos esperados;
+q)
+Informações complementares sobre a equipe principal, se a proposta for submetida por
+equipe orbital, e/ou de equipes orbitais, se existirem.
+2.3 Quanto à instituição de execução
+A instituição de execução do projeto deverá se enquadrar ao estabelecido pelo subitem 1.3 deste
+Regulamento.
+3. CRITÉRIOS PARA JULGAMENTO
+São os seguintes os critérios para enquadramento das propostas quanto ao mérito técnico-científico e
+sua adequação orçamentária:
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85)3275-9115/3275-2901/3101-2170
+Página Eletrônica: www.funcap.ce.gov.br
+16
+ Governo do Estado do Ceará  
+Secretaria de Ciência e Tecnologia e Educação Superior
+Fundação de Apoio ao Desenvolvimento Científico e Tecnológico
+FUNCAP/INRIA/INS2i-CNRS
+Critérios de análise e julgamento
+Nota
+A Mérito  da  proposta:  excelência  científica,  abrangência  e  relevância  do  tema
+abordado, objetivos, metodologia, originalidade, potencial de inovação científica e
+tecnológica, possibilidade de desenvolvimento de produtos e processos, metas globais
+a serem alcançadas e abordagem multi e interdisciplinar.
+1 a 5
+B Parcerias: interação e qualificação das mesmas, agregação institucional, inclusive
+do setor privado, quando houver; importância estratégica, benefícios e pertinência da
+cooperação internacional. 
+No  caso  das  equipes  brasileiras  mistas,  equilíbrio  das  parcerias  nacionais  no
+desenvolvimento do projeto proposto.
+1 a 5
+C Qualificação dos coordenadores e das equipes: experiência em coordenação de
+projetos  de  cooperação  internacional  no(s)  tema(s)  proposto(s),  competência,
+titularidade  e  co-produção  científico-tecnológica;  capacidade  de  formação  e
+capacitação de recursos humanos.
+1 a 5
+D Coerência e adequação entre a capacitação e a experiência da equipe do projeto
+aos objetivos, atividades e metas propostos.
+1 a 5
+E Adequação do orçamento aos objetivos, atividades e metas propostos.
+1 a 5
+F Adequação da proposta as condições deste Edital.
+1 a 5
+G Coerência entre objetivos, metodologia, resultados esperados e cronograma de
+execução.
+1 a 5
+H Compatibilidade da infraestrutura e da equipe de apoio com a programação do
+projeto.
+1 a 5
+I Resultados  gerais  esperados:  publicações  conjuntas,  formação  de  recursos
+humanos, impactos socioeconômicos e demais benefícios mútuos que poderão ser
+gerados pela cooperação internacional. 
+1 a 5
+3.1 Para estipulação das notas poderão ser utilizadas até duas casas decimais.
+3.2 Aos critérios do julgamento apresentados acima serão atribuídas notas de 1 (um) a 5 (cinco).
+3.3 A pontuação final de cada projeto será aferida pelo somatório das notas atribuídas.
+3.4 O critério de desempate terá como parâmetro a maior nota no item A.
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85)3275-9115/3275-2901/3101-2170
+Página Eletrônica: www.funcap.ce.gov.br
+17
+ Governo do Estado do Ceará  
+Secretaria de Ciência e Tecnologia e Educação Superior
+Fundação de Apoio ao Desenvolvimento Científico e Tecnológico
+FUNCAP/INRIA/INS2i-CNRS
+4. AVALIAÇÃO FINAL/PRESTAÇÃO DE CONTAS
+O Coordenador do projeto deverá encaminhar, no prazo de até 60 (sessenta) dias após o término da
+vigência do projeto, em conformidade com o Termo de Concessão e demais normas da Funcap
+a)
+a prestação de contas financeira, com apresentação de comprovantes de despesas, em
+conformidade com o Manuel de utilização de recursos financeiros e Prestação de Contas
+disponíveis no endereço eletrônico www.funcap.gov.br.
+b)
+o relatório técnico científico final, com detalhamento de todas as atividades desenvolvidas na
+fase de realização do projeto e o registro de todas as ocorrências que afetaram o seu
+desenvolvimento.
+5. DOS ESCLARECIMENTOS E DAS INFORMAÇÕES ADICIONAIS ACERCA DO CONTEÚDO DO
+EDITAL E PREENCHIMENTO DO FORMULÁRIO DE PROPOSTA ON LINE
+Os  esclarecimentos  e  informações  adicionais  acerca  do  conteúdo  deste  Edital  e  sobre  o
+preenchimento do Formulário de Proposta on line poderão ser obtidos por intermédio do endereço e
+telefones indicados abaixo:
+5.1 Sobre o conteúdo do Edital
+Os esclarecimentos e informações adicionais acerca do conteúdo deste Edital podem ser obtidos
+encaminhando mensagem para o endereço eletrônico: direc@funcap.ce.gov.br
+5.2 Sobre o preenchimento do Formulário de Proposta online
+O  atendimento  a  proponentes com dificuldades  no  preenchimento  do  Formulário  de  Propostas
+Eletrônico será feito pelo endereço direc@funcap.ce.gov.br, ou pelos telefones (85) 3275-9115 e (85)
+3275-2901, de segunda a sexta-feira, no horário de 8h30 as 17h.
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85)3275-9115/3275-2901/3101-2170
+Página Eletrônica: www.funcap.ce.gov.br
+18
+ GOVERNO DO ESTADO DO CEARÁ
+SECRETARIA DA CIÊNCIA E TECNOLOGIA E EDUCAÇÃO SUPERIOR
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+PROGRAMA DE PÓS­DOUTORADO PARA JOVENS DOUTORES
+ EDITAL Nº 02/2017
+ADENDO Nº. 02/2017
+O Presidente da Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico ­
+FUNCAP,   Prof.   Tarcisio   Haroldo   Cavalcante   Pequeno,   comunica   que   o   prazo   de   entrega   da
+documentação complementar descrita no item  1.4 – Cronograma, do Regulamento do Edital 02/2017
+– Programa de Pós­Doutorado para Jovens Doutores, anteriormente prevista até às 17 horas do dia 18
+de setembro de 2017, fica postergada para até às 17 horas do dia 20 de setembro de 2017.
+Fortaleza, 14 de setembro de 2017.
+Tarcisio Haroldo Cavalcante Pequeno
+Presidente da FUNCAP
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE 
+Tel: 3275.2942
+Site: www.funcap.ce.gov.br – E­mail: pd@funcap;ce;gov.br
+ GOVERNO DO ESTADO DO CEARÁ
+SECRETARIA DA CIÊNCIA E TECNOLOGIA E EDUCAÇÃO SUPERIOR
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Procuradoria Jurídica
+PROGRAMA DE PÓS-DOUTORADO PARA JOVENS DOUTORES
+EDITAL FUNCAP 02/2017
+A Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico (Funcap),
+vinculada à Secretaria de Ciência, Tecnologia e Educação Superior (Secitece), em pareceria
+com a Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes), vinculada ao
+Ministério da Educação (MEC), e em conformidade com o Acordo para Cooperação Técnica e
+Acadêmica firmado entre si, assinado em 4 de maio de 2017, tornam público o lançamento do
+presente  Edital  e  convidam  os  interessados  a  apresentarem  propostas  nos  termos  aqui
+estabelecidos, e em conformidade com o anexo REGULAMENTO, parte integrante do mesmo.
+1. INFORMAÇÕES GERAIS
+Este  edital  contempla  a  oferta  de  bolsas  de  pós-doutorado  para  pesquisadores
+atuarem no Estado do Ceará. Esta ação é parte do esforço empreendido pelo Ministério da
+Educação por intermédio da Capes e da Funcap em investir na atuação dos doutores recém-
+formados para o desenvolvimento do país.
+2. OBJETIVO
+O  presente  Edital  tem  por  objetivo  promover  a  absorção  temporária  de  jovens
+doutores para atuar em projetos de pesquisa científica, formação de recursos humanos e de
+inovação tecnológica vinculados aos programas de pós-graduação  Stricto sensu do Ceará,
+mediante  a  seleção  de  propostas,  em  conformidade  com  as  condições  estabelecidas  no
+REGULAMENTO,  anexo  a  este  Edital,  que  determinará,  também,  condições  e  requisitos
+relativos ao proponente, cronograma, recursos financeiros a serem aplicados nas propostas
+aprovadas, origem dos recursos, itens financiáveis, prazo de execução dos projetos, critérios
+de  elegibilidade,  critérios  e  parâmetros  objetivos  de  julgamento  e  demais  informações
+necessárias.
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85) 3275.2942 / 3101-2169
+Site: www.funcap.ce.gov.br – E-mail: pd@funcap.ce.gov.br
+1
+ GOVERNO DO ESTADO DO CEARÁ
+SECRETARIA DA CIÊNCIA E TECNOLOGIA E EDUCAÇÃO SUPERIOR
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Procuradoria Jurídica
+OBJETO
+Fomentar atividades de pesquisa científica, tecnológica e de inovação, mediante a seleção de
+propostas de absorção temporária de jovens pesquisadores doutores em programas de pós-
+graduação  Stricto sensu avaliados e aprovados pela Capes sediados no Ceará, de modo a
+promover: (i) o desenvolvimento da pesquisa e inovação em áreas estratégicas para o Estado;
+(ii) o reforço à pós-graduação e aos grupos de pesquisa atuantes no estado; (iii) a renovação
+de quadros  nas universidades  e instituições de pesquisa para o ensino em nível de pós-
+graduação.
+3.  APRESENTAÇÃO  E  ENVIO  DAS  PROPOSTAS,  E  ENTREGA  DA  DOCUMENTAÇÂO
+COMPLEMENTAR
+3.1 As  propostas  devem  ser  apresentadas  sob  a  forma  de  projeto  de  pesquisa  e
+encaminhadas  à  Funcap  via  internet,  por  intermédio  do  Formulário  Eletrônico  próprio  na
+Plataforma Montenegro, acessível através da página www.funcap.ce.gov.br, a partir da data
+indicada no subitem 1.4 (CRONOGRAMA) do REGULAMENTO/CONDIÇÕES ESPECÍFICAS deste
+Edital. Para chegar ao formulário na Plataforma Montenegro, o solicitante deverá selecionar
+como natureza da solicitação a opção “Bolsa de Pós-Doutorado”.
+3.2 Além  do envio  do  formulário  eletrônico,  a submissão  da  proposta  requer  também  a
+entrega de Documentação Complementar (impressa), como detalhado no subitem 2.4 do item
+2  (CRITÉRIOS  DE  ELEGIBILIDADE  E  OUTRAS  CARACTERÍSTICAS  OBRIGATÓRIAS)  do
+REGULAMENTO. 
+3.3 As propostas devem ser transmitidas à Funcap, em calendário previamente fixado no
+subitem 1.4 (CRONOGRAMA) do REGULAMENTO. O proponente receberá, após o envio, um
+recibo  eletrônico  de  protocolo  da  sua  proposta,  o  qual  servirá  como  comprovante  da
+transmissão. 
+3.4 A proposta deve ser apresentada em conformidade com o descrito no item 2 (CRITÉRIOS
+DE ELEGIBILIDADE E OUTRAS CARACTERÍSTICAS OBRIGATÓRIAS) do REGULAMENTO, contendo
+rigorosamente todos os itens previstos neste Edital. O texto do projeto de pesquisa deve ser
+gerado  fora  do  Formulário  de  Propostas  online e  anexado  a  este,  no  formato  “pdf”.
+Recomenda-se evitar o uso de figuras, gráficos etc., que comprometam a capacidade do
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85) 3275.2942 / 3101-2169
+Site: www.funcap.ce.gov.br – E-mail: pd@funcap.ce.gov.br
+2
+ GOVERNO DO ESTADO DO CEARÁ
+SECRETARIA DA CIÊNCIA E TECNOLOGIA E EDUCAÇÃO SUPERIOR
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Procuradoria Jurídica
+arquivo, pois propostas que excedam o limite de 2 MB (dois megabytes) não serão recebidas
+pelo guichê eletrônico da Funcap.
+3.5  Não serão aceitas propostas submetidas por qualquer outro meio, tampouco fora dos
+prazos estabelecidos.
+3.6 Cada proponente, que é o coordenador do projeto de pesquisa e supervisor do bolsista,
+pode  submeter  apenas  1  (uma)  proposta.  Caso  mais  de  1  (uma)  proposta  tenha  sido
+submetida  pelo  mesmo  proponente,  apenas  aquela  relativa  à  última  submissão  será
+considerada.
+3.7 A documentação complementar (impressa), descrita no subitem 2.4 do item 2 (CRITÉRIOS
+DE ELEGIBILIDADE E OUTRAS CARACTERÍSTICAS OBRIGATÓRIAS) do REGULAMENTO, deverá
+ser obrigatoriamente entregue no Setor de Protocolo da Funcap (Av. Oliveira Paiva, 941 -
+Cidade dos Funcionários - Fortaleza, CE, CEP.: 60.822-130), em envelope identificado com o
+número do processo e o nome do proponente, e acompanhado de uma lista de seu conteúdo.
+O  protocolo  de  recebimento  servirá  como  comprovante  de  entrega  da  documentação
+complementar.
+3.8 A documentação complementar poderá ser remetida pelo correio, também em envelope
+identificado com o número do processo e o nome do proponente, e acompanhado de uma lista
+de seu conteúdo, com Aviso de Recebimento (AR), servindo o aviso como comprovante de
+entrega.
+4. ADMISSÃO, ANÁLISE E JULGAMENTO
+A seleção das propostas submetidas à Funcap, em atendimento a este Edital, será
+realizada por intermédio de análises e avaliações em etapas sucessivas:
+4.1 ETAPA I – Análise Preliminar pela Área Técnica da Funcap 
+Esta etapa, a ser realizada pela área técnica da Funcap, consiste na pré-análise das
+propostas apresentadas. Será verificado o atendimento às exigências documentais e formais
+do Edital e serão verificados os CRITÉRIOS DE ELEGIBILIDADE, que constam no REGULAMENTO
+adiante, sendo efetuada a análise quanto à adequação da proposta ao presente Edital. 
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85) 3275.2942 / 3101-2169
+Site: www.funcap.ce.gov.br – E-mail: pd@funcap.ce.gov.br
+3
+ GOVERNO DO ESTADO DO CEARÁ
+SECRETARIA DA CIÊNCIA E TECNOLOGIA E EDUCAÇÃO SUPERIOR
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Procuradoria Jurídica
+4.2 ETAPA II – Avaliação por Consultores ad hoc
+Esta etapa consistirá na avaliação por consultores ad hoc da demanda qualificada,
+quanto ao mérito da proposta, a fim de subsidiar o julgamento subsequente.
+4.3 ETAPA III – Avaliação pelas Câmaras de Assessoramento Técnico-Científico da
+Funcap
+À  luz  da  etapa  anterior,  esta  etapa  consistirá  na  avaliação  e  julgamento  da
+relevância das propostas pelas Câmaras de Assessoramento Técnico-Científico da Funcap às
+quais caberá avaliar os tópicos relacionados no item 3 (CRITÉRIOS PARA JULGAMENTO) do
+REGULAMENTO.
+4.3.1 Após  a análise  de  mérito  e relevância  de  cada  proposta  e  da  adequação  de  seu
+orçamento, a Câmara emitirá um parecer e uma recomendação quanto a aprovação ou não da
+proposta.
+4.3.2 Os  pareceres  da  Câmara  sobre  cada  proposta  recebida,  dentro  dos  critérios
+estabelecidos,  será  registrado  em  ata  de  julgamento,  assim  como  outras  informações  e
+recomendações julgadas pertinentes. Para propostas não recomendadas, será emitido parecer
+consubstanciado contendo as justificativas para a não recomendação. Os formulários deverão
+ser assinados pela maioria de membros da Câmara.
+4.3.3 É vedado a qualquer membro da Câmara julgar propostas de projetos em que:
+a) Haja interesse direto ou indireto seu;
+b) Esteja  participando  da  equipe  do  projeto  seu  cônjuge,  companheiro  ou  parente,
+consanguíneo ou afim, em linha reta ou na colateral, até o terceiro grau; ou
+c) Esteja litigando judicial ou administrativamente com qualquer membro da equipe do
+projeto ou seus respectivos cônjuges ou companheiros.
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85) 3275.2942 / 3101-2169
+Site: www.funcap.ce.gov.br – E-mail: pd@funcap.ce.gov.br
+4
+ GOVERNO DO ESTADO DO CEARÁ
+SECRETARIA DA CIÊNCIA E TECNOLOGIA E EDUCAÇÃO SUPERIOR
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Procuradoria Jurídica
+4.4 ETAPA IV – Avaliação por Comitê ad hoc
+Todas as propostas, acompanhadas por seus respectivos pareceres emitidos pelas
+Câmaras, serão submetidas à apreciação do Comitê ad hoc de avaliação constituído pela
+Funcap,  composto  por  especialistas  das  diversas  áreas  do  conhecimento,  todos  com
+maturidade, competência e reconhecimento da comunidade científica. O Comitê produzirá
+uma relação das propostas recomendadas para apoio a serem apoiadas que será submetida à
+Diretoria da Funcap e da Capes.
+4.5 ETAPA V – Aprovação Final pela Diretoria da Funcap
+A  Diretoria  da  Funcap  se  reunirá  e  procederá  à  aprovação  final  das  propostas
+recomendadas, que serão submetidas à diretoria da Capes para homologação.
+4.6 ETAPA VI – Homologação pela Diretoria da CAPES
+Todas  as  propostas  aprovadas  pela  Funcap  serão  submetidas  à  apreciação  da
+Diretoria de Programas e Bolsas no País da Capes, que emitirá a decisão final sobre sua
+aprovação, observando os limites orçamentários deste Edital e respeitando o Termo de Acordo
+para Cooperação Técnica e Acadêmica celebrado entre a Capes e a Funcap e assinado em 4
+de maio de 2017.
+5. RESULTADO DO JULGAMENTO
+5.1 A relação das propostas aprovadas para apoio com recursos financeiros do presente Edital
+será divulgada na página eletrônica www.funcap.ce.gov.br
+5.2 Todos os proponentes serão informados do parecer sobre sua proposta por intermédio de
+correspondência enviada ao endereço eletrônico declarado no formulário de submissão das
+propostas, preservada a identificação dos consultores.
+6. DOS RECURSOS ADMINISTRATIVOS
+6.1 Caso o proponente queira contestar o resultado do julgamento das propostas, poderá
+apresentar recurso no prazo de 5 (cinco) dias úteis, a contar da data de recepção do parecer
+negativo,  que  será  enviado  pelos  correios  com  aviso  de  recebimento  (AR)  ao  endereço
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85) 3275.2942 / 3101-2169
+Site: www.funcap.ce.gov.br – E-mail: pd@funcap.ce.gov.br
+5
+ GOVERNO DO ESTADO DO CEARÁ
+SECRETARIA DA CIÊNCIA E TECNOLOGIA E EDUCAÇÃO SUPERIOR
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Procuradoria Jurídica
+informado pelo proponente no ato do preenchimento do formulário eletrônico de submissão
+das propostas.
+6.2 O recurso deverá ser dirigido à Diretoria Científica da Funcap, que poderá valer-se, para
+sua análise, das Câmaras de Assessoramento Técnico-Científico e/ou pareceristas  Ad hoc. O
+julgamento final do recurso será feito pelo Conselho Executivo da Funcap.
+6.3 Nenhum prazo de recurso se inicia ou corre sem que o parecer de que trata o item 5.2 es-
+teja disponível, com vista franqueada ao proponente. Assim sendo, o prazo somente se inicia-
+rá na data de recebimento do parecer relativo à sua proposta. 
+6.4 Na contagem do prazo excluir-se-á o dia do início e incluir-se-á o do vencimento, e consi-
+derar-se-ão os dias consecutivos. O prazo só se inicia e vence em dias de expediente na Fun-
+cap.
+7. DA CONTRATAÇÃO DAS PROPOSTAS APROVADAS
+7.1 As  propostas  aprovadas  serão  contratadas  pela  Funcap,  em  nome  do  proponente,
+mediante assinatura de Termo de Concessão.
+7.2 A  concessão  da  bolsa  será  feita  diretamente  ao  bolsista  previamente  indicado  pelo
+proponente, na proposta selecionada. 
+8. CANCELAMENTO DA CONCESSÃO
+A concessão das bolsas de Pós-Doutorado poderá ser cancelada pelas Diretorias da
+Funcap  e  da  Capes,  por  ocorrência,  durante  sua implementação,  de  fato  cuja  gravidade
+justifique  o  cancelamento,  sem  prejuízo  de  outras  providências  cabíveis  em  decisão
+devidamente fundamentada.
+9. PUBLICAÇÕES
+As  publicações  científicas  e  qualquer  outro  meio  de  divulgação  de  trabalho  de
+pesquisa, apoiados pelo presente Edital, deverão citar, obrigatoriamente, o apoio da Funcap e
+da Capes.
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85) 3275.2942 / 3101-2169
+Site: www.funcap.ce.gov.br – E-mail: pd@funcap.ce.gov.br
+6
+ GOVERNO DO ESTADO DO CEARÁ
+SECRETARIA DA CIÊNCIA E TECNOLOGIA E EDUCAÇÃO SUPERIOR
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Procuradoria Jurídica
+10. IMPUGNAÇÃO DO EDITAL
+10.1 Decairá do direito de impugnar os termos deste Edital o proponente que não o fizer até o
+2º (segundo) dia útil anterior ao prazo final estabelecido para recebimento das propostas.
+Ademais, não terá efeito de recurso a impugnação feita por aquele que, em o tendo aceitado
+sem objeção, venha apontar, posteriormente ao julgamento, eventuais falhas ou imperfeições.
+10.2 A impugnação deverá ser dirigida à Diretoria Científica da Funcap, por correspondência
+eletrônica, para o endereço: pd@funcap.ce.gov.br.
+11. REVOGAÇÃO OU ANULAÇÃO DO EDITAL
+A qualquer tempo, o presente Edital poderá ser revogado ou anulado, no todo ou em
+parte, seja por decisão unilateral da Diretoria da Funcap ou da Diretoria da Capes, seja por
+motivo de interesse público ou exigência legal, em decisão fundamentada, sem que isso
+implique direitos à indenização ou reclamação de qualquer natureza.
+12. PERMISSÕES E AUTORIZAÇÕES ESPECIAIS
+12.1 É de exclusiva responsabilidade de cada proponente adotar todas as providências que
+envolvam permissões e autorizações especiais de caráter ético ou legal, necessárias para a
+execução do projeto.
+13. DAS DISPOSIÇÕES GERAIS
+13.1 Durante a fase de execução do projeto, toda e qualquer comunicação com a Funcap
+deverá ser feita por meio de correspondência eletrônica à Diretoria Científica.
+13.2 Qualquer alteração relativa à execução do projeto deverá ser solicitada à Funcap por seu
+coordenador, acompanhada da devida justificativa, devendo a mesma ser autorizada antes de
+sua efetivação.
+13.3 O projeto será avaliado em todas as suas fases, nos termos definidos no REGULAMENTO
+e no Termo de Concessão.
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85) 3275.2942 / 3101-2169
+Site: www.funcap.ce.gov.br – E-mail: pd@funcap.ce.gov.br
+7
+ GOVERNO DO ESTADO DO CEARÁ
+SECRETARIA DA CIÊNCIA E TECNOLOGIA E EDUCAÇÃO SUPERIOR
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Procuradoria Jurídica
+13.4 Ao final da vigência, o proponente deverá apresentar relatório técnico, em conformidade
+com estabelecido no Termo de Concessão e demais normas da Funcap e da CAPES.
+13.5 A Funcap  reserva-se o direito  de,  durante  a execução  do projeto,  promover  visitas
+técnicas  ou solicitar informações adicionais visando aperfeiçoar o sistema de Avaliação e
+Acompanhamento.
+13.6 As  informações  geradas  com  a  implementação  das  propostas  selecionadas  e
+disponibilizadas na base de dados da Funcap serão de domínio público.
+13.7 O presente Edital regula-se pelos  preceitos  de direito público e, em especial, pelas
+disposições da Lei nº 8.666, de 21 de junho de 1993, e, no que couber, pelas normas internas
+da Funcap.
+14.  DOS  ESCLARECIMENTOS  E  DAS  INFORMAÇÕES  ADICIONAIS  ACERCA  DO
+CONTEÚDO DO EDITAL E PREENCHIMENTO DO FORMULÁRIO DE PROPOSTA ONLINE
+Os esclarecimentos e informações adicionais acerca do conteúdo deste Edital e sobre
+o preenchimento do formulário de proposta  online poderão ser obtidos por intermédio do
+endereço eletrônico e telefones indicados em item específico do REGULAMENTO.
+15. CLÁUSULA DE RESERVA
+A Diretoria da Funcap e da Capes reservam-se o direito de resolver os casos omissos
+e as situações não previstas no presente Edital.
+Fortaleza, 01 de agosto de 2017.
+Tarcisio Haroldo Cavalcante Pequeno
+Diretor Presidente
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85) 3275.2942 / 3101-2169
+Site: www.funcap.ce.gov.br – E-mail: pd@funcap.ce.gov.br
+8
+ GOVERNO DO ESTADO DO CEARÁ
+SECRETARIA DA CIÊNCIA E TECNOLOGIA E EDUCAÇÃO SUPERIOR
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Procuradoria Jurídica
+PROGRAMA DE PÓS-DOUTORADO PARA JOVENS DOUTORES
+EDITAL FUNCAP 02/2017
+REGULAMENTO
+CONDIÇÕES ESPECÍFICAS
+O presente REGULAMENTO tem por finalidade definir as atividades a serem apoiadas
+financeiramente,  e as  condições  para  implementação  do  apoio,  mediante  a seleção,  por
+edital, de propostas para execução de projetos.
+1. DAS DISPOSIÇÕES ESPECÍFICAS
+1.1 DAS DEFINIÇÕES
+1.1.1 Para os fins deste edital, são adotadas as seguintes definições:
+a) Acordo Capes-Funcap para Cooperação  Técnica e Acadêmica  é o acordo de
+cooperação  entre  a  Funcap  e  a  Capes  destinado  a  apoiar  os  Programas  de  Pós-
+Graduação Stricto sensu das Instituições de Ensino Superior (IES) sediadas no Ceará,
+no qual uma das ações previstas é a disponibilização, pela Capes, de  30 (trinta) de
+Bolsas de Pós-Doutorado para serem administradas pela Funcap, em benefício dos
+programas de pós-graduação do estado. Pelo Acordo, caberá à Funcap a seleção, o
+acompanhamento e a avaliação dos projetos institucionais de pós-doutorado a serem
+apoiados,  e  também  o  pagamento  de  bolsas  complementares,  cabendo  à  Capes
+implementar e pagar as Bolsas de Pós-Doutorado.
+b) As  bolsas de pós-doutorado da Capes a serem concedidas por intermédio deste
+edital destinam-se a jovens pesquisadores doutores sem vínculo empregatício para
+permitir sua absorção temporária em projetos de pesquisa científica, de formação de
+recursos humanos ou de inovação tecnológica conduzidos por grupos de pesquisa de
+programas de pós-graduação, com objetivos de: (i) o desenvolvimento da pesquisa e
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85) 3275.2942 / 3101-2169
+Site: www.funcap.ce.gov.br – E-mail: pd@funcap.ce.gov.br
+9
+ GOVERNO DO ESTADO DO CEARÁ
+SECRETARIA DA CIÊNCIA E TECNOLOGIA E EDUCAÇÃO SUPERIOR
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Procuradoria Jurídica
+inovação  em  áreas  estratégicas;  (ii)  o  reforço  à  pós-graduação  e  aos  grupos  de
+pesquisa nacionais; (iii) a renovação de quadros nas universidades e instituições de
+pesquisa para o ensino em nível de pós-graduação, a orientação e a pesquisa. 
+1.2 Do Objeto
+Fomentar atividades de pesquisa científica, tecnológica e de inovação, mediante a
+seleção  de  propostas  de  absorção  temporária  de  jovens  pesquisadores  doutores  em
+programas de pós-graduação Stricto sensu sediados no Ceará. Esta ação visa a promover: (i) o
+desenvolvimento da pesquisa e inovação em áreas estratégicas para o estado; (ii) o reforço à
+pós-graduação e aos grupos de pesquisa atuantes no estado; (iii) a renovação de quadros nas
+universidades e instituições de pesquisa para o ensino em nível de pós-graduação.
+1.3 Da Proposta
+1.3.1 As  propostas  que  visam  a  fixação  de  jovens  doutores  em  um  Programa  de  Pós-
+Graduação  no  estado  do  Ceará,  deverão  ser  submetidas  por  pesquisadores  que  estejam
+cadastrados  como  docentes  em  programas  de  pós-graduação  Stricto  sensu sediados  no
+Ceará, doravante denominados proponentes. Para tanto, devem exibir como parte da proposta
+anuência formal do programa a que pertencem e ao qual se destina o bolsista jovem doutor
+objeto da proposta. O proponente será automaticamente o Coordenador da proposta.
+1.3.2 Devem constar obrigatoriamente na proposta o projeto de pesquisa a ser realizado, o
+nome  e  os  dados  curriculares  do  jovem  doutor  a  ser  beneficiário  da  bolsa.  Todas  as
+informações necessárias à proposta serão detalhadas no item 2.3. Observe-se que na ocasião
+da submissão da proposta, a indicação e os dados do jovem doutor a ser assimilado são
+imprescindíveis e sua falta acarreta a anulação da proposta. Outrossim, o indicado não poderá
+ser alterado em qualquer ponto do processo.
+1.3.3 A instituição à qual está vinculado o programa de pós-graduação a que se refere a
+proposta  será  doravante  denominada  “Instituição  de  Execução  do  Projeto”,  que  estará
+comprometida a garantir condições de plena viabilidade para a realização do projeto de pós-
+doutorado apresentado pelo proponente.
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85) 3275.2942 / 3101-2169
+Site: www.funcap.ce.gov.br – E-mail: pd@funcap.ce.gov.br
+10
+ GOVERNO DO ESTADO DO CEARÁ
+SECRETARIA DA CIÊNCIA E TECNOLOGIA E EDUCAÇÃO SUPERIOR
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Procuradoria Jurídica
+1.4 Cronograma
+Atividades
+Data
+Lançamento  do  Edital  na  página  eletrônica
+da Funcap
+01/08/2017
+Disponibilização  do  formulário  eletrônico
+(Plataforma Montenegro)
+15/08/2017
+Inscrição via formulário eletrônico
+Até às 17hrs do dia 15/09/2017
+Entrega da documentação complementar
+Até 17hrs do dia 18/09/2017
+Resultado
+A partir de 25/09/2017
+Contratação das propostas aprovadas
+A partir de outubro/2017
+Início da vigência
+A partir de 01/10/2017
+1.5 Recursos Financeiros
+1.5.1 Parcela mínima de 15% (quinze por cento) do valor global deverá ser preferencialmente,
+destinada a projetos a serem desenvolvidos, total ou parcialmente, nas instituições sediadas
+no interior do Estado do Ceará.
+1.6 Itens Financiáveis
+1.6.1 Em cada proposta submetida ao presente edital poderá ser solicitada 1 (uma) “Bolsa de
+Pós-Doutorado”, compreendendo os seguintes itens:
+   a)  Bolsa de Pós-Doutorado com duração de até 2 (dois) anos e valor mensal de R$
+4.100,00 (Quatro mil e cem reais), a ser implementada e paga diretamente pela Capes ao
+bolsista após a aprovação do candidato indicado pelo Coordenador do Projeto.
+   b)  Bolsa Complementar de Pós-Doutorado com duração de até 2 (dois) anos e valor
+mensal  de  R$  900,00  (Novecentos  reais),  a  ser  implementada  na  modalidade  Bolsa
+Complementar  de  Pós-Doutorado  pela  Funcap  e  paga  diretamente  ao  bolsista  após  a
+aprovação do candidato indicado pelo Coordenador do Projeto.
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85) 3275.2942 / 3101-2169
+Site: www.funcap.ce.gov.br – E-mail: pd@funcap.ce.gov.br
+11
+ GOVERNO DO ESTADO DO CEARÁ
+SECRETARIA DA CIÊNCIA E TECNOLOGIA E EDUCAÇÃO SUPERIOR
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Procuradoria Jurídica
+  c) Auxílio Financeiro para Custeio de despesas do projeto de pesquisa desenvolvido pelo
+bolsista,  no  valor  anual  de  R$  12.000,00  (Doze  mil  reais),  repassados  pela  Funcap  ao
+Coordenador do projeto, pagos a partir do 6º (sexto) mês da implementação da bolsa.
+1.6.2 A bolsa não poderá ser utilizada para pagamento de prestação de serviços, uma vez
+que tal utilização estaria em desacordo com a finalidade das bolsas da Capes e da Funcap.
+1.6.3 Os recursos de custeio são concedidos exclusivamente para gastos com as atividades
+do bolsista no projeto, e poderão ser utilizados para despesas como:
+a)  Material  de  consumo,  componentes  e/ou  peças  de  reposição  de  equipamentos,
+software, instalação, recuperação e manutenção de equipamentos;
+b) Serviços de terceiros – pagamento integral ou parcial de contratos de manutenção e
+serviços de terceiros, pessoa física ou jurídica, de caráter eventual, para a produção
+de  material  didático/  instrucional,  editoração  gráfica,  material  de  divulgação  de
+atividades  exclusivamente  ligadas  ao  projeto,  manutenção  de  equipamentos  e
+funcionamento de laboratório;
+c) Despesas acessórias, especialmente as de importação e as de instalações necessárias
+ao adequado funcionamento dos equipamentos;
+d) Passagens e diárias, de acordo com as normas das agências financiadoras, para
+participação  em  eventos  acadêmicos  de  curta  duração,  trabalho  de  campo  e
+despesas com o treinamento de novas técnicas de laboratório no país.
+1.6.4 Para  contratação  de  serviços  ou  aquisição  de  material  de  consumo  deverá  ser
+observada  a  legislação  vigente,  através  do  Manual  de  Prestação  de  Contas  da  Funcap,
+disponível em: www.funcap.ce.gov.br
+1.6.5 O auxílio financeiro somente poderá ser utilizado até o término da vigência do projeto.
+O saldo remanescente ao final da vigência deverá ser devolvido a Capes no momento da
+apresentação da prestação de contas final.
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85) 3275.2942 / 3101-2169
+Site: www.funcap.ce.gov.br – E-mail: pd@funcap.ce.gov.br
+12
+ GOVERNO DO ESTADO DO CEARÁ
+SECRETARIA DA CIÊNCIA E TECNOLOGIA E EDUCAÇÃO SUPERIOR
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Procuradoria Jurídica
+1.7 Implantação das Bolsas 
+1.7.1  A  implementação  da  bolsa  se  dará  mediante  assinatura  de  Formulário  de
+Cadastramento de Bolsista e Termo de Compromisso, a ser firmado com a Capes e após,
+cadastramento pela Funcap no sistema de Acompanhamento de Concessão – SAC da Capes.
+1.8 Prazo de Execução dos Projetos e Vigência das Bolsas
+1.8.1 Os projetos a serem apoiados pelo presente Edital deverão ter o prazo de execução de
+24 (vinte e quatro) meses, contados a partir da data da assinatura do Termo de Concessão,
+estando a vigência máxima da Bolsa de Pós-Doutorado limitada a 24 (vinte e quatro) meses,
+eventualmente prorrogáveis.
+1.8.2 O proponente deverá comunicar imediatamente à Funcap quando o bolsista se desligar
+do projeto, a fim de que sua bolsa de pós-doutorado seja cancelada. O não atendimento dessa
+obrigação implicará em co-responsabilidade do proponente pelo eventual pagamento indevido
+de mensalidades de bolsa, passando o Coordenador a ser considerado inadimplente com a
+Funcap e a Capes até que sejam devolvidos os valores indevidamente pagos.
+1.9 ACOMPANHAMENTO
+1.9.1 Durante  o  período  de  vigência  das  bolsas,  os  supervisores  dos  bolsistas  serão
+responsáveis  por  informar  à Funcap,  por  escrito,  a ocorrência  de  quaisquer  eventos  que
+venham  a  prejudicar  o  andamento  das  atividades  do  bolsista,  como  o  cancelamento,
+desistência, desempenho insuficiente e faltas injustificadas, de acordo com as disposições do
+Formulário de Cadastramento de Bolsista e Termo de Compromisso da Capes.
+1.9.2 A não apresentação de qualquer dos relatórios no modelo específico e/ou no prazo
+determinado  implicará  na  suspensão  imediata  do  pagamento  da  bolsa,  ficando  os
+coordenadores/supervisores dos bolsistas e os bolsistas em situação de inadimplência com a
+Funcap ou com a Capes.
+1.9.3 À  Funcap  e  à  Capes  reservam-se  o  direito  de,  durante  a  vigência  das  bolsas,
+promoverem visitas técnicas e/ou solicitarem informações adicionais, visando aperfeiçoar o
+sistema de acompanhamento.
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85) 3275.2942 / 3101-2169
+Site: www.funcap.ce.gov.br – E-mail: pd@funcap.ce.gov.br
+13
+ GOVERNO DO ESTADO DO CEARÁ
+SECRETARIA DA CIÊNCIA E TECNOLOGIA E EDUCAÇÃO SUPERIOR
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Procuradoria Jurídica
+1.9.4 As bolsas concedidas e os pactos delas decorrentes poderão ser acompanhados, dentro
+dos prazos definidos legalmente, pelo TCE/CE – Tribunal de Contas do Estado do Ceará e pela
+Controladoria Geral da União – CGU ou pelo Tribunal de Contas da União – TCU.
+2. CRITÉRIOS DE ELEGIBILIDADE E OUTRAS CARACTERÍSTICAS OBRIGATÓRIAS
+Os critérios de elegibilidade indicados abaixo são obrigatórios. O atendimento aos
+mesmos é considerado imprescindível para o exame da proposta, seu enquadramento, análise
+e julgamento. A ausência ou insuficiência de informações sobre quaisquer deles resultará na
+desclassificação da proposta.
+2.1. Quanto ao Proponente
+2.1.1 Poderão apresentar propostas pesquisadores, denominados “proponentes”, que estejam
+cadastrados como docentes em um programa de pós-graduação  Stricto sensu sediado no
+Ceará, e que tenham anuência formal do programa de pós-graduação para a submissão da
+proposta.
+2.1.2 O proponente deve ainda atender aos itens abaixo:
+a) Ter seu currículo cadastrado na Plataforma Lattes,
+b) Ter vínculo empregatício permanente com a instituição de execução do projeto.
+2.2. Quanto aos Beneficiários das Bolsas
+     Para ser beneficiado com a bolsa de Pós-Doutorado, o candidato selecionado deverá
+atender aos seguintes requisitos, na ocasião da assinatura do Termo de Concessão:
+a) Ser brasileiro ou possuir visto permanente no País. Excepcionalmente,  no caso de
+candidatos estrangeiros não residentes no Brasil, será concedido um prazo de até 12
+(doze) meses para que o mesmo decida, após o início da bolsa, pela opção de obter
+visto permanente no País;
+b) Estar em dia com as obrigações eleitorais;
+c) Dedicar-se integral e exclusivamente às atividades do projeto;
+d) Não ter vínculo empregatício ou estatutário;
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85) 3275.2942 / 3101-2169
+Site: www.funcap.ce.gov.br – E-mail: pd@funcap.ce.gov.br
+14
+ GOVERNO DO ESTADO DO CEARÁ
+SECRETARIA DA CIÊNCIA E TECNOLOGIA E EDUCAÇÃO SUPERIOR
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Procuradoria Jurídica
+e) Não ser aposentado;
+f) Ter obtido o título de doutor há, no máximo, 5 (cinco) anos;
+g) Apresentar o seu diploma ou comprovante de conclusão do doutorado no momento da
+implementação da bolsa. Caso o diploma tenha sido obtido em instituição estrangeira
+sem que o seu detentor fosse beneficiário de uma bolsa de doutorado no exterior
+concedida por agência de fomento federal ou estadual brasileira, este deverá possuir o
+reconhecimento de validação no Brasil, conforme dispositivo legal;
+h) Ter seu currículo atualizado e disponível na Plataforma Lattes.
+2.3 Quanto à Proposta
+2.3.1 A descrição do projeto deve detalhar em linhas gerais o plano de trabalho e conter as
+seguintes informações, de forma a permitir a sua adequada análise por parte do Comitê de
+Avaliação:
+a) Clara delimitação dos objetivos da pesquisa e sua fundamentação;
+b) Justificativa que demonstre a importância do projeto para a instituição, e os benefícios
+para  o  programa  de  pós-graduação,  tais  como  a  consolidação  de  uma  linha  de
+pesquisa e/ou de desenvolvimento tecnológico, ou a criação de uma nova linha de
+pesquisa ou área de concentração;
+c) Metodologia a ser utilizada;
+d) A compatibilidade  do cronograma  de execução  das atividades  previstas,  contendo
+especificação das metas e ações para a conclusão do projeto em um prazo máximo de
+2 (dois) anos;
+e) Resultados pretendidos: a descrição detalhada dos indicadores a serem alcançados, o
+progresso científico e/ou tecnológico esperado, o impacto para o desenvolvimento do
+estado,  as  criações  ou  inovações  tecnológicas  a  serem  obtidas,  bem  como  suas
+aplicações industriais, quando for o caso;
+f)
+Referências bibliográficas.
+2.3.2 A proposta deve ainda conter os seguintes itens ou informações específicas:
+a) Estimativa orçamentária do desenvolvimento total do projeto, por item de dispêndio,
+identificando a participação técnica e financeira da proponente;
+b) Equipe  de  execução  do  projeto  com  as  respectivas  titulações  e  eventuais
+colaboradores:  pesquisadores,  técnicos  e  instituições  colaboradoras/parceiras  que
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85) 3275.2942 / 3101-2169
+Site: www.funcap.ce.gov.br – E-mail: pd@funcap.ce.gov.br
+15
+ GOVERNO DO ESTADO DO CEARÁ
+SECRETARIA DA CIÊNCIA E TECNOLOGIA E EDUCAÇÃO SUPERIOR
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Procuradoria Jurídica
+tenham prestado anuência formal escrita, a qual deve ser mantida sob a guarda do
+proponente do projeto;
+c) Infraestrutura física e tecnológica necessária já disponível na instituição proponente ou
+a ser instalada;
+d) Contrapartida  e  acervo  da  instituição  proponente  relativa  ao  desenvolvimento  do
+projeto, incluindo garantia da infraestrutura e meios adequados para a consecução de
+seus objetivos, dentro do previsto no plano de trabalho e cronograma apresentados;
+e) Outras informações julgadas relevantes.
+2.4 Quanto à documentação 
+O proponente deverá submeter a seguinte documentação impressa no protocolo da
+Funcap:
+a) Formulário de solicitação impresso e assinado pelo proponente e pelo representante
+legal da instituição de vínculo da proposta (gerado pela Plataforma Montenegro a partir
+do preenchimento do formulário on line);
+b) Cópia impressa do projeto de pesquisa submetido;
+c) Cópia impressa do curriculum vitae do proponente no modelo da Plataforma Lattes;
+d) Cópia impressa do curriculum vitae do candidato no modelo da Plataforma Lattes;
+e) Quando for o caso, Cópia do protocolo de submissão do projeto ao Comitê de Ética em
+pesquisa e de outras autorizações/permissões de caráter ético ou legal, quando for o
+caso. A contratação do projeto está sujeita à apresentação de aprovação do Comitê de
+Ética do projeto submetido.
+3. CRITÉRIOS PARA JULGAMENTO
+A avaliação será feita em termos da qualidade científica da proposta, a sua exequibilidade,
+considerando-se o mérito do supervisor da mesma e a aderência da proposta e da equipe
+envolvida ao programa de pós-graduação correspondente. Deve-se ressaltar, todavia, que
+será considerado prioritariamente o mérito do candidato à bolsa de pós-doutorado.
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85) 3275.2942 / 3101-2169
+Site: www.funcap.ce.gov.br – E-mail: pd@funcap.ce.gov.br
+16
+ GOVERNO DO ESTADO DO CEARÁ
+SECRETARIA DA CIÊNCIA E TECNOLOGIA E EDUCAÇÃO SUPERIOR
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Procuradoria Jurídica
+4. ACOMPANHAMENTO, AVALIAÇÃO FINAL E PRESTAÇÃO DE CONTAS
+4.1 A execução dos projetos aprovados para apoio será acompanhada pela Funcap por meio
+da análise do Relatório Técnico-Científico Anual apresentado pelo Coordenador do projeto, o
+qual deverá descrever o conjunto das atividades realizadas pelo bolsista de pós-doutorado
+vinculado  ao  projeto  apoiado,  bem  como os  resultados  que  foram  alcançados.  Caberá  à
+Funcap a definição da data de envio do relatório do qual trata este item.
+4.2 Independentemente  do  relatório  anual  apresentado  pelo  Coordenador  do  projeto,  o
+beneficiário da Bolsa Complementar de Pós-Doutorado deverá apresentar relatórios parciais
+individuais  de  acordo  com  os  prazos  próprios  da  modalidade  de  Bolsa  Complementar,
+indicados nos Termos de Outorga das bolsas.
+4.3 A falha na entrega dos relatórios anuais do Coordenador do projeto ou do bolsista poderá
+levar à suspensão do pagamento da bolsa complementar.
+4.4 Caso  o proponente  deixe  a função  de  Coordenador  do  projeto  antes  do  término  da
+vigência, a coordenação do projeto aprovado deverá ser transferida a um substituto, mediante
+a assinatura de novo Termo de Concessão, devendo a Capes e a Funcap serem comunicadas
+previamente.
+4.5 No  prazo  de  até  60  (sessenta)  dias  após  o  término  da  vigência  do  projeto,  em
+conformidade com o Termo de Concessão e demais normas da Capes, o Coordenador do
+projeto deverá encaminhar à Capes e à Funcap o Relatório Técnico Final, com detalhamento de
+todas as atividades desenvolvidas durante a execução do projeto apoiado e o registro de
+todas as ocorrências que afetaram o seu desenvolvimento.
+4.6 Uma prestação de contas financeira parcial relativa à utilização dos recursos concedidos
+para despesas de custeio deve ser encaminhada anualmente à Funcap pelo Coordenador do
+projeto, sempre por carta registrada ou entrega direta no protocolo.
+4.7 No prazo de até 60 (sessenta) dias após o término da vigência do projeto, o Coordenador
+deverá apresentar à Funcap relatório final e prestação de contas dos recursos concedidos para
+despesas de custeio.
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85) 3275.2942 / 3101-2169
+Site: www.funcap.ce.gov.br – E-mail: pd@funcap.ce.gov.br
+17
+ GOVERNO DO ESTADO DO CEARÁ
+SECRETARIA DA CIÊNCIA E TECNOLOGIA E EDUCAÇÃO SUPERIOR
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Procuradoria Jurídica
+4.8 As  prestações  de  contas  deverão  ser  apresentadas  de  acordo  com  as  normas  e
+orientações
+contidas no Manual de Prestação de Contas da Funcap e na legislação vigente.
+5.
+ DOS  ESCLARECIMENTOS  E  DAS  INFORMAÇÕES  ADICIONAIS  ACERCA  DO
+CONTEÚDO DO EDITAL E PREENCHIMENTO DO FORMULÁRIO DE PROPOSTA ON LINE
+5.1 Sobre o conteúdo do Edital
+Esclarecimentos e informações adicionais acerca do conteúdo deste Edital podem ser
+obtidos pelo endereço eletrônico pd@funcap.ce.gov.br.
+5.2 Sobre o preenchimento do formulário de proposta on line
+O atendimento a proponentes com dificuldades no preenchimento do Formulário de
+Propostas  online será feito pelo endereço eletrônico  pd@funcap.ce.gov.br ou pelo telefone
+(85) 3275.2942, de segunda a sexta-feira, no horário das 8h00 às 12h00 e das 13h00 às
+17h00.
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
+Av. Oliveira Paiva, 941, Fortaleza/CE - Fax - 3275-7862
+Tel: (85) 3275.2942 / 3101-2169
+Site: www.funcap.ce.gov.br – E-mail: pd@funcap.ce.gov.br
+18

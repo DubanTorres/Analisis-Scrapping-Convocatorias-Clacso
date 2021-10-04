@@ -1,0 +1,3179 @@
+i 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Consejo Nacional de Ciencia y Tecnología 
+ 
+ 
+ 
+ 
+ 
+CONVOCATORIA 2016 
+ 
+ 
+MANUAL DE USUARIO 
+SISTEMA DE POSTULACIÓN A INSTRUMENTOS - SPI 
+ 
+ 
+ 
+ 
+ 
+PROGRAMAS DE VINCULACIÓN DE CIENTÍFICOS Y 
+TECNÓLOGOS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2016 
+ ii 
+ 
+Índice 
+1. Conceptos importantes .................................................................................. 1 
+1.1 Acceso al CVPy .............................................................................................. 1 
+1.2 Acceso al SPI ................................................................................................. 4 
+1.3 Acceso a programas vigentes ....................................................................... 7 
+2. Guía de uso ..................................................................................................... 8 
+2.1 Iniciar una nueva postulación ...................................................................... 8 
+2.2 Retomar una Postulación iniciada .............................................................. 10 
+3. Finalizar la tarea "Postulación" .................................................................... 11 
+4. Descargar el formulario ................................................................................ 12 
+ 
+ 
+ 
+ iii 
+ 
+INTRODUCCIÓN 
+ 
+El presente documento está dirigido a proporcionar las indicaciones de 
+utilización del Sistema de Postulación a Instrumentos – SPI y el Sistema Curriculum Vitae 
+on-line - CVPy, específicamente para la Convocatoria 2016 correspondiente al Programa 
+de Vinculación de Científicos y Tecnólogos 
+ 
+El Sistema de Postulación a Instrumentos, de aquí en adelante SPI, es una 
+herramienta a través de la cual se puede acceder a la postulación vía electrónica de los 
+diferentes instrumentos lanzados por el Consejo Nacional de Ciencia y Tecnología - 
+CONACYT.  
+ 
+Uno de los requisitos para la postulación al programa  a través del SPI, es 
+completar el Curriculum Vitae del postulante en el portal CVPy, un software para el 
+ingreso de los CVs de investigadores que es administrado por el CONACYT, y constituye 
+un instrumento de todo el Sistema Nacional de Investigadores del Paraguay - SNIP, y 
+como tal su uso es compartido mediante acuerdos de cooperación con las instituciones 
+que manejen fondos competitivos para financiamiento de actividades de Ciencia, 
+Tecnología e Innovación; motivo por el cual se realiza una breve descripción de los 
+pasos para registrar sus datos en el mencionado portal. 
+ 
+Es de vital importancia iniciar sesión primeramente en el portal del CVPy, y 
+posterior a ellos acceder a la plataforma SPI. 
+ 
+ 1 
+ 
+1. Conceptos importantes 
+1.1  Acceso al CVPy 
+El portal CVPy es una aplicación web que puede ser accedida desde cualquier 
+navegador de internet. Recomendamos el uso de Google Chrome o Mozzilla Firefox. 
+ 
+El usuario debe ingresar a un navegador web y escribir en la barra de dirección la URL 
+del portal: http://cv.conacyt.gov.py/user para acceder al CVPy. Una vez cargada la 
+página se visualiza una pantalla en donde se le solicita al usuario ingresar los datos de 
+autenticación.  
+ 
+ 
+ 
+Imagen 1. Ingreso al Sistema CVPy. 
+ 
+El postulante que cuente con una cuenta debe ingresar y verificar que la información 
+contenida en su perfil sea la correcta y esté actualizada. En caso de no contar con una 
+cuenta debe proceder a registrarse, completando con la información requerida. Para 
+proceder al Registro se deben completar los campos requeridos y presionar el botón 
+"Registrarse". 
+ 
+Cabe destacar que este registro puede realizarse una única vez, y considerando que el 
+portal CVPy está vinculado al portal del SPI, el ingreso a ambos portales se realiza con 
+un MISMO USUARIO y una MISMA CONTRASEÑA; se recomienda utilizar siempre la 
+misma cuenta para acceder a diferentes instrumentos que sean publicados en el portal 
+del SPI 
+ 
+ 2 
+ 
+ 
+ 
+Imagen 2. Registro de Usuario en el Sistema CVPy. 
+ 
+El portal CVPy, envía un link al correo registrado para habilitar la cuenta; una vez 
+habilitada la cuenta en el CVPy, el postulante de ingresar sus datos al curriculum vitae. 
+La Guía de Bases y Condiciones del Programa de Vinculación de Científicos y Tecnólogos 
+(http://www.conacyt.gov.py/sites/default/files/GBC-Vinculacion-2016.pdf) en su ítem 
+10. REQUISITOS PARA LA POSTULACIÓN detalla los campos y sub campos obligatorios 
+que deben ser llenados en el CVPy.  
+ 
+ 
+ 
+Imagen 3. Vista de inicio del Portal CVPy 
+ 
+ 3 
+ 
+Primeramente el postulante debe ingresar los datos personales, los cuales son campos 
+obligatorios y en la imagen 4 están delimitados en rojo. Se le recuerda al postulante que 
+debe ingresar una foto actualizada.  
+ 
+ 
+ 
+Imagen 4. Vista del CVPy para el ingreso de datos personales 
+ 
+Seleccionado el botón + Agregar Sección, delimitado por una línea de puntos en color 
+rojo en la imagen 3, se despliegan todos los campos que deben ser llenado antes de 
+finalizar con la carga del curriculum, ilustrada en la imagen 5. Los campos y sub-campos 
+obligatorios que deberán ser llenados son:  
+ 
+• Datos básicos,  
+• Áreas de actuación,  
+• Formación académica-titulación,  
+• Formación complementaria,  
+• Idiomas,  
+• Actuación profesional,  
+• Docencia,  
+• Producción técnica,  
+• Producción bibliográfica,  
+• Evaluaciones,  
+• Tutorías/orientaciones/supervisiones,  
+• Otras referencias. 
+ 
+ 4 
+ 
+ 
+ 
+Imagen 5. Campos a ser llenado en el CVPy. 
+ 
+1.2 Acceso al SPI 
+El portal SPI es una aplicación web que puede ser accedida desde cualquier navegador 
+de internet. Recomendamos el uso de Google Chrome o Mozzilla Firefox.  
+ 
+El usuario debe ingresar a un navegador web y escribir en la barra de dirección la URL 
+del portal: http://spi.conacyt.gov.py/user para acceder al SPI. Una vez cargada la página 
+se visualiza una pantalla en donde se le solicita al usuario ingresar los datos de 
+autenticación. En caso de no contar con una cuenta debe proceder a registrarse. 
+ 
+Cabe destacar que este registro puede realizarse una única vez y utilizar siempre la 
+misma cuenta para acceder a diferentes instrumentos que sean publicados en el portal 
+del SPI. 
+ 
+ 
+ 5 
+ 
+ 
+ 
+Imagen 6. Ingreso al Sistema SPI. 
+ 
+Para proceder al Registro se deben completar los campos requeridos y presionar el 
+botón "Registrarse" 
+ 
+ 
+Imagen 7. Registro de cuenta de usuario 
+ 
+Posterior a este paso recibirá un mensaje en la cuenta de correo utilizada al momento 
+de registrarse conteniendo un link de activación de la cuenta de SPI. Debe realizar dicha 
+activación dentro de las 72 horas de haber iniciado el proceso de registro. 
+ 
+ 6 
+ 
+ 
+ 
+Imagen 8. Recepción del mail para activar la cuenta SPI 
+ 
+Para comenzar a utilizar el SPI, el usuario debe ingresar su dirección de correo 
+electrónico registrada seguida de su contraseña y presionar el botón "Acceder". 
+ 
+ 
+ 
+Imagen 9. Autenticación del Usuario 
+ 
+Si los datos ingresados no son correctos el sistema visualiza un mensaje de error: 
+"Acceso denegado - Verifique sus credenciales y vuelva a intentarlo." 
+ 
+ 7 
+ 
+ 
+ 
+Imagen 10. Autenticación incorrecta 
+ 
+Si el nombre de usuario y la contraseña corresponden entonces se inicia la sesión con la 
+página de inicio del SPI. 
+ 
+  
+Imagen 10. Pantalla principal del SPI al iniciar sesión de usuario 
+ 
+1.3  Acceso a programas vigentes 
+Dentro de la pantalla principal "Inicio" del SPI se encuentran todos los accesos a los 
+programas vigentes. En este caso procederemos a postular al Programa de Vinculación 
+de Científicos y Tecnólogos – Convocatoria 2016 haciendo clic sobre su ícono. 
+ 
+ 8 
+ 
+ 
+ 
+Imagen 11. Selección del programa al cual postular. 
+ 
+ 
+2. Guía de uso 
+ 
+2.1  Iniciar una nueva postulación 
+Luego de seleccionar la convocatoria PVCT16 procederemos al llenado del formulario. 
+Como primera pantalla, el SPI despliega la portada del programa con una breve 
+información, incluyendo fecha de inicio y cierre y la Guía de bases y condiciones. Hacer 
+clic en el botón "Postular".  
+ 
+La aplicación permite una sola presentación de postulación por parte de una misma 
+cuenta por lo que el postulante no podrá presentar más de una propuesta si así lo 
+desease, se asigna un código de postulación a la propuesta. 
+ 
+ 9 
+ 
+  
+Imagen 12. Inicio de la postulación a la convocatoria PVCT16 
+ 
+Una vez iniciada la postulación se debe seleccionar la modalidad, y para ello se debe 
+indicar el destino de la estancia y el tipo de postulación. Una vez finalizada la tarea de 
+modalidad, a los efectos de actualizar la plataforma, se debe seleccionar el botón de 
+inicio localizado en el menú tarea. 
+ 
+ 
+ 
+Imagen 13. Selección para actualizar selección en la plataforma SPI 
+ 
+Una vez actualizado el SPI, se debe seleccionar el botón tarea localizado en la barra de 
+menú, lo que direccionaría hasta la vista ilustrada en la Imagen 14. 
+ 
+ 10 
+ 
+ 
+ 
+Imagen 14. Vista de mis tareas 
+ 
+Una vez que se tenga activa la vista de Mis Tareas (Imagen 14), se debe dar inicio ala 
+tarea de postulación propiamente dicha con doble click, y posterior a ello se debe 
+iniciar la misma. 
+ 
+A medida que es postulante va completando los campos, éstos se guardan 
+automáticamente por lo que no existe inconveniente de que en caso de que necesite 
+interrumpir el llenado del formulario. Debe cerrar sesión y luego volver a iniciarla para 
+continuar. 
+ 
+ 
+ 
+Imagen 15. Cierre de sesión 
+ 
+2.2 Retomar una Postulación iniciada 
+Una vez iniciada la sesión, en la pantalla de inicio, en la cinta de elementos ubicar el 
+ícono con imagen de carpeta llamado "Mis Postulaciones" y hacer clic para poder ver las 
+postulaciones hechas con su usuario. 
+ 
+ 11 
+ 
+ 
+ 
+Imagen16. Mis postulaciones. 
+ 
+ 
+3. Finalizar la tarea "Postulación" 
+Cuando todos los campos requeridos del formulario sean completados se debe 
+proceder a finalizar la tarea de Postulación presionando el botón "Finalizar". 
+ 
+ 
+ 
+Imagen 17. Finalizar tarea Postulación. 
+ 12 
+ 
+4. Descargar el formulario 
+Esta acción puede ser realizada en cualquier punto del llenado del formulario. Al 
+presionar el botón "Descargar" aparece la ventana propia de Windows "Guardar como" 
+y luego de especificar el destino de la descarga se genera un archivo conteniendo el 
+formulario en formato PDF con sus anexos correspondientes; de lo contrario hace una 
+descarga directa del documento. 
+ 
+ 
+ 
+Imagen 18. Descarga del formulario de Postulación 
+ 
+  
+ 
+ 
+Página 1 de 28 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+    
+    
+    
+    
+Consejo Nacional de Ciencia y Tecnología
+Consejo Nacional de Ciencia y Tecnología
+Consejo Nacional de Ciencia y Tecnología
+Consejo Nacional de Ciencia y Tecnología    
+    
+ 
+ 
+ 
+ 
+ 
+ 
+CONVOCATORIA 201
+CONVOCATORIA 201
+CONVOCATORIA 201
+CONVOCATORIA 2016666    
+GUÍA DE BASES Y CONDICIONES
+GUÍA DE BASES Y CONDICIONES
+GUÍA DE BASES Y CONDICIONES
+GUÍA DE BASES Y CONDICIONES    
+ 
+ 
+ 
+ 
+ 
+PROGRAMA DE VINCULACIÓN 
+DE CIENTÍFICOS Y TECNÓLOGOS 
+ 
+ 
+ 
+ 
+Modalidad “Ventanilla Abierta” 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+Abril
+Abril
+Abril
+Abril, 201
+, 201
+, 201
+, 2016666    
+    
+    
+  
+ 
+ 
+Página 2 de 28 
+ 
+ÍNDICE
+ÍNDICE
+ÍNDICE
+ÍNDICE    
+    
+SIGLAS Y ABREVIATURAS ................................................................................................................3 
+CONCEPTOS BÁSICOS .....................................................................................................................3 
+DE BASES Y CONDICIONES .............................................................................................................6 
+1. 
+OBJETIVO ..............................................................................................................................6 
+2. 
+SECTORES Y TECNOLOGÍAS TRANSVERSALES PRIORIZADAS POR EL CONACYT……………..6 
+3. 
+ÁREAS DE LA CIENCIA ..........................................................................................................7 
+4. 
+POSTULANTES ......................................................................................................................7 
+5. 
+RESTRICCIONES ....................................................................................................................7 
+6. 
+MODALIDAD .........................................................................................................................8 
+7. 
+TIPOS DE ACTIVIDADES A SER FINANCIADAS .....................................................................8 
+7.1.  Actividades de I+D………………………………………………………………………………………………………..8 
+7.2. Actividades Científicas y Tecnológicas (ACT)…………………………………………………………………..9 
+7.3. Actividades de Internacionalización……………………………………………………………………………..10 
+8. 
+CONDICIONES DEL FINANCIAMIENTO ............................................................................. 12 
+9. 
+FINANCIAMIENTO ............................................................................................................. 13 
+10. 
+REQUISITOS PARA LA POSTULACIÓN ............................................................................... 14 
+11. 
+PROCEDIMIENTOS ............................................................................................................ 15 
+11.1. Postulación………………………………………………………………………………………………………………..15 
+11.2. Recepción  y Admisión ...................................................................................................... 16 
+11.3. Evaluación………………………………………………………………………………………………………………….16 
+11.3.1. Dimensiones y criterios a evaluar……………………………………………………………………………17 
+11.4. Selección……………………………………………………………………………………………………………………18 
+11.5. Publicación de resultados................................................................................................. 19 
+12. 
+FIRMA DE CONTRATO Y TRANSFERENCIA ....................................................................... 19 
+13. 
+INFORME DE LA ESTANCIA Y TRANSFERENCIA DE CONOCIMIENTOS ............................ 19 
+14. 
+INTERPRETACIÓN DE LAS BASES ...................................................................................... 20 
+15. 
+VENTANILLA ABIERTA, DIFUSIÓN Y PLAZOS .................................................................... 20 
+ 
+ 
+ 
+  
+ 
+ 
+Página 3 de 28 
+ 
+SIGLAS Y ABREVIATURAS
+SIGLAS Y ABREVIATURAS
+SIGLAS Y ABREVIATURAS
+SIGLAS Y ABREVIATURAS  
+ACT 
+Actividades Científicas y Tecnológicas 
+CONACYT 
+Consejo Nacional de Ciencia y Tecnología 
+CVPy 
+Curriculum Vitae Paraguay on line 
+FEEI 
+Fondo de Excelencia para la Educación y la Investigación 
+FONACIDE 
+Fondo Nacional de Inversión Pública y Desarrollo 
+I+D 
+Investigación y Desarrollo 
+IDE 
+Investigación científica y el Desarrollo Experimental 
+PROCIENCIA 
+Programa Paraguayo para el Desarrollo de la Ciencia y la Tecnología  
+SCT 
+Servicios Científicos y Técnicos 
+SPI 
+Sistema de Postulación de Instrumentos del CONACYT 
+STET 
+Enseñanza y la Formación Científica y Técnica 
+    
+CONCEPTOS BÁSICOS 
+CONCEPTOS BÁSICOS 
+CONCEPTOS BÁSICOS 
+CONCEPTOS BÁSICOS     
+ 
+Actividades Científicas y 
+Actividades Científicas y 
+Actividades Científicas y 
+Actividades Científicas y 
+tecnológicas (ACT):
+tecnológicas (ACT):
+tecnológicas (ACT):
+tecnológicas (ACT):    
+Actividades 
+sistemáticas 
+que 
+están 
+estrechamente 
+relacionadas con la producción, proceso, promoción, difusión 
+y aplicación de conocimientos científicos y técnicos en todos 
+los campos de la ciencia y la tecnología.    
+Actividades de 
+Actividades de 
+Actividades de 
+Actividades de 
+investigación científica 
+investigación científica 
+investigación científica 
+investigación científica 
+en ciencias naturales, 
+en ciencias naturales, 
+en ciencias naturales, 
+en ciencias naturales, 
+ingeniería y tecnología 
+ingeniería y tecnología 
+ingeniería y tecnología 
+ingeniería y tecnología 
+y ciencias mé
+y ciencias mé
+y ciencias mé
+y ciencias médicas y 
+dicas y 
+dicas y 
+dicas y 
+agrícolas:
+agrícolas:
+agrícolas:
+agrícolas:    
+Todas las actividades sistemáticas y creadoras diseñadas para 
+descubrir la naturaleza de los fenómenos naturales, y las 
+relaciones entre ellos, con el fin de generar conocimiento 
+sobre las leyes de la naturaleza y contribuir a la aplicación 
+práctica de este conocimiento sobre las leyes, las fuerzas y los 
+elementos. (UNESCO).    
+Actividades de 
+Actividades de 
+Actividades de 
+Actividades de 
+innovación tecnológica:
+innovación tecnológica:
+innovación tecnológica:
+innovación tecnológica:    
+Conjunto de etapas científicas, tecnológicas, organizativas, 
+financieras y comerciales, incluyendo las inversiones en 
+nuevos conocimientos, que llevan o que intentan llevar a la 
+implementación de productos y de procesos nuevos o 
+mejorados. La I+D no es más que una de estas actividades y 
+puede ser llevada a cabo en diferentes fases del proceso de 
+innovación, siendo utilizada no sólo como la fuente de ideas 
+creadoras sino también para resolver los problemas que 
+pueden surgir en cualquier fase hasta su culminación. 
+(Manual de Frascati, OECD).    
+Actividades de 
+Actividades de 
+Actividades de 
+Actividades de 
+vinculación:
+vinculación:
+vinculación:
+vinculación:    
+Implementación de múltiples iniciativas de estímulo al 
+fortalecimiento entre instituciones, con el objeto expreso de 
+  
+ 
+ 
+Página 4 de 28 
+ 
+contribuir a la transferencia de conocimientos y/o resultados 
+de actividades de I+D, ACT y/o internalización.  
+Científico:
+Científico:
+Científico:
+Científico: 
+    
+Profesional que se dedica a la obtención de conocimientos 
+mediante la observación y el razonamiento, sistemáticamente 
+estructurados y de los que se deducen principios y leyes 
+generales. 
+Ciencias agrícolas: 
+Ciencias agrícolas: 
+Ciencias agrícolas: 
+Ciencias agrícolas:     
+    
+Agricultura, silvicultura, pesca, ciencia de los animales y de 
+productos 
+lácteos, 
+ciencias 
+veterinarias, 
+biotecnología 
+agrícola, otras ciencias agrícolas. (FOS, OECD) 
+Ciencias médicas y de la 
+Ciencias médicas y de la 
+Ciencias médicas y de la 
+Ciencias médicas y de la 
+Salud: 
+Salud: 
+Salud: 
+Salud:     
+    
+Comprende: medicina básica; medicina clínica; ciencias de la 
+salud; biotecnología médica; otras ciencias médicas. (FOS, 
+OECD) 
+Ciencias naturales:
+Ciencias naturales:
+Ciencias naturales:
+Ciencias naturales:    
+Comprende:    matemáticas; ciencias de la computación y la 
+informática; ciencias físicas; ciencias químicas; ciencias de la 
+tierra y ciencias relacionadas con el medio ambiente; ciencias 
+biológicas; otras ciencias naturales. (FOS, OECD) 
+Ciencias sociales: 
+Ciencias sociales: 
+Ciencias sociales: 
+Ciencias sociales:     
+    
+Comprende: psicología; economía y negocios; ciencias de la 
+educación; sociología; leyes; ciencias políticas; geografía 
+económica y social; comunicaciones y medios; otras ciencia 
+sociales. (FOS, OECD) 
+CVPy:
+CVPy:
+CVPy:
+CVPy:  
+    
+El CVpy es un software para el ingreso de los CVs de 
+investigadores que es administrado por el CONACYT, y 
+constituye un instrumento de todo el Sistema Nacional de 
+Investigadores del Paraguay - SNIP, y como tal su uso es 
+compartido mediante acuerdos de cooperación con las 
+instituciones 
+que 
+manejen 
+fondos 
+competitivos 
+para 
+financiamiento de actividades de Ciencia, Tecnología e 
+Innovación. 
+I+D (Investigación y 
+I+D (Investigación y 
+I+D (Investigación y 
+I+D (Investigación y 
+Desarrollo): 
+Desarrollo): 
+Desarrollo): 
+Desarrollo):  
+    
+Comprende el trabajo creativo llevado a cabo de forma 
+sistemática para incrementar el volumen de conocimientos, 
+incluido el conocimiento de la humanidad, la cultura y la 
+sociedad, y el uso de esos conocimientos para crear nuevas 
+aplicaciones. fuente    
+IIIInforme de la estancia:
+nforme de la estancia:
+nforme de la estancia:
+nforme de la estancia:  
+    
+Informe final de las tareas realizadas, presentado por el/la 
+beneficiario/a dentro de los 40 (cuarenta) días posteriores a la 
+culminación de la estancia.    
+Ingeniería y tecnología: 
+Ingeniería y tecnología: 
+Ingeniería y tecnología: 
+Ingeniería y tecnología:     Comprende ingeniería civil; ingeniería eléctrica, ingeniería 
+electrónica, ingeniería informática; ingeniería mecánica; 
+  
+ 
+ 
+Página 5 de 28 
+ 
+    
+ingeniería química; ingeniería de materiales; ingeniería 
+médica; ingeniería del medio ambiente; biotecnología 
+ambiental; biotecnología industrial; nano-tecnología; otras 
+ingenierías y tecnologías. (FOS, OECD)    
+Internacionalización:
+Internacionalización:
+Internacionalización:
+Internacionalización:  
+    
+Actividades como la movilidad académica para estudiantes y 
+profesores; redes internacionales, asociaciones y proyectos; 
+nuevos programas académicos e iniciativas de investigación. 
+(Jane Knight)     
+Institución de Destino: 
+Institución de Destino: 
+Institución de Destino: 
+Institución de Destino:  
+    
+Se entiende como la Institución donde se realizará la estancia 
+de vinculación de científicos y/o tecnólogos.    
+Institución de Origen:
+Institución de Origen:
+Institución de Origen:
+Institución de Origen:    
+Se entiende como la Institución donde está vinculado/a el/la 
+científico/a y/o tecnólogo/a.    
+Investigación Científica:
+Investigación Científica:
+Investigación Científica:
+Investigación Científica:    
+Actividades sistemáticas y creadoras encaminadas a aumentar 
+el caudal de los conocimientos científicos y a aplicarlos 
+(UNESCO).    
+Investigadores:
+Investigadores:
+Investigadores:
+Investigadores:    
+Profesionales que se dedican a la concepción o creación de 
+nuevos conocimientos, productos, procesos, métodos y 
+sistemas y también a la gestión de los proyectos respectivos 
+(Manual de Frascati, OECD).    
+SPI:
+SPI:
+SPI:
+SPI:    
+El Sistema de Postulación a Instrumentos del CONACYT, es 
+una herramienta que permite a los interesados en postularse 
+a los diferentes llamados que realiza ésta institución, desde la 
+web; funciona en combinación con el nuevo sistema CVPy y 
+maneja un único usuario y contraseña.    
+Tecnólogo:
+Tecnólogo:
+Tecnólogo:
+Tecnólogo:  
+    
+Es el profesional está vinculado a la empresa que pretenden 
+aplicar conocimientos para resolver un problema, introducir 
+instrumentos y o maquinarias o mejorar sus proceso. No 
+siempre posee título de grado. 
+Transferencia 
+Transferencia 
+Transferencia 
+Transferencia 
+tecnológica:
+tecnológica:
+tecnológica:
+tecnológica:    
+La gestión (administración) de los derechos de propiedad 
+industrial e intelectual de una organización: identificación, 
+protección, explotación y defensa (OCDE 2003). 
+    
+    
+  
+ 
+ 
+Página 6 de 28 
+ 
+DE BASES Y CONDICIONES
+DE BASES Y CONDICIONES
+DE BASES Y CONDICIONES
+DE BASES Y CONDICIONES    
+ 
+El Consejo Nacional de Ciencia y Tecnología (CONACYT), en el marco del 
+Programa Paraguayo para el Desarrollo de la Ciencia y la Tecnología (PROCIENCIA) 
+financiado a través del Fondo de Excelencia para la Educación y la Investigación (FEEI) 
+asignado por el Fondo Nacional de Inversión Pública y Desarrollo (FONACIDE) según la 
+Ley Nº 4758/12 del 21 de septiembre de 2012, convoca a profesionales paraguayos o 
+extranjeros radicados en Paraguay y/o paraguayos residentes en el extranjero, 
+interesados/as en realizar estancias de
+estancias de
+estancias de
+estancias de    vinculación de científicos
+vinculación de científicos
+vinculación de científicos
+vinculación de científicos    yyyy    tecnólogos
+tecnólogos
+tecnólogos
+tecnólogos a 
+presentar postulaciones en la ventanilla abierta
+ventanilla abierta
+ventanilla abierta
+ventanilla abierta, conforme a lo establecido en las bases 
+y condiciones presentadas a continuación. 
+ 
+1.1.1.1. OBJETIVO
+OBJETIVO
+OBJETIVO
+OBJETIVO    
+Fortalecer 
+Fortalecer 
+Fortalecer 
+Fortalecer las 
+las 
+las 
+las capacidades 
+capacidades 
+capacidades 
+capacidades de
+de
+de
+de    capital humano 
+capital humano 
+capital humano 
+capital humano en
+en
+en
+en    I+D 
+I+D 
+I+D 
+I+D a través de la vinculación de 
+científicos y tecnólogos, en los sectores priorizados por el CONACYT.  
+El CONACYT financiará estancias presenciales de investigación y/o transferencia 
+tecnológica a los efectos de que los/as postulantes puedan tener una participación 
+relevante en: el dictado de cursos de posgrados y/o la realización y/o participación en 
+eventos de divulgación científica y/o tecnológica, congresos, simposios, talleres 
+docentes y de investigación, reuniones para el fortalecimiento de las líneas de 
+investigación en las instituciones vinculantes, investigaciones y/o transferencia en 
+laboratorios, industrias, plantas fabriles u otros pertinentes al efecto. 
+2.2.2.2. SECTORES
+SECTORES
+SECTORES
+SECTORES    Y TECNOLOGÍAS TRANSVERSALES
+Y TECNOLOGÍAS TRANSVERSALES
+Y TECNOLOGÍAS TRANSVERSALES
+Y TECNOLOGÍAS TRANSVERSALES    PRIORIZAD
+PRIORIZAD
+PRIORIZAD
+PRIORIZADAAAAS P
+S P
+S P
+S POR
+OR
+OR
+OR    EL CONACYT
+EL CONACYT
+EL CONACYT
+EL CONACYT    
+    
+Descripción
+Descripción
+Descripción
+Descripción    
+Productivos 
+Cadenas agroindustriales 
+Minería y metalurgia 
+Metalmecánica 
+Forestal y biomasa 
+Energías limpias y renovables 
+Transporte y logística 
+Turismo e industrias culturales 
+Industrias de media y alta tecnología 
+Construcción 
+Sociales 
+Salud 
+Educación y formación para el trabajo 
+Hábitat (ambiente, vivienda, agua, saneamiento e infraestructuras básicas) 
+Seguridad 
+Tecnologías 
+Transversales 
+Nanotecnología 
+Materiales 
+Biotecnología 
+Tecnología de la Información y comunicaciones 
+Tecnologías Cognitivas 
+Tecnologías Ambientales 
+ 
+ 
+  
+ 
+ 
+Página 7 de 28 
+ 
+3.3.3.3. ÁREAS DE LA CIENCIA
+ÁREAS DE LA CIENCIA
+ÁREAS DE LA CIENCIA
+ÁREAS DE LA CIENCIA    
+Las áreas de la ciencia1 en las cuales podrán realizar la estancia 
+la estancia 
+la estancia 
+la estancia de investigación
+de investigación
+de investigación
+de investigación    
+científica 
+científica 
+científica 
+científica o o o o transferencia tecnológica
+transferencia tecnológica
+transferencia tecnológica
+transferencia tecnológica podrán ser:  
+ 
+1. Ciencias Naturales y Exactas 
+2. Ciencias Médicas y de la Salud 
+3. Ciencias Agrícolas  
+4. Ingenierías y Tecnologías  
+5. Ciencias Sociales 
+6. Humanidades 
+4.4.4.4. POSTULANTES
+POSTULANTES
+POSTULANTES
+POSTULANTES    
+Podrán solicitar financiamiento: 
+a) IIIInst
+nst
+nst
+nstituciones nacionales
+ituciones nacionales
+ituciones nacionales
+ituciones nacionales2, públicas o privadas que están iniciando o realizan 
+y/o transfieren resultados de Actividades Científicas y Tecnológicas3 (ACT) o 
+actividades de I+D4 de preferencia asociadas a algún centro académico. Esta 
+modalidad será utilizada para aquellas instituciones que deseen postular a 
+paraguayos/as radicados/as en el extranjero para que realicen una estancia 
+de investigación y/o transferencia tecnológica en la República del Paraguay. 
+b) PPPProfesional
+rofesional
+rofesional
+rofesionales 
+es 
+es 
+es vinculados a una institución pública o privada dentro del 
+territorio paraguayo, que se estén iniciando o realicen Actividades Científicas 
+y Tecnológicas (ACT) o actividades de I+D. Esta modalidad será utilizada para 
+los/as investigadores y/o tecnólogos que residan en territorio paraguayo, 
+que deseen postular para realizar una estancia en el extranjero. 
+5.5.5.5. RRRRESTRICCIONES
+ESTRICCIONES
+ESTRICCIONES
+ESTRICCIONES    
+No podrán postular al Programa de Vinculación de Científicos y Tecnólogos: 
+• Personas que poseen alguna inhabilitación o restricción del CONACYT 
+establecida por Resolución de la Presidencia de Consejo Nacional de 
+Ciencia y Tecnología. 
+• Beneficiarios/as de convocatorias anteriores del programa de vinculación 
+de científicos y tecnólogos5 que no hayan realizado transferencia de 
+conocimientos adquiridos. 
+                                                
+1 Según Manual de Frascati (OCDE). 
+2 Estas instituciones podrán ser de Educación Superior, Centros de Investigación, Centros Tecnológicos, Empresas 
+u otras entidades públicas o privadas. 
+3 Actividades sistemáticas que están estrechamente relacionadas con la producción, proceso, promoción, 
+difusión y aplicación de conocimientos científicos y técnicos en todos los campos de la ciencia y la 
+tecnología. 
+4 I+D: Investigación y Desarrollo conforme a definiciones del Manual de Frascati (OCDE), comprende el trabajo 
+creativo llevado a cabo de forma sistemática para incrementar el volumen de conocimientos, incluido el 
+conocimiento de la humanidad, la cultura y la sociedad, y el uso de esos conocimientos para crear nuevas 
+aplicaciones. 
+5 El tecnólogo es el profesional está vinculado a la empresa que pretenden aplicar conocimientos para resolver 
+un problema, introducir instrumentos y o maquinarias o mejorar sus proceso. No siempre posee título de 
+graduación. 
+  
+ 
+ 
+Página 8 de 28 
+ 
+• Beneficiarios/as de convocatorias anteriores del programa de vinculación 
+que no tengan una aprobación final del informe técnico de finalización 
+de estancia. 
+• Beneficiarios/as de convocatorias anteriores del programa de vinculación 
+de científicos y tecnólogos que no tengan aprobada la rendición de 
+cuentas (convocatoria 2013). 
+6.6.6.6. MODALIDAD
+MODALIDAD
+MODALIDAD
+MODALIDAD    
+El Programa de vinculación científica y tecnológica se apoyará en las siguientes 
+modalidades: 
+ 
+a) Estancia
+Estancia
+Estancia
+Estancia    en el Exterior
+en el Exterior
+en el Exterior
+en el Exterior: para recién egresado y/o profesional (paraguayo o 
+extranjero) residente y en caso de extranjeros radicados en Paraguay, vinculado 
+a una institución pública o privada, de preferencia centros académicos o 
+asociadas a ellos, que realizan Actividades Científicas y Tecnológicas6 (ACT), de 
+internacionalización de la educación superior o actividades de I+D7 dentro del 
+territorio paraguayo que requiera realizar una actividad en el exterior.  
+b) Estancias en la República del Paraguay
+Estancias en la República del Paraguay
+Estancias en la República del Paraguay
+Estancias en la República del Paraguay: para profesional paraguayo/a, residente 
+en el extranjero que inicie la vinculación con una institución pública o privada de 
+ACT, internacionalización de la educación superior o I+D en el Paraguay  y 
+requiera realizar una estancia en él. 
+7.7.7.7. TIPOS DE ACTIVIDADES A SER FINANCIADAS
+TIPOS DE ACTIVIDADES A SER FINANCIADAS
+TIPOS DE ACTIVIDADES A SER FINANCIADAS
+TIPOS DE ACTIVIDADES A SER FINANCIADAS    
+ 
+Se financiarán todas aquellas actividades que se encuentren enmarcadas en las 
+Actividades de Investigación y Desarrollo (I+D), Actividades de Científicas y Tecnológicas 
+(ACT), así como ejes de internacionalización de la educación superior. En caso de 
+presentar alguna otra actividad que no se encuentre en la presente Guía, el/la 
+postulante deberá especificar la actividad y justificar cómo se enmarca en el Programa 
+de Vinculación de Científicos y Tecnólogos. 
+ 
+7.1.
+7.1.
+7.1.
+7.1. 
+Actividades de I+D
+Actividades de I+D
+Actividades de I+D
+Actividades de I+D        
+ 
+Se definen Actividades de I+D como todos los pasos científicos, tecnológicos, 
+organizacionales, financieros y comerciales, incluyendo inversión en nuevo 
+conocimiento, que potencialmente tienen como resultado la implementación de 
+Innovaciones (OCDE, 2005 p.65). 
+ 
+ 
+                                                
+6 Actividades sistemáticas que están estrechamente relacionadas con la producción, proceso, promoción, difusión y 
+aplicación de conocimientos científicos y técnicos en todos los campos de la ciencia y la tecnología. 
+7 I+D: Investigación y Desarrollo conforme a definiciones del Manual de Frascati (OCDE), comprende el trabajo 
+creativo llevado a cabo de forma sistemática para incrementar el volumen de conocimientos, incluido el 
+conocimiento de la humanidad, la cultura y la sociedad, y el uso de esos conocimientos para crear nuevas 
+aplicaciones. 
+  
+ 
+ 
+Página 9 de 28 
+ 
+Las actividades de Investigación y Desarrollo
+Las actividades de Investigación y Desarrollo
+Las actividades de Investigación y Desarrollo
+Las actividades de Investigación y Desarrollo8888    podrán ser: 
+podrán ser: 
+podrán ser: 
+podrán ser:     
+ 
+1. Investigación y Desarrollo experimental interna 
+2. Investigación y Desarrollo experimental externo 
+3. Actividades relativas a innovaciones de producto y proceso 
+3.1 Adquisición de conocimientos en el exterior 
+3.2 Tecnopraxis de máquinas, equipos y otros bienes de capital en proceso de 
+adquisición. 
+3.3 Técnicas destinadas a las innovaciones de producto o proceso. 
+3.4 Sensibilización del mercado para las innovaciones de producto 
+3.5 Formación para la introducción de una innovación de producto o proceso  
+Actividades relativas a las innovaciones de mercadotecnia y organización
+Actividades relativas a las innovaciones de mercadotecnia y organización
+Actividades relativas a las innovaciones de mercadotecnia y organización
+Actividades relativas a las innovaciones de mercadotecnia y organización 
+1. 
+Preparación destinada a las innovaciones de mercadotécnica 
+2. 
+Preparación destinadas a las innovaciones de organización 
+Diseño de producto. 
+Diseño de producto. 
+Diseño de producto. 
+Diseño de producto.     
+1. 
+Definición de procedimientos, especificaciones técnicas y características    
+ 
+operativas.    
+2. 
+Instalación de maquinaria.    
+3. 
+Ingeniería industrial.    
+4. 
+Puesta en marcha de la producción.    
+ 
+7.2.
+7.2.
+7.2.
+7.2. 
+Actividades Científicas y Tecnológicas (ACT)
+Actividades Científicas y Tecnológicas (ACT)
+Actividades Científicas y Tecnológicas (ACT)
+Actividades Científicas y Tecnológicas (ACT) 
+ 
+Las Actividades de Científicas y Tecnológicas (ACT) están estrechamente 
+relacionadas con la producción, promoción, difusión y la aplicación de conocimientos 
+científicos y tecnológicos, en los campos de la ciencia y tecnología. Estas actividades 
+comprenden la I+D, la enseñanza y los servicios científicos y tecnológicos (CONACYT 
+2012 p. 114). 
+ 
+Las actividades científicas y tecnológicas incluyen actividades tales como la 
+investigación científica y el desarrollo experimental (IDE), la enseñanza y la formación 
+científica y técnica (STET) y los servicios científicos y técnicos (SCT)..." (Unesco 1978) 
+ 
+1. Investigación y Desarrollo Experimental
+Investigación y Desarrollo Experimental
+Investigación y Desarrollo Experimental
+Investigación y Desarrollo Experimental (IDE): La Investigación y Desarrollo 
+Experimental (IDE) comprenden el trabajo creativo llevado a cabo de forma 
+sistemática para incrementar el volumen de los conocimientos humanos, 
+culturales y sociales y el uso de esos conocimientos para derivar 
+aplicaciones. El término IDE involucra tres Tipos de Actividades a saber: 
+1.1. Investigación Básica: Consiste en trabajos experimentales o teóricos 
+que se emprenden fundamentalmente para obtener nuevos 
+conocimientos acerca de los fundamentos de fenómenos y hechos 
+observables, sin pensar en darles ninguna aplicación o utilización 
+determinada. Se analizan propiedades, estructuras relacionadas, con el 
+objeto de formular y contrastar hipótesis, teorías y leyes. 
+                                                
+8 OCDE (2005) Manual de Oslo 3ª edición pp. 106-111. 
+  
+ 
+ 
+Página 10 de 28 
+ 
+1.2. Investigación Aplicada: Consiste también en trabajos originales 
+realizados para adquirir nuevos conocimientos; sin embargo, está 
+dirigido fundamentalmente hacia un objetivo práctico específico. 
+1.3. Desarrollo Experimental: Consiste en trabajos sistemáticos basados en 
+los conocimientos existentes, derivados de la investigación o la 
+experiencia práctica, dirigidos a la producción de nuevos materiales, 
+productos o dispositivos; al establecimiento de nuevos procesos, 
+sistemas y servicios; o a la mejora sustancial de los ya existentes. 
+2. Enseñanza y Formación Científica y Técnica
+Enseñanza y Formación Científica y Técnica
+Enseñanza y Formación Científica y Técnica
+Enseñanza y Formación Científica y Técnica (STET): Cubre todas las 
+actividades de enseñanza superior y formación especializadas no 
+universitarias, de enseñanza superior y formación que conduzcan a la 
+obtención de un título universitario, de formación y perfeccionamiento 
+postuniversitario y de formación organizada y permanente de científicos e 
+ingenieros 
+3. Servicios Científicos y Técnicos
+Servicios Científicos y Técnicos
+Servicios Científicos y Técnicos
+Servicios Científicos y Técnicos (SCT): Engloba todas las actividades 
+relacionadas con la investigación y el desarrollo experimental que 
+contribuyen a la producción, difusión y aplicación de los conocimientos 
+técnicos. Estas actividades se dividen en nueve subclases: 
+3.1. Actividades de Ciencia y Tecnología de Bibliotecas, etc.; 
+3.2. Actividades de Ciencia y Tecnología de museos, etc.; 
+3.3. Traducción, edición, etc., de literatura de Ciencia y Tecnología 
+3.4. Inventarios e informes (geológicos, hidrológicos, etc.; 
+3.5. Prospección 
+3.6. Recogida de información de fenómenos socioeconómicos 
+3.7. Ensayos, normalización, control de calidad, etc.; 
+3.8. Actividades de asesoramiento a clientes, incluyendo servicios de 
+asesoría agrícola e industrial 
+3.9. Actividades de patentes y licencias a cargo de organismos públicos. 
+ 
+7.3.
+7.3.
+7.3.
+7.3. Actividades de Internacionalización
+Actividades de Internacionalización
+Actividades de Internacionalización
+Actividades de Internacionalización    
+ 
+Las actividades de internacionalización podrán ser:  
+  
+1. La internacionalización
+La internacionalización
+La internacionalización
+La internacionalización    del currículum o del docente
+del currículum o del docente
+del currículum o del docente
+del currículum o del docente, que debe considerar el 
+contenido y forma de los programas, así como el perfil y la experiencia del 
+docente y la movilidad de estudiantes recién egresados de grado y posgrado. 
+2. La internacionalización de la investigación
+La internacionalización de la investigación
+La internacionalización de la investigación
+La internacionalización de la investigación, refiere a la integración intercultural, 
+interdisciplinaria e internacional en temas de investigación e innovación; la 
+promoción de programas nacionales de evaluadores/investigadores, el 
+establecimiento de centros de investigación sobre temas de interés para el 
+  
+ 
+ 
+Página 11 de 28 
+ 
+contexto internacional, movilidad de estudiantes de postgrado y de 
+investigadores, entre otras actividades. 
+3. Internacionalizac
+Internacionalizac
+Internacionalizac
+Internacionalización de la extensión
+ión de la extensión
+ión de la extensión
+ión de la extensión, la promoción de actividades relacionadas al 
+intercambio de cultura como: cátedras internacionales, etcétera. En estas 
+actividades deben estar incluidos todos los grupos de la sociedad, no solo el de 
+la IES, laboratorio o centro de investigación al que se encuentre vinculado el 
+científico y/o tecnólogo. 
+A continuación de mencionan los ejes y algunas de las sub-actividades que 
+enmarca cada uno:  
+ 
+Sub
+Sub
+Sub
+Sub----actividades enmarcadas en el Eje de Docencia:
+actividades enmarcadas en el Eje de Docencia:
+actividades enmarcadas en el Eje de Docencia:
+actividades enmarcadas en el Eje de Docencia:    
+ESTRATEGIA
+ESTRATEGIA
+ESTRATEGIA
+ESTRATEGIA 
+OBJETIVO
+OBJETIVO
+OBJETIVO
+OBJETIVO 
+ACTIVIDADES
+ACTIVIDADES
+ACTIVIDADES
+ACTIVIDADES 
+Internacionalización del 
+currículum 
+Internacionalización del 
+plan de estudios 
+• cursos especiales para extranjeros. 
+• sistema de créditos académicos. 
+Utilización de nuevas 
+tecnologías 
+• enseñanza virtual y teleconferencias. 
+• servicio de internet a estudiantes y docentes. 
+• exámenes y trabajos en soporte digital. 
+• libros y revistas científicas virtuales. 
+Biblioteca 
+• suscripción a revistas internacionales. 
+• libros en otros idiomas. 
+• sistema de catalogación internacional. 
+• afiliación y acceso a bibliotecas virtuales. 
+• bases de datos internacionales. 
+• préstamos internacionales de libros. 
+Formación docente 
+• programas de formación a nivel de postgrado en el exterior. 
+• Capacitación en el proceso de internacionalizar cursos. 
+Movilidad académica 
+Movilidad de docentes 
+• participación de docentes en eventos internacionales, en calidad de 
+docentes de posgrados. 
+• participación de expertos extranjeros como profesores visitante. 
+Movilidad de estudiantes 
+de posgrado, egresados de 
+grado, docentes, 
+investigadores 
+• pasantías/ prácticas en el exterior. 
+• cursos de verano para extranjeros. 
+• misiones académicas. 
+• prácticas en empresas  del extranjero (tecnólogos) 
+ 
+ 
+ 
+  
+ 
+ 
+Página 12 de 28 
+ 
+Sub
+Sub
+Sub
+Sub----actividades enmarcadas en el Eje de Investigación:
+actividades enmarcadas en el Eje de Investigación:
+actividades enmarcadas en el Eje de Investigación:
+actividades enmarcadas en el Eje de Investigación:    
+ESTRATEGIA
+ESTRATEGIA
+ESTRATEGIA
+ESTRATEGIA 
+OBJETIVO
+OBJETIVO
+OBJETIVO
+OBJETIVO 
+ACTIVIDADES
+ACTIVIDADES
+ACTIVIDADES
+ACTIVIDADES 
+Internacionalización de la Investigación 
+Movilidad de 
+investigadores y/o 
+tecnólogos 
+• 
+participación en congresos, seminarios, cursos en calidad de 
+ponente. 
+• 
+participación en congresos, seminarios, cursos en calidad de 
+participante. 
+• 
+participación de expertos como investigadores visitantes. 
+• 
+Criterios, requisitos y procesos para vinculación de 
+investigadores extranjeros. 
+• 
+Talleres de investigación. 
+• 
+afiliación a grupos y redes de investigación. 
+• 
+Reuniones para el fortalecimiento de líneas de investigación 
+con las instituciones vinculadas. 
+• 
+Desarrollo de productos, patentes u otros. 
+• 
+Pasantías de investigación. 
+• 
+Presentación de investigaciones. 
+• 
+Uso de maquinarias y/o laboratorios. 
+• 
+reconocimientos e incentivos a investigadores que participan 
+en actividades internacionales. 
+• 
+relación activa con pares extranjeros. 
+• 
+investigaciones conjuntas con investigadores extranjeros. 
+Producción y divulgación 
+internacional de 
+investigación 
+• presentación de resultados de investigaciones en eventos 
+internacionales. 
+• revistas indexadas. 
+• publicación de artículos en revistas internacionales. 
+• inclusión en archivos internacionales virtuales de resultados de 
+investigaciones. 
+• bases de datos sobre investigaciones. 
+• divulgación internacional de tesis de postgrado. 
+• acceso a bases de datos internacionales. 
+Gestión internacional de la 
+investigación 
+• bases de datos sobre instituciones extranjeras que financian 
+investigación en el exterior. 
+• investigaciones financiadas con recursos de cooperación 
+internacional. 
+• Presentación de metodologías técnicas. 
+• capacitación en gestión de recursos internacionales. 
+Sub
+Sub
+Sub
+Sub----acti
+acti
+acti
+actividades enmarcadas en el Eje de 
+vidades enmarcadas en el Eje de 
+vidades enmarcadas en el Eje de 
+vidades enmarcadas en el Eje de Extensión
+Extensión
+Extensión
+Extensión::::    
+ 
+8.8.8.8. CONDICIONES DEL FINANCIAMIENTO
+CONDICIONES DEL FINANCIAMIENTO
+CONDICIONES DEL FINANCIAMIENTO
+CONDICIONES DEL FINANCIAMIENTO    
+Las condiciones para el financiamiento de las estanc
+estanc
+estanc
+estancias de investigación científica
+ias de investigación científica
+ias de investigación científica
+ias de investigación científica    
+o o o o transferencia tecnológica
+transferencia tecnológica
+transferencia tecnológica
+transferencia tecnológica son: 
+a) Estancias    con una duración mínima 15 
+mínima 15 
+mínima 15 
+mínima 15 (quince) 
+(quince) 
+(quince) 
+(quince) días
+días
+días
+días    corridos
+corridos
+corridos
+corridos    y máxima de
+máxima de
+máxima de
+máxima de 
+3 (tres) 
+3 (tres) 
+3 (tres) 
+3 (tres) meses.
+meses.
+meses.
+meses. 
+b) La postulación será presentada por: 
+o Por una institución en caso de realizar estancias en el Paraguay 
+(paraguayos residentes en el extranjero) o  
+ESTRATEGIA
+ESTRATEGIA
+ESTRATEGIA
+ESTRATEGIA 
+OBJETIVO
+OBJETIVO
+OBJETIVO
+OBJETIVO 
+ACTIVIDADES
+ACTIVIDADES
+ACTIVIDADES
+ACTIVIDADES 
+Internacionalización 
+de la Extensión 
+Programas Especiales 
+• programas de postgrado conjuntos. 
+• Participación en talleres, seminarios, conferencias u otras actividades 
+de divulgación científica y/o tecnológica en calidad de ponentes. 
+• Participación en talleres, seminarios, conferencias u otras actividades 
+de divulgación científica y/o tecnológica en calidad de participantes. 
+• proyectos de desarrollo comunitario financiados con fondos de 
+cooperación. 
+Proyección internacional 
+• actividades académicas y de extensión. 
+• programas académicos acreditados internacionalmente. 
+Promoción e imagen 
+• ferias educativas internacionales. 
+  
+ 
+ 
+Página 13 de 28 
+ 
+o Por el profesional vinculado a instituciones públicas o privadas  
+nacionales que realicen actividades de internacionalización, I+D 
+y/o ACT para estancias en el extranjero. 
+c) El apoyo se otorgará al profesional postulante que haya cumplido con los 
+requisitos señalados en las bases y condiciones. 
+d) Las estancias a ser financiadas deberán ser realizadas a posteriori de la 
+firma de la carta de acuerdo y/o contrato. No se financiarán estancias 
+realizadas antes de la firma de la carta de acuerdo y/o firma de contrato. 
+e) Sólo se considerarán postulaciones cuya fecha de recepción sea de al 
+menos 3 (tres) meses anteriores a la fecha de inicio prevista para la 
+actividad  que habrá de iniciarse necesariamente en 2016. 
+f) Para la solicitud de financiamiento se empleará el  sistema de ventanilla 
+abierta, es decir que el proceso de evaluación comienza una vez 
+presentada, recibida y admitida la misma. 
+g) Las adjudicaciones se realizarán por periodos, es decir, el programa 
+tendrá cortes establecidos en donde se realizarán las admisiones, 
+evaluaciones y posterior adjudicación.  
+h) No se aceptarán postulaciones incompletas, en lo referente al llenado de 
+los formularios, presentación de documentos anexos.  
+i) Las postulaciones se realizarán a través  del Sistema de Postulaciones de 
+Instrumentos (SPI)  del CONACYT, una vez adjudicada la postulación, el/la 
+postulante deberá remitir en de forma impresa, la documentación 
+original en que haya presentado en el SPI. 
+9.9.9.9. FINANCIAMIENTO
+FINANCIAMIENTO
+FINANCIAMIENTO
+FINANCIAMIENTO    
+El apoyo se estima hasta un máximo de
+un máximo de
+un máximo de
+un máximo de Gs 31.500.000 (guaraníes treinta y un 
+millones quinientos mil) para cada postulación. 
+El financiamiento de las estancias    se aplicará, de acuerdo a la disponibilidad 
+presupuestaria y en función a las oportunidades específicas de solicitudes presentadas. 
+El desembolso se realizará de forma personal al postulante adjudicado, una vez 
+que el mismo haya presentado los documentos requeridos para el efecto. 
+Las postulaciones institucionales para paraguayos residentes en el extranjero, 
+deben considerar que, el desembolso del apoyo se realizará una vez que el recurrente 
+se encuentre en territorio paraguayo y haya cumplido con la de la documentación 
+requerida para el efecto.  
+Los gastos de manutención mensual/diaria se regirán  según la tabla del AAAAnexo 1.
+nexo 1.
+nexo 1.
+nexo 1. 
+El CONACYT se reserva el derecho de modificar el presupuesto de una propuesta 
+en caso de considerar que el monto o algún ítem solicitado no son pertinentes, para lo 
+cual el postulante no tendrá derecho a reclamo. 
+ 
+  
+ 
+ 
+Página 14 de 28 
+ 
+Se podrán financiar los siguient
+Se podrán financiar los siguient
+Se podrán financiar los siguient
+Se podrán financiar los siguientes rubros: 
+es rubros: 
+es rubros: 
+es rubros:     
+a) pasaje aéreo o terrestre de ida y vuelta en clase económica,  
+b) viáticos, para alojamiento y estadía, en base a las noches pernoctadas en el 
+país (Ver Anexo 1), 
+c) seguro médico y medicamentos, 
+d) transporte interno,  
+e) compra de materiales e insumos relacionados con la estancia 
+10.
+10.
+10.
+10. REQUISITOS 
+REQUISITOS 
+REQUISITOS 
+REQUISITOS PARA LA POSTULACIÓN
+PARA LA POSTULACIÓN
+PARA LA POSTULACIÓN
+PARA LA POSTULACIÓN    
+Para la postulación se deberá presentar los siguientes documentos: 
+a) Nota de presentación de la postulación dirigida a la máxima autoridad del 
+CONACYT firmada por el representante legal (para postulaciones 
+institucionales). 
+b) Nota de presentación de la postulación dirigida a la máxima autoridad del 
+CONACYT firmada por el/la postulante (para postulaciones personales). 
+c) Completar el Formulario de postulación. 
+d) El currículum vitae ingresado en la plataforma CVPy del CONACYT 
+http://cv.conacyt.gov.py/user Antes de llenar el CVPy, debe registrarse. Los 
+campos y sub-campos obligatorios que deberán ser llenados son: Datos 
+básicos, Áreas de actuación, Formación académica-titulación, Formación 
+complementaria, Idiomas, Actuación profesional, Docencia, Producción 
+técnica, 
+Producción 
+bibliográfica, 
+Evaluaciones, 
+Tutorías/orientaciones/supervisiones, Otras referencias. El currículum será 
+utilizado para la evaluación y deberá adjuntar a la postulación la copia 
+impresa y firmada. 
+e) Fotocopia simple del documento de identidad (Cédula de Identidad Civil o 
+Pasaporte) en vigencia. 
+f) Fotocopia simple del título de grado. 
+g) Fotocopia del título de maestría y/o doctorado (si corresponde). 
+h) Fotocopia simple de certificado de estudios de grado. 
+i) Fotocopia simple de certificado de estudios de posgrado (si corresponde). 
+j) Certificado de suficiencia en lengua extranjera (de idioma inglés u otro 
+idioma extranjero relacionado al país de destino) (Si corresponde). 
+k) Documento que demuestre la vinculación institucional (para postulaciones 
+personales). 
+l) Debe acompañar copia de la resolución o documento que avale el nombre y 
+cargo del representante legal (para postulaciones institucionales). 
+m) Carta de invitación de la institución que recepcionará al postulante.  
+n) Carta de compromiso del postulante con la institución a la que está 
+vinculado, de modo a garantizar la transferencia de conocimientos. (Anexo 
+2) 
+o) Carta de compromiso del postulante con el CONACYT  (Anexo 3) 
+  
+ 
+ 
+Página 15 de 28 
+ 
+p) Carta de motivación del científico o tecnólogo, de máximo una página. 
+(Redacción libre). 
+q) Carta del postulante de abstenerse a realizar reclamos de cualquier 
+naturaleza al CONACYT, a sus directores o funcionarios. (Anexo 4) 
+r) Carta de recomendación de la institución a la que está vinculada el 
+postulante (para postulaciones personales). 
+ 
+El contenido de los formularios tendrá carácter de declaración jurada
+carácter de declaración jurada
+carácter de declaración jurada
+carácter de declaración jurada. El CONACYT 
+solicitará la presentación de toda documentación respaldatoria, cuando lo considere 
+pertinente. 
+11.
+11.
+11.
+11. PROCEDIMIENTOS
+PROCEDIMIENTOS
+PROCEDIMIENTOS
+PROCEDIMIENTOS    
+El procedimiento establecido para la presente convocatoria consta de etapas 
+sucesivas detalladas a continuación: 
+La Guía de Bases y Condiciones, estará disponible para su descarga a través del 
+sitio web (www.conacyt.gov.py), la documentación requerida para la postulación, podrá 
+descargarse en el Sistema de Postulación de Instrumentos del CONACYT (SPI) 
+http://spi.conacyt.gov.py/user. 
+ 
+11.1.
+11.1.
+11.1.
+11.1. Postulaci
+Postulaci
+Postulaci
+Postulación
+ón
+ón
+ón    
+Para iniciar la postulación los/las postulantes deberán registrarse a través del SPI 
+y CVPy indicando su nombre, apellidos, correo electrónico y estableciendo una 
+contraseña. Una vez registrado, deberá acceder al formulario de postulación y 
+documentación anexa requerida. 
+La postulación deberá realizarse completando el registro y llenado de los 
+campos de la presente convocatoria a través del Sistema de Postulación de 
+Instrumentos (SPI) y CVPy del CONACYT al cual podrá acceder por medio del sitio 
+“spi.conacyt.gov.py” 
+Cada postulante deberá completar toda la documentación requerida en los 
+formatos preestablecidos en la presente Guía de Bases y Condiciones. Solamente los 
+postulantes que sean adjudicados deberán presentar físicamente toda la 
+documentación al momento de la firma de la carta de acuerdo y/o contrato. La misma 
+deberá ser presentada en formato impreso hoja tamaño A4, firmada por el 
+representante legal (para la postulación Institucional) o  firmada por el/la postulante 
+(para la postulación personal), siguiendo el mismo orden del Formulario de postulación, 
+perforados, archivados y foliados. 
+No serán consideradas como válidas, aquellas documentaciones remitidas por 
+No serán consideradas como válidas, aquellas documentaciones remitidas por 
+No serán consideradas como válidas, aquellas documentaciones remitidas por 
+No serán consideradas como válidas, aquellas documentaciones remitidas por 
+correo electrónico.
+correo electrónico.
+correo electrónico.
+correo electrónico.    
+El/La postulante será responsable de la veracidad, integridad y legibilidad de la 
+información consignada en el formulario de postulación. Asimismo el postulante deberá 
+estar en condiciones de presentar todos los antecedentes e información que el 
+CONACYT juzgue necesarios durante el proceso de postulación y/o durante el período 
+en que se esté realizando la estancia. 
+  
+ 
+ 
+Página 16 de 28 
+ 
+11.2.
+11.2.
+11.2.
+11.2. Recepción 
+Recepción 
+Recepción 
+Recepción y Admisión
+y Admisión
+y Admisión
+y Admisión    
+Una vez que el postulante complete toda la información requerida a través del 
+SPI, deberá FINALIZAR y recibirá el comprobante de que la postulación fue enviada. 
+a) El Equipo técnico del CONACYT revisará la documentación subida al SPI, y 
+procederá a la revisión y análisis para la recepción y admisión de las 
+solicitudes que hayan dado cumplimiento a los requerimientos establecidos 
+en esta guía de bases y condiciones. 
+b) Las postulaciones no admitidas recibirán la justificación pertinente y luego 
+de su modificación podrán volver a ser presentadas. 
+c) En la admisión, se podrá solicitar, cualquier aclaración que sea necesaria. 
+Dichas aclaraciones serán incorporadas a las solicitudes para su evaluación. 
+d) En caso de no constatarse la veracidad de la información luego de cotejar la 
+propuesta con la documentación respaldatoria, la misma no será admitida, 
+se registrará el caso y se comunicará sobre dicha situación a las instancias 
+pertinentes. No pudiendo volver a presentarse a la presente convocatoria ni 
+a futuras convocatorias que realice el CONACYT por periodo de 5 (cinco) 
+años a partir de la constatación del hecho.  
+e) Se considerarán como criterios de recepción y admisibilidad: 
+a. Documentación requerida completa. 
+b. Duración de la estancia: Con una duración mínima 15 (quince) días 
+corridos y máxima de 3 (tres) meses. 
+c. Que el pedido de financiamiento se realice con al menos 3 (tres) 
+meses antes al inicio de la actividad y, que la actividad inicie en el año 
+2016.  
+d. Que la estancia de investigación y/o transferencia tecnológica se 
+encuentre alineada a los sectores priorizados por el CONACYT. 
+e. Haber cumplido con el CONACYT según los requerimientos 
+establecidos en el contrato y/o reglamentaciones de instrumentos de 
+anteriores convocatorias. 
+La recepción de los documentos a través del SPI, no significa que los mismos 
+sean admitidos al programa. 
+11.3.
+11.3.
+11.3.
+11.3. Evaluación
+Evaluación
+Evaluación
+Evaluación    
+Las postulaciones una vez admitidas, pasarán a la evaluación de expertos, 
+quienes tendrán en cuenta, las siguientes dimensiones y criterios para la evaluación.  
+ 
+  
+ 
+ 
+Página 17 de 28 
+ 
+11.3.1. 
+Dimensiones y criterios a evaluar  
+DIMENSIONES 
+CRITERIOS PARA 
+VINCULACIÓN DE 
+INVESTIGACIÓN 
+CRITERIOS PARA 
+VINCULACIÓN DE 
+TRANSFERENCIA 
+TECNOLÓGICA 
+CRITERIOS PARA 
+VINCULACIÓN DE 
+INTERNACIONALIZACIÓN 
+Postulante  
+Antecedentes y 
+competencias académicos 
+Antecedentes y 
+competencias académicas, 
+capacitación y 
+actualización. 
+Antecedentes y competencias 
+académicas, capacitación y 
+actualización. 
+Antecedentes y 
+competencias profesionales 
+Antecedentes y 
+competencias profesional 
+Antecedentes y competencias 
+profesional 
+Antecedentes y trayectoria 
+en docencia  
+Antecedentes y 
+competencias en 
+actividades de ciencia y 
+tecnología e innovación. 
+Antecedentes y trayectoria en 
+el área específica de 
+internacionalización de IES. 
+Antecedentes y trayectoria 
+en investigación 
+Participación en eventos 
+Antecedentes y trayectoria en 
+proyectos de investigación 
+Participación en eventos 
+científicos 
+Producción técnica 
+Participación en eventos 
+científicos, de innovación en la 
+educación y/o 
+internacionalización. 
+Producción 
+técnica/bibliográfica 
+Objetivo y misión 
+institucional 
+Objetivo y misión institucional 
+respecto a la 
+internacionalización. 
+Institución de 
+destino[1] y origen[2] 
+Objetivos y misión 
+institucional 
+Antecedentes en 
+Actividades de 
+Innovación* y/o ACT. 
+Objetivo y misión institucional 
+respecto a la 
+internacionalización. 
+Línea o área de investigación 
+científica 
+Objetivos de la estancia 
+Eje de internacionalización.  
+Programa de 
+estancia 
+Objetivos de la estancia 
+Actividades de la estancia 
+Objetivos de la estancia. 
+Actividades de la estancia 
+Estrategias de difusión 
+Actividades de la estancia.  
+Estrategias de difusión 
+Relevancia y pertinencia 
+de la estadía de 
+investigación o 
+transferencia tecnológica 
+Estrategia de difusión. 
+Relevancia y 
+pertinencia 
+Relevancia y pertinencia de 
+la estadía de investigación. 
+Relevancia y pertinencia 
+respecto al cumplimiento 
+de 
+los 
+objetivos 
+planteados 
+con 
+la 
+motivación del postulante 
+Relevancia y pertinencia de la 
+estancia de 
+internacionalización. 
+Motivación del 
+postulante 
+Relevancia 
+y 
+pertinencia 
+respecto al cumplimiento de 
+los objetivos planteados con 
+la motivación del postulante 
+Relevancia y pertinencia 
+respecto al cumplimiento 
+de los objetivos 
+planteados con la 
+motivación del postulante 
+Relevancia 
+y 
+pertinencia 
+respecto al cumplimiento de 
+los objetivos planteados con la 
+motivación del postulante 
+    
+ 
+La postulación deberá estar alineada a los sectores priorizados por el CONACYT, 
+el/la postulante deberá justificar la relación de la postulación con los sectores 
+priorizados o alineados por el CONACYT; en caso de que el/la evaluador(a) considere 
+que la postulación no se encuentra alineada con los sectores priorizados, o que la 
+actividad presentada en la postulación no se debe considerar para ser financiada, la 
+postulación será rechazada y devuelta al postulante, esta decisión será de carácter 
+inapelable. 
+ 
+  
+ 
+ 
+Página 18 de 28 
+ 
+El postulante deberá obtener igual o mayor a 60% en las siguientes dimensiones:
+El postulante deberá obtener igual o mayor a 60% en las siguientes dimensiones:
+El postulante deberá obtener igual o mayor a 60% en las siguientes dimensiones:
+El postulante deberá obtener igual o mayor a 60% en las siguientes dimensiones:    
+– Postulante 
+– Motivación 
+El postulante deberá obtener igual o mayor a 70% en las siguie
+El postulante deberá obtener igual o mayor a 70% en las siguie
+El postulante deberá obtener igual o mayor a 70% en las siguie
+El postulante deberá obtener igual o mayor a 70% en las siguientes dimensiones:
+ntes dimensiones:
+ntes dimensiones:
+ntes dimensiones:    
+– Relevancia y Pertinencia 
+– Institucionales 
+– Programa 
+La postulación deberá obtener un puntaje final igual o superior a 70 puntos. 
+En las postulaciones de vinculación de investigación científica y vinculación de 
+transferencia tecnológica, se considerarán dos perfiles de evaluación, uno de “recién 
+egresado” para aquellos postulantes que posean hasta 1 (un) año y 11 (once) meses de 
+egreso de la carrera universitaria de grado y otro de “profesional” para aquellos 
+postulantes que posean 2 (dos) años o más de egreso del grado universitario.9 
+ 
+En caso que se presenten más de una postulación en una misma ocasión, 
+dependiendo de la disponibilidad de fondos, se financiará a las postulaciones según el 
+orden de postulación, que estará fijado al finalizar la postulación en el SPI.  
+11.4.
+11.4.
+11.4.
+11.4. SSSSelección
+elección
+elección
+elección    
+La selección será realizada por el Equipo Técnico del CONACYT, designado por la 
+Presidencia del CONACYT, y serán presentados los resultados para su homologación 
+eventual a la Comisión de Programas y Proyectos (CPyP) del CONACYT que a su vez 
+elevará al Consejo para su para su eventual aprobación. 
+En el caso de postulaciones, cuyas propuestas no hayan cumplido con los 
+criterios mínimos de evaluación y selección, la comunicación sobre los resultados 
+incluirá oportunidades de mejora y comentarios, que podrán ser aprovechados para 
+una nueva presentación al CONACYT. Aquellas propuestas que no hayan sido 
+adjudicadas, podrán volver a presentarse siempre y cuando la postulación se encuentre 
+alineada a los sectores priorizados por el CONACYT.   
+En caso de ser seleccionados, el Equipo Técnico del CONACYT remitirá un correo 
+electrónico al beneficiario/a comunicando la selección. El/la beneficiario/a tendrá un 
+plazo de 05 (cinco) días hábiles  para comunicar la aceptación o renuncia a la 
+adjudicación. Cumplido el tiempo establecido se realizará la Resolución de adjudicación, 
+aceptando así lo establecido en la presente Guía de Bases y Condiciones. La 
+comunicación tanto de aceptación como de renuncia se realizará a través del SPI o en el 
+medio establecido por el CONACYT para efecto.  
+ 
+ 
+ 
+ 
+ 
+                                                
+9 Se considerará como fecha de egreso de la carrera de grado, la fecha indicada en el título de grado del 
+postulante. 
+En caso que se presenten más de una postulación en una misma ocasión, 
+dependiendo de la disponibilidad de fondos anual, se financiará a las 
+postulaciones por orden de fecha de cierre de postulación en el SPI, 
+considerando siempre el último cierre de postulación (en caso de que haya 
+vuelto a presentar la postulación) y que hayan cumplido con los criterios de 
+evaluación y selección. 
+  
+ 
+ 
+Página 19 de 28 
+ 
+11.5.
+11.5.
+11.5.
+11.5. Publicación 
+Publicación 
+Publicación 
+Publicación de resultados
+de resultados
+de resultados
+de resultados    
+La postulación adjudicada será comunicada  a través del Sitio Web del CONACYT 
+(www.conacyt.gov.py) y en los medios digitales o impresos que el CONACYT considere. 
+12.
+12.
+12.
+12. FIRMA DE CONTRATO Y TRANSFERENCIA
+FIRMA DE CONTRATO Y TRANSFERENCIA
+FIRMA DE CONTRATO Y TRANSFERENCIA
+FIRMA DE CONTRATO Y TRANSFERENCIA    
+Una vez realizada la adjudicación, el Equipo Técnico del CONACYT se comunicará 
+con el/la beneficiario/a para iniciar los procesos de firma de contrato y transferencia 
+para lo cual, el beneficiario/a deberá presentar los documentos que se listan a 
+continuación: 
+• Postulación impresa en el formato establecido en el numeral 11.1 
+Postulación de la presente guía. 
+• Fotocopia de cédula de identidad civil autenticada por escribanía. 
+• Croquis del lugar de residencia. 
+• Certificado de cumplimiento tributario o en su defecto de no ser 
+contribuyente. 
+• Certificado de antecedentes policiales (original y vigente). 
+• Certificado de antecedentes judiciales (original y vigente). 
+• Cualquier otro documento que el CONACYT considere pertinente. 
+ 
+El hecho de haber sido “beneficiario/a” en la convocatoria 2016 del Programa de 
+Vinculación de Científicos y Tecnólogos, no constituye un compromiso efectivo de 
+desembolsar recursos financieros por parte del CONACYT, hasta tanto el/la 
+beneficiario/a (persona o institución) cumpla con todos los requisitos establecidos para 
+esta convocatoria y otros que el financiador requiera. 
+13.
+13.
+13.
+13. INFORME DE LA 
+INFORME DE LA 
+INFORME DE LA 
+INFORME DE LA ESTANCIA
+ESTANCIA
+ESTANCIA
+ESTANCIA    Y TRANSFERENCIA DE CONOCIMIENTOS
+Y TRANSFERENCIA DE CONOCIMIENTOS
+Y TRANSFERENCIA DE CONOCIMIENTOS
+Y TRANSFERENCIA DE CONOCIMIENTOS    
+Dentro de los 30 (treinta) días posteriores a la culminación de la actividad, el/la 
+beneficiario/a de la estancia, deberá realizar la transferencia de conocimientos y 
+presentar un informe final de las tareas realizadas, el mismo debe ser llenado en el 
+espacio designado para el efecto en el SPI.  
+Las cartas y/o avales, firmadas por el tutor o encargado de acoger al 
+beneficiario/a en la institución de destino que demuestren haber realizado la estancia, 
+así como el aval firmado por el representante legal de la institución a la que esté 
+vinculada el/la beneficiario/a y los documentos respaldatorios de haber realizado la 
+transferencia de conocimientos (presentación, artículo, lista de asistencia, póster u 
+otro), deberán estar adjuntos al informe a ser cumplimentado en el SPI. 
+En la carta acuerdo y/o contrato se explicitará la participación del CONACYT en 
+las actividades a financiar, como por ejemplo la inclusión del logo del CONACYT en todo 
+tipo de difusión a ser realizada por el/la beneficiario/a, donde se mencione algún 
+resultado de la actividad realizada con el financiamiento del programa de vinculación de 
+científicos y tecnólogos del Programa PROCIENCIA del CONACYT.  
+El/La beneficiario/a, deberá comunicar al CONACYT, el lugar y fecha en qué 
+realizará la transferencia de conocimientos, y deberá remitir al CONACYT la 
+presentación, documento u otro que utilice al momento de realizar la transferencia de 
+  
+ 
+ 
+Página 20 de 28 
+ 
+conocimientos, de modo a que el CONACYT pueda publicarlo en su Página Web o en los 
+medios que considere. 
+14.
+14.
+14.
+14. INTERPRETACIÓN DE LAS BASES
+INTERPRETACIÓN DE LAS BASES
+INTERPRETACIÓN DE LAS BASES
+INTERPRETACIÓN DE LAS BASES 
+Postularse al programa de vinculación de científicos y tecnólogos implicará el 
+conocimiento y aceptación definitiva de las bases y condiciones establecidas en la 
+presente convocatoria, sobre las cuales el/la postulante no podrá alegar su 
+desconocimiento. 
+Sólo se aceptarán postulaciones que cumplan con las presentes bases, el 
+incumplimiento de éstas será causal para declararlas inadmisibles. 
+15.
+15.
+15.
+15. VENTANILLA ABIERTA, DIFUSIÓN Y PLAZOS
+VENTANILLA ABIERTA, DIFUSIÓN Y PLAZOS
+VENTANILLA ABIERTA, DIFUSIÓN Y PLAZOS
+VENTANILLA ABIERTA, DIFUSIÓN Y PLAZOS    
+La presente ventanilla, será publicada en la Página Web del CONACYT. 
+La adenda a la guía de bases y condiciones y sus anexos estarán disponibles a 
+partir del 29 de abril de 2016 en www.conacyt.gov.py 
+La reapertura de la ventanilla se realizará el 07 de mayo de 2016, mediante el 
+Sistema de Postulación a Instrumentos (SPI) del CONACYT. 
+ 
+ 
+ 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+IMPORTANTE: 
+IMPORTANTE: 
+IMPORTANTE: 
+IMPORTANTE: El CONACYT se reserva el derecho de realizar los ajustes que considere 
+necesarios e importantes a la presente “Guía de Bases y Condiciones”, los cuales serán 
+incluidos mediante una adenda a la guía que será publicada en el sitio web del CONACYT 
+(www.conacyt.gov.py). 
+ 
+  
+ 
+ 
+Página 21 de 28 
+ 
+AAAANEXO 1
+NEXO 1
+NEXO 1
+NEXO 1    
+Montos por concepto de manutención mensual según costo de vida del país de destino.  
+País
+País
+País
+País    
+Manutención 
+Manutención 
+Manutención 
+Manutención 
+mensual 
+mensual 
+mensual 
+mensual en Gs.
+en Gs.
+en Gs.
+en Gs.    
+Manutención diaria 
+Manutención diaria 
+Manutención diaria 
+Manutención diaria 
+en 
+en 
+en 
+en Gs.
+Gs.
+Gs.
+Gs.    
+Afganistán 
+8.579.200 
+285.600 
+Albania 
+7.968.000 
+263.200 
+Alemania  
+8.747.200 
+291.200 
+Alemania Berlín 
+8.764.000 
+291.200 
+Alemania Bonn 
+8.685.600 
+285.600 
+Alemania Hamburgo 
+8.792.000 
+291.200 
+Angola 
+9.284.800 
+308.000 
+Antigua y Barbuda 
+8.780.000 
+291.200 
+Antillas Holandesas 
+11.054.400 
+364.000 
+Arabia Saudita 
+7.862.400 
+274.400 
+Argelia 
+8.388.800 
+280.000 
+Argentina 
+7.100.800 
+235.200 
+Armenia 
+7.868.000 
+257.600 
+Australia 
+8.713.600 
+291.200 
+Austria 
+9.083.200 
+302.400 
+Azerbaiyán 
+8.377.600 
+280.000 
+Bahamas 
+9.385.600 
+308.000 
+Bahrein 
+8.461.600 
+280.000 
+Bangladesh 
+7.291.200 
+240.800 
+Barbados 
+8.372.000 
+280.000 
+Belarus 
+8.204.000 
+274.400 
+Bélgica 
+8.937.600 
+296.800 
+Belice 
+7.856.800 
+257.600 
+Benin 
+8.988.000 
+296.800 
+Bhutan 
+7.946.400 
+263.200 
+Bolivia 
+6.748.000 
+224.000 
+Bosnia y Herzegovina 
+7.935.200 
+263.200 
+Botswana 
+7.789.600 
+257.600 
+Brasil 
+8.691.200 
+285.600 
+Brunei 
+3.892.000 
+128.800 
+Bulgaria 
+7.420.000 
+246.400 
+Burkina Faso 
+8.450.400 
+280.000 
+Burundi 
+8.041.600 
+263.200 
+Cabo Verde 
+8.047.200 
+268.800 
+Camboya 
+7.044.800 
+235.200 
+Camerún 
+8.540.000 
+280.000 
+Canadá 
+8.775.200 
+291.200 
+Canadá Montreal 
+8.540.000 
+280.000 
+Canadá Ottawa 
+8.786.400 
+291.200 
+Canadá Toronto 
+8.999.200 
+296.800 
+Chad 
+9.514.400 
+313.600 
+  
+ 
+ 
+Página 22 de 28 
+ 
+Chile 
+8.002.400 
+263.200 
+China 
+8.500.800 
+280.000 
+China Hong Kong 
+9.587.200 
+319.200 
+Chipre 
+8.097.600 
+268.800 
+Colombia 
+7.358.400 
+240.800 
+Comoras 
+8.243.200 
+274.400 
+Congo 
+9.738.400 
+324.800 
+Corea del Sur 
+8.741.600 
+291.200 
+Corea del Norte 
+8.433.600 
+280.000 
+Costa Rica 
+7.280.000 
+240.800 
+Cote d'Ivoire 
+8.792.000 
+291.200 
+Croacia 
+8.640.800 
+285.600 
+Cuba 
+8.478.400 
+280.000 
+Dinamarca 
+9.671.200 
+319.200 
+Djibouti 
+8.383.200 
+280.000 
+Dominica 
+6.692.000 
+218.400 
+Ecuador 
+6.994.400 
+229.600 
+Egipto 
+7.425.600 
+246.400 
+El Salvador 
+7.537.600 
+246.400 
+Emiratos Árabes 
+Unidos 
+8.540.000 
+280.000 
+Eritrea 
+7.694.400 
+252.000 
+Eslovaquia 
+8.142.400 
+268.000 
+Eslovenia 
+7.509.600 
+246.400 
+España 
+8.612.800 
+285.600 
+Estados Unidos 
+8.377.600 
+280.000 
+Estados Unidos Nueva 
+York 
+9.520.000 
+313.600 
+Estonia 
+7.548.800 
+252.000 
+Etiopía 
+8.450.400 
+280.000 
+Federación de Rusia 
+9.413.600 
+313.600 
+Fiji 
+7.784.000 
+257.600 
+Filipinas 
+7.912.800 
+263.200 
+Finlandia 
+8.864.800 
+291.200 
+Francia 
+9.290.400 
+308.000 
+Gabón  
+9.116.800 
+302.400 
+Gambia 
+8.064.000 
+268.800 
+Georgia 
+7.666.400 
+252.000 
+Ghana 
+8.607.200 
+285.600 
+Granada 
+8.170.400 
+268.800 
+Grecia 
+8.411.200 
+280.000 
+Guatemala  
+7.599.200 
+252.000 
+Guinea 
+7.616.000 
+252.000 
+Guinea Ecuatorial 
+8.624.000 
+285.600 
+Guinea Bissau 
+8.859.200 
+291.200 
+Guyana 
+8.002.400 
+263.200 
+Haití 
+8.276.800 
+274.400 
+Honduras 
+7.862.400 
+257.600 
+Hungría 
+8.260.000 
+274.400 
+  
+ 
+ 
+Página 23 de 28 
+ 
+India 
+7.694.400 
+252.000 
+Indonesia 
+7.896.000 
+263.200 
+Irán 
+7.576.800 
+252.000 
+Irak 
+7.907.200 
+263.200 
+Irlanda 
+8.713.600 
+285.600 
+Islandia 
+9.721.600 
+319.200 
+Islas Marshall 
+6.944.000 
+229.600 
+Islas Salomón 
+7.952.000 
+263.200 
+Israel 
+7.879.200 
+263.200 
+Italia 
+9.077.600 
+302.400 
+Jamaica 
+8.377.600 
+274.400 
+Japón 
+11.256.000 
+375.200 
+Jordania 
+7.487.200 
+246.400 
+Kazajstán 
+8.136.800 
+268.800 
+Kenya 
+7.560.000 
+252.000 
+Kirguistám 
+7.616.000 
+252.000 
+Kiribati 
+8.954.400 
+296.800 
+Kuwait 
+7.593.600 
+252.000 
+Lesotho 
+7.705.600 
+252.000 
+Letonia 
+7.896.000 
+263.200 
+Líbano 
+8.388.800 
+280.000 
+Liberia 
+8.355.200 
+280.000 
+Libia 
+7.364.000 
+240.800 
+Lituania 
+7.700.000 
+252.000 
+Luxemburgo 
+8.971.200 
+296.800 
+Macedonia  
+7.621.600 
+252.000 
+Madagascar 
+7.492.800 
+246.400 
+Malasia 
+7.425.600 
+246.400 
+Malawi 
+7.728.000 
+257.600 
+Maldivas 
+8.075.200 
+268.800 
+Mali 
+8.517.600 
+280.000 
+Malta  
+8.215.200 
+274.400 
+Marruecos 
+7.548.800 
+252.000 
+Mauricio 
+7.257.600 
+240.800 
+Mauritania 
+7.901.600 
+263.200 
+México 
+8.002.400 
+263.200 
+Micronesia 
+9.934.400 
+330.400 
+Moldova 
+8.103.200 
+268.800 
+Mónaco  
+9.290.400 
+308.000 
+Mongolia 
+7.123.200 
+235.200 
+Montenegro 
+7.996.800 
+263.200 
+Montserrat 
+5.790.400 
+190.400 
+Mozambique 
+7.862.400 
+257.600 
+Myanmar 
+7.588.000 
+252.000 
+Namibia 
+7.660.800 
+252.000 
+Nauru 
+8.237.600 
+324.800 
+Nepal 
+7.744.800 
+252.000 
+Nicaragua 
+7.649.600 
+252.000 
+Níger 
+8.204.000 
+268.800 
+  
+ 
+ 
+Página 24 de 28 
+ 
+Nigeria 
+9.223.200 
+308.000 
+Noruega 
+9.800.000 
+324.800 
+Nueva Zelanda 
+6.770.400 
+224.000 
+Omán  
+7.291.200 
+240.800 
+Países Bajos 
+8.797.600 
+291.200 
+Pakistán 
+7.705.600 
+252.000 
+Panamá 
+7.375.200 
+246.400 
+Papua Nueva Guinea 
+8.579.200 
+285.600 
+Paraguay 
+7.666.400 
+252.000 
+Perú 
+7.341.600 
+240.800 
+Polonia 
+7.784.000 
+257.600 
+Portugal 
+8.159.200 
+268.800 
+Qatar 
+7.996.800 
+263.200 
+Reino Unido 
+10.169.600 
+336.000 
+República Árabe Siria 
+7.504.000 
+246.400 
+República 
+Centroafricana 
+9.027.200 
+296.800 
+República Checa 
+8.321.600 
+274.400 
+República Democrática 
+del Congo 
+8.747.200 
+291.200 
+República Dominicana 
+7.464.800 
+246.400 
+República Popular 
+Democrática Lao 
+7.666.400 
+252.000 
+Rumania 
+7.789.600 
+257.600 
+Rwanda 
+8.120.000 
+268.800 
+Samoa 
+7.856.800 
+257.600 
+San Kitts y Nevis 
+5.387.200 
+179.200 
+San Vicente y 
+Granadinas 
+7.666.400 
+252.000 
+Santa Lucía 
+7.571.200 
+252.000 
+Santo Tomé y Príncipe 
+7.576.800 
+252.000 
+Senegal 
+8.170.400 
+268.800 
+Serbia 
+7.996.800 
+263.200 
+Seychelles 
+8.299.200 
+274.400 
+Sierra Leona 
+8.332.800 
+274.400 
+Singapur 
+8.528.800 
+280.000 
+Somalía 
+6.210.400 
+207.200 
+Sri Lanka 
+7.218.400 
+240.800 
+Sudáfrica 
+7.476.000 
+246.400 
+Sudán 
+9.094.400 
+302.400 
+Suecia 
+8.719.200 
+291.200 
+Suiza 
+9.766.400 
+324.800 
+Surinam 
+7.420.000 
+246.400 
+Swazilandia 
+7.700.000 
+252.000 
+Tailandia 
+7.716.800 
+257.600 
+Taiwán 
+9.587.200 
+319.200 
+Tanzania 
+8.013.600 
+263.200 
+Tayikistán 
+7.733.600 
+257.600 
+Timor-Leste 
+8.607.200 
+285.600 
+  
+ 
+ 
+Página 25 de 28 
+ 
+Togo 
+8.265.600 
+274.400 
+Tonga 
+8.092.000 
+268.800 
+Trinidad y Tobago 
+8.041.600 
+263.200 
+Túnez 
+7.453.600 
+246.400 
+Turkmenistán 
+9.161.600 
+302.400 
+Turquía 
+7.672.000 
+252.000 
+Tuvalu 
+3.483.200 
+112.000 
+Ucrania 
+8.153.600 
+268.800 
+Uganda 
+7.526.400 
+246.400 
+Uruguay 
+7.448.000 
+246.400 
+Uzbekistán 
+7.420.000 
+246.400 
+Vanuatu 
+8.635.200 
+285.600 
+Venezuela 
+8.226.400 
+274.400 
+Vietnam 
+7.638.400 
+252.000 
+Yemen 
+7.158.800 
+235.200 
+Zambia 
+8.422.400 
+280.000 
+Zimbawe 
+6.557.600 
+218.400 
+ 
+Fuente: 
+Fuente: 
+Fuente: 
+Fuente: Adaptado de la tabla del Programa Becas Chile.- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Página 26 de 28 
+ 
+Anexo 2
+Anexo 2
+Anexo 2
+Anexo 2    
+CARTA DE COMPROMISO DEL INVESTIGADOR O TECNÓLOGO CON LA IN
+CARTA DE COMPROMISO DEL INVESTIGADOR O TECNÓLOGO CON LA IN
+CARTA DE COMPROMISO DEL INVESTIGADOR O TECNÓLOGO CON LA IN
+CARTA DE COMPROMISO DEL INVESTIGADOR O TECNÓLOGO CON LA INSTITUCIÓN 
+STITUCIÓN 
+STITUCIÓN 
+STITUCIÓN 
+A LA QUE ESTÁ VINCULADO
+A LA QUE ESTÁ VINCULADO
+A LA QUE ESTÁ VINCULADO
+A LA QUE ESTÁ VINCULADO    
+ 
+ 
+Declaro, 
+para 
+los 
+debidos 
+fines, 
+que 
+yo, 
+ 
+(nombre 
+completo___________________, 
+de 
+nacionalidad 
+_____________, 
+de 
+profesión_________________________, domiciliado en _______________________ 
+,con cédula de identidad civil Nº______________, asumo las obligaciones inherentes al 
+“Programa de vinculación de científicos y tecnólogos” – convocatoria 2016 por el 
+CONACYT, en tal sentido, ME COMPROMETO a transferir los conocimientos adquiridos a 
+través de la estancia de investigación científica o transferencia tecnológica con la 
+institución que me ha patrocinado y al CONACYT. 
+ 
+ 
+Firma del investigador o tecnólogo:
+Firma del investigador o tecnólogo:
+Firma del investigador o tecnólogo:
+Firma del investigador o tecnólogo: ______________________________  
+Fecha: ________________________________________
+Fecha: ________________________________________
+Fecha: ________________________________________
+Fecha: ________________________________________    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Página 27 de 28 
+ 
+Anexo 3
+Anexo 3
+Anexo 3
+Anexo 3    
+CARTA DE COMPR
+CARTA DE COMPR
+CARTA DE COMPR
+CARTA DE COMPROMISO DEL INVESTIGADOR O TECNÓLOGO CON EL CONACYT
+OMISO DEL INVESTIGADOR O TECNÓLOGO CON EL CONACYT
+OMISO DEL INVESTIGADOR O TECNÓLOGO CON EL CONACYT
+OMISO DEL INVESTIGADOR O TECNÓLOGO CON EL CONACYT    
+ 
+ 
+ 
+Declaro, 
+para 
+los 
+debidos 
+fines, 
+que 
+yo, 
+ 
+(nombre 
+completo___________________, 
+de 
+nacionalidad 
+________________, 
+de 
+profesión_________________________, domiciliado en _______________________, 
+con cédula de identidad civil Nº______________, asumo el compromiso de informar al 
+CONACYT sobre todo lo referente a las actividades inherentes al “Programa de 
+vinculación de científicos y tecnólogos” – convocatoria 2016,  sobre los avances, 
+desarrollo y culminación de la estancia de investigación científica o transferencia 
+tecnológica a la cuál postulo. 
+ 
+ 
+Firma del investigador o tecnólogo:
+Firma del investigador o tecnólogo:
+Firma del investigador o tecnólogo:
+Firma del investigador o tecnólogo: ______________________________  
+Fecha: ________________________________________
+Fecha: ________________________________________
+Fecha: ________________________________________
+Fecha: ________________________________________    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Página 28 de 28 
+ 
+Anexo 4
+Anexo 4
+Anexo 4
+Anexo 4    
+CARTA DE ABSTENERSE
+CARTA DE ABSTENERSE
+CARTA DE ABSTENERSE
+CARTA DE ABSTENERSE    A REALIZAR RECLAMOS DE CUALQUIER NATURALEZ
+A REALIZAR RECLAMOS DE CUALQUIER NATURALEZ
+A REALIZAR RECLAMOS DE CUALQUIER NATURALEZ
+A REALIZAR RECLAMOS DE CUALQUIER NATURALEZAAAA    AL 
+AL 
+AL 
+AL 
+CONACYT
+CONACYT
+CONACYT
+CONACYT    
+ 
+(Ciudad),   (día)  de (mes)   de 2016 
+ 
+ 
+Declaro, 
+para 
+los 
+debidos 
+fines, 
+que 
+yo, 
+ 
+(nombre 
+completo)___________________, 
+de 
+nacionalidad 
+____________, 
+de 
+profesión_________________________, domiciliado en _______________________, 
+con cédula de identidad civil Nº__________, No realizaré ningún tipo de reclamo al 
+CONACYT ni a sus directores o funcionarios ante cualquier circunstancia imprevista o no 
+contemplada en el contrato y que pudiese acontecer durante el período de duración de 
+la estancia de vinculación, quedando bajo mi responsabilidad todos los imprevistos. 
+ 
+ 
+Firma del investigador o tecnólogo:
+Firma del investigador o tecnólogo:
+Firma del investigador o tecnólogo:
+Firma del investigador o tecnólogo: ______________________________  
+ 
+  
+maaNACIONAL
+CONACYT
+Conticuyenda Jumias da Husve Rumes
+ 
+ADENDAdela Guia de Basesy Condicionesdel
+Programade Vinculacion de Cientificos y Tecndlogos — Convocatoria 2016
+N° 02/2015
+EI Consejo Nacional de Ciencia y Tecnologia — CONACYT, ajusta
+la “Guia de Bases y Condiciones” del
+Programa de Vinculacién de Cientificos y Tecndlogos — Convocatoria 2016, del Componente
+II del
+Programa PROCIENCIA.
+El CONACYT, en
+el marco del Programa Paraguayo para
+el Deserrollo de
+la Ciencia y
+la Tecnologia
+(PROCIENCIA) financiado a través del Fondo para
+la Educacion y la Investigacion (FEI) asignado por el
+Fondo Nacional de Inversién Publica y Desarrollo (FONACIDE) segtin Ley N° 4758/12 del 21 de setiembre
+de 2012, ha resuelto, por Resolucién N°
+190 de fecha 11 de junio de 2015, aprobar y autorizar la
+ampliacion de la “Guia de Bases y Condiciones” del Programa de apoyo para la formacidn de docentes-
+investigadores, del ComponenteII “Fortalecimiento del Capital Humanopara 1+D”, quedandoestablecido
+en su parte respectiva comosigue:
+En el punto 7.3. Actividades de Internacionalizacién,se incluyela siguiente aclaratoria:
+Podran participar en estas actividades: personas encargadasde lasoficinas de relaciones internacionales
+de
+las
+IES,
+gestores
+y/o
+coordinadores
+académicos
+que
+realicen
+tareas
+relacionadas
+a
+las
+internacionalizacion en las IES, docentesdelas IES, estudiantes de posgradode las IES que realicen algun
+tipo de actividad de internacionalizacion.
+Los demas incisos del Capitulo Siete quedan sin alteracion.
+En el punto 9. FINANCIAMIENTO, quedard redactado de la siguiente manera:
+El apoyo
+se
+estima
+hasta
+un maximo de Gs 31.500.000
+(guaranies
+treinta
+y un millones
+quinientos mil) para cada postulacién.
+EI financiamiento de las estancias se aplicard, de acuerdo a la disponibilidad presupuestaria y en
+funcidn a las oportunidades especificas de solicitudes presentadas.
+El desembolso se realizara de forma personal al postulante adjudicado, una vez que el mismo
+haya presentado los documentos requeridos para el efecto.
+Las postulaciones institucionales para paraguayos residentes en el extranjero, deben considerar
+que,
+el desembolso
+del apoyo
+se
+realizaraé
+una vez que
+el
+recurrente
+se encuentre en
+territorio
+paraguayo y haya cumplido con la de la documentacion requerida para el efecto.
+Los gastos de manutencion mensual/diaria se regiran segun la tabla del Anexo1.
+El CONACYT se reserva el derecho de modificar el presupuesto de una propuesta en caso de
+considerar que el monto o algun {tem solicitado no son pertinentes, para lo cual el postulante no tendra
+derecho a reclamo.
+Dr. Justo Prieto N° 223 esquina TeOfilo del Puerto, Villa Aurelia As
+Telefax: (595)(21) 506-223/506-331/506-369
+presidencia.conacyt@conacyt.gov.py
+www.conacyt.gov.py 
+ 
+  
+CONACYT
+sontNACIONAL
+Co Asleuyenee JuAles Us Nuova Rarsho
+ 
+Se podran financiar los siguientes rubros:
+a) pasaje aéreo o terrestre de ida y vuelta en clase economica, (se debera presentar la cotizacion
+solicitada para verificar el montosolicitado en el presupuesto).
+b) vidticos, para alojamiento y estadia, en base a las noches pernoctadas en el pais (Ver Anexo 1),
+c) seguro médico y medicamentos,
+(se debera presentar
+la cotizacidn solicitada
+del seguro
+médico para verificar el monto solicitado en el presupuesto).
+d) transporte interno,
+e) compra de materiales e insumos relacionados con la estancia (No deberda superar el 20%del
+total solicitado a menos que justifique la compra de algun insumo o material que necesite. No
+aplica para pago de cursos0 afines).
+Los demasincisos del Capitulo nueve quedan sin alteracion.
+El punto 11.3.1, quedara redactado de la siguiente forma:
+ 
+CRITERIOS PARA VINCULACION
+CRITERIOS PARA VINCULACION
+CRITERIOS PARA VINCULACION DE
+ 
+ 
+ 
+jtecnologia e innovacion.
+DIMENSIONES
+DE TRANSFERENCIA
+¢
+DE INVESTIGACION
+INTERNACIONALIZACION
+TECNOLOGICA
+l[Antecedentes y competencias
+[Antecedentes y competencias
+Antecedentes y competencias
+lacadémicos
+lacadémicas, capacitacion y
+lacadémicas, capacitacion y
+lactualizacion,
+jactualizacion.
+\Antecedentes y competencias
+[Antecedentes y competencias
+—|Antecedentes y competencias
+profesionales
+profesional
+profesional
+\Antecedentesy trayectoria en
+|Antecedentes y competencias en|Antecedentesy trayectoria en el drea
+Idocencia
+actividades de ciencia y
+lespecifica de internacionalizacion de
+Postulante
+IES.
+ 
+lAntecedentesy trayectoria en
+investigacion
+Participacion en eventos
+Antecedentesy trayectoria en
+proyectos deinvestigacion
+ 
+Participacion en eventos
+cientificos
+Produccién técnica
+Participacién en eventos cientificos, de
+innovacién en la educacién y/o
+internacionalizacion.
+ 
+ 
+Produccién técnica/bibliografica
+ 
+Institucién de
+destino”! y origen (2)
+Objetivos y misidn institucional
+[Antecedentes en Actividades de
+Innovacion* y/o ACT.
+[Objetivo y misidn institucional
+respecto a la internacionalizacion.
+ 
+Linea o area de investigacién
+cientifica
+Objetivos de la estancia
+Eje de internacionalizacion.
+ 
+Programa de
+IObjetivos de la estancia
+Actividades de la estancia
+IObjetivos dela estancia,
+ 
+(Actividadesde la estancia
+Estrategias de difusién
+Actividadesde la estancia.
+ 
+ 
+planteados en la postulacion.
+lestancia
+Estrategias de difusion
+Estrategias de difusién
+Estrategia de difusién.
+el
+.
+Relevancia y pertinencia dela
+Relevancia y pertinencia respecto |Relevancia y pertinencia de la estancia
+elevancia y
+,
+|
+oo,
+.
+.
+.
+ae
+.
+.
+lestadia de investigacion.
+lal cumplimiento de los objetivos
+de internacionalizacion.
+pertinencia
+ 
+IMotivacién del
+lpostulante
+ 
+Relevancia y pertinencia respecto
+lal cumplimiento delos objetivos
+ 
+Relevancia y pertinencia resyey
+     
+lal cumplimiento de los ob
+ 
+Spas respectoal
+wiGlSti
+  
+ 
+ 
+ 
+ 
+Dr. Justo Prieto N° 223 esquina Teofilo del Puerto, Villa Aurelia AS
+i
+Telefax: (595)(21) 506-223/506-331/506-00Cory
+presidencia.conacyt@conacyt.gov.py
+www.conacyt.go
+   
+  
+ 
+  
+ctimplimienay objetivos
+oH
+SN
+ 
+ 
+  
+ 
+CONACYT
+conan)NACIONAL
+Constevyeade Juntos Ua fuevo Rumbo
+ 
+lplanteadoscon la motivacién del
+postulante
+ 
+ 
+ 
+lplanteados con la motivacién del
+postulante
+ 
+lplanteados con la motivacién del
+postulante
+ 
+Los demasincisos del Capitulo Once quedan sinalteracion.
+Todas los demas Capitulos quedan sin alteracién.
+  
+ 
+Dr. Justo Prieto N° 223 esquina Teéfilo del Puerto, Villa Aurelia Asuncion
+Telefax: (595)(21) 506-223/506-331/506-369
+presidencia.conacyt@conacyt.gov.py
+\
+www.conacyt.gov.py 
+ 
+ 
+ 
+  
+6
+—>
+—.
+CONACYT
+Construyendo
+el futuro hoy
+ 
+RESOLUCION N° 30f /2016
+POR LA CUAL SE APRUEBA LA ADENDA N° 2 ALA GUIA DE BASES Y CONDICIONES
+DEL PROGRAMA DE VINCULACION DE CIENTIFICOS Y TECNOLOGOS - TIPO DE
+CONVOCATORIA VENTANILLA ABIERTA EN EL MARCO DEL PROGRAMA PARAGUAYO
+PARA EL DESARROLLODELA CIENCIA Y TECNOLOGIA — PROCIENCIA.
+Asuncion,
+gL
+de julio de 2016.-
+VISTO Y CONSIDERANDO:
+La Ley 2279/03, que en su articulo N° 7 inciso q) establece: “fomentar e/ desarrollo
+de la ciencia,
+tecnologia, innovacién y calidad por medio de mecanismos de incentivos a
+instituciones, empresas y personas”.
+La Resolucién N° 03 de fecha 20 de enero de 2014 “Porla cual se aprueba el
+Programa Paraguayo para el Desarrollo de la Ciencia y Tecnologia’.
+El acta N° 104 de fecha 15 de julio de 2016 de la Comisién de Programas y
+Proyectos en la cual recomiendan la aprobacién de la Adenda N° 2 a
+la Guia de Bases y
+Condiciones del Programa de Vinculacién de Cientificos y Tecnédlogos — Modalidad Ventanilla
+abierta, Convocatoria 2016.
+El acta N° 460 de fecha 19 de julio de 2016 del Consejo del CONACYT, donde
+aprueba la Adenda a la guia de bases y condiciones del programa de vinculacién de cientificos
+y tecndlogos — convocatoria 2016.
+El Decreto N° 4511 de fecha 04 de diciembre de 2015 “Por el cual se nombra al
+Sefior Luis Alberto Lima Morra como Presidente del Consejo Nacional de Ciencia y Tecnologia
+(CONACYT), dependiente de la Presidencia de la Republica’.
+POR TANTO,en uso de susatribuciones,
+EL MINISTRO PRESIDENTE DEL CONSEJO NACIONALDECIENCIA Y TECNOLOGIA
+RESUELVE:
+Articulo 1°.- APROBARla Adenda N° 2 a la Guia de Bases y Condiciones de la Convocatoria
+del Programa de Vinculaci6én de Cientificos y Tecnologos,..convc
+atoria 2016 en el marco del
+ 
+ 
+  
+ 
+ 
+Dr. Justo Prieto N° 223 esquina Teofilo del Puerto,
+Telefax: (595)(21) 506-223/50
+residencia.conacyt@conacyt.gov.
+ 
+ cawSwaconas
+Construyendo
+el
+futuro hoy
+CONACYT
+ 
+RESOLUCIONN° 30F 12016
+POR LA CUAL SE APRUEBA LA ADENDA N° 2 ALA GUIA DE BASES Y CONDICIONES
+DEL PROGRAMA DE VINCULACION DE CIENTIFICOS Y TECNOLOGOS - TIPO DE
+CONVOCATORIA VENTANILLA ABIERTA EN EL MARCO DEL PROGRAMA PARAGUAYO
+PARA EL DESARROLLODELA CIENCIA Y TECNOLOGIA — PROCIENCIA.
+Programa Paraguayo para el Desarrollo de la Ciencia y Tecnologia - PROCIENCIA, anexos a
+esta resoluci6n.
+Articulo 2°.- COMUNICARa quienes corresponda y cumplida, archivar.
+Prof. Ing. Luis
+Alberto Lima Morra
+‘
+inistro
+ 
+ 
+Dr. Justo Prieto N° 223 esquina Teofilo del Puerto, Villa Aurelia Asuncién - PARAGUAY
+Telefax: (695)(21) 506-223/506-331/506-369
+presidencia.conacyt@conacyt.gov.py
+www.conacyt.gov.py
+ 

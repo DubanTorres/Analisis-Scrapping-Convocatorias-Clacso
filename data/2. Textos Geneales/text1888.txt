@@ -1,0 +1,727 @@
+
+Rua Melo Moraes, 354, CEP 57020-330 – Centro – Maceió - Alagoas 
+Fone: 82 3315 2200/3315 2232. E-mail: atendimento@fapeal.br 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+COOPERAÇÃO INTERNACIONAL FAPEAL/FAP’s/INRIA/INS2i-CNRS 
+CHAMADA PÚBLICA 15/2016 
+ 
+ 
+A FAPEAL – FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DE ALAGOAS, as 
+Fundações de Amparo à Pesquisa dos estados que aderiram à presente chamada, 
+doravante denominadas FAPs copartícipes, o INRIA – Institut National de Recherche en 
+Informatique et Automatique  e o CNRS – Centre National de la Recherche Scientifique, 
+através do INS2i – Institut des Sciences de l’Information et de leur Interactions, tornam 
+público o presente Edital e convidam os interessados a apresentarem propostas nos 
+termos 
+aqui 
+estabelecidos, 
+e 
+em 
+conformidade 
+com 
+o 
+anexo 
+REGULAMENTO/CONDIÇÕES ESPECÍFICAS, parte integrante do mesmo. 
+ 
+1. OBJETIVO 
+O presente Edital tem por objetivo apoiar atividades de pesquisa científica, tecnológica e 
+de inovação, de equipes principais e de equipes orbitais, na área das ciências e 
+tecnologias da informação e comunicação (TIC), mediante a seleção de propostas para 
+apoio financeiro a projetos conjuntos, a serem executados por uma equipe de 
+pesquisadores brasileiros (equipe principal), com colaboração eventual de outras 
+equipes brasileiras (equipes orbitais), e uma equipe de pesquisadores franceses do 
+INRIA ou do INS2i-CNRS. Os projetos devem estar relacionados ao objeto abaixo 
+indicado e em conformidade com as condições estabelecidas e com as definições de 
+projetos 
+conjuntos, 
+equipes 
+principais 
+e 
+equipes 
+orbitais 
+dispostas 
+no 
+REGULAMENTO/CONDIÇÕES ESPECÍFICAS, anexo a este Edital. 
+OBJETO 
+Seleção pública de propostas para apoio à execução de projetos conjuntos de Pesquisa, 
+Desenvolvimento e Inovação (P&D&I) na área das ciências e tecnologias da informação 
+e comunicação (TIC), no âmbito dos Acordos Bilaterais de cooperação científica e 
+tecnológica internacional firmados entre o INRIA e o CNRS com as FAP’s copartícipes. 
+As áreas de pesquisa em TIC de interesse deste Edital, incluem, em particular, o 
+tratamento da informação; a comunicação e o armazenamento da informação; o 
+tratamento de sinais, dos dados e dos conhecimentos; a modelagem e a simulação; as 
+tecnologias de hardware e software; a concepção, a verificação e a otimização de 
+componentes de software; a concepção, o comando e o controle de sistemas 
+complexos; e as interfaces homem-máquina. 
+  
+Rua Melo Moraes, 354, CEP 57020-330 – Centro – Maceió - Alagoas 
+Fone: 82 3315 2200/3315 2232. E-mail: atendimento@fapeal.br 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+2. APRESENTAÇÃO E ENVIO DAS PROPOSTAS 
+2.1 As propostas devem ser apresentadas sob a forma de projeto e encaminhadas à 
+FAPEAL exclusivamente via Internet, por intermédio de Formulário Eletrônico disponível 
+na página www.fapeal.br, a partir da data do Lançamento do Edital, indicada no subitem 
+1.4 CRONOGRAMA do REGULAMENTO. 
+2.2 As propostas devem ser apresentadas em conformidade com o descrito no item 2. 
+CRITÉRIOS DE ELEGIBILIDADE do REGULAMENTO contendo rigorosamente todos os 
+itens previstos neste Edital. 
+2.3 Não serão aceitas propostas submetidas por qualquer outro meio, tampouco após o 
+prazo final de recebimento estabelecido no subitem 1.4 do CRONOGRAMA do 
+REGULAMENTO. 
+2.4 Será aceita uma única proposta por proponente. Na hipótese de envio de uma 
+segunda proposta pelo mesmo proponente, respeitando-se o prazo limite estipulado para 
+submissão das propostas, esta será considerada substituta da anterior, sendo levada em 
+conta para análise apenas a última proposta recebida. 
+2.5 Em se constatando propostas idênticas, ainda que de proponentes distintos, todas 
+serão desclassificadas. 
+ 
+3. ADMISSÃO, ANÁLISE E JULGAMENTO 
+A seleção das propostas submetidas em atendimento a este Edital será realizada por 
+intermédio de análises e avaliações comparativas. Para tanto, são estabelecidas as 
+seguintes etapas: 
+3.1 Etapa I – Análise pela Área Técnica 
+Esta etapa, a ser realizada pela área técnica da FAPEAL, consiste na análise das 
+propostas apresentadas quanto ao atendimento aos CRITÉRIOS DE ELEGIBILIDADE, 
+estabelecidos no item 2 do REGULAMENTO/CONDIÇÕES ESPECÍFICAS, e efetuada a 
+análise quanto à adequação da proposta ao presente Edital. Todas as propostas 
+analisadas e selecionadas nesta etapa serão avaliadas por Consultores ad hoc e por um 
+Comitê Julgador. 
+3.2 Etapa II - Análise por Especialistas 
+Esta etapa consistirá na análise aprofundada da demanda, quanto ao mérito e relevância 
+das propostas, a ser realizada por especialistas que se manifestarão sobre os tópicos 
+relacionados no item 3 – CRITÉRIOS PARA JULGAMENTO do REGULAMENTO. 
+  
+Rua Melo Moraes, 354, CEP 57020-330 – Centro – Maceió - Alagoas 
+Fone: 82 3315 2200/3315 2232. E-mail: atendimento@fapeal.br 
+ 
+3 
+ 
+ 
+ 
+ 
+3.3 Etapa III – Análise, Julgamento e Classificação por Comitê Julgador 
+3.3.1 As propostas serão avaliadas e classificadas nesta etapa, considerando as análises 
+das etapas anteriores e os CRITÉRIOS PARA JULGAMENTO indicados no item 3 do 
+REGULAMENTO. 
+3.3.2 A pontuação final de cada projeto será aferida conforme estabelecido no item 3 – 
+CRITÉRIOS PARA JULGAMENTO, do REGULAMENTO. 
+3.3.3 Após a análise de mérito e relevância de cada proposta e da adequação de seu 
+orçamento, o Comitê Julgador, dentro dos limites orçamentários, poderá recomendar: 
+a) aprovação, com ou sem cortes orçamentários; ou 
+b) não aprovação. 
+3.3.4 O Comitê Julgador deverá produzir, para cada proposta, uma avaliação global da 
+proposta, com ênfase no mérito científico da mesma, que contenha elementos que 
+fundamentem o parecer final. 
+3.3.5 Não é permitido integrar o Comitê Julgador o pesquisador que tenha apresentado 
+propostas a este Edital ou que participe da equipe do projeto. 
+3.3.6 É vedado a qualquer membro do Comitê Julgador avaliar propostas de projetos em 
+que: 
+a) haja interesse direto ou indireto seu; 
+b) esteja participando da equipe do projeto seu cônjuge, companheiro ou parente, 
+consanguíneo ou afim, em linha reta ou na colateral, até o terceiro grau; ou 
+c) esteja litigando judicial ou administrativamente com qualquer membro da equipe do 
+projeto ou seus respectivos cônjuges ou companheiros. 
+3.4 Etapa IV – Aprovação pela FAPEAL 
+Todas as propostas recomendadas pelo Comitê Julgador serão submetidas à Presidência 
+da FAPEAL, que emitirá a decisão final sobre sua aprovação, observados os seus limites 
+financeiros e orçamentários para este Edital. 
+3.5 Etapa V – Conciliação de Resultados 
+Essa etapa consiste na análise das propostas recomendadas independentemente por 
+todos os órgãos financiadores envolvidos (FAPs copartícipes, INRIA e INS2i-CNRS). 
+Apenas as propostas recomendadas simultaneamente pelas FAPs copartícipes 
+envolvidas e pelo instituto de afiliação do parceiro francês (INRIA ou INS2i-CNRS) serão 
+financiadas, respeitada a classificação das propostas produzidas na Etapa III e os 
+recursos financeiros destinados a este Edital. 
+ 
+  
+Rua Melo Moraes, 354, CEP 57020-330 – Centro – Maceió - Alagoas 
+Fone: 82 3315 2200/3315 2232. E-mail: atendimento@fapeal.br 
+ 
+4 
+ 
+ 
+ 
+ 
+4. RESULTADO DO JULGAMENTO 
+4.1 A relação das propostas aprovadas será divulgada na página www.fapeal.br. 
+4.2 Todos os proponentes do presente Edital tomarão conhecimento do parecer sobre sua 
+proposta por intermédio de correspondência eletrônica, preservada a identificação dos 
+pareceristas. 
+ 
+5. DOS RECURSOS ADMINISTRATIVOS 
+5.1 Caso o proponente tenha justificativa para contestar o resultado do julgamento das 
+propostas, poderá apresentar recurso em formulário específico, no prazo de até 10 (dez) 
+dias úteis, a contar da data de recepção do parecer negativo, em uma das duas seguintes 
+formas: 
+1. enviar o recurso pelo correio comum, obrigatoriamente em correspondência 
+registrada com aviso de recebimento (AR); ou 
+2. fazer protocolar o recurso na sede da FAPEAL. 
+5.2 O recurso ou pedido de reconsideração deverá estritamente contrapor o motivo do 
+indeferimento, não incluindo fatos novos, que não tenham sido objeto de análise de mérito 
+e relevância anterior, além de ser dirigido à Diretoria Executiva de Ciência e Tecnologia 
+da FAPEAL que, após exame, encaminhará para deliberação final da Presidência da 
+FAPEAL, ouvido o instituto de afiliação da equipe francesa (INRIA ou INS2i-CNRS), bem 
+como as FAP’s copartícipes envolvidas na proposta em questão. 
+5.3 Na contagem do prazo excluir-se-á o dia do início e incluir-se-á o do vencimento, e 
+considerar-se-ão os dias consecutivos. O prazo só se inicia e vence em dias de 
+expediente na FAPEAL. 
+5.4 O resultado sobre a reconsideração será definitivo, não cabendo qualquer outro 
+recurso. 
+ 
+6. DA CONTRATAÇÃO DAS PROPOSTAS APROVADAS 
+6.1 As propostas aprovadas serão contratadas na modalidade de Auxílio à Pesquisa 
+Individual, em nome do Coordenador/Proponente, mediante assinatura de Termo de 
+Concessão e Aceitação de Auxílio a Projeto de Pesquisa. 
+6.2 A existência de alguma inadimplência do proponente com a Administração Pública 
+Federal ou Estadual, direta ou indireta, ou com a FAPEAL, constituirá fator impeditivo 
+para a contratação do projeto. 
+ 
+  
+Rua Melo Moraes, 354, CEP 57020-330 – Centro – Maceió - Alagoas 
+Fone: 82 3315 2200/3315 2232. E-mail: atendimento@fapeal.br 
+ 
+5 
+ 
+ 
+ 
+ 
+7. CANCELAMENTO DA CONCESSÃO 
+7.1 A concessão do apoio financeiro poderá ser cancelada pela Diretoria Executiva de 
+Ciência e Tecnologia da FAPEAL, por ocorrência, durante sua implementação, de fato 
+cuja gravidade justifique o cancelamento, sem prejuízo de outras providências cabíveis 
+em decisão devidamente fundamentada. 
+ 
+8. PUBLICAÇÕES 
+8.1 As publicações científicas e qualquer outro meio de divulgação de trabalho de 
+pesquisa, apoiados pelo presente Edital, deverão citar, obrigatoriamente, o apoio das 
+entidades/órgãos financiadores. 
+ 
+9. IMPUGNAÇÃO DO EDITAL 
+9.1 Decairá do direito de impugnar os termos deste Edital o proponente que não o fizer 
+até o segundo dia útil anterior ao prazo final estabelecido para recebimento das 
+propostas. Ademais, não terá efeito de recurso a impugnação feita por aquele que, em o 
+tendo aceito sem objeção, venha apontar, posteriormente ao julgamento, eventuais falhas 
+ou imperfeições. 
+9.2 A impugnação deverá ser dirigida à Diretoria Executiva de Ciência e Tecnologia da 
+FAPEAL, por correspondência eletrônica, para o endereço: atendimento@fapeal.br 
+ 
+10. REVOGAÇÃO OU ANULAÇÃO DO EDITAL 
+10.1 A qualquer tempo, o presente Edital poderá ser revogado ou anulado, no todo ou em 
+parte, seja por decisão unilateral da Presidência da Fapeal, amparada na anuência de seu 
+Conselho Superior, seja por motivo de interesse público ou exigência legal, em decisão 
+fundamentada, sem que isso implique direitos a indenização ou reclamação de qualquer 
+natureza. 
+ 
+11. PERMISSÕES E AUTORIZAÇÕES ESPECIAIS 
+11.1 É de exclusiva responsabilidade de cada proponente adotar todas as providências 
+que envolvam permissões e autorizações especiais de caráter ético ou legal, necessárias 
+para a execução do projeto. 
+11.2 Coordenadores brasileiros de projetos de pesquisa, relacionados à biodiversidade, 
+devem observar a legislação em vigor (MP n.º 2.186, Decreto n.º 3.945/01, Decreto n.º 
+98.830/90, Portaria MCT n.º 55/90 e Decreto n.º 4.946/03) para autorizações de acesso, 
+  
+Rua Melo Moraes, 354, CEP 57020-330 – Centro – Maceió - Alagoas 
+Fone: 82 3315 2200/3315 2232. E-mail: atendimento@fapeal.br 
+ 
+6 
+ 
+ 
+ 
+ 
+coleta e remessa de amostras e concessão de vistos de entrada no País aos estrangeiros 
+participantes do projeto. 
+ 
+12. DAS DISPOSIÇÕES GERAIS 
+12.1 Durante a fase de execução do projeto, toda e qualquer comunicação com a 
+FAPEAL deverá ser feita por meio de correspondência eletrônica direcionada à Diretoria 
+Científica da FAPEAL no e-mail: atendimento@fapeal.br 
+12.2 Qualquer alteração relativa à execução do projeto deverá ser solicitada à FAPEAL 
+por seu coordenador, acompanhada da devida justificativa, devendo a mesma ser 
+autorizada antes de sua efetivação. 
+12.3 Ao final da vigência, o proponente deverá apresentar a prestação de contas 
+financeira e o relatório técnico, em conformidade com o estabelecido no Termo de 
+Concessão e demais normas da FAPEAL. 
+12.4 O projeto será avaliado em todas as suas fases, nos termos definidos no Termo de 
+Concessão. 
+12.5 A FAPEAL reserva-se o direito de, durante a execução do projeto, promover visitas 
+técnicas ou solicitar informações adicionais, visando aperfeiçoar o sistema de Avaliação e 
+Acompanhamento. 
+12.6 As informações geradas com a implementação das propostas selecionadas e 
+disponibilizadas na base de dados da FAPEAL serão de domínio público. 
+12.7 Nos casos em que os resultados do projeto ou o relatório em si tenham valor 
+comercial ou possam levar ao desenvolvimento de um produto ou método envolvendo o 
+estabelecimento de uma patente, a troca de informações e a reserva dos direitos, em 
+cada caso, dar-se-ão de acordo com o estabelecido na Lei de Inovação n.º 10.973, de 02 
+de dezembro de 2004, regulamentada pelo Decreto n.º 5.563, de 11 de outubro de 2005, 
+as demais disposições legais vigentes, bem com o que está estabelecido no Acordo de 
+Cooperação firmado entre a FAPEAL e o instituto de afiliação do parceiro francês do 
+projeto (INRIA ou CNRS), que deve constituir um documento anexo ao Termo de 
+Concessão e Aceitação de Auxílio a Projeto de Pesquisa. 
+12.8 O presente Edital regula-se pelos preceitos de direito público e, em especial, pelas 
+disposições da Lei n.º 8.666, de 21 de junho de 1993 e, no que couber, pelas normas 
+internas da FAPEAL. 
+ 
+  
+Rua Melo Moraes, 354, CEP 57020-330 – Centro – Maceió - Alagoas 
+Fone: 82 3315 2200/3315 2232. E-mail: atendimento@fapeal.br 
+ 
+7 
+ 
+ 
+ 
+ 
+13. DOS ESCLARECIMENTOS E DAS INFORMAÇÕES ADICIONAIS ACERCA DO 
+CONTEÚDO DO EDITAL E PREENCHIMENTO DO FORMULÁRIO DE PROPOSTA ON 
+LINE 
+Os esclarecimentos e informações adicionais acerca do conteúdo deste Edital e sobre o 
+preenchimento do Formulário de Proposta online poderão ser obtidos por intermédio do 
+endereço eletrônico e telefones indicados em item específico do Anexo REGULAMENTO. 
+ 
+14. CLÁUSULA DE RESERVA 
+O Conselho Superior da FAPEAL reserva-se o direito de resolver os casos omissos e as 
+situações não previstas no presente Edital. 
+ 
+ 
+Maceió, AL, 01 de setembro de 2016. 
+ 
+ 
+FÁBIO GUEDES GOMES 
+DIRETOR - PRESIDENTE 
+ 
+  
+Rua Melo Moraes, 354, CEP 57020-330 – Centro – Maceió - Alagoas 
+Fone: 82 3315 2200/3315 2232. E-mail: atendimento@fapeal.br 
+ 
+8 
+ 
+ 
+ 
+ 
+COOPERAÇÃO INTERNACIONAL FAPEAL/FAP’s/INRIA/INS2i-CNRS 
+CHAMADA 12/2016 
+ 
+REGULAMENTO 
+CONDIÇÕES ESPECÍFICAS 
+O presente REGULAMENTO tem por finalidade definir as atividades a serem apoiadas 
+financeiramente e as condições para implementação do apoio, mediante a seleção, por 
+edital, de propostas para execução de projetos, em conformidade com o acordo de 
+cooperação científica e tecnológica firmado entre a FAPEAL e o INRIA, e entre a FAPEAL 
+e o CNRS. 
+ 
+1. DAS DISPOSIÇÕES ESPECÍFICAS 
+OBJETO 
+Seleção pública de propostas para apoio à execução de projetos conjuntos de Pesquisa, 
+Desenvolvimento e Inovação (P&D&I) na área das ciências e tecnologias da informação 
+e comunicação (TIC), no âmbito dos Acordos Bilaterais de cooperação científica e 
+tecnológica internacional firmados entre o INRIA e o CNRS com as FAPs copartícipes. 
+As áreas de pesquisa em TIC de interesse deste Edital, incluem, em particular, o 
+tratamento da informação; a comunicação e o armazenamento da informação; o 
+tratamento de sinais, dos dados e dos conhecimentos; a modelagem e a simulação; as 
+tecnologias de hardware e software; a concepção, a verificação e a otimização de 
+componentes de software; a concepção, o comando e o controle de sistemas 
+complexos; e as interfaces homem-máquina. 
+ 
+1.1 Do objetivo 
+Este Edital tem por objetivo apoiar, de forma complementar, o desenvolvimento de 
+projetos conjuntos de pesquisas científicas, tecnológicas e de inovação, de grande 
+impacto, por meio do financiamento a atividades de cooperação entre pesquisadores 
+vinculados a instituições sediadas no Estado de Alagoas e pesquisadores dos estados 
+que aderiram à presente chamada, com pesquisadores do INRIA ou do INS2i-CNRS  no 
+âmbito dos acordos de cooperação firmados entre o INRIA e a FAPEAL, e entre o CNRS 
+e a FAPEAL, respectivamente. O apoio permitirá o fortalecimento e evolução institucional 
+das cooperações já iniciadas pela formação de equipes associadas e a indução de 
+  
+Rua Melo Moraes, 354, CEP 57020-330 – Centro – Maceió - Alagoas 
+Fone: 82 3315 2200/3315 2232. E-mail: atendimento@fapeal.br 
+ 
+9 
+ 
+ 
+ 
+ 
+novas cooperações franco-brasileiras pela formação de equipes orbitais, através da 
+execução de um projeto comum de grande impacto nos temas objeto deste Edital. 
+ 
+1.2 DAS DEFINIÇÕES 
+1.2.1 Para os fins deste edital, são adotadas as seguintes definições: 
+a) Estados 
+copartícipes: 
+estados 
+que 
+aderiram 
+à 
+chamada 
+conjunta 
+FAP’s/INRIA/INS2i-CNRS. Os órgãos financiadores de cada estado, ou seja, as 
+Fundações de Amparo à Pesquisa de cada estado são denominadas FAP’s 
+copartícipes; 
+b) Projeto conjunto:  projeto com objeto comum de pesquisa bem delineado, de 
+grande impacto, relevante, com objetivos e metas precisamente definidos, em que 
+a composição da equipe franco-brasileira seja complementar na execução do 
+mesmo; 
+c) Equipe Francesa: pesquisadores do INRIA ou pesquisadores do INS2i-CNRS; 
+d) Equipe Brasileira Principal: pesquisadores vinculados a instituições sediadas em 
+um Estado da federação, cujo histórico de colaboração com a equipe francesa 
+demonstre a complementariedade de ambas na execução do projeto conjunto. 
+Essa equipe será a equipe associada à equipe francesa, podendo a ela se 
+agregar uma ou mais equipes orbitais, do mesmo Estado ou de outras unidades 
+da Federação cujas FAP’s sejam copartícipes a esta Chamada;  
+e) Equipe Brasileira Orbital: pesquisadores de um Estado cuja FAP seja copartícipe 
+e que seja capaz de comprovar potencial de colaboração com a equipe principal 
+brasileira e a equipe francesa na execução do projeto conjunto;  
+f) Proposta de criação de equipe associada: projeto conjunto a ser submetido 
+simultaneamente pelo coordenador da equipe principal brasileira, a esta Chamada 
+e pelo Coordenador da equipe francesa, à Chamada lançada pelo INRIA ou à 
+Chamada 
+lançada 
+pelo 
+INS2i-CNRS, 
+com 
+demonstração 
+clara 
+da 
+complementariedade das especialidades dos pesquisadores brasileiros e franceses 
+na execução do mesmo. Caso exista a participação de equipes orbitais de estados 
+copartícipes na proposta, o coordenador de cada equipe orbital deve submeter a 
+mesma proposta à Chamada lançada pela respectiva FAP copartícipe. 
+1.3 Proponente 
+1.3.1 
+Poderão 
+apresentar 
+propostas 
+pesquisadores 
+que 
+tenham 
+vínculo 
+empregatício/funcional com instituições de ensino superior (IES), centros e institutos de 
+pesquisa e desenvolvimento públicos e privados, constituídos sob as leis brasileiras, e 
+  
+Rua Melo Moraes, 354, CEP 57020-330 – Centro – Maceió - Alagoas 
+Fone: 82 3315 2200/3315 2232. E-mail: atendimento@fapeal.br 
+ 
+10 
+ 
+ 
+ 
+ 
+que tenham sua sede e administração no Estado de Alagoas, todos sem fins lucrativos, 
+doravante denominados “instituição executora local”. 
+1.3.1.1 Os pesquisadores, grupos de pesquisa e especialistas vinculados  ao INRIA ou ao 
+INS2i-CNRS devem apresentar proposta correspondente ao INRIA ou ao INS2i-CNRS, 
+respectivamente, nos prazos, meios e formas determinados pelos mesmos. 
+1.3.1.2 Os pesquisadores, grupos de pesquisa e especialistas vinculados a instituições 
+sediadas nos Estados copartícipes devem apresentar proposta correspondentes nas 
+FAP’s copartícipes de seus respectivos estados. 
+1.3.2 O proponente será, necessariamente, o pesquisador coordenador do projeto. 
+1.3.3 Ao apresentar a proposta, o proponente assume o compromisso de manter, durante 
+a execução do projeto, todas as condições de qualificação, habilitação e idoneidade 
+necessárias ao perfeito cumprimento do seu objeto, preservando atualizados os seus 
+dados cadastrais junto aos registros competentes. 
+1.3.4 Cada proposta incluirá necessariamente uma Equipe Brasileira Principal, sendo 
+opcional a participação de uma ou várias Equipes Brasileiras Orbitais.  
+ 
+1.4 Cronograma 
+EVENTOS 
+DATAS 
+Lançamento do Edital na página eletrônica da 
+FAPEAL 
+02 de setembro de 2016 
+Postagem do Formulário Eletrônico para submissão 
+de proposta na página da FAPEAL 
+02 de setembro de 2016 
+Data limite para submissão das propostas 
+30 de setembro de 2016 
+Divulgação dos resultados na página eletrônica da 
+FAPEAL 
+A partir de fevereiro de 2017 
+Início da contratação dos projetos aprovados 
+A partir de março-abril de 2017 
+Início da execução dos projetos aprovados 
+A partir de março-abril de 2017 
+ 
+1.4.1 As datas e os procedimentos de submissão de propostas pelos parceiros franceses 
+ao INRIA e ao INS2i-CNRS, bem como aos estados que aderiram à presente chamada 
+  
+Rua Melo Moraes, 354, CEP 57020-330 – Centro – Maceió - Alagoas 
+Fone: 82 3315 2200/3315 2232. E-mail: atendimento@fapeal.br 
+ 
+11 
+ 
+ 
+ 
+ 
+poderão ser consultados na página do INRIA, na página do INS2i-CNRS e nas páginas da 
+FAP’s copartícipes, respectivamente. 
+1.5 Recursos financeiros 
+1.5.1 O valor global máximo a ser despendido pela FAPEAL nas propostas aprovadas 
+está estimado em R$ 240.000,00 (duzentos e quarenta mil reais), a serem liberados em 
+até duas parcelas, de acordo com a sua disponibilidade orçamentária e financeira. 
+1.5.2 O financiamento da FAPEAL para cada projeto terá o valor máximo de:  
+a) até R$ 100.000,00 (cem mil reais) por projeto, no caso de Equipe Principal, sem 
+agregação de equipe orbital; 
+b) até R$ 120.000,00 (cento e vinte mil reais) por projeto, no caso de Equipe 
+Principal com agregação de equipe orbital; 
+c) até R$ 40.000,00 (quarenta mil reais) por projeto, no caso de Equipe Orbital. 
+ 
+1.6 Itens financiáveis 
+1.6.1 Serão financiados, pela FAPEAL os seguintes itens: 
+a) Passagens aéreas e terrestres internacionais para participantes da Equipe 
+Brasileira para a França: até 04 passagens na classe econômica por ano, no 
+valor máximo de R$ 4.000,00 (quatro mil reais) cada, incluindo os deslocamentos 
+internos na França, se houver; 
+b) Passagens aéreas nacionais para participantes de Equipe Brasileira: até 04 
+passagens na classe econômica por ano para visitas entre as equipes principais e 
+orbitais, se for o caso; 
+c) Diárias para participantes da Equipe Brasileira na França: até 80 diárias 
+internacionais, tendo cada missão duração máxima de 20 dias; 
+d) Diárias para participantes de Equipe Brasileira no Brasil: até 80 diárias 
+nacionais para visitas entre as equipes principais e orbitais se for o caso; 
+e) Seguro saúde no valor de até R$ 200,00 (duzentos reais) obrigatório para os 
+brasileiros em missão no exterior; 
+f) Bolsas para Estágios de pós-graduandos na Equipe Francesa: até 02 estágios 
+de 03 meses cada, compreendendo 03 mensalidades de R$ 2.000,00 e R$ 
+2.500,00 (pagas no Brasil), para alunos de mestrado e doutorado, respectivamente, 
+passagens e ida e volta em classe econômica, de até no máximo R$ 4.000,00 
+(quatro mil reais) e seguro saúde no valor de até R$ 1000,00 (mil reais); 
+  
+Rua Melo Moraes, 354, CEP 57020-330 – Centro – Maceió - Alagoas 
+Fone: 82 3315 2200/3315 2232. E-mail: atendimento@fapeal.br 
+ 
+12 
+ 
+ 
+ 
+ 
+g) Realização de oficinas de trabalhos com as equipes (eventos): a serem usados 
+exclusivamente conforme despesas constantes dos itens abaixo: 
+i. 
+Serviços de Terceiros Pessoa Jurídica (STPJ); 
+ii. 
+Material de consumo; 
+iii. 
+Encargos: tarifas bancárias; 
+iv. 
+Ornamentação, alimentação para os participantes. 
+ 
+1.7 Itens financiáveis pelo INRIA e pelo INS2i-CNRS: 
+1.7.1 O INRIA e o INS2i-CNRS, em parceria com a Embaixada Francesa no Brasil, 
+financiarão os seguintes itens, a título de contrapartida: 
+a) Passagens aéreas França-Brasil-França para integrantes da equipe francesa em 
+visita à Equipe Brasileira Principal;  
+b) Diárias para integrantes da equipe francesa no Brasil em visita à Equipe Brasileira 
+Principal; 
+c) Realização de oficinas de trabalhos com as equipes (eventos); 
+d) Passagens aéreas França-Brasil-França para integrantes da equipe francesa em 
+Equipes Brasileiras Orbitais (uma passagem por ano para cada equipe orbital); 
+e) Diárias para integrantes da equipe francesa no Brasil em visita às Equipes 
+Brasileiras (até 15 diárias por ano para cada equipe orbital)  
+f) Complementação da bolsa para estágio de pós-graduandos brasileiros na França 
+1.8 Prazo de execução dos projetos 
+As propostas a serem apoiadas pelo presente Edital deverão ter o prazo máximo de 
+execução de 36 (trinta e seis) meses 
+ 
+1.9 Documentação complementar 
+1.9.1 O coordenador deverá obter e manter em seu poder: 
+a) Termo de Compromisso de todas as instituições participantes: executoras e 
+colaboradoras, nacionais e estrangeiras, quanto à disponibilidade de infraestrutura 
+adequada e cobertura de gastos não previstos neste Edital, necessários à execução do 
+projeto. 
+  
+Rua Melo Moraes, 354, CEP 57020-330 – Centro – Maceió - Alagoas 
+Fone: 82 3315 2200/3315 2232. E-mail: atendimento@fapeal.br 
+ 
+13 
+ 
+ 
+ 
+ 
+b) Termo de Compromisso de cada participante nacional e estrangeiro envolvido na 
+cooperação internacional, atestando conhecimento das atividades que lhes são atribuídas 
+no projeto. 
+1.9.2 Esta documentação poderá ser solicitada pela FAPEAL a qualquer momento, em 
+especial na fase de avaliação e acompanhamento do projeto. 
+ 
+2. 
+CRITÉRIOS 
+DE 
+ELEGIBILIDADE 
+(REQUISITOS 
+OBRIGATÓRIOS 
+E 
+CARACTERÍSTICAS DA PROPOSTA) 
+Os critérios de elegibilidade indicados abaixo são obrigatórios. O atendimento aos 
+mesmos é considerado imprescindível para o exame, enquadramento, análise e 
+julgamento da proposta. A ausência ou insuficiência de informações sobre quaisquer 
+deles resultará na desclassificação da proposta. 
+Conforme previsto nos subitens 1.3.1.1 e 1.3.1.2, será eliminada a proposta cujo 
+Coordenador estrangeiro ou Coordenador em outro estado copartícipe não tenha 
+submetido proposta correspondente ao INRIA ou ao INS2i-CNRS e/ou FAP copartícipe. 
+2.1 Quanto ao proponente e à equipe de apoio 
+2.1.1 O proponente deve atender aos itens abaixo: 
+a) Ser brasileiro ou estrangeiro com visto permanente, residente no Brasil; 
+b) Possuir o título de doutor e experiência em projetos de cooperação internacional e/ou 
+alta qualificação atestada pela sua produção científica e experiência de formação de 
+recursos humanos no tema do projeto; 
+c) ter vínculo empregatício/funcional com a instituição de execução do projeto, constituída 
+sob as leis brasileiras e que tenha sua sede e administração no Estado de Alagoas, e seja 
+sem fins lucrativos; 
+d) ter produção científica e tecnológica relevante, nos últimos cinco anos, na área 
+específica do projeto de pesquisa; 
+e) ser, obrigatoriamente, o coordenador do projeto. 
+2.1.2 Deve a equipe brasileira: 
+a) ser constituída por pesquisadores e especialistas brasileiros ou estrangeiros, com visto 
+permanente e residentes no Brasil; 
+b) somente deverão ser incluídos, na equipe do projeto, aqueles que tenham prestado 
+anuência formal escrita. 
+2.1.3 O proponente não poderá coordenar mais de uma proposta neste Edital. 
+  
+Rua Melo Moraes, 354, CEP 57020-330 – Centro – Maceió - Alagoas 
+Fone: 82 3315 2200/3315 2232. E-mail: atendimento@fapeal.br 
+ 
+14 
+ 
+ 
+ 
+ 
+2.2 Quanto à proposta 
+2.2.1 O projeto deve estar claramente caracterizado como pesquisa científica, tecnológica 
+ou de inovação. 
+2.2.2 A proposta deverá ser redigida em língua inglesa e estar de acordo com o roteiro do 
+“Detalhamento do Projeto”.  
+2.2.3 Ser necessariamente apresentada à FAPEAL pelo Coordenador local, às FAP’s 
+copartícipes pelos coordenadores em outros estados copartícipes e ao INRIA ou ao 
+INS2i-CNRS pelo(s) Coordenador(es) estrangeiro(s), de acordo com as regras e prazos 
+definidos por cada lado; 
+2.2.4 As propostas deverão ser apresentadas na forma de projeto de pesquisa. 
+Recomenda-se que o mesmo contenha as seguintes informações, de modo a permitir sua 
+adequada avaliação: 
+a) identificação da proposta; 
+b) identificação da afiliação da equipe francesa (se do INRIA ou do INS2i-CNRS); 
+c) identificação do tipo da equipe que submete o projeto (se orbital ou principal); 
+d) resumo estendido em português para fins de publicação; 
+e) relevância do tema; 
+f) estado-da-arte; 
+g) justificativa para a cooperação internacional e para a cooperação nacional; 
+h) objetivos: geral e específicos; 
+i) metodologia; 
+j) plano de trabalho; 
+k) interação e qualificação das parcerias; 
+l) infraestrutura disponível para realização do projeto conjunto; 
+m) fontes de financiamento; 
+n) existência de financiamento de outras fontes e/ou contrapartida dos países 
+envolvidos; 
+o) resultados esperados; 
+p) indicadores da avaliação e acompanhamento e produtos esperados; 
+q) Informações complementares sobre a equipe principal, se a proposta for submetida 
+por equipe orbital, e/ou de equipes orbitais, se existirem. 
+  
+Rua Melo Moraes, 354, CEP 57020-330 – Centro – Maceió - Alagoas 
+Fone: 82 3315 2200/3315 2232. E-mail: atendimento@fapeal.br 
+ 
+15 
+ 
+ 
+ 
+ 
+2.3 Quanto à instituição de execução 
+A instituição de execução do projeto deverá se enquadrar ao estabelecido pelo subitem 
+1.3 deste Regulamento. 
+ 
+3. CRITÉRIOS PARA JULGAMENTO 
+São os seguintes os critérios para enquadramento das propostas quanto ao mérito 
+técnico-científico e sua adequação orçamentária: 
+Critérios de análise e julgamento 
+Nota 
+A Mérito da proposta: excelência científica, abrangência e relevância do tema 
+abordado, objetivos, metodologia, originalidade, potencial de inovação 
+científica e tecnológica, possibilidade de desenvolvimento de produtos e 
+processos, metas globais a serem alcançadas e abordagem multi e 
+interdisciplinar. 
+1 a 5 
+B Parcerias: interação e qualificação das mesmas, agregação institucional, 
+inclusive do setor privado, quando houver; importância estratégica, benefícios 
+e pertinência da cooperação internacional.  
+No caso das equipes brasileiras mistas, equilíbrio das parcerias nacionais no 
+desenvolvimento do projeto proposto. 
+1 a 5 
+C Qualificação dos coordenadores e das equipes: experiência em coordenação 
+de 
+projetos 
+de 
+cooperação 
+internacional no(s) 
+tema(s) 
+proposto(s), 
+competência, titularidade e co-produção científico-tecnológica; capacidade de 
+formação e capacitação de recursos humanos. 
+1 a 5 
+D Coerência e adequação entre a capacitação e a experiência da equipe do 
+projeto aos objetivos, atividades e metas propostos. 
+1 a 5 
+E Adequação do orçamento aos objetivos, atividades e metas propostos. 
+1 a 5 
+F Adequação da proposta às condições deste Edital. 
+1 a 5 
+G Coerência entre objetivos, metodologia, resultados esperados e cronograma 
+de execução. 
+1 a 5 
+H Compatibilidade da infraestrutura e da equipe de apoio com a programação 
+do projeto. 
+1 a 5 
+I Resultados gerais esperados: publicações conjuntas, formação de recursos 
+humanos, impactos socioeconômicos e demais benefícios mútuos que poderão 
+ser gerados pela cooperação internacional.  
+1 a 5 
+  
+Rua Melo Moraes, 354, CEP 57020-330 – Centro – Maceió - Alagoas 
+Fone: 82 3315 2200/3315 2232. E-mail: atendimento@fapeal.br 
+ 
+16 
+ 
+ 
+ 
+ 
+ 
+3.1 Para estipulação das notas poderão ser utilizadas até duas casas decimais. 
+3.2 Aos critérios do julgamento apresentados acima serão atribuídas notas de 1 (um) a 5 
+(cinco). 
+3.3 A pontuação final de cada projeto será aferida pelo somatório das notas atribuídas. 
+3.4 O critério de desempate terá como parâmetro a maior nota no item A. 
+ 
+4. AVALIAÇÃO FINAL/PRESTAÇÃO DE CONTAS 
+O Coordenador do projeto deverá encaminhar, no prazo de até 60 (sessenta) dias após o 
+término da vigência do projeto, em conformidade com o Termo de Concessão e demais 
+normas da FAPEAL: 
+a) a prestação de contas financeira, com apresentação de comprovantes de 
+despesas, em conformidade com as normas de Prestação de Contas disponíveis 
+no endereço eletrônico www.fapeal.br. 
+b) o relatório técnico final, com detalhamento de todas as atividades desenvolvidas na 
+fase de realização do projeto e o registro de todas as ocorrências que afetaram o 
+seu desenvolvimento. 
+ 
+5. DOS ESCLARECIMENTOS E DAS INFORMAÇÕES ADICIONAIS ACERCA DO 
+CONTEÚDO DO EDITAL E PREENCHIMENTO DO FORMULÁRIO DE PROPOSTA 
+ONLINE 
+Os esclarecimentos e informações adicionais acerca do conteúdo deste Edital e sobre o 
+preenchimento do Formulário de Proposta online poderão ser obtidos por intermédio do 
+endereço e telefones indicados abaixo: 
+5.1 Sobre o conteúdo do Edital 
+Os esclarecimentos e informações adicionais acerca do conteúdo deste Edital podem ser 
+obtidos encaminhando mensagem para o endereço eletrônico: atendimento@fapeal.br 
+5.2 Sobre o preenchimento do Formulário de Proposta online 
+O atendimento a proponentes com dificuldades no preenchimento do Formulário de 
+Propostas Eletrônico será feito pelo endereço atendimento@fapeal.br, ou pelos telefones 
+(82) 3315-2202 e (82) 3315-4996, de segunda a sexta-feira, no horário de 8h às 14h. 
+ 

@@ -1,0 +1,2915 @@
+Comisién Nacional de Investigacién
+eeCLeN
+Cientifica y Tecnolégica - CONICYT
+ 
+DEPT
+JURIDICO
+IWP/MAC
+AO c
+APRUEBA BASES DEL SEXTO CONCURSO
+SS
+tes
+DEL PROGRAMADE TECNOLOGIAS DE
+LA
+INFORMACION
+Y
+COMUNICACION
+EFECTIVAS PARA LA EDUCACION
+(TIC
+EDU)
+RES. EX. NO 9415
+SANTIAGO,
+95 ene a1
+4  
+ 
+VISTOS:
+Lo dispuesto en
+el DS N° 491/71 y DL N° 668/74, ambos del Ministerio de
+Educaclén; Ley de Presupuestos dei Sector Publico para el afio 2012, N° 20.557;
+DS N°113/11 del
+Ministerio de Educacién:
+Resolucién Exenta N°2839/11 de
+CONICYT;
+Decreto N°18 de 2009 del
+Ministerio de Educacién, que establece
+Criterios y Condiciones relativas al Fondo de Fomento al Desarrollo Cientifico y
+Tecnoldgico; Resolucién N° 1600 de 2008 de Contraloria General de la Republica,
+”
+(
+CONSIDERANDO:
+Que el Programa Tecnologias de Informacién y Comunicacién efectiva para la
+Educacién (TIC-EDU) fue creado por FONDEF de CONICYT en e! afio 2002,
+focalizado
+en
+el
+desarrollo
+de
+productos
+o
+servicios
+que
+mejoraran
+fa
+efectividad de
+las empresas desarrolladoras de TIC para
+la educacién. Su
+objetivo general es contribuir a elevar la calidad y equidad de la educacién
+chilena mediante el desarrollo y aplicacién de productos, procesos o servicios
+TIC innovadores orientados a mejorar los procesos de aprendizaje.
+Que porsu parte el Fondo de Fomento al Desarrollo Cientffico y Tecnoldégico,
+FONDEF
+es
+uno
+de
+los
+Programas
+de CONICYT que
+tiene como
+misién
+contribuir al aumento de
+la competitividad de
+la economfa
+nacional y
+al
+mejoramiento de la calidad de vida de los chilenos, promoviendola vinculacién
+entre instituciones de investigacién y empresas en la realizacién de proyectos
+de
+investigacién
+aplicada,
+desarrollo
+precompetitivo
+y_
+transferencia
+tecnoldgica.
+Memorando N°1228 de 29 de noviembre de 2011 del Director Ejecutivo de
+FONDEF, que remite las Bases del Sexto Concurso Programa TIC-EDU,para su
+aprobacion (Anexo 1).
+Memorando N°341 de 15 de diclembre de 2011 del Director del Departamento
+de Tecnologias de la Informacién, que otorga su visto bueno a las bases antes
+individualizadas, en relacién a los recursos tecnoldégicos de! certamen (Anexo
+2)
+ e.
+Memorando N°1241/2011 del Director del Departamento de Administracién y
+Finanzas que remite certificado de visto bueno de Jas Bases del VI Concurso
+TIC EDU Programa FONDEF(Anexo 3),
+f,
+Memorando N°09/2012 de Presidencia de 17 de enero de 2012. (Anexo 4)
+g.
+La aprobacién que presta esta Presidencia (S) a las bases concursales que
+esta resolucién da cuenta, de conformidad a las facultades contenidas en el
+DS N° 491/71, DL N° 668/74, DS N°113/11, todos del Ministerio de Educacién
+y Resolucién Exenta N°2839/2011 de CONICYT.
+RESUELVO:
+1. APRUEBANSElas Bases del Sexto Concurso del Programa de Tecnologfas de la
+Informacion y Comunicacién Efectivas para la Educacién (TIC EDU).(Anexo 5)
+2. TENGASE
+en
+calidad
+de
+transcripcién
+oficial,
+integra
+y
+fiel
+de
+las
+bases
+mencionadas, la que a continuacién se inserta:
+“INICIO TRANSCRIPCION BASES”
+COMISION NACIONAL DE INVESTIGACION CIENTIFICA Y TECNOLOGICA
+CONICYT
+.
+VI CONCURSO PROGRAMA
+TECNOLOGIAS DE INFORMACION Y COMUNICACION EFECTIVAS PARA LA
+EDUCACION
+(TIC EDU)
+BASES
+TABLA DE CONTENIDOS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANTECEDENTES
+4
+I.
+DISPOSICIONES GENERALES
+5
+Ii.
+OBJETIVOS
+5
+1,2.
+ALCANCE Y REQUISITOS DE LOS PROYECTOS
+7
+1.2.1
+TIPOS DE PROYECTOS
+7
+1.2.2,
+FORMULACION Y REQUISITOS DE LOS PROYECTOS
+7
+1.2.3,
+ENTIDADES ELEGIBLES PARA RECIBIR SUBSIDIOS DE FONDEF
+7
+1.2.4,
+MANDANTEEN LOS PROYECTOS DE INTERES PUBLICO
+8
+1.2.5,
+PARTICIPACION DE EMPRESAS Y DE OTRAS ENTIDADES ASOCIADAS
+9
+1.2.6,
+PARTICIPACION INTERNACIONAL EN LOS PROYECTOS
+10
+1.2.7,
+PLAZO DE LOS PROYECTOS Y SUBSIDIO DE FONDEF
+ii
+1.2.8
+PROYECTOS DE CONTINUIDAD
+11
+1.2.9
+DUPLICIDAD DE PROYECTOS
+11
+Il,
+__CRITERIOS DE ELEGIBILIDAD DE LOS PROYECTOS
+12
+II.1.
+CUMPLIMIENTO DE REQUISITOS DE POSTULACION
+12
+II.2.
+REGULACIONES ESPECIFICAS
+12
+ II.3.
+APORTES DE ENTIDADES BENEFICIARIAS
+12
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+II.4.
+APORTES DE EMPRESAS U OTRAS ENTIDADES ASOCIADAS QUE PARTICIPAN
+EN EL PROYECTO
+12
+III.
+EVALUACION Y SELECCION DE LOS PROYECTOS
+13
+IIT.1.
+CONTENIDO CIENTIFICO-TECNOLOGICO DEL PROYECTO (50%)__s— s—si14
+III.2.
+CAPACIDADES DE GESTION (25%)
+14
+TII.3.
+IMPACTO ECONOMICO-SOCIAL (25%)
+14
+III.4,
+EVALUACION Y CALIFICACION DELOS PROYECTOS__——SS
+ON
+RAMA,
+DE
+LOS
+PROYECTOS Y PROCEDIMIENTOS
+DE GESTION.
+16
+IV.1.
+ADJUDICACION
+17
+IV.2.
+REFORMULACION DE LOS PROYECTOS
+17
+IV.3.
+SEGUIMIENTO Y CONTROL DE LOS PROYECTOS
+is
+Vv.
+ITEMS FINANCIABLES POR FONDEF
+18
+VI,
+DERECHOS Y OBLIGACIONES
+20
+VIL1.
+FIRMA DE CONVENIOS
+20
+VI.2.
+COMPROMISO DE LAS INSTITUCIONES QUE POSTULAN
+21
+VI.3.
+CONTRATACION DE OBRAS Y ADQUISICION DE BIENES Y SERVICIOS
+21
+VI.4.
+MANTENIMIENTO Y EQUIPOS
+22
+VIL5.
+DESEMBOLSOS
+22
+VI.6.
+PERMANENCIA
+23
+VI.7.
+INFORMES
+24
+VI.8.
+PROTECCION
+DE
+LA PROPIEDAD INTELECTUAL
+E INDUSTRIAL Y DE
+LA
+CONFIDENCIALIDAD
+24
+VIL9,
+GARANTIAS.
+25
+VI.10.
+DIFUSION
+25
+VIT.
+FORMA DE PRESENTACION DE LOS PROYECTOS
+26
+VIIA1.
+PLAZOS Y PRESENTACION
+26
+VII.2,
+FORMULARIOS Y BASES
+26
+ 
+VIL.3.
+CONSULTAS Y ACLARACIONES
+26
+ PROGRAMATIC EDU. BASES del VI CONCURSO
+FONDEF DE CONICYT
+ANTECEDENTES
+El Programa Tecnologias de Informacién y Comunicacion Efectivas para la Educacién
+(TIC-EDU) fue creado por FONDEF de CONICYT en el afio 2002, focalizado en el
+desarroilo
+de productos o servicios que mejoraran la efectividad de las empresas
+desarrolladoras de TIC para
+la
+educacién.
+En
+ese
+periodo,
+se convocé
+a
+tres
+concursos nacionales y abijertos al que postularon un total de 62 Proyectos, de los
+cuales 11 tuvieron financlamiento de FONDEF de CONICYT por un monto total de M $
+1.860.
+A partir del 2008,
+el Programa
+se orienté al mejoramiento de
+los procesos de
+aprendizaje mediante soluciones educativas que incluyan desarrollos de
+TIC. Con
+este nuevo foco se
+realiz6
+el
+IV y V Concurso TIC EDU,
+a
+los que
+postularon 55 proyectos de los que se adjudicaron 12 por un monto FONDEF de MM
+$ 2.199,
+los que estén comenzando a entregar sus primeros resultados.
+Debido a la vigencia y urgencia que en la actualidad ha cobrado el tema de mejorar
+la calidad de la educacién y a la potencialidad que muestran los primeros proyectos
+que estan finalizando con esta orientacién,
+este foco se mantiene para
+el VI
+concurso.
+Esta
+focalizaci6n
+se
+fundamenta
+ademas,
+en
+la
+conviccién
+que
+las
+necesidades de mayor equidad y calidad de la educaclén chilena requieren aportes
+de diversos recursos pedagégicos, entre ellos los basados en soluciones tecnoldgicas.
+Los desafios de la educacién chilena hoy son amplios y diversos, van desde una
+mayor cobertura en
+la educacién
+inicial, pasando por una educacién escolar que
+permita el desarrollo integral de los estudiantes, hasta una educacién superior mas
+equitativa y de mejorcalidad para todos los egresados de ensefianza media.
+Si bien es clerto que en los dos ultimos afios (2009 y 2010) los resultados del SIMCE
+nos muestran un aumento significativo de nueve puntos en el puntaje promedio de
+Lectura en 4°
+bdsico,
+atin tenemos
+el desafio de propiciar una Educacién més
+equitativa y de calidad en todos !os subsectores y niveles del sistema escolar. En
+general, los resultados SIMCE en Matematica estén estancados y por debajo de lo
+esperado en todoslos niveles medidos. Algo similar ocurre con el eje de Escritura en
+Lenguaje, y con
+el subsector de Comprensi6n del Medio Social y Cultural, en 4°
+Basico. Otro desafio parece revelarse al analizar el desempefio entre hombres y
+mujeres, donde
+los primeros obtienen mejores
+resultados en
+Matematica
+y
+las
+segundas, en Lenguaje.
+Algo no muydiferente ocurre a nivel Internacional en la prueba PISA, en la cual Chile
+ha mostrado una importante alza de 40 puntos en Lectura entre los afios 2000 y
+2009, sin embargo, nuestros estudiantes se desempefian bajo el promedio de los
+alumnos de la OECD, especialmente en Matematica.
+Sélo una educacién escolar de calidad, que cubra completamente
+el curriculum
+nacional, puede garantizar que
+los estudiantes chilenos, Independiente
+del
+nivel
+socioeconémico
+del
+cual
+provienen
+o
+de
+su
+género,
+puedan
+optar a
+continuar
+estudios superiores con éxito ampliando asi sus posibilidades de superar la pobreza,
+lograr su promocién social y contribuir efectivamente al desarrollo del pais. En esta
+ tarea
+el
+ro! de los profesores es vital, ya que su preparacion y su desempefio
+didactico y pedagégico marcanla diferencia para muchas generaciones de jévenes.
+Por la relevancia que tiene la labor docente y su impacto directo en los aprendizajes,
+los temas asociados
+al
+mejoramiento de
+la formacién de
+profesores mediante
+tecnologias de
+informacién y comunicacién cobran
+especial
+Importancia en
+este
+concurso.
+I.
+DISPOSICIONES GENERALES
+I.1.
+Objetivos
+El objetivo general del Programa es contribuir a elevar la calidad y equidad de la
+educacién
+chilena mediante
+el desarrollo y aplicaci6n de productos,
+procesos o
+servicios TIC innovadores orientados a mejorar los procesos de aprendizaje.
+En particular, los objetivos de este Concurso son:
+a)
+Promover y apoyar financleramente el desarrollo de proyectos de investigacién
+aplicada sobre el uso de las TIC para mejorar los procesos de aprendizaje.
+b) Fomentar la transferencia amplia y raépida al sector educativo de los resultados
+que probaron sereficaces
+c)
+Desarrollar capacidades cientificas tecnolégicas en entidades de investigacién y
+empresas para generar productos, procesos o servicios TIC para la Educacién,
+El foco del Programa es
+e! mejoramiento de
+procesos de aprendizaje mediante
+soluciones educativas que incluyan desarrollos de TIC.
+En este foco estan contenidos, entre otros:
+*
+Procesos de formacién de profesores utilizando TIC para mejorar la formacién
+pedagdgica de los docentes,
+*
+Perfeccionamiento
+docente
+en
+contenidos
+especificos
+y
+metodologias
+de
+ensefianza,
+*
+Desarrollo de modelos de ensefanza aprendizaje enriquecidos con TIC,
+*
+Herramientas y materiales tecnoldgicos para la ensefianza en el aula en todos los
+niveles del sistema,
+«
+Disefio de experiencias parael aprendizaje directo por parte de los estudiantes de
+distintas edades,
+*
+Modelos de gestién de aprendizaje,
+*
+Adaptacion de herramientas TIC ya desarrolladas para mejorar aprendizajes,
+I.1.1 Definiciones
+a) ROL DE CONICYT. Las partes dejan constancia que la intervencién de CONICYT en
+el presente Convenio sera en calidad de INSTITUCION EJECUTORA del Fondo de
+Fomento al Desarrollo Cientifico y Tecnolégico, en adelante también referido como
+FONDEF,
+b) FONDO DE FOMENTO AL DESARROLLO CIENTIFICO Y TECNOLOGICO, FONDEF. Es
+el
+mecanismo
+de
+financiamiento
+cuyos
+objetivos
+son:
+(1)
+el aumento de
+la
+competitividad de los sectores productivos de! pais; mediante {a aplicacién de la
+ciencia y la tecnologia, (2) el desarrollo de la capacidad cientifica y tecnoldgica
+ qd)
+g)
+h)
+)
+k)
+nacional en
+los pianos institucional y geogréfico;
+y (3)
+la vinculacion entre
+la
+capacidad cientifica y tecnoldégica nacional y los requerimientos tecnolégicos de las
+empresaschilenas;
+PROYECTO.
+Es
+el proyecto de
+investigacién y desarrollo presentado
+a! Sexto
+Concurso del Programa TIC para la Educacién del Programa TIC EDU del Fondo de
+Fomento al Desarrollo Cientifico y Tecnolégico FONDEF de CONICYT.
+CONSEJO ASESOR DE FONDEF. Cuerpo colegiado, cuyas funciones generales son
+asesorar a CONICYT enla definicién de politicas cientificas y tecnolégicas que deban
+ser
+aplicadas
+por
+el
+FONDEF
+en
+la
+ejecuclén
+de
+los
+recursos
+que
+asigna
+directamente a dicho Fondo la Ley de Presupuestos del Sector Publico.
+DIRECCION EJECUTIVA DEL FONDEF. Instancia dirigida por un Director Ejecutivo,
+encargada de coordinarlas relaciones entre las partes contratantes y, en particular,
+facultada
+para
+supervisar
+el
+desarrollo,
+ejecucién,
+seguimiento
+y
+control
+del
+Proyecto.
+DIRECCION DEL PROGRAMA TIC EDU: Instancia dirigida por un(a) Subdirector(a)
+del Programa TIC EDU, encargado(a) de supervisar las relaciones entre las partes
+contratantes,
+y en
+particular,
+facultado
+para
+conducir,
+seguir y
+controlar
+el
+desarrollo y ejecucién del Programa TIC EDU, reportando al
+Director Ejecutivo
+del FONDEF,
+COMITE
+DIRECTIVO
+DEL
+PROYECTO.
+Cuerpo
+colegiado
+formado
+por
+un
+representante de ja entidad beneficiaria, uno del mandante y uno de cada empresa
+u
+otra
+entidad
+participante
+en
+el
+Proyecto,
+nombrados
+por
+sus
+respectivos
+representantes legales. Sus responsabilidades y atribuciones estaraénindicadas en el
+convenio.
+REPRESENTANTE INSTITUCIONAL. Es nombrado por el Representante Legal de la
+beneficiaria,
+El
+Representante
+Legal
+de
+la
+beneficiaria
+podré
+cambiar
+a
+su
+Representante Institucional sin expresién de causa. Tanto el nombramiento como
+su cambio debera ser comunicado mediante carta de dicho Representante Legal
+al Director Ejecutivo del FONDEF, Sus responsabilidades y atribuciones seran
+establecidas en el respectivo convenio,
+DIRECTOR DEL PROYECTO.
+Es nombrado
+por
+el
+Representante
+Legal de
+la
+beneficiaria.
+Sus
+responsabilidades
+y
+atribuciones
+serdn
+establecidas
+en
+el
+respectivo convenio.
+MANDANTE. En los proyectos de interés publico, es una entidad diferente de la
+beneficiaria que
+le otorga
+pertinencia
+al
+Proyecto y tiene
+la
+responsabilidad
+principal por la transferencia de los resultados del Proyecto y por la masificacién
+y/o suministro de
+los productos o servicios en
+los que se
+utilizaran dichos
+resultados, durante su ejecucién y una vez concluido este. El mandante, ademas,
+es una entidad asociada al Proyecto. Los derechos y deberes del mandante en su
+calidad de tal y como entidad asociadaal proyecto se establecerdn en el contrato
+a que hace referencia el pdrrafo segundo del punto VI.1 de estas Bases.
+INSTITUCION PRINCIPAL. En el caso de los proyectos presentados por més de una
+entidad beneficiaria, una deellas asumird el rol de institucién principal, cuya funcién
+sera la de coordinara las beneficiarias que participen en el proyecto.
+ |)
+ENTIDAD ASOCIADA.Es la entidad, con o sin fines de lucro, que participa en el
+proyecto realizando aportes a su financiamiento, esperando obtener un beneficlo de
+sus resultados. Los aportes pueden ser monetarios, en tiempo profesional o en
+especies valoradas,
+I.2.
+Alcance y requisitos de los proyectos
+1.2.1
+Tipos de proyectos
+En
+este
+concurso
+podrdn
+postular dos
+tipos
+de
+proyectos
+de
+investigacién
+y
+desarrollo:
+a) Proyectos de Interés Publico. Desarrollan
+productos o servicios finales
+innovadores
+que
+satisfacen
+necesidades
+y
+ solucionan
+problemas
+de
+aprendizaje de algunos de los actores del sistema educativo chileno que tienen
+escasa o nula capacidad de pago. Requieren que se desarrolle en su totalidad
+un producto o servicio educativo, se realicen las pruebas piloto y, si logra los
+resultados esperados, se masifique en algun nivel establecido enel proyecto,
+preferentemente hacia establecimientos municipalizados y subvencionados por
+el Estado de Chile.
+b) Proyectos Precompetitivos. Desarrollan prototipos de productos o servicios
+innovadores,
+finales
+o
+intermedios,
+con
+impacto
+en
+los
+mercados,
+que
+responden a demandasde alguno delos actores del sistema educativo chileno
+formal, y que deben ser probados a nivel piloto en cuanto a su efectividad
+educativa.
+1.2.2, Formulaci6n y requisitos de los proyectos
+Los proyectos que se presenten
+deberadn cumplir con todos y cada uno de
+los
+requisitos que se indican a continuacién:
+a)
+Ser pertinentes al Programa TIC EDU, es decir, deberdn aportar al cumplimiento
+de
+los objetivos sefialados en el punto I.1,
+b)
+Estar orientados hacia
+la obtencién de innovaciones. de productos, servicios o
+procesos
+de tecnologias de informacién y comunicacién para la educaclén,
+que
+mejoren
+los
+procesos
+de
+aprendizaje
+y
+generen
+beneficios
+sociales
+y/o
+econémicos significativos paraelpals.
+c)
+Los resultados esperados deberdn diferenciarse
+de opciones alternativas que ya
+existen en el mercado nacional e internacional! o que sea de conocimiento publico
+que estardn disponibles en el corto plazo.
+d)
+Las
+actividades
+del
+proyecto
+y sus
+resultados esperados deberan
+tener un
+impacto ambiental positivo o neutro.
+1.2.3. Entidades elegibles para recibir subsidios de FONDEF
+Son entidades elegibles para recibir subsidios de FONDEF,
+las personas juridicas
+nacionales, sin fines de lucro, incluidas universidades e instituciones de educacién
+superior reconocidas por
+e!
+Estado,
+institutos tecnolégicos y de
+investigacién y
+desarrollo,
+tanto
+pdblicos
+como
+privados,
+y
+otras
+instituciones
+que
+realicen
+actividades
+cientifico-tecnolégicas
+y
+que
+tengan
+como
+objetivo,
+indicado
+ expresamente en sus estatutos,
+la
+realizacién de actividades de investigacion y
+desarrollo y/o transferencia tecnoldgica,
+Las entidades
+que se presentan por primera vez a un concurso de proyectos de
+investigaclén y desarrollo de FONDEF, deberan enviar a
+la Direcciédn Ejecutiva de
+FONDEF, para su andlisis legal por el Departamento Juridico de CONICYT, al menos
+30 dias corridos antes del cierre del concurso, los siguientes documentos:
+(i) copia
+de escritura publica de constitucién y sus modificaciones;
+(il) acreditacién de
+la
+personeria juridica
+del representante
+legal; y
+(iii)
+certificado de vigencia de
+la
+personalidad juridica, emitido con una anterioridad no mayor a 30 dias corridos
+respecto
+de
+la
+fecha
+de
+postulacién.
+Las
+entidades
+que
+hayan
+participado
+anteriormente en un concurso de investigacién y desarrollo de FONDEF que estén en
+la némina publicada en
+el
+sitio web www.fondef.cl
+se encuentran eximidas de
+presentar esta documentacién.
+Las entidades elegibles podrdn actuar en forma individual 0 asociada. En este ultimo
+caso, debera indicarse en el formulario de postulacién, cual de ellas asumiré el rol de
+Institucién principal.
+Con el fin de asegurar fa estricta sujecién al principio de la probidad administrativa
+contemplado en el ordenamiento juridico vigente y al principio de la igualdad de fos
+participantes, quedan excluidos de participar en el presente concurso las autoridades
+o funcionarios de FONDEF que participen en cualquiera de
+las etapas que este
+comprenda.
+1.2.4, Mandante en los proyectos de interés pdblico
+En los proyectos de interés publico deberd participar una entidad, diferente de la o
+las entidades elegibles Proponentes, que se desempefiard como “mandante” del
+proyecto.
+La
+funcién
+principal
+del
+mandante
+seré
+la
+de
+otergar pertinencia
+al
+proyecto, esto es, procurar una amplia y eficaz aplicaci6n de sus resultados en
+beneficio de sus destinatarios finales, por lo que debera asumir la responsabilidad
+principal porla transferencia de los resultados del proyecto, y por la masificacién y/o
+mandante podra actuar durante la ejecucién del proyecto y debera actuar una vez
+concluido este. El mandante deberd cumplir, ademas, con las condiciones generales
+de las entidades asocladas al proyecto, las que se Indican en la seccién siguiente de
+estas Bases,
+El mandante deberd ser una persona juridica chilena, publica o Privada, sin fines de
+lucro,
+© un organismo intergubernamental, cuya misién esté relacionada con
+el
+objetivo principal del Proyecto y que tenga la capacidad administrativa y financiera
+del proyecto en
+el formato que se incluye para
+tal efecto en
+los formularios de
+postulaci6n
+que
+se
+encontrarén
+disponibles
+en
+la
+pagina
+web
+www.fondef.cl,
+Ademas, debera cumplir con las condiciones establecidas en la seccién siguiente.
+Podraén
+ejercer
+la
+funcién
+de
+mandantes,
+las
+Instituclones
+pUblicas
+tales como
+ministerios
+y
+servicios
+que formen
+parte
+de
+la
+Administracién
+del
+Estado,
+las
+municipalidades, las fundaciones 0 Corporaciones y las asociaciones gremiales, asf
+como organismos intergubernamentales, como
+por ejemplo
+fa
+Organizacién de
+Naciones Unidas (ONU), fa Organizacién de Naciones Unidas para la
+Agricultura y la
+ Alimentacion (FAQ),
+la Organizacién de las Naciones Unidas para
+la Educacion, la
+Ciencia y la Cultura (UNESCO), entre otras.
+En la formulacién del proyecto deberan especificarse las responsabilidades, derechos
+y obligaciones del mandante, asi como los aportes financieros en los casos previstos
+en estas Bases, todo
+lo cual deberd ser respaldado por un acuerdo especifico de
+partictpaci6n que deberd adjuntarse a la presentacién del proyecto en el formato que
+se incluye para
+tal efecto en los formularios de postulaci6n que se encontraran
+disponibles en la pagina web www.fondef.cl,
+El
+mandante,
+como
+entidad
+asociada
+al
+proyecto,
+deberé
+participar
+en
+su
+financiamiento
+y
+podrad
+tener
+participacién
+en
+la
+propiedad
+de
+los
+resultados
+esperados en la proporcién de sus aportes con respecto al costo total del proyecto.
+Esta participacién, de todas formas,
+se negociara directamente entre el mandante y
+las entidades beneficlarias.
+En el caso de proyectos de Interés Publico, los productos o servicios Producidos o
+suministrados, financlados total o parcialmente
+con
+el subsidio de CONICYT
+al
+proyecto, deberadn ser suministrados sin costo para
+los usuarios que consulta
+el
+proyecto.
+1.2.5, Participaci6n de empresasy de otras entidades asociadas
+Los proyectos deberan contar con la participaci6én activa de empresas y/o de otras
+entidades cuyo giro esté
+relacionado con las actividades y resultados del proyecto o
+con
+la
+valorizacién
+transferencia
+y/o
+masificaci6n
+de
+estos
+resultados.
+Esta
+participaci6én deberdé estar presente desde
+la generacion de
+la propuesta, en
+la
+formulaci6n y financlamiento de los proyectos, y en todas las etapas de su ejecucién:
+gestion del proyecto, actividades de investigacién y desarrollo y actividades de
+valorizacién y transferencia tecnolégica. En los proyectos de interés publico, una de
+estas entidades asociadas deberd ser el mandante.
+En cada proyecto deberd participar un minimo de dos empresas y/u otra clase de
+entidades asociadas. Esta condicién no sera exigible cuando participe como entidad
+asociada alguno de los siguientes tipos de instituclones: Consorcios Tecnolégicos
+Empresariales cofinanciados por CONICYT, INNOVA CHILE o
+la Fundacién para
+fa
+Innovacién Agraria (FIA); asoclaciones gremiales; entidades técnicas creadas por
+asociaciones gremiales; 0 Centros creados en
+el marco del Programa Regional de
+Investigacién
+Cientifica y Tecnolégica de CONICYT.
+Excepcionaimente, cuando
+la
+naturaleza
+del
+proyecto
+lo haga
+indispensable,
+un
+proyecto precompetitivo podra postular con una sola empresa 0 con una sola entidad
+asoclada, diferente de las identificadas en
+el parrafo anterior. Esta circunstancia
+debera ser rigurosamente fundamentada en
+la formulacién del proyecto.
+Si esta
+fundamentacién no fuere aceptada por FONDEF,
+el proyecto sera declarado no
+elegible.
+Excepcionalmente, ademas, un Proyecto de Interés publico podra postular con
+el
+mandante como Unica entidad asociada.
+Esta excepcién debera ser rigurosamente
+justificada en la formulacién del Proyecto. Si la justificaci6n no fuere aceptada por
+FONDEFel proyecto serd considerado no elegible.
+En
+la formulacién de
+los
+proyectos deberdn
+especificarse
+las
+responsablilidades,
+derechos
+y
+obligaciones
+que
+adquiriran
+dichas
+empresas
+y/u
+otras
+entidades
+ asociadas, asi como los aportes financieros en los casos previstos en estas Bases,
+todo
+lo cual deberad ser respaldado por acuerdos de participacién que deberan
+adjuntarse a
+la presentacién del proyecto en el formato que se incluye para
+tal
+efecto en los formularios de postulacién que se encontraran disponibles en la pagina
+web www.fondef.cl,
+Las empresas y/o las otras entidades asocladas podran tener participacién en
+la
+propiedad de
+del
+conocimiento
+desarrollado
+y
+protegido
+intelectualmente
+en
+el
+proyecto en la proporcién de sus aportes con respecto al costo total del proyecto,la
+que de todas formas se negociardé directamente entre las empresas asociadas y las
+entidades elegibles proponentes.
+Las empresas y/o las otras entidades asociadas naclonales no recibiraén subsidios de
+FONDEF. Tampoco podrén ser proveedoras de bienes o servicios para e! proyecto
+financiados
+por
+el
+subsidio,
+salvo que
+la(s)
+beneficiaria(s)
+solicite(n),
+previa
+y
+fundadamente, una excepcién a
+la Direccién Ejecutiva de FONDEF,
+la que podra
+aprobarla o rechazarla.
+Las personas que formen parte del equipo del proyecto, asi como sus cényuges y
+parientes hasta
+el segundo grado de consanguinidad y primero de afinidad, no
+podran ser copropletarias, socias o administradoras de las empresas o de las otras
+entidades que realizan aportes al proyecto.
+1.2.6. Participacién internacional en los proyectos
+Los
+proyectos
+presentados
+a
+FONDEF
+deberdn
+aprovechar
+al
+maximo
+las
+experienclas y capacidades internacionales de manera de aumentar su efectividad,
+conformar redes de trabajo y/o acceder a mercados mas amplios que el nacional,
+Para ello, se podra incorporar a asociados internacionales, vale decir, se promovera
+la participacién de empresas, universidades e institutos tecnoldégicos extranjeros en
+la formulacién, desarrollo y transferencia tecnoldgica de los proyectos.
+La incorporacién de asociados extranjeros podra efectuarse a través de: participacién
+en la formulacién, financlamiento, ejecucién y beneficios del proyecto, cooperacién
+internacional, contratacién de expertos internacionales, asesorias internacionales,
+convenios cientifico-tecnolégicos entre instituciones y Comercializacion de resultados,
+entre otros.
+Los proyectos deberdan especificar las responsabilidades, derechos y
+obligaciones que adquiriran las distintas partes,
+Las entidades asociadas chilenas o extranjeras no recibiran
+subsidios de FONDEF.
+Tampoco podrén ser proveedoras de bienes 0 servicios para el proyecto financiados
+por el subsidio, salvo que la(s) beneficlarla(s) solicite(n), previa y fundadamente,
+una excepcién
+a
+la
+Direccién
+Ejecutiva de FONDEF,
+la que podrd aprobarla
+o
+rechazarla.,
+Los proyectos deberan especificar las responsabilidades, derechos y obligaciones que
+adquiriran
+las empresas u otras entidades asociadas extranjeras, incluyendo
+los
+aportes financleros y
+la
+participacién,
+si
+procede, en
+la propiedad
+Intelectual
+e
+industrial de los resultados del proyecto, todo lo cual deberd ser respaldado por
+acuerdos de participacién que deberan adjuntarse a la presentacién del proyecto, en
+el formato que se incluye para tal efecto en los formularios de postulacién que se
+encontrarén
+disponibles en
+la pagina web www.fondef.cl, desde
+la fecha de
+la
+convocatoria,
+ 
+10
+ il
+1.2.7. Plazo de los proyectos y subsidio de FONDEF
+n
+considerar
+el menor plazo
+posible
+para
+la
+dades
+beneficiarias debera
+Las on de
+|
+objetivo de adelantar
+la
+obtencion de
+los
+ejecucion
+de
+los
+proyectos,
+con
+e
+resultados e impactos.
+24 meses y el monto maximo
+5
+e ejecucién de los
+royectos sera de
+i
+EP ON me
+‘
+nto cuarenta millones
+de subsidio FONDEF adjudicable sera de
+$ 140.000.000.- (cie
+de pesos).
+En ei plazo sefalado no se contabilizaran las eventuales suspensiones que CONICYT
+pueda disponer en conformidad con las presentes bases, las que en ningun caso
+podran exceder, en total, de un afio adicional al plazo originalmente aprobado.
+En
+el
+caso
+que
+el
+proyecto
+haya
+sido
+presentado
+por mas
+de
+una
+entidad
+peneficiaria, se determinara en el respectivo convenio la parte del subsidiototal de
+FONDEF que corresponde
+4 cada una de dichas entidades.
+Sin
+perjuicio de
+lo
+anterior, durante la ejecucion del convenio,la Direcclén Ejecutiva de FONDEF podra
+modificar esa composicién de los aportes a solicitud conjunta de los Representantes
+Institucionales de las beneficiarias.
+En
+cualquier caso, CONICYT se
+reserva
+el derecho
+a
+reducir
+las asignaciones
+presupuestarias solicitadas y la duracién de los proyectos.
+Los fondos asignados por FONDEFseran de caracter no reembolsable.
+1.2.8 Proyectos de continuidad
+Si un proyecto cumple con todos y cada uno de jos siguientes criterios, debera
+indicarse claramente en su formulacién que se trata de un proyecto de continuidad:
+a) Proyecto presentado y ejecutado por el mismo equipo de investigadores 0 parte
+de él y por una o varias entidades beneficiarias de uno o mas proyectos FONDEF
+ejecutados anteriormente o en ejecucién.
+b) Proyecto que complementa e incrementa la investigacién y materializa o aumenta
+los impactos del o de los proyectos FONDEFanteriores considerados en a).
+En este caso, el postulante debera explicar cuales han sido los resultados obtenidos
+en el o los proyectos previos y la adiclonalid
+i
+ad del nuevo
+proyecto
+i
+sera considerada al momento de la evaluaci6ny la sdjudicacion,
+; sttuacion que
+1.2.9 Duplicidad de proyectos
+Pa
+.
+:
+a
+Pavarposes duplicidades de financiamiento, FONDEF verificara con ot
+rdjudteado en ma ares de la adjudicacion del concurso, los proyectos que se ha ‘an
+orton costulado nos
+ondos. En el mismosentido, los proponentes deberdn declarar
+supitcidades en el peeovecto2otro Fondo del Estado. FONDEF controlara las posibles
+licid
+no
+el proyecto durante toda su
+ej
+id
+i
+A
+el término anticipado del mismo si en algtin momento se NetecteSuplicied
+Un
+pro
+soanevtinenteotodos posture a mas de un Fondo del Estado, en caso de que este
+wane.
+parlodo”
+No ens y de que haya mas de una convocatoria abierta en un
+.
+stante,
+ef
+postulante debera
+renunciar a
+todas
+las
+otras
+ postulaciones en el caso de que el proyecto sea adjudicado por FONDEF. Asimismo,
+st el proyecto es seleccionado para ser financiado por otro Fondo, debera renunciar
+de inmediato a su postulacién a FONDEF.
+II.
+CRITERIOS DE ELEGIBILIDAD DE LOS PROYECTOS
+Los criterios que a continuacién se describen permiten determinar si un proyecto es
+o no
+elegible para
+obtener subsidio
+del Programa TIC EDU de FONDEF.
+Si un
+proyecto
+no cumple con
+estos
+aspectos,
+la
+Direccién
+Ejecutiva
+de FONDEF
+lo
+declararé fuera de Bases, y en consecuencia, no podra seguir participando en el
+presente Concurso.
+II.1. Cumplimiento de requisitos de postulacion
+FONDEF revisara
+el cumplimiento de
+las exigenclas formales establecidas en
+las
+presentes Basesy solicitadas en el formulario de postulacién. Las propuestas que no
+cumplan con todas las especificaciones establecidas en las Bases y que no esten
+presentadas en los formularios preestablecidos quedaran fuera del Concurso.
+II.2. Regulaciones especificas
+Los representantes legales de las entidades beneficlarias de un proyecto que pudiera
+comprometer
+aspectos éticos deberén anexar
+al formulario de postulacién una
+declaracién
+en la que se establezca que las actividades del proyecto y sus posibles
+resultados no presentan controversias de caracter ético y que
+si eventualmente
+surgieren durante la ejecucién del proyecto, ellas serdn resueltas.
+II.3. Aportes de entidades beneficiarias
+Los proyectos deberdn ser financiados a lo menos en un 15% de su costo total por
+las entidades beneficiarias del subsidio FONDEF. Esta contribucién al financiamiento
+podra ser en aportes pecunlarios, especies valoradas (uso de equipos, espacio fisico
+u otros, de acuerdo a la naturaleza de! proyecto) y personal de su dotacién requerido
+por el proyecto. La valorizaci6n de especies deberaé considerar el menor valor entre
+el valor de mercado de los bienes aportados y su costo de reposicién.
+En
+el
+caso
+que
+el
+proyecto
+haya
+sido
+presentado
+por mas de
+una
+entidad
+beneficiaria, se determinard en
+el respectivo convenio
+el monto que se obliga a
+aportar cada una de dichas entidades.
+Sin
+perjuicio de
+lo anterior, durante
+la
+ejecucién
+del
+convenio,
+la
+Direccién
+Ejecutiva
+de FONDEF podra
+modificar esa
+composicién
+de
+los
+aportes,
+a
+sollcitud
+conjunta
+de
+los
+Representantes
+Institucionales de todas las beneficiarias del proyecto, siempre que el monto total de
+tales aportes sea igual o superior al comprometido originalmente y se ajuste a estas
+Bases.
+II.4. Aportes de empresas u otras entidades asociadas que participan
+en el proyecto
+Cada proyecto deberd ser financiado a lo menos en un 15% de su costo total por las
+empresas u otras entidades asociadas que participen en el proyecto.
+En
+los proyectos precompetitivos, del aporte de las empresas u otras entidades
+asociadas, al menos el equivalente a un 10 %del costo total del proyecto debera
+ 13
+consistir en recursos incrementales, esto es, nuevos gastos en los que incurran las
+empresas u otras entidades asociadas especialmente para la ejecucién del proyecto,
+los que podran consistir en recursos pecuniarios, especies o bienes adquiridos y/o
+arrendados, o personas contratadas, todo ello especificamente para el proyecto. El
+resto del aporte podra ser en recursos no incrementales, es decir en especies o
+recursos, humanos o materiales, ya existentes en las empresas u otras entidades
+asociadas.
+En los proyectos de interés publico no se exigiran recursos Incrementales, pudiendo
+el aporte ser enterado sdlo con recursos o especies ya existentes en las entidades
+mandantes, empresas u otras entidades asociadas.,
+Los aportes en
+especies
+(uso de equipos,
+espacio
+fisico
+u
+otros, acordes
+a
+la
+naturaleza del proyecto) deberdn ser valorizados considerando el menor valor entre
+el precio de mercado de los bienes aportados y su costo de reposicién.
+Para efectos de calcular la participacién en el costo del proyecto de los aportes en
+moneda extranjera, sean estos incrementales o no incrementales, deberd utilizarse
+para su conversiédn a moneda nacional
+el tipo de cambio observado vigente a
+la
+fecha de la convocatoria al presente Concurso.
+La Informacién que no esté protegida intelectualmente o que no sea apropiable o que
+no esté estructurada y documentada para ser utilizada en
+el proyecto no sera
+considerada como aporte. La informacién estructurada y documentada que aporten
+al proyecto las beneficlarlas, las empresas 0 las otras entidades asociadas debera ser
+valorizada considerando
+el menor valor entre el precio de mercado y el costo que
+tendria para el proyecto generarla internamente.
+Las empresas que pertenezcantotal o parcialmente a alguna de las beneficlarias, no
+podran aportar mas del 50% del aporte efectivo de empresas u otras entidades
+asociadas al proyecto. Esta condicién no sera aplicable a los Consorcios Tecnoldgicos
+Empresariales cofinanciados por CONICYT, INNOVA CHILE o la Fundacién para
+la
+Innovaci6n Agraria (FIA).
+III.
+EVALUACION Y SELECCION DE LOS PROYECTOS
+Los
+proyectos
+elegibles serdn evaluados y
+calificados acuerdo
+a
+los
+siguientes
+criterios:
+1) contenidoclentifico y tecnolégico con un 50% de ponderacién;
+2) capacidades y gestién con 25 %de ponderacién:
+3) impacto econémico social con un 25 % de ponderacién.
+Las preguntas de cada criterio se evaluarén con un puntaje entre 0 y 5 puntos, de
+acuerdo a la sigulente tabla, permitiéndose los medios puntos, pero no fracciones
+menores:
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Calificacién
+|
+Concepto
+|
+Descripcién
+;
+__
+0
+No califica
+|
+La propuesta no cumple/aborda el criterio bajo anéalisis o
+no puede ser evaluada debido a la falta de antecedentes o
+informacion incompleta.
+1
+Deficiente
+|
+La
+propuesta
+no
+cumple/aborda
+adecuadamente
+los
+aspectos del criterio o hay graves deficiencias inherentes.
+2
+Regular
+La
+propuesta cumple/aborda
+en términos generales
+los
+aspectos delcriterio, pero existen importantes deficiencias.
+3
+Bueno
+La propuesta cumple/aborda correctamente
+los aspectos
+del criterio, aunque requiere ciertas mejoras.
+4
+Muy
+La propuesta cumple/aborda
+los aspectos del
+criterio de
+bueno
+muy
+buena
+manera,
+aun
+cuando
+son
+posibles
+ciertas
+mejoras.
+5
+Excelente
+|
+La
+propuesta
+cumple/aborda
+de
+manera
+sobresaliente
+todos
+los
+aspectos
+relevantes
+del
+criterio
+en
+cuestion.
+Cualquier debilidad es muy menor.
+ITI.1.
+Contenido cientifico-tecnoldgico del proyecto (50%)
+Especialmente se evaluardn y calificaraén los siguientes aspectos del proyecto:
+Relevancia del problema u oportunidad detectado para contribuir al Jogro de
+los objetivos del programa
+Pertinencia y actualizacién
+del estado
+del
+arte que justifique
+la
+solucién
+propuesta en su grado de innovacin y viabilidad educativa y tecnoldégica
+Relaclén entre
+objetivo general y especificos y coherencia con el problema u
+oportunidad planteada
+Calidad de
+la
+metodologfa
+planteada
+para
+validar y
+lograr
+fos
+resultados
+Propuestos
+Descripcién de los resultados de produccién que se espera generar durante la
+ejecuclén del proyecto,
+III.2.
+Capacidadesde Gestién (25%)
+Especialmente, se evaluard
+y
+calificara el proyecto en cuantoa:
+Calidad de la programacién y organizacién de las actividades y su coherencia
+con la metodologia y los resultados esperados.
+Capacidad, experiencia, y disponibilidad del equipo de trabajo en las distintas
+areas de actividad de! proyecto e Incorporacién de Investigadores jévenes.
+Relacién costo total estimado y plazo del proyecto para lograr los resultados.
+III.3,
+Impacto econdémico-social (25%)
+Especialmente, se evaluara y calificaré el proyecto en cuanto a:
+PARA PROYECTOSDE INTERES PUBLICO:
+Identificacién
+y
+caracterizacién
+de
+la
+poblacién
+objetivo
+(
+a
+la
+que
+se
+transferiran
+los resultados de produccién antes del término del Proyecto)
+indicando
+cantidad
+de
+estudiantes
+por
+nivel
+educativo,
+docentes
+por
+14
+ 
+ asignatura, directivos y otros (si aplica), establecimientos por dependencia y
+regiones
+¢
+Viabilidad
+de
+la
+estrategia
+de
+masificacién
+descrita
+para
+transferir
+los
+productos 0 servicios desarrollados a la poblacién objetivo identificada
+antes
+del término del proyecto
+¢
+Pertinencia y compromiso del mandante y otras entidades asociadas para
+masificar los resultados posterior al término del proyecto
+¢
+Identificaci6n del
+costo-beneficio del proyecto,
+considerando los beneficios
+sociales as{ como eventuales externalidades (entendidas como efectos mas
+alla del bienestar de los beneficiarios que utilizan o producen la solucidn).
+PARA PROYECTOS PRECOMPETITIVOS:
+e
+Identificacién y caracterizacién del mercado potencial
+*
+Viabilidad
+de
+la
+estrategia
+de
+transferencia
+tecnologica
+descrita
+para
+transformar los prototipos generados en productos o servicios colocados en el
+mercado
+*
+Pertinencia y compromiso de las entidades asociadas para llevar adelante los
+negocios
+¢
+Identificacién del
+costo-beneficio del proyecto considerando los beneficios
+sociales y
+costos a nivel pals, asi como eventuales externalidades (entendidas
+como
+efectos mas
+alld
+del
+bienestar de
+los
+beneficiarios que
+utilizan
+o
+producenla solucién).
+III.4,
+Evaluaci6n y Calificacién de los Proyectos
+Los proyectos elegibles serdn evaluados por un Panel que conformara el Comité del
+Programa TIC
+EDU.
+Los Comités de
+los Programas
+son érganos asesores de
+FONDEF,
+integrados
+por
+profesionales
+de
+alta
+calificacién,
+experiencia
+y
+reconocimiento en los ambitos cientifico, tecnolégico y/o de negocios en un érea o
+sector especifico de
+la economia, que tienen como objetivo contribuir a lograr la
+misién de FONDEF.
+El
+Comité del Programa conformaré un panel de evaiuacién, y emitira un informe
+sobre
+cada
+proyecto
+evaluado.
+Sera
+este
+informe
+el
+que
+recibiré
+la
+Direcclén
+Ejecutiva de FONDEF.
+En aquellos casos que se considere necesario se podra
+solicitar una evaluacién externa que sera utilizada por el panel para la confeccién del
+informe de evaluacién.
+La evaluacion del proyecto se realizaré en dos etapas sobre la base de una pauta de
+evaluacién disponible en
+la
+pagina web www.fondef.cl,
+y que se anexa
+a
+las
+presentes bases y se entlende formar
+parte integrante de las mismas. Esta misma
+pauta de evaluacién sera utilizada por los Comités de Area para la elaboracién de su
+informe.
+La primera etapa corresponde a
+la evaluacién del capitulo
+1 (contenido clentifico
+tecnolégico). Si la evaluacién de este capitulo obtiene unacalificacidén de 3 0 més
+puntos, se procedera a la segunda etapa,
+que corresponde a la evaluacién de los
+capitulos 2. Capacidades de gestion y 3. Impacto econémicosocial.
+SI el proyecto no califica Para pasar a
+la segunda etapa, serd declarado como no
+recomendable de aprobacién, no evaluando los capitulos 2 y 3.
+15
+ Si el proyecto califica para la segunda etapa, para ser recomendado para aprobacion,
+debera tenerunacalificaci6n promedio de 3.
+La
+Direccién
+Ejecutiva
+de
+FONDEF,
+conforme
+a
+los
+criterios
+de
+evaluacién
+establecidos en
+este capitulo y siguiendo
+el procedimiento de evaluacién
+antes
+descrito, asignara un puntaje entre 0 y 5 puntos a cada uno
+delos tres capitulos
+definidos:
+contenido
+cientifico y tecnoldgico;
+capacidades y
+gestiédn;
+e impacto
+econémico
+social.
+Para
+obtener
+el
+puntaje de evaluacién
+final
+del
+proyecto,
+se
+considerara
+el
+promedio
+ponderado
+de
+los
+capitulos
+evaluados,
+dando
+una
+ponderacién de 50%al capitulo 1, y 25%a los capitulos 2 y 3.
+Una vez terminado e! proceso de evaluacién, el (la) Director(a) Ejecutivo de FONDEF
+presentara los resultados de las evaluaciones, asi comoel ranking de los proyectos
+sugeridos para
+aprobacién,
+al Consejo Asesor de FONDEF para que formule su
+propuesta a CONICYT,
+IV.
+GESTION
+DEL
+PROGRAMA,
+DE
+LOS
+PROYECTOS
+yY
+PROCEDIMIENTOSDE GESTION.
+El Programa TIC EDU es conducido por un(a) Subdirector(a) de Programa designado
+por el Director Ejecutivo de FONDEF, al que le rendiré cuenta. Los ejecutores de los
+proyectos seran las entidades beneficiarias que se adjudiquen el concurso con sus
+entidades asociadas, El (la) Director(a) de cada proyecto respondera directamente al
+(a la) Subdirector(a) del Programa.El (la) Subdirector(a) del Programa podra tomar
+todas las decisiones que aumentenla eficacia y eficiencia del Programa considerando
+los puntos de vista del Comité Directivo de cada proyecto y siguiendo las directrices
+del Director Ejecutivo de FONDEF,
+El Programa
+tendré
+un Comité de Area
+del Programa TIC
+EDU,el que
+estara
+compuesto por expertos del mundo académico y de la industria, de alta calificacién,
+experiencia y reconocimiento en los Ambitos clentifico, tecnolégico y de negocios en
+el campodeinterés del Programa,
+El
+(la)
+Subdirector(a)
+del
+Programa
+supervisaraé
+a
+cada
+uno de
+los
+proyectos
+adjudicados
+y
+propondra
+al
+Director
+Ejecutivo
+del
+FONDEF
+los
+cambios
+y
+reorientaciones que estime adecuados para el éxito del Programa.
+Cada
+proyecto
+tendraé
+un
+Comité
+Directivo
+el
+que
+estard
+integrado
+por
+un
+representante de cada una de las entidades que participen en el proyecto haciendo
+aportes.
+Este
+Comité
+Directivo
+podré
+tomar
+las
+decisiones que
+sus
+miembros
+determinen, siempre queellas se Enmarquen en el convenio suscrito con CONICYT.
+EI (la) Director(a) de! proyecto dara cuenta por escrito a este Comité.
+Cada proyecto tendra un(a) Director(a) de proyecto, nombradoporla 0 las entidades
+beneficiarias para su relacién directa con el (la) Subdirector(a) del Programa, al que
+le dara cuentas y con las atribuclones que sean necesarias para el éxito del proyecto.
+Las entidades ejecutoras se obligarén
+a proporcionar fa informacién,
+realizar las
+diligencias y facilitar las tareas de gestién que establezca
+el] (la) Subdirector(a) del
+Programa.
+ 17
+El
+(la)
+Director(a)
+del
+proyecto y
+los representantes de
+las empresas deberdn
+participar en reuniones periédicas con los otros proyectos del Programa y en todas
+las otras actividades comunes necesarias para su éxito,
+IV.1. Adjudicacién
+La adjudicacién de los proyectos se efectuaré mediante resolucién de CONICYT, a
+proposicién del Consejo Asesor de FONDEF.
+La propuesta de este Consejo podra
+referirse a la adjudicacién y/o contener condiciones de adjudicacién, las que podran
+ser una 0 varias de las siguientes:
+Requerimiento de informacién complementaria.
+Ejecuci6n de parte del proyecto.
+Modificaciones a la estructura de costos.
+Modificaciones al titulo del proyecto, cuando los cambios a! mismo
+lo hicleren
+recomendable.
+e
+Fortalecimiento del equipo de investigacién,
+*
+Inclusién de aspectos considerados importantes para el desarrollo del proyecto,
+El monto adjudicado por FONDEF correspondera a una suma maxima que no podra
+ser incrementada. Los mayores costos que resultaren en la ejecucién del proyecto
+deberan ser financiados por las entidades beneficlarias, con recursos propios o de
+terceros.
+La
+Direccién
+Ejecutiva de FONDEF informard
+a cada
+postulante, mediante
+carta
+certificada y correo electrénico, la decisién de adjudicacién, sea o no favorable a su
+proyecto. En todos los casos se enviard, adiclonalmente a dicha notificacién, un
+informe de evaluacién del proyecto y las condiciones de adjudicacion del mismo,
+cuando corresponda,
+CONICYT suscribira un convenio con la entidad o entidades beneficiarias, donde se
+estableceran los derechos y deberes de las partes.
+Los recursos transferidos a
+las adjudicatarias se regiran, para
+los efectos de
+la
+ejecucién presupuestaria y movimiento de fondos, de acuerdo a lo sefialado en la
+Resolucl6n N° 759, de 23 de diciembre de 2003, de
+la Contralorfa General de la
+Republica que
+fija Normas de Procedimiento sobre
+Rendicién de Cuentas o
+las
+normas que las reemplacen en el futuro y las beneficiarias deberan dar cumplimiento
+a lo dispuesto en el Decreto Supremo de Hacienda N° 375, de 19 de mayo de 2003,
+que fija el Reglamento de la Ley NO 19,862, de Registro de las Personas Jurfdicas
+Receptoras de Fondos Publicos.
+IV.2. Reformulaci6n de los proyectos
+Todos aquellos proyectos que sean seleccionados y adjudicados podran pasar por
+una etapa de reformulacién, con el objetivo de modificar sus términos, considerando
+las condiciones de adjudicacién y las modificaciones presupuestarias establecidas por
+CONICYT,
+En
+el proceso de reformulacién del proyecto la(s) beneficiaria(s) distribuird(n) el
+monto adjudicado entre ios diferentes items presupuestarios definidos en el capitulo
+V de estas Bases. FONDEFvelard por que esta distribucién cumpla estrictamente con
+los montos y porcentajes limites establecidos en las presentes Bases.
+17
+ 18
+Si un proyecto no ha completado su reformulaci6n transcurridos 120 dias corridos
+desde el inicio del proyecto, se entendera que renuncia a! subsidio, por lo que se le
+pondra término anticipado de acuerdo al procedimiento establecido en el respectivo
+convenio.
+IV.3. Seguimiento y control de los proyectos
+Las entidades beneficiarias deberdn dar las facilidades necesarias para realizar el
+seguimiento
+y
+control
+de
+los
+proyectos
+adjudicados
+durante
+la
+ejecucién
+del
+proyecto, conforme a fos procedimientos establecidos por FONDEF, comunicados a
+las beneficlarias a través de su plataforma informatica de seguimiento y control.
+Asimismo, deberan otorgar a FONDEFlasfacilidades para efectuar un monitoreo de
+los resultados y evaluaciones de Impacto posteriores al término del Convenio.
+E! proceso de Seguimiento y Control consideraré aspectos tales como: logro de hitos
+de avance y de
+resultados;
+vigencia
+clentifico-tecnolégica;
+vigencla econdémico-
+social; efectiva participacién y realizacién de aportes de las empresas y de otras
+entidades asocladas a! proyecto; y documentacién financiera y contable del uso de
+recursos,
+Las modificaciones que se consideren oportunas formular a los proyectos para lfograr
+los objetivos planteados, requerirén la revision y autorizacién previa de FONDEFpara
+reprogramar
+aspectos
+tales
+como
+la
+metodologfa,
+los
+hitos
+de
+avance
+o
+los
+resultados especificos, sus plazos de obtencién u otros que no afecten ej objetivo
+general del proyecto ni su vigencia cientifica-tecnolégica 0 econémica-social.
+Adicionalmente, los proyectos podrdn considerar como una de sus actividades, y ser
+financiada con cargo al subsidio de FONDEF,la contratacién de un experto de nivel
+Internacional para Ja realizacl6n de una evaluacién del proyecto en cualquier etapa
+de su desarrollo, referida a su vigencia cientifico-tecnolégica y econémico-social o a
+algunos aspectos especificos del funcionamiento del proyecto.
+Vv.
+ITEMS FINANCIABLES POR FONDEF
+Los
+proyectos podran
+incluir cualquiera de
+los items
+descritos
+a
+continuacion.
+FONDEF
+revisaré
+la
+pertinencia
+de
+los
+{tems
+y
+montos
+considerados
+en
+la
+presentacién
+de
+los
+proyectos,
+los que
+deberadn
+ajustarse
+estrictamente
+a
+los
+requerimientos de la investigacién y desarrollo de la propuesta.
+a)
+HONORARIOS: para
+el
+personal
+nacional o
+extranjero cuyos servicios deban
+contratarse especificamente para
+la ejecucién del proyecto. Las personas que
+estén realizando cursos de posdoctorado o doctorado financiados por CONICYT
+que se desempefien en alguna de las empresas u otras entidades asociadas al
+proyecto
+con
+el
+apoyo
+o
+subsidio de
+algun
+Programa
+del
+Estado,
+deberan
+declararlo al momento de postular al VI Concurso TIC EDU de FONDEF, con la
+finalldad de establecer si existe incompatibilidad con la beca o subsidio del cual
+son
+beneficiarios.
+Igual
+procedimiento
+se
+seguira
+en
+el
+evento
+que
+sean
+contratados a honorarios con posterloridad a la postulacién. Cuando el personal
+de investigacién de una beneficiaria que participe en el proyecto se encuentre
+contratado
+a
+honorarios
+y
+sus
+remuneracilones
+sean
+financiadas
+total
+o
+parcialmente con recursos del subsidio, se aplicaré el mismo procedimiento de
+Pago que se aplica a los incentivos de participacién: hasta
+el 50% en cuotas
+18
+ b)
+¢)
+d)
+8)
+h)
+i)
+k)
+1)
+mensuales y el resto sera entregado contra la obtencién de los hitos de avance o
+de los resultados del proyecto. Ademas,
+el Director del proyecto no podra ser
+contratado a honorarios. Este item excluye al personal habitual o de planta de las
+beneficiarias.
+INCENTIVOS DE
+PARTICIPACION:
+otorgados
+al
+personal
+permanente
+de
+las
+entidades elegibles que participen en el desarrollo o ejecucién del proyecto.
+El
+monto
+total
+de
+incentivos
+de
+participacién
+no
+debera
+exceder
+el!
+monto
+institucional total en remuneraciones del personal que participe en el proyecto.
+Los
+incentivos
+serdn
+pagados
+mensualmente
+hasta
+por
+el 50%
+del
+monto
+acordado y el resto sera entregado contra la obtencién de los hitos de avance o
+de los resultados del proyecto.
+SUBCONTRATOS:
+considera
+la
+contratacién
+de
+personas
+juridicas
+para
+la
+reallzaclon de servicios requeridos por el proyecto, que no estén incorporados en
+otros items de gastos. Como principio ordenador, debe subcontratarse aquello
+que se puede obtener en mejores calidades, costos o plazos que los realizados en
+forma propia.
+CAPACITACION:
+incluye todos
+los gastos necesarios para
+la
+capacitacién
+del
+personal del proyecto, cualquiera sea su condiclén contractual, en el aprendizaje
+de conocimientos o técnicas especificas necesarias para
+el
+desarrollo de
+las
+actividades del proyecto y que no den origen a grados académicos.
+EQUIPOS: especificamente necesarios para el desarrollo del proyecto; incluye los
+gastos de
+instalacién
+y mantenimiento durante
+el
+periodo de desarrollo
+del
+proyecto.
+SOFTWARE: especificamente requerido para el proyecto.
+INFRAESTRUCTURA:
+incluye sdlo
+los gastos de acondicionamiento de espacio
+fisico preexistente y
+la instalacién de redes de informacién y documentacién,
+ambos de uso exclusivo del proyecto. No se financiaréan nuevas construcciones.
+MATERIAL FUNGIBLE:el necesario parala realizacién del proyecto.
+PASAJES Y VIATICOS: sdlo se financlaran pasajes en clase econdémica, de viajes
+realizados
+por
+el
+personal
+del
+proyecto
+en
+el
+desempefio
+de
+actividades
+necesarias para el éxito de éste y con el objetivo de mejorar las habilidades
+exclusivamente para el trabajo y tema del proyecto.
+SEMINARIOS,
+PUBLICACIONES
+Y
+DIFUSION
+DE
+LOS
+RESULTADOS
+DEL
+PROYECTO: Todo ingreso que se genere en este tipo de eventos y que sean totai
+o parcialmente financiados por FONDEF, sera de uso exclusivo del proyecto, para
+el financiamiento de actividades que aumentenel impacto de sus resultados.
+PROPIEDAD INTELECTUAL E INDUSTRIAL:
+sefinanciaraén los gastos derivados de
+la obtencién de derechos sobre la propiedad intelectual e industrial, nacional e
+internacional.
+GASTOS GENERALES DEL PROYECTO: sefinanciara gastos en servicios bdsicos,
+gastos
+de
+locomocién,
+gastos
+por
+imprevistos
+y
+otras
+partidas
+de
+gastos
+generales del proyecto. En todo caso no podran excederel 6,5%del subsidio de
+ 20
+FONDEFal proyecto (suma de los items “Honorarios” hasta “Propiedad intelectual
+e industrial” ambos
+inclusive).
+m) GASTOS COMUNES: son aquellos cuyo propésito es financiar actividades que
+respondan
+a
+requerimlentos
+comunes
+de
+varios
+o
+todos
+los
+proyectos
+del
+Programa, asociados a las necesidades de orden general y tiles a todos o varios
+de
+los proyectos Involucrados, que por tal hecho tienen un menor costo unitario
+al ser manejados en forma coordinada, de acuerdo criterios de costo-beneficio
+(economia de escala), tales como lanzamiento conjunto de proyectos, clerres
+conjuntos, contratacién de servicios de beneficio comun, difusién, etc. Los gastos
+atribuibles a este item deberan ser previamente autorizados por FONDEF, de lo
+contrario tendran que ser restituldos una vez concluido
+el proyecto.
+El monto
+maximo de
+los gastos comunes sera
+el 2% calculado sobre
+el subsidio de
+FONDEF, tomando en consideracién
+la suma de los items “Honorarios” hasta
+“Propiedad intelectual e industrial”, ambosinclusive.
+n) GASTOS
+DE
+ADMINISTRACION
+SUPERIOR:
+gastos
+efectuados
+por
+la(s)
+entidad(es) beneficiaria(s) destinados a fortalecer las capacidades institucionales
+necesarias para asegurar el desarrollo y ejecucién del proyecto. Este gasto no
+podra ser superior al 12%del subsidio de FONDEFal proyecto.
+Los
+proyectos no deberan
+utilizar
+el
+subsidio
+ transferido
+por
+CONICYT para
+invertirlo en cualquier tipo de instrumento financiero de renta fija o variable y de
+corto o largo plazo (fondos mutuos, acciones, depdsitos a plazo, bonos y otros
+similares), Tampoco podran pagar indemnizaciones con el subsidio.
+VI.
+DERECHOS Y OBLIGACIONES
+VI.1. Firma de convenios
+Dentro de los 60 dias corridos siguientes a la notificacién por carta certificada de la
+resoluci6n de adjudicacién de los proyectos, deberén ser suscritos los convenios
+entre CONICYT y las entidades beneficiarias. En estos convenios se estableceran
+expresamente los derechos y obligaciones de las partes, la duracién del proyecto y
+todas aquellas clausulas que resquardenel cumplimiento de los fines de FONDEF, en
+conformidad a la normativa vigente. Ademas, en ellos se especificaré el derecho de
+CONICYT para realizar, a través de la Direccién Ejecutiva de FONDEF, inspecciones
+sobre el avance de los proyectos, donde se prestaraé atencién especial a aspectos
+tales como: evidencia de la ejecucién técnica y su coherencia con lo presupuestado,
+vigencia econdmico-social, documentacién de la ejecucién financiera y contabilidad
+del proyecto, coherencia entre Ja inversion fisica y gastos reales con lo declarado.
+Las entidades beneficiarias deberdn darlas facilidades a la supervision y seguimiento
+y presentar Informes de avance del proyecto en sus aspectos clentifico-tecnolégicos
+y econdémico-sociales como enlo financiero Y Operacional, segtin se establezca en el
+convenio.
+Como
+resultado
+de
+estas
+acciones,
+CONICYT
+podrad_
+resolver
+modificaciones,
+suspensiones y
+cancelaciones
+(término
+anticipado) de
+aquellos
+proyectos que presenten un desarrollo insatisfactorio o que hayan perdido vigencia
+en los planoscientifico-tecnolégico 0 econémico-social.
+Asimismo,
+las
+instituciones
+beneficiarias
+deberdn
+ suscribir
+contratos
+con
+el
+mandante, si corresponde, las empresas y otras entidades asociadas, en los cuales
+se estipulen las obligaciones y derechos que asumen para la realizacion del proyecto,
+Incluyendo al menos el monto y la modalidad de sus aportes y su participacién en la
+20
+ 21
+propiedad
+de
+los
+resultados
+y
+en
+los
+negocios
+o
+acciones
+de
+masificacién
+correspondientes. Las instituclones beneficiarias deberdn velar por la consistencla
+entre estos contratos y
+el Convenio de Subsidio suscrito con CONICYT. FONDEF
+podra establecer que hay inconsistencia y rechazar dichos contratos. Estos contratos
+deberan ser enviados a FONDEFen un plazo no mayor a seis meses a partir de la
+fecha de inicio del proyecto, el que podra ser ampliado por el Director Ejecutivo del
+FONDEF
+hasta
+por
+seis
+meses
+adicionales,
+a
+solicitud
+fundada
+de
+la(s)
+beneficiaria(s).
+El incumplimiento de esta Ultima condicién dard lugar al término
+anticipado del convenio.
+Las entidades que hayan participado de algtin proyecto financiado previamente por
+FONDEF, cuya ejecucién haya terminado en plazos superiores a un afio, contados
+hasta
+la fecha de clerre de este concurso, y que tengan_
+rendiciones de cuentas
+pendientes, sdlo podran suscribir el respectivo convenio si
+dentro de los 50 dias
+corridos
+siguientes
+a
+la
+notificacién
+por carta
+certificada
+de
+la
+resolucién
+de
+adjudicacién de los proyectos, han solucionado tales situaclones. En el evento que
+asi no ocurriera, se dejara sin efecto ia adjudicacién en lo que respectaa ellos.
+Las instituciones beneficiarias, previamente a la firma del convenio, deberdn enviar
+certificado de inscripcién como receptoras en el Registro de Colaboradores del Estado
+y Municipales; esto es un requlsito obligatorio para que CONICYT pueda realizarles
+transferenclas de recursos, segtin lo establecido en la ley N° 19.862 del 08/02/2003.
+VI.2. Compromiso delas instituciones que postulan
+Las entidades elegibles y solicitantes de financlamiento FONDEF deberan presentaral
+momento de la postulacién, un documento por medio del cual expliciten los bienes y
+recursos que
+ofrecerén
+como
+contraparte
+para
+el
+desarrollo
+del
+proyecto
+que
+presentan.
+VI.3. Contratacién de obras y adquisicién de bienes y servicios
+Tratandose de
+beneficiarias que sean
+instituciones
+publicas,
+éstas
+realizaran
+la
+contratacién de ejecucién de obras y servicios, asi como la adquisicién de equipos,
+materiales y mobiliario, con cargo a los recursos del proyecto, de conformidad a las
+disposiciones legales vigentes.
+En el caso de instituciones privadas,
+la contratacién de las obras y servicios, asi
+como la adquisici6n de equipos, materiales y mobiliario con cargo a los recursosdel
+proyecto se realizaran directamente por las instituciones beneficiarias de acuerdo a
+procedimientos aceptados por FONDEF,los que se especificardn en los respectivos
+convenios de subsidio,
+En
+todas
+aquellas
+actividades
+del
+proyecto
+donde
+exista
+oferta
+de
+mercado
+(productos, equipos, servicios tecnolégicos), deberé aprovecharse
+al maximo esta
+posibilidad, de modo que sea conveniente en términos de calidad, costos y plazos.
+Las beneficiarias deben adquirir, en vez de desarrollar, toda tecnologia necesaria
+para su éxito cuando ésta esté disponible en el mercado, a menos que previamente
+se entregue
+la justificaclén correspondiente.
+Esta
+adquisicién deberé hacerse
+a
+través del mecanismo que resulte mds conveniente al proyecto (arriendo, compra,
+donacl6n, leasing, préstamo, servicio, aporte de asociado, etc.).
+21
+ 22
+V1.4. Mantenimiento y equipos
+En los convenlos de subsidio, las instituciones beneficiarias deberan comprometerse
+a que las obras y equipos financiados con recursos de FONDEF sean operados y
+mantenidos de acuerdo con las normas técnicas generalmente aceptadas y contaran
+con persona! adecuado y con
+los materiales necesarios para
+su funcionamiento
+eficlente.
+V1.5. Desembolsos
+Los recursos se asignarén en moneda nacional no reajustable, El primer desembolso
+se realizaré una vez totalmente tramitado
+el acto administrativo que apruebe el
+convenlo
+respectivo
+entre CONICYT y
+la
+beneficiaria.
+Tratandose de
+entidades
+privadas, se requiere ademas, que estas caucionen el 100%de tal transferencia, de
+conformidad a lo establecido en el punto VI.9 de las presentes bases.
+Los
+siguientes
+desembolisos,
+seran
+transferidos anualmente
+por CONICYT
+a
+la
+beneficiaria. Este perfodo anual
+podré ser modificado por propia decision de
+la
+Direcci6n
+Ejecutiva
+o
+a
+solicitud
+del
+Director
+del
+Proyecto
+para
+adecuar
+los
+desembolsos
+al avance del Proyecto, previa aprobacion de la Direccién Ejecutiva.
+Estos desembolsos se realizaran siempre que se cumplan todas
+las condiciones
+establecidas
+a
+continuacién:
+se hayan
+entregado
+las
+respectivas
+cauciones,
+de
+conformidad
+a
+lo establecido en
+el punto VI.9 de estas bases;
+la existencia y
+disponibilidad de recursos en el presupuesto de CONICYT;
+la entrega oportuna por
+parte de la beneficiaria o de todas ellas, si el proyecto tiene mds de una,
+de los
+recursos propios y de las asocladas comprometidos para
+el Proyecto;
+la entrega
+oportuna de los informes de avance de quetrata el convenio y su aprobaci6n, salvo
+en
+el caso del primer desembolso; y
+la rendicién de cuentas en documentacién
+original de los gastos financlados con recursos FONDEF y su aprobacion por parte de
+CONICYT. Asimismo, la continuidad en la entrega de desembolsos estara sujeta a la
+obtencién de los hitos de avance o resultados del proyecto, definidos para estos
+efectos por FONDEFenel sistema de seguimiento y control de proyectos de FONDEF.
+La beneficiarla tendré una cuenta corriente bancaria exclusiva para manejar los
+recursos financieros del Proyecto, en la cual debera depositarel subsidio, sus propios
+aportes y aquéllos de las asociadas comprometidos, o podra, con la autorizacion del
+Director Ejecutivo de FONDEF, abrir y mantener una cuenta presupuestaria especial
+para estos mismos propésitos. La beneficiaria debera llevar contabilidad separada
+para
+los
+recursos
+del
+Proyecto,
+precisando en
+ella
+los mecanismos y
+practicas
+utilizadas para la administracién de los fondos. Todos los gastos efectuados contrael
+subsidio o los aportes monetarios propios o de las asociadas, deberdn ser aprobados
+por el Director del Proyecto. La beneficiaria permitira en todo momento el examen de
+la informacién y documentacién sustantiva, administrativa y contable del Proyecto,
+por los especialistas que acredite CONICYT
+En el caso que el proyecto haya sido presentado por mas de una beneficiaria,
+la
+Direccién Ejecutiva de FONDEF podra modificar la composicién del subsidio otorgado
+a solicitud conjunta de los Representantes Institucionales de las beneficiarias.
+22
+ 23
+La Direccién Ejecutiva de FONDEF suspendera los desembolsos del subsidioa
+la
+beneficiaria, as[ como el reconocimiento de gastos realizados con dichos subsidios,
+en fas siguientes circunstancias:
+a)
+si constatare incumplimiento de las obligaciones contractuales por parte de la
+beneficiaria; o
+b)
+si el Proyecto, a juicio de dicho Director, no se desarrollare satisfactoriamente o
+hubiere perdido su relevancia o vigencia.
+La
+aludida
+suspensién
+no
+se
+podra
+adoptar
+sin
+escuchar
+las
+aclaraciones
+y
+explicaciones
+del
+Director
+del
+Proyecto
+y
+del
+Representante
+Institucional de
+la
+beneficiaria.
+El
+Director
+Ejecutivo
+de FONDEF
+establecera
+las
+condiciones
+para
+levantar
+la
+suspension y
+el
+plazo para
+cumplirlas y
+lo comunicaré por carta
+certificada
+al
+Representante Institucional. La suspensién se hard efectiva a partir de la fecha de
+notificacién de esta carta y el plazo para cumplir las condiciones se contaré desde
+esa fecha, El Director Ejecutivo podra fundadamente prorrogar este plazo a solicitud
+del Representante Institucional.
+El Representante Institucional podré proponer al Director Ejecutivo de FONDEFla
+suspension de los desembolsos en las circunstanclas siguientes;
+a)
+si
+llegase
+a
+la
+convicci6n de que
+el
+Proyecto
+no alcanzaré
+los
+resultados
+esperados;
+b)
+si llegase a
+la conviccién de que
+el Proyecto no podra ejecutarse dentro de
+parametros razonables;
+c)
+st llegase a la conviccién de que el Proyecto ha perdido vigencia; o
+d)
+cuando la beneficlaria no pudiere enterar la parte de sus aportes u obtener los
+recursos de Jas asociadas.
+La Direccién Ejecutiva de FONDEF se pronuncilardé fundadamente sobre esta solicitud
+de suspensién en un plazo maximo detreinta dias corridos de recibida en FONDEF,El
+Director Ejecutive de FONDEF comunicara por carta
+certificada
+al Representante
+Institucional las condiciones que deben ser cumplidas y el plazo de cumplimliento. La
+suspension se hara efectiva a partir de la fecha de notificacién de esta carta y el
+plazo de cumplimiento de las condiciones se contaré desde esa fecha.
+El Director
+Ejecutivo podra prorrogar fundadamente este plazo a solicitud del Representante
+Institucional,
+Las suspensiones a queserefieren los parrafos anteriores no se contabilizaran en el
+plazo del respectivo proyecto, siempre que, de conformidad con lo sefialado en el
+punto 1.2.7 de estas Bases, ellas no excedan, en total, de un afio adicional al plazo
+originalmente aprobado,
+En
+el evento de que un documento fuere rendido en mas de un Programa de
+CONICYT, ésta se reserva el derecho de poner término anticipado ipso facto a los
+convenios involucradosy desolicitar la devolucién de los recursos entregados,
+VI.6. Permanencia
+Las entidades beneficiarias deberan garantizarla permanencia del personal relevante
+al proyecto, o de personal con capacidades equivalentes a las consideradas en el
+23
+ 24
+proyecto
+aprobado
+por
+FONDEF.
+Los
+cambios
+del
+referido
+personal
+seran
+comunicados inmediatamente porla beneficiaria a la Direccién Ejecutiva de FONDEF,
+quien, a su vez, podra aprobarilos o solicitar la sustitucién de cualesquiera de los
+referidos y no aceptar a los reemplazantes si a su juicio no son idéneos, en un plazo
+de 10 dias habiles desde dicha comunicacién. En caso que
+el cambio no fuere
+efectuado a satisfaccién del Director Ejecutivo de FONDEF, dicho Director Ejecutivo
+dispondra la suspensién de los desembolsos, por hasta 45 dias corridos, contados
+desde
+la
+comunicacién de
+los cambios efectuados,
+al término de
+los cuales
+el
+Director Ejecutivo de FONDEF debera disponer el término anticipado del convenio si
+dicho cambio no fuere efectuado a su satisfaccién.
+VI.7.Informes
+Las entidades con proyectos aprobados deberdn dar estricto cumplimiento a
+las
+fechas que se establezcan en el convenio de subsidio, en cuanto a la rendicién de
+informes de avance en
+los aspectos cientifico-tecnolégico, econdmico-social y de
+transferencia tecnoldgica e informes de avance financiero y de gestlén.
+VI.8. Protecci6n
+de
+la
+propiedad
+intelectual
+e
+industrial
+y de
+fa
+confidencialidad
+La
+propiedad de
+los
+inventos,
+innovaciones tecnolégicas o procedimientos que
+resulten de los proyectos, sera de las entidades beneficlarlas,
+las cuales podran
+compartirla
+con
+el
+mandante,
+si
+corresponde,
+las empresas
+u
+otras
+entidades
+asociadas que participen en el proyecto, en funcién de los respectivos aportes al
+financiamiento del proyecto. Asimismo las entidades beneficlarias de financiamiento
+por parte de FONDEFpodran compartir equitativamente la propiedad con el personal
+de su dotacién que haya participado efectivamente en el proyecto. La transferencia
+de estos resultados
+a
+entidades con
+fines de
+lucro
+sdélo podra
+hacerse a
+titulo
+oneroso y no podra comprometer condiciones de exclusividad permanente en el uso,
+goce 0 disposicién de dichos resultados.
+La divulgacién de
+los resultados del proyecto, deberd hacerse resguardando
+las
+necesidades de confidencialidad que se establezcan en el Convenio y, en ningin
+caso,
+podra atentar contra la eventual obtencién de derechos sobre la propiedad
+intelectual e industrial generada por el proyecto. En particular, la divulgacién de la
+informacién obtenida o hallada durante
+la ejecucién del proyecto debera contar,
+necesariamente, con el acuerdo de todas las partes responsables del desarrollo de
+éste,
+Las
+beneficiarias deberan
+proteger
+la
+propiedad
+intelectual
+e
+industrial
+de
+los
+resultados del proyecto toda vez que sea necesario y conveniente hacerlo. Si no se
+efecttan debidamente las acciones de proteccién y/o valorizacién de los resultados
+de los proyectos dentro de un plazo de dos aftos contados desde la fecha de término
+establecida en
+el Convenlo de Subsidio, CONICYT podraé divulgar libremente
+los
+resultados obtenidos.
+Lo expuesto no obstardé al derecho de CONICYT a publicar los informes que reciba,
+slempre que a su juicio, tal publicacién no afecte los propésitos establecidos en este
+numeral.
+24
+ 25
+No
+obstante
+lo
+establecido
+precedentemente,
+en
+los
+casos
+de
+proyectos
+de
+investigaci6n y desarrollo de interés ptiblico, las entidades beneficiarias, el mandante
+y las empresas u otras entidades asociadas se obligan a poner a disposicionde otras
+organizaciones u organismos orientados al interés publico, sean estos publicos o
+privados, el conocimiento desarrollado y protegido intelectualmente, sin costo para
+su utilizacién en productos o servicios de interés pUblico para Chile o con fines
+humanitarios.
+_
+Asimismo, en el caso de proyectos de investigacién y desarrollo precompetitivo en
+los que se contemple la participacién de una sola empresa o entidad asociada,
+la
+beneficiarla
+y
+la empresa
+o
+la
+entidad
+asociada deberan
+poner
+los
+resultados
+obtenidos en virtud del proyecto a disposicién de la comunidad nacional, sin costo
+para su utilizacién en productos o servicios enel territorio nacional.
+VI.9. Garantias
+Las entidades
+beneficlarias
+privadas deberan
+entregar con
+anterioridad
+a cada
+desembolso, garantias porlos anticipos que otorgue CONICYT para el desarrollo del
+proyecto. Los documentos en garantia deberdn tener una vigencia de a lo menos dos
+meses adicionales a
+la duracién
+del perfodo que se determine en
+el convenio
+respectivo, y de a
+lo menos cinco meses adicionales cuando se trate del ultimo
+desembolso de CONICYT al Proyecto. Estas garantias deberdn extenderse por el
+monto equivalente a cada entrega de recursos efectuada por CONICYT al proyecto. A
+las beneficiarias pUblicas no les sera exigible la entrega de garantfas por el buen uso
+de
+los
+recursos
+desembolsados,
+en
+virtud
+de
+lo
+establecido
+en
+el
+dictamen
+N°15978/10 de Contraloria General de Ja Republica.
+Las cauciones podrdn ser boletas de garantia bancaria pagaderas a la vista, vales
+vista endosables o pdlizas de seguro de ejecucién inmediata.
+El costo financlero que implique obtenerla garantia podrdé ser cargado al ftem de
+gastos generales del Proyecto.
+El Director Ejecutivo de FONDEF podra cambiar el
+plazo cubierto por cada
+desembolso,
+para
+mejorar
+la
+eficiencia
+de!
+proceso de
+seguimiento y control del proyecto.
+VI.10.
+Difusién
+En todo evento publico de difusién o en toda difusién a través de los medios de
+comunicacién,
+deberaé
+mencionarse expresamente a FONDEF de CONICYT como
+fuente de financiamiento del proyecto e inclulr el logo oficial del Fondo. En particular,
+toda vez que un proyecto disponga de una pagina Web, se debera incluir en ella el
+logo y un vinculo al sitio Web de FONDEF (http://www.fondef.cl)
+Todo proyecto, durante su ejecucién o inmediatamente después de terminada esta,
+deberd llevar a cabo un evento de cierre en el que dé a conocer a las comunidades
+clentifica, empresarial, regional y nacional los principales resultados del proyecto. El
+costo de este evento podra ser cargado al subsidio de FONDEFsi este tiene lugar
+hasta cuatro meses después de la fecha de término del proyecto.
+25
+ 26
+VII. FORMA DE PRESENTACION DE LOS PROYECTOS
+VIT.1.
+Plazos y Presentacién
+La formulacién de los proyectos se hard utllizando el sistema vigente de presentacién
+de proyectos via Internet y que se encuentra en
+la pagina web www.fondef.cl.
+El
+proyecto debera ser presentado y enviado por sistema
+hasta las 17.00 horas de la
+fecha de clerre de la convocatoria.
+VII.2.
+Formularios y Bases
+Los
+documentos
+oficiales
+del
+concurso
+son
+estas
+Bases
+y
+el
+formulario
+de
+presentacién de proyectos que se encontrara disponible en linea
+a partir del primer
+dja habil sigulente a la publicacién de la convocatoria, en el sistema de presentacion
+de proyectos via Internet, accesible a través de la pagina web: www.fondef.cl.
+CONICYT se reserva el derecho para interpretar el sentido y alcance de las presentes
+Bases en caso de dudas y conflictos que se suscitaren sobre la aplicacién de las
+mismas,
+VII.3.
+Consultas y aclaraciones
+Las consultas relativas a este concurso, deberdn ser dirigidas a: Direccién Ejecutiva
+de FONDEF,calle Bernarda Morin 495, Providencia, Santiago, o bien a la sigulente
+direccién electrénica: www.conicyt.cl/oirs
+Sdlo se recibiran consultas hasta 30 dias corridos contados desde la publicacién de fa
+Convocatoria. Vencido este plazo, FONDEF tendra 10 dias corridos para responderlas
+a través de la pagina web www.conicyt.cl/oirs 0 por correo electrénico.
+Asimismo, las aclaraciones que eventualmente pueda realizar CONICYT podran ser
+efectuadas dentro del mismo plazo fijado para la recepcién de consultas, mediante
+una publicacién en el sitio web www.fondef.cl.
+“FIN TRANSCRIPCION DE BASES”
+3.- CONVOQUESEal Concurso una vez tramitado completamente el presente acto
+administrativo.
+4.-
+DISTRIBUYASE
+copia
+de
+la
+presente
+resolucién
+a
+Programa
+FONDEF
+de
+CONICYT,
+Departamento de Administracién y
+Finanzas, Fiscalfa y Oficina de
+Partes de CONICYT.
+ANOTESE Y COMUNIQUESE.
+MATE
+bre
+ad
+é
+;
+ESIDENTE
+<
+Anexos:
+‘
+a
+ 
+N°3 Memorando N°1241/2011 del Director del Departamento de Administracién y Finanzas
+N°4 Memorando N°09/2012 de Presidencia
+N°5 Bases VI Concurso Programa Tecnologias de Ja Informacién y Comunicacién Efectivas para la Educacién.
+in:
+1.
+Presidencia
+2.
+Oficina de Partes
+C 197 -2012
+26
+  
+ 
+ 
+Preguntas  y Respuestas VI Concurso TIC EDU 
+ 
+1. En las bases, se habla sobre duplicidad de postulaciones. Si mi universidad está actualmente 
+con un FONDEF que termina en octubre del 2012. ¿Eso nos inhabilitaría para postular a este 
+fondo? 
+ No, eso no los inhabilita. La duplicidad, a que se hace mención en las Bases,  se refiere a que un 
+mismo proyecto sea financiado por dos fondos a la vez. Y por supuesto a proyectos que ya hayan 
+sido desarrollados y financiados  por CONICYT u otros fondos. 
+ 
+2. ¿Puede una empresa privada postular como entidad beneficiaria al VI Concurso TIC EDU? No.  
+Las empresas privadas no pueden postular al subsidio FONDEF como beneficiarias, pero pueden 
+ser socias de un proyecto lo que implica que deben colocar recursos para el desarrollo del mismo, 
+lo que está señalado en las Bases.  Solo pueden  postular a FONDEF  instituciones sin fines de 
+lucro que realicen I+D y que estén inscritas en nuestros registros.  
+ 
+3. Me gustaría saber cuáles son los factores sobre los que evaluarán el proyecto en términos 
+económico-financieros (indicadores VAN, TIR). Finalmente saber si hay algún lugar donde 
+pueda preguntar sobre dudas futuras en regiones. 
+En el VI Concurso TIC EDU no se están pidiendo evaluaciones económicas con cálculo de VAN y 
+TIR. Se solicita llenar un formulario de Impacto Económico-Social que contiene 5 preguntas y que 
+se bajan gratuitamente desde la Plataforma de Postulación en el en el siguiente link, además de 
+toda la información relativa al concurso:  
+https://gestion.conicyt.cl/postulacion/ur/fondef/ticedu/42/static_sitio/index.html 
+Desgraciadamente no tenemos oficinas regionales por lo que las dudas solo podemos 
+responderlas por este medio. Según señalan las Bases (punto VII.3.Consultas y aclaraciones), solo 
+se recibirán consultas hasta 30 días corridos desde la publicación de la Convocatoria, o sea hasta 
+el 27 de marzo 2012. 
+ 
+4. ¿Cómo saber si la Institución o Entidad ha participado con anterioridad en concursos realizados 
+por FONDEF como entidad beneficiaria? 
+La forma práctica de verificarlo, es que quién esté formulando el proyecto en la plataforma de 
+postulación, en la Etapa 3 Instituciones,  Paso 1 Instituciones  Beneficiarias, ponga Buscar y 
+escriba el Nombre de la institución o el RUT. Debajo del cuadro debe aparecer el nombre de la 
+institución y al hacer clik sobre él, se llenarán automáticamente todos los datos que se  solicitan 
+en la plataforma de la institución. Si no aparecen los datos es porque la institución no está 
+inscrita en nuestras bases de datos y no ha participado como entidad beneficiaria. 
+ 
+5. Necesitamos saber, para fines de carta Gantt,¿ cuándo se adjudican los proyectos tic-edu? es 
+decir desde qué mes comienza la ejecución. 
+La adjudicación de los proyectos está programada para el mes de julio, pero después de ello se 
+  
+debe elaborar y firmar la Resolución de Adjudicación y las universidades deben firmar los 
+Convenios con CONICYT. Se sugiere que en la programación se hable de mes 1, mes 2, mes 3, 
+etc.....ya que la fecha de ejecución o inicio de actividades no depende solo de la fecha de 
+adjudicación. 
+ 
+ 
+6. ¿Es necesario adjuntar una carta de compromiso institucional al postular?  
+Sí, las Bases del VI Concurso, punto VI.3. señalan que las entidades elegibles y solicitantes de 
+financiamiento FONDEF deberán presentar al momento de la postulación, un documento por 
+medio del cual expliciten los bienes y recursos que ofrecerán para el desarrollo del proyecto; 
+deben subir a la plataforma el documento o carta en Anexos. 
+   
+7. ¿Es necesario adjuntar una declaración sobre aspectos éticos? 
+Sí. Las bases indican en el punto II.2. que los representantes legales de las entidades 
+beneficiarias de los proyectos que postulen, deberán anexar en la plataforma de postulación una 
+declaración  en la que se establezca que las actividades del proyecto y sus posibles resultados no 
+presentan controversias de carácter ético y que si eventualmente surgieran durante  la ejecución 
+del proyecto, ellas serán resueltas. 
+ 
+8. ¿Cuál es la fecha límite para enviar los documentos para entrar al concurso \"VI Concurso de 
+proyectos del Programa Tecnologías de Información y Comunicación Efectivas para la 
+Educación\", TIC EDU. 
+La fecha de cierre del concurso es el jueves 26 de abril a las 17.00 horas y la postulación es en 
+línea, o sea no se envían documentos impresos. El documento es enviado on line, desde la 
+plataforma de postulación por el o los Representante Legal (es) de la o las entidades 
+beneficiarias postulantes. El link a la plataforma de postulación es: 
+https://gestion.conicyt.cl/postulacion/ur/fondef/ticedu/42/static_sitio/index.html 
+   
+9. ¿El director del proyecto debe estar contratado por la Universidad o puede ser un profesional a 
+honorarios? 
+En las Bases del VI concurso TIC EDU, el punto V. Ítems Financiables por FONDEF a) Honorarios, 
+se señala a quiénes se puede financiar con este ítem y el procedimiento de pago. Al final de este 
+punto, se indica que el Director del proyecto no podrá ser contratado a honorarios.  
+    
+10. El director debe estar contratado jornada completa, 1/2 jornada, 1/4 de jornada? 
+No está reglamentado por Bases. El director del proyecto debe estar contratado por el tiempo 
+necesario para cumplir las funciones que la entidad beneficiaria le ha asignado así como el 
+tiempo que le requiera la dirección del proyecto.   
+ 
+11. Las horas que los profesores utilicen que sean necesarias para desarrollar e implementar el 
+proyecto como pruebas, pilotos, capacitación, y otros, ¿se pueden considerar como aportes 
+  
+valorizados de las entidades socias, en este caso, de la Municipalidad de la cual dependen los 
+colegios?  
+Sí, es uno de los aportes que pueden hacer las Municipalidades como entidades socias.  
+ 
+12. Un proyecto ¿Puede tener dos Mandantes? 
+No, solo puede tener un Mandante. Pero además debe tener otra entidad asociada como 
+mínimo, salvo excepciones que deben justificarse por escrito en la postulación. 
+  
+13. ¿Existe algún inconveniente para que la facultad de educación de una universidad vaya en más 
+de un proyecto como beneficiaria asociada? 
+Hay que aclarar que quién postula al proyecto como entidad beneficiaria, no es una facultad, 
+sino la universidad. En todo caso, no existe inconveniente para que una institución elegible vaya 
+en más de un proyecto como entidad beneficiaria asociada. Lo que se debe cuidar es que los 
+investigadores que participen en el proyecto dispongan del tiempo suficiente para participar en 
+más de un proyecto, además de cumplir con las cargas de trabajo propias de la universidad de la 
+que forma parte. 
+   
+14. En el caso que en un proyecto se trabaje con una empresa extranjera que le venderá al 
+proyecto un servicio o  una licencia a un precio menor al que cobra en el mercado. ¿cuál sería el 
+rol de la empresa?  
+El rol de la empresa en este caso sería de proveedora, porque está vendiendo un bien al 
+proyecto.  Para ser entidad asociada, debe aportar recursos al proyecto, además de cumplir otras 
+condiciones especificadas en las Bases.  
+ 
+15. ¿Qué condiciones deben cumplir las empresas asociadas? 
+Se recomienda leer las Bases del concurso ya que varios puntos hacen referencia a las empresas u 
+otras entidades asociadas; el punto I.2.5.  señala “entre otros”, que: el giro de las empresas 
+asociadas debe estar relacionado con las actividades y resultados del proyecto o con la 
+valorización, transferencia y/o masificación de estos resultados; las empresas deben especificar 
+los aportes financieros en los casos previstos en las Bases; deben respaldar sus aportes en 
+acuerdos de participación que se deben adjuntar a la presentación del proyecto en el formato 
+que se incluye para tal efecto…El punto II.4.  indica el porcentaje que deben aportar las empresas, 
+la clase de aportes tipo de proyecto, y otros aspectos sobre el tema.   
+ 
+16. Las Bases del concurso señalan que las entidades asociadas no recibirán subsidios de FONDEF ni 
+tampoco podrán ser proveedores de bienes o servicios para el proyecto financiados por el 
+subsidio, salvo que las(s) beneficiarias(s) solicite(n), previa y fundadamente, una excepción a la 
+Dirección Ejecutiva de FONDEF, la que podrá aprobarla o rechazarla.  ¿cuándo se envía esta 
+solicitud? 
+La solicitud se envía una vez que el proyecto ha sido adjudicado.   
+  
+  
+17. ¿Puede un investigador que es director alterno en un proyecto en curso, postular como director 
+responsable en el proyecto que se postule? 
+No hay impedimento por Bases para ello.  Lo que sí se debe cuidar es que el investigador 
+disponga del tiempo adecuado para responder a las obligaciones de ambos proyectos además de 
+las obligaciones comprometidas con la universidad.  
+  
+18. En un proyecto, ¿Pueden ir dos entidades beneficiarias? 
+Sí, en un proyecto pueden ir dos o más entidades beneficiarias; una de ellas debe asumir el rol de 
+institución principal, cuya función es la de coordinar a las beneficiarias que participan en el 
+proyecto.  
+ 
+ 

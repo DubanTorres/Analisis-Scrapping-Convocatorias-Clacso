@@ -1,0 +1,3343 @@
+
+E009-2019-01-ECOS 
+1/30| 
+ 
+ 
+ 
+ 
+BASES 
+MOVILIZACIONES CON ECOS 
+NORD – PERÚ 
+ 
+Concurso 2020-01 
+ 
+  
+ 
+E009-2020-01-ECOS 
+2/30 
+ 
+ÍNDICE 
+ 
+SIGLAS Y ACRÓNIMOS .............................................................................................. 3 
+1. 
+ASPECTOS GENERALES .................................................................................... 4 
+1.1. 
+Bases del Concurso ........................................................................................ 4 
+1.2. 
+Concurso ........................................................................................................ 4 
+1.3. 
+Objetivo General ............................................................................................. 5 
+1.4. 
+Resultados Esperados .................................................................................... 5 
+1.5. 
+Modalidad ....................................................................................................... 5 
+2. 
+CONDICIONES DEL CONCURSO ........................................................................ 6 
+2.1. 
+Prioridades del Concurso ................................................................................ 6 
+2.2. 
+Público Objetivo .............................................................................................. 6 
+2.3. 
+Conformación del equipo de investigación ...................................................... 6 
+2.4. 
+Financiamiento ............................................................................................... 7 
+3. 
+POSTULACIÓN ..................................................................................................... 8 
+3.1. 
+Elegibilidad ..................................................................................................... 8 
+3.2. 
+Documentos de postulación .......................................................................... 10 
+3.3. 
+Cronograma.................................................................................................. 12 
+3.4. 
+Absolución de consultas ............................................................................... 12 
+4. 
+EVALUACIÓN, SELECCIÓN Y RESULTADOS .................................................. 13 
+4.1. 
+Etapas del Proceso de Evaluación y Selección ............................................ 13 
+4.2. 
+Publicación de resultados ............................................................................. 16 
+4.3. 
+Contrato y Pagaré......................................................................................... 16 
+5. 
+SEGUIMIENTO Y MONITOREO ......................................................................... 17 
+DISPOSICIONES FINALES ....................................................................................... 18 
+ANEXO 1 .................................................................................................................... 19 
+ANEXO 2 .................................................................................................................... 20 
+ANEXO 3 .................................................................................................................... 26 
+ANEXO 4 .................................................................................................................... 27 
+ 
+ 
+  
+ 
+E009-2020-01-ECOS 
+3/30 
+ 
+ 
+ 
+SIGLAS Y ACRÓNIMOS 
+ 
+CONCYTEC Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica   
+CTI 
+Ciencia, Tecnología e Innovación 
+CTI Vitae 
+CTI Vitae – Hojas de Vida afines a la Ciencia y Tecnología (antes 
+DINA). 
+ECOS 
+NORD 
+Evaluación-Orientación de la Cooperación Científica 
+FONDECYT 
+Fondo Nacional de Desarrollo Científico, Tecnológico y de Innovación 
+Tecnológica 
+I+D+i 
+Investigación, Desarrollo e Innovación Tecnológica 
+ORCID 
+"Open Researcher and Contributor ID", en español “Identificador 
+Abierto de Investigador y Colaborador” 
+SINACYT 
+Sistema Nacional de Ciencia, Tecnología e Innovación Tecnológica 
+SUNEDU 
+Superintendencia Nacional de Educación Superior Universitaria 
+UES 
+Unidad de Evaluación y Selección (FONDECYT) 
+USM 
+Unidad de Seguimiento y Monitoreo (FONDECYT) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+E009-2020-01-ECOS 
+4/30 
+ 
+1. ASPECTOS GENERALES 
+ 
+CONCYTEC es el organismo rector del Sistema Nacional de Ciencia, Tecnología e 
+Innovación Tecnológica (SINACYT), encargado de dirigir, fomentar, coordinar, 
+supervisar y evaluar las acciones del Estado en el ámbito de la ciencia, tecnología e 
+innovación tecnológica. 
+ 
+El Fondo Nacional de Desarrollo Científico, Tecnológico y de Innovación Tecnológica 
+(FONDECYT), unidad ejecutora del CONCYTEC, tiene como objetivo gestionar 
+recursos para fomentar el desarrollo y competitividad del país a través de la Ciencia, 
+Tecnología e Innovación Tecnológica. 
+ 
+El presente concurso “Movilizaciones con ECOS-Nord-Perú” es el producto del 
+Convenio Específico de Cooperación Interinstitucional entre la Embajada de Francia y 
+el Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica del Perú 
+(CONCYTEC), con la participación de FONDECYT firmado el 30 de Mayo de 2019, con 
+el objeto de establecer pautas y mecanismos que permitan el desarrollo de actividades 
+científicas y adjudicación de recursos monetarios. 
+ 
+1.1. Bases del Concurso 
+1.1.1. Bases 
+Es el documento normativo del concurso publicado por FONDECYT. Las bases 
+constituyen un documento de cumplimiento obligatorio que rige para todo efecto legal. 
+1.1.2. Bases integradas 
+Es el documento oficial publicado, que resulta de las consultas y absolución de las 
+mismas que se consideran relevantes para el cumplimiento del objetivo del presente 
+concurso. Las Bases integradas se publican en el portal institucional de FONDECYT, en 
+la fecha señalada en la sección 3.3 de las presentes bases. En el caso de no presentarse 
+consultas se mantendrán las Bases descritas en la sección 1.1.1 como las definitivas. 
+ 
+1.2. Concurso 
+Es un documento oficial publicado por el Comité ECOS a través de su página web 
+https://www.univ-paris13.fr/cofecub-ecos/. El Concurso es el documento que establece 
+las condiciones que norman las interacciones entre los participantes y el Programa a 
+nivel internacional. Las presentes Bases aplican a los participantes peruanos. 
+ 
+ 
+  
+ 
+E009-2020-01-ECOS 
+5/30 
+ 
+1.3. Objetivo General 
+Promover la colaboración entre las comunidades académicas y científicas de Perú y 
+Francia, en los sectores prioritarios reconocidos por ambas partes, promoviendo 
+intercambios de experiencias y conocimiento científico, tecnológico e innovador y su 
+difusión; a través de la movilización de investigadores y estudiantes/egresados de 
+doctorado, en el marco de proyectos de investigación I+D que estén en ejecución o por 
+iniciar. 
+ 
+1.4. Resultados Esperados 
+Se espera que las postulaciones seleccionadas al finalizar su ejecución alcancen 
+obligatoriamente los siguientes resultados: 
+1) Al menos un (01) artículo científico aceptado para publicación en revistas 
+indizadas en Base de Datos internacional, preferentemente en Q1 o Q2. 
+2) Al menos un (01) investigador peruano y un (01) estudiante/egresado tesista 
+de doctorado peruano, de entidades peruanas, capacitados a través de una 
+pasantía en una entidad francesa. 
+3) Al menos una (01) tesis de doctorado sustentada y aprobada que conlleve a la 
+obtención del título o grado académico en una universidad peruana. 
+4) Difusión de conocimiento adquirido o intercambiado con instituciones francesas 
+a su retorno, se sugiere que dicha actividad se realice durante la estadía del 
+Investigador de Francia en Perú (por ejemplo: seminarios, cursos de corta 
+duración entre otros). La actividad se realizará durante la ejecución del proyecto 
+y deberá ser interinstitucional. 
+5) Propuesta de un nuevo proyecto de investigación, el cual promueva la 
+continuidad de la línea de investigación y colaboración establecida entre los 
+grupos de investigación de Perú y Francia. 
+ 
+1.5. Modalidad 
+ 
+Pasantías de investigación para promover el intercambio de experiencias y 
+conocimiento científico, tecnológico e innovador; capacitación y/o entrenamiento entre 
+equipos de investigación peruanos y franceses.  
+Las pasantías de investigación deberán tener como mínimo 15 días calendario de 
+duración (incluido el periodo de viaje). Se debe realizar, al menos, un intercambio de 
+Francia a Perú y de Perú a Francia por año. 
+Las fechas de las pasantías son libres, no obstante, es importante mencionar que cada 
+pasantía debe terminar como máximo hasta noviembre del mismo año. 
+ 
+  
+ 
+E009-2020-01-ECOS 
+6/30 
+ 
+2. CONDICIONES DEL CONCURSO 
+ 
+2.1. Prioridades del Concurso 
+Las propuestas que se presenten en este concurso deberán estar relacionadas con una 
+o varias de las siguientes áreas de conocimiento: 
+ 
+Ciencias de la Vida y Biotecnología 
+ 
+Ciencia y Tecnología de Materiales 
+ 
+Tecnologías de Información y Comunicación 
+ 
+Ciencias y Tecnologías Ambientales 
+ 
+Ciencias Básicas 
+ 
+Ciencias humanas, sociales y económicas 
+ 
+2.2. Público Objetivo 
+El presente concurso está dirigido a grupos de investigación peruanos pertenecientes a 
+entidades peruanas (universidades1, institutos y/o centros de investigación de desarrollo 
+científico y/o tecnológico) y participen en el marco de un proyecto de investigación I+D 
+colaborativo con un grupo de investigación francés en ejecución o por iniciar.  
+Pueden participar investigadores y tesistas de doctorado que estén involucrados en un 
+proyecto de investigación en ciencia, tecnología e investigación tecnológica y que el 
+tema de investigación haga uso de las áreas temáticas descritas en el numeral 2.1. 
+Se valorará positivamente por el comité de evaluación, los proyectos que fomenten la 
+estructuración de nuevas colaboraciones de investigación y la creación de redes de 
+equipos de investigación en lucha contra el Covid-19. 
+ 
+2.3. Conformación del equipo de investigación 
+El equipo de investigación deberá estar integrado como mínimo por un (01) Investigador 
+Principal y al menos un (01) Tesista de Doctorado, y opcionalmente un (01) Co-
+Investigador. 
+2.3.1. Investigador Principal (IP): Es el responsable de la ejecución y supervisión 
+del proyecto y de la rendición de informes técnico y financiero ante el 
+FONDECYT. Es el encargado de la postulación. 
+2.3.2. Co-Investigador (Co-I): Es quien aportará su experiencia y conocimiento 
+específico en la temática en la cual se enmarca el proyecto. Este 
+investigador poseerá conocimientos especializados en las áreas de 
+conocimiento enmarcados en el proyecto. 
+                                                
+1 Universidades licenciadas por la SUNEDU en el momento de la postulación. 
+  
+ 
+E009-2020-01-ECOS 
+7/30 
+ 
+2.3.3. Tesista de Doctorado: Es el candidato a doctor que realiza su tesis de 
+doctorado en el marco del proyecto de investigación I+D colaborativo con 
+Francia, para lo cual deberá contar con el respaldo del asesor de tesis.  
+Es indispensable que el equipo tenga la participación de tesistas de doctorado y 
+será necesario tener identificado al menos un (01) tesista al momento de la 
+postulación. Se permitirá que se identifiquen los otros tesistas de doctorado 
+durante la ejecución de la propuesta.  
+ 
+2.4. Financiamiento 
+2.4.1. Monto y plazo 
+FONDECYT otorgará un monto máximo de financiamiento en calidad de 
+recursos monetarios de USD 15,000.00 (Quince Mil y 00/100 Dólares) en 
+total por un periodo máximo de tres (03) años, a razón de hasta USD 
+5,000.00 (Cinco Mil y 00/100 Dólares) por año. 
+El IP y el Co-I pueden realizar como máximo una (01) pasantía a la entidad 
+francesa a lo largo de la subvención. Las siguientes pasantías deberán ser 
+realizadas por el (los) tesista (s) de Doctorado. 
+El financiamiento está relacionado a los gastos de viaje establecidos en el 
+numeral 2.4.2. 
+El importe del financiamiento se otorgará, de acuerdo con los montos 
+indicados en el siguiente cuadro: 
+Cuadro N° 01 
+ 
+ 
+ 
+ 
+ 
+2.4.2. Gastos financiables 
+1) Pasajes: Pasajes de ida y vuelta, en clase económica considerando un 
+único destino. Se permiten escalas, pero no estancias intermedias. Se 
+puede incluir pasajes aéreos, terrestres o acuáticos dependiendo de las 
+vías disponibles para llegar al destino final. Los mismos deberán ser previo 
+al inicio y al final del término de la pasantía. 
+                                                
+2 Elaboración propia de CONCYTEC, tomando como referencia la Resolución de Presidencia  Ejecutiva N°038-2019 – 
+SERVIR – PE. 
+- Tipo de cambio proyectado 3.5 soles por dólar estadounidense. 
+Concepto 
+Monto máximo de financiamiento (USD) 
+Pasajes 
+Hasta 2,000.00 
+Seguro de Viaje 
+Hasta 200.00 
+Manutención2  
+Entre 15 y 30 días 
+Mayor a 30 días 
+100.00/día 
+60.00/día 
+  
+ 
+E009-2020-01-ECOS 
+8/30 
+ 
+2) Seguro de viaje: El seguro es de carácter obligatorio y su valor debe estar 
+de acuerdo con el precio de mercado La cobertura típicamente incluye 
+gastos médicos de emergencia, muerte accidental, invalidez e imprevistos 
+logísticos durante el viaje (retraso de vuelos, demora o pérdida de 
+equipaje, robos, etc.). Se adjuntará la cotización del seguro en la ficha de 
+postulación, se puede financiar hasta un máximo de USD 200.00. 
+3) Manutención: Incluye alojamiento, alimentación y movilidad local. El 
+monto máximo financiable por día se asignará de acuerdo con el Cuadro 
+N° 01. Por los días de viaje (ida/retorno) solo se reconocerán alimentos y 
+movilidad local, los mismos que serán rendidos de acuerdo con lo 
+establecido en la Guía de Seguimiento y Monitoreo. 
+ 
+3. POSTULACIÓN  
+ 
+El registro de postulación se realiza a través de la página web de FONDECYT: 
+www.fondecyt.gob.pe, y no se aceptará ningún documento enviado por otra vía. 
+El postulante ingresa al sistema de postulación con su usuario y contraseña del CTI 
+Vitae3. El sistema permite una sola postulación por usuario (investigador principal). 
+El responsable de la contraparte de Francia deberá presentar el mismo Proyecto de 
+Investigación (proyecto de candidatura en formato emitido por Ecos Nord4), en forma 
+conjunta con la contraparte de Perú, en el idioma francés y/o inglés en versión PDF a la 
+dirección de correo electrónico ecos.nord@univ-paris13.fr antes del cierre del concurso. 
+Una misma Entidad de Respaldo podrá avalar varias postulaciones para diferentes 
+Equipos de Investigadores. Cada postulación será independiente y deberá cumplir con 
+los requisitos correspondientes al concurso. 
+Es responsabilidad del postulante actualizar su CTI Vitae con los documentos 
+sustentatorios (formación académica, experiencia laboral, asesoría de tesis, proyectos 
+de investigación, publicación de artículos, becas, premios, distinciones relevantes a esta 
+postulación, entre otros afines). La información del CTI Vitae que se tomará en cuenta 
+para la evaluación será la actualizada hasta el envío del registro de postulación ante el 
+FONDECYT. 
+ 
+3.1. Elegibilidad 
+Serán declaradas aptas las postulaciones que cumplan con los siguientes requisitos: 
+3.1.1. Para el Investigador Principal (Obligatorio) 
+                                                
+3 https://ctivitae.concytec.gob.pe/appDirectorioCTI/ 
+4 Formato disponible en la página web de ECOS Nord en el siguiente enlace : http://www.univ-paris13.fr/cofecub-ecos/ 
+  
+ 
+E009-2020-01-ECOS 
+9/30 
+ 
+1) 
+Tener residencia peruana y domicilio habitual en el Perú. 
+2) 
+Tener su ORCID (www.orcid.org), el cual deberá estar vinculado al CTI 
+Vitae.  
+3) 
+Tener grado de Doctor. 
+4) 
+Tener vínculo laboral y/o contractual con la entidad de respaldo, un 
+mínimo de 20 horas semanales al momento de la postulación. 
+5) 
+Haber participado (como Investigador o Co-Investigador) ó liderado al 
+menos uno (01) proyecto de investigación y/o tener un (01) artículo en 
+una revista indizada (Se adjuntara sustento en plataforma de 
+postulación). 
+3.1.2. Para el Co-Investigador (Opcional) 
+1) 
+Tener residencia o domicilio habitual en el Perú. 
+2) 
+Tener su ORCID (www.orcid.org), el cual deberá estar vinculado al CTI 
+Vitae.  
+3) 
+Tener grado de Doctor. 
+4) Tener vínculo laboral y/o contractual con la entidad de respaldo u otra 
+entidad similar, con un mínimo de 20 horas semanales, al momento de la 
+postulación. 
+3.1.3. Tesista de doctorado (Obligatorio) 
+5) 
+Ser estudiante y/o egresado de doctorado en universidades peruanas, 
+que vengan desarrollando una tesis de doctorado en el marco de la 
+propuesta presentada. Deberán acreditar su condición de estudiante o 
+egresado mediante la constancia respectiva. 
+6) 
+Tener Respaldo de su asesor de tesis, acreditado mediante Anexo 1. 
+ 
+3.1.4. Presentar la documentación obligatoria de acuerdo al numeral 3.2. 
+ 
+Restricciones e impedimentos: 
+1) 
+El Investigador Principal haya incurrido en faltas éticas5 y/o tener 
+obligaciones financieras pendientes y/o haber incumplido con las 
+obligaciones señaladas en sus respectivos contratos y/o convenios con 
+el FONDECYT. En caso de que el Co-Investigador o Tesista(s) de 
+Doctorado presenten incumplimientos, el Investigador Principal podrá 
+modificar la participación del Co-Investigador, tesista(s) de Doctorado no 
+elegible dentro de la propuesta. 
+2) 
+Se encuentren en el marco de un proyecto de investigación que persiga 
+                                                
+5 De acuerdo a lo estipulado en el Código Nacional de Integridad Científica, aprobado con Resolución de Presidencia 
+192-2019-CONCYTEC-P del 20/10/2019. 
+  
+ 
+E009-2020-01-ECOS 
+10/30 
+ 
+los mismos objetivos de otros proyectos culminados. 
+3) 
+Haber obtenido un financiamiento en el concurso Movilizaciones Ecos 
+Nord 2019-01. 
+4) 
+No contar con financiamiento de otro concurso con fondos públicos que 
+considere movilizaciones dentro de su ejecución. 
+5) 
+No pueden participar peruanos actualmente estudiando/trabajando en el 
+extranjero. 
+6) 
+Quienes se encuentren reportados en el Registro de Deudores 
+Alimentarios Morosos del Poder Judicial (REDAM). 
+7) 
+Ser funcionario o prestar servicios bajo cualquier denominación 
+contractual en CONCYTEC/FONDECYT. Esta restricción se extiende: 
+a) 
+Por seis (6) meses después de producido el cese o culminación de 
+la relación laboral o contractual. 
+b) 
+Al cónyuge o parientes hasta cuarto grado de consanguinidad o 
+segundo de afinidad por razón de matrimonio. 
+c) 
+A cualquier estipendio o remuneración con fondos de la 
+subvención.  
+ 
+3.2. Documentos de postulación 
+ 
+El registro de la postulación en el sistema constituye la totalidad de la propuesta que va 
+a ser evaluada (Información del Postulante, Propuesta, Plan de Trabajo, Presupuesto y 
+Declaración Jurada) y permitirá adjuntar los siguientes documentos en formato PDF: 
+1) 
+CV6 del Investigador Principal Peruano y del Co- investigador, Tesista(s) de 
+Doctorado del equipo de investigación obtenidos del CTI Vitae. El CV se genera 
+de manera automática al momento del envío del registro. Antes del envío, tomar 
+en cuenta que a través del CTI Vitae se presenta lo siguiente: 
+a) Los títulos profesionales y grados académicos: aquellos reconocidos por 
+SUNEDU tendrán opción de ser importados a través del CTI Vitae, de lo 
+contrario, si es un título o grado que no está registrado en la SUNEDU, el 
+postulante deberá: 
+ Si es un título o grado emitido por una universidad peruana, deberá 
+adjuntarlo manualmente 
+ Si es un grado emitido en el extranjero deberá adjuntarlo manualmente; si 
+no se encuentra inscrito en la SUNEDU, deberá inscribirlo en los doce (12) 
+meses posteriores a la firma del contrato, de resultar seleccionada la 
+propuesta. 
+                                                
+6 De acuerdo con el Artículo N°11 del Reglamento RENACYT, para acceder a subvenciones del FONDECYT del 
+FONDECYT el Investigador debe aprobar el CRI, para ello utilice su usuario y contraseña de CTI Vitae (antes DINA) para 
+acceder al proceso de certificación del mismo. 
+  
+ 
+E009-2020-01-ECOS 
+11/30 
+ 
+Además, deberá adjuntar la traducción simple en caso de diplomas en un 
+idioma diferente al español (todo en el mismo archivo de carga). 
+En ningún caso se aceptarán documentos diferentes a diplomas de los títulos 
+o grados 
+b) La experiencia liderando/participando proyectos de investigación, adjuntando 
+copia de constancia emitida por la institución donde se ejecutó el proyecto y/o 
+la entidad que subvencionó el mismo.   Para ser válidas, las constancias 
+deben contener el título del proyecto, la fuente de financiamiento, el nombre 
+y rol que desempeñó el postulante en el proyecto y las fechas en las que se 
+ejecutó el mismo. Adicionalmente para el Investigador Principal, lo deberá 
+adjuntar en la plataforma de postulación. 
+ 
+2) 
+Documento de Respaldo al tesista de doctorado por parte de su asesor de tesis 
+(Anexo 1)7. 
+3) 
+En caso de el (los) tesista(s) de Doctorado, constancia de estudios y/o constancia 
+de egresado.  
+4) 
+Proyecto de Investigación (proyecto de candidatura) entre Perú-Francia en versión 
+español (Anexo 2). 
+5) 
+Proyecto de Investigación (proyecto de candidatura) de la contraparte de Francia 
+en versión francés y/o inglés que evidencie su presentación en Francia. 
+6) 
+Documento de presentación de la entidad peruana de respaldo8 (Anexo 3). 
+ 
+Aquellos documentos que estén firmados deberán presentarse escaneados o con firmas 
+digitales. No se aceptarán firmas que sean imágenes copiadas y pegadas.   
+ 
+Aquellos documentos que estén en un idioma distinto al castellano deberán adjuntarse 
+con su traducción simple, incluyendo aquellos que se adjunten a través del CTI Vitae – 
+Hojas de vida afines a la Ciencia y Tecnología.  
+ 
+La información y documentos adjuntos que se consignen en el registro de postulación, 
+incluyendo los datos del CTI Vitae del Investigador Principal Peruano, tienen carácter 
+de declaración jurada. 
+ 
+Después del cierre del registro de la participación no se aceptarán documentos que no 
+hayan sido adjuntados a través de la página web de FONDECYT. 
+ 
+ 
+ 
+                                                
+7 Los tesistas no identificados durante la postulación deberán presentar la documentación requerida a la Unidad de 
+Seguimiento y Monitoreo al momento de su incorporación. 
+8 Firmada por el representante legal o provisionalmente por una autoridad competente. 
+  
+ 
+E009-2020-01-ECOS 
+12/30 
+ 
+3.3. Cronograma  
+Cualquier actualización del Cronograma será comunicada a través de la página web del 
+FONDECYT. 
+ 
+Actividad 
+Fecha 
+Apertura de la Convocatoria. 
+A partir del martes, 23 de junio de 2020. 
+Fecha límite de recepción de 
+consultas para la Integración de 
+bases. 
+Lunes, 29 de junio de 2020. 
+Publicación de Bases Integradas. 
+A partir del jueves, 02 de julio de 2020. 
+Cierre de la Convocatoria. 
+Jueves, 06 de agosto de 2020 a las 
+13:00:00 hora local UTC/GMT -5 horas. 
+Publicación de Resultados. 
+A partir del lunes, 19 de octubre de 2020. 
+Fecha de inicio de las actividades. 
+A partir de febrero de 2021. 
+ 
+La hora local del cierre de postulación en la fecha de corte es 13:00:00 horas. Diferencia 
+horaria (hora estándar) UTC/GMT -5 horas. 
+Cualquier actualización del Cronograma será comunicada a través de la página web del 
+FONDECYT. 
+ 
+3.4. Absolución de consultas 
+ 
+Las consultas sobre el contenido de las bases podrán realizarse vía correo electrónico 
+a: convocatorias@fondecyt.gob.pe 
+ 
+Las consultas sobre el funcionamiento del sistema en línea deben ser dirigidas al correo 
+de ayuda del sistema: mesadeayuda@concytec.gob.pe 
+ 
+Las consultas sobre resultados del concurso deben ser dirigidas al correo: 
+activatuconsulta@fondecyt.gob.pe  
+ 
+Las consultas con relación al registro y el funcionamiento del CTI Vitae deben dirigirse 
+al correo de apoyo del sistema: ctivitae@concytec.gob.pe  
+ 
+ 
+  
+ 
+E009-2020-01-ECOS 
+13/30 
+ 
+4. EVALUACIÓN, SELECCIÓN Y RESULTADOS  
+ 
+FONDECYT, a través de la Unidad de Evaluación y Selección (UES) es responsable del 
+proceso de evaluación y selección de las propuestas presentadas en la etapa de 
+postulación, hasta la publicación de los resultados del concurso. 
+El CONCYTEC y el FONDECYT se reservan el derecho de solicitar a los postulantes 
+los documentos probatorios de las declaraciones juradas presentadas en el presente 
+concurso, información o documentación complementaria y/o aclaratoria, cuando lo 
+considere pertinente, manteniendo el principio de equidad para todos los postulantes. 
+Así mismo, el FONDECYT podrá hacer uso de herramientas para detección de plagio. 
+De detectarse algún plagio o falsedad durante el proceso de evaluación o selección, la 
+propuesta quedará fuera del concurso. 
+ 
+4.1. Etapas del Proceso de Evaluación y Selección  
+4.1.1. Elegibilidad 
+En esta etapa se verifican los requisitos de elegibilidad según lo dispuesto en el numeral 
+3.1 de las presentes Bases. El cumplimiento o incumplimiento de dichos requisitos 
+determinan las postulaciones Aptas y No Aptas, respectivamente. 
+La verificación de documentos de elegibilidad se podrá realizar en paralelo a la etapa 
+de evaluación. 
+Mayor detalle podrá encontrarse en la Cartilla de Elegibilidad. 
+ 
+4.1.2. Evaluación 
+En esta etapa, la evaluación de las postulaciones aptas es realizada por dos (02) 
+evaluadores externos según las temáticas de las postulaciones, sobre la siguiente 
+escala. 
+La evaluación externa se basa en la siguiente escala: 
+ 
+ESCALA DE CALIFICACIÓN 
+No cumple con 
+el criterio 
+Deficiente 
+Regular 
+Bueno 
+Muy 
+Bueno 
+Sobresaliente 
+0 
+1 
+2 
+3 
+4 
+5 
+ 
+  
+ 
+E009-2020-01-ECOS 
+14/30 
+ 
+Una propuesta será considerada aprobada cuando alcance la calificación igual o mayor 
+a 3.0 puntos. 
+El puntaje final de la propuesta se obtendrá mediante el promedio de la calificación de 
+los evaluadores.  
+Los criterios y sub criterios utilizados por los evaluadores externos son los siguientes: 
+  
+CRITERIO  
+SUB-CRITERIOS 
+PONDERACIÓN 
+I. Calidad 
+científica de la 
+propuesta 
+Del proyecto de investigación 
+50% 
+75% 
+Originalidad del proyecto de investigación 
+15% 
+La descripción y diseño de la metodología 
+propuesta es apropiada y se encuentra bien 
+fundamentada para obtener los resultados 
+esperados del proyecto. 
+15% 
+Las actividades y cronograma propuesto 
+conllevan a lograr los productos esperados. 
+5% 
+Pertinencia y complementariedad de los 
+equipos de investigación peruano y francés 
+para el logro del objetivo del proyecto de 
+investigación 
+15% 
+De la pasantía 
+25% 
+Competencia 
+e 
+idoneidad 
+de 
+los 
+investigadores pasantes y su relación con el 
+plan de trabajo de la pasantía. 
+10% 
+El Plan de Trabajo de la pasantía es 
+presentado de forma clara, es factible, 
+coherente y se enmarca dentro del proyecto 
+de investigación. 
+15% 
+II. Impacto 
+Perspectivas para desarrollar y estructurar 
+asociaciones a largo plazo. 
+15% 
+25% 
+Resultados esperados del proyecto son 
+escalables y/o sostenibles. 
+5% 
+Contribución de la pasantía al desarrollo 
+profesional de los pasantes 
+5% 
+  
+ 
+E009-2020-01-ECOS 
+15/30 
+ 
+Únicamente a las propuestas aprobadas se le otorgará el puntaje adicional acumulativo 
+en base a los siguientes criterios:  
+1) Propuestas que tengan como investigador principal a una persona con 
+discapacidad o el proyecto propuesto tiene como objetivo principal mejorar los 
+niveles de vida de las personas con discapacidad: 4% del puntaje total obtenido.9 
+El postulante deberá adjuntar el certificado de discapacidad permanente e 
+irreversible otorgado por las instituciones que señala la Ley o la Resolución 
+Ejecutiva de inscripción en el Registro Nacional de la Persona con Discapacidad 
+a cargo del Consejo Nacional de las Personas con Discapacidad (CONADIS). 
+2) Propuestas que provengan de regiones (excepción Lima Metropolitana y Callao); 
+4% del puntaje total obtenido.  
+3) Para propuestas que tengan una mujer como investigadora principal: 4% del 
+puntaje total obtenido. 
+4) Para propuestas cuyo investigador principal no sea mayor de 35 años (al cierre 
+de la postulación): 4% del puntaje total obtenido. 
+ 
+Con el puntaje adicional, en caso aplique, se obtendrá el puntaje final. 
+Sólo aquellas propuestas cuyo puntaje final supere el puntaje mínimo aprobatorio, 
+serán consideradas en la selección. 
+Mayor detalle podrá encontrarse en la Cartilla de Evaluación. 
+ 
+4.1.3. Selección 
+En esta etapa participarán las propuestas que obtuvieron como mínimo calificaciones 
+promedio aprobatorias de la etapa anterior. Un comité bilateral, conformado por 
+especialistas de la parte peruana y de la francesa, compararan los resultados de la 
+evaluación realizada por las partes y seleccionar de manera consensuada, la lista de 
+propuestas a ser financiadas, en base a los siguientes criterios: 
+ 
+ 
+Su calidad científica. 
+ 
+Su carácter innovador. 
+ 
+La competencia y complementariedad de los equipos de investigación. 
+ 
+La participación y la formación de jóvenes investigadores, en particular los 
+tesistas de doctorado. 
+ 
+Resultados científicos y/o industriales esperados (coediciones, patentes, etc). 
+ 
+Las perspectivas para desarrollar y estructurar las asociaciones a largo plazo. 
+                                                
+9 De conformidad con la Ley N°30863, Ley que desarrolla y complementa el inciso m) del artículo 5 de la Ley N°28303, 
+Ley marco de Ciencia, Tecnología e Innovación Tecnológica, desde la perspectiva de enfoque de discapacidad. 
+  
+ 
+E009-2020-01-ECOS 
+16/30 
+ 
+4.2. Publicación de resultados 
+FONDECYT emitirá la Resolución de Dirección Ejecutiva con los resultados del 
+concurso. Los resultados son definitivos e inapelables y serán publicados en el portal 
+web de FONDECYT (www.fondecyt.gob.pe). La selección de la propuesta no implica 
+una aceptación total del presupuesto. 
+FONDECYT, a través de la UES, comunicará a todos los postulantes, vía correo 
+electrónico, el resultado y retroalimentación según la etapa correspondiente. 
+ 
+4.3. Contrato y Pagaré  
+Previo a la suscripción del contrato, y de estimarlo conveniente, FONDECYT verificará 
+la exactitud y pertinencia de los antecedentes presentados en la postulación, el respaldo 
+de las constancias o documentos correspondientes, así como el cumplimiento de los 
+requisitos y condiciones establecidas. En caso de hallar algún incumplimiento, 
+restricción o impedimento, se dejará sin efecto la designación y podrá asignar el 
+financiamiento al accesitario según el orden de mérito y disponibilidad presupuestal, 
+según corresponda.  
+En caso la propuesta seleccionada ya se encuentre en ejecución, FONDECYT podrá 
+resolver el contrato según se establece en la Guía de Seguimiento y Monitoreo. 
+Asimismo, 
+en cualquiera 
+de 
+los casos FONDECYT tomará 
+las medidas 
+correspondientes respecto a la participación en futuros concursos, así como las 
+acciones correspondientes de Ley. 
+El contrato será suscrito entre el Investigador Principal y el Director Ejecutivo de 
+FONDECYT.  
+El FONDECYT efectuará el desembolso del monto aprobado del primer año en una sola 
+armada una vez que el seleccionado entregue: 
+ 
+a) Número de cuenta bancaria y código interbancario. 
+b) Lugar de apertura de la misma para efectuar el depósito. 
+c) Un pagaré a favor del Fondo Nacional de Desarrollo Científico, Tecnológico y de 
+Innovación Tecnológica por el 50% del primer desembolso (Anexo 5). Este 
+pagaré deberá mantenerse vigente durante el plazo del contrato y podrá ser 
+ejecutado en caso de incumplimiento del contrato por parte del seleccionado. 
+ 
+Si el seleccionado no se presenta para firmar el contrato en el plazo establecido en la 
+comunicación que envía FONDECYT o renuncia a la subvención, FONDECYT podrá 
+asignar el financiamiento al accesitario según el orden de mérito y disponibilidad 
+presupuestal, según corresponda. Asimismo, en caso de desistimiento o renuncia sin la 
+  
+ 
+E009-2020-01-ECOS 
+17/30 
+ 
+justificación oportuna, FONDECYT podrá tomar las medidas correspondientes respecto 
+a su participación en futuros concursos. 
+Para hacer efectivo los siguientes desembolsos, estarán sujeto a la aprobación del 
+Informe Técnico Anual del progreso del avance del proyecto por el Comité Bilateral 
+(Perú-Francia), de acuerdo con lo establecido en la Guía de Seguimiento y Monitoreo. 
+ 
+5. SEGUIMIENTO Y MONITOREO  
+Una vez suscrito el contrato se llevará a cabo el proceso de seguimiento y monitoreo 
+técnico y financiero. Éste estará a cargo de la Unidad de Seguimiento y Monitoreo (USM) 
+de FONDECYT, que tiene por objeto supervisar el cumplimiento de las obligaciones del 
+seleccionado, de acuerdo con la Guía de Seguimiento y Monitoreo. 
+ 
+Para ser reconocidos como resultados de la subvención, todos los artículos de 
+investigación y demás publicaciones y ponencias derivadas de la subvención deben 
+indicar con claridad el reconocimiento de financiamiento en forma de una oración que 
+incluya el nombre completo de la agencia financiadora y el número del contrato entre 
+corchetes: 
+ 
+Este trabajo fue financiado por el CONCYTEC-FONDECYT en el marco del concurso 
+“Movilizaciones con ECOS Nord-Perú 2020-01” [número de contrato xxx-202_]. 
+ 
+En caso de que se den múltiples subvenciones, éstas deberán estar separadas por 
+comas y un espacio. Si la investigación fue financiada por más de una agencia, las 
+agencias serán separadas por punto y coma, con la palabra "y" antes de la última 
+agencia. Por ejemplo: 
+ 
+Este trabajo fue financiado por el CONCYTEC-FONDECYT en el marco del concurso 
+“Movilizaciones con ECOS Nord-Perú 2020-01” [número de contrato xxx-2019, yyy-
+202_]; el Wellcome Trust [número de contrato xxxx]; y el Medical Research Council 
+[número de contrato aaaa]. 
+ 
+Todos los autores listados en una publicación deben brindar la información relevante 
+sobre los respectivos financiamientos al autor de contacto (corresponding author). Es 
+responsabilidad del autor de contacto brindar dicha información al editor en el formato 
+especificado arriba. 
+ 
+ 
+ 
+  
+ 
+E009-2020-01-ECOS 
+18/30 
+ 
+DISPOSICIONES FINALES 
+ 
+ 
+PRIMERA 
+Todo seleccionado que se someta a las presentes Bases, debe 
+conducir su actuación sin transgredir el Código Nacional de la Integridad 
+Científica10 y las normas sobre propiedad intelectual, incluyendo la 
+relacionadas al acceso y uso de recursos genéticos y conocimientos 
+tradicionales. 
+SEGUNDA 
+Si la propuesta incluye el uso de recursos de la biodiversidad, los 
+postulantes deberán comprometerse a iniciar el proceso de solicitud de 
+la autorización de investigación, con o sin colecta y/o contrato de 
+acceso a los recursos genéticos, o si la investigación se realiza en un 
+área natural protegida, de acuerdo a los procedimientos y normativas 
+de las Autoridades Sectoriales de Administración y Gestión11 
+TERCERA 
+Si la propuesta incluye el trabajo con seres vivos o muestras biológicas, 
+debe ser aprobado por un Comité de Ética en la Investigación12.   
+CUARTA 
+CONCYTEC y FONDECYT se reservan el derecho de solicitar los 
+documentos en original cuando lo considere pertinente. CONCYTEC 
+tiene la facultad de fiscalización posterior según numeral 1.1.6 del inciso 
+1) del artículo IV de la Ley 27444, Ley del Procedimiento Administrativo 
+General, aprobado con Decreto Supremo N° 004-2019-JUS y puede 
+verificar en cualquier fase del concurso la veracidad de la información. 
+Si se comprueba que la información presentada al concurso no es 
+veraz, el postulante quedará eliminado del presente concurso.    
+QUINTA 
+Toda publicación 
+y ponencia debe indicar con claridad el 
+reconocimiento de financiamiento en forma de una oración que incluya 
+el nombre completo de la agencia financiadora y el número del contrato 
+entre corchetes: Este trabajo fue financiado por el CONCYTEC-
+FONDECYT en el marco del concurso “Movilizaciones con ECOS Nord-
+Perú 2020-01” [número de contrato xxx-202_ 
+                                                
+10 Código Nacional de la Integridad Científica, aprobado con Resolución de Presidencia 192-2019-CONCYTEC-P del 
+20/10/2019. 
+11  1. Para obtener el contrato de acceso a los recursos genéticos o autorización de investigación en: 
+FAUNA Y FLORA SILVESTRE solicitarlo ante la Dirección General de Gestión Sostenible del Patrimonio forestal 
+y de Fauna Silvestre del SERFOR. 
+AGROBIODIVERSIDAD (CULTIVOS Y CRIANZAS) solicitarlo ante la Dirección de Gestión de la Innovación 
+Agraria del INIA. 
+RECURSOS HIDROBIOLÓGICOS solicitarlo ante el Viceministerio de Pesca y Acuicultura del PRODUCE:  
+- Dirección General de Asuntos Ambientales Pesqueros y Acuícolas. 
+- Dirección General de Extracción y Producción Pesquera para Consumo Humano Indirecto. 
+12 En caso de que la entidad solicitante no cuente con un Comité de Ética en la Investigación institucional puede recurrir 
+a entidades externas, por ejemplo, el INS. 
+  
+ 
+E009-2020-01-ECOS 
+19/30 
+ 
+ANEXO 1 
+DOCUMENTO DE PRESENTACIÓN Y RESPALDO DEL TESISTA DE DOCTORADO 
+(Para él o los tesistas identificados al momento de la postulación) 
+Ciudad, ……. de….……….. de 2020 
+Señor 
+Director Ejecutivo 
+Fondo Nacional de Desarrollo Científico, Tecnológico y 
+de Innovación Tecnológica 
+Lima.- 
+ 
+De mi consideración; 
+Tengo el agrado de dirigirme a usted, en mi calidad de Asesor de Tesis para presentar 
+a 
+[……………………………………………………………………………………....] 
+(Nombres 
+y 
+Apellidos 
+del 
+Tesista) 
+con 
+DNI 
+[…………………………..], 
+[…………………………..] 
+(Alumno/Egresado) 
+del 
+[……………………………………………………………………………………………..] 
+(Nombre 
+del 
+Programa 
+de 
+Posgrado) 
+de 
+la 
+[……………………………………………………………………………………....] 
+(Razón 
+Social 
+de 
+la 
+Universidad), 
+con 
+Proyecto 
+de 
+Tesis 
+[…………………………………………………………………………..] (Nombre de la Tesis) 
+a fin de que se considere su participación en el Concurso “Movilizaciones con ECOS 
+Nord- Perú, 2020-01”. 
+ 
+Sin otro particular, quedo de usted. 
+ 
+Atentamente, 
+ 
+ 
+----------------------------------------------------  
+Firma13  
+Nombres y Apellidos: 
+Documentos de Identidad: 
+Institución a la que pertenece: 
+Cargo: 
+Correo electrónico institucional: 
+Teléfono: 
+                                                
+13 La firma deberá ir acompañada de un sello institucional correspondiente. 
+  
+ 
+E009-2020-01-ECOS 
+20/30 
+ 
+ANEXO 2 
+PROYECTO DE INVESTIGACIÓN 
+(Proyecto de candidatura) 
+1. Título del proyecto 
+…………………………………………………………………………………………
+………………………………………………………………………………………… 
+ 
+Disciplina: Indicar la casilla correspondiente al campo de su proyecto 
+correspondiente: 
+ 
+Ciencias de la Vida y Biotecnología 
+Ciencia y Tecnología de Materiales 
+Tecnologías de Información y Comunicación 
+Ciencias y Tecnologías Ambientales 
+Ciencias Básicas 
+Ciencias humanas, sociales y económicas 
+ 
+2. Instituciones 
+ 
+ 
+ 
+ 
+Nombre del Responsable del Proyecto en Francia: 
+………………………………………………………………………………………………….. 
+Nombre del Responsable del Proyecto en Perú: 
+…………………………………………………………………………………………………. 
+En Francia: 
+Institución: 
+Laboratorio o Equipo (al que pertenece el responsable del proyecto): 
+Estatuto y número de la unidad: 
+(ex:URM 999 CNRS) 
+Nombre del Director: 
+ 
+En Perú 
+Institución: 
+Laboratorio o Equipo: 
+  
+ 
+E009-2020-01-ECOS 
+21/30 
+ 
+3. Responsables del Equipo 
+Nota. El responsable francés debe estar en actividad en el momento de la 
+presentación del proyecto. 
+ 
+ 
+4. Lista de Investigadores que participan en el Proyecto 
+Comenzar por el Investigador Principal e indicar obligatoriamente los doctorandos 
+que participan en él, incluso si se mencionan en otra parte. Cada equipo debe 
+constar mínimo 2 participantes. Solo los que figuran en esta lista pueden 
+beneficiarse de las movilizaciones. 
+*Recordatorio: Los investigadores que participan en un proyecto ECOS Nord deben 
+estar en actividad al momento de la presentación del proyecto. 
+ 
+Nombre y 
+Apellido 
+Título o Grado 
+académico 
+(considerar el 
+más alto) 
+Institución 
+Cargo actual y/o 
+diploma 
+(constancia) de 
+estudios 
+En Francia: 
+- 
+ 
+- 
+ 
+- 
+ 
+ 
+ 
+ 
+En Francia: 
+Apellido y nombre:……….…………………….…………Grado:…………………. 
+Dirección administrativa:…………...……………………………………………….. 
+Teléfono:………………..Fax:………….Correo electrónico:……………..….…… 
+ 
+En Perú: 
+Apellido y nombre:……….…………………….…………Grado:…………………. 
+Dirección administrativa:…………...……………………………………………….. 
+Teléfono:………………..Fax:………….Correo electrónico:……………..….…… 
+ 
+  
+ 
+E009-2020-01-ECOS 
+22/30 
+ 
+ 
+ 
+ 
+ 
+5. Resumen del proyecto (no sobrepasar el margen inferior del cuadro, 
+detallar el proyecto en la sección 8). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6. Ayudas públicas y privadas obtenidas* (ANR, PCP, CNRS, Unión 
+Europea, empresarios, etc) que estén relacionadas al proyecto. *En 
+Francia  y Perú, de manera breve; por ejemplo: ANR 2007-2010; colocar título 
+completo y los detalles en la sección 8.6. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+En Perú 
+- 
+ 
+- 
+ 
+- 
+ 
+ 
+ 
+ 
+ 
+¿Presentó este proyecto a ECOS Nord anteriormente? Si____No_____ 
+ 
+En caso de responder Sí, indique el código, año y nombre del proyecto: 
+ 
+Otras ayudas públicas recibidas anteriormente: 
+ 
+Ayudas privadas: 
+ 
+  
+ 
+E009-2020-01-ECOS 
+23/30 
+ 
+7. Formación Doctoral 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8. Descripción detallada del proyecto  
+En esta última parte, se deberá respetar la sucesión de las secciones, pero se 
+podrá ajustar libremente su tamaño, intercalar entre ellas tantas páginas como 
+sea necesario y utilizar anexos. No es necesario colocar el texto en negrita. 
+Nota: los proyectos deben ser redactados en términos estrictamente 
+equivalentes en francés/español, de no ser así, las redacciones diferentes 
+podrán dar origen a diferentes apreciaciones de la parte de los expertos 
+evaluadores por los comités. 
+ 
+8.1. Identificación del tema y estado del arte 
+8.2. Objetivos 
+8.3. Metodología 
+8.4. Justificación 
+8.5. Cronograma 
+8.6. Resultados previstas al término de la acción 
+Nota: es importante que toda publicación, en cualquier soporte (papeles, 
+afiches, película, video, etc) incluyendo resúmenes (abstracts) realizados en 
+congresos, indique su inscripción en el marco del programa ECOS-Nord Perú, 
+apoyado por el Ministerio para Europa y de Asuntos Exteriores (MEAE) y el 
+Ministerio de Enseñanza Superior, de investigación y de Innovación (MESRI) 
+por parte francesa y de CONCYTEC por la parte peruana. 
+ 
+8.7. Impacto 
+8.8. Antecedentes de cooperación 
+De haberse mencionado otras cooperaciones en la sección 6, esas deben ser 
+detalladas en esta sección. De ser necesario, adjuntar como anexo las 
+Indique los estudiantes peruanos y franceses contemplados en el proyecto, 
+mencionando los beneficiarios, la organización que financia la beca de doctorado 
+y la naturaleza del doctorado. Se prestará especial atención a los doctorados co-
+tutela. 
+a- Estudiantes peruanos y la entidad a la que hizo la solicitud de subvención:  
+ 
+b- Estudiantes franceses y la entidad al que se hizo la solicitud de subvención: 
+  
+ 
+E009-2020-01-ECOS 
+24/30 
+ 
+referencias de las publicaciones firmadas en conjunto, tesis, equipamientos 
+realizados, proyectos conjuntos, títulos, etc. Esta rúbrica debe mencionar las 
+acciones ECOS anteriores de las que ha sido participe cada uno de los 
+miembros del proyecto. 
+ 
+8.9. Publicaciones 
+Lista de las cinco publicaciones más significativas de los 2 equipos 
+correspondientes en los últimos cinco años (tenga o no relación con el 
+proyecto). 
+ 
+8.10. Información complementaria 
+Marcar las casillas en el caso de respuesta positiva 
+ 
+Este proyecto ha sido presentado, en su totalidad o en parte, a 
+otro organismo (indicar los recursos obtenidos 
+eventualmente):…………………………………………………….. 
+Este proyecto ha sido seleccionado por:………………………para 
+el periodo de:………………..hasta:…………. 
+Este proyecto no ha sido presentado, ni siquiera en parte, a 
+ningún organismo. 
+ 
+ 
+8.11. Referencia de 2 personas  
+Proponer nombres y apellidos, la dirección postal y la del correo electrónico de 
+2 personas como referencia con un cargo en Francia que no colaboran en el 
+proyecto. Una de ellas será solicitada, además de un experto escogido por el 
+Comité Científico ECOS Nord. 
+  
+ 
+E009-2020-01-ECOS 
+25/30 
+ 
+9. Recursos 
+ 
+ 
+Recursos solicitados en el marco de ECOS NORD Perú para el primer año del 
+proyecto: 
+1. Número de movilizaciones para investigadores confirmados, con justificación 
+científica y, a la vez, mencionar obligatoriamente su duración, periodo y los 
+beneficiarios: 
+a. Investigadores Franceses confirmados que se trasladarán a Perú (15 días 
+como mínimo): 
+…………………………………………………………………………………… 
+…………………………………………………………………………………… 
+…………………………………………………………………………………… 
+…………………………………………………………………………………… 
+…………………………………………………………………………………… 
+ 
+b. Investigadores Peruanos confirmados que se trasladarán a Francia (15 días 
+como mínimo): 
+…………………………………………………………………………………… 
+…………………………………………………………………………………… 
+…………………………………………………………………………………… 
+…………………………………………………………………………………… 
+…………………………………………………………………………………… 
+2. Pasantías para investigadores en formación (doctorandos) y, a la vez, 
+mencionar el número de beneficiarios (proporcionar el plan de trabajo): 
+ 
+a. Estudiantes peruanos confirmados que se trasladarán a Francia (número) 
+(15 días como mínimo): 
+…………………………………………………………………………………… 
+…………………………………………………………………………………… 
+…………………………………………………………………………………… 
+…………………………………………………………………………………… 
+…………………………………………………………………………………… 
+ 
+b. Estudiantes franceses que se trasladarán a Perú (número) (15 días como 
+mínimo): 
+…………………………………………………………………………………… 
+…………………………………………………………………………………… 
+…………………………………………………………………………………… 
+  
+ 
+E009-2020-01-ECOS 
+26/30 
+ 
+ANEXO 3 
+DOCUMENTO DE PRESENTACIÓN DE LA ENTIDAD RESPALDO 
+Ciudad, ………..…. de….……….. de 2020 
+Señor 
+Director Ejecutivo 
+Fondo Nacional de Desarrollo Científico, Tecnológico y 
+de Innovación Tecnológica 
+Lima.- 
+ 
+Tengo el agrado de dirigirme a usted como Representante Legal/Autoridad Competente 
+de […………………………..] (Razón social de la Entidad de Respaldo) con domicilio en 
+[…………………………..], RUC N° […………………………..] para presentar a 
+[…………………………..] (Investigador Principal), con DNI […………………………..], 
+quien 
+es 
+responsable 
+del 
+proyecto 
+colaborativo 
+internacional 
+titulado 
+[…………………………..] en colaboración con […………………………..] (Nombre de la 
+Entidad de Francia), quien cumple con los requisitos establecidos en las bases del 
+concurso “Movilizaciones con ECOS Nord-Perú, 2020-01”. En ese sentido, la ejecución 
+de la investigación propuesta por el seleccionado se realizará en las instalaciones de la 
+Entidad de Respaldo, a la vez, declaro que el Investigador Principal tiene vínculo laboral 
+y/o contractual con un mínimo de 20 horas semanales. 
+ 
+La Entidad de Respaldo se compromete a otorgar la licencia al Investigador Principal 
+por concepto de la(s) movilización (s) y a reincorporarlo a sus actividades laborales una 
+vez concluida(s) la(s) misma(s) y se compromete a mantener el vínculo laboral y/o 
+contractual durante la ejecución del proyecto.  
+ 
+El equipo de investigación estará integrado también por……………………………….Co-
+Investigador y ………………………………. estudiante/egresado de Doctorado, cuyos 
+aportes a la ejecución del proyecto estarán dirigidos por el Investigador Principal. 
+ 
+Sin otro particular, quedo de usted. 
+Atentamente, 
+---------------------------------------------------- 
+Firma14 
+Nombres y Apellidos: 
+Documentos de Identidad: 
+Institución a la que pertenece: 
+Cargo: 
+Correo electrónico institucional: 
+Teléfono: 
+                                                
+14 Firmada por el representante legal o provisionalmente por una autoridad competente, y deberá ir acompañada de un 
+sello institucional correspondiente. 
+  
+ 
+E009-2020-01-ECOS 
+27/30 
+ 
+ 
+ANEXO 4 
+PAGARÉ Nº……………. 
+ 
+Esquema Financiero: ………………… 
+ 
+IMPORTE: 
+……………………………………….......... 
+Contrato/Convenio Nº………………… 
+VENCIMIENTO:    A la vista 
+             
+ 
+ 
+Yo,…………………………………………………………………………………………………
+… 
+(en 
+adelante, 
+EL 
+BENEFICIARIO) 
+beneficiario 
+de 
+……………………………………………………………………………………………………
+………….............................. (colocar datos del concurso y esquema financiero), 
+identificado(a) con Documento Nacional de Identidad D.N.I. N° …………………….., 
+debo y pagaré en forma incondicional a la orden del FONDO NACIONAL DE 
+DESARROLLO CIENTÍFICO, TECNOLÓGICO Y DE INNOVACIÓN TECNOLÓGICA – 
+FONDECYT (en adelante, EL FONDECYT), con Registro Único de Contribuyentes N° 
+……………………., o, en caso de negociación o transferencia de este Pagaré, a la orden 
+de la persona natural o jurídica tenedora del presente Título Valor, en la fecha que el 
+mismo sea presentado para su pago, contado desde la fecha de emisión de este Pagaré, 
+la suma de …………………………………………………………………..……… (Colocar el 
+monto y moneda en número y letras), equivalente al………% del monto de subvención 
+aprobada 
+por 
+Resolución 
+de 
+Dirección 
+Ejecutiva 
+N°………………, 
+del……………………………, más los intereses compensatorios y moratorios, así como 
+otros gastos que adeude a dicha fecha según los términos del presente Pagaré. La suma 
+de dinero mencionada la he recibido de EL FONDECYT a mi entera satisfacción, no 
+habiendo lugar a reclamo de ninguna clase por mi parte. 
+ 
+Asimismo, 
+yo 
+…………………………………………………………………………………………………… 
+me obligo a efectuar el pago de la suma de dinero indicada en el presente Pagaré y 
+cualquier otra suma de dinero adicional que se adeude conforme al mismo, mediante: 
+(i) un depósito en la cuenta bancaria que EL FONDECYT me indique en su oportunidad, 
+o (ii) en caso que EL FONDECYT opte por ello, mediante cualquier otra forma permitida 
+por ley, a entera decisión de EL FONDECYT. La suma de dinero indicada deberá ser 
+pagada por mi persona a EL FONDECYT necesaria y obligatoriamente en Soles. 
+ 
+En caso de incumplimiento en el pago, el importe de este pagaré devengará una tasa 
+de interés compensatorio equivalente a la Tasa de Interés Promedio del Sistema 
+  
+ 
+E009-2020-01-ECOS 
+28/30 
+ 
+Financiero para Créditos a la Microempresa (TIPSFCM) anual a partir de la fecha de 
+emisión de este Pagaré hasta la fecha de su total cancelación; y generará un interés 
+moratorio del 15 % de la Tasa de Interés Promedio del Sistema Financiero para Créditos 
+a la Microempresa (TIPSFCM) anual desde el vencimiento de la obligación hasta la 
+fecha de su total cancelación.   
+ 
+Se deja establecido que el sólo hecho de que yo no cumpla con el pago de la suma de 
+dinero adeudada a la fecha de presentación o vencimiento de este Pagaré, determinará 
+que incurra en mora en forma automática, sin necesidad de requerimiento o intimación 
+adicional por parte de EL FONDECYT.  
+En caso de ejecución del presente Pagaré o de realización de cualquier gestión de 
+cobranza del mismo, me obligo a pagar las costas (incluidos los honorarios 
+profesionales de abogados y cualquier otro consultor, profesional o prestador de 
+servicios), los costos y los demás gastos en los que tuviese que incurrir EL FONDECYT 
+o el tenedor de este Título Valor para efectos de lograr su cobranza.                                                
+ 
+Dejo establecido que el presente Pagaré es emitido conteniendo la cláusula “sin 
+protesto”, lo cual libera a EL FONDECYT o al tenedor del mismo, de efectuar y cumplir 
+con esta formalidad para ejercitar las acciones derivadas de este Título Valor. 
+ 
+Yo, 
+……………………………………………………………………………………………………  
+presto, desde ahora, y por todo el tiempo que se encuentre vigente el contrato suscrito 
+con 
+ 
+EL 
+FONDECYT 
+derivado 
+del 
+…………………………………………………………………………………………………… 
+(colocar datos del concurso y esquema financiero) o impagas las obligaciones 
+representadas por el presente Pagaré, mi consentimiento expreso e irrevocable para 
+que EL FONDECYT, o la persona natural o jurídica tenedora del presente título valor, 
+pueda renovar y/o prorrogar el mismo a su vencimiento o después de él, no requiriendo 
+que tal prórroga o renovación sea notificada ni aceptada por mi persona, bastando para 
+ello que EL FONDECYT o su tenedor efectúe la anotación o las anotaciones 
+correspondientes en este documento, estableciendo los términos y condiciones de dicha 
+renovación o prórroga. 
+ 
+Me someto a la competencia de los Jueces y Tribunales del Distrito Judicial del Cercado 
+de Lima para todos los actos, efectos y consecuencias que se deriven de la emisión, 
+interpretación, pago, ejecución y cobranza de la cantidad representada por el presente 
+Pagaré, así como de los intereses, comisiones y gastos que se originen con relación a 
+aquel. 
+ 
+  
+ 
+E009-2020-01-ECOS 
+29/30 
+ 
+Señalo como mi domicilio para cualquier notificación, comunicación o requerimiento que 
+deba efectuarse en relación al presente Pagaré, sea de carácter judicial o extrajudicial, 
+el 
+ubicado 
+en                        
+……………………………………………………………………………………………………; 
+lugar donde se me reputará presente para todos los efectos del presente Pagaré.  
+ 
+El presente Pagaré se encuentra regulado y deberá ser interpretado conforme a las 
+disposiciones legales aplicables que se encuentran vigentes en la República del Perú. 
+En particular, sin que la presente enumeración tenga carácter limitativo, serán aplicables 
+al presente pagaré las disposiciones contenidas en la Ley de Títulos Valores - Ley N° 
+27287 y sus modificatorias, el Código Civil y el Código Procesal Civil, así como las 
+disposiciones legales que las sustituyan en el futuro, salvo aquellas disposiciones de 
+carácter supletorio que fuesen inconsistentes con el texto expreso del mismo. 
+ 
+Lima,    de                   de 202… 
+ 
+ 
+ 
+ 
+_________________________ 
+ 
+          
+    FIRMA DE EL BENEFICIARIO 
+ 
+ 
+                         
+Nombre:…………………………………………………………. 
+       
+DNI:………………………………………………………………. 
+       
+ 
+       
+En los mismos términos y calidad antes expresados, que declaro haber leído en su 
+integridad, encontrando conforme y aceptados en todos sus extremos, interviene en este 
+Pagaré en igual calidad de EL BENEFICIARIO, el Aval (en adelante, EL AVAL), 
+conforme a los Artículos 292° y 315° del Código Civil, garantizando el pago del presente 
+pagaré y de todas las obligaciones que represente éste documento comprometiéndome 
+a responder y pagar la cantidad adeudada, sus intereses compensatorios y moratorios 
+de ser el caso y demás aplicables, que se pudieran devengar desde la fecha de emisión 
+hasta la cancelación total de la presente obligación. 
+ 
+Esta garantía es solidaria, irrevocable, incondicional, de realización automática, sin 
+beneficio de exclusión, indeterminada e ilimitada, de plazo indefinido y estará vigente 
+mientras no se encuentre totalmente pagada la obligación que represente el presente 
+pagaré. 
+ 
+  
+ 
+E009-2020-01-ECOS 
+30/30 
+ 
+Me someto expresamente a la competencia de los Jueces y Tribunales del Distrito 
+Judicial del Cercado de Lima y señalo como domicilio para cualquier notificación, 
+comunicación o requerimiento que deba efectuarse en relación al presente Pagaré, sea 
+de 
+carácter 
+judicial 
+o 
+extrajudicial, 
+el 
+ubicado 
+en 
+……………………………………………………………………………………………………; 
+lugar donde se me reputará presente para todos los efectos del presente Pagaré. 
+ 
+Declaro tener capacidad y estar plenamente facultado(s) para suscribir y emitir el 
+presente pagaré, asumiendo en caso contrario la responsabilidad civil y/o penal a que 
+hubiera lugar. 
+ 
+Lima,    de                   de 202… 
+ 
+ 
+  
+ 
+__________________________ 
+ 
+          
+          FIRMA DEL AVAL 
+ 
+ 
+                         
+Nombre:…………………………………………………… 
+      
+DNI:………………………………………………………… 
+ 
+  
+1 
+ 
+RESOLUCIÓN DE DIRECCIÓN EJECUTIVA Nº 052-2020-FONDECYT-DE 
+       
+ 
+ 
+ 
+ 
+ 
+ 
+            Lima, 22 de julio de 2020 
+ 
+VISTOS: El Acta N° 034-2020 de fecha 17 de junio de 2020 del Comité Técnico del 
+FONDECYT; la Resolución de Dirección Ejecutiva N° 046-2019-FONDECYT-DE de fecha 22 de 
+junio de 2020; el Acta de Entrega de Convocatoria AEC-0019-2020 de fecha 22 de junio de 2020 
+suscrita por los responsables de las Unidades de Desarrollo y Evaluación y Selección de la 
+Unidad Ejecutora FONDECYT y el Jefe de la Oficina de Tecnologías de la Información del 
+CONCYTEC; y el Informe N° 008-2020-FONDECYT-UD-AM de fecha 16 de julio de 2020, que 
+cuenta con la conformidad de la Responsable de la Unidad de Desarrollo de la Unidad Ejecutora 
+FONDECYT a través del Proveído N° 40-AS-2020-FONDECYT-UD de fecha 16 de julio de 2020, 
+y;    
+ 
+CONSIDERANDO: 
+ 
+Que, el Texto Único Ordenado de la Ley N° 28303, Ley Marco de Ciencia, Tecnología e 
+Innovación Tecnológica, aprobado por Decreto Supremo N° 032-2007-ED, y la Ley N° 28613, 
+Ley del Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica - CONCYTEC, 
+establecen que el CONCYTEC es el organismo rector del Sistema Nacional de Ciencia, 
+Tecnología e Innovación Tecnológica – SINACYT, encargado de normar, dirigir, orientar, 
+fomentar, coordinar, supervisar y evaluar las acciones del Estado en el ámbito de la ciencia, 
+tecnología e innovación tecnológica y promover e impulsar su desarrollo mediante la acción 
+concertada y la complementariedad entre los programas y proyectos de las instituciones 
+públicas, académicas, empresariales, organizaciones sociales y personas integrante del 
+SINACYT; 
+ 
+Que, mediante Ley N° 30806, Ley que Modifica Diversos Artículos de la Ley N° 28303, 
+Ley Marco de Ciencia, Tecnología e Innovación Tecnológica, y de la Ley N° 28613, Ley del 
+CONCYTEC, se modifica, entre otros, el artículo 16 de la Ley N° 28303, señalándose que el 
+Fondo Nacional de Desarrollo Científico, Tecnológico y de Innovación Tecnológica – 
+FONDECYT, es una unidad de ejecución presupuestal del CONCYTEC, con patrimonio propio, 
+encargado de captar, gestionar, administrar y canalizar recursos de fuente nacional y extranjera 
+destinados a las actividades del SINACYT, en el país; 
+ 
+Que, mediante Resolución de Dirección Ejecutiva N° 046-2020-FONDECYT-DE de fecha 
+22 de junio de 2020, la Dirección Ejecutiva de la Unidad Ejecutora FONDECYT aprobó el 
+Expediente de la Convocatoria del Esquema Financiero E009-2020-01-ECOS denominado 
+“Movilizaciones con ECOS NORD-PERÚ”; 
+ 
+Que, mediante Acta de Reunión N° 034-2020 de fecha 17 de junio de 2020, emitida por 
+el Comité Técnico de FONDECYT, se dejó constancia de que corresponde incorporar mediante 
+Resolución de Dirección Ejecutiva el Acta de Reporte de Postulación del Expediente de la 
+Convocatoria del Esquema Financiero E009-2020-01-ECOS denominado “Movilizaciones con 
+ECOS NORD-PERÚ”, por lo que se determinó como tareas pendientes la culminación del Acta 
+de Entrega de Software y Reporte de Postulación (culminación del formato de postulación – SIG 
+y entrega del reporte de postulación al 100%) con la respectiva conformidad de las Unidades de 
+Desarrollo y Evaluación y Selección del FONDECYT a través del Acta de Entrega 
+correspondiente; 
+   
+Que, mediante el Informe de vistos, la Unidad de Desarrollo solicita a la Dirección 
+Ejecutiva de la Unidad Ejecutora FONDECYT la incorporación del Acta de Entrega de 
+Convocatoria AEC-0019-2020 al Expediente de la Convocatoria del Esquema Financiero E009-
+2020-01-ECOS denominado “Movilizaciones con ECOS NORD-PERÚ” aprobado mediante 
+Resolución de Dirección Ejecutiva N° 046-2020-FONDECYT-DE de fecha 22 de junio de 2020; 
+señalando que a través del Acta de Entrega de Convocatoria en mención, en fecha 22 de junio 
+de 2020, la Oficina de Tecnologías de la Información del CONCYTEC, dejó constancia de la 
+Firmado digitalmente por GOLUP
+Romina Sol FAU 20135727394 soft
+Motivo: Doy V° B°
+Fecha: 22.07.2020 16:19:37 -05:00
+Firmado digitalmente por INGUIL
+ROJAS Erich Hazel FAU
+20135727394 soft
+Motivo: Doy V° B°
+Fecha: 22.07.2020 16:28:37 -05:00
+Firmado digitalmente por ROJAS
+OCHANTE Juan Manuel FIR
+43662047 hard
+Motivo: Doy V° B°
+Fecha: 22.07.2020 19:29:07 -05:00
+Firmado digitalmente por LOPEZ
+BUSTILLO Adolfo Miguel FIR
+08229350 hard
+Motivo: Soy el autor del documento
+Fecha: 22.07.2020 20:22:05 -05:00
+  
+2 
+ 
+implementación al 100% del Módulo de Postulación E009-2020-01-ECOS “Movilizaciones con 
+ECOS NORD-PERÚ 2020”, de acuerdo con los requerimientos proporcionados por la Unidad de 
+Desarrollo y Evaluación y Selección de la Unidad Ejecutora FONDECYT, verificándose que el 
+Acta de Entrega de Convocatoria AEC-0019-2020 cuenta con el visado y conformidad del 
+personal responsable y competente de la Unidad que los formuló;    
+ 
+Que, en tal sentido, para el cumplimiento de los fines de la Unidad Ejecutora 
+FONDECYT, resulta necesario incorporar el Acta de Entrega de Convocatoria AEC-0019-2020 al 
+Expediente de la Convocatoria del Esquema Financiero E009-2020-01-ECOS denominado 
+“Movilizaciones con ECOS NORD-PERÚ” aprobado mediante Resolución de Dirección Ejecutiva 
+N° 046-2020-FONDECYT-DE de fecha 22 de junio de 2020; 
+  
+Con la visación de los Responsables de las Unidades de: Desarrollo y Evaluación y 
+Selección de la Unidad Ejecutora FONDECYT, del Jefe de la Oficina de Tecnologías de la 
+Información del CONCYTEC y el Jefe (e) de la Oficina General de Asesoría Jurídica del 
+CONCYTEC; 
+ 
+De conformidad con lo dispuesto en la Ley Nº 28303, Ley Marco de Ciencia, Tecnología 
+e Innovación Tecnológica - CONCYTEC, en la Ley Nº 28613, Ley del Consejo Nacional de 
+Ciencia, Tecnología e Innovación Tecnológica – CONCYTEC, en la Ley Nº 30806, Ley que 
+modifica diversos artículos de la Ley Nº 28303, Ley Marco de Ciencia, Tecnología e Innovación 
+Tecnológica – CONCYTEC y de la Ley Nº 28613, Ley del Consejo Nacional de Ciencia, 
+Tecnología e Innovación Tecnológica – CONCYTEC, el Decreto Supremo N° 026-2014-PCM, las 
+Resoluciones de Presidencia N° 016-2018-CONCYTEC-P, 109-2017-CONCYTEC-P modificada 
+mediante Resolución de Presidencia N° 044-2018-CONCYTEC-P, N° 010-2015-CONCYTEC-P 
+modificada mediante Resolución de Presidencia N° 033-2016-CONCYTEC-P y la Resolución de 
+Dirección Ejecutiva N° 026-2016-FONDECYT-DE;  
+SE RESUELVE:  
+   
+Artículo 1.- Incorporar al Expediente de la Convocatoria del Esquema Financiero E009-
+2020-01-ECOS denominado “Movilizaciones con ECOS NORD-PERÚ” aprobado mediante 
+Resolución de Dirección Ejecutiva N° 046-2020-FONDECYT-DE de fecha 22 de junio de 2020, el 
+Acta de Entrega de Convocatoria AEC-0019-2020; que en anexo forma parte de la presente 
+Resolución.    
+ 
+Artículo 2.- Remitir copia de la presente Resolución a las Unidades de Desarrollo, 
+Evaluación y Selección y Seguimiento y Monitoreo de la Unidad Ejecutora FONDECYT, la 
+Oficina de Tecnologías de la Información del CONCYTEC, la Oficina General de Asesoría 
+Jurídica del CONCYTEC, la Subdirección de Ciencia, Tecnología y Talentos de la Dirección de 
+Políticas y Programas de CTI del CONCYTEC y la Dirección de Políticas y Programas de CTI del 
+CONCYTEC, para los fines correspondientes. 
+ 
+Artículo 3.- Encargar al responsable del Portal de Transparencia, la publicación de la 
+presente Resolución en la Página Web del CONCYTEC y del FONDECYT. 
+ 
+                                                                                      Regístrese y comuníquese.  
+ 
+ 
+ 
+ 
+ 
+__________________________ 
+ADOLFO MIGUEL LÓPEZ BUSTILLO 
+Director Ejecutivo 
+Fondo Nacional de Desarrollo Científico, 
+Tecnológico y de Innovación Tecnológica 
+FONDECYT 
+Firmado digitalmente por GOLUP
+Romina Sol FAU 20135727394 soft
+Motivo: Doy V° B°
+Fecha: 22.07.2020 16:20:01 -05:00
+Firmado digitalmente por INGUIL
+ROJAS Erich Hazel FAU
+20135727394 soft
+Motivo: Doy V° B°
+Fecha: 22.07.2020 16:28:53 -05:00
+Firmado digitalmente por ROJAS
+OCHANTE Juan Manuel FIR
+43662047 hard
+Motivo: Doy V° B°
+Fecha: 22.07.2020 19:29:29 -05:00
+Firmado digitalmente por LOPEZ
+BUSTILLO Adolfo Miguel FIR
+08229350 hard
+Motivo: Soy el autor del documento
+Fecha: 22.07.2020 20:22:40 -05:00
+  
+ 
+Elaborado por 
+Fecha 
+Mirtha Quipas 
+26/06/2020 
+ 
+ 
+ 
+ 
+                                                                             
+ACTA DE ENTREGA DE CONVOCATORIA 
+AEC-0019-2020 
+ 
+1. 
+DATOS GENERALES 
+En la ciudad de Lima a los 22 días del mes de junio de 2020, se procede a efectuar la entrega del 
+requerimiento detallado en el punto 2 
+ 
+2. 
+REQUERIMIENTO 
+Convocatoria 
+E009-2020-01-ECOS Movilizaciones con ECOS NORD-Perú 2020 
+Lanzamiento o 
+publicación de la 
+convocatoria 
+ 
+23 de Junio 
+2020 
+13:00:00 
+horas 
+Activación 
+del envío 
+solicitud 
+02/07/2020 
+13:00:00 
+horas 
+Cierre de la 
+postulación  
+06 de Agosto 
+2020 
+13:00:00 
+horas. 
+ 
+Sistema 
+Sistema Integrado de Gestión - SIG 
+Detalle 
+Implementar el Módulo de Postulación E009-2020-01-ECOS Movilizaciones con ECOS NORD-
+Perú 2020, de acuerdo con los requerimientos proporcionados por la Unidad de Desarrollo (UD) y 
+Evaluación y Selección (UES) representado por la especialista responsable de la convocatoria.   
+Especialista UD 
+ALEX W. MANRIQUE CARMEN  
+ 
+Unidad de Desarrollo 
+Responsable UES 
+ROSA MERCEDES FERNANDEZ 
+Evaluación y Selección 
+ 
+3. 
+DETALLE DE LA ENTREGA 
+Las pruebas realizadas en el producto se detallan seguidamente realizadas por el Área Usuaria. 
+PRUEBAS 
+N° 
+Descripción 
+Fecha Final  
+Tipo de 
+Prueba 
+Usuario a 
+cargo de 
+Prueba 
+Visto 
+Bueno 
+(rúbrica) 
+1 
+Prueba integral de Módulo de 
+Postulación de la Convocatoria  
+01/07/2020 
+Validación 
+Funcional 
+Alex 
+Manrique 
+ 
+ 
+ 
+ 
+ 
+4. 
+PASE A PRODUCCIÓN  
+Firmado digitalmente por
+MANRIQUE CARMEN Alex Wilfredo
+FAU 20135727394 soft
+Motivo: Doy V° B°
+Fecha: 10.07.2020 15:06:20 -05:00
+  
+ 
+Elaborado por 
+Fecha 
+Mirtha Quipas 
+26/06/2020 
+ 
+ 
+ 
+ 
+Fecha de Pase a Producción 
+01/07/2020 
+Encargado de Pase 
+Ing. Mirtha Quipas Bellizza  
+Ing. Percy Vásquez Machicao  
+ 
+5. 
+CONFORMIDAD 
+En señal de conformidad se realizan las firmas correspondientes. 
+Responsable de UD 
+Romina Sol Golup 
+Firma 
+ 
+Responsable de UES 
+Erich Inguil Rojas 
+Firma 
+ 
+Responsable de OTI 
+Juan Manuel Rojas 
+Ochante 
+Firma 
+ 
+ 
+ 
+ 
+Firmado digitalmente por ROJAS
+OCHANTE Juan Manuel FIR
+43662047 hard
+Motivo: Soy el autor del documento
+Fecha: 10.07.2020 14:49:21 -05:00
+Firmado digitalmente por INGUIL
+ROJAS Erich Hazel FAU
+20135727394 soft
+Motivo: Soy el autor del documento
+Fecha: 16.07.2020 19:48:59 -05:00
+Firmado digitalmente por GOLUP
+Romina Sol FAU 20135727394 soft
+Motivo: Soy el autor del documento
+Fecha: 16.07.2020 20:23:29 -05:00
+  
+LCADE,
+3
+“Re,ve
+ 
+RESOLUCION DE DIRECCION EJECUTIVAN° 046-2020-FONDECYT-DE
+Lima, 22 de junio de 2020
+VISTOS:El Acta de Reunion N° 034 del Comité Técnico del FONDECYT defecha 17 de
+junio de 2020; los Informes N° 006-2020-FONDECYT-UD-AM defecha 17 de junio de 2020, que
+cuenta con la conformidad de la Responsable de la Unidad de Desarrollo de la Unidad Ejecutora
+FONDECYTa través del Proveido N° 25-AS-2020-FONDECYT-UD de fecha 17 de junio de
+2020; N° 013-AS-2020-FONDECYT-UDde fecha 17 dejunio de 2020 emitido por la Responsable
+de la Unidad de Desarrollo de la Unidad Ejecutora FONDECYTy el Informe N° 036-2020-
+CONCYTEC-ETAJ-UEFONDECYT-VDCP de fecha 22 de junio de 2020, que cuenta con
+la
+conformidad del Jefe (e) de la Oficina General de Asesoria Juridica del CONCYTECa travésdel
+Proveido N° 244-2020-CONCYTEC-OGAJde fecha 22 dejunio de 2020,y;
+CONSIDERANDO:
+Que, el Texto Unico Ordenadode la Ley N° 28303, Ley Marco de Ciencia, Tecnologia e
+Innovacion Tecnolégica, aprobado por Decreto Supremo N° 032-2007-ED,y la Ley N° 28613,
+Ley del Consejo Nacional de Ciencia, Tecnologia e Innovacién Tecnolégica
+- CONCYTEC,
+establecen que
+el CONCYTECes
+el organismo rector del Sistema Nacional de Ciencia,
+Tecnologia e Innovacién Tecnolégica
+—- SINACYT, encargado de normar,
+dirigir,
+orientar,
+fomentar, coordinar, supervisar y evaluar las acciones del Estado en el ambito dela ciencia,
+tecnologia e innovacién tecnolégica y promover e impulsar su desarrollo mediante la accion
+concertada
+y
+la complementariedad entre
+los
+programas y
+proyectos de
+las
+instituciones
+publicas,
+académicas,
+empresariales,
+organizaciones
+sociales
+y
+personas
+integrante
+del
+SINACYT;
+Que, mediante Ley N° 30806, Ley que Modifica Diversos Articulos de la Ley N° 28303,
+Ley Marco de Ciencia, Tecnologia e Innovacién Tecnologica, y de la Ley N° 28613, Ley del
+CONCYTEC,se modifica, entre otros, el articulo 16 de la Ley N° 28303, sefialandose que el
+Fondo
+Nacional
+de
+Desarrollo
+Cientifico,
+Tecnolégico
+y
+de
+Innovacién
+Tecnolégica
+—
+FONDECYT,es una unidad de ejecucién presupuestal del CONCYTEC,con patrimonio propio,
+encargado de captar, gestionar, administrar y canalizar recursos de fuente nacional y extranjera
+destinados las actividades del SINACYT, enelpais;
+Que,la finalidad de la Directiva que regula el Disefio, Aprobacién e Implementacion de
+los Instrumentos Financieros disehados por el CONCYTEC, aprobada mediante Resolucion de
+Presidencia N° 109-2017-CONCYTEC-P defecha 7 de setiembre de 2017, modificada mediante
+Resolucién de Presidencia N° 044-2018-CONCYTEC-Pdefecha 23 de marzode 2018,reside en
+estandarizar el contenido minimo de los Instrumentos Financieros disefiados y aprobadosporel
+CONCYTECe implementados por el FONDECYT,asi como normarsu procedimiento de disefio,
+aprobaci6n, implementaci6n y evaluacién, cuyo alcance es de cumplimiento obligatorio en todoel
+Pliego CONCYTECy la Unidad Ejecutora FONDECYT. Asimismo, los numerales 4.2. y 5.2 de la
+citada Directiva establecen el sub proceso de implementacién, que consta del desarrollo de las
+Bases, la Evaluacion y Seleccion y el Seguimiento y Monitoreo llevado a cabo por la Unidad
+Ejecutora FONDECYT;,asi comola organizacién y niveles de responsabilidad para la aprobacién
+del Instrumento Financiero y su implementacion, estableciéndose en el sub numeral
+5.2.5 que la
+Unidad Ejecutora FONDECYT debera implementarel Instrumento Financiero considerando como
+etapas: el disefio de Bases, Evaluacién y Seleccidn y Seguimiento y Monitoreo, debiendo la
+Direccién de
+Politicas
+y
+Programas de CTI
+emitir opinion
+favorable de
+las Bases de
+la
+convocatoria del Instrumento Financiero a través de la suscripcién del formato de revision de
+Bases;
+Que, de acuerdo conlosArticulos 36 al 41 del Manual Operativo del Fondo Nacional de
+Desarrollo Cientifico, Tecnologico de Innovacién Tecnologica - FONDECYT, aprobado mediante
+Resolucion de Presidencia N° 010-2015-CONCYTEC-P de fecha 27 de enero de 2015 y
+modificado mediante Resolucién de Presidencia N° 033-2016-CONCYTEC-P de fecha 3 de
+1
+  
+ 
+marzo de 2016, correspondea la Unidad de Desarrollo el disefio de los EsquemasFinancieros y
+elaboracién de las Bases de los concursos de los Esquemas Financieros; a
+la Unidad de
+Seguimiento y Monitoreo la planificacién, desarrollo y propuesta de lineamientosdepolitica y de
+reglamentacion para el seguimiento y monitoreo de los convenios y contratos en los cuales
+FONDECYTotorga subvenciones, asi como la administracion y supervision de la gestidn de
+dichos instrumentos y
+la
+verificacién del cumplimiento de obligaciones establecidas en los
+mismos; y
+la Unidad de Evaluacién y Seleccién es responsable de conducir la seleccién y
+evaluaciOn de
+las propuestas presentadas,
+asi como evaluar la elegibilidad y gestionar el
+proceso de seleccién;
+Que, mediante Resolucion de Presidencia N° 110-2017-CONCYTEC-P de fecha 7 de
+setiembre de 2017 se aprueba el Instrumento Financiero “Movilizacién Nacional e Internacional
+en
+Ciencia,
+Tecnologia
+e
+Innovacién
+Tecnoldgica",
+modificado
+mediante
+Resolucién
+de
+Presidencia N° 182-2019-CONCYTEC-P de fecha 14 de octubre de 2019. Asimismo, en fecha 5
+de marzo de 2020 la Direccién de Politicas y Programas de CTI del CONCYTEC emite la Ficha
+Técnica de Ejecucién del Instrumento Financiero — Movilizaciones en CTI - Pasantias”;
+Que, de acuerdo con las Bases disefiadas por la Unidad de Desarrollo de la Unidad
+Ejecutora FONDECYT,
+el
+objetivo
+general
+del Esquema
+Financiero
+E009-2020-01-ECOS
+denominado “Movilizaciones con ECOS NORD-PERU", es promoverla colaboracién entre las
+comunidades académicasy cientificas de Pert y Francia, en los sectoresprioritarios reconocidos
+por
+ambas
+partes,
+promoviendo
+intercambios de
+experiencias
+y
+conocimiento
+cientifico,
+tecnoldgico
+e
+innovador y su
+difusion;
+a
+través de
+la
+movilizacion de
+investigadores
+y
+estudiantes/egresados de doctorado, en el marco de proyectos de investigacién I+D que estén
+en ejecuciéno poriniciar;
+Que, los Articulos 1 y 4 del Reglamento del Comité Técnico de FONDECYT aprobado
+mediante Resolucién de Direccién Ejecutiva N° 026-2016-FONDECYT-DEdefecha 22 de marzo
+de 2016, disponen que el Comité Técnico es un organo colegiado de apoyo técnico a la gestion
+en
+el FONDECYT, que vela y controla que los procesos se realicen conforme las normas
+internas
+y
+tiene como
+finalidad
+contribuir a
+la gestién
+realizando acciones de
+revisién
+y
+evaluaciOn de calidad respecto a los Esquemas Financieros. Asimismo,
+el numeral 7.1
+del
+Articulo 7 del Reglamento sefialado, establece como funcién del Comité Técnico, previa revision
+y evaluacién, elevar a la Direccién Ejecutiva de la Unidad Ejecutora FONDECYTel expediente
+del Esquema Financiero presentado y propuesto por la Unidad de Desarrollo de la Unidad
+Ejecutora
+FONDECYT,
+que debe
+contener como
+minimo:
+las
+Bases,
+el
+Documento
+de
+Autorizacion Presupuestal, el Proyecto del Contrato y/o Convenio, la Ficha de Postulacioén en
+Linea, la Cartilla de Evaluacién, el Perfil del Evaluador y/o Guia de Evaluacion y la Guia de
+Seguimiento y Monitoreo; documentos que deberanestar visados por el personal responsable y
+competente de la Unidad que los formuld, siendo que algunos de los documentos podran no
+aplicar, en algunos casos, por su naturaleza;
+Que, el Comité Técnico del FONDECYT,enla sesién llevada a cabo el! dia 17 de junio
+de 2020, y luego de la respectiva revision y evaluacion del Expediente de la Convocatoria del
+Esquema
+Financiero E009-2020-01-ECOS denominado “Movilizaciones con ECOS NORD-
+PERU" presentado y propuesto porla Unidad de Desarrollo de la Unidad Ejecutora FONDECYT,
+que contiene:
+i) la Ficha Técnica;
+ii) la Constancia de Prevision Presupuestal N° 037-2020-
+CONCYTEC; iii) Bases del Concurso;
+iv)
+el Formato de revision de Bases;
+v)
+el Acta de
+Lecciones Aprendidas;vi) la Cartilla de Elegibilidad; vii) la Cartilla de Evaluacion; viii) la Guia de
+Seguimiento y Monitoreo; y ix) el Acta N° 034 del Comité Técnico de fecha 17 de junio de 2020,
+acord6é recomendara la Direccién Ejecutiva de la Unidad Ejecutora FONDECYT |a aprobacién
+del Expediente de la Convocatoria del EsquemaFinanciero antes referido. Asimismo, acordaron,
+entre otros, solicitar a
+la Oficina General de Asesoria Juridica del CONCYTEC adjuntar el
+modelo de Contrato a ser incorporado en elcitado expediente, asi comoincorporaral expediente
+el Acta de Entrega de la Convocatoria a su culminacién;
+  
+LICA De,
+oo
+Lng
+ 
+Que, mediantelos Informes de vistos, en base al acuerdo arribado en sesién del Comité
+Técnico del FONDECYTllevada a cabo en fecha 17 de junio de 2020; la Unidad de Desarrollo
+solicita a la Direccién Ejecutiva de la Unidad Ejecutora FONDECYT la aprobacién del Expediente
+de la Convocatoria del Esquema Financiero E009-2020-01-ECOS denominado “Movilizaciones
+con ECOS NORD-PERU’”,el cual contiene los siguientes documentos:i) la Ficha Técnica;ii) la
+Constancia de Prevision Presupuestal N° 037-2020-CONCYTEC;iii) Bases del Concurso; iv) el
+Formato de revision de Bases; v) el Acta de Lecciones Aprendidas;vi) la Cartilla de Elegibilidad;
+vii) la Cartilla de Evaluacion; viii) la Guia de Seguimiento y Monitoreo; y ix) el Acta N° 034 del
+Comité Técnico de fecha 17 de junio de 2020,
+los mismos que cuentan con
+el visado y
+conformidad del personal responsable y competente de la Unidad que los formuld;
+Que,
+mediante
+el
+Informe de vistos,
+la Oficina General de Asesoria Juridica del
+CONCYTEC, teniendo como sustento lo expuesto por la Unidad de Desarrollo de la Unidad
+Ejecutora FONDECYTy los acuerdos adoptados por el Comité Técnico del FONDECYTenel
+Acta de Reunion N° 034 de fecha 17 dejunio de 2020,consideré que resulta viable proyectar la
+Resolucién de Direccién Ejecutiva que apruebe el Expediente de la Convocatoria del Esquema
+Financiero
+E009-2020-01-ECOS
+denominado
+“Movilizaciones
+con
+ECOS
+NORD-PERU”,
+adjuntandopara tal efecto, la propuesta de modelo de Contrato;
+Que,
+en
+tal
+sentido,
+para
+el
+cumplimiento de
+los
+fines de
+la
+Unidad
+Ejecutora
+FONDECYT,
+resulta
+necesario
+aprobar
+el
+Expediente
+de
+la
+Convocatoria
+del Esquema
+Financiero E009-2020-01-ECOS denominado “Movilizaciones con ECOS NORD-PERU";
+Con
+la visacién de los Responsables de las Unidades de:
+Desarrollo, Evaluacién y
+Seleccién y Seguimiento y Monitoreo de la Unidad Ejecutora FONDECYT,delJefe de la Oficina
+de Tecnologias de la Informacion del CONCYTEC,el Jefe (e) de la Oficina General de Asesoria
+Juridica del CONCYTEC,el Subdirector de la Subdireccion de Ciencia, Tecnologia y Talentos de
+la Direccion de Politicas y Programas de CTI del CONCYTECy el Director de la Direccion de
+Politicas y Programas de CTI del CONCYTEC;
+De conformidad con lo dispuesto en la Ley N° 28303, Ley Marco de Ciencia, Tecnologia
+e€ Innovacién Tecnolégica
+- CONCYTEC, en la Ley N° 28613, Ley del Consejo Nacional de
+Ciencia, Tecnologia e Innovacién Tecnolégica - CONCYTEC,en la Ley N° 30806, Ley que
+modifica diversos articulos de la Ley N° 28303, Ley Marco de Ciencia, Tecnologia e Innovacién
+Tecnolégica — CONCYTEC y de
+la Ley N° 28613, Ley del Consejo Nacional de Ciencia,
+Tecnologia e Innovacion Tecnolégica - CONCYTEC, el Decreto Supremo N° 026-2014-PCM,las
+Resoluciones de Presidencia N° 016-2018-CONCYTEC-P, 109-2017-CONCYTEC-P modificada
+mediante Resolucion de Presidencia N° 044-2018-CONCYTEC-P, N° 010-2015-CONCYTEC-P
+modificada mediante Resolucién de Presidencia N° 033-2016-CONCYTEC-Py la Resolucion de
+Direccion Ejecutiva N° 026-2016-FONDECYT-DE;
+SE RESUELVE:
+Articulo 1.- Aprobar el Expediente de la Convocatoria del Esquema Financiero E009-
+2020-01-ECOS denominado “Movilizaciones con ECOS NORD-PERU” por los fundamentos
+expuestos en la parte considerativa de la presente Resoluci6n; el cual contiene los siguientes
+documentos:i) Bases del Concurso;ji) la Cartilla de Elegibilidad; iii) la Cartilla de Evaluacién; iv)
+la Guia de Seguimiento y Monitoreo;v) la Ficha Técnica; vi) el Acta N° 034 del Comité Técnico
+de fecha
+17 de junio de 2020;
+vii)
+la Constancia de Previsién Presupuestal N° 037-2020-
+CONCYTEC;viii) el Formato de revisién de Bases; ix) el Acta de Lecciones Aprendidas;y x) el
+modelo de Contrato.
+Articulo 2.- Remitir copia de la presente Resolucién a las Unidades de Desarrollo,
+Evaluacion y Seleccién y Seguimiento y Monitoreo de
+la Unidad Ejecutora FONDECYT,la
+Oficina de Tecnologias de la Informacion del CONCYTEC,
+la Oficina General de Asesoria
+Juridica del CONCYTEC,la Subdireccién de Ciencia, Tecnologia y Talentos de la Direccién de
+  
+WO
+ 
+Politicas y Programas de CTI del CONCYTECy Ia Direcciénde Politicas y Programas de CTI del
+CONCYTEC,paralosfines correspondientes.
+Articulo 3.- Encargar al responsable del Portal de Transparencia, la publicacién de la
+presente Resolucion, asi como de las Bases,la Cartilla de Elegibilidad, la Cartilla de Evaluacion,
+la Guia de Seguimiento y Monitoreo y el modelo de Contrato del Expediente de la Convocatoria
+del Esquema Financiero E009-2020-01-ECOS denominado “Movilizaciones con ECOS NORD-
+PERU" en la Pagina Web del CONCYTECy del FONDECYT.
+Registrese y comuniquese.
+  
+Tecnolégico y de Innovacién Tecnolégica
+FONDECYT
+ 
+   
+                                                                                           
+                                                
+ 
+CARTILLA DE ELEGIBILIDAD 
+“Movilizaciones con Ecos Nord Perú 2020-01” 
+Código del Esquema Financiero E009-2020-01-ECOS 
+ 
+ 
+ 
+Elegibilidad 
+Documento de 
+Postulación 
+ 
+3.1.1  Para el Investigador Principal 
+ 
+ 
+1) Residencia peruana y domicilio habitual en el 
+Perú 
+Ficha de postulación 
+ 
+2) Tener su ORCID (www.orcid.org), el cual deberá 
+estar vinculado al CTI Vitae. 
+ 
+Ficha de postulación 
+ 
+3) Tener grado de Doctor 
+ 
+ORCID-DINA 
+ 
+ 
+4) Tener vínculo laboral y/o contractual con la 
+institución solicitante, un mínimo de 20 horas 
+semanales al momento de la postulación. 
+ 
+ 
+Ficha de postulación  
+ 
+5) Haber participado (como Investigador o Co-
+Investigador) ó liderado al menos un (01) 
+proyecto de investigación y/o tener un artículo 
+en una revista indizada. 
+Documentos de sustento adjuntos 
+en la ficha de postulación 
+ 
+ 
+ 
+3.1.2. Para el Co-Investigador 
+ 
+ 
+1) Tener residencia  o domicilio habitual en el  Perú 
+ 
+Ficha de postulación 
+ 
+ 
+2) Tener su ORCID (www.orcid.org), el cual deberá 
+estar vinculado al CTI Vitae. 
+ 
+ 
+Ficha de postulación 
+ 
+ 
+3) Tener grado de Doctor 
+ 
+CTI Vitae 
+ 
+4) Tener vínculo laboral y/o contractual con la 
+institución solicitante u otra institución similar,  
+con un mínimo de 20 horas semanales al 
+momento de la postulación. 
+ 
+ 
+ 
+Ficha de postulación 
+ 
+3.1.3. Tesista de doctorado (obligatorio) 
+ 
+ 
+1) Ser estudiante y/o egresado de doctorado en 
+Documentos de sustento adjuntos 
+   
+                                                                                           
+                                                
+ 
+universidades peruanas, que vengan 
+desarrollando una tesis de doctorado en el marco 
+de la propuesta presentada. Deberán acreditar su 
+condición de estudiante o egresado mediante la 
+constancia respectiva 
+ 
+en la ficha de postulación 
+ 
+ 
+2) Tener Respaldo de su asesor de tesis, acreditado 
+mediante Anexo Nº 1. 
+ 
+Anexo 1 
+ 
+ 
+3.1.4 Presentar la documentación obligatoria de 
+acuerdo al numeral 3.2. de las Bases.  
+Documentos de postulación (3.2): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Se verificará con documentos 
+adjuntos en la ficha de postulación 
+ 
+1)  CV del Investigador Principal Peruano y del Co-
+investigador, Tesista(s) de Doctorado del Equipo  de 
+investigación obtenidos del CTI Vitae. El CV se genera 
+de manera automática al momento del envío del 
+registro. Antes del envío, tomar en cuenta que a 
+través del CTI Vitae se presenta lo siguiente: 
+ 
+a) Los títulos profesionales y grados académicos: 
+aquellos reconocidos por SUNEDU tendrán 
+opción de ser importados del CTI Vitae, de lo 
+contrario, si es un título o grado no está 
+registrado en la SUNEDU,  el postulante deberá: 
+ 
+• Si es un título o grado emitido por una universidad 
+peruana, deberá adjuntarlo manualmente.  
+ 
+• Si es un grado emitido en el extranjero deberá 
+adjuntarlo manualmente; si no se encuentra inscrito 
+en la SUNEDU, deberá inscribirlo en los doce (12) 
+meses posteriores a la firma del contrato, de resultar 
+seleccionada la propuesta.  
+ 
+Además deberá adjuntar la traducción simple en caso 
+de diplomas en un idioma diferente al español (todo 
+en el mismo archivo de carga).  
+En ningún caso se aceptarán documentos diferentes 
+a diplomas de los títulos o grados. 
+ 
+   
+                                                                                           
+                                                
+ 
+ 
+b) La experiencia liderando/participando  proyectos 
+de investigación, adjuntando copia de constancia 
+emitida por la institución donde se ejecutó el 
+proyecto y/o la entidad que subvencionó el mismo.  
+Para ser válidas, las constancias deben contener el 
+título del proyecto, la fuente de financiamiento, el 
+nombre y rol que desempeñó el  postulante en el 
+proyecto y las fechas en las que se ejecutó el mismo. 
+ 
+ 
+2) Documento de Respaldo al Tesista de doctorado 
+por parte de su asesor de tesis (Anexo 1) 
+ 
+ 
+3) En caso de el (los) tesista(s) de Doctorado, 
+constancia de estudios y/o constancia de egresado. 
+ 
+4) Proyecto de Investigación (proyecto de 
+candidatura) entre Perú-Francia en versión Español 
+(Anexo 2).  
+ 
+5) Proyecto de Investigación (proyecto de 
+candidatura) de la contraparte de Francia en versión 
+francés y/o inglés que evidencie su presentación en 
+Francia. 
+ 
+ 
+6) Documento de presentación de la entidad peruana 
+de respaldo (Anexo 3). 
+ 
+ 
+ 
+Anexo 3 
+ 
+ 
+ CONDICIONES DEL CONCURSO  
+- Prioridades de la convocatoria: Las propuestas deberán estar relacionadas con las áreas 
+de conocimiento priorizadas en la convocatoria.  
+- Público Objetivo  
+Dirigidos a grupos de investigación peruanos pertenecientes a entidades peruanas 
+universidades (licenciadas en el momento de postulación) institutos o centros de  
+investigación de desarrollo científico y/o tecnológico y participen en el marco de un 
+proyecto de investigación I+D colaborativo con un grupo de investigación francés en 
+ejecución o por iniciar.  
+- Los Conformación del equipo de investigación  
+El equipo de investigación deberá estar integrado obligatoriamente por un (01) 
+Investigador Principal, al menos un (01) Tesista de Doctorado y opcionalmente un (01) Co-
+Investigador. 
+ 
+ 
+ 
+ 
+   
+                                                                                           
+                                                
+ 
+RESTRICCIONES E IMPEDIMENTOS    
+ 
+ 
+1. El Investigador Principal haya incurrido en faltas éticas  y/o tener obligaciones 
+financieras pendientes con FONDECYT. 
+2. Se encuentren en el marco de un proyecto de investigación que persiga 
+       los mismos objetivos de otros proyectos culminados.  
+3)    Haber obtenido un financiamiento en el concurso Movilizaciones Ecos 
+              Nord 2019-01. 
+4)   No contar con financiamiento de otra convocatoria con fondos públicos 
+       que considere movilizaciones dentro de su ejecución.  
+5)   No pueden participar peruanos actualmente estudiando/trabajando en el 
+             extranjero.  
+6)   Quienes se encuentren reportados en el Registro de Deudores Alimentarios 
+       Morosos del Poder Judicial (REDAM). 
+7)    Ser funcionario o prestar servicios bajo cualquier denominación contractual 
+       contractual en CONCYTEC/FONDECYT. Esta restricción se extiende: 
+a)   Por seis (6) meses después de producido el cese o culminación de la relación 
+        laboral o contractual. 
+b)    Al cónyuge o parientes hasta cuarto grado de consanguinidad o segundo de  
+        afinidad por razón de matrimonio. 
+c)    A cualquier estipendio o remuneración con fondos de la subvención. 
+ 
+ CRITERIO
+PONDERACIÓN 
+DEL CRITERIO
+SUB CRITERIO
+PONDERACIÓN 
+DEL SUBCRITERIO
+PONDERACIÓN 
+(DETALLADA) DEL 
+SUBCRITERIO
+REFERENCIA PARA EL EVALUADOR
+ESCALA DE CALIFICACIÓN
+CAMPO DE POSTULACIÓN
+JUSTIFICACIÓN 
+DE CALIFICACIÓN
+SUGERENCIAS DE 
+MEJORA
+FORTALEZAS
+DEBILIDADES
+Del proyecto de investigación
+50%
+Originalidad del proyecto
+15%
+¿Qué tan original es el tema? ¿Es relevante y 
+genera conocimiento? ¿Cuenta con 
+información actualizada y hace referencia a 
+las citas bibliográficas recientes sobre el tema 
+de estudio? ¿Qué agrega al área temática en 
+comparación con otros estudios de la 
+literatura?
+No cumple con el criterio: 
+0
+Deficiente: 1 punto
+Regular: 2 puntos
+Buena: 3 puntos
+Muy buena: 4 puntos
+Sobresaliente: 5 puntos
+Descripción detallada del 
+proyecto - Anexo 2
+La descripción y diseño de la 
+metodología propuesta es apropiada 
+y se encuentra bien fundamentada 
+para obtener los resultados 
+esperados del proyecto.
+15%
+¿La descripción de la metodología propuesta 
+es apropiada y está bien fundamentada para 
+realizar los experimentos y obtener los 
+resultados esperados del proyecto?
+¿EI diseño es apropiado para la pregunta de la 
+investigación o hipótesis? ¿La estrategia de 
+análisis de datos está correctamente descrita? 
+¿Incluyen las referencias apropiadas de la 
+metodología a ser utilizada?
+No cumple con el criterio: 
+0
+Deficiente: 1 punto
+Regular: 2 puntos
+Buena: 3 puntos
+Muy buena: 4 puntos
+Sobresaliente: 5 puntos
+Descripción detallada del 
+proyecto - Anexo 2 
+Metodología
+Las actividades y cronograma 
+propuesto conllevan a lograr los 
+productos esperados.
+5%
+¿En qué medida los resultados propuestos 
+pueden ser cumplidos en el tiempo 
+programado?
+No cumple con el criterio: 
+0
+Deficiente: 1 punto
+Regular: 2 puntos
+Buena: 3 puntos
+Muy buena: 4 puntos
+Sobresaliente: 5 puntos
+Descripción detallada del 
+proyecto - Anexo 2
+Cronograma del proyecto
+Pertinencia y complementariedad de 
+los equipos de investigación peruano 
+y francés para el logro del objetivo 
+del proyecto de investigación
+15%
+¿La experiencia técnico-científica de los 
+equipos es adecuado para el logro de 
+resultados del proyecto?
+¿Esta colaboración es relevante para la 
+investigación?
+No cumple con el criterio: 
+0
+Deficiente: 1 punto
+Regular: 2 puntos
+Buena: 3 puntos
+Muy buena: 4 puntos
+Sobresaliente: 5 puntos
+Equipo de Investigación:
+CV del investigador 
+principal - CV del Co-
+Investigador y de el 
+Tesista de Doctorado
+de la pasantía
+25%
+Competencia e idoneidad de los 
+investigadores pasantes y su 
+relación con el plan de trabajo de la 
+pasantía.
+10%
+¿El proyecto contribuye a la formación en 
+investigación de recursos humanos (tesistas 
+pre y posgrado)?, ¿se fortalece las 
+capacidades del investigador principal y/o los 
+co-investigador(es)? (pasantías, capacitación, 
+eventos, nuevas técnicas, etc.)
+No cumple con el criterio: 
+0
+Deficiente: 1 punto
+Regular: 2 puntos
+Buena: 3 puntos
+Muy buena: 4 puntos
+Sobresaliente: 5 puntos
+Descripción detallada del 
+proyecto - Anexo 2 
+Investigadores que 
+participan
+Formación doctoral
+El Plan de Trabajo de la pasantía es 
+presentado de forma clara, es 
+factible, coherente y se enmarca 
+dentro del proyecto de investigación.
+15%
+¿El Plan de trabajo muestra en forma clara las 
+actividades a realizarse? estas actividades se 
+enmarcan dentro del proyecto de 
+investigación?
+No cumple con el criterio: 
+0
+Deficiente: 1 punto
+Regular: 2 puntos
+Buena: 3 puntos
+Muy buena: 4 puntos
+Sobresaliente: 5 puntos
+Descripción detallada del 
+proyecto - Anexo 2
+impacto
+25%
+Perspectivas para desarrollar y 
+estructurar asociaciones a largo 
+plazo.
+15%
+¿Se plantea la colaboración y se generan 
+vínculos con otros grupos de investigadores 
+durante el desarrollo del proyecto?
+No cumple con el criterio: 
+0
+Deficiente: 1 punto
+Regular: 2 puntos
+Buena: 3 puntos
+Muy buena: 4 puntos
+Sobresaliente: 5 puntos
+Descripción detallada del 
+proyecto - Anexo 2
+CARTILLA DE EVALUACIÓN
+CONCURSO “MOVILIZACIONES CON ECOS NORD PERÚ 2020-01”
+Código del Esquema Financiero E009-2020-01-ECOS
+“Cualquier copia impresa es no controlada, salvo que esta sea distribuida por el RED y sea rotulada como copia controlada”. Consulte la versión electrónica
+75%
+I.Calidad 
+científica de la 
+propuesta
+ CRITERIO
+PONDERACIÓN 
+DEL CRITERIO
+SUB CRITERIO
+PONDERACIÓN 
+DEL SUBCRITERIO
+PONDERACIÓN 
+(DETALLADA) DEL 
+SUBCRITERIO
+REFERENCIA PARA EL EVALUADOR
+ESCALA DE CALIFICACIÓN
+CAMPO DE POSTULACIÓN
+JUSTIFICACIÓN 
+DE CALIFICACIÓN
+SUGERENCIAS DE 
+MEJORA
+FORTALEZAS
+DEBILIDADES
+Resultados esperados del proyecto 
+son escalables y/o sostenibles.
+5%
+¿El proyecto tiene potencial de generar 
+proyectos escalables?
+No cumple con el criterio: 
+0
+Deficiente: 1 punto
+Regular: 2 puntos
+Buena: 3 puntos
+Muy buena: 4 puntos
+Sobresaliente: 5 puntos
+Descripción detallada del 
+proyecto - Anexo 2
+Contribución de la pasantía al 
+desarrollo profesional de los 
+pasantes
+5%
+¿El proyecto contribuye a la formación en 
+investigación de recursos humanos ?
+No cumple con el criterio: 
+0
+Deficiente: 1 punto
+Regular: 2 puntos
+Buena: 3 puntos
+Muy buena: 4 puntos
+Sobresaliente: 5 puntos
+Descripción detallada del 
+proyecto - Anexo 2
+Investigadores que 
+participan
+PUNTAJE 
+TOTAL
+100%
+100%
+0%
+No cumple con 
+el criterio
+Deficiente
+Regular 
+Bueno 
+Muy bueno
+Sobresaliente
+0
+1
+2
+3
+4
+5
+*La nota mínima para aprobar una propuesta es 3 puntos.
+25%
+II.Impacto
+  
+E-009-01-ECOS 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Guía de seguimiento y monitoreo 
+MOVILIZACIONES ECOS 
+NORD PERU 
+ 
+ 
+ 
+Convocatoria 2020 
+ 
+ 
+  
+E-009-01-ECOS 
+2
+ 
+ 
+TABLA DE CONTENIDO 
+ 
+ 
+1. 
+OBJETIVO ..................................................................................................................................... 4 
+2. 
+EJECUCIÓN Y CIERRE ................................................................................................................ 4 
+2.1 
+Taller de inducción ................................................................................................................... 4 
+2.2 
+Aprobación de documentos de gestión.................................................................................. 4 
+2.3 
+Cierre del Proyecto .................................................................................................................. 4 
+3. 
+SEGUIMIENTO Y CONTROL ........................................................................................................ 4 
+3.1. 
+Informe Técnico Financiero (ITF) ............................................................................................ 4 
+3.2. 
+Reporte al Informe Técnico Financiero (RITF) ....................................................................... 5 
+3.3. 
+Informe Final de Resultados (IFR)........................................................................................... 5 
+3.4. 
+Reporte al Informe Final de Resultados (RIFR) ...................................................................... 5 
+3.5. 
+Desembolso .............................................................................................................................. 5 
+4. 
+GESTIÓN DE CAMBIO .................................................................................................................. 6 
+5. 
+RECONOCIMIENTO Y USO DE LA MARCA INSTITUCIONAL ..................................................... 6 
+6. 
+OBLIGACIONES DEL INVESTIGADOR PRINCIPAL Y ENTIDAD DE RESPALDO ....................... 6 
+7. 
+INCUMPLIMIENTO ........................................................................................................................ 7 
+Anexo 1: Niveles de objetivos ................................................................................................................ 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+E-009-01-ECOS 
+3
+GLOSARIO 
+ 
+ 
+N° Término 
+Descripción 
+1 
+Guía de 
+Seguimiento y 
+Monitoreo 
+Guía para el Investigador Principal, describe los procedimientos de seguimiento y monitoreo de 
+proyectos, desde su inicio hasta el cierre. 
+2 
+Sistema Integrado 
+de Gestión (SIG) 
+Es el Sistema de seguimiento y monitoreo, donde el seleccionado registra su ficha técnica, 
+documentos de gestión e informe de resultados. 
+3 
+Documentos de 
+Gestión 
+Los documentos de gestión lo integran: La Ficha Tècnica (FT), el Plan Operativo (PO) con sus 
+respectivos objetivos (Ver Anexo 1), la Programación Técnica Financiera (PTF), que incluye el 
+Cronograma de desembolsos (CD) y Cronograma de hitos (CH), y la Programación monetaria / 
+Programación no monetaria (PM / PNM). 
+4 
+Plan Operativo 
+(PO) 
+Informe que establece los objetivos y metas del proyecto, así como las actividades y metas a 
+desarrollar a través de un cronograma. Su elaboración está a cargo del seleccionado, a través 
+del SIG y su aprobación es realizada por FONDECYT. 
+5 
+Informe Técnico y 
+Financiero (ITF) 
+Reporta el cumplimiento de los indicadores, así como las adquisiciones y contrataciones 
+programadas en el PO, a través del Informe Técnico (IT) e Informe Financiero (IF) 
+respectivamente. Su elaboración está a cargo del seleccionado. 
+6 
+Reporte al Informe 
+Técnico y 
+Financiero (RITF) 
+Reporta la evaluación del ITF y otros documentos que lo complementen. Considera el análisis, 
+observaciones y recomendaciones sobre el proyecto. Su elaboración está a cargo del 
+FONDECYT, a través del SIG, y califica el desempeño del proyecto con el siguiente criterio:  
+ 
+Aprobado cuando se ha tenido un cumplimiento mayor al 70% de los indicadores 
+planificados al hito en el PO. 
+Aprobado con reserva, cuando ha habido alguna demora sustantiva y no se ha cumplido 
+con algunos indicadores programados al hito de acuerdo a las metas e hitos planificados 
+en el PO, que significan un cumplimiento mayor al 50% y menor al 70%. 
+Desaprobado cuando el cumplimiento de los indicadores programados al hito es menor al 
+50%, o se evidencia uso indebido de los fondos del proyecto.  
+ 
+7 
+Informe Final de 
+Resultados (IFR) 
+Informa acerca de los resultados finales logrados en el proyecto. Su elaboración está a cargo 
+del seleccionado, a través del SIG. 
+8 
+Reporte al Informe 
+Final de 
+Resultados (RIFR) 
+Reporta la evaluación del IFR sobre los resultados logrados en el proyecto. Su elaboración está 
+a cargo del FONDECYT, a través del SIG.  
+9 
+Periodo de 
+vigencia 
+El periodo de vigencia inicia a partir del día siguiente de suscrito el contrato y termina con la 
+emisión del Reporte al Informe Final de Resultados (RIFR) elaborado por el monitor 
+10 Periodo de 
+ejecución 
+El periodo de ejecución inicia a partir del día siguiente de la suscripción del contrato y culmina 
+con la fecha de término indicada en el PO. Dentro de dicho periodo se desarrollan todas las 
+actividades programadas y se podrán reconocer los gastos ejecutados. 
+ 
+11 Investigador 
+Principal (IP) 
+Es el responsable de la ejecución del proyecto y quien orienta las acciones del equipo de 
+investigación. Está a cargo de presentar el ITF y el IFR. 
+12 Monitor  
+Es el representante de FONDECYT ante el seleccionado para todas las coordinaciones y 
+actividades relacionadas a la ejecución del proyecto. Toda comunicación relacionada al 
+proyecto deberá ser coordinada con el Monitor.  
+  
+E-009-01-ECOS 
+4
+1. OBJETIVO 
+ 
+El presente documento tiene como objetivo guiar al seleccionado en la ejecución de proyectos 
+que fueron seleccionados por FONDECYT en cumplimiento a lo establecido en las Bases y 
+Contrato, así como precisar las obligaciones que deberá asumir.  
+ 
+2. EJECUCIÓN Y CIERRE 
+ 
+ 
+2.1 
+Taller de inducción  
+ 
+El Taller de Inducción es convocado por FONDECYT en un plazo máximo de 30 días luego de 
+firmado el contrato. Este taller se organiza con la finalidad que los seleccionados tomen 
+conocimiento sobre: a) los lineamientos de la gestión técnica, administrativa y financiera para la 
+ejecución de la subvención; b) el manejo del SIG como herramienta de uso obligatorio a través 
+de la cual FONDECYT realiza el seguimiento de los proyectos y c) la carga de los documentos 
+de gestión en el SIG. En el taller, la participación del IP es obligatoria. 
+ 
+2.2 
+Aprobación de documentos de gestión 
+ 
+Los documentos de gestión son elaborados por el seleccionado, teniendo en cuenta los 
+comentarios a la propuesta de postulación de los evaluadores externos y es aprobado por el 
+Monitor a través del SIG. Una vez aprobado, el seleccionado firma y remite al FONDECYT  la 
+versión aprobada, el mismo que debe ocurrir dentro del plazo de 30 días calendarios, contados 
+a partir de la fecha de notificación de aprobación emitida por el SIG. 
+ 
+2.3 
+Cierre del Proyecto 
+ 
+El cierre del proyecto se dará con la emisión del RIFR, dando conformidad al IFR, el mismo que 
+será remitido por la Unidad de Seguimiento y Monitoreo (USM) del FONDECYT mediante carta 
+dirigida al Investigador Principal.  Son requisitos para el cierre del proyecto:  
+ 
+2.5.1. 
+No tener saldos pendientes  
+2.5.2. 
+Contar con el último RITF aprobado o excepcionalmente aprobado con reserva. 
+2.5.3. 
+Tener el proyecto dentro del plazo de vigencia, no teniendo adendas pendientes de 
+firma. 
+ 
+ 
+3. SEGUIMIENTO Y CONTROL  
+ 
+3.1. Informe Técnico Financiero (ITF) 
+ 
+El ITF es presentado por el IP a la fecha programada del Hito aprobado en el PO, informando de 
+los avances según lo planificado y debe tener las siguientes consideraciones:  
+ 
+3.1.1. Se tiene un plazo máximo de hasta 30 días calendarios contados a partir de la fecha de 
+notificación de aprobación emitida por el SIG para presentar el ITF firmado. 
+3.1.2. Los artículos de investigación, publicaciones y ponencias deberán precisar lo siguiente: 
+“Este trabajo fue financiado por el CONCYTEC-FONDECYT en el marco de la 
+convocatoria “Movilizaciones con ECOS Nord-Perú 2020-01” [número de contrato xxx-
+201_]. 
+3.1.3. Adjuntar la Constancia de la aceptación para publicación artículo científico.  
+  
+E-009-01-ECOS 
+5
+3.1.4. Adjuntar las Constancias de capacitación de los movilizados 
+3.1.5. Adjuntar las constancias de tesis aprobada o sustentada. 
+3.1.6. Adjuntar la Lista de asistencia firmada por los participantes del evento de difusión del 
+conocimiento adquirido o intercambiado con instituciones francesas. 
+3.1.7. Adjuntar propuesta de un nuevo proyecto de investigación validado por el Comité 
+internacional.  
+ 
+Aspectos financieros: 
+ 
+En el Informe financiero deberá presentarse:  
+ 
+3.1.8. Ticket electrónico de pasaje aéreo o boarding pass. 
+3.1.9. Comprobante que sustente la compra del seguro de viaje. 
+3.1.10. Comprobantes que sustenten los gastos de manutención (alojamiento, alimentación y 
+movilidad local1).  
+3.1.11. Todos los comprobantes originales deben ser emitidos a nombre del Investigador 
+Principal y/o equipo técnico aprobado, en la medida de lo posible. 
+3.1.12. Todos los comprobantes de gasto originales se adjuntarán en el informe financiero a 
+través del SIG.  
+3.1.13. Los comprobantes originales de gastos deben estar custodiados y foliados, en archivo 
+físico y digital, en poder del Investigador Principal para facilitar las revisiones por la 
+auditoría, las mismas que deben sustentar in situ lo consignado en el informe financiero. 
+3.1.14. FONDECYT podrá verificar los comprobantes originales en cualquier momento que 
+considere conveniente, constituyendo un incumplimiento la no tenencia de dichos 
+documentos. 
+ 
+3.2. Reporte al Informe Técnico Financiero (RITF)  
+ 
+Una vez recibido el ITF el monitor tendrá un plazo de 30 días para remitir el RITF y lo hará de 
+conocimiento al seleccionado.  De haber un incumplimiento de algún indicador planificado, el 
+seleccionado deberá subsanar obligatoriamente en el plazo establecido por el monitor en el RITF.   
+ 
+3.3. Informe Final de Resultados (IFR) 
+ 
+El Informe Final de Resultados (IFR) es el documento que elabora el Investigador Principal a 
+través del SIG, para informar sobre los resultados logrados del proyecto, para la entrega de este 
+informe el Investigador Principal tendrá un plazo de hasta 45 días calendarios, contados desde 
+la fecha de culminación del periodo de ejecución. Asimismo, de existir observaciones deberán 
+ser atendidas por el Investigador Principal en el plazo establecido por el monitor. 
+ 
+3.4. Reporte al Informe Final de Resultados (RIFR) 
+ 
+El RIFR es el documento que elabora el Monitor al IFR en relación con los resultados logrados 
+de los indicadores de Hito aprobados en el Documento de Gestión. 
+ 
+3.5. Desembolso 
+ 
+La USM solicitará el desembolso de la primera armada luego de la suscripción del contrato, 
+aprobación de los Documentos de Gestión y entrega del Pagaré. Los siguientes desembolsos se 
+harán efectivo a la aprobación del Informe Técnico Financiero del Hito correspondiente, que entre 
+ 
+1 La Declaración jurada para sustentar gastos por el que no es posible obtener comprobante de pago, no debe 
+de exceder del 20% de los gastos de manutención.  
+  
+E-009-01-ECOS 
+6
+otros contendrá el Informe Técnico Anual de Progreso del Proyecto. El desembolso se hará 
+efectivo en la moneda que indique el contrato. 
+ 
+4. GESTIÓN DE CAMBIO 
+ 
+Cualquier requerimiento de cambio en los tiempo, costo o gastos durante la ejecución del 
+proyecto o cualquier requerimiento de cambio dentro del contrato, - que coadyuve al 
+cumplimiento de los resultados - debe realizarse con anticipación y con la conformidad de la 
+Unidad de Seguimiento y Monitoreo (USM), pudiendo dicho requerimiento ser aprobado o 
+desaprobado.  La (s) modificación (es) no implicará incremento del financiamiento otorgado. 
+ 
+5.  RECONOCIMIENTO Y USO DE LA MARCA INSTITUCIONAL  
+ 
+El subvencionado debe hacer constar en forma y lugar visible el cofinanciamiento de FONDECYT 
+y CONCYTEC en toda documentación relacionada a las actividades (afiches, trípticos, páginas 
+web, videos, papers, entre otros) y hacer las menciones en eventos o entrevistas que hagan 
+referencia al financiamiento que se le ha brindado. Para ello, una vez que el subvencionado firme 
+su contrato, deberá recibir de parte de la USM, el “Manual FONDECYT 2018 para 
+subvencionados” para el uso de los logotipos y las pautas necesarias. Asimismo, deberá tomar 
+en cuenta lo indicado las Bases. 
+ 
+6. OBLIGACIONES DEL INVESTIGADOR PRINCIPAL Y ENTIDAD DE RESPALDO 
+Además de las obligaciones establecidas en el contrato, el IP deberá cumplir con las siguientes 
+obligaciones: 
+ 
+6.1 
+Cumplir las actividades programadas en el Documento de Gestión. 
+6.2 
+Cumplir las normas establecidas por FONDECYT que se apliquen a la ejecución de las 
+actividades. 
+6.3 
+Utilizar los fondos otorgados por FONDECYT para cubrir estrictamente los rubros 
+financiables indicadas en las Bases. 
+6.4 
+Mantener actualizada su información de contacto en CTI-Vitae e informar a FONDECYT 
+sobre cualquier cambio en la misma. 
+6.5 
+Informar a FONDECYT de manera oportuna en caso surja algún problema que afecte el 
+cumplimiento de lo estipulado en el contrato, adjuntando los documentos sustentatorios 
+del caso.  
+6.6 
+Presentar los documentos de gestión a través del SIG, en el plazo estimado en la presente 
+Guía.  
+6.7 
+Subsanar las observaciones, de corresponder, en los plazos establecidos en la presente 
+Guía. 
+6.8 
+Presentar el ITF e IFR a través del SIG, en el plazo establecido en la presente Guía 
+debidamente firmados. 
+6.9 
+Presentar la versión firmada del Documento de Gestión, Informe Técnico Financiero e 
+Informe Final de Resultados dentro del plazo establecido en la presente Guía 
+6.10 
+Cumplir con la entrega de los resultados indicados en las Bases, alineados en el 
+Documento de Gestion. 
+6.11 
+Devolver a FONDECYT el saldo de la subvención, más los intereses de Ley de 
+corresponder. 
+6.12 
+Cumplir con lo establecido en la Declaración Jurada de respaldo al IP 
+6.13 
+Hacer constar en forma y lugar visibles el patrocinio de FONDECYT, CONCYTEC en toda 
+documentación o registro relacionados a las actividades. 
+ 
+ 
+  
+E-009-01-ECOS 
+7
+ 
+7. INCUMPLIMIENTO 
+ 
+7.1 
+Al incumplimiento de cualquiera de las obligaciones estipuladas en la Guía, Bases, y el 
+contrato, FONDECYT comunicará al seleccionado a fin de resolver el contrato.  
+7.2 
+El incumplimiento de las obligaciones puede acarrear consecuencias adicionales como la 
+calificación de no aptos para futuros financiamientos de acuerdo con nuestros 
+lineamientos2. 
+7.3 
+FONDECYT se reserva el derecho la devolución total o parcial de la subvención otorgada.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 Registro de no elegibles – RENOES.  
+  
+E-009-01-ECOS 
+8
+ 
+ 
+Anexo 1: Niveles de objetivos 
+ 
+El proceso de seguimiento y monitoreo se guiará por el cumplimiento de los siguientes niveles 
+de objetivos y sus respectivos indicadores: 
+ 
+1. El objetivo general o propósito del proyecto, que a través del indicador de resultado, 
+evidencia los logros que se alcanzarán al finalizar la ejecución del proyecto. 
+2. Los objetivos específicos, que a través de los indicadores de producto, evidencian los 
+logros que se buscan alcanzar con los diversos componentes del proyecto. 
+3.  Las actividades, que a través del cumplimiento de los indicadores de hito, evidencian los 
+avances en la ejecución del proyecto. 
+ 
+A continuación, se presentan los niveles de objetivos, los tipos de indicadores en cada nivel y 
+el momento y medio de su verificación. 
+ 
+Niveles de Objetivos, Indicadores y medios de verificación 
+ 
+Objetivos 
+del Proyecto 
+Indicadores 
+del Proyecto 
+Momento de 
+verificación 
+Formato de Monitoreo 
+A cargo del IP 
+A cargo del Monitor 
+   Objetivo General 
+o Propósito del 
+Proyecto 
+Indicadores de 
+Resultado 
+Al culminar el 
+proyecto o durante 
+la  ejecución. 
+Informe Técnico Financiero 
+(ITF) 
+Reporte al Informe Técnico 
+Financiero (RITF) 
+Objetivos 
+Específicos 
+Indicadores de 
+Producto 
+Durante y al culminar 
+el proyecto. 
+Informes Técnico y 
+Financiero (ITF)  
+Reporte al Informe técnico 
+Financiero (RITF) 
+ 
+Actividades 
+Metas de las 
+Actividades 
+ 
+Durante el 
+proyecto 
+ 
+Acta de seguimiento del 
+proyecto.  Informe Técnico     
+y Financiero (ITF) del Hito 
+Acta de seguimiento del 
+proyecto. Reporte al 
+Informe Técnico y 
+Financiero (RITF) 
+ 
+ 
+  
+Página 1 de 5 
+ 
+CONTRATO Nº           -2020-FONDECYT 
+ 
+“MOVILIZACIONES CON ECOS NORD - PERÚ” 
+CONVOCATORIA E009-2020-01-ECOS 
+ 
+Conste por el presente documento que se emite en dos (02) ejemplares igualmente 
+válidos, el Contrato que celebran de una parte el FONDO NACIONAL DE DESARROLLO 
+CIENTÍFICO, TECNOLÓGICO Y DE INNOVACIÓN TECNOLÓGICA, con RUC N° 
+20554841555, con domicilio legal en la Calle Chinchón Nº 867, Distrito de San Isidro, 
+Provincia y Departamento de Lima; debidamente representado por su Director Ejecutivo 
+ADOLFO MIGUEL LÓPEZ BUSTILLO, identificado con DNI N° 08229350, designado con 
+Resolución de Presidencia N° 016-2018-CONCYTEC-P y facultado para suscribir el 
+presente Contrato por Resolución de Presidencia Nº 007-2020-CONCYTEC-P, en adelante 
+EL FONDECYT; y de la otra parte, _________________________, identificado con DNI N° 
+___________, con domicilio en __________________________________, Distrito de 
+___________, 
+Provincia 
+de 
+_____________ 
+y 
+Departamento 
+de 
+__________;  
+_________________________, identificado con DNI N° ___________, con domicilio en 
+__________________________________, 
+Distrito 
+de 
+___________, 
+Provincia 
+de 
+_____________ y Departamento de __________; y  _________________________, 
+identificado 
+con 
+DNI 
+N° 
+___________, 
+con 
+domicilio 
+en 
+__________________________________, 
+Distrito 
+de 
+___________, 
+Provincia 
+de 
+_____________ y Departamento de __________, a quienes en adelante se les 
+denominará EL EQUIPO DE INVESTIGADORES, con domicilio común para todos los 
+efectos del presente Contrato en __________________________________, Distrito de 
+___________, 
+Provincia 
+de 
+_____________ 
+y 
+Departamento 
+de 
+__________, 
+debidamente representado por __________________________, según consta en 
+_________________________________, a quien en adelante se le denominará EL 
+INVESTIGADOR PRINCIPAL, en los términos siguientes:    
+ 
+DE LA NATURALEZA DEL CONCYTEC Y FONDECYT 
+ 
+CLÁUSULA PRIMERA.- EL CONCYTEC es un organismo técnico especializado con 
+personería jurídica de derecho público interno y con autonomía administrativa, económica 
+y financiera; constituye un pliego presupuestal y se encuentra adscrito a la Presidencia del 
+Consejo de Ministros; es el ente rector del Sistema Nacional de Ciencia, Tecnología e 
+Innovación Tecnológica (SINACYT) y el encargado de dirigir, fomentar, coordinar, 
+supervisar y evaluar las acciones del Estado en el ámbito de la ciencia, tecnología e 
+innovación tecnológica, conforme a lo dispuesto por Ley Nº 28613, el Decreto Supremo Nº 
+058-2011-PCM y el Decreto Supremo Nº 067-2012-PCM.  
+El Artículo 16º del Texto Único Ordenado de la Ley Nº 28303 - Ley Marco de Ciencia, 
+Tecnología e Innovación Tecnológica, aprobado por el Decreto Supremo Nº 032-2007-ED 
+y modificado por la Ley Nº 30806, establece la creación del Fondo Nacional de Desarrollo 
+Científico, Tecnológico y de Innovación Tecnológica (FONDECYT), como una unidad de 
+ejecución presupuestal del CONCYTEC, con patrimonio propio encargado de captar, 
+gestionar, administrar y canalizar recursos de fuente nacional y extranjera, destinados a 
+las actividades del SINACYT en el país.  
+ 
+DE LOS ANTECEDENTES 
+ 
+CLÁUSULA SEGUNDA.- De acuerdo con los Aspectos Generales de las Bases, el 
+presente concurso “Movilizaciones con ECOS-Nord-Perú” es el producto del Convenio 
+Específico de Cooperación Interinstitucional entre la Embajada de Francia y el Consejo 
+Nacional de Ciencia, Tecnología e Innovación Tecnológica del Perú (CONCYTEC), con la 
+participación de FONDECYT suscrito el 30 de Mayo de 2019, con el objeto de establecer 
+pautas y mecanismos que permitan el desarrollo de actividades científicas y adjudicación 
+de recursos monetarios. 
+  
+Página 2 de 5 
+ 
+Mediante Resolución de Presidencia N° 110-2017-CONCYTEC-P de fecha 7 de setiembre 
+de 2017 se aprueba el Instrumento Financiero “Movilización Nacional e Internacional en 
+Ciencia, Tecnología e Innovación Tecnológica”, modificado por Resolución de Presidencia 
+N° 182-2019-CONCYTEC-P de fecha 14 de octubre de 2019. 
+ 
+EL FONDECYT, a través de la Resolución de Dirección Ejecutiva N° ___-2020-
+FONDECYT-DE de fecha __ de _______ de ____, aprobó el Expediente de la 
+Convocatoria del Esquema Financiero E009-2020-01-ECOS denominado “Movilizaciones 
+con ECOS NORD-PERÚ”, que contiene, entre otros documentos, las Bases, en adelante, 
+LAS BASES y la Guía de Seguimiento y Monitoreo, en adelante, LA GUÍA. 
+ 
+[En caso de contar con Resolución de Dirección Ejecutiva que apruebe las Bases 
+Integradas, deberá consignarse dicha información en este párrafo].  
+ 
+Mediante Resolución de Dirección Ejecutiva Nº ___-2020-FONDECYT-DE de fecha __ de 
+_______ de 20__, EL EQUIPO DE INVESTIGADORES resultó seleccionado para obtener 
+un financiamiento en calidad de recursos monetarios, a través de su participación con el 
+proyecto denominado: “____________________________________”, en adelante, EL 
+PROYECTO. 
+ 
+DEL OBJETO 
+ 
+CLÁUSULA TERCERA.- Por el presente contrato EL FONDECYT otorga a EL EQUIPO 
+DE INVESTIGADORES un fondo económico en calidad de recursos monetarios, con el 
+objetivo de promover la colaboración entre las comunidades académicas y científicas de 
+Perú y Francia, en los sectores prioritarios reconocidos por ambas partes, promoviendo 
+intercambios de experiencias y conocimiento científico, tecnológico e innovador y su 
+difusión; a través de la movilización de investigadores y estudiantes/egresados de 
+doctorado, en el marco de proyectos de investigación I+D que estén en ejecución o por 
+iniciar y así obtener resultados esperados señalados en el numeral 1.4 de LAS BASES.  
+ 
+Los resultados esperados señalados en el numeral 1.4 de LAS BASES deberán 
+considerar lo dispuesto en los numerales 1.5 y 2.4.1 de LAS BASES, en lo que 
+corresponda y serán detallados en el Plan Operativo aprobado que como anexo formará 
+parte integrante del presente contrato. 
+ 
+Asimismo, a efectos de que las actividades realizadas por EL EQUIPO DE 
+INVESTIGADORES sean reconocidas como resultados de la subvención, todos los 
+artículos de investigación y demás publicaciones y ponencias derivadas de la subvención, 
+deben ceñirse a lo establecido en el numeral 5 de LAS BASES.   
+ 
+DE LA VIGENCIA DEL CONTRATO, PERIODO DE EJECUCIÓN Y GESTIÓN DE 
+CAMBIOS  
+ 
+CLÁUSULA CUARTA.- El presente contrato tiene vigencia desde el día siguiente de su 
+suscripción hasta la emisión del Reporte al Informe Final de Resultados (RIFR) por parte 
+de la Unidad de Seguimiento y Monitoreo de EL FONDECYT. 
+ 
+El periodo de ejecución inicia desde el día siguiente de la suscripción del presente contrato 
+y culmina con la fecha de término indicada en el Plan Operativo aprobado, el cual formará 
+parte integrante del contrato, conforme lo establecido en LAS BASES y LA GUÍA.  
+ 
+Excepcionalmente, en caso surja algún problema que afecte el cumplimiento de la(s) 
+fecha(s) de movilización establecida(s) y se requiera su modificación, siempre que el 
+contrato se encuentre vigente, se procederá conforme lo establecido en el numeral 4 de 
+LA GUÍA, debiendo tenerse en cuenta las indicaciones señaladas en los numerales 1.5 y 
+2.4.1 de LAS BASES. 
+  
+Página 3 de 5 
+ 
+ 
+DEL FINANCIAMIENTO A OTORGAR 
+ 
+CLÁUSULA QUINTA.- EL FONDECYT otorga a EL EQUIPO DE INVESTIGADORES la 
+suma de ________________ (_____________________________), para cubrir los rubros 
+financiables señalados en el numeral 2.4.2 de LAS BASES. El monto del financiamiento 
+otorgado será utilizado conforme a lo establecido en LAS BASES y LA GUÍA. 
+ 
+DEL DESEMBOLSO y ABONO DE LA SUBVENCIÓN 
+ 
+CLÁUSULA SEXTA.- El desembolso de la subvención que otorga EL FONDECYT se 
+efectuará de acuerdo con lo establecido en el numeral 3.5 de LA GUÍA, teniendo en 
+consideración las condiciones establecidas en LAS BASES. 
+ 
+EL FONDECYT efectuará el depósito de la subvención mediante los abonos en la entidad 
+bancaria que corresponda, siguiendo los procedimientos regulados en las normas de la 
+materia. 
+ 
+DE LAS OBLIGACIONES 
+ 
+CLÁUSULA SÉPTIMA.- Son obligaciones de EL EQUIPO DE INVESTIGADORES las 
+siguientes: 
+ 
+1. Cumplir las actividades programadas en el Documento de Gestión. 
+2. Cumplir las normas establecidas por EL FONDECYT que se apliquen a la 
+ejecución de las actividades. 
+3. Utilizar los fondos otorgados por EL FONDECYT para cubrir estrictamente los 
+rubros financiables indicados en LAS BASES. 
+4. Mantener actualizada su información de contacto en CTI-Vitae e informar a EL 
+FONDECYT sobre cualquier cambio en la misma.  
+5. Informar a EL FONDECYT de manera oportuna en caso surja algún problema que 
+afecte el cumplimiento de lo estipulado en el contrato, adjuntando los documentos 
+sustentatorios del caso.  
+6. Presentar los documentos de gestión a través del SIG debidamente suscritos en el 
+plazo establecido en LA GUÍA. 
+7. Subsanar las observaciones, de corresponder, en los plazos establecidos en LA 
+GUÍA. 
+8. Presentar el ITF e IFR a través del SIG debidamente suscritos, en el plazo 
+establecido en LA GUÍA. 
+9. Presentar la versión firmada del Documento de Gestión, Informe Técnico 
+Financiero e Informe Final de Resultados dentro del plazo establecido en en LA 
+GUÍA. 
+10. Cumplir con la entrega de los resultados indicados en LAS BASES, alineados en el 
+Documento de Gestión. 
+11. Devolver a EL FONDECYT el saldo de la subvención, más los intereses de Ley de 
+corresponder.  
+12. Cumplir con lo establecido en la Declaración Jurada de respaldo a  EL 
+INVESTIGADOR PRINCIPAL. 
+13. Hacer constar en forma y lugar visibles el patrocinio de EL FONCECYT y 
+CONCYTEC, en toda documentación y/o registro relacionado a las actividades 
+propias de la subvención. 
+ 
+Asimismo, son obligaciones de EL EQUIPO DE INVESTIGADORES las obligaciones, 
+compromisos y responsabilidades establecidas en el contrato, LAS BASES y LA GUÍA. 
+ 
+ 
+ 
+  
+Página 4 de 5 
+ 
+ 
+DE LA RESOLUCIÓN DEL CONTRATO 
+ 
+CLÁUSULA OCTAVA.- EL FONDECYT podrá resolver de pleno derecho el presente 
+contrato ante el incumplimiento de cualquiera de las obligaciones, compromisos y 
+responsabilidades establecidas en la Cláusula precedente, LAS BASES, LA GUÍA y el 
+Plan Operativo aprobado por EL FONDECYT, previo informe de la Unidad de Seguimiento 
+y Monitoreo de EL FONDECYT, para lo cual se comunicará la resolución del contrato a EL 
+INVESTIGADOR PRINCIPAL mediante Carta Notarial, conforme con las disposiciones del 
+Artículo 1430° Código Civil.   
+  
+En el supuesto de que EL INVESTIGADOR PRINCIPAL, como consecuencia de un caso 
+fortuito o fuerza mayor debidamente acreditado, requiera dar por concluido el presente 
+contrato, deberá solicitarlo de forma escrita a EL FONDECYT y proceder con la devolución 
+del monto de la subvención no ejecutado. Con la opinión técnica de la Unidad de 
+Seguimiento y Monitoreo respecto de la procedencia de lo solicitado y la determinación del 
+monto a devolver, así como la opinión legal aplicable al caso, EL FONDECYT determinará 
+la procedencia de lo solicitado. 
+ 
+En caso de que EL INVESTIGADOR PRINCIPAL solicite dar por concluido el presente 
+contrato, por motivo distinto a alguno de los señalados en el párrafo precedente, EL 
+FONDECYT estará facultado a resolver el contrato de pleno derecho, para lo cual será 
+suficiente la comunicación de su decisión mediante Carta Notarial dirigida a EL 
+INVESTIGADOR PRINCIPAL.  
+ 
+DE LAS IMPLICANCIAS DEL INCUMPLIMIENTO Y LA RESOLUCIÓN CONTRACTUAL 
+ 
+CLÁUSULA NOVENA.- La resolución del presente contrato por las causas señaladas en 
+el primer y tercer párrafo de la cláusula precedente, dará lugar a la devolución total del 
+monto recibido, dicho importe deberá ser determinado por la Unidad de Seguimiento y 
+Monitoreo de EL FONDECYT. Además de la resolución contractual por dichos supuestos, 
+EL FONDECYT procederá de acuerdo con lo establecido en el numeral 7 de LA GUIA. 
+ 
+La devolución a que se hace referencia en el párrafo anterior incluirá los intereses de ley 
+que se devenguen hasta la fecha en que EL INVESTIGADOR PRINCIPAL efectúe el 
+reembolso, conforme con lo establecido en el Código Civil, con excepción del supuesto 
+señalado en el segundo párrafo de la cláusula precedente, caso en el cual la devolución 
+del monto de la subvención no ejecutado no incluirá intereses. 
+ 
+DE LA GARANTÍA 
+ 
+CLÁUSULA DÉCIMA.- Para garantizar el cumplimiento del presente contrato, EL 
+INVESTIGADOR PRINCIPAL deberá presentar como requisito para el primer desembolso 
+un pagaré “a la vista” girado a la orden de EL FONDECYT por el 50% del primer 
+desembolso otorgado y según las condiciones establecidas en el literal c) del numeral 4.3 
+de LAS BASES y el numeral 3.5. de LA GUIA. 
+ 
+CLÁUSULA ESPECIAL 
+ 
+CLÁUSULA DÉCIMO PRIMERA. – Complementariamente y en cumplimiento de la 
+legislación peruana, los archivos digitales y los programas informáticos que pudieran 
+resultar de la subvención y sus investigaciones relacionadas y/o derivadas, deberán 
+obligatoriamente ser difundidos de manera completa en el Repositorio Nacional Digital de 
+Ciencia, Tecnología e Innovación de Acceso Abierto, conforme a las disposiciones 
+establecidas en la normatividad sobre la materia. 
+ 
+  
+Página 5 de 5 
+ 
+En caso de que los resultados de las investigaciones estuvieran protegidos por derechos 
+de propiedad, será obligatorio para EL EQUIPO DE INVESTIGADORES proporcionar los 
+metadatos (resumen de datos) correspondientes a fin de incluirlos en el Repositorio 
+Nacional Digital de Ciencia, Tecnología e Innovación de Acceso Abierto.  
+  
+EL FONDECYT queda autorizado a utilizar todos los resultados y documentación de la 
+subvención y sus investigaciones relacionadas y/o derivadas, en cualquier momento. 
+ 
+DE LA PROPIEDAD INTELECTUAL 
+ 
+CLÁUSULA DÉCIMO SEGUNDA.- EL EQUIPO DE INVESTIGADORES es responsable 
+de adoptar las acciones que sean necesarias para dar cumplimento a las normas 
+aplicables sobre propiedad intelectual, según corresponda.  
+ 
+DE LA JURISDICCIÓN Y DOMICILIO 
+ 
+CLÁUSULA DÉCIMO TERCERA.- Las partes señalan como sus domicilios los indicados 
+en la introducción de este contrato, en donde se les hará llegar todas las comunicaciones 
+relacionadas a su ejecución y se tendrá por válida y bien realizada la entrega de cualquier 
+correspondencia que exista entre ellas para todos sus efectos jurídicos. 
+ 
+Para que cualquier cambio de domicilio sea válido, este deberá ser comunicado a la otra 
+parte por escrito y contar con la constancia de recepción de la comunicación de la parte a 
+la que va dirigida. 
+ 
+DE LA SOLUCIÓN DE CONTROVERSIAS 
+ 
+CLÁUSULA DÉCIMO CUARTA.- Las partes acuerdan de manera voluntaria que toda 
+desavenencia, litigio o controversia que pudiera derivarse de este contrato, incluidas las de 
+su nulidad o invalidez, se regirán por las reglas de la buena fe y común acuerdo, luego 
+serán resueltas a través de la conciliación extrajudicial. En caso no se pudiera llegar a un 
+acuerdo por este medio, se recurrirá a la vía judicial correspondiente, para lo cual las 
+partes renuncian expresamente al fuero de sus domicilios y se someten a la competencia 
+de los tribunales de la ciudad de Lima. 
+ 
+Las partes declaran que el presente contrato lo conforman los términos y condiciones aquí 
+estipuladas, LAS BASES y LA GUÍA, documentos que las partes declaran conocer y 
+someterse a sus textos, asimismo, con su suscripción aceptan que el Plan Operativo 
+aprobado forma parte integrante del presente contrato. 
+  
+En señal de conformidad, las partes suscriben el presente contrato, en la ciudad de Lima, 
+a los............ días del mes de.................................. de………... 
+ 
+ 
+ 
+ 
+___________________________________ 
+ADOLFO MIGUEL LÓPEZ BUSTILLO 
+DNI Nº 08229350 
+EL FONDECYT 
+ 
+__________________________________ 
+XXXXXXXXXXXXXXXXXXXXXXX 
+DNI Nº XXXXXXXX 
+EL INVESTIGADOR PRINCIPAL
+ 

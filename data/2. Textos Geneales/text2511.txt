@@ -1,0 +1,1242 @@
+
+1 
+ 
+EDITAL DE CHAMADA PÚBLICA FAPESC Nº 31/2020 
+PROGRAMA DE PESQUISA E INOVAÇÃO EM AUDITORIA CONTÍNUA DA FOLHA 
+DE PAGAMENTO DO PODER EXECUTIVO DO ESTADO DE SANTA CATARINA 
+ 
+PROGRAMA INTERINSTITUCIONAL DE FOMENTO A PROJETOS DE PESQUISA, 
+DESENVOLVIMENTO    E    INOVAÇÃO    QUE    ATENDAM    ÀS    DEMANDAS    
+DA    SOCIEDADE CATARINENSE    POR    INTERMÉDIO    DE    ÓRGÃOS    
+SETORIAIS    DO    GOVERNO    DO ESTADO DE SANTA CATARINA  
+(PROGRAMA #FAPESC@GOV+PESQUISA&INOVAÇÃO) 
+ 
+ 
+A FUNDAÇÃO DE AMPARO À PESQUISA E INOVAÇÃO DO ESTADO DE SANTA 
+CATARINA – FAPESC em colaboração com a CONTROLADORIA-GERAL DO ESTADO 
+DE SANTA CATARINA (CGE), torna público o lançamento da presente Chamada Pública 
+com 
+o 
+intuito 
+de 
+selecionar 
+recursos 
+humanos 
+dentro 
+do 
+PROGRAMA 
+#FAPESC@GOV+PESQUISA&INOVAÇÃO, para a implantação de práticas de 
+pesquisas e inovação através do gerenciamento de projetos para a auditoria contínua 
+da folha de pagamento do poder executivo do Estado de Santa Catarina, nos termos 
+do art. 218 da Constituição da República Federativa do Brasil de 1988 e art. 176 da 
+Constituição do Estado de Santa Catarina de 1989 e considerando:  
+• que a  FAPESC é  agência de fomento executora da Política Estadual de Ciência, 
+Tecnologia e Inovação para o avanço de todas as áreas do conhecimento, o 
+equilíbrio regional, o desenvolvimento econômico sustentável e a melhoria da 
+qualidade de vida da população do Estado de Santa Catarina; 
+• a observância dos valores éticos e com base nos princípios estabelecidos pelos 
+arts. 136, inciso II, 144, inciso XII, 176, 177 e 193 da Constituição do Estado,  
+•    o art. 5º do decreto estadual 965/2012, onde a FAPESC tem por objetivos:  
+- fomentar e programar soluções de tecnologia de informação e comunicação para 
+ciência, tecnologia e inovação, inclusive para a administração pública;   
+- fomentar o desenvolvimento tecnológico inovativo das empresas catarinenses e 
+organizações públicas ou privadas, preferencialmente em parceria com instituições 
+de ensino e pesquisa situadas no Estado, pela transferência de conhecimento e 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001646/2020 e o código LCH6247R.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:38:25, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+43
+  
+2 
+ 
+interação 
+de 
+competências, 
+podendo 
+subvencionar a 
+permanência 
+de 
+pesquisadores de comprovada qualificação no âmbito de programas específicos; e 
+- promover e estimular a realização de pesquisas científicas, tecnológicas e de 
+inovação, por iniciativa própria ou em colaboração com outras instituições públicas 
+ou privadas, do país ou do exterior, concedendo-lhes os recursos necessários para 
+a aquisição de material, contratação e remuneração de pessoal vinculado a projetos 
+de pesquisas e para quaisquer outras providências condizentes com os objetivos 
+visados; e 
+•  que compete a CGE: a) tomar as providências necessárias à defesa do patrimônio 
+público, ao controle interno, à auditoria pública, à correição, à prevenção e ao 
+combate à corrupção, às atividades de ouvidoria e ao incremento da transparência 
+da gestão no âmbito  da  Administração  Pública  Estadual;  b)  instaurar  
+procedimentos  e  processos administrativos a seu cargo, constituindo comissões 
+para seu devido acompanhamento; c) realizar inspeções e avocar procedimentos 
+e processos em curso na Administração Pública Estadual, para exame de sua 
+regularidade, bem como propor providências ou correção  de  falhas;  d)  propor  
+medidas  legislativas  ou  administrativas  e  sugestão  de ações para evitar a 
+repetição de irregularidades constatadas; e) coordenar o Sistema de  Controle  
+Interno  do  Poder  Executivo  Estadual;  f)  executar  as  atividades  de controladoria    
+no    âmbito    da    Administração    Pública    Estadual.   Art.   25.   Lei Complementar 
+nº 741, de 12 de junho de 2019. 
+ 
+1 OBJETIVOS 
+ 
+1.1 Geral 
+Selecionar recursos humanos pela oferta de bolsas de desenvolvimento, pesquisa e 
+inovação a  profissionais capacitados em gerenciamento de projetos  técnico-científico na 
+área de Contábeis e na área de Tecnologia da Informação com o objetivo de 
+estabelecer  metodologia  de  auditoria  contínua  que promova  o  aperfeiçoamento  do  
+monitoramento  e acompanhamento automatizado das inconsistências detectadas nos 
+pagamentos realizados na folha de pagamento dos servidores do Poder Executivo do 
+Estado de Santa Catarina,  buscando o fortalecimento da gestão pública baseada em 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001646/2020 e o código LCH6247R.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:38:25, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+44
+  
+3 
+ 
+projetos e processos inovadores com focos específicos na melhoria do serviço público 
+estadual, permitindo a articulação da ciência, tecnologia e inovação na integração dos 
+órgão públicos junto ao PROGRAMA #FAPESC@GOV +PESQUISA&INOVAÇÃO da 
+FAPESC. 
+ 
+1.2 Específicos 
+• Prover a Auditoria de Pessoal com informações referentes a variações 
+significativas, tendências e riscos em relação aos valores que são pagos por 
+matrículas na folha, levando em consideração o histórico de pagamentos, por meio 
+da aplicação de análise de dados, conceitos estatísticos e clusterização para 
+definição de anomalias na folha de pagamento. 
+• Desenvolver metodologias e trilhas que envolvem as rubricas de pagamentos e 
+outras situações, tendo em vista o ordenamento legal pertinente, para possibilitar 
+cruzamento de informações na base de dados.     
+• Estabelecer fluxos e rotinas automatizadas, inclusive com a indicação de alarmes, 
+que permita o encaminhamento das   anomalias   detectadas   diretamente   aos   
+responsáveis   pelas   unidades   de   pessoal   dos   órgãos, além   do 
+acompanhamento das medidas tomadas para solução destas anomalias, 
+garantindo maior agilidade e controle do processo de auditoria da folha. 
+• Alcançar metas e objetivos traçados na estratégia organizacional para a pesquisa 
+e inovação. 
+• Melhorar a performance da organização com aplicação de conceitos científicos e 
+metodologias inovadoras. 
+ 
+2 CRONOGRAMA 
+Atividades 
+Datas 
+Início 
+Término 
+Lançamento da Chamada Pública 
+10/12/2020 
+Submissão da candidatura na Plataforma de CTI FAPESC 
+(online) 
+10/12/2020 11/01/2021 
+Resultado preliminar de admissibilidade 
+18/01/2021 
+Período para apresentação de recursos 
+18/01/2021 25/01/2021 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001646/2020 e o código LCH6247R.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:38:25, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+45
+  
+4 
+ 
+Resultado do julgamento dos recursos e resultado final de 
+admissibilidade 
+28/01/2021 
+Análise e julgamento de mérito 
+18/01/2021 29/01/2021 
+Divulgação dos aprovados no site da FAPESC 
+01/02/2021 
+Período para apresentação de recurso administrativo 
+01/02/2021 08/02/2021 
+Resultado do julgamento dos recursos e resultado final 
+15/02/2021 
+Entrega do Termo de Compromisso dos bolsistas (Anexo II) 16/02/2021 a 19/02/2021 
+ 
+3 ADMISSIBILIDADE 
+3.1 Os critérios de admissibilidade compreendem os requisitos mínimos de: 
+a) Titulação mínima exigida de acordo com o Item 5.1 da presente Chamada; 
+b) Currículo atualizado na Plataforma Lattes; 
+c) Documento de identidade; 
+d) Comprovante de residência no Estado de Santa Catarina; 
+e) Comprovante de que não possui pendências de qualquer natureza com a FAPESC e 
+outro órgão da Administração Pública Direta ou Indireta; 
+ f) Carta de Motivação; e 
+g) Vídeo de Apresentação. 
+3.2 A análise dos requisitos acima será feita com base nos documentos anexos no 
+momento da inscrição, correspondente ao Item 6.3 deste Edital. 
+3.3 Os bolsistas exercerão suas funções, limitando-se exclusivamente, ao apoio ao 
+PROGRAMA DE PESQUISA E INOVAÇÃO EM AUDITORIA CONTÍNUA DA FOLHA DE 
+PAGAMENTO DO PODER EXECUTIVO DO ESTADO DE SANTA CATARINA, dentre as 
+atribuições legais definidas pelo artigo 8º da Lei Complementar nº 741/2019, não podendo 
+ser suas atividades desvirtuadas para outras áreas ou funções dentro do órgão a qual foi 
+selecionado junto a presente Chamada, e a que forem designados, sob pena de anulação 
+do termo de compromisso de bolsista. 
+3.4 Os bolsistas exercerão suas funções e serão remunerados por um período de 12 
+(doze) meses, prorrogável 01 (uma) vez por igual período, mediante avaliação da CGE e  
+da FAPESC. 
+ 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001646/2020 e o código LCH6247R.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:38:25, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+46
+  
+5 
+ 
+4 RECURSOS FINANCEIROS 
+4.1 O valor global estimado a ser aplicado na presente Chamada é de até R$ 192.000,00 
+(cento e noventa e dois mil reais) para 2 (duas) bolsas com duração de até 24 (vinte e 
+quatro) meses, sendo o valor de R$ 96.000,00 (noventa e seis reais) descentralizados à 
+FAPESC pela CGE e R$ 96.000,00 (noventa e seis reais) custeados pela FAPESC.  
+4.2 A descentralização dos recursos pela CGE à FAPESC deverá ocorrer até 30 dias antes 
+do início da concessão da bolsa. 
+4.3 Serão ofertadas 02 (duas) bolsas equivalentes ao valor da Bolsa nível DTI – A, 
+conforme diretrizes do Conselho Nacional de Desenvolvimento Científico e Tecnológico 
+(CNPq), cujo valor corresponde a R$ 4.000,00 (quatro mil reais) por bolsista. 
+ 
+5 DAS VAGAS 
+5.1 Por intermédio do presente Edital serão disponibilizadas 2 (duas) vagas, conforme 
+área/escolaridade/pré-requisitos dispostos na tabela abaixo: 
+ 
+Modalida
+de de 
+Bolsa 
+Área de 
+Atuação 
+Escolaridade/Pré-requisitos e 
+atribuições 
+Vagas 
+Valor Mensal 
+da Bolsa (R$) 
+DTI – A 
+Contábeis 
+Titulação 
+mínima 
+de 
+Graduação 
+e 
+Mestrado em Ciências Contábeis. 
+  
+Experiência profissional de no mínimo de 
+6 (seis) anos em pesquisas ou trabalhos 
+aplicadas com o uso de estatística. 
+  
+ A comprovação da experiência deverá ser 
+realizada por meio artigos acadêmicos, de 
+projetos, publicações, docência, cursos, 
+participações em eventos e/ou por vínculos 
+de trabalho. 
+01 
+4.000,00 
+DTI - A 
+Tecnologia 
+da 
+Informação 
+Titulação mínima de Graduação em 
+Engenharia 
+da 
+computação, 
+ou 
+Graduação 
+em 
+Ciência 
+da 
+Computação, 
+ou 
+Graduação 
+em 
+Sistemas 
+de 
+Informação, 
+ou 
+Graduação 
+em 
+Análise 
+e 
+Desenvolvimento de Sistemas, ou 
+Graduação em Gestão da Tecnologia 
+da Informação, ou Graduação em 
+Engenharia 
+de 
+Software, 
+ou 
+Graduação 
+em 
+Tecnologia 
+da 
+01 
+4.000,00 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001646/2020 e o código LCH6247R.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:38:25, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+47
+  
+6 
+ 
+Informação 
+e 
+Comunicação 
+ou 
+Graduação em Ciência da Informação.  
+ 
+Experiência profissional de no mínimo de 
+6 (seis) anos em Structured Query Language 
+- SQL. 
+ 
+A comprovação da experiência deverá ser 
+realizada por meio artigos acadêmicos, 
+projetos, publicações, docência, cursos, 
+participações em eventos e/ou por vínculos 
+de trabalho.  
+5.2 Das atribuições dos bolsistas 
+Atuando junto à Gerência de Auditoria de Pessoal - GAPES, o bolsista com formação em 
+Graduação em Engenharia da computação, ou Graduação em Ciência da 
+Computação, ou Graduação em Sistemas de Informação, ou Graduação em Análise 
+e Desenvolvimento de Sistemas, ou Graduação em Gestão da Tecnologia da 
+Informação, ou Graduação em Engenharia de Software, ou Graduação em 
+Tecnologia da Informação e Comunicação ou Graduação em Ciência da Informação,  
+terá como principal atribuição a execução de trilhas de auditoria utilizando a linguagem 
+Structured Query Language - SQL para Plataforma Hadoop. O bolsista também deverá 
+colaborar com o trabalho de catalogação das trilhas em SQL e replicação das mesmas 
+para o software ACL Analytics/Galvanize, bem como apoiar o trabalho de estruturação e 
+visualização de dados no decorrer do processo de disponibilização dos resultados aos 
+demais servidores da Controladoria-Geral do Estado e aos servidores das Setoriais e 
+Seccionais de Recursos Humanos. 
+Atuando junto à Gerência de Auditoria de Pessoal - GAPES, o  bolsista com  Graduação 
+e Mestrado em Ciências Contábeis, terá como principais atribuições o apoio à 
+implementação da auditoria contínua , envolvendo atividades de pesquisa e identificação 
+da legislação e procedimentos administrativos relativos a implantação de rubricas 
+remuneratórias 
+e 
+seus 
+impactos 
+nas 
+rubricas 
+contábeis; 
+verificação 
+das 
+incompatibilidades relativas aos procedimentos e legislações; identificação de outliers 
+através do uso de estatística e algoritmos de aprendizagem de máquina; apoio em 
+treinamento, reuniões de sensibilização e ações junto aos setoriais e seccionais de 
+recursos humanos. O bolsista também deverá apoiar o trabalho de catalogação das trilhas 
+de auditoria, estruturação e visualização de dados no decorrer do processo de 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001646/2020 e o código LCH6247R.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:38:25, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+48
+  
+7 
+ 
+disponibilização dos resultados aos demais servidores da Controladoria-Geral do Estado 
+e aos servidores das Setoriais e Seccionais de Recursos Humanos. 
+5.2.1 Além das atribuições especificadas nos itens acima os bolsistas deverão cumprir os 
+objetivos do Programa por meio das atividades, entregas e produtos descritos no Item 
+11.1.1 do presente Edital, nos termos e nos limites de suas competências técnicas, 
+profissionais e acadêmicas. 
+ 
+6 INSCRIÇÃO DOS CANDIDATOS 
+6.1 Os candidatos às modalidades de bolsas descritas no Item 5.1 deste Edital deverão 
+cadastrar-se 
+na 
+Plataforma 
+de 
+CTI 
+da 
+FAPESC 
+– 
+http://plataforma.fapesc.sc.gov.br/fapesc, observado os prazos constantes no Item 2- 
+Cronograma. 
+6.2 Será aceita a inscrição em somente uma Área de Atuação, de acordo com o Item 5.1 
+do Edital. 
+6.3 No momento da inscrição os candidatos deverão, obrigatoriamente, anexar os 
+seguintes arquivos no formato PDF contendo: 
+a) Documento de Identidade (RG ou CNH); 
+b) Comprovante de residência (ou declaração acompanhada de comprovante de 
+residência do declarante) atualizado de no mínimo 3 (três) meses; 
+c) Diploma de Graduação, de acordo com o Item 5.1 do Edital, expedido por instituição de 
+ensino Superior reconhecida pelo Ministério da Educação; 
+d) Comprovante de titulação complementar em Especialização Lato Sensu ou Stricto 
+Sensu, de acordo com o Item 5.1 e, se houver; 
+e) Cópia do currículo na Plataforma Lattes em formato PDF atualizado nos últimos 3 (três) 
+meses;  
+f) Carta de Motivação (Anexo I): Apresentar as intenções de atuar na gestão pública, 
+especificamente nas atribuições descritas neste Edital, em no máximo 2.000 (dois mil) 
+caracteres com espaço; 
+g)   Vídeo de Apresentação: Apresentar histórico profissional em no máximo 2 minutos. 
+Link deve ser disponibilizado no youtube (inserir o link em campo específico na Plataforma 
+FAPESC). Se por algum motivo técnico os vídeos não puderem ser visualizados a 
+candidatura será inadmissível; 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001646/2020 e o código LCH6247R.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:38:25, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+49
+  
+8 
+ 
+h) Comprovantes artigos acadêmicos, projetos, publicações, docência, cursos, 
+participações em eventos e/ou vínculos de trabalho de acordo com o Item 5.1 do Edital;  
+i) Comprovante de que não possui pendências de qualquer natureza com a FAPESC e 
+outro órgão da Administração Pública Direta ou Indireta (https://www.sc.gov.br/cge/dart/). 
+6.4 Não será permitido anexar ou substituir qualquer documento ou informação, após o 
+envio eletrônico da proposta, ainda que dentro do prazo.  
+ 
+7 ANÁLISE E JULGAMENTO DE MÉRITO QUANTO À QUALIFICAÇÃO TÉCNICA 
+7.1 A análise e o julgamento de mérito quanto à qualificação técnica terão caráter 
+eliminatório e serão realizados pelo Comitê Permanente de Acompanhamento e Avaliação 
+das Chamadas Públicas da FAPESC (CPAA) juntamente com representante da CGE que, 
+dependendo da necessidade, poderão solicitar a assessoria de consultores ad hoc.  
+7.2 A experiência será comprovada por meio do Currículo Lattes e, para isso, deve ser 
+apresentado cópia dos diplomas e/ou atestados mencionados no Currículo. Somente 
+serão válidos diplomas emitidos por instituição de ensino superior reconhecida pelo 
+Ministério da Educação. 
+7.3 O tempo de experiência será contado a partir da data de conclusão do curso superior 
+e/ou do efetivo exercício profissional. A capacidade técnica será comprovada por meio 
+dos documentos descritos no Item 5.1 deste Edital. 
+7.4 O julgamento de cada um dos quesitos abaixo será realizado mediante a conferência 
+do Currículo Lattes concomitantemente com os documentos anexados, sendo concedida 
+a pontuação de acordo com o apresentado abaixo. 
+7.5 - Avaliação do mérito técnico do candidato: 
+Qualificaçã
+o Técnica 
+Descrição do 
+Item 
+Titulação 
+Documentos 
+apresentados (atestados) 
+Pontuação do 
+Item 
+Pontuação 
+Máxima 
+Total 
+Quantidade 
+Pontuação Mínima Máxima 
+a) Titulação 
+Técnica 
+Obrigatória  
+Nível Superior 
+nas áreas 
+relacionadas no 
+Item 5.1, de 
+acordo com a 
+bolsa pretendida. 
+Graduação  
+1 
+40 por 
+diploma 
+40 
+40 
+40 
+b) Titulação 
+Técnica 
+Obrigatória 
+(pontuará 
+somente 
+Mestrado nas 
+áreas 
+relacionadas 
+Mestrado 
+1 
+10 por 
+diploma 
+10 
+10 
+10 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001646/2020 e o código LCH6247R.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:38:25, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+50
+  
+9 
+ 
+para a área 
+de 
+Contábeis) 
+no Item 5.1, de 
+acordo com a 
+bolsa pretendida.  
+c) Titulação 
+Complemen
+tar 
+Pós-Graduação 
+nas áreas 
+relacionadas no 
+Item 5.1, de 
+acordo com a 
+bolsa pretendida. 
+Especialização 
+Lato Sensu 
+0 a 1 
+5 por 
+diploma 
+0 
+5 
+30 
+Mestrado 
+0 a 1 
+10 por 
+diploma 
+0 
+10 
+Doutorado 
+0 a 1 
+15 por 
+diploma 
+0 
+15 
+d) 
+Capacidade 
+Técnica 
+Complemen
+tar 
+Capacidade 
+técnica 
+comprovada nas 
+áreas 
+relacionadas no 
+Item 5.1, de 
+acordo com a 
+bolsa pretendida. 
+A comprovação 
+da experiência 
+deverá ser 
+realizada por 
+meio artigos 
+acadêmicos, 
+projetos, 
+publicações, 
+docência, 
+cursos, 
+participações 
+em eventos 
+e/ou por 
+vínculos de 
+trabalho na 
+área de 
+auditoria. 
+0 a 10 
+3 por 
+atestado 
+0 
+30 
+30 
+Total Máximo de Pontos 
+100 
+ 
+7.6 A área de Contábeis no item “b) Titulação Técnica Obrigatória” pontuará somente 
+uma vez para títulos de mestrado, não sendo considerado segundo título de mestrado 
+apresentado na no item “c) Titulação Complementar”. 
+7.7 Caso o candidato não apresente a qualificação mínima, que corresponde a Titulação 
+Técnica Obrigatória (Item 7.5), solicitada para cada bolsa, este será desclassificado. 
+7.8 Caso o candidato obtenha pontuação inferior a 53 para a área de atuação Contábeis 
+será considerado reprovado. 
+7.9 Caso o candidato obtenha pontuação inferior a 43 para a área de atuação Tecnologia 
+da Informação será considerado reprovado. 
+7.10 Caso o candidato obtenha pontuação igual ou superior a 43 e não se enquadre no 
+número de vagas da área de Tecnologia da informação, será considerado classificado. 
+7.11 Caso o candidato obtenha pontuação igual ou superior a 53 e que não se enquadre 
+no número de vagas da área de Contábeis, será considerado classificado. 
+7.12 Caso ocorra empate, o desempate será efetuado considerando a maior idade 
+cronológica do candidato.  
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001646/2020 e o código LCH6247R.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:38:25, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+51
+  
+10 
+ 
+ 
+ 
+ 
+8 RECURSOS ADMINISTRATIVOS  
+8.1 Caso o candidato tenha justificativa para contestar o resultado do julgamento das 
+candidaturas, poderá apresentar recurso no prazo estipulado no Item 2 - Cronograma, 
+após a divulgação das propostas aprovadas, cabendo ao CPAA, juntamente com a CGE, 
+manifestar-se sobre os recursos. 
+8.2 Os recursos deverão ser apresentados exclusivamente via Plataforma CTI da 
+FAPESC. Eventuais questionamentos podem ser enviados ao endereço eletrônico 
+bolsascgeauditorias@fapesc.sc.gov.br. 
+8.3 O CPAA analisará os recursos interpostos e encaminhará seu parecer à Diretoria 
+Executiva, que deliberará quanto ao deferimento ou indeferimento do resultado. 
+8.4 Após análise dos recursos administrativos, os resultados serão divulgados no site da 
+FAPESC, conforme previsto no Item 2 - Cronograma. A divulgação dos resultados poderá 
+sofrer retificação, com base nos recursos efetuados e decisões motivadas proferidas. 
+8.5 Não serão aceitos como base do pedido de recurso:  
+a) informações adicionais de qualquer natureza que modifiquem a proposta original;  
+b) envio de documentos complementares àqueles originalmente encaminhados;  
+c) questionamentos quanto aos critérios avaliativos dos consultores/avaliadores ad hoc.  
+8.6 As decisões finais dos recursos administrativos serão terminativas, não cabendo 
+pedido de reconsideração. 
+ 
+9 PUBLICAÇÃO DOS RESULTADOS  
+9.1 A FAPESC disponibilizará a relação dos candidatos aprovados e a distribuição das 
+cotas de bolsa no site da FAPESC http://www.fapesc.sc.gov.br e no Diário Oficial do 
+Estado de Santa Catarina, nos prazos previstos, conforme cronograma.  
+9.2 Após a publicação dos resultados, os candidatos aprovados que não possuírem 
+pendências, de qualquer natureza com a FAPESC, serão convocados conforme ordem de 
+classificação. 
+ 
+10 IMPLEMENTAÇÃO DAS BOLSAS 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001646/2020 e o código LCH6247R.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:38:25, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+52
+  
+11 
+ 
+10.1 Para a implementação das bolsas será necessário o envio à FAPESC do Termo de 
+Compromisso FAPESC (Anexo II) devidamente rubricado, assinado e digitalizado, 
+conforme prazos constantes no Item 2 – Cronograma.  
+10.2 A omissão no envio ou o preenchimento incorreto dos documentos impedirá o 
+pagamento das bolsas. 
+10.3 O pagamento mensal das bolsas será feito pela FAPESC, diretamente aos bolsistas. 
+10.4 O início da vigência da bolsa dar-se-á pelo cadastramento do bolsista pela FAPESC 
+no Sistema de Gestão de Recursos Humanos (SIGRH/SC) estando sujeito ao cronograma 
+de processamento do respectivo sistema. Este procedimento será executado após o 
+recebimento do Termo de Compromisso FAPESC assinado, conforme prazos 
+estabelecidos no Item 2 - Cronograma. 
+10.5 Os bolsistas selecionados deverão indicar conta de sua titularidade no Banco do 
+Brasil para o recebimento mensal e sucessivo da bolsa.  
+10.6 Não serão realizados pagamentos retroativos de bolsa, bem como pagamentos de 
+fração de mês. 
+10.7 O bolsista deverá dedicar-se às atividades objeto dessa Chamada em carga horária 
+de 30 horas/semanais. 
+10.8 O bolsista desenvolverá suas atividades na modalidade presencial na cidade de 
+Florianópolis. 
+10.9 A bolsa não configura vínculo empregatício entre participantes desse certame. 
+ 
+11 EXECUÇÃO E ACOMPANHAMENTO  
+11.1 Das atribuições do programa e suas entregas/produtos 
+11.1.1 O PROGRAMA DE PESQUISA E INOVAÇÃO EM AUDITORIA CONTÍNUA DA 
+FOLHA DE PAGAMENTO DO PODER EXECUTIVO DO ESTADO DE SANTA 
+CATARINA tem como principal atribuição estabelecer metodologia de auditoria contínua 
+que promova o aperfeiçoamento do monitoramento e acompanhamento automatizado das 
+inconsistências detectadas nos pagamentos realizados na folha de pagamento dos 
+servidores do Poder Executivo do Estado de Santa Catarina.  Para isso buscará cumprir 
+os objetivos do Programa por meio das seguintes atividades, entregas e produtos: 
+a) Intercambio de informações, metodologias, ferramentas e conhecimento técnico, com 
+a finalidade de viabilizar projetos e ações voltadas à prevenção e combate à corrupção, 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001646/2020 e o código LCH6247R.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:38:25, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+53
+  
+12 
+ 
+por meio da auditoria contínua e aprimoramento da transparência no âmbito da 
+Controladoria-Geral do Estado de Santa Catarina; 
+b) Implementação de auditoria contínua, com foco inicial na auditoria da folha de 
+pagamento do Estado e, posteriormente, nas demais atividades de auditoria no âmbito do 
+Poder Executivo; 
+c) Promoção da transparência das informações de auditoria, por meio da utilização e 
+disseminação de dashboards voltados aos gestores públicos – para fins de tomada de 
+decisão – e voltados à sociedade – para fins de exercício do controle social das ações do 
+governo;  
+d) Acompanhamento, análise e melhoria contínua dos processos de auditoria, por meio 
+da utilização   de   metodologias   de   gestão   de   processos   que   permitam   o   
+monitoramento   das atividades de auditoria em diversas trilhas e de forma automatizada; 
+e) Redução de custos operacionais; e 
+f) Redução do número de processos de ressarcimento ao erário. 
+11.1.2 Os bolsistas exercerão sua função, limitando-se exclusivamente, ao apoio 
+PROGRAMA DE PESQUISA E INOVAÇÃO EM AUDITORIA CONTÍNUA DA FOLHA DE 
+PAGAMENTO DO PODER EXECUTIVO DO ESTADO DE SANTA CATARINA, dentre as 
+atribuições legais definidas pelo artigo 8º da Lei Complementar nº 741/2019, não podendo 
+ter suas atividades desvirtuadas para outras áreas ou funções dentro dos órgãos ou 
+entidades estaduais a que forem designados, sob pena de anulação do termo de 
+compromisso de bolsista. 
+11.1.3 Os bolsistas exercerão suas funções e serão remunerados por um período de doze 
+(12) meses, prorrogável 01 (uma) vez por igual período, mediante avaliação de 
+desempenho efetuada pela FAPESC juntamente com a CGE. 
+11.1.4 Durante a fase de execução do projeto, toda e qualquer solicitação de alteração 
+deverá ser feita à FAPESC através do e-mail bolsascgeauditorias@fapesc.sc.gov.br.  
+11.1.5 Os bolsistas deverão apresentar relatórios técnicos parciais semestralmente e 
+relatório final. Os relatórios deverão ser preenchidos e enviados à FAPESC pelos bolsistas 
+com parecer e assinatura do supervisor que será designado pela CGE.  
+11.1.6 A CGE designará um supervisor para acompanhar as atividades desenvolvidas 
+pelo bolsista. 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001646/2020 e o código LCH6247R.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:38:25, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+54
+  
+13 
+ 
+11.1.7 A não apresentação de qualquer dos relatórios no modelo específico e/ou no prazo 
+determinado implicará na suspensão do pagamento da bolsa, ficando o bolsista em 
+situação de inadimplência com a FAPESC. 
+11.1.8 Persistindo essa situação de inadimplência, sem justificativa aceitável, a bolsa será 
+cancelada. 
+ 
+12 OBRIGAÇÕES DOS BOLSISTAS  
+12.1 O bolsista deve utilizar a carga horária prevista neste Edital para dedicar-se 
+integralmente às atividades orientadas pela CGE de acordo com o plano de trabalho a ser 
+estabelecido. 
+12.2 Em qualquer ação promocional ou publicação de trabalhos relacionados com objeto 
+da presente Chamada deverá ser feita, necessariamente, menção expressa à FAPESC. 
+12.3 Devolver à FAPESC, em valores atualizados, o(s) pagamento(s) recebido(s) 
+indevidamente, caso os requisitos e compromissos estabelecidos acima não sejam 
+cumpridos. 
+ 
+13 IMPUGNAÇÃO DA CHAMADA PÚBLICA  
+13.1 Decairá o direito de impugnar os termos desta Chamada Pública qualquer 
+interessado que não o fizer em até 5 (cinco) dias úteis subsequentes ao lançamento da 
+Chamada no Diário Oficial do Estado. Não terão efeito de recurso as impugnações feitas 
+por aquele que venha apontar, posteriormente ao prazo supracitado, eventuais falhas ou 
+inadequações desta Chamada Pública. 
+13.2 Não terão efeito de recurso as impugnações feitas por aquele que, em o tendo 
+aceitado sem objeção, venha apontar, posteriormente ao julgamento, eventuais falhas ou 
+inadequações. 
+13.3 A impugnação deverá ser dirigida à Diretoria de Ciência, Tecnologia e Inovação da 
+FAPESC, 
+por 
+correspondência 
+eletrônica, 
+para 
+o 
+e-mail 
+bolsascgeauditorias@fapesc.sc.gov.br, com o assunto: “Impugnação CP FAPESC 
+31/2020”. 
+ 
+14 DA SUSPENSÃO, REVOGAÇÃO OU ANULAÇÃO DA CHAMADA 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001646/2020 e o código LCH6247R.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:38:25, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+55
+  
+14 
+ 
+14.1 A qualquer tempo, a presente Chamada poderá ser suspensa, revogada ou anulada, 
+no todo ou em parte, inclusive quanto aos recursos a ela alocados, por decisão unilateral 
+da FAPESC, por motivo de interesse público ou exigência legal, sem que isso implique 
+direitos à indenização ou reclamação de qualquer natureza. 
+ 
+15 DA CLÁUSULA ANTICORRUPÇÃO (IN CGE/SEA nº 01/2020) 
+15.1 Os participantes do presente Edital, tanto pessoas físicas quanto pessoas jurídicas 
+de qualquer natureza, concordam que executarão as obrigações assumidas de forma ética 
+e de acordo com os princípios aplicáveis à administração pública direta e indireta e 
+atividades do terceiro setor. 
+15.2 Declaram que têm conhecimento das normas previstas na legislação 
+correspondente, entre as quais as que se encontram determinadas na Lei nº 8.429/1992 
+(Lei de Improbidade Administrativa) e Lei nº 12.846/2013, seus regulamentos e demais 
+legislações Federais e Estaduais correlatas. 
+15.3 Os proponentes comprometem-se em não adotar práticas ou procedimentos que se 
+enquadrem nas hipóteses previstas nas leis e regulamentos mencionados no inciso I, 
+artigo 1º da IN CGE/SEA nº 01/2020, bem como, exigir o mesmo zelo de terceiros por elas 
+contratados. 
+15.4 Comprometem-se em notificar à Controladoria-Geral do Estado qualquer 
+irregularidade que tiverem conhecimento acerca da inexecução da presente cláusula 
+anticorrupção. 
+15.5 Declaram ainda, ter plena ciência de que a violação de qualquer das obrigações 
+previstas na IN CGE/SEA nº 01/2020, além de outras pertinentes à espécie, é causa para 
+a sua imediata exclusão deste certame, sem prejuízo da cobrança das perdas e danos, 
+inclusive danos potenciais, causados à parte inocente e das multas pactuadas. 
+ 
+16 DISPOSIÇÕES GERAIS 
+16.1 A presente Chamada regula-se pelos preceitos de direito público, pela legislação de 
+Ciência, Tecnologia e Inovação, e, em especial, pela Resolução FAPESC 01/2015 
+(Política de Bolsas FAPESC), além das demais normas aplicáveis. 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001646/2020 e o código LCH6247R.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:38:25, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+56
+  
+15 
+ 
+16.2 É responsabilidade do candidato acompanhar a publicação de todos os atos e 
+comunicações referentes a este Edital, no site da FAPESC (http://www.fapesc.sc.gov.br/ 
+na aba Chamadas Públicas). 
+16.3 A veracidade das informações prestadas, bem como da documentação apresentada, 
+será de responsabilidade exclusiva do candidato, respondendo por elas, na forma da lei. 
+16.4 O bolsista deverá atender a todos os prazos e as demais exigências desta Chamada. 
+16.5 O bolsista deverá apresentar à FAPESC, nos prazos que lhe forem determinados, 
+informações ou documentos referentes tanto ao desenvolvimento quanto à conclusão do 
+Plano de Trabalho (Anexo III) aprovado. 
+16.6 A concessão do apoio financeiro poderá ser cancelada pela FAPESC por ocorrência, 
+durante sua implementação, de fato cuja gravidade justifique o cancelamento. Tal medida 
+não acarretará prejuízo de outras providências cabíveis. 
+16.7 As bolsas viabilizadas nessa Chamada Pública não geram vínculo empregatício. 
+16.8 A acumulação de bolsas provenientes de agências públicas de fomento é vedada. 
+16.9 Como contrapartida aos recursos recebidos, os bolsistas beneficiados por esta 
+Chamada Pública poderão ser solicitados, a qualquer momento, para atuar como 
+monitores ou para participar de grupo de trabalho em eventos científicos realizados pela 
+FAPESC, bem como, para ministrar palestra, no decorrer ou ao final do período da bolsa, 
+com o intuito de apresentar os trabalhos desenvolvidos durante a execução do programa. 
+16.10 A propriedade intelectual da criação resultante da parceria será estabelecida 
+conforme dispõem as Leis nº 9.279/96 e nº 10.973/04, e Lei Estadual nº 14.328, de 15 de 
+janeiro de 2008, e a política interna da FAPESC.  
+16.11 Esta Chamada terá validade por 2 (dois) anos, a partir da data da publicação de seu 
+resultado no Diário Oficial do Estado. 
+ 
+17 INFORMAÇÕES ADICIONAIS  
+17.1 O foro para dirimir qualquer questão relacionada com a presente Chamada Pública 
+é o da Comarca de Florianópolis, Estado de Santa Catarina. 
+17.2 Esclarecimentos e informações adicionais sobre esta Chamada podem ser obtidos 
+junto à FAPESC, através do e-mail bolsascgeauditorias@fapesc.sc.gov.br 
+ 
+Florianópolis (SC), 10 de dezembro de 2020. 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001646/2020 e o código LCH6247R.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:38:25, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+57
+  
+16 
+ 
+(assinado digitalmente) 
+Fábio Zabot Holthausen 
+Presidente da FAPESC 
+ 
+ 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001646/2020 e o código LCH6247R.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:38:25, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+58
+  
+17 
+ 
+ANEXO I 
+ 
+ 
+MODELO CARTA DE MOTIVAÇÃO DO CANDITATO 
+ 
+MEMORANDO PROFISSIONAL: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MOTIVAÇÕES PARA A CANDIDATURA À BOLSA: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONTRIBUIÇÕES PARA A INOVAÇÃO SOCIAL E GOVERNAMENTAL NO 
+PODER EXECUTIVO ESTADUAL: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observação: salvar o arquivo em .pdf e incluir na plataforma FAPESC no momento da submissão. 
+ 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001646/2020 e o código LCH6247R.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:38:25, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+59
+  
+18 
+ 
+ANEXO II 
+ 
+TERMO DE COMPROMISSO DE BOLSA FAPESC 
+ 
+A ser preenchido pela FAPESC 
+PROCESSO FAPESC Nº:  
+ 
+O Programa de BOLSAS FAPESC objetiva: 
+ 
+a) A formação de profissionais para a Pesquisa Científica, Tecnológica e Inovação em 
+universidades, institutos de pesquisa e desenvolvimento, centros tecnológicos, 
+centros de formação profissional e empresas de base tecnológica, em todas as 
+áreas do conhecimento, tanto no Brasil quanto no exterior, com o intuito de 
+incentivar e promover o desenvolvimento, em áreas estratégicas, do Estado de 
+Santa Catarina;  
+b) A fixação de pessoal de alto nível em Instituições de Ciência, Tecnologia e 
+Inovação, ICTI, empresas e governos, para a realização de projetos de PDI e a 
+gestão de projetos de PDI. 
+ 
+1 DEFINIÇÕES 
+ 
+a) Coordenador: Representante da CGE 
+b) Entidade: FAPESC 
+c) Supervisor do Bolsista: Profissional diretamente responsável pelo bolsista, que 
+acompanhará as atividades desempenhadas pelo mesmo, indicado pela CGE. 
+ 
+2 DO BOLSISTA 
+ 
+Nome:  
+Estado Civil:  
+Nacionalidade:  
+CPF:  
+RG: 
+Órgão Emissor: 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001646/2020 e o código LCH6247R.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:38:25, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+60
+  
+19 
+ 
+Data de Expedição: 
+UF: 
+Profissão:  
+Data de Nascimento:  
+Sexo:  
+Nome do Pai:  
+Nome da Mãe:  
+Endereço Residencial (logradouro, nº e complemento): 
+Bairro:  
+Cidade:  
+CEP:  
+Telefone: 
+Celular: 
+E-mail:  
+Tempo de Residência no Estado de SC: 
+Estado e Município de Nascimento: 
+Nº Título Eleitoral:  
+Zona:  
+Seção:  
+UF:  
+Data de emissão Título: 
+Município: 
+Banco do Brasil – Agência: 
+Conta:  
+ 
+3 DO COORDENADOR  
+ 
+Nome:  
+CPF:   
+RG:  
+Órgão Exp.:  
+Data Exp.:  
+Nacionalidade:  
+Estado civil:  
+Profissão:  
+Telefone:  
+Celular:  
+Endereço Comercial (logradouro, nº e complemento): 
+Bairro:  
+CEP:  
+Cidade:  
+Endereço Residencial (logradouro, nº e complemento): 
+Bairro:  
+CEP:  
+Cidade:  
+Email:  
+Nome da Entidade de vínculo:  
+Nome do Supervisor do Bolsista: 
+ 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001646/2020 e o código LCH6247R.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:38:25, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+61
+  
+20 
+ 
+4  DO OBJETO  
+ 
+4.1 O presente TERMO DE COMPROMISSO DE BOLSA FAPESC visa à transferência 
+de recursos financeiros, em modalidade de bolsa, para a execução do projeto "Auditoria  
+Contínua  da  folha  de  Pagamento  do  Poder  Executivo  do  Estado  de  Santa Catarina”, 
+aprovado no Edital de Chamada Pública FAPESC Nº 31/2020 PROGRAMA DE 
+PESQUISA E INOVAÇÃO EM AUDITORIA CONTÍNUA DA FOLHA DE PAGAMENTO 
+DO PODER EXECUTIVO DO ESTADO DE SANTA CATARINA  em conformidade com o 
+Plano de Trabalho, parte integrante do presente instrumento, nos termos da resolução 
+01/2015 - Política de Bolsas FAPESC. 
+ 
+5 IDENTIFICAÇÃO DO PROCESSO 
+ 
+Modalidade da Bolsa: DTI – A 
+Valor da Bolsa: R$ 4.000,00 
+Duração da Bolsa (meses): até 24 
+Data Início da Bolsa: 01/03/2021 
+Data Fim da Bolsa: 28/02/2023 
+ 
+6 DAS ATRIBUIÇÕES E RESPONSABILIDADES DO BOLSISTA 
+ 
+a) Dedicar-se integralmente às atividades de pesquisa, desenvolvimento e inovação 
+na FAPESC em ritmo compatível com as atividades exigidas pelo Programa; 
+b) Manter bom desempenho a ser atestado pelo coordenador do projeto e/ou 
+supervisor do bolsista durante todo o período de bolsa. 
+c) Indicar conta de sua titularidade, no Banco do Brasil, para o recebimento mensal e 
+sucessivo da bolsa. 
+d) A acumulação de bolsas provenientes de agências públicas de fomento é vedada. 
+e) O bolsista enviará à FAPESC, semestralmente e em prazos a serem estipulados, 
+relatórios parciais do andamento do estudo/projeto, com parecer do coordenador 
+do projeto e/ou supervisor do bolsista. 
+f) Ao final da vigência deste Termo de Compromisso, deverá ser apresentado um 
+relatório conjunto pelo bolsista, pelo coordenador do projeto e/ou supervisor do 
+bolsista, com resultado sucinto, em meio eletrônico, para ser divulgado no site da 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001646/2020 e o código LCH6247R.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:38:25, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+62
+  
+21 
+ 
+FAPESC. 
+g) Submeter à apreciação da FAPESC qualquer proposta de mudança no projeto, 
+durante a vigência da bolsa.  
+h) Em qualquer ação promocional ou publicação de trabalhos relacionados com o 
+objeto do presente Termo, deverá ser feita, necessariamente, menção expressa à 
+FAPESC. 
+i) Devolver à FAPESC, em valores atualizados, mensalidade(s) recebida(s) 
+indevidamente, caso os requisitos e compromissos estabelecidos acima não sejam 
+cumpridos. 
+ 
+7 DAS ATRIBUIÇÕES E RESPONSABILIDADES DO COORDENADOR/SUPERVISOR  
+ 
+a) Apresentar relatório parcial das atividades desenvolvidas semestralmente e 
+quando solicitado. Ao encerramento do presente Termo apresentar relatório final, 
+conforme Item 7-e deste Edital. 
+b) Submeter a prestação de contas técnica, apresentando o relatório semestral de 
+aproveitamento e quando solicitado. 
+c) Submeter à apreciação da FAPESC qualquer proposta de alteração no projeto.  
+d) Fazer, obrigatoriamente, menção expressa à FAPESC em qualquer ação 
+promocional ou publicação de trabalhos relacionados com o objeto do presente 
+Termo. 
+e) Assinar junto com o bolsista, quando for o caso, o relatório semestral de atividades 
+para ser enviado à FAPESC, onde constarão as atividades desenvolvidas e o 
+aproveitamento alcançado. 
+f) Enviar mensalmente à FAPESC, até o dia 30 de cada mês, os nomes dos bolsistas 
+excluídos ou que tenham falta que impliquem suspensão do pagamento das bolsas. 
+ 
+8 DAS ATRIBUIÇÕES E RESPONSABILIDADES DA ENTIDADE 
+ 
+a) A Entidade, por meio de seu representante legal, colaborará na execução das 
+atividades, mediante a disponibilização de infraestrutura logística e administrativa 
+necessária à realização do objeto deste instrumento, sendo responsável solidária 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001646/2020 e o código LCH6247R.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:38:25, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+63
+  
+22 
+ 
+pelo cumprimento de todas as obrigações assumidas pelo bolsista, conforme Plano 
+de Trabalho. 
+ 
+9 CONDIÇÕES GERAIS 
+a) As condições gerais estabelecidas neste instrumento terão validade durante todo o 
+período de fruição da bolsa. 
+b) Em caso de insuficiência de desempenho do bolsista ou de interrupção, por 
+qualquer motivo, dos seus trabalhos durante a vigência da bolsa, caberá ao 
+Coordenador a responsabilidade de informar à FAPESC, e solicitar a suspensão 
+imediata da bolsa. A bolsa poderá ser cancelada, pela FAPESC, por ocorrência, de 
+fato cuja gravidade justifique o cancelamento. Tal medida acarretará ao bolsista 
+restituir, à FAPESC, o valor recebido, corrigido com base nos mesmos critérios 
+adotados para a atualização das obrigações tributárias. 
+c) A concessão objeto do presente instrumento não gera vínculo de qualquer natureza 
+ou relação de trabalho entre as partes, constituindo doação feita ao bolsista. 
+d) O bolsista excluído, independentemente das razões, não poderá retornar ao 
+Programa na mesma vigência. 
+e) A FAPESC não se responsabiliza por qualquer dano físico ou mental causado ao 
+bolsista na execução do seu projeto de pesquisa.  
+f) O bolsista, o coordenador do projeto e supervisor do bolsista manifestam sua 
+integral e incondicional concordância com a concessão que ora é feita, 
+comprometendo-se a cumprir fielmente as condições expressas neste instrumento. 
+g) O início da vigência da bolsa dar-se-á pelo cadastramento do bolsista no Sistema 
+de Gestão de Recursos Humanos (SIGRH/SC), pela FAPESC. Esse procedimento 
+será executado após o recebimento do Termo de Compromisso assinado, estando 
+sujeito ao cronograma de processamento desse sistema. 
+ 
+ 
+Florianópolis, ______ de _______________ de 2021. 
+ 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001646/2020 e o código LCH6247R.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:38:25, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+64
+  
+23 
+ 
+ 
+ 
+_______________________________ 
+Bolsista 
+ 
+______________________________ 
+Coordenador 
+ 
+ 
+ 
+_______________________________ 
+Entidade 
+ 
+ 
+ 
+_______________________________ 
+Supervisor 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001646/2020 e o código LCH6247R.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:38:25, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+65
+  
+24 
+ 
+ANEXO III 
+ 
+ 
+Bolsista 
+ 
+Coordenador  
+ 
+ 
+Supervisor 
+ 
+FAPESC  
+ 
+ 
+ 
+PLANO DE TRABALHO DO BOLSISTA 
+EDITAL DE CHAMADA PÚBLICA FAPESC Nº 31/2020 
+PROGRAMA DE PESQUISA E INOVAÇÃO EM AUDITORIA CONTÍNUA DA 
+FOLHA DE PAGAMENTO DO PODER EXECUTIVO DO ESTADO DE SANTA 
+CATARINA  
+ 
+1 DO PROJETO  
+ 
+ 
+1.1 Nome do Bolsista 
+ 
+ 
+1.2 Título do Projeto 
+ 
+ 
+1.3 Identificação do objeto 
+ 
+ 
+1.4 Objetivo da pesquisa 
+ 
+ 
+1.5 Etapas e metas, com cronograma compatível com a duração da bolsa e 
+projeto de PDI 
+ 
+ 
+ 
+1.6 Entregáveis (produto/processo ou equivalente) 
+ 
+ 
+1.7 Resumo do Plano de Trabalho 
+ 
+ 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001646/2020 e o código LCH6247R.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN e AMAURI BOGO em 09/12/2020 às 17:38:25, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+66
+  
+ 
+EDITAL DE CHAMADA PÚBLICA Nº 31/2020 
+ 
+PROGRAMA DE PESQUISA E INOVAÇÃO EM AUDITORIA CONTÍNUA DA 
+FOLHA DE PAGAMENTO DO PODER EXECUTIVO DO ESTADO DE SANTA 
+CATARINA 
+ 
+PROGRAMA INTERINSTITUCIONAL DE FOMENTO A PROJETOS DE 
+PESQUISA, DESENVOLVIMENTO E INOVAÇÃO QUE ATENDAM ÀS 
+DEMANDAS DA SOCIEDADE CATARINENSE POR INTERMÉDIO DE 
+ÓRGÃOS SETORIAIS DO GOVERNO DO ESTADO DE SANTA CATARINA 
+(PROGRAMA #FAPESC@GOV+PESQUISA&INOVAÇÃO) 
+ 
+RESULTADO PRELIMINAR DE ADMISSIBILIDADE 
+Candidato (a) 
+Resultado 
+Marcelo Machado de Freitas 
+Admissível 
+Marília Paranaíba Ferreira 
+Admissível 
+Igor Pereira da Luz 
+Admissível 
+Joice Denise Schafer 
+Admissível 
+ 
+Florianópolis/SC, 18 de janeiro de 2021. 
+ 
+(assinado digitalmente) 
+Amauri Bogo 
+Presidente da FAPESC em exercício 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001646/2020 e o código AU4S26T0.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por AMAURI BOGO em 18/01/2021 às 17:34:01, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+67
+  
+ 
+EDITAL DE CHAMADA PÚBLICA Nº 31/2020 
+ 
+PROGRAMA DE PESQUISA E INOVAÇÃO EM AUDITORIA CONTÍNUA DA 
+FOLHA DE PAGAMENTO DO PODER EXECUTIVO DO ESTADO DE SANTA 
+CATARINA 
+ 
+PROGRAMA INTERINSTITUCIONAL DE FOMENTO A PROJETOS DE 
+PESQUISA, DESENVOLVIMENTO E INOVAÇÃO QUE ATENDAM ÀS 
+DEMANDAS DA SOCIEDADE CATARINENSE POR INTERMÉDIO DE 
+ÓRGÃOS SETORIAIS DO GOVERNO DO ESTADO DE SANTA CATARINA 
+(PROGRAMA #FAPESC@GOV+PESQUISA&INOVAÇÃO) 
+ 
+RESULTADO FINAL DE ADMISSIBILIDADE 
+Candidato (a) 
+Resultado 
+Marcelo Machado de Freitas 
+Admissível 
+Marília Paranaíba Ferreira 
+Admissível 
+Igor Pereira da Luz 
+Admissível 
+Joice Denise Schafer 
+Admissível 
+ 
+Florianópolis/SC, 28 de janeiro de 2021. 
+ 
+(assinado digitalmente) 
+Amauri Bogo 
+Presidente da FAPESC em exercício 
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001646/2020 e o código 4405NDWC.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por AMAURI BOGO em 28/01/2021 às 18:12:48, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+69
+ EDITAL DE CHAMADA PÚBLICA Nº 31/2020
+PROGRAMA DE PESQUISA E INOVAÇÃO EM AUDITORIA CONTÍNUA DA 
+FOLHA DE PAGAMENTO DO PODER EXECUTIVO DO ESTADO DE SANTA 
+CATARINA
+PROGRAMA INTERINSTITUCIONAL DE FOMENTO A PROJETOS DE 
+PESQUISA, DESENVOLVIMENTO E INOVAÇÃO QUE ATENDAM ÀS 
+DEMANDAS DA SOCIEDADE CATARINENSE POR INTERMÉDIO DE 
+ÓRGÃOS SETORIAIS DO GOVERNO DO ESTADO DE SANTA CATARINA 
+(PROGRAMA #FAPESC@GOV+PESQUISA&INOVAÇÃO)
+RESULTADO DA ANÁLISE E JULGAMENTO DE MÉRITO QUANTO À 
+QUALIFICAÇÃO TÉCNICA
+Área de Atuação
+Candidato (a)
+Resultado
+Contábeis
+Marcelo Machado de 
+Freitas
+Aprovado
+Florianópolis/SC, 01 de fevereiro de 2021.
+(assinado digitalmente)
+Fábio Zabot Holthausen
+Presidente da FAPESC
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001646/2020 e o código K9GS040T.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN em 01/02/2021 às 19:12:00, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+72
+ EDITAL DE CHAMADA PÚBLICA Nº 31/2020
+PROGRAMA DE PESQUISA E INOVAÇÃO EM AUDITORIA CONTÍNUA DA 
+FOLHA DE PAGAMENTO DO PODER EXECUTIVO DO ESTADO DE SANTA 
+CATARINA
+PROGRAMA INTERINSTITUCIONAL DE FOMENTO A PROJETOS DE 
+PESQUISA, DESENVOLVIMENTO E INOVAÇÃO QUE ATENDAM ÀS 
+DEMANDAS DA SOCIEDADE CATARINENSE POR INTERMÉDIO DE 
+ÓRGÃOS SETORIAIS DO GOVERNO DO ESTADO DE SANTA CATARINA 
+(PROGRAMA #FAPESC@GOV+PESQUISA&INOVAÇÃO)
+RESULTADO FINAL DA ETAPA DE ANÁLISE E JULGAMENTO DE 
+MÉRITO QUANTO À QUALIFICAÇÃO TÉCNICA
+Área de Atuação
+Candidato (a)
+Resultado
+Contábeis
+Marcelo Machado de 
+Freitas
+Aprovado
+Florianópolis/SC, 15 de fevereiro de 2021.
+(assinado digitalmente)
+Fábio Zabot Holthausen
+Presidente da FAPESC
+Para verificar a autenticidade desta cópia impressa, acesse o site https://portal.sgpe.sea.sc.gov.br/portal-externo e informe o processo FAPESC 00001646/2020 e o código Z77AS69S.
+O original deste documento é eletrônico e foi assinado utilizando Assinatura Digital SGP-e por FÁBIO ZABOT HOLTHAUSEN em 15/02/2021 às 17:40:42, conforme Decreto Estadual nº 39, de 21 de fevereiro de 2019.
+76
